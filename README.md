@@ -32,15 +32,16 @@ Ressources sur la Big History
 
 ## Articles scientifiques
 
-- [The Natural Science Underlying Big History]( https://arxiv.org/abs/1406.2730) - Eric J. Chaisson (2014)
-- [How Big History Works: Energy Flows and the Rise and Demise of Complexity](https://www.sociostudies.org/almanac/articles/how_big_history_works_energy_flows_and_the_rise_and_demise_of_complexity/) - Fred Spier (2011)
-- [The Story of Big History](http://www.jstor.org/stable/10.5406/historypresent.4.2.0171) - Ian Hesketh (2014)
-- [Big history : à l'échelle de l'univers](https://www.cairn.info/magazine-sciences-humaines-2009-1-p-4.htm) - René Eric Dagorn (2009) 
-- [Major transitions in ‘big’ history](https://www.sciencedirect.com/science/article/pii/S0040162507000273) - Robert Aunger (2007)
-- [Complexity in Big History](https://escholarship.org/uc/item/3tk971d2) - Fred Spier (2011)
 - [Big History, the Whole Story, and Nothing Less?](https://www.utpjournals.press/doi/pdf/10.3138/cjh.41.2.317) - Wolf Schäfer (2006)
-- [Big History and Anticipation](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-31737-3_95-1) - Joseph Voros (2017)
+- [Major transitions in ‘big’ history](https://www.sciencedirect.com/science/article/pii/S0040162507000273) - Robert Aunger (2007)
+- [Big history : à l'échelle de l'univers](https://www.cairn.info/magazine-sciences-humaines-2009-1-p-4.htm) - René Eric Dagorn (2009)
+- [Complexity in Big History](https://escholarship.org/uc/item/3tk971d2) - Fred Spier (2011)
+- [How Big History Works: Energy Flows and the Rise and Demise of Complexity](https://www.sociostudies.org/almanac/articles/how_big_history_works_energy_flows_and_the_rise_and_demise_of_complexity/) - Fred Spier (2011)
 - Global History Review, 6, the Special Issue, "Big History and Global History", Beijing: Global History Center, Capital Normal University, December, 2013
+- [The Natural Science Underlying Big History]( https://arxiv.org/abs/1406.2730) - Eric J. Chaisson (2014)
+- [The Story of Big History](http://www.jstor.org/stable/10.5406/historypresent.4.2.0171) - Ian Hesketh (2014)
+- [Big History and Anticipation](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-31737-3_95-1) - Joseph Voros (2017)
+
 
 ## Cours
 
