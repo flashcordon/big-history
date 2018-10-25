@@ -215,6 +215,7 @@ Ressources sur la Big History
 - [What is the lifespan of Voyager 1, with the expected time for collisions with interstellar dust and sublimations to remove one half the mass?](https://www.quora.com/What-is-the-lifespan-of-Voyager-1-with-the-expected-time-for-collisions-with-interstellar-dust-and-sublimations-to-remove-one-half-the-mass) - Quora
 - [What is the most probable fate of Voyagers 1 & 2?](https://www.quora.com/What-is-the-most-probable-fate-of-Voyagers-1-2) - Quora
 - [The Fate of the Voyagers](https://www.space.com/39161-fate-of-the-voyager-spacecraft.html) - Paul Sutter, Space.com (Décembre 2017)
+- [The future of the universe](http://www.preposterousuniverse.com/blog/2006/01/26/the-future-of-the-universe/) - Sean Carroll, Preposterous Universe (Janvier 2006)
 
 ## Vidéos
 
