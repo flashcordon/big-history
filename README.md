@@ -5,6 +5,7 @@ Ressources sur la Big History
 
 - [Ressources globales sur la Big History](#Ressources-globales-sur-la-Big-History)
 - [Cosmologie](#Cosmologie)
+- [Paléontoanthropologie](#Paléoanthropologie)
 - [Ressources sur les futurs possibles de l'Humanité](#Ressources-sur-les-futurs-possibles-de-lHumanité)
 - [Ressources sur les futurs lointains](#Ressources-sur-les-futurs-lointains)
 
@@ -97,6 +98,29 @@ Ressources sur la Big History
 ## Sites Web
 
 - [Chronologie : Histoire de la Cosmologie Moderne](https://cosmology.education/?fbclid=IwAR3FG0WmM07a5gn89gZvwk-_frHzroNLWmHMLFLNJziFEWUwc46x2ey2KRc#!), de la relativité d'Einstein aux résultats de la mission Planck - Lucas Gautheron
+
+--- 
+
+# Paléoanthropologie
+
+## Livres
+
+- [Bibliographie sur Hominidés.com](https://www.hominides.com/html/references/bibliographie.php)
+
+## Sites Web
+
+- [Hominidés.com](https://www.hominides.com/index.php)
+
+## Podcasts
+
+- [La révolution paléo-génomique](https://www.franceculture.fr/emissions/carbone-14-le-magazine-de-larcheologie/la-revolution-paleo-genomique) - La Méthode sicentifique (Mai 2017)
+- [Néandertal : un cousin très sous-estimé ?](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-lundi-09-avril-2018) - La Méthode sicentifique (Mars 2018)
+- [Denisova, à un doigt de Neandertal](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-lundi-22-octobre-2018) - La Méthode sicentifique (Octobre 2018)
+- [Faut-il réécrire les débuts de l’histoire de l’Homme ?](https://www.franceculture.fr/emissions/la-methode-scientifique/faut-il-reecrire-les-debuts-de-lhistoire-de-lhomme) - La Méthode sicentifique (Octobre 2018)
+
+## Articles scientifiques
+
+- [Human Dispersal Out of Africa: A Lasting Debate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4844272/) - Lopez et al. (2015)
 
 --- 
 
