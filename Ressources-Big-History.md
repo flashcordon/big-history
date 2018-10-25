@@ -227,6 +227,12 @@ Ressources sur la Big History
 - [Civilizations at the End of Time: Dying Earth](https://youtu.be/p58yFf7aZsM) - Isaac Arthur (Mars 2018)
 - [The Black Hole Bomb and Black Hole civilizations](https://youtu.be/ulCdoCfw-bY) - Kurzgesagt (Avril 2018)
 
+- [Three Ways to Destroy the Universe](https://youtu.be/4_aOIA-vyBo) - Kurzgesagt (Février 2014)
+- [How Will the Universe End? | Space Time](https://youtu.be/Qg4vb-KH5F4) - PBS Space Time (Août 2018)
+- [The last star in the Universe - Red dwarves explained](https://youtu.be/LS-VPyLaJFM) - Kurzgesagt (Janvier 2016)
+- [The Last Light Before Eternal Darkness – White Dwarfs & Black Dwarfs](https://youtu.be/qsN1LglrX9s) - Kurzgesagt (Mai 2017)
+- [Deep Time](https://youtu.be/jDF-N3A60DE) - Phil Plait, Crash Course Astronomy  (Janvier 2016)
+
 ## Podcasts
 
 - [The Heat Death of the Universe with Ken Liu](http://titaniumphysicists.brachiolopemedia.com/2018/09/09/episode-78-the-heat-death-of-the-universe-with-ken-liu/) - The Titanium Physicists Podcast (Septembre 2018) 
