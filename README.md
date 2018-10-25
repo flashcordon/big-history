@@ -13,8 +13,8 @@ Ressources sur la Big History
 
 ## Livres de référence
 
-- [Maps of Time, David Christian](https://www.ucpress.edu/book/9780520271449/maps-of-time)
-- [Big History and the Future of Humanity, Fred Spier](https://www.wiley.com/en-us/Big+History+and+the+Future+of+Humanity-p-9781444334210)
+- [Maps of Time](https://www.ucpress.edu/book/9780520271449/maps-of-time) - David Christian (2004)
+- [Big History and the Future of Humanity](https://www.wiley.com/en-us/Big+History+and+the+Future+of+Humanity-p-9781444334210) - Fred Spier (2010)
 - [Conseils de lecture sur la Big History Platform](http://bighistoryplatform.weebly.com/literature.html)
 - [Manuel d'histoire globale](https://www.armand-colin.com/manuel-dhistoire-globale-9782200278595) - Chloé Maurel (2014) : Où la Big History est mise en contexte avec les autres écoles de la pratique historique
 
@@ -139,7 +139,19 @@ Ressources sur la Big History
 
 # Ressources sur les futurs lointains
 
+## Livres
+
+- [The Last Three Minutes](https://www.amazon.com/Last-Three-Minutes-Conjectures-Ultimate/dp/0465038514) - Paul Davies (1997)
+- [Future Evolution](http://www.sivatherium.narod.ru/library/Ward/00_en.htm) - Peter Ward (2001)
+- [The Five Ages of the Universe: Inside the Physics of Eternity](https://www.amazon.fr/Five-Ages-Universe-Physics-Eternity/dp/0743237722) - Fred Adams (1999)
+- [Voyages dans le futur. L'aventure cosmique de l'humanité](http://www.seuil.com/ouvrage/voyages-dans-le-futur-l-aventure-cosmique-de-l-humanite-nicolas-prantzos/9782020258821) - Nicolas Prantzos (1998)
+- [Maps of Time](https://www.ucpress.edu/book/9780520271449/maps-of-time) - David Christian (2004)
+- [Big History and the Future of Humanity](https://www.wiley.com/en-us/Big+History+and+the+Future+of+Humanity-p-9781444334210) - Fred Spier (2010)
+- [Global Catastrophic Risks](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=fr&lang=en&) - Nick Bolstrom et al. (2011)
+
 ## Articles scientifiques
+
+- [Future Evolution of Structure in an Accelerating Universe](https://arxiv.org/abs/astro-ph/0305211) - Busha et al. (2003)
 
 ## Articles sur le web
 
