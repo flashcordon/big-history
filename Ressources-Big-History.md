@@ -6,6 +6,7 @@ Ressources sur la Big History
 - [Ressources globales sur la Big History](#Ressources-globales-sur-la-Big-History)
 - [Cosmologie](#Cosmologie)
 - [Astrophysique stellaire](#Astrophysique-stellaire)
+- [(Exo)biologie](#(Exo)biologie)
 - [Paléontoanthropologie](#Paléoanthropologie)
 - [Philosophie](#Philosophie)
 - [Ressources sur les futurs possibles de l'Humanité](#Ressources-sur-les-futurs-possibles-de-lHumanité)
@@ -140,6 +141,19 @@ Ressources sur la Big History
 ## Cours
 
 - [Stellar Evolution : The Life and Death of Our Luminous Neighbors](http://umich.edu/~gs265/star.htm?fbclid=IwAR3yYTNKXQIHZISRXHnZgu99oCe0b6jqx0RBZLN7NJrRs0Q3ry-gnIWVCyQ) - Arthur Holland et Mark Williams (Université du Michigan)
+
+---
+
+# (Exo)biologie
+
+## Sites Web
+
+- http://www.biosbcc.net/green/onlinetext/biodiv/biodivextinction.htm?fbclid=IwAR0xeHkePe8_7lud65ks7AlAJB7rj-P9YJ5GXQbVQfav86cDSL0bkNYvhW8
+
+## infographies
+
+- http://www.biosbcc.net/green/onlinetext/biodiv/biodivextinction.htm?fbclid=IwAR0xeHkePe8_7lud65ks7AlAJB7rj-P9YJ5GXQbVQfav86cDSL0bkNYvhW8
+
 --- 
 
 # Paléoanthropologie
