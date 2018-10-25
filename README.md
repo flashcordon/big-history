@@ -18,7 +18,7 @@ Ressources sur la Big History
 
 ## Sites Web
 
-- [Cosmic Evolution, From Big Bang to Mankind](https://www.cfa.harvard.edu/~ejchaisson/cosmic_evolution/docs/splash.html) Eric Chaisson (2013)
+- [Cosmic Evolution, From Big Bang to Mankind](https://www.cfa.harvard.edu/~ejchaisson/cosmic_evolution/docs/splash.html) - Eric Chaisson (2013)
 - [International Big History Association](https://bighistory.org/)
 - [Evo Devo Universe](http://evodevouniverse.com/) - Groupe de recherche interdisciplinaire dédié à la compréhension de l'évolution de la complexité dans l'univers
 - [Big History Institute](https://www.mq.edu.au/bighistory) - Institut lié à la Macquarie University
@@ -85,6 +85,8 @@ Ressources sur la Big History
 ## Conférences
 
 - [Peut-on encore limiter le réchauffement de la planète à 1,5 degrés ?](https://vimeo.com/295986064) - Conférence de Valérie Masson-Delmotte à l'Agence Française pour le Développement (Octobre 2018)
+
+--- 
 
 # Ressources sur les futurs lointains
 
