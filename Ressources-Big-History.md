@@ -188,6 +188,9 @@ Ressources sur la Big History
 - [Future Evolution of the Intergalactic Medium in a Universe Dominated by a Cosmological Constant](https://arxiv.org/abs/astro-ph/0310505) - Kentaro Nagamine et Abraham Loeb (2003)
 - [Future Evolution of Structure in an Accelerating Universe](https://arxiv.org/abs/astro-ph/0305211) - Busha et al. (2003)
 - [The Return of a Static Universe and the End of Cosmology](https://arxiv.org/abs/0704.0221) - Lawrence M. Krauss et Robert J. Scherrer (2007)
+- [The beginning and the end, the meaning of life in a cosmological context](https://arxiv.org/ftp/arxiv/papers/1301/1301.1648.pdf) - thèse de Clément Vidal
+- [Cosmological Immortality: How to Eliminate Aging on a Universal Scale](http://homepages.vub.ac.be/~clvidal/writings/Vidal-Cosmological-Immortality.pdf) - Clément Vidal
+- [Life Versus Dark Energy: How An Advanced Civilization Could Resist the Accelerating Expansion of the Universe](https://arxiv.org/abs/1806.05203) - Dan Hooper (2018)
 
 ## Sites Web
 
@@ -201,6 +204,11 @@ Ressources sur la Big History
 ## Vidéos
 
 - [The Deep Future](https://youtu.be/kq1HUTLtNW4) - Crash Course Big History
+- [Civilizations at the End of Time:  Black Hole Farming](https://youtu.be/Qam5BkXIEhQ) - Isaac Arthur (Juillet 2016)
+- [Civilizations at the End of Time: Iron Stars](https://youtu.be/Pld8wTa16Jk) - Isaac Arthur (Juillet 2017)
+- [The compendium of doom](https://youtu.be/rpA-Bd0d6kw?list=PLIIOUpOge0LvLIXNMDKHf30gfyfnyX-4O) - Isaac Arthur (Janvier 2018)
+- [Civilizations at the End of Time: Dying Earth](https://youtu.be/p58yFf7aZsM) - Isaac Arthur (Mars 2018)
+- [The Black Hole Bomb and Black Hole civilizations](https://youtu.be/ulCdoCfw-bY) - Kurzgesagt (Avril 2018)
 
 ## Podcasts
 
