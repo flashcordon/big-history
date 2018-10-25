@@ -19,6 +19,7 @@ Ressources sur la Big History
 - [Big History Project](https://school.bighistoryproject.com/bhplive) - Mine d'or de ressource pédagogiques pour enseignants
 - [Big History: The Big Bang, Life on Earth, and the Rise of Humanity](https://www.audible.fr/pd/Big-History-The-Big-Bang-Life-on-Earth-and-the-Rise-of-Humanity-Livre-Audio/B00DB4N9AA) -  David Christian, The Great Courses (audiobook + notes de cours en PDF)
 - [The Big History of Civilizations](https://www.audible.fr/pd/The-Big-History-of-Civilizations-Livre-Audio/B01N56PARI) -  Craig G. Benjamin, The Great Courses (audiobook + notes de cours en PDF)
+- [Oberlin Big History Project](http://obhp.org/en/) - Projet de cours sur la Big History lancé par l'Université d'Oberlin au Japon
 
 ## Articles de blogs sur la Big History
 
@@ -30,6 +31,7 @@ Ressources sur la Big History
 ## Infographies sur la Big History
 
 - [The Big Picture in seven scales](https://www.denizcemonduygu.com/portfolio/the-big-picture-in-seven-scales/) - Deniz Cem Önduygu (2017)
+- [Diagram of our universe](https://www.nao.ac.jp/study/uchuzu2013/scroll/en.html) - Japan Foundation of Public Communication on Science and Technology (2012)
 
 ## Bandes dessinées sur la Big History
 
