@@ -19,6 +19,15 @@ Ressources sur la Big History
 - [The problems with Big History and turning science into myth](http://theconversation.com/the-problems-with-big-history-and-turning-science-into-myth-48225) - Lisa Sideris, The Conversation (Octobre 2015)
 - [How ‘Big History’ can save the world](http://theconversation.com/how-big-history-can-save-the-world-100815) - Ian Crawford, The Conversation (Août 2018)
 
+## Infographies sur la Big History
+
+- [The Big Picture in seven scales](https://www.denizcemonduygu.com/portfolio/the-big-picture-in-seven-scales/) - Deniz Cem Önduygu (2017)
+
+## Bandes dessinées sur la Big History
+
+- [Alpha... Directions, Jens Harder](https://www.actes-sud.fr/catalogue/beaux-livres/alpha)
+- [BETA... Civilisations - volume I, Jens Harder](https://www.actes-sud.fr/catalogue/lan-2/beta-civilisations)
+
 ## Ressources scientifiques sur les futurs de l'Humanité
 
 ### Livres
