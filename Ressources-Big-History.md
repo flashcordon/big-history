@@ -173,11 +173,13 @@ Ressources sur la Big History
 ## Livres
 
 - [The life span of the biosphere revisited](https://www.nature.com/articles/360721a0) - Calderia et Kasting (1992)
+- [Our Sun. III. Present and Future](http://adsabs.harvard.edu/abs/1993ApJ...418..457S) - Sackmann et al. (1993)
 - [The Last Three Minutes](https://www.amazon.com/Last-Three-Minutes-Conjectures-Ultimate/dp/0465038514) - Paul Davies (1997)
 - [The Five Ages of the Universe: Inside the Physics of Eternity](https://www.amazon.fr/Five-Ages-Universe-Physics-Eternity/dp/0743237722) - Fred Adams (1999)
 - [Voyages dans le futur. L'aventure cosmique de l'humanité](http://www.seuil.com/ouvrage/voyages-dans-le-futur-l-aventure-cosmique-de-l-humanite-nicolas-prantzos/9782020258821) - Nicolas Prantzos (1998)
-- [Future Evolution](http://www.sivatherium.narod.ru/library/Ward/00_en.htm) - Peter Ward (2001)
+- [Future Evolution](http://www.sivatherium.narod.ru/library/Ward/00_en.htm) - Peter Ward (2001): Excellent dernier chapitre !
 - [Maps of Time](https://www.ucpress.edu/book/9780520271449/maps-of-time) - David Christian (2004)
+- [The Life and Death of Planet Earth: How the New Science of Astrobiology Charts the Ultimate Fate of Our World](https://www.amazon.com/Life-Death-Planet-Earth-Astrobiology/dp/0805075127) - Peter Ward (2004)
 - [Big History and the Future of Humanity](https://www.wiley.com/en-us/Big+History+and+the+Future+of+Humanity-p-9781444334210) - Fred Spier (2010)
 - [Global Catastrophic Risks](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=fr&lang=en&) - Nick Bolstrom et al. (2011)
 - [Cosmic update: dark puzzles, arrow fo time, future history](https://www.springer.com/gp/book/9781441982933) - Fred Adams (2012)
@@ -201,7 +203,9 @@ Ressources sur la Big History
 
 ## Sites Web
 
+- [Future of Earth](https://en.wikipedia.org/wiki/Future_of_Earth) - Wikipedia
 - [Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future) - Wikipedia
+- [Global Catastrophic risk](https://en.wikipedia.org/wiki/Global_catastrophic_risk) - Wikipedia
 
 ## Articles de blog
 
