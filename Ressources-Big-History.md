@@ -41,10 +41,15 @@ Ressources sur la Big History
 - [La World/Global History, Questions et débats](https://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire-2009-4-page-153.htm) - Chloé Maurel (2009)
 - [Complexity in Big History](https://escholarship.org/uc/item/3tk971d2) - Fred Spier (2011)
 - [How Big History Works: Energy Flows and the Rise and Demise of Complexity](https://www.sociostudies.org/almanac/articles/how_big_history_works_energy_flows_and_the_rise_and_demise_of_complexity/) - Fred Spier (2011)
+- [What's the Big Idea? Intellectual History and the Longue Durée](https://scholar.harvard.edu/armitage/publications/whats-big-idea-intellectual-history-and-longue-dur%C3%A9e) - David Armitage (2012)
 - Global History Review, 6, the Special Issue, "Big History and Global History", Beijing: Global History Center, Capital Normal University, December, 2013
 - [The Natural Science Underlying Big History]( https://arxiv.org/abs/1406.2730) - Eric J. Chaisson (2014)
 - [The Story of Big History](http://www.jstor.org/stable/10.5406/historypresent.4.2.0171) - Ian Hesketh (2014)
 - [Big History and Anticipation](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-31737-3_95-1) - Joseph Voros (2017)
+- [On the pursuit of academic research across all the disciplines](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi7jZzx1qHeAhWny4UKHRI2C_0QFjAAegQICRAC&url=https%3A%2F%2Fjbh.journals.villanova.edu%2Farticle%2Fdownload%2F2242%2F2129&usg=AOvVaw367ffxb9YJhIWxR9gUzcvI) - Fred Spier (2017)
+- [Imagining the Unimaginable: Narratives of the Big Bang: Time, Space, Matter, Energy](https://jbh.journals.villanova.edu/article/view/2251) - Barry Wood (2017)
+- [Evolution of the Early Solar System in Terms of Big History and Universal Evolution](https://jbh.journals.villanova.edu/article/view/2252) - Leonid Grinin (2017)
+- [Big History – The Unfolding of “Information”](https://jbh.journals.villanova.edu/article/view/2254/2099) - Ken Solis (2017)
 
 
 ## Cours
