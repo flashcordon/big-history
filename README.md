@@ -33,12 +33,17 @@ Ressources sur la Big History
 - [The Big History of Civilizations](https://www.audible.fr/pd/The-Big-History-of-Civilizations-Livre-Audio/B01N56PARI) -  Craig G. Benjamin, The Great Courses (audiobook + notes de cours en PDF)
 - [Oberlin Big History Project](http://obhp.org/en/) - Projet de cours sur la Big History lancé par l'Université d'Oberlin au Japon
 
-## Articles de blogs sur la Big History
+## Articles de blogs
 
 - [Big History et histoire environnementale : à quelle échelle étudier l’histoire ?](http://blogs.histoireglobale.com/big-history-et-histoire-environnementale-a-quelle-echelle-etudier-lhistoire_474) - Rene-Eric Dagorn, Histoire Globale (Juillet 2010)
 - [Big History: why we need to teach the modern origin story](https://theconversation.com/big-history-why-we-need-to-teach-the-modern-origin-story-10405) - David Christian, The Conversation (Novembre 2012)
 - [The problems with Big History and turning science into myth](http://theconversation.com/the-problems-with-big-history-and-turning-science-into-myth-48225) - Lisa Sideris, The Conversation (Octobre 2015)
 - [How ‘Big History’ can save the world](http://theconversation.com/how-big-history-can-save-the-world-100815) - Ian Crawford, The Conversation (Août 2018)
+
+## Vidéos
+
+- [David Christian : L'histoire de l'univers en 18 minutes](https://www.ted.com/talks/david_christian_big_history?language=fr) - TED Talk (Mars 2011)
+- [Crash Course Big History](https://www.youtube.com/watch?v=tq6be-CZJ3w&list=PL8dPuuaLjXtMczXZUmjb3mZSU1Roxnrey) - présenté par John Green (2014)
 
 ## Infographies
 
