@@ -207,6 +207,7 @@ Ressources sur la Big History
 - [Future of Earth](https://en.wikipedia.org/wiki/Future_of_Earth) - Wikipedia
 - [Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future) - Wikipedia
 - [Global Catastrophic risk](https://en.wikipedia.org/wiki/Global_catastrophic_risk) - Wikipedia
+- [Heat Death of the Universe](https://en.wikipedia.org/wiki/Heat_death_of_the_universe) - Wikipedia
 
 ## Articles de blog
 
