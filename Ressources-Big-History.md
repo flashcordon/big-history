@@ -5,6 +5,7 @@ Ressources sur la Big History
 
 - [Ressources globales sur la Big History](#Ressources-globales-sur-la-Big-History)
 - [Cosmologie](#Cosmologie)
+- [Astrophysique stellaire](#Astrophysique-stellaire)
 - [Paléontoanthropologie](#Paléoanthropologie)
 - [Philosophie](#Philosophie)
 - [Ressources sur les futurs possibles de l'Humanité](#Ressources-sur-les-futurs-possibles-de-lHumanité)
@@ -126,6 +127,10 @@ Ressources sur la Big History
 
 - [Chronologie : Histoire de la Cosmologie Moderne](https://cosmology.education/?fbclid=IwAR3FG0WmM07a5gn89gZvwk-_frHzroNLWmHMLFLNJziFEWUwc46x2ey2KRc#!), de la relativité d'Einstein aux résultats de la mission Planck - Lucas Gautheron
 - [Inflation for beginners](http://aether.lbl.gov/www/science/inflation-beginners.html) - John Gribbin
+
+--- 
+
+# Astrophysique stellaire
 
 --- 
 
