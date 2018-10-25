@@ -6,6 +6,7 @@ Ressources sur la Big History
 - [Ressources globales sur la Big History](#Ressources-globales-sur-la-Big-History)
 - [Cosmologie](#Cosmologie)
 - [Ressources sur les futurs possibles de l'Humanité](#Ressources-sur-les-futurs-possibles-de-lHumanité)
+- [Ressources sur les futurs lointains](#Ressources-sur-les-futurs-lointains)
 
 # Ressources globales sur la Big History
 
