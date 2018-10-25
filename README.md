@@ -4,6 +4,8 @@ Ressources sur la Big History
 # Table des matières
 
 - [Ressources globales sur la Big History](#Ressources-globales-sur-la-Big-History)
+- [Cosmologie](#Cosmologie)
+- [Ressources sur les futurs possibles de l'Humanité](#Ressources-sur-les-futurs-possibles-de-l'Humanité)
 
 # Ressources globales sur la Big History
 
@@ -37,48 +39,50 @@ Ressources sur la Big History
 - [The problems with Big History and turning science into myth](http://theconversation.com/the-problems-with-big-history-and-turning-science-into-myth-48225) - Lisa Sideris, The Conversation (Octobre 2015)
 - [How ‘Big History’ can save the world](http://theconversation.com/how-big-history-can-save-the-world-100815) - Ian Crawford, The Conversation (Août 2018)
 
-## Infographies sur la Big History
+## Infographies
 
 - [The Big Picture in seven scales](https://www.denizcemonduygu.com/portfolio/the-big-picture-in-seven-scales/) - Deniz Cem Önduygu (2017)
 - [Diagram of our universe](https://www.nao.ac.jp/study/uchuzu2013/scroll/en.html) - Japan Foundation of Public Communication on Science and Technology (2012)
 - [Chronozoom](http://chronozoom.com/#/t00000000-0000-0000-0000-000000000000@x=0) - Microsoft Research et l'Université de Berkley
 
-## Bandes dessinées sur la Big History
+## Bandes dessinées
 
 - [Alpha... Directions, Jens Harder](https://www.actes-sud.fr/catalogue/beaux-livres/alpha)
 - [BETA... Civilisations - volume I, Jens Harder](https://www.actes-sud.fr/catalogue/lan-2/beta-civilisations)
 
 ---
 
-## Cosmologie
+# Cosmologie
+
+## Sites Web
 
 - [Chronologie : Histoire de la Cosmologie Moderne](https://cosmology.education/?fbclid=IwAR3FG0WmM07a5gn89gZvwk-_frHzroNLWmHMLFLNJziFEWUwc46x2ey2KRc#!), de la relativité d'Einstein aux résultats de la mission Planck - Lucas Gautheron
 
 --- 
 
-## Ressources scientifiques sur les futurs de l'Humanité
+# Ressources sur les futurs possibles de l'Humanité
 
-### Livres
+## Livres
 
 - [Rapport du GIEC 2018](http://www.ipcc.ch/report/sr15/)
 - [Global Catastrophic Risks, Nick Bolstrom et al.](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=fr&lang=en&)
 
-### Conférences
+## Conférences
 
 - [Peut-on encore limiter le réchauffement de la planète à 1,5 degrés ?](https://vimeo.com/295986064) - Conférence de Valérie Masson-Delmotte à l'Agence Française pour le Développement (Octobre 2018)
 
-## Ressources scientifiques sur le futur lointain
+# Ressources sur les futurs lointains
 
-### Articles scientifiques
+## Articles scientifiques
 
-### Articles sur le web
+## Articles sur le web
 
 - [How the Universe Ends](https://gizmodo.com/how-the-universe-ends-1829694851?fbclid=IwAR0Spz-1ccOEFrdncVxh55zEYBhb--tsc5Z4sJegXsLyKqPtj_tmbFNI0LA) - Gizmodo (Octobre 2018)
 
-### Vidéos
+## Vidéos
 
 - [The Deep Future](https://youtu.be/kq1HUTLtNW4) - Crash Course Big History
 
-### Podcasts
+## Podcasts
 
 - [The Heat Death of the Universe with Ken Liu](http://titaniumphysicists.brachiolopemedia.com/2018/09/09/episode-78-the-heat-death-of-the-universe-with-ken-liu/) - The Titanium Physicists Podcast (Septembre 2018) 
