@@ -67,6 +67,8 @@ Ressources sur la Big History
 
 ## Podcasts
 
+- [The Podcast history of our world](http://podcasthistoryofourworld.libsyn.com/)
+- [Great Big History Podcast](http://www.greatbighistory.com/)
 - [Le grand récit de l’univers de Michel Serres](https://www.franceculture.fr/emissions/la-methode-scientifique/le-grand-recit-de-lunivers-de-michel-serres) - La Méthode Scientifique (Septembre 2016) 
 
 ## Documentaires
@@ -83,6 +85,10 @@ Ressources sur la Big History
 
 - [Alpha... Directions, Jens Harder](https://www.actes-sud.fr/catalogue/beaux-livres/alpha)
 - [BETA... Civilisations - volume I, Jens Harder](https://www.actes-sud.fr/catalogue/lan-2/beta-civilisations)
+
+## Twitter
+
+- Liste d'acteurs de la Big History
 
 ---
 
