@@ -6,6 +6,12 @@ Ressources sur la Big History
 - [Maps of Time, David Christian](https://www.ucpress.edu/book/9780520271449/maps-of-time)
 - [Big History and the Future of Humanity, Fred Spier](https://www.wiley.com/en-us/Big+History+and+the+Future+of+Humanity-p-9781444334210)
 
+## Cours de Big History
+
+- [Big History Project](https://school.bighistoryproject.com/bhplive) - Mine d'or de ressource pédagogiques pour enseignants
+- [Big History: The Big Bang, Life on Earth, and the Rise of Humanity](https://www.audible.fr/pd/Big-History-The-Big-Bang-Life-on-Earth-and-the-Rise-of-Humanity-Livre-Audio/B00DB4N9AA) -  David Christian, The Great Courses (audiobook + notes de cours en PDF)
+- [The Big History of Civilizations](https://www.audible.fr/pd/The-Big-History-of-Civilizations-Livre-Audio/B01N56PARI) -  Craig G. Benjamin, The Great Courses (audiobook + notes de cours en PDF)
+
 ## Articles de blogs sur la Big History
 
 - [Big History et histoire environnementale : à quelle échelle étudier l’histoire ?](http://blogs.histoireglobale.com/big-history-et-histoire-environnementale-a-quelle-echelle-etudier-lhistoire_474) - Rene-Eric Dagorn, Histoire Globale (Juillet 2010)
