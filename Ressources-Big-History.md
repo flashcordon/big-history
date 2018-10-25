@@ -172,8 +172,6 @@ Ressources sur la Big History
 
 ## Livres
 
-- [The life span of the biosphere revisited](https://www.nature.com/articles/360721a0) - Calderia et Kasting (1992)
-- [Our Sun. III. Present and Future](http://adsabs.harvard.edu/abs/1993ApJ...418..457S) - Sackmann et al. (1993)
 - [The Last Three Minutes](https://www.amazon.com/Last-Three-Minutes-Conjectures-Ultimate/dp/0465038514) - Paul Davies (1997)
 - [The Five Ages of the Universe: Inside the Physics of Eternity](https://www.amazon.fr/Five-Ages-Universe-Physics-Eternity/dp/0743237722) - Fred Adams (1999)
 - [Voyages dans le futur. L'aventure cosmique de l'humanité](http://www.seuil.com/ouvrage/voyages-dans-le-futur-l-aventure-cosmique-de-l-humanite-nicolas-prantzos/9782020258821) - Nicolas Prantzos (1998)
@@ -183,12 +181,13 @@ Ressources sur la Big History
 - [Big History and the Future of Humanity](https://www.wiley.com/en-us/Big+History+and+the+Future+of+Humanity-p-9781444334210) - Fred Spier (2010)
 - [Global Catastrophic Risks](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=fr&lang=en&) - Nick Bolstrom et al. (2011)
 - [Cosmic update: dark puzzles, arrow fo time, future history](https://www.springer.com/gp/book/9781441982933) - Fred Adams (2012)
-- [The Runaway Greenhouse: implications for future climate change, geoengineering and planetary atmospheres](https://arxiv.org/abs/1201.1593) - Goldblatt et Watson (2012) : Bonne explication du runaway greenhouse (et de pourquoi il est souvent mal expliqué)
-- [Role of stellar physics in regulating the critical steps for life](https://arxiv.org/abs/1804.02271) - Lingam et Loeb (2018)
+- [Archaeology and Heritage of the Human Movement into Space](https://www.springer.com/us/book/9783319078656) - Beth Laura, Capelotti, P. J (2015)
 
 ## Articles scientifiques
 
 - [Time without end: Physics and biology in an open universe](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.51.447) - Freeman J. Dyson (1979)
+- [The life span of the biosphere revisited](https://www.nature.com/articles/360721a0) - Calderia et Kasting (1992)
+- [Our Sun. III. Present and Future](http://adsabs.harvard.edu/abs/1993ApJ...418..457S) - Sackmann et al. (1993)
 - [A Dying Universe: The Long Term Fate and Evolution of Astrophysical Objects](https://arxiv.org/abs/astro-ph/9701131) - Fred Adams et Gregory Laughlin (1997)
 - [Reduction of biosphere life span as a consequence of geodynamics](https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0889.2000.00898.x) - Franck et al. (2000)
 - [Long-term future of extragalactic astronomy](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.65.047301) - Abraham Loeb (2002)
@@ -200,6 +199,8 @@ Ressources sur la Big History
 - [The beginning and the end, the meaning of life in a cosmological context](https://arxiv.org/ftp/arxiv/papers/1301/1301.1648.pdf) - thèse de Clément Vidal
 - [Cosmological Immortality: How to Eliminate Aging on a Universal Scale](http://homepages.vub.ac.be/~clvidal/writings/Vidal-Cosmological-Immortality.pdf) - Clément Vidal
 - [Life Versus Dark Energy: How An Advanced Civilization Could Resist the Accelerating Expansion of the Universe](https://arxiv.org/abs/1806.05203) - Dan Hooper (2018)
+- [The Runaway Greenhouse: implications for future climate change, geoengineering and planetary atmospheres](https://arxiv.org/abs/1201.1593) - Goldblatt et Watson (2012) : Bonne explication du runaway greenhouse (et de pourquoi il est souvent mal expliqué)
+- [Role of stellar physics in regulating the critical steps for life](https://arxiv.org/abs/1804.02271) - Lingam et Loeb (2018)
 
 ## Sites Web
 
@@ -211,6 +212,9 @@ Ressources sur la Big History
 
 - [The Really, REALLY Distant Future](https://medium.com/@janhaugland/the-really-really-distant-future-1bb20d45d4dc) - Jan Haugland, Medium (Juin 2016)
 - [How the Universe Ends](https://gizmodo.com/how-the-universe-ends-1829694851?fbclid=IwAR0Spz-1ccOEFrdncVxh55zEYBhb--tsc5Z4sJegXsLyKqPtj_tmbFNI0LA) - Gizmodo (Octobre 2018)
+- [What is the lifespan of Voyager 1, with the expected time for collisions with interstellar dust and sublimations to remove one half the mass?](https://www.quora.com/What-is-the-lifespan-of-Voyager-1-with-the-expected-time-for-collisions-with-interstellar-dust-and-sublimations-to-remove-one-half-the-mass) - Quora
+- [What is the most probable fate of Voyagers 1 & 2?](https://www.quora.com/What-is-the-most-probable-fate-of-Voyagers-1-2) - Quora
+- [The Fate of the Voyagers](https://www.space.com/39161-fate-of-the-voyager-spacecraft.html) - Paul Sutter, Space.com (Décembre 2017)
 
 ## Vidéos
 
