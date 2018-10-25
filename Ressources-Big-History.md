@@ -137,6 +137,9 @@ Ressources sur la Big History
 - [Our Sun. III. Present and Future](http://adsabs.harvard.edu/abs/1993ApJ...418..457S) - Sackmann et al. (1993)
 - [Distant future of the Sun and Earth revisited](https://arxiv.org/abs/0801.4031) - Klaus-Peter Schroder et Robert C. Smith (2008)
 
+## Cours
+
+- [Stellar Evolution : The Life and Death of Our Luminous Neighbors](http://umich.edu/~gs265/star.htm?fbclid=IwAR3yYTNKXQIHZISRXHnZgu99oCe0b6jqx0RBZLN7NJrRs0Q3ry-gnIWVCyQ) - Arthur Holland et Mark Williams (Université du Michigan)
 --- 
 
 # Paléoanthropologie
