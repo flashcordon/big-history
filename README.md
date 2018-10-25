@@ -13,6 +13,9 @@ Ressources sur la Big History
 - [International Big History Association](https://bighistory.org/)
 - [Evo Devo Universe](http://evodevouniverse.com/) - Groupe de recherche interdisciplinaire dédié à la compréhension de l'évolution de la complexité dans l'univers
 - [Big History Institute](https://www.mq.edu.au/bighistory) - Institut lié à la Macquarie University
+- [Big History European Network](https://ibha.wildapricot.org/European-Big-History-Network)
+- [THE INSTITUTE FOR GLOBAL AND COSMIC PEACE (IGCP)](https://ibha.wildapricot.org/Earth-and-Space-Institute)
+- [Big History Platform](http://bighistoryplatform.weebly.com/) - Plateforme liée à l'Université d'Amsterdam
 
 ## Cours de Big History
 
