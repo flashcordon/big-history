@@ -5,11 +5,14 @@ Ressources sur la Big History
 
 - [Maps of Time, David Christian](https://www.ucpress.edu/book/9780520271449/maps-of-time)
 - [Big History and the Future of Humanity, Fred Spier](https://www.wiley.com/en-us/Big+History+and+the+Future+of+Humanity-p-9781444334210)
+- [Conseils de lecture sur la Big History Platform](http://bighistoryplatform.weebly.com/literature.html)
 
 ## Sites Web sur la Big History
 
 - [Cosmic Evolution, From Big Bang to Mankind](https://www.cfa.harvard.edu/~ejchaisson/cosmic_evolution/docs/splash.html) Eric Chaisson (2013)
 - [International Big History Association](https://bighistory.org/)
+- [Evo Devo Universe](http://evodevouniverse.com/) - Groupe de recherche interdisciplinaire dédié à la compréhension de l'évolution de la complexité dans l'univers
+- [Big History Institute](https://www.mq.edu.au/bighistory) - Institut lié à la Macquarie University
 
 ## Cours de Big History
 
