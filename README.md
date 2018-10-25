@@ -28,6 +28,10 @@ Ressources sur la Big History
 
 - [How the Universe Ends](https://gizmodo.com/how-the-universe-ends-1829694851?fbclid=IwAR0Spz-1ccOEFrdncVxh55zEYBhb--tsc5Z4sJegXsLyKqPtj_tmbFNI0LA) - Gizmodo (Octobre 2018)
 
+### Vidéos
+
+- [The Deep Future](https://youtu.be/kq1HUTLtNW4) - Crash Course Big History
+
 ### Podcasts
 
 - [The Heat Death of the Universe with Ken Liu](http://titaniumphysicists.brachiolopemedia.com/2018/09/09/episode-78-the-heat-death-of-the-universe-with-ken-liu/) - The Titanium Physicists Podcast (Septembre 2018) 
