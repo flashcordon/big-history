@@ -14,6 +14,7 @@ Ressources sur la Big History
 
 ## Livres de référence
 
+- [Epic of Evolution: Seven Ages of the Cosmos](https://cup.columbia.edu/book/epic-of-evolution/9780231135603) - Eric Chaisson (2005)
 - [Maps of Time](https://www.ucpress.edu/book/9780520271449/maps-of-time) - David Christian (2004)
 - [Big History and the Future of Humanity](https://www.wiley.com/en-us/Big+History+and+the+Future+of+Humanity-p-9781444334210) - Fred Spier (2010)
 - [Conseils de lecture sur la Big History Platform](http://bighistoryplatform.weebly.com/literature.html)
@@ -109,9 +110,22 @@ Ressources sur la Big History
 
 # Cosmologie
 
+## Livres
+
+- [The First Three Minutes: A Modern View Of The Origin Of The Universe](https://www.amazon.fr/First-Three-Minutes-Modern-Universe/dp/0465024378) - Steven Weinberg (1993)
+
+## Articles scientifiques
+
+- [Inflation and the Cosmic Microwave Background](https://arxiv.org/abs/astro-ph/0305179) - Charles H. Lineweaver (2003)
+
+## Articles de vulgarisation
+
+- [Inflation and the New Era of High-Precision Cosmology](http://web.mit.edu/physics/news/physicsatmit/physicsatmit_02_cosmology.pdf) - Alan Guth, MIT Physics Annual (2002)
+
 ## Sites Web
 
 - [Chronologie : Histoire de la Cosmologie Moderne](https://cosmology.education/?fbclid=IwAR3FG0WmM07a5gn89gZvwk-_frHzroNLWmHMLFLNJziFEWUwc46x2ey2KRc#!), de la relativité d'Einstein aux résultats de la mission Planck - Lucas Gautheron
+- [Inflation for beginners](http://aether.lbl.gov/www/science/inflation-beginners.html) - John Gribbin
 
 --- 
 
