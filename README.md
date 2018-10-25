@@ -6,6 +6,7 @@ Ressources sur la Big History
 - [Ressources globales sur la Big History](#Ressources-globales-sur-la-Big-History)
 - [Cosmologie](#Cosmologie)
 - [Paléontoanthropologie](#Paléoanthropologie)
+- [Philosophie](#Philosophie)
 - [Ressources sur les futurs possibles de l'Humanité](#Ressources-sur-les-futurs-possibles-de-lHumanité)
 - [Ressources sur les futurs lointains](#Ressources-sur-les-futurs-lointains)
 
@@ -121,6 +122,22 @@ Ressources sur la Big History
 ## Articles scientifiques
 
 - [Human Dispersal Out of Africa: A Lasting Debate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4844272/) - Lopez et al. (2015)
+
+--- 
+
+# Philosophie
+
+## Infographies
+
+- [The History of (Western) Philosophy, summarized and visualized](https://www.denizcemonduygu.com/philo/browse/) - Deniz Cem Önduygu (2018)
+
+## Podcasts
+
+- [The History of Philosophy without any gaps](https://historyofphilosophy.net/), par Peter Adamson
+
+## Cours
+
+- [The Meaning of Life: Perspectives from the World's Great Intellectual Traditions](https://www.amazon.com/Meaning-Life-Perspectives-Intellectual-Traditions/dp/B00DTO5AR2), Jay Garfield, The Great Courses (audiobook)
 
 --- 
 
