@@ -6,6 +6,11 @@ Ressources sur la Big History
 - [Maps of Time, David Christian](https://www.ucpress.edu/book/9780520271449/maps-of-time)
 - [Big History and the Future of Humanity, Fred Spier](https://www.wiley.com/en-us/Big+History+and+the+Future+of+Humanity-p-9781444334210)
 
+## Sites Web sur la Big History
+
+- [Cosmic Evolution, From Big Bang to Mankind](https://www.cfa.harvard.edu/~ejchaisson/cosmic_evolution/docs/splash.html) Eric Chaisson (2013)
+- [International Big History Association](https://bighistory.org/)
+
 ## Cours de Big History
 
 - [Big History Project](https://school.bighistoryproject.com/bhplive) - Mine d'or de ressource pédagogiques pour enseignants
