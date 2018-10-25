@@ -91,6 +91,7 @@ Ressources sur la Big History
 
 ## Infographies
 
+- [Graphique chronologique depuis le Big Bang jusqu'à la mort thermique de l'univers](https://fr.wikipedia.org/wiki/Graphique_chronologique_depuis_le_Big_Bang_jusqu%27%C3%A0_la_mort_thermique_de_l%27univers) - Wikipedia
 - [The Big Picture in seven scales](https://www.denizcemonduygu.com/portfolio/the-big-picture-in-seven-scales/) - Deniz Cem Önduygu (2017)
 - [Diagram of our universe](https://www.nao.ac.jp/study/uchuzu2013/scroll/en.html) - Japan Foundation of Public Communication on Science and Technology (2012)
 - [Chronozoom](http://chronozoom.com/#/t00000000-0000-0000-0000-000000000000@x=0) - Microsoft Research et l'Université de Berkley
@@ -181,10 +182,20 @@ Ressources sur la Big History
 
 ## Articles scientifiques
 
+- [Time without end: Physics and biology in an open universe](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.51.447) - Freeman J. Dyson (1979)
+- [A Dying Universe: The Long Term Fate and Evolution of Astrophysical Objects](https://arxiv.org/abs/astro-ph/9701131) - Fred Adams et Gregory Laughlin (1997)
+- [Long-term future of extragalactic astronomy](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.65.047301) - Abraham Loeb (2002)
+- [Future Evolution of the Intergalactic Medium in a Universe Dominated by a Cosmological Constant](https://arxiv.org/abs/astro-ph/0310505) - Kentaro Nagamine et Abraham Loeb (2003)
 - [Future Evolution of Structure in an Accelerating Universe](https://arxiv.org/abs/astro-ph/0305211) - Busha et al. (2003)
+- [The Return of a Static Universe and the End of Cosmology](https://arxiv.org/abs/0704.0221) - Lawrence M. Krauss et Robert J. Scherrer (2007)
 
-## Articles sur le web
+## Sites Web
 
+- [Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future) - Wikipedia
+
+## Articles de blog
+
+- [The Really, REALLY Distant Future](https://medium.com/@janhaugland/the-really-really-distant-future-1bb20d45d4dc) - Jan Haugland, Medium (Juin 2016)
 - [How the Universe Ends](https://gizmodo.com/how-the-universe-ends-1829694851?fbclid=IwAR0Spz-1ccOEFrdncVxh55zEYBhb--tsc5Z4sJegXsLyKqPtj_tmbFNI0LA) - Gizmodo (Octobre 2018)
 
 ## Vidéos
