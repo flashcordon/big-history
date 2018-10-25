@@ -26,6 +26,10 @@ Ressources sur la Big History
 - [THE INSTITUTE FOR GLOBAL AND COSMIC PEACE (IGCP)](https://ibha.wildapricot.org/Earth-and-Space-Institute)
 - [Big History Platform](http://bighistoryplatform.weebly.com/) - Plateforme liée à l'Université d'Amsterdam
 
+## Journaux académiques
+
+- [The Journal of Big History](https://jbh.journals.villanova.edu/index)
+
 ## Cours
 
 - [Big History Project](https://school.bighistoryproject.com/bhplive) - Mine d'or de ressource pédagogiques pour enseignants
@@ -45,6 +49,10 @@ Ressources sur la Big History
 - [David Christian : L'histoire de l'univers en 18 minutes](https://www.ted.com/talks/david_christian_big_history?language=fr) - TED Talk (Mars 2011)
 - [Crash Course Big History](https://www.youtube.com/watch?v=tq6be-CZJ3w&list=PL8dPuuaLjXtMczXZUmjb3mZSU1Roxnrey) - présenté par John Green (2014)
 - [Sir Crispin Tickell - Big History: The Human Past and Future](https://schoolofsustainability.asu.edu/media/video/big-history-the-human-past-and-future/) - Conférence donnée par le diplomate britannique Crispin Tickell à l'Arizona State University School of Sustainability (Avril 2016)
+
+## Documentaires
+
+- [Big History, EON ENTERTAINMENTS](https://www.archambault.ca/films/big-history/paradox/DVDAAAE44251/?id=1482816) - Diffusé sur la History Channel en 2014
 
 ## Infographies
 
