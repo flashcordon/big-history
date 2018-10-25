@@ -36,6 +36,7 @@ Ressources sur la Big History
 - [Big History, the Whole Story, and Nothing Less?](https://www.utpjournals.press/doi/pdf/10.3138/cjh.41.2.317) - Wolf Schäfer (2006)
 - [Major transitions in ‘big’ history](https://www.sciencedirect.com/science/article/pii/S0040162507000273) - Robert Aunger (2007)
 - [Big history : à l'échelle de l'univers](https://www.cairn.info/magazine-sciences-humaines-2009-1-p-4.htm) - René Eric Dagorn (2009)
+- [La World/Global History, Questions et débats](https://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire-2009-4-page-153.htm) - Chloé Maurel (2009)
 - [Complexity in Big History](https://escholarship.org/uc/item/3tk971d2) - Fred Spier (2011)
 - [How Big History Works: Energy Flows and the Rise and Demise of Complexity](https://www.sociostudies.org/almanac/articles/how_big_history_works_energy_flows_and_the_rise_and_demise_of_complexity/) - Fred Spier (2011)
 - Global History Review, 6, the Special Issue, "Big History and Global History", Beijing: Global History Center, Capital Normal University, December, 2013
