@@ -158,6 +158,7 @@ Ressources sur la Big History
 
 ## Livres
 
+- [Les Limites à la croissance (dans un monde fini)](https://www.amazon.fr/Limites-croissance-dans-monde-fini/dp/291777035X/ref=sr_1_3?s=books&ie=UTF8&qid=1540476830&sr=1-3&keywords=halte+%C3%A0+la+croissance) - Rapport Meadows (2012)
 - [Rapport du GIEC 2018](http://www.ipcc.ch/report/sr15/)
 - [Global Catastrophic Risks, Nick Bolstrom et al.](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=fr&lang=en&)
 
@@ -171,6 +172,7 @@ Ressources sur la Big History
 
 ## Livres
 
+- [The life span of the biosphere revisited](https://www.nature.com/articles/360721a0) - Calderia et Kasting (1992)
 - [The Last Three Minutes](https://www.amazon.com/Last-Three-Minutes-Conjectures-Ultimate/dp/0465038514) - Paul Davies (1997)
 - [The Five Ages of the Universe: Inside the Physics of Eternity](https://www.amazon.fr/Five-Ages-Universe-Physics-Eternity/dp/0743237722) - Fred Adams (1999)
 - [Voyages dans le futur. L'aventure cosmique de l'humanité](http://www.seuil.com/ouvrage/voyages-dans-le-futur-l-aventure-cosmique-de-l-humanite-nicolas-prantzos/9782020258821) - Nicolas Prantzos (1998)
@@ -179,15 +181,20 @@ Ressources sur la Big History
 - [Big History and the Future of Humanity](https://www.wiley.com/en-us/Big+History+and+the+Future+of+Humanity-p-9781444334210) - Fred Spier (2010)
 - [Global Catastrophic Risks](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=fr&lang=en&) - Nick Bolstrom et al. (2011)
 - [Cosmic update: dark puzzles, arrow fo time, future history](https://www.springer.com/gp/book/9781441982933) - Fred Adams (2012)
+- [The Runaway Greenhouse: implications for future climate change, geoengineering and planetary atmospheres](https://arxiv.org/abs/1201.1593) - Goldblatt et Watson (2012) : Bonne explication du runaway greenhouse (et de pourquoi il est souvent mal expliqué)
+- [Role of stellar physics in regulating the critical steps for life](https://arxiv.org/abs/1804.02271) - Lingam et Loeb (2018)
 
 ## Articles scientifiques
 
 - [Time without end: Physics and biology in an open universe](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.51.447) - Freeman J. Dyson (1979)
 - [A Dying Universe: The Long Term Fate and Evolution of Astrophysical Objects](https://arxiv.org/abs/astro-ph/9701131) - Fred Adams et Gregory Laughlin (1997)
+- [Reduction of biosphere life span as a consequence of geodynamics](https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0889.2000.00898.x) - Franck et al. (2000)
 - [Long-term future of extragalactic astronomy](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.65.047301) - Abraham Loeb (2002)
 - [Future Evolution of the Intergalactic Medium in a Universe Dominated by a Cosmological Constant](https://arxiv.org/abs/astro-ph/0310505) - Kentaro Nagamine et Abraham Loeb (2003)
 - [Future Evolution of Structure in an Accelerating Universe](https://arxiv.org/abs/astro-ph/0305211) - Busha et al. (2003)
 - [The Return of a Static Universe and the End of Cosmology](https://arxiv.org/abs/0704.0221) - Lawrence M. Krauss et Robert J. Scherrer (2007)
+- [Distant future of the Sun and Earth revisited](https://arxiv.org/abs/0801.4031) - Klaus-Peter Schroder et Robert C. Smith (2008)
+- [The evolution of habitable climates under the brightening Sun](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JD023302) - Wolf et Toon (2015)
 - [The beginning and the end, the meaning of life in a cosmological context](https://arxiv.org/ftp/arxiv/papers/1301/1301.1648.pdf) - thèse de Clément Vidal
 - [Cosmological Immortality: How to Eliminate Aging on a Universal Scale](http://homepages.vub.ac.be/~clvidal/writings/Vidal-Cosmological-Immortality.pdf) - Clément Vidal
 - [Life Versus Dark Energy: How An Advanced Civilization Could Resist the Accelerating Expansion of the Universe](https://arxiv.org/abs/1806.05203) - Dan Hooper (2018)
