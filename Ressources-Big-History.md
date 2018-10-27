@@ -195,6 +195,10 @@ Ressources sur la Big History
 
 - [Human Dispersal Out of Africa: A Lasting Debate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4844272/) - Lopez et al. (2015)
 
+## Vidéos
+
+- [Le Croissant Fertile / La minute nécessaire de Passé Sauvage #1](https://youtu.be/6tiOjGyOmks) - Chlotilde Chamussy: Sur les mauvaises représentations du croissant fertile (distinction historiens/paléoanthropologues)
+
 ---
 
 # Histoire antique
