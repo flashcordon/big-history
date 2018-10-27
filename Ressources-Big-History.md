@@ -172,6 +172,7 @@ Ressources sur la Big History
 - [Néandertal : un cousin très sous-estimé ?](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-lundi-09-avril-2018) - La Méthode sicentifique (Mars 2018)
 - [Denisova, à un doigt de Neandertal](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-lundi-22-octobre-2018) - La Méthode sicentifique (Octobre 2018)
 - [Faut-il réécrire les débuts de l’histoire de l’Homme ?](https://www.franceculture.fr/emissions/la-methode-scientifique/faut-il-reecrire-les-debuts-de-lhistoire-de-lhomme) - La Méthode sicentifique (Octobre 2018)
+- [Aux origines de l'agriculture](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin/sur-les-epaules-de-darwin-01-fevrier-2014) - Sur les épaules de Darwin (Février 2014)
 
 ## Articles scientifiques
 
