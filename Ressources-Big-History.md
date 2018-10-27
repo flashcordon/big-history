@@ -157,10 +157,12 @@ Ressources sur la Big History
 
 - [Mineral Evolution](https://hazen.carnegiescience.edu/research/mineral-evolution) - Robert Hazen (2008)
 - [Hadean Earth](https://www.lpi.usra.edu/exploration/HadeanEarth/) - Ressources par le Lunar and Planetary Institute
+- [Ancient Earth](http://dinosaurpictures.org/ancient-earth#0) - C.R. Scotese: Globe interactif avec évolution des continents au fil des millions d'années
 
 ## Cours 
 
 - [The Origin and Evolution of Earth](https://www.audible.fr/pd/The-Origin-and-Evolution-of-Earth-Livre-Audio/B00GMPKHDM) - Robert Hazen, The Great Courses (2013) (audiobook + notes de cours en PDF)
+
 
 ---
 
