@@ -207,6 +207,10 @@ Ressources sur la Big History
 
 - [Peut-on encore limiter le réchauffement de la planète à 1,5 degrés ?](https://vimeo.com/295986064) - Conférence de Valérie Masson-Delmotte à l'Agence Française pour le Développement (Octobre 2018)
 
+## Podcasts
+
+- [Bruno David : biodiversité, le saut dans l’inconnu](https://www.presages.fr/blog/2018/bruno-david) - Présages, podcast d'Alexia Soyeux: Bonne explication des extinctions de masse, et des façons dont on peut mal les interpréter !
+
 --- 
 
 # Ressources sur les futurs lointains
