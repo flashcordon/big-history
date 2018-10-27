@@ -99,6 +99,8 @@ Ressources sur la Big History
 - [The Big Picture in seven scales](https://www.denizcemonduygu.com/portfolio/the-big-picture-in-seven-scales/) - Deniz Cem Önduygu (2017)
 - [Diagram of our universe](https://www.nao.ac.jp/study/uchuzu2013/scroll/en.html) - Japan Foundation of Public Communication on Science and Technology (2012)
 - [Chronozoom](http://chronozoom.com/#/t00000000-0000-0000-0000-000000000000@x=0) - Microsoft Research et l'Université de Berkley
+- [World Population History](http://worldpopulationhistory.org)
+
 
 ## Bandes dessinées
 
@@ -223,6 +225,10 @@ Ressources sur la Big History
 - [Rapport du GIEC 2018](http://www.ipcc.ch/report/sr15/)
 - [Rapport de l'IPBES](https://www.ipbes.net/)
 - [Global Catastrophic Risks, Nick Bolstrom et al.](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=fr&lang=en&)
+
+## Articles scientifiques
+
+- [The Future of Humanity](https://nickbostrom.com/papers/future.html) - Nick Bolstrom (2007)
 
 ## Sites Web
 
