@@ -197,6 +197,10 @@ Ressources sur la Big History
 
 # Philosophie
 
+## Sites Web
+
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)
+
 ## Infographies
 
 - [The History of (Western) Philosophy, summarized and visualized](https://www.denizcemonduygu.com/philo/browse/) - Deniz Cem Önduygu (2018)
