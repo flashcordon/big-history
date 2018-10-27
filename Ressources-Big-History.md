@@ -6,6 +6,7 @@ Ressources sur la Big History
 - [Ressources globales sur la Big History](#Ressources-globales-sur-la-Big-History)
 - [Cosmologie](#Cosmologie)
 - [Astrophysique stellaire](#Astrophysique-stellaire)
+- [Géologie](#Géologie)
 - [Biologie](#Biologie)
 - [Paléontoanthropologie](#Paléoanthropologie)
 - [Histoire antique](#Histoire-antique)
@@ -69,6 +70,7 @@ Ressources sur la Big History
 - [Big History: The Big Bang, Life on Earth, and the Rise of Humanity](https://www.audible.fr/pd/Big-History-The-Big-Bang-Life-on-Earth-and-the-Rise-of-Humanity-Livre-Audio/B00DB4N9AA) -  David Christian, The Great Courses (audiobook + notes de cours en PDF)
 - [The Big History of Civilizations](https://www.audible.fr/pd/The-Big-History-of-Civilizations-Livre-Audio/B01N56PARI) -  Craig G. Benjamin, The Great Courses (audiobook + notes de cours en PDF)
 - [Oberlin Big History Project](http://obhp.org/en/) - Projet de cours sur la Big History lancé par l'Université d'Oberlin au Japon
+- [The Origin and Evolution of Earth](https://www.audible.fr/pd/The-Origin-and-Evolution-of-Earth-Livre-Audio/B00GMPKHDM) - Robert Hazen, The Great Courses (2013) (audiobook + notes de cours en PDF)
 
 ## Articles de blogs
 
@@ -144,6 +146,18 @@ Ressources sur la Big History
 ## Cours
 
 - [Stellar Evolution : The Life and Death of Our Luminous Neighbors](http://umich.edu/~gs265/star.htm?fbclid=IwAR3yYTNKXQIHZISRXHnZgu99oCe0b6jqx0RBZLN7NJrRs0Q3ry-gnIWVCyQ) - Arthur Holland et Mark Williams (Université du Michigan)
+
+---
+
+# Géologie
+
+## Sites Web
+
+- [Mineral Evolution](https://hazen.carnegiescience.edu/research/mineral-evolution) - Robert Hazen (2008)
+
+## Cours 
+
+- [The Origin and Evolution of Earth](https://www.audible.fr/pd/The-Origin-and-Evolution-of-Earth-Livre-Audio/B00GMPKHDM) - Robert Hazen, The Great Courses (2013) (audiobook + notes de cours en PDF)
 
 ---
 
