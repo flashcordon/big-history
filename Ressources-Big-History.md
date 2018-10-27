@@ -8,6 +8,7 @@ Ressources sur la Big History
 - [Astrophysique stellaire](#Astrophysique-stellaire)
 - [Biologie](#Biologie)
 - [Paléontoanthropologie](#Paléoanthropologie)
+- [Histoire antique](#Histoire-antique)
 - [Philosophie](#Philosophie)
 - [Ressources sur les futurs possibles de l'Humanité](#Ressources-sur-les-futurs-possibles-de-lHumanité)
 - [Ressources sur les futurs lointains](#Ressources-sur-les-futurs-lointains)
@@ -178,7 +179,19 @@ Ressources sur la Big History
 
 - [Human Dispersal Out of Africa: A Lasting Debate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4844272/) - Lopez et al. (2015)
 
---- 
+---
+
+# Histoire antique
+
+## Cours
+
+- [History of the Ancient World: A Global Perspective](https://www.amazon.com/History-Ancient-World-Global-Perspective/dp/B00DTO3UOM) - Gregory S. Aldrete, The Great Courses (audiobook + pdf)
+
+## Podcast
+
+- [1177 B.C.: When Civilization Collapsed](http://longnow.org/seminars/02016/jan/11/1177-bc-when-civilization-collapsed/) - Eric Cline, séminaire de la Long Now Foundation
+
+---
 
 # Philosophie
 
