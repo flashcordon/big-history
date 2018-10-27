@@ -224,6 +224,10 @@ Ressources sur la Big History
 - [Rapport de l'IPBES](https://www.ipbes.net/)
 - [Global Catastrophic Risks, Nick Bolstrom et al.](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=fr&lang=en&)
 
+## Sites Web
+
+- [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
+
 ## Conférences
 
 - [Peut-on encore limiter le réchauffement de la planète à 1,5 degrés ?](https://vimeo.com/295986064) - Conférence de Valérie Masson-Delmotte à l'Agence Française pour le Développement (Octobre 2018)
