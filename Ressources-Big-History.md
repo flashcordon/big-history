@@ -11,6 +11,8 @@ Ressources sur la Big History
 - [Paléontoanthropologie](#Paléoanthropologie)
 - [Histoire antique](#Histoire-antique)
 - [Philosophie](#Philosophie)
+- [Linguistique](#Linguistique)
+- [Mythologie et religions](#Mythologie-et-religions)
 - [Ressources sur les futurs possibles de l'Humanité](#Ressources-sur-les-futurs-possibles-de-lHumanité)
 - [Ressources sur les futurs lointains](#Ressources-sur-les-futurs-lointains)
 
@@ -234,6 +236,25 @@ Ressources sur la Big History
 - [The Meaning of Life: Perspectives from the World's Great Intellectual Traditions](https://www.amazon.com/Meaning-Life-Perspectives-Intellectual-Traditions/dp/B00DTO5AR2), Jay Garfield, The Great Courses (audiobook)
 
 --- 
+
+# Linguistique
+
+## Vidéos
+
+- [Mais quelle fut la première langue parlée sur terre ?!](https://youtu.be/iPAYPrkIgX4?list=WL) - Linguisticae (Octobre 2018)
+---
+
+# Mythologie et religions
+
+## Cours
+
+- [Crash Course Mythology](https://www.youtube.com/playlist?list=PLEb6sGT7oD8G8nPbyvObaZUNdfV6kitZQ)
+
+## Vidéos
+
+- [C'est Pas Sourcé](https://www.youtube.com/channel/UCKYxU5ZkjTHwnhoGGYfwjPw) - Chaîne Youtube sur l'Histoire des religions
+
+---
 
 # Ressources sur les futurs possibles de l'Humanité
 
