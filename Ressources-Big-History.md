@@ -28,6 +28,7 @@ Ressources sur la Big History
 
 ## Sites Web
 
+- [Big History Project](https://school.bighistoryproject.com/bhplive)
 - [Cosmic Evolution, From Big Bang to Mankind](https://www.cfa.harvard.edu/~ejchaisson/cosmic_evolution/docs/splash.html) - Eric Chaisson (2013)
 - [International Big History Association](https://bighistory.org/)
 - [Evo Devo Universe](http://evodevouniverse.com/) - Groupe de recherche interdisciplinaire dédié à la compréhension de l'évolution de la complexité dans l'univers
