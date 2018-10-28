@@ -290,6 +290,7 @@ Ressources sur la Big History
 ## Sites Web
 
 - [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
+- [Future of life Institute](https://futureoflife.org/?cn-reloaded=1)
 
 ## Conférences
 
