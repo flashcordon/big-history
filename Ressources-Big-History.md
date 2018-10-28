@@ -182,6 +182,7 @@ Ressources sur la Big History
 
 ## Livres
 
+- [Handbook of paleoanthropology](http://www.evolbiol.ru/docs/docs/large_files/handbook_paleoanthropology.pdf) - Henke, Winfried, Tattersall, Ian (2003, seconde édition 2015)
 - [Bibliographie sur Hominidés.com](https://www.hominides.com/html/references/bibliographie.php)
 
 ## Cours
