@@ -158,6 +158,7 @@ Ressources sur la Big History
 - [Mineral Evolution](https://hazen.carnegiescience.edu/research/mineral-evolution) - Robert Hazen (2008)
 - [Hadean Earth](https://www.lpi.usra.edu/exploration/HadeanEarth/) - Ressources par le Lunar and Planetary Institute
 - [Ancient Earth](http://dinosaurpictures.org/ancient-earth#0) - C.R. Scotese: Globe interactif avec évolution des continents au fil des millions d'années
+- [Geologic Timeline](http://www.stratigraphy.org/bak/geowhen/timelinestages.html) - Sur le site de la comission internationale de stratigraphie. Dernièrement updaté en 2005.
 
 ## Cours 
 
@@ -168,6 +169,10 @@ Ressources sur la Big History
 
 # Biologie
 
+## Livres
+
+- [Genesis: The Scientific Quest for Life's Origin](https://www.amazon.com/Genesis-Scientific-Quest-Lifes-Origin/dp/0309094321) - Robert Hazen (2005)
+
 ## Sites Web
 
 - [Biology: Extinction](http://www.biosbcc.net/green/onlinetext/biodiv/biodivextinction.htm?fbclid=IwAR0xeHkePe8_7lud65ks7AlAJB7rj-P9YJ5GXQbVQfav86cDSL0bkNYvhW8)
@@ -175,6 +180,10 @@ Ressources sur la Big History
 ## infographies
 
 - [Biology: Extinction](http://www.biosbcc.net/green/onlinetext/biodiv/biodivextinction.htm?fbclid=IwAR0xeHkePe8_7lud65ks7AlAJB7rj-P9YJ5GXQbVQfav86cDSL0bkNYvhW8)
+
+## Vidéos
+
+- [O comme origine](https://www.youtube.com/watch?v=JpU74fzdkhY&index=3&list=PL0BAC5D88402F0571) - Yannick Mahé (2009)
 
 --- 
 
