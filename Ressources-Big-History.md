@@ -163,7 +163,7 @@ Ressources sur la Big History
 ## Cours 
 
 - [The Origin and Evolution of Earth](https://www.audible.fr/pd/The-Origin-and-Evolution-of-Earth-Livre-Audio/B00GMPKHDM) - Robert Hazen, The Great Courses (2013) (audiobook + notes de cours en PDF)
-
+- [Evolution of the early Earth](http://www.ifa.hawaii.edu/~meech/a281/oldlectures/Early_Earth.pdf) - Cours de Karen Meech (2016)
 
 ---
 
