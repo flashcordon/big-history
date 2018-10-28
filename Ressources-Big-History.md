@@ -184,6 +184,10 @@ Ressources sur la Big History
 
 - [Bibliographie sur Hominidés.com](https://www.hominides.com/html/references/bibliographie.php)
 
+## Cours
+
+- [Human Prehistory and the First Civilizations](https://www.amazon.co.uk/Human-Prehistory-First-Civilizations/dp/B00DTV0RVE/ref=pd_sim_129_9?_encoding=UTF8&psc=1&refRID=1R5X8581RN2AGKA62E2R) - Brian Fagan, The Great Courses (2013) (audiobook + PDF)
+
 ## Sites Web
 
 - [Hominidés.com](https://www.hominides.com/index.php)
