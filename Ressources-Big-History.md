@@ -282,6 +282,7 @@ Ressources sur la Big History
 - [Rapport du GIEC 2018](http://www.ipcc.ch/report/sr15/)
 - [Rapport de l'IPBES](https://www.ipbes.net/)
 - [Global Catastrophic Risks, Nick Bolstrom et al.](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=fr&lang=en&)
+- [Global Challenges: 12 risks with infinite impact](https://api.globalchallenges.org/static/wp-content/uploads/12-Risks-with-infinite-impact.pdf) - Rapport de la Global Challenges foundation (2015)
 
 ## Articles scientifiques
 
