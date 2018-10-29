@@ -253,9 +253,20 @@ Ressources sur la Big History
 
 # Histoire moderne et contemporaine
 
+## Articles scientifiques
+
+- [The Anthropocene: From Global Change to Planetary Stewardship](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3357752/) - Steffen et al. (2011)
+- [The Anthropocene: conceptual and historical perspectives](http://rsta.royalsocietypublishing.org/content/369/1938/842) - Steffen et al. (2011)
+- [Dating the Anthropocene: Towards an empirical global history of human transformation of the terrestrial biosphere](https://www.elementascience.org/articles/10.12952/journal.elementa.000018/) - Ellis et al. (2013)
+
+## Sites Web
+
+- [Welcome to the Anthropocene](http://anthropocene.info/) - Portail éducatif sur les enjeux de l'anthropocène (2012)
+
 ## Vidéos
 
 - [Big History Anthropocene Conference – Big Historian Professor David Christian - Keynote Address](https://youtu.be/qF7EX3Gz08g?list=WL) - David Christian (Septembre 2016)
+
 ---
 
 # Philosophie
