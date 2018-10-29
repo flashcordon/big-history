@@ -5,7 +5,7 @@ Ressources sur la Big History
 
 - [Ressources globales sur la Big History](#Ressources-globales-sur-la-Big-History)
 - [Cosmologie](#Cosmologie)
-- [Astrophysique stellaire](#Astrophysique-stellaire)
+- [Astrophysique](#Astrophysique)
 - [Géologie](#Géologie)
 - [Biologie](#Biologie)
 - [Paléontoanthropologie](#Paléoanthropologie)
@@ -139,7 +139,7 @@ Ressources sur la Big History
 
 --- 
 
-# Astrophysique stellaire
+# Astrophysique
 
 ## Articles scientifiques
 
@@ -149,6 +149,7 @@ Ressources sur la Big History
 ## Cours
 
 - [Stellar Evolution : The Life and Death of Our Luminous Neighbors](http://umich.edu/~gs265/star.htm?fbclid=IwAR3yYTNKXQIHZISRXHnZgu99oCe0b6jqx0RBZLN7NJrRs0Q3ry-gnIWVCyQ) - Arthur Holland et Mark Williams (Université du Michigan)
+- [From dust to planets](https://youtu.be/OS2H_FtXsFg?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Nader Haghighipour, Ecole d'été de la Société Française d'Exobiologie (Août 2018)
 
 ---
 
@@ -218,8 +219,11 @@ Ressources sur la Big History
 
 ## Vidéos
 
+- [A la recherche des origines de l'humanité](https://youtu.be/V-TGxJI4JwA?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Louise Leakey, conférence TED (Juillet 2008)
+- [Comment est apparu Homo Sapiens ?](https://youtu.be/yd_bfJ9kpPA?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Science Etonnante (Février 2015)
 - [Le Croissant Fertile / La minute nécessaire de Passé Sauvage #1](https://youtu.be/6tiOjGyOmks) - Chlotilde Chamussy (Juin 2016): Sur les mauvaises représentations du croissant fertile (distinction historiens/paléoanthropologues)
 - [Les contours de la lignée humaine TenL65 à Tautavel](https://youtu.be/d-4KQbG2REA?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - La Tronche en biais (Août 2018)
+- [Your Place in the Primate Family Tree](https://youtu.be/dUKV02uYEu0?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - PBS Eons (Octobre 2018)
 
 ---
 
@@ -369,6 +373,7 @@ Ressources sur la Big History
 - [Civilizations at the End of Time: Dying Earth](https://youtu.be/p58yFf7aZsM) - Isaac Arthur (Mars 2018)
 - [The Black Hole Bomb and Black Hole civilizations](https://youtu.be/ulCdoCfw-bY) - Kurzgesagt (Avril 2018)
 - [How Will the Universe End? | Space Time](https://youtu.be/Qg4vb-KH5F4) - PBS Space Time (Août 2018)
+- [The End of the Universe](https://youtu.be/IF4UhElRUFg?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Geraint Lewis, conférence donnée à la Royal Institution (Octobre 2018)
 
 ## Podcasts
 
