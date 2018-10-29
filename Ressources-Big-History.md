@@ -219,6 +219,7 @@ Ressources sur la Big History
 ## Vidéos
 
 - [Le Croissant Fertile / La minute nécessaire de Passé Sauvage #1](https://youtu.be/6tiOjGyOmks) - Chlotilde Chamussy (Juin 2016): Sur les mauvaises représentations du croissant fertile (distinction historiens/paléoanthropologues)
+- [Les contours de la lignée humaine TenL65 à Tautavel](https://youtu.be/d-4KQbG2REA?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - La Tronche en biais (Août 2018)
 
 ---
 
