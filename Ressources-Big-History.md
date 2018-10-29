@@ -303,6 +303,7 @@ Ressources sur la Big History
 ## Articles scientifiques
 
 - [The Future of Humanity](https://nickbostrom.com/papers/future.html) - Nick Bolstrom (2007)
+- [Big History and Anticipation](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-31737-3_95-1) - Joseph Voros (2017)
 
 ## Sites Web
 
