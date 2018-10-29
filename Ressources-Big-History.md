@@ -262,6 +262,7 @@ Ressources sur la Big History
 ## Sites Web
 
 - [Welcome to the Anthropocene](http://anthropocene.info/) - Portail éducatif sur les enjeux de l'anthropocène (2012)
+- [Our world in data](https://ourworldindata.org/) - Max Roser : le meilleur portail d'info sur les données globales et leur évolution au fil de l'histoire de l'humanité
 
 ## Vidéos
 
