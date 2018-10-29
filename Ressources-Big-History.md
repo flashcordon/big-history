@@ -253,7 +253,9 @@ Ressources sur la Big History
 
 # Histoire moderne et contemporaine
 
+## Vidéos
 
+- [Big History Anthropocene Conference – Big Historian Professor David Christian - Keynote Address](https://youtu.be/qF7EX3Gz08g?list=WL) - David Christian (Septembre 2016)
 ---
 
 # Philosophie
