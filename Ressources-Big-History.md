@@ -234,6 +234,10 @@ Ressources sur la Big History
 
 # Histoire antique
 
+## Articles de vulgarisation
+
+- [Le métal des objets de l'Âge du bronze était d’origine extraterrestre](https://www.nationalgeographic.fr/sciences/le-metal-des-objets-de-lage-du-bronze-etait-dorigine-extraterrestre?fbclid=IwAR2uMX4_8knakMUJKi0Pqrpd37oi4sgIEyrkZU9gWdZX2oRGEvuLpdcybkg) - National Geographic (Octobre 2018)
+
 ## Cours
 
 - [History of the Ancient World: A Global Perspective](https://www.amazon.com/History-Ancient-World-Global-Perspective/dp/B00DTO3UOM) - Gregory S. Aldrete, The Great Courses (audiobook + pdf)
