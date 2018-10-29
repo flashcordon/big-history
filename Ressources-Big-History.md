@@ -180,6 +180,11 @@ Ressources sur la Big History
 - [Explore origins](http://exploringorigins.org/) - Frise sur les grandes étapes de l'éolution de la vie, animations sur le monde ARN et sur la construction d'une protocellule selon les travaux de Jack Szostak
 - [Biology: Extinction](http://www.biosbcc.net/green/onlinetext/biodiv/biodivextinction.htm?fbclid=IwAR0xeHkePe8_7lud65ks7AlAJB7rj-P9YJ5GXQbVQfav86cDSL0bkNYvhW8)
 
+## Cours
+
+- [From non-living systems to living systems Part 1](https://youtu.be/3MH2PTi0pXQ?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Addy Pross, , Ecole d'été de la Société Française d'Exobiologie (Août 2018)
+- [From non-living systems to living systems Part 2](https://youtu.be/HIx0KAagGVw?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Addy Pross, , Ecole d'été de la Société Française d'Exobiologie (Août 2018)
+
 ## Infographies
 
 - [Biology: Extinction](http://www.biosbcc.net/green/onlinetext/biodiv/biodivextinction.htm?fbclid=IwAR0xeHkePe8_7lud65ks7AlAJB7rj-P9YJ5GXQbVQfav86cDSL0bkNYvhW8)
