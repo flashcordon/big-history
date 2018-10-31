@@ -326,6 +326,7 @@ Ressources sur la Big History
 - [A comparison of The Limits to Growth with 30 years of reality](https://www.sciencedirect.com/science/article/abs/pii/S0959378008000435) - Graham Turner (2008)
 - [Has the Earth's sixth mass extinction already arrived?](https://www.ncbi.nlm.nih.gov/pubmed/21368823) - Barnoski et al. (2011)
 - [Big History and Anticipation](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-31737-3_95-1) - Joseph Voros (2017)
+- [A good life for all within planetary boundaries](https://www.nature.com/articles/s41893-018-0021-4) - O'Neill et al. (2018)
 
 ## Sites Web
 
