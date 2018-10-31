@@ -248,6 +248,7 @@ Ressources sur la Big History
 - [1177 B.C.: When Civilization Collapsed](http://longnow.org/seminars/02016/jan/11/1177-bc-when-civilization-collapsed/) - Eric Cline, séminaire de la Long Now Foundation (Janvier 2016)
 - [The History of Rome](https://thehistoryofrome.typepad.com/) 
 - [The History of Byzantium](https://thehistoryofbyzantium.com/) - L'histoire de l'empire Byzantin de 476 à 1453
+- [The Podcast history of our world](http://podcasthistoryofourworld.libsyn.com/)
 
 ---
 
