@@ -334,6 +334,7 @@ Ressources sur la Big History
 
 ## Conférences
 
+- [The past, the geological past, is the key to understanding the present and future of Earth](https://youtu.be/PmKBNviCWHE) - Simon George (Septembre 2016): l'anthropocène d'un point de vue géologique et l'impact d'une sixième extinction de masse sur la planète
 - [Peut-on encore limiter le réchauffement de la planète à 1,5 degrés ?](https://vimeo.com/295986064) - Conférence de Valérie Masson-Delmotte à l'Agence Française pour le Développement (Octobre 2018)
 
 ## Podcasts
