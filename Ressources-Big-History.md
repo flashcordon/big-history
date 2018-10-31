@@ -138,6 +138,10 @@ Ressources sur la Big History
 - [Chronologie : Histoire de la Cosmologie Moderne](https://cosmology.education/?fbclid=IwAR3FG0WmM07a5gn89gZvwk-_frHzroNLWmHMLFLNJziFEWUwc46x2ey2KRc#!), de la relativité d'Einstein aux résultats de la mission Planck - Lucas Gautheron
 - [Inflation for beginners](http://aether.lbl.gov/www/science/inflation-beginners.html) - John Gribbin
 
+## Vidéos
+
+- [L’histoire de l’Univers selon le modèle du Big Bang](https://youtu.be/OVDzfqxUm54?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - CEA Recherche (Mai 2017)
+
 --- 
 
 # Astrophysique
