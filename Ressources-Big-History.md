@@ -268,6 +268,7 @@ Ressources sur la Big History
 ## Vidéos
 
 - [Big History Anthropocene Conference – Big Historian Professor David Christian - Keynote Address](https://youtu.be/qF7EX3Gz08g?list=WL) - David Christian (Septembre 2016)
+- [Anatomy of the anthropocene](https://youtu.be/dLLRCaRIqRM?list=WL) - Jan Zalasiewicz (Septembre 2016) : l'anthropocène définie par les géologues
 
 ---
 
