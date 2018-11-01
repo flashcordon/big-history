@@ -317,7 +317,7 @@ Ressources sur la Big History
 ## Vidéos
 
 - [C'est Pas Sourcé](https://www.youtube.com/channel/UCKYxU5ZkjTHwnhoGGYfwjPw) - Chaîne Youtube sur l'Histoire des religions
-
+- [Religion for Breakfast](https://www.youtube.com/user/ReligionForBreakfast/videos)
 ---
 
 # Ressources sur les futurs possibles de l'Humanité
