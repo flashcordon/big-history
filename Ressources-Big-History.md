@@ -246,6 +246,7 @@ Ressources sur la Big History
 ## Vidéos
 
 - [The History of the World: Every Year](https://youtu.be/-6Wu0Q7x5D0) - Ollie Bye (Octobre 2016)
+- [Assassin's Creed Odyssey: A Tour of Athens](https://youtu.be/-a8cWF-29lI?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - IGN (Août 2018)
 
 ## Cours
 
