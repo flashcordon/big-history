@@ -361,6 +361,7 @@ Ressources sur la Big History
 ## Conférences
 
 - [The past, the geological past, is the key to understanding the present and future of Earth](https://youtu.be/PmKBNviCWHE) - Simon George (Septembre 2016): l'anthropocène d'un point de vue géologique et l'impact d'une sixième extinction de masse sur la planète
+- [The long-term future of Mankind](https://youtu.be/Z7gU3ZsSWr0?list=WL) - Joseph Voros (Septembre 2016)
 - [Peut-on encore limiter le réchauffement de la planète à 1,5 degrés ?](https://vimeo.com/295986064) - Conférence de Valérie Masson-Delmotte à l'Agence Française pour le Développement (Octobre 2018)
 
 ## Podcasts
@@ -426,6 +427,7 @@ Ressources sur la Big History
 - [The last star in the Universe - Red dwarves explained](https://youtu.be/LS-VPyLaJFM) - Kurzgesagt (Janvier 2016)
 - [Deep Time](https://youtu.be/jDF-N3A60DE) - Phil Plait, Crash Course Astronomy  (Janvier 2016)
 - [Civilizations at the End of Time:  Black Hole Farming](https://youtu.be/Qam5BkXIEhQ) - Isaac Arthur (Juillet 2016)
+- [The long-term future of Mankind](https://youtu.be/Z7gU3ZsSWr0?list=WL) - Joseph Voros (Septembre 2016)
 - [Civilizations at the End of Time: Iron Stars](https://youtu.be/Pld8wTa16Jk) - Isaac Arthur (Juillet 2017)
 - [The Last Light Before Eternal Darkness – White Dwarfs & Black Dwarfs](https://youtu.be/qsN1LglrX9s) - Kurzgesagt (Mai 2017)
 - [The compendium of doom](https://youtu.be/rpA-Bd0d6kw?list=PLIIOUpOge0LvLIXNMDKHf30gfyfnyX-4O) - Isaac Arthur (Janvier 2018)
