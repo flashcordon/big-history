@@ -345,6 +345,7 @@ Ressources sur la Big History
 
 - [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
 - [Future of life Institute](https://futureoflife.org/?cn-reloaded=1)
+- [Future scenarios](http://www.futurescenarios.org/) - Cartographie des transitions énergétiques et culturelles possibles dans un monde altéré par le changement climatique
 - [Earth Impact Effects Program](https://impact.ese.ic.ac.uk/ImpactEarth/cgi-bin/crater.cgi?dist=&distanceUnits=1&diam=&diameterUnits=1&pdens=&pdens_select=0&vel=&velocityUnits=1&theta=&wdepth=&wdepthUnits=1) - Robert Marcus, H. Jay Melosh, et Gareth Collins:  Calculateur en ligne de l'effet local d'un impact de météorite
 
 ## Conférences
