@@ -180,6 +180,10 @@ Ressources sur la Big History
 
 - [Genesis: The Scientific Quest for Life's Origin](https://www.amazon.com/Genesis-Scientific-Quest-Lifes-Origin/dp/0309094321) - Robert Hazen (2005)
 
+## Articles scientifiques
+
+- [Ecological consequences of Late Quaternary extinctions of megafauna](http://rspb.royalsocietypublishing.org/content/early/2009/03/13/rspb.2008.1921) - Johnson (2008)
+
 ## Sites Web
 
 - [Explore origins](http://exploringorigins.org/) - Frise sur les grandes étapes de l'éolution de la vie, animations sur le monde ARN et sur la construction d'une protocellule selon les travaux de Jack Szostak
@@ -202,9 +206,15 @@ Ressources sur la Big History
 
 # Paléoanthropologie
 
+## Articles scientifiques
+
+- [The Palaeoanthropocene – The beginnings of anthropogenic environmental change](https://www.blogs.uni-mainz.de/fb09climatology/files/2012/03/Foley_2013_Anthropocene.pdf) - Foley et al. (2013)
+- [Fire and human evolution: The deep-time blueprints of the Anthropocene](https://www.sciencedirect.com/science/article/pii/S2213305414000046) - Andrew Glikson (2013)
+
 ## Livres
 
 - [Handbook of paleoanthropology](http://www.evolbiol.ru/docs/docs/large_files/handbook_paleoanthropology.pdf) - Henke, Winfried, Tattersall, Ian (2003, seconde édition 2015)
+- [Climate, Fire and Human Evolution](https://www.springer.com/us/book/9783319225111) - Glikson et Groves (2016)
 - [Bibliographie sur Hominidés.com](https://www.hominides.com/html/references/bibliographie.php)
 
 ## Cours
