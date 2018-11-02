@@ -9,7 +9,7 @@ Ressources sur la Big History
 - [Géologie](#Géologie)
 - [Biologie](#Biologie)
 - [Paléontoanthropologie](#Paléoanthropologie)
-- [Histoire antique](#Histoire-antique)
+- [Histoire antique et médiévale](#Histoire-antique-et-médiévale)
 - [Histoire moderne et contemporaine](#Histoire-moderne-et-contemporaine)
 - [Philosophie](#Philosophie)
 - [Linguistique](#Linguistique)
@@ -135,6 +135,7 @@ Ressources sur la Big History
 
 ## Sites Web
 
+- [Timeline of the formation of the Universe](https://en.wikipedia.org/wiki/Timeline_of_the_formation_of_the_Universe) - Wikipédia
 - [Chronologie : Histoire de la Cosmologie Moderne](https://cosmology.education/?fbclid=IwAR3FG0WmM07a5gn89gZvwk-_frHzroNLWmHMLFLNJziFEWUwc46x2ey2KRc#!), de la relativité d'Einstein aux résultats de la mission Planck - Lucas Gautheron
 - [Inflation for beginners](http://aether.lbl.gov/www/science/inflation-beginners.html) - John Gribbin
 
@@ -186,6 +187,8 @@ Ressources sur la Big History
 
 ## Sites Web
 
+- [Timeline of the evolutionary history of life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life) - Wikipédia
+- [https://en.wikipedia.org/wiki/Timeline_of_natural_history](https://en.wikipedia.org/wiki/Timeline_of_natural_history) - Wikipédia
 - [Explore origins](http://exploringorigins.org/) - Frise sur les grandes étapes de l'éolution de la vie, animations sur le monde ARN et sur la construction d'une protocellule selon les travaux de Jack Szostak
 - [Biology: Extinction](http://www.biosbcc.net/green/onlinetext/biodiv/biodivextinction.htm?fbclid=IwAR0xeHkePe8_7lud65ks7AlAJB7rj-P9YJ5GXQbVQfav86cDSL0bkNYvhW8)
 
@@ -247,7 +250,12 @@ Ressources sur la Big History
 
 ---
 
-# Histoire antique
+# Histoire antique et médiévale
+
+## Sites Web
+
+- [Timeline of ancient history](https://en.wikipedia.org/wiki/Timeline_of_ancient_history) - Wikipédia
+- [Timeline of the Middle Ages](https://en.wikipedia.org/wiki/Timeline_of_the_Middle_Ages) - Wikipédia
 
 ## Articles de vulgarisation
 
@@ -284,6 +292,7 @@ Ressources sur la Big History
 
 ## Sites Web
 
+- [Timelines of modern history](https://en.wikipedia.org/wiki/Timelines_of_modern_history) - Wikipédia
 - [Welcome to the Anthropocene](http://anthropocene.info/) - Portail éducatif sur les enjeux de l'anthropocène (2012)
 - [Our world in data](https://ourworldindata.org/) - Max Roser : le meilleur portail d'info sur les données globales et leur évolution au fil de l'histoire de l'humanité
 
