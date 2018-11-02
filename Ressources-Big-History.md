@@ -8,7 +8,7 @@ Ressources sur la Big History
 - [Astrophysique](#Astrophysique)
 - [Géologie](#Géologie)
 - [Biologie](#Biologie)
-- [Paléontoanthropologie](#Paléoanthropologie)
+- [Paléotoanthropologie](#Paléoanthropologie)
 - [Histoire antique et médiévale](#Histoire-antique-et-médiévale)
 - [Histoire moderne et contemporaine](#Histoire-moderne-et-contemporaine)
 - [Philosophie](#Philosophie)
