@@ -266,6 +266,7 @@ Ressources sur la Big History
 ## Vidéos
 
 - [Before Industry : The regional and global impact of forager and agrarian societies](https://youtu.be/ZhRXCXlIVTE) - Shawn Ross (Septembre 2016)
+- [Population](https://youtu.be/MYwbGtl9sFA) - David Baker (Septembre 2016): cycles malthusiens dans les civilisations agraires
 - [The History of the World: Every Year](https://youtu.be/-6Wu0Q7x5D0) - Ollie Bye (Octobre 2016)
 - [Assassin's Creed Odyssey: A Tour of Athens](https://youtu.be/-a8cWF-29lI?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - IGN (Août 2018)
 
