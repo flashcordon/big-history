@@ -247,6 +247,7 @@ Ressources sur la Big History
 - [Le Croissant Fertile / La minute nécessaire de Passé Sauvage #1](https://youtu.be/6tiOjGyOmks) - Chlotilde Chamussy (Juin 2016): Sur les mauvaises représentations du croissant fertile (distinction historiens/paléoanthropologues)
 - [Les contours de la lignée humaine TenL65 à Tautavel](https://youtu.be/d-4KQbG2REA?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - La Tronche en biais (Août 2018)
 - [Your Place in the Primate Family Tree](https://youtu.be/dUKV02uYEu0?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - PBS Eons (Octobre 2018)
+- [Seven Million Years of Human Evolution](https://youtu.be/DZv8VyIQ7YU?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - American Museum of Natural History (Novembre 2018)
 
 ---
 
