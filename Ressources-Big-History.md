@@ -155,6 +155,8 @@ Ressources sur la Big History
 ## Cours
 
 - [Stellar Evolution : The Life and Death of Our Luminous Neighbors](http://umich.edu/~gs265/star.htm?fbclid=IwAR3yYTNKXQIHZISRXHnZgu99oCe0b6jqx0RBZLN7NJrRs0Q3ry-gnIWVCyQ) - Arthur Holland et Mark Williams (Université du Michigan)
+- [Nucleosynthesis, star formation and evolution (part 1)](https://youtu.be/gsZ1vVs2T3o?list=WL) - Cyril Georgy, Ecole d'été de la Société Française d'Exobiologie (Mai 2018)
+- [Nucleosynthesis, star formation and evolution (part 2)](https://youtu.be/_PmPH5MaZCw?list=WL) - Cyril Georgy, Ecole d'été de la Société Française d'Exobiologie (Mai 2018)
 - [From dust to planets](https://youtu.be/OS2H_FtXsFg?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Nader Haghighipour, Ecole d'été de la Société Française d'Exobiologie (Août 2018)
 
 ---
