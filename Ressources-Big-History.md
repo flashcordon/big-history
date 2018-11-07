@@ -399,6 +399,7 @@ Ressources sur la Big History
 - [Future Evolution](http://www.sivatherium.narod.ru/library/Ward/00_en.htm) - Peter Ward (2001): Excellent dernier chapitre !
 - [Maps of Time](https://www.ucpress.edu/book/9780520271449/maps-of-time) - David Christian (2004)
 - [The Life and Death of Planet Earth: How the New Science of Astrobiology Charts the Ultimate Fate of Our World](https://www.amazon.com/Life-Death-Planet-Earth-Astrobiology/dp/0805075127) - Peter Ward (2004)
+- [Rejuvenating the Sun and Avoiding Other Global Catastrophes](https://www.springer.com/cn/book/9780387681283) - Martin Beech (2008)
 - [Big History and the Future of Humanity](https://www.wiley.com/en-us/Big+History+and+the+Future+of+Humanity-p-9781444334210) - Fred Spier (2010)
 - [Global Catastrophic Risks](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=fr&lang=en&) - Nick Bolstrom et al. (2011)
 - [Cosmic update: dark puzzles, arrow fo time, future history](https://www.springer.com/gp/book/9781441982933) - Fred Adams (2012)
