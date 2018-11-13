@@ -27,6 +27,10 @@ Ressources sur la Big History
 - [Conseils de lecture sur la Big History Platform](http://bighistoryplatform.weebly.com/literature.html)
 - [Manuel d'histoire globale](https://www.armand-colin.com/manuel-dhistoire-globale-9782200278595) - Chloé Maurel (2014) : Où la Big History est mise en contexte avec les autres écoles de la pratique historique
 
+## Livres
+
+- [Revolutions that Made the Earth](https://www.amazon.co.uk/Revolutions-that-Made-Earth-Lenton/dp/0199587043) - Tim Lenton et Andrew Watson (2011)
+
 ## Sites Web
 
 - [Big History Project](https://school.bighistoryproject.com/bhplive)
