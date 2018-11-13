@@ -137,6 +137,7 @@ Ressources sur la Big History
 ## Articles de vulgarisation
 
 - [Inflation and the New Era of High-Precision Cosmology](http://web.mit.edu/physics/news/physicsatmit/physicsatmit_02_cosmology.pdf) - Alan Guth, MIT Physics Annual (2002)
+- [Misconceptions about the Big Bang](https://www.mso.anu.edu.au/~charley/papers/LineweaverDavisSciAm.pdf) - Charles Lineweaver, Scientific American (2005)
 
 ## Sites Web
 
