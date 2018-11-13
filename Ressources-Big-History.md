@@ -97,6 +97,7 @@ Ressources sur la Big History
 
 - [The Podcast history of our world](http://podcasthistoryofourworld.libsyn.com/)
 - [Great Big History Podcast](http://www.greatbighistory.com/)
+- [Aux origines de l'histoire globale](https://www.franceculture.fr/emissions/college-de-france-40-lecons-inaugurales/sanjay-subrahmanyam-aux-origines-de-l-histoire) - Sanjay Subrahmanyam, leçon inaugurale de la chaire d'histoire globale au Collège de France
 - [Le grand récit de l’univers de Michel Serres](https://www.franceculture.fr/emissions/la-methode-scientifique/le-grand-recit-de-lunivers-de-michel-serres) - La Méthode Scientifique (Septembre 2016) 
 
 ## Documentaires
