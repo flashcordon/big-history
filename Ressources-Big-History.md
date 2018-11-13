@@ -250,8 +250,9 @@ Ressources sur la Big History
 
 - [A la recherche des origines de l'humanité](https://youtu.be/V-TGxJI4JwA?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Louise Leakey, conférence TED (Juillet 2008)
 - [Comment est apparu Homo Sapiens ?](https://youtu.be/yd_bfJ9kpPA?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Science Etonnante (Février 2015)
-- [Out of Africa](https://youtu.be/KIlj2sNlOJw?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Ollie Bye (Juillet 2017)
 - [Le Croissant Fertile / La minute nécessaire de Passé Sauvage #1](https://youtu.be/6tiOjGyOmks) - Chlotilde Chamussy (Juin 2016): Sur les mauvaises représentations du croissant fertile (distinction historiens/paléoanthropologues)
+- [Out of Africa](https://youtu.be/KIlj2sNlOJw?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Ollie Bye (Juillet 2017)
+- [À la découverte de l'Homme de Flores](https://youtu.be/JBEKwFJ5TVg) - Florent Détroit, conférences du Musée de l'Homme (Juin 2018)
 - [Les contours de la lignée humaine TenL65 à Tautavel](https://youtu.be/d-4KQbG2REA?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - La Tronche en biais (Août 2018)
 - [Your Place in the Primate Family Tree](https://youtu.be/dUKV02uYEu0?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - PBS Eons (Octobre 2018)
 - [Seven Million Years of Human Evolution](https://youtu.be/DZv8VyIQ7YU?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - American Museum of Natural History (Novembre 2018)
