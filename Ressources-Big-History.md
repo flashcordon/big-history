@@ -8,7 +8,7 @@ Ressources sur la Big History
 - [Astrophysique](#Astrophysique)
 - [Géologie](#Géologie)
 - [Biologie](#Biologie)
-- [Paléotoanthropologie](#Paléoanthropologie)
+- [Paléoanthropologie](#Paléoanthropologie)
 - [Histoire antique et médiévale](#Histoire-antique-et-médiévale)
 - [Histoire moderne et contemporaine](#Histoire-moderne-et-contemporaine)
 - [Philosophie](#Philosophie)
@@ -69,8 +69,6 @@ Ressources sur la Big History
 - [Imagining the Unimaginable: Narratives of the Big Bang: Time, Space, Matter, Energy](https://jbh.journals.villanova.edu/article/view/2251) - Barry Wood (2017)
 - [Evolution of the Early Solar System in Terms of Big History and Universal Evolution](https://jbh.journals.villanova.edu/article/view/2252) - Leonid Grinin (2017)
 - [Big History – The Unfolding of “Information”](https://jbh.journals.villanova.edu/article/view/2254/2099) - Ken Solis (2017)
-
-
 
 ## Cours
 
@@ -238,11 +236,12 @@ Ressources sur la Big History
 
 ## Podcasts
 
+- [Aux origines de l'agriculture](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin/sur-les-epaules-de-darwin-01-fevrier-2014) - Sur les épaules de Darwin (Février 2014)
 - [La révolution paléo-génomique](https://www.franceculture.fr/emissions/carbone-14-le-magazine-de-larcheologie/la-revolution-paleo-genomique) - La Méthode sicentifique (Mai 2017)
 - [Néandertal : un cousin très sous-estimé ?](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-lundi-09-avril-2018) - La Méthode sicentifique (Mars 2018)
 - [Denisova, à un doigt de Neandertal](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-lundi-22-octobre-2018) - La Méthode sicentifique (Octobre 2018)
 - [Faut-il réécrire les débuts de l’histoire de l’Homme ?](https://www.franceculture.fr/emissions/la-methode-scientifique/faut-il-reecrire-les-debuts-de-lhistoire-de-lhomme) - La Méthode sicentifique (Octobre 2018)
-- [Aux origines de l'agriculture](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin/sur-les-epaules-de-darwin-01-fevrier-2014) - Sur les épaules de Darwin (Février 2014)
+
 
 ## Articles scientifiques
 
@@ -287,6 +286,7 @@ Ressources sur la Big History
 ## Podcast
 
 - [1177 B.C.: When Civilization Collapsed](http://longnow.org/seminars/02016/jan/11/1177-bc-when-civilization-collapsed/) - Eric Cline, séminaire de la Long Now Foundation (Janvier 2016)
+- [The well Tempered City](http://longnow.org/seminars/02016/sep/20/well-tempered-city/) - Jonathan Rose, Séminaire de la Long Now Foundation (Septembre 2016)
 - [The History of Rome](https://thehistoryofrome.typepad.com/) 
 - [The History of Byzantium](https://thehistoryofbyzantium.com/) - L'histoire de l'empire Byzantin de 476 à 1453
 - [The Podcast history of our world](http://podcasthistoryofourworld.libsyn.com/)
