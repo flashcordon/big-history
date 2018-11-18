@@ -257,6 +257,7 @@ Ressources sur la Big History
 - [Les contours de la lignée humaine TenL65 à Tautavel](https://youtu.be/d-4KQbG2REA?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - La Tronche en biais (Août 2018)
 - [Your Place in the Primate Family Tree](https://youtu.be/dUKV02uYEu0?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - PBS Eons (Octobre 2018)
 - [Seven Million Years of Human Evolution](https://youtu.be/DZv8VyIQ7YU?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - American Museum of Natural History (Novembre 2018)
+- [L’influence des changements climatiques dans les premiers peuplements de l’Europe](https://youtu.be/hJEsF5LaZpU) - Pascal Depaepe, séminaire du musée de l'Homme, Juillet 2018
 
 ---
 
