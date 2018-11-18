@@ -253,7 +253,6 @@ Ressources sur la Big History
 - [Comment est apparu Homo Sapiens ?](https://youtu.be/yd_bfJ9kpPA?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Science Etonnante (Février 2015)
 - [Le Croissant Fertile / La minute nécessaire de Passé Sauvage #1](https://youtu.be/6tiOjGyOmks) - Chlotilde Chamussy (Juin 2016): Sur les mauvaises représentations du croissant fertile (distinction historiens/paléoanthropologues)
 - [Out of Africa](https://youtu.be/KIlj2sNlOJw?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Ollie Bye (Juillet 2017)
-- [«Retrouver les mythes de la Préhistoire?»](https://youtu.be/JyAukFxWosQ) - Jean-Loïc Le Quellec, Conférence Musée de l'Homme (Avril 2018)
 - [À la découverte de l'Homme de Flores](https://youtu.be/JBEKwFJ5TVg) - Florent Détroit, conférences du Musée de l'Homme (Juin 2018)
 - [L’influence des changements climatiques dans les premiers peuplements de l’Europe](https://youtu.be/hJEsF5LaZpU) - Pascal Depaepe, séminaire du musée de l'Homme, Juillet 2018
 - [Les contours de la lignée humaine TenL65 à Tautavel](https://youtu.be/d-4KQbG2REA?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - La Tronche en biais (Août 2018)
@@ -354,6 +353,7 @@ Ressources sur la Big History
 ## Vidéos
 
 - [Claude Levi Strauss et la définition du mythe](http://www.ina.fr/video/I06290910) - INA (Décembre 1971)
+- [«Retrouver les mythes de la Préhistoire?»](https://youtu.be/JyAukFxWosQ) - Jean-Loïc Le Quellec, Conférence Musée de l'Homme (Avril 2018)
 - [C'est Pas Sourcé](https://www.youtube.com/channel/UCKYxU5ZkjTHwnhoGGYfwjPw) - Chaîne Youtube sur l'Histoire des religions
 - [Religion for Breakfast](https://www.youtube.com/user/ReligionForBreakfast/videos)
 ---
