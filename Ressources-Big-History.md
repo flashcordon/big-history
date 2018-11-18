@@ -353,6 +353,7 @@ Ressources sur la Big History
 
 ## Vidéos
 
+- [Claude Levi Strauss et la définition du mythe](http://www.ina.fr/video/I06290910) - INA (Décembre 1971)
 - [C'est Pas Sourcé](https://www.youtube.com/channel/UCKYxU5ZkjTHwnhoGGYfwjPw) - Chaîne Youtube sur l'Histoire des religions
 - [Religion for Breakfast](https://www.youtube.com/user/ReligionForBreakfast/videos)
 ---
