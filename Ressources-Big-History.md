@@ -29,6 +29,7 @@ Ressources sur la Big History
 
 ## Livres
 
+- [The Major Transitions in Evolution](https://www.amazon.fr/dp/B001KVZZYE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - John Maynard Smith et Eörs Szathmáry (1995)
 - [Revolutions that Made the Earth](https://www.amazon.co.uk/Revolutions-that-Made-Earth-Lenton/dp/0199587043) - Tim Lenton et Andrew Watson (2011)
 
 ## Sites Web
