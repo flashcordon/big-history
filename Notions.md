@@ -92,8 +92,9 @@
 
 # La Terre du Protérozoique
 
-- Le Protérozoique commence par une Terre boule de neige (du Makganyene)
-- Le milieu du 
+- Le Protérozoique commence par une Terre boule de neige (glaciation Huronienne)
+- Le milieu du Protérozoique est relativement calme (boring billion)
+
 
 ## L'apparition des eucaryotes
 
@@ -105,6 +106,10 @@
 - Dater l'apparition des eucaryotes est une tache difficile. Estimation probable : L'évolution de la phagocytose, suivie par l'acquisition des symbiotes apparaît vers 2 Gyrs (+-0.5 Gyrs)
 L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige du protérozoique, et à l'explosion cambrienne
 
+## L'apparition des organismes multicellulaires
+
+- Les premiers organismes multi-cellulaire apparaissent vers 1.8 Gyrs (quelle forme?)
+
 ## L'apparition du sexe
 
 - La reproduction sexuée apparaît chez les eucaryotes et est devenue un mode de reproduction quasi universel chez les eucaryotes
@@ -114,6 +119,9 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 - **L'hypothèse de la Reine rouge :** le sexe persiste à cause de la co-évolution entre parasites et hôtes, entre prédateurs et proies.
 
 ## L'explosion cambrienne
+
+- Débat : qu'est ce qui a causé l'explosion Cambrienne ? (non encore résolu)
+- hypothèse populaire : une augmentation de l'oxygène dans l'atmosphère a déclenché l'explosion Cambrienne (source ?)
 
 ## Extinctions de masse
 
