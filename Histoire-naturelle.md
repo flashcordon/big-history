@@ -148,10 +148,12 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 > * ff
 * Fin du dévonien: 81% des espèces éteintes
 * Fin du Permien (Permien-Trias): 95% des espèces éteintes
-> * La plus grande extinction de masse de l'histoire (the great dying)
-> * C'est en fait la combinaison de 2 événements distincts, 
-> * Ca a duré moins de 200 000 ans, 
+> * La plus grande extinction de masse de l'histoire
+> * C'est en fait la combinaison de 2 événements distincts 
+> * L'événement qu'on nomme 'la grande mort' a a duré moins de 200 000 ans
 > * Ca a affecté tous les groupes d'organismes, sur Terre et dans les mers
+> * Ca a pris des dizaines de millions d'années pour reconstruire des écosystèmes complexes, et 100 Myrs pour arriver au niveau de diversité des familles pré-extinction
+> * 
 * Fin du trias: 80% des espèces éteintes
 * Fin du crétacé: 73% des espèces éteintes
 
