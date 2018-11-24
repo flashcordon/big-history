@@ -16,6 +16,8 @@
 # La Terre de l'Archéen
 
 - Les gisements de fer rubané (BIFs)
+- Il est possible qu'avant la grande oxydation, la Terre était recouverte d'une brume à haute altitude, comme Titan.
+> Les hydrocarbures (méthane, éthane) que contenait la haute atmosphère de la jeune Terre réagissent aux UVs du Soleil, ce qui produit un brouillard
 
 ## L'origine de la vie
 
