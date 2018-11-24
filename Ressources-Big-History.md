@@ -184,6 +184,10 @@ Ressources sur la Big History
 
 - [The rise of oxygen in Earth’s early ocean and atmosphere](https://people.earth.yale.edu/sites/default/files/files/Planavsky/30_%20Lyons%20et%20al%20Nature%202014.pdf) - Lyons et al (2014)
 
+## Articles de vulgarisation
+
+- [Quand la Terre était une boule de neige](https://lejournal.cnrs.fr/articles/quand-la-terre-etait-une-boule-de-neige) - CNRS le journal (Décembre 2017)
+
 ---
 
 # Biologie
