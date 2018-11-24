@@ -4,7 +4,7 @@
 - [La Terre de l'Hadéen](#La-Terre-de-lHadéen)
 - [La Terre de l'Archéen](#La-Terre-de-lArchéen)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
-- [L'évolution : contingente ou convergente ?](#Lévolution-:-contingente-ou-convergente-?)
+- [L'évolution : contingente ou convergente ?](#Lévolution-contingente-ou-convergente?)
 
 *Sources:* 
 - Revolutions that made the Earth, Tim Lenton (2011)
