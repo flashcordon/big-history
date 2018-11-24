@@ -4,7 +4,7 @@
 - [La Terre de l'Hadéen](#La-Terre-de-lHadéen)
 - [La Terre de l'Archéen](#La-Terre-de-lArchéen)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
-- [L'évolution : contingente ou convergente ?](#Lévolution-:-contingente-ou-convergente)
+- [L'évolution : contingente ou convergente](#Lévolution-:-contingente-ou-convergente)
 
 *Sources:* 
 - Revolutions that made the Earth, Tim Lenton (2011)
@@ -111,7 +111,7 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 - Les espèces séxuées créent une immense variété génétique, alors que les espèces asexuées créent des clones. Ce pool d'innovation permet aux espèces sexuées de s'adapter plus rapidement à des conditions changeantes que les espèces asexuées
 - **L'hypothèse de la Reine rouge :** le sexe persiste à cause de la co-évolution entre parasites et hôtes, entre prédateurs et proies.
 
-# L'évolution : contingente ou convergente ?
+# L'évolution : contingente ou convergente
 
 - Steven Jay Gould pense que l'évolution est contingente (cf *Wonderful life*)
 > Si on rembobine le film de la vie et qu'on appuie sur lecture, l'issue sera très différente de celle qu'on a aujourd'hui
