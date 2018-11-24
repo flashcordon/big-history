@@ -23,7 +23,8 @@
 # La photosynthèse oxygénique
 
 - Inventé par les cyanobactéries
-- Utilise la lumière du Soleil pour couper des molécules d'eau (water splitting)
-- Permet de produire de l'énergie avec juste de la lumière du Soleil, du CO2 et de l'eau, 3 des ressources les plus abondantes de la planète
+- Processus qui utilise la lumière du Soleil pour couper des molécules d'eau (water splitting)
+- Permet de produire de l'énergie avec juste de la lumière du Soleil, du CO2 et de l'eau, 3 des ressources les plus abondantes de la planète. 
+- Un organisme photosynthétique est bien équipé pour survivre dans la plupart des environnements sur Terre.
 - Les cyanobactéries sont devenues les ancètres des chloroplastes des algues et des plantes (endosymbiose, cf Margulis)
 
