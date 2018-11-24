@@ -6,3 +6,4 @@
 - Elle nous donne des indices sur notre place dans l'univers
 - Elle répond au besoin qu'ont les civilisations humaines d'expliquer leur origine
 - Elle est transdisciplinaire, à l'heure où nos connaissances sont fragmentées
+- Elle nous montre les liens cachés que l'on partage avec tous les humains, avec l'ensemble du vivant, et l'univers dans son ensemble
