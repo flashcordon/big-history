@@ -51,4 +51,14 @@
 - L'avantage évolutif du sexe est un sujet encore débattu, mais il semble important pour la survie à long terme des espèces eucaryotes
 > Seulement la moitié des gènes des parents est passée à la génération suivante. 
 - Les espèces séxuées créent une immense variété génétique, alors que les espèces asexuées créent des clones. Ce pool d'innovation permet aux espèces sexuées de s'adapter plus rapidement à des conditions changeantes que les espèces asexuées
-- **L'hypothèse de la Reine rouge :** le sexe persiste à cause de la co-évolution entre parasites et hôtes, entre prédateurs et proies. 
+- **L'hypothèse de la Reine rouge :** le sexe persiste à cause de la co-évolution entre parasites et hôtes, entre prédateurs et proies.
+
+# l'évolution : contingente ou convergente ?
+
+- Steven Jay Gould pense que l'évolution est contingente (cf *Wonderful life*)
+> Si on rembobine le film de la vie et qu'on appuie sur lecture, l'issue sera très différente de celle qu'on a aujourd'hui
+- Conway Morris pense que l'évolution est convergente (cf *Life's solution*)
+> La vie prend des chemins évolutionnaires similaires en réponse à des besoins et des conditions environnementales données (exemple: les ailes des oiseaux et des chauves souris, les yeux des vertébrés et des poulpes)
+- L'évolution de l'intelligence est-elle inévitable ? Selon Morris, oui (cf *Inevitable humans in a lonely universe*).
+
+
