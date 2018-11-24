@@ -60,7 +60,13 @@
 - La libération de l'oxygène a probablement nettoyé les hydrocarbures de l'atmosphère (comment?), et donc dissipé le brouillard qui entourait la Terre.
 - La libération de l'oxygène a aussi créé notre couche d'ozone (O3), généré par l'action des UV sur les molécules d'oxygène (O2). Une fois formée, la couche d'ozone bloque une grande partie des UV en provenance du Soleil. C'est utile au développement de la vie, car les UV endommagent les molécules d'ADN.
 - La surface de la Terre rouille, littéralement. L'oxygène de l'atmosphère réagit avec le fer des roches de la surface, ce qui crée de l'hématite (ie de la rouille) de couleur rouge. La surface de la Terre se peint en rouge.
-- l'augmentation de la concentration en oxygène a aussi une influence sur le climat, qui se refroidit. Ca donne lieu à la première Terre boule de neige.
+- l'augmentation de la concentration en oxygène a aussi une influence sur le climat, qui se refroidit. Ca donne lieu à la première Terre boule de neige 2.4 à 2.1 Gyrs) : la glaciation Huronienne, la première longue période glaciaire de l'histoire de la Terre. Et pas des moindre ! 
+
+### Terre boule de neige
+
+- Y en a eu 3
+- Plus la Terre est couverte par les glaces, plus la lumière du Soleil est réfléchie et donc plus la Terre se refroidit, et donc plus les glaces gagnent du terrain.
+- Hypothèses sur l'origine: la libération de l'oxygène dans l'atmosphère l'a fait réagir avec le méthane de la haute atmosphère, ce qui donne du CO2. Comme le Soleil est moins brillant à cette époque, et que le CO2 est un gaz à effet de serre moins puissant que le méthane, la Terre s'est refroidie.
 
 # L'apparition des eucaryotes
 
