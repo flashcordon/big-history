@@ -1,5 +1,11 @@
 *Source:* Revolutions that made the Earth, Tim Lenton (2011)
 
+# Les éons
+- Hadéen (de - 4,6 à - 4 milliards d’années)
+- Archéen (de - 4 à - 2,5 milliards d’années)
+- Protérozoïque (de - 2,5 à - 0,541 milliards d’années)
+- Phanérozoïque (depuis l’explosion cambrienne il y a 541 millions d’années, jusqu'à nos jours)
+
 # L'origine de la vie
 
 ## Date d'apparition de la vie: 
