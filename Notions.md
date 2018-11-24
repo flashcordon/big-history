@@ -1,6 +1,6 @@
 *Source:* Revolutions that made the Earth, Tim Lenton (2011)
 
-# Les éons (la plus grande division stratigraphique)
+# Les éons 
 - Hadéen (de - 4,6 à - 4 milliards d’années)
 - Archéen (de - 4 à - 2,5 milliards d’années)
 - Protérozoïque (de - 2,5 à - 0,541 milliards d’années)
