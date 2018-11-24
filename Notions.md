@@ -1,7 +1,10 @@
 # Table des matières
 
--  [Les éons](#Les-éons)
+- [Les éons](#Les-éons)
 - [La Terre de l'Hadéen](#La-Terre-de-lHadéen)
+- [La Terre de l'Archéen](#La-Terre-de-lArchéen)
+- [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
+- [L'évolution : contingente ou convergente ?](#Lévolution-:-contingente-ou-convergente-?)
 
 *Sources:* 
 - Revolutions that made the Earth, Tim Lenton (2011)
@@ -45,7 +48,7 @@
 > A l'époque de la formation des planètes, il n'était pas rare que des matériaux d'une planète arrive sur une autre planète sous  forme de météorites. Il y a des météorites martiennes sur Terre et des météorites terrestres sur Mars. Plus dur d'échanger des matériaux comme ça aujourd'hui mais il y a des milliards d'années c'était possible.
 - Controverse sur la météorite martienne d'Allan Hills (ALH84001, 1996): conclusion: probablement pas de la vie sur cette météorite (mais impossible à démentir définitivement)
 
-# La photosynthèse oxygénique
+## La photosynthèse oxygénique
 
 - Inventé par les cyanobactéries entre 3.4 et 2.5 Gyrs
 - Processus qui utilise la lumière du Soleil pour couper des molécules d'eau (water splitting)
@@ -90,7 +93,6 @@
 
 - Le Protérozoique commence par une Terre boule de neige (du Makganyene)
 
-
 # L'apparition des eucaryotes
 
 - Leur structure est beaucoup plus complexe que les procaryotes
@@ -109,7 +111,7 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 - Les espèces séxuées créent une immense variété génétique, alors que les espèces asexuées créent des clones. Ce pool d'innovation permet aux espèces sexuées de s'adapter plus rapidement à des conditions changeantes que les espèces asexuées
 - **L'hypothèse de la Reine rouge :** le sexe persiste à cause de la co-évolution entre parasites et hôtes, entre prédateurs et proies.
 
-# l'évolution : contingente ou convergente ?
+# L'évolution : contingente ou convergente ?
 
 - Steven Jay Gould pense que l'évolution est contingente (cf *Wonderful life*)
 > Si on rembobine le film de la vie et qu'on appuie sur lecture, l'issue sera très différente de celle qu'on a aujourd'hui
