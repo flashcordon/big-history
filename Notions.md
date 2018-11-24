@@ -1,6 +1,6 @@
 *Source:* Revolutions that made the Earth, Tim Lenton (2011)
 
-# Origine de la vie
+# L'origine de la vie
 
 ## Date d'apparition de la vie: 
 
@@ -20,4 +20,10 @@
 > A l'époque de la formation des planètes, il n'était pas rare que des matériaux d'une planète arrive sur une autre planète sous  forme de météorites. Il y a des météorites martiennes sur Terre et des météorites terrestres sur Mars. Plus dur d'échanger des matériaux comme ça aujourd'hui mais il y a des milliards d'années c'était possible.
 - Controverse sur la météorite martienne d'Allan Hills (ALH84001, 1996): conclusion: probablement pas de la vie sur cette météorite (mais impossible à démentir définitivement)
 
+# La photosynthèse oxygénique
+
+- Inventé par les cyanobactéries
+- Utilise la lumière du Soleil pour couper des molécules d'eau (water splitting)
+- Permet de produire de l'énergie avec juste de la lumière du Soleil, du CO2 et de l'eau, 3 des ressources les plus abondantes de la planète
+- Les cyanobactéries sont devenues les ancètres des chloroplastes des algues et des plantes (endosymbiose, cf Margulis)
 
