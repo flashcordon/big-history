@@ -59,7 +59,7 @@
 ### Conséquences de la grande oxydation
 - La libération de l'oxygène a probablement nettoyé les hydrocarbures de l'atmosphère (comment?), et donc dissipé le brouillard qui entourait la Terre.
 - La libération de l'oxygène a aussi créé notre couche d'ozone (O3), généré par l'action des UV sur les molécules d'oxygène (O2). Une fois formée, la couche d'ozone bloque une grande partie des UV en provenance du Soleil. C'est utile au développement de la vie, car les UV endommagent les molécules d'ADN.
-- La surface de la Terre rouille, littéralement. L'oxygène de l'atmosphère réagit avec le fer des roches de la surface, ce qui crée de l'hématite (ie de la rouille) de couleur rouge. La surface de la Terre devient donc rouge.
+- La surface de la Terre rouille, littéralement. L'oxygène de l'atmosphère réagit avec le fer des roches de la surface, ce qui crée de l'hématite (ie de la rouille) de couleur rouge. La surface de la Terre se peint en rouge.
 
 # L'apparition des eucaryotes
 
