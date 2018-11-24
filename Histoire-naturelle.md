@@ -152,8 +152,8 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 > * C'est en fait la combinaison de 2 événements distincts 
 > * L'événement qu'on nomme 'la grande mort' a a duré moins de 200 000 ans
 > * Ca a affecté tous les groupes d'organismes, sur Terre et dans les mers
-> * Ca a pris des dizaines de millions d'années pour reconstruire des écosystèmes complexes, et 100 Myrs pour arriver au niveau de diversité des familles pré-extinction
-> * ***Causes probables:*** des éruptions volcaniques libèrent d'immenses quantités de CO2. Ca a réchauffé la planète (runaway greenhouse) et affecté la circulation marine, et les océans se sont retrouvés en manque d'oxygène. Les océans se sont acidifiés
+> * Ca a pris des dizaines de millions d'années pour reconstruire des écosystèmes complexes, et 100 Myrs pour que la biodiversité retrouve son niveau d'origine
+> * ***Causes probables:*** des éruptions volcaniques en Chine puis dans les trapps de Sibérie libèrent d'immenses quantités de CO2. Ca a réchauffé la planète (runaway greenhouse) et affecté la circulation marine, et les océans se sont retrouvés en manque d'oxygène. Les océans se sont acidifiés
 * Fin du trias: 80% des espèces éteintes
 * Fin du crétacé: 73% des espèces éteintes
 
