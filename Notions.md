@@ -13,4 +13,4 @@
 
 
 ### **La vie a t-elle pu apparaître pendant le LHB ?**
-> Les gros impacts du LHB ont fait bouillir une bonne partie des océans, mais jamais son intégralité, donc la vie aurait pu survivre dans des poches d'eau profonde.
+> Les gros impacts du LHB ont fait bouillir une bonne partie des océans, mais jamais son intégralité, donc la vie aurait pu survivre dans des poches d'eau profonde. Des hyperthermophiles auraient peut être pu se développer ? Il n'y a pas de consensus là dessus (débat: origine 'chaude' vs origine 'froide' de la vie)
