@@ -76,7 +76,7 @@
 
 ### Terre boule de neige
 
-- Périodes glaciaires qui dure entre plusieurs dizaines et plusieurs centaines de millions d'années, et qui se caractérise par la glace qui reconvre la quasi totalité (voire la totalité dans les scénarios les plus violents) de la surface de la Terre. Les glaces recouvrent tout jusqu'à des latitudes tropicales ! La Terre ressemble alors à Europe ou Encelade
+- Périodes glaciaires qui dure des dizaines de millions d'années, et qui se caractérise par la glace qui reconvre la quasi totalité (voire la totalité dans les scénarios les plus violents) de la surface de la Terre. Les glaces recouvrent tout jusqu'à des latitudes tropicales ! La Terre ressemble alors à Europe ou Encelade
 - Nommé par Joe Kirschvink (années 90)
 - Y en a eu au moins 3 dans l'histoire de la Terre
 - Plus la Terre est couverte par les glaces, plus la lumière du Soleil est réfléchie et donc plus la Terre se refroidit, et donc plus les glaces gagnent du terrain.
