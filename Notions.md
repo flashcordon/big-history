@@ -22,9 +22,13 @@
 
 # La photosynthèse oxygénique
 
-- Inventé par les cyanobactéries
+- Inventé par les cyanobactéries entre 3.4 et 2.7 Gyrs
 - Processus qui utilise la lumière du Soleil pour couper des molécules d'eau (water splitting)
 - Permet de produire de l'énergie avec juste de la lumière du Soleil, du CO2 et de l'eau, 3 des ressources les plus abondantes de la planète. 
 - Un organisme photosynthétique est bien équipé pour survivre dans la plupart des environnements sur Terre.
 - Les cyanobactéries sont devenues les ancètres des chloroplastes des algues et des plantes (endosymbiose, cf Margulis)
+
+- Date de la grande oxidation : 2.4 Gyrs
+
+# L'apparition des eucaryotes
 
