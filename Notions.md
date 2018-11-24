@@ -9,6 +9,7 @@
 
 
 - **Date la plus ancienne possible d'habitabilité continue de la Terre:** 4.4 Gyrs (âge des plus vieux cristaux de zircon, signale la présence d'océans parce que ces zircons n'ont pas fondu pendant le LHB)
+> A cette époque on pense que la Terre a une croûte et un océan stable
 - **Date la plus récente possible d'habitabilité continue de la Terre:** 3.85 Gyrs (fin du LHB)
 
 
