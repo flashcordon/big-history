@@ -35,6 +35,8 @@
 - Certaines de ces cyanobactéries sont devenues les ancètres des chloroplastes des algues et des plantes (endosymbiose, cf Margulis)
 - L'invention de la photosynthèse oxygénique a probablement été la cause de la grande oxidation (après un délai de plusieurs centaines de millions d'années)
 - Date de la grande oxidation : 2.4 Gyrs
+- Le développement de la respiration : métaboliser l'oxygène
+- L'oxygène est toxique. La molécule d'oxygène (O2) en soi est pas très réactive, mais dans les utilisations biochimiques de l'oxygène, des dérivés réactifs de l'oxygène sont créés et endommagent nos cellules en leur subtilisant des électrons. Des mécanismes de réparation existent, mais les dommages s'accumulent au fil du temps et c'est la cause chimique du vieillissement.
 
 # L'apparition des eucaryotes
 
