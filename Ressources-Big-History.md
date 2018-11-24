@@ -180,6 +180,10 @@ Ressources sur la Big History
 - [The Origin and Evolution of Earth](https://www.audible.fr/pd/The-Origin-and-Evolution-of-Earth-Livre-Audio/B00GMPKHDM) - Robert Hazen, The Great Courses (2013) (audiobook + notes de cours en PDF)
 - [Evolution of the early Earth](http://www.ifa.hawaii.edu/~meech/a281/oldlectures/Early_Earth.pdf) - Cours de Karen Meech (2016)
 
+## Articles scientifiques
+
+- [The rise of oxygen in Earth’s early ocean and atmosphere](https://people.earth.yale.edu/sites/default/files/files/Planavsky/30_%20Lyons%20et%20al%20Nature%202014.pdf) - Lyons et al (2014)
+
 ---
 
 # Biologie
