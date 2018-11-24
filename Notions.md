@@ -40,6 +40,6 @@
 
 # L'apparition du sexe
 
-- La reproduction sexuée apparaît chez les eucaryotes
+- La reproduction sexuée apparaît chez les eucaryotes et est un mode de reproduction quasi universel chez les eucaryotes
 - L'avantage évolutif du sexe est un sujet encore débattu, mais il semble important pour la survie à long terme des espèces eucaryotes
-
+> Seulement la moitié des gènes des parents est passée à la génération suivante
