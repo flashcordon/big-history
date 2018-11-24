@@ -38,3 +38,8 @@
 - L'endosymbiose (Margulis): une manière d'acquérir de nouvelles organelles, en engloutissant des organismes mais en échouant à les digérer. La cellule noue une relation symbiotique avec l'organisme ingéré.
 > De cette manière, ils obtiennent les mitochondries, et un de leur ancètre acquiert une cysnobactérie qui deviendra plus tard les chloroplastes
 
+# L'apparition du sexe
+
+- La reproduction sexuée apparaît chez les eucaryotes
+- L'avantage évolutif du sexe est un sujet encore débattu, mais il semble important pour la survie à long terme des espèces eucaryotes
+
