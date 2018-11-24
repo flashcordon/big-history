@@ -8,6 +8,7 @@
 
 *Sources:* 
 - Revolutions that made the Earth, Tim Lenton (2011)
+- Handbook of paleoanthropology - Henke, Winfried, Tattersall, Ian (2003, seconde édition 2015)
 - [Quand la Terre était une boule de neige](https://lejournal.cnrs.fr/articles/quand-la-terre-etait-une-boule-de-neige) - CNRS le journal (Décembre 2017)
 
 
@@ -135,6 +136,7 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 ## Extinctions de masse
 
 - 99% des espèces qui ont un jour vécu sur Terre ont aujourd'hui disparu
+- Selon [Raup et Sepkoski (1982)](http://coleoguy.github.io/reading.group/Raup_Sepkoski_1982.pdf), il y a eu durant le phanérozoique 5 extinctions de masse et 18 autres extinctions de moindre ampleur
 
 # L'évolution : contingente ou convergente
 
