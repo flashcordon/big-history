@@ -19,6 +19,7 @@
 
 # La Terre de l'Hadéen
 
+- Au moment de la formation de la Terre, le Soleil est 30% moins lumineux qu'il ne l'est maintenant (faint young Sun paradox)
 - Seule source de données: les cristaux de zircon (grains rouges de qqs dixièmes de mm, très durs), dont les plus vieux sont datés de 4.4 Gyrs (Australie Occidentale)
 - Les zircons sont la preuve que la Terre avait une croûte à cette époque
 - Date du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
@@ -92,8 +93,9 @@
 # La Terre du Protérozoique
 
 - Le Protérozoique commence par une Terre boule de neige (du Makganyene)
+- Le milieu du 
 
-# L'apparition des eucaryotes
+## L'apparition des eucaryotes
 
 - Leur structure est beaucoup plus complexe que les procaryotes
 - Selon une théorie (?), ce qui a permis les eucaryote de se développer, c'est l'invention par leurs ancètres de la phagocytose, ie la capacité d'engloutir d'autres cellules.
@@ -103,13 +105,17 @@
 - Dater l'apparition des eucaryotes est une tache difficile. Estimation probable : L'évolution de la phagocytose, suivie par l'acquisition des symbiotes apparaît vers 2 Gyrs (+-0.5 Gyrs)
 L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige du protérozoique, et à l'explosion cambrienne
 
-# L'apparition du sexe
+## L'apparition du sexe
 
 - La reproduction sexuée apparaît chez les eucaryotes et est devenue un mode de reproduction quasi universel chez les eucaryotes
 - L'avantage évolutif du sexe est un sujet encore débattu, mais il semble important pour la survie à long terme des espèces eucaryotes
 > Seulement la moitié des gènes des parents est passée à la génération suivante. 
 - Les espèces séxuées créent une immense variété génétique, alors que les espèces asexuées créent des clones. Ce pool d'innovation permet aux espèces sexuées de s'adapter plus rapidement à des conditions changeantes que les espèces asexuées
 - **L'hypothèse de la Reine rouge :** le sexe persiste à cause de la co-évolution entre parasites et hôtes, entre prédateurs et proies.
+
+## L'explosion cambrienne
+
+## Extinctions de masse
 
 # L'évolution : contingente ou convergente
 
