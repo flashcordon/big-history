@@ -32,3 +32,6 @@
 
 # L'apparition des eucaryotes
 
+- Leur structure est beaucoup plus complexe que les procaryotes
+- Selon une théorie (?), ce qui a permis les eucaryote de se développer, c'est l'invention par leurs ancètres de la phagocytose, ie la capacité d'engloutir d'autres cellules.
+
