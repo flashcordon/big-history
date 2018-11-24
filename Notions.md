@@ -3,7 +3,10 @@
 -  [Les éons](#Les-éons)
 - [La Terre de l'Hadéen](#La-Terre-de-lHadéen)
 
-*Source:* Revolutions that made the Earth, Tim Lenton (2011)
+*Sources:* 
+- Revolutions that made the Earth, Tim Lenton (2011)
+- [Quand la Terre était une boule de neige](https://lejournal.cnrs.fr/articles/quand-la-terre-etait-une-boule-de-neige) - CNRS le journal (Décembre 2017)
+
 
 # Les éons 
 - Hadéen (de - 4,6 à - 4 milliards d’années)
