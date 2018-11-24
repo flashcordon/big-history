@@ -103,8 +103,8 @@
 - Ca leur permet d'acquérir de nouvelles organelles, comme le noyau (probablement créé lors du repli de leur structure ?)
 - L'endosymbiose (Margulis): une manière d'acquérir de nouvelles organelles, en engloutissant des organismes mais en échouant à les digérer. La cellule noue une relation symbiotique avec l'organisme ingéré.
 > De cette manière, ils obtiennent les mitochondries, et un de leur ancètre acquiert une cysnobactérie qui deviendra plus tard les chloroplastes
-> La mitochondrie produit l'énergie dont la cellule a besoin, en brûlant les molécules dérivées de la nourriture ingérée par l'organisme avec de l'oxygène. Dans quasiment toutes les cellules eucaryotes, il y a au moins une mitochondrie, et il peut y en avoir des milliers. Elles contiennent leur propre ADN (un seul brin)
-> Le chloroplaste réalise la photosynthèse et la fixation du CO2
+- La mitochondrie produit l'énergie dont la cellule a besoin, en brûlant les molécules dérivées de la nourriture ingérée par l'organisme avec de l'oxygène. Dans quasiment toutes les cellules eucaryotes, il y a au moins une mitochondrie, et il peut y en avoir des milliers. Elles contiennent leur propre ADN (un seul brin). Elles ne peuvent plus survivre sans les ressources fournies par leur cellule hôte.
+- Le chloroplaste réalise la photosynthèse et la fixation du CO2
 - Dater l'apparition des eucaryotes est une tache difficile. Estimation probable : L'évolution de la phagocytose, suivie par l'acquisition des symbiotes apparaît vers 2 Gyrs (+-0.5 Gyrs)
 L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige du protérozoique, et à l'explosion cambrienne
 
