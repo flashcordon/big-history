@@ -68,6 +68,7 @@
 - Nommé par Joe Kirschvink (années 90)
 - Y en a eu 3 dans l'histoire de la Terre
 - Plus la Terre est couverte par les glaces, plus la lumière du Soleil est réfléchie et donc plus la Terre se refroidit, et donc plus les glaces gagnent du terrain.
+- Lors d'une période de Terre boule de neige, la température moyenne de la Terre est équivalente à celle de l'Antarctique actuellement (-50°C). 
 - Hypothèses sur l'origine: la libération de l'oxygène dans l'atmosphère l'a fait réagir avec le méthane de la haute atmosphère, ce qui donne du CO2. Comme le Soleil est moins brillant à cette époque, et que le CO2 est un gaz à effet de serre moins puissant que le méthane, la Terre s'est refroidie.
 - Débat : 'hard snowballers' (la Terre était complètement recouverte par les glaces) VS 'slushballers' (à l'équateur, il devait rester des endroits non gelés)
 
