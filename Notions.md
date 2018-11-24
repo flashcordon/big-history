@@ -26,7 +26,7 @@
 - Processus qui utilise la lumière du Soleil pour couper des molécules d'eau (water splitting)
 - Permet de produire de l'énergie avec juste de la lumière du Soleil, du CO2 et de l'eau, 3 des ressources les plus abondantes de la planète. 
 - Un organisme photosynthétique est bien équipé pour survivre dans la plupart des environnements sur Terre.
-- Les cyanobactéries sont devenues les ancètres des chloroplastes des algues et des plantes (endosymbiose, cf Margulis)
+- Certaines de ces cyanobactéries sont devenues les ancètres des chloroplastes des algues et des plantes (endosymbiose, cf Margulis)
 
 - Date de la grande oxidation : 2.4 Gyrs
 
@@ -34,4 +34,7 @@
 
 - Leur structure est beaucoup plus complexe que les procaryotes
 - Selon une théorie (?), ce qui a permis les eucaryote de se développer, c'est l'invention par leurs ancètres de la phagocytose, ie la capacité d'engloutir d'autres cellules.
+- Ca leur permet d'acquérir de nouvelles organelles, comme le noyau (probablement créé lors du repli de leur structure ?)
+- L'endosymbiose (Margulis): une manière d'acquérir de nouvelles organelles, en engloutissant des organismes mais en échouant à les digérer. La cellule noue une relation symbiotique avec l'organisme ingéré.
+> De cette manière, ils obtiennent les mitochondries, et un de leur ancètre acquiert une cysnobactérie qui deviendra plus tard les chloroplastes
 
