@@ -33,7 +33,7 @@
 - Permet de produire de l'énergie avec juste de la lumière du Soleil, du CO2 et de l'eau, 3 des ressources les plus abondantes de la planète. 
 - Un organisme photosynthétique est bien équipé pour survivre dans la plupart des environnements sur Terre.
 - Certaines de ces cyanobactéries sont devenues les ancètres des chloroplastes des algues et des plantes (endosymbiose, cf Margulis)
-
+- L'invention de la photosynthèse oxygénique a probablement été la cause de la grande oxidation (après un délai de plusieurs centaines de millions d'années)
 - Date de la grande oxidation : 2.4 Gyrs
 
 # L'apparition des eucaryotes
@@ -44,6 +44,7 @@
 - L'endosymbiose (Margulis): une manière d'acquérir de nouvelles organelles, en engloutissant des organismes mais en échouant à les digérer. La cellule noue une relation symbiotique avec l'organisme ingéré.
 > De cette manière, ils obtiennent les mitochondries, et un de leur ancètre acquiert une cysnobactérie qui deviendra plus tard les chloroplastes
 - Dater l'apparition des eucaryotes est une tache difficile. Estimation probable : L'évolution de la phagocytose, suivie par l'acquisition des symbiotes apparaît vers 2 Gyrs (+-0.5 Gyrs)
+L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige du protérozoique, et à l'explosion cambrienne
 
 # L'apparition du sexe
 
