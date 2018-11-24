@@ -6,6 +6,13 @@
 - Protérozoïque (de - 2,5 à - 0,541 milliards d’années)
 - Phanérozoïque (depuis l’explosion cambrienne il y a 541 millions d’années, jusqu'à nos jours)
 
+# La Terre de l'Hadéen
+
+- Seule source de données: les cristaux de zircon (grains rouges de qqs dizaines de mm, très durs), dont les plus vieux sont datés de 4.4 Gyrs (Australie Occidentale)
+- Les zircons sont la preuve que la Terre avait une croûte à cette époque
+- Date du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
+- Le LHB a probablement été causé par des résonances entre les orbites de Jupiter et de Saturne 700 millions d'années après la formation de la Terre qui ont perturbé les orbites de Neptune et Uranus, causant le chaos dans l'essaim d'astéroides environnant (modèle de Nice)
+
 # L'origine de la vie
 
 ## Date d'apparition de la vie: 
