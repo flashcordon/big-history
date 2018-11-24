@@ -55,6 +55,8 @@
 - L'oxygène est toxique. La molécule d'oxygène (O2) en soi est pas très réactive, mais dans les utilisations biochimiques de l'oxygène, des dérivés réactifs de l'oxygène sont créés et endommagent nos cellules en leur subtilisant des électrons. Des mécanismes de réparation existent, mais les dommages s'accumulent au fil du temps et c'est la cause chimique du vieillissement.
 - Pour les organismes qui avaient évolué dans la Terre de l'Archéen sans oxygène, l'oxygène produite par les cyanobactéries était un poison.
 - A la fin de la grande Oxydation, la concentration en oxygène de l'atmosphère est d'environ 1% de la concentration actuelle
+- La libération de l'oxygène a probablement nettoyé les hydrocarbures de l'atmosphère (comment?), et donc dissipé le brouillard qui entourait la Terre.
+- La libération de l'oxygène a aussi créé notre couche d'ozone (O3), généré par l'action des UV sur les molécules d'oxygène (O2). Une fois formée, la couche d'ozone bloque une grande partie des UV en provenance du Soleil. C'est utile au développement de la vie, car les UV endommagent les molécules d'ADN.
 
 # L'apparition des eucaryotes
 
