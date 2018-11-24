@@ -15,3 +15,9 @@
 
 ### **La vie a t-elle pu apparaître pendant le LHB ?**
 > Les gros impacts du LHB ont fait bouillir une bonne partie des océans, mais jamais son intégralité, donc la vie aurait pu survivre dans des poches d'eau profonde. Des hyperthermophiles auraient peut être pu se développer ? Il n'y a pas de consensus là dessus (débat: origine 'chaude' vs origine 'froide' de la vie)
+
+### la vie a t-elle pu apparaître ailleurs que sur Terre ? 
+> A l'époque de la formation des planètes, il n'était pas rare que des matériaux d'une planète arrive sur une autre planète sous  forme de météorites. Il y a des météorites martiennes sur Terre et des météorites terrestres sur Mars. Plus dur d'échanger des matériaux comme ça aujourd'hui mais il y a des milliards d'années c'était possible.
+- Controverse sur la météorite martienne d'Allan Hills (ALH84001, 1996): conclusion: probablement pas de la vie sur cette météorite
+
+
