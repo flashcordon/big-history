@@ -54,7 +54,7 @@
 - Le développement de la respiration : métaboliser l'oxygène
 - L'oxygène est toxique. La molécule d'oxygène (O2) en soi est pas très réactive, mais dans les utilisations biochimiques de l'oxygène, des dérivés réactifs de l'oxygène sont créés et endommagent nos cellules en leur subtilisant des électrons. Des mécanismes de réparation existent, mais les dommages s'accumulent au fil du temps et c'est la cause chimique du vieillissement.
 - Pour les organismes qui avaient évolué dans la Terre de l'Archéen sans oxygène, l'oxygène produite par les cyanobactéries était un poison.
-- A la fin de la grande Oxydation, la concentration en oxygène de l'atmosphère est d'environ 1% de la concentration actuelle
+- A la fin de la grande Oxydation, la concentration en oxygène de l'atmosphère est d'environ 1% de la concentration actuelle (on suffoquerait si on y était)
 
 ### Conséquences de la grande oxydation
 - La libération de l'oxygène a probablement nettoyé les hydrocarbures de l'atmosphère, et donc dissipé le brouillard qui entourait la Terre.
@@ -66,7 +66,7 @@
 
 - Périodes glaciaires qui dure entre plusieurs dizaines et plusieurs centaines de millions d'années, et qui se caractérise par la glace qui reconvre la quasi totalité (voire la totalité dans les scénarios les plus violents) de la surface de la Terre. Les glaces recouvrent tout jusqu'à des latitudes tropicales !
 - Nommé par Joe Kirschvink (années 90)
-- Y en a eu 3 dans l'histoire de la Terre
+- Y en a eu au moins 3 dans l'histoire de la Terre
 - Plus la Terre est couverte par les glaces, plus la lumière du Soleil est réfléchie et donc plus la Terre se refroidit, et donc plus les glaces gagnent du terrain.
 - Lors d'une période de Terre boule de neige, la température moyenne de la Terre est équivalente à celle de l'Antarctique actuellement (-50°C). Aux pôles, des températures de moyennes de -70°C et de -100°C en hiver.
 - L'atmosphère est super sèche, parce qu'il fait trop froid pour qu'elle maintienne de l'eau: donc pas de nuages
@@ -76,6 +76,11 @@
 ***Comment la vie a t-elle pu survivre à des épisodes de Terre boule de neige ?***
 > La plupart des procaryotes peuvent survivre dans des environnements gelés pendant des millions d'années. Certains développent leur propres antigels (les cryoprotecteurs), d'autres ont pu se développer dans les rares environnements chauds que la Terre a à offrir à ce moment (évents hydrothermaux, sources chaudes)
 > Pour la vie multicellulaire, c'est plus dur. Même si les sources chaudes offrent des refuges critiques.
+
+# La Terre du Protérozoique
+
+- Le Protérozoique commence par une Terre boule de neige (du Makganyene)
+
 
 # L'apparition des eucaryotes
 
