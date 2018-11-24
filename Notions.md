@@ -73,6 +73,10 @@
 - Hypothèses sur l'origine: la libération de l'oxygène dans l'atmosphère l'a fait réagir avec le méthane de la haute atmosphère, ce qui donne du CO2. Comme le Soleil est moins brillant à cette époque, et que le CO2 est un gaz à effet de serre moins puissant que le méthane, la Terre s'est refroidie.
 - Débat : 'hard snowballers' (la Terre était complètement recouverte par les glaces) VS 'slushballers' (à l'équateur, il devait rester des endroits non gelés)
 
+***Comment la vie a t-elle pu survivre à des épisodes de Terre boule de neige ?***
+> La plupart des procaryotes peuvent survivre dans des environnements gelés pendant des millions d'années. Certains développent leur propres antigels (les cryoprotecteurs), d'autres ont pu se développer dans les rares environnements chauds que la Terre a à offrir à ce moment (évents hydrothermaux, sources chaudes)
+> Pour la vie multicellulaire, c'est plus dur. Même si les sources chaudes offrent des refuges critiques.
+
 # L'apparition des eucaryotes
 
 - Leur structure est beaucoup plus complexe que les procaryotes
