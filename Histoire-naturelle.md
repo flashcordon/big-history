@@ -147,7 +147,7 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 > * ff
 > * ff
 * Fin du dévonien: 81% des espèces éteintes
-* Fin du Permien (Permien-Trias): 95% des espèces éteintes
+* Fin du Permien (Permien-Trias, 252 Myrs): 95% des espèces marines éteintes, et 70% des espèces continentales
 > * La plus grande extinction de masse de l'histoire
 > * C'est en fait la combinaison de 2 événements distincts 
 > * L'événement qu'on nomme 'la grande mort' a a duré moins de 200 000 ans
