@@ -40,6 +40,8 @@
 
 # L'apparition du sexe
 
-- La reproduction sexuée apparaît chez les eucaryotes et est un mode de reproduction quasi universel chez les eucaryotes
+- La reproduction sexuée apparaît chez les eucaryotes et est devenue un mode de reproduction quasi universel chez les eucaryotes
 - L'avantage évolutif du sexe est un sujet encore débattu, mais il semble important pour la survie à long terme des espèces eucaryotes
-> Seulement la moitié des gènes des parents est passée à la génération suivante
+> Seulement la moitié des gènes des parents est passée à la génération suivante. 
+- Les espèces séxuées créent une immense variété génétique, alors que les espèces asexuées créent des clones. Ce pool d'innovation permet aux espèces sexuées de s'adapter plus rapidement à des conditions changeantes que les espèces asexuées
+- **L'hypothèse de la Reine rouge :** le sexe persiste à cause de la co-évolution entre parasites et hôtes, entre prédateurs et proies. 
