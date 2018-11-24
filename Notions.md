@@ -89,6 +89,10 @@
 > La plupart des procaryotes peuvent survivre dans des environnements gelés pendant des millions d'années. Certains développent leur propres antigels (les cryoprotecteurs), d'autres ont pu se développer dans les rares environnements chauds que la Terre a à offrir à ce moment (évents hydrothermaux, sources chaudes)
 > Pour la vie multicellulaire, c'est plus dur. Même si les sources chaudes offrent des refuges critiques.
 
+***Comment on sort d'une Terre boule de neige?***
+
+
+
 # La Terre du Protérozoique
 
 - Le Protérozoique commence par une Terre boule de neige (glaciation Huronienne)
