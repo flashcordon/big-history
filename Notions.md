@@ -46,11 +46,17 @@
 - Permet de produire de l'énergie avec juste de la lumière du Soleil, du CO2 et de l'eau, 3 des ressources les plus abondantes de la planète. 
 - Un organisme photosynthétique est bien équipé pour survivre dans la plupart des environnements sur Terre.
 - Certaines de ces cyanobactéries sont devenues les ancètres des chloroplastes des algues et des plantes (endosymbiose, cf Margulis)
-- L'invention de la photosynthèse oxygénique a probablement été la cause de la grande oxidation (après un délai de plusieurs centaines de millions d'années)
-- Date de la grande oxidation : 2.4 Gyrs
+- L'invention de la photosynthèse oxygénique a probablement été la cause de la grande oxydation (après un délai de plusieurs centaines de millions d'années)
+
+## La grande oxydation
+
+- L'un des événements les plus importants de l'histoire de la Terre
+- Nommé par Dick Holland
+- Date de la grande oxydation : 2.4 Gyrs
 - Le développement de la respiration : métaboliser l'oxygène
 - L'oxygène est toxique. La molécule d'oxygène (O2) en soi est pas très réactive, mais dans les utilisations biochimiques de l'oxygène, des dérivés réactifs de l'oxygène sont créés et endommagent nos cellules en leur subtilisant des électrons. Des mécanismes de réparation existent, mais les dommages s'accumulent au fil du temps et c'est la cause chimique du vieillissement.
 - Pour les organismes qui avaient évolué dans la Terre de l'Archéen sans oxygène, l'oxygène produite par les cyanobactéries était un poison.
+- A la fin de la grande Oxydation, la concentration en oxygène de l'atmosphère est d'environ 1% de la concentration actuelle
 
 # L'apparition des eucaryotes
 
