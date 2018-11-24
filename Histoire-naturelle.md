@@ -4,6 +4,7 @@
 - [La Terre de l'Hadéen](#La-Terre-de-lHadéen)
 - [La Terre de l'Archéen](#La-Terre-de-lArchéen)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
+- [La Terre du Phanérozoique](#La-Terre-du-Phanérozoique)
 
 *Sources:* 
 - Revolutions that made the Earth, Tim Lenton (2011)
@@ -124,12 +125,16 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 - Les espèces séxuées créent une immense variété génétique, alors que les espèces asexuées créent des clones. Ce pool d'innovation permet aux espèces sexuées de s'adapter plus rapidement à des conditions changeantes que les espèces asexuées
 - **L'hypothèse de la Reine rouge :** le sexe persiste à cause de la co-évolution entre parasites et hôtes, entre prédateurs et proies.
 
+# La Terre du Phanérozoique
+
 ## L'explosion cambrienne
 
 - Débat : qu'est ce qui a causé l'explosion Cambrienne ? (non encore résolu)
 - hypothèse populaire : une augmentation de l'oxygène dans l'atmosphère a déclenché l'explosion Cambrienne (source ?)
 
 ## Extinctions de masse
+
+- 99% des espèces qui ont un jour vécu sur Terre ont aujourd'hui disparu
 
 # L'évolution : contingente ou convergente
 
