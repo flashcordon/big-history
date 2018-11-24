@@ -13,4 +13,4 @@
 
 
 - La vie a t-elle pu apparaître pendant le LHB ?
-> Les gros impacts du LHB ont fait bouillir une bonne partie des océans, mais jamais son intégralité, 
+> Les gros impacts du LHB ont fait bouillir une bonne partie des océans, mais jamais son intégralité, donc la vie aurait pu survivre dans des poches d'eau profonde.
