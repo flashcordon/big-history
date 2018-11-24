@@ -138,6 +138,16 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 - 99% des espèces qui ont un jour vécu sur Terre ont aujourd'hui disparu
 - Selon [Raup et Sepkoski (1982)](http://coleoguy.github.io/reading.group/Raup_Sepkoski_1982.pdf), il y a eu durant le phanérozoique 5 extinctions de masse et 18 autres extinctions de moindre ampleur
  - ***Définition d'une extinction de masse:*** un événement quasi global, qui fait disparaître une fraction non négligeable des espèces (+ de 30%), qui affecte des espèces provenant d'environnements différents, et qui s'est produit durant un temps très court à l'échelle géologique
+- Il y a un taux d'extinction d'espèces "normal" (background), mais durant une extinction de masse ce taux est beaucoup plus grand. 
+- Il n'y a pas de causes communes aux extinctions de masse. 
+- L'idée qu'il y a une périodicité dans les extinctions de masse n'est plus soutenue par la majorité de la communauté scientifique aujourd'hui
+
+***Les 5 extinctions de masse***
+* Fin de l’ordivicien: 85% des espèces éteintes
+* Fin du dévonien: 81% des espèces éteintes
+* Fin du permien: 95% des espèces éteintes
+* Fin du trias: 80% des espèces éteintes
+* Fin du crétacé: 73% des espèces éteintes
 
 # L'évolution : contingente ou convergente
 
