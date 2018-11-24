@@ -37,6 +37,8 @@
 - Ca leur permet d'acquérir de nouvelles organelles, comme le noyau (probablement créé lors du repli de leur structure ?)
 - L'endosymbiose (Margulis): une manière d'acquérir de nouvelles organelles, en engloutissant des organismes mais en échouant à les digérer. La cellule noue une relation symbiotique avec l'organisme ingéré.
 > De cette manière, ils obtiennent les mitochondries, et un de leur ancètre acquiert une cysnobactérie qui deviendra plus tard les chloroplastes
+- Dater l'apparition des eucaryotes est une tache difficile. 
+> Estimation probable : L'évolution de la phagocytose, suivie par l'acquisition des symbiotes apparaît vers 2 Gyrs (+-0.5 Gyrs)
 
 # L'apparition du sexe
 
