@@ -144,7 +144,8 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 
 ***Les 5 extinctions de masse***
 * Fin de l’ordivicien: 85% des espèces éteintes
-** ff
+> * ff
+> * ff
 * Fin du dévonien: 81% des espèces éteintes
 * Fin du permien: 95% des espèces éteintes
 * Fin du trias: 80% des espèces éteintes
