@@ -1,6 +1,5 @@
 # Table des matières
 
-- [Les éons](#Les-éons)
 - [La Terre de l'Hadéen](#La-Terre-de-lHadéen)
 - [La Terre de l'Archéen](#La-Terre-de-lArchéen)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
@@ -13,6 +12,7 @@
 - [La limite Permien – Trias : LA crise majeure du monde vivant](http://acces.ens-lyon.fr/acces/logiciels/videotheque/20090512/fichiers/sylvie_crasquin.pdf) - Conférence de Sylvie Crasquin (2009)
 - [Quelles sont les principales crises biologiques qu’ait connues la Terre ?](http://geologie.mnhn.fr/biodiversite-crises/page4.htm) - Département de géologie du MNHN
 - [When Earth hit the reset button on life: New research on the Permian-Triassic mass extinction](https://www.earthmagazine.org/article/when-earth-hit-reset-button-life-new-research-permian-triassic-mass-extinction) - Earth magazine (Octobre 2016)
+- Scatter, Adapt, and Remember, Analee Newitz (2013)
 
 # Les éons 
 - Hadéen (de - 4,6 à - 4 milliards d’années)
@@ -161,7 +161,10 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 > * Un des grands survivants de la crise P-T, c'est le lystrausaures, un animal herbivore mi-mammifère, mi-reptile, de la taille d'un cochon. Sans prédateur et sans compétition pour la nourriture, Les lystrausaures et leurs descendants dominent le monde pendant un moment.
 > * A la fin de la crise P-T, le règne des dinosaures commence
 * Fin du trias (Trias-Jurassique 205 Myrs): 80% des espèces éteintes
-* Fin du crétacé (Crétacé-Paléogène, -65 Myrs): 73% des espèces éteintes
+* Fin du crétacé (Crétacé-Paléogène, nouveau nom de la crise Crétacé-Tertiaire, -65 Myrs): 73% des espèces éteintes
+> * La plus populaire des extinctions, mais aussi la moins sévère
+> * ***Causes probables:*** Un astéroide de 10km de diamètre a frappé la Terre il y a 66 Myrs. Le cratère se trouve à Chicxulub, dans la péninsule du Yucatan (Mexique). Une intense période d'activité volcanique de moins de 2 Myrs est aussi mesurée à cette époque, en provenance des trapps du Deccan.
+> * Il y a un débat actuellement entre les gradualistes et les catastrophistes. 
 
 # L'évolution : contingente ou convergente
 
