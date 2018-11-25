@@ -12,6 +12,7 @@
 - [Quand la Terre était une boule de neige](https://lejournal.cnrs.fr/articles/quand-la-terre-etait-une-boule-de-neige) - CNRS le journal (Décembre 2017)
 - [La limite Permien – Trias : LA crise majeure du monde vivant](http://acces.ens-lyon.fr/acces/logiciels/videotheque/20090512/fichiers/sylvie_crasquin.pdf) - Conférence de Sylvie Crasquin (2009)
 - [Quelles sont les principales crises biologiques qu’ait connues la Terre ?](http://geologie.mnhn.fr/biodiversite-crises/page4.htm) - Département de géologie du MNHN
+- [When Earth hit the reset button on life: New research on the Permian-Triassic mass extinction](https://www.earthmagazine.org/article/when-earth-hit-reset-button-life-new-research-permian-triassic-mass-extinction) - Earth magazine (Octobre 2016)
 
 # Les éons 
 - Hadéen (de - 4,6 à - 4 milliards d’années)
