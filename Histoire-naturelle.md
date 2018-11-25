@@ -155,8 +155,11 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 > * C'est en fait la combinaison de 2 événements distincts 
 > * L'événement qu'on nomme 'la grande mort' a a duré moins de 200 000 ans
 > * Ca a affecté tous les groupes d'organismes, sur Terre et dans les mers
+> * Ca signe notamment la disparition des trilobites, des arthropodes marins (mais leur diversité était déjà en déclin depuis un moment)
 > * Ca a pris 10Myrs pour reconstruire des écosystèmes complexes, et 100 Myrs pour que la biodiversité retrouve son niveau d'origine
-> * ***Causes probables:*** Le scénario de Wingall semble le plus complet à l'heure actuelle. Selon ce scénario, des éruptions volcaniques en Chine (trapps d'Emeishan) puis en Sibérie (trapps de Sibérie) libèrent d'immenses quantités de CO2. Chacune de ces éruptions dure 1 million d'années. Ca a réchauffé la planète (runaway greenhouse) et affecté la circulation marine, et les océans se sont retrouvés en manque d'oxygène. Les océans se sont acidifiés
+> * ***Causes probables:*** Le scénario de Paul Wingall semble le plus complet à l'heure actuelle. Selon ce scénario, des éruptions volcaniques en Chine (trapps d'Emeishan) puis en Sibérie (trapps de Sibérie) libèrent d'immenses quantités de CO2 sur 1 Myrs chacun (11 périodes éruptives). Les cendres obscurcissent le ciel à court terme (ciel pourpre), et cela cause un bref âge glaciaire (durée?). Sur le long terme, le CO2 rejeté par les volcans réchauffe la planète de 5°C, et ça a causé une 1ère extinction des espèces terrestres (diminution du nombre des naissances avec disparition de plus en plus importante des plus faibles). Les océans finissent aussi par se réchauffer, ce qui entraîne la mort des espèces marines. Les eaux de plus en plus chaudes entraînent la libération des chlarate (hydrates de méthane) dans l'atmosphère. Le méthane est un gaz à effet de serre très puissant, et ça a pour effet d'augmenter la température de la Terre de 5°C supplémentaires. A certains endroits, l'eau est à une température insupportable pour la vie marine (près de 40°C à l'équateur, VS aujourd'hui: 30-35°C). L'eau chaude maintient moins bien l'oxygène dissous que l'eau froide, du coup de vastes régions océaniques deviennent anoxiques et une bonne partie de la vie marine meurt d'asphyxie.
+
+et affecté la circulation marine, et les océans se sont retrouvés en manque d'oxygène. 
 * Fin du trias (Trias-Jurassique 205 Myrs): 80% des espèces éteintes
 * Fin du crétacé (Crétacé-Paléogène, -65 Myrs): 73% des espèces éteintes
 
