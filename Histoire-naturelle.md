@@ -149,7 +149,8 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 ***Les 5 extinctions de masse***
 * Fin de l’Ordivicien (-450 Myrs): 85% des espèces éteintes
 * Fin du dévonien (Dévonien supérieur, -370 Myrs): 81% des espèces éteintes
-* Fin du Permien (Permien-Trias, 252 Myrs): 95% des espèces marines éteintes, et 70% des espèces continentales
+* ***Fin du Permien (Permien-Trias, 252 Myrs):*** 
+> * 95% des espèces marines éteintes, et 70% des espèces continentales
 > * La plus grande extinction de masse de l'histoire
 > * A l'époque, les continents sont reliés entre eux en un supercontinent, la Pangée, entouré par un océan nommé Panthalassa
 > * La flore continentale est alors dominée par les fougères géantes et les conifères. 
@@ -162,7 +163,8 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 > * Un des grands survivants de la crise P-T, c'est le lystrausaures, un animal herbivore mi-mammifère, mi-reptile, de la taille d'un cochon. Sans prédateur et sans compétition pour la nourriture, Les lystrausaures et leurs descendants dominent le monde pendant un moment.
 > * A la fin de la crise P-T, le règne des dinosaures commence
 * Fin du trias (Trias-Jurassique 205 Myrs): 80% des espèces éteintes
-* Fin du crétacé (Crétacé-Paléogène, nouveau nom de la crise Crétacé-Tertiaire, -65 Myrs): 73% des espèces éteintes
+* ***Fin du crétacé (Crétacé-Paléogène, nouveau nom de la crise Crétacé-Tertiaire, -65 Myrs):*** 
+> * 73% des espèces éteintes
 > * La plus populaire des extinctions, mais aussi la moins sévère
 > * ***Causes probables:*** Une intense période d'activité volcanique de moins de 2 Myrs (600 000 ans selon Emmanuel Robert) est mesurée à cette époque, en provenance des trapps du Deccan. Un astéroide de 10km de diamètre a frappé la Terre il y a 66 Myrs. Le cratère se trouve à Chicxulub, dans la péninsule du Yucatan, Mexique (cratère invisible en surface mais détectable par gravimétrie). L'impact crée une boule de feu qui déclenche des feux de forêt, l'onde de choc crée un tsunami qui dévaste les côtes. L'impact génère aussi énormément de poussière dans l'atmosphère, qui restent suspendues dans l'atmosphère pendant des mois voire des années, assombrissant le ciel. La température de la Terre baisse d'une dizaine de degrés. La photosynthèse est quasiment stoppée, et de nombreuses plantes disparaissent. La chaîne alimentaire est rompue, et les plus gros animaux meurent.  
 > * Il y a un débat actuellement entre les gradualistes et les catastrophistes. Mais un scénario multifactoriel semble le plus satisfaisant aujourd'hui.
