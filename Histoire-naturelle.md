@@ -142,15 +142,14 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 - Il y a un taux d'extinction d'espèces "normal" (background), mais durant une extinction de masse ce taux est beaucoup plus grand. 
 - Il n'y a pas de causes communes aux extinctions de masse. 
 - L'idée qu'il y a une périodicité dans les extinctions de masse n'est plus soutenue par la majorité de la communauté scientifique aujourd'hui
+- Après chaque extinction de masse, de nouvelles communautés d'organismes se développent et occupent les biotopes laissés vides. Il y a des gagnants, et des perdants.
 
 ***Les 5 extinctions de masse***
 * Fin de l’Ordivicien (-450 Myrs): 85% des espèces éteintes
-> * ff
-> * ff
 * Fin du dévonien (Dévonien supérieur, -370 Myrs): 81% des espèces éteintes
 * Fin du Permien (Permien-Trias, 252 Myrs): 95% des espèces marines éteintes, et 70% des espèces continentales
 > * La plus grande extinction de masse de l'histoire
-> * A l'époque, les continents sont reliés entre eux en un supercontinent, la Pangée.
+> * A l'époque, les continents sont reliés entre eux en un supercontinent, la Pangée, entouré par un océan nommé Panthalassa
 > * La flore continentale est alors dominée par les fougères géantes et les conifères. 
 > * C'est en fait la combinaison de 2 événements distincts 
 > * L'événement qu'on nomme 'la grande mort' a a duré moins de 200 000 ans
@@ -158,8 +157,8 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 > * Ca signe notamment la disparition des trilobites, des arthropodes marins (mais leur diversité était déjà en déclin depuis un moment)
 > * Ca a pris 10Myrs pour reconstruire des écosystèmes complexes, et 100 Myrs pour que la biodiversité retrouve son niveau d'origine
 > * ***Causes probables:*** Le scénario de Paul Wingall semble le plus complet à l'heure actuelle. Selon ce scénario, des éruptions volcaniques en Chine (trapps d'Emeishan) puis en Sibérie (trapps de Sibérie) libèrent d'immenses quantités de CO2 sur 1 Myrs chacun (11 périodes éruptives). Les cendres obscurcissent le ciel à court terme (ciel pourpre), et cela cause un bref âge glaciaire (durée?). Sur le long terme, le CO2 rejeté par les volcans réchauffe la planète de 5°C, et ça a causé une 1ère extinction des espèces terrestres (diminution du nombre des naissances avec disparition de plus en plus importante des plus faibles). Les océans finissent aussi par se réchauffer, ce qui entraîne la mort des espèces marines. Les eaux de plus en plus chaudes entraînent la libération des chlarate (hydrates de méthane) dans l'atmosphère. Le méthane est un gaz à effet de serre très puissant, et ça a pour effet d'augmenter la température de la Terre de 5°C supplémentaires. A certains endroits, l'eau est à une température insupportable pour la vie marine (près de 40°C à l'équateur, VS aujourd'hui: 30-35°C). L'eau chaude maintient moins bien l'oxygène dissous que l'eau froide, du coup de vastes régions océaniques deviennent anoxiques et une bonne partie de la vie marine meurt d'asphyxie.
-
-et affecté la circulation marine, et les océans se sont retrouvés en manque d'oxygène. 
+> * Un des grands survivants de la crise P-T, c'est le lystrausaures, un animal herbivore mi-mammifère, mi-reptile, de la taille d'un cochon. Sans prédateur et sans compétition pour la nourriture, Les lystrausaures et leurs descendants dominent le monde pendant un moment.
+> * A la fin de la crise P-T, le règne des dinosaures commence
 * Fin du trias (Trias-Jurassique 205 Myrs): 80% des espèces éteintes
 * Fin du crétacé (Crétacé-Paléogène, -65 Myrs): 73% des espèces éteintes
 
