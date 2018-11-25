@@ -10,7 +10,7 @@
 - Revolutions that made the Earth, Tim Lenton (2011)
 - Handbook of paleoanthropology - Henke, Winfried, Tattersall, Ian (2003, seconde édition 2015)
 - [Quand la Terre était une boule de neige](https://lejournal.cnrs.fr/articles/quand-la-terre-etait-une-boule-de-neige) - CNRS le journal (Décembre 2017)
-
+- [La limite Permien – Trias : LA crise majeure du monde vivant](http://acces.ens-lyon.fr/acces/logiciels/videotheque/20090512/fichiers/sylvie_crasquin.pdf) - Conférence de Sylvie Crasquin (2009)
 
 # Les éons 
 - Hadéen (de - 4,6 à - 4 milliards d’années)
@@ -149,9 +149,12 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 * Fin du dévonien: 81% des espèces éteintes
 * Fin du Permien (Permien-Trias, 252 Myrs): 95% des espèces marines éteintes, et 70% des espèces continentales
 > * La plus grande extinction de masse de l'histoire
+> * A l'époque, les continents sont reliés entre eux en un supercontinent, la Pangée.
+> * La flore continentale est alors dominée par les fougères géantes et les conifères. 
 > * C'est en fait la combinaison de 2 événements distincts 
 > * L'événement qu'on nomme 'la grande mort' a a duré moins de 200 000 ans
 > * Ca a affecté tous les groupes d'organismes, sur Terre et dans les mers
+> * C'est la seule extinction de masse connue qui a aussi affecté les insectes
 > * Ca a pris 10Myrs pour reconstruire des écosystèmes complexes, et 100 Myrs pour que la biodiversité retrouve son niveau d'origine
 > * ***Causes probables:*** des éruptions volcaniques en Chine puis dans les trapps de Sibérie libèrent d'immenses quantités de CO2. Ca a réchauffé la planète (runaway greenhouse) et affecté la circulation marine, et les océans se sont retrouvés en manque d'oxygène. Les océans se sont acidifiés
 * Fin du trias: 80% des espèces éteintes
