@@ -164,8 +164,8 @@ L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige
 * Fin du trias (Trias-Jurassique 205 Myrs): 80% des espèces éteintes
 * Fin du crétacé (Crétacé-Paléogène, nouveau nom de la crise Crétacé-Tertiaire, -65 Myrs): 73% des espèces éteintes
 > * La plus populaire des extinctions, mais aussi la moins sévère
-> * ***Causes probables:*** Un astéroide de 10km de diamètre a frappé la Terre il y a 66 Myrs. Le cratère se trouve à Chicxulub, dans la péninsule du Yucatan (Mexique). Une intense période d'activité volcanique de moins de 2 Myrs est aussi mesurée à cette époque, en provenance des trapps du Deccan.
-> * Il y a un débat actuellement entre les gradualistes et les catastrophistes. 
+> * ***Causes probables:*** Une intense période d'activité volcanique de moins de 2 Myrs (600 000 ans selon Emmanuel Robert) est mesurée à cette époque, en provenance des trapps du Deccan. Un astéroide de 10km de diamètre a frappé la Terre il y a 66 Myrs. Le cratère se trouve à Chicxulub, dans la péninsule du Yucatan, Mexique (cratère invisible en surface mais détectable par gravimétrie). L'impact crée une boule de feu qui déclenche des feux de forêt, l'onde de choc crée un tsunami qui dévaste les côtes. L'impact génère aussi énormément de poussière dans l'atmosphère, qui restent suspendues dans l'atmosphère pendant des mois voire des années, assombrissant le ciel. La température de la Terre baisse d'une dizaine de degrés. La photosynthèse est quasiment stoppée, et de nombreuses plantes disparaissent. La chaîne alimentaire est rompue, et les plus gros animaux meurent.  
+> * Il y a un débat actuellement entre les gradualistes et les catastrophistes. Mais un scénario multifactoriel semble le plus satisfaisant aujourd'hui.
 
 # L'évolution : contingente ou convergente
 
