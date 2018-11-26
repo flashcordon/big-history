@@ -100,8 +100,8 @@
 # La Terre du Protérozoique
 
 - Le Protérozoique commence par une Terre boule de neige (glaciation Huronienne)
-- Le milieu du Protérozoique est relativement calme (boring billion)
-
+- Le milieu du Protérozoique est relativement calme et stable en ce qui concerne l'évolution de la vie, en tout cas avec les données qu'on a (2Gyrs (1.8) -> 1 (0.8) Gyrs = boring billion)
+- La vie complexe apparaît à une époque de grandes turbulences dans l'histoire de la planète (néo-protérozoique), qui inclut des variations du niveau d'oxygène et des âges glaciaires extrêmes.
 
 ## L'apparition des eucaryotes
 
