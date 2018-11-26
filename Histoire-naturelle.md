@@ -14,6 +14,7 @@
 - [When Earth hit the reset button on life: New research on the Permian-Triassic mass extinction](https://www.earthmagazine.org/article/when-earth-hit-reset-button-life-new-research-permian-triassic-mass-extinction) - Earth magazine (Octobre 2016)
 - Scatter, Adapt, and Remember, Analee Newitz (2013)
 - [A Cryogenian chronology: Two long-lasting synchronous Neoproterozoic glaciations](https://francismacdonald.fas.harvard.edu/files/fmacdonald/files/rooney_etal_geology_2015.pdf) - Rooney et al (2015): pour la datation de la glaciation sturtienne
+- [Une brève histoire du climat de la Terre](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2017/04/refdp2017-55p6.pdf) - Gilles Ramstein, Reflets de la physique (2017)
 
 *Timeline*
 ![Drag Racing](https://upload.wikimedia.org/wikipedia/commons/d/df/Timeline_showing_the_Boring_Billion.png)
