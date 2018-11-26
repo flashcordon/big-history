@@ -28,7 +28,7 @@
 
 # La Terre de l'Hadéen
 
-- Au moment de la formation de la Terre, le Soleil est 30% moins lumineux qu'il ne l'est maintenant (faint young Sun paradox)
+- Au moment de la formation de la Terre, le Soleil est 30% moins lumineux qu'il ne l'est maintenant (faint young Sun paradox). Son intensité augmente de 7% par Gyr.
 - Seule source de données: les cristaux de zircon (grains rouges de qqs dixièmes de mm, très durs), dont les plus vieux sont datés de 4.4 Gyrs (Australie Occidentale)
 - Les zircons sont la preuve que la Terre avait une croûte à cette époque
 - Date du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
