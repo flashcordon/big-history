@@ -86,6 +86,9 @@
 - Périodes glaciaires qui dure des dizaines de millions d'années, et qui se caractérise par la glace qui reconvre la quasi totalité (voire la totalité dans les scénarios les plus violents) de la surface de la Terre. Les glaces recouvrent tout jusqu'à des latitudes tropicales ! La Terre ressemble alors à Europe ou Encelade
 - Nommé par Joe Kirschvink (années 90)
 - Y en a eu au moins 3 dans l'histoire de la Terre
+> *  Glaciation Huronienne (de 2.4 à 2.1 Gyrs), qui fait suite à la grande oxydation
+> * Glaciation sturtienne (à 720 Myrs)
+> * Glaciation marinoenne ( à 635 Myrs)
 - Plus la Terre est couverte par les glaces, plus la lumière du Soleil est réfléchie et donc plus la Terre se refroidit, et donc plus les glaces gagnent du terrain.
 - Lors d'une période de Terre boule de neige, la température moyenne de la Terre est équivalente à celle de l'Antarctique actuellement (-50°C). Aux pôles, des températures de moyennes de -70°C et de -100°C en hiver.
 - L'atmosphère est super sèche, parce qu'il fait trop froid pour qu'elle maintienne de l'eau: donc pas de nuages
