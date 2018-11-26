@@ -14,6 +14,8 @@
 - [When Earth hit the reset button on life: New research on the Permian-Triassic mass extinction](https://www.earthmagazine.org/article/when-earth-hit-reset-button-life-new-research-permian-triassic-mass-extinction) - Earth magazine (Octobre 2016)
 - Scatter, Adapt, and Remember, Analee Newitz (2013)
 
+![Drag Racing](https://upload.wikimedia.org/wikipedia/commons/d/df/Timeline_showing_the_Boring_Billion.png)
+
 # Les éons 
 - Hadéen (de - 4,6 à - 4 milliards d’années)
 - Archéen (de - 4 à - 2,5 milliards d’années)
