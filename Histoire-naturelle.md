@@ -96,7 +96,7 @@
 ### Terre boule de neige
 
 - Périodes glaciaires qui dure des dizaines de millions d'années, et qui se caractérise par la glace qui reconvre la quasi totalité (voire la totalité dans les scénarios les plus violents) de la surface de la Terre. Les glaces recouvrent tout jusqu'à des latitudes tropicales ! La Terre ressemble alors à Europe ou Encelade
-- Nommé par Joe Kirschvink (années 90)
+- Décrites pour la 1ère fois par Walter Brian Harland (années 60) et nommées par Joe Kirschvink (années 90)
 - Y en a eu au moins 3 dans l'histoire de la Terre
 > *  Glaciation Huronienne (de 2.4 à 2.1 Gyrs), qui fait suite à la grande oxydation
 > * Glaciation sturtienne (à 717–660 Myrs)
