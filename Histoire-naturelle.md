@@ -30,7 +30,7 @@
 
 # La Terre de l'Hadéen
 
-- Au moment de la formation de la Terre, le Soleil est 30% moins lumineux qu'il ne l'est maintenant (faint young Sun paradox). Son intensité augmente de 7% par Gyr.
+- Au moment de la formation de la Terre, le Soleil est 30% moins lumineux qu'il ne l'est maintenant. Son intensité augmente de 7% par Gyr.
 - Seule source de données: les cristaux de zircon (grains rouges de qqs dixièmes de mm, très durs), dont les plus vieux sont datés de 4.4 Gyrs (Australie Occidentale)
 - Les zircons sont la preuve que la Terre avait une croûte à cette époque
 - Date du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
@@ -38,6 +38,7 @@
 
 # La Terre de l'Archéen
 
+- Comme le Soleil était moins brillant qu'il ne l'est auourd'hui, la Terre serait totalement gelée si elle n'avait pas eu une concentration de CO2 (émis par les volcans) plus grande que maintenant, ainsi que des archées méthanogènes (apparues vers 3.5 Gyrs) qui balacent du méthane régulièrement pendant les 2 premiers milliards d'années de l'histoire de la Terre (faint young Sun paradox).
 - Les gisements de fer rubané (BIFs)
 - Il est possible qu'avant la grande oxydation, la Terre était recouverte d'une brume à haute altitude, comme Titan.
 > Les hydrocarbures (méthane, éthane) contenus dans la haute atmosphère de la jeune Terre réagissent aux UVs du Soleil, ce qui produit un brouillard. Cela cacherait la surface de la Terre à un observateur extérieur
