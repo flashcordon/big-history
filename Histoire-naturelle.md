@@ -84,6 +84,12 @@
 - La surface de la Terre rouille, littéralement. L'oxygène de l'atmosphère réagit avec le fer des roches de la surface, ce qui crée de l'hématite (ie de la rouille) de couleur rouge. La surface de la Terre se peint en rouge.
 - l'augmentation de la concentration en oxygène a aussi une influence sur le climat, qui se refroidit. Ca donne lieu à la première Terre boule de neige de 2.4 à 2.1 Gyrs) : la glaciation Huronienne, la première longue période glaciaire de l'histoire de la Terre. Et pas des moindre ! 
 
+# La Terre du Protérozoique
+
+- Le Protérozoique commence par une Terre boule de neige (glaciation Huronienne)
+- Le milieu du Protérozoique est relativement calme et stable en ce qui concerne l'évolution de la vie, en tout cas avec les données qu'on a (2Gyrs (1.8) -> 1 (0.8) Gyrs = boring billion)
+- La vie complexe apparaît à une époque de grandes turbulences dans l'histoire de la planète (néo-protérozoique), qui inclut des variations du niveau d'oxygène et des âges glaciaires extrêmes.
+
 ### Terre boule de neige
 
 - Périodes glaciaires qui dure des dizaines de millions d'années, et qui se caractérise par la glace qui reconvre la quasi totalité (voire la totalité dans les scénarios les plus violents) de la surface de la Terre. Les glaces recouvrent tout jusqu'à des latitudes tropicales ! La Terre ressemble alors à Europe ou Encelade
@@ -105,13 +111,6 @@
 ***Comment on sort d'une Terre boule de neige?***
 > La Terre, même couverte de glace, maintient une forte activité volcanique. Pendant des millions d’années, le CO2 issu du volcanisme s’accumule dans l’atmosphère. Ceci va à la longue générer un super-effet de serre capable de surpasser l’albédo des glaces et de la neige et entraîner une brusque débâcle.
 > Plus la surface couverte par les glaces diminue, plus la Terre se réchauffe, et plus la fonte des glaces s'accélère.  En à peine quelques milliers d'années, la Terre passe d'une boule de neige à un état complètement dégelé.
-
-
-# La Terre du Protérozoique
-
-- Le Protérozoique commence par une Terre boule de neige (glaciation Huronienne)
-- Le milieu du Protérozoique est relativement calme et stable en ce qui concerne l'évolution de la vie, en tout cas avec les données qu'on a (2Gyrs (1.8) -> 1 (0.8) Gyrs = boring billion)
-- La vie complexe apparaît à une époque de grandes turbulences dans l'histoire de la planète (néo-protérozoique), qui inclut des variations du niveau d'oxygène et des âges glaciaires extrêmes.
 
 ## L'apparition des eucaryotes
 
