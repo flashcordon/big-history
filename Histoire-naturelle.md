@@ -107,6 +107,8 @@
 
 - Leur structure est beaucoup plus complexe que les procaryotes
 - Les eucaryotes possèdent un noyau, qui contient la plupart de l'ADN de la cellule et peut être vue comme une bibliothèque et un centre de reprographie.
+- L'apparition des eucaryotes, c'est 3 révolutions : une révolution dans la manière de transmettre l'information entre les générations, une révolution dans la capacité des organismes à acquérir des matériaux de leur environnement, et l'acquisition d'autres organimes pour en faire des composants internes.
+- Les détails de l'évolution des eucaryotes à partir des procaryotes est encore mal comprise. On pense à une chaine d'étapes dont chacune aurait eu un avantage évolutif, mais comme ça s'étale sur 1 milliards d'années on a peu de trace des organismes transitionnels.
 - Selon une théorie (?), ce qui a permis les eucaryote de se développer, c'est l'invention par leurs ancètres de la phagocytose, ie la capacité d'engloutir d'autres cellules.
 - Ca leur permet d'acquérir de nouvelles organelles, comme le noyau (probablement créé lors du repli de leur structure ?)
 - L'endosymbiose (Margulis): une manière d'acquérir de nouvelles organelles, en engloutissant des organismes mais en échouant à les digérer. La cellule noue une relation symbiotique avec l'organisme ingéré.
