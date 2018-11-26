@@ -97,7 +97,8 @@
 > Pour la vie multicellulaire, c'est plus dur. Même si les sources chaudes offrent des refuges critiques.
 
 ***Comment on sort d'une Terre boule de neige?***
-
+> La Terre, même couverte de glace, maintient une forte activité volcanique. Pendant des millions d’années, le CO2 issu du volcanisme s’accumule dans l’atmosphère. Ceci va à la longue générer un super-effet de serre capable de surpasser l’albédo des glaces et de la neige et entraîner une brusque débâcle.
+> Plus la surface couverte par les glaces diminue, plus la Terre se réchauffe, et plus la fonte des glaces s'accélère.  En à peine quelques milliers d'années, la Terre passe d'une boule de neige à un état complètement dégelé.
 
 
 # La Terre du Protérozoique
