@@ -14,6 +14,7 @@
 - [When Earth hit the reset button on life: New research on the Permian-Triassic mass extinction](https://www.earthmagazine.org/article/when-earth-hit-reset-button-life-new-research-permian-triassic-mass-extinction) - Earth magazine (Octobre 2016)
 - Scatter, Adapt, and Remember, Analee Newitz (2013)
 
+*Timeline*
 ![Drag Racing](https://upload.wikimedia.org/wikipedia/commons/d/df/Timeline_showing_the_Boring_Billion.png)
 
 # Les éons 
@@ -107,9 +108,11 @@
 
 ## L'apparition des eucaryotes
 
-- Leur structure est beaucoup plus complexe que les procaryotes
+- Leur structure est beaucoup plus complexe que les procaryotes. Ils ont un génome beaucoup plus grand
+> Génome de bactérie : 3.5 millions de paires de bases. Génome d'humain : 3.5 milliards (représentatif des eucaryotes).
 - Les eucaryotes possèdent un noyau, qui contient la plupart de l'ADN de la cellule et peut être vue comme une bibliothèque et un centre de reprographie.
 - L'apparition des eucaryotes, c'est 3 révolutions : une révolution dans la manière de transmettre l'information entre les générations, une révolution dans la capacité des organismes à acquérir des matériaux de leur environnement, et l'acquisition d'autres organimes pour en faire des composants internes.
+- 
 - Les détails de l'évolution des eucaryotes à partir des procaryotes est encore mal comprise. On pense à une chaine d'étapes dont chacune aurait eu un avantage évolutif, mais comme ça s'étale sur 1 milliards d'années on a peu de trace des organismes transitionnels.
 - Selon une théorie (?), ce qui a permis les eucaryote de se développer, c'est l'invention par leurs ancètres de la phagocytose, ie la capacité d'engloutir d'autres cellules.
 - Ca leur permet d'acquérir de nouvelles organelles, comme le noyau (probablement créé lors du repli de leur structure ?)
