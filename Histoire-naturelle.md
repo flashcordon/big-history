@@ -19,6 +19,7 @@
 - Météorites, Matthieu GOunelle (2017)
 - [Hadean Earth](https://www.lpi.usra.edu/exploration/HadeanEarth/) - Ressources par le Lunar and Planetary Institute
 - [When a day lasted only 4 hours](http://www.iea.usp.br/en/news/when-a-day-lasted-only-four-hours) - Richard Meckien, Insittute of advanced studies of the university of Sao Paulo 2016
+- [Analysis of a Precambrian resonance‐stabilized day length](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068912) - Bartlett et Stevenson (2017)
 
 *Timelines*:
 
