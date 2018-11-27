@@ -47,7 +47,7 @@
 - L'impact génère un océan de magma sur la proto-Terre
 - Au moment de sa formation, la jeune Lune est à une distance un poil plus loin que la limite de Roche (ie 3 fois le rayon de la Terre) 
 > Il y a 4.5 Gyrs, un jour sur Terre durait entre 4 et 7h (valeur débattue. Source?).
-- Limite de Roche : (minimum distance from the center of the planet that a satellite can orbit without being destroyed by the severity of the tidal forces)
+- *Limite de Roche :* distance minimum du centre d'une planète où un satellite peutorbiter sans être détruit par les forces de marées 
 - Les mesures de distance Terre-Lune avec des lasers (années 2000) indiquent que la Lune s'éloigne de la Terre à une vitesse de 3.8 cm / an. 
 - *Controverse:* la composition isotopique de la Lune est la même que celle de la Terre, Or si le modèle de l'impact est correct, la composition isotopique de l'impacteur n'a aucune raison d'être la même que celle de la Terre !
 
