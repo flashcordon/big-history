@@ -16,6 +16,7 @@
 - [A Cryogenian chronology: Two long-lasting synchronous Neoproterozoic glaciations](https://francismacdonald.fas.harvard.edu/files/fmacdonald/files/rooney_etal_geology_2015.pdf) - Rooney et al (2015): pour la datation de la glaciation sturtienne
 - [Une brève histoire du climat de la Terre](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2017/04/refdp2017-55p6.pdf) - Gilles Ramstein, Reflets de la physique (2017)
 - [Early formation of the Moon 4.51 billion years ago](http://advances.sciencemag.org/content/3/1/e1602365.full) - Barboni et al (2017)
+- Météorites, Matthieu GOunelle (2017)
 
 *Timelines*:
 
@@ -40,6 +41,7 @@
 - Modèle favorisé : un impact géant avec un objet de la taille de Mars surnommé Théia (10% de la masse actuelle de la Terre). L'impact crée un disque de débris autour de la Terre (débris de Théia + morceaux de manteau de la Terre). Selon les modèles, la Lune se serait formée en quelques heures à quelques siècles
 - La vitesse de l'impact aurait été "modéré" (quelques kilomètres par seconde)
 - La Terre avait déjà 90% de sa masse actuelle à l'époque de l'impact. La collision aurait apporté la plupart de la masse manquante de la Terre
+- *Controverse:* la composition isotopique de la Lue est la même que celle de la Terre, Or si le modèle de l'impact est correct, la composition isotopique de l'impacteur n'a aucune raison d'être la même que celle de la Terre !
 
 ## Le Grand Bombardement Tardif (LHB)
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
