@@ -69,7 +69,7 @@
 
 - **Date la plus récente possible:** 3.3 Gyrs (micro fossiles, cellules en cours de mitose)
 - 3.5 Gyrs 
-> Un jour sur Terre durait alors 12h
+> Il y a 3.5 Gyes, un jour sur Terre durait 12h.
 - **Date la plus récente probable:** 3.8 Gyrs (formation d'Isua, sud ouest du Groenland, cf Minik Rosing)
 
 - **Date la plus ancienne possible d'habitabilité continue de la Terre:** 4.4 Gyrs (âge des plus vieux cristaux de zircon, signale la présence d'océans parce que ces zircons n'ont pas fondu pendant le LHB)
@@ -86,6 +86,7 @@
 ## La photosynthèse oxygénique
 
 - Inventé par les cyanobactéries entre 3.4 et 2.5 Gyrs
+> Il y a 2.5 Gyrs, un jour sur Terre durait 18h
 - Processus qui utilise la lumière du Soleil pour couper des molécules d'eau (water splitting)
 - Permet de produire de l'énergie avec juste de la lumière du Soleil, du CO2 et de l'eau, 3 des ressources les plus abondantes de la planète. 
 - Un organisme photosynthétique est bien équipé pour survivre dans la plupart des environnements sur Terre.
@@ -152,6 +153,7 @@
 - La mitochondrie produit l'énergie dont la cellule a besoin, en brûlant les molécules dérivées de la nourriture ingérée par l'organisme avec de l'oxygène. Dans quasiment toutes les cellules eucaryotes, il y a au moins une mitochondrie, et il peut y en avoir des milliers. Elles contiennent leur propre ADN (un seul brin). Elles ne peuvent plus survivre sans les ressources fournies par leur cellule hôte.
 - Le chloroplaste réalise la photosynthèse et la fixation du CO2
 - Dater l'apparition des eucaryotes est une tache difficile. Estimation probable : L'évolution de la phagocytose, suivie par l'acquisition des symbiotes apparaît vers 2 Gyrs (+-0.5 Gyrs)
+> Il y a 1.7 Gyrs, un jour sur Terre durait 21h.
 L'invention des cellules eukaryotes a mené plus tard aux terres boules de neige du protérozoique, et à l'explosion cambrienne
 
 ## L'apparition des organismes multicellulaires
