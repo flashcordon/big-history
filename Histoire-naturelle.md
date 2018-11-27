@@ -44,6 +44,8 @@
 - La Terre avait déjà 90% de sa masse actuelle à l'époque de l'impact. La collision aurait apporté la plupart de la masse manquante de la Terre
 - *Controverse:* la composition isotopique de la Lue est la même que celle de la Terre, Or si le modèle de l'impact est correct, la composition isotopique de l'impacteur n'a aucune raison d'être la même que celle de la Terre !
 
+![Drag Racing 2](https://www.lpi.usra.edu/exploration/training/illustrations/earthMoon/preview/03.jpg)
+
 ## Le Grand Bombardement Tardif (LHB)
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
 - Le LHB a probablement été causé par des résonances entre les orbites de Jupiter et de Saturne 700 millions d'années après la formation de la Terre qui ont perturbé les orbites de Neptune et Uranus, causant le chaos dans l'essaim d'astéroides environnant (modèle de Nice)
