@@ -68,6 +68,8 @@
 ### Date d'apparition de la vie: 
 
 - **Date la plus récente possible:** 3.3 Gyrs (micro fossiles, cellules en cours de mitose)
+- 3.5 Gyrs 
+> Un jour sur Terre durait alors 12h
 - **Date la plus récente probable:** 3.8 Gyrs (formation d'Isua, sud ouest du Groenland, cf Minik Rosing)
 
 - **Date la plus ancienne possible d'habitabilité continue de la Terre:** 4.4 Gyrs (âge des plus vieux cristaux de zircon, signale la présence d'océans parce que ces zircons n'ont pas fondu pendant le LHB)
