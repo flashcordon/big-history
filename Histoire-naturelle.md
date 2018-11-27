@@ -17,6 +17,7 @@
 - [Une brève histoire du climat de la Terre](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2017/04/refdp2017-55p6.pdf) - Gilles Ramstein, Reflets de la physique (2017)
 - [Early formation of the Moon 4.51 billion years ago](http://advances.sciencemag.org/content/3/1/e1602365.full) - Barboni et al (2017)
 - Météorites, Matthieu GOunelle (2017)
+- [Hadean Earth](https://www.lpi.usra.edu/exploration/HadeanEarth/) - Ressources par le Lunar and Planetary Institute
 
 *Timelines*:
 
