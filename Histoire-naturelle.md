@@ -18,6 +18,7 @@
 - [Early formation of the Moon 4.51 billion years ago](http://advances.sciencemag.org/content/3/1/e1602365.full) - Barboni et al (2017)
 - Météorites, Matthieu GOunelle (2017)
 - [Hadean Earth](https://www.lpi.usra.edu/exploration/HadeanEarth/) - Ressources par le Lunar and Planetary Institute
+- [When a day lasted only 4 hours](http://www.iea.usp.br/en/news/when-a-day-lasted-only-four-hours) - Richard Meckien, Insittute of advanced studies of the university of Sao Paulo 2016
 
 *Timelines*:
 
@@ -42,8 +43,11 @@
 - Modèle favorisé : un impact géant avec un objet de la taille de Mars surnommé Théia (10% de la masse actuelle de la Terre). L'impact crée un disque de débris autour de la Terre (débris de Théia + morceaux de manteau de la Terre). Selon les modèles, la Lune se serait formée en quelques heures à quelques siècles
 - La vitesse de l'impact aurait été "modéré" (quelques kilomètres par seconde)
 - La Terre avait déjà 90% de sa masse actuelle à l'époque de l'impact. La collision aurait apporté la plupart de la masse manquante de la Terre
-- *Controverse:* la composition isotopique de la Lue est la même que celle de la Terre, Or si le modèle de l'impact est correct, la composition isotopique de l'impacteur n'a aucune raison d'être la même que celle de la Terre !
-- Les mesures de distance Terre-Lune avec des lasers indiquent que la Lune s'éloigne de la Terre à une vitesse de 3.8 cm / an. 
+- L'impact génère un océan de magma sur la proto-Terre
+- Au moment de sa formation, la jeune Lune est à une distance un poil plus loin que la limite de Roche (ie 3 fois le rayon de la Terre) 
+- Limite de Roche : (minimum distance from the center of the planet that a satellite can orbit without being destroyed by the severity of the tidal forces)
+- Les mesures de distance Terre-Lune avec des lasers (années 2000) indiquent que la Lune s'éloigne de la Terre à une vitesse de 3.8 cm / an. 
+- *Controverse:* la composition isotopique de la Lune est la même que celle de la Terre, Or si le modèle de l'impact est correct, la composition isotopique de l'impacteur n'a aucune raison d'être la même que celle de la Terre !
 
 ![Drag Racing 2](https://www.lpi.usra.edu/exploration/training/illustrations/earthMoon/preview/03.jpg)
 
