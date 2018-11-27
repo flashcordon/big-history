@@ -15,6 +15,7 @@
 - Scatter, Adapt, and Remember, Analee Newitz (2013)
 - [A Cryogenian chronology: Two long-lasting synchronous Neoproterozoic glaciations](https://francismacdonald.fas.harvard.edu/files/fmacdonald/files/rooney_etal_geology_2015.pdf) - Rooney et al (2015): pour la datation de la glaciation sturtienne
 - [Une brève histoire du climat de la Terre](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2017/04/refdp2017-55p6.pdf) - Gilles Ramstein, Reflets de la physique (2017)
+- [Early formation of the Moon 4.51 billion years ago](http://advances.sciencemag.org/content/3/1/e1602365.full) - Barboni et al (2017)
 
 *Timelines*:
 
@@ -33,6 +34,10 @@
 - Au moment de la formation de la Terre, le Soleil est 30% moins lumineux qu'il ne l'est maintenant. Son intensité augmente de 7% par Gyr.
 - Seule source de données: les cristaux de zircon (grains rouges de qqs dixièmes de mm, très durs), dont les plus vieux sont datés de 4.4 Gyrs (Australie Occidentale)
 - Les zircons sont la preuve que la Terre avait une croûte à cette époque
+
+## La formation de la Lune
+
+- Modèle favorisé : un impact géant avec un objet de la taille de Mars (nommé Théia)
 
 ## Le Grand Bombardement Tardif (LHB)
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
