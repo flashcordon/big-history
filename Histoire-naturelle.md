@@ -20,7 +20,7 @@
 - [Hadean Earth](https://www.lpi.usra.edu/exploration/HadeanEarth/) - Ressources par le Lunar and Planetary Institute
 - [When a day lasted only 4 hours](http://www.iea.usp.br/en/news/when-a-day-lasted-only-four-hours) - Richard Meckien, Insittute of advanced studies of the university of Sao Paulo 2016
 - [Analysis of a Precambrian resonance‐stabilized day length](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068912) - Bartlett et Stevenson (2017)
-- [The Sun and stars as the primary energy input in planetary atmospheres)(https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/sun-and-stars-as-the-primary-energy-input-in-planetary-atmospheres/293C0314C44A1A4AAF8175A3C288B50B) - Ribas (2009): évolution de la luminosité du Soleil
+- [The Sun and stars as the primary energy input in planetary atmospheres](https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/sun-and-stars-as-the-primary-energy-input-in-planetary-atmospheres/293C0314C44A1A4AAF8175A3C288B50B) - Ribas (2009): évolution de la luminosité du Soleil
 
 *Timelines*:
 
