@@ -37,7 +37,9 @@
 
 ## La formation de la Lune
 
-- Modèle favorisé : un impact géant avec un objet de la taille de Mars (nommé Théia)
+- Modèle favorisé : un impact géant avec un objet de la taille de Mars surnommé Théia (10% de la masse actuelle de la Terre). L'impact crée un disque de débris autour de la Terre (débris de Théia + morceaux de manteau de la Terre). Selon les modèles, la Lune se serait formée en quelques heures à quelques siècles
+- La vitesse de l'impact aurait été "modéré" (quelques kilomètres par seconde)
+- La Terre avait déjà 90% de sa masse actuelle à l'époque de l'impact. La collision aurait apporté la plupart de la masse manquante de la Terre
 
 ## Le Grand Bombardement Tardif (LHB)
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
