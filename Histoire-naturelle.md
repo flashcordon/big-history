@@ -53,7 +53,10 @@
 
 ![Drag Racing 2](https://www.lpi.usra.edu/exploration/training/illustrations/earthMoon/preview/03.jpg)
 
-![Evolution_jour](https://wol-prod-cdn.literatumonline.com/cms/attachment/6b4c2493-398e-4ff3-ae0f-11fec9a33a2f/grl54472-fig-0005-m.jpg)
+*Evolution de la durée du jour terrestre (Figure 5 de Bartlett et Stevenson (2017))*
+
+![Evolution_jour](https://wol-prod-cdn.literatumonline.com/cms/attachment/6b4c2493-398e-4ff3-ae0f-11fec9a33a2f/grl54472-fig-0005-m.jpg){ width=50% }
+
 
 ## Le Grand Bombardement Tardif (LHB)
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
