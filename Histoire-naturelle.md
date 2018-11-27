@@ -36,7 +36,7 @@
 
 - Au moment de la formation de la Terre, le Soleil est 30% moins lumineux qu'il ne l'est maintenant. Son intensité augmente de 7% par Gyr.
 - Seule source de données: les cristaux de zircon (grains rouges de qqs dixièmes de mm, très durs), dont les plus vieux sont datés de 4.4 Gyrs (Australie Occidentale)
-- Les zircons sont la preuve que la Terre avait une croûte à cette époque
+- Les zircons sont la preuve que la Terre avait une croûte à cette époque, et des océans
 
 ## La formation de la Lune
 
