@@ -22,6 +22,7 @@
 - [Analysis of a Precambrian resonance‐stabilized day length](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068912) - Bartlett et Stevenson (2017)
 - [The Sun and stars as the primary energy input in planetary atmospheres](https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/sun-and-stars-as-the-primary-energy-input-in-planetary-atmospheres/293C0314C44A1A4AAF8175A3C288B50B) - Ribas (2009): évolution de la luminosité du Soleil
 - [Hadean Earth and primordial continents: The cradle of prebiotic life](https://www.sciencedirect.com/science/article/pii/S1674987116300834) - Santosh et al (2017)
+- The Origin and Evolution of Earth - Robert Hazen, The Great Courses (2013) (audiobook + notes de cours en PDF)
 
 *Timelines*:
 
