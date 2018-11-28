@@ -70,7 +70,7 @@
 - Le basalte provient de la fusion partielle du manteau de péridotite, ce qui a rendu la roche moins dense
 > Le basalte étant noir, la Terre apparaît alors comme une boule noire dérivant dans l’espace.
 - Le basalte domine la croûte de quasiment toutes les planètes telluriques. Sur Terre, elle domine aujourd'hui la croûte océanique.
-
+- Alors qu'il arrive à la surface, le basalte libère les gaz qu'il contient, notamment de la vapeur d'eau. En se refroidissant, la vapeur d'eau se condense et l'ensemble des gaz forme l'atmosphère primitive de la Terre.
 
 ## Le Grand Bombardement Tardif (LHB)
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
