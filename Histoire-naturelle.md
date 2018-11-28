@@ -66,11 +66,14 @@
 ## Différentiation
 
 - En 100 millions d’années, les matériaux les plus denses, comme le fer et le nickel, coulent vers le centre de la Terre et deviennent son noyau.
-- Les matériaux les moins denses flottent à la surface. La Terre acquiert une croûte de basalte (roche volcanique=feldspath+pyroxène+olivine). Entre le noyau et la coûte, un manteau de péridotite (=olivine+pyroxène).
+- Les matériaux les moins denses flottent à la surface. La Terre acquiert une croûte de basalte (roche volcanique=feldspath+pyroxène+olivine, densité = 3 fois celle de l'eau). Entre le noyau et la coûte, un manteau de péridotite (=olivine+pyroxène).
 - Le basalte provient de la fusion partielle du manteau de péridotite, ce qui a rendu la roche moins dense
 > Le basalte étant noir, la Terre apparaît alors comme une boule noire dérivant dans l’espace.
 - Le basalte domine la croûte de quasiment toutes les planètes telluriques. Sur Terre, elle domine aujourd'hui la croûte océanique.
-- Alors qu'il arrive à la surface, le basalte libère les gaz qu'il contient, notamment de la vapeur d'eau. En se refroidissant, la vapeur d'eau se condense et l'ensemble des gaz forme l'atmosphère primitive de la Terre.
+- Alors qu'il arrive à la surface, le basalte libère les gaz qu'il contient, notamment de la vapeur d'eau. En se refroidissant, la vapeur d'eau se condense et forme les océans et l'ensemble des gaz forme l'atmosphère primitive de la Terre.
+> Seuls reliefs possibles à l'époque : des milliers d'îles volcaniques d'un ou 2 km de haut et de quelques dizaines de kilomètres de large, dont les volcans crachent une fumée blanche, et éjectent des millions de tonnes de vapeur par jour (CO2, N2, H2O) dans l’atmosphère naissante.
+- Alors que la croûte de basalte durcit, elle crée une couverture qui piège la chaleur interne de la Terre. Le basalte est donc chauffé par dessous, entre en fusion partielle et ça crée du granit (densité : 2.7 fois celle de l'eau).
+- Le granit se met alors à flotter sur la croûte basaltique, et s'accumule. Des îles de granit se forment. Deviennent des montagnes. Des chaînes de montagne. Des continents.
 
 ## Le Grand Bombardement Tardif (LHB)
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
