@@ -68,6 +68,7 @@
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
 - Le LHB a probablement été causé par des résonances entre les orbites de Jupiter et de Saturne 700 millions d'années après la formation de la Terre qui ont perturbé les orbites de Neptune et Uranus, causant le chaos dans l'essaim d'astéroides environnant (modèle de Nice)
 - Le bombardement intense de rochers de l’espace (comètes et météorites) ensemense la Terre de molécules organiques (en tout cas celles qui ont survécu à la violence de la collision) et augmente significativement la quantité d’eau sur Terre.
+- En effet, la matière avec laquelle s'est formée la Terre est majoritairement composée d'éléments en deça de la ligne de glace. Du coup elle aurait été très sèche sans l'apport en eau des comètes et des météorites durant le LHB (vérifier)
 
 # La Terre de l'Archéen
 
