@@ -39,7 +39,7 @@
 
 - Au moment de la formation de la Terre, le Soleil est 30% moins lumineux qu'il ne l'est maintenant. Son intensité augmente de 7% par Gyr.
 - Seule source de données: les cristaux de zircon (grains rouges de qqs dixièmes de mm, très durs), dont les plus vieux sont datés de 4.4 Gyrs (Australie Occidentale)
-- Les zircons sont la preuve que la Terre avait une croûte à cette époque, et des océans
+- Les zircons sont la preuve que la Terre avait une croûte à cette époque, et qu'elle était recouverte par des océans il y a 4.4 Gyrs
 
 *Evolution de la luminosité du Soleil (de Ribas (2009))*
 
@@ -63,12 +63,19 @@
 
 ![Evolution_jour](https://wol-prod-cdn.literatumonline.com/cms/attachment/6b4c2493-398e-4ff3-ae0f-11fec9a33a2f/grl54472-fig-0005-m.jpg)
 
+## Différentiation
+
+- En 100 millions d’années, les matériaux les plus denses, comme le fer et le nickel, coulent vers le centre de la Terre et deviennent son noyau.
+- Les matériaux les moins denses flottent à la surface. La Terre acquiert une croûte de basalte (roche noire)
+> La Terre apparaît alors comme une boule noire dérivant dans l’espace.
+- Le basalte domine la croûte de quasiment toutes les planètes telluriques. Sur Terre, elle domine aujourd'hui la croûte océanique.
 
 ## Le Grand Bombardement Tardif (LHB)
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
 - Le LHB a probablement été causé par des résonances entre les orbites de Jupiter et de Saturne 700 millions d'années après la formation de la Terre qui ont perturbé les orbites de Neptune et Uranus, causant le chaos dans l'essaim d'astéroides environnant (modèle de Nice)
 - Le bombardement intense de rochers de l’espace (comètes et météorites) ensemense la Terre de molécules organiques (en tout cas celles qui ont survécu à la violence de la collision) et augmente significativement la quantité d’eau sur Terre.
 - En effet, la matière avec laquelle s'est formée la Terre est majoritairement composée d'éléments en deça de la ligne de glace. Du coup elle aurait été très sèche sans l'apport en eau des comètes et des météorites durant le LHB (vérifier)
+
 
 # La Terre de l'Archéen
 
