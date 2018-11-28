@@ -164,6 +164,10 @@ Ressources sur la Big History
 - [Nucleosynthesis, star formation and evolution (part 2)](https://youtu.be/_PmPH5MaZCw?list=WL) - Cyril Georgy, Ecole d'été de la Société Française d'Exobiologie (Mai 2018)
 - [From dust to planets](https://youtu.be/OS2H_FtXsFg?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Nader Haghighipour, Ecole d'été de la Société Française d'Exobiologie (Août 2018)
 
+## Podcasts
+
+- [Where Did Earth's Water Come From?](https://www.danielandjorge.com/podcasts/where-did-earths-water-come-from.htm) - Daniel and Jorge explain the Universe (Novembre 2018)
+
 ---
 
 # Géologie
