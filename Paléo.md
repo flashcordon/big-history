@@ -1,6 +1,10 @@
 
 ## La grande diaspora humaine
 
+## L'origine de l'agriculture
+
+L'agriculture sur brûlis
+
 ## L'extinction de la mégafaune
 
 ## La domestication du chien
