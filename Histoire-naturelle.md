@@ -23,7 +23,7 @@
 - [The Sun and stars as the primary energy input in planetary atmospheres](https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/sun-and-stars-as-the-primary-energy-input-in-planetary-atmospheres/293C0314C44A1A4AAF8175A3C288B50B) - Ribas (2009): évolution de la luminosité du Soleil
 - [Hadean Earth and primordial continents: The cradle of prebiotic life](https://www.sciencedirect.com/science/article/pii/S1674987116300834) - Santosh et al (2017)
 - The Origin and Evolution of Earth - Robert Hazen, The Great Courses (2013) (audiobook + notes de cours en PDF)
-- [Plate Tectonics through Time](https://geosci.uchicago.edu/~archer/deep_earth_readings/sleep.2007.plate_tec_ev_rev.pdf) - N. H. Sleep (2007)
+- [Plate tectonics, damage and inheritance](https://www.nature.com/articles/nature13072) -  Bercovici et Ricard (2014)
 
 *Timelines*:
 
@@ -75,8 +75,8 @@
 - Alors qu'il arrive à la surface, le basalte libère les gaz qu'il contient, notamment de la vapeur d'eau. En se refroidissant, la vapeur d'eau se condense et forme les océans et l'ensemble des gaz forme l'atmosphère primitive de la Terre.
 > Seuls reliefs possibles à l'époque : des milliers d'îles volcaniques d'un ou 2 km de haut et de quelques dizaines de kilomètres de large, dont les volcans crachent une fumée blanche, et éjectent des millions de tonnes de vapeur par jour (CO2, N2, H2O) dans l’atmosphère naissante.
 - Alors que la croûte de basalte durcit, elle crée une couverture qui piège la chaleur interne de la Terre. Le basalte est donc chauffé par dessous, entre en fusion partielle et ça crée du granit (densité : 2.7 fois celle de l'eau).
-- Le granit se met alors à flotter sur la croûte basaltique, et s'accumule. Des îles de granit se forment. Deviennent des montagnes. Des chaînes de montagne. Des continents.
-- 
+- Le granit (roche grise) se met alors à flotter sur la croûte basaltique, et s'accumule. Des îles de granit se forment. Deviennent des montagnes. Des chaînes de montagne. Des continents.
+- La lithosphère (croûte+fraction du manteau supérieur) se découpe en 12 grandes plaques (plaques tectoniques)
 
 ## Le Grand Bombardement Tardif (LHB)
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
