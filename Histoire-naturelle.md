@@ -65,7 +65,7 @@
 
 ![Evolution_jour](https://wol-prod-cdn.literatumonline.com/cms/attachment/6b4c2493-398e-4ff3-ae0f-11fec9a33a2f/grl54472-fig-0005-m.jpg)
 
-## Différentiation
+## Différenciation
 
 - En 100 millions d’années, les matériaux les plus denses, comme le fer et le nickel, coulent vers le centre de la Terre et deviennent son noyau.
 - Les matériaux les moins denses flottent à la surface. La Terre acquiert une croûte de basalte (roche volcanique=feldspath+pyroxène+olivine, densité = 3 fois celle de l'eau). Entre le noyau et la coûte, un manteau de péridotite (=olivine+pyroxène).
@@ -77,7 +77,11 @@
 - Alors que la croûte de basalte durcit, elle crée une couverture qui piège la chaleur interne de la Terre. Le basalte est donc chauffé par dessous, entre en fusion partielle et ça crée du granit (densité : 2.7 fois celle de l'eau).
 - Le granit (roche grise) se met alors à flotter sur la croûte basaltique, et s'accumule. Des îles de granit se forment. Deviennent des montagnes. Des chaînes de montagne. Des continents.
 - L'analyse des zircons implique l'existence d'une croûte continentale et la formation de granites il y a plus de 4 Gyrs.
+
+## Tectonique des plaques 
+
 - La lithosphère (croûte+fraction du manteau supérieur) se découpe en 12 grandes plaques (plaques tectoniques) et quelques plaques mineures, dont les bords sont les dorsales océaniques et les zones de subduction.
+- Les dorsales océaniques créent du basalte neuf, et les zones de subductions avalent le vieux basalte.
 > La Terre est la seule planète du système solaire avec une tectonique des plaques
 - Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
 
