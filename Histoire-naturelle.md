@@ -78,18 +78,18 @@
 - Le granit (roche grise) se met alors à flotter sur la croûte basaltique, et s'accumule. Des îles de granit se forment. Deviennent des montagnes. Des chaînes de montagne. Des continents.
 - L'analyse des zircons implique l'existence d'une croûte continentale et la formation de granites il y a plus de 4 Gyrs.
 
+## Le Grand Bombardement Tardif (LHB)
+- Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
+- Le LHB a probablement été causé par des résonances entre les orbites de Jupiter et de Saturne 700 millions d'années après la formation de la Terre qui ont perturbé les orbites de Neptune et Uranus, causant le chaos dans l'essaim d'astéroides environnant (modèle de Nice)
+- Le bombardement intense de rochers de l’espace (comètes et météorites) ensemense la Terre de molécules organiques (en tout cas celles qui ont survécu à la violence de la collision) et augmente significativement la quantité d’eau sur Terre.
+- En effet, la matière avec laquelle s'est formée la Terre est majoritairement composée d'éléments en deça de la ligne de glace. Du coup elle aurait été très sèche sans l'apport en eau des comètes et des météorites durant le LHB (vérifier)
+
 ## Tectonique des plaques 
 
 - La lithosphère (croûte+fraction du manteau supérieur) se découpe en 12 grandes plaques (plaques tectoniques) et quelques plaques mineures, dont les bords sont les dorsales océaniques et les zones de subduction.
 - Les dorsales océaniques créent du basalte neuf, et les zones de subductions avalent le vieux basalte.
 > La Terre est la seule planète du système solaire avec une tectonique des plaques
 - Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
-
-## Le Grand Bombardement Tardif (LHB)
-- Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
-- Le LHB a probablement été causé par des résonances entre les orbites de Jupiter et de Saturne 700 millions d'années après la formation de la Terre qui ont perturbé les orbites de Neptune et Uranus, causant le chaos dans l'essaim d'astéroides environnant (modèle de Nice)
-- Le bombardement intense de rochers de l’espace (comètes et météorites) ensemense la Terre de molécules organiques (en tout cas celles qui ont survécu à la violence de la collision) et augmente significativement la quantité d’eau sur Terre.
-- En effet, la matière avec laquelle s'est formée la Terre est majoritairement composée d'éléments en deça de la ligne de glace. Du coup elle aurait été très sèche sans l'apport en eau des comètes et des météorites durant le LHB (vérifier)
 
 # La Terre de l'Archéen
 
