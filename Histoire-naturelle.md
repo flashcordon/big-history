@@ -76,6 +76,8 @@
 - Alors que la croûte de basalte durcit, elle crée une couverture qui piège la chaleur interne de la Terre. Le basalte est donc chauffé par dessous, entre en fusion partielle et ça crée du granit (densité : 2.7 fois celle de l'eau).
 - Le granit se met alors à flotter sur la croûte basaltique, et s'accumule. Des îles de granit se forment. Deviennent des montagnes. Des chaînes de montagne. Des continents.
 
+
+
 ## Le Grand Bombardement Tardif (LHB)
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
 - Le LHB a probablement été causé par des résonances entre les orbites de Jupiter et de Saturne 700 millions d'années après la formation de la Terre qui ont perturbé les orbites de Neptune et Uranus, causant le chaos dans l'essaim d'astéroides environnant (modèle de Nice)
