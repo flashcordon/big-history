@@ -23,6 +23,7 @@
 - [The Sun and stars as the primary energy input in planetary atmospheres](https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/sun-and-stars-as-the-primary-energy-input-in-planetary-atmospheres/293C0314C44A1A4AAF8175A3C288B50B) - Ribas (2009): évolution de la luminosité du Soleil
 - [Hadean Earth and primordial continents: The cradle of prebiotic life](https://www.sciencedirect.com/science/article/pii/S1674987116300834) - Santosh et al (2017)
 - The Origin and Evolution of Earth - Robert Hazen, The Great Courses (2013) (audiobook + notes de cours en PDF)
+- [Plate Tectonics through Time](https://geosci.uchicago.edu/~archer/deep_earth_readings/sleep.2007.plate_tec_ev_rev.pdf) - N. H. Sleep (2007)
 
 *Timelines*:
 
