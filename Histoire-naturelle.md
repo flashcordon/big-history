@@ -77,7 +77,7 @@
 - Alors que la croûte de basalte durcit, elle crée une couverture qui piège la chaleur interne de la Terre. Le basalte est donc chauffé par dessous, entre en fusion partielle et ça crée du granit (densité : 2.7 fois celle de l'eau).
 - Le granit (roche grise) se met alors à flotter sur la croûte basaltique, et s'accumule. Des îles de granit se forment. Deviennent des montagnes. Des chaînes de montagne. Des continents.
 - L'analyse des zircons implique l'existence d'une croûte continentale et la formation de granites il y a plus de 4 Gyrs.
-- La lithosphère (croûte+fraction du manteau supérieur) se découpe en 12 grandes plaques (plaques tectoniques) et quelques plaques mineures
+- La lithosphère (croûte+fraction du manteau supérieur) se découpe en 12 grandes plaques (plaques tectoniques) et quelques plaques mineures, dont les bords sont les dorsales océaniques et les zones de subduction.
 > La Terre est la seule planète du système solaire avec une tectonique des plaques
 - Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
 
