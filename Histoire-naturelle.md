@@ -104,6 +104,7 @@
 - les roches du manteau les plus chaudes s’élèvent et les plus froides s’enfoncent : c’est ce mouvement global appelé convection qui est à l’origine du mouvement des plaques
 - les grandes plaques sont corrélées aux grands mouvements de convection dans le manteau; et les petites plaques se forment préférentiellement près des zones de subduction, là où les plaques sont soumises à de fortes contraintes en s’enfonçant dans le manteau (simulations numériques).
 - La Terre est la seule planète du système solaire avec une tectonique des plaques
+- lorsque deux plaques se rencontrent, l'une plonge sous l'autre ; c'est le phénomène de subduction. L'enfoncement en force est accompagné de ruptures qui sont autant de séismes. 
 - Les collisions entre les plaques donnent lieu à des chaînes de montagnes, à des proto-continents, à des continents. Là où les plaques s'écartent, des océans se forment.
 - Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
 
