@@ -99,10 +99,12 @@
 ## La tectonique des plaques 
 
 - La lithosphère (croûte+fraction du manteau supérieur) se découpe en une douzaine de grandes plaques (plaques tectoniques) et d'autres plaques mineures (leur nombre total ne fait pas consensus) de quelques dizaines à 100 km d'épaisseur, dont les bords sont les dorsales océaniques et les zones de subduction. Ces plaques surfent sur les roches plus chaudes et plus molles (mais solides! mais qui se comporte un peu comme un fluide visqueux) du manteau (à raison de quelques cm/an) et entraînent les continents dans leur course. 
-- Les dorsales océaniques créent du basalte neuf qui se solidifie, et les plaques océaniques s’enfoncent dans le manteau au niveau des zones dites de subduction, là où elles « coulent » sous les plaques tectoniques voisines moins denses.
 > Les 7 plaques les plus grandes représentent 95% de la surface de la Terre
+- Les dorsales océaniques créent du basalte neuf qui se solidifie, et les plaques océaniques s’enfoncent dans le manteau au niveau des zones dites de subduction, là où elles « coulent » sous les plaques tectoniques voisines moins denses.
 - les roches du manteau les plus chaudes s’élèvent vers la surface et les plus froides s’enfoncent : c’est ce mouvement global appelé convection qui est à l’origine du mouvement des plaques
 > similaire aux mouvements de l'eau dans une casserole chauffée sur une plaque.
+- Les mouvements de convection sont générés par la chaleur interne de la Terre
+> La chaleur interne de la Terre est due à 75% de désintégration d’éléments d’isotopes radioactifs comme l’Uranium, le Thorium et le Potassium et à 25% de la chaleur (énergie gravitationnelle) issue des collisions entre astéroides / planétérimaux qui ont formé la Terre
 - Les cellules de convection (taille = quelques milliers de km) font un tour complet sur elles-mêmes en 100 millions d'années environ.
 - les grandes plaques sont corrélées aux grands mouvements de convection dans le manteau; et les petites plaques se forment préférentiellement près des zones de subduction, là où les plaques sont soumises à de fortes contraintes en s’enfonçant dans le manteau (simulations numériques).
 - La Terre est la seule planète du système solaire avec une tectonique des plaques
