@@ -98,12 +98,13 @@
 
 ## La tectonique des plaques 
 
-- La lithosphère (croûte+fraction du manteau supérieur) se découpe en une douzaine de grandes plaques (plaques tectoniques) et d'autres plaques mineures (leur nombre total ne fait pas consensus) de quelques dizaines à 100 km d'épaisseur, dont les bords sont les dorsales océaniques et les zones de subduction. Ces plaques surfent sur les roches plus chaudes et plus molles du manteau (à raison de quelques cm/an) et entraînent les continents dans leur course. 
+- La lithosphère (croûte+fraction du manteau supérieur) se découpe en une douzaine de grandes plaques (plaques tectoniques) et d'autres plaques mineures (leur nombre total ne fait pas consensus) de quelques dizaines à 100 km d'épaisseur, dont les bords sont les dorsales océaniques et les zones de subduction. Ces plaques surfent sur les roches plus chaudes et plus molles (mais solides!) du manteau (à raison de quelques cm/an) et entraînent les continents dans leur course. 
 - Les dorsales océaniques créent du basalte neuf qui se solidifie, et les plaques océaniques s’enfoncent dans le manteau au niveau des zones dites de subduction, là où elles « coulent » sous les plaques tectoniques voisines moins denses.
 > Les 7 plaques les plus grandes représentent 95% de la surface de la Terre
+- les roches du manteau les plus chaudes s’élèvent et les plus froides s’enfoncent : c’est ce mouvement global appelé convection qui est à l’origine du mouvement des plaques
 - les grandes plaques sont corrélées aux grands mouvements de convection dans le manteau; et les petites plaques se forment préférentiellement près des zones de subduction, là où les plaques sont soumises à de fortes contraintes en s’enfonçant dans le manteau (simulations numériques).
 - La Terre est la seule planète du système solaire avec une tectonique des plaques
-- Les collisions entre les plaques donnent lieu à des chaînes de montagnes, à des proto-continents, à des continents.  Là où les plaques s'écartent, des océans se forment.
+- Les collisions entre les plaques donnent lieu à des chaînes de montagnes, à des proto-continents, à des continents. Là où les plaques s'écartent, des océans se forment.
 - Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
 
 *Schéma de la tectonique des plaques*
