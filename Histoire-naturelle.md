@@ -31,6 +31,7 @@
 - [La chaleur de la Terre et la géothermie](http://planet-terre.ens-lyon.fr/article/chaleur-Terre-geothermie.xml) - Pierre Thomas, Site de l'ENS Lyon (2014)
 - [Les différents modes de transfert thermique](https://femto-physique.fr/physique_statistique/transfert-thermique.php) - Femto Physique (2017)
 - [INTRODUCTION À LA GÉOLOGIE, La dynamique de la Terre](http://meslivres.site/LIVREF/F14/F014001.pdf) - Boillot, Huchon, La Gabrielle (2008)
+- [When and how did plate tectonics begin on Earth?](https://www.earthmagazine.org/article/when-and-how-did-plate-tectonics-begin-earth)- Earth Magazine (Mai 2017)
 
 *Timelines*:
 
