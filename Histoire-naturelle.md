@@ -26,6 +26,7 @@
 - [Plate tectonics, damage and inheritance](https://www.nature.com/articles/nature13072) -  Bercovici et Ricard (2014)
 - [Plate-tectonic evolution of the Earth: bottom-up and top-down mantle circulation](http://www.nrcresearchpress.com/doi/pdf/10.1139/cjes-2015-0126) - Ernst et al (2015)
 - [Le puzzle des plaques tectoniques enfin résolu](https://lejournal.cnrs.fr/articles/le-puzzle-des-plaques-tectoniques-enfin-resolu) - Journal du CNRS (2016)
+- [Voyage au centre de la Terre](https://sciencetonnante.wordpress.com/2013/05/20/voyage-au-centre-de-la-terre/) - Science étonnante (2013)
 
 *Timelines*:
 
