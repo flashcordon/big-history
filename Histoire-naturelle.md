@@ -127,6 +127,8 @@
 
 ![Tectonique](https://www.alloprof.qc.ca/BV/PublishingImages/pages/s1375/s1375i5.JPG)
 
+*Les plaques tectoniques d'aujourd'hui*
+
 ![plaques](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plates_tect2_en.svg/1280px-Plates_tect2_en.svg.png)
 
 ## L'origine de la vie
