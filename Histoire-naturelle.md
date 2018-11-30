@@ -115,9 +115,9 @@
 - Les collisions entre les plaques donnent lieu à des chaînes de montagnes, à des îles de granit qui s'assemblent pour former des continents (vu que comme le granit est peu dense, contrairement au basalte, il ne subducte pas mais s'accumule à la surface).
 - Là où les plaques s'écartent, des océans se forment (plancher océanique créé).
 - Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
-- La Terre est la seule planète du système solaire avec une tectonique des plaques
+- La Terre est la seule planète du système solaire avec une tectonique des plaques.
 
-### Et les points chauds ?
+***Et les points chauds ?***
 
 - La théorie de la tectonique des plaques permet d'expliquer la répartition des 540 volcans actifs sur la planète, mais elle ne permet pas d'expliquer l'origine des points chauds intraplaques (Hawaii, la Réunion...). On pense qu'ils sont dus à des remontées en panache de matière en fusion d'origines variées (manteau inférieur ou manteau supérieur)
 
