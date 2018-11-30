@@ -103,6 +103,10 @@
 - Les collisions entre les plaques donnent lieu à des chaînes de montagnes, à des proto-continents, à des continents.
 - Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
 
+*Schéma de la tectonique des plaques*
+
+![Tectonique](https://www.alloprof.qc.ca/BV/PublishingImages/pages/s1375/s1375i5.JPG)
+
 ## L'origine de la vie
 
 ### Date d'apparition de la vie: 
