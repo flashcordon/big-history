@@ -84,19 +84,19 @@
 - Le bombardement intense de rochers de l’espace (comètes et météorites) ensemense la Terre de molécules organiques (en tout cas celles qui ont survécu à la violence de la collision) et augmente significativement la quantité d’eau sur Terre.
 - En effet, la matière avec laquelle s'est formée la Terre est majoritairement composée d'éléments en deça de la ligne de glace. Du coup elle aurait été très sèche sans l'apport en eau des comètes et des météorites durant le LHB (vérifier)
 
-## Tectonique des plaques 
-
-- La lithosphère (croûte+fraction du manteau supérieur) se découpe en 12 grandes plaques (plaques tectoniques) et quelques plaques mineures, dont les bords sont les dorsales océaniques et les zones de subduction.
-- Les dorsales océaniques créent du basalte neuf, et les zones de subductions avalent le vieux basalte.
-> La Terre est la seule planète du système solaire avec une tectonique des plaques
-- Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
-
 # La Terre de l'Archéen
 
 - Comme le Soleil était moins brillant qu'il ne l'est auourd'hui, la Terre serait totalement gelée si elle n'avait pas eu une concentration de CO2 (émis par les volcans) plus grande que maintenant, ainsi que des archées méthanogènes (apparues vers 3.5 Gyrs) qui balacent du méthane régulièrement pendant les 2 premiers milliards d'années de l'histoire de la Terre (faint young Sun paradox).
 - Les gisements de fer rubané (BIFs)
 - Il est possible qu'avant la grande oxydation, la Terre était recouverte d'une brume à haute altitude, comme Titan.
 > Les hydrocarbures (méthane, éthane) contenus dans la haute atmosphère de la jeune Terre réagissent aux UVs du Soleil, ce qui produit un brouillard. Cela cacherait la surface de la Terre à un observateur extérieur
+
+## La tectonique des plaques 
+
+- La lithosphère (croûte+fraction du manteau supérieur) se découpe en 12 grandes plaques (plaques tectoniques) et quelques plaques mineures, dont les bords sont les dorsales océaniques et les zones de subduction.
+- Les dorsales océaniques créent du basalte neuf, et les zones de subductions avalent le vieux basalte.
+> La Terre est la seule planète du système solaire avec une tectonique des plaques
+- Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
 
 ## L'origine de la vie
 
