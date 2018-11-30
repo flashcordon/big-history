@@ -27,6 +27,7 @@
 - [Plate-tectonic evolution of the Earth: bottom-up and top-down mantle circulation](http://www.nrcresearchpress.com/doi/pdf/10.1139/cjes-2015-0126) - Ernst et al (2015)
 - [Le puzzle des plaques tectoniques enfin résolu](https://lejournal.cnrs.fr/articles/le-puzzle-des-plaques-tectoniques-enfin-resolu) - Journal du CNRS (2016)
 - [Voyage au centre de la Terre](https://sciencetonnante.wordpress.com/2013/05/20/voyage-au-centre-de-la-terre/) - Science étonnante (2013)
+- [Histoire de la théorie de la tectonique des plaques](http://planet-terre.ens-lyon.fr/article/histoire-tectonique-plaques.xml) -  Vincent Deparis, Site de l'ENS Lyon (2011)
 
 *Timelines*:
 
@@ -101,7 +102,7 @@
 > Les 7 plaques les plus grandes représentent 95% de la surface de la Terre
 - les grandes plaques sont corrélées aux grands mouvements de convection dans le manteau; et les petites plaques se forment préférentiellement près des zones de subduction, là où les plaques sont soumises à de fortes contraintes en s’enfonçant dans le manteau (simulations numériques).
 - La Terre est la seule planète du système solaire avec une tectonique des plaques
-- Les collisions entre les plaques donnent lieu à des chaînes de montagnes, à des proto-continents, à des continents.
+- Les collisions entre les plaques donnent lieu à des chaînes de montagnes, à des proto-continents, à des continents.  Là où les plaques s'écartent, des océans se forment.
 - Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
 
 *Schéma de la tectonique des plaques*
