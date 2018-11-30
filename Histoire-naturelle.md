@@ -94,7 +94,7 @@
 
 ## La tectonique des plaques 
 
-- La lithosphère (croûte+fraction du manteau supérieur) se découpe en 12 grandes plaques (plaques tectoniques) et quelques plaques mineures (leur nombre total ne fait pas consensus) de quelques dizaines à 100 km d'épaisseur, dont les bords sont les dorsales océaniques et les zones de subduction.
+- La lithosphère (croûte+fraction du manteau supérieur) se découpe en 12 grandes plaques (plaques tectoniques) et quelques plaques mineures (leur nombre total ne fait pas consensus) de quelques dizaines à 100 km d'épaisseur, dont les bords sont les dorsales océaniques et les zones de subduction. Ces plaques surfent sur les roches plus chaudes et plus molles du manteau
 - Les dorsales océaniques créent du basalte neuf, et les zones de subductions avalent le vieux basalte.
 > La Terre est la seule planète du système solaire avec une tectonique des plaques
 - Les collisions entre les plaques et l'accumulation de granit (?) donnent lieu à des chaînes de montagnes, à des proto-continents, à des continents.
