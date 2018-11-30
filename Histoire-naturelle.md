@@ -94,10 +94,11 @@
 
 ## La tectonique des plaques 
 
-- La lithosphère (croûte+fraction du manteau supérieur) se découpe en 12 grandes plaques (plaques tectoniques) et quelques plaques mineures (leur nombre total ne fait pas consensus) de quelques dizaines à 100 km d'épaisseur, dont les bords sont les dorsales océaniques et les zones de subduction. Ces plaques surfent sur les roches plus chaudes et plus molles du manteau (à raison de quelques cm/an) et entraînent les continents dans leur course.
-- Les dorsales océaniques créent du basalte neuf, et les zones de subductions avalent le vieux basalte.
-> La Terre est la seule planète du système solaire avec une tectonique des plaques
-- Les collisions entre les plaques et l'accumulation de granit (?) donnent lieu à des chaînes de montagnes, à des proto-continents, à des continents.
+- La lithosphère (croûte+fraction du manteau supérieur) se découpe en une douzaine de grandes plaques (plaques tectoniques) et d'autres plaques mineures (leur nombre total ne fait pas consensus) de quelques dizaines à 100 km d'épaisseur, dont les bords sont les dorsales océaniques et les zones de subduction. Ces plaques surfent sur les roches plus chaudes et plus molles du manteau (à raison de quelques cm/an) et entraînent les continents dans leur course. 
+- Les dorsales océaniques créent du basalte neuf qui se solidifie, et les plaques océaniques s’enfoncent dans le manteau au niveau des zones dites de subduction, là où elles « coulent » sous les plaques tectoniques voisines moins denses.
+> Les 7 plaques les plus grandes représentent 95% de la surface de la Terre
+- La Terre est la seule planète du système solaire avec une tectonique des plaques
+- Les collisions entre les plaques donnent lieu à des chaînes de montagnes, à des proto-continents, à des continents.
 - Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
 
 ## L'origine de la vie
