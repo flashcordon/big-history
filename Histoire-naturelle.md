@@ -29,6 +29,7 @@
 - [Voyage au centre de la Terre](https://sciencetonnante.wordpress.com/2013/05/20/voyage-au-centre-de-la-terre/) - Science étonnante (2013)
 - [Histoire de la théorie de la tectonique des plaques](http://planet-terre.ens-lyon.fr/article/histoire-tectonique-plaques.xml) -  Vincent Deparis, Site de l'ENS Lyon (2011)
 - [La chaleur de la Terre et la géothermie](http://planet-terre.ens-lyon.fr/article/chaleur-Terre-geothermie.xml) - Pierre Thomas, Site de l'ENS Lyon (2014)
+- [Les différents modes de transfert thermique](https://femto-physique.fr/physique_statistique/transfert-thermique.php) - Femto Physique (2017)
 
 *Timelines*:
 
