@@ -101,7 +101,7 @@
 ## La tectonique des plaques 
 
 - La lithosphère (croûte+fraction du manteau supérieur) se découpe en une douzaine de grandes plaques (plaques tectoniques) et d'autres plaques mineures (leur nombre total ne fait pas consensus) de quelques dizaines à 100 km d'épaisseur, dont les bords sont les dorsales océaniques et les zones de subduction. Ces plaques surfent sur les roches plus chaudes et plus molles du manteau (à raison de quelques cm/an) et entraînent les continents dans leur course. 
-> Attention, les roches du manteau sont solides ! Mais elles se comportent comme un fluide visqueux sur des échelles de temps géologiques
+> Attention, les roches du manteau sont solides ! La pression considérable qui règne dans le manteau qui empêche la fusion des roches. Mais elles se comportent comme un fluide visqueux sur des échelles de temps géologiques.
 - Les 7 plaques les plus grandes représentent 95% de la surface de la Terre
 - Les dorsales océaniques créent du basalte neuf qui se solidifie, et les plaques océaniques s’enfoncent dans le manteau au niveau des zones dites de subduction, là où elles « coulent » sous les plaques tectoniques voisines moins denses.
 - les roches du manteau les plus chaudes (donc moins dense que les roches environnantes) s’élèvent vers la surface (grâce à la poussée d'Archimède) et poussent les plus froides qui s’enfoncent : c’est ce mouvement global appelé convection qui est à l’origine du mouvement des plaques
