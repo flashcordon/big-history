@@ -111,7 +111,7 @@
 > La chaleur interne de la Terre est due à la désintégration d’éléments d’isotopes radioactifs comme l’Uranium, le Thorium et le Potassium, ainsi qu'à la chaleur issue des collisions entre astéroides / planétérimaux qui ont formé la Terre (énergie cinétique convertie en chaleur). Quel processus domine le budget thermique de la Terre ? C'est encore mal contraint.
 - Les cellules de convection (taille = quelques milliers de km) font un tour complet sur elles-mêmes en 100 millions d'années environ.
 - les grandes plaques sont corrélées aux grands mouvements de convection dans le manteau; et les petites plaques se forment préférentiellement près des zones de subduction, là où les plaques sont soumises à de fortes contraintes en s’enfonçant dans le manteau (simulations numériques).
-- lorsque deux plaques se rencontrent, l'une plonge sous l'autre ; c'est le phénomène de subduction. L'enfoncement en force est accompagné de ruptures qui sont autant de séismes. 
+- lorsque deux plaques se rencontrent, l'une plonge sous l'autre ; c'est le phénomène de subduction. L'enfoncement en force est accompagné de ruptures qui sont autant de séismes, et il s’accompagne d’éruptions volcaniques nombreuses et violentes.
 - Les collisions entre les plaques donnent lieu à des chaînes de montagnes, à des îles de granit qui s'assemblent pour former des continents (vu que comme le granit est peu dense, contrairement au basalte, il ne subducte pas mais s'accumule à la surface).
 - Là où les plaques s'écartent, des océans se forment (plancher océanique créé).
 - Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
