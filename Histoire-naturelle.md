@@ -104,7 +104,7 @@
 > Attention, les roches du manteau sont solides ! Mais elles se comportent comme un fluide visqueux sur des échelles de temps géologiques
 - Les 7 plaques les plus grandes représentent 95% de la surface de la Terre
 - Les dorsales océaniques créent du basalte neuf qui se solidifie, et les plaques océaniques s’enfoncent dans le manteau au niveau des zones dites de subduction, là où elles « coulent » sous les plaques tectoniques voisines moins denses.
-- les roches du manteau les plus chaudes s’élèvent vers la surface et les plus froides s’enfoncent : c’est ce mouvement global appelé convection qui est à l’origine du mouvement des plaques
+- les roches du manteau les plus chaudes (donc moins dense que les roches environnantes) s’élèvent vers la surface (grâce à la poussée d'Archimède) et poussent les plus froides qui s’enfoncent : c’est ce mouvement global appelé convection qui est à l’origine du mouvement des plaques
 > La convection est un mode de transfert thermique qui implique un déplacement collectif de fluide. Le mouvement du fluide est causé par une différence (gradient) de température. La matière fluide chaude, en se déplaçant, cède de l'énergie aux parties plus froides. Exemple de convection: les mouvements de l'eau dans une casserole chauffée sur une plaque.
 - Les mouvements de convection sont générés par la chaleur interne de la Terre
 > La chaleur interne de la Terre est due à la désintégration d’éléments d’isotopes radioactifs comme l’Uranium, le Thorium et le Potassium, ainsi qu'à la chaleur (énergie gravitationnelle) issue des collisions entre astéroides / planétérimaux qui ont formé la Terre. Quel processus domine le budget thermique de la Terre ? C'est encore mal contraint.
