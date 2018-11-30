@@ -28,6 +28,7 @@
 - [Le puzzle des plaques tectoniques enfin résolu](https://lejournal.cnrs.fr/articles/le-puzzle-des-plaques-tectoniques-enfin-resolu) - Journal du CNRS (2016)
 - [Voyage au centre de la Terre](https://sciencetonnante.wordpress.com/2013/05/20/voyage-au-centre-de-la-terre/) - Science étonnante (2013)
 - [Histoire de la théorie de la tectonique des plaques](http://planet-terre.ens-lyon.fr/article/histoire-tectonique-plaques.xml) -  Vincent Deparis, Site de l'ENS Lyon (2011)
+- [La chaleur de la Terre et la géothermie](http://planet-terre.ens-lyon.fr/article/chaleur-Terre-geothermie.xml) - Pierre Thomas, Site de l'ENS Lyon (2014)
 
 *Timelines*:
 
@@ -104,7 +105,7 @@
 - les roches du manteau les plus chaudes s’élèvent vers la surface et les plus froides s’enfoncent : c’est ce mouvement global appelé convection qui est à l’origine du mouvement des plaques
 > similaire aux mouvements de l'eau dans une casserole chauffée sur une plaque.
 - Les mouvements de convection sont générés par la chaleur interne de la Terre
-> La chaleur interne de la Terre est due à 75% de désintégration d’éléments d’isotopes radioactifs comme l’Uranium, le Thorium et le Potassium et à 25% de la chaleur (énergie gravitationnelle) issue des collisions entre astéroides / planétérimaux qui ont formé la Terre
+> La chaleur interne de la Terre est due à la désintégration d’éléments d’isotopes radioactifs comme l’Uranium, le Thorium et le Potassium, ainsi qu'à la chaleur (énergie gravitationnelle) issue des collisions entre astéroides / planétérimaux qui ont formé la Terre. Quel processus domine le budget thermique de la Terre ? C'est encore mal contraint.
 - Les cellules de convection (taille = quelques milliers de km) font un tour complet sur elles-mêmes en 100 millions d'années environ.
 - les grandes plaques sont corrélées aux grands mouvements de convection dans le manteau; et les petites plaques se forment préférentiellement près des zones de subduction, là où les plaques sont soumises à de fortes contraintes en s’enfonçant dans le manteau (simulations numériques).
 - La Terre est la seule planète du système solaire avec une tectonique des plaques
