@@ -73,6 +73,7 @@
 
 - En 100 millions d’années, les matériaux les plus denses, comme le fer et le nickel, coulent vers le centre de la Terre et deviennent son noyau.
 - Les matériaux les moins denses flottent à la surface. La Terre acquiert une croûte de basalte (roche volcanique=feldspath+pyroxène+olivine, densité = 3 fois celle de l'eau). Entre le noyau et la coûte, un manteau de péridotite (=olivine+pyroxène).
+> David Louapre : la croûte est extraordinairement fine ! Songez qu’en moyenne elle ne fait qu’une trentaine de kilomètres alors que le rayon de la Terre est d’environ 6350 km. Si la Terre était un ballon de foot, la croûte ne ferait qu’un millimètre d’épaisseur.
 - Le basalte (riche en silicium, en calcium et en aluminium) provient de la fusion partielle du manteau de péridotite, ce qui a rendu la roche moins dense
 > Le basalte étant noir, la Terre apparaît alors comme une boule noire dérivant dans l’espace.
 - Le basalte domine la croûte de quasiment toutes les planètes telluriques. Sur Terre, elle domine aujourd'hui la croûte océanique.
