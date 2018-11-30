@@ -24,6 +24,7 @@
 - [Hadean Earth and primordial continents: The cradle of prebiotic life](https://www.sciencedirect.com/science/article/pii/S1674987116300834) - Santosh et al (2017)
 - The Origin and Evolution of Earth - Robert Hazen, The Great Courses (2013) (audiobook + notes de cours en PDF)
 - [Plate tectonics, damage and inheritance](https://www.nature.com/articles/nature13072) -  Bercovici et Ricard (2014)
+- [Plate-tectonic evolution of the Earth: bottom-up and top-down mantle circulation](http://www.nrcresearchpress.com/doi/pdf/10.1139/cjes-2015-0126) - Ernst et al (2015)
 
 *Timelines*:
 
@@ -93,7 +94,7 @@
 
 ## La tectonique des plaques 
 
-- La lithosphère (croûte+fraction du manteau supérieur) se découpe en 12 grandes plaques (plaques tectoniques) et quelques plaques mineures de quelques dizaines à quelques centaines de km d'épaisseur, dont les bords sont les dorsales océaniques et les zones de subduction.
+- La lithosphère (croûte+fraction du manteau supérieur) se découpe en 12 grandes plaques (plaques tectoniques) et quelques plaques mineures (leur nombre total ne fait pas consensus) de quelques dizaines à 100 km d'épaisseur, dont les bords sont les dorsales océaniques et les zones de subduction.
 - Les dorsales océaniques créent du basalte neuf, et les zones de subductions avalent le vieux basalte.
 > La Terre est la seule planète du système solaire avec une tectonique des plaques
 - Des observations géochimiques et pétrologiques impliquent que le système de plaques tectoniques n'est totalement formé qu'à partir de 3 Gyrs. Il a donc mis un bon milliard d'années à se mettre en place globalement.
