@@ -410,6 +410,10 @@ Ressources sur la Big History
 - [The long-term future of Mankind](https://youtu.be/Z7gU3ZsSWr0?list=WL) - Joseph Voros (Septembre 2016)
 - [Peut-on encore limiter le réchauffement de la planète à 1,5 degrés ?](https://vimeo.com/295986064) - Conférence de Valérie Masson-Delmotte à l'Agence Française pour le Développement (Octobre 2018)
 
+## Vidéos
+
+- [How To Suck Carbon Dioxide Out of the Sky](https://youtu.be/tKtXojkwlK8) - PBS Hot Mess (Novembre 2018)
+
 ## Podcasts
 
 - [Bruno David : biodiversité, le saut dans l’inconnu](https://www.presages.fr/blog/2018/bruno-david) - Présages, podcast d'Alexia Soyeux: Bonne explication des extinctions de masse, et des façons dont on peut mal les interpréter !
