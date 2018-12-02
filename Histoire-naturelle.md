@@ -32,6 +32,7 @@
 - [Les différents modes de transfert thermique](https://femto-physique.fr/physique_statistique/transfert-thermique.php) - Femto Physique (2017)
 - [INTRODUCTION À LA GÉOLOGIE, La dynamique de la Terre](http://meslivres.site/LIVREF/F14/F014001.pdf) - Boillot, Huchon, La Gabrielle (2008)
 - [When and how did plate tectonics begin on Earth?](https://www.earthmagazine.org/article/when-and-how-did-plate-tectonics-begin-earth)- Earth Magazine (Mai 2017)
+- [Les cycles de Milankovitch et les changements climatiques — Science étonnante #32)(https://youtu.be/MXcY8Cf6hsI) - Science Etonnante (Juillet 2016)
 
 *Timelines*:
 
