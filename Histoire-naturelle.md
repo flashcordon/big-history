@@ -302,3 +302,5 @@
 *Changements de températures mesurés dans les carottes glaciaires du projet EPICA (Antarctique) (Jouzel et al 2007)*
 
 ![Jouzel2007EPICA](https://www.ncdc.noaa.gov/sites/default/files/Temperature-change-and-carbon-dioxide-change-measured-from-the-EPICA-Dome-C-ice-core-in-Antarctica-v2.jpg)
+
+- Pendant les périodes glaciaires, le niveau de la mer est 100m plus bas que pendant les périodes interglaciaires.
