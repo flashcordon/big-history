@@ -32,9 +32,10 @@
 - [Les différents modes de transfert thermique](https://femto-physique.fr/physique_statistique/transfert-thermique.php) - Femto Physique (2017)
 - [INTRODUCTION À LA GÉOLOGIE, La dynamique de la Terre](http://meslivres.site/LIVREF/F14/F014001.pdf) - Boillot, Huchon, La Gabrielle (2008)
 - [When and how did plate tectonics begin on Earth?](https://www.earthmagazine.org/article/when-and-how-did-plate-tectonics-begin-earth)- Earth Magazine (Mai 2017)
-- [Les cycles de Milankovitch et les changements climatiques — Science étonnante #32)(https://youtu.be/MXcY8Cf6hsI) - Science Etonnante (Juillet 2016)
+- [Les cycles de Milankovitch et les changements climatiques — Science étonnante #32](https://youtu.be/MXcY8Cf6hsI) - Science Etonnante (Juillet 2016)
 - [Cycles glaciaires, paramètres de Milankovitch et CO2 (Analyse)](https://youtu.be/n-NJ-B_IIFw?list=WL) - Le Réveilleur (Octobre 2018)
 - [Orbital and Millennial Antarctic Climate Variability over the Past 800,000 Years](http://science.sciencemag.org/content/317/5839/793) - Jouzel et al (2007)
+- [MILANKOVITCH CYCLES AND THE EARTH’S CLIMATE](http://math.ucr.edu/home/baez/glacial/glacial.pdf) - Séminaire de John Baez (Avril 2013)
 
 *Timelines*:
 
@@ -290,6 +291,7 @@
 
 # Oscillations climatiques
 
+- Depuis 5 millions d'années, la Terre ne cesse de se refroidir
 - Il y a 2 millions d'années, le système climatique entre dans une période instable
 - La Terre fait face à une série d'âges glaciaires de plus en plus longs rythmée par les cycles de Milankovitch
 
