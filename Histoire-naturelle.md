@@ -301,7 +301,9 @@
 - Proposé par James Croll, et développé par Milutin Milankovitch (1941)
 - ***L'exentricité:*** La forme de l'orbite de la Terre autour du Soleil varie (plus ou moins circulaire/elliptique selon l'excentricité) à cause de la gravité des planètes géantes comme Jupiter
 > L'excentricité passe de e=0 (orbite circulaire) à e=0.06 (orbite légèrement plus elliptique)
-- ***L'obliquité***: L'angle formé par la direction des pôles et celle de la normale au plan de l'écliptique n'est pas constant. Il varie entre 22° et 24,5° suivant une période de 41.000 ans. Cela affecte directement l'intensité des saisons.
+- ***L'obliquité***: L'angle formé par la direction des pôles et celle de la normale au plan de l'écliptique, actuellement de 23,5°, n'est pas constant mais varie suivant une période de 41.000 ans. Cela affecte directement l'intensité des saisons.
+> Il varie entre 22° et 24,5°
+- ***La précession*** L'axe de rotation de la Terre est lui-même en rotation à cause des forces de marées liées à la gravité de la Lune et du Soleil.
 
 *Paramètres de Milankovitch (Image credit: K. Cantner, AGI)*
 
