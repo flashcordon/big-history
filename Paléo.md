@@ -3,6 +3,8 @@
 
 ## La grande diaspora humaine
 
+## L'extinction de la mégafaune (extinction du quaternaire)
+
 ## L'origine de l'agriculture
 
 L'agriculture sur brûlis
