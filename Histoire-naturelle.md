@@ -285,4 +285,12 @@
 > La vie prend des chemins évolutionnaires similaires en réponse à des besoins et des conditions environnementales données (exemple: les ailes des oiseaux et des chauves souris, les yeux des vertébrés et des poulpes)
 - L'évolution de l'intelligence est-elle inévitable ? Selon Morris, oui (cf *Inevitable humans in a lonely universe*).
 
+# Oscillations climatiques
+
+- Il y a 2 millions d'années, le système climatique entre dans une période instable
+- La Terre fait face à une série d'âges glaciaires de plus en plus longs rythmée par les cycles de Milankovitch
+
+## Les cycles de Milankovitch
+
+
 
