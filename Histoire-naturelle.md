@@ -66,7 +66,7 @@
 - Au moment de sa formation, la jeune Lune est à une distance un poil plus loin que la limite de Roche (ie 3 fois le rayon de la Terre) 
 > Il y a 4.5 Gyrs, un jour sur Terre durait entre 4 et 7h (valeur débattue. Source?).
 - *Limite de Roche :* distance minimum du centre d'une planète où un satellite peutorbiter sans être détruit par les forces de marées 
-- Les mesures de distance Terre-Lune avec des lasers (années 2000) indiquent que la Lune s'éloigne de la Terre à une vitesse de 3.8 cm / an. 
+- Les mesures de distance Terre-Lune avec des lasers (années 2000) indiquent que la Lune s'éloigne actuellement de la Terre à une vitesse de 3.8 cm / an. 
 - *Controverse:* la composition isotopique de la Lune est la même que celle de la Terre, Or si le modèle de l'impact est correct, la composition isotopique de l'impacteur n'a aucune raison d'être la même que celle de la Terre !
 
 ![Drag Racing 2](https://www.lpi.usra.edu/exploration/training/illustrations/earthMoon/preview/03.jpg)
