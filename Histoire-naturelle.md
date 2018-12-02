@@ -292,5 +292,7 @@
 
 ## Les cycles de Milankovitch
 
-
+- Créés par les variations de l'orbite terrestre autour du Soleil (dues à la présence d'autres corps dans le système solaire)
+- Proposé par James Croll, et développé par Milutin Milankovitch
+- 
 
