@@ -298,4 +298,6 @@
 - Proposé par James Croll, et développé par Milutin Milankovitch
 - 
 
+*Changements de températures mesurés dans les carottes glaciaires du projet EPICA (Antarctique)*
+
 ![Jouzel2007EPICA](https://www.ncdc.noaa.gov/sites/default/files/Temperature-change-and-carbon-dioxide-change-measured-from-the-EPICA-Dome-C-ice-core-in-Antarctica-v2.jpg)
