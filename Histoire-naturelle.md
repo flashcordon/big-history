@@ -34,6 +34,7 @@
 - [When and how did plate tectonics begin on Earth?](https://www.earthmagazine.org/article/when-and-how-did-plate-tectonics-begin-earth)- Earth Magazine (Mai 2017)
 - [Les cycles de Milankovitch et les changements climatiques — Science étonnante #32)(https://youtu.be/MXcY8Cf6hsI) - Science Etonnante (Juillet 2016)
 - [Cycles glaciaires, paramètres de Milankovitch et CO2 (Analyse)](https://youtu.be/n-NJ-B_IIFw?list=WL) - Le Réveilleur (Octobre 2018)
+- [Orbital and Millennial Antarctic Climate Variability over the Past 800,000 Years](http://science.sciencemag.org/content/317/5839/793) - Jouzel et al (2007)
 
 *Timelines*:
 
@@ -298,6 +299,6 @@
 - Proposé par James Croll, et développé par Milutin Milankovitch
 - 
 
-*Changements de températures mesurés dans les carottes glaciaires du projet EPICA (Antarctique)*
+*Changements de températures mesurés dans les carottes glaciaires du projet EPICA (Antarctique) (Jouzel et al 2007)*
 
 ![Jouzel2007EPICA](https://www.ncdc.noaa.gov/sites/default/files/Temperature-change-and-carbon-dioxide-change-measured-from-the-EPICA-Dome-C-ice-core-in-Antarctica-v2.jpg)
