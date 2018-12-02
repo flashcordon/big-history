@@ -299,7 +299,7 @@
 
 - Créés par les variations de l'orbite terrestre autour du Soleil (dues à la présence d'autres corps dans le système solaire)
 - Proposé par James Croll, et développé par Milutin Milankovitch (1941)
-- ***L'exentricité:*** La forme de l'orbite de la Terre autour du Soleil (plus ou moins circulaire/elliptique selon l'excentricité)
+- ***L'exentricité:*** La forme de l'orbite de la Terre autour du Soleil varie (plus ou moins circulaire/elliptique selon l'excentricité) à cause de la gravité des planètes géantes comme Jupiter
 > L'excentricité passe de e=0 (orbite circulaire) à e=0.06 (orbite légèrement plus elliptique)
 - ***L'obliquité de l'écliptique***: L'angle formé par la direction des pôles et celle de la normale au plan de l'écliptique n'est pas constant. Il varie entre 22° et 24,5° suivant une période de 41.000 ans.
 
