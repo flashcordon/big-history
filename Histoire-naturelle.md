@@ -294,16 +294,19 @@
 - Depuis 5 millions d'années, la Terre ne cesse de se refroidir
 - Il y a 2 millions d'années, le système climatique entre dans une période instable
 - La Terre fait face à une série d'âges glaciaires de plus en plus longs rythmée par les cycles de Milankovitch (montré par Hays, Imbrie et Shackleton en 1976)
+> Attention, les cycles de Milankovitch ne CAUSENT PAS les âges glaciaires. C'est plus complexe que ça.
+- Les cycles de Milankovitch causent des différences d'insolation
+- Ce sont des mécanismes de rétroaction qui prennent ces changements d'insolation et poussent la Terre dans des âges glaciaires (et l'en sortent)
 
 ## Les cycles de Milankovitch
 
 - Créés par les variations de l'orbite terrestre autour du Soleil (dues à la présence d'autres corps dans le système solaire)
 - Proposé par James Croll, et développé par Milutin Milankovitch (1941)
-- ***L'exentricité:*** La forme de l'orbite de la Terre autour du Soleil varie (plus ou moins circulaire/elliptique selon l'excentricité) à cause de la gravité des planètes géantes comme Jupiter
+- ***L'exentricité:*** La forme de l'orbite de la Terre autour du Soleil varie (plus ou moins circulaire/elliptique selon l'excentricité) à cause de la gravité des planètes géantes comme Jupiter. L'excentricité varie selon des cycles de 100 000 et 400 000 ans.
 > L'excentricité passe de e=0 (orbite circulaire) à e=0.06 (orbite légèrement plus elliptique)
-- ***L'obliquité***: L'angle formé par la direction des pôles et celle de la normale au plan de l'écliptique, actuellement de 23,5°, n'est pas constant mais varie suivant une période de 41.000 ans. Cela affecte directement l'intensité des saisons.
+- ***L'obliquité***: L'angle formé par la direction des pôles et celle de la normale au plan de l'écliptique, actuellement de 23,5°, n'est pas constant mais varie suivant une période de 41.000 ans. Cet angle est responsable des saisons, et son cycle de 41 000 ans a un effet direct sur l'intensité des étés et des hivers dans les deux hémisphères.
 > Il varie entre 22° et 24,5°
-- ***La précession*** L'axe de rotation de la Terre est lui-même en rotation à cause des forces de marées liées à la gravité de la Lune et du Soleil.
+- ***La précession*** L'axe de rotation de la Terre est lui-même en rotation à cause des forces de marées liées à la gravité de la Lune et du Soleil. Il varie selon un cycle de 23 000 ans.
 
 *Paramètres de Milankovitch (Image credit: K. Cantner, AGI)*
 
