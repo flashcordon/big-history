@@ -303,7 +303,11 @@
 
 ![Milankovitch](https://media.nature.com/lw926/nature-assets/nature/journal/v540/n7632/images/540208a-f1.jpg)
 
-*Changements de températures mesurés dans les carottes glaciaires du projet EPICA (Antarctique) (Jouzel et al 2007)*
+*Evolution de la température de la Terre lors des 5 derniers millions d'années ([Lisiecki et Raymo 2005](http://lorraine-lisiecki.com/LisieckiRaymo2005.pdf))*
+
+![6myrsT](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Five_Myr_Climate_Change.svg/1920px-Five_Myr_Climate_Change.svg.png)
+
+*Changements de températures lors des derniers 800kyrs mesurés dans les carottes glaciaires du projet EPICA (Antarctique) (Jouzel et al 2007)*
 
 ![Jouzel2007EPICA](https://www.ncdc.noaa.gov/sites/default/files/Temperature-change-and-carbon-dioxide-change-measured-from-the-EPICA-Dome-C-ice-core-in-Antarctica-v2.jpg)
 
