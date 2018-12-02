@@ -299,6 +299,10 @@
 - Proposé par James Croll, et développé par Milutin Milankovitch
 - 
 
+*Paramètres de Milankovitch ([Maslin 2016](https://www.nature.com/articles/540208a#f1))*
+
+![Milankovitch](https://media.nature.com/lw926/nature-assets/nature/journal/v540/n7632/images/540208a-f1.jpg)
+
 *Changements de températures mesurés dans les carottes glaciaires du projet EPICA (Antarctique) (Jouzel et al 2007)*
 
 ![Jouzel2007EPICA](https://www.ncdc.noaa.gov/sites/default/files/Temperature-change-and-carbon-dioxide-change-measured-from-the-EPICA-Dome-C-ice-core-in-Antarctica-v2.jpg)
