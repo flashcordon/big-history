@@ -299,9 +299,10 @@
 - Proposé par James Croll, et développé par Milutin Milankovitch
 - 
 
-*Paramètres de Milankovitch ([Maslin 2016](https://www.nature.com/articles/540208a#f1))*
+*Paramètres de Milankovitch (Image credit: K. Cantner, AGI)*
 
-![Milankovitch](https://media.nature.com/lw926/nature-assets/nature/journal/v540/n7632/images/540208a-f1.jpg)
+cf [Maslin 2016](https://www.nature.com/articles/540208a#f1)
+![Milankovitch](https://www.earthmagazine.org/sites/earthmagazine.org/files/styles/full_width/public/2016-04/Milankovitch.png?itok=Fq79StIb)
 
 *Evolution de la température de la Terre lors des 5 derniers millions d'années ([Lisiecki et Raymo 2005](http://lorraine-lisiecki.com/LisieckiRaymo2005.pdf))*
 
