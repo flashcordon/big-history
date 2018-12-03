@@ -295,6 +295,7 @@
 - Il y a 2 millions d'années, le système climatique entre dans une période instable.
 - Au cours du dernier million d'années, une dizaine d'âges glaciaires se succèdent, entrecoupées par des périodes interglaciaires
 - La Terre fait face à une série d'âges glaciaires de plus en plus longs rythmée par les cycles de Milankovitch (montré par [Hays, Imbrie et Shackleton en 1976](http://www.mantleplumes.org/WebDocuments/Hays1976.pdf))
+> Si on fait une transformée de Fourrier des données climatiques, on trouve des pics à des fréquences qui correspondent quasiment aux cycles de Milankovitch
 > Attention, les cycles de Milankovitch ne CAUSENT PAS les âges glaciaires. C'est plus complexe que ça.
 - Ce sont des mécanismes de rétroaction qui prennent ces changements d'insolation et poussent la Terre dans des âges glaciaires (et l'en sortent)
 
@@ -303,11 +304,11 @@
 - Créés par les variations de l'orbite terrestre autour du Soleil (dues à la présence d'autres corps dans le système solaire)
 - Proposé par James Croll, et développé par Milutin Milankovitch (1941)
 - Les climats du passé sont rythmés par la combinaison de 3 cycles affectant 3 paramètres orbitaux de la Terre :
-- ***L'exentricité:*** La forme de l'orbite de la Terre autour du Soleil varie (plus ou moins circulaire/elliptique selon l'excentricité) à cause de la gravité des planètes géantes comme Jupiter. L'excentricité varie selon des cycles de 100 000 et 400 000 ans. L'excentricité affecte (très légèrement) la distance Terre-Soleil.
+- ***L'exentricité:*** La forme de l'orbite de la Terre autour du Soleil varie (plus ou moins circulaire/elliptique selon l'excentricité) à cause de la gravité des planètes géantes comme Jupiter et Saturne. L'excentricité varie selon des cycles de 100 000 et 400 000 ans. L'excentricité affecte (très légèrement) la distance Terre-Soleil, ainsi que la durée des saisons (excentricité faible = saisons de durées comparables, excentricité forte = moins de temps passé au périhélie à cause de la 3e loi de Kepler).
 > L'excentricité passe de e=0 (orbite circulaire) à e=0.06 (orbite légèrement plus elliptique)
-- ***L'obliquité***: L'angle formé par la direction des pôles et celle de la normale au plan de l'écliptique, actuellement de 23,5°, n'est pas constant mais varie suivant une période de 41.000 ans. Cet angle est responsable des saisons (quand l'hémisphère sud reçoit plus d'énergie que l'hémisphère nord, c'est l'hiver dans l'hémisphère nord, mais 6 mois plus tard l'hémisphère nord reçoit plus d'énergie que l'hémisphère sud, et c'est l'été dans l'hémisphère nord), et son cycle a un effet direct sur l'intensité des étés et des hivers dans les deux hémisphères. Plus l'obliquité est élevés, plus les saisons sont marquées
+- ***L'obliquité***: L'angle formé par la direction des pôles et celle de la normale au plan de l'écliptique, actuellement de 23,5°, n'est pas constant mais varie suivant une période de 41.000 ans. Cet angle est responsable des saisons (quand l'hémisphère sud reçoit plus d'énergie que l'hémisphère nord, c'est l'hiver dans l'hémisphère nord, mais 6 mois plus tard l'hémisphère nord reçoit plus d'énergie que l'hémisphère sud, et c'est l'été dans l'hémisphère nord), et son cycle a un effet direct sur l'intensité des étés et des hivers dans les deux hémisphères. Plus l'obliquité est élevée, plus les saisons sont marquées (hivers plus froids et étés plus chauds)
 > Il varie entre 22° et 24,5°
-- ***La précession*** L'axe de rotation de la Terre est lui-même en rotation (comme une toupie) à cause des forces de marées liées à la gravité de la Lune et du Soleil. Il varie selon un cycle de 23 000 ans.
+- ***La précession*** L'axe de rotation de la Terre pointe actuellement vers l'étoile polaire. Mais ça ne sera pas toujours le cas. Car il est lui-même en rotation (comme une toupie) à cause des forces de marées liées à la gravité de la Lune et du Soleil. Il varie selon un cycle de 23 000 ans.
 - Les paramètres de Milankovitch ne changent que très peu l'ensoleillement total que reçoit la Terre en un an (seule l'exentricité a un rôle là dedans mais il est quasi négligeable), mais ils causent une différence dans la répartition de l'énergie reçue sur Terre et cela joue sur l'intensité des saisons et donc, sur le long terme, sur le climat.
 - Notamment, les paramètres de Milankovitch ont une grosse influence sur la quantité d'énergie reçue à une latitude donnée à une période donnée de l'année.
 
@@ -315,6 +316,10 @@
 
 cf [Maslin 2016](https://www.nature.com/articles/540208a#f1)
 ![Milankovitch](https://www.earthmagazine.org/sites/earthmagazine.org/files/styles/full_width/public/2016-04/Milankovitch.png?itok=Fq79StIb)
+
+## Reconstruire les températures du passé
+
+- Les foraminifères 
 
 *Evolution de la température de la Terre au cours des 540 derniers millions d'années* (Critique du graphique [ici](http://www.realclimate.org/index.php/archives/2014/03/can-we-make-better-graphs-of-global-temperature-history/))
 
