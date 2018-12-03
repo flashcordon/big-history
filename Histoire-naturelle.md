@@ -303,11 +303,11 @@
 
 - Créés par les variations de l'orbite terrestre autour du Soleil (dues à la présence d'autres corps dans le système solaire)
 - Proposé par James Croll, et développé par Milutin Milankovitch (1941)
-- ***L'exentricité:*** La forme de l'orbite de la Terre autour du Soleil varie (plus ou moins circulaire/elliptique selon l'excentricité) à cause de la gravité des planètes géantes comme Jupiter. L'excentricité varie selon des cycles de 100 000 et 400 000 ans.
+- ***L'exentricité:*** La forme de l'orbite de la Terre autour du Soleil varie (plus ou moins circulaire/elliptique selon l'excentricité) à cause de la gravité des planètes géantes comme Jupiter. L'excentricité varie selon des cycles de 100 000 et 400 000 ans. L'excentricité affecte (très légèrement) la distance Terre-Soleil.
 > L'excentricité passe de e=0 (orbite circulaire) à e=0.06 (orbite légèrement plus elliptique)
-- ***L'obliquité***: L'angle formé par la direction des pôles et celle de la normale au plan de l'écliptique, actuellement de 23,5°, n'est pas constant mais varie suivant une période de 41.000 ans. Cet angle est responsable des saisons (quand l'hémisphère sud reçoit plus d'énergie que l'hémisphère nord, c'est l'hiver dans l'hémisphère nord, mais 6 mois plus tard l'hémisphère nord reçoit plus d'énergie que l'hémisphère sud, et c'est l'été dans l'hémisphère nord), et son cycle a un effet direct sur l'intensité des étés et des hivers dans les deux hémisphères.
+- ***L'obliquité***: L'angle formé par la direction des pôles et celle de la normale au plan de l'écliptique, actuellement de 23,5°, n'est pas constant mais varie suivant une période de 41.000 ans. Cet angle est responsable des saisons (quand l'hémisphère sud reçoit plus d'énergie que l'hémisphère nord, c'est l'hiver dans l'hémisphère nord, mais 6 mois plus tard l'hémisphère nord reçoit plus d'énergie que l'hémisphère sud, et c'est l'été dans l'hémisphère nord), et son cycle a un effet direct sur l'intensité des étés et des hivers dans les deux hémisphères. Plus l'obliquité est élevés, plus les saisons sont marquées
 > Il varie entre 22° et 24,5°
-- ***La précession*** L'axe de rotation de la Terre est lui-même en rotation à cause des forces de marées liées à la gravité de la Lune et du Soleil. Il varie selon un cycle de 23 000 ans.
+- ***La précession*** L'axe de rotation de la Terre est lui-même en rotation (comme une toupie) à cause des forces de marées liées à la gravité de la Lune et du Soleil. Il varie selon un cycle de 23 000 ans.
 - Les paramètres de Milankovitch ne changent que très peu l'ensoleillement total que reçoit la Terre en un an (seule l'exentricité a un rôle là dedans mais il est quasi négligeable)
 
 *Paramètres de Milankovitch (Image credit: K. Cantner, AGI)*
