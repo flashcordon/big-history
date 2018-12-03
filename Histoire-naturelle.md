@@ -54,7 +54,7 @@
 - Date de formation de la Terre : 4.567 Gyrs (âge des plus anciennes météorites connues).
 - Au moment de la formation de la Terre, le Soleil est 30% moins lumineux qu'il ne l'est maintenant. Son intensité augmente de 7% par Gyr.
 - Seule source de données: les cristaux de zircon (grains rouges de qqs dixièmes de mm, très durs), dont les plus vieux (Jack Hills, Australie) sont datés de 4.4 Gyrs (Australie Occidentale)
-- Les zircons sont la preuve que la Terre avait une croûte à cette époque, et qu'elle était recouverte par des océans il y a 4.4 Gyrs
+- Les zircons sont la preuve que la Terre avait une croûte à cette époque, et qu'elle était recouverte par des océans il y a 4.4 Gyrs (cool early Earth)
 
 *Evolution de la luminosité du Soleil (de Ribas (2009))*
 
