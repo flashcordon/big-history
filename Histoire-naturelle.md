@@ -291,7 +291,7 @@
 
 # Oscillations climatiques
 
-- Depuis 50 millions d'années, la Terre ne cesse de se refroidir (pourquoi?)
+- Depuis 50 millions d'années (optimum de l'Eocène), la Terre ne cesse de se refroidir (pourquoi?)
 - Il y a 2 millions d'années, le système climatique entre dans une période instable.
 - Au cours du dernier million d'années, une dizaine d'âges glaciaires se succèdent, entrecoupées par des périodes interglaciaires
 - La Terre fait face à une série d'âges glaciaires de plus en plus longs rythmée par les cycles de Milankovitch (montré par Hays, Imbrie et Shackleton en 1976)
