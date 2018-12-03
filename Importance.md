@@ -7,3 +7,4 @@
 - Elle répond au besoin qu'ont les civilisations humaines d'expliquer leur origine
 - Elle est transdisciplinaire, à l'heure où nos connaissances sont fragmentées
 - Elle nous montre les liens cachés que l'on partage avec tous les humains, avec l'ensemble du vivant, et l'univers dans son ensemble
+- Elle permet d'avoir un cadre conceptuel qui permet de comprendre de manière un peu plus universelle que maintenant les conditions de l'émergence de la complexité dans l'univers.
