@@ -314,6 +314,10 @@
 cf [Maslin 2016](https://www.nature.com/articles/540208a#f1)
 ![Milankovitch](https://www.earthmagazine.org/sites/earthmagazine.org/files/styles/full_width/public/2016-04/Milankovitch.png?itok=Fq79StIb)
 
+*Evolution de la température de la Terre au cours des 540 derniers millions d'années* (Critique du graphique [ici](http://www.realclimate.org/index.php/archives/2014/03/can-we-make-better-graphs-of-global-temperature-history/))
+
+![PaleoT](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pal%C3%A9otemp%C3%A9ratures.svg/1200px-Pal%C3%A9otemp%C3%A9ratures.svg.png)
+
 *Evolution de la température de la Terre lors des 5 derniers millions d'années ([Lisiecki et Raymo 2005](http://lorraine-lisiecki.com/LisieckiRaymo2005.pdf))*
 
 ![6myrsT](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Five_Myr_Climate_Change.svg/1920px-Five_Myr_Climate_Change.svg.png)
