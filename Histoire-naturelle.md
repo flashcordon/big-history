@@ -307,6 +307,7 @@
 - ***L'obliquité***: L'angle formé par la direction des pôles et celle de la normale au plan de l'écliptique, actuellement de 23,5°, n'est pas constant mais varie suivant une période de 41.000 ans. Cet angle est responsable des saisons, et son cycle de 41 000 ans a un effet direct sur l'intensité des étés et des hivers dans les deux hémisphères.
 > Il varie entre 22° et 24,5°
 - ***La précession*** L'axe de rotation de la Terre est lui-même en rotation à cause des forces de marées liées à la gravité de la Lune et du Soleil. Il varie selon un cycle de 23 000 ans.
+- Les paramètres de Milankovitch ne changent que très peu l'ensoleillement total que reçoit la Terre en un an (seule l'exentricité a un rôle là dedans mais il est quasi négligeable)
 
 *Paramètres de Milankovitch (Image credit: K. Cantner, AGI)*
 
