@@ -36,6 +36,7 @@
 - [Cycles glaciaires, paramètres de Milankovitch et CO2 (Analyse)](https://youtu.be/n-NJ-B_IIFw?list=WL) - Le Réveilleur (Octobre 2018)
 - [Orbital and Millennial Antarctic Climate Variability over the Past 800,000 Years](http://science.sciencemag.org/content/317/5839/793) - Jouzel et al (2007)
 - [MILANKOVITCH CYCLES AND THE EARTH’S CLIMATE](http://math.ucr.edu/home/baez/glacial/glacial.pdf) - Séminaire de John Baez (Avril 2013)
+- [Early Earth](https://youtu.be/lebW5WGmsrc) - Hervé Martin, Rencontres exobiologiques pour doctorants (Février 2016)
 
 *Timelines*:
 
