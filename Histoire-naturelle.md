@@ -51,10 +51,13 @@
 
 # La Terre de l'Hadéen
 
-- Date de formation de la Terre : 4.567 Gyrs (âge des plus anciennes météorites connues).
+- Date de formation de la Terre : 4.568 Gyrs (âge des plus anciennes météorites connues).
+> Les météorites les plus primitives sont les chondrites carbonées. Elles ont la même composition que la photosphère du Soleil (à part en hydrogène et en hélium), et cette composition n'a pas changé depuis leur formation
 - Au moment de la formation de la Terre, le Soleil est 30% moins lumineux qu'il ne l'est maintenant. Son intensité augmente de 7% par Gyr.
-- Seule source de données: les cristaux de zircon (grains rouges de qqs dixièmes de mm, très durs), dont les plus vieux (Jack Hills, Australie) sont datés de 4.4 Gyrs (Australie Occidentale)
-- Les zircons sont la preuve que la Terre avait une croûte à cette époque, et qu'elle était recouverte par des océans il y a 4.4 Gyrs (cool early Earth)
+- Seule source de données: les cristaux de zircon (grains rouges de qqs dixièmes de mm, très durs), dont les plus vieux (Jack Hills, Australie) sont datés de 4.4 Gyrs.
+> Les zircons sont extrêmement résistants à l'érosion. Ils contiennent de l'uranium et du thorium radioactifs qui permettent de dater précisément ces minéraux. Les zircons sont les plus vieux minéraux sur Terre.
+- Les zircons sont la preuve que la Terre avait une croûte à cette époque, et qu'elle était recouverte par des océans il y a 4.4 Gyrs (cool early Earth, cf Bouvier et al 2012)
+- De 4.568 à 4.4 Gyrs, la Terre est un océan de magma. Pas d'eau liquide, pas de champ magnétique. Pas de possibilité de chimie prébiotique.
 
 *Evolution de la luminosité du Soleil (de Ribas (2009))*
 
@@ -81,6 +84,7 @@
 ## Différenciation
 
 - En 100 millions d’années, les matériaux les plus denses, comme le fer et le nickel, coulent vers le centre de la Terre et deviennent son noyau.
+> La différenciation coeur-manteau a lieu en quelques dizaines de millions d'années.
 - Les matériaux les moins denses flottent à la surface. La Terre acquiert une croûte de basalte (roche volcanique=feldspath+pyroxène+olivine, densité = 3 fois celle de l'eau). Entre le noyau et la coûte, un manteau de péridotite (=olivine+pyroxène).
 > David Louapre : la croûte est extraordinairement fine ! Songez qu’en moyenne elle ne fait qu’une trentaine de kilomètres alors que le rayon de la Terre est d’environ 6350 km. Si la Terre était un ballon de foot, la croûte ne ferait qu’un millimètre d’épaisseur.
 - Le basalte (riche en silicium, en calcium et en aluminium) provient de la fusion partielle du manteau de péridotite, ce qui a rendu la roche moins dense
@@ -91,6 +95,9 @@
 - Alors que la croûte de basalte durcit, elle crée une couverture qui piège la chaleur interne de la Terre. Le basalte est donc chauffé par dessous, entre en fusion partielle et ça crée du granit (densité : 2.7 fois celle de l'eau).
 - Le granit (roche grise) se met alors à flotter sur la croûte basaltique, et s'accumule. Des îles de granit se forment. Deviennent des montagnes. Des graines de continents.
 - L'analyse des zircons implique l'existence d'une croûte continentale et la formation de granites il y a plus de 4 Gyrs.
+- Les mouvements de convection dans le coeur externe liquide de la Terre génère son champ magnétique, qui fournit protège l'atmosphère de la Terre des vents solaires
+- Selon des résultats récents (Tarduno et a 2015), la Terre possédait déjà un champ magnétique il y a 4.2 Gyrs
+- ***Conclusion***: De 4.4 à 4Gyrs, la Terre possède une croûte, des océans d'eau liquide et un champ magnétique. Des conditions favorables à l'émergence de la vie.
 
 ## Le Grand Bombardement Tardif (LHB)
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
@@ -100,6 +107,7 @@
 
 # La Terre de l'Archéen
 
+- Les orthogneiss d'Acasta (Canada) sont les plus anciennes roches connues sur Terre (datées de 4Gyrs). Ces roches déterminent la limite entre l'Hadéen et l'Archéen. Elles contiennent des cristaux de zircons formés plus tôt et datés de 4.2Gyrs.
 - Comme le Soleil était moins brillant qu'il ne l'est auourd'hui, la Terre serait totalement gelée si elle n'avait pas eu une concentration de CO2 (émis par les volcans) plus grande que maintenant, ainsi que des archées méthanogènes (apparues vers 3.5 Gyrs) qui balacent du méthane régulièrement pendant les 2 premiers milliards d'années de l'histoire de la Terre (faint young Sun paradox).
 - Les gisements de fer rubané (BIFs)
 - Il est possible qu'avant la grande oxydation, la Terre était recouverte d'une brume à haute altitude, comme Titan.
