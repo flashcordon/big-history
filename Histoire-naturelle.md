@@ -315,7 +315,9 @@
 - Les paramètres de Milankovitch introduisent une légère perturbation dans le système climatique, mais ce sont des mécanismes de rétroaction qui prennent ces changements d'insolation et poussent la Terre dans des âges glaciaires (et l'en sortent)
 > ***Rétroaction de l'albédo :*** plus y a de surface blanche, plus la lumière du Soleil est réfléchie et plus la Terre se refroidit, donc plus la glace gagne du terrain, etc...
 > ***Rétroaction du CO2 :*** un réchauffement des océans cause une diminution de la solubilité du CO2 dans l'eau. Il y a dégazage du CO2, qui se retrouve dans l'atmosphère, et en tant que gaz à effet de serre, ça réchauffe la planète, etc...
-- 4 degrés seulement séparent une période glaciaire d'une période interglaciaire (cf Shakun et al 2012), et la Terre a mis 7000 ans à sortir du dernier âge glaciaire.
+> ***Rétroaction de la poussière*** : un cllimat froid rend l'atmosphère plus sèche. Du coup moins de pluies pour faire retomber les poussières au sol. Elles s'accumulent donc dans l'atmosphère, et réfléchissent le rayonnement solaire, ce qui peut refroidir le climat.
+- 4-5 degrés seulement séparent une période glaciaire d'une période interglaciaire (cf Shakun et al 2012), et la Terre a mis 7000 ans à sortir du dernier âge glaciaire.
+- Les changements climatiques sont plus marqués aux hautes latitudes. Les paramètres de Milankovich changent la puissance reçue dans les hautes latitudes de l'hémisphère Nord, ce qui fait fondre ou accumuler la glace à ces lattitudes, et peut déclencher la boucle de rétroaction positive. 
 
 ## Les cycles de Milankovitch
 
@@ -323,7 +325,7 @@
 - Proposé par James Croll, et développé par Milutin Milankovitch (1941)
 - Les climats du passé sont rythmés par la combinaison de 3 cycles affectant 3 paramètres orbitaux de la Terre :
 - ***L'exentricité:*** La forme de l'orbite de la Terre autour du Soleil varie (plus ou moins circulaire/elliptique selon l'excentricité) à cause de la gravité des planètes géantes comme Jupiter et Saturne. L'excentricité varie selon des cycles de 100 000 et 400 000 ans. L'excentricité affecte (très légèrement) la distance Terre-Soleil, ainsi que la durée des saisons (excentricité faible = saisons de durées comparables, excentricité forte = moins de temps passé au périhélie à cause de la 3e loi de Kepler).
-> L'excentricité passe de e=0 (orbite circulaire) à e=0.06 (orbite légèrement plus elliptique)
+> L'excentricité passe de e=0.005 (orbite quasi-circulaire) à e=0.06 (orbite légèrement plus elliptique)
 - ***L'obliquité***: L'angle formé par la direction des pôles et celle de la normale au plan de l'écliptique, actuellement de 23,5°, n'est pas constant mais varie suivant une période de 41.000 ans. Cet angle est responsable des saisons (quand l'hémisphère sud reçoit plus d'énergie que l'hémisphère nord, c'est l'hiver dans l'hémisphère nord, mais 6 mois plus tard l'hémisphère nord reçoit plus d'énergie que l'hémisphère sud, et c'est l'été dans l'hémisphère nord), et son cycle a un effet direct sur l'intensité des étés et des hivers dans les deux hémisphères. Plus l'obliquité est élevée, plus les saisons sont marquées (hivers plus froids et étés plus chauds)
 > Il varie entre 22° et 24,5°
 - ***La précession*** L'axe de rotation de la Terre pointe actuellement vers l'étoile polaire. Mais ça ne sera pas toujours le cas. Car il est lui-même en rotation (comme une toupie) à cause des forces de marées liées à la gravité de la Lune et du Soleil. Il varie selon un cycle de 23 000 ans.
@@ -337,7 +339,7 @@ cf [Maslin 2016](https://www.nature.com/articles/540208a#f1)
 
 ## Reconstruire les températures du passé
 
-- Les foraminifères 
+- Aujourd'hui, on peut reconstruire les températures du passé en étudiant les rapports isotopiques (oxygène 18) des foraminifères (petits coquillages)
 
 *Evolution de la température de la Terre au cours des 540 derniers millions d'années* (Critique du graphique [ici](http://www.realclimate.org/index.php/archives/2014/03/can-we-make-better-graphs-of-global-temperature-history/))
 
