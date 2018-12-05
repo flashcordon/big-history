@@ -73,7 +73,7 @@
 - Au moment de sa formation, la jeune Lune est à une distance un poil plus loin que la limite de Roche (ie 3 fois le rayon de la Terre) 
 > Il y a 4.5 Gyrs, un jour sur Terre durait entre 4 et 7h (valeur débattue. Source?).
 - *Limite de Roche :* distance minimum du centre d'une planète où un satellite peutorbiter sans être détruit par les forces de marées 
-- Les mesures de distance Terre-Lune avec des lasers (années 2000) indiquent que la Lune s'éloigne actuellement de la Terre à une vitesse de 3.8 cm / an. 
+- Les mesures de distance Terre-Lune avec des lasers (années 2000) indiquent que la Lune s'éloigne actuellement de la Terre à une vitesse de 3.8 cm / an (dans le passé, ça allait moins vite). 
 - *Controverse:* la composition isotopique de la Lune est la même que celle de la Terre, Or si le modèle de l'impact est correct, la composition isotopique de l'impacteur n'a aucune raison d'être la même que celle de la Terre !
 
 ![Drag Racing 2](https://www.lpi.usra.edu/exploration/training/illustrations/earthMoon/preview/03.jpg)
@@ -113,6 +113,7 @@
 - Les gisements de fer rubané (BIFs)
 - Il est possible qu'avant la grande oxydation, la Terre était recouverte d'une brume à haute altitude, comme Titan.
 > Les hydrocarbures (méthane, éthane) contenus dans la haute atmosphère de la jeune Terre réagissent aux UVs du Soleil, ce qui produit un brouillard. Cela cacherait la surface de la Terre à un observateur extérieur
+- Comme la Lune est beaucoup plus proche que maintenant, les marées sont beaucoup plus fortes, et les tsunamis sont fréquents.
 
 ## La tectonique des plaques 
 
