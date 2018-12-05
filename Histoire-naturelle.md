@@ -37,6 +37,7 @@
 - [Orbital and Millennial Antarctic Climate Variability over the Past 800,000 Years](http://science.sciencemag.org/content/317/5839/793) - Jouzel et al (2007)
 - [MILANKOVITCH CYCLES AND THE EARTH’S CLIMATE](http://math.ucr.edu/home/baez/glacial/glacial.pdf) - Séminaire de John Baez (Avril 2013)
 - [Early Earth](https://youtu.be/lebW5WGmsrc) - Hervé Martin, Rencontres exobiologiques pour doctorants (Février 2016)
+- [Archean surface conditions](https://youtu.be/yNEkQ8KV-aQ) - Christoph Heubeuck, Rencontres exobiologiques pour doctorants (Mars 2018)
 
 *Timelines*:
 
