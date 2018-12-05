@@ -114,6 +114,9 @@
 - Il est possible qu'avant la grande oxydation, la Terre était recouverte d'une brume à haute altitude, comme Titan.
 > Les hydrocarbures (méthane, éthane) contenus dans la haute atmosphère de la jeune Terre réagissent aux UVs du Soleil, ce qui produit un brouillard. Cela cacherait la surface de la Terre à un observateur extérieur
 - Comme la Lune est beaucoup plus proche que maintenant, les marées sont beaucoup plus fortes, et les tsunamis sont fréquents.
+> Ca c'est ce que prédit la théorie mais on n'a aucune observation pour le moment qui le confirme
+- Comme la Terre tourne plus vite sur elle-même que maintenant, les cyclones sont plus fréquents (?)
+- Grâce aux poussières volcaniques, il y a de l'électricité statique dans l'atmosphère. D'énormes éclairs devraient avoir eu lieu sur la Terre primitive.
 
 ## La tectonique des plaques 
 
