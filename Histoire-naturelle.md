@@ -307,10 +307,10 @@
 # Oscillations climatiques
 
 - Depuis 50 millions d'années (optimum de l'Eocène), la Terre ne cesse de se refroidir (pourquoi?)
-- Il y a 2 millions d'années, le système climatique entre dans une période instable.
-- Au cours du dernier million d'années, une dizaine d'âges glaciaires se succèdent, entrecoupées par des périodes interglaciaires
-- La Terre fait face à une série d'âges glaciaires de plus en plus longs rythmée par les cycles de Milankovitch (montré par [Hays, Imbrie et Shackleton en 1976](http://www.mantleplumes.org/WebDocuments/Hays1976.pdf))
+- Il y a 2.5 millions d'années, le système climatique entre dans une période instable. La Terre fait face à une série d'âges glaciaires de plus en plus longs rythmée par les cycles de Milankovitch (montré par [Hays, Imbrie et Shackleton en 1976](http://www.mantleplumes.org/WebDocuments/Hays1976.pdf))
 > Si on fait une transformée de Fourrier des données climatiques, on trouve des pics à des fréquences qui correspondent quasiment aux cycles de Milankovitch
+- Au cours du dernier million d'années, une dizaine d'âges glaciaires se succèdent, entrecoupées par des périodes interglaciaires
+- Au début les les âges glaciaires avaient une périodicité de 41 000 ans, mais plus récemment 100 000 ans séparent 2 âges glaciaires, pour des raisons encore mal comprises (?).
 - Attention, les cycles de Milankovitch à eux seuls ne permettent pas d'expliquer les différences de températures entre les périodes glaciaires et les périodes interglaciaires !
 - Les paramètres de Milankovitch introduisent une légère perturbation dans le système climatique, mais ce sont des mécanismes de rétroaction qui prennent ces changements d'insolation et poussent la Terre dans des âges glaciaires (et l'en sortent)
 > * ***Rétroaction de l'albédo :*** plus y a de surface blanche, plus la lumière du Soleil est réfléchie et plus la Terre se refroidit, donc plus la glace gagne du terrain, etc...
