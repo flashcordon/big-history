@@ -38,6 +38,7 @@
 - [MILANKOVITCH CYCLES AND THE EARTH’S CLIMATE](http://math.ucr.edu/home/baez/glacial/glacial.pdf) - Séminaire de John Baez (Avril 2013)
 - [Early Earth](https://youtu.be/lebW5WGmsrc) - Hervé Martin, Rencontres exobiologiques pour doctorants (Février 2016)
 - [Archean surface conditions](https://youtu.be/yNEkQ8KV-aQ) - Christoph Heubeuck, Rencontres exobiologiques pour doctorants (Mars 2018)
+- [Transition entre périodes glaciaires et interglaciaires](https://youtu.be/Jvh1YzJ5bTk?list=WL) - Le Réveilleur (Novembre 2015)
 
 *Timelines*:
 
@@ -310,8 +311,11 @@
 - Au cours du dernier million d'années, une dizaine d'âges glaciaires se succèdent, entrecoupées par des périodes interglaciaires
 - La Terre fait face à une série d'âges glaciaires de plus en plus longs rythmée par les cycles de Milankovitch (montré par [Hays, Imbrie et Shackleton en 1976](http://www.mantleplumes.org/WebDocuments/Hays1976.pdf))
 > Si on fait une transformée de Fourrier des données climatiques, on trouve des pics à des fréquences qui correspondent quasiment aux cycles de Milankovitch
-> Attention, les cycles de Milankovitch ne CAUSENT PAS les âges glaciaires. C'est plus complexe que ça.
-- Ce sont des mécanismes de rétroaction qui prennent ces changements d'insolation et poussent la Terre dans des âges glaciaires (et l'en sortent)
+- Attention, les cycles de Milankovitch à eux seuls ne permettent pas d'expliquer les différences de températures entre les périodes glaciaires et les périodes interglaciaires !
+- Les paramètres de Milankovitch introduisent une légère perturbation dans le système climatique, mais ce sont des mécanismes de rétroaction qui prennent ces changements d'insolation et poussent la Terre dans des âges glaciaires (et l'en sortent)
+> ***Rétroaction de l'albédo :*** plus y a de surface blanche, plus la lumière du Soleil est réfléchie et plus la Terre se refroidit, donc plus la glace gagne du terrain, etc...
+> ***Rétroaction du CO2 :*** un réchauffement des océans cause une diminution de la solubilité du CO2 dans l'eau. Il y a dégazage du CO2, qui se retrouve dans l'atmosphère, et en tant que gaz à effet de serre, ça réchauffe la planète, etc...
+- 4 degrés seulement séparent une période glaciaire d'une période interglaciaire (cf Shakun et al 2012), et la Terre a mis 7000 ans à sortir du dernier âge glaciaire.
 
 ## Les cycles de Milankovitch
 
@@ -344,6 +348,7 @@ cf [Maslin 2016](https://www.nature.com/articles/540208a#f1)
 ![6myrsT](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Five_Myr_Climate_Change.svg/1920px-Five_Myr_Climate_Change.svg.png)
 
 *Changements de températures lors des derniers 800kyrs mesurés dans les carottes glaciaires du projet EPICA (Antarctique) (Jouzel et al 2007)*
+> Attention ces données sont locales !
 
 ![Jouzel2007EPICA](https://www.ncdc.noaa.gov/sites/default/files/Temperature-change-and-carbon-dioxide-change-measured-from-the-EPICA-Dome-C-ice-core-in-Antarctica-v2.jpg)
 
