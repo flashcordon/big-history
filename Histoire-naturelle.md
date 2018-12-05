@@ -318,6 +318,7 @@
 > * ***Rétroaction de la poussière*** : un cllimat froid rend l'atmosphère plus sèche. Du coup moins de pluies pour faire retomber les poussières au sol. Elles s'accumulent donc dans l'atmosphère, et réfléchissent le rayonnement solaire, ce qui peut refroidir le climat.
 - 4-5 degrés seulement séparent une période glaciaire d'une période interglaciaire (cf Shakun et al 2012), et la Terre a mis 7000 ans à sortir du dernier âge glaciaire.
 - Les changements climatiques sont plus marqués aux hautes latitudes. Les paramètres de Milankovich changent la puissance reçue dans les hautes latitudes de l'hémisphère Nord, ce qui fait fondre ou accumuler la glace à ces lattitudes, et peut déclencher la boucle de rétroaction positive. 
+- Attention, les paramètres de Milankovitch n'ont AUCUN impact sur le changement climatique actuel (ils varient sur des échelles beaucoup plus longues que le réchauffement actuel).
 
 ## Les cycles de Milankovitch
 
