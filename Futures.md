@@ -30,4 +30,6 @@
 
 # L'ère des trous noirs
 
+# Energie sombre, Big Rip etc
+
 # La mort thermique de l'univers
