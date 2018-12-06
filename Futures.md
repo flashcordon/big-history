@@ -25,3 +25,9 @@
 # l'humanité évolue-t-elle encore
 
 # La fin de l'habitabilité planétaire
+
+# L'ère des naines rouges
+
+# L'ère des trous noirs
+
+# La mort thermique de l'univers
