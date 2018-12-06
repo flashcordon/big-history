@@ -317,6 +317,7 @@
 > * ***Rétroaction du CO2 :*** un réchauffement des océans cause une diminution de la solubilité du CO2 dans l'eau. Il y a dégazage du CO2, qui se retrouve dans l'atmosphère, et en tant que gaz à effet de serre, ça réchauffe la planète, etc...
 > * ***Rétroaction de la poussière*** : un cllimat froid rend l'atmosphère plus sèche. Du coup moins de pluies pour faire retomber les poussières au sol. Elles s'accumulent donc dans l'atmosphère, et réfléchissent le rayonnement solaire, ce qui peut refroidir le climat.
 - 4-5 degrés seulement séparent une période glaciaire d'une période interglaciaire (cf Shakun et al 2012), et la Terre a mis 7000 ans à sortir du dernier âge glaciaire.
+- Pendant les périodes glaciaires, le niveau de la mer est 100m plus bas que pendant les périodes interglaciaires.
 - Les changements climatiques sont plus marqués aux hautes latitudes. Les paramètres de Milankovich changent la puissance reçue dans les hautes latitudes de l'hémisphère Nord, ce qui fait fondre ou accumuler la glace à ces lattitudes, et peut déclencher la boucle de rétroaction positive. 
 - Attention, les paramètres de Milankovitch n'ont AUCUN impact sur le changement climatique actuel (ils varient sur des échelles beaucoup plus longues que le réchauffement actuel).
 
@@ -355,4 +356,3 @@ cf [Maslin 2016](https://www.nature.com/articles/540208a#f1)
 
 ![Jouzel2007EPICA](https://www.ncdc.noaa.gov/sites/default/files/Temperature-change-and-carbon-dioxide-change-measured-from-the-EPICA-Dome-C-ice-core-in-Antarctica-v2.jpg)
 
-- Pendant les périodes glaciaires, le niveau de la mer est 100m plus bas que pendant les périodes interglaciaires.
