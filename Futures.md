@@ -12,6 +12,8 @@
 
 ## La 6e extinction de masse
 
+## Effondrement systémique de nos civilisations
+
 ## L'intelligence artificielle
 
 ## Le risque nucléaire
