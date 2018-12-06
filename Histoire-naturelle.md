@@ -316,12 +316,13 @@
 > Si on fait une transformée de Fourrier des données climatiques, on trouve des pics à des fréquences qui correspondent quasiment aux cycles de Milankovitch
 - Au cours du dernier million d'années, une dizaine d'âges glaciaires se succèdent, entrecoupées par des périodes interglaciaires
 - Au début les les âges glaciaires avaient une périodicité de 41 000 ans, mais plus récemment 100 000 ans séparent 2 âges glaciaires, pour des raisons encore mal comprises (?).
-> Un âge glaciaire dure en moyenne 80 000 ans, tandis qu'une période interglaciaire dure en moyenne 100 000 ans
+> Un âge glaciaire dure en moyenne 80 000 à 100 000 ans, tandis qu'une période interglaciaire dure en moyenne 20 000 ans ans
 - Attention, les cycles de Milankovitch à eux seuls ne permettent pas d'expliquer les différences de températures entre les périodes glaciaires et les périodes interglaciaires !
 - Les paramètres de Milankovitch introduisent une légère perturbation dans le système climatique, mais ce sont des mécanismes de rétroaction qui prennent ces changements d'insolation et poussent la Terre dans des âges glaciaires (et l'en sortent)
 > * ***Rétroaction de l'albédo :*** plus y a de surface blanche, plus la lumière du Soleil est réfléchie et plus la Terre se refroidit, donc plus la glace gagne du terrain, etc...
 > * ***Rétroaction du CO2 :*** un réchauffement des océans cause une diminution de la solubilité du CO2 dans l'eau. Il y a dégazage du CO2, qui se retrouve dans l'atmosphère, et en tant que gaz à effet de serre, ça réchauffe la planète, etc...
 > * ***Rétroaction de la poussière*** : un cllimat froid rend l'atmosphère plus sèche. Du coup moins de pluies pour faire retomber les poussières au sol. Elles s'accumulent donc dans l'atmosphère, et réfléchissent le rayonnement solaire, ce qui peut refroidir le climat.
+> Pierre Thomas : Une boucle de rétroaction positive, c'est comme un effet Larsen
 - 4-5 degrés seulement séparent une période glaciaire d'une période interglaciaire (cf Shakun et al 2012), et la Terre a mis 7000 ans à sortir du dernier âge glaciaire.
 - Pendant les périodes glaciaires, le niveau de la mer est 100m plus bas que pendant les périodes interglaciaires.
 - Les changements climatiques sont plus marqués aux hautes latitudes. Les paramètres de Milankovich changent la puissance reçue dans les hautes latitudes de l'hémisphère Nord (notamment sur la latitude 65°N), ce qui fait fondre ou accumuler la glace à ces lattitudes, et peut déclencher la boucle de rétroaction positive. 
