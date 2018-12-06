@@ -39,7 +39,9 @@
 - [Early Earth](https://youtu.be/lebW5WGmsrc) - Hervé Martin, Rencontres exobiologiques pour doctorants (Février 2016)
 - [Archean surface conditions](https://youtu.be/yNEkQ8KV-aQ) - Christoph Heubeuck, Rencontres exobiologiques pour doctorants (Mars 2018)
 - [Transition entre périodes glaciaires et interglaciaires](https://youtu.be/Jvh1YzJ5bTk?list=WL) - Le Réveilleur (Novembre 2015)
-- [Les causes des variations climatiques](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours3_F02_L3.pdf)
+- [Les causes des variations climatiques](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours3_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
+- [La mise en évidence de la variabilité climatique  à plusieurs échelles de temps](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours2_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
+- [Changements climatiques contemporains et futurs](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours1_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
 
 *Timelines*:
 
