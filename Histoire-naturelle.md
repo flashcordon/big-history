@@ -42,6 +42,7 @@
 - [Les causes des variations climatiques](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours3_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
 - [La mise en évidence de la variabilité climatique  à plusieurs échelles de temps](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours2_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
 - [Changements climatiques contemporains et futurs](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours1_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
+- [Modulation of Ice Ages via Precession and Dust-Albedo Feedbacks](https://sciborg.uwaterloo.ca/~mpalmer/stuff/ellis.pdf) - Ralph Ellis (Septembre 2015)
 
 *Timelines*:
 
