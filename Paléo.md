@@ -12,10 +12,11 @@ Sources:
 
 ## Les Dénisoviens
 
-- Découverts dans l'Altai (Russie) en 2010 (fragment de phalange de petit doigt de petite fille, dents, orteil)
-> De l'ADN a été extrait du fossile de phalange, et la paléogénétique a révélé que ça n'était pas des Néandertaliens
+- Découverts dans une grotte dans l'Altai (Russie) en 2010 (fragment de phalange de petit doigt de petite fille, dents, orteil)
+> De l'ADN mitochondrial a été extrait du fossile de phalange, et la paléogénétique a révélé que ça n'était pas des Néandertaliens
 - Dans cette grotte 3 types d'humains se sont succédés : Néandertaliens, Dénisoviens et Sapiens.
-- Groupe frère des néandertaliens
+- Groupe frère des néandertaliens 
+> date de séparation: environ 400 kyrs (381-473)
 
 ## Les néandertaliens
 
