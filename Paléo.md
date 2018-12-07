@@ -1,9 +1,16 @@
 
+Sources:
+
+- [Les Dénisoviens, groupe frère des Néandertaliens](https://youtu.be/GOnyegD7dvw?list=WL) - Conférence de Jean Jacques Hublin (Décembre 2018)
+
 ## Les Sapiens
+
+- Origine africaine
 
 ## Les Denisoviens
 
-
+- Découverts dans l'Altai (Russie)
+- Groupe frère des néandertaliens
 
 ## Les néandertaliens
 
