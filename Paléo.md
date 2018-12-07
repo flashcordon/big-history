@@ -17,6 +17,11 @@ Sources:
 - Dans cette grotte 3 types d'humains se sont succédés : Néandertaliens, Dénisoviens et Sapiens.
 - Groupe frère des néandertaliens 
 > date de séparation: environ 400 kyrs (381-473)
+- On ne connait pas leur date d'apparition exacte
+- Les dénisoviens ont disparu vers 74-82Kyrs. Ils ont été remplacés par des hommes modernes
+- y a eu des échanges de gènes entre dénisovviens, néandertaliens et Sapiens. Mais dans quelles conditions ces gènes ont été échangés, on ne sait pas. 
+- Les hommes modernes qui possèdent le plus d'ADN dénisovien à l'heure actuelle se trouvent en Australie et en Mélanésie.
+> Il y a probablement eu des Dénisoviens en Asie, et en particulier en Asie du Sud.
 
 ## Les néandertaliens
 
