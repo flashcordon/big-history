@@ -1,11 +1,18 @@
 
-Sources:
+*Sources:*
 
 - [Les Dénisoviens, groupe frère des Néandertaliens](https://youtu.be/GOnyegD7dvw?list=WL) - Conférence de Jean Jacques Hublin (Décembre 2018)
 - [Quand d'autres peuplaient la Terre : combien d'espèces ?](https://youtu.be/JlQR1b_M0io) - Conférence de Jean Jacques Hublin (Octobre 2018)
 
 - Il y a un demi million d'années, on a un accroissement rapide du coefficient d'encéphalisation chez les hominines ! On observe ça de façon indépendante chez les néandertaliens et chez les ancètres des Sapiens
 > Des conditions environnementales fournissent des pressions de sélection qui tendent à faire évoluer les population vers plus de complexité sociale et dans les comportements, plus de technologie.
+
+# Différentes espèces d'humains ?
+
+- Il y a plus d'une vingtaine de définitions d'espèces, selon le domaine d'expertise connsidéré.
+- La plus répandue est celle d'espèce biologique, définie par Ernst Mayr en 1942.
+> « Les espèces sont des groupes de populations naturelles, effectivement ou potentiellement interfécondes, qui sont génétiquement isolées d’autres groupes similaires ». À cette définition, il a ensuite été rajouté que cette espèce doit pouvoir engendrer une progéniture viable et féconde6.
+- Mais en paléoanthropologie, le concept d'espèces biologiques est difficilement applicable : l'isolement reproductif est généralement impossible à tester, les espèces fossiles sont définies selon leur phénotype, et les espèces évoluent au cours du temps.
 
 ## Les Sapiens
 
