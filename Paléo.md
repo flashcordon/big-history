@@ -21,13 +21,13 @@ Sources:
 - Les dénisoviens ont disparu vers 74-82Kyrs. Ils ont été remplacés par des hommes modernes
 - y a eu des échanges de gènes entre dénisovviens, néandertaliens et Sapiens. Mais dans quelles conditions ces gènes ont été échangés, on ne sait pas. 
 - Les hommes modernes qui possèdent le plus d'ADN dénisovien à l'heure actuelle se trouvent en Australie et en Mélanésie.
-> Il y a probablement eu des Dénisoviens en Asie, et en particulier en Asie du Sud.
+> Il y a donc probablement eu des Dénisoviens en Asie, et en particulier en Asie du Sud.
 
 ## Les néandertaliens
 
 - Découverts au milieu du 19e siècle
 - On les trouve en Eurasie
-On en a pas trouvé plus lion que l'Altai
+On en a pas trouvé plus loin que l'Altai
 
 ## Les hommes de Flores
 
