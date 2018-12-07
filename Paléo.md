@@ -13,6 +13,7 @@
 - La plus répandue est celle d'espèce biologique, définie par Ernst Mayr en 1942.
 > « Les espèces sont des groupes de populations naturelles, effectivement ou potentiellement interfécondes, qui sont génétiquement isolées d’autres groupes similaires ». À cette définition, il a ensuite été rajouté que cette espèce doit pouvoir engendrer une progéniture viable et féconde6.
 - Mais en paléoanthropologie, le concept d'espèces biologiques est difficilement applicable : l'isolement reproductif est généralement impossible à tester, les espèces fossiles sont définies selon leur phénotype, et les espèces évoluent au cours du temps.
+- Est-ce que Néandertal et Sapiens sont des espèces différentes ? Ca dépend de la définition d'espèce.
 
 ## Les Sapiens
 
