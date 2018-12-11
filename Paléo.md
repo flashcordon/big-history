@@ -62,7 +62,7 @@ On en a pas trouvé plus loin que l'Altai
 
 - L'Australie est colonisée il y a 50 000 ans, ce qui implique que les humains de l'époque construisaient déjà des bateaux
 
-!(diaspora)[https://hist-geo.fr/_media/img/small/h6p1c1-diapo-2.jpg]
+![diaspora](https://hist-geo.fr/_media/img/small/h6p1c1-diapo-2.jpg)
 
 ## L'extinction de la mégafaune (extinction du quaternaire)
 
