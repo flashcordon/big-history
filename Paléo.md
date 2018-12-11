@@ -9,9 +9,11 @@
 
 # Différentes espèces d'humains ?
 
+- Il y a 40 000 ans, néandertal, flores, denisova et Sapiens qui coexistaient.
+- Nous sommes la seule espèce de notre lignée qui a survécu.
 - Il y a plus d'une vingtaine de définitions d'espèces, selon le domaine d'expertise connsidéré.
 - La plus répandue est celle d'espèce biologique, définie par Ernst Mayr en 1942.
-> « Les espèces sont des groupes de populations naturelles, effectivement ou potentiellement interfécondes, qui sont génétiquement isolées d’autres groupes similaires ». À cette définition, il a ensuite été rajouté que cette espèce doit pouvoir engendrer une progéniture viable et féconde6.
+> « Les espèces sont des groupes de populations naturelles, effectivement ou potentiellement interfécondes, qui sont génétiquement isolées d’autres groupes similaires ». À cette définition, il a ensuite été rajouté que cette espèce doit pouvoir engendrer une progéniture viable et féconde.
 - Mais en paléoanthropologie, le concept d'espèces biologiques est difficilement applicable : l'isolement reproductif est généralement impossible à tester, les espèces fossiles sont définies selon leur phénotype, et les espèces évoluent au cours du temps.
 - Est-ce que Néandertal et Sapiens sont des espèces différentes ? Ca dépend de la définition d'espèce.
 
@@ -44,11 +46,23 @@ On en a pas trouvé plus loin que l'Altai
 - Survit à un grand nombre de glaciations
 - La disparition des néandertaliens est encore une énigme. 
 
+## Les Hommes de FLores
+
+- Découvert en Indonésie
+- Surnommé le Hobbit
+- A disparu il y a 18 000 ans
+
+
+
 ## Les hommes de Flores
 
 ## le feu
 
 ## La grande diaspora humaine
+
+- L'Australie est colonisée il y a 50 000 ans, ce qui implique que les humains de l'époque construisaient déjà des bateaux
+
+!(diaspora)[https://hist-geo.fr/_media/img/small/h6p1c1-diapo-2.jpg]
 
 ## L'extinction de la mégafaune (extinction du quaternaire)
 
