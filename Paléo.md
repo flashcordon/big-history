@@ -3,6 +3,7 @@
 
 - [Les Dénisoviens, groupe frère des Néandertaliens](https://youtu.be/GOnyegD7dvw?list=WL) - Conférence de Jean Jacques Hublin (Décembre 2018)
 - [Quand d'autres peuplaient la Terre : combien d'espèces ?](https://youtu.be/JlQR1b_M0io) - Conférence de Jean Jacques Hublin (Octobre 2018)
+- [L'émergence de notre espèce, la rencontre avec Néandertal (1/3)](https://youtu.be/XJlxib-1onI) - Conférence d'Evelyne Heyer (Juillet 2016)
 
 - Il y a un demi million d'années, on a un accroissement rapide du coefficient d'encéphalisation chez les hominines ! On observe ça de façon indépendante chez les néandertaliens et chez les ancètres des Sapiens
 > Des conditions environnementales fournissent des pressions de sélection qui tendent à faire évoluer les population vers plus de complexité sociale et dans les comportements, plus de technologie.
