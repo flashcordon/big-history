@@ -21,7 +21,13 @@
 
 ## Les Sapiens
 
-- Origine africaine
+- Origine africaine (Sortie d'Afrique il y a 70 000-50 000 ans)
+> L'hypothèse Out of Africa fait aujourd'hui consensus, contrairement à l'hypothèse multirégionale qui peut être réfutée par les données génétiques.
+- Les populations africaines ont le plus de diversité génétique. Plus on s'éloigne de l'Afrique moins la diversité génétique des populations est grande.
+-> ***Effet fondateur:*** une sous partie des populations africaines de sapiens colonise le monde. Les colons ne peuvent pas apporter avec eux toute la diversité génétique d'afrique, du coup ailleurs dans le monde la diversité génétique est plus faible
+- Parmi les grands singes on est l'espèce avec le moins de diversité génétique
+- En moyenne y a 70 mutations génétiques entre 2 générations. 15 transmises par la mère et 55 par le père 
+
 
 ## Les Dénisoviens
 
@@ -47,6 +53,8 @@ On en a pas trouvé plus loin que l'Altai
 - Enterre ses morts
 - Survit à un grand nombre de glaciations
 - La disparition des néandertaliens est encore une énigme. 
+- Les eurasiens partagent 1 à 4 % de leur génome avec neandertal
+> En pratique ça veut dire que sur la dizaine de milliers d'années ou neandertaliens et sapiens se sont cotoyés y a eu 400 rapports sexuels fertiles
 
 ## Les Hommes de FLores
 
