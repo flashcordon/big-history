@@ -21,7 +21,7 @@
 
 ## Les Dénisoviens
 
-- Découverts dans une grotte dans l'Altai (Russie) en 2010 (fragment de phalange de petit doigt de petite fille, dents, orteil)
+- Découverts dans une grotte dans l'Altai (Sibérie, Russie) en 2010 (fragment de phalange de petit doigt de petite fille, dents, orteil)
 > De l'ADN mitochondrial a été extrait du fossile de phalange, et la paléogénétique a révélé que ça n'était pas des Néandertaliens
 - Dans cette grotte 3 types d'humains se sont succédés : Néandertaliens, Dénisoviens et Sapiens.
 - Groupe frère des néandertaliens 
@@ -37,6 +37,12 @@
 - Découverts au milieu du 19e siècle
 - On les trouve en Eurasie
 On en a pas trouvé plus loin que l'Altai
+- Selon les données génétiques, certains avaient la peau blanche et des cheveux roux, d'autres la peau foncée et des yeux marrons
+- Néandertal était déjà en déclin démographique avant l'apparition de Sapiens.
+- Chasse à plusieurs
+- Enterre ses morts
+- Survit à un grand nombre de glaciations
+- La disparition des néandertaliens est encore une énigme. 
 
 ## Les hommes de Flores
 
