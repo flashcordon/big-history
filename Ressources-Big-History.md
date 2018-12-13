@@ -178,6 +178,7 @@ Ressources sur la Big History
 - [Hadean Earth](https://www.lpi.usra.edu/exploration/HadeanEarth/) - Ressources par le Lunar and Planetary Institute
 - [Ancient Earth](http://dinosaurpictures.org/ancient-earth#0) - C.R. Scotese: Globe interactif avec évolution des continents au fil des millions d'années
 - [Geologic Timeline](http://www.stratigraphy.org/bak/geowhen/timelinestages.html) - Sur le site de la comission internationale de stratigraphie. Dernièrement updaté en 2005.
+- [Earth How](https://earthhow.com/category/geology/) - de belles infographies
 
 ## Cours 
 
