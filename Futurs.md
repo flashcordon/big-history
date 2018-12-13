@@ -22,6 +22,10 @@
 
 # Le prochain âge glaciaire
 
+# 250 millions d'années
+
+Un supercontinent : Pangea Ultima
+
 # l'humanité évolue-t-elle encore
 
 # La fin de l'habitabilité planétaire
