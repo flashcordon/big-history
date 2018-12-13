@@ -5,6 +5,7 @@
 - [À la découverte de l'Homme de Flores](https://youtu.be/JBEKwFJ5TVg) - Conférence de Florent Détroit (Juin 2018)
 - [Quand d'autres peuplaient la Terre : combien d'espèces ?](https://youtu.be/JlQR1b_M0io) - Conférence de Jean Jacques Hublin (Octobre 2018)
 - [L'émergence de notre espèce, la rencontre avec Néandertal (1/3)](https://youtu.be/XJlxib-1onI) - Conférence d'Evelyne Heyer (Juillet 2016)
+- [Homme de Flores](https://fr.wikipedia.org/wiki/Homme_de_Flor%C3%A8s) - Wikipédia
 
 - Il y a un demi million d'années, on a un accroissement rapide du coefficient d'encéphalisation chez les hominines ! On observe ça de façon indépendante chez les néandertaliens et chez les ancètres des Sapiens
 > Des conditions environnementales fournissent des pressions de sélection qui tendent à faire évoluer les population vers plus de complexité sociale et dans les comportements, plus de technologie.
@@ -58,13 +59,16 @@ On en a pas trouvé plus loin que l'Altai
 
 ## Les Hommes de FLores
 
-- Découvert en Indonésie
-- Surnommé le Hobbit
-- A disparu il y a 18 000 ans
-
-
-
-## Les hommes de Flores
+- Découvert sur l'île de Flores, en Indonésie, en 2004 (9 individus)
+- Les fossiles d'Homo floresiensis ont été datés en 2016 entre -100 000 et -60 000 ans
+- Surnommé le Hobbit à cause de sa petite taille (1,10m à l'âge adulte) et sa morphologie particulière
+- Leur petite taille s'expliquerait par du nanisme insulaire
+> Sur une île les ressources sont limitées dont les gros animaux ont tendance à rapetisser sous le coup des pressions de la sélection naturelle
+- A disparu il y a environ 18 000 ans
+- C'est une espèce très récente du genre Homo, contemporain de Sapiens
+- L'origine de l'homme de Flores est en pleine controverse scientifique pour le moment
+- Homo floresiensis était capable de fabriquer des outils
+- l'Homme de Florès se serait en fait éteint peu après l'arrivée d'Homo sapiens dans la région, possiblement à cause de la concurrence entre les deux espèces. 
 
 ## le feu
 
