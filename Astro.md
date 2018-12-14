@@ -29,7 +29,7 @@ Burcher
 > ***Processus r:*** Un noyau atomique est bombardé très rapidement par une grande quantité de neutrons jusqu'à atteindre un état stable avant d'entamer une désintégration radioactive (désintégration beta), ce qui transforme des neutrons en protons (et libère des électrons et des antineutrinos). Les neutrons étant neutres, ils pénètrent plus facilement dans les noyaux que les protons.
 > La création de noyaux atomiques par le processus r requiert des températures immenses (> 1 milliard de degrés) et un énorme flux de neutrons (> 10^22 cm-3). Il se produit en moins d'une seconde.
 - Il y a actuellement un débat sur le processus majeur qui est à l'oeuvre dans la création de ces noyaux lourds par le processus r. Dans tous les cas, l'énorme flux de neutrons associé doit nécessairement être lié à un événement catastrophique. Ces éléments peuvent être forgés lors de supernovae de type II (relativement fréquentes mais avec peu de masse créée), ou lors de collisions d'étoiles à neutrons (plus rares mais avec plus de masse créée). Mais la question n'est pas encore résolue à ce jour.
-- Le problème des supernovae, c'est qu'ils ne semblent pas produire des flux de neutrons assez importants.
+- Le problème des supernovae, c'est qu'elles ne semblent pas produire des flux de neutrons assez importants.
 - Des modèles récents ([Côté et al 2018](http://iopscience.iop.org/article/10.3847/1538-4357/aaad67/meta)) prédisent qu'une collision entre étoiles à neutrons peut générer entre 3 et 13 fois la masse de la Terre en or.
 > Données : les ondes gravitationnelles générées par un tel événement
 
