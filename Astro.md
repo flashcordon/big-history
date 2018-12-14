@@ -18,6 +18,7 @@
 Burcher
 - [The s-Process - Sixty Symbols](https://youtu.be/KlBG_A4Djp4) - Sixty Symbols (Octobre 2016)
 - [Where do the heavier elements come from?](https://astronomy.stackexchange.com/questions/8894/where-do-the-heavier-elements-come-from) - Astronomy Stack Exchange (2017)
+- [The slow-neutron capture process in AGB stars](http://www.mso.anu.edu.au/~akarakas/Kodai_Lecture4.pdf) - Cours de Amanda Karakas et Maria Lugaro 
 
 - La fusion des éléments au coeur des étoiles ne peut se poursuivre que jusqu'au fer 56 (26 protons, 56 neutrons). Au delà, les forces électrostatiques générées par les protons des noyaux repoussent les autres noyaux (comme 2 aimants) à tel point que cela devient un obstacle pour la fusion directe.
 - Les éléments plus lourds que le fer sont produits essentiellement par 2 processus : la capture rapide de neutrons, ou processus r (pour rapide), et la capture lente de neutrons, ou processus s (pour slow) (Burbidge et al. 1957). 
