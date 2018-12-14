@@ -9,6 +9,8 @@
 
 ## Origine de l'or
 
+## Premiers minéraux
+
 # Formation des galaxies
 
 # Formation du système solaire
