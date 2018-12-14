@@ -14,6 +14,8 @@
 - [The Origin of r-process Elements in the Milky Way](http://iopscience.iop.org/article/10.3847/1538-4357/aaad67/meta) - Côté et al (2018)
 - [R‐Process Nucleosynthesis And Its Site](https://www.astro.princeton.edu/~burrows/classes/541/r-process.pdf) - Mario A. Riquelme, slides de séminaire (2009)
 - [What are the astrophysical sites for the r-process and the production of heavy elements?](https://www.sciencedirect.com/science/article/pii/S0146641011000330) - Thielemann et al (2011)
+- [r-Process, Nucleosynthesis of the heavy elements](https://www.physics.ohio-state.edu/~ntg/6805/slides/rprocess.pdf) - Sean 
+Burcher
 
 - La fusion des éléments au coeur des étoiles ne peut se poursuivre que jusqu'au fer (56 protons). Au delà, les forces électrostatiques générées par les protons des noyaux repoussent les autres noyaux à tel point que cela devient un obstacle pour la fusion directe.
 - Quelques éléments plus lourds que le fer, comme l'or, le platinium ou l'europium, sont forgés exclusivement par un processus appelé capture rapide de neutrons, ou processus r (Burbidge et al. 1957)
