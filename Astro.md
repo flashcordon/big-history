@@ -30,8 +30,7 @@ Burcher
 > La création de noyaux atomiques par le processus r requiert des températures immenses (> 1 milliard de degrés) et un énorme flux de neutrons (> 10^22 cm-3). Il se produit en moins d'une seconde.
 - Il y a actuellement un débat sur le processus majeur qui est à l'oeuvre dans la création de ces noyaux lourds par le processus r. Dans tous les cas, l'énorme flux de neutrons associé doit nécessairement être lié à un événement catastrophique. Ces éléments peuvent être forgés lors de supernovae de type II (relativement fréquentes mais avec peu de masse créée), ou lors de collisions d'étoiles à neutrons (plus rares mais avec plus de masse créée). Mais la question n'est pas encore résolue à ce jour.
 - Le problème des supernovae, c'est qu'elles ne semblent pas produire des flux de neutrons assez importants.
-- Des modèles récents ([Côté et al 2018](http://iopscience.iop.org/article/10.3847/1538-4357/aaad67/meta)) prédisent qu'une collision entre étoiles à neutrons peut générer entre 3 et 13 fois la masse de la Terre en or.
-> Données : les ondes gravitationnelles générées par un tel événement
+- Des modèles récents ([Côté et al 2018](http://iopscience.iop.org/article/10.3847/1538-4357/aaad67/meta)) prédisent qu'une collision entre étoiles à neutrons peut générer entre 3 et 13 fois la masse de la Terre en or. (données : les ondes gravitationnelles générées par un tel événement)
 
 ## Premiers minéraux
 
