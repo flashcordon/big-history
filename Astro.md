@@ -17,6 +17,11 @@
 > Comme l'univers ne possède pas encore d'étoiles, l'univers nous appraraîtrait comme un endroit complètement sombre.
 - Pendant une grande partie des âges sombres, il ne se passe pas grand chose. La matière dans l'univers est encore très peu inhomogène
 - Une minuscule fraction du gaz présent forme quand même les premières molécules : H2, HD et LiH
+- Dans l'ombre, des halos de matière noire se forment sous l'action de la gravité 
+- Le gaz atomique (majoritairement constitué d'hydrogène et d'hélium) tombe dans les puits de gravité formés par ces halos. Certains halos sont si massifs (supérieur à la masse de Jeans du gaz) que la pression du gaz ne l'empêche plus de s'effondrer gravitationnellement. 
+- Le gaz se concentre alors au coeur des halos de matière noire.
+
+### La matière noire
 
 # Formation des premières étoiles, aube cosmique et réionisation
 
@@ -26,7 +31,10 @@
 - [Cosmic Dawn](https://www.cfa.harvard.edu/~loeb/SA_14.pdf) - Michael Lemmonick, Scientific American (Avril 2014)
 - [The Reionization of the Universe by the First Stars and Quasars](https://www.annualreviews.org/doi/10.1146/annurev.astro.39.1.19) - Loeb et Barkana, Annual Reviews (2001)
 
+---
+
 - La lueur des premières étoiles met fin aux âges sombres
+
 
 ![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
 
