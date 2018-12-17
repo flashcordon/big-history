@@ -34,7 +34,14 @@
 ---
 
 - Des simulations numériques montrent que les premières étoiles se sont probablement formées dans des halos de matière noire de de l'ordre de 10^6 masses solaires.
+-Les simulations prédisent que les premières étoiles étaient probablement plusieurs centaines de fois plus massives que notre Soleil, et certaines études suggèrent que certaines d’entre elles auraient même pu atteindre près de 1000 fois la masse du Soleil
 - La lueur des premières étoiles met fin aux âges sombres
+- Pour la première génération d’étoiles, être aussi massif est synonyme d’une vie courte et spectaculaire. Les plus massives d’entre elles ne vivront que quelques millions d’années à peine
+- Certaines d’entre elles finissent leur vie dans de gigantesques explosions qu’on appelle des supernovae, en laissant derrière elles le cadavre de leur coeur. Ce cadavre, c’est généralement un trou noir, un objet si compact que même la lumière ne peut s’en échapper. Ca peut aussi être une étoile à neutron.
+- Les étoiles qui font entre 140 et 260 fois la masse du Soleil meurent dans des explosions encore plus violentes, qu’on appelle des supernovae par production de paires. 
+> Ces explosions peuvent durer plusieurs mois, et elles sont si violentes qu’elles ne laissent aucun cadavre derrière elle. L’étoile initiale est complètement vaporisée, et il ne reste d’elle que le nuage de l’explosion
+- Pour les étoiles plus massives que 260 Soleils, les théorie d’évolution stellaire prédisent qu’elles sont si lourdes qu’elles ne daignent même plus exploser en supernova. Elles se transforment directement en trou noir, sans éjecter de matière dans l’espace.
+- Les nuages des explosions de supernovae vont enrichir le milieu interstellaire en éléments chimiques plus lourds que l’hélium. Et chaque génération d’étoiles qui va naître dans le milieu interstellaire sera plus riche en éléments lourds que la précédente. C’est le cycle de la vie des étoiles.
 
 ## Réionisation
 
