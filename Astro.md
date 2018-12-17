@@ -5,7 +5,9 @@
 
 # Formation des premières étoies, aube cosmique et réionisation
 
-# Origine des éléments
+- [The first stars in the universe](http://www.astro.yale.edu/larson/papers/SciAm04.pdf) - VOlker Bromm, Scientific American (Décembre 2004)
+
+# Nucléosynthèse stellaire
 
 ## Origine des éléments plus lourds que le fer
 
