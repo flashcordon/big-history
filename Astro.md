@@ -33,8 +33,12 @@
 
 ---
 
+- Des simulations numériques montrent que les premières étoiles se sont probablement formées dans des halos de matière noire de de l'ordre de 10^6 masses solaires.
 - La lueur des premières étoiles met fin aux âges sombres
 
+## Réionisation
+
+- Les premières étoiles émettent des photons assez énergétiques pour ioniser l'hydrogène environnant. Cela chauffe l'hydrogène interstellaire à des températures de 10 000 degrés, et des bulles d'hydrogène ionisé commencent à entourer les étoiles.
 
 ![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
 
