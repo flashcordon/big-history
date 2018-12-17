@@ -54,7 +54,8 @@
 - Les premières étoiles émettent la plupart de leur énergie dans le domaine des UV, des photons assez énergétiques pour ioniser l'hydrogène environnant (arrachent les électrons aux atomes d'hydrogènes qu'ils rencontrent). Cela chauffe l'hydrogène interstellaire à des températures de 10 000 degrés, et des bulles d'hydrogène ionisé commencent à entourer les étoiles.
 - L'époque de la réionisation se termine à peu près vers un milliard d’années après le Big Bang, au moment où l’intégralité du gaz de l’univers est ionisé.
 - Les recherches actuelles suggèrent que les premières étoiles n’étaient pas assez nombreuses pour réioniser l’univers tout entier, même si on connaît encore mal l’étendue de leur contribution. Dans tous les cas, d’autres objets brillants semblent avoir été à l’oeuvre. 
-- Parmi ces objets, de bons candidats sont les noyaux actifs de galaxies, des trous noirs géants entourés par du gaz chauffé par friction à des millions de degrés et qui produisent des quantités phénoménales de rayons X et ultraviolets. Le problème, c’est qu’on ne sait pas encore combien de noyaux actifs de galaxies il y avait à l’époque de la réionisation
+- Parmi ces objets, de bons candidats sont les noyaux actifs de galaxies (AGN ou quasars), des trous noirs géants entourés par du gaz chauffé par friction à des millions de degrés et qui produisent des quantités phénoménales de rayons X et ultraviolets. Le problème, c’est qu’on ne sait pas encore combien de noyaux actifs de galaxies il y avait à l’époque de la réionisation
+> Dans un AGN, une partie du gaz chauffé autour du trou noir se retrouve expulsé sous forme de jet qui brille tant qu'on peut l'observer depuis l'autre bout de l'univers. -> phare cosmique !
 
 ![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
 
