@@ -30,6 +30,7 @@
 - [The first stars in the universe](http://www.astro.yale.edu/larson/papers/SciAm04.pdf) - Volker Bromm, Scientific American (Décembre 2004)
 - [Cosmic Dawn](https://www.cfa.harvard.edu/~loeb/SA_14.pdf) - Michael Lemmonick, Scientific American (Avril 2014)
 - [The Reionization of the Universe by the First Stars and Quasars](https://www.annualreviews.org/doi/10.1146/annurev.astro.39.1.19) - Loeb et Barkana, Annual Reviews (2001)
+- [Searching for Signatures of Pair-Instability Supernovae](https://astrobites.org/2012/07/23/searching-for-signatures-of-pair-instability-supernovae/) - Maria Drout, Astrobites (2012)
 
 ---
 
