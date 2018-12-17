@@ -38,7 +38,7 @@
 
 ---
 
-- Des simulations numériques montrent que les premières étoiles se sont probablement formées dans des halos de matière noire de de l'ordre de 10^6 masses solaires.
+- Des simulations numériques montrent que les premières étoiles se sont probablement formées quelques centaines de millions d'années après le Big Bang dans des halos de matière noire de de l'ordre de 10^6 masses solaires.
 - Les simulations prédisent que les premières étoiles étaient probablement plusieurs centaines de fois plus massives que notre Soleil, et certaines études suggèrent que certaines d’entre elles auraient même pu atteindre près de 1000 fois la masse du Soleil
 
 ***Pourquoi ces premières étoiles étaient-elles beaucoup plus massives que les étoiles d'aujourd'hui ?***
