@@ -34,7 +34,7 @@
 ---
 
 - Des simulations numériques montrent que les premières étoiles se sont probablement formées dans des halos de matière noire de de l'ordre de 10^6 masses solaires.
--Les simulations prédisent que les premières étoiles étaient probablement plusieurs centaines de fois plus massives que notre Soleil, et certaines études suggèrent que certaines d’entre elles auraient même pu atteindre près de 1000 fois la masse du Soleil
+- Les simulations prédisent que les premières étoiles étaient probablement plusieurs centaines de fois plus massives que notre Soleil, et certaines études suggèrent que certaines d’entre elles auraient même pu atteindre près de 1000 fois la masse du Soleil
 - La lueur des premières étoiles met fin aux âges sombres
 - Pour la première génération d’étoiles, être aussi massif est synonyme d’une vie courte et spectaculaire. Les plus massives d’entre elles ne vivront que quelques millions d’années à peine
 - Certaines d’entre elles finissent leur vie dans de gigantesques explosions qu’on appelle des supernovae, en laissant derrière elles le cadavre de leur coeur. Ce cadavre, c’est généralement un trou noir, un objet si compact que même la lumière ne peut s’en échapper. Ca peut aussi être une étoile à neutron.
@@ -45,7 +45,9 @@
 
 ## Réionisation
 
-- Les premières étoiles émettent des photons assez énergétiques pour ioniser l'hydrogène environnant. Cela chauffe l'hydrogène interstellaire à des températures de 10 000 degrés, et des bulles d'hydrogène ionisé commencent à entourer les étoiles.
+- depuis l’époque de l’émission du fond diffus cosmologique, 380 000 ans après le Big Bang, la matière visible dans l’univers a été électriquement neutre.
+- Les premières étoiles émettent la plupart de leur énergie dans le domaine des UV, des photons assez énergétiques pour ioniser l'hydrogène environnant (arrachent les électrons aux atomes d'hydrogènes qu'ils rencontrent). Cela chauffe l'hydrogène interstellaire à des températures de 10 000 degrés, et des bulles d'hydrogène ionisé commencent à entourer les étoiles.
+- L'époque de la réionisation se termine à peu près vers un milliard d’années après le Big Bang, au moment où l’intégralité du gaz de l’univers est ionisé.
 
 ![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
 
