@@ -33,6 +33,7 @@ Burcher
 - [Neutron Star Mergers and Nucleosynthesis of Heavy Elements](https://www.annualreviews.org/doi/10.1146/annurev-nucl-101916-123246) - Thielemann et al, Annual Reviews (Octobre 2017)
 
 - La fusion des éléments au coeur des étoiles ne peut se poursuivre que jusqu'au fer 56 (26 protons, 56 neutrons). Au delà, les forces électrostatiques générées par les protons des noyaux repoussent les autres noyaux (comme 2 aimants) à tel point que cela devient un obstacle pour la fusion directe.
+> Le fusion directe d'éléments au delà du fer consomme de l'énergie au lieu d'en libérer
 - Les éléments plus lourds que le fer sont produits essentiellement par 2 processus : la capture rapide de neutrons, ou processus r (pour rapide), et la capture lente de neutrons, ou processus s (pour slow) (Burbidge et al. 1957). 
 - Chacun de ces processus est responsable d'à peu près la moitié des abondances en éléments plus lourds que le fer dans la Galaxie
 - Quelques éléments plus lourds que le fer, comme le baryum ou le zirconium sont forgés exclusivement par le processus s.
