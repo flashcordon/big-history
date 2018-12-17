@@ -5,7 +5,9 @@
 
 # Formation des premières étoies, aube cosmique et réionisation
 
-- [The first stars in the universe](http://www.astro.yale.edu/larson/papers/SciAm04.pdf) - VOlker Bromm, Scientific American (Décembre 2004)
+- [The dark ages of the universe](https://www.cfa.harvard.edu/~loeb/sciam.pdf) - Avi Loeb, Scientific American (2006)
+- [The first stars in the universe](http://www.astro.yale.edu/larson/papers/SciAm04.pdf) - Volker Bromm, Scientific American (Décembre 2004)
+- [Cosmic Dawn](https://www.cfa.harvard.edu/~loeb/SA_14.pdf) - Michael Lemmonick, Scientific American (Avril 2014)
 
 # Nucléosynthèse stellaire
 
