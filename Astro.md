@@ -30,6 +30,7 @@ Burcher
 - [Where do the heavier elements come from?](https://astronomy.stackexchange.com/questions/8894/where-do-the-heavier-elements-come-from) - Astronomy Stack Exchange (2017)
 - [The slow-neutron capture process in AGB stars](http://www.mso.anu.edu.au/~akarakas/Kodai_Lecture4.pdf) - Cours de Amanda Karakas et Maria Lugaro 
 - [A crash of stars reveals the origins of heavy elements](https://www.knowablemagazine.org/article/physical-world/2018/crash-stars-reveals-origins-heavy-elements) - Knowable Magazine (Janvier 2018)
+- [Neutron Star Mergers and Nucleosynthesis of Heavy Elements](https://www.annualreviews.org/doi/10.1146/annurev-nucl-101916-123246) - Thielemann et al, Annual Reviews (Octobre 2017)
 
 - La fusion des éléments au coeur des étoiles ne peut se poursuivre que jusqu'au fer 56 (26 protons, 56 neutrons). Au delà, les forces électrostatiques générées par les protons des noyaux repoussent les autres noyaux (comme 2 aimants) à tel point que cela devient un obstacle pour la fusion directe.
 - Les éléments plus lourds que le fer sont produits essentiellement par 2 processus : la capture rapide de neutrons, ou processus r (pour rapide), et la capture lente de neutrons, ou processus s (pour slow) (Burbidge et al. 1957). 
