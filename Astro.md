@@ -5,6 +5,12 @@
 
 # Nucléosynthèse primordiale, recombinaison et âges sombres
 
+## Recombinaison
+
+- A mesure que l'univers s'étend, la température et donc l'énergie du rayonnement diminue.
+- Les premiers atomes se forment à z=1100, lorsque la température de l'univers atteint T=3000 K
+- L'univers baigne alors dans une lueur orangée (analogie: filament d'una ampoule).
+
 # Formation des premières étoiles, aube cosmique et réionisation
 
 - [The dark ages of the universe](https://www.cfa.harvard.edu/~loeb/sciam.pdf) - Avi Loeb, Scientific American (2006)
