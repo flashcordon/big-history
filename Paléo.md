@@ -8,6 +8,8 @@
 - [Homme de Flores](https://fr.wikipedia.org/wiki/Homme_de_Flor%C3%A8s) - Wikipédia
 - [L'homme de Florès a disparu plus tôt que prévu](https://www.sciencesetavenir.fr/archeo-paleo/evolution/l-homme-de-flores-a-disparu-plus-tot-que-prevu_104265) - Science et Avenir (Avril 2016)
 
+---
+
 - Il y a un demi million d'années, on a un accroissement rapide du coefficient d'encéphalisation chez les hominines ! On observe ça de façon indépendante chez les néandertaliens et chez les ancètres des Sapiens
 > Des conditions environnementales fournissent des pressions de sélection qui tendent à faire évoluer les population vers plus de complexité sociale et dans les comportements, plus de technologie.
 
