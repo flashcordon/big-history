@@ -53,6 +53,8 @@
 - Pour les étoiles plus massives que 260 Soleils, les théorie d’évolution stellaire prédisent qu’elles sont si lourdes qu’elles ne daignent même plus exploser en supernova. Elles se transforment directement en trou noir, sans éjecter de matière dans l’espace.
 - Les nuages des explosions de supernovae vont enrichir le milieu interstellaire en éléments chimiques plus lourds que l’hélium. Et chaque génération d’étoiles qui va naître dans le milieu interstellaire sera plus riche en éléments lourds que la précédente. C’est le cycle de la vie des étoiles.
 
+![caract_firststars](https://universe-review.ca/I08-13-firststars1.jpg)
+
 ![firststars](https://universe-review.ca/I08-13-firststars6.jpg)
 
 ## Réionisation
