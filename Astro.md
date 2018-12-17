@@ -1,6 +1,8 @@
 
 # inflation et Big Bang
 
+![Forces](https://cnx.org/resources/96e3d538be70bcf75a7c459302ab50e08e4294a5/CNX_UPhysics_44_07_Unification.jpg)
+
 # Nucléosynthèse primordiale, recombinaison et âges sombres
 
 # Formation des premières étoiles, aube cosmique et réionisation
