@@ -9,7 +9,12 @@
 
 - A mesure que l'univers s'étend, la température et donc l'énergie du rayonnement diminue.
 - Les premiers atomes se forment à z=1100, lorsque la température de l'univers atteint T=3000 K
-- L'univers baigne alors dans une lueur orangée (analogie: filament d'una ampoule).
+- L'univers baigne alors dans un rayonnement de corps noir, une lueur orangée dans toutes les direction (analogie: filament d'una ampoule à incandescence).
+
+## Ages sombres
+
+- A mesure que la température diminue, les longueurs d'onde du CMB se décalent de plus en plus vers le rouge, jusqu'à devenir invisibles à l'oeil nu. C'est le début des âges sombres.
+> Comme l'univers ne possède pas encore d'étoiles, l'univers nous appraraîtrait comme un endroit complètement sombre.
 
 # Formation des premières étoiles, aube cosmique et réionisation
 
@@ -19,6 +24,8 @@
 - [The first stars in the universe](http://www.astro.yale.edu/larson/papers/SciAm04.pdf) - Volker Bromm, Scientific American (Décembre 2004)
 - [Cosmic Dawn](https://www.cfa.harvard.edu/~loeb/SA_14.pdf) - Michael Lemmonick, Scientific American (Avril 2014)
 - [The Reionization of the Universe by the First Stars and Quasars](https://www.annualreviews.org/doi/10.1146/annurev.astro.39.1.19) - Loeb et Barkana, Annual Reviews (2001)
+
+- La lueur des premières étoiles met fin aux âges sombres
 
 ![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
 
