@@ -7,8 +7,11 @@
 
 ## Recombinaison
 
-- A mesure que l'univers s'étend, la température et donc l'énergie du rayonnement diminue.
-- Les premiers atomes se forment à z=1100, lorsque la température de l'univers atteint T=3000 K
+- Etat de l'univers avant la réionisation : un plasma dense et chaud, un nuage d'électrons, de protons, de neutrons et de rayonnement qui se baladent librement.
+- L'univers est alors un brouillard opaque. Les photons sont constamment diffusés sur les particules chargées (diffusion Thomson).
+- A mesure que l'univers s'étend, sa température et sa densité diminuent
+- Les premiers atomes se forment à z=1100 (380 000 ans après le Big Bang, lorsque la température de l'univers atteint T=3000 K
+- Le brouillard se dissipe. 
 - L'univers baigne alors dans un rayonnement de corps noir, une lueur orangée dans toutes les direction (analogie: filament d'una ampoule à incandescence).
 
 ## Ages sombres
