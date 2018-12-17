@@ -12,6 +12,7 @@
  ́
 - [The first stars in the universe](http://www.astro.yale.edu/larson/papers/SciAm04.pdf) - Volker Bromm, Scientific American (Décembre 2004)
 - [Cosmic Dawn](https://www.cfa.harvard.edu/~loeb/SA_14.pdf) - Michael Lemmonick, Scientific American (Avril 2014)
+- [The Reionization of the Universe by the First Stars and Quasars](https://www.annualreviews.org/doi/10.1146/annurev.astro.39.1.19) - Loeb et Barkana, Annual Reviews (2001)
 
 ![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
 
