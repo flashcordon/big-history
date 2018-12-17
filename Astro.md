@@ -15,12 +15,13 @@
 
 - A mesure que la température diminue, les longueurs d'onde du CMB se décalent de plus en plus vers le rouge, jusqu'à devenir invisibles à l'oeil nu. C'est le début des âges sombres.
 > Comme l'univers ne possède pas encore d'étoiles, l'univers nous appraraîtrait comme un endroit complètement sombre.
+- Pendant une grande partie des âges sombres, il ne se passe pas grand chose. La matière dans l'univers est encore très peu inhomogène
+- Une minuscule fraction du gaz présent forme quand même les premières molécules : H2, HD et LiH
 
 # Formation des premières étoiles, aube cosmique et réionisation
 
 - [The dark ages of the universe](https://www.cfa.harvard.edu/~loeb/sciam.pdf) - Avi Loeb, Scientific American (2006)
-- [The dark ages of the universe](https://arxiv.org/ftp/astro-ph/papers/0307/0307396.pdf) - Jordi Miralda-Escude, Science (Juin 2003)
- ́
+- [The dark ages of the universe](https://arxiv.org/ftp/astro-ph/papers/0307/0307396.pdf) - Jordi Miralda-Escude, Science (Juin 2003) ́
 - [The first stars in the universe](http://www.astro.yale.edu/larson/papers/SciAm04.pdf) - Volker Bromm, Scientific American (Décembre 2004)
 - [Cosmic Dawn](https://www.cfa.harvard.edu/~loeb/SA_14.pdf) - Michael Lemmonick, Scientific American (Avril 2014)
 - [The Reionization of the Universe by the First Stars and Quasars](https://www.annualreviews.org/doi/10.1146/annurev.astro.39.1.19) - Loeb et Barkana, Annual Reviews (2001)
