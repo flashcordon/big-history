@@ -97,3 +97,11 @@ Burcher
 - [Cosmic Star-Formation History](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125615#_i87) - Madau et Dickinson, Annual Reviews (2014)
 
 # Formation du système solaire
+
+- En s’effondrant sur lui-même, le nuage se met à tourner de plus en plus vite, de la même manière qu’une patineuse artistique tourne plus vite sur elle-même lorsqu’elle replie ses bras (conservation du moment cinétique). Et comme une boule de pâte à pizza qu’on fait tourner dans les airs, le nuage de gaz va se mettre à s'aplatir et prendre la forme d’un disque : le fameux disque protoplanétaire.
+- Au centre du disque, la matière s’accumule, ce qui a pour effet d’augmenter la température, petit à petit. Quand la température finit par atteindre plusieurs dizaine de millions de degrés, les atomes vont se mettre à fusionner entre eux, ce qui dégage une énergie phénoménale ! Une étoile va s’allumer. C’est la naissance de notre Soleil.
+- Pendant des millions d’années, le Soleil n’aura de cesse d’aspirer une grande partie du gaz autour de lui. 
+> Résultat, la masse du Soleil représente aujourd’hui plus de 99,8% de la masse du système solaire
+- A sa naissance, le disque protoplanétaire est rempli de grains de poussière éparpillés un peu partout. Mais peu à peu, ces grains vont collisionner entre eux, et sous l’action des forces électrostatiques vont s’agglutiner pour former des moutons de poussière de quelques cm. Ces moutons vont ensuite fusionner entre eux pour donner des agrégats de plusieurs km qu’on appelle des planétésimaux.
+
+
