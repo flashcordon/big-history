@@ -1,5 +1,5 @@
 
-# inflation et Big Bang
+# Inflation et Big Bang
 
 ![Forces](https://cnx.org/resources/96e3d538be70bcf75a7c459302ab50e08e4294a5/CNX_UPhysics_44_07_Unification.jpg)
 
@@ -29,6 +29,7 @@ Burcher
 - [The s-Process - Sixty Symbols](https://youtu.be/KlBG_A4Djp4) - Sixty Symbols (Octobre 2016)
 - [Where do the heavier elements come from?](https://astronomy.stackexchange.com/questions/8894/where-do-the-heavier-elements-come-from) - Astronomy Stack Exchange (2017)
 - [The slow-neutron capture process in AGB stars](http://www.mso.anu.edu.au/~akarakas/Kodai_Lecture4.pdf) - Cours de Amanda Karakas et Maria Lugaro 
+- [A crash of stars reveals the origins of heavy elements](https://www.knowablemagazine.org/article/physical-world/2018/crash-stars-reveals-origins-heavy-elements) - Knowable Magazine (Janvier 2018)
 
 - La fusion des éléments au coeur des étoiles ne peut se poursuivre que jusqu'au fer 56 (26 protons, 56 neutrons). Au delà, les forces électrostatiques générées par les protons des noyaux repoussent les autres noyaux (comme 2 aimants) à tel point que cela devient un obstacle pour la fusion directe.
 - Les éléments plus lourds que le fer sont produits essentiellement par 2 processus : la capture rapide de neutrons, ou processus r (pour rapide), et la capture lente de neutrons, ou processus s (pour slow) (Burbidge et al. 1957). 
@@ -41,6 +42,8 @@ Burcher
 - Il y a actuellement un débat sur le processus majeur qui est à l'oeuvre dans la création de ces noyaux lourds par le processus r. Dans tous les cas, l'énorme flux de neutrons associé doit nécessairement être lié à un événement catastrophique. Ces éléments peuvent être forgés lors de supernovae de type II (relativement fréquentes mais avec peu de masse créée), ou lors de collisions d'étoiles à neutrons (plus rares mais avec plus de masse créée). Mais la question n'est pas encore résolue à ce jour.
 - Le problème des supernovae, c'est qu'elles ne semblent pas produire des flux de neutrons assez importants.
 - Des modèles récents ([Côté et al 2018](http://iopscience.iop.org/article/10.3847/1538-4357/aaad67/meta)) prédisent qu'une collision entre étoiles à neutrons peut générer entre 3 et 13 fois la masse de la Terre en or. (données : les ondes gravitationnelles générées par un tel événement)
+
+![rsprocess](https://www.knowablemagazine.org/sites/default/files/articles/content/2018-01/S-R%20Process.svg)
 
 ## Premiers minéraux
 
