@@ -1,9 +1,9 @@
 
 # inflation et Big Bang
 
-# Nucléosynthèse primordiale
+# Nucléosynthèse primordiale, recombinaison et âges sombres
 
-# Formation des premières étoies, aube cosmique et réionisation
+# Formation des premières étoiles, aube cosmique et réionisation
 
 - [The dark ages of the universe](https://www.cfa.harvard.edu/~loeb/sciam.pdf) - Avi Loeb, Scientific American (2006)
 - [The dark ages of the universe](https://arxiv.org/ftp/astro-ph/papers/0307/0307396.pdf) - Jordi Miralda-Escude, Science (Juin 2003)
