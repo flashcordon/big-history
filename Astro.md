@@ -40,6 +40,11 @@
 
 - Des simulations numériques montrent que les premières étoiles se sont probablement formées dans des halos de matière noire de de l'ordre de 10^6 masses solaires.
 - Les simulations prédisent que les premières étoiles étaient probablement plusieurs centaines de fois plus massives que notre Soleil, et certaines études suggèrent que certaines d’entre elles auraient même pu atteindre près de 1000 fois la masse du Soleil
+
+***Pourquoi ces premières étoiles étaient-elles beaucoup plus massives que les étoiles d'aujourd'hui ?***
+> * Le gaz interstellaire d'aujourd'hui est saupoudré d'éléments plus lourds que l'hélium, comme le carbone ou l'oxygène, éjectés par les précédentes générations d'étoiles. Ces éléments aident le gaz à refroidir. Un gaz froid est plus dense, et donc s'effondre plus facilement sous son poids.
+> * A l'époque des premières étoiles, le gaz interstellaire ne contenait pas d'éléments plus lourds que le lithium. Et l'hydrogène n'aide pas vraiment le gaz à refroidir. L'hydrogène chaud ne permettait donc pas à des masses de gaz équivalentes à celles des étoiles d'aujourd'hui d'atteindre une densité suffisante pour former une étoile. Les nuages de gaz ont donc accumulé de plus en plus de gaz jusqu'à ce que la densité soit suffisante pour amorcer les réactions de fusion, ce qui en a fait des étoiles bien plus massives que la plupart des étoiles qu'on trouve aujourd'hui.
+
 - La lueur des premières étoiles met fin aux âges sombres
 - Pour la première génération d’étoiles, être aussi massif est synonyme d’une vie courte et spectaculaire. Les plus massives d’entre elles ne vivront que quelques millions d’années à peine
 - Certaines d’entre elles finissent leur vie dans de gigantesques explosions qu’on appelle des supernovae, en laissant derrière elles le cadavre de leur coeur. Ce cadavre, c’est généralement un trou noir, un objet si compact que même la lumière ne peut s’en échapper. Ca peut aussi être une étoile à neutron.
