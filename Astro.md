@@ -93,4 +93,7 @@ Burcher
 
 # Formation des galaxies
 
+*Sources*: 
+- [Cosmic Star-Formation History](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125615#_i87) - Madau et Dickinson, Annual Reviews (2014)
+
 # Formation du système solaire
