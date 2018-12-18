@@ -46,11 +46,12 @@
 ---
 
 - Des simulations numériques montrent que les premières étoiles se sont probablement formées quelques centaines de millions d'années après le Big Bang dans des halos de matière noire de de l'ordre de 10^6 masses solaires.
+- Une étoile se forment lorsqu'une poche de gaz se refroidit et s'effondre en un coeur dense. 
 - Les simulations prédisent que les premières étoiles étaient probablement plusieurs centaines de fois plus massives que notre Soleil, et certaines études suggèrent que certaines d’entre elles auraient même pu atteindre près de 1000 fois la masse du Soleil
 
 ***Pourquoi ces premières étoiles étaient-elles beaucoup plus massives que les étoiles d'aujourd'hui ?***
 > * Le gaz interstellaire d'aujourd'hui est saupoudré d'éléments plus lourds que l'hélium, comme le carbone ou l'oxygène, éjectés par les précédentes générations d'étoiles. Ces éléments aident le gaz à refroidir. Un gaz froid est plus dense, et donc s'effondre plus facilement sous son poids.
-> * A l'époque des premières étoiles, le gaz interstellaire ne contenait pas d'éléments plus lourds que le lithium. Et l'hydrogène n'aide pas vraiment le gaz à refroidir. L'hydrogène chaud ne permettait donc pas à des masses de gaz équivalentes à celles des étoiles d'aujourd'hui d'atteindre une densité suffisante pour former une étoile. Les nuages de gaz ont donc accumulé de plus en plus de gaz jusqu'à ce que la densité soit suffisante pour amorcer les réactions de fusion, ce qui en a fait des étoiles bien plus massives que la plupart des étoiles qu'on trouve aujourd'hui.
+> * A l'époque des premières étoiles, le gaz interstellaire ne contenait pas d'éléments plus lourds que le lithium. Et l'hydrogène n'aide pas vraiment le gaz à refroidir (rayonne moins bien l'énergie qu'il absorbe). Le gaz ne pouvait pas alors refroidir en deçà d'une certaine température, et donc l'hydrogène chaud ne permettait pas à des masses de gaz équivalentes à celles des étoiles d'aujourd'hui d'atteindre une densité suffisante pour former une étoile. Les nuages de gaz ont donc accumulé de plus en plus de gaz jusqu'à ce que la gravité compense la pression du gaz et que la densité du coeur soit suffisante pour amorcer les réactions de fusion, ce qui en a fait des étoiles bien plus massives que la plupart des étoiles qu'on trouve aujourd'hui.
 
 - La lueur des premières étoiles met fin aux âges sombres
 - Pour la première génération d’étoiles, être aussi massif est synonyme d’une vie courte et spectaculaire. Les plus massives d’entre elles ne vivront que quelques millions d’années à peine
@@ -70,11 +71,12 @@
 - Les premières étoiles émettent la plupart de leur énergie dans le domaine des UV, des photons assez énergétiques pour ioniser l'hydrogène environnant (arrachent les électrons aux atomes d'hydrogènes qu'ils rencontrent). Cela chauffe l'hydrogène interstellaire à des températures de 10 000 degrés, et des bulles d'hydrogène ionisé commencent à entourer les étoiles.
 - L'époque de la réionisation se termine à peu près vers un milliard d’années après le Big Bang, au moment où l’intégralité du gaz de l’univers est ionisé.
 - Les recherches actuelles suggèrent que les premières étoiles n’étaient pas assez nombreuses pour réioniser l’univers tout entier, même si on connaît encore mal l’étendue de leur contribution. Dans tous les cas, d’autres objets brillants semblent avoir été à l’oeuvre. 
-- Parmi ces objets, de bons candidats sont les noyaux actifs de galaxies (AGN ou quasars), des trous noirs supermassifs (qui constituent aujourd'hui le coeur des galaxies contemporaines) entourés par du gaz chauffé par friction à des millions de degrés et qui produisent des quantités phénoménales de rayons X et ultraviolets. Le problème, c’est qu’on ne sait pas encore combien de noyaux actifs de galaxies il y avait à l’époque de la réionisation
+- Parmi ces objets, de bons candidats sont les noyaux actifs de galaxies (AGN ou quasars), des trous noirs supermassifs (qui constituent aujourd'hui le coeur des galaxies contemporaines) entourés par du gaz chauffé par friction à des millions de degrés et qui produisent des quantités phénoménales de rayons X et ultraviolets, ce qui peut les rendre 100 fois plus brillants que la galaxie qui les accueille. Le problème, c’est qu’on ne sait pas encore combien de noyaux actifs de galaxies il y avait à l’époque de la réionisation
 > Dans un AGN, une partie du gaz chauffé autour du trou noir se retrouve expulsé sous forme de jet qui brille tant qu'on peut l'observer depuis l'autre bout de l'univers. -> phare cosmique !
 - L'étude de la lumière des quasars dont le jet est dirigé vers nous nous donne des indices sur le déroulement de la réionisation. 
 > Le gaz d'hydrogène intergalactique neutre sur la ligne de visée absorbe une partie de la lumière émise par le quasar, alors que l'hydrogène ionisé permet à la lumière de passer. La longueur d'onde de la lumière du quasar est aussi étirée par l'expansion de l'univers au fil de son voyage vers nos télescopes.
 > C'est en observant des quasars brillants et lointains que Gunn et Peterson ont découvert en 1965 que l'univers a connu une époque de réionisation.
+- La prochaine génération de télescopes (JWST, LOFAR, MWA, SKA) devrait nous ouvrir une nouvelle fenêtre sur l'époque de la réionisation
 
 ![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
 
