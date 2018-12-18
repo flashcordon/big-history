@@ -9,7 +9,7 @@
 
 ## Recombinaison
 
-- Etat de l'univers avant la réionisation : un plasma dense et chaud, un nuage d'électrons, de protons, de neutrons et de rayonnement qui se baladent librement.
+- Etat de l'univers avant la réionisation : un plasma dense et chaud, un nuage d'électrons, de protons, de neutrons et de rayonnement qui se baladent librement. (analogie : soupe bouillante, chaudron)
 - L'univers est alors un brouillard opaque. Les photons sont constamment diffusés sur les particules chargées (diffusion Thomson).
 - A mesure que l'univers s'étend, sa température et sa densité diminuent
 - Les premiers atomes se forment à z=1100 (380 000 ans après le Big Bang, lorsque la température de l'univers atteint T=3000 K
@@ -30,7 +30,7 @@
 - Le gaz atomique (majoritairement constitué d'hydrogène et d'hélium) tombe dans les puits de gravité formés par ces halos. Certains halos sont si massifs (supérieur à la masse de Jeans du gaz) que la pression du gaz ne l'empêche plus de s'effondrer gravitationnellement. 
 - Le gaz se concentre alors au coeur des halos de matière noire.
 
-### La matière noire
+***Qu'est ce que la matière noire?***
 
 # Formation des premières étoiles, aube cosmique et réionisation
 
@@ -74,6 +74,7 @@
 > Dans un AGN, une partie du gaz chauffé autour du trou noir se retrouve expulsé sous forme de jet qui brille tant qu'on peut l'observer depuis l'autre bout de l'univers. -> phare cosmique !
 - L'étude de la lumière des quasars dont le jet est dirigé vers nous nous donne des indices sur le déroulement de la réionisation. 
 > Le gaz d'hydrogène intergalactique neutre sur la ligne de visée absorbe une partie de la lumière émise par le quasar, alors que l'hydrogène ionisé permet à la lumière de passer. La longueur d'onde de la lumière du quasar est aussi étirée par l'expansion de l'univers au fil de son voyage vers nos télescopes.
+> C'est en observant des quasars brillants et lointains que Gunn et Peterson ont découvert en 1965 que l'univers a connu une époque de réionisation.
 
 ![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
 
