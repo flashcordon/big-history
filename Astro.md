@@ -41,6 +41,7 @@
 - [The Reionization of the Universe by the First Stars and Quasars](https://www.annualreviews.org/doi/10.1146/annurev.astro.39.1.19) - Loeb et Barkana, Annual Reviews (2001)
 - [Searching for Signatures of Pair-Instability Supernovae](https://astrobites.org/2012/07/23/searching-for-signatures-of-pair-instability-supernovae/) - Maria Drout, Astrobites (2012)
 - [Adventures in Cosmology](https://books.google.fr/books?id=ZR_7xGVE3YoC&pg=PA397&lpg=PA397&dq=260+solar+masses+black+hole&source=bl&ots=fvOwKNNzmp&sig=l_lFEdZtilKa6OqXMiOxHncb_ns&hl=fr&sa=X&ved=0ahUKEwim3cmtlrLaAhVFwBQKHfYyDSkQ6AEIRzAC#v=onepage&q=260%20solar%20masses%20black%20hole&f=false) - David Goodstein (2011)
+- [News Feature: Reionizing the universe](https://www.pnas.org/content/112/40/12225) - Adam Mann, PNAS (Octobre 21015)
 
 ---
 
