@@ -1,6 +1,8 @@
 
 # Inflation et Big Bang
 
+***Comment sait-on qu'il y a eu un big bang ?***
+
 ![Forces](https://cnx.org/resources/96e3d538be70bcf75a7c459302ab50e08e4294a5/CNX_UPhysics_44_07_Unification.jpg)
 
 # Nucléosynthèse primordiale, recombinaison et âges sombres
@@ -13,6 +15,10 @@
 - Les premiers atomes se forment à z=1100 (380 000 ans après le Big Bang, lorsque la température de l'univers atteint T=3000 K
 - Le brouillard se dissipe. 
 - L'univers baigne alors dans un rayonnement de corps noir, une lueur orangée dans toutes les direction (analogie: filament d'una ampoule à incandescence).
+
+***Comment on connaît l'état de l'univers primordial ?***
+- Le CMB montre que la matière dans l'univers primordial était répartie de manière remarquablement homogène
+- La physique des particules nous donne des idées sur l'état de la matière extrêmement chaude et comprimée
 
 ## Ages sombres
 
@@ -63,7 +69,7 @@
 - Les premières étoiles émettent la plupart de leur énergie dans le domaine des UV, des photons assez énergétiques pour ioniser l'hydrogène environnant (arrachent les électrons aux atomes d'hydrogènes qu'ils rencontrent). Cela chauffe l'hydrogène interstellaire à des températures de 10 000 degrés, et des bulles d'hydrogène ionisé commencent à entourer les étoiles.
 - L'époque de la réionisation se termine à peu près vers un milliard d’années après le Big Bang, au moment où l’intégralité du gaz de l’univers est ionisé.
 - Les recherches actuelles suggèrent que les premières étoiles n’étaient pas assez nombreuses pour réioniser l’univers tout entier, même si on connaît encore mal l’étendue de leur contribution. Dans tous les cas, d’autres objets brillants semblent avoir été à l’oeuvre. 
-- Parmi ces objets, de bons candidats sont les noyaux actifs de galaxies (AGN ou quasars), des trous noirs supermassifs entourés par du gaz chauffé par friction à des millions de degrés et qui produisent des quantités phénoménales de rayons X et ultraviolets. Le problème, c’est qu’on ne sait pas encore combien de noyaux actifs de galaxies il y avait à l’époque de la réionisation
+- Parmi ces objets, de bons candidats sont les noyaux actifs de galaxies (AGN ou quasars), des trous noirs supermassifs (qui constituent aujourd'hui le coeur des galaxies contemporaines) entourés par du gaz chauffé par friction à des millions de degrés et qui produisent des quantités phénoménales de rayons X et ultraviolets. Le problème, c’est qu’on ne sait pas encore combien de noyaux actifs de galaxies il y avait à l’époque de la réionisation
 > Dans un AGN, une partie du gaz chauffé autour du trou noir se retrouve expulsé sous forme de jet qui brille tant qu'on peut l'observer depuis l'autre bout de l'univers. -> phare cosmique !
 - L'étude de la lumière des quasars dont le jet est dirigé vers nous nous donne des indices sur le déroulement de la réionisation. 
 > Le gaz d'hydrogène intergalactique neutre sur la ligne de visée absorbe une partie de la lumière émise par le quasar, alors que l'hydrogène ionisé permet à la lumière de passer. La longueur d'onde de la lumière du quasar est aussi étirée par l'expansion de l'univers au fil de son voyage vers nos télescopes.
