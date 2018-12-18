@@ -78,6 +78,8 @@
 > C'est en observant des quasars brillants et lointains que Gunn et Peterson ont découvert en 1965 que l'univers a connu une époque de réionisation.
 - La prochaine génération de télescopes (JWST, LOFAR, MWA, SKA) devrait nous ouvrir une nouvelle fenêtre sur l'époque de la réionisation. La cartographie de l'hydrogène interstellaire (via la raie à 21cm) à différentes époques de l'histoire de l'univers nous donnera des clés pour comprendre comment les bulles d'hydrogène ionisé ont grandi et à quelle vitesse.
 
+![quasar](https://www.easynotecards.com/uploads/7/19/_16608c384_144fee962ba__8000_00000617.jpg)
+
 ![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
 
 # Nucléosynthèse stellaire
