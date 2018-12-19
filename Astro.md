@@ -25,10 +25,10 @@
 - A mesure que la température diminue, les longueurs d'onde du CMB se décalent de plus en plus vers le rouge, jusqu'à devenir invisibles à l'oeil nu. C'est le début des âges sombres.
 > Comme l'univers ne possède pas encore d'étoiles, l'univers nous appraraîtrait comme un endroit complètement sombre.
 - Pendant une grande partie des âges sombres, il ne se passe pas grand chose. La matière dans l'univers est encore très peu inhomogène
-- Une minuscule fraction du gaz présent forme quand même les premières molécules : H2, HD et LiH
 - Dans l'ombre, des halos de matière noire se forment sous l'action de la gravité 
 - Le gaz atomique (majoritairement constitué d'hydrogène et d'hélium) tombe dans les puits de gravité formés par ces halos. Certains halos sont si massifs (supérieur à la masse de Jeans du gaz) que la pression du gaz ne l'empêche plus de s'effondrer gravitationnellement. 
 - Le gaz se concentre alors au coeur des halos de matière noire.
+- La densité augmente, ce qui permet à une minuscule fraction de ce gaz de former les premières molécules : H2, HD et LiH
 
 ***Qu'est ce que la matière noire?***
 
@@ -56,7 +56,7 @@
 
 ***Pourquoi ces premières étoiles étaient-elles beaucoup plus massives que les étoiles d'aujourd'hui ?***
 > * Le gaz interstellaire d'aujourd'hui est saupoudré de grains de poussières et d'éléments plus lourds que l'hélium, comme le carbone ou l'oxygène, éjectés par les précédentes générations d'étoiles. Ces éléments aident le gaz à refroidir. Un gaz froid est plus dense, et donc s'effondre plus facilement sous son poids.
-> * A l'époque des premières étoiles, le gaz interstellaire ne contenait pas d'éléments plus lourds que le lithium. Et l'hydrogène (moléculaire) n'aide pas vraiment le gaz à refroidir (rayonne moins bien l'énergie qu'il absorbe). Le gaz ne pouvait pas alors refroidir en deçà d'une certaine température, et donc l'hydrogène chaud ne permettait pas à des masses de gaz équivalentes à celles des étoiles d'aujourd'hui d'atteindre une densité suffisante pour former une étoile. Les nuages de gaz ont donc accumulé de plus en plus de gaz jusqu'à ce que la gravité compense la pression du gaz et que la densité du coeur soit suffisante pour amorcer les réactions de fusion, ce qui en a fait des étoiles bien plus massives que la plupart des étoiles qu'on trouve aujourd'hui.
+> * A l'époque des premières étoiles, le gaz interstellaire ne contenait pas d'éléments plus lourds que le lithium. Et l'hydrogène (atomique et moléculaire) n'aide pas vraiment le gaz à refroidir (rayonne moins bien l'énergie qu'il absorbe). Le gaz ne pouvait pas alors refroidir en deçà d'une certaine température, et donc l'hydrogène chaud ne permettait pas à des masses de gaz équivalentes à celles des étoiles d'aujourd'hui d'atteindre une densité suffisante pour former une étoile. Les nuages de gaz ont donc accumulé de plus en plus de gaz jusqu'à ce que la gravité compense la pression du gaz et que la densité du coeur soit suffisante pour amorcer les réactions de fusion, ce qui en a fait des étoiles bien plus massives que la plupart des étoiles qu'on trouve aujourd'hui.
 
 - La lueur des premières étoiles met fin aux âges sombres
 - Pour la première génération d’étoiles, être aussi massif est synonyme d’une vie courte et spectaculaire. Les plus massives d’entre elles ne vivront que quelques millions d’années à peine
