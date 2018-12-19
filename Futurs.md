@@ -39,6 +39,10 @@ Un supercontinent : Pangea Ultima
 - [Stellar Evolution : The Life and Death of Our Luminous Neighbors ](http://umich.edu/~gs265/star.htm?fbclid=IwAR3yYTNKXQIHZISRXHnZgu99oCe0b6jqx0RBZLN7NJrRs0Q3ry-gnIWVCyQ) - Cours de Arthur Holland et Mark Williams
 - [The life span of the biosphere revisited](https://www.nature.com/articles/360721a0) - Caldeira et Kasting (1992)
 - Global Catastrophic Risks - Livre édité par Nick Bolstrom (2008)
+- [The evolution of habitable climates under the brightening Sun](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JD023302) - Wolf et Toon (2015)
+- [Reduction of biosphere life span as a consequence of geodynamics](https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0889.2000.00898.x) - Franck et al. (2000)
+- [The Runaway Greenhouse: implications for future climate change, geoengineering and planetary atmospheres](https://arxiv.org/abs/1201.1593) - Goldblatt et Watson (2012) : Bonne explication du runaway greenhouse (et de pourquoi il est souvent mal expliqué)
+- [Role of stellar physics in regulating the critical steps for life](https://arxiv.org/abs/1804.02271) - Lingam et Loeb (2018)
 
 ---
 
