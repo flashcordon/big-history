@@ -46,6 +46,7 @@
 - [HOW MASSIVE SINGLE STARS END THEIR LIFE](http://iopscience.iop.org/article/10.1086/375341/pdf) - Hegel et al (2003)
 - [THE FIRST STARS](http://www.astro.yale.edu/larson/papers/ARAA04.pdf) - Bromm, Annual Reviews (2004)
 - [Formation of the First Stars](https://arxiv.org/abs/1305.5178) - Bromm (2013)
+- [First Light](https://arxiv.org/pdf/1201.4820.pdf) - John D Wise (2012)
 
 ---
 
