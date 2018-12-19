@@ -46,13 +46,14 @@
 
 ---
 
-- Des simulations numériques montrent que les premières étoiles se sont probablement formées quelques centaines de millions d'années après le Big Bang dans des halos de matière noire de de l'ordre de 10^6 masses solaires.
+- Des simulations numériques montrent que les premières étoiles se sont probablement formées quelques centaines de millions d'années après le Big Bang (entre 100 et 250 miillions d'années) dans des halos de matière noire de de l'ordre de 10^5-6 masses solaires (taille: 30 à 100 années lumière). On appelle les premières structures capables de former des étoiles des protogalaxies.
+> Ces simulations ont pour point de départ les fluctuations de densité de matière qu'on observe dans le CMB (analogie : grumeaux dans la soupe primordiale)
 - Une étoile se forment lorsqu'une poche de gaz se refroidit et s'effondre en un coeur dense. 
 - Les simulations prédisent que les premières étoiles étaient probablement plusieurs centaines de fois plus massives que notre Soleil, et certaines études suggèrent que certaines d’entre elles auraient même pu atteindre près de 1000 fois la masse du Soleil
 
 ***Pourquoi ces premières étoiles étaient-elles beaucoup plus massives que les étoiles d'aujourd'hui ?***
 > * Le gaz interstellaire d'aujourd'hui est saupoudré d'éléments plus lourds que l'hélium, comme le carbone ou l'oxygène, éjectés par les précédentes générations d'étoiles. Ces éléments aident le gaz à refroidir. Un gaz froid est plus dense, et donc s'effondre plus facilement sous son poids.
-> * A l'époque des premières étoiles, le gaz interstellaire ne contenait pas d'éléments plus lourds que le lithium. Et l'hydrogène n'aide pas vraiment le gaz à refroidir (rayonne moins bien l'énergie qu'il absorbe). Le gaz ne pouvait pas alors refroidir en deçà d'une certaine température, et donc l'hydrogène chaud ne permettait pas à des masses de gaz équivalentes à celles des étoiles d'aujourd'hui d'atteindre une densité suffisante pour former une étoile. Les nuages de gaz ont donc accumulé de plus en plus de gaz jusqu'à ce que la gravité compense la pression du gaz et que la densité du coeur soit suffisante pour amorcer les réactions de fusion, ce qui en a fait des étoiles bien plus massives que la plupart des étoiles qu'on trouve aujourd'hui.
+> * A l'époque des premières étoiles, le gaz interstellaire ne contenait pas d'éléments plus lourds que le lithium. Et l'hydrogène (moléculaire) n'aide pas vraiment le gaz à refroidir (rayonne moins bien l'énergie qu'il absorbe). Le gaz ne pouvait pas alors refroidir en deçà d'une certaine température, et donc l'hydrogène chaud ne permettait pas à des masses de gaz équivalentes à celles des étoiles d'aujourd'hui d'atteindre une densité suffisante pour former une étoile. Les nuages de gaz ont donc accumulé de plus en plus de gaz jusqu'à ce que la gravité compense la pression du gaz et que la densité du coeur soit suffisante pour amorcer les réactions de fusion, ce qui en a fait des étoiles bien plus massives que la plupart des étoiles qu'on trouve aujourd'hui.
 
 - La lueur des premières étoiles met fin aux âges sombres
 - Pour la première génération d’étoiles, être aussi massif est synonyme d’une vie courte et spectaculaire. Les plus massives d’entre elles ne vivront que quelques millions d’années à peine
