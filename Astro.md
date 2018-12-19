@@ -49,7 +49,7 @@
 
 ---
 
-- Des simulations numériques montrent que les premières étoiles se sont probablement formées quelques centaines de millions d'années après le Big Bang (entre 100 et 250 miillions d'années) dans des halos de matière noire de de l'ordre de 10^5-6 masses solaires (taille: 30 à 100 années lumière). On appelle les premières structures capables de former des étoiles des protogalaxies.
+- Des simulations numériques montrent que les premières étoiles se sont probablement formées quelques centaines de millions d'années après le Big Bang (entre 100 et 250 miillions d'années) dans des halos de matière noire de de l'ordre de 10^6 masses solaires (taille: 30 à 100 années lumière). On appelle les premières structures capables de former des étoiles des protogalaxies.
 > Ces simulations ont pour point de départ les fluctuations de densité de matière qu'on observe dans le CMB (analogie : grumeaux dans la soupe primordiale)
 - Une étoile se forment lorsqu'une poche de gaz se refroidit et s'effondre en un coeur dense. 
 - Les simulations prédisent que les premières étoiles étaient probablement plusieurs centaines de fois plus massives que notre Soleil, et certaines études suggèrent que certaines d’entre elles auraient même pu atteindre près de 1000 fois la masse du Soleil. Elles étaient donc beaucoup plus lumineuses que le Soleil (températures de surface: 10^5K selon un papier de Volker Bromm) et émettent la majorité de leur énergie dans le domaine des UV.
