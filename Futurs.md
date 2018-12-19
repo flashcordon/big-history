@@ -6,6 +6,8 @@
 
 ## Crise énergétique
 
+## Crise de ressources
+
 ## Réchauffement climatique
 
 ### Capturer le carbone
