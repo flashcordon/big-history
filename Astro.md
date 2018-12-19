@@ -10,10 +10,10 @@
 ## Recombinaison
 
 - Etat de l'univers avant la réionisation : un plasma dense et chaud, un nuage d'électrons, de protons, de neutrons et de rayonnement qui se baladent librement. (analogie : soupe bouillante, chaudron)
-- L'univers est alors un brouillard opaque. Les photons sont constamment diffusés sur les particules chargées (diffusion Thomson).
+- L'univers est alors un brouillard opaque. Les photons sont constamment diffusés sur les électrons (diffusion Thomson).
 - A mesure que l'univers s'étend, sa température et sa densité diminuent
-- Les premiers atomes se forment à z=1100 (380 000 ans après le Big Bang, lorsque la température de l'univers atteint T=3000 K
-- Le brouillard se dissipe. 
+- Les premiers atomes se forment à z=1100 (380 000 ans après le Big Bang), lorsque la température de l'univers atteint T=3000 K. Les protons et les électrons se combinent.
+- La lumière cesse alors d'interagir autant avec la matière environnante. Les photons peuvent voyager librement pour la 1ère fois de l'histoire. Le brouillard se dissipe, et l'univers devient transparent. 
 - L'univers baigne alors dans un rayonnement de corps noir, une lueur orangée dans toutes les direction (analogie: filament d'una ampoule à incandescence).
 
 ***Comment on connaît l'état de l'univers primordial ?***
@@ -78,8 +78,8 @@
 
 - depuis l’époque de l’émission du fond diffus cosmologique, 380 000 ans après le Big Bang, la matière visible dans l’univers a été électriquement neutre.
 - Les premières étoiles émettent la plupart de leur énergie dans le domaine des UV, des photons assez énergétiques pour ioniser l'hydrogène environnant (arrachent les électrons aux atomes d'hydrogènes qu'ils rencontrent). Cela chauffe l'hydrogène interstellaire à des températures de 10 000 degrés, et des bulles d'hydrogène ionisé commencent à entourer les étoiles.
-- A mesure que de plus en plus d'étoiles se forment au fil des centaines de millions d'années, les bulles de gaz ionisé grossissent et fusionnent entre elles.
-- L'époque de la réionisation se termine à peu près vers un milliard d’années après le Big Bang, au moment où l’intégralité du gaz de l’univers est ionisé.
+- A mesure que de plus en plus d'étoiles se forment au fil des centaines de millions d'années, les bulles de gaz ionisé grossissent et fusionnent entre elles, et finissent par remplir tout l'espace.
+- L'époque de la réionisation se termine à peu près vers un milliard d’années après le Big Bang, au moment où l’intégralité du gaz de l’univers est ionisé (données: le spectre des quasars provenant de cette époque)
 - Les recherches actuelles suggèrent que les premières étoiles n’étaient pas assez nombreuses pour réioniser l’univers tout entier, même si on connaît encore mal l’étendue de leur contribution. Dans tous les cas, d’autres objets brillants semblent avoir été à l’oeuvre. 
 - Parmi ces objets, de bons candidats sont les noyaux actifs de galaxies (AGN ou quasars), des trous noirs supermassifs (qui constituent aujourd'hui le coeur des galaxies contemporaines) entourés par du gaz chauffé par friction à des millions de degrés et qui produisent des quantités phénoménales de rayons X et ultraviolets, ce qui peut les rendre 100 fois plus brillants que la galaxie qui les accueille. Le problème, c’est qu’on ne sait pas encore combien de noyaux actifs de galaxies il y avait à l’époque de la réionisation
 > * Dans un AGN, une partie du gaz chauffé autour du trou noir se retrouve expulsé sous forme de jet qui brille tant qu'on peut l'observer depuis l'autre bout de l'univers. -> phare cosmique !
@@ -87,7 +87,7 @@
 - L'étude de la lumière des quasars dont le jet est dirigé vers nous nous donne des indices sur le déroulement de la réionisation. 
 > Le gaz d'hydrogène intergalactique neutre sur la ligne de visée absorbe une partie de la lumière émise par le quasar, alors que l'hydrogène ionisé permet à la lumière de passer. La longueur d'onde de la lumière du quasar est aussi étirée par l'expansion de l'univers au fil de son voyage vers nos télescopes.
 > C'est en observant des quasars brillants et lointains que Gunn et Peterson ont découvert en 1965 que l'univers a connu une époque de réionisation.
-- La prochaine génération de télescopes (JWST, LOFAR, MWA, SKA) devrait nous ouvrir une nouvelle fenêtre sur l'époque de la réionisation. La cartographie de l'hydrogène intergalactique (via la raie à 21cm) à différentes époques de l'histoire de l'univers nous donnera des clés pour comprendre comment les bulles d'hydrogène ionisé ont grandi et à quelle vitesse.
+- La prochaine génération de télescopes (JWST, LOFAR, MWA, SKA) devrait nous ouvrir une nouvelle fenêtre sur l'époque de la réionisation. La cartographie en 3D de l'hydrogène intergalactique (via la raie à 21cm) à différentes époques de l'histoire de l'univers nous donnera des clés pour comprendre comment les bulles d'hydrogène ionisé ont grandi et à quelle vitesse, ce qui devrait nous donner des indices sur la nature des sources de la réionisation (les étoiles émettent principalement des UV qui sont rapidement bloqués par l'hydrogène intergalactique, tandis que les AGN émettent principalement des rayons X, qui pénètrent le gaz plus profondément, et donne des bulles de gaz ionisé plus "floues").
 
 ![quasar](https://www.easynotecards.com/uploads/7/19/_16608c384_144fee962ba__8000_00000617.jpg)
 
