@@ -49,10 +49,13 @@
 
 ---
 
-- Des simulations numériques montrent que les premières étoiles se sont probablement formées quelques centaines de millions d'années après le Big Bang (entre 100 et 250 miillions d'années) dans des halos de matière noire de de l'ordre de 10^6 masses solaires (taille: 30 à 100 années lumière). On appelle les premières structures capables de former des étoiles des protogalaxies.
+- Des simulations numériques montrent que les premières étoiles se sont probablement formées quelques centaines de millions d'années après le Big Bang (entre 100 et 250 miillions d'années) dans des mini-halos de matière noire de de l'ordre de 10^5-6 masses solaires (taille: 30 à 100 années lumière). On appelle les premières structures capables de former des étoiles des protogalaxies.
 > Ces simulations ont pour point de départ les fluctuations de densité de matière qu'on observe dans le CMB (analogie : grumeaux dans la soupe primordiale)
-- Une étoile se forment lorsqu'une poche de gaz se refroidit et s'effondre en un coeur dense. 
+- Alors que le gaz, initialement mélangé avec la matière noire, se refroidit, il se contracte et prend la forme d'un disque niché au centre du mini-halo, contrairement à la matière noire qui reste dispersée. 
+- A l'intérieur du disque, les poches de gaz les plus denses et les plus froides s'effondrent en un coeur dense. les premières étoiles se forment.
+> C'est un processus assez différent de celui qui crée les étoiles contemporaines : les étoiles actuelles naissent dans des nuages moléculaires riches en poussière et en molécules. Et puis dans les protogalaxies, la matière noire est mélangée initialement avec la matière ordinaire dans des structures de tailles similaires, alors que la matière ordinaire est aujourd'hui concentrée au centre de gigantesques halos de matière noire de tailles galactiques.
 - Les simulations prédisent que les premières étoiles étaient probablement plusieurs centaines de fois plus massives que notre Soleil, et certaines études suggèrent que certaines d’entre elles auraient même pu atteindre près de 1000 fois la masse du Soleil. Elles étaient donc beaucoup plus lumineuses que le Soleil (températures de surface: 10^5K selon un papier de Volker Bromm) et émettent la majorité de leur énergie dans le domaine des UV.
+
 
 ***Pourquoi ces premières étoiles étaient-elles beaucoup plus massives que les étoiles d'aujourd'hui ?***
 > * Le gaz interstellaire d'aujourd'hui est saupoudré de grains de poussières et d'éléments plus lourds que l'hélium, comme le carbone ou l'oxygène, éjectés par les précédentes générations d'étoiles. Ces éléments aident le gaz à refroidir. Un gaz froid est plus dense, et donc s'effondre plus facilement sous son poids.
@@ -128,6 +131,9 @@ Burcher
 
 *Sources*: 
 - [Cosmic Star-Formation History](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125615#_i87) - Madau et Dickinson, Annual Reviews (2014)
+
+- Les petites structures se forment en premier, et fusionnent pour donner de plus grandes structures.
+- Les protogalaxies fusionnent pour former des galaxies, et les galaxies s'arrangent sur les noeuds de la toile cosmique pour former des amas de galaxies.
 
 # Formation du système solaire
 
