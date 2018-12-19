@@ -42,7 +42,7 @@ Un supercontinent : Pangea Ultima
 
 ---
 
-- Le Soleil augmente sa luminosité à raison de 10% par milliard d'années
+- Le Soleil existe depuis 4.58 Gyrs et augmente sa luminosité à raison de 10% par milliard d'années
 - Lorsque le Soleil entrera dans sa phase de géante rouge, il enflera et son rayon atteindra 250 fois sa valeur actuelle.
 - Dans 7.5 milliards d'années, pendant que le Soleil sera dans sa phase de géante rouge, il perdra 33% de sa masse initiale.
 - Cela devrait faire reculer la Terre de son orbite actuelle, mais ça ne l'empêchera pas de se faire engloutir par le Soleil géant à cause des effets de marée et des frottements avec le gaz environnant
