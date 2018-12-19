@@ -42,6 +42,14 @@ Un supercontinent : Pangea Ultima
 
 ---
 
+- Lorsque le Soleil entrera dans sa phase de géante rouge, il enflera et son rayon atteindra 250 fois sa valeur actuelle.
+
+- Dans 7.5 milliards d'années, pendant que le Soleil sera dans sa phase de géante rouge, il perdra 33% de sa masse initiale.
+- Cela devrait faire reculer la Terre de son orbite actuelle, mais ça ne l'empêchera pas de se faire engloutir par le Soleil géant à cause des effets de marée et des frottements avec le gaz environnant
+> * L'expansion du Soleil ralentira sa rotation (conservation du moment cinétique). Période de rotation aujourd'hui : moins d'un mois. Période de rotation dans sa phase de géante rouge : plusieurs milliers d'années
+> * Cette période allongée fait que le bourrelet de marées généré sur le Soleil par la Terre attire cette dernière vers notre étoile, qui spirale inévitablement vers son déclin
+- Le reste du Soleil, c'est une naine blanche, 
+
 # L'ère des naines rouges
 
 # L'ère des trous noirs
