@@ -38,6 +38,7 @@ Un supercontinent : Pangea Ultima
 - [Distant future of the Sun and Earth revisited](https://arxiv.org/abs/0801.4031) - Schroder et Smith (2008)
 - [Stellar Evolution : The Life and Death of Our Luminous Neighbors ](http://umich.edu/~gs265/star.htm?fbclid=IwAR3yYTNKXQIHZISRXHnZgu99oCe0b6jqx0RBZLN7NJrRs0Q3ry-gnIWVCyQ) - Cours de Arthur Holland et Mark Williams
 - [The life span of the biosphere revisited](https://www.nature.com/articles/360721a0) - Caldeira et Kasting (1992)
+- Global Catastrophic Risks - Livre édité par Nick Bolstrom (2008)
 
 ---
 
