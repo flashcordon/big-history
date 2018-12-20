@@ -161,6 +161,5 @@ Burcher
 > * les astronomes comprennent encore mal par quel mécanisme des moutons de poussière de quelques cm ont pu s’agglutiner pour former des planétésimaux. En effet, lorsqu’on fait collisionner des moutons de poussière, ils ont plutôt tendance à se désagréger qu’à se coller entre eux.
 > * Il s’agit aussi d’adapter ce scénario global, qui marche pas mal pour notre système solaire, pour tenter de comprendre l’incroyable diversité des systèmes d’exoplanètes qu’on découvre
 
-
-
+***La zone d'habitabilité***
 
