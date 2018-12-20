@@ -47,6 +47,10 @@ Un supercontinent : Pangea Ultima
 ---
 
 - Le Soleil existe depuis 4.58 Gyrs et augmente sa luminosité à raison de 10% par milliard d'années
+> Plus le Soleil fusionne de l'hydrogène dans son coeur pour en faire de l'hélium, plus son coeur devient dense et chaud, ce qui augmente le taux de réactions thermonucléaires. C'est pourquoi la luminosité du Soleil augmente au fil des milliards d'années.
+- L'eau est un puissant gaz à effet de serre. Alors que la Terre se réchauffe, l'atmosphère progressivement remplie de vapeur d'eau de la Terre devrait accélérer son réchauffement, ce qui devrait selon Caldeira et Kasting augmenter la température de surface de la Terre de 50°C à 100°C en 200 millions d'années. Quelques extrêmophiles peuvent encore survivre à ces températures, mais impossible pour des formes de vie complexes d'exister au delà de ce point.
+- Au bout d'un moment, la luminosité du Soleil sera si forte que les océans s'évaporeront par photodissociation et échappement de l'hydrogène dans l'espace. La perte de l'eau de surface (qui arriverait d'ici 2.5 Gyrs) mettrait un terme à la vie sur Terre (selon Kasting et Caldeira)
+- Une fois que l'eau se soit évaporée de la surface de la Terre, l'érosion des roches sa être stoppée. La concentration de CO2 atmosphérique va donc augmenter grâce aux éruptions volcaniques sans rien pour le contrer, et le climat de la Terre ressemblera alors fortement à celui de Vénus aujourd'hui.
 - Quand le Soleil aura un âge de 10 Gyrs, son rayon sera 37% fois plus grand que maintenant, et sa luminosité sera presque doublée (1.84x)
 - A partir de ce moment, l'évolution du Soleil s'accélère. Le coeur du Soleil se met à fusionner la coquille d'hydrogène autour de son noyau (hydrogen shell burning), et son noyau se contracte. En réponse, les couches externes du Soleil gonflent, ce qui transforme graduellement le Soleil en géante rouge.
 > L'expansion est d'abord graduelle, puis elle s'accélère
