@@ -43,6 +43,7 @@ Un supercontinent : Pangea Ultima
 - [Reduction of biosphere life span as a consequence of geodynamics](https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0889.2000.00898.x) - Franck et al. (2000)
 - [The Runaway Greenhouse: implications for future climate change, geoengineering and planetary atmospheres](https://arxiv.org/abs/1201.1593) - Goldblatt et Watson (2012) : Bonne explication du runaway greenhouse (et de pourquoi il est souvent mal expliqué)
 - [Role of stellar physics in regulating the critical steps for life](https://arxiv.org/abs/1804.02271) - Lingam et Loeb (2018)
+- Death from the skies - Phil Plait
 
 ---
 
