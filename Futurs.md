@@ -62,6 +62,8 @@ Un supercontinent : Pangea Ultima
 - Lorsque le Soleil aura un âge de 12,1 milliards d'années, le Soleil rouge aura atteint sa luminosité maximale de 2730 fois sa luminosité actuelle
 - Le reste du Soleil, c'est une naine blanche, 
 
+![sunred](https://c8.alamy.com/comp/X92D01/future-red-giant-sun-artwork-view-from-earth-of-the-red-giant-sun-X92D01.jpg)
+
 # L'ère des naines rouges
 
 # L'ère des trous noirs
