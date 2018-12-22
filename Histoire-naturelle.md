@@ -164,6 +164,13 @@
 - La multicellularité est apparue plusieurs fois indépendamment dans l'histoire de la vie
 - La plus grande diversité du vivant est chez les bactéries
 
+***La vie va t-elle toujours vers plus de complexité ?***
+- Pas forcément ! L'évolution réductive est aussi très importante pour le vivant. 
+- Le nombre de gènes peut être un proxy pour définir la complexité d'un organisme.
+> Mais il y a des exceptions. Certains protozoaires ont un génome plus grand que des mammifères !
+- Dans le cas d'une symbiose ou de parasitisme, il n'est pas rare qu'un organisme perde des gènes qui ne lui servent plus parce que son symbiote/parasite fournit la fonction manquante
+> En effet, avoir beaucoup de gènes est coûteux. Surtout si on ne s'en sert pas.
+
 ### Date d'apparition de la vie: 
 
 - **Date la plus récente possible:** 3.3 Gyrs (micro fossiles, cellules en cours de mitose)
