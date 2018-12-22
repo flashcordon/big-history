@@ -73,7 +73,14 @@ On en a pas trouvé plus loin que l'Altai
 - Homo floresiensis était capable de fabriquer des outils
 - l'Homme de Florès se serait en fait éteint peu après l'arrivée d'Homo sapiens dans la région, possiblement à cause de la concurrence entre les deux espèces. 
 
-## le feu
+## La maitrise du feu
+
+*Sources*
+- [Stephen Pyne - Fire Slow, Fire Fast, Fire Deep](http://longnow.org/seminars/02016/feb/09/fire-slow-fire-fast-fire-deep/) Stephen Pyne, Long Now seminar (Février 2016)
+
+- Citation : "We are fire creatures from an ice age" Stephen Pyne
+
+
 
 ## La grande diaspora humaine
 
