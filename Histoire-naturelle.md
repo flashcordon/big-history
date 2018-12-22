@@ -248,7 +248,8 @@
 ## L'apparition des eucaryotes
 
 - Leur structure est beaucoup plus complexe que les procaryotes. Ils ont un génome beaucoup plus grand
-> Génome de bactérie : 3.5 millions de paires de bases. Génome d'humain : 3.5 milliards (représentatif des eucaryotes).
+> * Génome de bactérie : 3.5 millions de paires de bases. Génome d'humain : 3.5 milliards (représentatif des eucaryotes).
+> * La fleur japonaise Paris japonica, du genre Paris a le génome eucaryote le plus vaste décrit : il comporte près de 150 milliards de paires de base, soit près de 50 fois la taille du génome humain. Ceci est à considérer en excluant le génome de l'Amibe Polychaos dubium (≈700 Gpb) du fait de la précision incertaine de la méthode de mesure de son génome et de par le niveau de polyploïdie de l'espèce en question
 - Les eucaryotes possèdent un noyau, qui contient la plupart de l'ADN de la cellule et peut être vue comme une bibliothèque et un centre de reprographie.
 - L'apparition des eucaryotes, c'est 3 révolutions : une révolution dans la manière de transmettre l'information entre les générations, une révolution dans la capacité des organismes à acquérir des matériaux de leur environnement, et l'acquisition d'autres organimes pour en faire des composants internes.
 - 
