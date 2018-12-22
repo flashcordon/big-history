@@ -157,6 +157,9 @@
 
 ## L'origine de la vie
 
+- Evolution Darwinnienne = reproduction avec variations + sélection naturelle
+- Il y a aussi une forme d'évolution neutre : la dérive génétique (mutations stochastiques)
+
 ### Date d'apparition de la vie: 
 
 - **Date la plus récente possible:** 3.3 Gyrs (micro fossiles, cellules en cours de mitose)
