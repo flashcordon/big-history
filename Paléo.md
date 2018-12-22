@@ -83,6 +83,8 @@ On en a pas trouvé plus loin que l'Altai
 
 - Citation : "We are fire creatures from an ice age" Stephen Pyne
 
+- Le feu protège des prédateurs
+
 
 
 ## La grande diaspora humaine
