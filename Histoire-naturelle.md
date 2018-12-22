@@ -159,6 +159,9 @@
 
 - Evolution Darwinnienne = reproduction avec variations + sélection naturelle
 - Il y a aussi une forme d'évolution neutre : la dérive génétique (mutations stochastiques)
+- L'évolution n'a pas de but
+- La multicellularité est apparue plusieurs fois indépendamment dans l'histoire de la vie
+- La plus grande diversité du vivant est chez les bactéries
 
 ### Date d'apparition de la vie: 
 
