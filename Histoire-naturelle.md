@@ -181,6 +181,7 @@
 - **Date la plus ancienne possible d'habitabilité continue de la Terre:** 4.4 Gyrs (âge des plus vieux cristaux de zircon, signale la présence d'océans parce que ces zircons n'ont pas fondu pendant le LHB)
 > A cette époque on pense que la Terre a une croûte et un océan stable
 - **Date la plus récente possible d'habitabilité continue de la Terre:** 3.85 Gyrs (fin du LHB)
+- **Plus vieux microfossiles connus** : des tubes d'hématite probablement creusés par des microbes datés de 3.77 Gyrs ? (Nuvvuagittuq, Canada). Mais ils sont controversés (tubes super grands par rapport à la taille des microbes)
 
 #### **La vie a t-elle pu apparaître pendant le LHB ?**
 > Les gros impacts du LHB ont fait bouillir une bonne partie des océans, mais jamais son intégralité, donc la vie aurait pu survivre dans des poches d'eau profonde. Des hyperthermophiles auraient peut être pu se développer ? Il n'y a pas de consensus là dessus (débat: origine 'chaude' vs origine 'froide' de la vie)
