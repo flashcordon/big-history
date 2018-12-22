@@ -44,6 +44,7 @@
 - [Changements climatiques contemporains et futurs](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours1_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
 - [Modulation of Ice Ages via Precession and Dust-Albedo Feedbacks](https://sciborg.uwaterloo.ca/~mpalmer/stuff/ellis.pdf) - Ralph Ellis (Septembre 2015)
 - [Les variations climatiques "pour les nuls"](http://planet-terre.ens-lyon.fr/article/variations-climatiques-bases.xml)  Pierre Thomas (Janvier 2017)
+- [Misconceptions in Origin of Life](https://youtu.be/xElqecMYukM) - Purification Lopez-Garcia, Rencontres exobiologiques pour doctorants (Mars 2017)
 
 *Timelines*:
 
