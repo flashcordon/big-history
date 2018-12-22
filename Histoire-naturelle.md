@@ -162,9 +162,9 @@
 - Il y a aussi une forme d'évolution neutre : la dérive génétique (mutations stochastiques)
 - L'évolution n'a pas de but
 - La multicellularité est apparue plusieurs fois indépendamment dans l'histoire de la vie
-- La plus grande diversité du vivant est chez les bactéries
+- La plus grande biodiversité se trouve dans le monde microbien
 
-***La vie va t-elle toujours vers plus de complexité ?***
+***La vie va t-elle forcément vers plus de complexité ?***
 - Pas forcément ! L'évolution réductive est aussi très importante pour le vivant. 
 - Le nombre de gènes peut être un proxy pour définir la complexité d'un organisme.
 > Mais il y a des exceptions. Certains protozoaires ont un génome plus grand que des mammifères !
