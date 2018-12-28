@@ -68,6 +68,8 @@ Un supercontinent : Pangea Ultima
 
 ![ic2149](https://www.webastro.net/uploads/monthly_2018_10/1190397436_IC2149PNG166_110_4ir.jpg.cca4b02455d323334f31b5650ea9b033.jpg)
 
+![whitedwarf](https://cdn-images-1.medium.com/max/700/1*Big8C5PNb_wNFxo31qDLOA.jpeg)
+
 # L'ère des naines rouges
 
 # L'ère des trous noirs
