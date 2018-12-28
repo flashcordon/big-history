@@ -7,6 +7,14 @@
 
 # Nucléosynthèse primordiale, recombinaison et âges sombres
 
+## Nucléosynthèse primordiale
+
+*Sources*
+
+- [Nucleosynthesis, star formation and evolution (part 1)](https://youtu.be/gsZ1vVs2T3o) - Cyril Georgy (Février 2016)
+
+---
+
 ## Recombinaison
 
 - Etat de l'univers avant la réionisation : un plasma dense et chaud, un nuage d'électrons, de protons, de neutrons et de rayonnement qui se baladent librement. (analogie : soupe bouillante, chaudron)
