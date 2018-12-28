@@ -58,9 +58,10 @@ Un supercontinent : Pangea Ultima
 > L'expansion est d'abord graduelle, puis elle s'accélère
 - Lorsque le Soleil entrera dans sa phase de géante rouge dans 5 Gyrs, il enflera et son rayon atteindra 250 fois sa valeur actuelle et atteindra 2730 fois sa luminosité actuelle.
 - Dans 7.5 milliards d'années, pendant que le Soleil sera dans sa phase de géante rouge, il perdra 33% de sa masse initiale.
-- A cause de la conservation du moment cinétique, la masse réduite du Soleil devrait faire reculer la Terre (et les autres planètes) de son orbite actuelle (à environ 1.5x sa distance actuelle), mais ça ne l'empêchera pas de se faire engloutir par le Soleil géant à cause des effets de marée et des frottements avec le gaz environnant
+- A cause de la conservation du moment cinétique, la masse réduite du Soleil devrait faire reculer la Terre (et les autres planètes) de son orbite actuelle (à environ 1.5x sa distance actuelle), mais ça ne l'empêchera pas de se faire engloutir par le Soleil géant dans 7.5 Gyrs à cause des effets de marée et des frottements avec le gaz environnant
 > * L'expansion du Soleil ralentira sa rotation (conservation du moment cinétique). Période de rotation aujourd'hui : moins d'un mois. Période de rotation dans sa phase de géante rouge : plusieurs milliers d'années
-> * Cette période allongée fait que le bourrelet de marées généré sur le Soleil par la Terre attire cette dernière vers notre étoile, qui spirale inévitablement vers son déclin
+> * Cette période allongée fait que le bourrelet de marées généré sur le Soleil par la Terre attire cette dernière vers notre étoile, qui spirale inévitablement vers son déclin. Les frottements avec le gaz environnant ne jouera finalement qu'un rôle mineur
+- Mercure et Vénus connaissent le même sort que la Terre respectivement 3.8 Myrs et 1 Myrs plus tôt.
 - Le reste du Soleil, c'est une naine blanche
 
 ![sunred](https://c8.alamy.com/comp/X92D01/future-red-giant-sun-artwork-view-from-earth-of-the-red-giant-sun-X92D01.jpg)
