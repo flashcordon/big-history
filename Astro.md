@@ -27,6 +27,7 @@
 - [Nucleosynthesis, star formation and evolution (part 1)](https://youtu.be/gsZ1vVs2T3o) - Cyril Georgy (Février 2016)
 - [Primordial Nucleosynthesis](https://arxiv.org/pdf/1707.01004.pdf) - Coc et Vangioni (2017)
 - [Primordial nucleosynthesis: A cosmological point of view](https://aip.scitation.org/doi/pdf/10.1063/1.4875284?class=pdf) - Mathews (2014)
+- [La nucléosynthèse primordiale](https://www.astronomes.com/le-big-bang/nucleosynthese-primordiale) - Astronomie et astrophysique (Août 2017)
 
 ---
 
