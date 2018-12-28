@@ -34,7 +34,7 @@
 
 - Après l'anihilation de l'antimatière, l'univers est dominé par le rayonnement dont la longueur d'onde s'étend en même temps que l'univers.
 - Pendant les 20 premières minutes qui ont suivi le Big Bang, l'univers était assez chaud et dense que des réactions nucléaires ont pu avoir lieu, ce qui a donné naissance aux premiers noyaux d'atomes : hélium 4, hélium 3, deutérium et lithium 7 (et quelques traces d'éléments légèremet plus lourds)
-- La nucléosynthèse primordiale commence quelques minutes après le Big Bang, et se termine moins d'une demi heure plus tard lorsque la densité et la température sont trop basses pour que les réactions de fusion continuent
+- La nucléosynthèse primordiale commence quelques minutes après le Big Bang (~200s, ie ~3 minutes), et se termine moins d'une demi heure plus tard lorsque la densité et la température sont trop basses pour que les réactions de fusion continuent
 - La nucléosynthèse primordiale est l'une des 3 "preuves" du modèle du Big Bang (un des 3 pilliers de la cosmologie moderne), avec l'expansion de l'univers et le fond diffus cosmologique (CMB).
 - Il y a un accord sur 9 ordres de grandeurs entre les abondances observées et prédites par la théorie d'hélium 4, d'hélium 3, de deutérium et de lithium 7.
 - *Controverse :* Il y a un facteur 3 de différence entre les abondances primordiales de lithium observées et prédites, qui n'a pas encore d'explication consensuelle (problème du lithum).
