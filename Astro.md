@@ -44,7 +44,8 @@
 > * Noyau d'hélium 3 = deux protons et un neutron
 > * Noyau d'hélium 4 = deux protons et deux neutrons
 - La nucléosynthèse primordiale commence quelques minutes après le Big Bang (~200s, ie ~3 minutes), lorsque la température de l’Univers descend sous la barre du milliard de degrés, et que les photons deviennent trop peu énergétiques pour casser la liaison interne des noyaux tentent de se former.
-> Le début de la nucléosynthèse primordiale correspond à l'époque où la formation des premiers noyaux de deutérium dépasse leur destruction (par photodissociation)
+> Les premiers noyaux de deutérium se forment dès 1s après le Big Bang, mais ils sont instantanément détruits par les photons environnants (photodissociation).
+> Le début de la nucléosynthèse primordiale correspond à l'époque où la formation des premiers noyaux de deutérium dépasse leur destruction
 - La nucléosynthèse primordiale se termine ~20min après le Big Bang, lorsque la densité et la température sont trop basses pour que les réactions de fusion continuent
 > A partir de ce moment, il n'y a plus de neutrons libres (ils sont presque tous dans des noyaux d'hélium 4), et la barrière coulombienne est suffisante pour repousser les protons entre eux.
 - A la fin de la nucléosynthèse primordiale, la matière (baryonique) dans l'univers est composée à 75% d'hydrogène, à 25% d'hélium-4, à 0.01% de deuterium et d'hélium-3, de quelques traces (de l'ordre de 10^−10) de lithium, et de quantités négligeables d'éléments plus lourds (fraction en masse).
