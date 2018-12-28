@@ -44,12 +44,12 @@
 > * Noyau d'hélium 3 = deux protons et un neutron
 > * Noyau d'hélium 4 = deux protons et deux neutrons
 - La nucléosynthèse primordiale commence quelques minutes après le Big Bang (~200s, ie ~3 minutes), lorsque la température de l’Univers descend sous la barre du milliard de degrés, et que les photons deviennent trop peu énergétiques pour casser la liaison interne des noyaux tentent de se former.
-> Les premiers noyaux de deutérium se forment dès 1s après le Big Bang, mais ils sont instantanément détruits par les photons environnants (photodissociation).
+> Les premiers noyaux de deutérium se forment dès 1s après le Big Bang (T=10GK), mais ils sont instantanément détruits par les photons environnants (photodissociation).
 > Le début de la nucléosynthèse primordiale correspond à l'époque où la formation des premiers noyaux de deutérium dépasse leur destruction
 - La nucléosynthèse primordiale se termine ~20min après le Big Bang, lorsque la densité et la température sont trop basses pour que les réactions de fusion continuent
 > A partir de ce moment, il n'y a plus de neutrons libres (ils sont presque tous dans des noyaux d'hélium 4), et la barrière coulombienne est suffisante pour repousser les protons entre eux.
 - A la fin de la nucléosynthèse primordiale, la matière (baryonique) dans l'univers est composée à 75% d'hydrogène, à 25% d'hélium-4, à 0.01% de deuterium et d'hélium-3, de quelques traces (de l'ordre de 10^−10) de lithium, et de quantités négligeables d'éléments plus lourds (fraction en masse).
-> Le fait qu'il n'existe pas de noyaux stables avec un nombre de particules compris entre 5 et 8 empêche la formation d'un nombre significatif de noyaux plus lourds pendant la nucléosynthèse primordiale
+> Le fait qu'il n'existe pas de noyaux stables avec un nombre de particules de 5 ou 8 empêche la formation d'un nombre significatif de noyaux plus lourds pendant la nucléosynthèse primordiale. Elle s'arrête avant que des noyaux avec A>=12 puissent être créés. 
 - La nucléosynthèse primordiale est l'une des 3 "preuves" du modèle du Big Bang (un des 3 pilliers de la cosmologie moderne), avec l'expansion de l'univers et le fond diffus cosmologique (CMB).
 - Il y a un très bon accord entre les abondances observées et prédites par la théorie d'hélium 4, d'hélium 3, de deutérium et de lithium 7.
 - *Controverse :* Il y a un facteur 3 de différence entre les abondances primordiales de lithium observées et prédites, qui n'a pas encore d'explication consensuelle (problème du lithum).
