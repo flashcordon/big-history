@@ -35,6 +35,7 @@
 - [Primordial Nucleosynthesis in the Precision Cosmology Era](https://arxiv.org/ftp/arxiv/papers/0712/0712.1100.pdf) - Steigman, Annual Review of nuclear and particle science (2007)
 - [Nucleosynthesis in the Big Bang](https://maken.wikiwijs.nl/userfiles/dad1a88ff2d4b138a92572a1246e0866.swf) - Animation interactive
 - [BIG-BANG NUCLEOSYNTHESIS](http://pdg.lbl.gov/2016/reviews/rpp2016-rev-bbang-nucleosynthesis.pdf) Fields, Molaro et Sarkar (2016)
+- [Hydrogène](https://fr.wikipedia.org/wiki/Hydrog%C3%A8ne#cite_note-Biologie-7) - Wikipédia
 
 ---
 
@@ -56,6 +57,7 @@
 - *Controverse :* Il y a un facteur 3 de différence entre les abondances primordiales de lithium observées et prédites, qui n'a pas encore d'explication consensuelle (problème du lithum).
 - Sans la nucléosynthèse primordiale, il n'y aurait pas de neutrons dans l'univers aujourd'hui vu que la durée de vie d'un neutron libre est de 15 minutes.
 >  le neutron se désintègre en un proton, un électron et un antineutrino électronique (désintégration béta)
+- L'hydrogène représente 63 % des atomes et 10 % de la masse du corps humain. Ces atomes sont aussi vieux que le cosmos !
 
 ***Note sur les temps utilisés dans l'univers primordial :*** Les valeurs en temps dépendent des modèles. La grandeur la plus fiable pour calculer l'évolution des grandeurs quand on fait de la cosmologie primordiale c'est la température de l'univers.
 
