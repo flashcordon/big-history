@@ -18,7 +18,7 @@
 
 - La nucléosynthèse primordiale est l'une des 3 "preuves" du modèle du Big Bang, avec l'expansion de l'univers et le fond diffus cosmologique (CMB).
 - Il y a un accord sur 9 ordres de grandeurs entre les abondances observées et prédites par la théorie d'hélium 4, d'hélium 3, de deutérium et de lithium 7.
-- *Controverse :* Il y a un facteur 3 de différence entre les abondances primordiales de lithium observées et prédites, qui n'est pas encore expliquée.
+- *Controverse :* Il y a un facteur 3 de différence entre les abondances primordiales de lithium observées et prédites, qui n'est pas encore expliquée (problème du lithum).
 
 ***Note sur les temps utilisés dans l'univers primordial :*** Les valeurs en temps dépendent des modèles. La grandeur pertinente quand on fait de la cosmologie primordiale c'est la température de l'univers.
 
