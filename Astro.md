@@ -45,7 +45,7 @@
 > * L'abondance en lithium 7 est mesurée à la surface des vieilles étoiles pauvres en éléments lourds du halo galactique, mais il y a une incertitude sur le taux de destruction de ce lithium au cours de la vie de ces étoiles. Le lithium peut être en effet produit à la fin de la vie de certaines étoiles géantes (étoiles AGB) et détruit à l'intérieur des étoiles. 
 
 ***Comment sont calculées les abondances primordiales ?***
-> 
+> Grâce aux expériences et aux équations de la physique nucléaire. L'observation du fond diffus cosmologique et les équations de la cosmologie, quand à elles, nous donnent accès à la densité de matière ordinaire (densité baryonique) et à son évolution dans l'univers primordial
 
 ## Recombinaison
 
