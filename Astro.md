@@ -25,9 +25,9 @@
 
 ***Comment sont mesurées les abondances primordiales  ?***
 > * Le deutérium étant détruit par les étoiles, l'abondance en deutérium est mesurée dans le spectre de quasars lointains
-> * L'abondance en hélium 3 est mesurée dans des nébuleuses de notre Galaxie qui s'étendent sur plusieurs années lumière et contiennent  principalement de l'hydrogène ionisé par des étoiles chaudes (régions HII). En effet, l'hélium 3 n'est pas détruit par la chaleur de ces étoiles.
-> * L'abondance en hélium 4 est mesurée
-
+> * L'abondance en hélium 3 est mesurée dans des nébuleuses de notre Galaxie qui s'étendent sur plusieurs années lumière et contiennent principalement de l'hydrogène ionisé par des étoiles chaudes (régions HII). En effet, l'hélium 3 n'est pas détruit par la chaleur de ces étoiles.
+> * L'abondance en hélium 4 est mesurée dans les régions HII de galaxies irrégulières où peu de nucléosynthèse stellaire a eu lieu
+> * L'abondance en lithium 7 est mesurée à la surface des vieilles étoiles pauvres en éléments lourds du halo galactique, mais il y a une incertitude sur le taux de destruction de ce lithium au cours de la vie de ces étoiles 
 
 ## Recombinaison
 
