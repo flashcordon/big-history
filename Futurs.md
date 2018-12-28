@@ -47,15 +47,16 @@ Un supercontinent : Pangea Ultima
 
 ---
 
-- Le Soleil existe depuis 4.58 Gyrs et augmente sa luminosité à raison de 10% par milliard d'années
+- Le Soleil existe depuis 4.58 Gyrs et augmente actuellement sa luminosité à raison de 10% par milliard d'années (plus précisément, de 1% par ~110Myr)
 > Plus le Soleil fusionne de l'hydrogène dans son coeur pour en faire de l'hélium, plus son coeur devient dense et chaud, ce qui augmente le taux de réactions thermonucléaires. C'est pourquoi la luminosité du Soleil augmente au fil des milliards d'années.
-- L'eau est un puissant gaz à effet de serre. Alors que la Terre se réchauffe, l'atmosphère progressivement remplie de vapeur d'eau de la Terre devrait accélérer son réchauffement, ce qui devrait selon Caldeira et Kasting augmenter la température de surface de la Terre de 50°C à 100°C en 200 millions d'années. Quelques extrêmophiles peuvent encore survivre à ces températures, mais impossible pour des formes de vie complexes d'exister au delà de ce point.
-- Au bout d'un moment, la luminosité du Soleil sera si forte que les océans s'évaporeront par photodissociation et échappement de l'hydrogène dans l'espace. La perte de l'eau de surface (qui arriverait d'ici 2.5 Gyrs) mettrait un terme à la vie sur Terre (selon Kasting et Caldeira)
+- L'eau est un puissant gaz à effet de serre. Alors que la Terre se réchauffe, l'atmosphère progressivement remplie de vapeur d'eau de la Terre devrait accélérer son réchauffement, ce qui devrait selon Caldeira et Kasting augmenter la température de surface de la Terre de 50°C à 100°C en à peine 200 millions d'années. Quelques extrêmophiles peuvent encore survivre à ces températures, mais impossible pour des formes de vie complexes d'exister au delà de ce point.
+> Le corps humain ne peut pas supporter des températures excédant les 310 K (37°C) pendant des périodes étendues. D'ici 1.3 Gyrs (cf Wolf et Toon), toute la surface de la Terre dépassera cette température. La Terre deviendra donc invivable pour les humains que nous sommes.
+- Au bout d'un moment, la luminosité du Soleil sera si forte que les océans s'évaporeront par photodissociation (photolyse) et échappement de l'hydrogène dans l'espace. La perte de la totalité de l'eau de surface (qui arriverait d'ici 2.5 Gyrs, 2 Gyrs selon les résultats plus récents de Wolf et Toon) mettrait un terme à la vie sur Terre (selon Kasting et Caldeira)
 - Une fois que l'eau se soit évaporée de la surface de la Terre, l'érosion des roches sa être stoppée. La concentration de CO2 atmosphérique va donc augmenter grâce aux éruptions volcaniques sans rien pour le contrer, et le climat de la Terre ressemblera alors fortement à celui de Vénus aujourd'hui.
 - Quand le Soleil aura un âge de 10 Gyrs, son rayon sera 37% fois plus grand que maintenant, et sa luminosité sera presque doublée (1.84x)
 - A partir de ce moment, l'évolution du Soleil s'accélère. Le coeur du Soleil se met à fusionner la coquille d'hydrogène autour de son noyau (hydrogen shell burning), et son noyau se contracte. En réponse, les couches externes du Soleil gonflent, ce qui transforme graduellement le Soleil en géante rouge.
 > L'expansion est d'abord graduelle, puis elle s'accélère
-- Lorsque le Soleil entrera dans sa phase de géante rouge, il enflera et son rayon atteindra 250 fois sa valeur actuelle.
+- Lorsque le Soleil entrera dans sa phase de géante rouge dans 5 Gyrs, il enflera et son rayon atteindra 250 fois sa valeur actuelle.
 - Dans 7.5 milliards d'années, pendant que le Soleil sera dans sa phase de géante rouge, il perdra 33% de sa masse initiale.
 - A cause de la conservation du moment cinétique, la masse réduite du Soleil devrait faire reculer la Terre (et les autres planètes) de son orbite actuelle (à environ 1.5x sa distance actuelle), mais ça ne l'empêchera pas de se faire engloutir par le Soleil géant à cause des effets de marée et des frottements avec le gaz environnant
 > * L'expansion du Soleil ralentira sa rotation (conservation du moment cinétique). Période de rotation aujourd'hui : moins d'un mois. Période de rotation dans sa phase de géante rouge : plusieurs milliers d'années
