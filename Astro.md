@@ -22,6 +22,12 @@
 
 ***Note sur les temps utilisés dans l'univers primordial :*** Les valeurs en temps dépendent des modèles. La grandeur pertinente quand on fait de la cosmologie primordiale c'est la température de l'univers.
 
+***Comment sont mesurées les abondances primordiales  ?***
+> * Le deutérium étant détruit par les étoiles, l'abondance en deutérium est mesurée dans le spectre de quasars lointains
+> * L'abondance en hélium 3 est mesurée dans des nébuleuses de notre Galaxie qui s'étendent sur plusieurs années lumière et contiennent  principalement de l'hydrogène ionisé par des étoiles chaudes (régions HII). En effet, l'hélium 3 n'est pas détruit par la chaleur de ces étoiles.
+> * L'abondance en hélium 4 est mesurée
+
+
 ## Recombinaison
 
 - Etat de l'univers avant la réionisation : un plasma dense et chaud, un nuage d'électrons, de protons, de neutrons et de rayonnement qui se baladent librement. (analogie : soupe bouillante, chaudron)
