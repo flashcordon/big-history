@@ -52,7 +52,7 @@
 - A la fin de la nucléosynthèse primordiale, la matière (baryonique) dans l'univers est composée à 75% d'hydrogène, à 25% d'hélium-4, à 0.01% de deuterium et d'hélium-3, de quelques traces (de l'ordre de 10^−10) de lithium, et de quantités négligeables d'éléments plus lourds (fraction en masse).
 > Le fait qu'il n'existe pas de noyaux stables avec un nombre de particules de 5 ou 8 empêche la formation d'un nombre significatif de noyaux plus lourds pendant la nucléosynthèse primordiale. Elle s'arrête avant que des noyaux avec A>=12 puissent être créés. 
 - La nucléosynthèse primordiale est l'une des 3 "preuves" du modèle du Big Bang (un des 3 pilliers de la cosmologie moderne), avec l'expansion de l'univers et le fond diffus cosmologique (CMB).
-- Il y a un très bon accord entre les abondances observées et prédites par la théorie d'hélium 4, d'hélium 3, de deutérium et de lithium 7.
+- Il y a un très bon accord entre les abondances observées et prédites par la théorie d'hélium 4, d'hélium 3, de deutérium et de lithium 7, ce qui est particulièrement remarquable car ces abondances (en nombres d'atomes par atome d'hydrogène) couvrent 9 ordres de grandeur.
 - *Controverse :* Il y a un facteur 3 de différence entre les abondances primordiales de lithium observées et prédites, qui n'a pas encore d'explication consensuelle (problème du lithum).
 - Sans la nucléosynthèse primordiale, il n'y aurait pas de neutrons dans l'univers aujourd'hui vu que la durée de vie d'un neutron libre est de 15 minutes.
 >  le neutron se désintègre en un proton, un électron et un antineutrino électronique (désintégration béta)
