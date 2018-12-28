@@ -32,8 +32,13 @@
 
 ---
 
-- Après l'anihilation de l'antimatière, l'univers est dominé par le rayonnement dont la longueur d'onde s'étend en même temps que l'univers.
-- Pendant les 20 premières minutes qui ont suivi le Big Bang, l'univers était assez chaud et dense que des réactions nucléaires ont pu avoir lieu, ce qui a donné naissance aux premiers noyaux d'atomes : hélium 4, hélium 3, deutérium et lithium 7 (et quelques traces d'éléments légèremet plus lourds)
+- Après l'anihilation de l'antimatière, l'univers est dominé par le rayonnement dont la longueur d'onde s'étend en même temps que l'univers. La température diminue au fil du temps.
+- Lorsque la température de l’Univers descend sous la barre du milliard de degrés, les photons deviennent trop peu énergétiques pour casser la liaison interne des noyaux tentent de se former.
+- Pendant les 20 premières minutes qui ont suivi le Big Bang, l'univers est assez chaud et dense que des réactions nucléaires ont pu avoir lieu, ce qui a donné naissance aux premiers noyaux d'atomes : hélium 4, hélium 3, deutérium et lithium 7 (et quelques traces d'éléments légèremet plus lourds)
+> * Les protons et les neutrons se combinent sous l'action de la force nucléaire forte
+> * Noyau de deutérium  = un proton et un neutron
+> * Noyau d'hélium 3 = deux protons et un neutron
+> * Noyau d'hélium 4 = deux protons et deux neutrons
 - La nucléosynthèse primordiale commence quelques minutes après le Big Bang (~200s, ie ~3 minutes), et se termine moins d'une demi heure plus tard (BB+~20min) lorsque la densité et la température sont trop basses pour que les réactions de fusion continuent
 > A partir de ce moment, il n'y a plus de neutrons libres (ils sont presque tous dans des noyaux d'hélium 4), et la barrière coulombienne est suffisante pour repousser les protons entre eux.
 - A la fin de la nucléosynthèse primordiale, la matière (baryonique) dans l'univers est composée à 75% d'hydrogène, à 25% d'hélium-4, à 0.01% de deuterium et d'hélium-3, de quelques traces (de l'ordre de 10^−10) de lithium, et de quantités négligeables d'éléments plus lourds (fraction en masse).
