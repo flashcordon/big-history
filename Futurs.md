@@ -66,6 +66,8 @@ Un supercontinent : Pangea Ultima
 
 ![sunred](https://c8.alamy.com/comp/X92D01/future-red-giant-sun-artwork-view-from-earth-of-the-red-giant-sun-X92D01.jpg)
 
+![ic2149](https://www.webastro.net/uploads/monthly_2018_10/1190397436_IC2149PNG166_110_4ir.jpg.cca4b02455d323334f31b5650ea9b033.jpg)
+
 # L'ère des naines rouges
 
 # L'ère des trous noirs
