@@ -36,6 +36,7 @@
 - Pendant les 20 premières minutes qui ont suivi le Big Bang, l'univers était assez chaud et dense que des réactions nucléaires ont pu avoir lieu, ce qui a donné naissance aux premiers noyaux d'atomes : hélium 4, hélium 3, deutérium et lithium 7 (et quelques traces d'éléments légèremet plus lourds)
 - La nucléosynthèse primordiale commence quelques minutes après le Big Bang (~200s, ie ~3 minutes), et se termine moins d'une demi heure plus tard (BB+~20min) lorsque la densité et la température sont trop basses pour que les réactions de fusion continuent
 > A partir de ce moment, il n'y a plus de neutrons libres (ils sont presque tous dans des noyaux d'hélium 4), et la barrière coulombienne est suffisante pour repousser les protons entre eux.
+- A la fin de la nucléosynthèse primordiale, la matière (baryonique) dans l'univers est composée à 75% d'hydrogène, à 25% d'hélium-4, à 0.01% de deuterium et d'hélium-3, de quelques traces (de l'ordre de 10^−10) de lithium, et de quantités négligeables d'éléments plus lourds (fraction en masse).
 - La nucléosynthèse primordiale est l'une des 3 "preuves" du modèle du Big Bang (un des 3 pilliers de la cosmologie moderne), avec l'expansion de l'univers et le fond diffus cosmologique (CMB).
 - Il y a un très bon accord entre les abondances observées et prédites par la théorie d'hélium 4, d'hélium 3, de deutérium et de lithium 7.
 - *Controverse :* Il y a un facteur 3 de différence entre les abondances primordiales de lithium observées et prédites, qui n'a pas encore d'explication consensuelle (problème du lithum).
