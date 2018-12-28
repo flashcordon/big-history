@@ -20,6 +20,8 @@
 - Il y a un accord sur 9 ordres de grandeurs entre les abondances observées et prédites par la théorie d'hélium 4, d'hélium 3, de deutérium et de lithium 7.
 - *Controverse :* Il y a un facteur 3 de différence entre les abondances primordiales de lithium observées et prédites, qui n'est pas encore expliquée.
 
+***Note sur les temps utilisés dans l'univers primordial :*** Les valeurs en temps dépendent des modèles. La grandeur pertinente quand on fait de la cosmologie primordiale c'est la température de l'univers.
+
 ## Recombinaison
 
 - Etat de l'univers avant la réionisation : un plasma dense et chaud, un nuage d'électrons, de protons, de neutrons et de rayonnement qui se baladent librement. (analogie : soupe bouillante, chaudron)
