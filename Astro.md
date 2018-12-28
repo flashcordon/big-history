@@ -34,6 +34,7 @@
 - [La nucléosynthèse primordiale](https://www.astronomes.com/le-big-bang/nucleosynthese-primordiale) - Astronomie et astrophysique (Août 2017)
 - [Primordial Nucleosynthesis in the Precision Cosmology Era](https://arxiv.org/ftp/arxiv/papers/0712/0712.1100.pdf) - Steigman, Annual Review of nuclear and particle science (2007)
 - [Nucleosynthesis in the Big Bang](https://maken.wikiwijs.nl/userfiles/dad1a88ff2d4b138a92572a1246e0866.swf) - Animation interactive
+- [BIG-BANG NUCLEOSYNTHESIS](http://pdg.lbl.gov/2016/reviews/rpp2016-rev-bbang-nucleosynthesis.pdf) Fields, Molaro et Sarkar (2016)
 
 ---
 
