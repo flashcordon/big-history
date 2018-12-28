@@ -44,6 +44,7 @@ Un supercontinent : Pangea Ultima
 - [The Runaway Greenhouse: implications for future climate change, geoengineering and planetary atmospheres](https://arxiv.org/abs/1201.1593) - Goldblatt et Watson (2012) : Bonne explication du runaway greenhouse (et de pourquoi il est souvent mal expliqué)
 - [Role of stellar physics in regulating the critical steps for life](https://arxiv.org/abs/1804.02271) - Lingam et Loeb (2018)
 - Death from the skies - Phil Plait
+- [The mysterious age invariance of the planetary nebula luminosity function bright cut-off](https://www.nature.com/articles/s41550-018-0453-9.epdf?referrer_access_token=uxNmZNgyM5DrRYwU1iN4kNRgN0jAjWel9jnR3ZoTv0OzwWt8mLOdVW4Y_YiE39LeELOmC9M6iImivpGtXB0NRRHOgg1K0bNNWkzSX72oQsQKuC4IDt-VcFGG6l68GPSVf5BO2oV5QGWykjAejz6NYsHCkGaQW9lWYI-B2Y0SrS2FKSfEarwaVui9bIJ2wtJOruj1zgkuzYuA1YjSrUmBcMio33ay6THckhf1lqHx0vrTl3NSDOVTKB8LgIEjxHcWG-_KCPJGW7HIB2zAu_Qf2ZwFThM2Dw0-pfVACddZ9i8%3D&tracking_referrer=www.smithsonianmag.com) - Gesicki et al (2018)
 
 ---
 
@@ -62,8 +63,9 @@ Un supercontinent : Pangea Ultima
 > * L'expansion du Soleil ralentira sa rotation (conservation du moment cinétique). Période de rotation aujourd'hui : moins d'un mois. Période de rotation dans sa phase de géante rouge : plusieurs milliers d'années
 > * Cette période allongée fait que le bourrelet de marées généré sur le Soleil par la Terre attire cette dernière vers notre étoile, qui spirale inévitablement vers son déclin. Les frottements avec le gaz environnant ne jouera finalement qu'un rôle mineur
 - Mercure et Vénus connaissent le même sort que la Terre respectivement 3.8 Myrs et 1 Myrs plus tôt.
-- Le reste du Soleil, c'est une naine blanche de 54% sa masse initiale
+- Le reste du Soleil, c'est une naine blanche de 54% sa masse initiale et à peine plus grande que la Terre
 - La forme de la nébuleuse planétaire est sculptée par le gaz interstellaire environnant et par la force centrifuge due à la rotation du Soleil
+> 90% des étoiles terminent leur vie en nébuleuse planétaire
 - La nébuleuse planétaire serait ionisée par la lueur UV de la naine blanche, ce qui la ferait briller. L'oxygène la pare de couleur verte, et les autres éléments lui donnent d'autres couleurs
 - Quelques milliers d'années plus tard, le gaz se sera dilué et étendu, la naine blanche sera refroidie. La nébuleuse planétaire s'éteindra alors, et deviendra indistinguable des nuages interstellaires
 - La naine blanche rayonne son énergie dans l'espace, et en refroidissant, elle passe du blanc au bleu, puis au jaune, à l'orange, au rouge et puis dans l'infrarouge. La naine banche sera alors devenue une naine noire, en quelques millions d'années.  
