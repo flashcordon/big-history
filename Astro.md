@@ -33,22 +33,26 @@
 - [Primordial nucleosynthesis: A cosmological point of view](https://aip.scitation.org/doi/pdf/10.1063/1.4875284?class=pdf) - Mathews (2014)
 - [La nucléosynthèse primordiale](https://www.astronomes.com/le-big-bang/nucleosynthese-primordiale) - Astronomie et astrophysique (Août 2017)
 - [Primordial Nucleosynthesis in the Precision Cosmology Era](https://arxiv.org/ftp/arxiv/papers/0712/0712.1100.pdf) - Steigman, Annual Review of nuclear and particle science (2007)
+- [Nucleosynthesis in the Big Bang](https://maken.wikiwijs.nl/userfiles/dad1a88ff2d4b138a92572a1246e0866.swf) - Animation interactive
 
 ---
 
 - Après l'anihilation de l'antimatière, l'univers est dominé par le rayonnement dont la longueur d'onde s'étend en même temps que l'univers. La température diminue au fil du temps.
-- Lorsque la température de l’Univers descend sous la barre du milliard de degrés, les photons deviennent trop peu énergétiques pour casser la liaison interne des noyaux tentent de se former.
-- Pendant les 20 premières minutes qui ont suivi le Big Bang, l'univers est assez chaud et dense que des réactions nucléaires ont pu avoir lieu, ce qui a donné naissance aux premiers noyaux d'atomes : hélium 4, hélium 3, deutérium et lithium 7 (et quelques traces d'éléments légèremet plus lourds). Mais la majeure partie de la nucléosynthèse primordiale se passe pendant les 3 premières minutes après le Big Bang.
+- Pendant les 20 premières minutes qui ont suivi le Big Bang, l'univers est juste assez chaud et dense que des réactions nucléaires ont pu avoir lieu, ce qui a donné naissance aux premiers noyaux d'atomes : hélium 4, hélium 3, deutérium et lithium 7 (et quelques traces d'éléments légèremet plus lourds). Mais la majeure partie de la nucléosynthèse primordiale se passe pendant les 3 premières minutes après le Big Bang.
 > * Les protons et les neutrons se combinent sous l'action de la force nucléaire forte
-> * Noyau de deutérium  = un proton et un neutron
+> * Noyau de deutérium  = un proton et un neutron (aussi appelé deutéron)
 > * Noyau d'hélium 3 = deux protons et un neutron
 > * Noyau d'hélium 4 = deux protons et deux neutrons
-- La nucléosynthèse primordiale commence quelques minutes après le Big Bang (~200s, ie ~3 minutes), et se termine moins d'une demi heure plus tard (BB+~20min) lorsque la densité et la température sont trop basses pour que les réactions de fusion continuent
+- La nucléosynthèse primordiale commence quelques minutes après le Big Bang (~200s, ie ~3 minutes), lorsque la température de l’Univers descend sous la barre du milliard de degrés, et que les photons deviennent trop peu énergétiques pour casser la liaison interne des noyaux tentent de se former.
+> 
+- La nucléosynthèse primordiale se termine ~20min après le Big Bang, lorsque la densité et la température sont trop basses pour que les réactions de fusion continuent
 > A partir de ce moment, il n'y a plus de neutrons libres (ils sont presque tous dans des noyaux d'hélium 4), et la barrière coulombienne est suffisante pour repousser les protons entre eux.
 - A la fin de la nucléosynthèse primordiale, la matière (baryonique) dans l'univers est composée à 75% d'hydrogène, à 25% d'hélium-4, à 0.01% de deuterium et d'hélium-3, de quelques traces (de l'ordre de 10^−10) de lithium, et de quantités négligeables d'éléments plus lourds (fraction en masse).
 - La nucléosynthèse primordiale est l'une des 3 "preuves" du modèle du Big Bang (un des 3 pilliers de la cosmologie moderne), avec l'expansion de l'univers et le fond diffus cosmologique (CMB).
 - Il y a un très bon accord entre les abondances observées et prédites par la théorie d'hélium 4, d'hélium 3, de deutérium et de lithium 7.
 - *Controverse :* Il y a un facteur 3 de différence entre les abondances primordiales de lithium observées et prédites, qui n'a pas encore d'explication consensuelle (problème du lithum).
+- Sans la nucléosynthèse primordiale, il n'y aurait pas de neutrons dans l'univers aujourd'hui vu que la durée de vie d'un neutron libre est de 15 minutes.
+>  le neutron se désintègre en un proton, un électron et un antineutrino électronique
 
 ***Note sur les temps utilisés dans l'univers primordial :*** Les valeurs en temps dépendent des modèles. La grandeur la plus fiable pour calculer l'évolution des grandeurs quand on fait de la cosmologie primordiale c'est la température de l'univers.
 
