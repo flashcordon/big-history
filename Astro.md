@@ -38,7 +38,7 @@
 
 - Après l'anihilation de l'antimatière, l'univers est dominé par le rayonnement dont la longueur d'onde s'étend en même temps que l'univers. La température diminue au fil du temps.
 - Lorsque la température de l’Univers descend sous la barre du milliard de degrés, les photons deviennent trop peu énergétiques pour casser la liaison interne des noyaux tentent de se former.
-- Pendant les 20 premières minutes qui ont suivi le Big Bang, l'univers est assez chaud et dense que des réactions nucléaires ont pu avoir lieu, ce qui a donné naissance aux premiers noyaux d'atomes : hélium 4, hélium 3, deutérium et lithium 7 (et quelques traces d'éléments légèremet plus lourds)
+- Pendant les 20 premières minutes qui ont suivi le Big Bang, l'univers est assez chaud et dense que des réactions nucléaires ont pu avoir lieu, ce qui a donné naissance aux premiers noyaux d'atomes : hélium 4, hélium 3, deutérium et lithium 7 (et quelques traces d'éléments légèremet plus lourds). Mais la majeure partie de la nucléosynthèse primordiale se passe pendant les 3 premières minutes après le Big Bang.
 > * Les protons et les neutrons se combinent sous l'action de la force nucléaire forte
 > * Noyau de deutérium  = un proton et un neutron
 > * Noyau d'hélium 3 = deux protons et un neutron
