@@ -16,6 +16,10 @@
 
 ![Forces](https://cnx.org/resources/96e3d538be70bcf75a7c459302ab50e08e4294a5/CNX_UPhysics_44_07_Unification.jpg)
 
+## Plasma de quarks et de gluons
+
+![pqg](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2012/1-closinginont.jpg)
+
 ## Matière et antimatière
 
 # Nucléosynthèse primordiale, recombinaison et âges sombres
