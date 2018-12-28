@@ -38,10 +38,14 @@
 ***Note sur les temps utilisés dans l'univers primordial :*** Les valeurs en temps dépendent des modèles. La grandeur pertinente quand on fait de la cosmologie primordiale c'est la température de l'univers.
 
 ***Comment sont mesurées les abondances primordiales  ?***
-> * Le deutérium étant détruit par les étoiles, l'abondance en deutérium est mesurée dans le spectre de quasars lointains
+> En observant des objets qui possèdent peu d'éléments lourds (faible métallicité)
+> * Le deutérium étant détruit par les étoiles, l'abondance en deutérium est mesurée dans les nuages intergalactiques lointains (à haut redshift) qui affectent le spectre de quasars lointains sur la ligne de visée
 > * L'abondance en hélium 3 est mesurée dans des nébuleuses de notre Galaxie qui s'étendent sur plusieurs années lumière et contiennent principalement de l'hydrogène ionisé par des étoiles chaudes (régions HII). En effet, l'hélium 3 n'est pas détruit par la chaleur de ces étoiles.
 > * L'abondance en hélium 4 est mesurée dans les régions HII de galaxies irrégulières où peu de nucléosynthèse stellaire a eu lieu
-> * L'abondance en lithium 7 est mesurée à la surface des vieilles étoiles pauvres en éléments lourds du halo galactique, mais il y a une incertitude sur le taux de destruction de ce lithium au cours de la vie de ces étoiles 
+> * L'abondance en lithium 7 est mesurée à la surface des vieilles étoiles pauvres en éléments lourds du halo galactique, mais il y a une incertitude sur le taux de destruction de ce lithium au cours de la vie de ces étoiles. Le lithium peut être en effet produit à la fin de la vie de certaines étoiles géantes (étoiles AGB) et détruit à l'intérieur des étoiles. 
+
+***Comment sont calculées les abondances primordiales ?***
+> 
 
 ## Recombinaison
 
