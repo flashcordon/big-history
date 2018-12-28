@@ -56,13 +56,12 @@ Un supercontinent : Pangea Ultima
 - Quand le Soleil aura un âge de 10 Gyrs, son rayon sera 37% fois plus grand que maintenant, et sa luminosité sera presque doublée (1.84x)
 - A partir de ce moment, l'évolution du Soleil s'accélère. Le coeur du Soleil se met à fusionner la coquille d'hydrogène autour de son noyau (hydrogen shell burning), et son noyau se contracte. En réponse, les couches externes du Soleil gonflent, ce qui transforme graduellement le Soleil en géante rouge.
 > L'expansion est d'abord graduelle, puis elle s'accélère
-- Lorsque le Soleil entrera dans sa phase de géante rouge dans 5 Gyrs, il enflera et son rayon atteindra 250 fois sa valeur actuelle.
+- Lorsque le Soleil entrera dans sa phase de géante rouge dans 5 Gyrs, il enflera et son rayon atteindra 250 fois sa valeur actuelle et atteindra 2730 fois sa luminosité actuelle.
 - Dans 7.5 milliards d'années, pendant que le Soleil sera dans sa phase de géante rouge, il perdra 33% de sa masse initiale.
 - A cause de la conservation du moment cinétique, la masse réduite du Soleil devrait faire reculer la Terre (et les autres planètes) de son orbite actuelle (à environ 1.5x sa distance actuelle), mais ça ne l'empêchera pas de se faire engloutir par le Soleil géant à cause des effets de marée et des frottements avec le gaz environnant
 > * L'expansion du Soleil ralentira sa rotation (conservation du moment cinétique). Période de rotation aujourd'hui : moins d'un mois. Période de rotation dans sa phase de géante rouge : plusieurs milliers d'années
 > * Cette période allongée fait que le bourrelet de marées généré sur le Soleil par la Terre attire cette dernière vers notre étoile, qui spirale inévitablement vers son déclin
-- Lorsque le Soleil aura un âge de 12,1 milliards d'années, le Soleil rouge aura atteint sa luminosité maximale de 2730 fois sa luminosité actuelle
-- Le reste du Soleil, c'est une naine blanche, 
+- Le reste du Soleil, c'est une naine blanche
 
 ![sunred](https://c8.alamy.com/comp/X92D01/future-red-giant-sun-artwork-view-from-earth-of-the-red-giant-sun-X92D01.jpg)
 
