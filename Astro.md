@@ -18,8 +18,7 @@
 
 ## Plasma de quarks et de gluons
 
-<img src="https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2012/1-closinginont.jpg" width="200">
-![pqg](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2012/1-closinginont.jpg)
+<img src="https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2012/1-closinginont.jpg" width="600">
 
 ## Matière et antimatière
 
