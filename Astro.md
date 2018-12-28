@@ -71,6 +71,8 @@
 ***Comment sont calculées les abondances primordiales ?***
 > Grâce aux expériences et aux équations de la physique nucléaire. L'observation du fond diffus cosmologique et les équations de la cosmologie, quand à elles, nous donnent accès à la densité de matière ordinaire (densité baryonique) et à son évolution dans l'univers primordial
 
+![bbn](https://thespectrumofriemannium.files.wordpress.com/2013/06/nucleosynsbb.gif)
+
 ## Recombinaison
 
 - Etat de l'univers avant la réionisation : un plasma dense et chaud, un nuage d'électrons, de protons, de neutrons et de rayonnement qui se baladent librement. (analogie : soupe bouillante, chaudron)
