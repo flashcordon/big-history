@@ -24,6 +24,12 @@
 
 # Futurs souhaitables
 
+- Des villes plus compactes (minimise les trajets), avec des zones agricoles en circuit court
+- Une alimentation végétale
+- Des progrès dans le recyclage de nos déchets
+- Des pays ayant tous achevé leur transition démographique
+- Egalité des genres
+
 ## outils pour des futurs souhaitables
 
 ***Au niveau individuel :***
