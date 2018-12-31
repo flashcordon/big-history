@@ -22,6 +22,15 @@
 
 ## Le risque biotech
 
+# Futurs souhaitables
+
+## outils pour des futurs souhaitables
+
+- Esprit critique
+- Pensée complexe (cf Edgar Morin) / system thinking
+- Elargissement du cercle d'empathie
+- Pensée à long terme (sous branche de system thinking?)
+
 # Le prochain âge glaciaire
 
 # 250 millions d'années
