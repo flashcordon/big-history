@@ -26,10 +26,14 @@
 
 ## outils pour des futurs souhaitables
 
+***Au niveau individuel :***
 - Esprit critique
 - Pensée complexe (cf Edgar Morin) / system thinking
 - Elargissement du cercle d'empathie
 - Pensée à long terme (sous branche de system thinking?)
+
+***Au niveau institutionnel***
+- Décentralisation
 
 # Le prochain âge glaciaire
 
