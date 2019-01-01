@@ -272,6 +272,7 @@ Ressources sur la Big History
 - [Les contours de la lignée humaine TenL65 à Tautavel](https://youtu.be/d-4KQbG2REA?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - La Tronche en biais (Août 2018)
 - [Your Place in the Primate Family Tree](https://youtu.be/dUKV02uYEu0?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - PBS Eons (Octobre 2018)
 - [Seven Million Years of Human Evolution](https://youtu.be/DZv8VyIQ7YU?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - American Museum of Natural History (Novembre 2018)
+- [Colloque international : "Être humain ? Archéologie des origines"  par Carole Fritz, Centre national de la recherche scientifique (CNRS)](https://www.inrap.fr/l-expression-artistique-13963)
 
 ---
 
