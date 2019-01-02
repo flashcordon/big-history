@@ -45,6 +45,7 @@ Déforestation :
 ***Au niveau institutionnel***
 - Décentralisation
 - Evidence based policy
+- Meilleurs indicateurs de progrès (IDH, Bonheur national brut)
 
 # Le prochain âge glaciaire
 
