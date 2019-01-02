@@ -194,6 +194,9 @@
 > A l'époque de la formation des planètes, il n'était pas rare que des matériaux d'une planète arrive sur une autre planète sous  forme de météorites. Il y a des météorites martiennes sur Terre et des météorites terrestres sur Mars. Plus dur d'échanger des matériaux comme ça aujourd'hui mais il y a des milliards d'années c'était possible.
 - Controverse sur la météorite martienne d'Allan Hills (ALH84001, 1996): conclusion: probablement pas de la vie sur cette météorite (mais impossible à démentir définitivement)
 
+### Peut-on parler d'apparition d'une espèce ?
+> C'est un abus de langage. Des populations se différencient, et certaines de ces populations donnent des espèces. L'évolution des caractères prédomine l'évolution des espèces
+
 ## La photosynthèse oxygénique
 
 - Inventé par les cyanobactéries entre 3.4 et 2.5 Gyrs
