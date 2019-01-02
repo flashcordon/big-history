@@ -10,6 +10,10 @@
 
 ## Réchauffement climatique
 
+Déforestation :
+
+![sao-felix-du-xingu](https://cms.qz.com/wp-content/uploads/2018/10/sao-felix-du-xingu.jpg?quality=75&strip=all&w=3200&h=1800)
+
 ### Capturer le carbone
 
 ## La 6e extinction de masse
