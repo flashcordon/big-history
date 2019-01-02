@@ -243,6 +243,7 @@ Ressources sur la Big History
 ## Cours
 
 - [Human Prehistory and the First Civilizations](https://www.amazon.co.uk/Human-Prehistory-First-Civilizations/dp/B00DTV0RVE/ref=pd_sim_129_9?_encoding=UTF8&psc=1&refRID=1R5X8581RN2AGKA62E2R) - Brian Fagan, The Great Courses (2013) (audiobook + PDF)
+- [Cours de Jean Jacques Hublin](https://www.college-de-france.fr/site/jean-jacques-hublin/course-2018-12-04-17h00.htm) - Collège de France
 
 ## Sites Web
 
