@@ -29,7 +29,7 @@
 
 ![transitiondemo](https://ourworldindata.org/wp-content/uploads/2017/12/World-Population-Pyramid-1950-to-2100.png)
 
-<iframe src="https://ourworldindata.org/grapher/global-child-mortality-timeseries" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+![childmortality](https://d33wubrfki0l68.cloudfront.net/223dddb3183007f6c60dddefef5e3e7ae189885f/3a417/exports/global-child-mortality-timeseries_v1_850x600.svg)
 
 ## Notre siècle
 
