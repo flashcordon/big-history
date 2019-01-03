@@ -28,6 +28,7 @@ Déforestation :
 
 # Futurs souhaitables
 
+- Sources d'énergies renouvelables (solaire, fusion,...)
 - Des villes plus compactes (minimise les trajets), avec des zones agricoles en circuit court
 - Une alimentation végétale
 - Des progrès dans le recyclage de nos déchets
