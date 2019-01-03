@@ -6,6 +6,8 @@
 
 - [World Population Growth](https://ourworldindata.org/world-population-growth) - Our world in data (Avril 2017)
 - [Future Population Growth](https://ourworldindata.org/future-population-growth) - Our world in data (Avril 2017)
+- Factfulness - Hans Rosling (2018)
+- [Joe Walston on Conservation, Urbanization, and the Way We Live on Earth](https://www.preposterousuniverse.com/podcast/2018/11/12/episode-22-joe-walston-on-conservation-urbanization-and-the-way-we-live-on-earth/) - Mindscape podcast (Novembre 2018)
 
 ---
 
