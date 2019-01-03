@@ -61,6 +61,10 @@ while the world population quadrupled in the 20th century it will not double in 
 
 ![repartpop](https://s3-eu-west-1.amazonaws.com/static.gapminder.org/GapminderMedia/wp-uploads/20180312202848/geo.png)
 
+*Répartition de la population en 2100*
+
+![pop2100](https://i.imgur.com/cGKsaZ1.png)
+
 # Risques à venir
 
 ## Crise énergétique
