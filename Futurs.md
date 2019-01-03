@@ -46,16 +46,6 @@
 - Bonne nouvelle : il y a de moins en moins d'enfants dans le monde qui ne sont pas scolarisés, même si le nombre d'enfants a augmenté globalement. En effet, au cours des 20 dernières années le nombre d'enfants non scolarisés a quasiment diminué de moitié 
 > 111 millions en 1997; 60 millions en 2014
 
-
-
-Selon l’ONU, Nous sommes plus de 7 milliards d’être humains sur Terre
-Il y a 200 ans nous étions moins d’un million
-A picture of world population in the very long-run fits the pattern of exponential growth
-Yet an empirical observation of how growth rates have developed in the course of the last century reveals that this pattern no longer holds. The annual rate of population growth has recently been going down. A long historical period of accelerated growth has thus come to an end; the annual world population growth rate peaked in 1962
-Since 1962, the population growth rate is falling and will likely continue to fall, leading to an end of growth towards the end of this century.
-In order to study how the world population changes over time it is useful to focus on the rate of change (rather than just levels).
-while the world population quadrupled in the 20th century it will not double in the 21st century.
-
 ![evolpop](https://ourworldindata.org/wp-content/uploads/2013/05/updated-World-Population-Growth-1750-2100.png)
 
 *Répartition de la population aujourd'hui (1 bonhomme = 1 milliard d'habitants)*
