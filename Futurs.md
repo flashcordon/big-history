@@ -11,6 +11,7 @@
 
 ---
 
+***A mettre dans histoire moderne***
 - Nous sommes aujourd'hui 7.7 milliards sur Terre (en 2019)
 - En 1800 nous étions moins d'un miliard sur Terre (989 millions)
 - La population mondiale a presque quadruplé au cours du 20e siècle.
@@ -21,6 +22,17 @@
 - Par contre le taux de fertilité (nombre d'enfants par femme) diminue, ce qui réduit le taux de croissance de la population.
 > * La diminution de la fertilité est liée au développement socio-économique d'une population, et en particulier au statut et au bien être des femmes.
 > * L'espérance de vie est augmentée par les progrès de la médecine
+
+## La transition démographique
+
+- En 1950 1 enfant sur 4 dans le monde mourrait avant d'atteindre l'âge de 5 ans
+
+![transitiondemo](https://ourworldindata.org/wp-content/uploads/2017/12/World-Population-Pyramid-1950-to-2100.png)
+
+<iframe src="https://ourworldindata.org/grapher/global-child-mortality-timeseries" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Notre siècle
+
 
 
 Selon l’ONU, Nous sommes plus de 7 milliards d’être humains sur Terre
