@@ -55,6 +55,12 @@ Un supercontinent : Pangea Ultima
 
 # l'humanité évolue-t-elle encore
 
+*Sources*
+
+- Future humans - Scott Solomon (2016)
+
+> Spéciation si isolation d'une population sur long terme -> colonies spatiales (Mars par exemple)
+
 # La fin de l'habitabilité planétaire
 
 *Sources*
