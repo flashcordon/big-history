@@ -45,7 +45,7 @@ Déforestation :
 - Valorisation de la diversité
 
 ***Au niveau institutionnel***
-- Décentralisation
+- Décentralisation du système de gouvernance
 - Evidence based policy
 - Meilleurs indicateurs de progrès (IDH, Bonheur national brut)
 
