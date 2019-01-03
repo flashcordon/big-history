@@ -14,6 +14,7 @@
 - Nous sommes aujourd'hui 7.7 milliards sur Terre (en 2019)
 - La population mondiale a presque quadruplé au cours du 20e siècle.
 > 1.65 milliards en 1900; 6.13 milliards en 2000
+- Le taux de croissance de la population a atteint son pic à la fin des années 60 (1967-1968) et diminue depuis. Ce qui veut dire que la population mondiale augmente, mais plus lentement.
 - Le taux de croissance de la population dépend de 3 facteurs : la mortalité, la fertilité et la l'élan démographique (population momentum)
 - Globalement, le taux de mortalité diminue (du à augmentation de l'espérance de vie et diminution de la mortalité infantile), ce qui contribue à l'augmentation de la population mondiale. 
 - Par contre le taux de fertilité (nombre d'enfants par femme) diminue, ce qui réduit le taux de croissance de la population.
