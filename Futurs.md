@@ -57,6 +57,10 @@ while the world population quadrupled in the 20th century it will not double in 
 
 ![evolpop](https://ourworldindata.org/wp-content/uploads/2013/05/updated-World-Population-Growth-1750-2100.png)
 
+*Répartition de la population aujourd'hui (1 bonhomme = 1 milliard d'habitants)*
+
+![repartpop](https://s3-eu-west-1.amazonaws.com/static.gapminder.org/GapminderMedia/wp-uploads/20180312202848/geo.png)
+
 # Risques à venir
 
 ## Crise énergétique
