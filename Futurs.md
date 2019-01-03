@@ -15,6 +15,8 @@
 - La population mondiale a presque quadruplé au cours du 20e siècle.
 > 1.65 milliards en 1900; 6.13 milliards en 2000
 - Le taux de croissance de la population dépend de 3 facteurs : la mortalité, la fertilité et la l'élan démographique (population momentum)
+- Globalement, le taux de mortalité diminue (du à augmentation de l'espérance de vie et diminution de la mortalité infantile), ce qui contribue à l'augmentation de la population mondiale. 
+- Par contre le taux de fertilité (nombre d'enfants par femme) diminue, ce qui réduit le taux de croissance de la population.
 
 Selon l’ONU, Nous sommes plus de 7 milliards d’être humains sur Terre
 Il y a 200 ans nous étions moins d’un million
