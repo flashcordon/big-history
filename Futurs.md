@@ -10,6 +10,8 @@
 - Factfulness - Hans Rosling (2018)
 - [Joe Walston on Conservation, Urbanization, and the Way We Live on Earth](https://www.preposterousuniverse.com/podcast/2018/11/12/episode-22-joe-walston-on-conservation-urbanization-and-the-way-we-live-on-earth/) - Mindscape podcast (Novembre 2018)
 - [When will the world reach 'peak child'?](https://ourworldindata.org/peak-child) - Our world in data (Février 2018)
+- [Projections of population growth](https://en.wikipedia.org/wiki/Projections_of_population_growth) - Wikipédia
+- [World population to 2300](https://warwick.ac.uk/fac/soc/pais/research/researchcentres/csgr/green/foresight/demography/united_nations_world_population_to_2300.pdf) - Rapport de l'ONU (2004)
 
 ---
 
