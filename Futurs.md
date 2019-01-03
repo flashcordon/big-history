@@ -37,6 +37,7 @@
 - Les projections de l'ONU prédisent que la population africaine devrait quadrupler d'ici la fin du siècle
 > 1.2 milliards en 2017; 4.5 milliards en 2100
 - C'est donc l'afrique qui déterminera largement la structure de la population mondiale de ce siècle
+- En 2100, plus de 80% de la population mondiale vivra en Asie et en Afrique
 - On devrait passer le 'peak child' (terme initié par Hans Rosling) au cours du siècle
 > Peak child: le moment où le nombre d'enfants dans le monde arrête d'augmenter
 - Ce pic ressemble plus à un plateau qu'on devrait atteindre dans les 40 prochaines années
