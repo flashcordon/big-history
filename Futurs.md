@@ -22,6 +22,7 @@ Since 1962, the population growth rate is falling and will likely continue to fa
 In order to study how the world population changes over time it is useful to focus on the rate of change (rather than just levels).
 while the world population quadrupled in the 20th century it will not double in the 21st century.
 
+![evolpop](https://ourworldindata.org/wp-content/uploads/2013/05/updated-World-Population-Growth-1750-2100.png)
 
 # Risques à venir
 
