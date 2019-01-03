@@ -18,9 +18,9 @@
 - La population mondiale a presque quadruplé au cours du 20e siècle.
 > 1.65 milliards en 1900; 6.13 milliards en 2000
 - Le taux de croissance de la population a atteint son pic à la fin des années 60 (1968) et diminue depuis. Ce qui veut dire que la population mondiale augmente, mais plus lentement.
-- Le taux de croissance de la population dépend de 3 facteurs : la mortalité, la fertilité et la l'élan démographique (population momentum)
+- Le taux de croissance de la population dépend de 3 facteurs : la mortalité, la fertilité et les migrations
 - Globalement, le taux de mortalité diminue (du à augmentation de l'espérance de vie et diminution de la mortalité infantile), ce qui contribue à l'augmentation de la population mondiale. 
-- Par contre le taux de fertilité (nombre d'enfants par femme) diminue, ce qui réduit le taux de croissance de la population.
+- Par contre le taux de fertilité (nombre d'enfants par femme) diminue (due à l'éducation des femmes), ce qui réduit le taux de croissance de la population.
 > * La diminution de la fertilité est liée au développement socio-économique d'une population, et en particulier au statut et au bien être des femmes.
 > * L'espérance de vie est augmentée par les progrès de la médecine
 
@@ -32,7 +32,18 @@
 
 ![childmortality](https://d33wubrfki0l68.cloudfront.net/223dddb3183007f6c60dddefef5e3e7ae189885f/3a417/exports/global-child-mortality-timeseries_v1_850x600.svg)
 
-## Notre siècle
+## Le futur
+
+- Les projections de l'ONU prédisent que la population africaine devrait quadrupler d'ici la fin du siècle
+> 1.2 milliards en 2017; 4.5 milliards en 2100
+- C'est donc l'afrique qui déterminera largement la structure de la population mondiale de ce siècle
+- On devrait passer le 'peak child' (terme initié par Hans Rosling) au cours du siècle
+> Peak child: le moment où le nombre d'enfants dans le monde arrête d'augmenter
+- Ce pic ressemble plus à un plateau qu'on devrait atteindre dans les 40 prochaines années
+- Le nombre d'enfants dans le futur dépendra de notre succès à assurer aux enfants d'aujourd'hui (et en particulier aux filles) une éducation de qualité. 
+> Plus les femmes sont éduquées, moins elles ont tendance à faire des enfants 
+- Bonne nouvelle : il y a de moins en moins d'enfants dans le monde qui ne sont pas scolarisés, même si le nombre d'enfants a augmenté globalement. En effet, au cours des 20 dernières années le nombre d'enfants non scolarisés a quasiment diminué de moitié 
+> 111 millions en 1997; 60 millions en 2014
 
 
 
