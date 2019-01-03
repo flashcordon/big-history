@@ -64,7 +64,7 @@ while the world population quadrupled in the 20th century it will not double in 
 
 *Répartition de la population en 2100*
 
-![pop2100](https://i.imgur.com/cGKsaZ1.png)
+![pop2100](https://i.imgur.com/kRgumAJ.png)
 
 # Risques à venir
 
