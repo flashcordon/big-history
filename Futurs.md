@@ -2,6 +2,25 @@
 
 # Démographie
 
+*Sources*
+
+- [World Population Growth](https://ourworldindata.org/world-population-growth) - Our world in data (Avril 2017)
+- [Future Population Growth](https://ourworldindata.org/future-population-growth) - Our world in data (Avril 2017)
+
+---
+
+- La population mondiale a plus de quadruplé au cours du 20e siècle.
+- Le taux de croissance de la population dépend de 3 facteurs : la mortalité, la fertilité et la l'élan démographique (population momentum)
+
+Selon l’ONU, Nous sommes plus de 7 milliards d’être humains sur Terre
+Il y a 200 ans nous étions moins d’un million
+A picture of world population in the very long-run fits the pattern of exponential growth
+Yet an empirical observation of how growth rates have developed in the course of the last century reveals that this pattern no longer holds. The annual rate of population growth has recently been going down. A long historical period of accelerated growth has thus come to an end; the annual world population growth rate peaked in 1962
+Since 1962, the population growth rate is falling and will likely continue to fall, leading to an end of growth towards the end of this century.
+In order to study how the world population changes over time it is useful to focus on the rate of change (rather than just levels).
+while the world population quadrupled in the 20th century it will not double in the 21st century.
+
+
 # Risques à venir
 
 ## Crise énergétique
