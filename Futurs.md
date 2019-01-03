@@ -41,6 +41,7 @@ Déforestation :
 - Pensée complexe (cf Edgar Morin) / system thinking
 - Elargissement du cercle d'empathie
 - Pensée à long terme (sous branche de system thinking?)
+- Valorisation de la diversité
 
 ***Au niveau institutionnel***
 - Décentralisation
