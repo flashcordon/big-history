@@ -48,7 +48,7 @@
 - En 2100, plus de 80% de la population mondiale vivra en Asie et en Afrique
 - On devrait passer le 'peak child' (terme initié par Hans Rosling) au cours du siècle
 > Peak child: le moment où le nombre d'enfants dans le monde arrête d'augmenter
-- Ce pic ressemble plus à un plateau qu'on devrait atteindre dans les 40 prochaines années
+- Ce pic ressemble plus à un plateau qu'on approche déjà et qu'on devrait atteindre à un moemnt dans les 40 prochaines années
 - Le nombre d'enfants dans le futur dépendra de notre succès à assurer aux enfants d'aujourd'hui (et en particulier aux filles) une éducation de qualité. 
 > Plus les femmes sont éduquées, moins elles ont tendance à faire des enfants 
 - Bonne nouvelle : il y a de moins en moins d'enfants dans le monde qui ne sont pas scolarisés, même si le nombre d'enfants a augmenté globalement. En effet, au cours des 20 dernières années le nombre d'enfants non scolarisés a quasiment diminué de moitié 
