@@ -248,6 +248,7 @@ Ressources sur la Big History
 ## Sites Web
 
 - [Hominidés.com](https://www.hominides.com/index.php)
+- [Three big insights into our African origins](https://medium.com/@johnhawks/three-big-insights-into-our-african-origins-3fa01eb5f03?sk=1d44a1e2a218a60314361ceec4af3e38) - John Hawks, Medium
 
 ## Podcasts
 
