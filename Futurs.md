@@ -12,6 +12,7 @@
 - [When will the world reach 'peak child'?](https://ourworldindata.org/peak-child) - Our world in data (Février 2018)
 - [Projections of population growth](https://en.wikipedia.org/wiki/Projections_of_population_growth) - Wikipédia
 - [World population to 2300](https://warwick.ac.uk/fac/soc/pais/research/researchcentres/csgr/green/foresight/demography/united_nations_world_population_to_2300.pdf) - Rapport de l'ONU (2004)
+- [2017 Revision of World Population Prospects](https://population.un.org/wpp/) - ONU (2017)
 
 ---
 
@@ -52,6 +53,8 @@
 > 111 millions en 1997; 60 millions en 2014
 
 ![evolpop](https://ourworldindata.org/wp-content/uploads/2013/05/updated-World-Population-Growth-1750-2100.png)
+
+![evolpop2](https://population.un.org/wpp/Graphs/2_Probabilistic%20Projections/1_Population/1_Total%20Population/World.png)
 
 *Répartition de la population aujourd'hui (1 bonhomme = 1 milliard d'habitants)*
 
