@@ -13,6 +13,7 @@
 - [Projections of population growth](https://en.wikipedia.org/wiki/Projections_of_population_growth) - Wikipédia
 - [World population to 2300](https://warwick.ac.uk/fac/soc/pais/research/researchcentres/csgr/green/foresight/demography/united_nations_world_population_to_2300.pdf) - Rapport de l'ONU (2004)
 - [2017 Revision of World Population Prospects](https://population.un.org/wpp/) - ONU (2017)
+- [World population history](https://worldpopulationhistory.org/tools-resources/)
 
 ---
 
@@ -40,6 +41,7 @@
 
 - La population mondiale devrait continuer de grimper d'ici 2100
 > Selon le scénario le plus probable (scénario médian), la population devrait atteindre 9.8 milliards d'ici 2050 et 11.2 milliards d'ici 2100
+- Après 2100, les scénarios deviennent beaucoup plus spéculatifs, et la population pourrait soit continuer de grimper soit se stabiliser soit décliner radicalement d'ici 2300.
 - Les projections de l'ONU prédisent que la population africaine devrait quadrupler d'ici la fin du siècle
 > 1.2 milliards en 2017; 4.5 milliards en 2100
 - C'est donc l'afrique qui déterminera largement la structure de la population mondiale de ce siècle
