@@ -52,6 +52,12 @@
 
 ![urbrur2050](https://i.imgur.com/fOHkPqw.png)
 
+![1950](https://i.imgur.com/yXrrqjd.png)
+
+![2020](https://i.imgur.com/GyjfGDC.png)
+
+![2050](https://i.imgur.com/PdPOt0F.png)
+
 # Démographie
 
 *Sources*
