@@ -15,7 +15,7 @@
 - Ce n'est qu'à partir du XIXe siècle que le monde s'est mis à s'urbaniser, et la plupart de cette urbanisation a été réalisée au XXe siècle.
 > * En 1800, moins de 10% (7.3%) de la population mondiale vit dans des zones urbaines (72.2 millions de personnes)
 > * En 1950, près de 30% (29.6%) de la population mondiale vit dans des zones urbaines (750.9 millions de personnes)
-> * En 2007, plus de 50% (50.1%) de la population mondiale vit dans des zones urbaines
+> * En 2007, plus de 50% (50.1%) de la population mondiale vit dans des zones urbaines (3.3 milliards de personnes)
 > * En 2018, près de 55% de la population mondiale vit dans des zones urbaines (4.2 milliards en zone urbaine; 3.4 milliards en zone rurale)
 - Depuis 2007, et pour la première fois de l'Histoire, il y a plus de gens qui vivent dans les zones urbaines que dans les zones rurales, et la population urbaine augmente plus rapidement que la population rurale
 - D'ici 2050, l'ONU estime que plus des 2/3 (68.3%) de la population mondiale sera urbaine
