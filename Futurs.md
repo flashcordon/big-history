@@ -36,7 +36,7 @@
 - Près de 7% (6.9%) de la population mondiale vit dans des mégapoles aujourd'hui (529 millions de personnes)
 - D’ici 2030, il y aura une quarantaine de mégapoles, mais la majorité de la croissance de la population se fera dans les villes de taille moyenne situées en Asie et en Afrique
 > Exemple : durant les 60 dernières années, Lagos, la plus grande ville Africaine, est passée d’une population de 300 000 habitants à 8 millions d’habitants, et sa surface métropolitaine a plus que quadruplé en taille
-- Les villes sont les centres de transformation culturelle et sociale
+- Les villes sont les centres de transformation culturelle et sociale, des accélérateurs de changement
 > Nous façonnons les villes, mais à leur tour les villes nous façonnent. Si on veut changer le monde, il faut changer les villes
 - 60% de la surface urbaine dont on aura besoin d’ici 2030 doit encore être construite. Il faut s’assurer qu’elle soit construite de manière durable
 
