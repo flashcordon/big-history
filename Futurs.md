@@ -15,7 +15,7 @@
 - Il n'y a pas de définition universellement acceptée de zone urbaine (et de ses limites)
 - L'ONU agrège les définitions nationales de "zone urbaine" de chaque pays dans ses rapports sur la population urbaine et rurale. Mais ces définitions peuvent être très différentes, ce qui fait que les populations urbaines sont pas comparables entre les pays. 
 > Certains pays utilisent comme critère des seuils en nombre de personnes, d'autres des seuils en densité de population, d'autres encore le développement des infrastructures ou bien la population de villes pré définies.
-- Des études de la Comission Européenne (projet : Atlas of the Human Planet) ont tenté d'étudier la population urbaine globale en combinant les données d'imagerie satellite avec les données nationales. Contrairement à l'ONU, ils ont utilisé une définition universelle 
+- Des études de la Comission Européenne (projet : Atlas of the Human Planet) ont tenté d'étudier la population urbaine globale en combinant les données d'imagerie satellite avec les données nationales. Contrairement à l'ONU, ils ont utilisé une définition universelle (en nombre de personnes ET en densité de population) pour les différents types d'habitat : centre urbain, agglomération urbaine et zone rurale. Ils en déduisent que 85% de la population mondiale vit dans des zones urbaines (centre urbain + agglomération urbaine), mais ces estimations sont critiquées car jugées exagérées.
 
 - urban living is a very recent development. For most of our history humans lived in low-density, rural settings
 - It was not until the 20th century that urbanization across the world began to increase rapidly.
