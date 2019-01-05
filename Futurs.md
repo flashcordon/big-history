@@ -23,7 +23,7 @@
 - All regions are expected to urbanize further over the coming decades. Africa and Asia are urbanizing faster than the other regions and are projected to become 56 and 64 per cent urban, respectively, by 2050.
 > Durant les 60 dernières années, Lagos, la plus grande ville Africaine, est passée d’une population de 300 000 habitants à 8 millions d’habitants, et sa surface métropolitaine a plus que quadruplé en taille
 - Les villes sont les centres de transformation culturelle et sociale
-> Si on veut changer le monde, il faut changer les villes
+> Nous façonnons les villes, mais à leur tour les villes nous façonnent. Si on veut changer le monde, il faut changer les villes
 - A dense urban lifestyle can be “greener” than its rural counterpart especially in high and many middle-income countries. Urban residents drive less and live and work in smaller footprints that require less energy, water, and materials per person
 - Il y a 4 macro-menaces à la durabilité des villes : l’effondrement de la gouvernance liés aux guerres et aux conflits sociaux, les inondations et les famines liés aux crises environnementales, les épidémies (ex: la peste noire), les désastres naturels et l’effondrement économique. A cela s’ajoutent les armes de destruction massive qui permettent de raser des villes entières 
 - Les villes peuvent perdurer pendant plus de 1000 ans si les conditions le permettent.
