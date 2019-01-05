@@ -13,7 +13,7 @@
 
 ***Zones urbaines***
 - Il n'y a pas de définition universellement acceptée de zone urbaine (et de ses limites)
-- The UN adopts national definitions in its reporting of urban versus rural populations. This means urban populations are often not comparable across countries. 
+- L'ONU agrège les définitions nationales de "zone urbaine" de chaque pays dans ses rapports sur la population urbaine et rurale. Mais ces définitions peuvent être très différentes, ce qui fait que les populations urbaines sont pas comparables entre les pays. 
 > Some countries use minimum population thresholds, others use population density, infrastructure development, employment type, or simply the population of pre-defined cities.
 - urban living is a very recent development. For most of our history humans lived in low-density, rural settings
 - It was not until the 20th century that urbanization across the world began to increase rapidly.
