@@ -11,14 +11,12 @@
 
 --- 
 
+- Pendant une grande fraction de l'histoire de l'humanité, les humains ont vécu en milieu rural. La vie urbaine est donc un développement très récent dans l'histoire de l'humanité.
+- Ce n'est qu'à partir du XIXe siècle que le monde s'est mis à s'urbaniser, et la plupart de cette urbanisation a été réalisée au XXe siècle.
+> * En 1800, moins de 10% (7.3%) de la population mondiale vit dans des zones urbaines
+> * In 2016 it's estimated that 4 billion people lived in urban areas, and 3.4 billion in rural.
+- Depuis 2007, il y a plus de gens qui vivent dans les zones urbaines que dans les zones rurales, et la population urbaine augmente plus rapidement que la population rurale
 
-
-- urban living is a very recent development. For most of our history humans lived in low-density, rural settings
-- It was not until the 20th century that urbanization across the world began to increase rapidly.
-- urbanization has largely been confined to the past 200 years. By 1800, still over 90 percent of the global (and country-level) population lived in rural areas
--  but with the majority of expansion realised in the 20th century
-- Depuis 2007, il y a plus de gens qui vivent dans les zones urbaines que dans les zones rurales, et la population urbaine grimpe plus vite que la population rurale
-> In 2016 it's estimated that 4 billion people lived in urban areas, and 3.4 billion in rural.
 - By 2050, it's projected that 68 percent of the world's population will live in urban areas (an increase from 54 percent in 2016)
 - By 2050, global population is projected to increase to around 9.8 billion. It's estimated that more than twice as many people in the world will be living in urban (6.7 billion) than in rural settings (3.1 billion)
 
