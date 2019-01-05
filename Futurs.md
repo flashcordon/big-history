@@ -11,7 +11,8 @@
 --- 
 
 ***Centres urbains***
-
+- Il n'y a pas de définition universellement acceptée de zone urbaine
+- The UN adopts national definitions in its reporting of urban versus rural populations. This means urban populations are often not comparable across countries. 
 
 - urban living is a very recent development. For most of our history humans lived in low-density, rural settings
 - It was not until the 20th century that urbanization across the world began to increase rapidly.
