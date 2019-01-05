@@ -11,6 +11,7 @@
 - [Cities, towns and renewable energy](https://www.iea.org/publications/freepublications/publication/cities2009.pdf) - IEA (2009)
 - [Cities and Buildings UNEP initiatives and projects](http://energies2050.org/wp-content/uploads/2013/09/2013-06-UNEP-Cities-and-buildings-activities_16-pages-GB.pdf) - UNEP (2013)
 - [The World’s Cities in 2018](http://www.un.org/en/events/citiesday/assets/pdf/the_worlds_cities_in_2018_data_booklet.pdf) - Data booklet, ONU (2018)
+- [Cities as agents of global change](https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/joc.1604) - Gerard Mills (2007)
 
 ---
 
