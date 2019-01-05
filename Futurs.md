@@ -134,6 +134,15 @@
 
 ## Réchauffement climatique
 
+*Sources*
+
+- [Rapport du GIEC 2018](http://www.ipcc.ch/report/sr15/)
+- [Peut-on encore limiter le réchauffement de la planète à 1,5 degrés ?](https://vimeo.com/295986064) - Conférence de Valérie Masson-Delmotte à l'Agence Française pour le Développement (Octobre 2018)
+- [Global Challenges: 12 risks with infinite impact](https://api.globalchallenges.org/static/wp-content/uploads/12-Risks-with-infinite-impact.pdf) - Rapport de la Global Challenges foundation (2015)
+- [Global Catastrophic Risks 2018](https://globalchallenges.org/our-work/annual-report/annual-report-2018) - Rapport de la Global Challenges foundation (2018)
+
+---
+
 Déforestation :
 
 ![sao-felix-du-xingu](https://cms.qz.com/wp-content/uploads/2018/10/sao-felix-du-xingu.jpg?quality=75&strip=all&w=3200&h=1800)
