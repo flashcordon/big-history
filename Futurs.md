@@ -1,5 +1,24 @@
 # Urbanisation
 
+*Sources* 
+
+- MOOC Sustainable cities - SDG Academy
+
+--- 
+
+- Les villes occupent 2% de la surface de la Terre, mais consomment les ¾ des ressources naturelles, et produisent 75% des émissions de CO2.
+- Pour la première fois de l’histoire, plus de la moitié de la population mondiale aujourd’hui vit dans des centres urbains (3.5 milliards de gens). 
+> ‘en quelques décennies, le monde s’est couvert d’une fine pellicule faite de verre et de béton’
+- Il y a une trentaine de mégacités aujourd’hui, des villes à plus de 10 millions d’habitants
+- D’ici 2030, il y en aura une quarantaine, mais la majorité de ls croissance de la population se fera dans les villes de taille moyenne
+- The fastest-growing urban agglomerations are medium-sized cities and cities with less than 1 million inhabitants located in Asia and Africa.
+- 60% de la surface urbaine dont on aura besoin d’ici 2030 doit encore être construite. Il faut s’assurer qu’elle soit construite de manière durable
+- D’ici 2030, 60% de la population mondiale vivra dans des villes
+
+
+
+
+
 # Démographie
 
 *Sources*
