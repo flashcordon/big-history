@@ -16,13 +16,10 @@
 > * En 1800, moins de 10% (7.3%) de la population mondiale vit dans des zones urbaines
 > * En 1950, près de 30% (29.6%) de la population mondiale vit dans des zones urbaines
 > * En 2007, plus de 50% (50.1%) de la population mondiale vit dans des zones urbaines
-> * En 2018, près de 55% de la population mondiale vit dans des zones urbaines
+> * En 2018, près de 55% de la population mondiale vit dans des zones urbaines (4.2 milliards en zone urbaine; 3.4 milliards en zone rurale)
 - Depuis 2007, et pour la première fois de l'Histoire, il y a plus de gens qui vivent dans les zones urbaines que dans les zones rurales, et la population urbaine augmente plus rapidement que la population rurale
-- D'ici 2050, l'ONU estime q
-> * In 2016 it's estimated that 4 billion people lived in urban areas, and 3.4 billion in rural.
-
-- By 2050, it's projected that 68 percent of the world's population will live in urban areas (an increase from 54 percent in 2016)
-- By 2050, global population is projected to increase to around 9.8 billion. It's estimated that more than twice as many people in the world will be living in urban (6.7 billion) than in rural settings (3.1 billion)
+- D'ici 2050, l'ONU estime que plus des 2/3 (68.3%) de la population mondiale sera urbaine
+> Il y aura 2 fois plus de gens dans les zones urbaines que dans les zones rurales (6.6 milliards en zone urbaine; 3.1 milliards en zone rurale)
 
 - Les villes occupent 2% de la surface de la Terre, mais consomment les ¾ des ressources naturelles, et produisent 75% des émissions de CO2.
 - Urban areas contribute up to 70 per cent of greenhouse gas emissions,primarily because of the concentration of industrial production and construction within urban centers (IEA, 2008).
