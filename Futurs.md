@@ -22,10 +22,16 @@
 - Les villes sont les centres de transformation culturelle et sociale
 > Si on veut changer le monde, il faut changer les villes
 - A dense urban lifestyle can be “greener” than its rural counterpart especially in high and many middle-income countries. Urban residents drive less and live and work in smaller footprints that require less energy, water, and materials per person
+- Il y a 4 macro-menaces à la durabilité des villes : l’effondrement de la gouvernance liés aux guerres et aux conflits sociaux, les inondations et les famines liés aux crises environnementales, les épidémies (ex: la peste noire), les désastres naturels et l’effondrement économique. A cela s’ajoutent les armes de destruction massive qui permettent de raser des villes entières 
+- Les villes peuvent perdurer pendant plus de 1000 ans si les conditions le permettent.
+- Une vision à long terme (50-100 ans) est nécessaire pour créer des infrastructures durables
+- il nous faut plus de transports en commun
+- La pollution de l’air extérieur cause plus de 3 millions de morts par an (plus que la malaria et le SIDA combinés). C’est le plus gros tueur du monde. D’ici 2050, ces nombres sont susceptibles de doubler (notamment parce que le nombre de voitures va atteindre les 2 milliards d’ici là).
+
 
 ***Etalement urbain***
-
-
+- extension physique d’une ville généralement vers les zones rurales. Ca génère des zones résidentielles à faible densité de population dépendantes des voitures et qui manquent d’infrastructures et de transport public
+- Dans les pays en voie de développement, 6 villes sur 7 voient leur densité baisser, alors qu’elle doit augmenter
 
 
 
