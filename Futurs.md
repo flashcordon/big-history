@@ -6,8 +6,20 @@
 - [68% of the world population projected to live in urban areas by 2050, says UN](https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html) - UN News (Mai 2018)
 - [Urbanization](https://ourworldindata.org/urbanization) - Our world in data (Septembre 2018)
 - [How urban is the world ?](https://ourworldindata.org/how-urban-is-the-world) - Our world in data (Septembre 2018)
+- UN World Urbanization Prospects
 
 --- 
+
+***Centres urbains***
+
+
+- urban living is a very recent development. For most of our history humans lived in low-density, rural settings
+- It was not until the 20th century that urbanization across the world began to increase rapidly.
+- urbanization has largely been confined to the past 200 years. By 1800, still over 90 percent of the global (and country-level) population lived in rural areas
+-  but with the majority of expansion realised in the 20th century
+- Depuis 2007, il y a plus de gens qui vivent dans les zones urbaines que dans les zones rurales, et la population urbaine grimpe plus vite que la population rurale
+> In 2016 it's estimated that 4 billion people lived in urban areas, and 3.4 billion in rural.
+- By 2050, it's projected that 68 percent of the world's population will live in urban areas (an increase from 54 percent in 2016)
 
 - Les villes occupent 2% de la surface de la Terre, mais consomment les ¾ des ressources naturelles, et produisent 75% des émissions de CO2.
 - Urban areas contribute up to 70 per cent of greenhouse gas emissions,primarily because of the concentration of industrial production and construction within urban centers (IEA, 2008).
@@ -36,7 +48,7 @@
 - extension physique d’une ville généralement vers les zones rurales. Ca génère des zones résidentielles à faible densité de population dépendantes des voitures et qui manquent d’infrastructures et de transport public
 - Dans les pays en voie de développement, 6 villes sur 7 voient leur densité baisser, alors qu’elle doit augmenter
 
-
+![urbrur2050](https://i.imgur.com/fOHkPqw.png)
 
 # Démographie
 
