@@ -18,7 +18,8 @@
 > * En 2007, plus de 50% (50.1%) de la population mondiale vit dans des zones urbaines (3.3 milliards de personnes)
 > * En 2018, près de 55% de la population mondiale vit dans des zones urbaines (4.2 milliards en zone urbaine; 3.4 milliards en zone rurale)
 - Depuis 2007, et pour la première fois de l'Histoire, il y a plus de gens qui vivent dans les zones urbaines que dans les zones rurales, et la population urbaine augmente plus rapidement que la population rurale
-- D'ici 2050, l'ONU estime que plus des 2/3 (68.3%) de la population mondiale sera urbaine
+- D'ici 2030, plus de 60% (60.4%) de la population mondiale sera urbaine
+- D'ici 2050, plus des 2/3 (68.3%) de la population mondiale sera urbaine
 > Il y aura 2 fois plus de gens dans les zones urbaines que dans les zones rurales (6.6 milliards en zone urbaine; 3.1 milliards en zone rurale)
 
 - Les villes occupent 2% de la surface de la Terre, mais consomment les ¾ des ressources naturelles, et produisent 75% des émissions de CO2.
@@ -29,8 +30,6 @@
 - D’ici 2030, il y en aura une quarantaine, mais la majorité de ls croissance de la population se fera dans les villes de taille moyenne
 - The fastest-growing urban agglomerations are medium-sized cities and cities with less than 1 million inhabitants located in Asia and Africa.
 - 60% de la surface urbaine dont on aura besoin d’ici 2030 doit encore être construite. Il faut s’assurer qu’elle soit construite de manière durable
-- D’ici 2030, 60% de la population mondiale vivra dans des villes
-- Globally, more people live in urban areas than in rural areas, with 54 per cent of the world’s population residing in urban areas in 2014. In 1950, 30 per cent of the world’s population was urban, and by 2050, 66 per cent of the world’s population is projected to be urban (6.2 billion people).
 - All regions are expected to urbanize further over the coming decades. Africa and Asia are urbanizing faster than the other regions and are projected to become 56 and 64 per cent urban, respectively, by 2050.
 > Durant les 60 dernières années, Lagos, la plus grande ville Africaine, est passée d’une population de 300 000 habitants à 8 millions d’habitants, et sa surface métropolitaine a plus que quadruplé en taille
 - Les villes sont les centres de transformation culturelle et sociale
