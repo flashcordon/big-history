@@ -9,11 +9,12 @@
 - UN World Urbanization Prospects
 - [Plus de la moitié de la population mondiale vit désormais dans des villes – ONU](https://www.un.org/development/desa/fr/news/population/world-urbanization-prospects.html) - ONU News Fr (Juillet 2014)
 - [Cities, towns and renewable energy](https://www.iea.org/publications/freepublications/publication/cities2009.pdf) - IEA (2009)
+- [Cities and Buildings UNEP initiatives and projects](http://energies2050.org/wp-content/uploads/2013/09/2013-06-UNEP-Cities-and-buildings-activities_16-pages-GB.pdf) - UNEP (2013)
 
 ---
 
 - Pendant une grande fraction de l'histoire de l'humanité, les humains ont vécu en milieu rural. La vie urbaine est donc un développement très récent dans l'histoire de l'humanité.
-- Ce n'est qu'à partir du XIXe siècle que le monde s'est mis à s'urbaniser, et la plupart de cette urbanisation a été réalisée au XXe siècle.
+- Ce n'est qu'à partir du XIXe siècle que le monde s'est mis à s'urbaniser, et la plupart de cette urbanisation a été réalisée au XXe siècle. ‘En quelques décennies, le monde s’est couvert d’une fine pellicule faite de verre et de béton’.
 > * En 1800, moins de 10% (7.3%) de la population mondiale vit dans des zones urbaines (72.2 millions de personnes)
 > * En 1950, près de 30% (29.6%) de la population mondiale vit dans des zones urbaines (750.9 millions de personnes)
 > * En 2007, plus de 50% (50.1%) de la population mondiale vit dans des zones urbaines (3.3 milliards de personnes)
@@ -22,17 +23,15 @@
 - D'ici 2030, plus de 60% (60.4%) de la population mondiale sera urbaine
 - D'ici 2050, plus des 2/3 (68.3%) de la population mondiale sera urbaine
 > Il y aura 2 fois plus de gens dans les zones urbaines que dans les zones rurales (6.6 milliards en zone urbaine; 3.1 milliards en zone rurale)
+- Les villes occupent actuellement 2% de la surface de la Terre, mais consomment 75% des ressources naturelles, 80% de l'approvisionnement énergétique et produisent près de 75% (73%) des émissions de CO2, principalement à cause de la concentration de la production industrielle et de la construction dans les centres urbains.
 
-- Les villes occupent 2% de la surface de la Terre, mais consomment les ¾ des ressources naturelles, et produisent près de 75% (73%)  des émissions de CO2.
-- Top 4 des plus grandes agglomérations mondiales en 2018 :
+***Top 4 des plus grandes agglomérations mondiales en 2018 :***
 > * Tokyo (37 millions d'habitants)
 > * New Delhi (29 millions d'habitants)
 > * Shanghai (26 millions d'habitants)
 > * Mexico et São Paulo (22 millions chacune) 
 
-- Urban areas contribute plus de to 70 per cent (73%) of greenhouse gas emissions,primarily because of the concentration of industrial production and construction within urban centers (IEA, 2008).
-- The urban population of the world has grown rapidly since 1950, from 746 million to 3.9 billion in 2014. 
-> ‘en quelques décennies, le monde s’est couvert d’une fine pellicule faite de verre et de béton’
+
 - Il y a une trentaine de mégacités aujourd’hui, des villes à plus de 10 millions d’habitants
 - D’ici 2030, il y en aura une quarantaine, mais la majorité de ls croissance de la population se fera dans les villes de taille moyenne
 - The fastest-growing urban agglomerations are medium-sized cities and cities with less than 1 million inhabitants located in Asia and Africa.
