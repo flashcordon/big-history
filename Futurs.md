@@ -24,7 +24,7 @@
 > Il y aura 2 fois plus de gens dans les zones urbaines que dans les zones rurales (6.6 milliards en zone urbaine; 3.1 milliards en zone rurale)
 
 - Les villes occupent 2% de la surface de la Terre, mais consomment les ¾ des ressources naturelles, et produisent près de 75% (73%)  des émissions de CO2.
-- Top 4 des plus grandes agglomérations mondiales :
+- Top 4 des plus grandes agglomérations mondiales en 2018 :
 > * Tokyo (37 millions d'habitants)
 > * New Delhi (29 millions d'habitants)
 > * Shanghai (26 millions d'habitants)
