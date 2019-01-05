@@ -7,6 +7,8 @@
 --- 
 
 - Les villes occupent 2% de la surface de la Terre, mais consomment les ¾ des ressources naturelles, et produisent 75% des émissions de CO2.
+- Urban areas contribute up to 70 per cent of greenhouse gas emissions,primarily because of the concentration of industrial production and construction within urban centers (IEA, 2008).
+- The urban population of the world has grown rapidly since 1950, from 746 million to 3.9 billion in 2014. 
 - Pour la première fois de l’histoire, plus de la moitié de la population mondiale aujourd’hui vit dans des centres urbains (3.5 milliards de gens). 
 > ‘en quelques décennies, le monde s’est couvert d’une fine pellicule faite de verre et de béton’
 - Il y a une trentaine de mégacités aujourd’hui, des villes à plus de 10 millions d’habitants
@@ -14,6 +16,14 @@
 - The fastest-growing urban agglomerations are medium-sized cities and cities with less than 1 million inhabitants located in Asia and Africa.
 - 60% de la surface urbaine dont on aura besoin d’ici 2030 doit encore être construite. Il faut s’assurer qu’elle soit construite de manière durable
 - D’ici 2030, 60% de la population mondiale vivra dans des villes
+- Globally, more people live in urban areas than in rural areas, with 54 per cent of the world’s population residing in urban areas in 2014. In 1950, 30 per cent of the world’s population was urban, and by 2050, 66 per cent of the world’s population is projected to be urban (6.2 billion people).
+- All regions are expected to urbanize further over the coming decades. Africa and Asia are urbanizing faster than the other regions and are projected to become 56 and 64 per cent urban, respectively, by 2050.
+> Durant les 60 dernières années, Lagos, la plus grande ville Africaine, est passée d’une population de 300 000 habitants à 8 millions d’habitants, et sa surface métropolitaine a plus que quadruplé en taille
+- Les villes sont les centres de transformation culturelle et sociale
+> Si on veut changer le monde, il faut changer les villes
+- A dense urban lifestyle can be “greener” than its rural counterpart especially in high and many middle-income countries. Urban residents drive less and live and work in smaller footprints that require less energy, water, and materials per person
+
+***Etalement urbain***
 
 
 
