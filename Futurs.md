@@ -14,7 +14,9 @@
 ***Zones urbaines***
 - Il n'y a pas de définition universellement acceptée de zone urbaine (et de ses limites)
 - L'ONU agrège les définitions nationales de "zone urbaine" de chaque pays dans ses rapports sur la population urbaine et rurale. Mais ces définitions peuvent être très différentes, ce qui fait que les populations urbaines sont pas comparables entre les pays. 
-> Some countries use minimum population thresholds, others use population density, infrastructure development, employment type, or simply the population of pre-defined cities.
+> Certains pays utilisent comme critère des seuils en nombre de personnes, d'autres des seuils en densité de population, d'autres encore le développement des infrastructures ou bien la population de villes pré définies.
+- Des études de la Comission Européenne (projet : Atlas of the Human Planet) ont tenté d'étudier la population urbaine globale en combinant les données d'imagerie satellite avec les données nationales. Contrairement à l'ONU, ils ont utilisé une définition universelle 
+
 - urban living is a very recent development. For most of our history humans lived in low-density, rural settings
 - It was not until the 20th century that urbanization across the world began to increase rapidly.
 - urbanization has largely been confined to the past 200 years. By 1800, still over 90 percent of the global (and country-level) population lived in rural areas
