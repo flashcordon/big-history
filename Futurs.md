@@ -7,14 +7,14 @@
 - [Urbanization](https://ourworldindata.org/urbanization) - Our world in data (Septembre 2018)
 - [How urban is the world ?](https://ourworldindata.org/how-urban-is-the-world) - Our world in data (Septembre 2018)
 - UN World Urbanization Prospects
-- [Plus de la moitié de la population mondiale vit désormais dans des villes – ONU](https://www.un.org/development/desa/fr/news/population/world-urbanization-prospects.html) - ONU NEws Fr (Juillet 2014)
+- [Plus de la moitié de la population mondiale vit désormais dans des villes – ONU](https://www.un.org/development/desa/fr/news/population/world-urbanization-prospects.html) - ONU News Fr (Juillet 2014)
 
---- 
+---
 
 - Pendant une grande fraction de l'histoire de l'humanité, les humains ont vécu en milieu rural. La vie urbaine est donc un développement très récent dans l'histoire de l'humanité.
 - Ce n'est qu'à partir du XIXe siècle que le monde s'est mis à s'urbaniser, et la plupart de cette urbanisation a été réalisée au XXe siècle.
-> * En 1800, moins de 10% (7.3%) de la population mondiale vit dans des zones urbaines
-> * En 1950, près de 30% (29.6%) de la population mondiale vit dans des zones urbaines
+> * En 1800, moins de 10% (7.3%) de la population mondiale vit dans des zones urbaines (72.2 millions de personnes)
+> * En 1950, près de 30% (29.6%) de la population mondiale vit dans des zones urbaines (750.9 millions de personnes)
 > * En 2007, plus de 50% (50.1%) de la population mondiale vit dans des zones urbaines
 > * En 2018, près de 55% de la population mondiale vit dans des zones urbaines (4.2 milliards en zone urbaine; 3.4 milliards en zone rurale)
 - Depuis 2007, et pour la première fois de l'Histoire, il y a plus de gens qui vivent dans les zones urbaines que dans les zones rurales, et la population urbaine augmente plus rapidement que la population rurale
