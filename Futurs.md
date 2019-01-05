@@ -7,6 +7,7 @@
 - [Urbanization](https://ourworldindata.org/urbanization) - Our world in data (Septembre 2018)
 - [How urban is the world ?](https://ourworldindata.org/how-urban-is-the-world) - Our world in data (Septembre 2018)
 - UN World Urbanization Prospects
+- [Plus de la moitié de la population mondiale vit désormais dans des villes – ONU](https://www.un.org/development/desa/fr/news/population/world-urbanization-prospects.html) - ONU NEws Fr (Juillet 2014)
 
 --- 
 
