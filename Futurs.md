@@ -8,6 +8,7 @@
 - [How urban is the world ?](https://ourworldindata.org/how-urban-is-the-world) - Our world in data (Septembre 2018)
 - UN World Urbanization Prospects
 - [Plus de la moitié de la population mondiale vit désormais dans des villes – ONU](https://www.un.org/development/desa/fr/news/population/world-urbanization-prospects.html) - ONU News Fr (Juillet 2014)
+- [Cities, towns and renewable energy](https://www.iea.org/publications/freepublications/publication/cities2009.pdf) - IEA (2009)
 
 ---
 
@@ -22,8 +23,8 @@
 - D'ici 2050, plus des 2/3 (68.3%) de la population mondiale sera urbaine
 > Il y aura 2 fois plus de gens dans les zones urbaines que dans les zones rurales (6.6 milliards en zone urbaine; 3.1 milliards en zone rurale)
 
-- Les villes occupent 2% de la surface de la Terre, mais consomment les ¾ des ressources naturelles, et produisent 75% des émissions de CO2.
-- Urban areas contribute up to 70 per cent of greenhouse gas emissions,primarily because of the concentration of industrial production and construction within urban centers (IEA, 2008).
+- Les villes occupent 2% de la surface de la Terre, mais consomment les ¾ des ressources naturelles, et produisent près de 75% (73%)  des émissions de CO2.
+- Urban areas contribute plus de to 70 per cent (73%) of greenhouse gas emissions,primarily because of the concentration of industrial production and construction within urban centers (IEA, 2008).
 - The urban population of the world has grown rapidly since 1950, from 746 million to 3.9 billion in 2014. 
 > ‘en quelques décennies, le monde s’est couvert d’une fine pellicule faite de verre et de béton’
 - Il y a une trentaine de mégacités aujourd’hui, des villes à plus de 10 millions d’habitants
