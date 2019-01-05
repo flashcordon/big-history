@@ -10,6 +10,7 @@
 - [Plus de la moitié de la population mondiale vit désormais dans des villes – ONU](https://www.un.org/development/desa/fr/news/population/world-urbanization-prospects.html) - ONU News Fr (Juillet 2014)
 - [Cities, towns and renewable energy](https://www.iea.org/publications/freepublications/publication/cities2009.pdf) - IEA (2009)
 - [Cities and Buildings UNEP initiatives and projects](http://energies2050.org/wp-content/uploads/2013/09/2013-06-UNEP-Cities-and-buildings-activities_16-pages-GB.pdf) - UNEP (2013)
+- [The World’s Cities in 2018](http://www.un.org/en/events/citiesday/assets/pdf/the_worlds_cities_in_2018_data_booklet.pdf) - Data booklet, ONU (2018)
 
 ---
 
@@ -18,7 +19,7 @@
 > * En 1800, moins de 10% (7.3%) de la population mondiale vit dans des zones urbaines (72.2 millions de personnes)
 > * En 1950, près de 30% (29.6%) de la population mondiale vit dans des zones urbaines (750.9 millions de personnes)
 > * En 2007, plus de 50% (50.1%) de la population mondiale vit dans des zones urbaines (3.3 milliards de personnes)
-> * En 2018, près de 55% de la population mondiale vit dans des zones urbaines (4.2 milliards en zone urbaine; 3.4 milliards en zone rurale)
+> * En 2018, près de 55% (55.3%) de la population mondiale vit dans des zones urbaines (4.2 milliards en zone urbaine; 3.4 milliards en zone rurale)
 - Depuis 2007, et pour la première fois de l'Histoire, il y a plus de gens qui vivent dans les zones urbaines que dans les zones rurales, et la population urbaine augmente plus rapidement que la population rurale
 - D'ici 2030, plus de 60% (60.4%) de la population mondiale sera urbaine
 - D'ici 2050, plus des 2/3 (68.3%) de la population mondiale sera urbaine
@@ -33,6 +34,7 @@
 
 
 - Il y a une trentaine de mégacités aujourd’hui, des villes à plus de 10 millions d’habitants
+- Près de 7% (6.9%) de la population mondiale vit dans des mégapoles aujourd'hui (529 millions de personnes)
 - D’ici 2030, il y en aura une quarantaine, mais la majorité de ls croissance de la population se fera dans les villes de taille moyenne
 - The fastest-growing urban agglomerations are medium-sized cities and cities with less than 1 million inhabitants located in Asia and Africa.
 - 60% de la surface urbaine dont on aura besoin d’ici 2030 doit encore être construite. Il faut s’assurer qu’elle soit construite de manière durable
