@@ -17,9 +17,8 @@
 > * En 1950, près de 30% (29.6%) de la population mondiale vit dans des zones urbaines
 > * En 2007, plus de 50% (50.1%) de la population mondiale vit dans des zones urbaines
 > * En 2018, près de 55% de la population mondiale vit dans des zones urbaines
-
-- Depuis 2007, il y a plus de gens qui vivent dans les zones urbaines que dans les zones rurales, et la population urbaine augmente plus rapidement que la population rurale
-
+- Depuis 2007, et pour la première fois de l'Histoire, il y a plus de gens qui vivent dans les zones urbaines que dans les zones rurales, et la population urbaine augmente plus rapidement que la population rurale
+- D'ici 2050, l'ONU estime q
 > * In 2016 it's estimated that 4 billion people lived in urban areas, and 3.4 billion in rural.
 
 - By 2050, it's projected that 68 percent of the world's population will live in urban areas (an increase from 54 percent in 2016)
@@ -28,7 +27,6 @@
 - Les villes occupent 2% de la surface de la Terre, mais consomment les ¾ des ressources naturelles, et produisent 75% des émissions de CO2.
 - Urban areas contribute up to 70 per cent of greenhouse gas emissions,primarily because of the concentration of industrial production and construction within urban centers (IEA, 2008).
 - The urban population of the world has grown rapidly since 1950, from 746 million to 3.9 billion in 2014. 
-- Pour la première fois de l’histoire, plus de la moitié de la population mondiale aujourd’hui vit dans des centres urbains (3.5 milliards de gens). 
 > ‘en quelques décennies, le monde s’est couvert d’une fine pellicule faite de verre et de béton’
 - Il y a une trentaine de mégacités aujourd’hui, des villes à plus de 10 millions d’habitants
 - D’ici 2030, il y en aura une quarantaine, mais la majorité de ls croissance de la population se fera dans les villes de taille moyenne
