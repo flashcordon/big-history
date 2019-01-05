@@ -20,6 +20,7 @@
 - Depuis 2007, il y a plus de gens qui vivent dans les zones urbaines que dans les zones rurales, et la population urbaine grimpe plus vite que la population rurale
 > In 2016 it's estimated that 4 billion people lived in urban areas, and 3.4 billion in rural.
 - By 2050, it's projected that 68 percent of the world's population will live in urban areas (an increase from 54 percent in 2016)
+- By 2050, global population is projected to increase to around 9.8 billion. It's estimated that more than twice as many people in the world will be living in urban (6.7 billion) than in rural settings (3.1 billion)
 
 - Les villes occupent 2% de la surface de la Terre, mais consomment les ¾ des ressources naturelles, et produisent 75% des émissions de CO2.
 - Urban areas contribute up to 70 per cent of greenhouse gas emissions,primarily because of the concentration of industrial production and construction within urban centers (IEA, 2008).
