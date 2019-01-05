@@ -32,22 +32,13 @@
 > * Shanghai (26 millions d'habitants)
 > * Mexico et São Paulo (22 millions chacune) 
 
-
-- Il y a une trentaine de mégacités aujourd’hui, des villes à plus de 10 millions d’habitants
+- Il y a une trentaine (33) de mégapoles aujourd’hui, des villes à plus de 10 millions d’habitants
 - Près de 7% (6.9%) de la population mondiale vit dans des mégapoles aujourd'hui (529 millions de personnes)
-- D’ici 2030, il y en aura une quarantaine, mais la majorité de ls croissance de la population se fera dans les villes de taille moyenne
-- The fastest-growing urban agglomerations are medium-sized cities and cities with less than 1 million inhabitants located in Asia and Africa.
-- 60% de la surface urbaine dont on aura besoin d’ici 2030 doit encore être construite. Il faut s’assurer qu’elle soit construite de manière durable
-- All regions are expected to urbanize further over the coming decades. Africa and Asia are urbanizing faster than the other regions and are projected to become 56 and 64 per cent urban, respectively, by 2050.
-> Durant les 60 dernières années, Lagos, la plus grande ville Africaine, est passée d’une population de 300 000 habitants à 8 millions d’habitants, et sa surface métropolitaine a plus que quadruplé en taille
+- D’ici 2030, il y aura une quarantaine de mégapoles, mais la majorité de la croissance de la population se fera dans les villes de taille moyenne situées en Asie et en Afrique
+> Exemple : durant les 60 dernières années, Lagos, la plus grande ville Africaine, est passée d’une population de 300 000 habitants à 8 millions d’habitants, et sa surface métropolitaine a plus que quadruplé en taille
 - Les villes sont les centres de transformation culturelle et sociale
 > Nous façonnons les villes, mais à leur tour les villes nous façonnent. Si on veut changer le monde, il faut changer les villes
-- A dense urban lifestyle can be “greener” than its rural counterpart especially in high and many middle-income countries. Urban residents drive less and live and work in smaller footprints that require less energy, water, and materials per person
-- Il y a 4 macro-menaces à la durabilité des villes : l’effondrement de la gouvernance liés aux guerres et aux conflits sociaux, les inondations et les famines liés aux crises environnementales, les épidémies (ex: la peste noire), les désastres naturels et l’effondrement économique. A cela s’ajoutent les armes de destruction massive qui permettent de raser des villes entières 
-- Les villes peuvent perdurer pendant plus de 1000 ans si les conditions le permettent.
-- Une vision à long terme (50-100 ans) est nécessaire pour créer des infrastructures durables
-- il nous faut plus de transports en commun
-- La pollution de l’air extérieur cause plus de 3 millions de morts par an (plus que la malaria et le SIDA combinés). C’est le plus gros tueur du monde. D’ici 2050, ces nombres sont susceptibles de doubler (notamment parce que le nombre de voitures va atteindre les 2 milliards d’ici là).
+- 60% de la surface urbaine dont on aura besoin d’ici 2030 doit encore être construite. Il faut s’assurer qu’elle soit construite de manière durable
 
 ***Qu'est ce qu'une zone urbaine ?***
 - Il n'y a pas de définition universellement acceptée de zone urbaine (et de ses limites). Et on est encore loin d'un consensus.
@@ -180,6 +171,11 @@ Déforestation :
 - Décentralisation du système de gouvernance
 - Evidence based policy
 - Meilleurs indicateurs de progrès (IDH, Bonheur national brut)
+
+***Au niveau des infrastructures***
+- plus de services écosystémiques dans les villes
+- Des villes plus denses pour limiter les trajets et partager les coûts énergétiques
+- Plus de transports en commun
 
 # Le prochain âge glaciaire
 
