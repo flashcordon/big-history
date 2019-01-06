@@ -159,6 +159,13 @@ Déforestation :
 - [Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines](https://www.pnas.org/content/114/30/E6089.full?ftag=MSF0951a18) - Ceballos et al (2017)
 - La 6e extinction: comment l'Homme détruit la vie - Elizabeth Kolbert (2016)
 
+---
+
+- Le taux d'extinction d'espèce est aujourd'hui 100 fois supérieur au taux "normal" sur des temps géologiques
+- Nous changeons notre environnement si rapidement que beaucoup d'espèces n'arrivent pas à s'adapter à ce changement brutal
+- Les sociétés humaines dépendent des services écosystémiques que la biodiversité prodigue, comme la pollinisation, le contrôle des nuisibles, etc
+- Au délà de l'aspect utilitaire pour les humains, est-il éthique de génocider des espèces, 'les seules espèces avec qui on partage l'univers' (Ceballos et Erlich) ?
+
 ## Effondrement systémique de nos civilisations
 
 ## L'intelligence artificielle
