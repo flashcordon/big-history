@@ -180,6 +180,7 @@ Déforestation :
 
 ***Au niveau individuel :***
 - Esprit critique
+- 'penser comme une planète'
 - Pensée complexe (cf Edgar Morin) / system thinking
 - Elargissement du cercle d'empathie
 - Pensée à long terme (sous branche de system thinking?)
