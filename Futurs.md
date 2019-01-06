@@ -151,6 +151,12 @@ Déforestation :
 
 ## La 6e extinction de masse
 
+*Sources*
+
+- [Has the Earth’s sixth mass extinction already arrived?](https://www.nature.com/articles/nature09678) - Barnosky et al (2011)
+- [Accelerated modern human–induced species losses: Entering the sixth mass extinction](http://advances.sciencemag.org/content/1/5/e1400253.short) - Ceballos et al (2015)
+- [The misunderstood sixth mass extinction](http://science.sciencemag.org/content/360/6393/1080.2) - Ceballos et Erlich (2018)
+
 ## Effondrement systémique de nos civilisations
 
 ## L'intelligence artificielle
