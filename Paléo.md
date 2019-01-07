@@ -101,6 +101,14 @@ L'agriculture sur brûlis
 
 ## L'extinction de la mégafaune
 
+*Sources*
+
+- [Megafauna biomass tradeoff as a driver of Quaternary and future extinctions](https://www.pnas.org/content/105/Supplement_1/11543) - Barnosky (2008) 
+
+---
+
+![extinctmega](https://www.pnas.org/content/pnas/105/Supplement_1/11543/F2.medium.gif)
+
 ## La domestication du chien
 
 *Source*: [Homme/animal - du Loup au chien](https://youtu.be/uQLFY4Z5g4s) - Cours de Jean-Denis Vigne, MNHN (Décembre 2017)
