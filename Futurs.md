@@ -193,10 +193,13 @@ dying off at an even faster rate than species.
 - causes of population extinctions: habitat conversion, climate disruption, overexploitation, toxification, species invasions, disease, and (potentially) large-scale nuclear war—all tied to one another in complex patterns and usually reinforcing each other’s impacts. Much less frequently mentioned are, however, the ultimate drivers of those immediate causes of biotic destruction, namely, human overpopulation and continued population growth, and overconsumption, especially by the rich. 
 - détruire une bonne fraction de la vie connue dans l'univers, dans une sorte de suicide collectif
 - we emphasize that the sixth mass extinction is already here and the window for effective action is very short, probably two or three decades at most (11, 48). All signs point to ever more powerful assaults on biodiversity in the next two decades
+-  reducing biodiversity generally reduces the productivity of ecosystems, reduces their stability, and makes them prone to rapidly changing in ways that are clearly detrimental to humanity
 
 ***Pourquoi a t-on besoin de la biodiversité ?***
-> Pour les services écosystémiques qui sont critiques au maintien de notre civilisation (médecine, controle des pests)
-
+- Pour les services écosystémiques qui sont critiques au maintien de notre civilisation (médecine, controle des pests)
+> * moderating weather; regulating the water cycle, stabilizing water supplies; filtering drinking water; protecting agricultural soils and replenishing their nutrients; disposing  of  wastes;  pollinating  crops  and  wild  plants;  providing  food  from  wild  species (especially seafood); stabilizing fisheries; providing medicines and pharmaceuticals; controlling spread of pathogens; and helping to reduce greenhouse gases in the atmosphere .
+- pour la valeur esthétique que ça représente
+>   Continuing  extinction  at  the  present  pace  would  considerably  degrade quality of life for hundreds of millions of people who find emotional and aesthetic value in the presence of iconic species in natural habitats
 
 ## Effondrement systémique de nos civilisations
 
