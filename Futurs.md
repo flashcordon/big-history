@@ -160,11 +160,31 @@ Déforestation :
 - La 6e extinction: comment l'Homme détruit la vie - Elizabeth Kolbert (2016)
 
 ---
-
+- the extinction of mammal populations, although varying from species to species, has been a global phenomenon
+- the true extent of this mass extinction has been underestimated, because of the emphasis on species extinction. This underestimate largely traces to overlooking the accelerating extinction of populations. 
+- research shows that the loss of animal populations indirectly leads to changes in plant communities (20, 37, 39), frequently causing the reduction of local species richness and dominance of a few plant taxa that either experience “ecological release” in response to decreasing herbivore pressures (42, 43), and/or experience population reductions due to the decline of animals responsible for pollination or dispersal
+-  The status of biodiversity among microorganisms is too poorly known to permit us to make any comparison and generalizations about the current pulse of extinctions, although some recent research has unraveled feedbacks between local large herbivore defaunation and mycorrhizal richness 
+- In sum, by losing populations (and species) of vertebrates, we are losing intricate ecological networks involving animals, plants, and microorganisms
+- We are also losing pools of genetic information that may prove vital to species’ evolutionary adjustment and survival in a rapidly changing global environment.
+- les espèces disparissent, mais aussi les populatioins diminuent
+- Population extinctions today are orders of magnitude more frequent than species extinctions. Population extinctions, however, are a prelude to species extinctions, so Earth’s sixth mass extinction episode has proceeded further than most assume.
+- a glance at our maps presents a much more realistic picture: they suggest that as much as 50% of the number of animal individuals that once shared Earth with us are already gone, as are billions of populations. 
+- Roughly a third (8,851/27,600) of all land vertebrate species examined are experiencing declines and local population losses of a considerable magnitude
+- Such proportion of decreasing species varies, depending on the taxonomic group, from 30% or more in the case of mammals, birds, and reptiles, to 15% in the case of amphibians.
+-  The most recent Living Planet Index (LPI) has estimated that wildlife abundance on the planet decreased by as much as 58% between 1970 and 2012
+- In the last few decades, habitat loss, overexploitation, invasive organisms, pollution, toxification, and more recently climate disruption, as well as the interactions among these factors, have led to the catastrophic declines in both the numbers and sizes of populations of both common and rare vertebrate species
+- from the perspective of a human lifetime it is difficult to appreciate the current magnitude of species extinctions. 
 - Le taux d'extinction d'espèce est aujourd'hui 100 fois supérieur au taux "normal" sur des temps géologiques
 - Nous changeons notre environnement si rapidement que beaucoup d'espèces n'arrivent pas à s'adapter à ce changement brutal
 - Les sociétés humaines dépendent des services écosystémiques que la biodiversité prodigue, comme la pollinisation, le contrôle des nuisibles, etc
 - Au délà de l'aspect utilitaire pour les humains, est-il éthique de génocider des espèces, 'les seules espèces avec qui on partage l'univers' (Ceballos et Erlich) ?
+- causes of population extinctions: habitat conversion, climate disruption, overexploitation, toxification, species invasions, disease, and (potentially) large-scale nuclear war—all tied to one another in complex patterns and usually reinforcing each other’s impacts. Much less frequently mentioned are, however, the ultimate drivers of those immediate causes of biotic destruction, namely, human overpopulation and continued population growth, and overconsumption, especially by the rich. 
+- détruire une bonne fraction de la vie connue dans l'univers, dans une sorte de suicide collectif
+- we emphasize that the sixth mass extinction is already here and the window for effective action is very short, probably two or three decades at most (11, 48). All signs point to ever more powerful assaults on biodiversity in the next two decades
+
+***Pourquoi a t-on besoin de la biodiversité ?***
+> Pour les services écosystémiques qui sont critiques au maintien de notre civilisation (médecine, controle des pests)
+
 
 ## Effondrement systémique de nos civilisations
 
@@ -175,6 +195,10 @@ Déforestation :
 ## Le risque biotech
 
 # Futurs souhaitables
+
+- [Introducing the Scientific Consensus on Maintaining Humanity’s Life Support Systems in the 21st Century: Information for Policy Makers](https://journals.sagepub.com/doi/abs/10.1177/2053019613516290) - Barnosky et al (2014)
+
+---
 
 - Sources d'énergies renouvelables (solaire, fusion,...)
 - Des villes plus compactes (minimise les trajets), avec des zones agricoles en circuit court
