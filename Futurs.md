@@ -162,6 +162,7 @@ Déforestation :
 - [Global Biodiversity Outlook](https://www.cbd.int/gbo/) - Rapport de l'ONU (dernier en 2014)
 - [Union internationale pour la conservation de la nature (UICN)](https://www.iucn.org/fr) - Le GIEC de la biodiversité
 - [Living Planet Index](http://livingplanetindex.org/home/index) - WWF
+- [The biomass distribution on Earth](https://www.pnas.org/content/115/25/6506) - M Baron et al (2018)
 
 ---
 
