@@ -158,8 +158,20 @@ Déforestation :
 - [The misunderstood sixth mass extinction](http://science.sciencemag.org/content/360/6393/1080.2) - Ceballos et Erlich (2018)
 - [Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines](https://www.pnas.org/content/114/30/E6089.full?ftag=MSF0951a18) - Ceballos et al (2017)
 - La 6e extinction: comment l'Homme détruit la vie - Elizabeth Kolbert (2016)
+- [Introducing the Scientific Consensus on Maintaining Humanity’s Life Support Systems in the 21st Century: Information for Policy Makers](https://journals.sagepub.com/doi/abs/10.1177/2053019613516290) - Barnosky et al (2014)
 
 ---
+- If the 
+current rate of extinction is not slowed for species and their constituent populations, then within as little as three centuries the world would see the loss of 75% of vertebrate species (mammals, birds, reptiles, amphibians, and fish), as well as loss of many species of other kinds of animals and plants (Barnosky et al., 2011). 
+- Earth has not seen that magnitude of extinction since an asteroid hit the  planet  65  million  years  ago
+- Currently,  sound  scientific  criteria  document  that  at  least  23,000  species  are  threatened  with  
+extinction, including 22% of mammal species, 14% of birds, 29% of evaluated reptiles, as many as 
+43%  of  amphibians,  29%  of  evaluated  fish,  26%  of  evaluated  invertebrate  animals,  and  23%  of  
+plants (Collen et
+al., 2012; GBO3, 2010; International Union for Conservation of Nature (IUCN), 
+2010). 
+- Populations – groups of interacting individuals that are the building blocks of species – are 
+dying off at an even faster rate than species. 
 - the extinction of mammal populations, although varying from species to species, has been a global phenomenon
 - the true extent of this mass extinction has been underestimated, because of the emphasis on species extinction. This underestimate largely traces to overlooking the accelerating extinction of populations. 
 - research shows that the loss of animal populations indirectly leads to changes in plant communities (20, 37, 39), frequently causing the reduction of local species richness and dominance of a few plant taxa that either experience “ecological release” in response to decreasing herbivore pressures (42, 43), and/or experience population reductions due to the decline of animals responsible for pollination or dispersal
@@ -196,7 +208,6 @@ Déforestation :
 
 # Futurs souhaitables
 
-- [Introducing the Scientific Consensus on Maintaining Humanity’s Life Support Systems in the 21st Century: Information for Policy Makers](https://journals.sagepub.com/doi/abs/10.1177/2053019613516290) - Barnosky et al (2014)
 
 ---
 
