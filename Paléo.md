@@ -105,6 +105,7 @@ L'agriculture sur brûlis
 
 - [Megafauna biomass tradeoff as a driver of Quaternary and future extinctions](https://www.pnas.org/content/105/Supplement_1/11543) - Barnosky (2008) 
 - [Quantitative global analysis of the role of climate and people in explaining late Quaternary megafaunal extinctions](https://www.pnas.org/content/109/12/4527) - Prescott et al (2012)
+- [That's Not Genocide; Human Hunting and Megafaunal Extinction](https://www.palaeoafterdark.com/episodes/2015/4/30/podcast-30-thats-not-genocide-human-hunting-and-megafaunal-extinction) - Palaelo after dark Podcast
 
 ---
 
