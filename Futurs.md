@@ -161,8 +161,11 @@ Déforestation :
 - [Introducing the Scientific Consensus on Maintaining Humanity’s Life Support Systems in the 21st Century: Information for Policy Makers](https://journals.sagepub.com/doi/abs/10.1177/2053019613516290) - Barnosky et al (2014)
 - [Global Biodiversity Outlook](https://www.cbd.int/gbo/) - Rapport de l'ONU (dernier en 2014)
 - [Union internationale pour la conservation de la nature (UICN)](https://www.iucn.org/fr) - Le GIEC de la biodiversité
+- [Living Planet Index](http://livingplanetindex.org/home/index) - WWF
 
 ---
+
+- le taux normal d’extinction est une espèce par million d’espèces par an (à vérifier). où on en est aujourd’hui : 10 à 100 fois ce taux d’extinction
 - If the current rate of extinction is not slowed for species and their constituent populations, then within as little as three centuries the world would see the loss of 75% of vertebrate species (mammals, birds, reptiles, amphibians, and fish), as well as loss of many species of other kinds of animals and plants (Barnosky et al., 2011). 
 - Earth has not seen that magnitude of extinction since an asteroid hit the  planet  65  million  years  ago
 - Currently,  sound  scientific  criteria  document  that  at  least  23,000  species  are  threatened  with  
@@ -195,6 +198,7 @@ dying off at an even faster rate than species.
 - détruire une bonne fraction de la vie connue dans l'univers, dans une sorte de suicide collectif
 - we emphasize that the sixth mass extinction is already here and the window for effective action is very short, probably two or three decades at most (11, 48). All signs point to ever more powerful assaults on biodiversity in the next two decades
 -  reducing biodiversity generally reduces the productivity of ecosystems, reduces their stability, and makes them prone to rapidly changing in ways that are clearly detrimental to humanity
+- la perte de la biodiversité réduit la diversité génétique, réduit le nombre d’espèces qui ont la même fonction et augmente la vulnérabilité du système, ce qui diminue la résilience des écosystèmes
 
 ***Causes de l'extinction***
 - Habitat destruction from ecosystem transformation. Such practices as unsustainable forestry and  conversion  of  land  to  agriculture,  suburban  sprawl,  and  roads,  all  cause  both  habitat destruction and habitat fragmentation. In particular, logging and clearing of tropical rainforests for ranching or farming permanently destroys the habitats for vast numbers of species. 
