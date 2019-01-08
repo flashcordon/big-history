@@ -211,6 +211,11 @@ dying off at an even faster rate than species.
 -  If current trends continue, by 2020 vertebrate populations may have declined by an average of 67 per cent since 1970.
 
 ***Causes de l'extinction***
+* la destruction et la dégradation des habitats
+* la surexploitation des espèces
+* la pollution
+* les espèces invasives et les maladies
+* le changement climatique
 - Habitat destruction from ecosystem transformation. Such practices as unsustainable forestry and  conversion  of  land  to  agriculture,  suburban  sprawl,  and  roads,  all  cause  both  habitat destruction and habitat fragmentation. In particular, logging and clearing of tropical rainforests for ranching or farming permanently destroys the habitats for vast numbers of species. 
 Such  areas  are  among  the  most  important  reservoirs  of  terrestrial  biodiversity.  In the oceans, habitat destruction and fragmentation results from pollution, trawling, shipping traffic, and shipping noise (sonar, etc.).
 - Environmental Contamination. Environmental contamination from human-made chemicals contributes  to  extinction  pressures  by  destroying  habitats  (for  instance,  mine  dumps,  oil  spills and agricultural runoff), by direct toxic effects of pollutants, and through subtle effects on animals’ immune and reproductive systems
