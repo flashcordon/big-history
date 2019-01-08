@@ -205,6 +205,9 @@ dying off at an even faster rate than species.
 - we emphasize that the sixth mass extinction is already here and the window for effective action is very short, probably two or three decades at most (11, 48). All signs point to ever more powerful assaults on biodiversity in the next two decades
 -  reducing biodiversity generally reduces the productivity of ecosystems, reduces their stability, and makes them prone to rapidly changing in ways that are clearly detrimental to humanity
 - la perte de la biodiversité réduit la diversité génétique, réduit le nombre d’espèces qui ont la même fonction et augmente la vulnérabilité du système, ce qui diminue la résilience des écosystèmes
+- From 1970 to 2012 the LPI shows a 58 per cent overall decline in vertebrate population abundance.
+- Population sizes of vertebrate species have, on average, dropped by more than half in little more than 40 years.
+-  If current trends continue, by 2020 vertebrate populations may have declined by an average of 67 per cent since 1970.
 
 ***Causes de l'extinction***
 - Habitat destruction from ecosystem transformation. Such practices as unsustainable forestry and  conversion  of  land  to  agriculture,  suburban  sprawl,  and  roads,  all  cause  both  habitat destruction and habitat fragmentation. In particular, logging and clearing of tropical rainforests for ranching or farming permanently destroys the habitats for vast numbers of species. 
@@ -213,6 +216,9 @@ Such  areas  are  among  the  most  important  reservoirs  of  terrestrial  biod
 - Climate change. Extinctions result when species cannot move fast enough to find climatic refuges as the climate becomes unsuitable where they now live; when climate changes such that it exceeds their physiological, developmental, or evolutionary tolerances; or when critical  species  interactions  (the  way  one  species  depends  on  the  next)  are  disrupted. In the oceans, acidification, a by-product of climate change that disrupts growth and development of marine organisms, is of particular concern, because it prevents marine shelly animals such as clams and oysters from building their shell, and causes collapse of the physical reef infrastructure on which most marine species ultimately depend
 
 ***Comment mesure t-on la biodiversité ?***
+> Biodiversity encompasses the genetic variation within species, the variety and population abundance of species in an ecosystem,  and the habitats across a landscape. Contemporary examples of indices now in use include the Living Planet Index (LPI), the IUCN Red 
+List of Threatened Species, and indicators that show us the state of specific habitats – such as forests – or the state of natural capital (Tittensor et al., 2014)
+>  The LPI monitors trends in population abundance through the changing sizes of wildlife populations. The Red List Index (RLI) differs by monitoring how the global extinction risk of a species is changing.
 
 ***Pourquoi a t-on besoin de la biodiversité ?***
 - Pour les services écosystémiques qui sont critiques au maintien de notre civilisation (médecine, controle des pests)
