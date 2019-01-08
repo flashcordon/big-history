@@ -172,6 +172,7 @@ Déforestation :
 ---
 
 - le taux normal d’extinction est une espèce par million d’espèces par an (à vérifier). où on en est aujourd’hui : 10 à 100 fois ce taux d’extinction
+- Recent studies suggest probable extinction rates at present are up to 100-1,000 extinctions per 10,000 species per 100 years
 - If the current rate of extinction is not slowed for species and their constituent populations, then within as little as three centuries the world would see the loss of 75% of vertebrate species (mammals, birds, reptiles, amphibians, and fish), as well as loss of many species of other kinds of animals and plants (Barnosky et al., 2011). 
 - Earth has not seen that magnitude of extinction since an asteroid hit the  planet  65  million  years  ago
 - Currently,  sound  scientific  criteria  document  that  at  least  23,000  species  are  threatened  with  
