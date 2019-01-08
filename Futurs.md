@@ -12,7 +12,9 @@
 - [Cities and Buildings UNEP initiatives and projects](http://energies2050.org/wp-content/uploads/2013/09/2013-06-UNEP-Cities-and-buildings-activities_16-pages-GB.pdf) - UNEP (2013)
 - [The World’s Cities in 2018](http://www.un.org/en/events/citiesday/assets/pdf/the_worlds_cities_in_2018_data_booklet.pdf) - Data booklet, ONU (2018)
 - [Cities as agents of global change](https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/joc.1604) - Gerard Mills (2007)
-- [Anthropogenic land use estimates for the Holocene – HYDE 3.2 ](https://www.earth-syst-sci-data.net/9/927/2017/essd-9-927-2017.html) - Goldewijk et al (2017)
+- [Solutions for a cultivated planet]() - Foley et al ()
+- [Terres agricoles (% du territoire)](https://data.worldbank.org/indicator/AG.LND.AGRI.ZS) - Données du FAO
+- [A global map of urban extent from nightlights](http://iopscience.iop.org/article/10.1088/1748-9326/10/5/054011/meta) - Zhou et al (2015)
 
 ---
 
@@ -26,7 +28,8 @@
 - D'ici 2030, plus de 60% (60.4%) de la population mondiale sera urbaine
 - D'ici 2050, plus des 2/3 (68.3%) de la population mondiale sera urbaine
 > Il y aura 2 fois plus de gens dans les zones urbaines que dans les zones rurales (6.6 milliards en zone urbaine; 3.1 milliards en zone rurale)
-- Les villes occupent actuellement 2% de la surface de la Terre, mais consomment 75% des ressources naturelles, 80% de l'approvisionnement énergétique et produisent près de 75% (73%) des émissions de CO2, principalement à cause de la concentration de la production industrielle et de la construction dans les centres urbains.
+- Les villes occupent actuellement moins de 1% (0.5) de la surface de la Terre, mais consomment 75% des ressources naturelles, 80% de l'approvisionnement énergétique et produisent près de 75% (73%) des émissions de CO2, principalement à cause de la concentration de la production industrielle et de la construction dans les centres urbains.
+- Selon le FAO, 37% de la surface non glacée de la Terre est utilisée pour l'agriculture. Ca représente la moitié de la surface habitable de la Terre (c'est à dire pas les glaciers et pas les terres arides).
 
 ***Top 4 des plus grandes agglomérations mondiales en 2018 :***
 > * Tokyo (37 millions d'habitants)
