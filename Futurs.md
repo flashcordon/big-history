@@ -28,7 +28,7 @@
 - D'ici 2030, plus de 60% (60.4%) de la population mondiale sera urbaine
 - D'ici 2050, plus des 2/3 (68.3%) de la population mondiale sera urbaine
 > Il y aura 2 fois plus de gens dans les zones urbaines que dans les zones rurales (6.6 milliards en zone urbaine; 3.1 milliards en zone rurale)
-- Les villes occupent actuellement moins de 1% (0.5) de la surface de la Terre, mais consomment 75% des ressources naturelles, 80% de l'approvisionnement énergétique et produisent près de 75% (73%) des émissions de CO2, principalement à cause de la concentration de la production industrielle et de la construction dans les centres urbains.
+- Les villes occupent actuellement moins de 1% (0.5%) de la surface de la Terre, mais consomment 75% des ressources naturelles, 80% de l'approvisionnement énergétique et produisent près de 75% (73%) des émissions de CO2, principalement à cause de la concentration de la production industrielle et de la construction dans les centres urbains.
 - Selon le FAO, 37% de la surface non glacée de la Terre est utilisée pour l'agriculture. Ca représente la moitié de la surface habitable de la Terre (c'est à dire pas les glaciers et pas les terres arides).
 > Plus des 3/4 (77%) de cette surface agricole est dédiée à l'élevage du bétail (paturages + production de nourriture pour les animaux)
 
