@@ -220,10 +220,9 @@ dying off at an even faster rate than species.
 Such  areas  are  among  the  most  important  reservoirs  of  terrestrial  biodiversity.  In the oceans, habitat destruction and fragmentation results from pollution, trawling, shipping traffic, and shipping noise (sonar, etc.).
 - Environmental Contamination. Environmental contamination from human-made chemicals contributes  to  extinction  pressures  by  destroying  habitats  (for  instance,  mine  dumps,  oil  spills and agricultural runoff), by direct toxic effects of pollutants, and through subtle effects on animals’ immune and reproductive systems
 - Climate change. Extinctions result when species cannot move fast enough to find climatic refuges as the climate becomes unsuitable where they now live; when climate changes such that it exceeds their physiological, developmental, or evolutionary tolerances; or when critical  species  interactions  (the  way  one  species  depends  on  the  next)  are  disrupted. In the oceans, acidification, a by-product of climate change that disrupts growth and development of marine organisms, is of particular concern, because it prevents marine shelly animals such as clams and oysters from building their shell, and causes collapse of the physical reef infrastructure on which most marine species ultimately depend
-- Le bétail représente aujourd'hui 60% de la biomasse de tous les mammifères de la planète (et les humains 36%)
-> Seuls 4% sont des mammifères sauvages !
-- La volaille représente 70% de la biomasse des oiseaux
-> Seuls 30% sont des oiseaux sauvages !
+- L'Humanité ne représente que 0.01% de la biomasse terrestre, mais notre impact sur la biomasse est énorme !
+> * Le bétail représente aujourd'hui 60% de la biomasse de tous les mammifères de la planète (et les humains 36%). Seuls 4% sont des mammifères sauvages !
+> * La volaille représente 70% de la biomasse des oiseaux. Seuls 30% sont des oiseaux sauvages !
 
 ***Comment mesure t-on la biodiversité ?***
 > Biodiversity encompasses the genetic variation within species, the variety and population abundance of species in an ecosystem,  and the habitats across a landscape. Contemporary examples of indices now in use include the Living Planet Index (LPI), the IUCN Red 
