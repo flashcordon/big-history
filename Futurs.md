@@ -236,7 +236,7 @@ List of Threatened Species, and indicators that show us the state of specific ha
 - pour la valeur esthétique que ça représente
 >   Continuing  extinction  at  the  present  pace  would  considerably  degrade quality of life for hundreds of millions of people who find emotional and aesthetic value in the presence of iconic species in natural habitats
 
-![biomass](https://imgur.com/Czr7iCy)
+![biomass](https://i.imgur.com/Czr7iCy.png)
 
 ![services](https://cpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/8/6679/files/2016/11/Screen-Shot-2016-11-08-at-2.47.13-pm-1768qsq.png)
 
