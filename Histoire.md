@@ -7,3 +7,9 @@
 # L'émergence des structures de pouovoir
 
 ## Les premières lois : le code d'Hammurabi
+
+# Les premiers empires
+
+# Connexions entre empires : les routes de la soie
+
+# Les grandes philosophies / religions
