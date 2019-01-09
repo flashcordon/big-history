@@ -234,6 +234,7 @@ List of Threatened Species, and indicators that show us the state of specific ha
 ***Pourquoi a t-on besoin de la biodiversité ?***
 - Pour les services écosystémiques qui sont critiques au maintien de notre civilisation (médecine, controle des pests)
 > * moderating weather; regulating the water cycle, stabilizing water supplies; filtering drinking water; protecting agricultural soils and replenishing their nutrients; disposing  of  wastes;  pollinating  crops  and  wild  plants;  providing  food  from  wild  species (especially seafood); stabilizing fisheries; providing medicines and pharmaceuticals; controlling spread of pathogens; and helping to reduce greenhouse gases in the atmosphere .
+- la biodiversité est un prérequis pour la santé et la résilience des écosystèmes.
 - pour la valeur esthétique que ça représente
 >   Continuing  extinction  at  the  present  pace  would  considerably  degrade quality of life for hundreds of millions of people who find emotional and aesthetic value in the presence of iconic species in natural habitats
 
