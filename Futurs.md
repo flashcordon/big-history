@@ -168,6 +168,7 @@ Déforestation :
 - [Union internationale pour la conservation de la nature (UICN)](https://www.iucn.org/fr) - Le GIEC de la biodiversité
 - [Living Planet Index](http://livingplanetindex.org/home/index) - WWF
 - [The biomass distribution on Earth](https://www.pnas.org/content/115/25/6506) - M Baron et al (2018)
+- [Humans just 0.01% of all life but have destroyed 83% of wild mammals – study](https://www.theguardian.com/environment/2018/may/21/human-race-just-001-of-all-life-but-has-destroyed-over-80-of-wild-mammals-study) - The Guargian (Mai 2018)
 
 ---
 
