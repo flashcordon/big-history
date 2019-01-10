@@ -3,6 +3,7 @@
 - [La révolution urbaine](#La-révolution-urbaine)
 - [Démographie](#Démographie)
 - [La 6e extinction de masse](##La-6e-extinction-de-masse)
+- [La fin de l'habitabilité planétaire](#La-fin-de-l'habitabilité-planétaire)
 
 # La révolution urbaine
 
