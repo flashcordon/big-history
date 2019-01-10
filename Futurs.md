@@ -306,11 +306,13 @@ Un supercontinent : Pangea Ultima
 - [Homo sapiens évolue-t-il encore ?](https://www.pourlascience.fr/sd/evolution/homo-sapiens-evolue-t-il-encore-3084.php) - Pour la science (Novembre 1999)
 - [Ces peuples prouvent la théorie de l'évolution - DBY #44](https://youtu.be/R7Y9WHaJO-A) - Dirtybiology (Avril 2018)
 - [Sources de léo sur son épisode 44](https://docs.google.com/document/d/1hHvDOgBq3QxbWuKQiTm1jQiaBLLSM_81dEWxLD-oDGk/edit)
+- [Humans as a model for understanding biological fundamentals](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.2146) - Brosnan et Postma (2017)
+- [Evolving altitude aptitude](https://evolution.berkeley.edu/evolibrary/news/101001_altitude) - Understanding evolution (Août 2014)
 
 ---
 
 - L'évolution humaine continue !
-> Exemple : la tolérance au lactose, adaptation des tibétains à l'altitude, capacités d'apnée des Bajau
+> Exemple : la tolérance au lactose, adaptation des tibétains à l'altitude, capacités d'apnée des Bajau (?)
 - Ce qui est inconnu, c'est à quel point les pressions environementales, culturelles, technologiques vont affecter notre pool génétique
 - La sélection naturelle n'est pas le seul moteur de l'évolution. Y a aussi la dérive génétique, qui sont dus à des événements aléatoires
 - Les migrations affectent aussi la composition de notre pool génétique
