@@ -2,8 +2,8 @@
 
 - [La révolution urbaine](#La-révolution-urbaine)
 - [Démographie](#Démographie)
-- [La 6e extinction de masse](##La-6e-extinction-de-masse)
-- [La fin de l'habitabilité planétaire](#La-fin-de-l-habitabilité-planétaire)
+- [La 6e extinction de masse](#La-6e-extinction-de-masse)
+- [La fin de l'habitabilité planétaire](#La-fin-de-lhabitabilité-planétaire)
 
 # La révolution urbaine
 
@@ -161,7 +161,7 @@ Déforestation :
 
 ### Capturer le carbone
 
-## La 6e extinction de masse
+# La 6e extinction de masse
 
 *Sources*
 
