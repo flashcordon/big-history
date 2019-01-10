@@ -306,6 +306,7 @@ Un supercontinent : Pangea Ultima
 
 - L'évolution humaine continue !
 > Exemple : la tolérance au lactose
+- Ce qui est inconnu, c'est à quel point les pressions environementales, culturelles, technologiques vont affecter notre pool génétique
 - La sélection naturelle n'est pas le seul moteur de l'évolution. Y a aussi la dérive génétique, qui sont dus à des événements aléatoires
 - Les migrations affectent aussi la composition de notre pool génétique
 - Notre monde globalisé nous rend particulièrement vulnérable aux pandémies
