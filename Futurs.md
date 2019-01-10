@@ -305,6 +305,7 @@ Un supercontinent : Pangea Ultima
 - [Génétique et évolution humaine](http://acces.ens-lyon.fr/acces/thematiques/evolution/accompagnement-pedagogique/accompagnement-au-lycee/terminale-2012/un-regard-sur-levolution-de-lhomme/evolution-dans-la-lignee-humaine) - ENS Lyon, Institut Français de l'éducation
 - [Homo sapiens évolue-t-il encore ?](https://www.pourlascience.fr/sd/evolution/homo-sapiens-evolue-t-il-encore-3084.php) - Pour la science (Novembre 1999)
 - [Ces peuples prouvent la théorie de l'évolution - DBY #44](https://youtu.be/R7Y9WHaJO-A) - Dirtybiology (Avril 2018)
+- [Sources de léo sur son épisode 44](https://docs.google.com/document/d/1hHvDOgBq3QxbWuKQiTm1jQiaBLLSM_81dEWxLD-oDGk/edit)
 
 ---
 
