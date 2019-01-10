@@ -1,6 +1,8 @@
-#Sommaire
+# Sommaire
 
 - [La révolution urbaine](#La-révolution-urbaine)
+- [Démographie](#Démographie)
+- [La 6e extinction de masse](##La-6e-extinction-de-masse)
 
 # La révolution urbaine
 
