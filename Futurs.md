@@ -302,17 +302,21 @@ Un supercontinent : Pangea Ultima
 - [Evolution: Natural selection and human selection article](https://www.khanacademy.org/test-prep/mcat/biomolecules/evolution-population-dynmaics/a/evolution-natural-selection-and-human-selection) - Khan Academy
 - [The Five Forces Behind Human Evolution](http://psych.colorado.edu/~carey/hgss/hgsschapters/hgss_chapter13.pdf) - Gregory Carey
 - [Are humans still evolving?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3327538/) - Stock (2008)
+- [Génétique et évolution humaine](http://acces.ens-lyon.fr/acces/thematiques/evolution/accompagnement-pedagogique/accompagnement-au-lycee/terminale-2012/un-regard-sur-levolution-de-lhomme/evolution-dans-la-lignee-humaine) - ENS Lyon, Institut Français de l'éducation
+- [Homo sapiens évolue-t-il encore ?](https://www.pourlascience.fr/sd/evolution/homo-sapiens-evolue-t-il-encore-3084.php) - Pour la science (Novembre 1999)
+- [Ces peuples prouvent la théorie de l'évolution - DBY #44](https://youtu.be/R7Y9WHaJO-A) - Dirtybiology (Avril 2018)
 
 ---
 
 - L'évolution humaine continue !
-> Exemple : la tolérance au lactose
+> Exemple : la tolérance au lactose, adaptation des tibétains à l'altitude, capacités d'apnée des Bajau
 - Ce qui est inconnu, c'est à quel point les pressions environementales, culturelles, technologiques vont affecter notre pool génétique
 - La sélection naturelle n'est pas le seul moteur de l'évolution. Y a aussi la dérive génétique, qui sont dus à des événements aléatoires
 - Les migrations affectent aussi la composition de notre pool génétique
 - Notre monde globalisé nous rend particulièrement vulnérable aux pandémies
 - Spéciation si isolation géographique d'une population sur long terme 
 - Mais dans un monde globalisé il devient difficile d'être isolé géographiquement du reste du monde
+- "Pour qu'une espèce apparaisse, il faut qu'un petit groupe d'homininés se retrouve, d'une façon ou d'une autre, séparé du gros de la population pendant de nombreuses générations, au sein d'un environnement nouveau favorisant un ensemble d'adaptations différent. Coupée de sa parenté, cette petite population suit sa propre route génétique et devient incapable de se reproduire avec la population mère."
 - colonies spatiales (Mars par exemple) -> effet fondateur -> spéciation
 
 # La fin de l'habitabilité planétaire
