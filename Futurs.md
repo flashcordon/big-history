@@ -293,8 +293,15 @@ Un supercontinent : Pangea Ultima
 *Sources*
 
 - Future humans - Scott Solomon (2016)
+- [Are human beings still evolving? It would seem that evolution is impossible now that the ability to reproduce is essentially universally available. Are we nevertheless changing as a species?](https://www.scientificamerican.com/article/are-human-beings-still-ev/) - Scientific American
+- [Yes, Humans Are Still Evolving](https://thehumanevolutionblog.com/2015/03/27/yes-humans-are-still-evolving/) - The human evolution blog (Mars 2015)
 
-> Spéciation si isolation d'une population sur long terme -> colonies spatiales (Mars par exemple)
+- La sélection naturelle n'est pas le seul moteur de l'évolution. Y a aussi la dérive génétique, qui sont dus à des événements aléatoires
+- Les migrations affectent aussi la composition de notre pool génétique
+- Notre monde globalisé nous rend particulièrement vulnérable aux pandémies
+- Spéciation si isolation géographique d'une population sur long terme 
+- Mais dans un monde globalisé il devient difficile d'être isolé géographiquement du reste du monde
+- colonies spatiales (Mars par exemple) -> effet fondateur -> spéciation
 
 # La fin de l'habitabilité planétaire
 
