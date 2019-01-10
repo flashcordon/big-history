@@ -299,6 +299,8 @@ Un supercontinent : Pangea Ultima
 - [Misconceptions about evolution](https://evolution.berkeley.edu/evolibrary/misconceptions_faq.php)
 - [the Human Origins Initiative](http://humanorigins.si.edu/)
 - [Are humans still evolving?](https://hittinger.genetics.wisc.edu/Outreach/GenPublic/docs/Are_humans_still_evolving.pdf) - Ask a scientist, Howard Hugues medical institute
+- [Evolution: Natural selection and human selection article](https://www.khanacademy.org/test-prep/mcat/biomolecules/evolution-population-dynmaics/a/evolution-natural-selection-and-human-selection) - Khan Academy
+- [The Five Forces Behind Human Evolution](http://psych.colorado.edu/~carey/hgss/hgsschapters/hgss_chapter13.pdf) - Gregory Carey
 
 ---
 
