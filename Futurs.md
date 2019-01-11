@@ -8,7 +8,7 @@
 # La révolution urbaine
 
 *Sources* 
-j
+
 - MOOC Sustainable cities - SDG Academy
 - [68% of the world population projected to live in urban areas by 2050, says UN](https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html) - UN News (Mai 2018)
 - [Urbanization](https://ourworldindata.org/urbanization) - Our world in data (Septembre 2018)
