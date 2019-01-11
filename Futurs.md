@@ -324,7 +324,7 @@ Un supercontinent : Pangea Ultima
 > Exemple : la tolérance au lactose, adaptation des tibétains à l'altitude, capacités d'apnée des Bajau (?)
 - Ce qui est inconnu, c'est à quel point les pressions environementales, culturelles, technologiques vont affecter notre pool génétique
 - La sélection naturelle opère toujours chez les humains !
-> * L'exemple le plus frappant est l'adaptation à la très haute altitude de certaines populations, notamment au Tibet, dans les Andes et dans les hauts plateaux d'Ethiopie. Au fil des millénaires, les Tibétains ont développé des adaptations leur permettant de respirer un air moins dense. Des humains non adaptés biologiquement qui . Les sherpas népalais n'ont pas besoin de l'oxygène supplémentaire que la plupart des humains ont besoin pour grimper l'Himalaya et ne souffrent pas du mal des montagnes.
+> * L'exemple le plus frappant est l'adaptation génétique à la très haute altitude de certaines populations, notamment au Tibet, dans les Andes et dans les hauts plateaux d'Ethiopie. Au fil des millénaires, les Tibétains ont développé des adaptations leur permettant de respirer un air moins dense en oxygène. Des humains non adaptés biologiquement qui . Les sherpas népalais n'ont pas besoin de l'oxygène supplémentaire que la plupart des humains ont besoin pour grimper l'Himalaya et ne souffrent pas du mal des montagnes. Les tibétains produisent moins de globules rouges, les cellules responsables du transport de l'oxygène dans le corps.
 - La sélection naturelle n'est pas le seul moteur de l'évolution. Y a aussi la dérive génétique, qui sont dus à des événements aléatoires
 - Les migrations affectent aussi la composition de notre pool génétique
 - Notre monde globalisé nous rend particulièrement vulnérable aux pandémies
