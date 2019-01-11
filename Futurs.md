@@ -336,16 +336,16 @@ Un supercontinent : Pangea Ultima
 > * L'étude de leur génome a révélé qu'ils possèdent une certaine version du gène EPAS1, qui est associé à la régulation de la production d'hémoglobine. Ils ont hérité cette version de gène suite à des croisements de leurs ancètres avec des Dénisoviens il y a plus de 40 000 ans. Quand les ancètres des tibétains se sont mis à vivre en haute altitude, les individus qui possédaient cette version rare du gène ont été favorisés, et ce gène s'est transmis rapidement dans la population au fil des générations. 
 > * Autre exemple d'adaptation évolutive : les incroyables capacitées d'apnée des Bajau d'Indonésie
 - Mais la sélection naturelle n'est pas le seul moteur de l'évolution. Elle n'est qu'une des 5 "forces évolutives" qui modèlent notre pool génétique. Les autres forces incluent la ***dérive génétique***, les ***mutations***, les ***migrations*** (flux de gènes) et la ***recombinaison***
-> * ***Dérive génétique :***
+> * ***Dérive génétique :*** Modification du pool génique par des phénomènes aléatoires et imprévisibles. Son effet d'autant plus important que la population est petite.
 > * ***Mutations :***
 > * ***Migrations :***
 > * ***Recombinaison :***
-- Les migrations affectent aussi la composition de notre pool génétique
+- La culture affecte aussi la composition de notre pool génétique
 - Notre monde globalisé nous rend particulièrement vulnérable aux pandémies
 - Ce qui est inconnu, c'est à quel point les pressions environementales, culturelles, technologiques vont affecter notre pool génétique
 
 ***De nouvelles espèces humaines ?***
-- Spéciation si isolation géographique d'une population sur long terme 
+- Spéciation si effet fondateur + isolation géographique d'une population sur long terme 
 - Mais dans un monde globalisé il devient difficile d'être isolé géographiquement du reste du monde
 - "Pour qu'une espèce apparaisse, il faut qu'un petit groupe d'homininés se retrouve, d'une façon ou d'une autre, séparé du gros de la population pendant de nombreuses générations, au sein d'un environnement nouveau favorisant un ensemble d'adaptations différent. Coupée de sa parenté, cette petite population suit sa propre route génétique et devient incapable de se reproduire avec la population mère."
 - colonies spatiales (Mars par exemple) -> effet fondateur -> spéciation
