@@ -327,6 +327,8 @@ Un supercontinent : Pangea Ultima
 - La sélection naturelle n'est pas le seul moteur de l'évolution. Y a aussi la dérive génétique, qui sont dus à des événements aléatoires
 - Les migrations affectent aussi la composition de notre pool génétique
 - Notre monde globalisé nous rend particulièrement vulnérable aux pandémies
+
+***De nouvelles espèces humaines ?***
 - Spéciation si isolation géographique d'une population sur long terme 
 - Mais dans un monde globalisé il devient difficile d'être isolé géographiquement du reste du monde
 - "Pour qu'une espèce apparaisse, il faut qu'un petit groupe d'homininés se retrouve, d'une façon ou d'une autre, séparé du gros de la population pendant de nombreuses générations, au sein d'un environnement nouveau favorisant un ensemble d'adaptations différent. Coupée de sa parenté, cette petite population suit sa propre route génétique et devient incapable de se reproduire avec la population mère."
