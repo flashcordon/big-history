@@ -323,6 +323,7 @@ Un supercontinent : Pangea Ultima
 - [Les gènes tibétains de l'altitude](https://www.pourlascience.fr/sd/biologie-moleculaire/les-genes-tibetains-de-laltitude-10581.php) - Pour la science (Juin 2010)
 - [L’adaptation aux très hautes altitudes, Sur quels gènes une pression sélective s’est-elle exercée ?](http://www.ipubli.inserm.fr/bitstream/handle/10608/7426/MS_2010_12_1038.html?sequence=4&isAllowed=y) - Dominique Labie (Décembre 2010)
 - [Une modification génétique à l’origine à l’origine de l’adaptation exceptionnelle à l’altitude](https://sciencesaltitude.wordpress.com/2017/01/02/ethiopien-et-tibteains-des-peuples-vivant-en-hauteur/) - Sciences altitude (2017)
+- [Mechanisms: the processes of evolution](https://evolution.berkeley.edu/evolibrary/article/evo_14) - Understanding evolution
 
 ---
 
@@ -334,7 +335,11 @@ Un supercontinent : Pangea Ultima
 > * Or les tibétains produisent moins de globules rouges, les cellules responsables du transport de l'oxygène dans le corps, et leur sang possède une concentration plus faibles en hémoglobine, ce qui leur évite les effets néfastes du mal de montagne. 
 > * L'étude de leur génome a révélé qu'ils possèdent une certaine version du gène EPAS1, qui est associé à la régulation de la production d'hémoglobine. Ils ont hérité cette version de gène suite à des croisements de leurs ancètres avec des Dénisoviens il y a plus de 40 000 ans. Quand les ancètres des tibétains se sont mis à vivre en haute altitude, les individus qui possédaient cette version rare du gène ont été favorisés, et ce gène s'est transmis rapidement dans la population au fil des générations. 
 > * Autre exemple d'adaptation évolutive : les incroyables capacitées d'apnée des Bajau d'Indonésie
-- Mais la sélection naturelle n'est pas le seul moteur de l'évolution. Elle n'est qu'une des 5 "forces évolutives" qui modèlent l'évolution humaine : la dérive génétique, qui sont dus à des événements aléatoires
+- Mais la sélection naturelle n'est pas le seul moteur de l'évolution. Elle n'est qu'une des 5 "forces évolutives" qui modèlent notre pool génétique. Les autres forces incluent la ***dérive génétique***, les ***mutations***, les ***migrations*** (flux de gènes) et la ***recombinaison***
+> * ***Dérive génétique :***
+> * ***Mutations :***
+> * ***Migrations :***
+> * ***Recombinaison :***
 - Les migrations affectent aussi la composition de notre pool génétique
 - Notre monde globalisé nous rend particulièrement vulnérable aux pandémies
 - Ce qui est inconnu, c'est à quel point les pressions environementales, culturelles, technologiques vont affecter notre pool génétique
