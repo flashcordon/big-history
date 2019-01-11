@@ -9,3 +9,4 @@
 - Elle nous montre les liens cachés que l'on partage avec tous les humains, avec l'ensemble du vivant, et l'univers dans son ensemble
 - Elle met en avant notre interdépendance avec les autres espèces, et avec le système Terre
 - Elle permet d'avoir un cadre conceptuel qui permet de comprendre de manière un peu plus universelle que maintenant les conditions de l'émergence de la complexité dans l'univers.
+- Elle nous permet de "penser comme une planète", de changer de point de vue et de focus pour mieux nous comprendre
