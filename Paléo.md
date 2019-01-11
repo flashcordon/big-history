@@ -95,6 +95,8 @@ On en a pas trouvé plus loin que l'Altai
 
 ## L'extinction de la mégafaune (extinction du quaternaire)
 
+## Les premiers artistes
+
 ## L'origine de l'agriculture
 
 L'agriculture sur brûlis
