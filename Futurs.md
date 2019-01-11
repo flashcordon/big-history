@@ -338,7 +338,7 @@ Un supercontinent : Pangea Ultima
 > * Autre exemple d'adaptation évolutive : les incroyables capacitées d'apnée des Bajau d'Indonésie
 - Mais la sélection naturelle n'est pas le seul moteur de l'évolution. Elle n'est qu'une des 5 "forces évolutives" qui modèlent notre pool génétique. Les autres forces incluent la ***dérive génétique***, les ***mutations***, les ***migrations*** (flux de gènes) et la ***recombinaison***
 > * ***Dérive génétique :*** Modification du pool génique par des phénomènes aléatoires et imprévisibles. Son effet d'autant plus important que la population est petite.
-> * ***Mutations :***
+> * ***Mutations :*** Des erreurs dans la copie de l'ADN. 
 > * ***Migrations :***
 > * ***Recombinaison :***
 - La culture affecte aussi la composition de notre pool génétique
