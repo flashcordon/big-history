@@ -315,12 +315,15 @@ Un supercontinent : Pangea Ultima
 - [Sources de léo sur son épisode 44](https://docs.google.com/document/d/1hHvDOgBq3QxbWuKQiTm1jQiaBLLSM_81dEWxLD-oDGk/edit)
 - [Humans as a model for understanding biological fundamentals](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.2146) - Brosnan et Postma (2017)
 - [Evolving altitude aptitude](https://evolution.berkeley.edu/evolibrary/news/101001_altitude) - Understanding evolution (Août 2014)
+- [Adaptation humaine à la haute altitude](https://fr.wikipedia.org/wiki/Adaptation_humaine_à_la_haute_altitude) - Wikipédia
 
 ---
 
 - L'évolution humaine continue !
 > Exemple : la tolérance au lactose, adaptation des tibétains à l'altitude, capacités d'apnée des Bajau (?)
 - Ce qui est inconnu, c'est à quel point les pressions environementales, culturelles, technologiques vont affecter notre pool génétique
+- La sélection naturelle opère toujours chez les humains !
+> * L'exemple le plus frappant est l'adaptation à la très haute altitude de certaines populations, notamment au Tibet, dans les Andes et dans les hauts plateaux d'Ethiopie. Au fil des millénaires, les Tibétains ont développé des adaptations leur permettant de respirer un air moins dense. Des humains non adaptés biologiquement qui . Les sherpas népalais n'ont pas besoin de l'oxygène supplémentaire que la plupart des humains ont besoin pour grimper l'Himalaya et ne souffrent pas du mal des montagnes.
 - La sélection naturelle n'est pas le seul moteur de l'évolution. Y a aussi la dérive génétique, qui sont dus à des événements aléatoires
 - Les migrations affectent aussi la composition de notre pool génétique
 - Notre monde globalisé nous rend particulièrement vulnérable aux pandémies
