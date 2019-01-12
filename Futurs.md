@@ -325,6 +325,7 @@ Un supercontinent : Pangea Ultima
 - [L’adaptation aux très hautes altitudes, Sur quels gènes une pression sélective s’est-elle exercée ?](http://www.ipubli.inserm.fr/bitstream/handle/10608/7426/MS_2010_12_1038.html?sequence=4&isAllowed=y) - Dominique Labie (Décembre 2010)
 - [Une modification génétique à l’origine à l’origine de l’adaptation exceptionnelle à l’altitude](https://sciencesaltitude.wordpress.com/2017/01/02/ethiopien-et-tibteains-des-peuples-vivant-en-hauteur/) - Sciences altitude (2017)
 - [Mechanisms: the processes of evolution](https://evolution.berkeley.edu/evolibrary/article/evo_14) - Understanding evolution
+- [Les 10 principales causes de mortalité](https://www.who.int/fr/news-room/fact-sheets/detail/the-top-10-causes-of-death) - OMS (2018)
 
 ---
 
