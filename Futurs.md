@@ -340,11 +340,10 @@ Un supercontinent : Pangea Ultima
 - Mais la sélection naturelle n'est pas le seul moteur de l'évolution. Elle n'est qu'une des 5 "forces évolutives" qui modèlent notre pool génétique. Les autres forces incluent la ***dérive génétique***, les ***mutations***, les ***migrations*** (flux de gènes) et la ***recombinaison***
 > * ***Dérive génétique :*** Modification du pool génique par des phénomènes aléatoires et imprévisibles. Son effet d'autant plus important que la population est petite.
 > * ***Mutations :*** Des erreurs dans la copie de l'ADN. La source ultime de variation génétique
-> * ***Migrations :***
-> * ***Recombinaison / sélection sexuelle ? :***
+> * ***Migrations :*** Nous avons toujours été des migrants. Mais la révolution des transports a augmenté le rythme des migrations à un taux sans précédent dans l'histoire. Nous sommes en train de devenir une seule population globale qui s'échange des gènes à tout va. Cette homogénétisation de notre pool génique nous rend particulièrement vulnérable aux pandémies.
+> * ***Recombinaison / sélection sexuelle ? :*** Les manières dont nous choisissons nos partenaires changent (sélection sexuelle). 
 - Mais l'arrivée de la modernité a pas mal changé comment ces forces nous affectent
 - La culture affecte aussi la composition de notre pool génétique
-- Notre monde globalisé nous rend particulièrement vulnérable aux pandémies
 - Ce qui est inconnu, c'est à quel point les pressions environementales, culturelles, technologiques vont affecter notre pool génétique
 
 ***De nouvelles espèces humaines ?***
@@ -352,6 +351,7 @@ Un supercontinent : Pangea Ultima
 - Mais dans un monde globalisé il devient difficile d'être isolé géographiquement du reste du monde
 - "Pour qu'une espèce apparaisse, il faut qu'un petit groupe d'homininés se retrouve, d'une façon ou d'une autre, séparé du gros de la population pendant de nombreuses générations, au sein d'un environnement nouveau favorisant un ensemble d'adaptations différent. Coupée de sa parenté, cette petite population suit sa propre route génétique et devient incapable de se reproduire avec la population mère."
 - colonies spatiales (Mars par exemple) -> effet fondateur -> spéciation
+- Peut être les colons martiens développeront-ils ne nouvelles adaptations à leur environnement hostile ?
 
 # La fin de l'habitabilité planétaire
 
