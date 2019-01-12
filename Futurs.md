@@ -326,6 +326,7 @@ Un supercontinent : Pangea Ultima
 - [Une modification génétique à l’origine à l’origine de l’adaptation exceptionnelle à l’altitude](https://sciencesaltitude.wordpress.com/2017/01/02/ethiopien-et-tibteains-des-peuples-vivant-en-hauteur/) - Sciences altitude (2017)
 - [Mechanisms: the processes of evolution](https://evolution.berkeley.edu/evolibrary/article/evo_14) - Understanding evolution
 - [Les 10 principales causes de mortalité](https://www.who.int/fr/news-room/fact-sheets/detail/the-top-10-causes-of-death) - OMS (2018)
+- [Les débats autours des forces évolutives](http://laurent.penet.free.fr/ConceptsEvol3.html) - Blog de Laurent Penet
 
 ---
 
@@ -340,7 +341,7 @@ Un supercontinent : Pangea Ultima
 > * Les maladies infectieuses comme la malaria et Ebola ont joué et vont probablement continuer de jouer un rôle dans notre évolution, notamment dans les pays les plus pauvres où vivent la plupart des gens. Selon l'OMS, les infections des voies respiratoires basses ( bronchite aigüe et pneumonie communautaire), les maladies diarrhéiques et le SIDA comptent parmi les causes principales de mortalité dans les pays les plus pauvres.
 - Mais la sélection naturelle n'est pas le seul moteur de l'évolution. Elle n'est qu'une des 5 "forces évolutives" qui modèlent notre pool génétique. Les autres forces incluent la ***dérive génétique***, les ***mutations***, les ***migrations*** (flux de gènes) et la ***recombinaison***
 > * ***Dérive génétique :*** Modification du pool génique par des phénomènes aléatoires et imprévisibles. Son effet d'autant plus important que la population est petite.
-> * ***Mutations :*** Des erreurs dans la copie de l'ADN. La source ultime de variation génétique
+> * ***Mutations :*** Des erreurs dans la copie de l'ADN. La source ultime de variation génétique. la mutation crée la variation et enrichi le pool génique de nouveaux variants, tandis que la sélection naturelle fait le tri dans cette variation pour n'en retenir que celle qui permet le mieux aux organismes de survivre et se reproduire.
 > * ***Migrations :*** Le flux de gènes entre des populations distinctes. Ces métissages réduisent les différences génétiques entre les populations et introduisent de nouvelles variations. Nous avons toujours été des migrants. Mais la révolution des transports a augmenté le rythme des migrations à un taux sans précédent dans l'histoire. Nous sommes en train de devenir une seule population globale qui s'échange des gènes à tout va. Cette homogénétisation de notre pool génique nous rend particulièrement vulnérable aux pandémies.
 > * ***Recombinaison / sélection sexuelle ? :*** Les manières dont nous choisissons nos partenaires changent (sélection sexuelle). 
 - Mais l'arrivée de la modernité a pas mal changé comment ces forces nous affectent
