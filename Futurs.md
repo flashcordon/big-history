@@ -354,6 +354,7 @@ Un supercontinent : Pangea Ultima
 - colonies spatiales (Mars par exemple) -> effet fondateur -> spéciation
 - Peut être les colons martiens développeront-ils ne nouvelles adaptations à leur environnement hostile ?
 > la gravité de surface sur Mars est seulement 38 % de celle de la Terre (provoque la décalcification des os et l'atrophie des muscles), sans compter le taux de radiation (rayons cosmiques, UV, vents solaire, qui peuvent causer des cancers), et les éruptions solaires qui peuvent être léthales sans atmosphère ni magnétosphère pour nous en protéger.
+- Les radiations pourraient même augmenter le taux de mutation et accélérer le processus d'adaptation par le biais de la sélection naturelle.
 
 # La fin de l'habitabilité planétaire
 
