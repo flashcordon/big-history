@@ -353,6 +353,7 @@ Un supercontinent : Pangea Ultima
 - "Pour qu'une espèce apparaisse, il faut qu'un petit groupe d'homininés se retrouve, d'une façon ou d'une autre, séparé du gros de la population pendant de nombreuses générations, au sein d'un environnement nouveau favorisant un ensemble d'adaptations différent. Coupée de sa parenté, cette petite population suit sa propre route génétique et devient incapable de se reproduire avec la population mère."
 - colonies spatiales (Mars par exemple) -> effet fondateur -> spéciation
 - Peut être les colons martiens développeront-ils ne nouvelles adaptations à leur environnement hostile ?
+> la gravité de surface sur Mars est seulement 38 % de celle de la Terre, sans compter le taux de radiation, de rayons cosmiques, et de vents solaire, les éruptions solaires qui peuvent être léthales sans atmosphère pour nous protéger.
 
 # La fin de l'habitabilité planétaire
 
