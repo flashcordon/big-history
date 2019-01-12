@@ -348,13 +348,12 @@ Un supercontinent : Pangea Ultima
 - Ce qui est inconnu, c'est à quel point les pressions environementales, culturelles, technologiques vont affecter notre pool génétique
 
 ***De nouvelles espèces humaines ?***
-- Spéciation si effet fondateur + isolation géographique d'une population sur long terme 
-- Mais dans un monde globalisé il devient difficile d'être isolé géographiquement du reste du monde
-- "Pour qu'une espèce apparaisse, il faut qu'un petit groupe d'homininés se retrouve, d'une façon ou d'une autre, séparé du gros de la population pendant de nombreuses générations, au sein d'un environnement nouveau favorisant un ensemble d'adaptations différent. Coupée de sa parenté, cette petite population suit sa propre route génétique et devient incapable de se reproduire avec la population mère."
-- colonies spatiales (Mars par exemple) -> effet fondateur -> spéciation
-- Peut être les colons martiens développeront-ils ne nouvelles adaptations à leur environnement hostile ?
+- Pour qu'une nouvelle espèce apparaisse (spéciation), il faut qu'un petit groupe (effet fondateur) se retrouve, d'une façon ou d'une autre, séparé du gros de la population (isolation géographique) pendant de nombreuses générations, au sein d'un environnement nouveau favorisant un ensemble d'adaptations différent. Coupée de sa parenté, cette petite population suit sa propre route génétique et devient incapable de se reproduire avec sa population mère.
+- Mais dans un monde globalisé et interconnecté il devient difficile d'être isolé géographiquement du reste du monde
+- S'il y a bien un endroit qui peutfavoriser le processus de spéciation, c'est Mars.
+- Peut être les colons martiens (si colons martiens il y a) développeront-ils ne nouvelles adaptations à leur environnement hostile ?
 > la gravité de surface sur Mars est seulement 38 % de celle de la Terre (provoque la décalcification des os et l'atrophie des muscles), sans compter le taux de radiation (rayons cosmiques, UV, vents solaire, qui peuvent causer des cancers), et les éruptions solaires qui peuvent être léthales sans atmosphère ni magnétosphère pour nous en protéger.
-- Les radiations pourraient même augmenter le taux de mutation et accélérer le processus d'adaptation par le biais de la sélection naturelle.
+- Les radiations pourraient même augmenter le taux de mutation et accélérer le processus d'adaptation par le biais de la sélection naturelle. Ou bien simplement anihiler la population. (?)
 
 # La fin de l'habitabilité planétaire
 
