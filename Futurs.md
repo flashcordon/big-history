@@ -154,6 +154,7 @@
 - [Global Challenges: 12 risks with infinite impact](https://api.globalchallenges.org/static/wp-content/uploads/12-Risks-with-infinite-impact.pdf) - Rapport de la Global Challenges foundation (2015)
 - [Global Catastrophic Risks 2018](https://globalchallenges.org/our-work/annual-report/annual-report-2018) - Rapport de la Global Challenges foundation (2018)
 - [Le cycle du Carbone bilans, projections & modélisation](https://youtu.be/37d9INQQ5fQ) - Laurent Bopp (Mars 2014)
+- [Is climate change an existential risk? ](https://docs.google.com/document/d/1qmHh-cshTCMT8LX0Y5wSQm8FMBhaxhQ8OlOeRLkXIF0/mobilebasic?fbclid=IwAR2bKFv0HCXO0fglfvmhFmHj3E8npRablXTphVtbOIURnGXyP7AH7Jy-K40#ftnt97)
 
 ---
 
