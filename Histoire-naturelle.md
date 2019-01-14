@@ -297,9 +297,23 @@
 - [Le schiste de Burgess](https://sciencetonnante.wordpress.com/2012/02/06/le-schiste-de-burgess/) - Science Etonnante (2012)
 - La vie est belle, Steven Jay Gould
 - [Crevette Zarbi](http://ssaft.com/Blog/dotclear/index.php?post/2010/11/29/Crevette-Zarbi) - SSAFT (Novembre 2010)
+- [Le schiste de Burgess](fhttps://sciencetonnante.wordpress.com/2012/02/06/le-schiste-de-burgess/) - Science Etonnante (Février 2012)
+- La vie est belle, Steven Jay Gould
+- The crucible of creation, Conway Morris
+- [The Cambrian explosion](https://evolution.berkeley.edu/evolibrary/article/side_o_0/cambrian101_01) - Understanding Evolution
+- [The Cambrian explosion](https://www.shapeoflife.org/video/cambrian-explosion) - Documentaire The Shapes of life
+- [The Cambrian explosion](https://www.sciencedirect.com/science/article/pii/S0960982215004984) - Briggs (2015)
+- Le livre de la vie, Steven Jay Gould
 
 ---
 
+- The Cambrian fossil record shows that the major body plans which are familiar today were established early. But deposits, such as the Burgess Shale, also preserve animals that appear alien to our eyes.
+- the sudden appearance of fossils in the Cambrian (541–485 million years ago) is real and not an artefact of an imperfect fossil record: rapid diversification of animals coincided with the evolution of biomineralized shells. And although fossils in earlier rocks are rare, they are not absent: their rarity reflects the low diversity of life at this time, as well as the low preservation potential of Precambrian organisms
+- The Cambrian fauna was dominated by families of ecological generalists, such as trilobites, brachiopods and stem echinoderms
+- the major body plans or phyla were established during the Cambrian explosion  and marine animal diversity reached a ‘plateau’ in the Ordovician, a steady state which was impacted by extinctions but only seriously disrupted by the enormous mass extinction at the end of the Permian
+- Cambrian marine communities were dominated by arthropods, including trilobites, and by sponges, which together accounted for more than half the species. Other invertebrates included annelids (polychaetes), brachiopods, hemichordates and priapulids; rare chordates were also present, including some interpreted as fish. This Cambrian world has become familiar through reconstructions of sea floor communities fossilized in the middle Cambrian Burgess Shale of Canada
+>  there are more than 50 exceptional preservations similar to the Burgess Shale.
+- The drivers behind the Cambrian explosion were varied and complex, and there is no simple explanation of either the timing or ecological mechanism involved. The rise of oxygen levels in the earth’s atmosphere and oceans has often been implicated in initiating rapid diversification. A recent study of polychaete feeding strategies in modern environments suggests that there may be a direct link between critical oxygen thresholds, the rise of larger carnivores, and the evolution of complex food webs. The abundance and diversity of carnivorous polychaetes today is greater where oxygen levels are higher. The rise of carnivorous predators in the Cambrian may have promoted new defense strategies with a consequent elaboration of food webs. Rapid biodiversification was no doubt also boosted by the animals themselves and their impact on the environment, in a kind of ecosystem engineering. 
 - Cette période marque le début du Phanérozoique, il y a 541 Myrs (+-1 Myrs)
 - Cette époque est caractérisée par une explosion du taux d'apparition d'espèces
 - Les premiers animaux à coquille apparaissent ('armures de carbonates de calcium ou de silice')
