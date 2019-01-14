@@ -294,6 +294,8 @@
 
 - [What sparked the Cambrian explosion?](https://www.nature.com/news/what-sparked-the-cambrian-explosion-1.19379) - Nature News (2016)
 - The origin and evolution of Earth, Robert Hazen
+- [Le schiste de Burgess](https://sciencetonnante.wordpress.com/2012/02/06/le-schiste-de-burgess/) - Science Etonnante (2012)
+- La vie est belle, Steven Jay Gould
 
 ---
 
@@ -307,7 +309,8 @@
 - Controverse : qu'est ce qui a causé l'explosion Cambrienne ? Ce débat n'est pas encore résolu à ce jour.
 > Une hypothèse populaire est qu'une une augmentation de l'oxygène dans l'atmosphère a déclenché l'explosion Cambrienne
 - Des études récentes ont montré que l'avènement des premiers carnivores aidée par un boost en oxygène aurait déclenché des processus évolutifs qui auraient mené à l'explosion des types de corps et de comportements complexes qu'on observe dans les océans aujourd'hui 
-- La fin de la période est marquée par l'extinction du Cambrien-Ordovicien
+- On trouve beaucop de fossiles du Cambrien dans les schistes de Burgess, dans les montagnes rocheuses du Canada
+- La fin de la période est marquée par l'extinction du Cambrien-Ordovicien (?)
 
 ## Extinctions de masse
 
