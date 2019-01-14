@@ -306,6 +306,7 @@
 - Le livre de la vie, Steven Jay Gould
 - [https://burgess-shale.rom.on.ca/en/science/origin/04-cambrian-explosion.php#top-haut](The Cambrian Explosion) - The Burgess shale, Musée d'Ontario
 - [Cambrian explosion](https://en.wikipedia.org/wiki/Cambrian_explosion) - Wikipédia
+- [From the Cambrian Explosion to the Great Dying](https://youtu.be/RDQa0okkpf0) - PBS Eons (Février 2018)
 
 ---
 
@@ -319,7 +320,7 @@
 - Cette période marque le début du Phanérozoique, il y a 541 Myrs (+-1 Myrs)
 - Cette époque est caractérisée par une explosion du taux d'apparition d'espèces
 - Les premiers animaux à coquille apparaissent ('armures de carbonates de calcium ou de silice')
-- Les premiers vertébrés marins apparaissent à ce moment, ainsi que les premiers prédateurs. 
+- Les premiers vertébrés marins apparaissent à ce moment, ainsi que les premiers prédateurs et les premiers yeux. 
 - La vie complexe est encore largement confinée dans les océans
 - Sur les terres, des tapis microbiens, d'algues et de proto-lichens recouvraient certainement certaines surfaces.
 > On en a pas de traces fossiles mais on en voit des traces dans les ratios isotopiques du carbone dans les eaux peu profondes
@@ -329,6 +330,7 @@
 - On trouve beaucop de fossiles du Cambrien dans les schistes de Burgess, dans les montagnes rocheuses du Canada
 - La fin de la période est marquée par l'extinction du Cambrien-Ordovicien (?)
 - "le schiste de Burgess contient à lui seul plus de diversité animale ( du moins au sens des plans d’organisation anatomique) que l’ensemble des espèces présentes aujourd’hui sur Terre"
+- des écosystèmes avec des réseaux trophiques complexes apparaissent pour la première fois de l'histoire
 
 ## Extinctions de masse
 
