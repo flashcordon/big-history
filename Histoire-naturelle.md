@@ -293,11 +293,13 @@
 *Sources*
 
 - [What sparked the Cambrian explosion?](https://www.nature.com/news/what-sparked-the-cambrian-explosion-1.19379) - Nature News (2016)
+- The origin and evolution of Earth, Robert Hazen
 
 ---
 
 - Cette période marque le début du Phanérozoique, il y a 541 Myrs (+-1 Myrs)
 - Cette époque est caractérisée par une explosion du taux d'apparition d'espèces
+- Les premiers animaux à coquille apparaissent ('armures de carbonates de calcium ou de silice')
 - Les premiers vertébrés marins apparaissent à ce moment, ainsi que les premiers prédateurs. 
 - La vie complexe est encore largement confinée dans les océans
 - Sur les terres, des tapis microbiens, d'algues et de proto-lichens recouvraient certainement certaines surfaces.
