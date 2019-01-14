@@ -326,6 +326,7 @@
 - Des études récentes ont montré que l'avènement des premiers carnivores aidée par un boost en oxygène aurait déclenché des processus évolutifs qui auraient mené à l'explosion des types de corps et de comportements complexes qu'on observe dans les océans aujourd'hui 
 - On trouve beaucop de fossiles du Cambrien dans les schistes de Burgess, dans les montagnes rocheuses du Canada
 - La fin de la période est marquée par l'extinction du Cambrien-Ordovicien (?)
+- "le schiste de Burgess contient à lui seul plus de diversité animale ( du moins au sens des plans d’organisation anatomique) que l’ensemble des espèces présentes aujourd’hui sur Terre"
 
 ## Extinctions de masse
 
@@ -340,6 +341,7 @@
 
 ---
 
+- "en période calme, la sélection naturelle joue son rôle, et ce sont les plus adaptés qui survivent ; en revanche en période agitée, comme quand survient une extinction de masse, c’est en quelque sorte le hasard qui détermine qui va survivre et qui va s’éteindre." (David Louapre, le schiste de Burgess)
 - 99% des espèces qui ont un jour vécu sur Terre ont aujourd'hui disparu
 - Selon [Raup et Sepkoski (1982)](http://coleoguy.github.io/reading.group/Raup_Sepkoski_1982.pdf), il y a eu durant le phanérozoique 5 extinctions de masse et 18 autres extinctions de moindre ampleur
  - ***Définition d'une extinction de masse:*** un événement quasi global, qui fait disparaître une fraction non négligeable des espèces (+ de 30%), qui affecte des espèces provenant d'environnements différents, et qui s'est produit durant un temps très court à l'échelle géologique
