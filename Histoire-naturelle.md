@@ -290,8 +290,22 @@
 
 ## L'explosion cambrienne
 
-- Débat : qu'est ce qui a causé l'explosion Cambrienne ? (non encore résolu)
-- hypothèse populaire : une augmentation de l'oxygène dans l'atmosphère a déclenché l'explosion Cambrienne (source ?)
+*Sources*
+
+- [What sparked the Cambrian explosion?](https://www.nature.com/news/what-sparked-the-cambrian-explosion-1.19379) - Nature News (2016)
+
+---
+
+- Cette période marque le début du Phanérozoique, il y a 541 Myrs (+-1 Myrs)
+- Cette époque est caractérisée par une explosion du taux d'apparition d'espèces
+- Les premiers vertébrés marins apparaissent à ce moment, ainsi que les premiers prédateurs. 
+- La vie complexe est encore largement confinée dans les océans
+- Sur les terres, des tapis microbiens, d'algues et de proto-lichens recouvraient certainement certaines surfaces.
+> On en a pas de traces fossiles mais on en voit des traces dans les ratios isotopiques du carbone dans les eaux peu profondes
+- Controverse : qu'est ce qui a causé l'explosion Cambrienne ? Ce débat n'est pas encore résolu à ce jour.
+> Une hypothèse populaire est qu'une une augmentation de l'oxygène dans l'atmosphère a déclenché l'explosion Cambrienne
+- Des études récentes ont montré que l'avènement des premiers carnivores aidée par un boost en oxygène aurait déclenché des processus évolutifs qui auraient mené à l'explosion des types de corps et de comportements complexes qu'on observe dans les océans aujourd'hui 
+- La fin de la période est marquée par l'extinction du Cambrien-Ordovicien
 
 ## Extinctions de masse
 
@@ -330,7 +344,7 @@
 > * ***Causes probables:*** Le scénario de Paul Wingall semble le plus complet à l'heure actuelle. Selon ce scénario, des éruptions volcaniques en Chine (trapps d'Emeishan) puis en Sibérie (trapps de Sibérie) libèrent d'immenses quantités de CO2 sur 1 Myrs chacun (11 périodes éruptives). Les cendres obscurcissent le ciel à court terme (ciel pourpre), et cela cause un bref âge glaciaire (durée?). Sur le long terme, le CO2 rejeté par les volcans réchauffe la planète de 5°C, et ça a causé une 1ère extinction des espèces terrestres (diminution du nombre des naissances avec disparition de plus en plus importante des plus faibles). Les océans finissent aussi par se réchauffer, ce qui entraîne la mort des espèces marines. Les eaux de plus en plus chaudes entraînent la libération des chlarate (hydrates de méthane) dans l'atmosphère. Le méthane est un gaz à effet de serre très puissant, et ça a pour effet d'augmenter la température de la Terre de 5°C supplémentaires. A certains endroits, l'eau est à une température insupportable pour la vie marine (près de 40°C à l'équateur, VS aujourd'hui: 30-35°C). L'eau chaude maintient moins bien l'oxygène dissous que l'eau froide, du coup de vastes régions océaniques deviennent anoxiques et une bonne partie de la vie marine meurt d'asphyxie.
 > * Un des grands survivants de la crise P-T, c'est le lystrausaures, un animal herbivore mi-mammifère, mi-reptile, de la taille d'un cochon. Sans prédateur et sans compétition pour la nourriture, Les lystrausaures et leurs descendants dominent le monde pendant un moment.
 > * A la fin de la crise P-T, le règne des dinosaures commence
-* Fin du trias (Trias-Jurassique 205 Myrs): 80% des espèces éteintes
+* Fin du Trias (Trias-Jurassique 205 Myrs): 80% des espèces éteintes
 * ***Fin du crétacé (Crétacé-Paléogène, nouveau nom de la crise Crétacé-Tertiaire, -65 Myrs):*** 
 > * 73% des espèces éteintes
 > * La plus populaire des extinctions, mais aussi la moins sévère
