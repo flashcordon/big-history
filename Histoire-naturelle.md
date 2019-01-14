@@ -332,6 +332,10 @@
 - "le schiste de Burgess contient à lui seul plus de diversité animale ( du moins au sens des plans d’organisation anatomique) que l’ensemble des espèces présentes aujourd’hui sur Terre"
 - des écosystèmes avec des réseaux trophiques complexes apparaissent pour la première fois de l'histoire
 
+![cambrian](https://www.nature.com/polopoly_fs/7.34098.1455632486!/image/cambrian-graphic-online.jpg_gen/derivatives/landscape_630/cambrian-graphic-online.jpg)
+
+![cambrianillus](https://i.imgur.com/wMjsKM7.jpg)
+
 ## Extinctions de masse
 
 *Sources*
