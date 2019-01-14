@@ -296,6 +296,7 @@
 - The origin and evolution of Earth, Robert Hazen
 - [Le schiste de Burgess](https://sciencetonnante.wordpress.com/2012/02/06/le-schiste-de-burgess/) - Science Etonnante (2012)
 - La vie est belle, Steven Jay Gould
+- [Crevette Zarbi](http://ssaft.com/Blog/dotclear/index.php?post/2010/11/29/Crevette-Zarbi) - SSAFT (Novembre 2010)
 
 ---
 
