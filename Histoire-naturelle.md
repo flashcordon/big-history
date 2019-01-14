@@ -7,43 +7,9 @@
 
 *Sources:* 
 - Revolutions that made the Earth, Tim Lenton (2011)
-- Handbook of paleoanthropology - Henke, Winfried, Tattersall, Ian (2003, seconde édition 2015)
-- [Quand la Terre était une boule de neige](https://lejournal.cnrs.fr/articles/quand-la-terre-etait-une-boule-de-neige) - CNRS le journal (Décembre 2017)
-- [La limite Permien – Trias : LA crise majeure du monde vivant](http://acces.ens-lyon.fr/acces/logiciels/videotheque/20090512/fichiers/sylvie_crasquin.pdf) - Conférence de Sylvie Crasquin (2009)
-- [Quelles sont les principales crises biologiques qu’ait connues la Terre ?](http://geologie.mnhn.fr/biodiversite-crises/page4.htm) - Département de géologie du MNHN
-- [When Earth hit the reset button on life: New research on the Permian-Triassic mass extinction](https://www.earthmagazine.org/article/when-earth-hit-reset-button-life-new-research-permian-triassic-mass-extinction) - Earth magazine (Octobre 2016)
-- Scatter, Adapt, and Remember, Analee Newitz (2013)
-- [A Cryogenian chronology: Two long-lasting synchronous Neoproterozoic glaciations](https://francismacdonald.fas.harvard.edu/files/fmacdonald/files/rooney_etal_geology_2015.pdf) - Rooney et al (2015): pour la datation de la glaciation sturtienne
+
 - [Une brève histoire du climat de la Terre](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2017/04/refdp2017-55p6.pdf) - Gilles Ramstein, Reflets de la physique (2017)
-- [Early formation of the Moon 4.51 billion years ago](http://advances.sciencemag.org/content/3/1/e1602365.full) - Barboni et al (2017)
-- Météorites, Matthieu GOunelle (2017)
-- [Hadean Earth](https://www.lpi.usra.edu/exploration/HadeanEarth/) - Ressources par le Lunar and Planetary Institute
-- [When a day lasted only 4 hours](http://www.iea.usp.br/en/news/when-a-day-lasted-only-four-hours) - Richard Meckien, Insittute of advanced studies of the university of Sao Paulo 2016
-- [Analysis of a Precambrian resonance‐stabilized day length](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068912) - Bartlett et Stevenson (2017)
 - [The Sun and stars as the primary energy input in planetary atmospheres](https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/sun-and-stars-as-the-primary-energy-input-in-planetary-atmospheres/293C0314C44A1A4AAF8175A3C288B50B) - Ribas (2009): évolution de la luminosité du Soleil
-- [Hadean Earth and primordial continents: The cradle of prebiotic life](https://www.sciencedirect.com/science/article/pii/S1674987116300834) - Santosh et al (2017)
-- The Origin and Evolution of Earth - Robert Hazen, The Great Courses (2013) (audiobook + notes de cours en PDF)
-- [Plate tectonics, damage and inheritance](https://www.nature.com/articles/nature13072) -  Bercovici et Ricard (2014)
-- [Plate-tectonic evolution of the Earth: bottom-up and top-down mantle circulation](http://www.nrcresearchpress.com/doi/pdf/10.1139/cjes-2015-0126) - Ernst et al (2015)
-- [Le puzzle des plaques tectoniques enfin résolu](https://lejournal.cnrs.fr/articles/le-puzzle-des-plaques-tectoniques-enfin-resolu) - Journal du CNRS (2016)
-- [Voyage au centre de la Terre](https://sciencetonnante.wordpress.com/2013/05/20/voyage-au-centre-de-la-terre/) - Science étonnante (2013)
-- [Histoire de la théorie de la tectonique des plaques](http://planet-terre.ens-lyon.fr/article/histoire-tectonique-plaques.xml) -  Vincent Deparis, Site de l'ENS Lyon (2011)
-- [La chaleur de la Terre et la géothermie](http://planet-terre.ens-lyon.fr/article/chaleur-Terre-geothermie.xml) - Pierre Thomas, Site de l'ENS Lyon (2014)
-- [Les différents modes de transfert thermique](https://femto-physique.fr/physique_statistique/transfert-thermique.php) - Femto Physique (2017)
-- [INTRODUCTION À LA GÉOLOGIE, La dynamique de la Terre](http://meslivres.site/LIVREF/F14/F014001.pdf) - Boillot, Huchon, La Gabrielle (2008)
-- [When and how did plate tectonics begin on Earth?](https://www.earthmagazine.org/article/when-and-how-did-plate-tectonics-begin-earth)- Earth Magazine (Mai 2017)
-- [Les cycles de Milankovitch et les changements climatiques — Science étonnante #32](https://youtu.be/MXcY8Cf6hsI) - Science Etonnante (Juillet 2016)
-- [Cycles glaciaires, paramètres de Milankovitch et CO2 (Analyse)](https://youtu.be/n-NJ-B_IIFw?list=WL) - Le Réveilleur (Octobre 2018)
-- [Orbital and Millennial Antarctic Climate Variability over the Past 800,000 Years](http://science.sciencemag.org/content/317/5839/793) - Jouzel et al (2007)
-- [MILANKOVITCH CYCLES AND THE EARTH’S CLIMATE](http://math.ucr.edu/home/baez/glacial/glacial.pdf) - Séminaire de John Baez (Avril 2013)
-- [Early Earth](https://youtu.be/lebW5WGmsrc) - Hervé Martin, Rencontres exobiologiques pour doctorants (Février 2016)
-- [Archean surface conditions](https://youtu.be/yNEkQ8KV-aQ) - Christoph Heubeuck, Rencontres exobiologiques pour doctorants (Mars 2018)
-- [Transition entre périodes glaciaires et interglaciaires](https://youtu.be/Jvh1YzJ5bTk?list=WL) - Le Réveilleur (Novembre 2015)
-- [Les causes des variations climatiques](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours3_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
-- [La mise en évidence de la variabilité climatique  à plusieurs échelles de temps](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours2_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
-- [Changements climatiques contemporains et futurs](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours1_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
-- [Modulation of Ice Ages via Precession and Dust-Albedo Feedbacks](https://sciborg.uwaterloo.ca/~mpalmer/stuff/ellis.pdf) - Ralph Ellis (Septembre 2015)
-- [Les variations climatiques "pour les nuls"](http://planet-terre.ens-lyon.fr/article/variations-climatiques-bases.xml)  Pierre Thomas (Janvier 2017)
 - [Misconceptions in Origin of Life](https://youtu.be/xElqecMYukM) - Purification Lopez-Garcia, Rencontres exobiologiques pour doctorants (Mars 2017)
 - [L’océan au sein du système Terre](https://youtu.be/EO_Brx4kv_k) - Conférence de Anny Cazenave (Avril 2016)
 - [Global Warming 56 Million Years Ago: What it Means for Us](https://youtu.be/81Zb0pJa3Hg) -  Conférence de Scott Wing (Janvier 2014)
@@ -62,6 +28,27 @@
 
 # La Terre de l'Hadéen
 
+*Sources*
+
+- Météorites, Matthieu GOunelle (2017)
+- [Hadean Earth](https://www.lpi.usra.edu/exploration/HadeanEarth/) - Ressources par le Lunar and Planetary Institute
+- [When a day lasted only 4 hours](http://www.iea.usp.br/en/news/when-a-day-lasted-only-four-hours) - Richard Meckien, Insittute of advanced studies of the university of Sao Paulo 2016
+- [Analysis of a Precambrian resonance‐stabilized day length](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068912) - Bartlett et Stevenson (2017)
+- [Hadean Earth and primordial continents: The cradle of prebiotic life](https://www.sciencedirect.com/science/article/pii/S1674987116300834) - Santosh et al (2017)
+- The Origin and Evolution of Earth - Robert Hazen, The Great Courses (2013) (audiobook + notes de cours en PDF)
+- [Plate tectonics, damage and inheritance](https://www.nature.com/articles/nature13072) -  Bercovici et Ricard (2014)
+- [Plate-tectonic evolution of the Earth: bottom-up and top-down mantle circulation](http://www.nrcresearchpress.com/doi/pdf/10.1139/cjes-2015-0126) - Ernst et al (2015)
+- [Le puzzle des plaques tectoniques enfin résolu](https://lejournal.cnrs.fr/articles/le-puzzle-des-plaques-tectoniques-enfin-resolu) - Journal du CNRS (2016)
+- [Voyage au centre de la Terre](https://sciencetonnante.wordpress.com/2013/05/20/voyage-au-centre-de-la-terre/) - Science étonnante (2013)
+- [Histoire de la théorie de la tectonique des plaques](http://planet-terre.ens-lyon.fr/article/histoire-tectonique-plaques.xml) -  Vincent Deparis, Site de l'ENS Lyon (2011)
+- [La chaleur de la Terre et la géothermie](http://planet-terre.ens-lyon.fr/article/chaleur-Terre-geothermie.xml) - Pierre Thomas, Site de l'ENS Lyon (2014)
+- [Les différents modes de transfert thermique](https://femto-physique.fr/physique_statistique/transfert-thermique.php) - Femto Physique (2017)
+- [INTRODUCTION À LA GÉOLOGIE, La dynamique de la Terre](http://meslivres.site/LIVREF/F14/F014001.pdf) - Boillot, Huchon, La Gabrielle (2008)
+- [When and how did plate tectonics begin on Earth?](https://www.earthmagazine.org/article/when-and-how-did-plate-tectonics-begin-earth)- Earth Magazine (Mai 2017)
+- [Early Earth](https://youtu.be/lebW5WGmsrc) - Hervé Martin, Rencontres exobiologiques pour doctorants (Février 2016)
+
+---
+
 - Date de formation de la Terre : 4.568 Gyrs (âge des plus anciennes météorites connues).
 > Les météorites les plus primitives sont les chondrites carbonées. Elles ont la même composition que la photosphère du Soleil (à part en hydrogène et en hélium), et cette composition n'a pas changé depuis leur formation
 - Au moment de la formation de la Terre, le Soleil est 30% moins lumineux qu'il ne l'est maintenant. Son intensité augmente de 7% par Gyr.
@@ -75,6 +62,12 @@
 ![Soleil](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Solar_evolution_%28French%29.svg/544px-Solar_evolution_%28French%29.svg.png)
 
 ## La formation de la Lune
+
+*Sources*
+
+- [Early formation of the Moon 4.51 billion years ago](http://advances.sciencemag.org/content/3/1/e1602365.full) - Barboni et al (2017)
+
+---
 
 - Modèle favorisé : un impact géant avec un objet de la taille de Mars surnommé Théia (10% de la masse actuelle de la Terre). L'impact crée un disque de débris autour de la Terre (débris de Théia + morceaux de manteau de la Terre). Selon les modèles, la Lune se serait formée en quelques heures à quelques siècles
 - La vitesse de l'impact aurait été "modéré" (quelques kilomètres par seconde)
@@ -233,6 +226,13 @@
 
 ### Terre boule de neige
 
+*Sources*
+
+- [Quand la Terre était une boule de neige](https://lejournal.cnrs.fr/articles/quand-la-terre-etait-une-boule-de-neige) - CNRS le journal (Décembre 2017)
+- [A Cryogenian chronology: Two long-lasting synchronous Neoproterozoic glaciations](https://francismacdonald.fas.harvard.edu/files/fmacdonald/files/rooney_etal_geology_2015.pdf) - Rooney et al (2015): pour la datation de la glaciation sturtienne
+
+---
+
 - Périodes glaciaires qui dure des dizaines de millions d'années, et qui se caractérise par la glace qui reconvre la quasi totalité (voire la totalité dans les scénarios les plus violents) de la surface de la Terre. Les glaces recouvrent tout jusqu'à des latitudes tropicales ! La Terre ressemble alors à Europe ou Encelade
 - Décrites pour la 1ère fois par Walter Brian Harland (années 60) et nommées par Joe Kirschvink (années 90)
 - Y en a eu au moins 3 dans l'histoire de la Terre
@@ -293,6 +293,16 @@
 
 ## Extinctions de masse
 
+*Sources*
+
+- Handbook of paleoanthropology - Henke, Winfried, Tattersall, Ian (2003, seconde édition 2015)
+- [La limite Permien – Trias : LA crise majeure du monde vivant](http://acces.ens-lyon.fr/acces/logiciels/videotheque/20090512/fichiers/sylvie_crasquin.pdf) - Conférence de Sylvie Crasquin (2009)
+- [Quelles sont les principales crises biologiques qu’ait connues la Terre ?](http://geologie.mnhn.fr/biodiversite-crises/page4.htm) - Département de géologie du MNHN
+- [When Earth hit the reset button on life: New research on the Permian-Triassic mass extinction](https://www.earthmagazine.org/article/when-earth-hit-reset-button-life-new-research-permian-triassic-mass-extinction) - Earth magazine (Octobre 2016)
+- Scatter, Adapt, and Remember, Analee Newitz (2013)
+
+---
+
 - 99% des espèces qui ont un jour vécu sur Terre ont aujourd'hui disparu
 - Selon [Raup et Sepkoski (1982)](http://coleoguy.github.io/reading.group/Raup_Sepkoski_1982.pdf), il y a eu durant le phanérozoique 5 extinctions de masse et 18 autres extinctions de moindre ampleur
  - ***Définition d'une extinction de masse:*** un événement quasi global, qui fait disparaître une fraction non négligeable des espèces (+ de 30%), qui affecte des espèces provenant d'environnements différents, et qui s'est produit durant un temps très court à l'échelle géologique
@@ -334,6 +344,22 @@
 - L'évolution de l'intelligence est-elle inévitable ? Selon Morris, oui (cf *Inevitable humans in a lonely universe*).
 
 # Oscillations climatiques
+
+*Sources*
+
+- [Les cycles de Milankovitch et les changements climatiques — Science étonnante #32](https://youtu.be/MXcY8Cf6hsI) - Science Etonnante (Juillet 2016)
+- [Cycles glaciaires, paramètres de Milankovitch et CO2 (Analyse)](https://youtu.be/n-NJ-B_IIFw?list=WL) - Le Réveilleur (Octobre 2018)
+- [Orbital and Millennial Antarctic Climate Variability over the Past 800,000 Years](http://science.sciencemag.org/content/317/5839/793) - Jouzel et al (2007)
+- [MILANKOVITCH CYCLES AND THE EARTH’S CLIMATE](http://math.ucr.edu/home/baez/glacial/glacial.pdf) - Séminaire de John Baez (Avril 2013)
+- [Archean surface conditions](https://youtu.be/yNEkQ8KV-aQ) - Christoph Heubeuck, Rencontres exobiologiques pour doctorants (Mars 2018)
+- [Transition entre périodes glaciaires et interglaciaires](https://youtu.be/Jvh1YzJ5bTk?list=WL) - Le Réveilleur (Novembre 2015)
+- [Les causes des variations climatiques](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours3_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
+- [La mise en évidence de la variabilité climatique  à plusieurs échelles de temps](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours2_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
+- [Changements climatiques contemporains et futurs](http://gsite.univ-provence.fr/gsite/Local/geographie/dir/user-232/L3%20-%20GEOF02%20changements%20climatiques%20contemporains/Cours1_F02_L3.pdf) - Cours de L3, Romain MARTEAU (Université de Provence)
+- [Modulation of Ice Ages via Precession and Dust-Albedo Feedbacks](https://sciborg.uwaterloo.ca/~mpalmer/stuff/ellis.pdf) - Ralph Ellis (Septembre 2015)
+- [Les variations climatiques "pour les nuls"](http://planet-terre.ens-lyon.fr/article/variations-climatiques-bases.xml)  Pierre Thomas (Janvier 2017)
+
+---
 
 - Depuis 50 millions d'années (optimum de l'Eocène), la Terre ne cesse de se refroidir (pourquoi?)
 - Il y a 2.5 millions d'années, le système climatique entre dans une période instable. La Terre fait face à une série d'âges glaciaires de plus en plus longs rythmée par les cycles de Milankovitch (montré par [Hays, Imbrie et Shackleton en 1976](http://www.mantleplumes.org/WebDocuments/Hays1976.pdf))
