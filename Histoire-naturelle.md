@@ -336,6 +336,7 @@
 - [Quelles sont les principales crises biologiques qu’ait connues la Terre ?](http://geologie.mnhn.fr/biodiversite-crises/page4.htm) - Département de géologie du MNHN
 - [When Earth hit the reset button on life: New research on the Permian-Triassic mass extinction](https://www.earthmagazine.org/article/when-earth-hit-reset-button-life-new-research-permian-triassic-mass-extinction) - Earth magazine (Octobre 2016)
 - Scatter, Adapt, and Remember, Analee Newitz (2013)
+- [The Chicxulub Asteroid Impact and Mass Extinction at the Cretaceous-Paleogene Boundary](http://science.sciencemag.org/content/327/5970/1214) - Schulte et al (2010)
 
 ---
 
