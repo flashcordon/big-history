@@ -304,6 +304,8 @@
 - [The Cambrian explosion](https://www.shapeoflife.org/video/cambrian-explosion) - Documentaire The Shapes of life
 - [The Cambrian explosion](https://www.sciencedirect.com/science/article/pii/S0960982215004984) - Briggs (2015)
 - Le livre de la vie, Steven Jay Gould
+- [https://burgess-shale.rom.on.ca/en/science/origin/04-cambrian-explosion.php#top-haut](The Cambrian Explosion) - The Burgess shale, Musée d'Ontario
+- [Cambrian explosion](https://en.wikipedia.org/wiki/Cambrian_explosion) - Wikipédia
 
 ---
 
