@@ -307,6 +307,7 @@
 - [https://burgess-shale.rom.on.ca/en/science/origin/04-cambrian-explosion.php#top-haut](The Cambrian Explosion) - The Burgess shale, Musée d'Ontario
 - [Cambrian explosion](https://en.wikipedia.org/wiki/Cambrian_explosion) - Wikipédia
 - [From the Cambrian Explosion to the Great Dying](https://youtu.be/RDQa0okkpf0) - PBS Eons (Février 2018)
+- [Histoires Naturelles - #04 Les Premières Faunes](https://youtu.be/0_pkjHhObXE) - Connecsciences (Décembre 2016)
 
 ---
 
