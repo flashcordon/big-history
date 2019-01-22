@@ -297,6 +297,7 @@
 - [The Other Explosion You Should Know About](https://youtu.be/Jpi2VJj5PhY) - PBS Eons (Mars 2018)
 - [De Burgess à Franceville (Gabon) : les plus anciennes traces fossiles de pluricellulaires](http://planet-terre.ens-lyon.fr/article/fossiles-pluricellulaires.xml)  - Cyril Langlois, Planète Terre, ENS Lyon (Septembre 2010)
 - [Les organismes d'Édiacara : Dickinsonia , un animal précambrien](http://planet-terre.ens-lyon.fr/article/Dickinsonia-Ediacara.xml) - Cyril Langlois (Octobre 2018)
+- [Blog Ediacaran](http://ediacaran.blogspot.com/) - de Chris Neudin, spécialiste de l'Ediacarien
 
 ---
 
