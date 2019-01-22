@@ -276,7 +276,13 @@
 
 ## L'apparition des organismes multicellulaires
 
+- [De Burgess à Franceville (Gabon) : les plus anciennes traces fossiles de pluricellulaires](http://planet-terre.ens-lyon.fr/article/fossiles-pluricellulaires.xml)  - Cyril Langlois, Planète Terre, ENS Lyon (Septembre 2010)
+- [Large colonial organisms with coordinated growth in oxygenated environments 2.1 Gyr ago](https://www.nature.com/articles/nature09166) - El Albani (2010)
+
+---
+
 - Les premiers organismes multi-cellulaire apparaissent vers 1.8 Gyrs (quelle forme?)
+- "Au début de l'été 2010, la publication par la revue Nature d'un article signé d'une équipe internationale dirigée par le chercheur français Abderazak El Albani a secoué le monde de la paléontologie en affirmant que l'apparition des premières structures multicellulaires organisées remonteraient à 2,1 milliards d'années"
 
 ## L'apparition du sexe
 
@@ -286,9 +292,31 @@
 - Les espèces séxuées créent une immense variété génétique, alors que les espèces asexuées créent des clones. Ce pool d'innovation permet aux espèces sexuées de s'adapter plus rapidement à des conditions changeantes que les espèces asexuées
 - **L'hypothèse de la Reine rouge :** le sexe persiste à cause de la co-évolution entre parasites et hôtes, entre prédateurs et proies.
 
+## Les premières faunes
+
+- [The Other Explosion You Should Know About](https://youtu.be/Jpi2VJj5PhY) - PBS Eons (Mars 2018)
+- [De Burgess à Franceville (Gabon) : les plus anciennes traces fossiles de pluricellulaires](http://planet-terre.ens-lyon.fr/article/fossiles-pluricellulaires.xml)  - Cyril Langlois, Planète Terre, ENS Lyon (Septembre 2010)
+
+---
+
+- Période : l'Ediacarien (635-541 Myrs) (nommé à cause des collines d'Ediacara, en Australie)
+- 635 Myrs : fin de la glaciation marinoenne. Alors que les glaces fondent, elles se déversent dans la mer et enrichissent l'océan en nutriment. Ca produit une explosion de cyanobactéries qui produisent de l'oxygène
+- 575 Myrs : L'explosion d'Avalon (du nom de la péninsule d'Avalon, au Canada)
+> On y trouve des milliers de fossiles datant de l'Ediacarien
+
+- La faune d'Ediacara
+- Les rangéomorphes : ils grandissent de manière fractale ! Aucun animal ne grandit comme ça aujourd'hui
+- Dickinsonia
+- La faune d'Ediacara est composée d'animaux aux parties molles
+- Charnia
+- On trouve même des animaux avec une symétrie trilatérale, comme Tribrachidium. Il n'y a aucune forme de vie similaire aujourd'hui
+- La faune d'Ediacara était pobablement les premiers métazoaires, 
+> Métazoaire = avec des cellules spécialisées
+- la fin de l'Ediacarien est marquée par la disparition mystérieuse des fossiles de la faune d'Ediacara
+
 # La Terre du Phanérozoique
 
-## L'explosion cambrienne
+## L'explosion Cambrienne
 
 *Sources*
 
@@ -308,9 +336,11 @@
 - [Cambrian explosion](https://en.wikipedia.org/wiki/Cambrian_explosion) - Wikipédia
 - [From the Cambrian Explosion to the Great Dying](https://youtu.be/RDQa0okkpf0) - PBS Eons (Février 2018)
 - [Histoires Naturelles - #04 Les Premières Faunes](https://youtu.be/0_pkjHhObXE) - Connecsciences (Décembre 2016)
+- [De Burgess à Franceville (Gabon) : les plus anciennes traces fossiles de pluricellulaires](http://planet-terre.ens-lyon.fr/article/fossiles-pluricellulaires.xml)  - Cyril Langlois, Planète Terre, ENS Lyon (Septembre 2010)
 
 ---
 
+- Le nombre de familles et de genres de métazoaires fossiles passe de quelques genres à plus d'un millier en une vingtaine de millions d'années
 - The Cambrian fossil record shows that the major body plans which are familiar today were established early. But deposits, such as the Burgess Shale, also preserve animals that appear alien to our eyes.
 - the sudden appearance of fossils in the Cambrian (541–485 million years ago) is real and not an artefact of an imperfect fossil record: rapid diversification of animals coincided with the evolution of biomineralized shells. And although fossils in earlier rocks are rare, they are not absent: their rarity reflects the low diversity of life at this time, as well as the low preservation potential of Precambrian organisms
 - The Cambrian fauna was dominated by families of ecological generalists, such as trilobites, brachiopods and stem echinoderms
@@ -332,6 +362,7 @@
 - La fin de la période est marquée par l'extinction du Cambrien-Ordovicien (?)
 - "le schiste de Burgess contient à lui seul plus de diversité animale ( du moins au sens des plans d’organisation anatomique) que l’ensemble des espèces présentes aujourd’hui sur Terre"
 - des écosystèmes avec des réseaux trophiques complexes apparaissent pour la première fois de l'histoire
+- Le site de Burgess est daté de 505 Myrs. "le registre fossile disponible aujourd'hui indique que l'essentiel du spectaculaire accroissement de la disparité et de la diversité des métazoaires qui marque le début du Cambrien est déjà quasiment terminé à cette date. Paradoxalement, ce site constamment cité à propos de « l'explosion cambrienne » en est une image tardive."
 
 ![cambrian](https://www.nature.com/polopoly_fs/7.34098.1455632486!/image/cambrian-graphic-online.jpg_gen/derivatives/landscape_630/cambrian-graphic-online.jpg)
 
