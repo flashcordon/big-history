@@ -178,8 +178,9 @@ Déforestation :
 - La 6e extinction: comment l'Homme détruit la vie - Elizabeth Kolbert (2016)
 - [Introducing the Scientific Consensus on Maintaining Humanity’s Life Support Systems in the 21st Century: Information for Policy Makers](https://journals.sagepub.com/doi/abs/10.1177/2053019613516290) - Barnosky et al (2014)
 - [Global Biodiversity Outlook](https://www.cbd.int/gbo/) - Rapport de l'ONU (dernier en 2014)
-- [Union internationale pour la conservation de la nature (UICN)](https://www.iucn.org/fr) - Le GIEC de la biodiversité
+- [Union internationale pour la conservation de la nature (UICN)](https://www.iucn.org/fr)
 - [Living Planet Index](http://livingplanetindex.org/home/index) - WWF
+- [Le site de l'IPBES](https://www.ipbes.net/) - Le GIEC de la biodiversité
 - [The biomass distribution on Earth](https://www.pnas.org/content/115/25/6506) - M Baron et al (2018)
 - [Humans just 0.01% of all life but have destroyed 83% of wild mammals – study](https://www.theguardian.com/environment/2018/may/21/human-race-just-001-of-all-life-but-has-destroyed-over-80-of-wild-mammals-study) - The Guargian (Mai 2018)
 
