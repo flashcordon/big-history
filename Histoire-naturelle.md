@@ -296,11 +296,13 @@
 
 - [The Other Explosion You Should Know About](https://youtu.be/Jpi2VJj5PhY) - PBS Eons (Mars 2018)
 - [De Burgess à Franceville (Gabon) : les plus anciennes traces fossiles de pluricellulaires](http://planet-terre.ens-lyon.fr/article/fossiles-pluricellulaires.xml)  - Cyril Langlois, Planète Terre, ENS Lyon (Septembre 2010)
+- [Les organismes d'Édiacara : Dickinsonia , un animal précambrien](http://planet-terre.ens-lyon.fr/article/Dickinsonia-Ediacara.xml) - Cyril Langlois (Octobre 2018)
 
 ---
 
-- Période : l'Ediacarien (635-541 Myrs) (nommé à cause des collines d'Ediacara, en Australie)
+- Période : l'Ediacarien (635-541 Myrs) (nommé à cause des collines Ediacara, en Australie, mais on trouve des fossiles de cette période dans de nombreux autres endroits du monde)
 - 635 Myrs : fin de la glaciation marinoenne. Alors que les glaces fondent, elles se déversent dans la mer et enrichissent l'océan en nutriment. Ca produit une explosion de cyanobactéries qui produisent de l'oxygène
+- "dernière phase glaciaire du Néoprotérozoïque, la glaciation Gaskiers. Celle-ci suit la glaciation marinoenne, plus intense encore, qui termine la période Cryogénienne, dernier en date des épisodes de « Terre boule de neige » "
 - 575 Myrs : L'explosion d'Avalon (du nom de la péninsule d'Avalon, au Canada)
 > On y trouve des milliers de fossiles datant de l'Ediacarien
 
@@ -313,6 +315,13 @@
 - La faune d'Ediacara était pobablement les premiers métazoaires, 
 > Métazoaire = avec des cellules spécialisées
 - la fin de l'Ediacarien est marquée par la disparition mystérieuse des fossiles de la faune d'Ediacara
+- "Le biote d'Ediacara représenterait ainsi une première « bouffée de diversification » des organismes multicellulaires, rapidement avortée."
+- "Les organismes présents sont tous fixés et dépourvus de squelette rigide. Les plus courants sont des Rangeomorphes, organismes en forme de frondes segmentées à structure fractale."
+- "le mode d'alimentation précis de ces fossiles reste souvent hypothétique. Dans le cas de l'assemblage Avalon, la profondeur des milieux exclut que ces organismes aient pu être photosynthétiques ou aient abrité des symbiotes photosynthétiques. Leur structure fractale, qui leur procurait une grande surface d'échange, suggère que les Rangéomorphes étaient peut-être des filtreurs ou des osmotrophes. "
+- "Les organismes édiacariens sont toujours énigmatiques, car les communautés édiacariennes se caractérisent par une grande disparité (de nombreux plans d'organisation différents) mais une faible diversité : on ne dénombre qu'une centaine d'espèces, mais beaucoup représentent aussi un genre complet à elle seule"
+- "La faune d'Ediacara est donc encore loin d'être entièrement comprise, ni dans sa structure écologique, ni dans la nature exacte des organismes qui la composent, pas plus que dans les causes de son développement à ce moment précis de l'histoire du Globe. Néanmoins, d'autres fossiles à peine plus anciens montrent que les métazoaires existaient bien dès la fin de la glaciation marinoenne vers -630 Ma. Ils proviennent encore d'un site chinois, les phosphorites de Doushantuo."
+- "La période édiacarienne, quant à elle, voit le développement d'animaux pluricellulaires tridimensionnels, et non plus seulement plats"
+- "Les fossiles gabonais seraient ainsi des eucaryotes pluricellulaires coloniaux, qui repousseraient l'émergence de ces formes de vie au Paléoprotérozoïque. Cela impliquerait aussi que certaines des molécules — et des gènes — permettant l'adhésion et la communication cellulaire existaient déjà à cette époque. Cette découverte n'a pas encore suscité d'objection ni de contestation bien étayée dans les revues scientifiques. Néanmoins, certains blogs scientifiques sérieux ont commencé à lui porter un regard critique, avec quelques arguments."
 
 # La Terre du Phanérozoique
 
