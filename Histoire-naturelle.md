@@ -364,6 +364,7 @@ Many of the forms can be interpreted as ancestral cnidarians (jellyfi sh),while 
 
 ---
 
+- "The Phanerozoic began with an evolutionary bang—the rate of appearance of new species in the Cambrian explosion, and in the preceding Ediacaran period, is well above the levels seen in the preceding three billion years of life on Earth. Origination rates were also far greater than at any time since ( 1 ). As well as a plethora of hard shelled marine invertebrates, the fi rst marine vertebrates evolved early in the Cambrian ( 2 ). These early ‘chordates’ were the start of the branch of the tree of life that would eventually lead to us."
 - Le nombre de familles et de genres de métazoaires fossiles passe de quelques genres à plus d'un millier en une vingtaine de millions d'années
 - The Cambrian fossil record shows that the major body plans which are familiar today were established early. But deposits, such as the Burgess Shale, also preserve animals that appear alien to our eyes.
 - the sudden appearance of fossils in the Cambrian (541–485 million years ago) is real and not an artefact of an imperfect fossil record: rapid diversification of animals coincided with the evolution of biomineralized shells. And although fossils in earlier rocks are rare, they are not absent: their rarity reflects the low diversity of life at this time, as well as the low preservation potential of Precambrian organisms
