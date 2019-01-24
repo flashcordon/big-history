@@ -300,6 +300,10 @@
 - [Blog Ediacaran](http://ediacaran.blogspot.com/) - de Chris Neudin, spécialiste de l'Ediacarien
 - [An introduction to the Ediacaran fauna](http://ediacaran.blogspot.com/2008/11/introduction-to-ediacaran-fauna.html) - Chris Neudin 
 - [Les « plumes » de l'Édiacarien, un groupe animal disparu ?](http://planet-terre.ens-lyon.fr/article/Dickinsonia-Ediacara.xml) - Cyril Langlois (Septembre 2018)
+- [Précambrien](http://histoiredutemps.free.fr/terrestre/precambrien/neoprotero.htm#ediacara) - Site Histoire du temps
+- [La faune d'Ediacara](http://www.evolution-biologique.org/histoire-de-la-vie/la-vie-pluricellulaire/ediacara.html) - Site Evolution biologique (Septembre 2015)
+- [Faune d'Ediacara : les Rangéomorphes](http://www.evolution-biologique.org/histoire-de-la-vie/la-vie-pluricellulaire/les-rangeomorphes.html) - Site Evolution biologique (Septembre 2015)
+- [This fossil is one of the world’s earliest animals, according to fat molecules preserved for a half-billion years](https://www.sciencemag.org/news/2018/09/fossil-one-world-s-earliest-animals-according-fat-molecules-preserved-half-billion) - Science Magazine (Septembre 2018)
 
 ---
 
@@ -309,16 +313,15 @@
 - "dernière phase glaciaire du Néoprotérozoïque, la glaciation Gaskiers. Celle-ci suit la glaciation marinoenne, plus intense encore, qui termine la période Cryogénienne, dernier en date des épisodes de « Terre boule de neige » "
 - 575 Myrs : L'explosion d'Avalon (du nom de la péninsule d'Avalon, au Canada)
 > On y trouve des milliers de fossiles datant de l'Ediacarien
-- La faune d'Ediacara
+- La faune d'Ediacara : premiers animaux pluricellulaires fossiles visibles à l'œil nu
 - "Les fossiles récoltés sur les sites datés de l'Édiacarien sont le plus souvent des moules ou des empreintes dans des grès ou des schistes. "
-- "Si certains des fossiles décrits ont pu être rattachés à des groupes d'organismes déjà connus ou encore existants, d'autres restent énigmatiques. Ces derniers présentent, pour la plupart, une morphologie caractéristique en « plume » ou en « fronde » subdivisée en rameaux et branches selon une structure fractale. "
-- Les rangéomorphes : ils grandissent de manière fractale ! Aucun animal ne grandit comme ça aujourd'hui
-- Dickinsonia (forme de pneu) serait donc bien, malgré l'absence d'une tête et d'un tronc individualisés, un animal.
+- "Si certains des fossiles décrits ont pu être rattachés à des groupes d'organismes déjà connus ou encore existants, d'autres restent énigmatiques. Ces derniers présentent, pour la plupart, une morphologie caractéristique en « plume » ou en « fronde » subdivisée en rameaux et branches selon une structure fractale."
+- Les rangéomorphes (Charnia): "organismes en forme de plume ou de feuille qui vivaient fixés sur le fond par un disque. Un axe central portait des branches primaires qui se divisaient en branches secondaires qui se divisaient elles-mêmes en branches tertiaires." ils grandissent de manière fractale ! Aucun animal ne grandit comme ça aujourd'hui
+- Dickinsonia (forme de pneu, ou de galette striée) serait donc bien, malgré l'absence d'une tête et d'un tronc individualisés, un animal. le plus vieux fossile macroscopique animal au monde ([Bobrovskiy et al 2018](http://science.sciencemag.org/content/361/6408/1246))
 - La faune d'Ediacara est composée d'animaux aux parties molles
-- Charnia
 - On trouve même des animaux avec une symétrie trilatérale, comme Tribrachidium. Il n'y a aucune forme de vie similaire aujourd'hui
 - La faune d'Ediacara était pobablement les premiers métazoaires, 
-> Métazoaire = avec des cellules spécialisées
+> Métazoaire = animaux multicellulaires (avec des cellules spécialisées)
 - la fin de l'Ediacarien est marquée par la disparition mystérieuse des fossiles de la faune d'Ediacara
 - "Le biote d'Ediacara représenterait ainsi une première « bouffée de diversification » des organismes multicellulaires, rapidement avortée."
 - The various elements of the Ediacara fauna are united by one common character, none have any hard parts. There is no evidence of mineralisation in any fossil so far found. 
