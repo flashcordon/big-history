@@ -15,3 +15,9 @@
 # Les grandes philosophies / religions
 
 # Les cycles malthusiens
+
+# La révolution industrielle
+
+- Charbon, pétrole
+
+# Le procédé haber bosch
