@@ -298,18 +298,22 @@
 - [De Burgess à Franceville (Gabon) : les plus anciennes traces fossiles de pluricellulaires](http://planet-terre.ens-lyon.fr/article/fossiles-pluricellulaires.xml)  - Cyril Langlois, Planète Terre, ENS Lyon (Septembre 2010)
 - [Les organismes d'Édiacara : Dickinsonia , un animal précambrien](http://planet-terre.ens-lyon.fr/article/Dickinsonia-Ediacara.xml) - Cyril Langlois (Octobre 2018)
 - [Blog Ediacaran](http://ediacaran.blogspot.com/) - de Chris Neudin, spécialiste de l'Ediacarien
+- [An introduction to the Ediacaran fauna](http://ediacaran.blogspot.com/2008/11/introduction-to-ediacaran-fauna.html) - Chris Neudin 
+- [Les « plumes » de l'Édiacarien, un groupe animal disparu ?](http://planet-terre.ens-lyon.fr/article/Dickinsonia-Ediacara.xml) - Cyril Langlois (Septembre 2018)
 
 ---
 
-- Période : l'Ediacarien (635-541 Myrs) (nommé à cause des collines Ediacara, en Australie, mais on trouve des fossiles de cette période dans de nombreux autres endroits du monde)
+- Période : l'Ediacarien (635-541 Myrs) (nommé à cause des collines Ediacara, en Australie, mais on trouve des fossiles de cette période sur tous les continents à part l'Antarctique)
+- La majorité de ces fossiles sont ronds et ressemblent à des méduses
 - 635 Myrs : fin de la glaciation marinoenne. Alors que les glaces fondent, elles se déversent dans la mer et enrichissent l'océan en nutriment. Ca produit une explosion de cyanobactéries qui produisent de l'oxygène
 - "dernière phase glaciaire du Néoprotérozoïque, la glaciation Gaskiers. Celle-ci suit la glaciation marinoenne, plus intense encore, qui termine la période Cryogénienne, dernier en date des épisodes de « Terre boule de neige » "
 - 575 Myrs : L'explosion d'Avalon (du nom de la péninsule d'Avalon, au Canada)
 > On y trouve des milliers de fossiles datant de l'Ediacarien
-
 - La faune d'Ediacara
+- "Les fossiles récoltés sur les sites datés de l'Édiacarien sont le plus souvent des moules ou des empreintes dans des grès ou des schistes. "
+- "Si certains des fossiles décrits ont pu être rattachés à des groupes d'organismes déjà connus ou encore existants, d'autres restent énigmatiques. Ces derniers présentent, pour la plupart, une morphologie caractéristique en « plume » ou en « fronde » subdivisée en rameaux et branches selon une structure fractale. "
 - Les rangéomorphes : ils grandissent de manière fractale ! Aucun animal ne grandit comme ça aujourd'hui
-- Dickinsonia
+- Dickinsonia (forme de pneu) serait donc bien, malgré l'absence d'une tête et d'un tronc individualisés, un animal.
 - La faune d'Ediacara est composée d'animaux aux parties molles
 - Charnia
 - On trouve même des animaux avec une symétrie trilatérale, comme Tribrachidium. Il n'y a aucune forme de vie similaire aujourd'hui
@@ -317,12 +321,15 @@
 > Métazoaire = avec des cellules spécialisées
 - la fin de l'Ediacarien est marquée par la disparition mystérieuse des fossiles de la faune d'Ediacara
 - "Le biote d'Ediacara représenterait ainsi une première « bouffée de diversification » des organismes multicellulaires, rapidement avortée."
+- The various elements of the Ediacara fauna are united by one common character, none have any hard parts. There is no evidence of mineralisation in any fossil so far found. 
 - "Les organismes présents sont tous fixés et dépourvus de squelette rigide. Les plus courants sont des Rangeomorphes, organismes en forme de frondes segmentées à structure fractale."
 - "le mode d'alimentation précis de ces fossiles reste souvent hypothétique. Dans le cas de l'assemblage Avalon, la profondeur des milieux exclut que ces organismes aient pu être photosynthétiques ou aient abrité des symbiotes photosynthétiques. Leur structure fractale, qui leur procurait une grande surface d'échange, suggère que les Rangéomorphes étaient peut-être des filtreurs ou des osmotrophes. "
 - "Les organismes édiacariens sont toujours énigmatiques, car les communautés édiacariennes se caractérisent par une grande disparité (de nombreux plans d'organisation différents) mais une faible diversité : on ne dénombre qu'une centaine d'espèces, mais beaucoup représentent aussi un genre complet à elle seule"
 - "La faune d'Ediacara est donc encore loin d'être entièrement comprise, ni dans sa structure écologique, ni dans la nature exacte des organismes qui la composent, pas plus que dans les causes de son développement à ce moment précis de l'histoire du Globe. Néanmoins, d'autres fossiles à peine plus anciens montrent que les métazoaires existaient bien dès la fin de la glaciation marinoenne vers -630 Ma. Ils proviennent encore d'un site chinois, les phosphorites de Doushantuo."
 - "La période édiacarienne, quant à elle, voit le développement d'animaux pluricellulaires tridimensionnels, et non plus seulement plats"
 - "Les fossiles gabonais seraient ainsi des eucaryotes pluricellulaires coloniaux, qui repousseraient l'émergence de ces formes de vie au Paléoprotérozoïque. Cela impliquerait aussi que certaines des molécules — et des gènes — permettant l'adhésion et la communication cellulaire existaient déjà à cette époque. Cette découverte n'a pas encore suscité d'objection ni de contestation bien étayée dans les revues scientifiques. Néanmoins, certains blogs scientifiques sérieux ont commencé à lui porter un regard critique, avec quelques arguments."
+
+![ediacara](https://blog.everythingdinosaur.co.uk/wp-content/uploads/2015/12/ediacaran_1.jpg)
 
 # La Terre du Phanérozoique
 
