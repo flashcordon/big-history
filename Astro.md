@@ -17,6 +17,7 @@
 - [Why Does Dark Energy Make the Universe Accelerate?](http://www.preposterousuniverse.com/blog/2013/11/16/why-does-dark-energy-make-the-universe-accelerate/) - Sean Carroll (Novembre 2013)
 - Primordial cosmology - Patrick Peter et Jean Philippe Uzan (2009)
 - [Is Inflationary Cosmology Science?](http://www.preposterousuniverse.com/blog/2017/05/10/is-inflationary-cosmology-science/) - Sean Carroll (Mai 2017)
+- [How Come Cosmic Inflation Doesn’t Break The Speed Of Light?](https://medium.com/starts-with-a-bang/how-come-cosmic-inflation-doesnt-break-the-speed-of-light-182d6bc8e7b0) - Starts with a bang (Avril 2018)
 
 ---
 
@@ -45,9 +46,9 @@
 > Attention, pour les physiciens, le vide n'est pas totalement vide ! Il est un état d'énergie minimal, un océan agité de paires de particules virtuelles qui apparaissent et disparaissent en permanence.
 - Ce faux vide possède une propriété particulière : une pression négative. Cette pression négative est à l'origine d'un champ gravitationnel répulsif (agit comme une sorte d'antigravité), qui est le moteur de l'inflation.
 - Ce champ gravitationnel répulsif provoque une phase d'expansion accélérée de l'univers pendant un certain temps. Cette expansion est exponentielle.
-> Pendant la période inflationnaire (une petite fraction de seconde), la région de l'univers qui correspond à notre univers observable passe d'une taille bien plus petite qu'un proton à une taille équivalente à celle d'un raisin
+> Pendant la période inflationnaire (une petite fraction de seconde : 10^-35s ?), la région de l'univers qui correspond à notre univers observable passe d'une taille bien plus petite qu'un proton à une taille équivalente à celle d'un raisin
 > the distance between two particles would double repeatedly on the same timescale, so they would be twice as far apart after one tick of some cosmic clock, four times as far apart after two ticks, eight times as far apart after three ticks, sixteen times as far apart after four ticks, and so on.
-- A la fin de l'inflation, le faux vide se désintègre, et l'énergie encapsulée dans le faux vide est libérée, ce qui produit une soupe primitive ultra chaude de particules uniforme qui baigne dans du rayonnement (reheating), qui correspond très bien à ce que prédit le modèle du Big Bang. 
+- A la fin de l'inflation (10^-32s), le faux vide se désintègre, et l'énergie encapsulée dans le faux vide est libérée, ce qui produit une soupe primitive ultra chaude de particules uniforme qui baigne dans du rayonnement (reheating), qui correspond très bien à ce que prédit le modèle du Big Bang. 
 > C'est cette phase de "reheating" qui lie les modèles d'inflation avec le modèle du Big Bang
 - L'inflation applatit/lisse l'univers de la même manière qu'une région sur un ballon apparaît plate si on gonfle le ballon suffisamment.
 - would also resolve the horizon problem by taking regions of space that were once close enough to have got to know each other well and spreading them far apart, on opposite sides of the visible Universe today. 
@@ -60,6 +61,10 @@
 
 ***Controverses***
 > In a wide variety of models (not necessarily all), the inflationary energy converts into matter and radiation in some places, but in other places inflation just keeps going, and quantum fluctuations ensure that this process will keep happening forever — “eternal inflation.” 
+
+![inflation](https://users.physics.unc.edu/~cecil/a31/inflate.gif)
+
+![densiteenergieinflation](https://cdn-images-1.medium.com/max/1600/0*RsJt7OkNXeheOsM1.jpg)
 
 ## Le temps de la grande unification
 
