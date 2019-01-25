@@ -75,6 +75,15 @@
 
 ## Plasma de quarks et de gluons
 
+- Pendant les premiers millionièmes de secondes après le Big Bang, tout ce qui existe n'était qu'une soupe infernale faite de particules élémentaires qui se déplaçaient à des vitesses proche de celle de la lumière
+- L’univers s’étendant et en se refroidissant, les particules élémentaires de cette soupe primordiale finirent par s’assembler pour donner progressivement naissance aux protons et aux neutrons
+> * Proton = 2 quarks up et 1 quark down
+> * Neutron = 2 quarks down et 1 quark up 
+- Aujourd'hui, à l'exception des entrailles de quelques accélérateurs de particules (RHIC et LHC), on ne trouve les quarks que par groupes de 2 ou de 3, inséparables pour toujours, et liés entre eux par des particules qu'on appelle des gluons. Ces gluons comme leur nom l’indique vont agir comme une sorte de colle pour les quarks. Ou plutôt comme des ressorts.
+> Plus on tente d'éloigner les quarks d'un proton ou d'un neutron entre eux, plus on tire sur les ressorts, et donc plus leur force de rappel est grande. A l'inverse, plus on rapproche ces quarks, moins ils interagissent entre eux. Autrement dit, plus ils sont proches, plus ils sont libres.
+- La théorie qui décrit l’interaction entre les quarks et les gluons, la chromodynamique quantique, prédit que si on arrive à mettre assez de protons et de neutrons dans un volume suffisamment petit ou à les soumettre à des températures suffisamment élevées, les protons et les neutrons vont finir par fondre littéralement et les quarks, libérés de l'emprise des gluons, pourront enfin se balader dans un volume bien plus grand qu’un proton. On aura alors formé un nouvel état de la matière : le plasma de quarks et de gluons.
+- un dé à coudre de plasma quarks et de gluons pèserait 40 milliards de tonnes, soit l’équivalent de 100 fois la masse combinée de toute l’Humanité. A part les trous noirs stellaires, il n’existe rien de plus dense. 
+
 <img src="https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2012/1-closinginont.jpg" width="400">
 
 ## Matière et antimatière
