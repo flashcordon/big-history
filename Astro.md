@@ -14,6 +14,7 @@
 - [Alan Guth - Why is an Inflationary Universe so Astounding?](https://youtu.be/rv4Ikye9PS8) - Closer to truth (Avril 2017)
 - [The Universe Never Expands Faster Than the Speed of Light](http://www.preposterousuniverse.com/blog/2015/10/13/the-universe-never-expands-faster-than-the-speed-of-light/) - Sean Carroll (Octobre 2015)
 - [Inflation et physique des particules](https://cosmology.education/inflation/probleme-horizon/#!) - Lucas Gautheron
+- [Why Does Dark Energy Make the Universe Accelerate?](http://www.preposterousuniverse.com/blog/2013/11/16/why-does-dark-energy-make-the-universe-accelerate/) - Sean Carroll (Novembre 2013)
 
 ---
 
