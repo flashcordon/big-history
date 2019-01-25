@@ -1,13 +1,18 @@
 
 # Inflation, Big Bang et antimatière
 
-## Inflation
 
 *Sources*
 
+- [Timeline of the formation of the Universe](https://en.wikipedia.org/wiki/Timeline_of_the_formation_of_the_Universe) - Wikipédia
+- [Chronologie : Histoire de la Cosmologie Moderne, de la relativité d'Einstein aux résultats de la mission Planck](https://cosmology.education/?fbclid=IwAR3FG0WmM07a5gn89gZvwk-_frHzroNLWmHMLFLNJziFEWUwc46x2ey2KRc#!) - Lucas Gautheron
 - [Primordial nucleosynthesis: A cosmological point of view](https://aip.scitation.org/doi/pdf/10.1063/1.4875284?class=pdf) - Mathews (2014)
+- [Inflation and the New Era of High-Precision Cosmology](http://web.mit.edu/physics/news/physicsatmit/physicsatmit_02_cosmology.pdf) - Alan Guth, MIT Physics Annual (2002)
+- [Misconceptions about the Big Bang](https://www.mso.anu.edu.au/~charley/papers/LineweaverDavisSciAm.pdf) - Charles Lineweaver, Scientific American (2005)
 
 ---
+
+## Inflation
 
 ***Qu'est ce qui a causé l'inflation ?***
 > La vision traditionnelle nous dit qu'une sorte d'énergie du vide aurait déclenché l'inflation, grâce à l'existence d'un champ scalaire qui interagit avec lui-même. Ce qu'on ne sait pas aujourd'hui, c'est quelle forme prend (mathématiquement) cette énergie du vide. Les formes varient selon les modèles, mais arrivent à des conclusions similaires (décrivent le Big Bang de manière satisfaisante).
