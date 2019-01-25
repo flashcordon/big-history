@@ -27,9 +27,15 @@
 
 ## Inflation
 
-- répond à des problèmes précis :
+- Le scénario de l'inflation donne une explication à des caractéristiques très particulières de l'explosion du Big Bang :
 > * *Le problème de l'horizon :* L'horizon désigne la plus grande distance qui pourrait théoriquement être parcourue par de l'information (ie par des photons) à un instant donné depuis le Big Bang
 > * *Le problème de la platitude :* Le modèle du Big Bang ne prédit pas pourquoi l'univers est si "plat" (au sens "qui obéit à la géométrie Euclidéenne"). Dans un univers plat (en 3D), la somme des angles d'un triangle vaut 180 degrés. Cette platitude, on l'observe dans le CMB. 
+
+- Ce scénario postule que l'univers était dans un état particulier, un "faux vide" (faux au sens de temporaire)
+> Ce faux vide peut prendre de nombreuses formes 
+- Ce faux vide possède une propriété particulière : une pression négative. Cette pression négative est à l'origine d'un champ gravitationnel répulsif, qui est le moteur de l'inflation.
+- Ce champ gravitationnel répulsif provoque une expansion exponentielle de l'univers pendant un certain temps
+- A la fin de l'inflation, le faux vide se désintègre, et l'énergie encapsulée dans le faux vide est libérée, ce qui produit une soupe primitive de particules uniforme, qui correspond très bien à ce que prédit le modèle du Big Bang. 
 
 ***Qu'est ce qui a causé l'inflation ?***
 > La vision traditionnelle nous dit qu'une sorte d'énergie du vide aurait déclenché l'inflation, grâce à l'existence d'un champ scalaire qui interagit avec lui-même. Ce qu'on ne sait pas aujourd'hui, c'est quelle forme prend (mathématiquement) cette énergie du vide. Les formes varient selon les modèles, mais arrivent à des conclusions similaires (décrivent le Big Bang de manière satisfaisante).
