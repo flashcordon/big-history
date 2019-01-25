@@ -14,21 +14,25 @@
 
 ## Big Bang
 
-- Paradoxalement, le modèle du Big Bang ne parle pas du Bang lui-même, mais de ce qui se passe immédiatement après.
-> Il nous décrit comment l'univers s'étend et se refroidit au fil du temps, mais pas ce qui a causé le Bang, ou même ce qui se passe avant le Bang (s'il y a un avant)
-- La théorie de l'inflation propose une description du Bang, ainsi que des scénarios  plausibles sur ce qui l'a causé
-
-## Inflation
-
-***Qu'est ce qui a causé l'inflation ?***
-> La vision traditionnelle nous dit qu'une sorte d'énergie du vide aurait déclenché l'inflation, grâce à l'existence d'un champ scalaire qui interagit avec lui-même. Ce qu'on ne sait pas aujourd'hui, c'est quelle forme prend (mathématiquement) cette énergie du vide. Les formes varient selon les modèles, mais arrivent à des conclusions similaires (décrivent le Big Bang de manière satisfaisante).
-
 ***Comment sait-on qu'il y a eu un big bang ?***
 
 - En 1922, Alexander Friedmann montre que les équations de la relativité générale permettent une solution où l'univers s'étend en partant d'une singularité initiale, ce qui donne une base théorique au modèle du Big Bang
 - Dans les années 20, grâce aux travaux de Vesto Slipher et de Edwin Hubble, on observe que les galaxies s'éloignent les unes des autres, et ce d'autant plus vite qu'elles sont distantes (loi de Hubble-Lemaître). Ce qui implique qu'elles étaient plus proches par le passé
 - Dans les années 60, Penzias et Wilson découvrent le rayonnement de fond diffus cosmologique (CMB), un rayonnement uniforme et identique dans toutes les directions qu'on interprête comme une relique du plasma cosmique primordial. Observation qu'on a affiné plus tard grâce aux satellites COBE, WMAP et Planck. Le CMB a la même température dans toutes les directions, au 1/100 000e de degré près (ie 1 cent millième de degré sépare en moyenne les points les plus chauds et les plus froids du CMB).
 - Les prédictions théoriques de la nucléosynthèse primordiale s'accordent remarquablement bien avec les observations des abondances d'éléments légers dans l'univers (hydrogène, hélium, deutérium, lithium)
+
+- Paradoxalement, le modèle du Big Bang ne parle pas du Bang lui-même, mais de ce qui se passe immédiatement après.
+> Il nous décrit comment l'univers s'étend et se refroidit au fil du temps, mais pas ce qui a causé le Bang, ou même ce qui se passe avant le Bang (s'il y a un avant)
+- La théorie de l'inflation propose une description du Bang, ainsi que des scénarios  plausibles sur ce qui l'a causé
+
+## Inflation
+
+- répond à des problèmes précis :
+> * *Le problème de l'horizon :* L'horizon désigne la plus grande distance qui pourrait théoriquement être parcourue par de l'information (ie par des photons) à un instant donné depuis le Big Bang
+> * *Le problème de la platitude :* Le modèle du Big Bang ne prédit pas pourquoi l'univers est si "plat" (au sens "qui obéit à la géométrie Euclidéenne"). Dans un univers plat (en 3D), la somme des angles d'un triangle vaut 180 degrés. Cette platitude, on l'observe dans le CMB. 
+
+***Qu'est ce qui a causé l'inflation ?***
+> La vision traditionnelle nous dit qu'une sorte d'énergie du vide aurait déclenché l'inflation, grâce à l'existence d'un champ scalaire qui interagit avec lui-même. Ce qu'on ne sait pas aujourd'hui, c'est quelle forme prend (mathématiquement) cette énergie du vide. Les formes varient selon les modèles, mais arrivent à des conclusions similaires (décrivent le Big Bang de manière satisfaisante).
 
 ![Forces](https://cnx.org/resources/96e3d538be70bcf75a7c459302ab50e08e4294a5/CNX_UPhysics_44_07_Unification.jpg)
 
