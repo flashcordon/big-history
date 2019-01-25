@@ -66,7 +66,7 @@
 
 ![densiteenergieinflation](https://cdn-images-1.medium.com/max/1600/0*RsJt7OkNXeheOsM1.jpg)
 
-## Le temps de la grande unification
+## Le découplage des forces fondamentales
 
 - scalar fields are associated with the splitting apart of the original grand unified force into the fundamental forces we know today, as the Universe began to expand and cool.
 - Les Théories de Grande Unifications (GUT) nous disent qu'au temps de Planck (10^-43s), les 4 forces fondamentales étaient réunies en une seule force.
