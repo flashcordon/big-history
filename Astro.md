@@ -33,7 +33,7 @@
 
 ## Inflation
 
-- Le scénario de l'inflation (proposé par Alan Guth en 1980) donne une explication à des caractéristiques très particulières de l'explosion du Big Bang :
+- Le scénario de l'inflation (proposé par Alan Guth puis amélioré par Andrei Linde au début des années 80) donne une explication à des caractéristiques très particulières de l'explosion du Big Bang :
 > * *Le problème de l'horizon :* Le modèle du Big Bang ne prédit pas pourquoi l'unviers est si homogène sur des grandes échelles. Ici l'horizon désigne la plus grande distance qui pourrait théoriquement être parcourue par de l'information (ie par des photons) à un instant donné depuis le Big Bang. the Universe looks the same on opposite sides of the sky (opposite horizons) even though there has not been time since the Big Bang for light (or anything else) to travel across the Universe and back. So how do the opposite horizons "know" how to keep in step with each other? 
 > * *Le problème de la platitude :* Le modèle du Big Bang ne prédit pas pourquoi l'espace-temps de l'univers est si "plat" (au sens "qui obéit à la géométrie Euclidéenne"). Dans un univers plat (en 3D), la somme des angles d'un triangle vaut 180 degrés. Cette platitude, on l'observe dans le CMB. 
 
