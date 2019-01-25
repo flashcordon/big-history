@@ -28,7 +28,7 @@
 - Dans les années 60, Penzias et Wilson découvrent le rayonnement de fond diffus cosmologique (CMB), un rayonnement uniforme et identique dans toutes les directions qu'on interprête comme une relique du plasma cosmique primordial. Observation qu'on a affiné plus tard grâce aux satellites COBE, WMAP et Planck. Le CMB a la même température dans toutes les directions, au 1/100 000e de degré près (ie 1 cent millième de degré sépare en moyenne les points les plus chauds et les plus froids du CMB).
 - Les prédictions théoriques de la nucléosynthèse primordiale s'accordent remarquablement bien avec les observations des abondances d'éléments légers dans l'univers (hydrogène, hélium, deutérium, lithium)
 
-- Paradoxalement, le modèle du Big Bang ne parle pas du Bang lui-même, mais de ce qui se passe immédiatement après.
+- Paradoxalement, le modèle du Big Bang ne parle pas du Bang lui-même, mais de ce qui se passe immédiatement après (à partir de  10^-43s : le temps de Planck).
 > Il nous décrit comment l'univers s'étend et se refroidit au fil du temps, mais pas ce qui a causé le Bang, ou même ce qui se passe avant le Bang (s'il y a un avant)
 - La théorie de l'inflation propose une description du Bang, ainsi que des scénarios  plausibles sur ce qui l'a causé
 
@@ -53,11 +53,12 @@
 ***Qu'est ce qui a causé l'inflation ?***
 > La vision traditionnelle nous dit qu'une sorte d'énergie du vide aurait déclenché l'inflation, grâce à l'existence d'un champ scalaire qui interagit avec lui-même. Ce qu'on ne sait pas aujourd'hui, c'est quelle forme prend (mathématiquement) cette énergie du vide. Les formes varient selon les modèles, mais arrivent à des conclusions similaires (décrivent le Big Bang de manière satisfaisante).
 
-![Forces](https://cnx.org/resources/96e3d538be70bcf75a7c459302ab50e08e4294a5/CNX_UPhysics_44_07_Unification.jpg)
-
 ## Le temps de la grande unification
 
-- scalar fields are associated with the splitting apart of the original grand unified force into the fundamental forces we know today, as the Universe began to expand and cool. 
+- scalar fields are associated with the splitting apart of the original grand unified force into the fundamental forces we know today, as the Universe began to expand and cool.
+- Les Théories de Grande Unifications (GUT) nous disent qu'au temps de Planck (10^-43s), les 4 forces fondamentales étaient réunies en une seule force.
+
+![Forces](https://cnx.org/resources/96e3d538be70bcf75a7c459302ab50e08e4294a5/CNX_UPhysics_44_07_Unification.jpg)
 
 ## Plasma de quarks et de gluons
 
