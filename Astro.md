@@ -9,10 +9,16 @@
 - [Primordial nucleosynthesis: A cosmological point of view](https://aip.scitation.org/doi/pdf/10.1063/1.4875284?class=pdf) - Mathews (2014)
 - [Inflation and the New Era of High-Precision Cosmology](http://web.mit.edu/physics/news/physicsatmit/physicsatmit_02_cosmology.pdf) - Alan Guth, MIT Physics Annual (2002)
 - [Misconceptions about the Big Bang](https://www.mso.anu.edu.au/~charley/papers/LineweaverDavisSciAm.pdf) - Charles Lineweaver, Scientific American (2005)
+- [Cosmic Inflation](https://youtu.be/0uj0HZ3HLFw) - Fermilab (Novembre 2014)
+- [Alan Guth - Why is an Inflationary Universe so Astounding?](https://youtu.be/rv4Ikye9PS8) - Closer to truth (Avril 2017)
+- [The Universe Never Expands Faster Than the Speed of Light](http://www.preposterousuniverse.com/blog/2015/10/13/the-universe-never-expands-faster-than-the-speed-of-light/) - Sean Carroll (Octobre 2015)
 
 ---
 
 ## Big Bang
+
+- Le modèle du Big Bang nous dit que l'univers a XXX
+- Ce modèle est le résultat du marriage entre la physique des particules (l'étude du très petit) et la cosmologie (l'étude du très grand)
 
 ***Comment sait-on qu'il y a eu un big bang ?***
 
@@ -32,18 +38,25 @@
 > * *Le problème de la platitude :* Le modèle du Big Bang ne prédit pas pourquoi l'espace-temps de l'univers est si "plat" (au sens "qui obéit à la géométrie Euclidéenne"). Dans un univers plat (en 3D), la somme des angles d'un triangle vaut 180 degrés. Cette platitude, on l'observe dans le CMB. 
 
 - Ce scénario postule que l'univers était dans un état particulier, un "faux vide" (faux au sens de temporaire), qui peut prendre de nombreuses formes selon les modèles
-> Attention, pour les physiciens, le vide n'est pas totalement vide ! Il est un état d'énergie minimal, un océan agité de particules virtuelles qui apparaissent et disparaissent en permanence.
-- Ce faux vide possède une propriété particulière : une pression négative. Cette pression négative est à l'origine d'un champ gravitationnel répulsif, qui est le moteur de l'inflation.
+> Attention, pour les physiciens, le vide n'est pas totalement vide ! Il est un état d'énergie minimal, un océan agité de paires de particules virtuelles qui apparaissent et disparaissent en permanence.
+- Ce faux vide possède une propriété particulière : une pression négative. Cette pression négative est à l'origine d'un champ gravitationnel répulsif (agit comme une sorte d'antigravité), qui est le moteur de l'inflation.
 - Ce champ gravitationnel répulsif provoque une expansion exponentielle de l'univers pendant un certain temps
 > Pendant la période inflationnaire (une petite fraction de seconde), la région de l'univers qui correspond à notre univers observable passe d'une taille bien plus petite qu'un proton à une taille équivalente à celle d'un raisin
+> the distance between two particles would double repeatedly on the same timescale, so they would be twice as far apart after one tick of some cosmic clock, four times as far apart after two ticks, eight times as far apart after three ticks, sixteen times as far apart after four ticks, and so on.
 - A la fin de l'inflation, le faux vide se désintègre, et l'énergie encapsulée dans le faux vide est libérée, ce qui produit une soupe primitive de particules uniforme, qui correspond très bien à ce que prédit le modèle du Big Bang. 
 - L'inflation applatit/lisse l'univers de la même manière qu'une région sur un ballon apparaît plate si on gonfle le ballon suffisamment.
 - would also resolve the horizon problem by taking regions of space that were once close enough to have got to know each other well and spreading them far apart, on opposite sides of the visible Universe today. 
+- All of these problems would be resolved if something gave the Universe a violent outward push (in effect, acting like antigravity) when it was still about a Planck length in size. Such a small region of space would be too tiny, initially, to contain irregularities, so it would start off homogeneous and isotropic. There would have been plenty of time for signals travelling at the speed of light to have criss-crossed the ridiculously tiny volume, so there is no horizon problem -- both sides of the embryonic universe are "aware" of each other. And spacetime itself gets flattened by the expansion, in much the same way that the wrinkly surface of a prune becomes a smooth, flat surface when the prune is placed in water and swells up. As in the standard Big Bang model, we can still think of the Universe as like the skin of an expanding balloon, but now we have to think of it as an absolutely enormous balloon that was hugely inflated during the first split second of its existence. 
+- the scalar field has done its work of kick-starting the Universe, and is settling down, giving up its energy and leaving a hot fireball expanding so rapidly that even though gravity can now begin to do its work of pulling everything back into a Big Crunch it will take hundreds of billions of years to first halt the expansion and then reverse it. 
 
 ***Qu'est ce qui a causé l'inflation ?***
 > La vision traditionnelle nous dit qu'une sorte d'énergie du vide aurait déclenché l'inflation, grâce à l'existence d'un champ scalaire qui interagit avec lui-même. Ce qu'on ne sait pas aujourd'hui, c'est quelle forme prend (mathématiquement) cette énergie du vide. Les formes varient selon les modèles, mais arrivent à des conclusions similaires (décrivent le Big Bang de manière satisfaisante).
 
 ![Forces](https://cnx.org/resources/96e3d538be70bcf75a7c459302ab50e08e4294a5/CNX_UPhysics_44_07_Unification.jpg)
+
+## Le temps de la grande unification
+
+- scalar fields are associated with the splitting apart of the original grand unified force into the fundamental forces we know today, as the Universe began to expand and cool. 
 
 ## Plasma de quarks et de gluons
 
