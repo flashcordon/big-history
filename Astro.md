@@ -9,6 +9,7 @@
 - [Primordial nucleosynthesis: A cosmological point of view](https://aip.scitation.org/doi/pdf/10.1063/1.4875284?class=pdf) - Mathews (2014)
 - [Inflation and the New Era of High-Precision Cosmology](http://web.mit.edu/physics/news/physicsatmit/physicsatmit_02_cosmology.pdf) - Alan Guth, MIT Physics Annual (2002)
 - [Misconceptions about the Big Bang](https://www.mso.anu.edu.au/~charley/papers/LineweaverDavisSciAm.pdf) - Charles Lineweaver, Scientific American (2005)
+- [Expanding Confusion: common misconceptions of cosmological horizons and the superluminal expansion of the Universe](https://arxiv.org/abs/astro-ph/0310808) - Davis et Lineweaver (2003)
 - [Cosmic Inflation](https://youtu.be/0uj0HZ3HLFw) - Fermilab (Novembre 2014)
 - [Alan Guth - Why is an Inflationary Universe so Astounding?](https://youtu.be/rv4Ikye9PS8) - Closer to truth (Avril 2017)
 - [The Universe Never Expands Faster Than the Speed of Light](http://www.preposterousuniverse.com/blog/2015/10/13/the-universe-never-expands-faster-than-the-speed-of-light/) - Sean Carroll (Octobre 2015)
