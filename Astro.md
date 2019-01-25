@@ -45,8 +45,8 @@
 - Ce scénario postule que l'univers était dans un état particulier, un "faux vide" (faux au sens de temporaire), qui peut prendre de nombreuses formes selon les modèles
 > Attention, pour les physiciens, le vide n'est pas totalement vide ! Il est un état d'énergie minimal, un océan agité de paires de particules virtuelles qui apparaissent et disparaissent en permanence.
 - Ce faux vide possède une propriété particulière : une pression négative. Cette pression négative est à l'origine d'un champ gravitationnel répulsif (agit comme une sorte d'antigravité), qui est le moteur de l'inflation.
-- Ce champ gravitationnel répulsif provoque une phase d'expansion accélérée de l'univers pendant un certain temps. Cette expansion est exponentielle.
-> Pendant la période inflationnaire (une petite fraction de seconde : 10^-35s ?), la région de l'univers qui correspond à notre univers observable passe d'une taille bien plus petite qu'un proton à une taille équivalente à celle d'un raisin
+- Ce champ gravitationnel répulsif provoque vers  10^-35s après le Big Bang une phase d'expansion accélérée de l'univers pendant une minuscule fraction de seconde. Cette expansion est exponentielle.
+> Pendant la période inflationnaire, la région de l'univers qui correspond à notre univers observable passe d'une taille bien plus petite qu'un proton à une taille équivalente à celle d'un raisin
 > the distance between two particles would double repeatedly on the same timescale, so they would be twice as far apart after one tick of some cosmic clock, four times as far apart after two ticks, eight times as far apart after three ticks, sixteen times as far apart after four ticks, and so on.
 - A la fin de l'inflation (10^-32s), le faux vide se désintègre, et l'énergie encapsulée dans le faux vide est libérée, ce qui produit une soupe primitive ultra chaude de particules uniforme qui baigne dans du rayonnement (reheating), qui correspond très bien à ce que prédit le modèle du Big Bang. 
 > C'est cette phase de "reheating" qui lie les modèles d'inflation avec le modèle du Big Bang
