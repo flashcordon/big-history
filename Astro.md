@@ -12,6 +12,7 @@
 - [Cosmic Inflation](https://youtu.be/0uj0HZ3HLFw) - Fermilab (Novembre 2014)
 - [Alan Guth - Why is an Inflationary Universe so Astounding?](https://youtu.be/rv4Ikye9PS8) - Closer to truth (Avril 2017)
 - [The Universe Never Expands Faster Than the Speed of Light](http://www.preposterousuniverse.com/blog/2015/10/13/the-universe-never-expands-faster-than-the-speed-of-light/) - Sean Carroll (Octobre 2015)
+- [Inflation et physique des particules](https://cosmology.education/inflation/probleme-horizon/#!) - Lucas Gautheron
 
 ---
 
