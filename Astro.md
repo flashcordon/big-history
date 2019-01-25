@@ -27,7 +27,7 @@
 
 - En 1922, Alexander Friedmann montre que les équations de la relativité générale permettent une solution où l'univers s'étend en partant d'une singularité initiale, ce qui donne une base théorique au modèle du Big Bang
 - Dans les années 20, grâce aux travaux de Vesto Slipher et de Edwin Hubble, on observe que les galaxies s'éloignent les unes des autres, et ce d'autant plus vite qu'elles sont distantes (loi de Hubble-Lemaître). Ce qui implique qu'elles étaient plus proches par le passé
-- Dans les années 60, Penzias et Wilson découvrent le rayonnement de fond diffus cosmologique (CMB), un rayonnement uniforme et identique dans toutes les directions qu'on interprête comme une relique du plasma cosmique primordial. Observation qu'on a affiné plus tard grâce aux satellites COBE, WMAP et Planck. Le CMB a la même température dans toutes les directions, au 1/100 000e de degré près.
+- Dans les années 60, Penzias et Wilson découvrent le rayonnement de fond diffus cosmologique (CMB), un rayonnement uniforme et identique dans toutes les directions qu'on interprête comme une relique du plasma cosmique primordial. Observation qu'on a affiné plus tard grâce aux satellites COBE, WMAP et Planck. Le CMB a la même température dans toutes les directions, au 1/100 000e de degré près (ie 1 cent millième de degré sépare en moyenne les points les plus chauds et les plus froids du CMB).
 - Les prédictions théoriques de la nucléosynthèse primordiale s'accordent remarquablement bien avec les observations des abondances d'éléments légers dans l'univers (hydrogène, hélium, deutérium, lithium)
 
 ![Forces](https://cnx.org/resources/96e3d538be70bcf75a7c459302ab50e08e4294a5/CNX_UPhysics_44_07_Unification.jpg)
