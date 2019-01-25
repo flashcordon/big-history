@@ -16,6 +16,7 @@
 - [Inflation et physique des particules](https://cosmology.education/inflation/probleme-horizon/#!) - Lucas Gautheron
 - [Why Does Dark Energy Make the Universe Accelerate?](http://www.preposterousuniverse.com/blog/2013/11/16/why-does-dark-energy-make-the-universe-accelerate/) - Sean Carroll (Novembre 2013)
 - Primordial cosmology - Patrick Peter et Jean Philippe Uzan (2009)
+- [Is Inflationary Cosmology Science?](http://www.preposterousuniverse.com/blog/2017/05/10/is-inflationary-cosmology-science/) - Sean Carroll (Mai 2017)
 
 ---
 
@@ -56,6 +57,9 @@
 
 ***Qu'est ce qui a causé l'inflation ?***
 > La vision traditionnelle nous dit qu'une sorte d'énergie du vide aurait déclenché l'inflation, grâce à l'existence d'un champ scalaire (qu'on appelle *inflaton*) qui interagit avec lui-même. Ce qu'on ne sait pas aujourd'hui, c'est quelle forme prend (mathématiquement) cette énergie du vide. Les formes varient selon les modèles, mais arrivent à des conclusions similaires (décrivent le Big Bang de manière satisfaisante). A noter que ce type de champ scalaire n'a pas encore été détecté directement.
+
+***Controverses***
+> In a wide variety of models (not necessarily all), the inflationary energy converts into matter and radiation in some places, but in other places inflation just keeps going, and quantum fluctuations ensure that this process will keep happening forever — “eternal inflation.” 
 
 ## Le temps de la grande unification
 
