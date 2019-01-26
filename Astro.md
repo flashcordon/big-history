@@ -18,6 +18,7 @@
 - Primordial cosmology - Patrick Peter et Jean Philippe Uzan (2009)
 - [Is Inflationary Cosmology Science?](http://www.preposterousuniverse.com/blog/2017/05/10/is-inflationary-cosmology-science/) - Sean Carroll (Mai 2017)
 - [How Come Cosmic Inflation Doesn’t Break The Speed Of Light?](https://medium.com/starts-with-a-bang/how-come-cosmic-inflation-doesnt-break-the-speed-of-light-182d6bc8e7b0) - Starts with a bang (Avril 2018)
+- [REVIEW OF PARTICLE PHYSICS](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.98.030001) - Tanabashi et al, Physical Review D (2018)
 
 ---
 
