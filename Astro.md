@@ -239,6 +239,14 @@
 - Il y a plusieurs manières de fusionner de l’hydrogène, mais toutes les réactions impliquent que 4 noyaux d’hydrogène (protons) donnent naissance à un noyau d’hélium, libérant au passage 2 positrons, 2 neutrinos et 1 photon gamma
 > * Dans les étoiles de masse équivalente au Soleil (<1.2 Msol), la plupart de l’énergie est produite par les chaînes proton-proton (p-p). Elle est évacuée par radiation.
 > * Dans les étoiles plus massives (>1.2 Msol), la plupart de l’énergie est produite par le cycle CNO. Elle est évacuée par convection
+
+*Chaîne p-p*
+
+![pp](https://upload.wikimedia.org/wikipedia/commons/5/56/Proton-proton_reaction_chain.svg)
+
+*Cycle CNO*
+![cno](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CNO_Cycle_fr.png/800px-CNO_Cycle_fr.png)
+
 - Produits de la combustion centrale de l’hydrogène : He, N
 - La plupart de l’énergie libérée par les réactions de fusion servent à chauffer le gaz environnant, et une toute petite fraction s’échappe de l’étoile grâce aux neutrinos, qui interagissent faiblement avec la matière
 - Le destin d’une étoile dépend essentiellement de sa masse. Plus une étoile est massive, plus elle brûle son carburant rapidement, et plus sa vie est brève
@@ -263,6 +271,14 @@
 > * Selon la masse de l’étoile, le reste de l’explosion peut être une étoile à neutron (rayon de l’ordre de 10 km) ou un trou noir.
 - L’idée que les étoiles massives terminent leur vie en supernova vient de Fritz Zwicky (années 30), et les premiers modèles numériques ont vu le jour dans les années 60 (Colgate et al 1961)
 - On estime qu’il y a en moyenne 1.5 à 2 supernovae par effondrement d’étoile massive par siècle dans notre Voie Lactée. On en a vu dans l’histoire (1054, Tycho, Kepler), mais aucune dans notre galaxie depuis l’invention du télescope
+
+*Diagramme de Hertzprung-Russel*
+
+![hr](https://upload.wikimedia.org/wikipedia/commons/1/17/Hertzsprung-Russel_StarData.png)
+
+*Structure en peau d'oignon d'une étoile > 8 Msol*
+
+![oignon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Evolved_star_fusion_shells.svg/800px-Evolved_star_fusion_shells.svg.png)
 
 ## Origine des éléments plus lourds que le fer
 
