@@ -171,8 +171,6 @@
 
 ---
 
-
-
 # Formation des premières étoiles, aube cosmique et réionisation
 
 - [The dark ages of the universe](https://www.cfa.harvard.edu/~loeb/sciam.pdf) - Avi Loeb, Scientific American (2006)
@@ -224,9 +222,6 @@
 ---
 
 - 99 % des atomes de la voie lactée sont de l’hydrogène (90%) et de l’hélium (9%). En masse : Hydrogène 70 %, Hélium 28 % 
-
-# Nucléosynthèse stellaire
-
 - La théorie de l’évolution stellaire est basée sur l’interprétation du diagramme de Hertzprung et Russel (HR, années 1910)
 > Le diagramme HR décrit la luminosité absolue des étoiles en fonction de leur température de surface
 - Dans le voisinage du Soleil, 90 % des étoiles sont dans la séquence principale (bande quasi diagonale)
@@ -245,6 +240,7 @@
 ![pp](https://upload.wikimedia.org/wikipedia/commons/5/56/Proton-proton_reaction_chain.svg)
 
 *Cycle CNO*
+
 ![cno](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CNO_Cycle_fr.png/800px-CNO_Cycle_fr.png)
 
 - Produits de la combustion centrale de l’hydrogène : He, N
@@ -259,7 +255,7 @@
 - Quand le coeur de l’étoile dépourvu d’hydrogène atteint 100-200 millions de K, l’étoile se met à fusionner son hélium en carbone (réaction 3 alpha), ces derniers forment de l’oxygène (par capture de particule alpha, aussi appelée noyau d’hélium : 2 protons et 2 neutrons)
 - Produits de la combustion centrale de l’hélium : C, O, Ne
 - Quand l’hélium est épuisé dans le coeur de l’étoile, le coeur de carbone et d’oxygène se contracte, chauffe la couche périphérique et entame la combustion de l’hélium dans cette couche.
-- Pour les étoiles entre 2 et 10 Msol, cette phase de combustion est instable et l’énergie est libérée par pulses thermiques, ce qui éjecte progressivement les couches externes de l’étoile et la transforme en nébuleuse planétaire pendant quelques dizaines de milliers d’années.
+- Pour les étoiles entre 2 et 8 Msol, cette phase de combustion est instable et l’énergie est libérée par pulses thermiques, ce qui éjecte progressivement les couches externes de l’étoile et la transforme en nébuleuse planétaire pendant quelques dizaines de milliers d’années.
 > Le reste de ce processus est une naine blanche, le coeur inerte de carbone et d’oxygène de l’étoile mis à nu, maintenu par la pression de ses électrons, qui ne peut que refroidir et perdre en luminosité jusqu’à devenir une naine noire.
 - Pour les étoiles > 10 Msol, la combustion des éléments se poursuit jusqu’au fer, qui est le noyau qui possède la plus forte énergie de liaison. L’étoile développe une structure en peau d’oignon, avec des noyaux de plus en plus lourds à mesure qu’on s’approche du centre (du centre à la périphérie : Fer, Silicium, Oxygène, Néon, Carbone, Hélium, Hydrogène).
 > Lorsque la composition du noyau est dominée par les noyaux liés au pic du fer, la contraction du coeur n’arrive plus à générer l’énergie nucléaire nécessaire pour que l’étoile maintienne sa structure. Le noyau de fer s’effondre sur lui-même (en quelques millisecondes, ie moins de temps qu’un battement de cil, qui prend 100 millisecondes !), et l’étoile termine sa vie dans une explosion en supernova.
@@ -275,6 +271,10 @@
 *Diagramme de Hertzprung-Russel*
 
 ![hr](https://upload.wikimedia.org/wikipedia/commons/1/17/Hertzsprung-Russel_StarData.png)
+
+*Fin de vie d'une étoile en fonction de sa masse (de [Hegel et al 2003](https://iopscience.iop.org/article/10.1086/375341/pdf))*
+
+![hegel](http://inspirehep.net/record/1347240/files/f1.png)
 
 *Structure en peau d'oignon d'une étoile > 8 Msol*
 
