@@ -198,7 +198,6 @@
 > C'est un processus assez différent de celui qui crée les étoiles contemporaines : les étoiles actuelles naissent dans des nuages moléculaires riches en poussière et en molécules. Et puis dans les protogalaxies, la matière noire est mélangée initialement avec la matière ordinaire dans des structures de tailles similaires, alors que la matière ordinaire est aujourd'hui concentrée au centre de gigantesques halos de matière noire de tailles galactiques.
 - Les simulations prédisent que les premières étoiles étaient probablement plusieurs centaines de fois plus massives que notre Soleil, et certaines études suggèrent que certaines d’entre elles auraient même pu atteindre près de 1000 fois la masse du Soleil. Elles étaient donc beaucoup plus lumineuses que le Soleil (températures de surface: 10^5K selon un papier de Volker Bromm) et émettent la majorité de leur énergie dans le domaine des UV.
 
-
 ***Pourquoi ces premières étoiles étaient-elles beaucoup plus massives que les étoiles d'aujourd'hui ?***
 > * Le gaz interstellaire d'aujourd'hui est saupoudré de grains de poussières et d'éléments plus lourds que l'hélium, comme le carbone ou l'oxygène, éjectés par les précédentes générations d'étoiles. Ces éléments aident le gaz à refroidir. Un gaz froid est plus dense, et donc s'effondre plus facilement sous son poids.
 > * A l'époque des premières étoiles, le gaz interstellaire ne contenait pas d'éléments plus lourds que le lithium. Et l'hydrogène (atomique et moléculaire) n'aide pas vraiment le gaz à refroidir (rayonne moins bien l'énergie qu'il absorbe). Le gaz ne pouvait pas alors refroidir en deçà d'une certaine température, et donc l'hydrogène chaud ne permettait pas à des masses de gaz équivalentes à celles des étoiles d'aujourd'hui d'atteindre une densité suffisante pour former une étoile. Les nuages de gaz ont donc accumulé de plus en plus de gaz jusqu'à ce que la gravité compense la pression du gaz et que la densité du coeur soit suffisante pour amorcer les réactions de fusion, ce qui en a fait des étoiles bien plus massives que la plupart des étoiles qu'on trouve aujourd'hui.
@@ -215,26 +214,55 @@
 
 ![firststars](https://universe-review.ca/I08-13-firststars6.jpg)
 
-## Réionisation
+# Nucléosynthèse stellaire
 
-- depuis l’époque de l’émission du fond diffus cosmologique, 380 000 ans après le Big Bang, la matière visible dans l’univers a été électriquement neutre.
-- Les premières étoiles émettent la plupart de leur énergie dans le domaine des UV, des photons assez énergétiques pour ioniser l'hydrogène environnant (arrachent les électrons aux atomes d'hydrogènes qu'ils rencontrent). Cela chauffe l'hydrogène interstellaire à des températures de 10 000 degrés, et des bulles d'hydrogène ionisé commencent à entourer les étoiles.
-- A mesure que de plus en plus d'étoiles se forment au fil des centaines de millions d'années, les bulles de gaz ionisé grossissent et fusionnent entre elles, et finissent par remplir tout l'espace.
-- L'époque de la réionisation se termine à peu près vers un milliard d’années après le Big Bang, au moment où l’intégralité du gaz de l’univers est ionisé (données: le spectre des quasars provenant de cette époque)
-- Les recherches actuelles suggèrent que les premières étoiles n’étaient pas assez nombreuses pour réioniser l’univers tout entier, même si on connaît encore mal l’étendue de leur contribution. Dans tous les cas, d’autres objets brillants semblent avoir été à l’oeuvre. 
-- Parmi ces objets, de bons candidats sont les noyaux actifs de galaxies (AGN ou quasars), des trous noirs supermassifs (qui constituent aujourd'hui le coeur des galaxies contemporaines) entourés par du gaz chauffé par friction à des millions de degrés et qui produisent des quantités phénoménales de rayons X et ultraviolets, ce qui peut les rendre 100 fois plus brillants que la galaxie qui les accueille. Le problème, c’est qu’on ne sait pas encore combien de noyaux actifs de galaxies il y avait à l’époque de la réionisation
-> * Dans un AGN, une partie du gaz chauffé autour du trou noir se retrouve expulsé sous forme de jet qui brille tant qu'on peut l'observer depuis l'autre bout de l'univers. -> phare cosmique !
-> * Le quasar le plus distant connu à ce jour, ULAS J1342+0928 (z=7.54), a émis la lumière qui nous parvient sur Terre aujourd'hui moins de 690 millions d'années après le Big Bang. Son trou noir supermassif associé est aussi massive que 800 millions de Soleils. 
-- L'étude de la lumière des quasars dont le jet est dirigé vers nous nous donne des indices sur le déroulement de la réionisation. 
-> Le gaz d'hydrogène intergalactique neutre sur la ligne de visée absorbe une partie de la lumière émise par le quasar, alors que l'hydrogène ionisé permet à la lumière de passer. La longueur d'onde de la lumière du quasar est aussi étirée par l'expansion de l'univers au fil de son voyage vers nos télescopes.
-> C'est en observant des quasars brillants et lointains que Gunn et Peterson ont découvert en 1965 que l'univers a connu une époque de réionisation.
-- La prochaine génération de télescopes (JWST, LOFAR, MWA, SKA) devrait nous ouvrir une nouvelle fenêtre sur l'époque de la réionisation. La cartographie en 3D de l'hydrogène intergalactique (via la raie à 21cm) à différentes époques de l'histoire de l'univers nous donnera des clés pour comprendre comment les bulles d'hydrogène ionisé ont grandi et à quelle vitesse, ce qui devrait nous donner des indices sur la nature des sources de la réionisation (les étoiles émettent principalement des UV qui sont rapidement bloqués par l'hydrogène intergalactique, tandis que les AGN émettent principalement des rayons X, qui pénètrent le gaz plus profondément, et donne des bulles de gaz ionisé plus "floues").
+*Sources*
 
-![quasar](https://www.easynotecards.com/uploads/7/19/_16608c384_144fee962ba__8000_00000617.jpg)
+- Formation des systèmes stellaires et planétaires, conditions d’apparition de la vie – Académie Européenne interdisciplinaire des sciences (2015) : la police de ce bouquin est cool !
+- Death from the skies – Phil Plait
 
-![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
+---
+
+- 99 % des atomes de la voie lactée sont de l’hydrogène (90%) et de l’hélium (9%). En masse : Hydrogène 70 %, Hélium 28 % 
 
 # Nucléosynthèse stellaire
+
+- La théorie de l’évolution stellaire est basée sur l’interprétation du diagramme de Hertzprung et Russel (HR, années 1910)
+> Le diagramme HR décrit la luminosité absolue des étoiles en fonction de leur température de surface
+- Dans le voisinage du Soleil, 90 % des étoiles sont dans la séquence principale (bande quasi diagonale)
+- Dans une génération d’étoiles, les étoiles massives sont très peu nombreuses (moins de 1%). Mais ce sont elles qui gouvernent l’évolution chimique de l’univers !
+- Les étoiles doivent leur stabilité à l’équilibre entre leur gravité et leur pression interne
+- La température du coeur des étoiles est si élevée qu’elle induit des réactions de fusion nucléaire des noyaux d’hydrogène
+> * Pour une étoile de 0.08 fois la masse du Soleil, la température du coeur est de 2 million de degrés 
+> * La température du coeur du Soleil est de 15 millions de degrés
+> * Pour une étoile de 100 fois la masse du Soleil, la température du coeur est de 30 millions de degrés 
+- Il y a plusieurs manières de fusionner de l’hydrogène, mais toutes les réactions impliquent que 4 noyaux d’hydrogène (protons) donnent naissance à un noyau d’hélium, libérant au passage 2 positrons, 2 neutrinos et 1 photon gamma
+> * Dans les étoiles de masse équivalente au Soleil (<1.2 Msol), la plupart de l’énergie est produite par les chaînes proton-proton (p-p). Elle est évacuée par radiation.
+> * Dans les étoiles plus massives (>1.2 Msol), la plupart de l’énergie est produite par le cycle CNO. Elle est évacuée par convection
+- Produits de la combustion centrale de l’hydrogène : He, N
+- La plupart de l’énergie libérée par les réactions de fusion servent à chauffer le gaz environnant, et une toute petite fraction s’échappe de l’étoile grâce aux neutrinos, qui interagissent faiblement avec la matière
+- Le destin d’une étoile dépend essentiellement de sa masse. Plus une étoile est massive, plus elle brûle son carburant rapidement, et plus sa vie est brève
+> * Les étoiles les plus massives (plusieurs dizaines de Msol) ne vivent que quelques millions d’années.
+> * Notre Soleil a une durée de vie de 10 milliards d’années environ
+> * Les moins massives sont sensées vivre des milliers de milliards d’années durant
+- La phase de combustion de l’hydrogène est la plus longue phase de combustion dans la vie d’une étoile (ce qui explique pourquoi la majorité des étoiles se trouvent sur la séquence principale)
+- Une fois le carburant d’hydrogène épuisé, la gravité reprend le dessus et le coeur se contracte. Les couches entourant le coeur sont portées à des températures suffisantes pour fusionner l’hydrogène.
+- Cette réaction produit la dilatation de l’enveloppe de l’étoile, qui se met à gonfler (et à refroidir) et transforme l’étoile en géante rouge
+- Quand le coeur de l’étoile dépourvu d’hydrogène atteint 100-200 millions de K, l’étoile se met à fusionner son hélium en carbone (réaction 3 alpha), ces derniers forment de l’oxygène (par capture de particule alpha, aussi appelée noyau d’hélium : 2 protons et 2 neutrons)
+- Produits de la combustion centrale de l’hélium : C, O, Ne
+- Quand l’hélium est épuisé dans le coeur de l’étoile, le coeur de carbone et d’oxygène se contracte, chauffe la couche périphérique et entame la combustion de l’hélium dans cette couche.
+- Pour les étoiles entre 2 et 10 Msol, cette phase de combustion est instable et l’énergie est libérée par pulses thermiques, ce qui éjecte progressivement les couches externes de l’étoile et la transforme en nébuleuse planétaire pendant quelques dizaines de milliers d’années.
+> Le reste de ce processus est une naine blanche, le coeur inerte de carbone et d’oxygène de l’étoile mis à nu, maintenu par la pression de ses électrons, qui ne peut que refroidir et perdre en luminosité jusqu’à devenir une naine noire.
+- Pour les étoiles > 10 Msol, la combustion des éléments se poursuit jusqu’au fer, qui est le noyau qui possède la plus forte énergie de liaison. L’étoile développe une structure en peau d’oignon, avec des noyaux de plus en plus lourds à mesure qu’on s’approche du centre (du centre à la périphérie : Fer, Silicium, Oxygène, Néon, Carbone, Hélium, Hydrogène).
+> Lorsque la composition du noyau est dominée par les noyaux liés au pic du fer, la contraction du coeur n’arrive plus à générer l’énergie nucléaire nécessaire pour que l’étoile maintienne sa structure. Le noyau de fer s’effondre sur lui-même (en quelques millisecondes, ie moins de temps qu’un battement de cil, qui prend 100 millisecondes !), et l’étoile termine sa vie dans une explosion en supernova.
+- On comprend encore mal les mécanismes d’explosion de ces supernovae par effondrement du coeur, mais voici un scénario plausible :
+> *  Au moment de l’effondrement du coeur, ce dernier est extrêmement comprimé et chauffé : il devient une boule de quelques kilomètres de diamètre et sa température atteint 1 milliard de degrés.
+> *  La gravité du coeur comprimé entraîne les couches périphériques dans une chute sur le coeur à des vitesses proches de celle de la lumière. En atteignant le coeur, le gaz rebondit dessus. Mais ça ne suffit pas encore à faire exploser l’étoile !
+> *  Lorsque les couches de gaz chutent sur le noyau de fer comprimé, la pression est telle que les électrons et les protons du coeur se transforment en neutrons, et cette réaction produit une quantité phénoménale de neutrinos. L’énergie portée par ces neutrinos est équivalente à l’énergie que le Soleil émet durant toute sa vie !
+> *  D’ordinaire, les neutrinos n’interagissent que peu avec la matière. Mais dans le cas d’une supernova, les couches de gaz au dessus du coeur sont si denses qu’une petite fraction des neutrinos (1% ?) transmet leur énergie au gaz. Et c’est ce qui provoque l’explosion de l’étoile.
+> * Selon la masse de l’étoile, le reste de l’explosion peut être une étoile à neutron (rayon de l’ordre de 10 km) ou un trou noir.
+- L’idée que les étoiles massives terminent leur vie en supernova vient de Fritz Zwicky (années 30), et les premiers modèles numériques ont vu le jour dans les années 60 (Colgate et al 1961)
+- On estime qu’il y a en moyenne 1.5 à 2 supernovae par effondrement d’étoile massive par siècle dans notre Voie Lactée. On en a vu dans l’histoire (1054, Tycho, Kepler), mais aucune dans notre galaxie depuis l’invention du télescope
 
 ## Origine des éléments plus lourds que le fer
 
@@ -258,10 +286,10 @@ Burcher
 - Les éléments plus lourds que le fer sont produits essentiellement par 2 processus : la capture rapide de neutrons, ou processus r (pour rapide), et la capture lente de neutrons, ou processus s (pour slow) (Burbidge et al. 1957). 
 - Chacun de ces processus est responsable d'à peu près la moitié des abondances en éléments plus lourds que le fer dans la Galaxie
 - Quelques éléments plus lourds que le fer, comme le baryum ou le zirconium sont forgés exclusivement par le processus s.
-> ***Processus s:*** Un noyau atomique capture un neutron et celui-ci se transforme en proton via désintégration radioactive (désintégration beta), ce qui transforme le neutrons en protons (et libère un électron et un antineutrino). Le noyau instable a le temps de se désintégrer radioactivement avant de capturer un autre neutron. Le nombre de protons de l'atome augmente ainsi petit à petit sur des milliers d'années. La création de noyaux atomiques par le processus s requiert des flux de neutrons relativement bas (~10^8 cm-3) et des températures de l'ordre de la centaine de millions de degrés, ainsi que des noyaux de fer issus de précédentes générations d'étoiles pour déclencher le processus. Le processus s se produit essentiellement dans la couche d'hélium de certaines étoiles en fin de vie (étoiles AGB de moins de 8 masses solaires)
+> ***Processus s:*** Un noyau atomique capture un neutron et celui-ci se transforme en proton via désintégration radioactive (désintégration beta), ce qui transforme le neutrons en protons (et libère un électron et un antineutrino). Le noyau instable a le temps de se désintégrer radioactivement avant de capturer un autre neutron. Le nombre de protons de l'atome augmente ainsi petit à petit sur des milliers d'années. La création de noyaux atomiques par le processus s requiert des flux de neutrons relativement bas (~10^8 cm-3) et des températures de l'ordre de la centaine de millions de degrés, ainsi que des noyaux de fer issus de précédentes générations d'étoiles pour déclencher le processus. Le processus s se produit essentiellement dans la couche d'hélium de certaines étoiles en fin de vie (étoiles AGB de moins de 8 masses solaires). Dans la phase AGB d’une étoile de masse intermédiaire, pendant les pulses thermiques, des protons de la couche d’hydrogène sont amenés dans la couche d’hélium. Ces protons permettent la création de beaucoup de neutrons par des processus complexes. Les noyaux proches du pic de fer capturent ces protons, ce qui permet la création de noyaux avec 90 < A < 210.  Ensuite, l’enveloppe convective de l’étoile pénètre dans les profondeurs de l’étoile et ramène à la surface les éléments lourds, qui sont enfin éjectés dans l’espace interstellaire grâce aux puissants vents stellaires lors de la phase de nébuleuse planétaire.
 - Quelques éléments plus lourds que le fer, comme l'or ou le platinium, sont forgés exclusivement par le processus r.
 > ***Processus r:*** Un noyau atomique est bombardé très rapidement par une grande quantité de neutrons jusqu'à atteindre un état stable avant d'entamer une désintégration radioactive (désintégration beta), ce qui transforme des neutrons en protons (et libère des électrons et des antineutrinos). Les neutrons étant neutres, ils pénètrent plus facilement dans les noyaux que les protons.
-> La création de noyaux atomiques par le processus r requiert des températures immenses (> 1 milliard de degrés) et un énorme flux de neutrons (> 10^22 cm-3). Il se produit en moins d'une seconde.
+> La création de noyaux atomiques par le processus r requiert des températures immenses (> 1 milliard de degrés) et un énorme flux de neutrons (> 10^22 cm-3). Il se produit en moins d'une seconde. L’énergie libérée par l’onde de choc de l’explosion d’une supernova est suffisante pour déclencher des réactions nucléaires par le processus r.
 - Il y a actuellement un débat sur le processus majeur qui est à l'oeuvre dans la création de ces noyaux lourds par le processus r. Dans tous les cas, l'énorme flux de neutrons associé doit nécessairement être lié à un événement catastrophique. Ces éléments peuvent être forgés lors de supernovae de type II (relativement fréquentes mais avec peu de masse créée), ou lors de collisions d'étoiles à neutrons (plus rares mais avec plus de masse créée). Mais la question n'est pas encore résolue à ce jour.
 - Le problème des supernovae, c'est qu'elles ne semblent pas produire des flux de neutrons assez importants.
 - Des modèles récents ([Côté et al 2018](http://iopscience.iop.org/article/10.3847/1538-4357/aaad67/meta)) prédisent qu'une collision entre étoiles à neutrons peut générer entre 3 et 13 fois la masse de la Terre en or. (données : les ondes gravitationnelles générées par un tel événement)
@@ -269,6 +297,25 @@ Burcher
 ![rsprocess](https://www.knowablemagazine.org/sites/default/files/articles/content/2018-01/S-R%20Process.svg)
 
 ## Premiers minéraux
+
+## Réionisation
+
+- depuis l’époque de l’émission du fond diffus cosmologique, 380 000 ans après le Big Bang, la matière visible dans l’univers a été électriquement neutre.
+- Les premières étoiles émettent la plupart de leur énergie dans le domaine des UV, des photons assez énergétiques pour ioniser l'hydrogène environnant (arrachent les électrons aux atomes d'hydrogènes qu'ils rencontrent). Cela chauffe l'hydrogène interstellaire à des températures de 10 000 degrés, et des bulles d'hydrogène ionisé commencent à entourer les étoiles.
+- A mesure que de plus en plus d'étoiles se forment au fil des centaines de millions d'années, les bulles de gaz ionisé grossissent et fusionnent entre elles, et finissent par remplir tout l'espace.
+- L'époque de la réionisation se termine à peu près vers un milliard d’années après le Big Bang, au moment où l’intégralité du gaz de l’univers est ionisé (données: le spectre des quasars provenant de cette époque)
+- Les recherches actuelles suggèrent que les premières étoiles n’étaient pas assez nombreuses pour réioniser l’univers tout entier, même si on connaît encore mal l’étendue de leur contribution. Dans tous les cas, d’autres objets brillants semblent avoir été à l’oeuvre. 
+- Parmi ces objets, de bons candidats sont les noyaux actifs de galaxies (AGN ou quasars), des trous noirs supermassifs (qui constituent aujourd'hui le coeur des galaxies contemporaines) entourés par du gaz chauffé par friction à des millions de degrés et qui produisent des quantités phénoménales de rayons X et ultraviolets, ce qui peut les rendre 100 fois plus brillants que la galaxie qui les accueille. Le problème, c’est qu’on ne sait pas encore combien de noyaux actifs de galaxies il y avait à l’époque de la réionisation
+> * Dans un AGN, une partie du gaz chauffé autour du trou noir se retrouve expulsé sous forme de jet qui brille tant qu'on peut l'observer depuis l'autre bout de l'univers. -> phare cosmique !
+> * Le quasar le plus distant connu à ce jour, ULAS J1342+0928 (z=7.54), a émis la lumière qui nous parvient sur Terre aujourd'hui moins de 690 millions d'années après le Big Bang. Son trou noir supermassif associé est aussi massive que 800 millions de Soleils. 
+- L'étude de la lumière des quasars dont le jet est dirigé vers nous nous donne des indices sur le déroulement de la réionisation. 
+> Le gaz d'hydrogène intergalactique neutre sur la ligne de visée absorbe une partie de la lumière émise par le quasar, alors que l'hydrogène ionisé permet à la lumière de passer. La longueur d'onde de la lumière du quasar est aussi étirée par l'expansion de l'univers au fil de son voyage vers nos télescopes.
+> C'est en observant des quasars brillants et lointains que Gunn et Peterson ont découvert en 1965 que l'univers a connu une époque de réionisation.
+- La prochaine génération de télescopes (JWST, LOFAR, MWA, SKA) devrait nous ouvrir une nouvelle fenêtre sur l'époque de la réionisation. La cartographie en 3D de l'hydrogène intergalactique (via la raie à 21cm) à différentes époques de l'histoire de l'univers nous donnera des clés pour comprendre comment les bulles d'hydrogène ionisé ont grandi et à quelle vitesse, ce qui devrait nous donner des indices sur la nature des sources de la réionisation (les étoiles émettent principalement des UV qui sont rapidement bloqués par l'hydrogène intergalactique, tandis que les AGN émettent principalement des rayons X, qui pénètrent le gaz plus profondément, et donne des bulles de gaz ionisé plus "floues").
+
+![quasar](https://www.easynotecards.com/uploads/7/19/_16608c384_144fee962ba__8000_00000617.jpg)
+
+![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
 
 # Formation des galaxies
 
