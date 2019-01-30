@@ -125,6 +125,7 @@
 - Sans la nucléosynthèse primordiale, il n'y aurait pas de neutrons dans l'univers aujourd'hui vu que la durée de vie d'un neutron libre est de 15 minutes.
 >  le neutron se désintègre en un proton, un électron et un antineutrino électronique (désintégration béta)
 - L'hydrogène représente 63 % des atomes et 10 % de la masse du corps humain. Ces atomes sont aussi vieux que le cosmos !
+- 99 % des atomes de la voie lactée sont de l’hydrogène (90%) et de l’hélium (9%). En masse : Hydrogène 70 %, Hélium 28 % 
 
 ***Note sur les temps utilisés dans l'univers primordial :*** Les valeurs en temps dépendent des modèles. La grandeur la plus fiable pour calculer l'évolution des grandeurs quand on fait de la cosmologie primordiale c'est la température de l'univers.
 
@@ -221,7 +222,6 @@
 
 ---
 
-- 99 % des atomes de la voie lactée sont de l’hydrogène (90%) et de l’hélium (9%). En masse : Hydrogène 70 %, Hélium 28 % 
 - La théorie de l’évolution stellaire est basée sur l’interprétation du diagramme de Hertzprung et Russel (HR, années 1910)
 > Le diagramme HR décrit la luminosité absolue des étoiles en fonction de leur température de surface
 - Dans le voisinage du Soleil, 90 % des étoiles sont dans la séquence principale (bande quasi diagonale)
