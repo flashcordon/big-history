@@ -367,3 +367,9 @@ Burcher
 
 ***La zone d'habitabilité***
 
+- La Terre est la seule planète du système solaire à abriter de l'eau liquide à sa surface, mais ce n'est pas le seul corps à abriter de l'eau tout court !
+> * Mars contient environ 50% de la quantité d'eau terrestre (piégée dans ses glaciers)
+> * Europe, une lune de Jupiter, contient 2.5 fois plus d'eau que la Terre
+> * Encelade, une lune de Saturne, contient 5 fois plus d'eau que la Terre
+> * Ganymède, une lune de Jupiter, contient environ 10 fois plus d'eau que la Terre
+- Il y a donc beaucoup d'eau dans le système solaire. Mais surtout sous forme de glace.
