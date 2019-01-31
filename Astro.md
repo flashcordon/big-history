@@ -367,6 +367,12 @@ Burcher
 
 ***La zone d'habitabilité***
 
+*Sources*
+
+- [Water and Ice](https://youtu.be/zU46kdTtlUk) - Crash Course Cryosphere (2017)
+
+---
+
 - La Terre est la seule planète du système solaire à abriter de l'eau liquide à sa surface, mais ce n'est pas le seul corps à abriter de l'eau tout court !
 > * Mars contient environ 50% de la quantité d'eau terrestre (piégée dans ses glaciers)
 > * Europe, une lune de Jupiter, contient 2.5 fois plus d'eau que la Terre
