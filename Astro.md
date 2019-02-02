@@ -379,3 +379,90 @@ Burcher
 > * Encelade, une lune de Saturne, contient 5 fois plus d'eau que la Terre
 > * Ganymède, une lune de Jupiter, contient environ 10 fois plus d'eau que la Terre
 - Il y a donc beaucoup d'eau dans le système solaire. Mais surtout sous forme de glace.
+
+# Les exoplanètes
+
+# Les exoplanètes
+
+*Sources*
+
+- [Méthodes de détection des exoplanètes](https://fr.wikipedia.org/wiki/M%C3%A9thodes_de_d%C3%A9tection_des_exoplan%C3%A8tes) – Wikipédia
+- Astronomie, Astrophysique: introduction – Agnès Acker (2007)
+- [NASA Exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/)
+- [The extrasolar planet encyclopaedia][http://exoplanet.eu/)
+- [The nature of the TRAPPIST-1 exoplanets](https://arxiv.org/abs/1802.01377) – Grimm et al (2018)
+- [Modelling climate diversity, tidal dynamics and the fate of volatiles on TRAPPIST-1 planets](https://arxiv.org/pdf/1707.06927.pdf) – Turbet et al (2017)
+- [Probability of CME Impact on Exoplanets Orbiting M Dwarfs and Solar-Like Stars](https://arxiv.org/abs/1605.02683) - Kay et al (2016)
+- [Habitability of red dwarf systems](https://en.wikipedia.org/wiki/Habitability_of_red_dwarf_systems) – Wikipédia
+- [Exoplanets detection methods](http://exoplanet.eu/media/flatpages_documents/20180101-macp-detection-methods-color.pdf)
+- [Les exoplanètes](http://exoplanetes.esep.pro/)
+- [Propriétés des exoplanètes](http://exoplanetes.esep.pro/index.php/cours-fr/proprietes-des-exoplanetes-fr)
+- [Planetary habitability laboratory](http://phl.upr.edu/projects/habitable-exoplanets-catalog) – Université de Porto Rico
+- [Prevalence of Earth-size planets orbiting Sun-like stars](https://www.pnas.org/content/early/2013/10/31/1319909110) - Petigura et al. 2013
+- [Unbound or Distant Planetary Mass Population Detected by Gravitational Microlensing](https://arxiv.org/pdf/1105.3544v1.pdf) – Sumi et al (2011)
+- [20 Intriguing Exoplanets](https://www.nasa.gov/feature/jpl/20-intriguing-exoplanets) – JPL (Octobre 2015)
+ - [Top 5 Strangest and Most Terrifying Planets in the Universe](https://medium.com/@Ella_alderson/top-5-strangest-and-most-terrifying-planets-in-the-universe-ace289402c76) – Medium (Juin 2018)
+
+---
+
+- Une exoplanète est une planète située en dehors du Système solaire. 
+- A ce jour (31 Janvier 2019), on recense environ 3900 exoplanètes confirmées, dont près de 650 systèmes contenant plusieurs planètes.
+- Une exoplanète est nommée à partir du nom de l'étoile autour de laquelle elle tourne, suivi d'une lettre latine, b pour la première planète découverte autour de cette étoile, c pour la suivant, etc...
+- En se limitant aux étoiles de type solaire, il y a, en moyenne, 2 planètes par étoile.
+- Eles ont des configurations très diverses. Des planètes ont des orbites très allongées, d'autres tournent autour d'étoiles doubles, d'autres autour d'une étoile faisant partie d’un système stellaire multiple.
+- Alors que dans notre système solaire les planètes géantes se trouvent dans la zone externe du système, on trouve de nombreuses exoplanètes géantes très proches de leur étoile, parfois plus proches que Mercure l'est du Soleil (Jupiter chauds)
+> Il est possible que plusieurs de ces exoplanètes aient "migré" fortement au sein du disque gazeux dans lequel elles se sont formées.  Si on comprend encore mal la formation de ces planètes géantes, on l'étudie de plus en plus à l'aide de simulations numériques
+- Il y a beaucoup de planètes dans la Zone Habitable, ou zone d'habitabilité (ZH) de leur étoile. La ZH est la region autour de l’étoile où les conditions physiques à la surface d’une planète rendent possible de l’eau à l’état liquide. Selon de récentes estimations ([Petigura et al. 2013](https://www.pnas.org/content/early/2013/10/31/1319909110)), 1 étoile de type solaire sur 5 (22%) pourrait abriter une planète de la taille de la Terre dans sa zone habitable. Ces planètes se compteraient donc en dizaines de milliards dans la galaxie.
+> On connait à ce jour une cinquantaine de planètes dans la zone habitable (49 en Février 2019), dont 16 de la taille de la Terre, 1 de la taille de Mars et 32 plus grandes que la Terre (super Terres). Elles orbitent toutes autour d'étoiles naines (naine orange ou naine rouge)
+
+***Méthodes de détection***
+- ***La méthode des transits*** : si un système stellaire est bien orienté par rapport à nous (ie vu par la tranche), à chaque fois qu’une planète du système passe devant son étoile, elle produit une minuscule éclipse (un transit), qu'on peut mesurer. La profondeur du transit (variation de luminosité) nous permet de déduire le diamètre de la planète, et le temps entre 2 transits nous donne la période de révolution de la planète. Près de 3000 planètes (2789) ont été détectées avec cette méthode en Janvier 2018.
+> Osiris (HD 209548 b) est la 1ère exoplanète à avoir été découverte par la méthode des transits, en 1999. Située à 159 années lumière du système solaire, elle orbite autour de son étoile à 1/8e de la distance Mercure-Soleil. C'est une géante gazeuse légèrement plus grande que Jupiter (rayon : 1.32 fois celui de Jupiter, masse : 0.69 fois celle de Jupiter), à la température de surface de 1000K, et tourne autour de son étoile en 3.5 jours. Son atmosphère est soufflée par l'étoile et forme une longue queue gazeuse, comme la queue des comètes
+- ***La méthode des vitesses radiales*** : le mouvement de la planète autour de son étoile induit un léger mouvement de l'étoile (vu que les 2 orbitent autour de leurbarycentre commun), qui est détectable par effet Doppler. On mesure les variations de vitesses radiales de l'étoile, et si ces variations sont périodiques, il y a de grandes chances pour que cela soit dû à une planète. Elle favorise la détection de planètes massives proche de l'étoile (Jupiter chauds).  662 planètes ont été détectées avec cette méthode en Janvier 2018
+> 51 Peg b est la première exoplanète à avoir été découverte par la méthode des vitesses radiales (et la 1ère exoplanète tout court à avoir été découverte) en 1995, à l'observatoire de Haute Provence, par 2 astronomes suisses : Michel Mayor et Didier Queloz. 51 Peg b est 700 fois plus massive que la Terre, a une température de surface de 1700K et tourne en 4.23 jours autour de son étoile (à 7.5 millions de km).
+- ***Les microlentilles gravitationnelles*** : le champ gravitationnel d'une étoile déforme l'espace-temps, ce qui dévie la lumière issue d'une étoile distante située derrière, à la manière d'une lentille (effet de microlentille gravitationnelle). Si l'étoile qui agit comme une lentille possède une planète, le champ de cette dernière peut avoir un effet qui, bien que faible, soit détectable. Cet effet n'est visible que si les deux étoiles sont pratiquement alignées. Cette méthode fonctionne bien mieux pour les planètes proches de la Terre et du centre de la Galaxie, où de nombreuses étoiles forment l'arrière-plan. Un inconvénient est qu'il est impossible de reproduire une observation : les alignements sont uniques. Une cinquantaine de planètes (53) ont été détectées avec cette méthode en Janvier 2018.
+- ***L'imagerie directe*** : Cette méthode consiste à prendre une image du système planétaire, où la planète apparaît comme un point. Pour être détectée en imagerie, une planète doit être lumineuse et éloignée de l'étoile.  44 planètes ont été détectées avec cette méthode en Janvier 2018
+> La première exoplanète à avoir été détectée par imagerie directe (infrarouge) est une jeune géante gazeuse qui orbite autour d'une naine brune à 170 années lumière du système solaire, 2M1207 b. Elle a été découverte en 2004 grâce à des observations du VLT au Chili. Elle se trouve à une distance équivalente à celle entre Pluton et le Soleil. Sa température de surface est de 1600K (+-100K) et sa masse est de 8 (+-2) fois la masse de Jupiter.
+
+***Exoplanètes insolites***
+- Proxima b : l'exoplanète la plus proche de notre étoile, et elle se trouve dans la zone d'habitabilité de son étoile, une naine rouge.
+- Corot 7b : une face de la planète est une mer de lave, l'autre face est ultra froide. Probablement le reste du coeur d'une planète géante qui a migré très près de son étoile et qui s'est fait soufflé son manteau de gaz.
+- Gliese 436 b : une planète au manteau de glace... Qui brûle ! Cette glace chaude reste solide à cause de la pression élevée des couches externes compressées par la gravité de la planète, malgré sa température de 250 °C. Elle a probablement une atmosphère d'hydrogène et d'hélium. Distance : 33,1 années-lumière. 22 fois plus massive que la Terre. Orbite autour d'une naine rouge. Un énorme nuage principalement composé d'atomes d'hydrogène qui s'étend tel une queue de comète traîne derrière la planète.
+- PDS 70 b : une planète géante gazeuse surprise en pleine formation 
+- Kepler 16b : une étoile qui orbite autour d'un système binaire, comme la planète Tatooine de Star Wars
+- Le système 40 Eridani A abrite une planète dans la zone d'habitabilité de son étoile. Cette étoile est connue dans la série Star Trek pour abriter la planète Vulcain, où est né Mr. Spock.
+- Kepler 22b : probablement un monde océan dans la zone habitable de son étoile
+- Kepler 10b : une planète de la taille de la Terre qui a probablement un océan de lave à sa surface
+- GJ 504 b : une planète géante... Rose ? Distance : 57.3 années lumière de la Terre.
+- HD 131399 b : une exoplanète qui orbite autour d'un système triple d'étoiles 
+- On a découvert des planètes flottant loin de toute étoile (planètes vagabondes, ou planètes nomades). Elles peuvent avoir été éjectées aprés s'être formées autour d'une étoile, ou bien s'être formées comme des étoiles dans le milieu interstellaire. On en connaît une dizaine à ce jour. Des sondages réalisés par microlentilles gravitationnelles ([Sumi et al 2011](https://arxiv.org/pdf/1105.3544v1.pdf)) ont permi d'estimer qu'il y pourrait y avoir près de 2 fois (1.8) plus de planètes nomades de la masse de Jupiter que d'étoiles dans la séquence principale dans notre galaxie.
+
+***Trappist-1, le système extrasolaire avec le plus de planètes***
+- En 2016, un système de 7 planètes de tailles comparables à la Terre a été découvert autour de l’étoile Trappist-1, à 39 années lumières d’ici, grâce à la méthode des transits.
+> Cette découverte est le fruit de plusieurs années de mesures réalisées par le télescope belge Trappist basé au Chili, et le télescope Spitzer, basé dans l’espace. 
+- Trappist-1 est une naine rouge ultrafroide  : elle est 12 fois moins massive que le Soleil, beaucoup plus froide et à peine plus grosse que Jupiter.
+- Ses 7 exoplanètes sont toutes plus proches de leur étoile que Mercure l’est du Soleil. Ce qui fait qu’une année sur un de ces mondes dure entre 1 jour et demi et 20 jours terrestre, selon la planète.
+- Ces planètes sont si proches de leur étoile qu’elles sont toutes probablement en rotation synchrones, c’est à dire qu’elles présentent toujours la même face à leur étoile, comme la Lune avec la Terre (verrouillage gravitationnel).
+> Sur chacun de ces mondes, c’est le jour perpétuel sur une moitié de la planète, et la nuit perpétuelle de l’autre côté. 
+- 3 de ces planètes, Trappist-1e,f, et g, sont dans la zone d'habitabilité de leur étoile
+- Comme elles ont toutes une taille comparable à la Terre, on a de bonnes raisons de penser que ce sont des planètes rocheuses, et pas des planètes gazeuses comme Jupiter ou Saturne.
+- Des simulations réalisées à partir des données des transits ([Grimm et al 2018](https://arxiv.org/abs/1802.01377))ont montré que les planètes de Trappist-1 sont toutes probablement rocheuses, et pourraient être composées en partie d’eau. 
+- L’une de ces planètes est particulièrement prometteuse : Trappist 1-e. Elle semble être légèrement plus dense que la Terre, avec un noyaux de fer comme la Terre, et une taille similaire.
+> Des simulations climatiques réalisées par une équipe franco-belge en 2017 ([Turbet et al 2017](https://arxiv.org/pdf/1707.06927.pdf)) ont même montré que si Trappist 1-e montre toujours la même face à son étoile, et qu’elle possède suffisamment d’eau, alors elle aura forcément des étendues d’eau liquide à sa surface, et ce quelle que soit la composition de son atmosphère ! 
+- Aujourd’hui, en terme de taille, de densité et de quantité de rayonnement qu'elle reçoit de son étoile, Trappist 1-e est la planète la plus similaire à la Terre que l’on connaisse, ex aequo avec Proxima b
+- Même si on n'en a aucune image, Trappist-1 est aujourd'hui le système stellaire qu'on connaît le mieux après le notre.
+
+***La vie autour des naines rouges ?***
+- Le gros avantage des naines rouges c’est que leur durée de vie se compte en milliers de milliards d’années. Du coup une vie complexe aurait largement le temps de se développer.
+> En comparaison la durée de vie de notre soleil se compte en dizaine de milliards d’années. 
+- Les naines rouges constituent près de 85% des étoiles de notre galaxie, du coup si de la vie peut se développer autour de ces étoiles, ça voudrait dire que la vie est un phénomène potentiellement très commun dans l’univers
+- Le revers de la médaille c’est qu’au cours des premiers milliards d’années de leur évolution, les naines rouges ont une vie beaucoup plus agitée que les étoiles comme le Soleil. Leur surface est notamment régulièrement secouée par de violentes éruptions stellaires, qui peuvent doubler leur luminosité en l'espace de quelques minutes !
+> Ces bouffées d’énergies sont assez puissantes pour arracher des électrons aux molécules de l’atmosphère des planètes voisines. Les particules alors chargées de l’atmosphère deviennent plus vulnérables à être éjectées dans l’espace lors des tempêtes stellaire, ce qui finit par éroder l’atmosphère sur le long terme. Sans atmosphère pour se protéger, les rayons ultraviolets issus de l’étoile peuvent alors stériliser la surface d’une planète et la rendre hostile au développement de la vie. 
+- Mais l’espoir subsiste si la planète s’est formée plus loin de son étoile au début de son histoire, ou bien possède un bouclier magnétique assez puissant pour retenir son atmosphère. Donc pour le moment, la question de l’habitabilité des planètes autour des naines rouges reste ouverte.
+
+***Le futur de la détection des exoplanètes***
+- On pourra bientôt sonder avec précision l’atmosphère des exoplanètes (si elles en ont encore une) pour savoir si elles contiennent des ingrédients chimiques intéressants pour l’apparition de la vie, comme le carbone, le méthane, le dioxygène ou encore l'eau (on y arrive sur quelques exoplanètes, mais c'est rare). C’est d’ailleurs l’un des nombreux objectifs du James Webb Space Telescope, le successeur de Hubble, qui sera lancé d’ici 2020.
+
+*Liste des exoplanètes habitables les plus proches de la Terre*
+
+![hab](http://www.hpcf.upr.edu/~abel/phl/hec2/images/HEC_All_Distance.jpeg)
