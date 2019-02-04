@@ -294,6 +294,8 @@ Burcher
 - [The slow-neutron capture process in AGB stars](http://www.mso.anu.edu.au/~akarakas/Kodai_Lecture4.pdf) - Cours de Amanda Karakas et Maria Lugaro 
 - [A crash of stars reveals the origins of heavy elements](https://www.knowablemagazine.org/article/physical-world/2018/crash-stars-reveals-origins-heavy-elements) - Knowable Magazine (Janvier 2018)
 - [Neutron Star Mergers and Nucleosynthesis of Heavy Elements](https://www.annualreviews.org/doi/10.1146/annurev-nucl-101916-123246) - Thielemann et al, Annual Reviews (Octobre 2017)
+- [Origin of the Elements in the Solar System](https://blog.sdss.org/2017/01/09/origin-of-the-elements-in-the-solar-system/#more-2315) - Jennifer Johnson, blog du SDSS (Janvier 2017)
+- [ORIGINS OF THE ELEMENTS](http://www.cosmic-origins.org/) - Département de physique et d'astrophysique de l'université de l'Utah (2010)
 
 ---
 
@@ -311,6 +313,10 @@ Burcher
 - Des modèles récents ([Côté et al 2018](http://iopscience.iop.org/article/10.3847/1538-4357/aaad67/meta)) prédisent qu'une collision entre étoiles à neutrons peut générer entre 3 et 13 fois la masse de la Terre en or. (données : les ondes gravitationnelles générées par un tel événement)
 
 ![rsprocess](https://www.knowablemagazine.org/sites/default/files/articles/content/2018-01/S-R%20Process.svg)
+
+*Lieux de synthèse des éléments dans l'univers (meilleure version que le graphe de Wikipédia)*
+
+![nucleosynthese](https://blog.sdss.org/wp-content/uploads/2017/01/periodic_table.png)
 
 ## Premiers minéraux
 
