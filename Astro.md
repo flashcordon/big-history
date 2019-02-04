@@ -317,7 +317,7 @@ Burcher
 
 *Lieux de synthèse des éléments dans l'univers (meilleure version que le graphe de Wikipédia)*
 
-![nucleosynthesetout](https://blog.sdss.org/wp-content/uploads/2017/01/periodic_table.png)
+![nucleosynthesetout](https://i.imgur.com/YaAh2aI.jpg)
 
 ## Premiers minéraux
 
