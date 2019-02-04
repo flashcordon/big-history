@@ -407,7 +407,8 @@ Burcher
 
 - Une exoplanète est une planète située en dehors du Système solaire. 
 - A ce jour (31 Janvier 2019), on recense environ 3900 exoplanètes confirmées, dont près de 650 systèmes contenant plusieurs planètes.
-- Une exoplanète est nommée à partir du nom de l'étoile autour de laquelle elle tourne, suivi d'une lettre latine, b pour la première planète découverte autour de cette étoile, c pour la suivant, etc...
+- Une exoplanète est nommée à partir du nom de l'étoile autour de laquelle elle tourne, suivi d'une lettre latine, b pour la première planète découverte autour de cette étoile, c pour la suivant, etc... 
+> Si plusieurs planètes du même système sont découvertes en même temps, la plus proche de l'étoile reçoit la première lettre suivante, et ainsi de suite en s'éloignant de l'étoile. 
 - En se limitant aux étoiles de type solaire, il y a, en moyenne, 2 planètes par étoile.
 - Eles ont des configurations très diverses. Des planètes ont des orbites très allongées, d'autres tournent autour d'étoiles doubles, d'autres autour d'une étoile faisant partie d’un système stellaire multiple.
 - Alors que dans notre système solaire les planètes géantes se trouvent dans la zone externe du système, on trouve de nombreuses exoplanètes géantes très proches de leur étoile, parfois plus proches que Mercure l'est du Soleil (Jupiter chauds)
