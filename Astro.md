@@ -296,6 +296,7 @@ Burcher
 - [Neutron Star Mergers and Nucleosynthesis of Heavy Elements](https://www.annualreviews.org/doi/10.1146/annurev-nucl-101916-123246) - Thielemann et al, Annual Reviews (Octobre 2017)
 - [Origin of the Elements in the Solar System](https://blog.sdss.org/2017/01/09/origin-of-the-elements-in-the-solar-system/#more-2315) - Jennifer Johnson, blog du SDSS (Janvier 2017)
 - [ORIGINS OF THE ELEMENTS](http://www.cosmic-origins.org/) - Département de physique et d'astrophysique de l'université de l'Utah (2010)
+- [Populating the periodic table: Nucleosynthesis of the elements](http://science.sciencemag.org/content/363/6426/474) - Jennifer Johnson (2019)
 
 ---
 
