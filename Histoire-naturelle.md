@@ -158,6 +158,13 @@
 
 ## L'origine de la vie
 
+*Sources*
+
+- [Online course in astrobiology](http://astrobiovideo.com/fr/search#13)
+- [Life map](http://lifemap.univ-lyon1.fr/explore.html) - L'arbre de la vie interactif (Université de Lyon)
+
+---
+
 - Evolution Darwinnienne = reproduction avec variations + sélection naturelle
 - Il y a aussi une forme d'évolution neutre : la dérive génétique (mutations stochastiques)
 - L'évolution n'a pas de but
