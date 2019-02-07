@@ -330,6 +330,7 @@ Ressources sur la Big History
 - [Timelines of modern history](https://en.wikipedia.org/wiki/Timelines_of_modern_history) - Wikipédia
 - [Welcome to the Anthropocene](http://anthropocene.info/) - Portail éducatif sur les enjeux de l'anthropocène (2012)
 - [Our world in data](https://ourworldindata.org/) - Max Roser : le meilleur portail d'info sur les données globales et leur évolution au fil de l'histoire de l'humanité
+- [Is climate change an existential risk ?](https://docs.google.com/document/d/1qmHh-cshTCMT8LX0Y5wSQm8FMBhaxhQ8OlOeRLkXIF0/mobilebasic?fbclid=IwAR2bKFv0HCXO0fglfvmhFmHj3E8npRablXTphVtbOIURnGXyP7AH7Jy-K40#ftnt_ref84)
 
 ## Vidéos
 
