@@ -157,6 +157,12 @@ Ressources sur la Big History
 - [Our Sun. III. Present and Future](http://adsabs.harvard.edu/abs/1993ApJ...418..457S) - Sackmann et al. (1993)
 - [Distant future of the Sun and Earth revisited](https://arxiv.org/abs/0801.4031) - Klaus-Peter Schroder et Robert C. Smith (2008)
 
+## Articles de vulgarisation
+
+- [How planets die](https://planetplanet.net/2019/02/04/how-planets-die/) - Sean Raymond (Février 2019)
+- [Astronomers discover first direct evidence of white dwarf stars solidifying into crystals](https://phys.org/news/2019-01-astronomers-evidence-white-dwarf-stars.html) - Physorg (Janvier 2019)
+- [A Chemical History of the Universe](https://www.americanscientist.org/article/a-chemical-history-of-the-universe) - Jennifer Johnson (Septembre 2018)
+
 ## Cours
 
 - [Stellar Evolution : The Life and Death of Our Luminous Neighbors](http://umich.edu/~gs265/star.htm?fbclid=IwAR3yYTNKXQIHZISRXHnZgu99oCe0b6jqx0RBZLN7NJrRs0Q3ry-gnIWVCyQ) - Arthur Holland et Mark Williams (Université du Michigan)
