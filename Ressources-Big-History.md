@@ -368,6 +368,10 @@ Ressources sur la Big History
 
 - [Crash Course Mythology](https://www.youtube.com/playlist?list=PLEb6sGT7oD8G8nPbyvObaZUNdfV6kitZQ)
 
+## Sites Web
+
+- [http://blog.longnow.org/02017/02/08/the-10000-year-geneaology-of-myths/](The 10,000-Year Geneaology of Myths]() - long now foundation (Février 2017)
+
 ## Vidéos
 
 - [Claude Levi Strauss et la définition du mythe](http://www.ina.fr/video/I06290910) - INA (Décembre 1971)
