@@ -190,6 +190,7 @@ Ressources sur la Big History
 
 - [The Origin and Evolution of Earth](https://www.audible.fr/pd/The-Origin-and-Evolution-of-Earth-Livre-Audio/B00GMPKHDM) - Robert Hazen, The Great Courses (2013) (audiobook + notes de cours en PDF)
 - [Evolution of the early Earth](http://www.ifa.hawaii.edu/~meech/a281/oldlectures/Early_Earth.pdf) - Cours de Karen Meech (2016)
+- [Origine de l'oxygène](http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/allee/comprendre/oxygene) - Institut français de l'éducation
 
 ## Articles scientifiques
 
@@ -227,6 +228,7 @@ Ressources sur la Big History
 
 - [From non-living systems to living systems Part 1](https://youtu.be/3MH2PTi0pXQ?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Addy Pross, , Ecole d'été de la Société Française d'Exobiologie (Août 2018)
 - [From non-living systems to living systems Part 2](https://youtu.be/HIx0KAagGVw?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Addy Pross, , Ecole d'été de la Société Française d'Exobiologie (Août 2018)
+- [L'explosion de la diversité biologique](http://www2.ggl.ulaval.ca/personnel/bourque/s4/explosion.biodiversite.html)
 
 ## Infographies
 
