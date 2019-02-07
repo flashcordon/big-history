@@ -213,6 +213,10 @@ Ressources sur la Big History
 - [Biology: Extinction](http://www.biosbcc.net/green/onlinetext/biodiv/biodivextinction.htm?fbclid=IwAR0xeHkePe8_7lud65ks7AlAJB7rj-P9YJ5GXQbVQfav86cDSL0bkNYvhW8)
 - [Evolution biologique](http://www.evolution-biologique.org/)
 
+## Articles de vulgarisation
+
+- [In the beginning: The full story of life on Earth can finally be told](https://www.newscientist.com/article/mg24132120-300-in-the-beginning-the-full-story-of-life-on-earth-can-finally-be-told/?utm_term=Autofeed&utm_medium=SOC&utm_source=Facebook#Echobox=1547833442) - New Scientist (Janvier 2019)
+
 ## Cours
 
 - [From non-living systems to living systems Part 1](https://youtu.be/3MH2PTi0pXQ?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - Addy Pross, , Ecole d'été de la Société Française d'Exobiologie (Août 2018)
