@@ -417,4 +417,6 @@ Un supercontinent : Pangea Ultima
 
 # Energie sombre, Big Rip etc
 
+- le moteur invisible de l'univers
+
 # La mort thermique de l'univers
