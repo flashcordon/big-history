@@ -26,4 +26,4 @@
 
 # Les organismes supra nationaux
 
-- ONU, EU
+- ONU, EU, ONG, multinationales
