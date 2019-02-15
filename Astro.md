@@ -444,6 +444,7 @@ Burcher
 - GJ 504 b : une planète géante... Rose ? Distance : 57.3 années lumière de la Terre.
 - HD 131399 b : une exoplanète qui orbite autour d'un système triple d'étoiles 
 - On a découvert des planètes flottant loin de toute étoile (planètes vagabondes, ou planètes nomades). Elles peuvent avoir été éjectées aprés s'être formées autour d'une étoile, ou bien s'être formées comme des étoiles dans le milieu interstellaire. On en connaît une dizaine à ce jour. Des sondages réalisés par microlentilles gravitationnelles ([Sumi et al 2011](https://arxiv.org/pdf/1105.3544v1.pdf)) ont permi d'estimer qu'il y pourrait y avoir près de 2 fois (1.8) plus de planètes nomades de la masse de Jupiter que d'étoiles dans la séquence principale dans notre galaxie.
+- 1SWASP J1407 b : une naine brune ou une planète géante au système d'anneau beaucoup plus étendu que celui de Saturne (rayon : 90 million de km)
 
 ***Trappist-1, le système extrasolaire avec le plus de planètes***
 - En 2016, un système de 7 planètes de tailles comparables à la Terre a été découvert autour de l’étoile Trappist-1, à 39 années lumières d’ici, grâce à la méthode des transits.
