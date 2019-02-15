@@ -1,3 +1,7 @@
+# L'invention de l'écriture
+
+- L'écriture nous permet d'accéder aux idées des gens qui vivaient il y a plusieurs milliers d'années. L'écriture nous permet d'entrer en contact avec les morts.
+
 # Les premières villes
 
 # Les premiers mythes
