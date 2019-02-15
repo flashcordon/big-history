@@ -1,12 +1,19 @@
 # L'invention de l'écriture
 
--L'écriture nous permet de diffuser nos idées à travers l'espace et à travers le temps, au delà de nos limites biologiques.
+*Sources*
+
+- [Quipu](https://fr.wikipedia.org/wiki/Quipu)
+- Writing and Civilization From Ancient Worlds to Modernity - Marc Zender (The Great Courses)
+
+---
+
+- L'écriture est la "parole rendue visible" ("visible speech", définition du linguiste John DeFrancis)
+- L'écriture nous permet de diffuser nos idées à travers l'espace et à travers le temps, au delà de nos limites biologiques.
 - L'écriture nous permet d'accéder aux idées et aux histoires des gens qui vivaient il y a plusieurs milliers d'années. L'écriture nous permet d'entrer en contact avec les morts, et de goûter à un morceau d'éternité.
 - Les hiéroglyphes, littéralement "l'écriture sacrée", est associée chez les Egyptiens antiques au dieu Thot
 - Les Sumériens associent l'invention de l'écriture au dieu Enlil à la tête de leur panthéon
 - Attention, la marque d'une civilisation n'est pas forcément l'écriture. C'est une vision encore largement partagée, mais elle est fausse !
-> Les Incas avaient des états mais n'ont pas développé l'écriture, et les Cherokee du 19e siècle sont une société tribale qui a développé l'écriture.
-
+> Les Incas avaient des états mais n'ont pas développé l'écriture, et les Cherokee du 19e siècle sont une société tribale qui a développé l'écriture. Par contre les Incas ont réalisé des sortes d'abaques avec des noeuds sur des cordes (Quipu).
 
 # Les premières villes
 
