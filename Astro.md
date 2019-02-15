@@ -409,6 +409,7 @@ Burcher
 - [Unbound or Distant Planetary Mass Population Detected by Gravitational Microlensing](https://arxiv.org/pdf/1105.3544v1.pdf) – Sumi et al (2011)
 - [20 Intriguing Exoplanets](https://www.nasa.gov/feature/jpl/20-intriguing-exoplanets) – JPL (Octobre 2015)
  - [Top 5 Strangest and Most Terrifying Planets in the Universe](https://medium.com/@Ella_alderson/top-5-strangest-and-most-terrifying-planets-in-the-universe-ace289402c76) – Medium (Juin 2018)
+ - [List of exoplanet extremes](https://en.wikipedia.org/wiki/List_of_exoplanet_extremes) - Wikipédia
 
 ---
 
