@@ -404,6 +404,7 @@ Un supercontinent : Pangea Ultima
 - La nébuleuse planétaire serait ionisée par la lueur UV de la naine blanche, ce qui la ferait briller. L'oxygène la pare de couleur verte, et les autres éléments lui donnent d'autres couleurs
 - Quelques milliers d'années plus tard, le gaz se sera dilué et étendu, la naine blanche sera refroidie. La nébuleuse planétaire s'éteindra alors, et deviendra indistinguable des nuages interstellaires
 - La naine blanche rayonne son énergie dans l'espace, et en refroidissant, elle passe du blanc au bleu, puis au jaune, à l'orange, au rouge et puis dans l'infrarouge. La naine banche sera alors devenue une naine noire, en quelques millions d'années.  
+- l'intérieur des naines blanches se cristallise?
 
 ![sunred](https://c8.alamy.com/comp/X92D01/future-red-giant-sun-artwork-view-from-earth-of-the-red-giant-sun-X92D01.jpg)
 
