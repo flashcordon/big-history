@@ -162,6 +162,7 @@
 
 - [Online course in astrobiology](http://astrobiovideo.com/fr/search#13)
 - [Life map](http://lifemap.univ-lyon1.fr/explore.html) - L'arbre de la vie interactif (Université de Lyon)
+- [What Is Life? #4: How Did Life Begin?](https://medium.com/@carlzimmer/what-is-life-4-how-did-life-begin-bfbcb676f13d) - Carl Zimmer Podcast (Janvier 2019)
 
 ---
 
