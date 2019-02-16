@@ -16,6 +16,7 @@
 > * En Mésopotamie et en Crète : but administratif
 > * En Chine : but divinatoire
 - Attention aux arguments téléologiques ! Le "but" de l'écriture?
+- hypothèse: l'écriture est apparue suite au besoin de marquer les noms propres, pour marquer qu'un objet appartient à quelqu'un. (à creuser). Mais lorsque l'écriture est inventée, elle devient un outil surprennement adaptable pour toutes les cultures qui l'utilisent.
 - évolution de l'écriture par "emprunt avec adaptation"
 > Les romains ont emprunté leur alphabet des étrusques, qui l'ont emprunté des grecs, qui l'ont emprunté des phéniciens
 > Il n'y a pas encore de consensus sur quelle civilisation l'a inventé le premier : les Egyptiens ou les Mésopotamiens ?
