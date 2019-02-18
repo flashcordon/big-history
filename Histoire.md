@@ -47,6 +47,8 @@
 
 # Les cycles malthusiens
 
+- La peste noire tue près de 10% de la population mondiale ?
+
 # L'imprimerie
 
 # L'échange colombien
