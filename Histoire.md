@@ -58,6 +58,8 @@
 # La révolution industrielle
 
 - Charbon, pétrole
+- Les guerres mondiales et la grippe espagnole
+- La bombe atomique
 
 # Le procédé haber bosch
 
