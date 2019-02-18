@@ -57,6 +57,13 @@
 
 # La révolution industrielle
 
+*Soruces*
+
+- [How big a deal was the Industrial Revolution?](http://lukemuehlhauser.com/industrial-revolution/) - Luke Muehlhauser (Septembre 2017)
+- [Three wild speculations from amateur quantitative macrohistory](http://lukemuehlhauser.com/three-wild-speculations-from-amateur-quantitative-macrohistory/) - Luke Muehlhauser
+
+---
+
 - Charbon, pétrole
 - Les guerres mondiales et la grippe espagnole
 - La bombe atomique
