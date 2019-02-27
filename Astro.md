@@ -23,9 +23,12 @@
 ---
 
 ## Big Bang
-Sources
+
+*Sources*
 
 - Big Bang, Jean Philippe Uzan (2018)
+
+---
 
 - Le modèle du Big Bang prend sa source dans la théorie de la relativité générale formulée par Einstein en 1915 (années 20), mais au fil du temps il a pris en compte la physique atomique (années 40) et la mécanique quantique (années 80)
 > La relativité générale (RG) est une théorie de la gravitation qui explique que l’espace et le temps sont unis en un espace-temps. Matière et énergie courbent l’espace-temps : plus un corps est massif, plus cette courbure est intense et plus la force de gravité qu’il crée est intense.
@@ -55,6 +58,41 @@ Sources
 - Cette température est la même dans toutes les directions du ciel, avec des fluctuations relatives de l’ordre du millième de %!
 > Un rayonnement plus chaud est plus dense, du coup les fluctuations de température du CMB correspondent à des fluctuations de densité de matière dans l’univers primordial (analogie : des grumeaux dans la soupe cosmique)
 - L’étude du CMB révèle que la matière ordinaire (baryonique) ne constitue que 4.86 % de la matière totale de l’univers. Le reste, c’est de la matière noire et de l’énergie sombre (constante cosmologique)
+
+***Qu’est ce que la matière noire ?***
+
+- La matière noire est une matière invisible : elle n’interagit pas avec la lumière
+- La matière noire (froide) n’interagit qu’à travers la gravité, avec elle-même ainsi qu’avec la matière baryonique
+- Elle anticipe la formation des structures de matière baryonique en créant des nuages (halos) invisibles, des puits de gravité dans lesquels s’engouffre la matière baryonique
+> Au centre de ces nuages de matière noire se forment les galaxies
+- Dans les années 30, Fritz Zwicky remarque que la masse d’un amas de galaxies (l’amas de Coma) déduite de leur luminosité ne suffit pas à expliquer sa stabilité et la vitesse des galaxies de l’amas.
+- Dans les années 70, Vera Rubin montre que si la galaxie d’Andromède ne contenait que de la matière qui produit de la lumière, ses étoiles périphériques devraient être éjectées de la galaxie à cause de leur grande vitesse (courbes de rotation)
+> On a le même type d’observations pour des centaines de galaxies aujourd’hui
+L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d’étoiles mais dans son halo de matière noire
+- Sans matière noire, les fluctuations de densité mesurées dans le CMB ne seraient pas assez importantes pour former les galaxies et la toile cosmique en 13 milliards d’années. Elles n’auraient pas le temps de se former.
+- L’étude de la masse des galaxies par effet de lentilles gravitationnelles confirme les conclusions des courbes de rotation
+- Les contraintes de la nucléosynthèse primordiale nous obligent à conclure que la matière noire ne peut pas être constituée de matière ordinaire
+- La structure de l’amas de la Balle (Bullet cluster), qui résulte de la collision de 2 amas, implique la présence de matière noire
+> Dans le visible on voit les étoiles, dans les rayons X on voit le gaz chaud, et les lentilles gravitationnelles nous permettent de déduire la position de la matière noire, qui est ailleurs (car non freinée par la collision)
+- Concernant la nature de la matière noire, il y a plusieurs classes d’hypothèses :
+- Les WIMPS (Weakly interacting massive particles, particules massives agissant faiblement) 
+> C’est une définition générique, qui inclut plusieurs candidats : Les neutrinos (mais leur masse n’est pas assez élevée), l’axion, le LSP (lightest supersymmetric particle), des particules exotiques (Wimpzilla, neutrinos stériles, matière noire superfluide…)
+- Les MACHOS (Massive compact halo object, Objet compact massif de halo)
+> Des naines brunes ou des trous noirs. Cette classe d’hypothèses est aujourd’hui exclue
+
+***Qu’est ce que l’énergie sombre ?***
+
+- En 1998, l’observation de supernovae de type 1a révèle qu’elles sont moins lumineuses que prévu
+> Ce qui veut dire que l’expansion de l’univers s’accélère !
+- Mathématiquement, on modélise cette accélération de l’expansion par une constante dans les équations de Friedmann : la constante cosmologique (notée lambda)
+> C’est un paramètre libre de la relativité générale, qu’on peut mesurer cosmologiquement (« aucune théorie ne peut prédire la valeur de ses constantes. On peut juste les mesurer » - Jean Philippe Uzan)
+- La constante cosmologique met le doigt sur l’incompatibilité entre relativité générale et mécanique quantique
+> Selon la mécanique quantique, le vide a une énergie. On peut assimiler cette énergie à la constante cosmologique, mais la valeur prédite par les théories est 10^60 à 10^120 fois plus grande que la valeur mesurée. Il n’y a pas encore de solution à ce problème.
+- Problème : on ne peut pas mesurer la constante cosmologique et l’énergie du vide indépendamment. Les observations astrophysiques ne donnent accès qu’à la somme des 2
+- Une autre hypothèse postule l’existence d’un nouveau type de matière : l’énergie sombre, qui aurait la propriété d’avoir une masse négative
+- L’énergie sombre aurait une densité d’énergie non constante, ce qui la distinguerait d’une constante cosmologique
+- Les arguments pour l’existence de la matière noire et de l’énergie sombre reposent sur l’hypothèse que la relativité générale décrit bien la gravitation. Et si ce n’était pas le cas ?
+> C’est l’approche des modèles de gravité modifiée (théories de la relativité générale modifiée)
 
 ## Inflation
 
