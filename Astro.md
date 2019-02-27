@@ -421,26 +421,64 @@ Burcher
 
 # Formation du système solaire
 
-- En s’effondrant sur lui-même, le nuage se met à tourner de plus en plus vite, de la même manière qu’une patineuse artistique tourne plus vite sur elle-même lorsqu’elle replie ses bras (conservation du moment cinétique). Et comme une boule de pâte à pizza qu’on fait tourner dans les airs, le nuage de gaz va se mettre à s'aplatir et prendre la forme d’un disque : le fameux disque protoplanétaire.
-- Au centre du disque, la matière s’accumule, ce qui a pour effet d’augmenter la température, petit à petit. Quand la température finit par atteindre plusieurs dizaine de millions de degrés, les atomes vont se mettre à fusionner entre eux, ce qui dégage une énergie phénoménale ! Une étoile va s’allumer. C’est la naissance de notre Soleil.
+*Sources*
+
+- [Disques protoplanétaires et formation planétaire](https://books.openedition.org/editionscnrs/11525) - Aurélien Crida et Alessandro Morbidelli, dans Le Ciel à découvert de Jean Audouze (2010)
+- [The Grand Tack model: a critical review](https://arxiv.org/pdf/1409.6340.pdf) - Raymond et Morbidelli (2014)
+- [Formation et évolution des systèmes planétaires](http://sesp.esep.pro/fr/pages_mecanique-formation/index.html) - Philippe Thébault, Sciences pour exoplanètes et systèmes planétaires (2019)
+- Astronomie, Astrophysique: introduction – Agnès Acker (2007)
+- A history of the solar system – Claudio Vita-Finzi (2016)
+
+--- 
+
+- Les plus anciennes météorites connues, les chondrites carbonées, fixent l'âge du système solaire à 4.568 milliards d'années (météorite NWA 2364 d'Afrique du Sud).
+- Au moment de la formation du système solaire, notre galaxie était déjà vieille de 5 milliards d'années. Son milieu interstellaire est donc constellé d'éléments lourds éjectés par les générations d'étoiles précédentes.
+- Les fondements théoriques de la formation du système solaire sont posés dès le 18e siècle dans une expérience de pensée de Kant et Laplace (hypothèse de la nébuleuse primitive). Ce scénario est ensuite théorisé pour la première fois à la fin des années 60 (modèle de Schmidt et Safronov)
+- Selon l'hypothèse de Kant-Laplace, un nuage (moléculaire) en rotation, une "nébuleuse primitive" se transforme en disque (protoplanétaire) à mesure qu'il se contracte sous l'effet de sa propre gravité. Ce disque protoplanétaire se condense ensuite en planètes et en satellites.
+> En s’effondrant sur lui-même, le nuage se met à tourner de plus en plus vite, de la même manière qu’une patineuse artistique tourne plus vite sur elle-même lorsqu’elle replie ses bras (conservation du moment cinétique). Et comme une boule de pâte à pizza qu’on fait tourner dans les airs, le nuage de gaz va se mettre à s'aplatir et prendre la forme d’un disque : le fameux disque protoplanétaire. 
+- La nébuleuse a certainement été perturbée par l'explosion d'une supernova proche, ce qui l'a amenée à se contracter
+- Au centre du disque protoplanétaire, le gaz a continué de se contracter. Au bout d’un moment, il est devenu si chaud (plusieurs dizaine de millions de degrés) et si dense que les atomes d’hydrogène qui le composaient se sont mis à fusionner entre eux, ce qui a dégagé une énergie colossale. Le Soleil est né.
+-  Le jeune Soleil entre alors dans une phase très active, la phase T Tauri. Il émet des jets de matière dans son axe de rotation ainsi que d'intenses vents stellaires qui poussent violemment les éléments les plus légers du disque comme l'hydrogène ou l'hélium en périphérie.
 - Pendant des millions d’années, le Soleil n’aura de cesse d’aspirer une grande partie du gaz autour de lui. 
 > Résultat, la masse du Soleil représente aujourd’hui plus de 99,8% de la masse du système solaire
-- A sa naissance, le disque protoplanétaire est rempli de grains de poussière éparpillés un peu partout. Mais peu à peu, ces grains vont collisionner entre eux, et sous l’action des forces électrostatiques vont s’agglutiner pour former des moutons de poussière de quelques cm. Ces moutons vont ensuite fusionner entre eux pour donner des agrégats de plusieurs km qu’on appelle des planétésimaux.
-- A partir de là, c’est la gravité qui prend le relai, et qui permet aux planétésimaux de grandir en tapant les uns dans les autres. Plus les planétésimaux sont gros, et plus ils attirent leurs voisins vers eux. Et ce sont ces agrégats de planétésimaux qui vont constituer les coeurs des planètes.
-- Plus on s’éloigne du Soleil, et plus il fait froid dans le disque protoplanétaire. Et au delà d’une certaine distance critique, il va faire si froid que des cristaux de glace d’eau vont pouvoir se former. Cette distance critique, on l’appelle la ligne de glace.
-- Au delà de la ligne de glace, la matière sous forme solide est beaucoup plus abondante que dans le voisinage du Soleil. C’est donc là que vont se former les coeurs des futures planètes géantes du système solaire. Ces coeurs vont ensuite s’envelopper d’une couche de gaz provenant de leur voisinage, ce qui va creuser d’immenses sillons dans le disque protoplanétaire.
-- pendant cette phase, les planètes ne restent pas sagement dans leur orbite. Comme le gaz du disque protoplanétaire tombe vers l’étoile, il entraîne dans sa course les planètes qui interagissent avec lui, ce qui a eu pour effet pendant un moment de rapprocher Jupiter et Saturne du Soleil. On parle de migration planétaire. Plus la planète est massive, plus cette migration sera rapide.
-> C’est ce phénomène de migration planétaire qui nous permet d’expliquer aujourd’hui pourquoi on trouve, dans la majorité des systèmes d’exoplanètes connus, des planètes géantes qui orbitent très très près de leur étoile, et qu’on appelle des Jupiter chauds.
-- Dans notre système solaire, on a de bonnes raisons de penser qu’avant la formation des planètes rocheuses, Jupiter aurait migré pas très loin de l’actuelle orbite de Mars, ce qui pourrait expliquer la petite taille de la planète rouge à l’heure actuelle comparée à la Terre. Si Jupiter en était resté là, le système solaire aurait certainement été très différent. Mais alors qu’est ce qui a fait repartir la planète géante ?
-- Une réponse plutôt prometteuse a été apportée en 2011 dans une étude publiée dans la revue Nature. Selon ce qu’on appelle depuis le scénario du “grand tack”, ce serait l’influence de la gravité de Saturne qui, par des jeux d’orbites complexes, aurait poussé Jupiter à migrer vers l’extérieur du système solaire.
-- Cette période de migrations aura pour effet d’éjecter dans tous les sens la plupart des corps rocheux présents dans les parages. Les survivants de ce jeu de billard cosmique vont alors s’établir dans une orbite stable, et vont former la ceinture d'astéroïde qui réside aujourd’hui entre l’orbite de Mars et de Jupiter.
-- ***Modèle de Nice :*** Ce modèle raconte qu’à partir du moment où le gaz a été complètement dissipé dans le disque protoplanétaire, Jupiter, Saturne, Uranus et Neptune, les 4 planètes géantes, étaient plus près du Soleil, et surtout beaucoup plus proches les unes des autre qu’aujourd’hui. De plus, elles étaient encerclées par un anneau de planétésimaux de roche et de glace qui constituait la partie externe du système solaire.
-- L’effet de la gravité mutuelle des planètes géantes a fini par déstabiliser complètement leurs orbites. Uranus et Neptune ont alors été envoyées en plein dans l’anneau de planétésimaux, ce qui a créé un énorme chaos dans cette partie du système solaire.
-- La quasi totalité des planétésimaux de l’anneau a été éjectée dans toutes les directions, et notamment vers la Terre, qui était formée depuis un moment déjà. Cette période de chaos, on l’appelle le grand bombardement tardif. 
-- A la suite du grand bombardement tardif, les planètes géantes ont fini par rejoindre leurs orbites actuelles. Quand à la majorité des planétésimaux éjectés, on les retrouve aujourd’hui dans une immense sphère qui entoure notre système solaire et qui constitue ce qu’on appelle le nuage d’Oort. Cet énorme nuage de glace et de roches est d’ailleurs la source de pas mal de comètes qui viennent nous visiter régulièrement.
-- Controverses : 
-> * les astronomes comprennent encore mal par quel mécanisme des moutons de poussière de quelques cm ont pu s’agglutiner pour former des planétésimaux. En effet, lorsqu’on fait collisionner des moutons de poussière, ils ont plutôt tendance à se désagréger qu’à se coller entre eux.
-> * Il s’agit aussi d’adapter ce scénario global, qui marche pas mal pour notre système solaire, pour tenter de comprendre l’incroyable diversité des systèmes d’exoplanètes qu’on découvre
+- L'observation de disques protoplanétaires (Hubble, ALMA) depuis une vingtaine d'années conforte ce scénario
+- Les grains de poussière du disque protoplanétaire entrent en collision et grossissent en se collant entre eux, sous l'action des forces électrostatiques ou de la fusion partielle issue des collisions (accrétion).
+- Les simulations montrent qu'au bout de quelques milliers d'années, il est commun de voir dans le disque des objets d'une dizaine de grammes, et qu'au bout de 10 000 ans à peine, la plupart de la poussière du disque forme des objets de quelques milliers de kilomètres qu'on appelle des planétésimaux.
+- Une fois qu'il y a assez de planétésimaux, leur attraction gravitationnelle les fait s'entrechoquer entre eux (runaway accretion). La plupart de ces collisions sont destructrices, mais certaines d'entre elles donnent des embryons de planètes en quelques centaines de milliers d'années voire en quelques millions d'années qui coexistent avec les planétésimaux qui restent (oligarchic growth).
+- Plus on s'éloigne du disque protoplanétaire, plus la température diminue, jusqu'à atteindre le point de condensation de l'eau, une distance au Soleil qu'on appelle la ligne de glace (à 2-4 UA du Soleil). 
+> * En deça de la ligne de glace, les composants sous forme solide sont les métaux, les silicates et les oxydes. 
+> * Au delà de la ligne de glace, les composants sous forme solide sont l'eau, le méthane et l'ammoniac sous forme de glace.
+- Il y a tant de matière solide au delà de la ligne de glace que des noyaux de plus de 10 masses terrestres peuvent s'y former.
+> Au delà de cette masse critique, la gravité de ces noyaux attire le gaz d'hydrogène et d'hélium de son voisinage, ce qui crée les planètes géantes. Alors qu'elles accrètent du gaz, les planètes géantes forment autour d'elles un disque d'accrétion, des sorte de mini systèmes solaires où se forment leurs satellites. La capture de planétésimaux qui passent par là ajoute des lunes à leur royaume.
+- En 1 à 10 millions d'années, le disque s'est vidé de son gaz.
+- Ce scénario de formation planétaire est conforté par la mesure des abondances des éléments lourds dans les planètes géantes, qui collent merveilleusement aux prédictions des modèles
+- Les planètes géantes se sont formées bien avant la Terre
+> L'observation des disques protoplanétaires nous fait conclure que la formation des planètes géantes est un processus qui dure quelques millions d'années, alors que la Terre a mis 30 à 100 millions d'années à se former (données : chronomètres radioactifs)
+- Pour dater la Terre, on utilise les isotopes radioactifs les plus abondants et ceux qui ont la durée de vie la plus longue. Les abondances d'uranium 238 et de plomb 236 fixent l'âge de la Terre à 4.5 milliards d'années.
+- Le système solaire doit sa structure actuelle à une période de migration des orbites de ses objets déclenchée par des résonances orbitales.
+
+***Le scénario du grand Tack***
+- Modèle proposé en 2011 par Walsh et Morbidelli, qui couvre les 100 premiers millions d'années de l'histoire du système solaire, alors que le disque protoplanétaire est encore partiellement recouvert de gaz
+- Selon ce scénario, Saturne et Jupiter ont tous deux migré vers le Soleil, Saturne plus vite que Jupiter. Les 2 planètes se rapprochent.
+- Au bout d'un moment, les 2 planètes géantes se retrouvent dans une configuration où Saturne fait 2 tours autour du Soleil quand Jupiter en fait 3 (résonance 2:3)
+- Lorsque Jupiter atteint une distance du Soleil de 1.5 unités astronomiques, Jupiter et Saturne finissent par migrer vers l'extérieur du système solaire (grande virée de bord). Il se passe environ 300 000 ans entre le moment où les 2 planètes géantes migrent et le moment de la grande virée de bord.
+- Jupiter et Saturne s'éloignent du Soleil en entrainant les 2 autres planètes géantes. La conclusion du modèle du Grand Tack fournit les conditions initiales du modèle de Nice
+- Si ce scénario est vrai, il explique pourquoi c'est si rare de trouver des planètes géantes loin de leur étoile.
+- Ce scénario fournit aussi une explication pour la petite taille de Mars (1/10e de la masse de la Terre) et la faible masse de la ceinture d'astéroides.
+- Le scénario du grand Tack reste cependant à confirmer.
+
+***Le modèle de Nice***
+- Modèle développé par un groupe d'astrophysiciens de l'observatoire de Nice en 2005 à partir de simulations numériques sous la direction d’Alessandro Morbidelli
+- Ce modèle commence à l'époque où le gaz du disque protoplanétaire a déjà été absorbé dans sa quasi totalité par les planètes géantes
+- Les 4 planètes géantes sont alors dans une configuration beaucoup plus compactes et plus proches du Soleil qu'aujourd'hui, et au delà se trouve une ceinture de petits corps glacés
+- Des résonances orbitales entre Jupiter et Saturne perturbent ce système. Uranus et Neptune traversent la ceinture de corps glacés, ce qui les éjectent dans tous les sens, et en particulier (pour une fraction d'entre eux) sur la Terre et la Lune : c'est le Grand Bombardement Tardif (LHB, pour Late Heavy Bombardment). Les planètes géantes prennent alors leurs orbites actuelles.
+- Le modèle de Nice explique les orbites actuelles des planètes géantes, et les dates des échantillons lunaires des missions Apollo confirment l'existence du LHB vers 700 millions d'années après la formation du système solaire
+- Le modèle de Nice reste cependant à confirmer.
+- Les débris qui n’ont pas pu s’agglutiner en planètes sont aujourd’hui regroupés dans la ceinture d'astéroïde, la ceinture de Kuiper et le nuage d’Oort.
+
+*Controverses :*
+> * les astronomes comprennent encore mal par quel mécanisme des moutons de poussière de quelques cm ont pu s’agglutiner pour former des planétésimaux. En effet, lorsqu’on fait collisionner des moutons de poussière, ils ont plutôt tendance à se désagréger qu’à se coller entre eux. 
+> * Il s’agit aussi d’adapter ce scénario global, qui marche pas mal pour notre système solaire, pour tenter de comprendre l’incroyable diversité des systèmes d’exoplanètes qu’on découvre 
 
 ***La zone d'habitabilité***
 
@@ -456,8 +494,6 @@ Burcher
 > * Encelade, une lune de Saturne, contient 5 fois plus d'eau que la Terre
 > * Ganymède, une lune de Jupiter, contient environ 10 fois plus d'eau que la Terre
 - Il y a donc beaucoup d'eau dans le système solaire. Mais surtout sous forme de glace.
-
-# Les exoplanètes
 
 # Les exoplanètes
 
