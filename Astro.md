@@ -358,14 +358,28 @@ Burcher
 
 ![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
 
-# Formation des galaxies
+# L'évolution des galaxies
 
 *Sources*: 
 - [Cosmic Star-Formation History](https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081811-125615#_i87) - Madau et Dickinson, Annual Reviews (2014)
 - [Massive Black Holes and their host galaxies](http://www2.iap.fr/users/volonter/Brera_BHcourse_part2.pdf) - Cours de Marta Volonteri (2013)
+- Big Bang - Jean Philippe Uzan (2018)
 
-- Les petites structures se forment en premier, et fusionnent pour donner de plus grandes structures.
-- Les protogalaxies fusionnent pour former des galaxies, et les galaxies s'arrangent sur les noeuds de la toile cosmique pour former des amas de galaxies.
+# L’évolution des galaxies
+
+- Le nombre de galaxies dans l’univers observable est estimé à 100-200 milliards de galaxies, mais certains auteurs prétendent que c’est 10 fois plus.
+- Il y a différentes morphologies de galaxies : elliptiques, spirales, irrégulières
+- Les grands relevés astronomiques nous permettent de révéler la distribution des galaxies
+> Elles ne sont pas distribuées au hasard dans le ciel mais regroupées en amas, qui s’alignent à grande échelle le long des filaments de la toile cosmique (grandes structures)
+- Les galaxies ont une histoire : on observe des collisions
+- L’évolution des grandes structures de l’univers est contraint par des simulations cosmologiques qui incorporent l’expansion de l’univers ainsi que la physique des gaz
+> Ces simulations modélisent l’évolution de points de masse en interaction gravitationnelle les unes avec les autres.
+- Les simulations les plus récentes arrivent à résoudre des galaxies naines en même temps que les filaments de la toile cosmiques
+- Les simulations partent des petites surdensités de matière après l’époque de la recombinaison (380 000 ans après le Big Bang) mesurées grâce au CMB et laissent la gravité faire son œuvre dans un univers en expansion, dans le but de simuler une distribution des galaxies identique (statistiquement) à celle qu’on observe dans le ciel
+> Les petites galaxies se forment en premier, puis fusionnent entre elles pour en former de plus grosses (scénario hiérarchique de formation des structures)
+- Notre compréhension de la gravitation dessine les grandes structures avec une précision remarquable, mais à petite échelle d’autres phénomènes liés à l’évolution des étoiles compliquent le tableau
+> Les supernovae qui éjectent du gaz, les trous noirs stellaires et supermassifs au centre des galaxies, les champs magnétiques des objets de l’univers…
+- Ces phénomènes impliquent des échelles si petites qu’il est impossible de les simuler directement à partir des théories physiques. Il faut donc se servir de descriptions approchées (empiriques) à partir des observations, ce qui constitue la faiblesse majeure de ces simulations.
 
 # Formation du système solaire
 
