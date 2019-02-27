@@ -23,20 +23,38 @@
 ---
 
 ## Big Bang
+Sources
 
-- Le modèle du Big Bang nous dit que l'univers a XXX
-- Ce modèle est le résultat du marriage entre la physique des particules (l'étude du très petit) et la cosmologie (l'étude du très grand)
+- Big Bang, Jean Philippe Uzan (2018)
 
-***Comment sait-on qu'il y a eu un big bang ?***
-
-- En 1922, Alexander Friedmann montre que les équations de la relativité générale permettent une solution où l'univers s'étend en partant d'une singularité initiale, ce qui donne une base théorique au modèle du Big Bang
-- Dans les années 20, grâce aux travaux de Vesto Slipher et de Edwin Hubble, on observe que les galaxies s'éloignent les unes des autres, et ce d'autant plus vite qu'elles sont distantes (loi de Hubble-Lemaître). Ce qui implique qu'elles étaient plus proches par le passé
-- Dans les années 60, Penzias et Wilson découvrent le rayonnement de fond diffus cosmologique (CMB), un rayonnement uniforme et identique dans toutes les directions qu'on interprête comme une relique du plasma cosmique primordial. Observation qu'on a affiné plus tard grâce aux satellites COBE, WMAP et Planck. Le CMB a la même température dans toutes les directions, au 1/100 000e de degré près (ie 1 cent millième de degré sépare en moyenne les points les plus chauds et les plus froids du CMB).
-- Les prédictions théoriques de la nucléosynthèse primordiale s'accordent remarquablement bien avec les observations des abondances d'éléments légers dans l'univers (hydrogène, hélium, deutérium, lithium)
-
-- Paradoxalement, le modèle du Big Bang ne parle pas du Bang lui-même, mais de ce qui se passe immédiatement après (à partir de  10^-43s : le temps de Planck).
-> Il nous décrit comment l'univers s'étend et se refroidit au fil du temps, mais pas ce qui a causé le Bang, ou même ce qui se passe avant le Bang (s'il y a un avant)
-- La théorie de l'inflation propose une description du Bang, ainsi que des scénarios  plausibles sur ce qui l'a causé
+- Le modèle du Big Bang prend sa source dans la théorie de la relativité générale formulée par Einstein en 1915 (années 20), mais au fil du temps il a pris en compte la physique atomique (années 40) et la mécanique quantique (années 80)
+> La relativité générale (RG) est une théorie de la gravitation qui explique que l’espace et le temps sont unis en un espace-temps. Matière et énergie courbent l’espace-temps : plus un corps est massif, plus cette courbure est intense et plus la force de gravité qu’il crée est intense.
+- La conclusion que l’univers a une origine ne naît pas d’un fait observationnel mais est une propriété du modèle, une extrapolation du modèle mathématique qui décrit l’univers et son évolution en dehors de son domaine de validité.
+- Dans ce sens, le Big Bang ne décrit pas « l’origine » de l’univers mais décrit une singularité au temps t=0 où l’espace et le temps ne sont pas définis par le modèle.
+> Le modèle du Big Bang ne parle pas du Bang lui-même, mais de ce qui se passe immédiatement après (à partir de 10^-43s : le temps de Planck). 
+- En d’autres termes, on ne sait RIEN sur l’origine de l’univers aujourd’hui. Pire, on ne PEUT pas répondre aux questions d’origine. Les théories de la gravitation quantique prédisent des alternatives à cette singularité, mais elles sont spéculatives.
+> « Nous ne cherchons pas à construire un mythe moderne des origines. Cela ne serait pas en accord avec la nature même du modèle cosmologique » - Jean Philippe Uzan
+- En RG, la structure de l’espace-temps est déterminée en résolvant les équations d’Einstein (les solutions sont des géométries)
+> Les équations d’Einstein sont un ensemble de 10 équations pour 10 fonctions de 4 variables
+- En 1922, Alexander Friedmann démontre que les solutions des équations d’Einstein ne peuvent pas être statiques : l’espace DOIT se dilater au cours du temps. La dilatation de l’espace est donc une prédiction de la RG.
+> Ces conclusions sont confirmées de manière indépendantes par George Lemaître en 1927.
+- Vers 1924, Edwin Hubble parvient à mesurer les distances des galaxies en exploitant les travaux d’Henrietta Leavitt sur les propriétés d’étoiles variables appelées Céphéides.
+- Entre 1929 et 1931, Hubble établit une relation entre la vitesse d’éloignement des galaxies, mesurée par le décalage vers le rouge de leur spectre (redshift) et leur distance.
+> * loi de Hubble-Lemaître : toutes les galaxies (suffisamment éloignées pour que leur attraction mutuelle soit négligeable) s’éloignent les unes des autres, avec une vitesse relative d’autant plus grande qu’elles sont éloignées
+> * La fuite des galaxies résulte de la dilatation de l’espace. Elle n’est pas due au mouvement propre des galaxies à travers l’espace. 
+- L’observation de l’éloignement des galaxies est la première confirmation observationnelle de la théorie cosmologique.
+- La loi d’expansion de l’univers permet de lui définir un âge, c’est à dire le temps qui sépare la singularité initiale à aujourd’hui.
+- L’apport de la physique des hautes énergies ajoute une couche de complexité au modèle du Big Bang. C’est le modèle du Big Bang chaud (hot Big Bang model)
+- le modèle du Big Bang chaud prédit que dans ses phases primordiales, l’univers est chaud et dense. Il se refroidit et sa matière se dilue sous l’effet de l’expansion.
+- Le Big Bang chaud se développe à la suite des travaux de Gamov, Alpher et Hermann (1948) qui mettent e évidence la nucléosynthèse primordiale et l’existence d’un fond diffus cosmologique, un rayonnement dans lequel baigne l’univers et qu'on interprète comme une relique du plasma cosmique primordial. 
+> La fuite des galaxies, la nucléosynthèse primordiale et le fond diffus cosmologique sont les 3 piliers de la cosmologie moderne
+- Le fond diffus cosmologique (aussi appelé CMB pour Cosmic Microwave Background) est découvert par hasard par 2 ingénieurs, Arno Penzias et Robert Wilson en 1964.
+- Le CMB est ensuite étudié de plus en plus précisément par des satellites : COBE, puis WMAP, et enfin Planck.
+- La température moyenne du CMB est mesurée à 2.725 K
+> Mais elle était beaucoup plus chaude au moment de son émission ! (3000 K)
+- Cette température est la même dans toutes les directions du ciel, avec des fluctuations relatives de l’ordre du millième de %!
+> Un rayonnement plus chaud est plus dense, du coup les fluctuations de température du CMB correspondent à des fluctuations de densité de matière dans l’univers primordial (analogie : des grumeaux dans la soupe cosmique)
+- L’étude du CMB révèle que la matière ordinaire (baryonique) ne constitue que 4.86 % de la matière totale de l’univers. Le reste, c’est de la matière noire et de l’énergie sombre (constante cosmologique)
 
 ## Inflation
 
