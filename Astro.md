@@ -419,6 +419,37 @@ Burcher
 > Les supernovae qui éjectent du gaz, les trous noirs stellaires et supermassifs au centre des galaxies, les champs magnétiques des objets de l’univers…
 - Ces phénomènes impliquent des échelles si petites qu’il est impossible de les simuler directement à partir des théories physiques. Il faut donc se servir de descriptions approchées (empiriques) à partir des observations, ce qui constitue la faiblesse majeure de ces simulations.
 
+# Le milieu interstellaire et l'origine des molécules
+
+*Sources* 
+
+- Astrochimie dans le milieu interstellaire – Valentine Wakelam
+
+--- 
+
+- C'est dans le milieu interstellaire (MIS) que se forment les molécules
+> La plupart des molécules sont des molécules organiques, basées sur la chimie du carbone (combien?)
+- Le MIS montre une grande diversités de régions : milieu diffus, nuages moléculaires, enveloppes proto-stellaires...
+- Le milieu interstellaire a une température entre 5K et 1000K et une densité de 1 particule/cm3 à 10^14 particules/cm3 selon les régions.
+> Comparaison avec la surface de la Terre : Température 300K, densité de l'ordre de 10^21 particules/cm3
+- On a découvert avec le télescope spatial Herschel que le MIS est structuré en filaments de matière
+> On  peut reproduire cette structure filamentaire à partir de simulations informatiques (SPH, cf vidéo de Matthew Bate)
+- Le cycle de la matière interstellaire : les nébuleuses forment des nuages moléculaires. Les étoiles se forment dans les nuages moléculaires. A la fin de la vie des étoiles les éléments sont éjectés dans le milieu interstellaire, et le cycle continue !
+- Les nuages moléculaires sont des nuages de gaz et de pousisère assez denses pour permettre à des molécules de se former.
+> * Taille : entre 1 année lumière (pour un globule de Bok) et 600 années lumières (pour un nuage moléculaire géant comme les piliers de la création, ou GMC)
+> * Masse : de X à 1 million de masses solaires
+> * Température : <20K
+> * Composition : gaz (99% de la masse) et poussière interstellaire (1%)
+> * Composition du gaz : hydrogène (90%), hélium (9%), C,N,O... (1%)
+> * Composition de la poussière interstellaire : des molécules, des PAH (polycyclic aromatic hydrocarbon) et des grains de quelques 0.1 micromètres composés de silicates (silicium, magnésium, oxygène) et de graphite (carbone). 
+
+*Comment se forment les molécules ?*
+- A l'intérieur des nuages moléculaires, où la température est inférieure à 20K, les molécules sont protégées des rayons UV émis par les étoiles massives environnantes et des rayons cosmiques qui pourraient les casser. De la chimie complexe peut donc se produire !
+> À la surface des grains, des atomes et des molécules du nuage se posent, et peuvent réagir chimiquement pour former des molécules plus complexes (de plus en plus complexes!), dont de l’eau. Un manteau de glace d’eau se forme progressivement autour des grains. Les molécules comme H2, CO, H2O... se forment via ce processus. [Animation de la formation de l'H2O](https://www.youtube.com/watch?v=X_jSenHTqFw)
+- Des molécules encore plus complexes (comme le CH3COCH3) se forment autour des proto-étoiles, où la température est supérieur à 60K
+
+- (plot abondance des éléments dans le système solaire)
+
 # Formation du système solaire
 
 *Sources*
