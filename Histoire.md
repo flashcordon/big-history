@@ -49,7 +49,7 @@
 
 # L'imprimerie
 
-# Une toile d'interconnexions
+# Une toile d'interconnexions (lier les mondes)
 
 - Les routes de la soie 
 - L'échange colombien
