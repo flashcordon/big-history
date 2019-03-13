@@ -101,6 +101,10 @@ On en a pas trouvé plus loin que l'Altai
 
 L'agriculture sur brûlis
 
+- wheat and barley en Mésopotamie
+- Maze and beans en Amérique
+- Rice and X en Chine
+
 ## L'extinction de la mégafaune
 
 *Sources*
