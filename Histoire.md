@@ -41,8 +41,6 @@
 
 # Les premiers empires
 
-# Connexions entre empires : les routes de la soie
-
 # Les grandes philosophies / religions
 
 # Les cycles malthusiens
@@ -51,7 +49,10 @@
 
 # L'imprimerie
 
-# L'échange colombien
+# Une toile d'interconnexions
+
+- Les routes de la soie 
+- L'échange colombien
 
 # L'émergence des états-nations (17e siècle?)
 
