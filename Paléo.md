@@ -101,7 +101,8 @@ On en a pas trouvé plus loin que l'Altai
 
 Sources
 
-- [L’addiction à l’agriculture | Passé Sauvage & DirtyBiology | Le Vortex #1](https://youtu.be/qXq4s1_EBwk)
+- [La pire erreur de l’humanité | DirtyBiology & Passé Sauvage](https://youtu.be/Mk4D6XvDz5w) - Le Vortex (Mars 2019)
+- [L’addiction à l’agriculture | Passé Sauvage & DirtyBiology](https://youtu.be/qXq4s1_EBwk) - Le Vortex (Mars 2019)
 
 --- 
 
