@@ -99,8 +99,17 @@ On en a pas trouvé plus loin que l'Altai
 
 ## L'origine de l'agriculture
 
+Sources
+
+- [L’addiction à l’agriculture | Passé Sauvage & DirtyBiology | Le Vortex #1](https://youtu.be/qXq4s1_EBwk)
+
+--- 
+
+- L'entrée dans l'holocène et la remarquable stabilité de notre période interglaciaire a permi à l'agriculture de se développer
+- piège de l'agriculture
 - L'agriculture n'est pas une invention
 - Nous ne sommes pas la seule espèce à avoir développé l'agriculture : certaines espèces de fourmis élèvent des pucerons pour collecter leur miellat et cultivent des champignons
+- l'agriculture a changé notre rapport à l'environnement
 
 - L'agriculture sur brûlis
 
