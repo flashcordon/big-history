@@ -99,7 +99,10 @@ On en a pas trouvé plus loin que l'Altai
 
 ## L'origine de l'agriculture
 
-L'agriculture sur brûlis
+- L'agriculture n'est pas une invention
+- Nous ne sommes pas la seule espèce à avoir développé l'agriculture : certaines espèces de fourmis élèvent des pucerons pour collecter leur miellat et cultivent des champignons
+
+- L'agriculture sur brûlis
 
 - wheat and barley en Mésopotamie
 - Maze and beans en Amérique
