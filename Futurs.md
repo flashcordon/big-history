@@ -412,6 +412,131 @@ Un supercontinent : Pangea Ultima
 
 ![whitedwarf](https://cdn-images-1.medium.com/max/700/1*Big8C5PNb_wNFxo31qDLOA.jpeg)
 
+# Milkomède
+
+*Sources*
+
+- Death from the skies – Phil Plait
+- Global Catastrophic risks – Nick Bolstrom (Article de Fred Adams)
+
+---
+
+- La galaxie d'Andromède est la galaxie spirale la plus proche de la notre
+> Distance : 2.5 million d'années lumière. Masse : à peine plus massive que la Voie Lactée
+- La galaxie d'Andromède s'approche de notre Voie Lactée, vu que les 2 galaxies sont attirées par leur gravité mutuelle. Elles sont sur une trajectoire de collision.
+> Vitesse relative d'Andromède par rapport à nous : 120 miles/s
+- Des simulations numériques (Cox et Loeb) montrent que le premier contact se produira dans 2 milliards d'années. Elles s'interpénètrent et se traversent au fil des milliards d'années, dans une danse complexe et superbe.
+- Au bout de 5 milliards d'années, elles devraient fusionner en une seule galaxie elliptique : Milkomède (Milkomeda)
+- Ca va dramaticalement changer le ciel nocturne ! Le ciel devrait être 2 fois plus brillant, et la bande blanche du disque de la voie lactée sera progressivement distordue et remplacée par une boule d'étoiles. Adieu les belles structures spirales !
+- Mais pas (ou peu) de collisions stellaires à craindre : le grouffre entre les étoile est trop grand !
+- Les collisions galactiques entre 2 galaxies pleines de gaz (wet merger) sont généralement suivies d'un énorme feu d'artifice de formation d'étoiles (star formation burst)
+> Les nuages moléculaires sont destabilisés et densifiés par la collision, ce qui déclenche de la formation stellaire 
+- A la suite de ces bouffées de formation stellaire, un grand nombre de supernovae destructrices issues des étoiles les plus massives peuvent représenter un danger pour la vie qui se développe dans les parages.
+- Mais selon Cox et Loeb, à l'époque de la collision entre Andromède et la Voie Lactée, les 2 galaxies auront déjà usé la majeure partie de leur gaz pour faire des étoiles. Ca sera donc un dry merger, et ça ne sera pas accompagné d'un starburst.
+- Question : à partir de quand la réserve de gaz de Milkomède s'épuisera ? A partir de quand la galaxie ne forme plus de nouvelles étoiles ?
+> Quelques dizaines (10-20) de milliards d'années pour la voie lactée, si elle forme des étoiles au même rythme qu'aujourd'hui  (Kennicut et al 1994?)
+- Les trous noirs supermassifs des 2 galaxies fusionnent pour former un monstre de 34 millions de masses solaires
+> Ca va transormer le noyau de Milkomède en noyau actif de galaxie pendant un moment !
+
+# La cosmologie du futur
+
+*Sources*
+
+- Death from the skies – Phil Plait
+- Global Catastrophic risks – Nick Bolstrom (Article de Fred Adams)
+
+---
+
+- L'étude de supernovae de type Ia lointaines a révélé en 1998 qu'elles étaient plus loin que prévu.
+> L'expansion de l'univers s'accélère, depuis 5-6 milliards d'années (source?)
+- Ce qui veut dire que les galaxies lointaines que l'on observe aujourd'hui vont finir par s'éloigner trop vite de nous pour que leur lumière puisse nous ateindre
+> D'abord les galaxies les plus lointaines, puis de plus en plus proches
+- Seuls les objets assez proches pour que leur gravité mutuelle contrecarre cette accélération de l'expansion resteront à l'intérieur de notre horizon cosmologique (définir).
+> C'est le cas des galaxies du Groupe Local, un amas qui compte une soixantaine (2 douzaines ?) de galaxies les plus proches de la notre (et dont la Voie Lactée fait partie des plus massives, avec Andromède)
+- Dans 100 milliards d'années, les fusions successives entre galaxies proches auront transformé le groupe local en une énorme galaxie elliptique ! (quelle masse?)
+> Pour les êtres vivants de cette époque, l'univers tout entier consiste en une énorme boule d'étoiles constitué. Pas de galaxies ou d'amas de galaxies visibles en dehors de cette boule. Même l'amas de la Vierge, l'amas de galaxies le plus proche du groupe Local, sera hors de portée à jamais. Le groupe local est isolé, définitivement. Difficile alors de développer l'idée même que l'univers a une histoire, l'idée d'un univers en expansion âgé de 100 milliards d'années. On vit dans une époque spéciale ! (Profitons de la vue des galaxies avant qu'elles ne disparaissent derrière l'horizon)
+
+# Les dernières étoiles
+
+*Sources*
+
+- Death from the skies – Phil Plait
+
+---
+
+- Les étoiles les moins massives, les naines rouges (à partir de 0.08 masses solaires) brûlent leur carburant nucléaire infiniment plus lentement que le Soleil
+- Les naines rouges ont une durée de vie qui se compte en milliers de milliards d'années
+> * Une étoile de 10% de la masse du Soleil peut vivre pendant des dizaines de milliers de milliards d'années 
+- On estime que 85% des étoiles de la Galaxie sont des naines rouges, et selon Phil Plait c'est le cas de 75% (?) des étoiles de l'univers.
+- Si de la vie peut se développer autour de ces naines rouges, elle aura beaucoup plus de temps que nous pour se développer. Et comme elles sont très nombreuses elles sont de parfait candidats dans notre quête de mondes habitables
+- L'hégémonie des naines rouges et la mort progressive des étoiles massives pare les galaxies d'une couleur rouge pendant plusieurs dizaines de milliards d'années
+- MAIS ensuite elles re-bleuissent vu que le coeur des naines rouges devient de plus en plus chaud au fil de leur évolution (plus chaud = plus bleu)
+- Lorsque les naines rouges ont épuisé leur carburant nucléaire, elles se transforment en naine blanche constituée d'hélium pur (elles n'ont pas la masse suffisante pour fusionner l'hélium en carbone), sans passer par un stade de nébuleuse planétaire.
+- Dans 10^14 ans, toutes les naines blanches ont assez refroidi pour être parfaitement sombres (naines noires)
+
+# De sombres galaxies - Le royaume des ombres - L'ère dégénérée
+
+*Sources*
+
+- Death from the skies – Phil Plait
+- The five ages of the univers – Fred Adams
+
+---
+
+- A partir de 10^14 ans, les galaxies, autrefois joyaux célestes, sont désormais des cimetières d'étoiles.
+> Elles sont parsemées de cadavres stellaires (naines noires, étoiles à neutrons, trous noirs) et d'étoiles ratées (naines brunes)
+- Des royaumes des ténèbres illuminés épisodiquement par de rares collisions stellaires. Le temps ne s'écoule plus de la même manière. Les évènements intéressants de l'univers s'étalent sur des durées de plus en plus longues.
+- Des collisions extrêmement rares entre naines brunes peuvent donner lieu à de nouvelles étoiles (naines rouges) qui brilleront encore quelques trillions d'années durant.
+- Selon Fred Adams, quelques centaines d'étoiles pourraient illuminer la galaxie après l'ère stellaire normale.
+- A petite échelle, les systèmes stellaires finissent par se déliter, et les planètes et les étoiles dérivent, solitaires, dans l'espace interstellaire.
+- Un jeu de billard cosmique a lieu dans ces galaxies, qui mène à leur évaporation et à la formation de trous noirs de plusieurs milliards de masses solaires.
+- Ces trous noirs fusionnent ensuite entre eux au centre des amas de galaxies pour former des trous noirs de plusieurs milliers de milliards de masses solaires (dans 10^27 ans)
+- Selon les théories de grande unification (GUT), le proton devrait être instable, mais a un temps de vie extrêmement long. Il se désintègre en positron, en électron, en neutrino et en photon.
+> La durée de vie du proton est d'au moins 10^31 ans (à vérifier) 10^33 à 10^45 ans selon Phil Plait (le nombre exact est inconnu, vu qu'on n'a pas encore vu de proton se désintégrer)
+- Phil Plait postule une durée de vie du proton à 10^37 ans. A partir de cette valeur, à 10^40 ans il n'y a plus aucun proton dans l'univers. Plus de planètes, plus de naines blanches, plus d'étoiles à neutrons. Lentement évaporés par les lois de la physique subatomique. Il ne reste dans l'univers qu'un gaz d'électrons, de positrons (issus de la désintégration des protons), de neutrinos, de photons, et des trous noirs.
+
+# L'ère des trous noirs
+
+*Source:*
+
+- Death from the skies – Phil Plait
+- Global catastrophic risks – Nick Bolstrom (Article de Fred Adams)
+
+---
+
+- De 10^40 à 10^92 ans (chiffres de Phil Plait)
+- Disons à partir de 10^45 ans pour prendre la limite haute de la durée de vie des protons
+- En 1974, Stephen Hawking montre que les trous noirs s'évaporent, en alliant physique quantique et relativité générale.
+> * Les trous noirs stellaires peuvent mettre jusqu'à 10^70 ans à s'évaporer.
+> * Les trous noirs supermassifs peuvent mettre jusqu'à 10^100 ans à s'évaporer
+- En s'évaporant, les trous noirs émettent un rayonnement (quasi-)thermique : le rayonnement de Hawking (expliquer)
+> Ce rayonnement est très faible (?), mais à cette époque c'est la plus grande source d'énergie disponible.
+- Si les trous noirs fusionnent plus vite qu'ils se désagrègent par rayonnement de Hawking, l'ère des trous noirs peut s'étendre sur toute l'éternité !
+> Mais ça dépend si l'univers est plat ou ouvert. Dans un univers ouvert, il devient de plus en plus dur pour les trous noirs de fusionner entre eux. Ils finissent dans une solidude parfaite.
+- La mort du dernier trou noir sonne le glas de cet univers en déclin. Un glas explosif. Le dernier événement visible de l'univers. Mais pas d'yeux pour le voir.
+- Dans 10^100 ans, il n'y a plus de trous noirs. L'univers n'est qu'un gaz  extrêmement froid et diffus de neutrinos, d'électrons, de positrons, de photons (et de particules de matière noire?).
+
+# Une transition de phase cosmologique
+
+*Sources*
+
+- Global catastrophic risks – Nick Bolstrom (Chapitre 16)
+
+---
+
+- Selon la théorie quantique des champs, le vide n'est pas vide ! Il contient de l'énergie, mais c'est l'état de plus basse énergie.
+- Mais l'énergie du vide n'est pas complètement fixe : elle fluctue sur des échelles de temps très courtes (?)
+- Et si l'état du vide de l'univers n'était pas l'état de plus basse énergie ? Et s'il existait un état d'énergie encore plus basse ? Nous serions alors actuellement dans un état de faux vide métastable (false vacuum).
+- Le vide pourrait-il exister sous différentes phases, comme les matériaux peuvent exister sous différentes formes ? Nos meilleures théories physiques laissent supposer que oui.
+> * Les calculs de la chromodynamique quantique (QCD) prédisent que dans les premiers instants après le Big Bang, le vide est passé par différentes phases
+> * Le modèle de l'inflation suggère que c'est une transition de phase du vide quantique qui a créé le Bang du Big Bang. Le succès empirique de ce modèle laisse suggérer que le vide peut exister sous plusieurs phases
+- Dans ce cas, il suffirait que n'importe où dans l'univers, une minuscule région vide passe à ce nouvel état d'énergie pour tout changer. (une étincelle de nouveau vide)
+> Cette étincelle pourrait émerger d'une bête fluctuation quantique 
+- Ca pourrait arriver n'importe quand. Mais plus l'univers vieillit, plus la possibilité d'une telle transition de phase devient grande. Face à l'infini, même la plus infime des probabilités devient plausible.
+- La nouvelle se répand à la vitesse de la lumière. Une bulle de vide dans l'état de plus basse énergie s'étend à (quasiment?) la vitesse de la lumière, jusqu'à englober tout l'univers.
+- L'univers pourrait même se transformer en quelque chose de plus étrange, d'inconnaissable même à l'aulne de nos meilleures théories. (citation de Douglas Adams) Les lois de la physiques (la masse du proton, la force des interactions fondamentales...) changeraient , l'espace et le temps sont réinitialisés. Et avec cette bulle de vide renaît l'espoir d'un univers nouveau.
+> C'est une possibilité intriguante, mais on n'en sait pas encore suffisamment pour savoir à quel point c'est probable, ou sur quelles échelles de temps ça se produirait. Les nouvelles lois de la physiques sont plausibles, mais pas garanties.
+
 # L'ère des naines rouges
 
 # L'ère des trous noirs
