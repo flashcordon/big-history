@@ -201,6 +201,70 @@
 ### Peut-on parler d'apparition d'une espèce ?
 > C'est un abus de langage. Des populations se différencient, et certaines de ces populations donnent des espèces. L'évolution des caractères prédomine l'évolution des espèces
 
+## Qu'est ce que la vie ?
+
+## Evolution chimique
+
+## Le monde prébiotique
+
+*Sources*
+
+- Prebiotic chemistry and the origin of the RNA World – Leslie Orgel (2004)
+- [Acide aminé](https://en.wikipedia.org/wiki/Amino_acid) – Wikipédia
+- [Les Protéines :définitions et Structures](http://unf3s.cerimes.fr/media/paces/Grenoble_1112/seve_michel/seve_michel_p14/seve_michel_p14.pdf)  - Cours de biomol de Michel Seve
+- [Carbone](https://en.wikipedia.org/wiki/Carbon-based_life) – Wikipédia
+
+--- 
+
+- La chimie de la vie est la chimie du carbone.
+> * Le carbone est le 4e élément le plus abondant de l'univers (en masse)
+> * Sa capacité à former jusqu'à 4 liaisons chimiques lui permet de former la colonne vertébrale de molécules ultra complexes. La chimie du carbone est la chimie la plus riche de l'univers
+> * C'est le 2e élément le plus abondant (en masse) dans le corps humain, après l'oxygène
+- Il y a près de 10 millions de composés carbonnés recensés
+- Les acides aminés sont des composés organiques composés essentiellement de CHON
+> Il existe près de 500 types d'acides aminés dans la nature, mais seulement 20 apparaissent dans le code génétique et sont universellement distribués chez tous les êtres vivants connus
+- Les protéines sont des assemblages (polymères) d'acides aminés repliées sur elles mêmes, formées d'une ou plusieurs chaînes d'acides aminés reliées entre elles par des liaisons peptidiques. L'acide aminé est donc la brique élémentaire de la protéine.
+> Les protéines sont composées d'au moins 100 acides aminés. En deça, on appelle les chaînes d'acides aminés des peptides. Les protéines se distinguent par l'ordre de la séquence d'acides aminés, qui déterminent sa forme en 3D.
+- Les nucléobases (ou bases azotées)
+> * Elles ont une aptitude particulière à s'apparier pour former des structures complémentaires et à s'empiler les unes sur les autres pour former des structures comme l'ADN ou l'ARN. 
+> * Il y a 5 bases principales : l'adénine, la cytosine, la guanine, la thymine et l'uracile, respectivement symbolisées par A, C, G, T et U. ACGT sont utilisées dans l'ADN, et ACGU sont utilisées dans l'ARN
+- Les acides nucléiques 
+- On peut fabriquer des molécules nécessaires à la vie à partir de composés chimiques simples !
+> * La synthèse de l'urée à partir de cyanate d'ammonium par Wohler (1828)
+> * La synthèse de sucres par polymérisation du formaldéhyde (CH2O) par Boutlerov (1861)
+> * La synthèse d'acides aminés à partir de décharges électriques dans un gaz sensé représenter l'atmosphère primitive par Stanley Miller et Urey (1953)
+- 20 acides aminés sont nécessaires à la vie. Mais il y a beaucoup plus d'acides aminés que ça !
+
+# Lieux possibles d'apparition de la vie
+
+- En 1953, Stanley Miller et X Urey montrent que des décharges électriques (pour simuler les éclairs) déclenchées dans une vasque remplie gaz supposés représenter l'atmosphère primitive de la Terre (CH4, NH3, H2O) génère avec le temps certains acides aminés qu'on trouve dans des protéines. Ce qui montre que certaines briques de la vie peuvent être générées chimiquement de manière relativement simple.
+> Cette synthèse prébiotique a depuis été reproduite dans pleins de conditions différentes (différentes mixtures de gaz)
+- En 1979, des évents marins sont découverts dans le Pacifique à 2.6km de profondeur. Autour de ces sources hydrothermales se trouve une faune complexe.
+- On connaît aujourd'hui près de 200 évents de ce type dans le monde
+- Panspermie : cette solution n'est pas hors de question mais elle n'est pas satisfaisante car elle déplace le problème de l'origine de la vie
+
+## Un monde ARN
+
+*Sources*
+
+- Prebiotic chemistry and the origin of the RNA World – Leslie Orgel (2004)
+- RNA WORLD AND EARLY LIFE
+- Origins of life – Robert Hazen
+
+---
+
+- Pour fabriquer des protéines à partir de l'information génétique contenue dans l'ADN, la machinerie cellulaire utilise une molécule particulière : l'acide ribonucléique (ARN)
+> Il en existe de 3 types : l'ARN messager, qui , l'ARN de transfert, qui  et l'ARN ribosomal, qui  (?)
+- Sans ADN pour porter l'information pour fabriquer des protéines et sans ARN, on ne peut pas produire des protéines dans des cellules modernes. Mais sans protéines pour fabriquer des molécules comme l'ADN, une cellule ne peut pas fonctionner !
+> C'est un problème de l'oeuf et de la poule. Qu'est ce qui est arrivé en premier ? Les protéines ou l'ADN ?
+- Dans les années 80, Sidney Altman et Thomas Cech montrent que certains segments d'ARN (l'ARN ribozyme) contiennent non seulement de l'information génétique mais agissent aussi comme des enzymes, des catalyseurs qui favorisent les réactions biochimiques !
+> C'est la base de l'hypothèse du monde ARN (terme introduit par Gilbert, 1986), qui postule que les premières molécules à pouvoir s'autorépliquer étaient des molécules d'ARN (probablement incluses dans des membranes de lipides) ou des molécules qui y ressemblent.
+- Selon l'hypothèse du monde ARN, l'ARN ancien jouait le même rôle de catalyseur que les protéines aujourd'hui, et suivait les mêmes règles de réplication que l'ADN aujourd'hui en matchant des paires de bases
+- Le problème du monde ARN, c'est que l'ARN est une molécule ultra complexe, et personne ne sait comment elle a émergé en premier lieu. Il est très improbable qu'elle se soit assemblée par pur hasard dans la soupe primordiale. On n'a jamais réussi à créer de l'ARN "from scratch" en laboratoire.
+> Des mécanismes intermédiaires ont du avoir lieu pour transformer le monde prébiotique (pré-ARN) en monde ARN
+- Mais si l'ARN n'était pas la première molécule à pouvoir s'autorépliquer, quelle est elle?
+- La question devient alors : comment un monde ARN sans protéine a pu se développer sur la Terre primitive ?
+
 ## La photosynthèse oxygénique
 
 - Inventé par les cyanobactéries entre 3.4 et 2.5 Gyrs
