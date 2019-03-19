@@ -12,3 +12,5 @@
 - Elle nous permet de "penser comme une planète", de changer de point de vue et de focus pour mieux nous comprendre
 - Elle illustre les avantages de pouvoir penser le monde à plusieurs échelles (spatiales et temporelles)
 - Le passé est un guide pour le futur
+
+- [Why we need a modern origin story today](sciencenordic.com/why-we-need-modern-origin-story-today?fbclid=IwAR0ivr-bTPKXx2ihbbWlLVnLmS08AvzW8ZyZcXi1wD5ePAWbA97LLH01dD4)
