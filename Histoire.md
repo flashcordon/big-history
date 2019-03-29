@@ -6,6 +6,7 @@
 - Writing and Civilization From Ancient Worlds to Modernity - Marc Zender (The Great Courses)
 - Writing and script: a very short introduction - Andrew Robinson (2009)
 - [Aux origines de l'écriture](http://j.poitou.free.fr/pro/html/scr/scr-intro.html) - Jacques Poitou (linguiste)
+- [Writing](https://www.ancient.eu/writing/) - Ancient History Encyclopedia (2011)
 
 ---
 
@@ -54,6 +55,7 @@
 - 3 mythes sur l'origine de l'écriture :
 > * Elle ne s'est développé qu'une fois et toutes les civilisations ont ensuite copié les pionniers (monogénèse) 
 - L'écriture permet la formation d'un système légal (?) (code d'Hammurabi)
+- Elle permet aussi de conserver des mythes transmis oralement jusque là (Gilgamesh)
 
 # Les premières villes
 
