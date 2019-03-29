@@ -7,6 +7,9 @@
 - Writing and script: a very short introduction - Andrew Robinson (2009)
 - [Aux origines de l'écriture](http://j.poitou.free.fr/pro/html/scr/scr-intro.html) - Jacques Poitou (linguiste)
 - [Writing](https://www.ancient.eu/writing/) - Ancient History Encyclopedia (2011)
+- [The History of Writing - Where the Story Begins - Extra History](https://youtu.be/HyjLt_RGEww) - Extrat Credits (2016)
+- [Origins and Evolution of Writing Systems](https://blogs.ntu.edu.sg/hss-language-evolution/wiki/chapter-17/) - Language evolution (2017)
+- [Déchiffrer](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin/sur-les-epaules-de-darwin-06-juin-2015) - Sur les épaules de Darwin (2015)
 
 ---
 
