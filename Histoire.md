@@ -4,6 +4,7 @@
 
 - [Quipu](https://fr.wikipedia.org/wiki/Quipu)
 - Writing and Civilization From Ancient Worlds to Modernity - Marc Zender (The Great Courses)
+- Writing and script: a very short introduction - Andrew Robinson (2009)
 
 ---
 
@@ -28,6 +29,7 @@
 > Les Incas avaient des états mais n'ont pas développé l'écriture, et les Cherokee du 19e siècle sont une société tribale qui a développé l'écriture. Par contre les Incas ont réalisé des sortes d'abaques avec des noeuds sur des cordes (Quipu).
 - 3 mythes sur l'origine de l'écriture :
 > * Elle ne s'est développé qu'une fois et toutes les civilisations ont ensuite copié les pionniers (monogénèse) 
+- L'écriture permet la formation d'un système légal (?) (code d'Hammurabi)
 
 # Les premières villes
 
