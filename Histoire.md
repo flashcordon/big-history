@@ -1,4 +1,4 @@
-# L'invention de l'écriture
+# Les origines de l'écriture
 
 *Sources*
 
@@ -14,9 +14,12 @@
 - Toutes les écritures du monde ont des signes phonétiques depuis 5000 ans
 
 ***Quelles sont les plus anciennes traces d'écriture connues ?***
-- En Mésopotamie (actuelle Irak), les plus anciennes traces d'écriture sont des tablettes d'argile datées de 3300 BC. Ce sont des documents comptables.
+- En Mésopotamie (actuelle Irak), les plus anciennes traces d'écriture sont des tablettes d'argile datées de 3300 BC. Ce sont des documents comptables, préservés accidentellement après avoir été brûlés.
 - En Egypte, les plus anciennes traces d'écriture sont des hiéroglyphes ornant des étiquettes d'os et d'ivoire servant à lister les biens du défunt sur un tombeau à Abydos. Elles sont datés de 3200 BC.
 - En Europe, les plus anciennes traces d'écritures sont des tablettes d'argiles en Linéaire A et B en Crète et en Grèce, et sont datées du 2e millénaire BC (1900 BC). Ce sont des documents comptables.
+- En Chine, en Inde et en Mésoamérique on n'a pas ou peu de documents comptables dans les plus anciennes traces d'écriture, probablement parce qu'ils étaient rédigés sur des matériaux périssables comme le bambou, l'écorce ou les peaux d'animaux
+
+***Pourquoi est apparue l'écriture ?***
 - L'écriture est apparue indépendament dans au moins 5 civilisations différentes, selon des besoins locaux des cultures qui l'ont développées
 > * En Egypte et en Méso-Amérique : but bureaucratique : il s'agit de marquer les noms et les titres des rois 
 > * En Mésopotamie et en Crète : but administratif
