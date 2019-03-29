@@ -436,10 +436,11 @@ Burcher
 - On a découvert avec le télescope spatial Herschel que le MIS est structuré en filaments de matière
 > On  peut reproduire cette structure filamentaire à partir de simulations informatiques (SPH, cf vidéo de Matthew Bate)
 - Le cycle de la matière interstellaire : les nébuleuses forment des nuages moléculaires. Les étoiles se forment dans les nuages moléculaires. A la fin de la vie des étoiles les éléments sont éjectés dans le milieu interstellaire, et le cycle continue !
-- Les nuages moléculaires sont des nuages de gaz et de pousisère assez denses pour permettre à des molécules de se former.
+- Les nuages moléculaires sont des nuages de gaz et de pousisère assez denses pour permettre à des molécules de se former. On les trouve essentiellement dans les bras spiraux de notre Galaxie.
 > * Taille : entre 1 année lumière (pour un globule de Bok) et 600 années lumières (pour un nuage moléculaire géant comme les piliers de la création, ou GMC)
 > * Masse : de 10 000 à 1 million de masses solaires
-> * Température : <20K
+> * Température : ~20K-30K
+> * Densité : 1000 à 1 millions de particules / cm3
 > * Composition : gaz (99% de la masse) et poussière interstellaire (1%)
 > * Composition du gaz : hydrogène (90%), hélium (9%), C,N,O... (1%)
 > * Composition de la poussière interstellaire : des molécules, des PAH (polycyclic aromatic hydrocarbon) et des grains de quelques 0.1 micromètres composés de silicates (silicium, magnésium, oxygène) et de graphite (carbone). 
