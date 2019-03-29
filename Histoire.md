@@ -22,7 +22,7 @@
 - En Inde, les plus anciennes traces d'écriture sont des sceaux de pierre retrouvés dans les villes de la civilisation de la vallée des Indus, et datées de 2500 BC. 
 > Cette écriture n'est toujours pas déchiffrée à ce jour. On ne sait même pas si c'est de l'écriture ou de la proto-écriture.
 - En Chine, les plus anciennes traces d'écriture sont inscrites sur des os oraculaires (écriture ossécaille), des morceaux d'os d'animaux ou de carapaces de tortues datées de 1200 BC (dynastie Shang).
-> Mais on a aussi retrouvé des
+> Mais on a aussi retrouvé des inscriptions sur des poteries de la culture Yangshao (le long du fleuve jaune en CHine) datées de 5000-4000 BC, qui sont probablement les précurseurs de l'écriture chinoise !
 
 ***Pourquoi est apparue l'écriture ?***
 - L'écriture est apparue indépendament dans au moins 5 civilisations différentes, selon des besoins locaux des cultures qui l'ont développées
