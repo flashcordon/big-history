@@ -443,8 +443,8 @@ Burcher
 > * Composition : gaz (99% de la masse) et poussière interstellaire (1%)
 > * Composition du gaz : hydrogène (90%), hélium (9%), C,N,O... (1%)
 > * Composition de la poussière interstellaire : des molécules, des PAH (polycyclic aromatic hydrocarbon) et des grains de quelques 0.1 micromètres composés de silicates (silicium, magnésium, oxygène) et de graphite (carbone). 
-> * Durée de vie estimée : 10 millions d'années
-> * Structure: les nuages moléculaires ont une structure fractale et hiérarchique. Un GMC se décompose en nuages (taille > 10 pc), en amas (clumps, taile ~ 1pc) et en coeurs (cores, taille)
+> * Durée de vie estimée : quelques dizaines de millions d'années (voire plus de 100 millions d'années) -> détruits par le rayonnement UV émis par les étoiles OB (massives et chaudes)
+> * Structure: les nuages moléculaires ont une structure fractale et hiérarchique. Un GMC se décompose en nuages (taille > 10 pc), en amas (clumps, précurseurs des amas d'étoiles, taile ~ 1pc) et en coeurs (cores, où se forment les étoiles individuelles et les systèmes binaires, taille ~0.1 pc)
 
 *Comment se forment les molécules ?*
 - A l'intérieur des nuages moléculaires, où la température est inférieure à 20K, les molécules sont protégées des rayons UV émis par les étoiles massives environnantes et des rayons cosmiques qui pourraient les casser. De la chimie complexe peut donc se produire !
