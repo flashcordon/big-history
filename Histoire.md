@@ -8,7 +8,7 @@
 ---
 
 - On peut définir l'écriture comme un système de marques graphiques qui représentent les sons et les mots des langages articulés
-- L'écriture est la "parole rendue visible" ("visible speech", définition du linguiste John DeFrancis)
+- L'écriture est la "parole visible" ("visible speech", définition du linguiste John DeFrancis)
 - Toutes les écritures du monde ont des signes phonétiques depuis 5000 ans
 - Les plus anciennes traces d'écriture sont datées de 3100 BC
 - L'écriture est apparue indépendament dans au moins 5 civilisations différentes, selon des besoins locaux des cultures qui l'ont développées
