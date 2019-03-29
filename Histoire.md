@@ -23,10 +23,12 @@
 > Il n'y a pas encore de consensus sur quelle civilisation l'a inventé le premier : les Egyptiens ou les Mésopotamiens ?
 - L'écriture nous permet de diffuser nos idées à travers l'espace et à travers le temps, au delà de nos limites biologiques.
 - L'écriture nous permet d'accéder aux idées et aux histoires des gens qui vivaient il y a plusieurs milliers d'années. L'écriture nous permet d'entrer en contact avec les morts, et de goûter à un morceau d'éternité.
+- L'écriture permet aussi d'accumuler des connaissances au fil des générations
 - Les hiéroglyphes, littéralement "l'écriture sacrée", est associée chez les Egyptiens antiques au dieu Thot
 - Les Sumériens associent l'invention de l'écriture au dieu Enlil à la tête de leur panthéon
-- Attention, la marque d'une civilisation n'est pas forcément l'écriture. C'est une vision encore largement partagée, mais elle est fausse !
-> Les Incas avaient des états mais n'ont pas développé l'écriture, et les Cherokee du 19e siècle sont une société tribale qui a développé l'écriture. Par contre les Incas ont réalisé des sortes d'abaques avec des noeuds sur des cordes (Quipu).
+- Attention, la marque d'une civilisation n'est pas forcément l'écriture. C'est une vision encore largement partagée, mais elle est fausse ! Les civilisations PEUVENT se développer sans développer l'écriture
+> * Les Incas avaient des états mais n'ont pas développé l'écriture. Par contre ils ont réalisé des sortes d'abaques avec des noeuds sur des cordes (Quipu).
+> * A contrario les Cherokee du 19e siècle sont une société tribale qui a développé l'écriture. 
 - 3 mythes sur l'origine de l'écriture :
 > * Elle ne s'est développé qu'une fois et toutes les civilisations ont ensuite copié les pionniers (monogénèse) 
 - L'écriture permet la formation d'un système légal (?) (code d'Hammurabi)
