@@ -1,8 +1,10 @@
 # Table des matières
 
-- [Inflation Big Bang et antimatière](#Inflation-Big-Bang-et-antimatière)
 - [Big Bang](#Big-Bang)
-- []()
+- [Inflation](#Inflation)
+- [Le découplage des forces fondamentales](#Le-découplage-des-forces-fondamentales)
+- [Plasma de quarks et de gluons](#Plasma-de-quarks-et-de-gluons)
+- [Nucléosynthèse primordiale](#Nucléosynthèse-primordiale)
 
 # Inflation Big Bang et antimatière
 
