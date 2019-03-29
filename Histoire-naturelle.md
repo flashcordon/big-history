@@ -248,8 +248,9 @@
 *Sources*
 
 - Prebiotic chemistry and the origin of the RNA World – Leslie Orgel (2004)
-- RNA WORLD AND EARLY LIFE
+- [RNA WORLD AND EARLY LIFE](https://youtu.be/RxS0OztFlow) - CARLOS BRIONES (Décembre 2016)
 - Origins of life – Robert Hazen
+- [Extremely high mutation rate of a hammerhead viroid](https://www.ncbi.nlm.nih.gov/pubmed/19265013) - Gago et al (2009)
 
 ---
 
