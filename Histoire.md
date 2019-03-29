@@ -60,6 +60,8 @@
 - L'écriture permet la formation d'un système légal (?) (code d'Hammurabi)
 - Elle permet aussi de conserver des mythes transmis oralement jusque là (Gilgamesh)
 
+- Y a t-il des écritures plus évoluées que d'autres ?
+
 # Les premières villes
 
 # Les premiers mythes
