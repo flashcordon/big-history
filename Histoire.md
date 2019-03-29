@@ -8,15 +8,15 @@
 
 ---
 
-*Comment définir l'écriture ?*
+***Comment définir l'écriture ?***
 - On peut définir l'écriture comme un système de marques graphiques qui représentent les sons et les mots des langages articulés
 - L'écriture est la "parole visible" ("visible speech", définition du linguiste John DeFrancis)
 - Toutes les écritures du monde ont des signes phonétiques depuis 5000 ans
 
-*Quelles sont les plus anciennes traces d'écriture ?*
+***Quelles sont les plus anciennes traces d'écriture connues ?***
 - En Mésopotamie (actuelle Irak), les plus anciennes traces d'écriture sont des tablettes d'argile datées de 3300 BC. Ce sont des documents comptables.
 - En Egypte, les plus anciennes traces d'écriture sont des hiéroglyphes ornant des étiquettes d'os et d'ivoire servant à lister les biens du défunt sur un tombeau à Abydos. Elles sont datés de 3200 BC.
-- En Europe, les plus anciennes traces d'écritures sont des tablettes d'argiles en Linéaire A et B en Crète et en Grèce, et sont datées du 2e millénaire BC (-1900)
+- En Europe, les plus anciennes traces d'écritures sont des tablettes d'argiles en Linéaire A et B en Crète et en Grèce, et sont datées du 2e millénaire BC (1900 BC). Ce sont des documents comptables.
 - L'écriture est apparue indépendament dans au moins 5 civilisations différentes, selon des besoins locaux des cultures qui l'ont développées
 > * En Egypte et en Méso-Amérique : but bureaucratique : il s'agit de marquer les noms et les titres des rois 
 > * En Mésopotamie et en Crète : but administratif
