@@ -423,7 +423,8 @@ Burcher
 
 *Sources* 
 
-- Astrochimie dans le milieu interstellaire – Valentine Wakelam
+- Astrochimie dans le milieu interstellaire – Valentine Wakelam, RED19 (Mars 2019) 
+- [Chapter 4 : Molecular clouds](http://userpages.irap.omp.eu/~sbottinelli/Downloads/ism-ch4-gmc.pdf) - Cours de l'IRAP
 
 --- 
 
@@ -437,11 +438,13 @@ Burcher
 - Le cycle de la matière interstellaire : les nébuleuses forment des nuages moléculaires. Les étoiles se forment dans les nuages moléculaires. A la fin de la vie des étoiles les éléments sont éjectés dans le milieu interstellaire, et le cycle continue !
 - Les nuages moléculaires sont des nuages de gaz et de pousisère assez denses pour permettre à des molécules de se former.
 > * Taille : entre 1 année lumière (pour un globule de Bok) et 600 années lumières (pour un nuage moléculaire géant comme les piliers de la création, ou GMC)
-> * Masse : de X à 1 million de masses solaires
+> * Masse : de 10 000 à 1 million de masses solaires
 > * Température : <20K
 > * Composition : gaz (99% de la masse) et poussière interstellaire (1%)
 > * Composition du gaz : hydrogène (90%), hélium (9%), C,N,O... (1%)
 > * Composition de la poussière interstellaire : des molécules, des PAH (polycyclic aromatic hydrocarbon) et des grains de quelques 0.1 micromètres composés de silicates (silicium, magnésium, oxygène) et de graphite (carbone). 
+> * Durée de vie estimée : 10 millions d'années
+> * Structure: les nuages moléculaires ont une structure fractale et hiérarchique. Un GMC se décompose en nuages (taille > 10 pc), en amas (clumps, taile ~ 1pc) et en coeurs (cores, taille)
 
 *Comment se forment les molécules ?*
 - A l'intérieur des nuages moléculaires, où la température est inférieure à 20K, les molécules sont protégées des rayons UV émis par les étoiles massives environnantes et des rayons cosmiques qui pourraient les casser. De la chimie complexe peut donc se produire !
