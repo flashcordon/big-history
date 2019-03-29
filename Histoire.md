@@ -14,10 +14,13 @@
 - Toutes les écritures du monde ont des signes phonétiques depuis 5000 ans
 
 ***Quelles sont les plus anciennes traces d'écriture connues ?***
-- En Mésopotamie (actuelle Irak), les plus anciennes traces d'écriture sont des tablettes d'argile datées de 3300 BC. Ce sont des documents comptables, préservés accidentellement après avoir été brûlés.
-- En Egypte, les plus anciennes traces d'écriture sont des hiéroglyphes ornant des étiquettes d'os et d'ivoire servant à lister les biens du défunt sur un tombeau à Abydos. Elles sont datés de 3200 BC.
+- En Mésopotamie (actuelle Irak), les plus anciennes traces d'écriture sont des tablettes d'argile retrouvées à Uruk et datées de 3300 BC. Ce sont des documents comptables, préservés accidentellement après avoir été brûlés.
+- En Egypte, les plus anciennes traces d'écriture sont des hiéroglyphes ornant des étiquettes d'os et d'ivoire servant à lister les biens du défunt sur un tombeau à Abydos. Elles sont datés de 3200-2400 BC. 
+> Il y a donc un débat non résolu à ce jour sur la première civilisation à avoir développé l'écriture : les Egyptiens ou les Mésopotamiens ?
 - En Europe, les plus anciennes traces d'écritures sont des tablettes d'argiles en Linéaire A et B en Crète et en Grèce, et sont datées du 2e millénaire BC (1900 BC). Ce sont des documents comptables.
 - En Chine, en Inde et en Mésoamérique on n'a pas ou peu de documents comptables dans les plus anciennes traces d'écriture, probablement parce qu'ils étaient rédigés sur des matériaux périssables comme le bambou, l'écorce ou les peaux d'animaux
+- En Inde, les plus anciennes traces d'écriture sont des sceaux de pierre retrouvés dans les villes de la civilisation de la vallée des Indus, et datées de 2500 BC. 
+> Cette écriture n'est toujours pas déchiffrée à ce jour. On ne sait même pas si c'est de l'écriture ou de la proto-écriture.
 
 ***Pourquoi est apparue l'écriture ?***
 - L'écriture est apparue indépendament dans au moins 5 civilisations différentes, selon des besoins locaux des cultures qui l'ont développées
@@ -26,6 +29,10 @@
 > * En Chine : but divinatoire
 - Attention aux arguments téléologiques ! Le "but" de l'écriture?
 - hypothèse: l'écriture est apparue suite au besoin de marquer les noms propres, pour marquer qu'un objet appartient à quelqu'un. (à creuser). Mais lorsque l'écriture est inventée, elle devient un outil surprennement adaptable pour toutes les cultures qui l'utilisent.
+
+***Comment l'écriture s'est-elle diffusée ?***
+- A partir du moment où l'écriture est développée, elle se 
+
 - évolution de l'écriture par "emprunt avec adaptation"
 > Les romains ont emprunté leur alphabet des étrusques, qui l'ont emprunté des grecs, qui l'ont emprunté des phéniciens
 > Il n'y a pas encore de consensus sur quelle civilisation l'a inventé le premier : les Egyptiens ou les Mésopotamiens ?
