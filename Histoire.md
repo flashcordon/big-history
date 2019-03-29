@@ -23,7 +23,7 @@
 - En Chine, les plus anciennes traces d'écriture sont inscrites sur des os oraculaires (écriture ossécaille), des morceaux d'os d'animaux ou de carapaces de tortues datées de 1200 BC (dynastie Shang).
 > Mais on a aussi retrouvé des inscriptions sur des poteries de la culture Yangshao (le long du fleuve jaune en CHine) datées de 5000-4000 BC, qui sont probablement les précurseurs de l'écriture chinoise !
 - En Chine, en Inde et en Mésoamérique on n'a pas ou peu de documents comptables dans les plus anciennes traces d'écriture, probablement parce qu'ils étaient rédigés sur des matériaux périssables comme le bambou, l'écorce ou les peaux d'animaux
-- En Mésoamérique, les premières traces d'écriture proviennent des Olmèques (golfe du Mexique), et sont datées de 900 BC.
+- En Mésoamérique, les premières traces d'écriture proviennent d'une stèle de pierre (Stèle de Cascajal) réalisée par les Olmèques (golfe du Mexique), datée de 900 BC.
 > Leur écriture n'a pas été déchiffrée à ce jour.
 
 ***Pourquoi est apparue l'écriture ?***
