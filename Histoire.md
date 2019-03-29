@@ -5,6 +5,7 @@
 - [Quipu](https://fr.wikipedia.org/wiki/Quipu)
 - Writing and Civilization From Ancient Worlds to Modernity - Marc Zender (The Great Courses)
 - Writing and script: a very short introduction - Andrew Robinson (2009)
+- [Aux origines de l'écriture](http://j.poitou.free.fr/pro/html/scr/scr-intro.html) - Jacques Poitou (linguiste)
 
 ---
 
