@@ -123,7 +123,7 @@
 > 1.3 million de tonnes de guano a été importé en Europe depuis le Chili en 1900. Jusqu'à 2.5 en 1913 !!
 - On n'affecterait pas le cycle de l'azote par hasard ?
 
-
+- Haber obtient le prix Nobel de chimie en 1918 pour "la synthèse de l'ammoniac à partir de ses éléments"
 
 # Les organismes supra nationaux
 
