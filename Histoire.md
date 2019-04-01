@@ -105,6 +105,13 @@
 
 # Le procédé haber bosch
 
+*Sources*
+
+- [Fritz Haber: Great Minds](https://youtu.be/tdEE5uvFhOM) - Scishow (Août 2012)
+- [La réaction chimique qui nourrit le monde - Daniel D. Dulek](https://youtu.be/o1_D4FscMnU) - Ted Ed (Novembre 2013)
+
+---
+
 # Les organismes supra nationaux
 
 - ONU, EU, ONG, multinationales
