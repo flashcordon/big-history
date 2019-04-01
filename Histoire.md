@@ -119,8 +119,8 @@
 - Les plantes ont besoin d'azote pour fabriquer de la chlorophylle, des acides aminés des protéines, de l'ADN...
 > Les valeurs nutritionnelles d'un engrais sont directement corrélées à leur concentration en azote
 - L'air est constitué à 78% de (di)azote (N2). Problème : les 2 atomes d'azote qui constituent cette molécule sont fortement liées par 3 liaisons covalentes, ce qui rend le diazote non réactif chimiquement.
-- Jusqu'au milieu du 19e siècle, l'Europe importait du guano d'Amérique du Sud ! C'était le meilleur engrais de l'époque
-> 1.3 million de tonnes de guano a été importé en Europe depuis le Chili en 1900. Jusqu'à 2.5 en 1913 !!
+- Jusqu'au milieu du 19e siècle, l'Europe importait du guano d'Amérique du Sud ! C'était le meilleur engrais de l'époque, les excréments d'oiseaux étant riches en azote
+> "Le terme «guano» vient du quechua, une des langues parlées des Andes. Il se traduit littéralement comme «fiente d’oiseau de mer». Des objets archéologiques suggèrent que les peuples andins récoltaient le guano depuis les temps les plus anciens, pour améliorer la qualité de leurs cultures. Ils le trouvaient sur les îles et les rivages sauvages de la côte du Pérou où les conditions climatiques favorisaient sa production. Un courant froid, le Humboldt, y génère des eaux extrêmement poissonneuses, ce qui favorise le développement de nombreuses colonies d’oiseaux qui, bien nourris, font d’abondants «besoins». De plus, un climat désertique, en limitant les précipitations, contribue à préserver le guano".  1.3 million de tonnes de guano a été importé en Europe depuis le Chili en 1900. Jusqu'à 2.5 en 1913 !
 - On n'affecterait pas le cycle de l'azote par hasard ?
 
 - Haber obtient le prix Nobel de chimie en 1918 pour "la synthèse de l'ammoniac à partir de ses éléments"
