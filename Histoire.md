@@ -109,8 +109,13 @@
 
 - [Fritz Haber: Great Minds](https://youtu.be/tdEE5uvFhOM) - Scishow (Août 2012)
 - [La réaction chimique qui nourrit le monde - Daniel D. Dulek](https://youtu.be/o1_D4FscMnU) - Ted Ed (Novembre 2013)
+- [The Historical Development of the Haber-Bosch Process](http://www.ipni.net/article/IPNI-3359)
+- The alchemy of air - Thomas Hager 
+- Enriching the Earth - Vaclav Smil
 
 ---
+
+
 
 # Les organismes supra nationaux
 
