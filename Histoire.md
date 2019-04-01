@@ -112,8 +112,16 @@
 - [The Historical Development of the Haber-Bosch Process](http://www.ipni.net/article/IPNI-3359)
 - The alchemy of air - Thomas Hager 
 - Enriching the Earth - Vaclav Smil
+- [Le retour du guano](https://www.sciencepresse.qc.ca/blogue/2013/04/29/retour-guano) - Agence Science Presse (Avril 2013)
 
 ---
+
+- Les plantes ont besoin d'azote pour fabriquer de la chlorophylle, des acides aminés des protéines, de l'ADN...
+> Les valeurs nutritionnelles d'un engrais sont directement corrélées à leur concentration en azote
+- L'air est constitué à 78% de (di)azote (N2). Problème : les 2 atomes d'azote qui constituent cette molécule sont fortement liées par 3 liaisons covalentes, ce qui rend le diazote non réactif chimiquement.
+- Jusqu'au milieu du 19e siècle, l'Europe importait du guano d'Amérique du Sud ! C'était le meilleur engrais de l'époque
+> 1.3 million de tonnes de guano a été importé en Europe depuis le Chili en 1900. Jusqu'à 2.5 en 1913 !!
+- On n'affecterait pas le cycle de l'azote par hasard ?
 
 
 
