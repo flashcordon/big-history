@@ -27,13 +27,14 @@ Ressources sur la Big History
 - [Conseils de lecture sur la Big History Platform](http://bighistoryplatform.weebly.com/literature.html)
 - [Manuel d'histoire globale](https://www.armand-colin.com/manuel-dhistoire-globale-9782200278595) - Chloé Maurel (2014) : Où la Big History est mise en contexte avec les autres écoles de la pratique historique
 
-## Livres
+## Livres de Big History, d'histoire globale et environnementale
 
 - [The Major Transitions in Evolution](https://www.amazon.fr/dp/B001KVZZYE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - John Maynard Smith et Eörs Szathmáry (1995)
 - [Revolutions that Made the Earth](https://www.amazon.co.uk/Revolutions-that-Made-Earth-Lenton/dp/0199587043) - Tim Lenton et Andrew Watson (2011)
 - Esquisse d'une histoire universelle - Jean Baeschler
 - Timefulness - Marcia Bjornerud
 - Cataclysmes - Laurent Testot
+- Histoire mondiale de la France - Patrick Boucheron (?)
 
 ## Sites Web
 
