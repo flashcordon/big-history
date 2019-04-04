@@ -361,8 +361,12 @@ Un supercontinent : Pangea Ultima
 
 # Le système solaire est-il stable 
 
-- Saturne perdra ses anneaux dans...?
-- Jacques Laskar
+*Sources*
+
+- [NASA Research Reveals Saturn is Losing Its Rings at "Worst-Case-Scenario" Rate](https://solarsystem.nasa.gov/news/794/nasa-research-reveals-saturn-is-losing-its-rings-at-worst-case-scenario-rate/) - NASA News (Décembre 2018)
+- [Le Système solaire est-il stable ?](http://www.bourbaphy.fr/laskar.pdf) - Jacques Laskar (2010)
+
+---
 
 # La fin de l'habitabilité planétaire
 
