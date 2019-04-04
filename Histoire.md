@@ -163,7 +163,7 @@
 - L’ammoniac est devenu l’un des composés les plus synthétisés au monde 
 > Chaque année, on en produit près de 144 millions de tonnes (en 2016).
 
-***Quelles sont les conséquences néfastes de nos émissions d’azote ? ***
+***Quelles sont les conséquences néfastes de nos émissions d’azote ?***
 - La conséquence majeure (mais régionale) de l’augmentation de l’azote, c’est l’eutrophisation des zones côtières.
 > L’azote (et le phosphore) produit par nos activités agricoles s’accumule dans les eaux côtières de surface. Cela permet à des algues de surface (qui peuvent être toxiques pour l’humain) de proliférer. Lorsque ces algues meurent et se décomposent, elles absorbent une grande quantité d’oxygène. Les écosystèmes locaux s’appauvrissent et meurent, faute d’oxygène (hypoxie/anoxie) 
 - Le taux d’émission d’oxyde Nitreux (N2O) sous forme gazeux, qui est produit lors du cycle de l’azote, a augmenté suite à notre production d’azote réactif. L’oxyde nitreux contribue à la déplétion de la couche d’ozone, et est un puissant gaz à effet de serre, avec un potentiel de réchauffement global 300 fois supérieur au CO2.
