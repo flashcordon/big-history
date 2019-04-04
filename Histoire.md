@@ -176,3 +176,7 @@
 # Les organismes supra nationaux
 
 - ONU, EU, ONG, multinationales
+
+# La révolution des transports
+
+# La révolution de l'information
