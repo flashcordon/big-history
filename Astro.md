@@ -472,6 +472,7 @@ Burcher
 - Astronomie, Astrophysique: introduction – Agnès Acker (2007)
 - A history of the solar system – Claudio Vita-Finzi (2016)
 - [The supernova trigger for formation of the solar system](https://www.sciencedirect.com/science/article/abs/pii/0019103577901014) - Cameron et Trujan (1977)
+- [The Sun and the Solar Nebula](https://www.sciencedirect.com/science/article/pii/S0074614204800184) - International Geophysics (2004)
 
 --- 
 
@@ -483,7 +484,7 @@ Burcher
 - La nébuleuse a certainement été perturbée par l'explosion d'une supernova proche, ce qui l'a amenée à se contracter
 > C’est la présence de certains isotopes radioactifs comme le magnésium 26 en excès dans certaines météorites (comme celle d’Allende) qui pointe vers la possibilité d’une supernova qui aurait éjecté ses éléments dans le système solaire primitif (dont l’aluminium 26 qui se serait depuis désintégré radioactivement en magnésium 26) :) Mais il y a d’autres hypothèses, comme une étoile AGB voisine de 6.5 masses solaires par exemple.
 - Au centre du disque protoplanétaire, le gaz a continué de se contracter. Au bout d’un moment, il est devenu si chaud (plusieurs dizaine de millions de degrés) et si dense que les atomes d’hydrogène qui le composaient se sont mis à fusionner entre eux, ce qui a dégagé une énergie colossale. Le Soleil est né.
--  Le jeune Soleil entre alors dans une phase très active, la phase T Tauri. Il émet des jets de matière dans son axe de rotation ainsi que d'intenses vents stellaires qui poussent violemment les éléments les plus légers du disque comme l'hydrogène ou l'hélium en périphérie.
+-  Le jeune Soleil entre alors dans une phase très active, la phase T Tauri. Il émet des jets de matière dans son axe de rotation ainsi que d'intenses vents stellaires qui poussent violemment les éléments les plus légers du disque comme l'hydrogène ou l'hélium en périphérie. La période T Tauri du Soleil dure une dizaine de millions d'années.
 - Pendant des millions d’années, le Soleil n’aura de cesse d’aspirer une grande partie du gaz autour de lui. 
 > Résultat, la masse du Soleil représente aujourd’hui plus de 99,8% de la masse du système solaire
 - L'observation de disques protoplanétaires (Hubble, ALMA) depuis une vingtaine d'années conforte ce scénario
