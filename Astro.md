@@ -13,7 +13,10 @@
 - [Origine des éléments plus lourds que le fer](#Origine-des-éléments-plus-lourds-que-le-fer)
 - [Les premiers minéraux](#Les-premiers-minéraux)
 - [La réionisation](#La-réionisation)
-- [L'évolution des galaxies](#L'évolution-des-galaxies)
+- [L'évolution des galaxies](#Lévolution-des-galaxies)
+- [L'origine des molécules](#Lorigine-des-molécules)
+- [La formation du système solaire](#La-formation-du-système-solaire)
+- [Les exoplanètes](#Les-exoplanètes)
 
 *Sources*
 
@@ -455,7 +458,7 @@ Burcher
 > Les supernovae qui éjectent du gaz, les trous noirs stellaires et supermassifs au centre des galaxies, les champs magnétiques des objets de l’univers…
 - Ces phénomènes impliquent des échelles si petites qu’il est impossible de les simuler directement à partir des théories physiques. Il faut donc se servir de descriptions approchées (empiriques) à partir des observations, ce qui constitue la faiblesse majeure de ces simulations.
 
-# Le milieu interstellaire et l'origine des molécules
+# L'origine des molécules
 
 *Sources* 
 
@@ -491,7 +494,7 @@ Burcher
 
 - (plot abondance des éléments dans le système solaire)
 
-# Formation du système solaire
+# La formation du système solaire
 
 *Sources*
 
