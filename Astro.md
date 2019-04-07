@@ -392,6 +392,8 @@ Burcher
 - [Stardust in meteorites](https://www.pnas.org/content/108/48/19142) – Davis (2011)
 - [Dust from AGB stars](https://www.dark-cosmology.dk/~anja/papers/Andersen_Vienna06.pdf) – Andersen (2006)
 
+---
+
 - Un minéral est le plus souvent un solide naturel homogène avec une structure atomique ordonnée et une composition chimique définie. Il peut être décrit, dans la très grande majorité des cas, comme une matière cristallisée caractérisée par sa composition chimique et l'agencement de ses atomes selon une périodicité et une symétrie précises (Wikipédia)
 - Avant les premières étoiles, il n’y a aucun endroit dans l’univers qui contienne les éléments qui forment les minéraux, mais aussi qui soit assez dense et assez froid pour leur permettre de se condenser et de former des cristaux.
 - Lorsque certaines étoiles en fin de vie éjectent leur enveloppe externe (de manière plus ou moins violente), cette enveloppe riche en éléments s’étend et se refroidit.
