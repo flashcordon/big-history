@@ -9,6 +9,7 @@
 - [Anthropologie : invariants structuraux et transformations. Lien à l’histoire et rôle du sujet](https://hal.archives-ouvertes.fr/hal-01294301/document) - Godelier et al (2016)
 - Les Structures élémentaires de la parenté - Claude Levi Strauss
 - Human Universals - Donald Brown (1991)
+- Our Common Denominator: Human Universals Revisited - Christoph Antweiler (2016)
 - Qu'est-ce que la diversité de la vie ? - Yves Michaud
 - [Humanité](https://fr.wikipedia.org/wiki/Humanit%C3%A9#L'unit%C3%A9_de_l'humanit%C3%A9) - Wikipédia
 - [« Unité et identité de l'Homme » : nouveaux regards](https://www.cairn.info/revue-natures-sciences-societes-2004-4-page-434.htm) - Claudine Friedberg (2004)
