@@ -4,10 +4,11 @@
 - [Inflation](#Inflation)
 - [Le découplage des forces fondamentales](#Le-découplage-des-forces-fondamentales)
 - [Plasma de quarks et de gluons](#Plasma-de-quarks-et-de-gluons)
+- [Matière et antimatière](#Matière et antimatière)
 - [Nucléosynthèse primordiale](#Nucléosynthèse-primordiale)
-
-# Inflation Big Bang et antimatière
-
+- [Recombinaison](#Recombinaison)
+- [Nucléosynthèse stellaire](#Nucléosynthèse-stellaire)
+- [Les premiers minéraux](#Les-premiers-minéraux)
 
 *Sources*
 
@@ -29,7 +30,7 @@
 
 ---
 
-## Big Bang
+# Big Bang
 
 *Sources*
 
@@ -68,6 +69,12 @@
 
 ***Qu’est ce que la matière noire ?***
 
+*Sources*
+
+- [Les preuves de la matière sombre aux différentes échelles astronomiques](https://youtu.be/ci7deBZmzZs) - Conférence de Francois Hammer (Janvier 2019)
+
+---
+
 - La matière noire est une matière invisible : elle n’interagit pas avec la lumière
 - La matière noire (froide) n’interagit qu’à travers la gravité, avec elle-même ainsi qu’avec la matière baryonique
 - Elle anticipe la formation des structures de matière baryonique en créant des nuages (halos) invisibles, des puits de gravité dans lesquels s’engouffre la matière baryonique
@@ -101,7 +108,7 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 - Les arguments pour l’existence de la matière noire et de l’énergie sombre reposent sur l’hypothèse que la relativité générale décrit bien la gravitation. Et si ce n’était pas le cas ?
 > C’est l’approche des modèles de gravité modifiée (théories de la relativité générale modifiée)
 
-## Inflation
+# Inflation
 
 - Le scénario de l'inflation (proposé par Alan Guth puis amélioré par Andrei Linde au début des années 80) donne une explication à des caractéristiques très particulières de l'explosion du Big Bang :
 > * ***Le problème de l'horizon :*** Le modèle du Big Bang ne prédit pas pourquoi l'unviers est si homogène sur des grandes échelles. Ici l'horizon désigne la plus grande distance qui pourrait théoriquement être parcourue par de l'information (ie par des photons) à un instant donné depuis le Big Bang. the Universe looks the same on opposite sides of the sky (opposite horizons) even though there has not been time since the Big Bang for light (or anything else) to travel across the Universe and back. So how do the opposite horizons "know" how to keep in step with each other? 
@@ -130,14 +137,14 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 
 ![densiteenergieinflation](https://cdn-images-1.medium.com/max/1600/0*RsJt7OkNXeheOsM1.jpg)
 
-## Le découplage des forces fondamentales
+# Le découplage des forces fondamentales
 
 - scalar fields are associated with the splitting apart of the original grand unified force into the fundamental forces we know today, as the Universe began to expand and cool.
 - Les Théories de Grande Unifications (GUT) nous disent qu'au temps de Planck (10^-43s), les 4 forces fondamentales étaient réunies en une seule force.
 
 ![Forces](https://cnx.org/resources/96e3d538be70bcf75a7c459302ab50e08e4294a5/CNX_UPhysics_44_07_Unification.jpg)
 
-## Plasma de quarks et de gluons
+# Plasma de quarks et de gluons
 
 - Pendant les premiers millionièmes de secondes après le Big Bang, tout ce qui existe n'était qu'une soupe infernale faite de particules élémentaires qui se déplaçaient à des vitesses proche de celle de la lumière
 - L’univers s’étendant et en se refroidissant, les particules élémentaires de cette soupe primordiale finirent par s’assembler pour donner progressivement naissance aux protons et aux neutrons
@@ -150,11 +157,9 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 
 <img src="https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2012/1-closinginont.jpg" width="400">
 
-## Matière et antimatière
+# Matière et antimatière
 
-# Nucléosynthèse primordiale, recombinaison et âges sombres
-
-## Nucléosynthèse primordiale
+# Nucléosynthèse primordiale
 
 *Sources*
 
@@ -204,7 +209,7 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 
 ![bbn](https://thespectrumofriemannium.files.wordpress.com/2013/06/nucleosynsbb.gif)
 
-## Recombinaison
+# Recombinaison
 
 - Etat de l'univers avant la réionisation : un plasma dense et chaud, un nuage d'électrons, de protons, de neutrons et de rayonnement qui se baladent librement. (analogie : soupe bouillante, chaudron)
 - L'univers est alors un brouillard opaque. Les photons sont constamment diffusés sur les électrons (diffusion Thomson).
@@ -217,7 +222,7 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 - Le CMB montre que la matière dans l'univers primordial était répartie de manière remarquablement homogène
 - La physique des particules nous donne des idées sur l'état de la matière extrêmement chaude et comprimée
 
-## Ages sombres
+# Ages sombres
 
 - A mesure que la température diminue, les longueurs d'onde du CMB se décalent de plus en plus vers le rouge, jusqu'à devenir invisibles à l'oeil nu. C'est le début des âges sombres.
 > Comme l'univers ne possède pas encore d'étoiles, l'univers nous appraraîtrait comme un endroit complètement sombre.
@@ -226,14 +231,6 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 - Le gaz atomique (majoritairement constitué d'hydrogène et d'hélium) tombe dans les puits de gravité formés par ces halos. Certains halos sont si massifs (supérieur à la masse de Jeans du gaz) que la pression du gaz ne l'empêche plus de s'effondrer gravitationnellement. 
 - Le gaz se concentre alors au coeur des halos de matière noire.
 - La densité augmente, ce qui permet à une minuscule fraction de ce gaz de former les premières molécules : H2, HD et LiH
-
-***Qu'est ce que la matière noire?***
-
-*Sources*
-
-- [Les preuves de la matière sombre aux différentes échelles astronomiques](https://youtu.be/ci7deBZmzZs) - Conférence de Francois Hammer (Janvier 2019)
-
----
 
 # Formation des premières étoiles, aube cosmique et réionisation
 
