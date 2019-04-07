@@ -10,6 +10,7 @@
 - Les Structures élémentaires de la parenté - Claude Levi Strauss
 - Human Universals - Donald Brown (1991)
 - Qu'est-ce que la diversité de la vie ? - Yves Michaud
+- [Humanité][https://fr.wikipedia.org/wiki/Humanit%C3%A9#L'unit%C3%A9_de_l'humanit%C3%A9) - Wikipédia
 
 ---
 
