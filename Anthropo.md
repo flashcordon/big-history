@@ -21,3 +21,9 @@
 - y a t-il des structures sociales, des comportements que tous les humains partagent ?
 
 
+# Qu'est ce qu'un mythe ?
+
+- Lévy Strauss
+- Etymologie grecque : mythos
+- mythes cosmogoniques, étiologiques (?)
+- Evolution des mythes
