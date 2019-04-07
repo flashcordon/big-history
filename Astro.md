@@ -8,6 +8,7 @@
 - [Nucléosynthèse primordiale](#Nucléosynthèse-primordiale)
 - [Recombinaison](#Recombinaison)
 - [Ages sombres](#Ages-sombres)
+- [Les premières étoiles](#Les-premières-étoiles)
 - [Nucléosynthèse stellaire](#Nucléosynthèse-stellaire)
 - [Les premiers minéraux](#Les-premiers-minéraux)
 
@@ -233,7 +234,7 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 - Le gaz se concentre alors au coeur des halos de matière noire.
 - La densité augmente, ce qui permet à une minuscule fraction de ce gaz de former les premières molécules : H2, HD et LiH
 
-# Formation des premières étoiles, aube cosmique et réionisation
+# Les premières étoiles
 
 - [The dark ages of the universe](https://www.cfa.harvard.edu/~loeb/sciam.pdf) - Avi Loeb, Scientific American (2006)
 - [The dark ages of the universe](https://arxiv.org/ftp/astro-ph/papers/0307/0307396.pdf) - Jordi Miralda-Escude, Science (Juin 2003) ́
