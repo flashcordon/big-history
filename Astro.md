@@ -4,9 +4,10 @@
 - [Inflation](#Inflation)
 - [Le découplage des forces fondamentales](#Le-découplage-des-forces-fondamentales)
 - [Plasma de quarks et de gluons](#Plasma-de-quarks-et-de-gluons)
-- [Matière et antimatière](#Matière et antimatière)
+- [Matière et antimatière](#Matière-et-antimatière)
 - [Nucléosynthèse primordiale](#Nucléosynthèse-primordiale)
 - [Recombinaison](#Recombinaison)
+- [Ages sombres](#Ages-sombres)
 - [Nucléosynthèse stellaire](#Nucléosynthèse-stellaire)
 - [Les premiers minéraux](#Les-premiers-minéraux)
 
