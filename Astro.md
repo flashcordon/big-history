@@ -10,7 +10,9 @@
 - [Ages sombres](#Ages-sombres)
 - [Les premières étoiles](#Les-premières-étoiles)
 - [Nucléosynthèse stellaire](#Nucléosynthèse-stellaire)
+- [Origine des éléments plus lourds que le fer](#Origine-des-éléments-plus-lourds-que-le-fer)
 - [Les premiers minéraux](#Les-premiers-minéraux)
+- [La réionisation](#La-réionisation)
 
 *Sources*
 
@@ -410,7 +412,7 @@ Burcher
 - On sait que ces grains datent d’avant la formation du Soleil grâce à une anomalie dans leur composition isotopique caractéristique des étoiles en fin de vie.
 > Ils ont survécu à l’environnement destructeur de leur étoile mourante, à leur voyage dans le milieu interstellaire, au nuage moléculaire qui a précédé la formation du système solaire, au disque protoplanétaire, à l’accrétion dans leur météorite-hôte et à la rentrée atmosphérique lors de leur chute sur Terre. Sacré voyage !
 
-# Réionisation
+# La réionisation
 
 - depuis l’époque de l’émission du fond diffus cosmologique, 380 000 ans après le Big Bang, la matière visible dans l’univers a été électriquement neutre.
 - Les premières étoiles émettent la plupart de leur énergie dans le domaine des UV, des photons assez énergétiques pour ioniser l'hydrogène environnant (arrachent les électrons aux atomes d'hydrogènes qu'ils rencontrent). Cela chauffe l'hydrogène interstellaire à des températures de 10 000 degrés, et des bulles d'hydrogène ionisé commencent à entourer les étoiles.
