@@ -12,6 +12,7 @@
 - Qu'est-ce que la diversité de la vie ? - Yves Michaud
 - [Humanité](https://fr.wikipedia.org/wiki/Humanit%C3%A9#L'unit%C3%A9_de_l'humanit%C3%A9) - Wikipédia
 - [« Unité et identité de l'Homme » : nouveaux regards](https://www.cairn.info/revue-natures-sciences-societes-2004-4-page-434.htm) - Claudine Friedberg (2004)
+- [Contre certains a priori anthropologiques](http://www.dan.sperber.fr/wp-content/uploads/1974_contre-certains-a-priori-anthropologiques.pdf) - Dan Sperber (1974)
 
 ---
 
