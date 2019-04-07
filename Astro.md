@@ -382,7 +382,31 @@ Burcher
 
 ![nucleosynthesetout](https://i.imgur.com/YaAh2aI.jpg)
 
-## Premiers minéraux
+## Les premiers minéraux
+
+- [Mineral evolution](https://hazen.carnegiescience.edu/sites/hazen.gl.ciw.edu/files/242-Hazen-AmMin-2008.pdf) – Hazen et al (2008)
+- [Mineral evolution](https://hazen.carnegiescience.edu/research/mineral-evolution)
+- [Carbon mineral evolution](http://www.minsocam.org/msa/rim/RiMG075/RiMG075_Ch04.pdf) – Hazen et al (2013)
+- [IMA Database of Mineral Properties](http://rruff.info/ima/)
+- [Primordial Origins of Earth’s Carbon](https://hal.archives-ouvertes.fr/hal-01346324/document) – Thèse de Bernard Marty (2016)
+- [Stardust in meteorites](https://www.pnas.org/content/108/48/19142) – Davis (2011)
+- [Dust from AGB stars](https://www.dark-cosmology.dk/~anja/papers/Andersen_Vienna06.pdf) – Andersen (2006)
+
+- Un minéral est le plus souvent un solide naturel homogène avec une structure atomique ordonnée et une composition chimique définie. Il peut être décrit, dans la très grande majorité des cas, comme une matière cristallisée caractérisée par sa composition chimique et l'agencement de ses atomes selon une périodicité et une symétrie précises (Wikipédia)
+- Avant les premières étoiles, il n’y a aucun endroit dans l’univers qui contienne les éléments qui forment les minéraux, mais aussi qui soit assez dense et assez froid pour leur permettre de se condenser et de former des cristaux.
+- Lorsque certaines étoiles en fin de vie éjectent leur enveloppe externe (de manière plus ou moins violente), cette enveloppe riche en éléments s’étend et se refroidit.
+> Ça peut être des étoiles AGB (masse initiale : 1.5 à 4 masses solaires, étoiles en fin de vie, indistinguables d’une géante rouge à l’observation) qui éjectent leur enveloppe sous forme de vents stellaires, ou bien de supernovae de type II (masse initiale de l’étoile progénitrice : 8 à 40 masses solaires) qui explosent violemment. On n’a découvert aucun grain de poussière qui proviendrait de supernovae de type Ia pour le moment.
+- Selon Hazen (2008), les premiers minéraux à se former dans l’histoire du cosmos sont des formes cristallisées du carbone (dans les zones riches en carbone des enveloppes stellaires) :
+> * diamant (température de condensation : 3700K)
+> * graphite (température de condensation : 3200K)
+- Ces minéraux font partie d’une liste très restreinte de minéraux primordiaux, ce que Robert Hazen appelle les « ur-minerals ».
+> Il y a une douzaine d’ur-minerals, incluant des nitrures, des oxydes, les carbures de silicium (SiC) et les silicates, condensés en micro-cristaux à des températures  > 1500°C.
+- Il y a 5449 minéraux connus à ce jour (Avril 2019, Source : IMA Database)
+> La question centrale de l’évolution minérale est donc de comprendre comment ces douzaines de minéraux formés à partir de 10 éléments se sont transformés en cette immense variété de minéraux formés à partir de 72 éléments qu’on détecte aujourd’hui.
+- Les ur-minerals se trouvent sous forme de cristaux nanométriques à micrométriques dans des grains de poussière (on parle de grains pré-solaires ou de poussière d’étoile), qu’on retrouve dans notre système solaire car ils sont préservés dans des météorites primitives (chondrites). Les plus gros grains mesurent quelques dizaines de micromètre, et la plupart mesure quelques micromètres.
+> Les diamants ont des tailles typiques de 2-4 nm. Un diamant de 2.8 nm de diamètre (taille médiane) contient environ 18 000 atomes de carbone.
+- On sait que ces grains datent d’avant la formation du Soleil grâce à une anomalie dans leur composition isotopique caractéristique des étoiles en fin de vie.
+> Ils ont survécu à l’environnement destructeur de leur étoile mourante, à leur voyage dans le milieu interstellaire, au nuage moléculaire qui a précédé la formation du système solaire, au disque protoplanétaire, à l’accrétion dans leur météorite-hôte et à la rentrée atmosphérique lors de leur chute sur Terre. Sacré voyage !
 
 ## Réionisation
 
