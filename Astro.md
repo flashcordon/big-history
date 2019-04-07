@@ -13,7 +13,7 @@
 - [Origine des éléments plus lourds que le fer](#Origine-des-éléments-plus-lourds-que-le-fer)
 - [Les premiers minéraux](#Les-premiers-minéraux)
 - [La réionisation](#La-réionisation)
-- [L'évolution des galaxies](#L-évolution-des-galaxies)
+- [L'évolution des galaxies](#L'évolution-des-galaxies)
 
 *Sources*
 
