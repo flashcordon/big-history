@@ -382,7 +382,7 @@ Burcher
 
 ![nucleosynthesetout](https://i.imgur.com/YaAh2aI.jpg)
 
-## Les premiers minéraux
+# Les premiers minéraux
 
 - [Mineral evolution](https://hazen.carnegiescience.edu/sites/hazen.gl.ciw.edu/files/242-Hazen-AmMin-2008.pdf) – Hazen et al (2008)
 - [Mineral evolution](https://hazen.carnegiescience.edu/research/mineral-evolution)
@@ -398,8 +398,9 @@ Burcher
 - Avant les premières étoiles, il n’y a aucun endroit dans l’univers qui contienne les éléments qui forment les minéraux, mais aussi qui soit assez dense et assez froid pour leur permettre de se condenser et de former des cristaux.
 - Lorsque certaines étoiles en fin de vie éjectent leur enveloppe externe (de manière plus ou moins violente), cette enveloppe riche en éléments s’étend et se refroidit.
 > Ça peut être des étoiles AGB (masse initiale : 1.5 à 4 masses solaires, étoiles en fin de vie, indistinguables d’une géante rouge à l’observation) qui éjectent leur enveloppe sous forme de vents stellaires, ou bien de supernovae de type II (masse initiale de l’étoile progénitrice : 8 à 40 masses solaires) qui explosent violemment. On n’a découvert aucun grain de poussière qui proviendrait de supernovae de type Ia pour le moment.
+- L'abondance relative des différents types de grains pré-solaires semblent indiquer que les étoiles AGB sont les producteurs principaux de poussière dans la galaxie, et que les supernovae ne contribuent qu'à quelques pourcents. 
 - Selon Hazen (2008), les premiers minéraux à se former dans l’histoire du cosmos sont des formes cristallisées du carbone (dans les zones riches en carbone des enveloppes stellaires) :
-> * diamant (température de condensation : 3700K)
+> * diamant (température de condensation : 3700K) -> 99% des grains pré-solaires identifiés
 > * graphite (température de condensation : 3200K)
 - Ces minéraux font partie d’une liste très restreinte de minéraux primordiaux, ce que Robert Hazen appelle les « ur-minerals ».
 > Il y a une douzaine d’ur-minerals, incluant des nitrures, des oxydes, les carbures de silicium (SiC) et les silicates, condensés en micro-cristaux à des températures  > 1500°C.
@@ -410,7 +411,7 @@ Burcher
 - On sait que ces grains datent d’avant la formation du Soleil grâce à une anomalie dans leur composition isotopique caractéristique des étoiles en fin de vie.
 > Ils ont survécu à l’environnement destructeur de leur étoile mourante, à leur voyage dans le milieu interstellaire, au nuage moléculaire qui a précédé la formation du système solaire, au disque protoplanétaire, à l’accrétion dans leur météorite-hôte et à la rentrée atmosphérique lors de leur chute sur Terre. Sacré voyage !
 
-## Réionisation
+# Réionisation
 
 - depuis l’époque de l’émission du fond diffus cosmologique, 380 000 ans après le Big Bang, la matière visible dans l’univers a été électriquement neutre.
 - Les premières étoiles émettent la plupart de leur énergie dans le domaine des UV, des photons assez énergétiques pour ioniser l'hydrogène environnant (arrachent les électrons aux atomes d'hydrogènes qu'ils rencontrent). Cela chauffe l'hydrogène interstellaire à des températures de 10 000 degrés, et des bulles d'hydrogène ionisé commencent à entourer les étoiles.
@@ -436,7 +437,7 @@ Burcher
 - [Massive Black Holes and their host galaxies](http://www2.iap.fr/users/volonter/Brera_BHcourse_part2.pdf) - Cours de Marta Volonteri (2013)
 - Big Bang - Jean Philippe Uzan (2018)
 
-# L’évolution des galaxies
+---
 
 - Le nombre de galaxies dans l’univers observable est estimé à 100-200 milliards de galaxies, mais certains auteurs prétendent que c’est 10 fois plus.
 - Il y a différentes morphologies de galaxies : elliptiques, spirales, irrégulières
