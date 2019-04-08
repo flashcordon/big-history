@@ -148,7 +148,12 @@ Sources
 
 ---
 
-- Toutes les sociétés du monde sont aujourd'hui dominées par les hommes. Elles sont dites patriarcales.
-- Cette domination est souvent justifiée par des constructions idéologiques, des mythes (Pandore, Eve, les femmes originelles chez les Baruya) laissant entevoir une idée de matriarcat primitif qui a été si déficient que les hommes ont du prendre le pouvoir
+- Toutes les sociétés connues du monde (~10 000) sont aujourd'hui dominées par les hommes. Elles sont dites patriarcales.
+> Il existe des sociétés matrilinéaires, qui tracent l'héritage et le nom par les femmes, mais ça n'est pas lié à des relations de pouvoir. Il est juste plus facile de tracer la descendance par la mère (on peut assister au moment de la conception) que par le père. Ces sociétés sont aussi patriarcales.
+- Cette domination est souvent justifiée par des constructions idéologiques et des mythes (Pandore, Eve, les femmes originelles chez les Baruya) laissant par exemple entevoir une idée de matriarcat primitif qui a été si déficient que les hommes ont du prendre le pouvoir
 - Les plus anciennes représentations humaines sont des statuettes de femmes aux traits sexuels exagérés (les Vénus)
+- Il n'y a aucune preuve à ce jour de société matriarcale préhistorique.
+- L'ethnologue Alain Testart a révélé dans les années 80 une division sexuelle du travail chez les sociétés traditionnelles de chasseurs cueilleurs
+> Les femmes sont universellement exclues de la chasse, à cause de la portée symbolique du sang menstruel, pas à cause d'une prétendue infériorité physique !
+- Les statistiques chez les chasseurs cueilleurs traditionnels montrent que la cueillette réalisée par les femmes apporte plus de 70% de la nourriture, alors que la chasse réalisée par les hommes n'en apport que 30% (alors qu'elle est considérée comme plus prestigieuse !)
 
