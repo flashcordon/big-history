@@ -149,7 +149,6 @@ Lâ€™essentiel de la masse des galaxies ne se trouve donc pas dans son disque dâ€
 
 *Sources*
 
-- []()
 
 ---
 
