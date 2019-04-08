@@ -147,14 +147,20 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 
 # Le découplage des forces fondamentales
 
-- Le modèle standard de la physique des particules nous dit qu'il y a 4 forces / interactions fondamentales dans l'univers, chacune portée par une particule messagère virtuelle (boson médiateur) décrite comme une excitation du champ associé en théorie quantique des champs :
+*Sources*
+
+- []()
+
+---
+
+- Le modèle standard de la physique des particules nous dit qu'il y a 4 forces / interactions fondamentales dans l'univers, chacune portée par une particule messagère virtuelle (boson de jauge) décrite comme une excitation du champ associé en théorie quantique des champs :
 - La gravitation, responsable de l'attraction des corps massifs 
 > Elle a une portée infinie. Elle dépend de la masse des objets et de la distance entre eux. Elle est probablement portée par le graviton. C'est de loin la plus faible des 4 forces à l'échelle subatomique.
 - L'électromagnétisme, responsable de l'électricité, du magnétisme, de la lumière et des processus chimiques. Elle lie les électrons et les protons, les atomes en molécules
 > Elle peut être attractive (entre 2 objets de charges opposées) ou répulsive (entre 2 objets de même charge). Elle a une portée infinie. Elle est ressentie par toutes les particules chargées (électrons, protons...). Elle est portée par le photon.
 - L'interaction forte, responsable de la cohésion des noyaux atomiques 
 > Elle a une portée de 10^-15m. Elle agit sur les quarks. Elle est portée par 8 gluons.
-- L'interaction faible, responsable de la radioactivité bêta (transformation d'un neutron en proton, en éjectant un électron et un antineutrino)
+- L'interaction faible, responsable de la radioactivité bêta (transformation d'un neutron en proton, en éjectant un électron et un antineutrino) qui a lieu notamment au coeur du Soleil
 > Elle a une portée de 10^-18 m. Elle agit sur les quarks et les leptons. Elle est portée par les bosns W+, W- et Z0.
 - scalar fields are associated with the splitting apart of the original grand unified force into the fundamental forces we know today, as the Universe began to expand and cool.
 - Les Théories de Grande Unifications (GUT) nous disent qu'au temps de Planck (10^-43s), les 4 forces fondamentales étaient réunies en une seule force.
