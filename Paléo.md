@@ -157,6 +157,6 @@ Sources
 - Les plus anciennes représentations humaines sont des statuettes de femmes aux traits sexuels exagérés (les Vénus)
 - Il n'y a aucune preuve à ce jour de société matriarcale préhistorique.
 - L'ethnologue Alain Testart a révélé dans les années 80 une division sexuelle du travail chez les sociétés traditionnelles de chasseurs cueilleurs
-> Les femmes sont universellement exclues de la chasse, à cause de la portée symbolique du sang menstruel, pas à cause d'une prétendue infériorité physique !
+> Les femmes sont universellement exclues de la chasse, à cause de la portée symbolique du sang menstruel, incompatible avec le sang animal, et pas à cause d'une prétendue infériorité physique !
 - Les statistiques chez les chasseurs cueilleurs traditionnels montrent que la cueillette réalisée par les femmes apporte plus de 70% de la nourriture, alors que la chasse réalisée par les hommes n'en apport que 30% (alors qu'elle est considérée comme plus prestigieuse !) 
 
