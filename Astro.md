@@ -147,7 +147,7 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 
 # Le découplage des forces fondamentales
 
-- Il y a 4 interactions fondamentales dans l'univers, chacune portée par une particule (boson médiateur) :
+- Le modèle standard de la physique des particules nous dit qu'il y a 4 interactions fondamentales dans l'univers, chacune portée par une particule messagère (boson médiateur) :
 - La gravitation, responsable de l'attraction des corps massifs 
 > La gravitation a une portée infinie. Elle dépend de la masse des objets et de la distance entre eux. Elle est probablement portée par le graviton.
 - L'électromagnétisme, responsable de la lumière, 
