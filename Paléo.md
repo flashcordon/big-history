@@ -138,14 +138,17 @@ Sources
 - Le chien et le loup peuvent faire des bébés ensemble, donc la distinction d'espèces n'est peut être pas très pertinente
 - La domestication a tendance à faire diminuer de taille les animaux domestiqués 
 
+# L'origine des inégalités
+
 # La domination masculine
 
 *Sources*
 
-- Les dix millénaires oubliés qui ont fait l'Histoire - Jean-Paul Demoule
+- Les dix millénaires oubliés qui ont fait l'Histoire - Jean-Paul Demoule (2017) : Chapitre "Qui a inventé la domination masculine ?"
 
 ---
 
 - Toutes les sociétés du monde sont aujourd'hui dominées par les hommes. Elles sont dites patriarcales.
-
+- Cette domination est souvent justifiée par des constructions idéologiques, des mythes (Pandore, Eve, les femmes originelles chez les Baruya) laissant entevoir une idée de matriarcat primitif qui a été si déficient que les hommes ont du prendre le pouvoir
+- Les plus anciennes représentations humaines sont des statuettes de femmes aux traits sexuels exagérés (les Vénus)
 
