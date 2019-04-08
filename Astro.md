@@ -147,6 +147,15 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 
 # Le découplage des forces fondamentales
 
+- Il y a 4 interactions fondamentales dans l'univers, chacune portée par une particule (boson médiateur) :
+- La gravitation, responsable de l'attraction des corps massifs 
+> La gravitation a une portée infinie. Elle dépend de la masse des objets et de la distance entre eux. Elle est probablement portée par le graviton.
+- L'électromagnétisme, responsable de la lumière, 
+> Elle a une portée infinie. Elle agit sur les particules chargées (électrons, protons...). Elle est portée par le photon.
+- L'interaction forte, responsable de la cohésion des noyaux atomiques 
+> Elle a une portée d'1 fm (10^-15m). Elle agit sur les quarks. Elle est portée par 8 gluons.
+- L'interaction faible, responsable de la radioactivité bêta
+> Elle a une portée de 10^-2 fm. Elle agit sur les quarks et les leptons. Elle est portée par les bosns W+, W- et Z0.
 - scalar fields are associated with the splitting apart of the original grand unified force into the fundamental forces we know today, as the Universe began to expand and cool.
 - Les Théories de Grande Unifications (GUT) nous disent qu'au temps de Planck (10^-43s), les 4 forces fondamentales étaient réunies en une seule force.
 
