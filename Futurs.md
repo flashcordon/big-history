@@ -2,9 +2,16 @@
 
 - [La révolution urbaine](#La-révolution-urbaine)
 - [Démographie](#Démographie)
+- [Le réchauffement climatique](#Le-réchauffement-climatique)
 - [La 6e extinction de masse](#La-6e-extinction-de-masse)
 - [l'humanité évolue-t-elle encore](#lhumanité-évolue-t-elle-encore)
 - [La fin de l'habitabilité planétaire](#La-fin-de-lhabitabilité-planétaire)
+- [La cosmologie du futur](#La-cosmologie-du-futur)
+- [Les dernières étoiles](#Les-dernières-étoiles)
+- [L'ère dégénérée](#Lère-dégénérée)
+- [L'ère des trous noirs](#Lère-des-trous-noirs)
+- [Une transition de phase cosmologique](#Une-transition-de-phase-cosmologique)
+- [La mort thermique de l'univers](#La-mort-thermique-de-lunivers)
 
 # La révolution urbaine
 
@@ -145,7 +152,7 @@
 
 ## Crise de ressources
 
-## Réchauffement climatique
+# Le réchauffement climatique
 
 *Sources*
 
@@ -478,8 +485,9 @@ Un supercontinent : Pangea Ultima
 - Lorsque les naines rouges ont épuisé leur carburant nucléaire, elles se transforment en naine blanche constituée d'hélium pur (elles n'ont pas la masse suffisante pour fusionner l'hélium en carbone), sans passer par un stade de nébuleuse planétaire.
 - Dans 10^14 ans, toutes les naines blanches ont assez refroidi pour être parfaitement sombres (naines noires)
 
-# De sombres galaxies - Le royaume des ombres - L'ère dégénérée
+# L'ère dégénérée
 
+- De sombres galaxies - Le royaume des ombres
 *Sources*
 
 - Death from the skies – Phil Plait
@@ -540,10 +548,6 @@ Un supercontinent : Pangea Ultima
 - La nouvelle se répand à la vitesse de la lumière. Une bulle de vide dans l'état de plus basse énergie s'étend à (quasiment?) la vitesse de la lumière, jusqu'à englober tout l'univers.
 - L'univers pourrait même se transformer en quelque chose de plus étrange, d'inconnaissable même à l'aulne de nos meilleures théories. (citation de Douglas Adams) Les lois de la physiques (la masse du proton, la force des interactions fondamentales...) changeraient , l'espace et le temps sont réinitialisés. Et avec cette bulle de vide renaît l'espoir d'un univers nouveau.
 > C'est une possibilité intriguante, mais on n'en sait pas encore suffisamment pour savoir à quel point c'est probable, ou sur quelles échelles de temps ça se produirait. Les nouvelles lois de la physiques sont plausibles, mais pas garanties.
-
-# L'ère des naines rouges
-
-# L'ère des trous noirs
 
 # Energie sombre, Big Rip etc
 
