@@ -9,6 +9,8 @@
 > * [La tectonique des plaques](#La-tectonique-des-plaques)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
 - [La Terre du Phanérozoique](#La-Terre-du-Phanérozoique)
+> * [L'explosion Cambrienne](#Lexplosion-Cambrienne)
+> * [Extinctions de masse](#Extinctions-de-masse)
 > * [Oscillations climatiques](#Oscillations-climatiques)
 
 *Sources:* 
