@@ -3,6 +3,8 @@
 - [Les éons](#Les-éons)
 - [La Terre de l'Hadéen](#La-Terre-de-lHadéen)
 - [La formation de la Lune](#La-formation-de-la-Lune)
+- [Différenciation](#Différenciation)
+- [Le Grand Bombardement Tardif](#Le-Grand-Bombardement-Tardif)
 - [La Terre de l'Archéen](#La-Terre-de-lArchéen)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
 - [La Terre du Phanérozoique](#La-Terre-du-Phanérozoique)
@@ -118,7 +120,7 @@
 - Mais à cause de la différenciation, les abondances en éléments qu'on retrouve dans la croûte terrestre ne sont pas représentatifs des éléments qui constituent la Terre dans son ensemble
 > Oxygène et silicium constituent 74% de la masse de la croûte terrestre, et aluminum, fer, magnésium, calcium, potassium, et sodium en constituent 25%
 
-## Le Grand Bombardement Tardif (LHB)
+## Le Grand Bombardement Tardif
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
 - Le LHB a probablement été causé par des résonances entre les orbites de Jupiter et de Saturne 700 millions d'années après la formation de la Terre qui ont perturbé les orbites de Neptune et Uranus, causant le chaos dans l'essaim d'astéroides environnant (modèle de Nice)
 - Le bombardement intense de rochers de l’espace (comètes et météorites) ensemense la Terre de molécules organiques (en tout cas celles qui ont survécu à la violence de la collision) et augmente significativement la quantité d’eau sur Terre.
