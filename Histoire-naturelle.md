@@ -7,6 +7,8 @@
 > * [Le Grand Bombardement Tardif](#Le-Grand-Bombardement-Tardif)
 - [La Terre de l'Archéen](#La-Terre-de-lArchéen)
 > * [La tectonique des plaques](#La-tectonique-des-plaques)
+> * [L'origine de la vie](#Lorigine-de-la-vie)
+> * [Qu'est ce que la vie](#Quest-ce-que-la-vie)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
 > * [L'apparition des eucaryotes](#Lapparition-des-eucaryotes)
 > * [L'apparition des organismes multicellulaires](#Lapparition-des-organismes-multicellulaires)
