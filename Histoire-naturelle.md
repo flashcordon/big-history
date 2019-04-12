@@ -215,6 +215,18 @@
 
 ## Qu'est ce que la vie ?
 
+*Sources*
+
+- [Vocabulary of Definitions of Life Suggests a Definition](https://www.tandfonline.com/doi/abs/10.1080/073911011010524992) - Trifonov (2012)
+
+---
+
+- Il y a plus d'une centaine (123) de définitions de la vie.
+- La définition la plus minimale et inclusive serait que la vie, c'est de la reproduction avec des variations.
+- Le site de la section d'astrobiologie de la NASA décrit la vie comme un système chimique qui s'auto-maintient capable de sélection darwinienne.
+
+*Le cas des virus*
+
 ## Evolution chimique
 
 ## Le monde prébiotique
