@@ -577,9 +577,37 @@ Burcher
 *Sources*
 
 - [Water and Ice](https://youtu.be/zU46kdTtlUk) - Crash Course Cryosphere (2017)
+*Sources*
+- [On the probability of habitable planets](https://arxiv.org/abs/1212.0113) - Forget (2013)
+- [L’habitabilité : le point de vue de l’astronome](http://www.exobiologie.fr/index.php/vulgarisation/astronomie-vulgarisation/lhabitabilite-le-point-de-vue-de-lastronome/) - Franck Selsis, Site de la Société Française d'Exobiologie (2007)
+- [La limite froide de l'habitabilité](http://sesp.esep.pro/fr/pages_habitabilite/runaway.html) - Cours de l'ESEP (Mars 2019)
+- [La limite chaude de l'habitabilité](http://sesp.esep.pro/fr/pages_habitabilite/runawaygreenhouse.html) - Cours de l'ESEP (Mars 2019)
+- [L'emballement de l'effet de serre](http://sesp.esep.pro/fr/pages_habitabilite/emballement.html) - Cours de l'ESEP (Mars 2019)
+- [Le moist greenhouse, échappement atmosphérique](http://sesp.esep.pro/fr/pages_habitabilite/moist.html) - Cours de l'ESEP (Mars 2019)
+- [L'effet de serre maximum](http://sesp.esep.pro/fr/pages_habitabilite/serre.html) - Cours de l'ESEP (Mars 2019)
+- [Circumstellar habitable zone](https://en.wikipedia.org/wiki/Circumstellar_habitable_zone) - Wikipédia
 
 ---
 
+- L'eau liquide est nécessaire à tous les êtres vivants sur Terre
+> C'est le meilleur solvant. Elle permet de faciliter les réactions chimiques complexes
+- La zone d'habitabilité (ZH) (notion développée par Hart (1979)) désigne une région autour d'une étoile où l'eau liquide pourrait exister à la surface des planètes qui seraient dans cette région
+- La zone d'habitabilité dépend du type et de l'âge de l'étoile
+> * Plus une étoile vieillit, plus elle est lumineuse, et plus sa ZH s'éloigne
+> * Plus une étoile est massive, plus elle est brillante et plus sa ZH est loin de l'étoile
+- Pour qu'une planète puisse abriter de l'eau liquide à sa surface, il lui faut une atmosphère
+> Le problème, c'est qu'on ne connait pas encore la zoologie des atmosphères possibles pour une planète. Il nous faudrait pour cela sonder des atmosphères d'exoplanètes
+- La capacité d'une planète à maintenir de l'eau liquide dépend aussi de son albédo, c'est à dire du pouvoir réfléchissant de sa surface
+
+***La limite interne de la ZH***
+- Plus on rapproche la Terre du Soleil, plus une fraction importante de l'eau des océans s'évapore. L'eau étant un puissant gaz à effets de serre (c'est le principal gaz à effet de serre sur Terre), la surface de la planète se réchauffe donc. Ce qui cause l'évaloration d'une plus grande fraction de l'eau, etc etc. Cet emballement de l'effet de serre (runaway greenhouse effect)
+> Ce qui empêche à la Terre de perdre toute son eau par ce mécanisme jusqu'à aujourd'hui, c'est le refroidissement de l'air par convection, plus efficace lorsque la fraction d'eau est grande. L'air monte en altitude jusqu'à la tropopause (15-20 km), où il se refroidit et se condense.
+> L'estimation la plus récente de la limite intérieure de la Zone Habitable (via la mécanisme de Runaway Greenhouse), est de 0.95 A.U, calculée à partir de modèles climatiques 3D (Leconte et al. 2013)
+
+***La limite externe de la ZH***
+- C'est la limite au delà de laquelle toute l'eau à la surface d'une planète finit gelée.  C'est dû au processus de glaciation galopante (runaway glaciation) : plus on éloigne la Terre du Soleil, plus le flux d'énergie en provenance du Soleil diminue, et plus des glaces se forment à a surface de la Terre. Ces glaces réfléchissent le flux solaire incident, ce qui diminue encore l'énergie qui arrive à la surface de la Terre, ce qui génère encore plus de glace etc etc.
+- La ZH ne permet pas de lister de manière exhaustive les régions où l'eau liquide pourrait exister dans un système stellaire donné
+> Des lunes de planètes géantes peuvent développer des océans souterrains sous une couche de glace. C'est probablement le cas d'Encelade, lune glacée de Saturne, d'Europe, satellite de Jupiter
 - La Terre est la seule planète du système solaire à abriter de l'eau liquide à sa surface, mais ce n'est pas le seul corps à abriter de l'eau tout court !
 > * Mars contient environ 50% de la quantité d'eau terrestre (piégée dans ses glaciers)
 > * Europe, une lune de Jupiter, contient 2.5 fois plus d'eau que la Terre
