@@ -145,6 +145,7 @@ Sources
 *Sources*
 
 - Les dix millénaires oubliés qui ont fait l'Histoire - Jean-Paul Demoule (2017) : Chapitre "Qui a inventé la domination masculine ?"
+- Retour vers le Paléo - TeamPaléo (2019)
 - Maurice Godelier
 - Françoise Héritier
 - Alain Testart
@@ -154,9 +155,12 @@ Sources
 - Toutes les sociétés connues du monde (~10 000) sont aujourd'hui dominées par les hommes. Elles sont dites patriarcales.
 > Il existe des sociétés matrilinéaires, qui tracent l'héritage et le nom par les femmes, mais ça n'est pas lié à des relations de pouvoir. Il est juste plus facile de tracer la descendance par la mère (on peut assister au moment de la conception) que par le père. Ces sociétés sont aussi patriarcales.
 - Cette domination est souvent justifiée par des constructions idéologiques et des mythes (Pandore, Eve, les femmes originelles chez les Baruya) laissant par exemple entevoir une idée de matriarcat primitif qui a été si déficient que les hommes ont du prendre le pouvoir
-- Les plus anciennes représentations humaines sont des statuettes de femmes aux traits sexuels exagérés (les Vénus)
+- Les plus anciennes représentations humaines sont des statuettes de femmes aux traits sexuels exagérés datant du paléolithique : les Vénus.
+> La plus ancienne est la Vénus de Hohle Fels (Allemagne), datée de 35 000 ans. Poitrine et vulve marquées, tête réduite, sans visage.
+- Certaines de ces Vénus, comme la Vénus de Lespugue (Haute Garonne) datée de 23 000 ans, n'ont pas de sexe représenté, mais ont quand même les hanches, les seins et les fesses exagérées, ce qui laisse penser que le sculpteur ne souhaitait pas représenter l'idée de maternité, mais plutôt de sexualité.
+- Il semblerait donc que ces Vénus aient été conçues dans le but de plaire aux hommes. Depuis le paléolithique, l'image de la femme est instrumentalisée.
 - Il n'y a aucune preuve à ce jour de société matriarcale préhistorique.
 - L'ethnologue Alain Testart a révélé dans les années 80 une division sexuelle du travail chez les sociétés traditionnelles de chasseurs cueilleurs
-> Les femmes sont universellement exclues de la chasse, à cause de la portée symbolique du sang menstruel, incompatible avec le sang animal, et pas à cause d'une prétendue infériorité physique !
+> Les femmes sont universellement exclues de la chasse, ce que Testart impute à la portée symbolique du sang menstruel, incompatible avec le sang animal, et pas à cause d'une prétendue infériorité physique !
 - Les statistiques chez les chasseurs cueilleurs traditionnels montrent que la cueillette réalisée par les femmes apporte plus de 70% de la nourriture, alors que la chasse réalisée par les hommes n'en apport que 30% (alors qu'elle est considérée comme plus prestigieuse !) 
 
