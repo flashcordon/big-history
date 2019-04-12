@@ -89,6 +89,12 @@
 
 ## Différenciation
 
+*Sources*
+
+- [Principles of Environmental Chemistry](https://books.google.fr/books?id=7vsB6dsfLkkC&pg=PA9&lpg=PA9&dq=elements+of+earth+93%25&source=bl&ots=WA6RcvDGQF&sig=ACfU3U35D4BoqxCdz47c-o6AtqfujMEgXw&hl=fr&sa=X&ved=2ahUKEwiQ_YKnj8rhAhUBAGMBHb1iDk4Q6AEwB3oECAIQAQ#v=onepage&q=elements%20of%20earth%2093%25&f=false) - James Girard
+
+---
+
 - En 100 millions d’années, les matériaux les plus denses, comme le fer et le nickel, coulent vers le centre de la Terre et deviennent son noyau.
 > La différenciation coeur-manteau a lieu en quelques dizaines de millions d'années.
 - Les matériaux les moins denses flottent à la surface. La Terre acquiert une croûte de basalte (roche volcanique=feldspath+pyroxène+olivine, densité = 3 fois celle de l'eau). Entre le noyau et la coûte, un manteau de péridotite (=olivine+pyroxène).
@@ -104,6 +110,8 @@
 - Les mouvements de convection dans le coeur externe liquide de la Terre génère son champ magnétique, qui fournit protège l'atmosphère de la Terre des vents solaires
 - Selon des résultats récents (Tarduno et a 2015), la Terre possédait déjà un champ magnétique il y a 4.2 Gyrs
 - ***Conclusion***: De 4.4 à 4Gyrs, la Terre possède une croûte, des océans d'eau liquide et un champ magnétique. Des conditions favorables à l'émergence de la vie.
+- On estime que 4 éléments chimiques seulement constituent 93% de la masse de la Terre: le fer, l'oxygène, le silicium et le magnésium.
+> Nickel, souffre, calcium, et aluminium constituent 6.5% de la masse de la Terre. Les 0.5% restants sont constitué des 84 autres éléments chimiques naturels !
 
 ## Le Grand Bombardement Tardif (LHB)
 - Dates du Grand Bombardement Tardif (LHB) : 4.1 à 3.8 Gyrs (données: roches lunaires collectées lors des missions Apollo)
