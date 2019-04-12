@@ -375,9 +375,10 @@
 
 - [De Burgess à Franceville (Gabon) : les plus anciennes traces fossiles de pluricellulaires](http://planet-terre.ens-lyon.fr/article/fossiles-pluricellulaires.xml)  - Cyril Langlois, Planète Terre, ENS Lyon (Septembre 2010)
 - [Large colonial organisms with coordinated growth in oxygenated environments 2.1 Gyr ago](https://www.nature.com/articles/nature09166) - El Albani (2010)
+- [Multicellular organism](https://en.wikipedia.org/wiki/Multicellular_organism#cite_note-6) - Wikipédia
 
 ---
-
+- La multicellularité est apparue indépendamment 46 fois au moins chez les eucaryotes au cours de l'histoire de la vie ! 
 - Les premiers organismes multi-cellulaire apparaissent vers 1.8 Gyrs (quelle forme?)
 - "Au début de l'été 2010, la publication par la revue Nature d'un article signé d'une équipe internationale dirigée par le chercheur français Abderazak El Albani a secoué le monde de la paléontologie en affirmant que l'apparition des premières structures multicellulaires organisées remonteraient à 2,1 milliards d'années"
 
