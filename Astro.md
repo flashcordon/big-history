@@ -638,6 +638,7 @@ Burcher
 - [20 Intriguing Exoplanets](https://www.nasa.gov/feature/jpl/20-intriguing-exoplanets) – JPL (Octobre 2015)
  - [Top 5 Strangest and Most Terrifying Planets in the Universe](https://medium.com/@Ella_alderson/top-5-strangest-and-most-terrifying-planets-in-the-universe-ace289402c76) – Medium (Juin 2018)
  - [List of exoplanet extremes](https://en.wikipedia.org/wiki/List_of_exoplanet_extremes) - Wikipédia
+ - [Exoplanets Explorations](https://exoplanets.nasa.gov/) - Site de la NASA sur les exoplanètes
 
 ---
 
@@ -703,4 +704,6 @@ Burcher
 
 *Liste des exoplanètes habitables les plus proches de la Terre*
 
+![types](https://i.imgur.com/WMcbzdr.png)
+![methods](https://i.imgur.com/3Ud8lUs.jpg)
 ![hab](http://www.hpcf.upr.edu/~abel/phl/hec2/images/HEC_All_Distance.jpeg)
