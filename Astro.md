@@ -578,7 +578,6 @@ Burcher
 *Sources*
 
 - [Water and Ice](https://youtu.be/zU46kdTtlUk) - Crash Course Cryosphere (2017)
-*Sources*
 - [On the probability of habitable planets](https://arxiv.org/abs/1212.0113) - Forget (2013)
 - [L’habitabilité : le point de vue de l’astronome](http://www.exobiologie.fr/index.php/vulgarisation/astronomie-vulgarisation/lhabitabilite-le-point-de-vue-de-lastronome/) - Franck Selsis, Site de la Société Française d'Exobiologie (2007)
 - [La limite froide de l'habitabilité](http://sesp.esep.pro/fr/pages_habitabilite/runaway.html) - Cours de l'ESEP (Mars 2019)
@@ -702,8 +701,9 @@ Burcher
 ***Le futur de la détection des exoplanètes***
 - On pourra bientôt sonder avec précision l’atmosphère des exoplanètes (si elles en ont encore une) pour savoir si elles contiennent des ingrédients chimiques intéressants pour l’apparition de la vie, comme le carbone, le méthane, le dioxygène ou encore l'eau (on y arrive sur quelques exoplanètes, mais c'est rare). C’est d’ailleurs l’un des nombreux objectifs du James Webb Space Telescope, le successeur de Hubble, qui sera lancé d’ici 2020.
 
-*Liste des exoplanètes habitables les plus proches de la Terre*
 
 ![types](https://i.imgur.com/WMcbzdr.png)
 ![methods](https://i.imgur.com/3Ud8lUs.jpg)
+
+*Liste des exoplanètes habitables les plus proches de la Terre*
 ![hab](http://www.hpcf.upr.edu/~abel/phl/hec2/images/HEC_All_Distance.jpeg)
