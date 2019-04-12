@@ -9,6 +9,8 @@
 > * [La tectonique des plaques](#La-tectonique-des-plaques)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
 > * [L'apparition des eucaryotes](#Lapparition-des-eucaryotes)
+> * [L'apparition des organismes multicellulaires](#Lapparition-des-organismes-multicellulaires)
+> * [L'apparition du sexe](#Lapparition-du-sexe)
 > * [les premières faunes](#Les-premières-faunes)
 - [La Terre du Phanérozoique](#La-Terre-du-Phanérozoique)
 > * [L'explosion Cambrienne](#Lexplosion-Cambrienne)
