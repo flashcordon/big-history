@@ -153,7 +153,8 @@ Sources
 ---
 
 - Toutes les sociétés connues du monde (~10 000) sont aujourd'hui dominées par les hommes. Elles sont dites patriarcales.
-> Il existe des sociétés matrilinéaires, qui tracent l'héritage et le nom par les femmes, mais ça n'est pas lié à des relations de pouvoir. Il est juste plus facile de tracer la descendance par la mère (on peut assister au moment de la conception) que par le père. Ces sociétés sont aussi patriarcales.
+> * Il existe des sociétés matrilinéaires, qui tracent l'héritage et le nom par les femmes, mais ça n'est pas lié à des relations de pouvoir. Il est juste plus facile de tracer la descendance par la mère (on peut assister au moment de la conception) que par le père. Ces sociétés sont aussi patriarcales.
+> * Il a existé des femmes célèbres au pouvoir dans l'Histoire (Nefertiti, Cléopatre, Catherine de Médicis) mais elles ne sont que des exceptions à la règle.
 - Cette domination est souvent justifiée par des constructions idéologiques et des mythes (Pandore, Eve, les femmes originelles chez les Baruya) laissant par exemple entevoir une idée de matriarcat primitif qui a été si déficient que les hommes ont du prendre le pouvoir
 - Les plus anciennes représentations humaines sont des statuettes de femmes aux traits sexuels exagérés datant du paléolithique : les Vénus.
 > La plus ancienne est la Vénus de Hohle Fels (Allemagne), datée de 35 000 ans. Poitrine et vulve marquées, tête réduite, sans visage.
