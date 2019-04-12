@@ -19,7 +19,8 @@
 
 - C'est la question à laquelle cherche à répondre l'anthropologie fondamentale
 - y a t-il des structures sociales, des comportements que tous les humains partagent ?
-
+- Toutes les cultures ont un langage, des genres, des jeux, un code moral (qui varie énormément)
+- Les cultures évoluent en permanence
 
 # Qu'est ce qu'un mythe ?
 
