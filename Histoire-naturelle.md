@@ -14,6 +14,7 @@
 > * [Lieux possibles d'apparition de la vie](#Lieux-possibles-dapparition-de-la-vie)
 > * [Un monde ARN](#Un-monde-ARN)
 > * [La photosynthèse oxygénique](#La-photosynthèse-oxygénique)
+> * [La grande oxydation](#La-grande-oxydation)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
 > * [L'apparition des eucaryotes](#Lapparition-des-eucaryotes)
 > * [L'apparition des organismes multicellulaires](#Lapparition-des-organismes-multicellulaires)
