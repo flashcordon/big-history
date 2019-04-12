@@ -74,6 +74,9 @@
 
 # Les premiers empires
 
+- Poru créer un empire, il faut l'unifier culturellement et physiquement. (cf empire romain et chinois)
+> Routes, unifier la langue, conquérir des territoires
+
 # Les grandes philosophies / religions
 
 # Les cycles malthusiens
