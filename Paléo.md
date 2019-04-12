@@ -102,6 +102,11 @@ On en a pas trouvé plus loin que l'Altai
 
 ## L'extinction de la mégafaune (extinction du quaternaire)
 
+## Les liens avec l'au delà
+
+- Grotte de Shanidar en Irak : premiers signes de spiritualité 
+> Signes d'enterrement de Néandertal
+
 ## Les premiers artistes
 
 ## L'origine de l'agriculture
