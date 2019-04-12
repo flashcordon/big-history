@@ -7,7 +7,7 @@
 
 *Sources:* 
 - Revolutions that made the Earth, Tim Lenton (2011)
-
+- How the Earth system works - Michael E. Wysession, the Great Courses (2019)
 - [Une brève histoire du climat de la Terre](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2017/04/refdp2017-55p6.pdf) - Gilles Ramstein, Reflets de la physique (2017)
 - [The Sun and stars as the primary energy input in planetary atmospheres](https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/sun-and-stars-as-the-primary-energy-input-in-planetary-atmospheres/293C0314C44A1A4AAF8175A3C288B50B) - Ribas (2009): évolution de la luminosité du Soleil
 - [Misconceptions in Origin of Life](https://youtu.be/xElqecMYukM) - Purification Lopez-Garcia, Rencontres exobiologiques pour doctorants (Mars 2017)
@@ -92,6 +92,7 @@
 *Sources*
 
 - [Principles of Environmental Chemistry](https://books.google.fr/books?id=7vsB6dsfLkkC&pg=PA9&lpg=PA9&dq=elements+of+earth+93%25&source=bl&ots=WA6RcvDGQF&sig=ACfU3U35D4BoqxCdz47c-o6AtqfujMEgXw&hl=fr&sa=X&ved=2ahUKEwiQ_YKnj8rhAhUBAGMBHb1iDk4Q6AEwB3oECAIQAQ#v=onepage&q=elements%20of%20earth%2093%25&f=false) - James Girard (2013)
+- How the Earth system works - Michael E. Wysession, the Great Courses (2019)
 
 ---
 
@@ -176,6 +177,7 @@
 
 ---
 
+- La machine Terre a 2 sources d'énergie principales à l'origine de tous les processus qui s'y passent (climat, continents...) : sa chaleur interne (radioactivité + chaleur résiduelle issue des collisions primordiales) et la chaleur du Soleil
 - Evolution Darwinnienne = reproduction avec variations + sélection naturelle
 - Il y a aussi une forme d'évolution neutre : la dérive génétique (mutations stochastiques)
 - L'évolution n'a pas de but
