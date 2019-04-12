@@ -623,7 +623,7 @@ Burcher
 - [Méthodes de détection des exoplanètes](https://fr.wikipedia.org/wiki/M%C3%A9thodes_de_d%C3%A9tection_des_exoplan%C3%A8tes) – Wikipédia
 - Astronomie, Astrophysique: introduction – Agnès Acker (2007)
 - [NASA Exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/)
-- [The extrasolar planet encyclopaedia][http://exoplanet.eu/)
+- [The extrasolar planet encyclopaedia](http://exoplanet.eu/)
 - [The nature of the TRAPPIST-1 exoplanets](https://arxiv.org/abs/1802.01377) – Grimm et al (2018)
 - [Modelling climate diversity, tidal dynamics and the fate of volatiles on TRAPPIST-1 planets](https://arxiv.org/pdf/1707.06927.pdf) – Turbet et al (2017)
 - [Probability of CME Impact on Exoplanets Orbiting M Dwarfs and Solar-Like Stars](https://arxiv.org/abs/1605.02683) - Kay et al (2016)
@@ -641,7 +641,7 @@ Burcher
 ---
 
 - Une exoplanète est une planète située en dehors du Système solaire. 
-- A ce jour (31 Janvier 2019), on recense environ 3900 exoplanètes confirmées, dont près de 650 systèmes contenant plusieurs planètes.
+- A ce jour (12 Avril 2019), on recense environ 4000 (4037) exoplanètes confirmées, dont près de 650 (657) systèmes contenant plusieurs planètes.
 - Une exoplanète est nommée à partir du nom de l'étoile autour de laquelle elle tourne, suivi d'une lettre latine, b pour la première planète découverte autour de cette étoile, c pour la suivant, etc... 
 > Si plusieurs planètes du même système sont découvertes en même temps, la plus proche de l'étoile reçoit la première lettre suivante, et ainsi de suite en s'éloignant de l'étoile. 
 - En se limitant aux étoiles de type solaire, il y a, en moyenne, 2 planètes par étoile.
