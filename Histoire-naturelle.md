@@ -9,6 +9,7 @@
 > * [La tectonique des plaques](#La-tectonique-des-plaques)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
 - [La Terre du Phanérozoique](#La-Terre-du-Phanérozoique)
+> * [Oscillations climatiques](#Oscillations-climatiques)
 
 *Sources:* 
 - Revolutions that made the Earth, Tim Lenton (2011)
