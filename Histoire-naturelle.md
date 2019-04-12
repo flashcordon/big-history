@@ -16,6 +16,7 @@
 > * [La photosynthèse oxygénique](#La-photosynthèse-oxygénique)
 > * [La grande oxydation](#La-grande-oxydation)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
+> * [Terre boule de neige](#Terre-boule-de-neige)
 > * [L'apparition des eucaryotes](#Lapparition-des-eucaryotes)
 > * [L'apparition des organismes multicellulaires](#Lapparition-des-organismes-multicellulaires)
 > * [L'apparition du sexe](#Lapparition-du-sexe)
