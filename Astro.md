@@ -16,6 +16,7 @@
 - [L'évolution des galaxies](#Lévolution-des-galaxies)
 - [L'origine des molécules](#Lorigine-des-molécules)
 - [La formation du système solaire](#La-formation-du-système-solaire)
+- [La zone d'habitabilité](#La-zone-dhabitabilité)
 - [Les exoplanètes](#Les-exoplanètes)
 
 *Sources*
@@ -572,7 +573,7 @@ Burcher
 > * les astronomes comprennent encore mal par quel mécanisme des moutons de poussière de quelques cm ont pu s’agglutiner pour former des planétésimaux. En effet, lorsqu’on fait collisionner des moutons de poussière, ils ont plutôt tendance à se désagréger qu’à se coller entre eux. 
 > * Il s’agit aussi d’adapter ce scénario global, qui marche pas mal pour notre système solaire, pour tenter de comprendre l’incroyable diversité des systèmes d’exoplanètes qu’on découvre 
 
-***La zone d'habitabilité***
+# La zone d'habitabilité
 
 *Sources*
 
@@ -591,7 +592,7 @@ Burcher
 
 - L'eau liquide est nécessaire à tous les êtres vivants sur Terre
 > C'est le meilleur solvant. Elle permet de faciliter les réactions chimiques complexes
-- La zone d'habitabilité (ZH) (notion développée par Hart (1979)) désigne une région autour d'une étoile où l'eau liquide pourrait exister à la surface des planètes qui seraient dans cette région
+- La zone d'habitabilité (ZH) désigne une région autour d'une étoile où l'eau liquide pourrait exister à la surface des planètes qui seraient dans cette région
 - La zone d'habitabilité dépend du type et de l'âge de l'étoile
 > * Plus une étoile vieillit, plus elle est lumineuse, et plus sa ZH s'éloigne
 > * Plus une étoile est massive, plus elle est brillante et plus sa ZH est loin de l'étoile
