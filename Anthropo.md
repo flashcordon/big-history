@@ -17,6 +17,9 @@
 
 ---
 
+- Unité génétique : Parmi les grands singes, on est l'espèce avec le moins de diversité génétique (du à notre sortie d'Afrique il y a 70 000 ans (?) et à l'effet fondateur)
+> La population africaine a la plus grande diversité génétique au monde. C'est dû à l'effet fondateur : une sous partie des populations africaines de Sapiens colonise le monde, du coup ailleurs dans le monde la diversité génétique est plus faible
+
 - C'est la question à laquelle cherche à répondre l'anthropologie fondamentale
 - y a t-il des structures sociales, des comportements que tous les humains partagent ?
 - Toutes les cultures ont un langage, des genres, des jeux, un code moral (qui varie énormément)
