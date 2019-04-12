@@ -8,6 +8,8 @@
 - [La Terre de l'Archéen](#La-Terre-de-lArchéen)
 > * [La tectonique des plaques](#La-tectonique-des-plaques)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
+> * [L'apparition des eucaryotes](#Lapparition-des-eucaryotes)
+> * [les premières faunes](#Les-premières-faunes)
 - [La Terre du Phanérozoique](#La-Terre-du-Phanérozoique)
 > * [L'explosion Cambrienne](#Lexplosion-Cambrienne)
 > * [Extinctions de masse](#Extinctions-de-masse)
