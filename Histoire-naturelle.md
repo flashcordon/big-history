@@ -1,6 +1,8 @@
 # Table des matières
 
+- [Les éons](#Les-éons)
 - [La Terre de l'Hadéen](#La-Terre-de-lHadéen)
+- [La formation de la Lune](#La-formation-de-la-Lune)
 - [La Terre de l'Archéen](#La-Terre-de-lArchéen)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
 - [La Terre du Phanérozoique](#La-Terre-du-Phanérozoique)
