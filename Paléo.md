@@ -73,6 +73,13 @@ On en a pas trouvé plus loin que l'Altai
 - Homo floresiensis était capable de fabriquer des outils
 - l'Homme de Florès se serait en fait éteint peu après l'arrivée d'Homo sapiens dans la région, possiblement à cause de la concurrence entre les deux espèces. 
 
+## Les Hommes de Callao
+
+*Sources*
+
+- [Quand plusieurs humanités peuplaient la Terre](https://www.lemonde.fr/sciences/article/2019/04/10/quand-plusieurs-humanites-peuplaient-la-terre_5448527_1650684.html) - Le Monde (Avril 2019)
+- [L’« homme de Callao », une nouvelle espèce humaine découverte aux Philippines](https://www.lemonde.fr/sciences/article/2019/04/10/l-homme-de-callao-une-nouvelle-espece-humaine-decouverte-aux-philippines_5448515_1650684.html) - Le Monde (Avril 2019)
+
 ## La maitrise du feu
 
 *Sources*
@@ -139,6 +146,12 @@ Sources
 - La domestication a tendance à faire diminuer de taille les animaux domestiqués 
 
 # L'origine des inégalités
+
+*Sources*
+
+- [La forge des inégalités | Passé sauvage & Scilabus | Le Vortex #5](https://youtu.be/6pbZn1d_4vo) - Le Vortex (Avril 2019)
+
+---
 
 # La domination masculine
 
