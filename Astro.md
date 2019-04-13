@@ -165,6 +165,7 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 - scalar fields are associated with the splitting apart of the original grand unified force into the fundamental forces we know today, as the Universe began to expand and cool.
 - Les Théories de Grande Unifications (GUT) nous disent qu'au temps de Planck (10^-43s), les 4 forces fondamentales étaient réunies en une seule force.
 
+![fondaforces](https://i.imgur.com/5ljgpSW.jpg)
 ![Forces](https://cnx.org/resources/96e3d538be70bcf75a7c459302ab50e08e4294a5/CNX_UPhysics_44_07_Unification.jpg)
 
 # Plasma de quarks et de gluons
