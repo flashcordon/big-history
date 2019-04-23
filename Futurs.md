@@ -442,6 +442,7 @@ Un supercontinent : Pangea Ultima
 *Sources*
 
 - Death from the skies – Phil Plait
+- [A DYING UNIVERSE:The Long Term Fate and Evolution of Astrophysical Objects](https://arxiv.org/abs/astro-ph/9701131) - Adams et Laughlin (1997)
 
 ---
 
