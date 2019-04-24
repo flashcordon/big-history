@@ -526,3 +526,50 @@ Un supercontinent : Pangea Ultima
 - le moteur invisible de l'univers
 
 # La mort thermique de l'univers
+
+*Sources*
+
+- Complexity and the arrow of time – Lineweaver et Davis (2013)
+- The five ages of the universe – Fred Adams (2016)
+- Voyages dans le futur – Nicolas Prantzos
+- [Comment se terminera l'univers?](https://youtu.be/Qg4vb-KH5F4) – PBS Space Time
+- The Big Picture – Sean Carroll (2016)
+
+
+- "Everything flows... Nothing stays" – Héraclite
+- "Certains disent que le monde finira dans les flammes, D'autres dans la glace. Le désir ayant embrasé mon âme, Je suis de ceux qui penchent pour les flammes. Mais s'il fallait que deux fois il trépasse Je crois connaître assez la haine Pour dire que dans ce domaine La glace serait tout aussi souveraine Et efficace." - Feu et Glace, Robert Frost
+- "Le silence éternel de ces espaces infinis m'effraie" – Pensées, Blaise Pascal
+
+--- 
+
+- La thermodynamique nous apprend que pour générer du travail, il faut une différence de température.
+- Mais la chaleur se transmet toujours des objets chauds vers les objets froids, jamais l'inverse ! Ce qui fait que les températures ont tendance à s'équilibrer avec le temps. L'univers a une tendance fondamentale vers l'uniformité thermique.
+> Un liquide chaud versé dans un verre et laissé seul va toujours finir par prendre la température de la pièce.
+- La thermodynamique définit l'entropie d'un système (du grec entropia, transformation, tendance intrinsèque au changement) comme mesure de son désordre. Plus un système est ordonné, plus son entropie est faible.
+> Selon la définition de l'entropie donnée par la mécanique statistique de Boltzmann, l'entropie est le nombre d'arrangement des particules d'un système (d'états microscopiques) pour donner un même état macroscopique. S'il y a peu de configurations possibles, le système est dans un état de basse entropie. S'il y a beaucoup de configurations possibles, le système est dans un état de haute entropie. 
+- Quand la différence de température entre une source chaude et un réservoir froid est importante, l'entropie du système est faible. Et inversement.
+> L'entropie du Soleil est faible par exemple, parce qu'il est beaucoup plus chaud que l'espace environnant.
+- La seconde loi de la thermodynamique (formulée par Clausius, Carnot, Maxwell, Boltzmann...) stipule que l'entropie d'un système fermé (qui n'échange ni matière ni énergie sous quelque forme que ce soit avec l'extérieur) ne peut qu'augmanter (ou rester constante) au fil du temps, mais jamais diminuer.
+> Cette loi nous dit que s'il est laissé à lui seul, tout système aura tendance à se désorganiser. Il existe donc une tendance universelle à la dégradation.
+- L'entropie peut être réduite localement, mais seulement au prix d'une augmentation de l'entropie d'un système plus vaste (par exemple l'univers). Cette augmentation de l'entropie passe par de la chaleur dégagée dans le système, ce qui rend une partie de son énergie inutilisable.
+> * On peut refroidir des trucs avec un frigo, mais seulement au prix d'une émission de chaleur encore plus forte à l'arrière du frigo.
+> * C'est pour ça qu'on peut quand même assister à une complexification croissante de la vie (et donc à la création d'ordre) jusqu'à présent, celle-ci n'étant pas un système fermé (la vie doit son existence à l'énergie du Soleil qu'elle reçoit). Si l'on considère le système Terre Soleil, son entropie augmente bien, parce que cette énergie que la vie reçoit est ensuite rayonnée sous forme de chaleur après être utilisée !
+- Toutes les lois de la physique que l'on connaisse sont réversibles dans le temps, SAUF la seconde loi de la thermodynamique.
+> La seconde loi de la thermodynamique donne donc à l'univers une flèche du temps : le sens du passage du temps est défini par l'augmentation de l'entropie, par l'irréversibilité des phénomènes physiques. Au sens de Boltzmann, la flèche du temps se traduit naturellement par le fait qu'il y a énormément plus de configurations de haute entropie que de basse entropie, donc un système laissé seul a une très forte probabilité de se retrouver dans un état de haute entropie..
+- La mort thermique de l'univers est une prédiction faite pour la première fois en 1852 par Lord Kelvin sur la base des lois de la thermodynamique. Selon cette prédiction, l'univers devrait forcément converger dans le futur vers un état d'entropie maximale, où les différences de température dans l'univers seraient réduites à néant
+> "Le résultat serait inévitablement un état de repos et de mort universelle, si l'univers est fini et contraint d'obéir aux lois existantes" (Kelvin, 1862)
+- La seconde loi appliquée à l'univers prédit donc le déclin inexorable de l'univers et de sa complexité.
+> La quantité d'énergie utilisable de l'univers a tendance à diminuer de pair avec l'augmentation de son entropie. Cette quantité finie d'énergie utilisable pose donc des limites physiques sur la complexité qu'il est possible de créer dans l'univers. Des limites impossibles à dépasser à l'état actuel des connaissances.
+- L'univers débute son histoire dans un état de basse entropie, et l'entropie n'a fait qu'augmenter depuis
+
+***Pourquoi l'univers primordial, sans structure et à la température uniforme, aurait été dans un état de basse entropie, alors que ça devrait être l'inverse ?***
+- Personne n'a d'explication complètement satisfaisante à ce fait aujourd'hui.
+- Mais une partie de la l'explication est sûrement dûe au fait que la gravité aussi a une entropie, qui était initiallement très faible. Plus un champ gravitationnel est inhomogène, plus son entropie gravitationnelle est grande.
+> Si on ne tient pas compte de la gravitation, l'état d'entropie maximale d'un gaz est un état à la température uniforme dispersé dans le volume disponible. Mais si l'on tient compte de la gravitation, l'entropie du gaz dispersé est relativement faible, et elle peut encore augmenter en se condensant localement et en créant des écarts de températures à travers des objets comme des étoiles, ou même juste en chauffant la matière. 
+- L'entropie de la matière, du rayonnement et de la gravité combinés est donc petite au début de l'univers, et augmente au fil du temps.
+- L'entropie gravitationnelle est une notion développée par Stephen Hawking et Roger Penrose dans les années 70 dans le contexte de l'étude des trous noirs, qui les objets de l'univers avec une entropie gravitationnelle maximale (mais pas forcément d'entropie maximale). Le problème, c'est que pour le moment il n'existe pas de définition mathématique précise de cette notion au niveau cosmologique.
+
+***L'univers atteindra-t-il un jour un état de mort thermique ?***
+- Il faut différencier la mort thermique "classique" (l'univers atteint un état d'équilibre thermodynamique, et tous les points de l'espace ont la même température) de la mort thermique "cosmologique".
+- Dans un univers en expansion, il est impossible pour l'entropie d'atteindre une valeur maximale, parce que la valeur maximale de l'entropie (le désordre maximal possible) augmente avec le volume de l'univers
+- Mais même si l'entropie maximale ne sera jamais atteinte dans un univers en perpétuelle expansion, l'univers dans le futur le plus ultime, composé de rayonnement de plus en plus froid et de particules subatomiques de plus en plus éloignées, sera quand même très proche de celui prédit par l'hypothèse de la mort thermique. Rien de complexe ne pourra plus s'y former.
