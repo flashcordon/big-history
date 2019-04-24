@@ -535,6 +535,7 @@ Un supercontinent : Pangea Ultima
 - [Comment se terminera l'univers?](https://youtu.be/Qg4vb-KH5F4) – PBS Space Time
 - The Big Picture – Sean Carroll (2016)
 
+---
 
 - "Everything flows... Nothing stays" – Héraclite
 - "Certains disent que le monde finira dans les flammes, D'autres dans la glace. Le désir ayant embrasé mon âme, Je suis de ceux qui penchent pour les flammes. Mais s'il fallait que deux fois il trépasse Je crois connaître assez la haine Pour dire que dans ce domaine La glace serait tout aussi souveraine Et efficace." - Feu et Glace, Robert Frost
