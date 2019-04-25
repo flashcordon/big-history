@@ -27,6 +27,12 @@
 
 # Qu'est ce qu'un mythe ?
 
+*Sources*
+
+- [Comment reconstruire la préhistoire des mythes ? Applications d’outils phylogénétiques à une tradition orale](https://www.cairn.info/apparenter-la-pensee--9782919694563-page-145.htm)
+
+---
+
 - Lévy Strauss
 - Etymologie grecque : mythos
 - mythes cosmogoniques, étiologiques (?)
