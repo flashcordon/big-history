@@ -32,6 +32,8 @@
 - [Comment reconstruire la préhistoire des mythes ? Applications d’outils phylogénétiques à une tradition orale](https://www.cairn.info/apparenter-la-pensee--9782919694563-page-145.htm) - d'Huy et Le Quellec (2014)
 - [La science des mythes (DirtyBiology et C'est une autre histoire)](https://youtu.be/E0XdK-T3dvE) - Musée du Louvre (Octobre 2017) 
 - [A LARGE-SCALE STUDY OF WORLD MYTHS](http://www.kirj.ee/public/trames_pdf/2018/issue_4/Trames-2018-4-407-424.pdf) - Thuillard et al (2018)
+- [Ce que les mythes disaient, il y a 20 000 ans...](https://www.hominides.com/html/actualites/ce-que-les-mythes-disaient-il-y-a-20000-ans-0801.php) - Julien d'Huy, Homininés.com (Mars 2014)
+- [How Myths Evolve over Time and Migrations](https://www.scientificamerican.com/podcast/episode/how-myths-evolve-over-time-and-migrations/) - Scientific American Podcast (Novembre 2016)
 
 ---
 
