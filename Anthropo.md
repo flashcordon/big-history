@@ -29,7 +29,8 @@
 
 *Sources*
 
-- [Comment reconstruire la préhistoire des mythes ? Applications d’outils phylogénétiques à une tradition orale](https://www.cairn.info/apparenter-la-pensee--9782919694563-page-145.htm)
+- [Comment reconstruire la préhistoire des mythes ? Applications d’outils phylogénétiques à une tradition orale](https://www.cairn.info/apparenter-la-pensee--9782919694563-page-145.htm) - d'Huy et Le Quellec (2014)
+- [La science des mythes (DirtyBiology et C'est une autre histoire)](https://youtu.be/E0XdK-T3dvE) - Musée du Louvre (Octobre 2017) 
 
 ---
 
