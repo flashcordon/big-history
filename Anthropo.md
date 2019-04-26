@@ -34,6 +34,7 @@
 - [A LARGE-SCALE STUDY OF WORLD MYTHS](http://www.kirj.ee/public/trames_pdf/2018/issue_4/Trames-2018-4-407-424.pdf) - Thuillard et al (2018)
 - [Ce que les mythes disaient, il y a 20 000 ans...](https://www.hominides.com/html/actualites/ce-que-les-mythes-disaient-il-y-a-20000-ans-0801.php) - Julien d'Huy, Homininés.com (Mars 2014)
 - [How Myths Evolve over Time and Migrations](https://www.scientificamerican.com/podcast/episode/how-myths-evolve-over-time-and-migrations/) - Scientific American Podcast (Novembre 2016)
+- The origin of the world's mythologies - Michael Witzel (2012)
 
 ---
 
