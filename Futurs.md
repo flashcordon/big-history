@@ -534,6 +534,7 @@ Un supercontinent : Pangea Ultima
 - Voyages dans le futur – Nicolas Prantzos
 - [Comment se terminera l'univers?](https://youtu.be/Qg4vb-KH5F4) – PBS Space Time
 - The Big Picture – Sean Carroll (2016)
+- [A Resource Letter on Physical Eschatology](https://arxiv.org/ftp/astro-ph/papers/0211/0211413.pdf) - Milan M. Ćirković
 
 ---
 
