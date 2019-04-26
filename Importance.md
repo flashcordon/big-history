@@ -1,5 +1,6 @@
 # Pourquoi la big History est importante ?
 
+- On vit à une époque où on cherche à recréer du lien. Or les sciences expérimentales et humaines permettent de révéler les liens cachés qui nous tissent et que l'on tisse
 - Elle nous montre que l'évolution de l'humanité est intriquée avec l'évolution du système Terre
 - Il y a des leçons à apprendre de l'histoire du système Terre si on veut survivre sur le long terme (ex: les extinctions de masse)
 - C'est une histoire qui transcende les nations, qui nous rassemble plus qu'elle nous divise
