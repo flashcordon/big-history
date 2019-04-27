@@ -43,3 +43,51 @@
 - Etymologie grecque : mythos
 - mythes cosmogoniques, étiologiques (?)
 - Evolution des mythes
+
+---
+
+- Les mythes sont des histoires qui expliquent et justifient l'état actuel du monde.
+> Dans toutes les sociétés qui racontent les mythes, ces derniers sont toujours considérés comme des vérités. 
+- La science qui étudie les mythes et leur évolutions, la mythologie comparée, existe depuis à peine 200 ans.
+- Il y a différents types de mythes :
+> * Les cosmogonies : elles racontent l'origine de l’univers
+> * Les mythes anthropogoniques : ils racontent l’apparition de l’humanité
+> * Les mythes ethnogoniques : ils expliquent comment l’humanité a été divisée en différents groupes parlants des langues différentes 
+- Les culture traditionnelles se transmettent par un processus de descendance modifiée, comme les lois de l'évolution du vivant. Ils se transmettent de génération en génération.
+- On peut donc modéliser l'évolution des mythes, des idées, des cultures comme un arbre phylogénétique, considérer les mythes comme des êtres vivants.
+- Il existe aussi des transferts horizontaux culturels,  analogues au phénomène d’hybrydation ou d'échange d’ADN en bio : de nouvelles caractéristiques sont empruntées à des sources extérieures sans avoir été héritées génétiquement 
+- Les mythes se conservent très longuement dans le temps et dans l'espace (géographiquement parlant). 
+> Certains ont émergé au Pleistocene et leurs descendants sont encore identifiables de nos jours !
+- Ils semblent évoluer par équilibre ponctué : stable pendant très longtemps et entrecoupés de fortes évolutions dus à des migrations ou des tensions territoriales.
+- On peut décomposer un mythe en mythèmes (notion développée par Claude Lévi-Strauss), des phrases extrêmement brèves (eléments narratifs), sortes d'atomes de mythes, l'équivalent des gènes en biologie.
+- On peut donc comparer les mythes entre eux et leur proximité narrative en regardant quels mythèmes on trouve, et quels mythèmes on ne trouve pas. Plus le nombre de caractères communs est grand, plus l'ancêtre commun est récent. 
+- Chaque population crée sa propre version du mythe, en empruntant des éléments aux voisins, en les modifiant parfois et en ajoutant d’autres éléments. 
+- Plus on s'éloigne du point d’origine du mythe, plus il se transforme. Les mythes ont une histoire.
+- Grâce à l’approche phylogénétique, Julien d’Huy et son équipe recensent 4 grandes familles de mythes :
+> * Pygmalion : un homme tombe amoureux d’une statue qui s'anime et se marie avec lui
+> * La chasse cosmique : une chasse conduit un animal ou un chasseur jusqu'au ciel où il se transforme en constellation (remonte au Paléolithique supérieur)
+> * Polyphème : un homme s'introduit dans la demeure d’un monstre, qui veut le tuer. Il s’en sort grâce à une ruse. (remonte au Paléolithique supérieur)
+> * La Géranomachie : des nains sont régulièrement attaqués par des oiseaux migrateurs
+- Contrairement à une affirmation répandue,  les mêmes mythes ne se retrouvent pas partout. Ils ne sont pas répartis au hasard.
+> La plupart des versions d'un mythe se regroupent en aires linguistiques.
+- Ces récits ont pu se déplacer sans déplacements de populations (transmission culturelle entre différentes populations), mais aussi grâce à des migrations. 
+> Les 2 hypothèses sont difficiles à décorréler.
+- On peut grâce à cette méthode retracer le parcours géographique probable d'une famille de mythes donnée :
+> * Pygmalion : Nord de l’Afrique -> sud de l’Afrique
+> * Polyphème : Méditerranée -> Pyrénées / Caucase
+> * Géranomachie : Asie  -> Amérique 
+- Les arbres phylogénétiques des mythes semblent suivre la route des premières migrations de l’Humanité, ce qui permet de dater certains de ces mythes au Paléolithique supérieur 
+- Attention au piège de la recherche du mythe primordial (monogénèse des mythes) qui n'est plus une approche considérée comme sérieuse aujourd'hui, parce qu'elle néglige à prendre en compte les processus qui forment les mythes.
+- Les prototypes de mythes qu'ils trouvent dans leur méthode ne correspondent pas à des versions réelles, mais à des reconstructions statistiques, des premières versions probables de ce mythes.
+
+***Pourquoi les mythes se conservent-ils si bien à travers le temps et l'espace ?***
+- ils sont constitués de phrases extrêmement simples, difficiles à modifier. Si bien que les traductions de traductions de mythes parviennent quand même à garder la structure de l’histoire.
+- Le conformisme social : le public corrige le conteur quand il se trompe
+- L'impact émotionnel des mythes : les versions les plus choquantes des mythes ont tendance à être préférentiellement diffusées. Les émotions intenses ou légères libèrent de la noradrénaline chez le public, ce qui facilite la mémorisation de l’histoire.
+Mais une théorie scientifique de la permanence des mythes reste encore largement à construire
+
+
+
+
+
+
