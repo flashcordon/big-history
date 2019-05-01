@@ -588,7 +588,7 @@ Burcher
 - [L'effet de serre maximum](http://sesp.esep.pro/fr/pages_habitabilite/serre.html) - Cours de l'ESEP (Mars 2019)
 - [Circumstellar habitable zone](https://en.wikipedia.org/wiki/Circumstellar_habitable_zone) - Wikipédia
 - [Remote life-detection criteria, habitable zone boundaries, and the frequency of Earth-like planets around M and late K stars](https://www.pnas.org/content/111/35/12641) - Kasting et al (2014)
-
+- [How to Characterize Habitable Worlds and Signs of Life](https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-082214-122238) - Kaltenegger (2017)
 ---
 
 - L'eau liquide est nécessaire à tous les êtres vivants sur Terre
