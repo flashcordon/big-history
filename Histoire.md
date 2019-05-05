@@ -183,3 +183,10 @@
 # La révolution des transports
 
 # La révolution de l'information
+
+# L'anthropocène
+
+Sources
+
+- L'Homme, destructeur de la Terre - Jean-Robert Viallet (2019)
+- L'événement anthropocène - Christophe Bonneuil et Jean-Baptiste Fressoz
