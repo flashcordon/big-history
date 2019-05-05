@@ -15,3 +15,5 @@
 - Le passé est un guide pour le futur
 
 - [Why we need a modern origin story today](sciencenordic.com/why-we-need-modern-origin-story-today?fbclid=IwAR0ivr-bTPKXx2ihbbWlLVnLmS08AvzW8ZyZcXi1wD5ePAWbA97LLH01dD4)
+
+- [Welcome to Terra Sapiens - David Grinspoon](https://aeon.co/essays/enter-the-sapiezoic-a-new-aeon-of-self-aware-global-change?fbclid=IwAR1VAQExLOCvtmda9ZaiYorLv90ESishMroEIPzyT8m2-dXV-o57JUH-R58)
