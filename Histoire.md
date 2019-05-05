@@ -188,5 +188,5 @@
 
 Sources
 
-- L'Homme, destructeur de la Terre - Jean-Robert Viallet (2019)
+- L'Homme a mangé la Terre - Jean-Robert Viallet (2019)
 - L'événement anthropocène - Christophe Bonneuil et Jean-Baptiste Fressoz
