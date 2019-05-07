@@ -192,6 +192,7 @@ Déforestation :
 - [Le site de l'IPBES](https://www.ipbes.net/) - Le GIEC de la biodiversité
 - [The biomass distribution on Earth](https://www.pnas.org/content/115/25/6506) - M Baron et al (2018)
 - [Humans just 0.01% of all life but have destroyed 83% of wild mammals – study](https://www.theguardian.com/environment/2018/may/21/human-race-just-001-of-all-life-but-has-destroyed-over-80-of-wild-mammals-study) - The Guargian (Mai 2018)
+- [Sommes-nous entrés dans une sixième crise d'extinction massive ? Synthèse scientifique](https://controversciences.org/timelines/est-il-trop-tard-pour-eviter-la-sixieme-crise-d-extinction-massive) - Controverscience
 
 ---
 
