@@ -36,6 +36,7 @@
 - [How Myths Evolve over Time and Migrations](https://www.scientificamerican.com/podcast/episode/how-myths-evolve-over-time-and-migrations/) - Scientific American Podcast (Novembre 2016)
 - The origin of the world's mythologies - Michael Witzel (2012)
 - [Dans les rêves de Cro-Magnon](https://www.lemonde.fr/culture/article/2014/03/13/il-etait-une-fois-les-mythes_4382701_3246.html?xtmc=dans_les_reves_de_cro_magnon&xtcr=1) - Stéphane Foucart, le Monde (Mars 2014)
+- Dictionnaire critique de mythologie - Jean-Loic Le Quellec (2017)
 
 ---
 
