@@ -617,6 +617,8 @@ Burcher
 > * Ganymède, une lune de Jupiter, contient environ 10 fois plus d'eau que la Terre
 - Il y a donc beaucoup d'eau dans le système solaire. Mais surtout sous forme de glace.
 
+## La super habitabilité
+
 # Les exoplanètes
 
 *Sources*
