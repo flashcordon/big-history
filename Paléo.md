@@ -85,6 +85,7 @@ On en a pas trouvé plus loin que l'Altai
 *Sources*
 - [Stephen Pyne - Fire Slow, Fire Fast, Fire Deep](http://longnow.org/seminars/02016/feb/09/fire-slow-fire-fast-fire-deep/) Stephen Pyne, Long Now seminar (Février 2016)
 - [Big history and the future of Humanity](https://books.google.fr/books?id=g5SDBgAAQBAJ&pg=PA195&lpg=PA195&dq=We+are+fire+creatures+from+an+ice+age+stephen+pyne&source=bl&ots=qXgCYxQnhB&sig=TqSC9zcQ6muET60O44Eb-TT_bAA&hl=fr&sa=X&ved=2ahUKEwiV7-qfrbTfAhUsxIUKHXHxCKEQ6AEwCHoECAcQAQ#v=onepage&q=We%20are%20fire%20creatures%20from%20an%20ice%20age%20stephen%20pyne&f=false) - Fred Spier (2015)
+- [A Burning Story: The Role of Fire in the History of Life](https://academic.oup.com/bioscience/article/59/7/593/334816#4647777) - Pausas et Keeley (2009)
 
 ---
 
