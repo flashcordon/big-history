@@ -30,12 +30,31 @@
 - Notre impact sur l’atmosphère a augmenté considérablement ces 2 derniers siècles
 > C’est dû à l’industrialisation massive, au développement des transports, et à l’intensification et à l’extensification de l’agriculture
 - Nos activités émettent de grandes quantités de gaz à effets de serre : dioxyde de carbone (CO2), méthane (CH4), oxyde nitreux (N2O)
-> * La concentration de CO2 est passée de 280ppm en 1850 à 415ppm en Mai 2019. Avant le 17e siècle, les concentrations variaient entre 275 et 285 ppm depuis 1000 ans. Durant les 4 cycles glaciaires-interglaciaires, elles variaient entre 180 et 280ppm.
+> * La concentration de CO2 est passée de 280ppm en 1850 à 415ppm en Mai 2019. Avant le 17e siècle, les concentrations variaient entre 275 et 285 ppm depuis 1000 ans. Durant les 4 cycles glaciaires-interglaciaires, elles variaient entre 180 et 280ppm. Nous émettons actuellement 100 fois plus de CO2 dans l’atmosphère que les volcans.
 > * La concentration de CH4 est passée du niveau pré-industriel de 670 ppb à X ppb aujourd’hui.
+> * La concentration de N2O est passée d’un niveau préindustriel de 285 ppb à plus de 310 ppb
 - La combustion des énergies fossiles est la cause principale de cette augmentation du taux de CO2. D’autres facteurs moins importants incluent le déboisement et la combustion de la biomasse
 - Les émissions de nos ruminants (rots et pets), des rizières, de nos décharges, de nos feux, et de l’exploitation des énergies fossiles sont responsables de la hausse du taux de CH4 dans l’atmosphère.
 > Le méthane a un pouvoir de réchauffement 20 fois plus élevé que le CO2.
-- Le réchauffement climatique 
+- Le permafrost, le réchauffement cliamtique et le méthane XXX
+- L’utilisation d’engrais azotés est la principale source anthropique d’oxyde nitreux. Les plantations de légumineuses et l’utilisation de fumier contribuent aussi.
+- Nous envoyons aussi une grande quantité d’aérosols (des particules solides ou liquides en suspension dans l’air) dans l’atmosphère. 
+> Ces aérosols ont des durées de vie dans l’atmosphère qui se comptent en semaines voires en années.
+- Le plus grand changement de la composition atmosphérique des 20 dernières années est due à nos émissions d’aérosols.
+- Les aérosols issues de nos activités sont de natures variées : 
+> * Les nitrates
+> * Les sulfates
+> * Les particules de suie (black carbon ou carbone élémentaire) issues de la combustion d’énergie fossile ou de biomasse
+> * Les particules carbonées issues de la combustion de combustible fossile et de biomasse. 
+- Les effets des aérosols dépendent de leur composition chimique :
+> * les particules sulfatées diffusent la lumière et ont donc un effet refroidissant sur l’atmosphère terrestre
+> * les particules de suie absorbent le rayonnement solaire et ont donc un effet réchauffant sur l’atmosphère terrestre
+- Les aérosols ont un effet sur la formation et l’évolution des nuages
+> Les particules d’aérosols servent de noyaux de condensation des nuages (échelle micrométrique)
+> Ils ont tendance à augmenter la durée de vie des nuages et à diminuer leur tendance à se précipiter
+- Les nuages et les aérosols sont la plus grosse source d’incertitude de nos modèles climatiques à l’heure actuelle.
+> Ils évoluent à une échelle spatiale bien plus faible que la résolution des modèles climatiques (les noyaux de condensation de nuages peuvent mesurer 1/10e de micromètre, et les nuages peuvent mesurer jusqu’à plusieurs milliers de kilomètres de long)
+
 
 ## Les cycles naturels
 
