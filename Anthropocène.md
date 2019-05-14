@@ -4,6 +4,10 @@
 
 - [Global Change and the Earth system](http://www.igbp.net/download/18.56b5e28e137d8d8c09380001694/1376383141875/SpringerIGBPSynthesisSteffenetal2004_web.pdf) - Steffen et al (2004)
 - [A History of Global Metal Pollution](https://science.sciencemag.org/content/272/5259/223) - Nriagu (1996)
+- [Do volcanoes emit more CO2 than humans?](https://skepticalscience.com/volcanoes-and-global-warming.htm)
+- [Clouds and aerosols](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter07_FINAL-1.pdf) - Rapport AR5 du GIEC (2018)
+- [Comment les aérosols atmosphériques modifient-ils le climat ?](http://www.climat-en-questions.fr/reponse/mecanismes-devolution/aerosols-climat-par-olivier-boucher) - Le climat en question (2013)
+- [Modelisation des aérosols à l’aide du modèle de chimie transportMOCAGE: application à la qualité de l’air dans le bassin méditerranéen](http://thesesups.ups-tlse.fr/3269/1/2015TOU30354.pdf) - Thèse de Jonathan Guth (2015)
 
 ---
 
@@ -54,7 +58,6 @@
 > Ils ont tendance à augmenter la durée de vie des nuages et à diminuer leur tendance à se précipiter
 - Les nuages et les aérosols sont la plus grosse source d’incertitude de nos modèles climatiques à l’heure actuelle.
 > Ils évoluent à une échelle spatiale bien plus faible que la résolution des modèles climatiques (les noyaux de condensation de nuages peuvent mesurer 1/10e de micromètre, et les nuages peuvent mesurer jusqu’à plusieurs milliers de kilomètres de long)
-
 
 ## Les cycles naturels
 
