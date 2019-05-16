@@ -9,6 +9,7 @@
 - [Comment les aérosols atmosphériques modifient-ils le climat ?](http://www.climat-en-questions.fr/reponse/mecanismes-devolution/aerosols-climat-par-olivier-boucher) - Le climat en question (2013)
 - [Modelisation des aérosols à l’aide du modèle de chimie transportMOCAGE: application à la qualité de l’air dans le bassin méditerranéen](http://thesesups.ups-tlse.fr/3269/1/2015TOU30354.pdf) - Thèse de Jonathan Guth (2015)
 - The Blue Planet : an introduction to Earth System Science - Skinner et Murck (2011)
+- How the Earth works - Michael Wysession (the Great Courses)
 
 ---
 
