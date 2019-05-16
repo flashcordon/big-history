@@ -70,6 +70,16 @@
 
 # L'émergence des structures de pouovoir
 
+# Les guerres
+
+*Sources*
+
+- [Dominance and Aggression in Humans and Other Animals: The Great Game of Life](https://books.google.fr/books?id=6sGpDAAAQBAJ&pg=PA197&lpg=PA197&dq=In+the+Encyclopedia+of+Wars,+authors+Charles+Phillips+and+Alan+Axelrod+(Lincove,+2005)+present+a+comprehensive+listing+of+wars+in+history,+documenting+1763+wars+overall,+123+(7%25)+of+which+are+classified+as+involving+religious+conflicts.+William+T.+Cavanaugh+(2009)+argues+that+%E2%80%9Cwhat+is+termed+%E2%80%98religious+wars%E2%80%99+is+actually+largely+a+Western+dichotomy+of+different+power+configurations+which+serve+a+Western+consumer+audience.%E2%80%9D&source=bl&ots=LrTFVo4wVc&sig=ACfU3U2lEeZUSQmhGmCyNVltn0X26YyhaQ&hl=fr&sa=X&ved=2ahUKEwjf3eS98KDiAhUl8uAKHf34AeAQ6AEwAHoECAIQAQ#v=onepage&q=In%20the%20Encyclopedia%20of%20Wars%2C%20authors%20Charles%20Phillips%20and%20Alan%20Axelrod%20(Lincove%2C%202005)%20present%20a%20comprehensive%20listing%20of%20wars%20in%20history%2C%20documenting%201763%20wars%20overall%2C%20123%20(7%25)%20of%20which%20are%20classified%20as%20involving%20religious%20conflicts.%20William%20T.%20Cavanaugh%20(2009)%20argues%20that%20%E2%80%9Cwhat%20is%20termed%20%E2%80%98religious%20wars%E2%80%99%20is%20actually%20largely%20a%20Western%20dichotomy%20of%20different%20power%20configurations%20which%20serve%20a%20Western%20consumer%20audience.%E2%80%9D&f=false) - Henry R. Hermann
+
+---
+
+- "In the Encyclopedia of Wars, authors Charles Phillips and Alan Axelrod (Lincove, 2005) present a comprehensive listing of wars in history, documenting 1763 wars overall, 123 (7%) of which are classified as involving religious conflicts. William T. Cavanaugh (2009) argues that “what is termed ‘religious wars’ is actually largely a Western dichotomy of different power configurations which serve a Western consumer audience.”"
+
 ## Les premières lois : le code d'Hammurabi
 
 # Les premiers empires
