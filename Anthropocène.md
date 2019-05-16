@@ -8,6 +8,7 @@
 - [Clouds and aerosols](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter07_FINAL-1.pdf) - Rapport AR5 du GIEC (2018)
 - [Comment les aérosols atmosphériques modifient-ils le climat ?](http://www.climat-en-questions.fr/reponse/mecanismes-devolution/aerosols-climat-par-olivier-boucher) - Le climat en question (2013)
 - [Modelisation des aérosols à l’aide du modèle de chimie transportMOCAGE: application à la qualité de l’air dans le bassin méditerranéen](http://thesesups.ups-tlse.fr/3269/1/2015TOU30354.pdf) - Thèse de Jonathan Guth (2015)
+- The Blue Planet : an introduction to Earth System Science - Skinner et Murck (2011)
 
 ---
 
@@ -59,7 +60,62 @@
 - Les nuages et les aérosols sont la plus grosse source d’incertitude de nos modèles climatiques à l’heure actuelle.
 > Ils évoluent à une échelle spatiale bien plus faible que la résolution des modèles climatiques (les noyaux de condensation de nuages peuvent mesurer 1/10e de micromètre, et les nuages peuvent mesurer jusqu’à plusieurs milliers de kilomètres de long)
 
-## Les cycles naturels
+## Les cycles naturels :
+
+- Nous altérons de nombreux cycles biogéochimiques de la Terre (ensembles des échanges d'un élément chimique) : le cycle du carbone, de l’azote, du phosphore et du soufre.
+
+### Le cycle du carbone
+
+- Le carbone est la brique de base de la vie.
+> C’est l’élément qui permet de créer les architectures moléculaires à la base du vivant, comme l’ADN ou les membranes des cellules.
+- Le vivant relâche du carbone dans l'atmosphère grâce à la respiration, essentiellement sous forme de dioxyde de carbone (CO2) ou de méthane (CH4) 
+- Les volcans et les feux émettent aussi du carbone (CO2, suie) dans l’atmosphère
+- Le carbone est retiré de l’atmosphère par la photosynthèse et par la dissolution du CO2 dans les océans 
+- Le carbone arrive dans les océans essentiellement via l’érosion des roches sédimentaires est retiré des océans par la sédimentation et la production de roches
+- La quasi totalité du carbone de la croûte terrestre est stockée dans les roches sédimentaires (calcaire majoritairement produit par biominéralisation des coquilles des organismes marins). 
+> C’est donc grâce à la vie sur Terre que l’atmosphère de la Terre n’est pas constituée à 95% de CO2 comme Vénus ou Mars
+
+***Perturbations humaines***
+- Le plus gros flux de carbone généré par les humains est dû à nos émissions de CO2 dans l’atmosphère par la combustion des énergies fossiles.
+- La déforestation tropicale et la conversion des terres sauvages en terres agricoles réduit la capacité des écosystèmes terrestres à absorber du CO2 atmosphérique
+
+### Le cycle de l’azote
+
+- Tous les êtres vivants ont besoin d'azote (N) pour fabriquer des acides aminés des protéines, de l'ADN, de l’ATP...
+> Les valeurs nutritionnelles d'un engrais sont directement corrélées à leur concentration en azote ! (mais aussi de phosphate et de potassium)
+- L’azote est l’un des éléments les plus importants pour l’évolution des écosystèmes parce que sa concentration régule la productivité et la diversité des espèces.
+- L'air est constitué à 78% de diazote (N2). Problème : les 2 atomes d'azote qui constituent cette molécule sont fortement liées par 3 liaisons covalentes, ce qui rend le diazote non réactif chimiquement, et donc non utilisable sous cette forme par le vivant
+- Il faut que l’azote de l’atmosphère soit converti en ammoniac (NH3) pour qu’il soit utilisable par les organismes complexes comme les plantes ! On appelle ce processus la fixation de l’azote.
+> La fixation de l’azote requiert beaucoup d’énergie, ce qui fait que dans la nature, seul quelques microbes (procaryotes) sont capables de réaliser ce processus.
+- Les plantes ont donc besoin de bactéries pour leur fournir leur azote, et on a besoin de manger des plantes (ou des animaux qui mangent des plantes) pour nous approvisionner en azote !
+- Lorsque des organismes meurent et se décomposent, des bactéries convertissent leurs molécules complexes en ammoniac (NH3) ou en diazote (N2), qui sont ensuite libérés dans l’atmosphère. 
+> L’azote est donc constamment recyclé par la biosphère dans la nature. Rien ne se perd, rien ne se crée, tout se transforme !
+
+***Perturbations humaines***
+- Le cycle de l’azote est perturbé par la fixation de l’azote atmosphérique (conversion du diazote en ammoniac) pour en faire des engrais azotés, par les cultures de légumineuses, ainsi que par la combustion des énergies fossiles et de la biomasse (production de NOx, x=1 ou 2, et de N2O). 
+
+### Le cycle du phosphore
+
+- Le phosphore est utilisé pour former la structure hélicoïdale de l’ADN (chaînes sucres-phosphates)
+- On trouve le phosphore sous forme de minéraux dans les sols et dans les eaux, généralement sous forme de phosphates
+> L’ion phosphate (PO_4^3-) est un tétraèdre dont les sommets sont formés par les quatre atomes d'oxygène encadrant un atome de phosphore. (??)
+- Le phosphore est libéré des roches par érosion et utilisé par la vie qui la retourne au sol après.
+- Le phosphore n’existe pas sous forme gazeuse, donc il est transporté à grande distance par la vie, les rivières et les cours d’eau, où il finit dans les océans en tant que sédiments marins.
+- La réserve de phosphore des continents est reconstituée par des processus géologiques à long terme, comme les collisions entre plaques tectoniques qui soulèvent des continents.
+
+***Perturbations humaines***
+- L’extraction de phosphate dans les mines, et leur conversion en engrais et en détergents augmentent fortement les flux de phosphore.
+
+### Le cycle du soufre
+
+- La majeure partie du soufre de la planète est contenu dans les roches et les sédiments marins
+- Les volcans éjectent du soufre dans l’atmosphère, sous forme de X et de X
+> Les composés du soufre dans l’atmosphère, comme les sulfates, participent au refroidissement planétaire en augmentant l’albédo de la Terre
+- Les plantes absorbent le soufre de l’atmosphère (SO2) par leurs feuilles, et celui du sol (sulfates dissous dans l’eau) par leurs racines. Les animaux acquièrent ensuite le soufre en mangeant les plantes, ou des animaux qui mangent des plantes.
+> Ils ont besoin de soufre pour produire certains acides aminés
+
+***Perturbations humaines***
+- La combustion des énergies fossiles génère énormément de dioxyde de soufre (SO2) dans l’atmosphère, à un taux beaucoup plus large que les flux naturels.
 
 
 
