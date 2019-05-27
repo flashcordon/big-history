@@ -46,7 +46,7 @@
 > * Les premiers Européens sont datés de 43 000 ans. (dents retrouvées à Grotta del Cavallo en Italie et boût de machoire retrouvée dans la caverne de Kent en Angleterre)
 > * Il y a environ 16 000 ans, une population provenant de Sibérie traverse le détroit de Béring, qui est alors traversable à pied et colonise l'Amérique du Nord
 > * En Amérique du Sud, le site de Monte Verde au Chili présente les plus anciens restes humains dans cette région. Ils sont datés de 14 500 ans (outils en pierre et en os).
-
+- Au cours de ces migrations nous avons rencontré et échangé du matériel génétique avec d'autres espèces d'humains !
 - Parmi les grands singes on est l'espèce avec le moins de diversité génétique
 - En moyenne y a 70 mutations génétiques entre 2 générations. 15 transmises par la mère et 55 par le père 
 
