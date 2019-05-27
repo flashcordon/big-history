@@ -44,7 +44,7 @@
 > * Les premières traces de Sapiens hors d'Afrique ont été découvertes en 2018 dans la caverne de Misliya, en Israel (boût de machoire Mislya 1 et outils en pierre). Elles sont datées de 194-177 000 ans.
 > * On trouve des Sapiens en Chine (Cavernes de Luna et de Fuyan) datés de 127-70 000 ans (dents humaines).
 > * On trouve des dents de Sapiens en Indonésie (site de Lida Ajer) datées de 73-63 000 ans.
-> * On trouve des restes de Sapiens (outils de pierre et restes d'animaux) en Australie dès 60-50 000 ans (site de Madjebebe)
+> * On trouve des restes de Sapiens (outils de pierre et restes d'animaux) en Australie dès 65 000 ans (site de Madjebebe)
 > * Les premiers Européens sont datés de 43 000 ans. (dents retrouvées à Grotta del Cavallo en Italie et boût de machoire retrouvée dans la caverne de Kent en Angleterre)
 > * Il y a environ 16 000 ans, une population provenant de Sibérie traverse le détroit de Béring, qui est alors traversable à pied et colonise l'Amérique du Nord
 > * En Amérique du Sud, le site de Monte Verde au Chili présente les plus anciens restes humains dans cette région. Ils sont datés de 14 500 ans (outils en pierre et en os).
