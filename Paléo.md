@@ -35,14 +35,14 @@
 
 - Jusqu'à relativement récemment, il y avait 2 hypothèses en compétition concernant l'origine des Homo Sapiens : l'hypothèse multirégionale et l'hypothèse Out of Africa
 > L'hypothèse Out of Africa fait aujourd'hui consensus, contrairement à l'hypothèse multirégionale qui peut être réfutée par les données génétiques.
-- Les restes des plus vieux humains anatomiquement modernes connus ont été trouvé sur le site de Jebel Irhoud au Maroc (Afrique du Nord) en 1961 (crânes Irhoud 1 et 10). Ils ont été (récemment) datés de 300-350 000 ans. (Source?)
+- Les restes des plus vieux humains anatomiquement modernes connus ont été trouvé sur le site de Jebel Irhoud au Maroc (Afrique du Nord) en 1961 (crânes Irhoud 1 et 10). Ils ont été (récemment) datés de 300-350 000 ans. 
 - Avant cette découverte les plus vieux restes d'Homo Sapiens étaient des crânes découverts en Ethiopie (Omo Kibish et Herto, en Afrique de l'Est) datés de 195 000 (Omo 1) et 160 000 ans (Herto) respectivement.
 - Mais l'étude du génome des populations africaines montre une origine pan-africaine des Sapiens, plutôt qu'une origine localisée. 
 - Les populations africaines ont plus de diversité génétique que n'importe quelles autres populations humaines. Plus on s'éloigne de l'Afrique moins la diversité génétique des populations est grande.
 > ***Effet fondateur:*** une sous partie des populations africaines de sapiens colonise le monde. Les colons ne peuvent pas apporter avec eux toute la diversité génétique d'afrique, du coup ailleurs dans le monde la diversité génétique est plus faible
 - A partir de l'Afrique, les Sapiens vont se lancer dans une série de migrations complexes et coloniser le monde entier.
 > * Les premières traces de Sapiens hors d'Afrique ont été découvertes en 2018 dans la caverne de Misliya, en Israel (boût de machoire Mislya 1 et outils en pierre). Elles sont datées de 194-177 000 ans.
-> * On trouve des Sapiens en Chine (Cavernes de Luna et de Fuyan) datés de 127-70 000 ans (dents humaines).
+> * On trouve des Sapiens en Chine (grottes de Luna et de Fuyan) datés de 127-70 000 ans (dents humaines).
 > * On trouve des dents de Sapiens en Indonésie (site de Lida Ajer) datées de 73-63 000 ans.
 > * On trouve des restes de Sapiens (outils de pierre et restes d'animaux) en Australie dès 65 000 ans (site de Madjedbebe)
 > * Les premiers Européens sont datés de 43 000 ans. (dents retrouvées à Grotta del Cavallo en Italie et boût de machoire retrouvée dans la caverne de Kent en Angleterre)
