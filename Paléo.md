@@ -51,7 +51,7 @@
 - Au cours de ces migrations nous avons rencontré et échangé du matériel génétique avec d'autres espèces d'humains !
 - Parmi les grands singes on est l'espèce avec le moins de diversité génétique
 - En moyenne y a 70 mutations génétiques entre 2 générations. 15 transmises par la mère et 55 par le père 
-
+- Les paléoanthropologues préfèrent parler de dispersions plutôt que de migrations humaines.
 
 ## Les Dénisoviens
 
