@@ -25,6 +25,14 @@
 
 ## Les Sapiens
 
+*Sources*
+
+- [When We Took Over the World](https://youtu.be/xmboVmtqNJc?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - PBS Eons (Mai 2019)
+
+---
+
+- Les restes des plus vieux humains anatomiquement modernes connus ont été trouvé sur le site de Jebel Irhoud au Maroc en 1961 (crânes Irhoud 1 et 10). Ils ont été (récemment) datés de 300-350 000 ans. (Source?)
+- Avant cette découverte les plus vieux restes d'Homo Sapiens étaient des crânes découverts en Ethiopie (Omo Kibish et Herto) datés de 195 000 (Omo 1) et 160 000 ans (Herto) respectivement.
 - Origine africaine (Sortie d'Afrique il y a 70 000-50 000 ans)
 > L'hypothèse Out of Africa fait aujourd'hui consensus, contrairement à l'hypothèse multirégionale qui peut être réfutée par les données génétiques.
 - Les populations africaines ont le plus de diversité génétique. Plus on s'éloigne de l'Afrique moins la diversité génétique des populations est grande.
