@@ -28,6 +28,7 @@
 *Sources*
 
 - [When We Took Over the World](https://youtu.be/xmboVmtqNJc?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - PBS Eons (Mai 2019)
+- Ancestral DNA, Human Origins, and Migrations - Rene Herrera et Ralph Garcia-Bertrand (2018)
 
 ---
 
