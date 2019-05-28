@@ -62,7 +62,6 @@
 - Parmi les grands singes on est l'espèce avec le moins de diversité génétique
 - En moyenne y a 70 mutations génétiques entre 2 générations. 15 transmises par la mère et 55 par le père 
 - Les paléoanthropologues préfèrent parler de dispersions plutôt que de migrations humaines.
-
 - Des simulations informatiques récentes (dont les résultats sont comparés avec les études génétiques, archéologiques et des fossiles) suggèrent que la migration Out of Africa ne s’est pas faite d’un coup. Elle s’est probablement faite par vagues de dispersions rythmées par les variations du climat
 - Le climat affecte l’abondance des ressources (plantes et animaux). Cette abondance pose une borne supérieure au nombre d’humains qu’une région peut soutenir (capacité de charge). Un climat plus humide permet un plus grand développement des plantes et des animaux, ce qui donne lieu à une augmentation des populations humaines et donc à une pression à l’expansion. 
 - Les variations du climat peuvent être causées par des éruptions volcaniques, des événements de Heinrich, l’alternance entre saisons sèches et saisons humides créée par les variations de l’orbite terrestre, et les fluctuations du niveau de la mer
@@ -95,6 +94,7 @@
 *Sources*
 
 - Modern Humans: their african origin and global dispersal - John Hoffecker (2017)
+- [Genetic history of an archaic hominin group from Denisova Cave in Siberia](https://www.nature.com/articles/nature09710) - Reich et al (2010)
 
 ---
 
@@ -106,10 +106,16 @@
 - On ne connait pas leur date d'apparition exacte
 - Les dénisoviens ont disparu vers 74-82Kyrs. Ils ont été remplacés par des hommes modernes
 - y a eu des échanges de gènes entre dénisovviens, néandertaliens et Sapiens. Mais dans quelles conditions ces gènes ont été échangés, on ne sait pas. 
-- Les humains modernes qui possèdent le plus d'ADN dénisovien à l'heure actuelle sont les populations natives d'Australie et de Papouasie Nouvelle Guinée. Ils partagent jusqu'à 5% (4.8) de leurs gènes avec les Dénisoviens.
+- Les humains modernes qui possèdent le plus d'ADN dénisovien à l'heure actuelle sont les populations natives d'Australie et de Papouasie Nouvelle Guinée. Ils partagent jusqu'à 5 (4.8+-0.5) %  de leurs gènes avec les Dénisoviens.
 > Il y a donc probablement eu des Dénisoviens en Asie, et en particulier en Asie du Sud.
 
 ## Les néandertaliens
+
+*Sources*
+
+- [Genetic history of an archaic hominin group from Denisova Cave in Siberia](https://www.nature.com/articles/nature09710) - Reich et al (2010)
+
+---
 
 - Découverts au milieu du 19e siècle
 - On les trouve en Eurasie
@@ -120,7 +126,7 @@ On en a pas trouvé plus loin que l'Altai
 - Enterre ses morts
 - Survit à un grand nombre de glaciations
 - La disparition des néandertaliens est encore une énigme. 
-- Les eurasiens partagent 1 à 4 % de leur génome avec neandertal
+- Les eurasiens partagent 2.5 (+-0.6) % de leur génome avec neandertal
 > En pratique ça veut dire que sur la dizaine de milliers d'années ou neandertaliens et sapiens se sont cotoyés y a eu 400 rapports sexuels fertiles
 
 ## Les Hommes de FLores
