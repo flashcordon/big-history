@@ -72,10 +72,12 @@
 ### Le peuplement du continent Américain
 
 - Le peuplement des Amériques date de la dernière période glaciaire. Ce peuplement s’accompagne de celui de grands mammifères comme les bisons, les caribous et les mammouths.
-- La période entre 28 000 et 16 000 ans (MIS2) correspond au dernier maximum glaciaire (DMG ou LGM), la période la plus froide du dernier âge glaciaire 
+- La période entre 28 000 et 16 000 ans (MIS2) correspond au dernier maximum glaciaire (DMG ou LGM), la période la plus froide du dernier âge glaciaire (le DMG semble être une notion mal définie, les dates dépendent des articles)
 > Le DMG correspond au moment où l'extension des calottes glaciaires est maximale. 
 - Au moment du DMG, la température moyenne du globe était plus froide d’environ 6 (+-2) degrés ([Friedrich et al 2016](https://advances.sciencemag.org/content/2/11/e1501923.short)). 
-- A cette époque, le niveau de la mer était plus bas de 120 m par rapport à aujourd’hui. Une bonne partie de l’Europe du Nord et de l’Amérique du Nord était recouverte par les glaces. Le détroit de Béring (entre l’Alaska et la Sibérie Orientale), aujourd’hui un bras de mer, était alors traversable par un pont terrestre appelé Béringie. Un paysage de steppes ou de toundra recouvrait cette région. 
+- A cette époque, le niveau de la mer était plus bas de 120 m par rapport à aujourd’hui. Une bonne partie de l’Europe du Nord et de l’Amérique du Nord était recouverte par les glaces. 
+> On pouvait traverser la Manche à pied !
+- Le détroit de Béring (entre l’Alaska et la Sibérie Orientale), aujourd’hui un bras de mer, était alors traversable par un pont terrestre appelé Béringie. Un paysage de steppes ou de toundra recouvrait cette région. 
 - L’étude de pollens fossilisés retrouvés dans des sédiments de lacs ([Willerslev et al 2014](https://www.nature.com/articles/nature12921)) suggère des paysages à la végétation clairsemée, dominée par de petites plantes à fleurs.
 - Le pont terrestre finit par disparaître il y a environ 11 000 ans suite à la déglaciation liée au réchauffement climatique rapide qui a lieu à cette époque (et qui nous a fait entrer dans l’Holocène).
 
