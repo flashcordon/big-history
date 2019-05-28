@@ -30,6 +30,14 @@
 - [When We Took Over the World](https://youtu.be/xmboVmtqNJc?list=PLukZ7R0PTZNx9OcXCYp1ZbeymoNG2FySg) - PBS Eons (Mai 2019)
 - Ancestral DNA, Human Origins, and Migrations - Rene Herrera et Ralph Garcia-Bertrand (2018)
 - Modern Humans: Their African Origin and Global Dispersal - John Hoffecker (2017)
+- [Climate and the peopling of the world](https://www.nature.com/articles/nature19471) - deMenocal et Stringer (2016)
+- [La dernière déglaciation : variations du niveau marin sur plusieurs milliers d'années (20 000 à 6 000 ans BP)](http://planet-terre.ens-lyon.fr/article/td-deglaciation.xml) - Gilles Delaygue (Décembre 2001)
+- [Blue Marble: Sea Level, Ice and Vegetation Changes - 19,000BC - 10,000AD](https://sos.noaa.gov/datasets/blue-marble-sea-level-ice-and-vegetation-changes-19000bc-10000ad/) - NOAA Science on a sphere 
+- [The Last Glacial Maximum (LGM) Lesson 1](https://slideplayer.com/slide/5741508/)
+- [Béringie](https://fr.wikipedia.org/wiki/B%C3%A9ringie) - Wikipédia
+- [Beringia](https://en.wikipedia.org/wiki/Beringia) - Wikipédia
+- [Le passé fleuri de la Béringie](http://www.beringia.com/fr/coin-educatif/actualities-et-recherches/le-passe-fleuri-de-la-beringie) - Beringia Interpretive Center (2014)
+- [Nonlinear climate sensitivity and its implications for future greenhouse warming](https://advances.sciencemag.org/content/2/11/e1501923.short) - Friedrich et al (2016)
 
 ---
 
@@ -52,6 +60,25 @@
 - Parmi les grands singes on est l'espèce avec le moins de diversité génétique
 - En moyenne y a 70 mutations génétiques entre 2 générations. 15 transmises par la mère et 55 par le père 
 - Les paléoanthropologues préfèrent parler de dispersions plutôt que de migrations humaines.
+
+- Des simulations informatiques récentes (dont les résultats sont comparés avec les études génétiques, archéologiques et des fossiles) suggèrent que la migration Out of Africa ne s’est pas faite d’un coup. Elle s’est probablement faite par vagues de dispersions rythmées par les variations du climat
+- Le climat affecte l’abondance des ressources (plantes et animaux). Cette abondance pose une borne supérieure au nombre d’humains qu’une région peut soutenir (capacité de charge). Un climat plus humide permet un plus grand développement des plantes et des animaux, ce qui donne lieu à une augmentation des populations humaines et donc à une pression à l’expansion. 
+- Les variations du climat peuvent être causées par des éruptions volcaniques, des événements de Heinrich, l’alternance entre saisons sèches et saisons humides créée par les variations de l’orbite terrestre, et les fluctuations du niveau de la mer
+- Aujourd’hui, les déserts du Sahara et d’Arabie forment une barrière à la dispersion de la faune hors d’Afrique. Mais ça n’a pas toujours été le cas !
+- Dans le passé, l’axe de rotation de la Terre permettait des conditions plus humides dans ces régions, ce qui a créé des couloirs de migrations riches en ressources et en végétation pendant plusieurs milliers d’années
+> Par exemple, entre 12 000 et 5000 ans, le Sahara était recouvert d’une prairie boisée, avec des lacs et des rivières. La région a été peuplée par des humains jusqu’à ce que les précipitations (monsoon rainfalls) diminuent suite à un changement dans l’orbite terrestre. La région a ensuite été dépeuplée rapidement, comme l’attestent les traces archéologiques. A la même époque, le Sahara est devenu le désert que l’on connaît à l’heure actuelle.
+- L’aridification du climat (liée à une période froide) dans ces régions entre 71 000 et 60 000 ans (MIS4) a stoppé les échanges de populations entre le nord-est de l’Afrique et les populations. Il faudra attendre des conditions plus humides (liées à une période plus tiède) entre 59 000 et 47 000 ans (MIS3) pour soutenir la vague de migration suivante, ce qui a notamment augmenté rapidement les populations d’Europe et d’Asie.
+
+### Le peuplement du continent Américain
+
+- Le peuplement des Amériques date de la dernière période glaciaire. Ce peuplement s’accompagne de celui de grands mammifères comme les bisons, les caribous et les mammouths.
+- La période entre 28 000 et 16 000 ans (MIS2) correspond au dernier maximum glaciaire (DMG ou LGM), la période la plus froide du dernier âge glaciaire 
+> Le DMG correspond au moment où l'extension des calottes glaciaires est maximale. 
+- Au moment du DMG, la température moyenne du globe était plus froide d’environ 6 (+-2) degrés ([Friedrich et al 2016](https://advances.sciencemag.org/content/2/11/e1501923.short)). 
+- A cette époque, le niveau de la mer était plus bas de 120 m par rapport à aujourd’hui. Une bonne partie de l’Europe du Nord et de l’Amérique du Nord était recouverte par les glaces. Le détroit de Béring (entre l’Alaska et la Sibérie Orientale), aujourd’hui un bras de mer, était alors traversable par un pont terrestre appelé Béringie. Un paysage de steppes ou de toundra recouvrait cette région. 
+- L’étude de pollens fossilisés retrouvés dans des sédiments de lacs ([Willerslev et al 2014](https://www.nature.com/articles/nature12921)) suggère des paysages à la végétation clairsemée, dominée par de petites plantes à fleurs.
+- Le pont terrestre finit par disparaître il y a environ 11 000 ans suite à la déglaciation liée au réchauffement climatique rapide qui a lieu à cette époque (et qui nous a fait entrer dans l’Holocène).
+
 
 ## Les Dénisoviens
 
