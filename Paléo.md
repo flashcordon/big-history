@@ -16,6 +16,7 @@
 # Différentes espèces d'humains ?
 
 - Il y a 40 000 ans, néandertal, flores, denisova et Sapiens qui coexistaient.
+> Nous n'avons pas toujours été seuls dans l'univers.
 - Nous sommes la seule espèce de notre lignée qui a survécu.
 - Il y a plus d'une vingtaine de définitions d'espèces, selon le domaine d'expertise connsidéré.
 - La plus répandue est celle d'espèce biologique, définie par Ernst Mayr en 1942.
