@@ -38,6 +38,7 @@
 - [Beringia](https://en.wikipedia.org/wiki/Beringia) - Wikipédia
 - [Le passé fleuri de la Béringie](http://www.beringia.com/fr/coin-educatif/actualities-et-recherches/le-passe-fleuri-de-la-beringie) - Beringia Interpretive Center (2014)
 - [Nonlinear climate sensitivity and its implications for future greenhouse warming](https://advances.sciencemag.org/content/2/11/e1501923.short) - Friedrich et al (2016)
+- [Rates and Fitness Consequences of New Mutations in Humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3276617/) - Keightley (2012)
 
 ---
 
