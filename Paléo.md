@@ -83,8 +83,20 @@
 - L’étude de pollens fossilisés retrouvés dans des sédiments de lacs ([Willerslev et al 2014](https://www.nature.com/articles/nature12921)) suggère des paysages à la végétation clairsemée, dominée par de petites plantes à fleurs.
 - Le pont terrestre finit par disparaître il y a environ 11 000 ans suite à la déglaciation liée au réchauffement climatique rapide qui a lieu à cette époque (et qui nous a fait entrer dans l’Holocène).
 
+## Le peuplement de l'Australie et de la Nouvelle Guinée
+
+- A l'époque où les humains colonisent l'Australie, le niveau de la mer était plus bas de 50-75 mètres.
+- L'Australie, la Tasmanie et la Nouvelle Guinée faisaient alors partie d'un même plateau continental émergé appelée Sahul.
+- Les aborigènes d'Australie et les papous sont probablement les descendants directs des premiers colons du Sahul.
+- La colonisation du Sahul requiert un voyage en mer de plus de 70 km ! Ce qui implique que les populations qui s'y sont établies pour la première fois il y a plus de 50 000 ans avaient déjà des canoés ou des radeaux.
 
 ## Les Dénisoviens
+
+*Sources*
+
+- Modern Humans: their african origin and global dispersal - John Hoffecker (2017)
+
+---
 
 - Découverts dans une grotte dans l'Altai (Sibérie, Russie) en 2010 (fragment de phalange de petit doigt de petite fille, dents, orteil)
 > De l'ADN mitochondrial a été extrait du fossile de phalange, et la paléogénétique a révélé que ça n'était pas des Néandertaliens
@@ -94,7 +106,7 @@
 - On ne connait pas leur date d'apparition exacte
 - Les dénisoviens ont disparu vers 74-82Kyrs. Ils ont été remplacés par des hommes modernes
 - y a eu des échanges de gènes entre dénisovviens, néandertaliens et Sapiens. Mais dans quelles conditions ces gènes ont été échangés, on ne sait pas. 
-- Les hommes modernes qui possèdent le plus d'ADN dénisovien à l'heure actuelle se trouvent en Australie et en Mélanésie.
+- Les humains modernes qui possèdent le plus d'ADN dénisovien à l'heure actuelle sont les populations natives d'Australie et de Papouasie Nouvelle Guinée. Ils partagent jusqu'à 5% (4.8) de leurs gènes avec les Dénisoviens.
 > Il y a donc probablement eu des Dénisoviens en Asie, et en particulier en Asie du Sud.
 
 ## Les néandertaliens
@@ -189,6 +201,7 @@ Sources
 - [Megafauna biomass tradeoff as a driver of Quaternary and future extinctions](https://www.pnas.org/content/105/Supplement_1/11543) - Barnosky (2008) 
 - [Quantitative global analysis of the role of climate and people in explaining late Quaternary megafaunal extinctions](https://www.pnas.org/content/109/12/4527) - Prescott et al (2012)
 - [That's Not Genocide; Human Hunting and Megafaunal Extinction](https://www.palaeoafterdark.com/episodes/2015/4/30/podcast-30-thats-not-genocide-human-hunting-and-megafaunal-extinction) - Palaelo after dark Podcast
+- Modern Humans: their african origin and global dispersal - John Hoffecker (2017)
 
 ---
 
