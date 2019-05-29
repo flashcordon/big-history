@@ -129,7 +129,7 @@
 - [The technofossil record of humans](https://journals.sagepub.com/doi/abs/10.1177/2053019613514953) - Zalasiewicz et al (2014)
 Scale and diversity of the physical technosphere: A geological perspective](https://journals.sagepub.com/doi/10.1177/2053019616677743?icid=int.sj-abstract.similar-articles.1) - Zalasiewicz et al (2016)
 - [Trinity (essai atomique)](https://fr.wikipedia.org/wiki/Trinity_(essai_atomique)) - Wikipédia
-- [https://fr.wikipedia.org/wiki/Essai_nucl%C3%A9aire) - Wikipédia
+- [Essai nucléaire](https://fr.wikipedia.org/wiki/Essai_nucl%C3%A9aire) - Wikipédia
 - [The mineral signature of the Anthropocene in its deep-time context](https://sp.lyellcollection.org/content/395/1/109) - Zalasiewicz et al (2013)
 - The Earth after us - Zalasiewicz (2008)
 - [The Anthropocene: a conspicuous stratigraphical signal of anthropogenic changes in production and consumption across the biosphere](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EF000339) - Williams et al (2016)
