@@ -122,23 +122,23 @@
 
 *Sources*
 
-[The past, the geological past, is the key to understanding the present and future of Earth](https://youtu.be/PmKBNviCWHE?list=PLRl3LQExZ1f3fUfPmogtZj8YrEYRl54kD) - Simon George (Septembre 2016)
-[L'Anthropocène, le regard et les réflexions d'un géologue](http://planet-terre.ens-lyon.fr/article/Anthropocene-geologie.xml) - Pierre Thomas (Septembre 2018)
-[Human bioturbation, and the subterranean landscape of the Anthropocene](https://www.sciencedirect.com/science/article/pii/S2213305414000356) - Zalasiewizcs et al (2014)
-[Anatomy of the Anthropocene](https://youtu.be/dLLRCaRIqRM?list=PLRl3LQExZ1f3fUfPmogtZj8YrEYRl54kD) - Jan Zalasiewicz (Septembre 2016)
-[The technofossil record of humans](https://journals.sagepub.com/doi/abs/10.1177/2053019613514953) - Zalasiewicz et al (2014)
+- [The past, the geological past, is the key to understanding the present and future of Earth](https://youtu.be/PmKBNviCWHE?list=PLRl3LQExZ1f3fUfPmogtZj8YrEYRl54kD) - Simon George (Septembre 2016)
+- [L'Anthropocène, le regard et les réflexions d'un géologue](http://planet-terre.ens-lyon.fr/article/Anthropocene-geologie.xml) - Pierre Thomas (Septembre 2018)
+- [Human bioturbation, and the subterranean landscape of the Anthropocene](https://www.sciencedirect.com/science/article/pii/S2213305414000356) - Zalasiewizcs et al (2014)
+- [Anatomy of the Anthropocene](https://youtu.be/dLLRCaRIqRM?list=PLRl3LQExZ1f3fUfPmogtZj8YrEYRl54kD) - Jan Zalasiewicz (Septembre 2016)
+- [The technofossil record of humans](https://journals.sagepub.com/doi/abs/10.1177/2053019613514953) - Zalasiewicz et al (2014)
 Scale and diversity of the physical technosphere: A geological perspective](https://journals.sagepub.com/doi/10.1177/2053019616677743?icid=int.sj-abstract.similar-articles.1) - Zalasiewicz et al (2016)
-[Trinity (essai atomique)](https://fr.wikipedia.org/wiki/Trinity_(essai_atomique)) - Wikipédia
-[https://fr.wikipedia.org/wiki/Essai_nucl%C3%A9aire) - Wikipédia
-[The mineral signature of the Anthropocene in its deep-time context](https://sp.lyellcollection.org/content/395/1/109) - Zalasiewicz et al (2013)
-The Earth after us - Zalasiewicz (2008)
-[The Anthropocene: a conspicuous stratigraphical signal of anthropogenic changes in production and consumption across the biosphere](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EF000339) - Williams et al (2016)
-[Stratigraphy of the Anthropocene](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2010.0315) - Zalasiewicz et al (2011)
-[Working Group on the ‘Anthropocene’](http://quaternary.stratigraphy.org/working-groups/anthropocene/) - Bourré de ressources updatées sur la notion d’anthropocène
-[Humans are the most significant global geomorphological driving force of the 21st century](http://nora.nerc.ac.uk/id/eprint/521157/) - Cooper et al (2018)
-[Concrete: The Most Abundant Novel Rock Type of the Anthropocene](https://www.sciencedirect.com/science/article/pii/B9780128096659097755?via%3Dihub) - Waters et Zalasiewicz (2018)
-[The geological cycle of plastics and their use as a stratigraphic indicator of the Anthropocene](https://www.sciencedirect.com/science/article/pii/S2213305416300029?via%3Dihub) - Zalasiewicz et al (2016)
-[Philosophie del’AnthropocèneInterprétations et épistémologie](https://nuxeo.u-bourgogne.fr/nuxeo/site/esupversions/d55313b7-1fe1-4331-8f5a-b5837caa177e) - Thèse de Alexander FEDERAU (2016)
+- [Trinity (essai atomique)](https://fr.wikipedia.org/wiki/Trinity_(essai_atomique)) - Wikipédia
+- [https://fr.wikipedia.org/wiki/Essai_nucl%C3%A9aire) - Wikipédia
+- [The mineral signature of the Anthropocene in its deep-time context](https://sp.lyellcollection.org/content/395/1/109) - Zalasiewicz et al (2013)
+- The Earth after us - Zalasiewicz (2008)
+- [The Anthropocene: a conspicuous stratigraphical signal of anthropogenic changes in production and consumption across the biosphere](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EF000339) - Williams et al (2016)
+- [Stratigraphy of the Anthropocene](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2010.0315) - Zalasiewicz et al (2011)
+- [Working Group on the ‘Anthropocene’](http://quaternary.stratigraphy.org/working-groups/anthropocene/) - Bourré de ressources updatées sur la notion d’anthropocène
+- [Humans are the most significant global geomorphological driving force of the 21st century](http://nora.nerc.ac.uk/id/eprint/521157/) - Cooper et al (2018)
+- [Concrete: The Most Abundant Novel Rock Type of the Anthropocene](https://www.sciencedirect.com/science/article/pii/B9780128096659097755?via%3Dihub) - Waters et Zalasiewicz (2018)
+- [The geological cycle of plastics and their use as a stratigraphic indicator of the Anthropocene](https://www.sciencedirect.com/science/article/pii/S2213305416300029?via%3Dihub) - Zalasiewicz et al (2016)
+- [Philosophie del’AnthropocèneInterprétations et épistémologie](https://nuxeo.u-bourgogne.fr/nuxeo/site/esupversions/d55313b7-1fe1-4331-8f5a-b5837caa177e) - Thèse de Alexander FEDERAU (2016)
 
 ---
 
