@@ -118,6 +118,84 @@
 ***Perturbations humaines***
 - La combustion des énergies fossiles génère énormément de dioxyde de soufre (SO2) dans l’atmosphère, à un taux beaucoup plus large que les flux naturels.
 
+## Les roches et les minéraux
+
+*Sources*
+
+[The past, the geological past, is the key to understanding the present and future of Earth](https://youtu.be/PmKBNviCWHE?list=PLRl3LQExZ1f3fUfPmogtZj8YrEYRl54kD) - Simon George (Septembre 2016)
+[L'Anthropocène, le regard et les réflexions d'un géologue](http://planet-terre.ens-lyon.fr/article/Anthropocene-geologie.xml) - Pierre Thomas (Septembre 2018)
+[Human bioturbation, and the subterranean landscape of the Anthropocene](https://www.sciencedirect.com/science/article/pii/S2213305414000356) - Zalasiewizcs et al (2014)
+[Anatomy of the Anthropocene](https://youtu.be/dLLRCaRIqRM?list=PLRl3LQExZ1f3fUfPmogtZj8YrEYRl54kD) - Jan Zalasiewicz (Septembre 2016)
+[The technofossil record of humans](https://journals.sagepub.com/doi/abs/10.1177/2053019613514953) - Zalasiewicz et al (2014)
+Scale and diversity of the physical technosphere: A geological perspective](https://journals.sagepub.com/doi/10.1177/2053019616677743?icid=int.sj-abstract.similar-articles.1) - Zalasiewicz et al (2016)
+[Trinity (essai atomique)](https://fr.wikipedia.org/wiki/Trinity_(essai_atomique)) - Wikipédia
+[https://fr.wikipedia.org/wiki/Essai_nucl%C3%A9aire) - Wikipédia
+[The mineral signature of the Anthropocene in its deep-time context](https://sp.lyellcollection.org/content/395/1/109) - Zalasiewicz et al (2013)
+The Earth after us - Zalasiewicz (2008)
+[The Anthropocene: a conspicuous stratigraphical signal of anthropogenic changes in production and consumption across the biosphere](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EF000339) - Williams et al (2016)
+[Stratigraphy of the Anthropocene](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2010.0315) - Zalasiewicz et al (2011)
+[Working Group on the ‘Anthropocene’](http://quaternary.stratigraphy.org/working-groups/anthropocene/) - Bourré de ressources updatées sur la notion d’anthropocène
+[Humans are the most significant global geomorphological driving force of the 21st century](http://nora.nerc.ac.uk/id/eprint/521157/) - Cooper et al (2018)
+[Concrete: The Most Abundant Novel Rock Type of the Anthropocene](https://www.sciencedirect.com/science/article/pii/B9780128096659097755?via%3Dihub) - Waters et Zalasiewicz (2018)
+[The geological cycle of plastics and their use as a stratigraphic indicator of the Anthropocene](https://www.sciencedirect.com/science/article/pii/S2213305416300029?via%3Dihub) - Zalasiewicz et al (2016)
+[Philosophie del’AnthropocèneInterprétations et épistémologie](https://nuxeo.u-bourgogne.fr/nuxeo/site/esupversions/d55313b7-1fe1-4331-8f5a-b5837caa177e) - Thèse de Alexander FEDERAU (2016)
+
+---
+
+- Au cours de notre histoire nous avons produit des matériaux jamais observés sur Terre pendant les 4.5 derniers milliards d’années : 
+> l’acier, l’aluminium, le titanium, le béton, le ciment mais aussi des alliages comme le bronze
+- La nature aime combiner les minéraux entre eux, donc la purification des minéraux exercée par l’humain est une nouveauté dans l’histoire géologique de la Terre
+> Le magnésium, le calcium, le sodium, le potassium n’existent pas sous leur forme élémentaire dans la nature.
+- Nous avons aussi produit des minéraux synthétiques
+> Les grenats utilisés dans nos pierres précieuses et dans nos lasers, le graphène ou le carbure de tungsten, utilisé pour réaliser les billes de nos stylos à billes...
+- Personne n’a encore compté combien de nouveaux minéraux ont été produit par l’Humanité!
+- Le béton est aujourd’hui la roche sédimentaire anthropogénique la plus abondante sur Terre (Waters et Zalasiewicz 2018). 
+> Depuis le début de l’histoire de l’Humanité, on estime en avoir produit de l’ordre de 500 milliards de tonnes globalement, dont plus de 90% a été produit dans la 2e moitié du XXe siècle
+
+## Les futures traces de l’Humanité dans les roches
+
+***Quelles traces notre civilisation va laisser sur Terre dans plusieurs dizaines de millions d’années ?***
+
+- Quoi qu’on fasse en tant que civilisation, la dérive des continents et le recyclage des roches terrestres va continuer. 
+- Les roches ignées (issues de la cristallisation du magma) et métamorphiques (celles issues d’une augmentation de la température et de la pression) ne préserveront pas le signal humain. Par contre les sédiments (majoritairement marins) et les roches sédimentaires comme l’argile oui !
+- Nos villes sont situés à la surface des continents, qui sont des zones d’érosion. 
+> Selon Pierre Thomas, dans 66 millions d’années, la surface des continents aura perdu des dizaines voire des centaines de mètres par rapport à la surface actuelle à cause de l’érosion. Les traces de nos villes partiront avec.
+- Une manière de préserver nos villes de l’érosion est de réchauffer la planète suffisamment pour faire fondre les calottes polaires et faire monter le niveau des mers de 70 m en quelques dizaines de milliers d’années.
+> Dans ce cas, nos villes côtières seraient inondées, recouvertes par des sédiments marins et donc préservées de l’érosion.
+- “Toute notre technologie, notre culture et notre art seront réduits à une fine trainée de sédiments. Nos plus grands édifices seraient réduits à quelques millimètres dans un échantillon de carottage.” - Ed Grabianowski (io9)
+- Les sédiments côtiers dans plusieurs dizaines de millions d’années contiendront certainement de minuscules galets de verre, de brique et de ciment, comme on en trouve déjà sur certaines plages.
+- Certains composés chimiques créés par l’humanité ont une très grande durée de vie, et on pourra les retrouver dans les sédiments :
+> les hydrocarbures de nos marées noires, le plomb du pétrole, les PCB, les PAH
+- La strate humaine aura une teneur en métaux lourds anormalement élevée, à la manière de la couche d’iridium qui illustre la crise Crétacé-Paléogène. 
+> Elle aura notamment une teneur élevée en plomb, liée à la révolution industrielle et à l’addition de plomb dans les carburants de voitures.
+- La 6e extinction de masse laissera aussi une empreinte dans les roches sédimentaires
+> La strate humaine pourra être corrélée à la raréfaction et à la disparition de nombreuses espèces à la même époque, qui se verra dans la diversité des fossiles.
+
+### Le futur de nos plastiques
+
+- Les plastiques peuvent se dégrader chimiquement (via l’altération des liens moléculaires par des réactions liées à la chaleur ou aux UV du Soleil), physiquement (sous l’action de solvants ou de fissuration due à l’environnement) ou biologiquement (sous l’action de bactéries ou de champignons)
+> Ils se fragilisent avec le temps puis se fragmentent.
+- Les plastiques, même dégradés complètement, peuvent laisser l’empreinte fossilisée de leur forme dans les strates, à la manière des coquilles.
+- Les plastiques qui dureront le plus longtemps seront ceux enterrés sous le plancher océanique, à l’abris des UV solaires.
+- Il n’y a aucune étude qui infère leur durée de vie maximale, mais des extrapolations d’expériences en laboratoire leur donne une durée de vie de plusieurs siècles voire plusieurs millénaires. 
+
+### Le futur du fer et du béton
+
+- Le fer s’oxyde très vite, donc on ne retrouvera aucune trace de nos déchets métalliques dans les roches.
+- Le béton peut perdurer pendant des milliers d’années, mais il finit par se recrystalliser pour former des minéraux naturels et par se désagréger au fil des millions d’années. 
+> Par contre si nos immeubles se trouvent dans des couches sédimentaires, l’empreinte de la forme de ces bâtiments peut se retrouver dans la strate humaine.
+
+### Le futur de nos radionucléides
+
+- Nos explosions nucléaires laissent un signal isotopique fort dans les roches.
+> * Le 1er essai nucléaire : Trinity, le 16 juillet 1945 dans le cadre du projet Manhattan. Le test fut réalisé sur le champ de tir d'Alamogordo à une cinquantaine de kilomètres de la ville de Socorro au Nouveau-Mexique et démontra la viabilité du type d'arme qui fut utilisé pour le bombardement de Nagasaki le 9 août 1945. 
+> * Depuis Trinity, plus de 2 000 explosions nucléaires officielles dans le monde ont eu lieu.
+- Tous les sédiments sur Terre présentent depuis les années 50 des radionucléides dont la trace devrait perdurer pendant les prochaines centaines de milliers d’années (vérifier). Mais même nos plus gros déchets nucléaires auront perdu leur radioactivité d’ici 10 millions d’années.
+
+### Les traces les plus durable de l’Humanité
+
+Les dernières traces de notre civilisation ne seront donc pas sur Terre mais dans l’espace ! 
+> Les sondes Voyager, Pioneer, et New Horizons 
 
 
 
