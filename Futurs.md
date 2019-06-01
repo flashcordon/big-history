@@ -193,8 +193,8 @@ Déforestation :
 - [The biomass distribution on Earth](https://www.pnas.org/content/115/25/6506) - M Baron et al (2018)
 - [Humans just 0.01% of all life but have destroyed 83% of wild mammals – study](https://www.theguardian.com/environment/2018/may/21/human-race-just-001-of-all-life-but-has-destroyed-over-80-of-wild-mammals-study) - The Guargian (Mai 2018)
 - [Sommes-nous entrés dans une sixième crise d'extinction massive ? Synthèse scientifique](https://controversciences.org/timelines/est-il-trop-tard-pour-eviter-la-sixieme-crise-d-extinction-massive) - Controverscience
-- [1 MILLION Species Could Go Extinct… Here’s Why.](https://youtu.be/5CZJJyOwiow
-https://ourworldindata.org/yields-and-land-use-in-agriculture) - It’s Okay to be smart (Mai 2019)
+- [1 MILLION Species Could Go Extinct… Here’s Why.](https://youtu.be/5CZJJyOwiow) - It’s Okay to be smart (Mai 2019)
+- [Yields and land use in agriculture](https://ourworldindata.org/yields-and-land-use-in-agriculture) - Our World in Data
 - [Résumé du rapport de l’IPBES 2019 pour les décideurs]( https://www.dropbox.com/sh/yd8l2v0u4jqptp3/AAACtf6ctsoUQ9hlPQxLpVsKa?dl=0) IPBES (Mai 2019)
 - [The Earth's Sixth Mass Extinction May Be Underway](https://skepticalscience.com/print.php?n=619) - Skeptical Science (Mars 2011)
 - [Vertebrate biodiversity losses point to a sixth mass extinction](https://link.springer.com/article/10.1007/s10531-015-0940-6) - McCallum (Mai 2015)
