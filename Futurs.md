@@ -193,6 +193,25 @@ Déforestation :
 - [The biomass distribution on Earth](https://www.pnas.org/content/115/25/6506) - M Baron et al (2018)
 - [Humans just 0.01% of all life but have destroyed 83% of wild mammals – study](https://www.theguardian.com/environment/2018/may/21/human-race-just-001-of-all-life-but-has-destroyed-over-80-of-wild-mammals-study) - The Guargian (Mai 2018)
 - [Sommes-nous entrés dans une sixième crise d'extinction massive ? Synthèse scientifique](https://controversciences.org/timelines/est-il-trop-tard-pour-eviter-la-sixieme-crise-d-extinction-massive) - Controverscience
+- [1 MILLION Species Could Go Extinct… Here’s Why.](https://youtu.be/5CZJJyOwiow
+https://ourworldindata.org/yields-and-land-use-in-agriculture) - It’s Okay to be smart (Mai 2019)
+- [Résumé du rapport de l’IPBES 2019 pour les décideurs]( https://www.dropbox.com/sh/yd8l2v0u4jqptp3/AAACtf6ctsoUQ9hlPQxLpVsKa?dl=0) IPBES (Mai 2019)
+- [The Earth's Sixth Mass Extinction May Be Underway](https://skepticalscience.com/print.php?n=619) - Skeptical Science (Mars 2011)
+- [Vertebrate biodiversity losses point to a sixth mass extinction](https://link.springer.com/article/10.1007/s10531-015-0940-6) - McCallum (Mai 2015)
+- [Summary Statistics](https://www.iucnredlist.org/resources/summary-statistics) - IUCN Red List 
+- [Red List Index](https://www.iucnredlist.org/assessment/red-list-index) - IUCN Red List
+- [Liste rouge de l’IUCN](https://fr.wikipedia.org/wiki/Liste_rouge_de_l%27UICN) - Wikipédia
+- [Worldwide decline of the entomofauna: A review of its drivers](https://www.sciencedirect.com/science/article/abs/pii/S0006320718313636?via%3Dihub) - Sanchez-Bayo et al (2019) 
+- [Résumé de l’articleBiological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines](http://www.fondationbiodiversite.fr/images/documents/Comprendre_la_biodiv/Resume-de-larticle-Vertebres-continentaux_la-sixieme-extinction-est-en-marche.pdf) - Philippe Gros, FRB (2017)
+- [Improvements to the Red List Index](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000140) - Butchart et al (2007) : Définition la plus récente du Red List Index
+- [Transcription des éléments essentiels de l’articleFuture threats to biodiversity and pathways to their preventionPrédiction des menaces futures sur la biodiversité et pistes pour les réduire](http://www.fondationbiodiversite.fr/images/documents/Comprendre_la_biodiv/Transcription%20des%20e%CC%81le%CC%81ments%20essentiels%20de%20l%E2%80%99article[1].pdf) - Jean-François Silvain (2017)
+- [Future threats to biodiversity and pathways to their prevention](https://www.nature.com/articles/nature22900) - Tilman et al (2017)
+- [Biodiversité MaP#32](https://www.youtube.com/watch?v=QYixeo0Nb6U) - Le Réveilleur (Janvier 2018)
+- [Le monde protège désormais 15% de ses terres, mais des zones cruciales pour la biodiversité restent oubliées](https://www.iucn.org/fr/news/secretariat/201609/le-monde-prot%C3%A8ge-d%C3%A9sormais-15-de-ses-terres-mais-des-zones-cruciales-pour-la-biodiversit%C3%A9-restent-oubli%C3%A9es) - IUCN (Septembre 2016)
+- [Rapport Planète Vivante 2018](https://www.wwf.fr/sites/default/files/doc-2018-10/20181030_Rapport_Planete_Vivante_2018_synthese.pdf) - WWF (2018)
+- [Indice Planète Vivante](https://fr.wikipedia.org/wiki/Indice_plan%C3%A8te_vivante) - Wikipédia
+- [Wait, Have We Really Wiped Out 60 Percent of Animals?](https://www.theatlantic.com/science/archive/2018/10/have-we-really-killed-60-percent-animals-1970/574549/) - Ed Yong (Octobre 2018)
+- [Impending extinction crisis of the world’s primates: Why primates matter](https://advances.sciencemag.org/content/3/1/e1600946) - Estrada et al (2017)
 
 ---
 
