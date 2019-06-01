@@ -311,6 +311,10 @@
 - Mais si l'ARN n'était pas la première molécule à pouvoir s'autorépliquer, quelle est elle?
 - La question devient alors : comment un monde ARN sans protéine a pu se développer sur la Terre primitive ?
 
+## LUCA
+
+- [Origine de LUCA (ancêtre commun universel à tous les êtres vivants) : l'évolution est-elle apparue avec les gènes ou avec le métabolisme ?](https://controversciences.org/timelines/emergence-de-luca-last-universal-common-ancestor-les-premieres-entites-replicatives-etaient-elles-des-acides-nucleiques-des-systemes-metaboliques-ou-des-vesicules-lipidiques) - Controverscience (2016)
+
 ## La photosynthèse oxygénique
 
 - Inventé par les cyanobactéries entre 3.4 et 2.5 Gyrs
