@@ -196,75 +196,147 @@ Déforestation :
 
 ---
 
-- le taux normal d’extinction est une espèce par million d’espèces par an (à vérifier). où on en est aujourd’hui : 10 à 100 fois ce taux d’extinction
-- Recent studies suggest probable extinction rates at present are up to 100-1,000 extinctions per 10,000 species per 100 years
-- If the current rate of extinction is not slowed for species and their constituent populations, then within as little as three centuries the world would see the loss of 75% of vertebrate species (mammals, birds, reptiles, amphibians, and fish), as well as loss of many species of other kinds of animals and plants (Barnosky et al., 2011). 
-- Earth has not seen that magnitude of extinction since an asteroid hit the  planet  65  million  years  ago
-- Currently,  sound  scientific  criteria  document  that  at  least  23,000  species  are  threatened  with  
-extinction, including 22% of mammal species, 14% of birds, 29% of evaluated reptiles, as many as 
-43%  of  amphibians,  29%  of  evaluated  fish,  26%  of  evaluated  invertebrate  animals,  and  23%  of  
-plants (Collen et
-al., 2012; GBO3, 2010; International Union for Conservation of Nature (IUCN), 
-2010). 
-- Populations – groups of interacting individuals that are the building blocks of species – are 
-dying off at an even faster rate than species. 
-- the extinction of mammal populations, although varying from species to species, has been a global phenomenon
-- the true extent of this mass extinction has been underestimated, because of the emphasis on species extinction. This underestimate largely traces to overlooking the accelerating extinction of populations. 
-- research shows that the loss of animal populations indirectly leads to changes in plant communities (20, 37, 39), frequently causing the reduction of local species richness and dominance of a few plant taxa that either experience “ecological release” in response to decreasing herbivore pressures (42, 43), and/or experience population reductions due to the decline of animals responsible for pollination or dispersal
--  The status of biodiversity among microorganisms is too poorly known to permit us to make any comparison and generalizations about the current pulse of extinctions, although some recent research has unraveled feedbacks between local large herbivore defaunation and mycorrhizal richness 
-- In sum, by losing populations (and species) of vertebrates, we are losing intricate ecological networks involving animals, plants, and microorganisms
-- We are also losing pools of genetic information that may prove vital to species’ evolutionary adjustment and survival in a rapidly changing global environment.
-- les espèces disparissent, mais aussi les populatioins diminuent
-- Population extinctions today are orders of magnitude more frequent than species extinctions. Population extinctions, however, are a prelude to species extinctions, so Earth’s sixth mass extinction episode has proceeded further than most assume.
-- a glance at our maps presents a much more realistic picture: they suggest that as much as 50% of the number of animal individuals that once shared Earth with us are already gone, as are billions of populations. 
-- Roughly a third (8,851/27,600) of all land vertebrate species examined are experiencing declines and local population losses of a considerable magnitude
-- Such proportion of decreasing species varies, depending on the taxonomic group, from 30% or more in the case of mammals, birds, and reptiles, to 15% in the case of amphibians.
--  The most recent Living Planet Index (LPI) has estimated that wildlife abundance on the planet decreased by as much as 58% between 1970 and 2012
-- In the last few decades, habitat loss, overexploitation, invasive organisms, pollution, toxification, and more recently climate disruption, as well as the interactions among these factors, have led to the catastrophic declines in both the numbers and sizes of populations of both common and rare vertebrate species
-- from the perspective of a human lifetime it is difficult to appreciate the current magnitude of species extinctions. 
-- Le taux d'extinction d'espèce est aujourd'hui 100 fois supérieur au taux "normal" sur des temps géologiques
-- Nous changeons notre environnement si rapidement que beaucoup d'espèces n'arrivent pas à s'adapter à ce changement brutal
-- Les sociétés humaines dépendent des services écosystémiques que la biodiversité prodigue, comme la pollinisation, le contrôle des nuisibles, etc
-- Au délà de l'aspect utilitaire pour les humains, est-il éthique de génocider des espèces, 'les seules espèces avec qui on partage l'univers' (Ceballos et Erlich) ?
-- causes of population extinctions: habitat conversion, climate disruption, overexploitation, toxification, species invasions, disease, and (potentially) large-scale nuclear war—all tied to one another in complex patterns and usually reinforcing each other’s impacts. Much less frequently mentioned are, however, the ultimate drivers of those immediate causes of biotic destruction, namely, human overpopulation and continued population growth, and overconsumption, especially by the rich. 
-- détruire une bonne fraction de la vie connue dans l'univers, dans une sorte de suicide collectif
-- we emphasize that the sixth mass extinction is already here and the window for effective action is very short, probably two or three decades at most (11, 48). All signs point to ever more powerful assaults on biodiversity in the next two decades
--  reducing biodiversity generally reduces the productivity of ecosystems, reduces their stability, and makes them prone to rapidly changing in ways that are clearly detrimental to humanity
-- la perte de la biodiversité réduit la diversité génétique, réduit le nombre d’espèces qui ont la même fonction et augmente la vulnérabilité du système, ce qui diminue la résilience des écosystèmes
-- From 1970 to 2012 the LPI shows a 58 per cent overall decline in vertebrate population abundance.
-- Population sizes of vertebrate species have, on average, dropped by more than half in little more than 40 years.
--  If current trends continue, by 2020 vertebrate populations may have declined by an average of 67 per cent since 1970.
+- Le rapport d’évaluation mondiale sur la biodiversité et les services écosystémiques publié en 2019 par la Plateforme intergouvernementale sur la biodiversité et les services écosystémiques (IPBES) est le document le plus exhaustif réalisé à ce jour sur le sujet (revue de 15000 références scientifiques et sources gouvernementales).
+- Sur les 8 millions d’espèces animales et végétales estimées sur Terre (y compris 5.5 millions d’espèces d’insectes), 1 million d’espèces animales et végétales sont aujourd’hui menacées d’extinction
+> * 25% (21-36%) des mammifères 
+> * 14% des oiseaux
+> * 40% (32-53%) des amphibiens
+> * 33% (27-44%) des récifs coralliens (les récifs coralliens ont diminué leur couverture de 50% depuis 1870)
+- Selon le WWF (Rapport Planète Vivante 2018), entre 1970 et 2014, l’effectif des populations de vertébrés sauvages a diminué de 60% EN MOYENNE. Le déclin le plus spectaculaire a lieu en Amérique du Sud et Centrale.
+> Attention, ça ne veut pas dire que 60% des vertébrés ont disparus ! “To understand the distinction, imagine you have three populations: 5,000 lions, 500 tigers, and 50 bears. Four decades later, you have just 4,500 lions, 100 tigers, and five bears (oh my). Those three populations have declined by 10 percent, 80 percent, and 90 percent, respectively—which means an average decline of 60 percent. But the total number of actual animals has gone down from 5,550 to 4,605, which is a decline of just 17 percent.” (Ed Yong)
+- Le taux actuel d’extinction des espèces dans le monde est des dizaines à des centaines de fois plus élevé que le taux moyen des 10 derniers millions d’années, et ce taux s’accélère au fil du temps. 
+> Le taux normal d’extinction est une espèce par million d’espèces par an (source ?)
+- Le taux d’extinction est voué à s’accélérer si des actions de conservation à grande échelle ne sont pas mises en oeuvre rapidement.
+- Les populations (définies comme des groupes d’individus qui interagissent entre eux adns une zone géographique donnée et qui forment les briques de base des espèces) déclinent à une vitesse plus grande encore que les espèces.
+> Le déclin des populations (qui implique une réduction de la distribution géographique d’une espèce) est la première étape qui mène à l’extinction.
+- La diminution de la biodiversité réduit la diversité génétique, réduit le nombre d’espèces qui ont la même fonction et augmente la vulnérabilité du système, ce qui diminue la résilience des écosystèmes
 
-***Causes de l'extinction***
-* la destruction et la dégradation des habitats
-* la surexploitation des espèces
-* la pollution
-* les espèces invasives et les maladies
-* le changement climatique
-- Habitat destruction from ecosystem transformation. Such practices as unsustainable forestry and  conversion  of  land  to  agriculture,  suburban  sprawl,  and  roads,  all  cause  both  habitat destruction and habitat fragmentation. In particular, logging and clearing of tropical rainforests for ranching or farming permanently destroys the habitats for vast numbers of species. 
-Such  areas  are  among  the  most  important  reservoirs  of  terrestrial  biodiversity.  In the oceans, habitat destruction and fragmentation results from pollution, trawling, shipping traffic, and shipping noise (sonar, etc.).
-- Environmental Contamination. Environmental contamination from human-made chemicals contributes  to  extinction  pressures  by  destroying  habitats  (for  instance,  mine  dumps,  oil  spills and agricultural runoff), by direct toxic effects of pollutants, and through subtle effects on animals’ immune and reproductive systems
-- Climate change. Extinctions result when species cannot move fast enough to find climatic refuges as the climate becomes unsuitable where they now live; when climate changes such that it exceeds their physiological, developmental, or evolutionary tolerances; or when critical  species  interactions  (the  way  one  species  depends  on  the  next)  are  disrupted. In the oceans, acidification, a by-product of climate change that disrupts growth and development of marine organisms, is of particular concern, because it prevents marine shelly animals such as clams and oysters from building their shell, and causes collapse of the physical reef infrastructure on which most marine species ultimately depend
+## Les 5 facteurs à l’origine du déclin de la biodiversité (par ordre décroissant d’impact)
+
+* ***Les changements d’usage des terres et de la mer***
+> * L’augmentation de la population humaine et le développement économique imposent une augmentation de la demande pour des terres agricoles et des protéines animales. Nous changeons notre environnement si rapidement que beaucoup d'espèces n'arrivent pas à s'adapter à ce changement brutal.
+> * La conversion des terres sauvages en terres agricoles et l’urbanisation (étalement urbain, construction de routes) font que les populations et les espèces sont confinées dans des espaces de plus en plus réduits, fragmentés et isolés, ce qui réduit leur abondance. Dans les océans, la destruction des habitats est causée par la pollution, le chalutage, le trafic maritime et le bruit des bateaux.
+> * La fragmentation des habitats est aussi responsable du déclin des espèces migratoires dans le monde, les chemins de migrations étant coupés. 
+> * 37% des terres émergées non couvertes par les glaces sont utilisées dans le monde pour la production agricole (12%) et pour le pâturage (25%) (Source : FAO).
+> * Plus de 55% de la zone océanique est exploitée par la pêche industrielle
+> * Les forêts ont perdu le tiers (32%) de leur superficie depuis l’époque préindustrielle. Leur réduction est particulièrement rapide dans les régions tropicales
+* ***L’exploitation directe de certains organismes***
+> * La chasse met en péril 40 à 50% des espèces de mammifères et d’oiseaux menacés.
+> * 33% des stocks de poissons marins en 2015 étaient exploités à un niveau biologiquement non durable, et 60% étaient exploités au maximum.
+* ***Le changement climatique***
+> * La température de la planète est 1°C plus chaude par rapport aux niveaux préindustriels
+> * Le changement climatique réduit les aires de répartition des espèces terrestres, même dans les scénarios les plus optimistes de réchauffement à 1.5 degrés.
+> * Beaucoup d’espèces ne peuvent pas trouver refuge face à un climat qui change trop vite, et sont donc condamnées à s’éteindre. 
+> * L’acidification des océans liée au réchauffement climatique conduit en particulier à la destruction des récifs coralliens et des écosystèmes associés en rendant plus difficile la fabrication des coquilles du zooplancton et autres organismes à la base de la chaîne alimentaire
+* ***La pollution***
+> La pollution due à nos rejets de produits chimiques contribue à détruire les habitats (ruissellements agricoles, déchets miniers, marées noires…) et peuvent affecter par leur toxicité le système immunitaire et reproductif de nombreuses espèces animales.
+* ***Les espèces exotiques envahissantes***
+> Le nombre d’espèces exotiques envahissantes par pays a augmenté de 70% depuis 1970, dans les 21 pays qui présentent des données détaillées.
 - L'Humanité ne représente que 0.01% de la biomasse terrestre, mais notre impact sur la biomasse est énorme !
 > * En 100 000 ans, la biomasse des mammifères sauvages (terrestres+marins) a été divisée par 6, et la biomasse des plantes a été divisée par 2.
 > * Le bétail représente aujourd'hui 60% de la biomasse de tous les mammifères de la planète (et les humains 36%). Seuls 4% sont des mammifères sauvages !
 > * La volaille représente 70% de la biomasse des oiseaux. Seuls 30% sont des oiseaux sauvages !
 
-***Comment mesure t-on la biodiversité ?***
-> Biodiversity encompasses the genetic variation within species, the variety and population abundance of species in an ecosystem,  and the habitats across a landscape. Contemporary examples of indices now in use include the Living Planet Index (LPI), the IUCN Red 
-List of Threatened Species, and indicators that show us the state of specific habitats – such as forests – or the state of natural capital (Tittensor et al., 2014)
->  The LPI monitors trends in population abundance through the changing sizes of wildlife populations. The Red List Index (RLI) differs by monitoring how the global extinction risk of a species is changing.
+*Résultats du rapport de l’IPBES 2019 (résumé à l’attention des décideurs)*
+![IPBES2019-1](https://i.imgur.com/UOVaCbQ.png)
+![IPBES2019-2](https://i.imgur.com/KK1fhqL.png)
 
-***Pourquoi a t-on besoin de la biodiversité ?***
-- Pour les services écosystémiques qui sont critiques au maintien de notre civilisation (médecine, controle des pests)
-> * moderating weather; regulating the water cycle, stabilizing water supplies; filtering drinking water; protecting agricultural soils and replenishing their nutrients; disposing  of  wastes;  pollinating  crops  and  wild  plants;  providing  food  from  wild  species (especially seafood); stabilizing fisheries; providing medicines and pharmaceuticals; controlling spread of pathogens; and helping to reduce greenhouse gases in the atmosphere .
-- la biodiversité est un prérequis pour la santé et la résilience des écosystèmes.
-- pour la valeur esthétique que ça représente
->   Continuing  extinction  at  the  present  pace  would  considerably  degrade quality of life for hundreds of millions of people who find emotional and aesthetic value in the presence of iconic species in natural habitats
+*Résultat du rapport Planète vivante 2018*
+
+![IPV2018](https://i.imgur.com/o29kdxE.png)
+
+*Répartition de la biomasse sur Terre*
 
 ![biomass](https://i.imgur.com/Czr7iCy.png)
 
+## Le déclin des insectes
+
+- Les insectes représentent 2/3 des espèces (animales et végétales) recensées.
+- Selon la méta analyse réalisée par [Sanchez Bayo et al (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0006320718313636?via%3Dihub) basée sur 73 études scientifiques, 41% des espèces d’insectes sont en déclin, et disparaissent 8 fois plus vite que les vertébrés.
+- Près d’un tiers des espèces d’insectes sont menacées d’extinction (33% des insectes aquatiques, 38% des insectes terrestres).
+- Les insectes sont nécessaires pour la bonne santé des écosystèmes et pour la qualité des services écosystémiques que ces derniers nous rendent.
+> Ils sont indispensables à la pollinisation des plantes, au contrôle naturel des nuisibles, au recyclage des nutriments et aux services de décomposition
+- Ils sont aussi à la base de chaînes alimentaires complexes.  De nombreuses espèces d’amphibiens, de lézards, d’oiseaux et de poissons se nourrissent d’insectes.  
+> La disparition des insectes peut donc entraîner des extinctions de vertébrés en cascades ! 
+- De nombreuses communautés d’insectes tendent à évoluer vers des assemblages pauvres en espèces et dominées par une poignée d’espèces généralistes sous l’effet des pressions humaines. Ces communautés deviennent donc plus uniformes et moins diversifiées génétiquement parlant (et donc moins résilientes !).
+> Ces espèces occupent les niches écologiques laissées vides suite à la disparition d’innombrables espèces.
+
+### Les 4 causes principales du déclin des insectes (par ordre décroissant d’impact) :
+
+* ***Les changements d’habitat liés à l’agriculture intensive et à l’urbanisation***
+> Les monocultures mènent à une grande simplification de la biodiversité des insectes, en particulier des pollinisateurs, des recycleurs de nutriments
+* ***La pollution liée aux engrais et aux pesticides***
+> Les insecticides, les herbicides et les fongicides réduisent la biodiversité dans les champs mais aussi dans les zones qui les entourent.
+* ***Les facteurs biologiques***
+> Les parasites et les pathogènes sont impliqués dans le déclin des colonies d’abeilles dans de nombreux pays. Les populations d’abeilles dont le système immunitaire est fragilisé par les pesticides deviennent de surcroît plus vulnérables aux pathogènes.
+* ***Le changement climatique***
+> Il impacte en particulier les espèces d’insectes adaptés à des climats froids et présents dans les hautes latitudes ou dans les montagnes.
+
+## A quoi sert la biodiversité ? 
+
+- Les sociétés humaines dépendent des nombreux services écosystémiques (gratuits !) que la biodiversité prodigue
+- Ces services incluent la modération de la météo, la régulation du cycle de l’eau, la stabilisation des ressources en eau, la filtration de l’eau douce, la protection des sols agricoles, la pollinisation des plantes, la production de médicaments, le contrôle des nuisibles, et la réduction des émissions de gaz à effets de serre.
+> Plus de  75% des types de cultures vivrières mondiales dépendent de la pollinisation par les animaux
+- Les écosystèmes forment des pools d’information génétiques qui sont nécessaires à leur  résilience (et à notre résilience !) dans un monde qui change de plus en plus vite
+- Ils présentent aussi une valeur esthétique non négligeable pour des centaines de millions d’êtres humains : dégrader les écosystèmes, c’est dégrader notre qualité de vie.
+- Au delà de l'aspect utilitaire pour les humains, est-il éthique de génocider des espèces, 'les seules espèces avec qui on partage l'univers' (Ceballos et Erlich) ? Détruire une bonne fraction de la vie connue dans l'univers ne serait-il pas une forme de suicide collectif ?
+
+*Illustration des services écosystémiques*
+
 ![services](https://cpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/8/6679/files/2016/11/Screen-Shot-2016-11-08-at-2.47.13-pm-1768qsq.png)
+
+## Comment est évaluée l’érosion de la biodiversité ?
+
+- La biodiversité encapsule plusieurs concepts : la variabilité génétique à l’intérieur des espèces, l’abondance et la variété des populations dans un écosystème ainsi que la diversité des habitats dans un paysage.
+- La biodiversité globale est principalement surveillée par 2 indicateurs : L’indice Planète Vivante (IPV) ou Living Planet Index (LPI) de la fondation WWF, qui mesure la taille des populations sauvages, et le Red List Index (RLI) basé sur la liste rouge de l’IUCN qui mesure le risque d’extinction globale de plusieurs groupes taxonomiques.
+
+***Le Red List Index***
+- La  Liste  rouge  de  l’UICN (l'Union internationale pour la conservation de la nature)  constitue  l’inventaire  mondial  le  plus  complet  de  l’état  de  conservation  global  des  espèces  végétales  et  animales
+- La liste rouge se base sur le Red List Index (RLI), un indice qui évalue le taux d’érosion de la biodiversité pour 5 groupes taxonomiques (oiseaux, mammifères, amphibiens, cycadophytes et coraux) et pour la biodiversité en général
+- Le RLI quantifie la proportion des espèces qui subsisteront dans un avenir proche (ie dans les prochains 10 à 50 ans) en l’absence d’actions de conservation. Il prend en compte la taille des populations, le taux de déclin, et la surface de distribution des espèces. - Chaque espèce est alors assignée à une catégorie indiquant son risque relatif d’extinction.
+> * Les espèces référencées dans la liste rouge peuvent être catégorisées comme non-menacées (préoccupation mineure, quasi-menacée), menacées (vulnérable: déclin > 30%, en danger : déclin > 50%, en danger critique : déclin > 75%) ou éteintes à l’état sauvage.  Beaucoup d’espèces présentent des données insuffisantes.
+> * Une valeur de RLI de 1 = aucune espèce n’est menacée dans un futur proche. 
+> * Si le RLI diminue au cours du temps, la biodiversité diminue.
+- On calcule le RLI pour des espèces qui ont été évaluées pour la liste rouge au moins 2 fois.
+- Chaque espèce de la liste est réévaluée tous les 5 ans si possible, tous les 10 ans sinon.
+- Si la liste est plutôt représentative pour les espèces d’oiseaux, d’amphibiens et de mammifères, elle est très lacunaire pour les plantes, les espèces marines et les invertébrés.
+
+***Le Living Planet Index***
+- L’indice Planète Vivante est un indice composite basé sur les tendances observées chez un grand nombre de populations d'espèces de vertébrés du monde entier
+- Ces populations sont tirées de la base de données Planète Vivante, qui contient actuellement des informations sur plus de 22 000 populations de mammifères, oiseaux, poissons, reptiles et amphibiens sauvages.
+> En 2018, l’IPV mondial suit l’abondance moyenne de 16 704 populations représentant 4 005 espèces de vertébrés.
+- Les  valeurs de l’IPV  représentent  l’évolution  moyenne de l’abondance de la population, basée sur le changement relatif et non sur le changement absolu, dans l’effectif de la population.
+> Il vaut 1 en 1970. Une diminution de l’IPV équivaut à une diminution de la biodiversité.
+
+## Sommes-nous entrés dans la 6e extinction de masse ?
+
+- Une extinction de masse est définie comme une période durant laquelle au moins 75% des espèces disparaissent dans un intervalle court géologiquement parlant.
+- Les taux actuels d’extinction pour les oiseaux, les mammifères et les amphibiens sont similaires à ceux des 5 extinctions de masse qui ont eu lieu au cours des 500 derniers millions d’années.
+- if we continue on our present course, we could be headed towards a mass extinction event within a timeframe of just a few centuries.
+
+## Que faire pour limiter le déclin de la biodiversité en général ?
+
+- Cette section s’appuie en particulier sur les conclusions de l’étude de [Tilman et al 2017](https://www.nature.com/articles/nature22900).
+- A part de rares succès (31 espèces d’oiseaux ont été sauvées de l’extinction au cours du dernier siècle), les efforts actuels de conservation de la biodiversité sont loin d’être suffisants.
+- Protéger les habitats est notre meilleure arme pour combattre le déclin de la biodiversité parce que cela bénéficie à de nombreuses espèces simultanément.
+- En 2018, seules 15% des surfaces terrestres et 10% des mers territoriales sont des aires protégées. Cela représente plus de 200 000 aires protégées dans le monde (Source : IUCN).
+- La réduction de notre consommation de viande (essentiellement dans les pays développés) réduit notre impact environnemental tout en améliorant la santé humaine 
+> Elle réduit la demande en terres agricoles et de pâturage pour le bétail, réduit les émissions de gaz à effets de serres liées aux émissions de méthane du bétail et diminue les risques de diabète et de maladies cardio-vasculaires liées à la surconsommation de viande. 
+- L’augmentation de la productivité des récoltes sur les terres agricoles existantes peut réduire ou freiner la demande pour la conversion des terres sauvages en nouvelles terres agricoles
+> Cette augmentation de la productivité doit passer par des méthodes durables qui minimisent l’impact environnemental, comme la rotation des cultures en utilisant des légumineuses pour assurer la fertilité des sols, l’utilisation de fumier, ou encore la réduction de l’application des pesticides et d’engrais azotés (des études ont montré qu’on peut maintenir des productivités élevées en utilisant 25% moins d’engrais qu’aujourd’hui).
+- Nos politiques d’aménagement des territoires doivent réduire la fragmentation des habitats.
+- Comme cela a été démontré en Afrique et en Amérique du Sud, la réduction de la pauvreté dans les pays en voie de développement diminue la nécessité de la chasse et du braconnage, même si cela doit être accompagné d’un changement culturel.
+> Ce changement culturel peut passer par des campagnes publicitaires comme celles qui ont conduit à la diminution de la consommation de soupes d’ailerons de requins. La participation des populations locales aux efforts de conservation permet aussi de réduire les conflits entre les populations et les aires protégées.
+- Des accords d’échange agricoles entre pays développés et pays en voie de développement peuvent diminuer la demande de ces derniers en terres agricoles en concentrant la production dans des régions où la productivité est haute.
+> Mais ces accords doivent mettre en avant la production locale de nourriture et prendre en compte les coûts de transports et la sécurité alimentaire locale !
+
+## Que faire pour limiter le déclin des insectes ?
+
+- Selon [Sanchez Bayo et al (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0006320718313636?via%3Dihub), restaurer les habitats et réduire les doses de pesticides dans les zones où l’agriculture intensive est pratiquée semble être la méthode la plus efficace pour stopper le déclin de la biodiversité des insectes
+- Exemples de bonnes pratiques : 
+> * Planter des bandes de fleurs et de prairie au bord des champs augmente le nombre de pollinisateurs
+> * Effectuer des rotations de cultures avec des trèfles augmente le nombre et la diversité des bourdons, tout en augmentant la productivité des cultures 
+> * Réduire l’usage des pesticides à un minimum permet au nombre d’insectes de remonter sans forcément impacter la productivité des récoltes tout en réduisant la probabilité de développer de la résistance des parasites (cf Protection Intégrée, ou Integrated pest management)
 
 ## Effondrement systémique de nos civilisations
 
