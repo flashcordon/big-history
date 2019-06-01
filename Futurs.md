@@ -221,6 +221,7 @@ Déforestation :
 > * 14% des oiseaux
 > * 40% (32-53%) des amphibiens
 > * 33% (27-44%) des récifs coralliens (les récifs coralliens ont diminué leur couverture de 50% depuis 1870)
+> * 60% des 504 espèces de primates connues à ce jour sont menacées d’extinction, et 75% voient leur population diminuer, selon [Estrada et al (2017)](https://advances.sciencemag.org/content/3/1/e1600946).
 - Selon le WWF (Rapport Planète Vivante 2018), entre 1970 et 2014, l’effectif des populations de vertébrés sauvages a diminué de 60% EN MOYENNE. Le déclin le plus spectaculaire a lieu en Amérique du Sud et Centrale.
 > Attention, ça ne veut pas dire que 60% des vertébrés ont disparus ! “To understand the distinction, imagine you have three populations: 5,000 lions, 500 tigers, and 50 bears. Four decades later, you have just 4,500 lions, 100 tigers, and five bears (oh my). Those three populations have declined by 10 percent, 80 percent, and 90 percent, respectively—which means an average decline of 60 percent. But the total number of actual animals has gone down from 5,550 to 4,605, which is a decline of just 17 percent.” (Ed Yong)
 - Le taux actuel d’extinction des espèces dans le monde est des dizaines à des centaines de fois plus élevé que le taux moyen des 10 derniers millions d’années, et ce taux s’accélère au fil du temps. 
