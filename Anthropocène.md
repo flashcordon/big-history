@@ -54,7 +54,7 @@
 > C’est dû à l’industrialisation massive, au développement des transports, et à l’intensification et à l’extensification de l’agriculture
 - Nos activités émettent de grandes quantités de gaz à effets de serre : dioxyde de carbone (CO2), méthane (CH4), oxyde nitreux (N2O)
 > * La concentration de CO2 est passée de 280ppm en 1850 à 415ppm en Mai 2019. Avant le 17e siècle, les concentrations variaient entre 275 et 285 ppm depuis 1000 ans. Durant les 4 cycles glaciaires-interglaciaires, elles variaient entre 180 et 280ppm. Nous émettons actuellement 100 fois plus de CO2 dans l’atmosphère que les volcans.
-> * La concentration de CH4 est passée du niveau pré-industriel de 670 ppb à X ppb aujourd’hui. Le méthane a un potentiel de réchauffement global (PRG) 28 fois plus élevé que le CO2 sur une période de 100 ans (PRG100).
+> * La concentration de CH4 est passée du niveau pré-industriel de 670 ppb à X ppb aujourd’hui. Le méthane a un potentiel de réchauffement global (PRG) 28 fois plus élevé que le CO2 sur une période de 100 ans (Mais 84 fois plus élevé sur une période de 20 ans !!).
 > * La concentration de N2O est passée d’un niveau préindustriel de 285 ppb à plus de 310 ppb. L'oxyde nitreux a un potentiel de réchauffement global 265 fois plus élevé que le CO2 sur une période de 100 ans.
 - La combustion des énergies fossiles est la cause principale de cette augmentation du taux de CO2. D’autres facteurs moins importants incluent le déboisement et la combustion de la biomasse
 - Les émissions de nos ruminants (rots et pets), des rizières, de nos décharges, de nos feux, et de l’exploitation des énergies fossiles sont responsables de la hausse du taux de CH4 dans l’atmosphère.
