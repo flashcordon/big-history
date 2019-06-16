@@ -579,18 +579,20 @@ Many of the forms can be interpreted as ancestral cnidarians (jellyfi sh),while 
 - [Very large release of mostly volcanic carbon during the Palaeocene–Eocene Thermal Maximum](https://www.nature.com/articles/nature23646) - Gutjahr et al (2017)
 - [Volcanism caused ancient global warming](https://www.nature.com/articles/548531a) - Meissner et Bralower (2017)
 - [The Paleocene-Eocene Thermal Maximum (In Our Time)](https://youtu.be/UgqYsiJGYmI?list=WL) - In our time (Août 2018)
-- [](https://www.e-education.psu.edu/earth103/node/639) 
-- [](https://www.e-education.psu.edu/earth103/node/1039) 
-- [](https://www.e-education.psu.edu/earth103/node/1040)
-- [](https://www.pbl.nl/sites/default/files/cms/publicaties/pbl-2017-trends-in-global-co2-and-total-greenhouse-gas-emissons-2017-report_2674.pdf) 
-- [](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_summary-for-policymakers.pdf)
-- [](https://leclimatchange.fr/attenuations-des-changements/) 
-- [](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter06_FINAL.pdf) 
-- [](https://www.sciencedirect.com/science/article/pii/S0012825213001207?via%3Dihub)
-- [](https://www.earth-syst-sci-data.net/8/605/2016/) 
-- [](https://websites.pmc.ucsc.edu/~jzachos/pubs/Hothouse%20Earth.pdf) 
-- [](https://www.unige.ch/communication/communiques/2018/rechauffement-climatique-linquietante-lecon-du-passe/)
-- [](https://www.nature.com/articles/353225a0) 
+- [Ancient Climate Events: Paleocene Eocene Thermal Maximum](https://www.e-education.psu.edu/earth103/node/639) - Earth in the future
+- [PETM: Effects on Life](https://www.e-education.psu.edu/earth103/node/1039) - Earth in the future
+- [PETM: Causes](https://www.e-education.psu.edu/earth103/node/1040) - Earth in the future
+- [TRENDS IN GLOBAL CO2 AND TOTAL GREENHOUSE GASEMISSIONS](https://www.pbl.nl/sites/default/files/cms/publicaties/pbl-2017-trends-in-global-co2-and-total-greenhouse-gas-emissons-2017-report_2674.pdf) - PBL Netherlands Environmental Assessment Agency (2017)
+- [Résumé pour les décideurs du rapport AR5 du GIEC](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_summary-for-policymakers.pdf) - GIEC (2014)
+- [Atténuation des changements climatiques](https://leclimatchange.fr/attenuations-des-changements/) - Le climat change
+- [Carbon and OtherBiogeochemical Cycles](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter06_FINAL.pdf) - Rapport AR5 du GIEC (2014)
+- [Climate model and proxy data constraints on ocean warming across the Paleocene–Eocene Thermal Maximum](https://www.sciencedirect.com/science/article/pii/S0012825213001207?via%3Dihub) - Dunkley Jones et al (2013)
+- [Global Carbon Budget 2016](https://www.earth-syst-sci-data.net/8/605/2016/) 
+- [Hothouse Earth](https://websites.pmc.ucsc.edu/~jzachos/pubs/Hothouse%20Earth.pdf) - National Geographic
+- [Réchauffement climatique: l’inquiétante leçon du passé](https://www.unige.ch/communication/communiques/2018/rechauffement-climatique-linquietante-lecon-du-passe/) - Université de Genève (2018)
+- [Abrupt deep-sea warming, palaeoceanographic changes and benthic extinctions at the end of the Palaeocene](https://www.nature.com/articles/353225a0) - Kennett et Scott (1991)
+
+---
 
 - Le maximum thermique du Paléocène-Eocène (PETM) a eu lieu il y a environ 56 millions d’années, soit à peine 10 millions d’années après l’extinction des dinosaures non-aviens
 - A cette époque, une période d’émissions massives de CO2 dans l’atmosphère et les océans qui a duré moins de 20 000 ans a généré un réchauffement massif de la planète (entre 4 et 8 degrés en moyenne)
