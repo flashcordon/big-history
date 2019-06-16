@@ -24,6 +24,7 @@
 - [La Terre du Phanérozoique](#La-Terre-du-Phanérozoique)
 > * [L'explosion Cambrienne](#Lexplosion-Cambrienne)
 > * [Extinctions de masse](#Extinctions-de-masse)
+> * [Maximum thermique du Paléocène Eocène](#Maximum-thermique-du-Paléocène-Eocène)
 > * [Oscillations climatiques](#Oscillations-climatiques)
 
 *Sources:* 
@@ -569,6 +570,85 @@ Many of the forms can be interpreted as ancestral cnidarians (jellyfi sh),while 
 - Conway Morris pense que l'évolution est convergente (cf *Life's solution*)
 > La vie prend des chemins évolutionnaires similaires en réponse à des besoins et des conditions environnementales données (exemple: les ailes des oiseaux et des chauves souris, les yeux des vertébrés et des poulpes)
 - L'évolution de l'intelligence est-elle inévitable ? Selon Morris, oui (cf *Inevitable humans in a lonely universe*).
+
+# Maximum thermique du Paléocène Eocène
+
+- [The Paleocene–Eocene Thermal Maximum 56 Mil yrs ago (PETM)](https://www.youtube.com/watch?v=zbgMArpl8YE) - Scott Wing (Juin 2017)
+- [The Paleocene-Eocene Thermal Maximum: A Perturbation of Carbon Cycle, Climate, and Biosphere with Implications for the Future](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040610-133431?journalCode=earth) - McInerney et al (2011)
+- [PETM: Paleocene-Eocene Thermal Maximum](http://pages.geo.wvu.edu/~kammer/g231/PETM.pdf) - Cours de Kammer
+- [Very large release of mostly volcanic carbon during the Palaeocene–Eocene Thermal Maximum](https://www.nature.com/articles/nature23646) - Gutjahr et al (2017)
+- [Volcanism caused ancient global warming](https://www.nature.com/articles/548531a) - Meissner et Bralower (2017)
+- [The Paleocene-Eocene Thermal Maximum (In Our Time)](https://youtu.be/UgqYsiJGYmI?list=WL) - In our time (Août 2018)
+- [](https://www.e-education.psu.edu/earth103/node/639) 
+- [](https://www.e-education.psu.edu/earth103/node/1039) 
+- [](https://www.e-education.psu.edu/earth103/node/1040)
+- [](https://www.pbl.nl/sites/default/files/cms/publicaties/pbl-2017-trends-in-global-co2-and-total-greenhouse-gas-emissons-2017-report_2674.pdf) 
+- [](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_summary-for-policymakers.pdf)
+- [](https://leclimatchange.fr/attenuations-des-changements/) 
+- [](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter06_FINAL.pdf) 
+- [](https://www.sciencedirect.com/science/article/pii/S0012825213001207?via%3Dihub)
+- [](https://www.earth-syst-sci-data.net/8/605/2016/) 
+- [](https://websites.pmc.ucsc.edu/~jzachos/pubs/Hothouse%20Earth.pdf) 
+- [](https://www.unige.ch/communication/communiques/2018/rechauffement-climatique-linquietante-lecon-du-passe/)
+- [](https://www.nature.com/articles/353225a0) 
+
+- Le maximum thermique du Paléocène-Eocène (PETM) a eu lieu il y a environ 56 millions d’années, soit à peine 10 millions d’années après l’extinction des dinosaures non-aviens
+- A cette époque, une période d’émissions massives de CO2 dans l’atmosphère et les océans qui a duré moins de 20 000 ans a généré un réchauffement massif de la planète (entre 4 et 8 degrés en moyenne)
+> * La concentration de CO2 dans l’atmosphère à l’époque du PETM (800-1200 ppm) était le double ou le triple de la concentration actuelle (410 ppm)
+- La Terre a mis 200 000 ans pour retrouver des températures pré-PETM.
+
+***Comment sait-on ce qui s’est passé durant le PETM ?***
+- L’étude de carottes de sédiments marins au début des années 90 ([Kenett et Scott 1991](https://www.nature.com/articles/353225a0)) a révélé une anomalie dans les ratios isotopiques de carbone dans des fossiles de foraminifères à l’interface entre le Paléocène et l’Eocène.
+> Cette anomalie indique qu’une grande quantité de carbone a été injectée dans les océans à ce moment là
+- Les rapports isotopiques en oxygène de ces foraminifères indiquent que la planète s’est réchauffée
+
+## Climat du PETM 
+
+- La climat à l’époque du PETM était bien plus chaud qu’aujourd’hui 
+> * L’Antarctique et l’Arctique étaient recouverts d’une végétation luxuriante (il y avait des palmiers au pôle Nord !), et la température de l’océan vers les régions côtières de l’Antarctique était de 20°C au pic du PETM !
+> * La température des océans tropicaux était infernale : 36°C vers la côte d’Afrique de l’Ouest ! (la température d’un bain chaud !)
+- Les modèles climatiques prédisent qu’à l’époque du PETM il y avait 10-20% plus de précipitations, mais les données suggèrent que ces précipitations étaient probablement dues à d’intenses cyclones plutôt qu’à un climat plus humide.
+> Ce taux élevé de précipitations a provoqué une augmentation du taux d’érosion des roches continentales, et on pense que l’érosion a été un facteur déterminant dans la capture du CO2 atmosphérique pour ramener la Terre à des températures pré-PETM.
+
+*La surface de la Terre à l’époque du PETM*
+![earth_PETM](https://i.imgur.com/QSAagku.jpg)
+
+## Réponse du vivant au PETM
+
+- Le PETM a causé surprenemment peu d’extinctions d’espèces !
+- Les plus grandes victimes du PETM sont les foraminifères benthiques des fonds marins, dont 30 à 50% des espèces ont disparu à ce moment. 
+> La cause principale de leur extinction est l’acidification des océans liée à l’augmentation du CO2 dans l’atmosphère. Les foraminifères ont donc eu plus de mal à former leur coquille calcaire (CaCO3) dans des eaux plus acides (les coquilles se dissolvaient), et certaines espèces n’ont pas pu s’adapter à ces changements rapides. Les fonds marins étaient aussi dépourvues d’oxygène et les ressources en nourriture étaient limité, ce qui a probablement joué un rôle dans l’extinction.
+- L’extinction des foraminifères a causé un changement de couleur dans les sédiments marins, qui passent de blanc à rougeâtre de manière très caractéristique durant le PETM, ce qu’on observe lorsqu’on réalise des carottages de sédiments marins.
+- Pour échapper aux chaleurs intenses, de nombreuses espèces de mammifères ont migré vers les hautes latitudes
+- Le changement climatique relativement rapide a accéléré l’évolution des mammifères, et a permis l’apparition de certains groupes comme les primates !
+> * Dans le bassin du Bighorn dans le Wyoming, on trouve des traces extrêmement bien conservées de l’époque du PETM, comme les ancêtres nains des chevaux (qui semblent avoir rétréci en réponse aux limitations des ressources) et les premiers primates
+- Des trous dans des feuilles fossilisées suggèrent que les insectes étaient plus abondants et voraces à l’époque du PETM
+- Dans les eaux côtières de surface, le PETM se caractérise par une explosion des dinoflagellées (des phytoplanctons), qui génèrent des zones mortes par eutrophisation.
+> Des pressions environnementales créent un flux de nutriments accru dans les eaux côtières depuis la terre. Les dinoflagellées profitent de cette profusion et prolifèrent dans les eaux côtières, ce qui crée des marées rouges (l’eau prend une teinte rouge-brun). - La décomposition de ces dinoflagellées entraîne la diminution du taux d’oxygène dans les fonds marins (hypoxie), ce qui peut créer des zones mortes à ces endroits.
+
+*Carotte de sédiments marins de l’époque du PETM*
+![JamesZachos](https://i.imgur.com/Kb0yIT0.png)
+
+## Causes du PETM
+
+- Le PETM correspond à une émission de carbone dans l’atmosphère d’une masse équivalente à ce qui serait injecté aujourd’hui si on brûlait toutes nos réserves de pétrole, de charbon et de gaz naturel.
+- Les sources de carbone à l’origine du PETM sont encore débattues aujourd’hui. Elles incluent :
+> * Un volcanisme intense associé à l’ouverture de la mer du Groenland semble être la source principale de carbone (jusqu’à 90%) via les émissions de CO2, selon une étude récente ([Gutjahr et al 2017](https://www.nature.com/articles/nature23646)).
+> * Les hydrates (aussi appelés clathrates) de méthane : aussi appelées “glace qui brûle”, ce sont des solides glacés qui piègent des molécules de méthane produites par des bactéries, et qui se forment dans des milieux à la pression élevée, comme les fonds marins. On en retrouve dans les sédiments marins profonds. Les hydrates de méthane peuvent injecter du carbone dans l’atmosphère très rapidement si la température dépasse un certain seuil ou s’ils sont amenés à des pressions atmosphériques.
+> * Le pergélisol : pendant le Paléocène, l’Antarctique ne possédait pas de grandes étendues glacées, du coup le dégel du permafrost a peut être été en partie responsable des émissions de carbone
+
+## Analogies et différences entre le PETM et aujourd’hui
+
+- Le PETM est un moment particulièrement important pour l’histoire de la Terre parce qu’il nous permet de mieux comprendre les causes et les effets du changement climatique qui a lieu à notre époque (Le passé informe le présent) :
+> Il nous permet de confirmer que des émissions de CO2 peuvent effectivement causer un réchauffement de la surface de la Terre
+- La différence majeure entre le PETM et le changement climatique actuel, c’est que les émissions de CO2 se sont faites à des échelles de temps de plusieurs millénaires, contre quelques siècles à peine pour les émissions anthropiques.
+> * Le réchauffement du PETM a été assez lent pour permettre à la plupart des espèces de s’adapter aux changements climatiques, ce qui a évité une extinction de masse.
+> * La planète est aussi relativement froide par rapport à ce qu’elle était il y a 56 millions d’années
+- Selon des estimations récentes, le PETM correspond à l’émission globale de l’ordre de 10 000 milliards de tonnes de carbone dans l’atmosphère (entre 3 000 et 10 000). 
+> Le taux maximum d’émission de carbone durant le PETM a été estimé à 0.58 milliards de tonnes de carbone par an, ce qui représente moins d’un dixième de notre taux annuel d’émissions de gaz à effet de serre (10 milliards de tonnes de carbone par an en 2015, selon le Global Carbon Budget 2016). On émet du CO2 au moins 10 fois plus vite que ce qui a déclenché le PETM !
+- En 2010, nos émissions globales de gaz à effets de serre représentaient 49 milliards de tonnes d’équivalent CO2, et ce nombre ne fait qu’augmenter depuis la Révolution Industrielle. (Source : rapport AR5 du GIEC)
+> La plupart de ces émissions (76%) sont dues au CO2 (65% provient des émissions directes de CO2, et 11% des émissions dues à la déforestation, FOLU dans le rapport du GIEC), mais d’autres gaz comme le CH4 (16%) et le N2O (6%) entrent aussi dans le calcul. Près d’un quart de nos émissions de gaz à effets de serre ne viennent donc pas du CO2 !
+- Entre 1750 et 2011, nos émissions cumulées de gaz à effets de serre dans l’atmosphère représentent 555 (+-85) milliards de tonnes de carbone, en prenant en compte les émissions dues à la déforestation (180 +-80 milliards de tonnes de carbone).
 
 # Oscillations climatiques
 
