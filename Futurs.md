@@ -370,6 +370,10 @@ Déforestation :
 
 # 250 millions d'années
 
+- [EGU GIFT2018: Shaping the Earth – from Pangaea... and possibly back again!](https://youtu.be/ajNRQKkY10Y?list=WL) - Isabelle Ansorge (Août 2018)
+
+---
+
 Un supercontinent : Pangea Ultima
 
 # l'humanité évolue-t-elle encore
