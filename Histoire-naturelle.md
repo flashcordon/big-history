@@ -527,6 +527,7 @@ Many of the forms can be interpreted as ancestral cnidarians (jellyfi sh),while 
 - [When Earth hit the reset button on life: New research on the Permian-Triassic mass extinction](https://www.earthmagazine.org/article/when-earth-hit-reset-button-life-new-research-permian-triassic-mass-extinction) - Earth magazine (Octobre 2016)
 - Scatter, Adapt, and Remember, Analee Newitz (2013)
 - [The Chicxulub Asteroid Impact and Mass Extinction at the Cretaceous-Paleogene Boundary](http://science.sciencemag.org/content/327/5970/1214) - Schulte et al (2010)
+- [EGU GIFT2018: How volcanic eruptions caused Earth's greatest mass extinction](https://youtu.be/Tk018VOCLIo) - David Bond (Août 2018)
 
 ---
 
