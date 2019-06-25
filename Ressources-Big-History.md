@@ -184,6 +184,7 @@ Ressources sur la Big History
 
 ## Sites Web
 
+- [Virtual field trips](https://vft.asu.edu/)
 - [Mineral Evolution](https://hazen.carnegiescience.edu/research/mineral-evolution) - Robert Hazen (2008)
 - [Hadean Earth](https://www.lpi.usra.edu/exploration/HadeanEarth/) - Ressources par le Lunar and Planetary Institute
 - [Ancient Earth](http://dinosaurpictures.org/ancient-earth#0) - C.R. Scotese: Globe interactif avec évolution des continents au fil des millions d'années
