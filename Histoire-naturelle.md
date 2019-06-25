@@ -328,20 +328,75 @@
 
 ## La grande oxydation
 
-- L'un des événements les plus importants de l'histoire de la Terre
-- Nommé par Dick Holland
-- Date de la grande oxydation : 2.4 Gyrs
-- Le développement de la respiration : métaboliser l'oxygène
-- L'oxygène est toxique. La molécule d'oxygène (O2) en soi est pas très réactive, mais dans les utilisations biochimiques de l'oxygène, des dérivés réactifs de l'oxygène sont créés et endommagent nos cellules en leur subtilisant des électrons. Des mécanismes de réparation existent, mais les dommages s'accumulent au fil du temps et c'est la cause chimique du vieillissement.
-- Pour les organismes qui avaient évolué dans la Terre de l'Archéen sans oxygène, l'oxygène produite par les cyanobactéries était un poison.
-- A la fin de la grande Oxydation, la concentration en oxygène de l'atmosphère est d'environ 1% de la concentration actuelle (on suffoquerait si on y était)
+*Sources*
 
-### Conséquences de la grande oxydation
-- En s’accumulant, l'oxygène va éradiquer la plupart des archées méthanogènes qui peuplaient l’océan primitif, mettant à l’arrêt la production de méthane.
-- La libération de l'oxygène a probablement nettoyé le méthane de l'atmosphère, et donc dissipé le brouillard qui entourait la Terre.
-- La libération de l'oxygène a aussi créé notre couche d'ozone (O3), généré par l'action des UV sur les molécules d'oxygène (O2). Une fois formée, la couche d'ozone bloque une grande partie des UV en provenance du Soleil. C'est utile au développement de la vie, car les UV endommagent les molécules d'ADN.
-- La surface de la Terre rouille, littéralement. L'oxygène de l'atmosphère réagit avec le fer des roches de la surface, ce qui crée de l'hématite (ie de la rouille) de couleur rouge. La surface de la Terre se peint en rouge.
-- l'augmentation de la concentration en oxygène a aussi une influence sur le climat, qui se refroidit. Ca donne lieu à la première Terre boule de neige de 2.4 à 2.1 Gyrs) : la glaciation Huronienne, la première longue période glaciaire de l'histoire de la Terre. Et pas des moindre ! 
+- [EGU GIFT2018: The great oxidation event, 2.3 billion years ago](https://youtu.be/0Py5HIFjdbg) - Ariel Anbar  (Août 2018)
+- [Virtual Field Trips](https://vft.asu.edu/)
+- [Evolution of Oxygenic Photosynthesis](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-060313-054810) – Fischer et al (2016)
+- [Cyanobacteria and the Great Oxidation Event: evidencefrom genes and fossils](https://hal-pasteur.archives-ouvertes.fr/pasteur-01385271/document) – Schirrmeister et al (2016)
+- [Timing and tempo of the Great Oxidation Event](https://www.pnas.org/content/114/8/1811) – Gumsley et al (2017)
+- [Earth: Atmospheric Evolution of aHabitable Planet](https://arxiv.org/ftp/arxiv/papers/1803/1803.05967.pdf) – Olson et al (2018)
+- [The rise of oxygen in Earth’s earlyocean and atmosphere](https://people.earth.yale.edu/sites/default/files/files/Planavsky/30_%20Lyons%20et%20al%20Nature%202014.pdf) – Lyons et al (2014)
+- [Atmospheric Evolution on Inhabited and Lifeless Worlds](https://books.google.fr/books?id=dchoDgAAQBAJ&pg=PA290&lpg=PA290&dq=volcanic+outgassing+sink+O2&source=bl&ots=T_jHTQ_8ri&sig=ACfU3U05sIcT-fuVvvdGs-NEOxq4jZbUvQ&hl=fr&sa=X&ved=2ahUKEwjW7OOMhfviAhUQQUEAHVbFAasQ6AEwAXoECAkQAQ#v=onepage&q=volcanic%20outgassing%20sink%20O2&f=false) – Catling et Kasting
+- [Origins : How the Earth made us](https://books.google.fr/books?id=g781DwAAQBAJ&pg=PT193&lpg=PT193&dq=great+oxidation+oxygen+holocaust&source=bl&ots=gEF_gXBUj-&sig=ACfU3U3nmYKDplpKn_Z40ZwUfeCEXGT_qw&hl=fr&sa=X&ved=2ahUKEwiXo_bMpf3iAhVllFwKHfv5D2s4FBDoATACegQICRAB#v=onepage&q=great%20oxidation%20oxygen%20holocaust&f=false) – Lewis Dartnell (2019)
+- [Les fers rubanés ( Banded Iron Formation ) de l'Archéen de Barberton, groupe de Fig Tree (-3,26 à -3,22 Ga), Afrique du SudLes fers rubanés ( Banded Iron Formation ) de l'Archéen de Barberton, groupe de Fig Tree (-3,26 à -3,22 Ga), Afrique du Sud](https://planet-terre.ens-lyon.fr/image-de-la-semaine/Img364-2011-10-10.xml) – Pierre Thomas (2011)
+- [A Whiff of Oxygen Before the Great Oxidation Event?](https://science.sciencemag.org/content/317/5846/1903.full) – Anbar et al (2007)
+- [On the Ecology of Australia’s Arid Zone](https://books.google.fr/books?id=ZHhqDwAAQBAJ&pg=PA17&lpg=PA17&dq=History+of+atmospheric+oxygen+(after+Lyons+et+al+2014).+Grey+curve+shows+classic+two-step+view+of+atmospheric+oxygen+evolution.+Blue+curve+is+another+model,+with+blue+arrows+indicating+possible+%27whiffs%27+of+oxygen+in+late+Archean.+Right+axis+(%25PAL)+indicates+percentage+of+oxygen+relative+to+present+atmospheric+level.+G+%3D+major+glacial+episodes.&source=bl&ots=7Q5uyHuqQE&sig=ACfU3U1YOaIRQqfw-fpLZ1r1buR5byxr_g&hl=fr&sa=X&ved=2ahUKEwi0hrPM2oTjAhWGsRQKHSNzCkcQ6AEwAHoECAkQAQ#v=onepage&q=History%20of%20atmospheric%20oxygen%20(after%20Lyons%20et%20al%202014).%20Grey%20curve%20shows%20classic%20two-step%20view%20of%20atmospheric%20oxygen%20evolution.%20Blue%20curve%20is%20another%20model%2C%20with%20blue%20arrows%20indicating%20possible%20'whiffs'%20of%20oxygen%20in%20late%20Archean.%20Right%20axis%20(%25PAL)%20indicates%20percentage%20of%20oxygen%20relative%20to%20present%20atmospheric%20level.%20G%20%3D%20major%20glacial%20episodes.&f=false) – B. J. Pillans (2018)
+
+---
+
+- Aujourd'hui l'atmosphère contient 21% de dioxygène O2 (et 78% de diazote N2)
+- Mais lors de l'Archéen, l'atmophère primitive de la Terre ne contenait pas d'O2, ou alors très peu  (< 0.001% du niveau actuel) ! De très faibles niveaux d'O2 peuvent être créés par des réactions photochimiques dans l'atmopshère
+> C'est une bonne chose que l'atmopshère primitive de la Terre n'ait pas été oxydante, parce que dans le cas contraire un monde oxydant n'aurait pas favorisé les transformations prébiotiques qui ont amené à l'émergence de la vie ! Par contre, une atmosphère qui contient de l'O2 est nécessaire pour permettre à une vie animale complexe d'émerger.
+- Il y a 2.3-2.4 Gyrs (durant le paléoprotérozoique), la Terre connaît une phase d'accumulation irrréversible d'O2 dans l'atmosphère : c'est la grande oxydation (Great Oxidation Event, GOE, terme lancé par Dick Holland en 2002) 
+> Cet événement est marqué par de nombreux proxys géochimiques, notamment dans les sédiments marins
+- Le taux d'oxygène lors du GOE est probablement monté à quelques % de son niveau actuel, c'est à dire encore trop bas pour un humain.
+- Cette augmentation de l'O2 dans l'atmosphère est attribuée à la photosynthèse oxygénique chez les cyanobactéries
+> Les plus anciennes traces directes d'O2 produites par des cyanobactéries datent de 2.35 Gyrs.
+- L'invention de la photosynthèse oxygénique a été l'innovation métabolique la plus importante de l'histoire de la Terre 
+> Elle a permis à la vie de générer de l'énergie chimique à partir de l'énergie du Soleil, du CO2 et de l'eau, 3 des ressources les plus abondantes de la planète.
+- La quasi intégralité de l'O2 présente dans l'atmosphère aujourd'hui est produite par la photosynthèse oxygénique.
+> * réaction : CO2+H2O+lumière -> CH2O (matière organique)+O2
+> * L'énergie du Soleil est utilisée pour transformer le dioxide de carbone en molécules organiques qui forment les cellules. Ce faisant, des molécules d'eau sont découpées et de l'O2 est relachée comme un déchet.
+- Mais on ne sait pas encore quand les cyanobactéries sont apparues sur Terre
+> Les plus vieux microfossiles de cyanobactéries datent de 1.9 Gyrs (Iles Belcher, Canada). Mais l'invention de la photosynthèse oxygénique doit être plus vieille que ça, parce qu'on pense qu'elle est responsable de la grande oxydation. Les fossiles physiques et moléculaires ne donnent pas de détails sur l'origine des cyanobactéries. Soit elles n'existaient pas durant l'Archéen, soit les conditions environnementales ne permettaient pas leur fossilisation.
+- On a des indices géologiques que la photosynthèse oxygénique serait apparue il y a au moins 3 Gyrs (des proxys géochmiques indiquent la présence d'O2 dissous dans les eaux peu profondes)
+> La plupart des modèles biogéochimiques prédisent qu'à cette époque, les cyanobactéries formaient des tapis microbiens photosynthétiques ou des formations semblables aus stromatolithes actuelles près des côtes, et produisaient de l'oxygène localement dans des eaux de surface peu profondes.
+- Il y a donc eu un mécanisme de contrôle géologique qui absorbait l'O2 produit avant le GOE. Dans ce cadre, le GOE correspond au moment où la production d'O2 a dépassé la capacité des puits géologiques.
+> L'enfouissement du carbone organique (organic carbon burial) dans les sédiments est un de ces puits. Les dégazages volcaniques (gaz fortement réducteurs) ont pu être un autre puits d'O2 au cours de l'Archéen, qui a décliné au fil du refroidissement de la Terre. L'intérieur de la Terre étant un énorme puits d'O2, des changements d'interactions entre la surface et l'intérieur, ou bien des changements de composition de la croute pourrait expliquer la faible concentration d'O2. Mais il n'y a pas encore de consensus sur cette question.
+- Des traces d'oxydation des continents (dans des schistes prélevés en Australie Occidentale) suggèrent qu'au moins 50 millions d'années avant le GOE, il y a eu plusieurs épisodes de "bouffées" (whiffs) d'O2 dans l'atmopshère. On observe plusieurs bouffées d'oxygène vers 3-2.5 Gyrs.
+- Le GOE coincide avec le premier épisode de Terre boule de neige
+> L'O2 accru dans l'atmosphère a probablement réagi avec méthane, ce qui a fait baisser le taux de méthane (et donc dissipé le brouillard qui entourait la planète) et ce qui a fait plonger les températures de la Terre. 
+- A l'époque du GOE, l'oxygène était un poison pour la plupart des organismes anaérobies. L'arrivée des cyanobactéries photosynthétiques a donc probablement causé un "holocauste de d'oxygène" (on n'en a pas de preuve directe mais c'est une conséquence logique). 
+> L'oxygène est toxique. La molécule d'oxygène (O2) en soi est pas très réactive, mais dans les utilisations biochimiques de l'oxygène, des dérivés réactifs de l'oxygène sont créés et endommagent nos cellules en leur subtilisant des électrons. Des mécanismes de réparation existent, mais les dommages s'accumulent au fil du temps et c'est la cause chimique du vieillissement. Les espèces qui ont survécu ont soit développé des adaptations pour métaboliser l'oxygène, soit ont été confinées à des environnements anoxiques, comme les fonds marins.
+- Pendant le GOE, la planète a rouillé ! En témoignent les formations de fer rubanées (Banded iron formations, ou BIF) : ces roches apparaissent au milieu de l'évolution de la terre, et puis on n'en trouve plus après ! (pourquoi?)
+> Le fer oxydé se dissout mal dans l'océan. Et comme l'océan d'aujourd'hui est bien oxygéné, c'est normal qu'on trouve quasiment pas de fer dissous dans l'eau. Mais la forme réduite du fer se dissout très bien, et le taux de fer dans les océans (issus du volcanisme sous marin ou de l'érosion des masses continentales) avant la grande oxydation était beaucoup plus élevé qu'aujourd'hui (2000x + élevé qu'aujourd'hui au fond des océans anoxiques d'alors). Mais pendant le GOE, lorsque les eaux profondes remontaient à la surface, elles gagnaient en oxygène, le fer s'oxydait et il se déposait sur les fonds marins. Au fil du temps, ces dépots se sont accumulés (en alternance avec des périodes de dépots de boue normale) et ont formé les BIFs. La grande majorité des minerais de fer que l'on mine et qui alimente notre civilisation sont issus de ces gisements de fer rubanés ont été créé lors du GOE
+- A la suite du GOE (2.3 – 2 Gyrs), il semble que le niveau d'O2 retombe précipitemment, pour des raisons qu'on comprend encore mal aujourd'hui : c'est l'événement Lomagundi.
+- Au cours du "boring billion" (1.8-0.8 Gyrs, c'est à dire vers le milieu du Protérozoique), le niveau d'oxygène est resté relativement bas, bien en dessous du niveau actuel (0.001% – 10% du niveau actuel).
+- L'oxygénation des fonds marins s'est probablement produit en retard (plus d'un milliard d'années de retard !) par rapport à l'oxygénation de l'atmosphère 
+> C'est l'hypothèse de l'océan de Canfield
+- La grande oxydation est responsable de la création de la couche d'ozone (O3) dans la stratosphère, qui agit comme un bouclier aux UV solaires, ce qui a permis à la vie d'émerger des océans pour conquérir la terre (les UV ont tendance à endomager l'ADN)
+> L'ozone est créé à partir des atomes d'O produits suite à la photolyse d'O2
+
+## L'événement d'oxydation du néoprotérozoique
+
+- Un 2e événement d'oxydation a lieu au cours du néoprotérozoique (neoproterozoic oxydation event, NEO), mais on connaît mal son timing et son ampleur
+> On pense cependant qu'il a eu lieu en plusieurs étapes, dont la dernière a eu lieu il y a moins de 542 Myrs (peut être même durant le Dévonien, au moment de l'émergence des plantes terrestres). Pendant cette dernière étape, les fonds marins ont été oxygénés et les eaux de surface ont été enrichies en oxygène.
+- Des taux relativement élevés d'O2 semblent avoir été un prérequis pour développer la vie animale sur Terre. 
+> Les premiers indices de la diversification des eucaryotes coincident avec les premiers signes d'oxygénation du néoprotérozoique il y a 800 Myrs. Les épisodes de diversification des microfossiles sont corrélés à des épisodes d'oxygénation durant l'Ediacarien (635-541 Myrs). Enfin l'explosion du Cambrien associée à une plus grande complexité comportementale et morphologique coincide aussi avec des épisodes d'oxygénation. 
+- Par contre on sait peu de chose sur la relation entre les premiers animaux et l'oxygène
+> L'évolution parallèle des animaux et de du taux d'oxygène était-elle une coincidence ? L'augmentation du taux d'oxygène aurait-elle déclenché l'évolution des animaux ? Ou bien serait-ce l'inverse ? 
+
+*Evolution du taux d'oxygène dans l'atmosphère d'après Lyons et al (2014) (Source : Pillans 2018)*
+![plotpillans2018](https://i.imgur.com/PmDi3cx.jpg)
+> Grey curve shows classic two-step view of atmospheric oxygen evolution. Blue curve is another model, with blue arrows indicating possible 'whiffs' of oxygen in late Archean. Right axis (%PAL) indicates percentage of oxygen relative to present atmospheric level. G = major glacial episodes.
+
+
+***Comment connaît-on les taux d'oxygène du passé ?***
+- On ne peut pas avoir le taux d'oxygène de l'atmosphère d'il y a plusieurs milliards d'années directement, mais le taux d'oxygène est lié au taux de molybdenum (élément 42 !), donc on se sert de la quantité de ce dernier dans des roches sédimentaires (sulfures) pour inférer la quantité d'oxygène.
+> Lorsque O2 est absent, Mo est piégé dans les sulfures, et la concentration de Mo dans l'océan est faible. Lorsque O2 est présent, les sulfures s'oxydent, investissent les océans et la concentration de Mo augmente dans l'océan.
+- En pratique on regarde la concentration de Mo dans les sédiments marins anciens (Mo aime bien se loger dans les schistes noirs)
+- L'étude du Mo et d'autres éléments dans les anciens sédiments marins suggèrent que l'environnement de surface était un peu oxydé il y a 2.5 Gyrs, et peut être même un milliard d'années avant !
 
 # La Terre du Protérozoique
 
