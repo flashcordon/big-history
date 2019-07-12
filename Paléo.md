@@ -15,6 +15,12 @@
 
 # Différentes espèces d'humains ?
 
+*Sources*
+
+- [When We Met Other Human Species](https://youtu.be/jdYwMLSNHnU?list=WL) - PBS Eons (Juillet 2019)
+
+---
+
 - Il y a 40 000 ans, néandertal, flores, denisova et Sapiens qui coexistaient.
 > Nous n'avons pas toujours été seuls dans l'univers.
 - Nous sommes la seule espèce de notre lignée qui a survécu.
@@ -23,6 +29,8 @@
 > « Les espèces sont des groupes de populations naturelles, effectivement ou potentiellement interfécondes, qui sont génétiquement isolées d’autres groupes similaires ». À cette définition, il a ensuite été rajouté que cette espèce doit pouvoir engendrer une progéniture viable et féconde.
 - Mais en paléoanthropologie, le concept d'espèces biologiques est difficilement applicable : l'isolement reproductif est généralement impossible à tester, les espèces fossiles sont définies selon leur phénotype, et les espèces évoluent au cours du temps.
 - Est-ce que Néandertal et Sapiens sont des espèces différentes ? Ca dépend de la définition d'espèce.
+
+- l'héritage de Néandertal et Denisova est dans nos gènes (EPAS1 etc) nous rappelle un temps où nous n'étions pas seuls -> cf conclusion de PBS Eons (brillante!)
 
 ## Les Sapiens
 
