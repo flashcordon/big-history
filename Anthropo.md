@@ -161,7 +161,10 @@ La logique : nous avons tous en nous une capacité à suivre un raisonnement lo
 - L'impact émotionnel des mythes : les versions les plus choquantes des mythes ont tendance à être préférentiellement diffusées. Les émotions intenses ou légères libèrent de la noradrénaline chez le public, ce qui facilite la mémorisation de l’histoire.
 Mais une théorie scientifique de la permanence des mythes reste encore largement à construire
 
+# Le monde est-il désanchanté ?
 
+Max Weber
+Religion for breakfast
 
 
 
