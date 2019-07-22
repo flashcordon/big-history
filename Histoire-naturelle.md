@@ -144,8 +144,15 @@
 - Le bombardement intense de rochers de l’espace (comètes et météorites) ensemense la Terre de molécules organiques (en tout cas celles qui ont survécu à la violence de la collision) et augmente significativement la quantité d’eau sur Terre.
 - En effet, la matière avec laquelle s'est formée la Terre est majoritairement composée d'éléments en deça de la ligne de glace. Du coup elle aurait été très sèche sans l'apport en eau des comètes et des météorites durant le LHB (vérifier)
 
-***Comment sait-on d'où vient l'eau sur Terre ?***
-> Les rapports isotopiques D/H
+## L'origine de l'eau sur Terre 
+
+*Sources*
+
+- [Water and astrobiology](https://uhmreactiondynamics.org/publication_papers/p176.pdf) - Mottl et al (2007)
+- [The when and where of water in the history of the universe](https://arxiv.org/pdf/1803.01452.pdf) - Torres et Winter (2018)
+
+---
+
 
 # La Terre de l'Archéen
 
