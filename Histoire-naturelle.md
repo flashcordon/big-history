@@ -153,6 +153,11 @@
 - [The when and where of water in the history of the universe](https://arxiv.org/pdf/1803.01452.pdf) - Torres et Winter (2018)
 - A history of the solar system – Claudio Vita-Finzi (2016)
 - From dust to life – John Mitton Chambers Jacueline (2014)
+- [Total body water data for white adults 18 to 64 years of age: The Fels Longitudinal Study](https://www.sciencedirect.com/science/article/pii/S0085253815462829) - Chumlea et al (1999)
+- [Body Water](https://en.wikipedia.org/wiki/Body_water) - Wikipédia
+- [Pathophysiology E-Book: The Biologic Basis for Disease in Adults and Children](https://books.google.fr/books?id=0fskCwAAQBAJ&pg=PA97&lpg=PA97&dq=65%25+body+water+percentage&source=bl&ots=i-tcVhOVjG&sig=ACfU3U0MHnj1BiN5MAydth4mh3bklcfqUg&hl=fr&sa=X&ved=2ahUKEwiR39e_t8vjAhVOExoKHVufA-U4FBDoATAEegQIBxAB#v=onepage&q=65%25%20body%20water%20percentage&f=false) - McCance et Huether (2018)
+- [Total body water volumes for adult males and females estimated from simple anthropometric measurements](https://read.qxmd.com/read/6986753/total-body-water-volumes-for-adult-males-and-females-estimated-from-simple-anthropometric-measurements) - Watson et al (1980)
+- [Body fluid compartments of a 70-kg adult man](https://www.physiologyweb.com/figures/physiology_illustration_tPksfgTyDcZ10zEq1Wp1FqLjrBRL8IGL_body_fluid_compartments_of_a_70_kg_adult_man.html) - Physiology Web
 
 ---
 
