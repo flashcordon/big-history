@@ -151,9 +151,59 @@
 
 - [Water and astrobiology](https://uhmreactiondynamics.org/publication_papers/p176.pdf) - Mottl et al (2007)
 - [The when and where of water in the history of the universe](https://arxiv.org/pdf/1803.01452.pdf) - Torres et Winter (2018)
+- A history of the solar system – Claudio Vita-Finzi (2016)
+- From dust to life – John Mitton Chambers Jacueline (2014)
 
 ---
 
+- L'eau est formé par 2 des 3 éléments les plus communs dans l'univers
+> L'hydrogène est l'élément le plus commun de l'univers, et l'oxygène l'élément le plus commun sur Terre (et le 3e élément le plus commun de l'univers, après l'Hélium)
+- L'hydrogène de l'eau a été formé juste après le Big Bang, et l'oxygène a été forgé au coeur de la première génération d'étoiles
+- On trouve de l'eau partout dans l'univers : sur les planètes, les astéroides, les comètes, au coeur des nuages moléculaires, dans des galaxies lointaines et même dans le Soleil
+- La molécule d'eau se forme lorsque 2 molécules d'hydrogène (H2) rencontrent une molécule d'oxygène (O2)
+> H2+H2+O2 -> 2H2O
+- Les premières molécules d'eau de l'histoire de l'univers sont probablement apparues à la fin de la vie de la première génération d'étoiles massives
+- La molécule d'eau est stable sur des durées qui se comptent en millions voire en milliards d'années.
+
+***L'eau sur Terre***
+
+- Sur Terre, l'eau est la seule substance à être présente à l'état naturel sous ses 3 formes : solide, liquide et gaz
+- Les 2/3 de la surface de la Terre est recouverte par les océans
+- On estime que la Terre contient entre 1 et 50 fois la masse totale des océans en eau (la valeur la plus probable étant 10). Mais l'eau et la glace ne représentent que 0.02% de la masse de la Terre.
+> La totalité des océans sur Terre (hydrosphère) a une masse de l'ordre de 10^21 kg.
+- L'origine de l'eau sur Terre est l'une des questions les plus débattues actuellement en astronomie. Et la question n'est pas encore totalement résolue.
+- Depuis la fin des années 60 (Cheung 1969), on trouve des molécules d'eau en abondance dans le milieu interstellaire, et de la glace d'eau dans les nuages moléculaires.
+- L'eau était présente sous forme de gaz et de glace dans la nébuleuse qui a donné le Soleil
+- Les chondrites carbonées, les roches les plus primitives du système solaire, contiennent 3 à 22% d'eau et de la matière organique.
+> Les chondrites son des météorites issues d'astéroides formés vers 2-3 unités astronomiques du Soleil à l'époque où les planètes rocheuses se formaient.
+- Il y a plusieurs mécanismes qui ont pu contribuer à l'acquisition de l'eau sur Terre :
+> * L'eau a pu être présente dans les ***embryons de planètes*** (planétésimaux) qui se sont accrétées pour former la Terre (wet accretion)
+> * Elle a pu être acquise directement depuis la ***nébuleuse solaire***, par adsorption et dissolution dans l'océan de magma 
+> * Elle a pu arriver plus tardivement à la suite d'impacts d'***astéroides*** (chondrites carbonées) et de ***comètes*** riches en eau
+- Tous ces mécanismes ont certainement joué un rôle, mais leur contribution relative est mal contrainte pour le moment.
+- Une fois que l'eau est arrivée sur Terre, elle a été incorporée dans le manteau et la croûte, et a ensuite été dégazée par le volcanisme intense qui avait lieu sur la jeune Terre. La vapeur d'eau s'est ensuite condensé en pluies, ce qui a formé les océans
+
+***Comment recherche t-on l'origine de l'eau sur Terre***
+
+- L'eau dans l'univers existe sous 2 formes : l'eau légère (H2O) et l'eau lourde (HDO), où un atome de deutérium (isotope de l'hydrogène ?) remplace l'un des atomes d'hydrogène
+- Différents corps du système solaire ont différentes proportions d'eau lourde par rapport à l'eau légère, qu'on appelle le rapport isotopique D/H (D/H ratio).
+- La comparaison du D/H de différents objets suggère que la majorité de l'eau sur Terre proviendrait des astéroides des régions externes de la ceinture d'astéroides, au delà de la ligne de glace (D/H quasi identique à celui des océans)
+- Les comètes ont probablement aussi contribué, mais (à l'exception de la comète Hartley 2) elles ont un D/H trop grand par rapport à celui des océans pour avoir joué un rôle important dans l'apport de l'eau sur Terre
+
+*D/H d'objets du système solaire (ESA 2017)*
+
+![plot DH ESA 2017](https://i.imgur.com/gInFdiw.jpg)
+
+***Le rôle de l'eau dans la vie sur Terre***
+
+- Il y a un consensus sur le fait que l'eau liquide soit un prérequis pour la vie telle qu'on la connaît.
+- L'eau présente de nombreux avantages pour la vie :
+> * C'est le meilleur solvant qui existe, l'eau étant une molécule polaire. Il peut donc dissoudre beaucoup de substances essentielles au métabolisme des êtres vivants, comme les sels par exemple
+> * L'eau est liquide dans une grande gamme de températures et de pressions
+> * L'eau permet à des molécules organiques hydrophobes (par exemple des lipides) de former des membranes cellulaires
+- Un corps humain adulte moyen est constitué à 50-60% d'eau (~50% pour les hommes, ~60% pour les femmes), avec de larges variations selon le sexe, l'âge et la corpulence.
+> * Un homme adulte typique de 70kg a 42L d'eau en lui.
+> * 2/3 de cette eau (total body water, ou TBW) est contenue dans les cellules (fluide intracellulaire), et 1/3 de cette eau est hors des cellules (fluide extracellulaire)
 
 # La Terre de l'Archéen
 
