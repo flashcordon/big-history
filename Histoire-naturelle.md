@@ -46,12 +46,11 @@
 
 
 *Résumé de l'histoire de la Terre (probablement issu de [Hessler 2011](https://www.nature.com/scitable/knowledge/library/earth-s-earliest-climate-24206248))*
-
 ![résumé de la Terre](https://i.imgur.com/G5R4zyY.jpg)
 
-![Drag](https://lejournal.cnrs.fr/sites/default/files/styles/asset_image_full/public/assets/images/infog_climat_terrestre_72dpi.jpg?itok=2cTfiDij)
+![Drag](https://i.imgur.com/PoJpyew.jpg)
 
-![Drag Racing](https://upload.wikimedia.org/wikipedia/commons/d/df/Timeline_showing_the_Boring_Billion.png)
+![Drag Racing](https://i.imgur.com/m4PeW6S.png)
 
 # Les éons 
 - Hadéen (de - 4,6 à - 4 milliards d’années)
