@@ -62,7 +62,7 @@
 
 *Sources*
 
-- Météorites, Matthieu GOunelle (2017)
+- Météorites, Matthieu Gounelle (2017)
 - [Hadean Earth](https://www.lpi.usra.edu/exploration/HadeanEarth/) - Ressources par le Lunar and Planetary Institute
 - [When a day lasted only 4 hours](http://www.iea.usp.br/en/news/when-a-day-lasted-only-four-hours) - Richard Meckien, Insittute of advanced studies of the university of Sao Paulo 2016
 - [Analysis of a Precambrian resonance‐stabilized day length](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068912) - Bartlett et Stevenson (2017)
@@ -160,6 +160,7 @@
 - [The when and where of water in the history of the universe](https://arxiv.org/pdf/1803.01452.pdf) - Torres et Winter (2018)
 - A history of the solar system – Claudio Vita-Finzi (2016)
 - From dust to life – John Mitton Chambers Jacueline (2014)
+- [The Geologic History of Seawater](https://www.researchgate.net/publication/259760318_Chapter_821_-_The_Geologic_History_of_Seawater) - Lowenstein et al (2014)
 - [Total body water data for white adults 18 to 64 years of age: The Fels Longitudinal Study](https://www.sciencedirect.com/science/article/pii/S0085253815462829) - Chumlea et al (1999)
 - [Body Water](https://en.wikipedia.org/wiki/Body_water) - Wikipédia
 - [Pathophysiology E-Book: The Biologic Basis for Disease in Adults and Children](https://books.google.fr/books?id=0fskCwAAQBAJ&pg=PA97&lpg=PA97&dq=65%25+body+water+percentage&source=bl&ots=i-tcVhOVjG&sig=ACfU3U0MHnj1BiN5MAydth4mh3bklcfqUg&hl=fr&sa=X&ved=2ahUKEwiR39e_t8vjAhVOExoKHVufA-U4FBDoATAEegQIBxAB#v=onepage&q=65%25%20body%20water%20percentage&f=false) - McCance et Huether (2018)
