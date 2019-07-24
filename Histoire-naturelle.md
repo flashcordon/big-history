@@ -39,13 +39,14 @@
 - [L’océan au sein du système Terre](https://youtu.be/EO_Brx4kv_k) - Conférence de Anny Cazenave (Avril 2016)
 - [Global Warming 56 Million Years Ago: What it Means for Us](https://youtu.be/81Zb0pJa3Hg) -  Conférence de Scott Wing (Janvier 2014)
 
-*Résumé de l'histoire de la Terre (probablement issu de [Hessler 2011](https://www.nature.com/scitable/knowledge/library/earth-s-earliest-climate-24206248))*
-
-![résumé de la Terre](https://i.imgur.com/G5R4zyY.jpg)
 
 ---
 
 *Timelines*:
+
+
+*Résumé de l'histoire de la Terre (probablement issu de [Hessler 2011](https://www.nature.com/scitable/knowledge/library/earth-s-earliest-climate-24206248))*
+![résumé de la Terre](https://i.imgur.com/G5R4zyY.jpg)
 
 ![Drag](https://lejournal.cnrs.fr/sites/default/files/styles/asset_image_full/public/assets/images/infog_climat_terrestre_72dpi.jpg?itok=2cTfiDij)
 
