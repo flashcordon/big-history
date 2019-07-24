@@ -1,3 +1,5 @@
+# HISTOIRE NATURELLE
+
 # Table des matières
 
 - [Les éons](#Les-éons)
@@ -36,6 +38,10 @@
 - [Misconceptions in Origin of Life](https://youtu.be/xElqecMYukM) - Purification Lopez-Garcia, Rencontres exobiologiques pour doctorants (Mars 2017)
 - [L’océan au sein du système Terre](https://youtu.be/EO_Brx4kv_k) - Conférence de Anny Cazenave (Avril 2016)
 - [Global Warming 56 Million Years Ago: What it Means for Us](https://youtu.be/81Zb0pJa3Hg) -  Conférence de Scott Wing (Janvier 2014)
+
+*Résumé de l'histoire de la Terre (probablement issu de [Hessler 2011](https://www.nature.com/scitable/knowledge/library/earth-s-earliest-climate-24206248))*
+
+![résumé de la Terre](https://imgur.com/57624e00-18cb-4fab-9ef8-46540f8db580)
 
 ---
 
