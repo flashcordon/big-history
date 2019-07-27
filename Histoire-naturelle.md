@@ -16,6 +16,7 @@
 > * [Le monde prébiotique](#Le-monde-prébiotique)
 > * [Lieux possibles d'apparition de la vie](#Lieux-possibles-dapparition-de-la-vie)
 > * [Un monde ARN](#Un-monde-ARN)
+> * [LUCA le dernier ancètre commun universel](#LUCA-le-dernier-ancetre-commun-universel)
 > * [La photosynthèse oxygénique](#La-photosynthèse-oxygénique)
 > * [La grande oxydation](#La-grande-oxydation)
 - [La Terre du Protérozoique](#La-Terre-du-Protérozoique)
@@ -383,9 +384,54 @@
 - Mais si l'ARN n'était pas la première molécule à pouvoir s'autorépliquer, quelle est elle?
 - La question devient alors : comment un monde ARN sans protéine a pu se développer sur la Terre primitive ?
 
-## LUCA
+## LUCA le dernier ancètre commun universel
 
-- [Origine de LUCA (ancêtre commun universel à tous les êtres vivants) : l'évolution est-elle apparue avec les gènes ou avec le métabolisme ?](https://controversciences.org/timelines/emergence-de-luca-last-universal-common-ancestor-les-premieres-entites-replicatives-etaient-elles-des-acides-nucleiques-des-systemes-metaboliques-ou-des-vesicules-lipidiques) - Controverscience (2016)
+*Sources*
+
+- [The last universal common ancestor between ancient Earth chemistry and the onset of genetics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6095482/) - Weiss et al (2018) 
+- [Cracking life’s code](https://www.knowablemagazine.org/article/living-world/2017/cracking-lifes-code) – Knowable Magazine (Novembre 2017)
+- [COMPARATIVE GENOMICS,MINIMAL GENE-SETS AND THE LASTUNIVERSAL COMMON ANCESTOR](http://pbil.univ-lyon1.fr/members/mbailly/AMIG/biblio/Koonin-minimal_genome.pdf) – Koonin (2003)
+- From suns to life - Muriel Gargaud, ‎Philippe Claeys, ‎Purificación López-García  (2007)
+- [LUCA : une cellule, un monde et nous](https://lejournal.cnrs.fr/billets/luca-une-cellule-un-monde-et-nous] – Patrick Forterre, le journal du CNRS (Septembre 2017)
+- [Last Universal Common Ancestor](https://link.springer.com/content/pdf/10.1007/978-3-642-27833-4_1728-4.pdf) – Delaye (2014)
+- [LUCA: Last Universal Common Ancestor](https://earthhow.com/luca-last-universal-common-ancestor/) - EarthHow (May 2019)
+- [Our last common ancestor inhaled hydrogen from underwater volcanoes](https://www.sciencemag.org/news/2016/07/our-last-common-ancestor-inhaled-hydrogen-underwater-volcanoes) – Science Magazine (Juillet 2016)
+- [The physiology and habitat of the last universal common ancestor](https://www.nature.com/articles/nmicrobiol2016116) – Weiss et al (2016)
+- [Les transferts horizontaux de gènes et l’arbre de la vie](https://www.medecinesciences.org/en/articles/medsci/full_html/2012/09/medsci2012288-9p695/medsci2012288-9p695.html) – Daubin et Abby (2012)
+- [Biologie évolutive](https://books.google.com/books?id=0MFEDQAAQBAJ&pg=PA30&lpg=PA30&dq=luca+600+genes&source=bl&ots=dcrgAAm6-q&sig=ACfU3U1dpaqKcUllBuR7CwUNJ8wBzmGqcQ&hl=fr&sa=X&ved=2ahUKEwjojoyD09XjAhVSOhoKHXLuBbAQ6AEwA3oECAcQAQ#v=onepage&q=luca%20600%20genes&f=false) - Thierry Lefevre, Michel Raymond, Frédéric Thomas (2016)
+- [Origin and Evolution of the Universal Genetic Code](https://www.annualreviews.org/doi/10.1146/annurev-genet-120116-024713) - Koonin et Novozhilov (2017)
+- [Origin and evolution of the genetic code: the universal enigma](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3293468/) - Koonin et Novozhilov (2009)
+- [Transfert horizontal de gènes](https://fr.wikipedia.org/wiki/Transfert_horizontal_de_g%C3%A8nes) - Wikipédia
+
+---
+
+- "Tous les organismes sont composés des mêmes macromolécules formées à partir des mêmes briques de base (les mêmes 20 acides aminés pour les protéines, les mêmes 4 bases azotées pour les acides nucléiques), utilisent le même code génétique et la même machinerie (le ribosome) pour synthétiser des protéines à partir de l'information génétique" (Source : Biologie Evolutive)
+- On partage de l'ADN avec l'ensemble du vivant sur Terre, de la plus petite bactérie à la plus grosse des baleines.
+> * Si on compare notre ADN à un Néandertalien, ils sont identiques à 99.7%. (à vérifier)
+> * Si l'on compare notre ADN à un chimpanzés, ils sont identiques à 98.5% (à vérifier)
+> * Si l'on compare notre ADN à un poulet, ils sont identiques à 60%. (à vérifier)
+- Dans "l'Origine des espèces" (1859), Charles Darwin écrit que la conclusion logique de la sélection naturelle et de la descendance avec modification, c'est que "probably all the organic beings which have ever lived on this earth have descended from some one primordial form, into which life was first breathed"
+- La vie sur Terre est organisée en 3 domaines : les archées, les bactéries et les eucaryotes
+> Cette division a été découverte par Carl Woese et Fox (1977) en utilisant un bout d'ARN ribosomique (ARNr, l'ARN qui constitue en partie les ribosomes) comme marqueur phylogénétique
+- Les 3 domaines de la vie partagent des réactions métaboliques fondamentales et les structures basiques de la cellule.
+- On peut donc naturellement définir un ancètre commun à l'ensemble de la vie actuelle sur Terre : LUCA (pour Last Universal Common Ancestor), qu'on appelle aussi le cenancètre (cenancestor)
+> On l'appelle LUCA en clin d'oeil à l'australopithèque Lucy
+- On trouve les caractéristiques de LUCA en comparant le génome de plusieurs espèces d'archées, de bactéries et d'eucaryotes. Grâce à cette méthode (génomique comparative et phylogénie moléculaire), on trouve que seule une trentaine de gènes est présente dans l'ensemble du vivant.
+-  La limite de cette méthode, c'est qu'elle ne prend pas en compte les transferts horizontaux de gènes et la perte secondaire de gènes (secondary gene loss, à vérifier).
+> Le transfert horizontal de gènes (aussi appelé transfert latéral de gènes) est un processus dans lequel un organisme intègre du matériel génétique provenant d'un autre organisme sans en être le descendant. Par opposition, le transfert vertical se produit lorsque l'organisme reçoit du matériel génétique à partir de son ancêtre. Un des grands débats de la biologie aujourd'hui, c'est qu'on ne connait pas à quel point les transferts horizontaux de gènes ont joué un grand rôle dans l'hisoire de la vie.
+- Ces gènes universaux sont quasi intégralement constitués de gènes qui encodent des protéines et de l'ARN ribosomiques, ce qui suggère que LUCA possédait un mécanisme de traduction basé sur des ribosomes, comme les cellules modernes.
+> Le mécanisme de synthèse de protéines par des ribosomes semble donc très ancient et n'a quasiment pas changé depuis l'époque de LUCA.
+- LUCA est une construction théorique : il pourrait avoir été un organisme... Ou pas.
+> La plupart des auteurs pensent que LUCA était un organisme unique, unicellulaire, qui possédait la plupart des caractéristiques communes à l'ensemble des organismes vivants aujourd'hui (et donc les gènes qui les encodent). D'autres pensent que LUCA était une population de cellules dont l'ensemble possédait tous ces gènes, même si aucun individu ne les possédait tous, et qui échangaient des gènes entre eux.
+- LUCA n'est pas l'origine de la vie. Il est apparu après l'origine de la vie, il y a plus de 3 milliards d'années. Avant l'apparition des 3 domaines du vivant (même si toute datation est impossible)
+- Si l'on fait des hypothèses sur les taux d'apparition et de disparition des gènes, on peut inférrer que LUCa possédait près de 600 gènes, et probablement plus.
+- De nombreux indices suggèrent que LUCA utilisait de l'ADN comme support de l'information génétique, mais il serait aussi possible qu'il utilise de l'ARN.
+- La plupart des auteurs pensent que LUCA ressemblait à un procaryote, avec son matériel génétique directement dans le cytoplasme de la cellule.
+- LUCA utilisait les substances inorganiques de son environnements, notamment du CO2 (fixation du CO2), pour les convertir en molécules organiques (il était autotrophe).
+> Le CO2 était en effet la principale source de carbone sur Terre lors de l'Hadéen, les autres sources provenant des météorites étant soit trop hétérogènes en terme de structure, soit trop réduites, pour favoriser la croissance de bactéries
+- Il vivait dans un environnement chaud et sans dioxygène (la grande oxydation arrivera plus tard dans l'histoire), mais aussi riche en CO2, en fer, en diazote (N2) et en gaz d'hydrogène (H2), dont il se nourrissait.
+> Tout porte à croire que l'environnement de LUCA était des sources hydrothermales
+- La présence d'une enzyme qui produit des molécules d'adénosine-triphosphate (ATP) tout en transférant des ions d'un côté à l'autre de la membrane (gradient de protons) sur les membranes de tous les organismes contemporains suggère que LUCA produisait de l'énergie de la même manière.
 
 ## La photosynthèse oxygénique
 
