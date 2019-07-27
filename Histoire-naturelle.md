@@ -433,6 +433,10 @@
 > Tout porte à croire que l'environnement de LUCA était des sources hydrothermales
 - La présence d'une enzyme qui produit des molécules d'adénosine-triphosphate (ATP) tout en transférant des ions d'un côté à l'autre de la membrane (gradient de protons) sur les membranes de tous les organismes contemporains suggère que LUCA produisait de l'énergie de la même manière.
 
+*Caractéristiques inferrées de LUCA (source : Biologie Evolutive)*
+
+![LUCA](https://i.imgur.com/v7V5KBs.png)
+
 ## La photosynthèse oxygénique
 
 - Inventé par les cyanobactéries entre 3.4 et 2.5 Gyrs
