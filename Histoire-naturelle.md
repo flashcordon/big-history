@@ -215,7 +215,7 @@
 > * C'est le meilleur solvant qui existe, l'eau étant une molécule polaire. Il peut donc dissoudre beaucoup de substances essentielles au métabolisme des êtres vivants, comme les sels par exemple
 > * L'eau est liquide dans une grande gamme de températures et de pressions
 > * L'eau permet à des molécules organiques hydrophobes (par exemple des lipides) de former des membranes cellulaires
-- Un corps humain adulte moyen est constitué à 50-60% d'eau (~50% pour les hommes, ~60% pour les femmes), avec de larges variations selon le sexe, l'âge et la corpulence.
+- Un corps humain adulte moyen est constitué à 50-60% d'eau (~60% pour les hommes, ~50% pour les femmes), avec de larges variations selon le sexe, l'âge et la corpulence.
 > * Un homme adulte typique de 70kg a 42L d'eau en lui.
 > * 2/3 de cette eau (total body water, ou TBW) est contenue dans les cellules (fluide intracellulaire), et 1/3 de cette eau est hors des cellules (fluide extracellulaire)
 
