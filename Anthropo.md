@@ -14,7 +14,7 @@
 - [The discovery of endogenous retroviruses](https://retrovirology.biomedcentral.com/articles/10.1186/1742-4690-3-67) – Weiss (2006)
 - [Endogenous Retrovirus 3 – History, Physiology, and Pathology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5775217/#!po=3.39806) - Bustamante Rivera et al (2017)
 - [On the concept and elucidation of endogenous retroviruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3758183/) – Weiss (2013)
- https://www.annualreviews.org/doi/abs/10.1146/annurev.genet.42.110807.091501?rfr_dat=cr_pub%3Dpubmed&url_ver=Z39.88-2003𝔯_id=ori%3Arid%3Acrossref.org&journalCode=genet
+- [Effects of Retroviruses on Host Genome Function](https://www.annualreviews.org/doi/abs/10.1146/annurev.genet.42.110807.091501?rfr_dat=cr_pub%3Dpubmed&url_ver=Z39.88-2003𝔯_id=ori%3Arid%3Acrossref.org&journalCode=genet) -Jern et Coffin (2008)
 - [Endogenous retroviruses](https://link.springer.com/article/10.1007%2Fs00018-008-8495-2) - Blikstad et al (2008)
 - Planète Virus - Carl Zimmer (2016)
 - [Retrovirus endogènes devenus gènes de l'organisme : exemple des gènes des syncytines ](http://acces.ens-lyon.fr/acces/thematiques/evolution/accompagnement-pedagogique/accompagnement-au-lycee/terminale-2012/diversification-genetique-des-etres-vivants/transfert-viral/retrovirus) – Institut Français de l'éducation (2012)
