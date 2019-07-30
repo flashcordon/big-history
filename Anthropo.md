@@ -45,7 +45,7 @@
 > La présence élevée de HERV-R (aussi appelé ERV3 pour le 3e élément rétroviral identifié chez l'humain) semble corrélée à certains cancers (colorectal, poumon, foie), mais on ne sait pas encore vraiment s'il contribue à promouvoir ou à supprimer la croissance des tumeurs. HERV-R a été identifié chez tous les primates, à l'exception des gorilles, et a intégré le génome des primates il y a environ 30-40 millions d'années.
 - Les analyses génétiques moléculaires ont montré que toutes les espèces de vertébrés ont eu leur génome colonisé par de nombreux rétrovirus. Ces infections ont eu lieu par vagues.
 
-*([Source](http://bodell.mtchs.org/OnlineBio/BIOCD/text/chapter16/concept16.5.html))*
+*Le cycle de vie du VIH, un rétrovirus ([Source](http://bodell.mtchs.org/OnlineBio/BIOCD/text/chapter16/concept16.5.html))*
 
 ![vih](https://i.imgur.com/LecJtIb.gif)
 
