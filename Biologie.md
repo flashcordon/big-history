@@ -8,3 +8,5 @@
 - [Molecular Visualizations of DNA - Original High Quality Version](https://youtu.be/OjPcT1uUZiE) - Drew Berry (2003)
 - [Body Code](https://youtu.be/mDZLiZB0iPY) - Drew Berry (2003)
 - [Transcription - Central Dogma Part 1](https://youtu.be/DA2t5N72mgw) - Drew Berry (2003)
+- [Translation - Central Dogma Part 2](https://youtu.be/WkI_Vbwn14g) - Drew Berry (2003)
+- [Illustration of the nuclear interior and DNA chromosomes.](https://www.wehi.edu.au/wehi-tv/nuclear-interior) - Drew Berry (2009)
