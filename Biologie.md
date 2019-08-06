@@ -3,7 +3,8 @@
 # Table des matières
 
 - [Composition biologique du corps humain](#Composition-biologique-du-corps-humain)
-
+- [La part de virus en nous](#La-part-de-virus-en-nous)
+- [Visualiser l'intérieur d'une cellule](#Visualiser-lintérieur-dune-cellule)
 
 ## Composition biologique du corps humain
 
