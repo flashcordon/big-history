@@ -1,3 +1,30 @@
+## Composition biologique du corps humain
+
+- [Are We Really Vastly Outnumbered? Revisiting the Ratio of Bacterial to Host Cells in Humans](https://www.cell.com/cell/fulltext/S0092-8674(16)00053-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867416000532%3Fshowall%3Dtrue) – Sender et al (2016)
+- [Revised Estimates for the Number of Human and Bacteria Cells in the Body](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4991899/) - Sender et al (2016)
+- [The Human Virome Protein Cluster Database (HVPC): A Human Viral Metagenomic Database for Diversity and Function Annotation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5987705/) - Elbehery et al (2018)
+
+---
+
+- Une personne typique contient environ 30 000 milliards (3×10^13) de cellules humaines
+> * La plupart des sources donnent une estimation entre 10^13 et 10^14, et une estimation récente donne un chiffre de 3.7×10^13 cellules humaines
+> * La personne typique utilisée dans la littérature est un homme entre 20 et 30 ans, d’1m70 et de 70 kg
+- La plupart de ces cellules (84% en nombre) sont des globules rouges
+> Les globules rouges font partie des plus petites sortes de cellules du corps humain
+- Par contre, en terme de masse, 75 % de la masse des cellules humaines est constitué de 2 types de cellules : les adipocytes (cellules de stockage de la graisse) et les myocytes (fibres musculaires)
+> Ces cellules ne représentent qu’une minuscule fraction (~0.2%) du nombre total de cellules
+- Il y a quasiment autant de bactéries (3.8 × 10^13)  que de cellules humaines dans le corps humain
+> Par contre elles ne représente que 0.3 % de la masse du corps humain
+- On trouve les bactéries principalement sur les surfaces externes et internes du corps humain
+> La grosse majorité des bactéries vit dans le colon, suivi par la peau. On en trouve aussi dans les muqueuses.
+- Il y a 100 fois plus de virus (~10^15) que de cellules dans le corps humain
+> On appelle l’ensemble des virus présents sur et dans le corps humain le virome
+
+*Distribution of cell number and mass for different cell types in the human body (for a 70 kg adult man) (Source : Sender 2016)*
+![cells_humans_bacteria](https://i.imgur.com/LreIKGr.jpg)
+
+![cellules](https://i.imgur.com/zSdJAkj.jpg)
+
 ## La part de virus en nous
 
 *Sources*
