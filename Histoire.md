@@ -1,3 +1,27 @@
+# Nombre d’humains qui ont vécu sur Terre
+
+*Sources*
+
+- [World population estimates](https://en.m.wikipedia.org/wiki/World_population_estimates) - Wikipédia
+- [How many people have ever lived on earth?](https://www.ncbi.nlm.nih.gov/m/pubmed/12288594/) - Haub (1995)
+- [How Many People Have Ever Lived on Earth?](https://www.prb.org/howmanypeoplehaveeverlivedonearth/) - Population Reference Bureau (2017)
+- [The HYDE 3.1 spatially explicit database of human‐induced global land‐use change over the past 12,000 years](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1466-8238.2010.00587.x) - Goldewijk et al (2010)
+- [World population growth](https://ourworldindata.org/world-population-growth) – Our World in Data (2019)
+
+---
+
+- Selon le Population Reference Bureau, près de 108 milliards d’Homo Sapiens sont nées depuis les derniers 50 000 ans (le début du paléolithique supérieur).
+> Sachant que la population humaine est de 7.7 milliards en 2019, cela veut dire que près de 7% du nombre total de gens qui ont vécu sur la planète sont vivantes aujourd’hui.
+- La population humaine a dramatiquement augmenté au cours des derniers 12 000 ans.
+> * Il y a 12 000 ans, nous étions 2.4 millions
+> * Il y a 10 000 ans, nous étions 5.1 millions
+> * Il y a 2000 ans, nous étions 188,2 millions
+> * En 1850, nous étions 1.2 milliards
+> * En 2019, nous sommes 7.7 milliards
+
+*Evolution de la population humaine (Comparaison des différentes estimations [ici](https://ourworldindata.org/grapher/total-world-population-comparison-of-different-sources?time=-10000..2000&country=HYDE%203.1+Kremer%20(1993)+Livi-Bacci%20(1997)+McEvedy%20and%20Jones%20(1978)+Our%20World%20In%20Data+Renfrew%20and%20Bahn%2C%20lower%20(1996)+Renfrew%20and%20Bahn%2C%20upper%20(1996)+Thomlinson%20(1975)%2C%20lower+Thomlinson%20(1975)%2C%20upper))*
+![worldpop](https://i.imgur.com/LqGkFer.png)
+
 # Les origines de l'écriture
 
 *Sources*
