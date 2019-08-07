@@ -11,6 +11,7 @@
 - [Are We Really Vastly Outnumbered? Revisiting the Ratio of Bacterial to Host Cells in Humans](https://www.cell.com/cell/fulltext/S0092-8674(16)00053-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867416000532%3Fshowall%3Dtrue) – Sender et al (2016)
 - [Revised Estimates for the Number of Human and Bacteria Cells in the Body](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4991899/) - Sender et al (2016)
 - [The Human Virome Protein Cluster Database (HVPC): A Human Viral Metagenomic Database for Diversity and Function Annotation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5987705/) - Elbehery et al (2018)
+- [An estimation of the number of cells in the human body](https://www.ncbi.nlm.nih.gov/pubmed/23829164) - Bianconi et al (2013)
 
 ---
 
