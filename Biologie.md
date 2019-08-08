@@ -2,9 +2,51 @@
 
 # Table des matières
 
+- [Composition atomique du corps humain](#Composition-atomique-du-corps-humain)
 - [Composition biologique du corps humain](#Composition-biologique-du-corps-humain)
 - [La part de virus en nous](#La-part-de-virus-en-nous)
 - [Visualiser l'intérieur d'une cellule](#Visualiser-lintérieur-dune-cellule)
+
+## Composition atomique du corps humain
+
+*Sources*
+
+- [What Are the Elements in the Human Body? ](https://www.thoughtco.com/elements-in-the-human-body-p2-602188) – Anne Marie Helmenstine  (Mai 2019)
+- [Human Body Composition: Advances in Models and Methods](https://www.annualreviews.org/doi/abs/10.1146/annurev.nutr.17.1.527) - Heymsfield  et Wang (1997)
+- Principles of biochemistry – Lehninger et al (2008)
+- [What Elements Are Found in the Human Body?](https://askabiologist.asu.edu/content/atoms-life) – Ask a biologist (2009)
+- [Composition of the human body](https://en.wikipedia.org/wiki/Composition_of_the_human_body) - Wikipédia
+- [The elements of life and medicines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4342972/#RSTA20140182C5) – Chelian et Sadier (2015)
+
+---
+
+- Sur les 94 éléments chimiques présents naturellement, seule une cinquantaine a été détecté dans le corps humain
+- 4 éléments seulement (CHON) représentent 96% de la masse du corps humain.
+> * Oxygène (65%) : il se lie à l'hydrogène pour former de l'eau. Nécessaire pour la respiration
+> * Carbone (18%) : peut se lier à 4 atomes. Forme l'architecture des molécules de la vie. Présent dans les glucides, les lipides, les acides nucléiques et les protéines
+> * Hydrogène (10%) : On le trouve dans l'eau et dans toutes les molécules organiques
+> * Azote (3%) : On le trouve dans les protéines et dans les acides nucléiques. Il constitue 78% de l'air qu'on respire, on le retrouve donc dans nos poumons. Par contre, le corps humain ne peut pas métaboliser cet azote, il faut l'ingérer par le biais de la nourriture.
+- Si on ajoute 7 autres éléments (Ca, P, K, S, Na, Cl, Mg), ça représente 99.9% de la masse du corps humain
+> * Calcium (1.5%) : On le trouve dans les os.
+> * Phosphore (1%) : On le trouve dans les os, les acides nucléiques et dans l'ATP, la molécule qui transporte l'énergie dans les cellules.
+> * Potassium (0.35%) : Utilisé pour transmettre les impulsions nerveuses et dans la régulation cardiaque
+> * Soufre (0.25%) : Présent dans 2 acides aminés. Forme des liens pour aider les protéines à prendre la forme qui leur permet de prendre leurs fonctions
+> * Sodium (0.2%)
+> * Chlore (0.2%)
+> * Magnésium (0.2%)
+- Pour faire un être humain typique de 70kg, il nous faut donc : 45.5 kg d'oxygène, 12.6 kg de carbone, 7 kg d'hydrogène, 2.1 kg d'azote, 1 kg de calcium, 700 grammes de phosphore, 245 grammes de potassium, 175 grammes de soufre, 140 grammes de sodium, 140 grammes de chlore, 140 grammes de magnésium et une pincée d'éléments divers
+- En terme de nombre, près de 99% de nos atomes sont des CHON : 
+> * 62.8% de nos atomes sont des atomes d'hydrogène
+> * 25.4% de nos atomes sont des atomes d'oxygène
+> * 9.4% carbone
+> * 1.4% azote
+> * 1% autre
+
+*Eléments trouvés dans le corps humain (Source : Ask a biologist)*
+
+![atomes corps](https://i.imgur.com/hCOr9BL.gif)
+
+![elementscorps](https://i.imgur.com/tArSHsS.png)
 
 ## Composition biologique du corps humain
 
