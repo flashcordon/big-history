@@ -66,6 +66,7 @@
 - [Body fluid compartments of a 70-kg adult man](https://www.physiologyweb.com/figures/physiology_illustration_tPksfgTyDcZ10zEq1Wp1FqLjrBRL8IGL_body_fluid_compartments_of_a_70_kg_adult_man.html) - Physiology Web
 - [Basic Molecules of the Human Body](https://www.austincc.edu/sziser/Biol%202404/2404%20handouts/Basic%20Molecules.pdf)
  
+---
 
 - On trouve plus de 100 000 molécules différentes dans le corps humain
 - Les différentes molécules de votre corps peuvent être classées en 6 groupes : l'eau, les lipides (la plupart des lipides sont des graisses), les protéines, les glucides (sucres), les acides nucléiques et les minéraux (os et tissus mous)
@@ -106,7 +107,6 @@
 > * Il y a 2 types d'acides nucléiques  : ADN (acide désoxyribonucléique) et ARN (acide ribonucléique), les molécules porteuses de l'information génétique
 > * Pour faire un être vivant, il faut un plan de fabrication. Ce plan est contenu dans les acides nucléiques à l'intérieur de chacune de vos cellules, et rédigé dans une écriture moléculaire à 4 lettres : ACTG pour l'ADN, ACUG pour l'ARN.
 
-![moleculesvivant](https://i.imgur.com/oyKYRC3.jpg)
 
 *Le modèle en 5 niveaux de la composition d'un humain (Source : Pujitha Wickramasinghe, Recent advances in Pediatrics)*
 
@@ -212,6 +212,13 @@
 - [Cellular Landscape](https://www.cellsignal.com/contents/science/cellular-landscapes/science-landscapes) - Cell Signaling Technology
 - [Scivis](http://www.scivis.it/videos/)
 - [Smart Biology](https://twitter.com/SmartBiology3D)
+
+---
+
+*Composition moléculaires d'une cellule (Source : Smart Biology)
+
+![moleculesvivant](https://i.imgur.com/oyKYRC3.jpg)
+
 
 *Structuration de l'ADN dans un chromosome*
 
