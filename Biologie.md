@@ -3,6 +3,7 @@
 # Table des matières
 
 - [Composition atomique du corps humain](#Composition-atomique-du-corps-humain)
+- [Composition moléculaire du corps humain](#Composition-moléculaire-du-corps-humain)
 - [Composition biologique du corps humain](#Composition-biologique-du-corps-humain)
 - [La part de virus en nous](#La-part-de-virus-en-nous)
 - [Visualiser l'intérieur d'une cellule](#Visualiser-lintérieur-dune-cellule)
