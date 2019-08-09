@@ -48,6 +48,67 @@
 
 ![elementscorps](https://i.imgur.com/tArSHsS.png)
 
+## Composition moléculaire du corps humain
+
+*Sources*
+
+- [Multi-Component Molecular-Level Body Composition Reference Methods: Evolving Concepts and Future Directions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4464774/) - Heymsfield  et al (2015)
+- [Five levels of body composition](https://www.brainkart.com/article/Five-levels-of-body-composition_17366/) - Introduction to Human nutrition
+- Principles of Biochemistry – Lehninger et al (2008)
+- [Assessment of body composition](https://books.google.fr/books?id=uh9DGQZHAPgC&pg=PA195&lpg=PA195&dq=50+elements+in+human+body&source=bl&ots=hV38-ShLPd&sig=ACfU3U05JAyxp7Y3t41H-6kbTKF3ldO3WQ&hl=fr&sa=X&ved=2ahUKEwjAsJLKsfPjAhUjxoUKHZghBps4FBDoATAFegQICRAB#v=onepage&q=50%20elements%20in%20human%20body&f=false) – Pujitha Wickramasinghe, Recent advances in Pediatrics
+- [Total body water data for white adults 18 to 64 years of age: The Fels Longitudinal Study](https://www.sciencedirect.com/science/article/pii/S0085253815462829) - Chumlea et al (1999)
+- [Body Water](https://en.wikipedia.org/wiki/Body_water) - Wikipédia
+- [Pathophysiology E-Book: The Biologic Basis for Disease in Adults and Children](https://books.google.fr/books?id=0fskCwAAQBAJ&pg=PA97&lpg=PA97&dq=65%25+body+water+percentage&source=bl&ots=i-tcVhOVjG&sig=ACfU3U0MHnj1BiN5MAydth4mh3bklcfqUg&hl=fr&sa=X&ved=2ahUKEwiR39e_t8vjAhVOExoKHVufA-U4FBDoATAEegQIBxAB#v=onepage&q=65%25%20body%20water%20percentage&f=false) - McCance et Huether (2018)
+- [Total body water volumes for adult males and females estimated from simple anthropometric measurements](https://read.qxmd.com/read/6986753/total-body-water-volumes-for-adult-males-and-females-estimated-from-simple-anthropometric-measurements) - Watson et al (1980)
+- [Body fluid compartments of a 70-kg adult man](https://www.physiologyweb.com/figures/physiology_illustration_tPksfgTyDcZ10zEq1Wp1FqLjrBRL8IGL_body_fluid_compartments_of_a_70_kg_adult_man.html) - Physiology Web
+- [Basic Molecules of the Human Body](https://www.austincc.edu/sziser/Biol%202404/2404%20handouts/Basic%20Molecules.pdf)
+ 
+
+- On trouve plus de 100 000 molécules différentes dans le corps humain
+- Les différentes molécules de votre corps peuvent être classées en 6 groupes : l'eau, les lipides (la plupart des lipides sont des graisses), les protéines, les glucides (sucres), les acides nucléiques et les minéraux (os et tissus mous)
+
+***Eau***
+- Un corps humain adulte moyen est constitué à 50-60% d'eau (~60% pour les hommes, ~50% pour les femmes), avec de larges variations selon le sexe, l'âge et la corpulence. 
+> * Un homme adulte typique de 70kg a 42 L d'eau en lui. 
+> * 2/3 de cette eau (total body water, ou TBW) est contenue dans les cellules (fluide intracellulaire), et 1/3 de cette eau est hors des cellules (fluide extracellulaire) 
+
+***Lipides***
+- Les lipides constituent 20% de la masse du corps humain
+> * Ces molécules constituent la matière grasse des êtres vivants. 
+> * Elles sont insolubles dans l'eau. 
+> * Certains lipides (phospholipides et stérols) sont des éléments essentiels pour former des membranes cellulaires
+> * Les graisses sont aussi une forme de stockage d'énergie quasi universelle chez les êtres vivants. On peut retirer 2 fois plus d'énergie d'une masse de graisse (en la cassant) que de la même masse de glucide 
+> * Les lipides servent aussi de molécules véhiculant des signaux à l'intérieur des cellules, mais aussi entre les cellules
+
+***Protéines***
+- Les protéines constituent 15% de la masse du corps humain
+> * Les protéines sont des polymères, des assemblages de constituants de base : les acides aminés 
+> * Les protéines sont chargées d'exécuter les taches rédigées en alphabet moléculaire sur les acides nucléiques.
+> * Les protéines ont de nombreux rôles dans le corps : il peuvent servir de composants structurels aux cellules et aux tissus, de messagers pour transmettre des informations entre les cellules (hormones), à défendre le corps contre des infections (anticorps), et à réguler (catalyser) toutes les réactions chimiques qui ont lieu dans le corps (enzymes). Toute l'activité d'une cellule est dirigée par des protéines.
+> * Les protéines sont produites lors d'un processus appelé traduction : un ribosome lit la séquence de nucléotides sur un brin d'ARN messager, et cette séquence est traduite en acides aminés qui s'assemblent pour former la protéine
+> * La séquence d'acide aminés détermine la forme en 3D de la protéine (les interactions entre les acides aminés plient la protéine en une structure complexe), et c'est cette structure en 3D qui détermine sa fonction 
+> * Les 20 acides aminés qui constituent les protéines sont distinctes chimiquement, si bien qu'elles résultent en une invroyable diversité de formes de protéines (la plus grande diversité de macromolécules connue).
+> * Un être humain produit entre 25 000 et 35 000 protéines différentes
+
+***Minéraux***
+- Les minéraux représentent 5% de la masse du corps humain (3.9% os, 1.4% tissus mous)
+
+***Glucides***
+- Les glucides représentent 1-2% de la masse du corps humain
+> * Ce sont les biomolécules les plus abondantes sur Terre
+> * Casser des molécules de glucose représente une source d'énergie pour la cellule, et le matériau de base pour la synthèse de nouveaux constituants de cellules
+
+***Acides nucléiques***
+- Les acides nucléiques représentent < 1% de la masse du corps humain
+> * Il y a 2 types d'acides nucléiques  : ADN (acide désoxyribonucléique) et ARN (acide ribonucléique), les molécules porteuses de l'information génétique
+> * Pour faire un être vivant, il faut un plan de fabrication. Ce plan est contenu dans les acides nucléiques à l'intérieur de chacune de vos cellules, et rédigé dans une écriture moléculaire à 4 lettres : ACTG pour l'ADN, ACUG pour l'ARN.
+
+![moleculesvivant](https://i.imgur.com/oyKYRC3.jpg)
+
+*Le modèle en 5 niveaux de la composition d'un humain (Source : Pujitha Wickramasinghe, Recent advances in Pediatrics)*
+
+![5niveaux](https://i.imgur.com/NRWHOCt.png)
+
 ## Composition biologique du corps humain
 
 - [Are We Really Vastly Outnumbered? Revisiting the Ratio of Bacterial to Host Cells in Humans](https://www.cell.com/cell/fulltext/S0092-8674(16)00053-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867416000532%3Fshowall%3Dtrue) – Sender et al (2016)
