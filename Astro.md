@@ -189,6 +189,62 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 
 # Matière et antimatière
 
+*Sources*
+
+- [L’apparition de la matière et la baryogénèse](https://www.astronomes.com/le-big-bang/naissance-matiere) – Astronomie et Astrophysique (2019)
+- [Antimatière](https://fr.wikipedia.org/wiki/Antimati%C3%A8re#%C2%AB_Victoire_%C2%BB_de_la_mati%C3%A8re_par_violation_de_CP) - Wikipédia
+- [How Do We Know Antimatter Is Absent?](http://www.slac.stanford.edu/econf/C040802/papers/L017.PDF) – SLAC Summer Institute on Particle physics (2004)
+- [Antimatter : Anything out there?](https://www.nature.com/articles/nphys2308) - Georgescu (2012)
+- [L’asymétrie matière-antimatière (à la recherche de l’antimatière perdue)](https://indico.in2p3.fr/event/8801/attachments/37978/46891/Justine_Serrano_Antimatiere.pdf) Conférence de Justine Serrano (2013)
+- [Baryogenesis](https://en.wikipedia.org/wiki/Baryogenesis) - Wikipédia
+- [BARYOGENESIS](https://arxiv.org/pdf/hep-ph/0609145.pdf) Cline (2006)
+- [Baryogenesis and Leptogenesis](https://www.slac.stanford.edu/econf/C040802/papers/L018.PDF) – Trodden, SLAC Summer Institute on Particle physics (2004) 
+- [Baryogenesis: A small review of the big picture](https://arxiv.org/abs/1411.3398) – Balazs (2014) 
+- [What exactly is CP violation?](https://www.quantumdiaries.org/2011/11/14/what-exactly-is-cp-violation/) - Quantum diaries
+- [Symétrie C](https://fr.wikipedia.org/wiki/Sym%C3%A9trie_C) - Wikipédia
+- [](http://lappweb.in2p3.fr/~buskulic/cours/PHYS805/PHYS805_Chapitre4.pdf) – Cours de Damir Buskulic
+- [CP violation](https://www.britannica.com/science/CP-violation) – Encyclopedia Brittanica
+- [Une brève histoire de l’univers](https://books.google.com/books?id=sNHF8e7tJD8C&pg=PA102&lpg=PA102&dq=%C3%A9tat+hors+d%27%C3%A9quilibre+sakharov&source=bl&ots=8p5QVdqCEo&sig=ACfU3U1DMWsD3O3tc4jMqyuG77A07lpnig&hl=fr&sa=X&ved=2ahUKEwj66eKP8PjjAhXxAGMBHfY-DjIQ6AEwDnoECAYQAQ#v=onepage&q=%C3%A9tat%20hors%20d'%C3%A9quilibre%20sakharov&f=false) – Joe Silk
+- [Madame Wu and the Holiday Experiment That Changed Physics Forever](https://gizmodo.com/madame-wu-and-the-holiday-experiment-that-changed-physi-1749319896) – Gizmodo (2015)
+- [Toward a history of explanation in science communication: the case of Madame Wu experiment on parity violation](https://jcom.sissa.it/archive/16/03/JCOM_1603_2017_A10) - Bertozzi (2017)
+- [Symétrie CP](http://feynman.phy.ulaval.ca/marleau/pp/10cpt/sym_cp.html) – Cours de Luc Marleau
+
+---
+
+- Aujourd’hui on prend la matière (protons, neutrons, électrons...) comme un acquis. Mais elle n’a pas toujours existé comme tel !
+- Le modèle standard de la physique des particules contient 12 particules élémentaires : 6 quarks et 6 leptons
+- A chacune de ces particules de matière correspond une particule d’antimatière : une particule d’antimatière a la même masse et les mêmes nombres quantiques que sa particule de matière correspondante, mais une charge électrique opposée.
+> En 1928, Paul Dirac décrit le comportement des électrons dans l’équation qui porte aujourd’hui son nom. Sauf que son équation a 2 solutions ! La 2e solution correspond à une particule de charge opposée. Dirac invente alors le concept de positron (anti-électron) en 1930. 2 ans plus tard, on en découvre dans les rayons cosmiques (Prix Nobel 1936)
+- Si l’on fait s’entrechoquer des particules de matière avec leurs antiparticules, elles s’annihilent et convertissent l’intégralité de leur masse en photons. (E=mc² ! Si on a assez d’énergie on peut créer de la matière, et toute matière de masse m contient une énergie au repos E/c²)
+> 1 positron + 1 électron <→ 2 photons
+- Il n’y a quasiment plus d’antimatière dans l’univers aujourd’hui. 
+> On en trouve sous forme de traces dans les rayons cosmiques qui entrent en collision avec l’atmosphère. Ils sont issus de la collision entre particules comme des baryons, des leptons ou des photons. On en produit aussi dans nos accélérateurs de particules.
+- Mais ça n’a pas été toujours le cas ! Juste après l’inflation, l’énergie dans lequel l’univers baignait après le réchauffement aurait du produire autant de matière que d’antimatière !
+> Les baryons auraient du s’annihiler avec leurs antiparticules, en ne laissant qu’une abondance négligeable de baryons. Mais ce n’est pas ce qu’on observe.
+- L’origine de cette asymétrie entre matière et antimatière est aujourd’hui un mystère, et un sujet de recherche très actif.
+> * Toute asymétrie de baryons qui existerait avant l’inflation devrait avoir été diluée et deveniu négligeable pendant l’inflation, à cause de la production d’entropie qui a lieu pendant le reheating.
+> * Aucun processus connu dans le modèle standard n’est capable de produire une telle asymétrie. Il faut donc étendre le modèle standard pour construire une explication.
+- Si les lois de la nature traitent les particules de la matière de la même manière que les particules d’antimatière, les physiciens disent qu’elles respectent la symétrie CP (Charge-Parité). Sinon, ils disent que la symétrie CP est violée.
+> * Une symétrie en physique, c’est une transformation qui agit sur un système physique et qui laisse ce système inchangé.
+> * CP est la combinaison de 2 symétries fondamentales : la conjugaison de charge (C) et la parité (P)
+- La conjugaison de charge est une transformation mathématique qui change la valeur de la charge / remplace une particule par son antiparticule : Q → -Q (ex : un électron devient un positron)
+> Une théorie possède la symétrie C si elle est invariante sous la conjugaison de charge. L’électromagnétisme, la gravitation et l’interaction forte obéissent à la symétrie de charge, mais l’interaction faible viole la symétrie C. 
+- La parité (qu’on appelle aussi inversion de l’espace) est une transformation mathématique qui change les coordonnées spatiales d’un système en son symétrique par rapport à l’origine des coordonnées : (x,y,z) → (-x,-y,-z) 
+> Une théorie possède la symétrie P si elle est invariante sous la conjugaison de parité. La parité est conservée dans l’électromagnétisme, la gravitation et l’interaction forte, mais elle est violée dans l’interaction faible. Ça veut dire que certains atomes radioactifs se désintègrent de façon asymétrique : l’électron est préférentiellement éjecté dans une direction précise par rapport au spin du noyau (montrée en 1956 sur des atomes de Cobalt 60 par l’expérience de Chien-Shiung Wu). Certaines réactions se produisent donc moins souvent que leur image dans un miroir (analogie intuitive mais limitée).
+- CP transforme un électron de spin up en positron de spin down
+> L’interaction faible est la seule interaction qui viole la symétrie CP
+- Selon Sakharov (1967), tout modèle d’émergence de la matière (baryogénèse) doit remplir les 3 conditions suivantes pour générer une asymétrie entre matière et antimatière :
+> * Violation du nombre baryonique B : certains processus physiques doivent créer plus de matière que d’antimatière 
+> * Violation de la symétrie CP
+> * L’univers doit être hors de l’équilibre thermique, ce qui est une conséquence logique de son expansion
+- Les 3 conditions de Sakharov sont satisfaites dans le modèle standard, mais l’asymétrie prédite par le modèle standard est trop faible pour expliquer les observations.
+- Nos théories cosmologiques n’excluent pas la possibilité qu’il reste des régions / îlots dans l’univers constituées d’antimatière.
+> La matière et l’antimatière émettent des photons de même longueur d’onde, donc la lumière des galaxies lointaines ne nous aide pas vraiment. Par contre à la frontière entre les régions de matière et les régions d’antimatière on devrait voir de l’annihilation donc un fort signal dans le domaine des rayons gamma, mais on n’a détecté aucun signal de ce type à ce jour. Si ces régions existent, elles sont aussi grandes que l’univers observable, mais on ne connaît pas de mécanisme plausible pour séparer les baryons et les antibaryons à de telles échelles.
+
+*Particules du modèle standard de la physique des particules (Source : Wikipédia)*
+
+![particules](https://i.imgur.com/Sb18hJB.png)
+
 # Nucléosynthèse primordiale
 
 *Sources*
