@@ -156,7 +156,6 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 
 *Sources*
 
-
 ---
 
 - Le modèle standard de la physique des particules nous dit qu'il y a 4 forces / interactions fondamentales dans l'univers, chacune portée par une particule messagère virtuelle (boson de jauge) décrite comme une excitation du champ associé en théorie quantique des champs :
@@ -202,7 +201,7 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 - [Baryogenesis: A small review of the big picture](https://arxiv.org/abs/1411.3398) – Balazs (2014) 
 - [What exactly is CP violation?](https://www.quantumdiaries.org/2011/11/14/what-exactly-is-cp-violation/) - Quantum diaries
 - [Symétrie C](https://fr.wikipedia.org/wiki/Sym%C3%A9trie_C) - Wikipédia
-- [](http://lappweb.in2p3.fr/~buskulic/cours/PHYS805/PHYS805_Chapitre4.pdf) – Cours de Damir Buskulic
+- [Symétries](http://lappweb.in2p3.fr/~buskulic/cours/PHYS805/PHYS805_Chapitre4.pdf) – Cours de Damir Buskulic
 - [CP violation](https://www.britannica.com/science/CP-violation) – Encyclopedia Brittanica
 - [Une brève histoire de l’univers](https://books.google.com/books?id=sNHF8e7tJD8C&pg=PA102&lpg=PA102&dq=%C3%A9tat+hors+d%27%C3%A9quilibre+sakharov&source=bl&ots=8p5QVdqCEo&sig=ACfU3U1DMWsD3O3tc4jMqyuG77A07lpnig&hl=fr&sa=X&ved=2ahUKEwj66eKP8PjjAhXxAGMBHfY-DjIQ6AEwDnoECAYQAQ#v=onepage&q=%C3%A9tat%20hors%20d'%C3%A9quilibre%20sakharov&f=false) – Joe Silk
 - [Madame Wu and the Holiday Experiment That Changed Physics Forever](https://gizmodo.com/madame-wu-and-the-holiday-experiment-that-changed-physi-1749319896) – Gizmodo (2015)
