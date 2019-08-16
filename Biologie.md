@@ -7,6 +7,7 @@
 - [Composition biologique du corps humain](#Composition-biologique-du-corps-humain)
 - [La part de virus en nous](#La-part-de-virus-en-nous)
 - [Visualiser l'intérieur d'une cellule](#Visualiser-lintérieur-dune-cellule)
+- [Composition moléculaire d'une cellule](#Composition-moléculaire-dune-cellule)
 
 ---
 
@@ -213,13 +214,34 @@
 - [Scivis](http://www.scivis.it/videos/)
 - [Smart Biology](https://twitter.com/SmartBiology3D)
 
+## Composition moléculaire d'une cellule
+
+*Sources*
+
+- [The Molecular Composition of Cells](https://www.ncbi.nlm.nih.gov/books/NBK9879/?fbclid=IwAR2dwoBObYnb0g8g_gXNCeM_ZnSOy0J_N7lNyPMpRro_ZPSXvfk5D8wI1W8)
+https://www.ncbi.nlm.nih.gov/books/NBK26883/ 
+- Principles of Biochemistry – Lehninger et al (2008)
+- [Cell and chemical composition of a cell](http://biochem.md.chula.ac.th/Data/PDF%20files/Chemical%20composition%20of%20the%20cell-2012.pdf)  - Cours de Chanchai Boonla (2012)
+- [Mathematical slices of Molecular Biology](http://www-master.ufr-info-p6.jussieu.fr/2005/IMG/pdf/gazette.pdf)
+- [What is the macromolecular composition of the cell?](http://book.bionumbers.org/what-is-the-macromolecular-composition-of-the-cell/) - Cell Biology by the numbers
+
 ---
+
+- Une cellule de procaryote est généralement petite (1-10 microns)
+- Une cellule d'eucaryote est généralement plus large (5-100 microns)
+- L'eau est la molécule la plus abondante des cellules. Elle représente 70% de la masse totale de la cellule.
+> Ces molécules sont piégées dans la cellule par la membrane. On appelle l'ensemble des petites molécules d'une cellule son métabolome
+- Les macromolécules, formées par l'assemblage (polymérisation) de centaines voire de milliers de constituants élémentaires, constituent 80 à 90% de la masse sèche de la plupart des cellules
+> Ces macromolécules sont les protéines, les acides nucléiques et la plupart des glucides, construites à partir de l'assemblage d'acides aminés, de nucléotides et de sucres respectivement.
+- Les lipides sont l'autre constituant majeur des cellules
+- Toutes les cellules contiennent aussi une centaine (100-200) de petites molécules dissoutes dans la phase liquide (le cytosole) de celle-ci : des acides nucléiques, des acides aminés, des sucres.
 
 *Composition moléculaires d'une cellule (Source : Smart Biology)
 
 ![moleculesvivant](https://i.imgur.com/oyKYRC3.jpg)
 
-
 *Structuration de l'ADN dans un chromosome*
 
 ![adncoiled](https://i.imgur.com/mvC5yCA.jpg)
+
+## Universalité des mécanismes de la vie
