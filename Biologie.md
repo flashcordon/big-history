@@ -219,11 +219,12 @@
 *Sources*
 
 - [The Molecular Composition of Cells](https://www.ncbi.nlm.nih.gov/books/NBK9879/?fbclid=IwAR2dwoBObYnb0g8g_gXNCeM_ZnSOy0J_N7lNyPMpRro_ZPSXvfk5D8wI1W8)
-https://www.ncbi.nlm.nih.gov/books/NBK26883/ 
+- [The Chemical Components of a Cell](https://www.ncbi.nlm.nih.gov/books/NBK26883/) - Alberts et al (2002)
 - Principles of Biochemistry – Lehninger et al (2008)
 - [Cell and chemical composition of a cell](http://biochem.md.chula.ac.th/Data/PDF%20files/Chemical%20composition%20of%20the%20cell-2012.pdf)  - Cours de Chanchai Boonla (2012)
 - [Mathematical slices of Molecular Biology](http://www-master.ufr-info-p6.jussieu.fr/2005/IMG/pdf/gazette.pdf)
 - [What is the macromolecular composition of the cell?](http://book.bionumbers.org/what-is-the-macromolecular-composition-of-the-cell/) - Cell Biology by the numbers
+- [Lewin's Gene X](https://books.google.com/books?id=0pM4KbFIEb0C&pg=PA191&lpg=PA191&dq=1.8m+DNA+size&source=bl&ots=55EfVnMzAz&sig=ACfU3U0eC1lSo9teyn3AJBrggGPzuvUFgA&hl=fr&sa=X&ved=2ahUKEwjYwKGjoN_jAhVGxoUKHUSGA3oQ6AEwDHoECAcQAQ#v=onepage&q=1.8m%20DNA%20size&f=false)
 
 ---
 
@@ -233,8 +234,11 @@ https://www.ncbi.nlm.nih.gov/books/NBK26883/
 > Ces molécules sont piégées dans la cellule par la membrane. On appelle l'ensemble des petites molécules d'une cellule son métabolome
 - Les macromolécules, formées par l'assemblage (polymérisation) de centaines voire de milliers de constituants élémentaires, constituent 80 à 90% de la masse sèche de la plupart des cellules
 > Ces macromolécules sont les protéines, les acides nucléiques et la plupart des glucides, construites à partir de l'assemblage d'acides aminés, de nucléotides et de sucres respectivement.
+- Chaque noyau de cellule contient environ 1.8m d'ADN, répartis en 46 chromosomes
+> Ces chromosomes prennent leur forme caractéristique en X lors de la division cellulaire, mais la plupart du temps l'ADN dans le noyau est réparti comme un bol de nouilles
 - Les lipides sont l'autre constituant majeur des cellules
 - Toutes les cellules contiennent aussi une centaine (100-200) de petites molécules dissoutes dans la phase liquide (le cytosole) de celle-ci : des acides nucléiques, des acides aminés, des sucres.
+
 
 *Composition moléculaires d'une cellule (Source : Smart Biology)
 
