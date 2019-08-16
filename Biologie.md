@@ -250,6 +250,10 @@
 
 ![molecules_cells_table](https://i.imgur.com/eET4FCv.png)
 
+*Bis*
+
+![compomolbis](https://i.imgur.com/MdSQOl4.png)
+
 *Structuration de l'ADN dans un chromosome*
 
 ![adncoiled](https://i.imgur.com/mvC5yCA.jpg)
