@@ -225,6 +225,7 @@
 - [Mathematical slices of Molecular Biology](http://www-master.ufr-info-p6.jussieu.fr/2005/IMG/pdf/gazette.pdf)
 - [What is the macromolecular composition of the cell?](http://book.bionumbers.org/what-is-the-macromolecular-composition-of-the-cell/) - Cell Biology by the numbers
 - [Lewin's Gene X](https://books.google.com/books?id=0pM4KbFIEb0C&pg=PA191&lpg=PA191&dq=1.8m+DNA+size&source=bl&ots=55EfVnMzAz&sig=ACfU3U0eC1lSo9teyn3AJBrggGPzuvUFgA&hl=fr&sa=X&ved=2ahUKEwjYwKGjoN_jAhVGxoUKHUSGA3oQ6AEwDHoECAcQAQ#v=onepage&q=1.8m%20DNA%20size&f=false)
+- [The human genome: Quick facts](http://www.genetic-health.co.uk/quick-facts.htm) - Giles Newton
 
 ---
 
