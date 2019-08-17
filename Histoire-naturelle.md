@@ -221,6 +221,12 @@
 
 # La Terre de l'Archéen
 
+*Soruces*
+
+- [Reconstructed ancestral enzymes suggest long-term cooling of Earth’s photic zone since the Archean](https://www.pnas.org/content/114/18/4619.abstract?tab=author-info)
+
+---
+
 - Les orthogneiss d'Acasta (Canada) sont les plus anciennes roches connues sur Terre (datées de 4Gyrs). Ces roches déterminent la limite entre l'Hadéen et l'Archéen. Elles contiennent des cristaux de zircons formés plus tôt et datés de 4.2Gyrs.
 - Comme le Soleil était moins brillant qu'il ne l'est auourd'hui, la Terre serait totalement gelée si elle n'avait pas eu une concentration de CO2 (émis par les volcans) plus grande que maintenant, ainsi que des archées méthanogènes (apparues vers 3.5 Gyrs) qui balacent du méthane régulièrement pendant les 2 premiers milliards d'années de l'histoire de la Terre (faint young Sun paradox).
 - Les gisements de fer rubané (BIFs)
@@ -230,6 +236,7 @@
 > Ca c'est ce que prédit la théorie mais on n'a aucune observation pour le moment qui le confirme
 - Comme la Terre tourne plus vite sur elle-même que maintenant, les cyclones sont plus fréquents (?)
 - Grâce aux poussières volcaniques, il y a de l'électricité statique dans l'atmosphère. D'énormes éclairs devraient avoir eu lieu sur la Terre primitive.
+- La surface de la Terre pendant l'archéen était à une température moyenne d'environ 75°C. Elle se serait refroidie et aurait atteint les 35°C pendant le Dévonien (il y a 420 millions d'années), pour arriver à 15°C aujourd'hui.
 
 ## La tectonique des plaques 
 
