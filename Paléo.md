@@ -18,6 +18,7 @@
 *Sources*
 
 - [When We Met Other Human Species](https://youtu.be/jdYwMLSNHnU?list=WL) - PBS Eons (Juillet 2019)
+- [Aspects of human physical and behavioural evolution during the last 1 million years](https://onlinelibrary.wiley.com/doi/full/10.1002/jqs.3137?fbclid=IwAR1OhsqEn0FfuY_gCW_I_Cdo0bTySXZmObPClQ-j-QJYLWwEsMcwhNVU98w) - Galway‐Witham et al (2019)
 
 ---
 
@@ -31,6 +32,10 @@
 - Est-ce que Néandertal et Sapiens sont des espèces différentes ? Ca dépend de la définition d'espèce.
 
 - l'héritage de Néandertal et Denisova est dans nos gènes (EPAS1 etc) nous rappelle un temps où nous n'étions pas seuls -> cf conclusion de PBS Eons (brillante!)
+
+*Différents homininés durant le dernier million d'années (Source : Galway‐Witham et al 2019)*
+
+![lignées](https://i.imgur.com/oG2yC4c.jpg)
 
 ## Les Sapiens
 
