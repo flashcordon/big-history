@@ -227,6 +227,7 @@
 - [Lewin's Gene X](https://books.google.com/books?id=0pM4KbFIEb0C&pg=PA191&lpg=PA191&dq=1.8m+DNA+size&source=bl&ots=55EfVnMzAz&sig=ACfU3U0eC1lSo9teyn3AJBrggGPzuvUFgA&hl=fr&sa=X&ved=2ahUKEwjYwKGjoN_jAhVGxoUKHUSGA3oQ6AEwDHoECAcQAQ#v=onepage&q=1.8m%20DNA%20size&f=false)
 - [The human genome: Quick facts](http://www.genetic-health.co.uk/quick-facts.htm) - Giles Newton
 - [Intracellular Water Exchange for Measuring the Dry Mass, Water Mass and Changes in Chemical Composition of Living Cells](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067590) - Delgado et al (2013)
+- [What Is a Cell?](https://www.nature.com/scitable/topicpage/what-is-a-cell-14023083/) - Nature Scitable
 
 ---
 
@@ -253,6 +254,10 @@
 *Bis*
 
 ![compomolbis](https://i.imgur.com/MdSQOl4.png)
+
+*Ter (Source : Scitable)*
+
+![compmolter](https://i.imgur.com/HG3sTJq.jpg)
 
 *Structuration de l'ADN dans un chromosome*
 
