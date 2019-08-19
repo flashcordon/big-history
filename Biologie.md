@@ -263,4 +263,43 @@
 
 ![adncoiled](https://i.imgur.com/mvC5yCA.jpg)
 
-## Universalité des mécanismes de la vie
+# Universalité des mécanismes du vivant
+
+*Sources*
+
+- [The Universal Features of Cells on Earth](https://www.ncbi.nlm.nih.gov/books/NBK26864/) - Molecular biology of the cell (2002)
+- [How Many Species Are There on Earth and in the Ocean?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160336/) - Mora et al (2011)
+- [Inordinate Fondness Multiplied and Redistributed: the Number of Species on Earth and the New Pie of Life](https://www.journals.uchicago.edu/doi/10.1086/693564) – Larsen et al (2017)
+- [6 Billion Species](http://www.rosspiper.net/2018/01/16/6-billion-species/) - Blog de Ross Piper (2018)
+- [How many species on Earth? Why that’s a simple question but hard to answer](https://theconversation.com/how-many-species-on-earth-why-thats-a-simple-question-but-hard-to-answer-114909?fbclid=IwAR2BGfSt3IOpXRBctv2N0UMCXkEog6IBKY7jo6qgN_QE9EU3YjiIt6Qw1fU) – The Conversation (Avril 2019)
+- [Hachimoji DNA and RNA: A genetic system with eight building blocks](https://science.sciencemag.org/content/363/6429/884) – Hoshika et al (2019)
+- [Four new DNA letters double life’s alphabet](https://www.nature.com/articles/d41586-019-00650-8) – Nature (Février 2019)
+- [Metabolic Pathways](http://compbio.ucdenver.edu/Hunter/bio5099/lecture-notes/10-01.pdf) – Cours de biologie moléculaire de Larry Hunter
+- [Acide ribonucléique](https://fr.wikipedia.org/wiki/Acide_ribonucl%C3%A9ique#Double_h%C3%A9lice_d'ARN) - Wikipédia
+- [La membrane plasmique](http://www.afblum.be/bioafb/membrane/membrane.htm) – Cours de Eric Walravens 
+
+---
+
+Il y a probablement plus d'1 milliard d'espèces vivantes dans le monde (entre 1 et 6 milliards selon les plus récentes estimations)
+> * Les bactéries représentent entre 70 et 90% des espèces vivantes, et le nombre d'espèces d'animaux est largement dominé par les insectes
+> * On n'a décrit qu'1.6 millions d'espèces à l'heure actuelle dans les 3 domaines du vivant
+- Chaque espèce engendre une progéniture qui appartient à la même espèce : les parents passent à l'enfant les informations qui détermineront les caractéristiques de cet enfant (hérédité).
+> L'ADN de vos aprents biologiques s'est mélé de manière unique dans l'univers pour vous donner vous.
+- La plupart des organismes vivants ne sont constitués que d'une cellule. D'autres sont de véritables cités de cellules, des organismes multicelulaires, où chaque cellule a un rôle donné et communique avec les cellules environnantes.
+> Mais tous les organismes multicellulaires sont issus de la division cellulaire d'une seule cellule !
+- La cellule est la plus petite structure capable de produire des copies d'elles mêmes en rassemblant des briques de base de son environnement.
+> Elle est donc le véhicule de la transmission de l'information génétique dans toutes les espèces vivantes. 
+- Toutes les cellules sur Terre sans exception stockent l'information génétique dans la même molécule : l'ADN
+> L'ADN est une molécule formée de 2 brins enroulés l'un autour de l'autre pour former une structure en forme de double hélice. Chacun des brins est une longue séquence constituée de 4 types de monomères (bases azotées) : A = adénine, G = guanine, C = cytosine, T = thymine. Ces monomères encodent l'information génétique à la manière d'une séquence de 0 et de 1 qui encodent l'information sur un fichier d'un ordinateur.  Les deux brins ont une séquence de bases azotées complémentaires : A se lie à T, et C se lie à G.
+- L'information génétique n'a peut être pas toujours été archivée par l'ADN dans l'histoire de la vie (cf monde ARN). Mais cette molécule a eu un tel succès qu'elle est aujourd'hui la molécule de choix pour l'intégralité du vivant sur Terre.
+> Une vie ailleurs serait-elle basée sur l'ADN ? Pas sûr ! D'autres molécules sont possibles. Hoshika et al (2019) ont par exemple construit une molécule synthétique basée sur 8 nucléotides au lieu de 4, qu'ils ont appelé "ADN Hachimoji" (du japonais "8 lettres"). La structure de cette molécule est similaire à l'ADN.
+- Toutes les cellules transcrivent des bouts de leur information héréditaire de la même manière : sur des molécules d'ARN
+> * L'ARN est un acide nucléique, une molécule similaire à l'ADN mais différente en quelques points : sa structure est formée par un autre sucre, le ribose (au lieu du déoxyribose pour l'ADN), et l'une des 4 bases azotées est différente chimiquement (l'uracile U au lieu de la thymine T). La plupart des ARN sont de simples brins qui se replient sur eux mêmes, contrairement à la structure en double hélice de l'ADN.
+- Toutes les cellules traduisent l'ARN en protéines de la même manière.
+> L'information contenue dans la séquence de nucléotides de l'ARN (messager) est lue par groupes de 3 nucléotides (des codons) par des molécules spéciales (des ARN de transfert), et chaque codon est traduit en un acide aminé. Les acides aminés s'assemblent l'un après l'autre en une chaîne pour former une protéine. Cette opération se produit dans de grosses machines moléculaires, les ribosomes, qui s'attachent au brin d'ARN messager et qui glissent le long de la molécule pour y attacher les ARN de transferts correspondant à chaque codon.
+- En plus de l'ADN, de l'ARN, et des protéines, toutes les cellules sur Terre contiennent les mêmes briques de base qui permettent de fabriquer ces macromolécules : des sucres, des nucléotides et des acides aminés.
+- L'universalité de ces composants de base dans les cellules actuelles suggère que les séries de réactions chimiques qui servent aujourd'hui à garantir l'intégrité des cellules et leur reproduction (voies métaboliques) sont des mécanismes très ancien qui ont été développé et coservé (par l'évolution) très tôt dans l'histoire de la vie.
+- Toutes les cellules sur Terre sont délimitées par une membrane qui les séparent du monde extérieur : la membrane plasmique.
+> * Cette membrane agit comme une barrière qui concentre les molécules dont une cellule a besoin pour se reproduire. Mais cette barrière est perméable à certaines molécules afin que la cellule puisse excréter ses déchets, recevoir des messages en provenance d'autres cellules et en envoyer.
+> * La membrane plasmique est composée de phospholipides, un type de molécule possédant une "tête" hydrophile (soluble dans l'eau) et une double "queue" hydrophobe (non soluble dans l'eau). Dans l'eau, les phospholipides s'agrègent naturellement en une double couce pour former une membrane. Ainsi, les parties hydrophobes des phospholipides sont en contact maximum pour éviter tout contact avec l'eau, et les parties hydrophiles sont exposées à l'eau.
+> * La membrane plasmique est très fine (quelques nanomètres) comparée à l'étendue de la cellule, comme la surface d'une bulle. 
