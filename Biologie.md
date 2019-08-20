@@ -304,3 +304,47 @@ Il y a probablement plus d'1 milliard d'espèces vivantes dans le monde (entre 1
 > * Cette membrane agit comme une barrière qui concentre les molécules dont une cellule a besoin pour se reproduire. Mais cette barrière est perméable à certaines molécules afin que la cellule puisse excréter ses déchets, recevoir des messages en provenance d'autres cellules et en envoyer.
 > * La membrane plasmique est composée de phospholipides, un type de molécule possédant une "tête" hydrophile (soluble dans l'eau) et une double "queue" hydrophobe (non soluble dans l'eau). Dans l'eau, les phospholipides s'agrègent naturellement en une double couce pour former une membrane. Ainsi, les parties hydrophobes des phospholipides sont en contact maximum pour éviter tout contact avec l'eau, et les parties hydrophiles sont exposées à l'eau.
 > * La membrane plasmique est très fine (quelques nanomètres) comparée à l'étendue de la cellule, comme la surface d'une bulle. 
+
+## Taux de remplacement de nos cellules
+
+*Sources*
+
+- [Your body is younger than you think](https://www.nytimes.com/2005/08/02/science/your-body-is-younger-than-you-think.html) – New York Times (2005)
+- [How long it takes your body to regrow 19 types of cells and organs, from your skin to your skeleton](http://www.businessinsider.fr/us/how-long-it-takes-the-body-to-grow-hair-nails-cells-2018-4) – Business Insider (2018)
+- [How quickly do different cells in the body replace themselves](http://book.bionumbers.org/how-quickly-do-different-cells-in-the-body-replace-themselves/) - Cell Biology by the numbers (2015)
+- [The Personality Myth](https://www.npr.org/programs/invisibilia/482836315/the-personality-myth) – Invisiblia (2016)
+- [Does The Human Body Replace Itself Every Seven Years?](https://www.snopes.com/fact-check/does-body-replace-itself-seven-years/) - Snopes (2018)
+- [Retrospective Birth Dating of Cells in Humans](https://www.cell.com/cell/fulltext/S0092-8674(05)00408-3) – Spalding et al (2005)
+- [Your Body's Real Age](https://youtu.be/Nwfg157hejM) - NPR's SKUNK BEAR (2016)
+- [Your atomic self](https://books.google.fr/books?id=uJ1zAwAAQBAJ&pg=PA213&lpg=PA213&dq=replacement+atoms+human+body+Aebersold&source=bl&ots=Aa3g0cJmsc&sig=ACfU3U0dLjxZ_mTfsKWefQi_daAAOx-mew&hl=fr&sa=X&ved=2ahUKEwj_8JGhnI_kAhXh4IUKHUTTD0M4ChDoATABegQIBxAB#v=onepage&q=replacement%20atoms%20human%20body%20Aebersold&f=false) – Curt Stager (2014)
+- [If every atom in our body is periodically replaced, who are we if we are not our atoms and we are not our cells?](https://www.quora.com/If-every-atom-in-our-body-is-periodically-replaced-who-are-we-if-we-are-not-our-atoms-and-we-are-not-our-cells) – Quora (2014)
+- [How do we know the lifespan of different tissue/cell types](https://skunkbear.tumblr.com/post/146593746334/c14) – Skunk Bear, Tumblr (2016)
+- [Stable neuron numbers from cradle to grave](https://www.pnas.org/content/103/33/12219)
+- [Lifespan of body parts](https://www.medicalsciencenavigator.com/physiology-of-self-renewal/) - Margaret Thompson Reece , Medical Science Navigator
+- [Bring It to an End: Does Telomeres Size Matter?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6356554/) - Laberthonnière  et al (2019)
+- [Stabilité chromosomique, vieillissement cellulaire et cancer : rôle des télomères et de la télomérase](https://planet-vie.ens.fr/article/2114/stabilite-chromosomique-vieillissement-cellulaire-cancer-role-telomeres-telomerase#introduction) - Emilie Fallet , Planète Vie (2018)
+- [Montre-moi tes télomères, et je te dirai combien de temps tu vivras](https://sciencetonnante.wordpress.com/2014/02/17/montre-moi-tes-telomeres-et-je-te-dirai-combien-de-temps-tu-vivras/) - Science Etonnante (2014)
+
+---
+
+- Votre corps est atomiquement plus vieux que vous, mais il est plus jeune que vous cellulairement parlant.
+- Les cellules ont une durée de vie finie, et lorsqu'elles meurent elles sont remplacées par de nouvelles cellules durant toute votre vie.
+> Notre corps n'est pas une structure fixe. C'est un flux !
+- On fait tous l'expérience de cette régénération permanente :
+> * Chacun de vos cheveux est remplacé tous les 2 à 6 ans (vitesse de pousse : environ 1 cm / mois). Vous perdez chaque jour une centaine de cheveux, mais ils sont remplacés par une centaine d'autres en moyenne, si vous n'êtes pas atteint d'alopécie (chute de cheveux accélérée). 
+> * Vos ongles de main grandissent à une vitesse d'environ 3 mm / mois. Toutes les cellules de vos ongles sont complètement remplacées en 6 mois.
+> * Les cellules de la couche superficielle de votre peau (l'épiderme) mettent 10 à 30 jours à se régénérer entièrement.
+- Différents types de cellules sont remplacées à des vitesses différentes.
+> * Le squelette d'un adulte met environ 10 ans à se régénérer complètement 
+> * Tous les 4 mois, vous avez une nouvelle armée de globules rouges prête à parcourir les chemins sinueux de votre système sanguin. Toutes les minutes, une centaines de millions de nouveaux globules rouges naissent, et une centaine de millions de globules rouges meurent en moyenne.
+> * La vitesse de régénération d'un type de cellules est liée à l'environnement. Les cellules exposées à un environnemnent extérieur rude, comme celles de la peau ou de la paroi intestinale (exposées à de l'acide gastrique et à de la bile) sont remplacés très rapidement. D'autres comme les cellules qui composent votre masse graisseuse (adipocytes) sont remplacées très lentement (en 8 ans)
+- Mais certaines cellules persistent pendant toute votre vie !
+> * C'est le cas d'un petit amas de cellules au coeur de la lentille de vos yeux, présent depuis que vous êtes un embryon et qui vous accompagneront tout au long de votre vie. Vous les utilisez pour lire ce texte en ce moment même.
+> * C'est aussi le cas des neurones de votre cortex cérébral. Plus de 99% des neurones de votre néocortex ont été générées avant votre naissance. Ce sont les connexions entre les neurones qui changent au cours de votre vie à mesure que vous accumulez des information.
+- A l'intérieur des cellules, la plupart des molécules sont constamment construites et détruites. A l'exception de la molécule d'ADN, née lors de la division d'une cellule parent, et qui reste stable durant toute la durée de vie d'une cellule
+> L'intégrité de la molécule d'ADN est maintenue par une grande variété de mécanismes de réparation.
+- Mais même la molécule d'ADN n'est pas complètement stable au cours de votre vie. > L'ADN raccourcit de quelques dizaines de bases à chaque division cellulaire. Raccourcissement des télomères. Sénescence réplicative.
+
+*Taux de remplacement des cellules du corps humain (Source : Biology by number)*
+
+![replacementrate](https://i.imgur.com/8k1R3Z7.png)
