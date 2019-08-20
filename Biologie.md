@@ -282,7 +282,7 @@
 
 ---
 
-Il y a probablement plus d'1 milliard d'espèces vivantes dans le monde (entre 1 et 6 milliards selon les plus récentes estimations)
+Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur Terre
 > * Les bactéries représentent entre 70 et 90% des espèces vivantes, et le nombre d'espèces d'animaux est largement dominé par les insectes
 > * On n'a décrit qu'1.6 millions d'espèces à l'heure actuelle dans les 3 domaines du vivant
 - Chaque espèce engendre une progéniture qui appartient à la même espèce : les parents passent à l'enfant les informations qui détermineront les caractéristiques de cet enfant (hérédité).
