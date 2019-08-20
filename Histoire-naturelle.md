@@ -167,11 +167,17 @@
 - [Pathophysiology E-Book: The Biologic Basis for Disease in Adults and Children](https://books.google.fr/books?id=0fskCwAAQBAJ&pg=PA97&lpg=PA97&dq=65%25+body+water+percentage&source=bl&ots=i-tcVhOVjG&sig=ACfU3U0MHnj1BiN5MAydth4mh3bklcfqUg&hl=fr&sa=X&ved=2ahUKEwiR39e_t8vjAhVOExoKHVufA-U4FBDoATAEegQIBxAB#v=onepage&q=65%25%20body%20water%20percentage&f=false) - McCance et Huether (2018)
 - [Total body water volumes for adult males and females estimated from simple anthropometric measurements](https://read.qxmd.com/read/6986753/total-body-water-volumes-for-adult-males-and-females-estimated-from-simple-anthropometric-measurements) - Watson et al (1980)
 - [Body fluid compartments of a 70-kg adult man](https://www.physiologyweb.com/figures/physiology_illustration_tPksfgTyDcZ10zEq1Wp1FqLjrBRL8IGL_body_fluid_compartments_of_a_70_kg_adult_man.html) - Physiology Web
+- [Plant Adaptations to Life on Land](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/25%3A_Seedless_Plants/25.1%3A_Early_Plant_Life/25.1C%3A_Plant_Adaptations_to_Life_on_Land) – Biology Libretext (2019)
+- [Capacité thermique massique](https://fr.wikipedia.org/wiki/Capacit%C3%A9_thermique_massique) – Wikipédia
+- [What happens when stuff dissolves?](https://www.youtube.com/watch?v=0cPFx0wFuVs) – Tyler DeWitt (2012)
+- [The molecular composition of cells](https://www.ncbi.nlm.nih.gov/books/NBK9879/) - The Cell: A Molecular Approach (2000)
+- [Découvrir la biologie](https://books.google.com/books?id=0YS9Hyp4gXsC&pg=PA86&lpg=PA86&dq=liaison+hydrog%C3%A8ne+aimant&source=bl&ots=bvzGywKfDj&sig=ACfU3U1MWGxXXNrnJQ-e64w9JOzm52iZWQ&hl=fr&sa=X&ved=2ahUKEwjxzprA55DkAhWxxYUKHT3hD1EQ6AEwIHoECAkQAQ#v=onepage&q=liaison%20hydrog%C3%A8ne%20aimant&f=false) - Michael L. Cain, Robert A. Lue (2002)
 
 ---
 
 - L'eau est formé par 2 des 3 éléments les plus communs dans l'univers
 > L'hydrogène est l'élément le plus commun de l'univers, et l'oxygène l'élément le plus commun sur Terre (et le 3e élément le plus commun de l'univers, après l'Hélium)
+- La moécule d'eau est composée d'un atome d'oxygène et de 2 atomes d'hydrogène, liés par des liaisons covalentes
 - L'hydrogène de l'eau a été formé juste après le Big Bang, et l'oxygène a été forgé au coeur de la première génération d'étoiles
 - On trouve de l'eau partout dans l'univers : sur les planètes, les astéroides, les comètes, au coeur des nuages moléculaires, dans des galaxies lointaines et même dans le Soleil
 - La molécule d'eau se forme lorsque 2 molécules d'hydrogène (H2) rencontrent une molécule d'oxygène (O2)
@@ -211,13 +217,22 @@
 ***Le rôle de l'eau dans la vie sur Terre***
 
 - Il y a un consensus sur le fait que l'eau liquide soit un prérequis pour la vie telle qu'on la connaît.
-- L'eau présente de nombreux avantages pour la vie :
-> * C'est le meilleur solvant qui existe, l'eau étant une molécule polaire. Il peut donc dissoudre beaucoup de substances essentielles au métabolisme des êtres vivants, comme les sels par exemple
-> * L'eau est liquide dans une grande gamme de températures et de pressions
-> * L'eau permet à des molécules organiques hydrophobes (par exemple des lipides) de former des membranes cellulaires
+- Quasiment tous les processus liés à la vie se produisent en milieu aqueux
+- L'intérieur de nos cellules est composée à 70% d'eau
 - Un corps humain adulte moyen est constitué à 50-60% d'eau (~60% pour les hommes, ~50% pour les femmes), avec de larges variations selon le sexe, l'âge et la corpulence.
 > * Un homme adulte typique de 70kg a 42L d'eau en lui.
 > * 2/3 de cette eau (total body water, ou TBW) est contenue dans les cellules (fluide intracellulaire), et 1/3 de cette eau est hors des cellules (fluide extracellulaire)
+
+### Avantages de l'eau pour la vie :
+
+- L'eau est liquide dans une grande gamme de températures et de pressions
+- L'eau possède une grande capacité thermique, ce qui permet aux cellules et aux organismes de garder une température relativement constante malgré les fluctuations de température de l'environnement et de la chaleur générée par le métabolisme. 
+> La capacité thermique, c'est l'énergie requise pour augmenter la température d'1g d'eau d'1°C. Plus une capacité thermique d'un corps est grande, plus ce corps peut stocker de l'énergie thermique moyennant une augmentation relativement faible de la température.
+- C'est le meilleur solvant qui existe, l'eau étant une molécule polaire (elle se comporte comme un petit aimant). Il peut donc dissoudre beaucoup de substances essentielles au métabolisme des êtres vivants, comme les sels par exemple
+> * Le noyau chargé positivement de l'atome d'oxygène a tendance à attirer les électrons négatifs des atomes d'hydrogène. La distribution des charges électriques dans la molécule d'eau est donc inégale : l'hydrogène a une légère charge positive et l'oxygène a une légère charge négative
+> * Comme les charges opposées s'attirent, le côté positif de la molécule d'eau va avoir tendance à être attiré par le côté négatif d'une autre molécule, et inversement. Les molécules d'eau peuvent donc former des liens entre elles ou avec d'autres molécules polaires qui possèdent des atomes d'hydrogène ou avec des ions. On appelle ces liens des liaisons hydrogène. Elles sont moins fortes que les liaisons covalentes.
+> * Lorsqu'on place des composés polaires dans l'eau (comme du sel ou du sucre), leurs molécules vont se retrouver encerclées par des molécules d'eau et vont se balader librement dans l'eau. On dit que ces composés sont solubles dans l'eau, ou hydrophiles. A contrario, lorsqu'on place des composés apolaires dans l'eau (comme de l'huile), au lieu de se séparer, ils s'agglomèrent entre eux pour minimiser le contact avec l'eau, parce qu'ils ne sont pas attirés par les molécules d'eau (les molécules d'eau vont préférentiellement être attirés par les molécules polaires). On dit que ces composés sont hydrophobes.
+- Le caractère polaire de l'eau permet à des molécules organiques hydrophobes (comme par exemple des phospholipides) de former des membranes cellulaires (bi-couches lipidiques)
 
 # La Terre de l'Archéen
 
