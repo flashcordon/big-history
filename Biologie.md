@@ -40,7 +40,7 @@
 > * Sodium (0.2%)
 > * Chlore (0.2%)
 > * Magnésium (0.2%)
-- Pour faire un être humain typique de 70kg, il nous faut donc : 45.5 kg d'oxygène, 12.6 kg de carbone, 7 kg d'hydrogène, 2.1 kg d'azote, 1 kg de calcium, 700 grammes de phosphore, 245 grammes de potassium, 175 grammes de soufre, 140 grammes de sodium, 140 grammes de chlore, 140 grammes de magnésium et une pincée d'éléments divers
+- Pour faire un être humain typique de 70kg, il nous faut donc : 45.5 kg d'oxygène, 12.6 kg de carbone, 7 kg d'hydrogène, 2.1 kg d'azote, 1 kg de calcium, 700 grammes de phosphore, 245 grammes de potassium, 175 grammes de soufre, 140 grammes de sodium, 140 grammes de chlore, 140 grammes de magnésium et 360 grammes d'éléments divers
 - En terme de nombre, près de 99% de nos atomes sont des CHON : 
 > * 62.8% de nos atomes sont des atomes d'hydrogène
 > * 25.4% de nos atomes sont des atomes d'oxygène
