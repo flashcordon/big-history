@@ -32,7 +32,7 @@
 > * Carbone (18%) : peut se lier à 4 atomes. Forme l'architecture des molécules de la vie. Présent dans les glucides, les lipides, les acides nucléiques et les protéines
 > * Hydrogène (10%) : On le trouve dans l'eau et dans toutes les molécules organiques
 > * Azote (3%) : On le trouve dans les protéines et dans les acides nucléiques. Il constitue 78% de l'air qu'on respire, on le retrouve donc dans nos poumons. Par contre, le corps humain ne peut pas métaboliser cet azote, il faut l'ingérer par le biais de la nourriture.
-- Si on ajoute 7 autres éléments (Ca, P, K, S, Na, Cl, Mg), ça représente 99.9% de la masse du corps humain
+- Si on ajoute 7 autres éléments (Ca, P, K, S, Na, Cl, Mg), ça représente 99.7% de la masse du corps humain
 > * Calcium (1.5%) : On le trouve dans les os.
 > * Phosphore (1%) : On le trouve dans les os, les acides nucléiques et dans l'ATP, la molécule qui transporte l'énergie dans les cellules.
 > * Potassium (0.35%) : Utilisé pour transmettre les impulsions nerveuses et dans la régulation cardiaque
