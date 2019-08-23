@@ -279,9 +279,13 @@
 - [Metabolic Pathways](http://compbio.ucdenver.edu/Hunter/bio5099/lecture-notes/10-01.pdf) – Cours de biologie moléculaire de Larry Hunter
 - [Acide ribonucléique](https://fr.wikipedia.org/wiki/Acide_ribonucl%C3%A9ique#Double_h%C3%A9lice_d'ARN) - Wikipédia
 - [La membrane plasmique](http://www.afblum.be/bioafb/membrane/membrane.htm) – Cours de Eric Walravens 
+- [What Is Life—and How Do We Search for It in Other Worlds?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC516796/?fbclid=IwAR38YvfjY1qTEQPBcp9rA8IB_v14xeQn8slQM9Now9jUafhk0bZhGc6IGRU#!po=4.83871) - McKay (2004)
 
 ---
 
+- L'intégralité de la vie sur Terre a besoin de la même liste d'ingrédients : du carbone, de l'eau, de l'énergie (la vie a besoi d'un flux d'énergie permanent pour pouvoir garder sa structure) et quelques autres éléments (azote, soufre, phosphore)
+> * Les CHNOPS sont très abonadnts dans le système solaire
+> * Il n'y a que 2 sources d'énergie possibles pour la vie sur Terre : le Soleil et l'énergie chimique / géothermique (?)
 Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur Terre
 > * Les bactéries représentent entre 70 et 90% des espèces vivantes, et le nombre d'espèces d'animaux est largement dominé par les insectes
 > * On n'a décrit qu'1.6 millions d'espèces à l'heure actuelle dans les 3 domaines du vivant
