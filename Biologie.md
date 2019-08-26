@@ -25,10 +25,12 @@
 - [Composition of the human body](https://en.wikipedia.org/wiki/Composition_of_the_human_body) - Wikipédia
 - [The elements of life and medicines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4342972/#RSTA20140182C5) – Chelian et Sadier (2015)
 - [Nanomedecine](https://foresight.org/Nanomedicine/Ch03_1.php) - Freitas (1998)
+- [How Many Stars are There in the Universe?](https://www.universetoday.com/102630/how-many-stars-are-there-in-the-universe/) - Fraser Cain (2013)
 
 ---
 
 - Un homme typique de 70 kg est constitué d'environ 7x10^27 atomes. La plupart de ces atomes sont rangés dans des molécules.
+> C'est plus que le nombre estimé d'étoiles dans l'univers observable (10^24) !
 - Sur les 94 éléments chimiques présents naturellement, seule une cinquantaine a été détecté dans le corps humain
 - 4 éléments seulement (CHON) représentent 96% de la masse du corps humain.
 > * Oxygène (65%) : il se lie à l'hydrogène pour former de l'eau. Nécessaire pour la respiration
