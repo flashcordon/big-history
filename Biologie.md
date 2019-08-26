@@ -367,7 +367,7 @@ Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur T
 - [How We Age](https://www.the-scientist.com/features/how-we-age-35872) – The Scientist (2015)
 - [The Evolutionary Theory of Aging](http://www.senescence.info/evolution_of_aging.html) – Senescence.info (2013)
 - [Life Expectancy](https://ourworldindata.org/life-expectancy) – Our World in Data
-https://www.infirmiers.com/pdf/symptomes_specifiques_aux_personnes_agees.pdf 
+- [SYMPTÔMES SPÉCIFIQUES AUX PERSONNES ÂGÉES](https://www.infirmiers.com/pdf/symptomes_specifiques_aux_personnes_agees.pdf) - Cours de Philippe Caillet
 - [Why do we age?](https://www.nature.com/articles/35041682?fbclid=IwAR35qsnq2tJNDMn4H9tydHfI0GLMm6myaTuaH6Fk0f7sAHxzAXw0eU1FxZQ) – Kirkwood et Austad (2000)
 - [Montre-moi tes télomères, et je te dirai combien de temps tu vivras](https://sciencetonnante.wordpress.com/2014/02/17/montre-moi-tes-telomeres-et-je-te-dirai-combien-de-temps-tu-vivras/) - Science Etonnante (2014)
 - [The hallmarks of aging](https://www.ncbi.nlm.nih.gov/pubmed/23746838?dopt=Abstract) - López-Otín et al (2013)
