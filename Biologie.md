@@ -10,6 +10,7 @@
 - [Composition moléculaire d'une cellule](#Composition-moléculaire-dune-cellule)
 - [Universalité des mécanismes du vivant](#Universalité-des-mécanismes-du-vivant)
 - [Taux de remplacement de nos cellules](#Taux-de-remplacement-de-nos-cellules)
+- [Qu'est-ce que le vieillissement](#Quest-ce-que-le-vieillissement)
 
 ---
 
@@ -353,3 +354,57 @@ Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur T
 *Taux de remplacement des cellules du corps humain (Source : Biology by number)*
 
 ![replacementrate](https://i.imgur.com/8k1R3Z7.png)
+
+
+## Qu'est-ce que le vieillissement
+
+*Sources*
+
+- [What Is Aging?](http://www.senescence.info/aging_definition.html) – Senescence.info (2013)
+- [Comparative Biology of Aging](http://www.senescence.info/comparative_biology.html) – Senescence.info (2013)
+- [Why Do we Age?](https://news.cnrs.fr/opinions/why-do-we-age) – CNRS News (2016)
+- [Why Do We Age?](http://senescence.info/aging_theories.html) – Senescence.info (2013)
+- [How We Age](https://www.the-scientist.com/features/how-we-age-35872) – The Scientist (2015)
+- [The Evolutionary Theory of Aging](http://www.senescence.info/evolution_of_aging.html) – Senescence.info (2013)
+- [Life Expectancy](https://ourworldindata.org/life-expectancy) – Our World in Data
+https://www.infirmiers.com/pdf/symptomes_specifiques_aux_personnes_agees.pdf 
+- [Why do we age?](https://www.nature.com/articles/35041682?fbclid=IwAR35qsnq2tJNDMn4H9tydHfI0GLMm6myaTuaH6Fk0f7sAHxzAXw0eU1FxZQ) – Kirkwood et Austad (2000)
+- [Montre-moi tes télomères, et je te dirai combien de temps tu vivras](https://sciencetonnante.wordpress.com/2014/02/17/montre-moi-tes-telomeres-et-je-te-dirai-combien-de-temps-tu-vivras/) - Science Etonnante (2014)
+- [The hallmarks of aging](https://www.ncbi.nlm.nih.gov/pubmed/23746838?dopt=Abstract) - López-Otín et al (2013)
+- [Molecular and biological hallmarks of ageing](https://www.ncbi.nlm.nih.gov/pubmed/26771470) – Aunan et al (2016)
+- [La sénescence cellulaire : Un nouveau mythe de Janus ?](http://www.ipubli.inserm.fr/bitstream/handle/10608/7818/MS_2012_03_288.html?sequence=19&isAllowed=y) – Brondello et al (2012)
+- [Telomere](https://en.wikipedia.org/wiki/Telomere) - Wikipédia
+- [The Hayflick Limit](https://embryo.asu.edu/pages/hayflick-limit) - The Embryo Project Encyclopedia (2014)
+- [Cellular senescence: when bad things happen to good cells](https://www.ncbi.nlm.nih.gov/pubmed/17667954) – Campisi et d'Adda di Fagagna (2007)
+
+---
+
+- On peut définir le vieillissement comme la collection de changements qui nous rend de plus en plus susceptibles de mourir.
+> * Il est caractérisé par des changements d'apparence, comme la réduction de la taille et du poids dûes à la perte musculaire et osseuse, la peau ridée, les cheveux blancs, un temps de réaction plus lent, un déclin de l'audition, de l'olfaction, de la vision, du système immunitaire...
+> * Avec l'âge, on devient de plus en plus vulnérables et un certain nombre de pathologies sont de plus en plus susceptibles d'apparaître : le diabète de type 2, les problèmes de coeur, les cancers, l'arthrite, les problèmes de reins, la maladie d'Alzheimer... 
+> * A partir de 30 ans, le risque de mortalité (le risque de mourir dans l'année) augmente exponentiellement (double à intervalles réguliers).
+- L'espérance de vie moyenne a globalement augmenté de manière spectaculaire au cours des 2 derniers siècles (à différents moments et à différentes vitesses selon les régions), dû aux progrès de la médecine, de la science, de l'hygiène, et de la nutrition.
+> En 1850, l'espérance de vie globale était de 30 ans. En 1950, elle était de 48 ans. En 2017, elle était de 72 ans.
+- Par contre, la longévité maximale reste la même. Il semble donc y avoir une limite biologique à la longévité humaine, qui se trouve autour de 100 ans.
+> Le record de longévité observé chez l'humain est détenu par la française Jeanne Calment, qui a vécu 122 ans.
+- Le vieillissement n'est pas universel ! Quelques espèces ne présentent pas d'augmentation du risque de mortalité avec l'âge (lesquelles ?).
+> On ne peut donc pas considérer le vieillissement comme une simple conséquence inévitable de l'accumulation de dommages biologiques.
+- Le vieillissement est un processus complexe et il n'y a pas encore de consensus pour déterminer ce qui le cause.
+> Certains processus associés au viellissement résultent de l'interaction avec l'environnement et de l'accumulation des dommages cellulaires au cours de la vie, et d'autres sont déterminés par des programmes génétiques. Mais lorsqu'on cherche à développer une théorie du viellissement, il est très difficile de séparer les causes des conséquences. Ce qu'on observe, ce sont des corrélations entre des variables, et des corrélations n'impliquent pas forcément des causalités !
+- López-Otín et al (2013) ont identifié 9 signes de vieillissement communs à tous les mammifères, qu'on peut regrouper en 3 catégories :
+- ***Les signes primaires*** qui causent des dommages aux fonctions cellulaires. Ils ont tous un effet néfaste sur l'organisme.
+> * *l'instabilité génomique* : Au cours de la vie, l'ADN est exposé en permanence à des mutagènes (dus aux rayonnements UV, aux produits chimiques, à l'alimentation, aux espèces réactives oxygénées...), et à des erreurs de réplication, qui modifient la séquence de nucléobases. Des mécanismes de réparation de l'ADN corrigent la plupart des dommages infligés, mais pas tous ! Et au fil du temps les erreurs s'accumulent, et certains gènes essentiels peuvent être affectés et rendre les cellules et/ou les tissus dysfonctionnels. 
+> * *le raccourcissement des télomères* : Les télomères sont les extrémités des chromosomes. A chaque division cellulaire, les télomères raccourcissent un peu. Comme ils sont constitués d'une séquence d'ADN sans information (TTAGGG répété environ 2500 fois), ils peuvent se faire grignoter sans conséquence. Après un certain nombre de divisions cellulaires (entre 40 et 60 : c'est la limite de Hayflick), des signaux qui bloquent la prolifération cellulaire sont envoyés : la cellule entre alors dans un état appelé sénescence cellulaire (ou bien elle déclenche son auto-destruction programmée : l'apoptose). Ce mécanisme a pour but d'éviter le grignotage de la partie codante de l'ADN et d'éviter ainsi le développement de cancers. En contrepartie, les cellules sénescentes s'accumulent avec l'âge, ce qui contribue au vieillissement de l'organisme. Les organismes aux télomères courts ont tendance à vivre moins longtemps queles organismes aux télomères longs.
+> * *les altérations épigénétiques* : il s'agit de mécanismes capables de réguler l'expression des gènes sans modifier la séquence de nucléotides des gènes affectés. Ces mécanismes incluent la méthylation de l'ADN, la forme de la chromatine, l'ARN non codant... On ne sait pas encore vraiment si les altérations épigénétiques sont une cause ou bien une conséquence du vieillissement.
+> * *la perte de la protéostase* : c'est l'ensemble des mécanismes qui gèrent la construction et le remplacement des protéines.  Une protéine mal repliée est une protéine qui ne peut pas assurer sa fonction. L'accumulation de protéines mal repliées est la cause d'un certain nombre de maladies liées à l'âge, comme la maladie d'Alzheimer ou de Parkinson
+- ***Les signes antagonistes*** qui représentent la réponse à ces dommages. L'effet de ces signes sur l'organisme dépend de leur intensité. A faible dose ils sont utiles pour maintenir l'organisme en vie, mais à fortes doses ils deviennent néfastes.
+> * *la sénescence cellulaire* : les cellules sénescentes sont normalement éliminées par le système immunitaire, mais elles semblent s'accumuler avec le temps. Les cellules sénescentes sécrètent aussi une variété de substances qui altèrent et portent atteinte au fonctionnement des cellules voisines, et qui peuvent même favoriser le développement de tumeurs chez ces dernières.
+> * *le mauvais fonctionnement des mitochondries* : Les mitochondries, en produisant de l'énergie pour la cellule sous forme d'ATP, génèrent aussi des espèces réactives oxygénées (ERO), des molécules oxidantes fortement réactives chimiquement et qui peuvent endommager les acides nucléiques, les lipides et les protéines. Ces dommages peuvent ensuite s'accumuler (théorie radicalaire du vieillissement). Mais l'effet de ces ERO sur le processus de vieillissement est encore controversé. On ne sait pas encore si diminuer les risques d'oxydation diminue ou augmente la durée de vie (les résultats sont contradictoires).
+> * *la détection des éléments nutritifs (nutrient sensing)*
+- ***Les signes intégrés*** qui affectent directement le développement et le maintien des tissus et de leurs fonctions.
+> * *l'épuisement des cellules souches*
+> * *l'altération de la communication entre les cellules*
+
+*Les 9 signes de vieillissement (Source : Aunan et al (2016))*
+
+![hallmarksaging](https://i.imgur.com/uDzftQR.png)
