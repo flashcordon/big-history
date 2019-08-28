@@ -285,6 +285,8 @@
 - [Acide ribonucléique](https://fr.wikipedia.org/wiki/Acide_ribonucl%C3%A9ique#Double_h%C3%A9lice_d'ARN) - Wikipédia
 - [La membrane plasmique](http://www.afblum.be/bioafb/membrane/membrane.htm) – Cours de Eric Walravens 
 - [What Is Life—and How Do We Search for It in Other Worlds?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC516796/?fbclid=IwAR38YvfjY1qTEQPBcp9rA8IB_v14xeQn8slQM9Now9jUafhk0bZhGc6IGRU#!po=4.83871) - McKay (2004)
+- [Could silicon be the basis for alien life forms, just as carbon is on Earth?](https://www.scientificamerican.com/article/could-silicon-be-the-basi/) - Scientific American (1998)
+- []() - 
 
 ---
 
@@ -294,6 +296,9 @@
 Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur Terre
 > * Les bactéries représentent entre 70 et 90% des espèces vivantes, et le nombre d'espèces d'animaux est largement dominé par les insectes
 > * On n'a décrit qu'1.6 millions d'espèces à l'heure actuelle dans les 3 domaines du vivant
+- Toute la vie sur Terre est basée sur la chimie du carbone
+> * Le carbone est l'ossature des molécules essentielles à la vie. Sa capacité à former jusqu'à 4 liaisons chimiques avec d'autres atomes lui permet de construire des assemblages d'une complexité remarquable, comme l’ADN ou les membranes de nos cellules. Ces assemblages de carbone, on les appelle des molécules organiques.
+> * Le carbone n'est pourtant pas le seul à pouvoir remplir ce rôle : le silicium, présent sur Terre essentiellement dans les roches et le sable, possède les mêmes propriétés chimiques que le carbone, notamment le fait de pouvoir former lui-aussi 4 liaisons chimiques. Mais il est aussi beaucoup plus lourd, ce qui le rend moins pratique pour garder la cohésion entre les atomes.
 - Chaque espèce engendre une progéniture qui appartient à la même espèce : les parents passent à l'enfant les informations qui détermineront les caractéristiques de cet enfant (hérédité).
 > L'ADN de vos aprents biologiques s'est mélé de manière unique dans l'univers pour vous donner vous.
 - La plupart des organismes vivants ne sont constitués que d'une cellule. D'autres sont de véritables cités de cellules, des organismes multicelulaires, où chaque cellule a un rôle donné et communique avec les cellules environnantes.
