@@ -286,7 +286,6 @@
 - [La membrane plasmique](http://www.afblum.be/bioafb/membrane/membrane.htm) – Cours de Eric Walravens 
 - [What Is Life—and How Do We Search for It in Other Worlds?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC516796/?fbclid=IwAR38YvfjY1qTEQPBcp9rA8IB_v14xeQn8slQM9Now9jUafhk0bZhGc6IGRU#!po=4.83871) - McKay (2004)
 - [Could silicon be the basis for alien life forms, just as carbon is on Earth?](https://www.scientificamerican.com/article/could-silicon-be-the-basi/) - Scientific American (1998)
-- []() - 
 
 ---
 
