@@ -287,6 +287,7 @@
 - [What Is Life—and How Do We Search for It in Other Worlds?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC516796/?fbclid=IwAR38YvfjY1qTEQPBcp9rA8IB_v14xeQn8slQM9Now9jUafhk0bZhGc6IGRU#!po=4.83871) - McKay (2004)
 - [Could silicon be the basis for alien life forms, just as carbon is on Earth?](https://www.scientificamerican.com/article/could-silicon-be-the-basi/) - Scientific American (1998)
 - [Kate Adamala on Creating Synthetic Life](https://www.preposterousuniverse.com/podcast/2019/07/22/56-kate-adamala-on-creating-synthetic-life/) - Mindscape Podcast (Juillet 2019)
+- [The Seven Pillars of Life](https://science.sciencemag.org/content/295/5563/2215) - Koshland (2002)
 
 ---
 
@@ -316,7 +317,7 @@ Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur T
 - En plus de l'ADN, de l'ARN, et des protéines, toutes les cellules sur Terre contiennent les mêmes briques de base qui permettent de fabriquer ces macromolécules : des sucres, des nucléotides et des acides aminés.
 - L'universalité de ces composants de base dans les cellules actuelles suggère que les séries de réactions chimiques qui servent aujourd'hui à garantir l'intégrité des cellules et leur reproduction (voies métaboliques) sont des mécanismes très ancien qui ont été développé et coservé (par l'évolution) très tôt dans l'histoire de la vie.
 - Toutes les cellules sur Terre sont délimitées par une membrane qui les séparent du monde extérieur : la membrane plasmique.
-> * Cette membrane agit comme une barrière qui concentre les molécules dont une cellule a besoin pour se reproduire. Mais cette barrière est perméable à certaines molécules afin que la cellule puisse excréter ses déchets, recevoir des messages en provenance d'autres cellules et en envoyer.
+> * Cette membrane agit comme une barrière qui concentre les molécules dont une cellule a besoin pour se reproduire. Mais cette barrière est perméable à certaines molécules afin que la cellule puisse excréter ses déchets, recevoir des messages en provenance d'autres cellules et en envoyer. La membrane plasmique est nécessaire pour que les ingrédients chimiques qui constituent la cellule soient concentrés dans un petit volume assez petit. Si ces ingrédients sont trop dilués, ils ne peuvent plus interagir entre eux à une vitesse suffisante pour maintenir la cellule en vie.
 > * La membrane plasmique est composée de phospholipides, un type de molécule possédant une "tête" hydrophile (soluble dans l'eau) et une double "queue" hydrophobe (non soluble dans l'eau). Dans l'eau, les phospholipides s'agrègent naturellement en une double couce pour former une membrane. Ainsi, les parties hydrophobes des phospholipides sont en contact maximum pour éviter tout contact avec l'eau, et les parties hydrophiles sont exposées à l'eau.
 > * La membrane plasmique est très fine (quelques nanomètres) comparée à l'étendue de la cellule, comme la surface d'une bulle. 
 - Les mécanismes qu'on retrouve dans l'intégralité du vivant sur Terre sont-ils universels ? Difficile à dire. Pour répondre à cette question, il faudra qu'on découvre de la vie extraterrestre.
