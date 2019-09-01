@@ -286,6 +286,7 @@
 - [La membrane plasmique](http://www.afblum.be/bioafb/membrane/membrane.htm) – Cours de Eric Walravens 
 - [What Is Life—and How Do We Search for It in Other Worlds?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC516796/?fbclid=IwAR38YvfjY1qTEQPBcp9rA8IB_v14xeQn8slQM9Now9jUafhk0bZhGc6IGRU#!po=4.83871) - McKay (2004)
 - [Could silicon be the basis for alien life forms, just as carbon is on Earth?](https://www.scientificamerican.com/article/could-silicon-be-the-basi/) - Scientific American (1998)
+- [Kate Adamala on Creating Synthetic Life](https://www.preposterousuniverse.com/podcast/2019/07/22/56-kate-adamala-on-creating-synthetic-life/) - Mindscape Podcast (Juillet 2019)
 
 ---
 
@@ -318,6 +319,7 @@ Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur T
 > * Cette membrane agit comme une barrière qui concentre les molécules dont une cellule a besoin pour se reproduire. Mais cette barrière est perméable à certaines molécules afin que la cellule puisse excréter ses déchets, recevoir des messages en provenance d'autres cellules et en envoyer.
 > * La membrane plasmique est composée de phospholipides, un type de molécule possédant une "tête" hydrophile (soluble dans l'eau) et une double "queue" hydrophobe (non soluble dans l'eau). Dans l'eau, les phospholipides s'agrègent naturellement en une double couce pour former une membrane. Ainsi, les parties hydrophobes des phospholipides sont en contact maximum pour éviter tout contact avec l'eau, et les parties hydrophiles sont exposées à l'eau.
 > * La membrane plasmique est très fine (quelques nanomètres) comparée à l'étendue de la cellule, comme la surface d'une bulle. 
+- Les mécanismes qu'on retrouve dans l'intégralité du vivant sur Terre sont-ils universels ? Difficile à dire. Pour répondre à cette question, il faudra qu'on découvre de la vie extraterrestre.
 
 ## Taux de remplacement de nos cellules
 
