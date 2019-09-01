@@ -2,6 +2,7 @@
 
 # Table des matières
 
+- [Qu'est ce que la vie](#Quest-ce-que-la-vie)
 - [Composition atomique du corps humain](#Composition-atomique-du-corps-humain)
 - [Composition moléculaire du corps humain](#Composition-moléculaire-du-corps-humain)
 - [Composition biologique du corps humain](#Composition-biologique-du-corps-humain)
@@ -13,6 +14,55 @@
 - [Qu'est-ce que le vieillissement](#Quest-ce-que-le-vieillissement)
 
 ---
+
+## Qu'est ce que la vie 
+
+*Sources*
+
+- [Defining Life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005285/) - Benner (2010)
+- [Evolution, reproduction and definition of life](https://link.springer.com/article/10.1007/s12064-013-0184-5) - Chodasewicz (2013)
+- [Life](https://plato.stanford.edu/entries/life/) - Stanford Encyclopedia of Philosophy (Novembre 2011)
+- [Qu'est ce que la vie? La mort est-elle une réalité ?](https://youtu.be/QOCaacO8wus?list=WL) – In a Nutshell (2014)
+- The nature of life – Mark Bedau (2010)
+- [Blue–green distinction in language](https://en.wikipedia.org/wiki/Blue%E2%80%93green_distinction_in_language) - Wikipédia
+- [Properties of Life](https://openoregon.pressbooks.pub/mhccbiology101/chapter/3-2-properties-of-life/) - Mt Hood Community College Biology 101
+- [What is life?](https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biology-and-the-scientific-method/a/what-is-life) – Khan Academy
+- [There are over 100 definitions of life, and they are all wrong](http://www.bbc.com/earth/story/20170101-there-are-over-100-definitions-for-life-and-all-are-wrong) – Josh Gabbatiss, BBC (Janvier 2017)
+- [Vocabulary of Definitions of Life Suggests a Definition](https://www.tandfonline.com/doi/abs/10.1080/073911011010524992) - Trifonov (2012)
+- [The Meaning of "Life"](http://www.neurolab.gatech.edu/wp/wp-content/uploads/potter/potteressays/TheMeaningofLife.html) – Steven Potter (1986)
+- [Why Life Does Not Really Exist](https://blogs.scientificamerican.com/brainwaves/why-life-does-not-really-exist/) - Ferris Jabr, Scientific American (Décembre 2013)
+- [Le modèle mécanique](https://www.philolog.fr/le-modele-mecanique/) - Simone Manon (Mai 2008)
+
+---
+
+- Qu'est ce que "la vie" ? Quel est le sens de "la vie" ?
+> Au niveau fondamental, la vie est un processus chimique. Mais à partir de quand est ce que la vie émerge de la chimie ? A partir de quand est ce que la chimie devient plus que la somme de ses parties ? 
+- On a tous une conception intuitive de ce qui est vivant et de ce qui ne l'est pas. Une ligne mentale qui sépare l'animé du non animé. Vous êtes vivants. Un caillou ne l'est pas. Pourtant, définir le vivant d'une façon rigoureuse est une entreprise extrêmement complexe, et on est loin d'avoir trouvé une définition qui satisfasse tout le monde.
+- Cela fait plus de 2000 ans que les philosophes et les scientifiques tentent de définir précisément la vie.
+> * Au 4e siècle avant notre ère, le philosophe grec Aristote pensait que les êtres animés se distinguaient des choses inanimées par la présence d'une "âme" (différent du concept chrétien d'âme. Pour Aristote une âme est une collection de capacités). Il en existait de 3 types : L'âme végétative que possèdent les végétaux et qui assure la nutrition et la reproduction, l'âme sensitive, principe de la sensation, que possèdent les animaux, et l'âme intellective, principe de la pensée, que les humains sont les seuls à posséder. 
+> * Une doctrine importante historiquement : le vitalisme. Cette doctrine qui émerge au 17e siècle postule qu'il existe en chaque être vivant un "principe vital" (différent de la matière et de l'âme) qui produirait la vie. Le 20e siècle et l'avènement de la biochimie et de la biologie moléculaire vont annoncer le déclin du vitalisme.
+> * En 1943, dans son livre influent "Qu'est ce que la vie ?", le physicien Erwin Schroedinger questionne la vie sous l'angle de la thermodynamique, la science qui étudie les mouvements de chaleur. Selon le 2e principe de la thermodynamique, Schroedinger s'interroge sur "la faculté merveilleuse d'un organisme vivant à retarder son déclin vers l'équilibre thermodynamique (la mort)". Dans un monde régi par le second principe de la thermodynamique, tout système fermé tend à s'approcher d'un état de désordre maximum ; en revanche la vie tend à atteindre et maintenir un état hautement ordonné, ce qui semble violer le second principe. La solution de ce paradoxe apparent est que la vie n'est pas un système fermé. L'accroissement de l'ordre à l'intérieur d'un organisme est plus que compensé par un accroissement du désordre à l'extérieur de cet organisme. Le processus qui fabrique votre corps produit de la chaleur, qui est transmise aux molécules d'air autour de vous. Ces molécules deviennent alors moins ordonnées.
+- Une définition particulièrement populaire du vivant a été proposée par un commité assemblé par la NASA en 1994, résumée par le biologiste américain Gerald Joyce comme ceci: 
+> "La vie est un système chimique auto-entretenu capable d'évolution Darwinienne". C'est la définition opératoire utilisée par la NASA dans son programme scientifique de recherche de vie dans l'univers. (une définition opératoire permet de séparer pragmatiquement le vivant du non-vivant, mais ne nous dit pas ce qu'EST la vie)
+- Il n'y a pas de définition de la vie qui fasse consensus à l'heure actuelle (Plus d'une centaine -123- de définitions de la vie ont été proposées). Par contre, la plupart des scientifiques pensent que tout système qui possède les caractéristiques suivantes peut être considéré comme vivant : 
+> *  ***Homéostasie*** : l'environnement interne est régulé pour être maintenu dans un état plus ou moins constant. Exemple : lorsqu'il fait trop chaud, notre corps produit de la transpiration pour réguler sa température.
+> * ***Organisation*** : les êtres vivants sont des structures organisées, composées d'une ou plusieurs unités de base : les cellules.
+> * ***Métabolisme*** : c'est l'ensemble des réactions chimiques qui ont lieu au sein d'un organisme. Pour maintenir leur organisation interne, les organismes ont besoin d'énergie. Certains organismes capturent l'énergie du Soleil et le convertissent en énergie chimique, d'autres utilisent l'énergie chimique des molécules qu'ils capturent en mangeant d'autres organismes.
+> * ***Croissance*** : Les cellules individuelles deviennent plus larges avec le temps selon des instructions encodées dans leurs gènes, et les organismes multicellulaires accumulent de plus en plus de cellules par le processus de division cellulaire. Chacun d'entre nous a commencé sa vie en tant qu'organisme unicellulaire (cette cellule primordiale est appellée zygote ou oeuf), et notre corps abrite désormais des dizaines de milliers de milliards de cellules (~3x10^13).
+> * ***Adaptation*** : La capacité d'évoluer en fonction de son environnement. Les caractéristiques génétiques d'une population change avec le temps. Dans la plupart des cas, l'évolution implique le processus de sélection naturelle : un ou plusieurs traits héritable (comme la forme du bec ou la couleur de la fourrure) permet à certains organismes de survivre et de se reproduire relativement plus que d'autres dans un environnement particulier. Au fil des générations, cette collection de traits devient de plus en plus commun au sein de la population (on dit qu'elle présente un avantage sélectif), ce qui permet à la population d'être mieux adaptée à son environnement.
+> * ***Réponse aux stimuli*** : un être vivant a tendance à bouger vers sa source de nourriture et à fuire le danger pour préserver sa structure (quand on met sa main dans le feu, on a tendance à la retirer très vite !).
+> * ***Reproduction*** : la capacité à produire de nouveaux organismes, de nouveaux individus. Ce processus peut être asexué (on l'appelle multiplication asexuée, c'est à dire à partir d'un seul parent) ou sexué (on l'appelle reproduction sexuée , c'est à dire à partir de 2 parents). De nombreux organismes multicellulaires produisent des cellules reproductrices spécialisées (appelées gamètes) qui vont former de nouveaux individus, et transmettre l'ADN des parents aux descendants.
+- Si un organisme possède ces 7 caractéristiques, alors il est considéré comme vivant.
+- Cette liste de caractéristiques partagées par l'ensemble du vivant n'est qu'une parmis beaucoup d'autres.
+> * Exemple de liste alternative : la définition PICERAS de Daniel Koshland (2002), qui répertorie les principes fondamentaux sur lesquels un système vivant est basé : P(rogramme), I(mprovisation), C(ompartmentalisation), E(nergie), R(égénération), A(daptabilité), S(éclusion) 
+- Personne n'a réussi à compiler une liste qui inclue TOUS les êtres vivants et exclut TOUTES les choses inanimées. Il y a toujours des exceptions. Par exemple, on trouve dans la nature des structures non vivantes qui présentent quelques unes des caractéristiques citées précédemment !
+> Un feu grandit, métabolise (il consomme, transforme et évacue de la matière), se reproduit et répond à des stimulis, comme le vent. Des cristaux de sel grandissent et se reproduisent dans une solution saturée en sel.
+- Pire, certains organismes vivants ne présentent pas toutes ces caractéristiques !
+> * Le mulet, l’hybride engendré par une jument et un âne, est généralement stérile. Elle ne peut donc pas se reproduire (la plupart du temps). De même, de nombreuses graines, et de nombreuses spores et les tardigrades peuvent rester dans un état de stase totalement inactif des années durant, sans croitre, sans métaboliser, sans se reproduire (un état appelé cryptobiose).
+- Et que dire des virus, ces minuscules structures composées d'un brin d'ADN ou d'ARN parfois empaqueté dans une coquille de protéines qui protège le matériel génétique ? 
+> Les virus présentent certaines des caractéristiques de la vie : ils possèdent un matériel génétique et peuvent évoluer. Par contre, elles ne sont pas composées de cellules, elles n'ont pas de métabolisme et ne peuvent pas se reproduire sans détourner la machine cellulaire de son hôte. 
+- La définition du vivant illustre peut être les limites du langage, qui sépare arbitrairement les notions, alors qu'il y semble y avoir un continuum de complexité qui mène progressivement au vivant.
+> Une analogie pertinente est celle du spectre électromagnétique. La longueur d'onde de 520 nm correspond à une lumière bleue, tandis que la longueur d'onde 470 nm correspond à une lumière verte. Mais il existe une infinité de nuances de couleurs entre les 2 longueurs d'ondes. Où met-on dans ce cas la limite entre le bleu et le vert ? Elle est arbitraire. D'ailleurs, dans de nombreuses langues, la distinction entre le bleu et le vert n'est même pas faite (dans cette situation, les linguistes nomment cette couleur "grue", pour green-blue) 
 
 ## Composition atomique du corps humain
 
