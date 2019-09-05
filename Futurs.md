@@ -140,6 +140,10 @@
 
 ![evolpop2](https://population.un.org/wpp/Graphs/2_Probabilistic%20Projections/1_Population/1_Total%20Population/World.png)
 
+*Répartition de la population mondialeen 2019*
+
+![poppays](https://i.imgur.com/EfpqmgY.jpg)
+
 *Répartition de la population aujourd'hui (1 bonhomme = 1 milliard d'habitants)*
 
 ![repartpop](https://s3-eu-west-1.amazonaws.com/static.gapminder.org/GapminderMedia/wp-uploads/20180312202848/geo.png)
