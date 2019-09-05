@@ -303,6 +303,7 @@ Ressources sur la Big History
 
 - [Timeline of ancient history](https://en.wikipedia.org/wiki/Timeline_of_ancient_history) - Wikipédia
 - [Timeline of the Middle Ages](https://en.wikipedia.org/wiki/Timeline_of_the_Middle_Ages) - Wikipédia
+- [Seshat](http://seshatdatabank.info/)
 
 ## Articles de vulgarisation
 
