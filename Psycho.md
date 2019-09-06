@@ -21,6 +21,8 @@
 - [your memory can play tricks on you – here’s how](https://theconversation.com/serial-your-memory-can-play-tricks-on-you-heres-how-34827) - Catherine Loveday, The Covnersation (Décembre 2014)
 - [The identity function of autobiographical memory: Time is on our side](https://www.tandfonline.com/doi/abs/10.1080/741938210) – Wilson et Ross (2003)
 - [Autobiographical memory](https://en.wikipedia.org/wiki/Autobiographical_memory) - Wikipédia
+- [Accuracy and Inaccuracy in Memory and Cognition](https://open.lib.umn.edu/intropsyc/chapter/8-3-accuracy-and-inaccuracy-in-memory-and-cognition/) - Introduction to psychology
+- [Audience-tuning effects on memory: the role of shared reality](https://www.ncbi.nlm.nih.gov/pubmed/16248713) - Echterhoff et al (2005)
 
 ---
 
