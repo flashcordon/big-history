@@ -1,3 +1,12 @@
+# ANTHROPOLOGIE
+
+# Table des Matières
+
+- [La spécificité des humains](#La-spécificité-des-humains)
+- [Les universaux humains](#Les-universaux-humains)
+
+---
+
 ## La spécificité des humains
 
 ### Cultures animales
@@ -59,57 +68,7 @@ Wikipedia, l'encyclopédie universelle en ligne gratuite et collaborative créé
 *Nombre d'utilisateurs Internet en 2016 (Source : Our World in Data)*
 ![numberinternetusers](https://i.imgur.com/1gGfOmp.png)
 
-## La part de virus en nous
-
-*Sources*
-
-- [Retrovirus Replication 3D Animation](https://youtu.be/HhhRQ4t95OI?list=WL) - Boehringer Ingelheim (2011) : vidéo incroyablement pédagogique ! Elle illustre le mécanisme de réplication du VIH
-- [Where Did Viruses Come From?](https://youtu.be/X31g5TB-MRo?list=WL) – PBS Eons (Juin 2018)
-- [Virus DNA in human genome (evolution by infection)](https://youtu.be/nWuV6PVKv1A) -Every Cell A Universe (Mars 2019)
-- [Endogenous retrovirus](https://en.m.wikipedia.org/wiki/Endogenous_retrovirus) – Wikipédia
-- [Endogenous retroviruses in the human genome sequence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC138943/) - Griffiths (2001)
-- [Ancient Viruses Are Buried in Your DNA](https://www.nytimes.com/2017/10/04/science/ancient-viruses-dna-genome.html) – Carl Zimmer, New York Times (Octobre 2017)
-- [Demystified . . . Human endogenous retroviruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1187282/#__ffn_sectitle) – Nelson et al (2003)
-- [Infographic: Human Endogenous Retroviruses and Disease](https://www.the-scientist.com/infographics/infographic-65262) – The scientist (Janvier 2019)
-- [The discovery of endogenous retroviruses](https://retrovirology.biomedcentral.com/articles/10.1186/1742-4690-3-67) – Weiss (2006)
-- [Endogenous Retrovirus 3 – History, Physiology, and Pathology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5775217/#!po=3.39806) - Bustamante Rivera et al (2017)
-- [On the concept and elucidation of endogenous retroviruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3758183/) – Weiss (2013)
-- [Effects of Retroviruses on Host Genome Function](https://www.annualreviews.org/doi/abs/10.1146/annurev.genet.42.110807.091501?rfr_dat=cr_pub%3Dpubmed&url_ver=Z39.88-2003𝔯_id=ori%3Arid%3Acrossref.org&journalCode=genet) -Jern et Coffin (2008)
-- [Endogenous retroviruses](https://link.springer.com/article/10.1007%2Fs00018-008-8495-2) - Blikstad et al (2008)
-- Planète Virus - Carl Zimmer (2016)
-- [Retrovirus endogènes devenus gènes de l'organisme : exemple des gènes des syncytines ](http://acces.ens-lyon.fr/acces/thematiques/evolution/accompagnement-pedagogique/accompagnement-au-lycee/terminale-2012/diversification-genetique-des-etres-vivants/transfert-viral/retrovirus) – Institut Français de l'éducation (2012)
-- [De l'ADN viral piégé dans notre génome](https://www.museum.toulouse.fr/-/de-l-adn-viral-piege-dans-notre-genome) – Muséum de Toulouse (2013)
-- [Les humains sont apparentés aux virus](http://passeurdesciences.blog.lemonde.fr/2012/05/28/les-humains-sont-apparentes-aux-virus/) - Passeur de Sciences (Mai 2012)
--[De nouveaux virus dans le génome](https://www.pourlascience.fr/sd/biologie-moleculaire/de-nouveaux-virus-dans-le-genome-10487.php) – Pour la Science (2010)
-- [Les syncytines, des protéines d’enveloppe rétrovirales capturées au profit du développement placentaire](https://www.medecinesciences.org/en/articles/medsci/full_html/2011/02/medsci2011272p163/medsci2011272p163.html) - Dupressoir et Heidmann (2011)
-
----
-
-- Notre évolution a été non seulement influencée par nos ancètres... Mais aussi par les virus !
-- Notre ADN contient une centaine de milliers (98 000) de fragments d'ADN viral, qui représente environ 8% du génome humain 
-> Cela constitue environ 300 millions de paires de bases d'origine virale, sur les 3.5 milliards de paires de bases que comptent notre génome. 
-- La plupart de notre ADN viral provient de rétrovirus, un groupe de virus ARN qui inclut le VIH, le virus du SIDA. On appelle la famille de virus présente dans notre génome des rétrovirus endogènes humains (human endogenous retroviruses, ou HERV).
-> Les rétrovirus prennent le dogme central de la biologie moléculaire à contre courant. Pour se reproduire, au lieu de suivre le chemin classique ADN -> ARN -> protéine, les rétrovirus possèdent leur information génétique sous forme d'ARN. Cet ARN est converti en un brin d'ADN (ADN complémentaire) catalysé par une protéine (une enzyme appelée transcriptase inverse). Ce brin d'ADN s'insère ensuite dans l'ADN de la cellule infectée. La machinerie moléculaire de la cellule est alors détournée, et est utilisée pour produire des centaines de copies du virus. Ces copies s'échappent ensuite de la cellule pour infecter d'autres cellules.
-- Comparé aux autres virus, les rétrovirus sont remarquablement petits 
-> Un rétrovirus typique fait moins de 10 000 paires de bases, et une taille de 100 nm environ
- - Le génome d'un rétrovirus est généralement constitué de 3 gènes nécessaires à l'invasion de la cellule hôte, à sa réplication et à sa fuite
-> gag (qui encode les protéines structurelles du coer du virus), pol (qui encode la transcriptase inverse, l'intégrase et la protéase) et env (qui encode des protéines qui constituent la membrane externe du virus).
-- C'est le séquençage du génome humain (Human Genome Project) qui a mis en évidence les HERV en 2001.
-> Quant aux ERV, on connaît leur existence depuis la fin des années 60 : avian leukosis virus in the domestic fowl (Gallus gallus), and murine leukemia virus and murine mammary tumor virus in the laboratory mouse (Mus musculus). 
-- Pendant longtemps, on a pris les HERV pour de l'ADN poubelle.
-- Lorsque ces virus infectent des cellules germinales (les cellules susceptibles de former des gamètes), leurs gènes sont transmis de manière héréditaire à tous les descendants de l'hôte. 
-- Les rétrovirus endogènes humains ne sont pas infectieux. Mais dans certains cas, certains gènes viraux continuent à s’exprimer et coder des protéines fonctionnelles. Mais pas de virus entier, parce que ces séquences ont subi de multiples mutations au cours de l'évolution qui l'ont altéré au point de ne plus pouvoir produire de virions. 
-> Dans le génome humain, on connaît 2 gènes d'origine virale qui codent pour des protéines appelées syncytines. Ces protéines ont un rôle indispensable dans la structuration du placenta. L'équipe de Thierry Heidmann de l'institut Gustave Roussy a montré que ces gènes proviennent de 2 rétrovirus endogènes (HERV-W et HERV-FRD) qui ont intégré le génome des primates il y a 40 millions d'années environ.
-- Les plus anciens HERV dans le génome humain sont présents dans le génome de tous les mammifères placentaires, et l'ont été intégré il y a 100-150 millions d'années (HERV-L).  Ils ne semblent pas coder de protéines, ni avoir de liens avec des maladies.
-- Certains HERV sont présents dans le génome de notre lignée depuis si longtemps qu'ils doivent représenter certains avantages. D'autres sont impliqués dans certains cancers et maladies autoimmunes.
-> La présence élevée de HERV-R (aussi appelé ERV3 pour le 3e élément rétroviral identifié chez l'humain) semble corrélée à certains cancers (colorectal, poumon, foie), mais on ne sait pas encore vraiment s'il contribue à promouvoir ou à supprimer la croissance des tumeurs. HERV-R a été identifié chez tous les primates, à l'exception des gorilles, et a intégré le génome des primates il y a environ 30-40 millions d'années.
-- Les analyses génétiques moléculaires ont montré que toutes les espèces de vertébrés ont eu leur génome colonisé par de nombreux rétrovirus. Ces infections ont eu lieu par vagues.
-
-*Le cycle de vie du VIH, un rétrovirus ([Source](http://bodell.mtchs.org/OnlineBio/BIOCD/text/chapter16/concept16.5.html))*
-
-![vih](https://i.imgur.com/LecJtIb.gif)
-
-# Les universaux humains
+## Les universaux humains
 
 *Sources*
 
@@ -122,7 +81,7 @@ Wikipedia, l'encyclopédie universelle en ligne gratuite et collaborative créé
 
 - On fait face aux mêmes problèmes inhérents à la condition humaine, et les solutions qu’ont trouvées les sociétés humaines ont été extraordinairement variées. Mais on retrouve cependant des motifs qui se répètent dans toutes les cultures ou presque. Certains anthropologues appellent ces similarités des universaux humains (human universals).
 
-## Comment définir les universaux ?
+### Comment définir les universaux ?
 
 - Christoph Antweiler définit les universaux comme des caractéristiques ou des phénomènes qu’on retrouve dans toutes les sociétés du monde ou presque
 > Exemples d’universaux les mieux connus : la parenté, la famille, le mariage, le tabou de l’inceste (en particulier sa prohibition entre une mère et son fils).
@@ -137,7 +96,7 @@ Wikipedia, l'encyclopédie universelle en ligne gratuite et collaborative créé
 - Tous les universaux listés ci-dessous doivent être considérés comme des hypothèses, des suggestions. « Every claim of universality is just that : a claim » - D. Brown
 - Les universaux ne doivent pas être confondus avec la condition humaine ou avec la notion d’invariants anthropologiques.
 
-## L’histoire de la recherche d’universaux humains
+### L’histoire de la recherche d’universaux humains
 
 - En anthropologie, l’intérêt pour les études comparatives a grandi après la seconde guerre mondiale
 - Un grand pas vers les recherches en universaux humains a été entrepris par l’anthropologue George Peter Murdock, en appliquant une approche comparative à la culture grâce à une méthode systématique.
@@ -150,7 +109,7 @@ Wikipedia, l'encyclopédie universelle en ligne gratuite et collaborative créé
 - Aujourd’hui, ce champ de recherche et les affirmations de motifs universels dans les sociétés sont considérés avec scepticisme par une partie de la communauté de l’anthropologie culturelle.
 > Ce scepticisme est en partie du à la tradition intellectuelle de l’anthropologie culturelle qui cherche à mettre en valeur la complexité et la diversité des cultures. Les principales critiques aux recherches sur les universaux humains sont essentiellement portées par les mouvements relativistes et postmodernes, qui considèrent les universaux comme le résultat d’une construction eurocentrée. Un des nœuds du problème est la définition de concepts trans-culturels, nécessaires à des fins de comparaison. Peut-on construire des concepts au-delà de son biais culturel ethnocentré ? C’est particulièrement problématique sur les questions de religion et de parenté. Une autre critique concerne la hiérarchisation et le nombre arbitraire des universaux : selon le niveau d’abstraction que l’on définit, on se retrouve avec un nombre différent d’universaux.
 
-## Exemples d’universaux 
+### Exemples d’universaux 
 
 - ***L’historiographie :*** toutes les cultures racontent leur histoire pour se forger une identité.
 On trouve la notion d’identité forgée par l’exclusion dans toutes les sphères culturelles et de tout temps.
@@ -176,7 +135,7 @@ La logique : nous avons tous en nous une capacité à suivre un raisonnement lo
 - ***La violence :*** le meurtre (en particulier en tant qu’acte de revanche) et la violence physique sont présents dans toutes les cultures connues, ainsi que les mécanismes pour les empêcher. L’agressivité des hommes est l’un des universaux les mieux documentés dans les recherches sur les émotions : dans toutes les cultures les hommes commettent plus d’actes violents que les femmes. La violence se produit le plus souvent entre hommes. A noter que c’est aussi le cas chez les autres primates. Le viol et sa condamnation sont universels. 
 - ***La sexualité :*** partout dans le monde, la sexualité est intégrée dans nos valeurs morales. L’activité sexuelle est régulée et restreinte par des tabous dans toutes les sociétés. Dans toutes les cultures humaines, le sexe se pratique généralement en privé, pas en public. Il est associé au secret et à la honte. Ce comportement est spécifique aux humains, ce n’est pas le cas chez les autres primates. Il y a des traits de beauté interculturels : un visage symétrique et proche de la moyenne est considéré plus beau par les humains des deux sexes, ainsi que certaines proportions du corps humain, la peau douce. Les femmes ont tendance à préférer des partenaires hommes plus grands. Des études récentes montrent que les humains cherchent des relations sexuelles à court terme dans toutes les cultures, à des degrés variés et pour différentes raisons. Schmitt et al (2005) a montré grâce à l’étude de 16 000 témoignages dans le monde entier que les femmes ont tendance à préférer un partenaire avec un plus haut statut ou un plus fort degré de santé reproductive, et que les hommes sont motivés par un désir de diversité dans leurs  relations sexuelles. La jalousie sexuelle est très répandue, et s’exprime plus par la violence chez les hommes que chez les femmes. L’amour est considéré comme un universel, et l’amour romantique (attraction intense liée à l’idéalisation du partenaire) semble se retrouver à une échelle panculturelle, même si les variations dans les concepts « émiques » de l’amour romantiques restent peu étudiés.
 
-## Comment expliquer les universaux humains ?
+### Comment expliquer les universaux humains ?
 
 - Beaucoup d’universaux sont liés d’une manière ou d’une autre à des facteurs biologiques, même si cette connexion peut être indirecte.
 - Certains peuvent être issus d’une diffusion mondiale, ou bien être formés suite à des circonstances similaires dans la pratique de la vie quotidienne.
