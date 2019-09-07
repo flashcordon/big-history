@@ -4,6 +4,7 @@
 
 - [La spécificité des humains](#La-spécificité-des-humains)
 - [Les universaux humains](#Les-universaux-humains)
+- [L'évolution des mythes](#Lévolution-des-mythes)
 
 ---
 
@@ -169,7 +170,7 @@ La logique : nous avons tous en nous une capacité à suivre un raisonnement lo
 - Toutes les cultures ont un langage, des genres, des jeux, un code moral (qui varie énormément)
 - Les cultures évoluent en permanence
 
-# Qu'est ce qu'un mythe ?
+# L'évolution des mythes
 
 *Sources*
 
