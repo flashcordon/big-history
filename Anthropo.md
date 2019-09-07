@@ -21,6 +21,44 @@
 - A ce jour, une cinquantaine (55) de dauphins semblent avoir adopté cette pratique. Elle leur permet d'accéder à des proies très nourissantes enfouies dans le sable et non accessibles aux dauphins qui n'ont pas acquis cette technique.
 - Un cas rarissime de tradition animale transmise culturellement au fil des générations.
 
+### Wikipédia
+
+*Sources*
+
+- [Wikipedia:Statistics](https://en.wikipedia.org/wiki/Wikipedia:Statistics) - Wikipédia
+- [List of Wikipedias](https://meta.wikimedia.org/wiki/List_of_Wikipedias) - Wikipédia
+- [Wikimedia Statistics](https://stats.wikimedia.org/v2/#/all-projects) - Wikimedia
+- [Wikipedia:Size in volume](https://en.wikipedia.org/wiki/Wikipedia:Size_in_volumes) - Wikipédia
+- [Wikipedia as books](https://meta.wikimedia.org/wiki/Wikipedia_as_books) - Wikipédia
+- [Wikipedia:Size of Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia) - Wikipédia
+- [User:Tompw/bookshelf](https://meta.wikimedia.org/wiki/User:Tompw/bookshelf) – Estimation de Wikipédia sous forme de bibliothèque physique
+- [How Big is Wikipedia?](https://wikiwaze.com/index.php/2018/09/07/how-big-is-wikipedia/) - Wikiwaze (Septembre 2018)
+- [What is the total size of data in Wikipedia ?](https://www.quora.com/What-is-the-total-size-of-data-in-Wikipedia)  - Quora
+- [Kiwix En](https://wiki.kiwix.org/wiki/Content) – Télécharger Wikipédia en Anglais
+- [Kiwix Fr](https://wiki.kiwix.org/wiki/Content/fr) – Télécharger Wikipédia en Français
+- The Information : a history, a theory, a flood – James Gleick (2011)
+- [Measuring the Information Society Report Volume 1](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2018/MISR-2018-Vol-1-E.pdf) - International Telecommunication Union (2018)
+
+---
+
+- Combien de gens ont accès à Internet en 2019 ?
+> Selon un rapport de International Telecommunication Union publié en 2018, plus de la moitié (51.2%) de la population mondiale utilise désormais Internet, soit près de 3.9 milliards de personnes. Et cette fraction ne cesse d'augmenter depuis la naissance du World Wide Web en 1990.
+- Il n'y a peut être pas de meilleure illustration de cette explosion de l'apprentissage collectif que 
+Wikipedia, l'encyclopédie universelle en ligne gratuite et collaborative créée en 2001 par Jimmy Wales et Larry Sanger.
+- Ce qui fait son succès, c'est que n'importe qui peut ajouter ou modifier un article sur le site. Ce qui fait que l'encyclopédie est en constante évolution.
+- Wikipédia totalise plus de 50 millions d'articles dans plus de 300 langues (en Août 2019)
+> Cela fait de Wikipédia la plus vaste collection de connaissances humaines jamais créée. 
+- Sa version anglaise à elle seule compte près de 6 millions d'articles
+- Télécharger l'intégralité des articles (texte+images) de la version anglaise de Wikipédia représente à ce jour à peine 79 Go de données (dont 35 Go de texte). On peut stocker Wikipédia sur une clé USB !
+> * Pour la version française, l'intégralité des articles représente 9 Go de texte seul, et 30 Go de texte+images
+> * Evidemment, si l'on inclut les fichiers audio et vidéos ainsi que l'historique des éditions et des discussions pour chaque article, il faut ajouter quelques zéros à ce nombre.
+- L'utilisateur Tompw a calculé que si l'intégralité de Wikipédia était imprimé (en incluant les versions de toutes les langues), cela représenterait un total de près de 19 000 volumes 500 pages similaires à ceux de l'encyclopaedia britannica (25 cm de haut, 5 cm d'épaisseur).
+> Si on empilait ces volumes les uns sur les autres, cela ferait une pile de près d'1km de haut
+- La version anglaise de Wikipédia à elle seule représenterait plus de 2500 volumes. Si on empilait ces volumes, cela ferait une pile de 130m de haut.
+
+*Nombre d'utilisateurs Internet en 2016 (Source : Our World in Data)*
+![numberinternetusers](https://i.imgur.com/1gGfOmp.png)
+
 ## La part de virus en nous
 
 *Sources*
