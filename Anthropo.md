@@ -1,3 +1,25 @@
+## La spécificité des humains
+
+### Cultures animales
+
+***Les éponges des dauphins de Shark Bay***
+
+*Sources*
+
+- [Cultural transmission of tool use in bottlenose dolphins](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1157020/) - Krutzen et al (2005)
+- [De mère en fille](https://www.sciencesetavenir.fr/nature-environnement/de-mere-en-fille_5445) – Science et avenir (Juin 2005)
+- [Why Dolphins Wear Sponges](https://www.sciencemag.org/news/2011/07/why-dolphins-wear-sponges) – Science Magazine (Juin 2011)
+- [Modelling the emergence and stability of a vertically transmitted cultural trait in bottlenose dolphins](https://www.sciencedirect.com/science/article/pii/S0003347212003806) – Kopps et Sherwin (2012)
+- [Social networks reveal cultural behaviour in tool-using dolphins](https://www.nature.com/articles/ncomms1983) – Mann et al (2012)
+
+---
+
+- A Shark Bay, sur la côté ouest de l'Australie, on observe depuis le milieu des années 80 des populations de dauphins se livrer à une curieuse pratique : le *sponging*.
+> Pour récolter de la nourriture, les dauphins doivent fouiller les fonds marins avec leur rostre (bec). C'est un exercice aussi minutieux que douloureux, car le sable est ponctué de rochers pointus et de coraux brisés. Pour éviter de se blesser, certains dauphins se protègent le rostre avec une éponge de mer en forme de panier, en l'enfilant comme un gant !  
+- Des modèles mathématiques ont montré que cette pratique est probablement apparue au XIXe siècle.
+> Un dauphin aurait appris (peut être par hasard, peut être de manière délibérée) qu'une éponge pouvait constituer une armure parfaite. La pratique se serait transmise essentiellement de mère en fille, jusqu'à aujourd'hui. 
+- A ce jour, une cinquantaine (55) de dauphins semblent avoir adopté cette pratique. Elle leur permet d'accéder à des proies très nourissantes enfouies dans le sable et non accessibles aux dauphins qui n'ont pas acquis cette technique.
+- Un cas rarissime de tradition animale transmise culturellement au fil des générations.
 
 ## La part de virus en nous
 
