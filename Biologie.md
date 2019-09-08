@@ -180,7 +180,7 @@
 ---
 
 - Une personne typique contient environ 30 000 milliards (3×10^13) de cellules humaines
-> * La plupart des sources donnent une estimation entre 10^13 et 10^14, et une estimation récente donne un chiffre de 3.7×10^13 cellules humaines
+> * La plupart des sources donnent une estimation entre 10^13 et 10^14, et une estimation récente donne un chiffre de 3.7×10^13 cellules humaines. Il y a de nombreux types de cellules, qui remplissent différentes fonctions dans le corps.
 > * La personne typique utilisée dans la littérature est un homme entre 20 et 30 ans, d’1m70 et de 70 kg
 - La plupart de ces cellules (84% en nombre) sont des globules rouges
 > Les globules rouges font partie des plus petites sortes de cellules du corps humain
