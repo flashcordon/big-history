@@ -21,6 +21,8 @@
 - the bell tolls; it tolls for thee. 
 - John Donne, Devotions upon Emergent Occasions (1624)
 
+- Traduction : « Nul homme n’est une île, un tout en soi ; chaque homme est part du continent, part du large ; si une parcelle de terre est emportée par les flots, pour l’Europe c’est une perte égale à celle d’un promontoire, autant qu’à celle d’un manoir de tes amis ou du tien. La mort de tout homme me diminue parce que je suis membre du genre humain. Aussi n'envoie jamais demander pour qui sonne le glas : il sonne pour toi. »
+
 *Sources*
 
 
