@@ -10,6 +10,21 @@
 
 ## Nul homme n'est une île
 
+- No man is an island entire of itself; every man 
+- is a piece of the continent, a part of the main; 
+- if a clod be washed away by the sea, Europe 
+- is the less, as well as if a promontory were, as 
+- well as any manner of thy friends or of thine 
+- own were; any man's death diminishes me, 
+- because I am involved in mankind. 
+- And therefore never send to know for whom 
+- the bell tolls; it tolls for thee. 
+- John Donne, Devotions upon Emergent Occasions (1624)
+
+*Sources*
+
+
+
 ### Cultures animales
 
 ***Les éponges des dauphins de Shark Bay***
