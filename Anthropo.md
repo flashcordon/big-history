@@ -2,13 +2,13 @@
 
 # Table des Matières
 
-- [La spécificité des humains](#La-spécificité-des-humains)
+- [Nul homme n'est une île](#Nul-homme-nest-une-île)
 - [Les universaux humains](#Les-universaux-humains)
 - [L'évolution des mythes](#Lévolution-des-mythes)
 
 ---
 
-## La spécificité des humains
+## Nul homme n'est une île
 
 ### Cultures animales
 
