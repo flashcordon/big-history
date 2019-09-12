@@ -41,6 +41,7 @@
 
 ---
 
+- Ces traditions animales ne sont pas l'apanage des seuls primates.
 - A Shark Bay, sur la côté ouest de l'Australie, on observe depuis le milieu des années 80 des populations de dauphins se livrer à une curieuse pratique : le *sponging*.
 > Pour récolter de la nourriture, les dauphins doivent fouiller les fonds marins avec leur rostre (bec). C'est un exercice aussi minutieux que douloureux, car le sable est ponctué de rochers pointus et de coraux brisés. Pour éviter de se blesser, certains dauphins se protègent le rostre avec une éponge de mer en forme de panier, en l'enfilant comme un gant !  
 - Des modèles mathématiques ont montré que cette pratique est probablement apparue au XIXe siècle.
