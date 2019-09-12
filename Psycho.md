@@ -23,6 +23,7 @@
 - [Autobiographical memory](https://en.wikipedia.org/wiki/Autobiographical_memory) - Wikipédia
 - [Accuracy and Inaccuracy in Memory and Cognition](https://open.lib.umn.edu/intropsyc/chapter/8-3-accuracy-and-inaccuracy-in-memory-and-cognition/) - Introduction to psychology
 - [Audience-tuning effects on memory: the role of shared reality](https://www.ncbi.nlm.nih.gov/pubmed/16248713) - Echterhoff et al (2005)
+- [Memory, explained | from Vox + Netflix's The Mind, Explained](https://youtu.be/d95dOH-7GHM?list=WL) - Vox (Septembre 2019)
 
 ---
 
