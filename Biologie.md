@@ -411,6 +411,7 @@ Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur T
 - A l'intérieur des cellules, la plupart des molécules sont constamment construites et détruites. A l'exception de la molécule d'ADN, née lors de la division d'une cellule parent, et qui reste stable durant toute la durée de vie d'une cellule
 > L'intégrité de la molécule d'ADN est maintenue par une grande variété de mécanismes de réparation.
 - Mais même la molécule d'ADN n'est pas complètement stable au cours de votre vie. > L'ADN raccourcit de quelques dizaines de bases à chaque division cellulaire. Raccourcissement des télomères. Sénescence réplicative.
+- Cf expérience de pensée du bateau de Thésée
 
 *Taux de remplacement des cellules du corps humain (Source : Biology by number)*
 
