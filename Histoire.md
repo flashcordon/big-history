@@ -1,4 +1,4 @@
-# Nombre d’humains qui ont vécu sur Terre
+## Nombre d’humains qui ont vécu sur Terre
 
 *Sources*
 
@@ -22,7 +22,7 @@
 *Evolution de la population humaine (Comparaison des différentes estimations [ici](https://ourworldindata.org/grapher/total-world-population-comparison-of-different-sources?time=-10000..2000&country=HYDE%203.1+Kremer%20(1993)+Livi-Bacci%20(1997)+McEvedy%20and%20Jones%20(1978)+Our%20World%20In%20Data+Renfrew%20and%20Bahn%2C%20lower%20(1996)+Renfrew%20and%20Bahn%2C%20upper%20(1996)+Thomlinson%20(1975)%2C%20lower+Thomlinson%20(1975)%2C%20upper))*
 ![worldpop](https://i.imgur.com/LqGkFer.png)
 
-# Les origines de l'écriture
+## Les origines de l'écriture
 
 *Sources*
 
@@ -85,6 +85,37 @@
 - Elle permet aussi de conserver des mythes transmis oralement jusque là (Gilgamesh)
 
 - Y a t-il des écritures plus évoluées que d'autres ?
+
+## L’alphabétisation du monde
+
+*Sources*
+
+- [Literacy](https://ourworldindata.org/literacy) - Our World in Data
+https://journals.sagepub.com/doi/abs/10.3102/0091732X012001011?journalCode=rrea 
+- [Literacy](https://en.wikipedia.org/wiki/Literacy#History) - Wikipédia
+- [The making of literate societies](http://www.unesco.org/education/GMR2006/full/chapt8_eng.pdf) – UNESCO, Education for All Global Monitoring Report (2006)
+- [The growth of literacy in historic perspective: clarifying the role of formal schooling and adult learning opportunities](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.5671&rep=rep1&type=pdf) - Leslie Limage (2005) 
+- [History of literacy](http://21centurylit.org/1-a-short-history-of-literacy) – Beach, 21st century literacy: Constructing & debating knowledge (2013)
+- [Education & the Development of Democracy](http://21centurylit.org/2-education-democracy) – Beach,  21st century literacy: Constructing & debating knowledge (2013)
+- [History of education](https://en.wikipedia.org/wiki/History_of_education#The_development_of_writing) - Wikipédia
+
+---
+
+- Ce n’est pas parce que l’écriture existe depuis plus de 5000 ans qu’elle est pour autant une pratique répandue depuis ce temps !
+- Pendant la grande majorité de l’histoire, la capacité de lire et d’écrire a été réservée à une élite, sociale et politique, globalement masculine, et était associée de près à l’exercice du pouvoir.
+> jusqu’au 19e siècle, savoir lire et écrire était réservé aux chefs religieux, aux administrateurs de l’État, des marchants et à la noblesse. Les marchands utilisaient cette technologie pour leurs inventaires. Les administrateurs de l’État l’utilisaient pour mettre en forme leurs lois et préserver l’histoire officielle. Les prêtres l’utilisaient pour mettre en forme leurs codes moraux et leurs histoires sacrées. 
+- L’imprimerie est inventée indépendamment en Chine au 11e siècle et en Corée au 13e siècle.
+> Mais l’imprimerie moderne, à base de lettres amovibles, est inventée en Europe vers 1450 par l’allemand Johannes Gutenberg.
+- L’invention de l’imprimerie a considérablement augmenté la diffusion du livre dans le monde.
+> En 1500, on estime que 8 million de livres furent imprimés. Un chiffre qui passe à 200 millions à peine 200 ans plus tard.
+- Cette diffusion à une échelle nouvelle a généré une demande pour le développement de compétences d’écriture et de lecture dans une fraction plus large de la population
+- Cet engouement nouveau prendra forme dans le développement des écoles publiques au 19e siècle, d’abord en Europe et en Amérique du Nord puis dans le reste du monde.
+- Si bien qu’au cours des 2 derniers siècles, l’alphabétisation (literacy) de la population mondiale a grimpé en flèche, et s’est particulièrement accéléré à partir du milieu du XXe siècle, quand l’accès à l’éducation est devenu une priorité mondiale.
+> * En 1820, seulement 12 % de la population mondiale savait lire et écrire. A peine plus d’une personne sur 10.
+> * En 2015 c’est 86 % de la population qui possède ces compétences. Ça représente plus de 4 personnes sur 5 !
+- Aujourd’hui, tous les pays en dehors de l’Afrique (excepté l’Afghanistan) ont des taux d’alphabétisation supérieurs à 50 %. 
+> Attention cependant, il n’y a pas de définition d’alphabétisation qui fasse consensus aujourd’hui, et les définitions varient de pays en pays. Selon l’UNESCO, une personne est alphabète (?) si elle peut comprendre, lire et écrire une phrase simple sur leur vie de tous les jours.
+- Un mouvement global ralenti par des instabilités politiques et économiques, les guerres et les discriminations de genre et de classe qui gangrènent la plupart des pays. 
 
 # Les premières villes
 
