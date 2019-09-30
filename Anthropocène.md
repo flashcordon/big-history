@@ -213,5 +213,9 @@ Scale and diversity of the physical technosphere: A geological perspective](http
 Les dernières traces de notre civilisation ne seront donc pas sur Terre mais dans l’espace ! 
 > Les sondes Voyager, Pioneer, et New Horizons 
 
+## Anthropocène ou crise anthropique 
+
+- [Anthropocène : l’humanité mérite-t-elle une époque à son nom ?](https://theconversation.com/anthropocene-lhumanite-merite-t-elle-une-epoque-a-son-nom-123030?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1569295522) - Jean-Renaud Boisserie (Septembre 2019)
+
 
 
