@@ -1,5 +1,8 @@
 # Qu'est ce que la complexité
 
+- Cmoplexity and the arrow of time - Charles Lineweaver, Paul C. W. Davies, Michael Ruse (2013)
+- Robert Hazen, Eric Chaisson
+
 # Qu'est ce que l'émergence 
 
 - The Routledge Handbook of Emergence - Sophie Gibb, Robin Hendry, Tom Lancaster (2019)
