@@ -1,7 +1,8 @@
 # Qu'est ce que la complexité
 
-- Cmoplexity and the arrow of time - Charles Lineweaver, Paul C. W. Davies, Michael Ruse (2013)
+- Complexity and the arrow of time - Charles Lineweaver, Paul C. W. Davies, Michael Ruse (2013)
 - Robert Hazen, Eric Chaisson
+- [Principles of Complex systems](http://www.uvm.edu/pdodds/teaching/courses/2015-08UVM-300/) - Cours de Peter Sheridan Dodds (2015)
 
 # Qu'est ce que l'émergence 
 
