@@ -13,12 +13,15 @@
 > un système complexe est adaptable.
 - Il n'y a pas de définition unique de ce qu'est un système complexe. une seule théorie unifiée de la complexité
 - Un système complexe est un ensemble constitué d'un grand nombre d'entités en interaction qui empêchent l'observateur de prévoir sa rétroaction, son comportement ou évolution par le calcul. 
+- A complex system is a distributed system with many interrelated (possibly networked) parts, governed by no centralized control, and exhibiting emergent behavior—'More is Different'.
 
 ## Quantifier la complexité
 
 - Eric Chaisson
 - alternative proposals, such as infor-mation content or entropy production
 - Complexité de Kolmogorov
+
+## Réductionisme et émergentisme
 
 # Qu'est ce que l'émergence 
 
