@@ -1,9 +1,10 @@
 # Qu'est ce que la complexité
 
 - Complexity and the arrow of time - Charles Lineweaver, Paul C. W. Davies, Michael Ruse (2013)
-- Robert Hazen, Eric Chaisson
+- Robert Hazen, 
 - [Principles of Complex systems](http://www.uvm.edu/pdodds/teaching/courses/2015-08UVM-300/) - Cours de Peter Sheridan Dodds (2015)
 - [S9E02: Manifesto, Scaling, and Backs of Envelopes](https://youtu.be/Q69DXymX9OE?list=WL) - Peter Sheridan Dodds (Septembre 2015)
+- [Energy Rate Density as a Complexity Metricand Evolutionary Driver](https://www.cfa.harvard.edu/~ejchaisson/reprints/EnergyRateDensity_I_FINAL_2011.pdf) - Chaisson (2011)
 
 ---
 
@@ -12,6 +13,12 @@
 > un système complexe est adaptable.
 - Il n'y a pas de définition unique de ce qu'est un système complexe. une seule théorie unifiée de la complexité
 - Un système complexe est un ensemble constitué d'un grand nombre d'entités en interaction qui empêchent l'observateur de prévoir sa rétroaction, son comportement ou évolution par le calcul. 
+
+## Quantifier la complexité
+
+- Eric Chaisson
+- alternative proposals, such as infor-mation content or entropy production
+- Complexité de Kolmogorov
 
 # Qu'est ce que l'émergence 
 
