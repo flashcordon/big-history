@@ -5,6 +5,7 @@
 - [Principles of Complex systems](http://www.uvm.edu/pdodds/teaching/courses/2015-08UVM-300/) - Cours de Peter Sheridan Dodds (2015)
 - [S9E02: Manifesto, Scaling, and Backs of Envelopes](https://youtu.be/Q69DXymX9OE?list=WL) - Peter Sheridan Dodds (Septembre 2015)
 - [Energy Rate Density as a Complexity Metricand Evolutionary Driver](https://www.cfa.harvard.edu/~ejchaisson/reprints/EnergyRateDensity_I_FINAL_2011.pdf) - Chaisson (2011)
+- [Complex systems manifesto](https://www.uvm.edu/pdodds/writings/2015-06-04complex-systems-manifesto/) - Peter Dodds
 
 ---
 
