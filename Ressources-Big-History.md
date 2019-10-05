@@ -95,6 +95,7 @@ Ressources sur la Big History
 - [David Christian : L'histoire de l'univers en 18 minutes](https://www.ted.com/talks/david_christian_big_history?language=fr) - TED Talk (Mars 2011)
 - [Crash Course Big History](https://www.youtube.com/watch?v=tq6be-CZJ3w&list=PL8dPuuaLjXtMczXZUmjb3mZSU1Roxnrey) - présenté par John Green (2014)
 - [Sir Crispin Tickell - Big History: The Human Past and Future](https://schoolofsustainability.asu.edu/media/video/big-history-the-human-past-and-future/) - Conférence donnée par le diplomate britannique Crispin Tickell à l'Arizona State University School of Sustainability (Avril 2016)
+- [Dr. Eric Chaisson at the University of Memphis](https://youtu.be/uLtJyg_f3B0?list=WL)
 
 ## Podcasts
 
