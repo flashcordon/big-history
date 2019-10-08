@@ -169,6 +169,7 @@
 - [Le cycle du Carbone bilans, projections & modélisation](https://youtu.be/37d9INQQ5fQ) - Laurent Bopp (Mars 2014)
 - [Is climate change an existential risk? ](https://docs.google.com/document/d/1qmHh-cshTCMT8LX0Y5wSQm8FMBhaxhQ8OlOeRLkXIF0/mobilebasic?fbclid=IwAR2bKFv0HCXO0fglfvmhFmHj3E8npRablXTphVtbOIURnGXyP7AH7Jy-K40#ftnt97)
 - [Pliocene and Eocene provide best analogs for near-future climates](https://www.pnas.org/content/115/52/13288) - Burke et al (2018)
+- [Climate technology primer (1/3): basics](https://longitudinal.blog/co2-series-part-1-review-of-basics/?fbclid=IwAR3dfXFkDtxhdi-RuzpYyYwfpg1cTc69JSLFO6KRr91SSMIx0jpMNrldw-U) - Longitudinal science blog 
 
 ---
 
