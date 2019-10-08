@@ -704,6 +704,7 @@ Burcher
  - [Top 5 Strangest and Most Terrifying Planets in the Universe](https://medium.com/@Ella_alderson/top-5-strangest-and-most-terrifying-planets-in-the-universe-ace289402c76) – Medium (Juin 2018)
  - [List of exoplanet extremes](https://en.wikipedia.org/wiki/List_of_exoplanet_extremes) - Wikipédia
  - [Exoplanets Explorations](https://exoplanets.nasa.gov/) - Site de la NASA sur les exoplanètes
+ - [The Earth as a distant planet](https://books.google.fr/books?id=qLuVCJtRTV0C&pg=PA252&lpg=PA252&dq=1989+lathan+exoplanet&source=bl&ots=4TytnqXoMf&sig=ACfU3U2NI19znZYfRvYO7nd68rnl_5GCUw&hl=fr&sa=X&ved=2ahUKEwi25LWZ2ozlAhV3DGMBHaP0CxEQ6AEwBXoECAcQAQ#v=onepage&q=1989%20lathan%20exoplanet&f=false)
 
 ---
 
@@ -763,6 +764,11 @@ Burcher
 - Le revers de la médaille c’est qu’au cours des premiers milliards d’années de leur évolution, les naines rouges ont une vie beaucoup plus agitée que les étoiles comme le Soleil. Leur surface est notamment régulièrement secouée par de violentes éruptions stellaires, qui peuvent doubler leur luminosité en l'espace de quelques minutes !
 > Ces bouffées d’énergies sont assez puissantes pour arracher des électrons aux molécules de l’atmosphère des planètes voisines. Les particules alors chargées de l’atmosphère deviennent plus vulnérables à être éjectées dans l’espace lors des tempêtes stellaire, ce qui finit par éroder l’atmosphère sur le long terme. Sans atmosphère pour se protéger, les rayons ultraviolets issus de l’étoile peuvent alors stériliser la surface d’une planète et la rendre hostile au développement de la vie. 
 - Mais l’espoir subsiste si la planète s’est formée plus loin de son étoile au début de son histoire, ou bien possède un bouclier magnétique assez puissant pour retenir son atmosphère. Donc pour le moment, la question de l’habitabilité des planètes autour des naines rouges reste ouverte.
+
+***Histoire de la détection des exoplanètes***
+- En 1989, Latham et al découvrent la 1ère exoplanète autour d'une étoile de type solaire HD114762 (mais on n'est pas encore sûr si c'est une exoplanète ou une naine brune)
+- En 1992, Wolszczan et Frail découvrent un système de planètes autour du pulsar PSR B1257+12. On ne sait toujours pas coment de telles planètes peuvent se former (elles sont normalement détruites par la supernova à l'origine du pulsar), ce sont donc probablement des objets exotiques.
+- En 1995, Michel Mayor et Didier Queloz découvrent l'exoplanète 51 Peg b, un Jupiter chaud orbitant autour d'une étoile de masse solaire. Ils obtiennent le prix Nobel en 2019 pour cette découverte.
 
 ***Le futur de la détection des exoplanètes***
 - On pourra bientôt sonder avec précision l’atmosphère des exoplanètes (si elles en ont encore une) pour savoir si elles contiennent des ingrédients chimiques intéressants pour l’apparition de la vie, comme le carbone, le méthane, le dioxygène ou encore l'eau (on y arrive sur quelques exoplanètes, mais c'est rare). C’est d’ailleurs l’un des nombreux objectifs du James Webb Space Telescope, le successeur de Hubble, qui sera lancé d’ici 2020.
