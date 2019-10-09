@@ -768,8 +768,9 @@ Burcher
 ***Histoire de la détection des exoplanètes***
 - En 1989, Latham et al découvrent la 1ère exoplanète autour d'une étoile de type solaire HD114762 (mais on n'est pas encore sûr si c'est une exoplanète ou une naine brune)
 > On considère qu'un objet est une naine brune si sa masse est entre 13 et 75 fois la masse de Jupiter
-- En 1992, Wolszczan et Frail découvrent un système de planètes autour du pulsar PSR B1257+12. On ne sait toujours pas coment de telles planètes peuvent se former (elles sont normalement détruites par la supernova à l'origine du pulsar), ce sont donc probablement des objets exotiques.
-- En 1995, Michel Mayor et Didier Queloz découvrent l'exoplanète 51 Peg b, un Jupiter chaud orbitant autour d'une étoile de masse solaire. Ils obtiennent le prix Nobel en 2019 pour cette découverte.
+- En 1992, Wolszczan et Frail découvrent un système de planètes autour du pulsar PSR B1257+12. On ne sait toujours pas comment de telles planètes peuvent se former (elles sont normalement détruites par la supernova à l'origine du pulsar), ce sont donc probablement des objets exotiques.
+- En 1995, Michel Mayor et Didier Queloz découvrent l'exoplanète 51 Peg b, un Jupiter chaud orbitant autour d'une étoile de masse solaire. Ils obtiennent le prix Nobel en 2019 pour cette découverte (première exoplanète confirmée autour d'une étoile de type solaire).
+- En 2004, le télescope Yepun du VLT réalise la première image directe d'une exoplanète autour de la naine brune 2M1207 (imagerie infrarouge).
 
 ***Le futur de la détection des exoplanètes***
 - On pourra bientôt sonder avec précision l’atmosphère des exoplanètes (si elles en ont encore une) pour savoir si elles contiennent des ingrédients chimiques intéressants pour l’apparition de la vie, comme le carbone, le méthane, le dioxygène ou encore l'eau (on y arrive sur quelques exoplanètes, mais c'est rare). C’est d’ailleurs l’un des nombreux objectifs du James Webb Space Telescope, le successeur de Hubble, qui sera lancé d’ici 2020.
