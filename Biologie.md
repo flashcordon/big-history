@@ -221,9 +221,12 @@
 - [Les humains sont apparentés aux virus](http://passeurdesciences.blog.lemonde.fr/2012/05/28/les-humains-sont-apparentes-aux-virus/) - Passeur de Sciences (Mai 2012)
 -[De nouveaux virus dans le génome](https://www.pourlascience.fr/sd/biologie-moleculaire/de-nouveaux-virus-dans-le-genome-10487.php) – Pour la Science (2010)
 - [Les syncytines, des protéines d’enveloppe rétrovirales capturées au profit du développement placentaire](https://www.medecinesciences.org/en/articles/medsci/full_html/2011/02/medsci2011272p163/medsci2011272p163.html) - Dupressoir et Heidmann (2011)
+- [Viruses in the sea](https://www.nature.com/articles/nature04160) - Suttle (2005)
 
 ---
 
+- Les virus sont l'entité biologique la plus abondante sur la planète. Dans la plupart des habitats, il y a entre 10 et 100 particules virales par cellule.
+> 1 cm3 d'eau de mer contient entre 1 million et 1 milliard de particules virales
 - Notre évolution a été non seulement influencée par nos ancètres... Mais aussi par les virus !
 - Notre ADN contient une centaine de milliers (98 000) de fragments d'ADN viral, qui représente environ 8% du génome humain 
 > Cela constitue environ 300 millions de paires de bases d'origine virale, sur les 3.5 milliards de paires de bases que comptent notre génome. 
