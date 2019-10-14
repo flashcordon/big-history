@@ -243,6 +243,19 @@ https://journals.sagepub.com/doi/abs/10.3102/0091732X012001011?journalCode=rrea
 
 ![pop mondiale vs production d’ammoniac](https://i.imgur.com/9kRiAp2.png)
 
+# La révolution verte
+
+*Sources*
+
+- [Norman Borlaug](https://fr.wikipedia.org/wiki/Norman_Borlaug) - Wikipédia
+
+---
+ 
+- Norman Borlaug est considéré comme le père de la révolution verte. Il obtient le prix Nobel de la paix en 1970.
+- Mandaté en 1959 par la Fondation Rockefeller pour sélectionner des variétés de blé pour les milieux tropicaux, il proposa les variétés à haut rendement Lerma Rojo 64 et Sonora 64, basées sur la variété de blé Norin 10 et des variétés traditionnelles mexicaines permettant de tripler les rendements de cette céréale. 
+- Selon les propres calculs de Norman Borlaug, elles ont permis de pratiquement doubler la production de blé de l'Inde et du Pakistan entre 1965 et 1970, soit une hausse de plus de 11 millions de tonnes. Ce qui a sauvé des millions de gens de la famine.
+- Ces années sont en effet considérées comme « la plus grande période de production vivrière de l'histoire de l'humanité », selon Kenneth Quinn, président de la World Food Prize Foundation. 
+
 # Les organismes supra nationaux
 
 - ONU, EU, ONG, multinationales
