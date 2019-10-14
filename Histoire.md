@@ -248,14 +248,25 @@ https://journals.sagepub.com/doi/abs/10.3102/0091732X012001011?journalCode=rrea
 *Sources*
 
 - [Norman Borlaug](https://fr.wikipedia.org/wiki/Norman_Borlaug) - Wikipédia
+- [The significance of Borlaug](https://borlaug.cfans.umn.edu/about-borlaug/significance) - University of Minnesota
+- [Norman Borlaug: Wheat breeder who averted famine with a "Green Revolution"](https://blogs.scientificamerican.com/news-blog/norman-borlaug-wheat-breeder-who-av-2009-09-14/) - Scientific American (Septembre 2009)
 
 ---
  
  - Norman Borlaug est un agronome américain. Considéré comme le père de la révolution verte, il obtient le prix Nobel de la paix en 1970.
 - Mandaté en 1959 par la Fondation Rockefeller pour sélectionner des variétés de blé pour les milieux tropicaux, il proposa les variétés à haut rendement Lerma Rojo 64 et Sonora 64, basées sur la variété de blé Norin 10 et des variétés traditionnelles mexicaines permettant de tripler les rendements de cette céréale. 
 - By combining newly developed crop strains with industrial fertilizers and new irrigation technologies, world grain yields soared during the 20th century—by one estimate, increasing productivity by 170% using only 1% more land.
+- Borlaug’s goal was to make Mexico self-sufficient in wheat production. In 1944 wheat was seldom grown due to devastating stem rust  disease epidemics, a fungus that infects wheat. He taught uneducated Mexican farm youths plant breeding techniques. 
+- They created a revolutionary high volume "shuttle breeding" program. They bred wheat using two distinct latitudes and seasons in the same year. In summer they bred wheat at high altitude near Mexico City, in winter they used the Yaqui Valley of northern Mexico—an irrigated part of the Sonoran Desert. Thus, they bred two generations of wheat a year, when other breeders produced but one. They ‘married’ thousands of wheat parents yearly, while most breeders managed less than 200 per year. They started in 1945 and released their first breakthrough Mexican variety, Yaqui 50, in 1950. By 1956 Mexico was self sufficient in wheat production.
+- He and his colleagues spent the next decade crossing thousands of strains of wheat from across the globe, ultimately developing a high-yielding, disease resistant variety. 
+- These ‘miracle Mexican Wheats’ eventually became the genetic foundation of bread wheat grown throughout the world.
+- Borlaug’s wheat seeds were given, along with training and education programs, to any country requesting them. However, recipient nations were required to dedicate resources to breeding wheat, and build graduate level colleges of agriculture. The goal was to build a self-sufficient, educated group of scientists in each nation to carry on after Borlaug’s group left.
 - Selon les propres calculs de Norman Borlaug, elles ont permis de pratiquement doubler la production de blé de l'Inde et du Pakistan entre 1965 et 1970, soit une hausse de plus de 11 millions de tonnes. Ce qui a sauvé des millions de gens de la famine.
 - Ces années sont en effet considérées comme « la plus grande période de production vivrière de l'histoire de l'humanité », selon Kenneth Quinn, président de la World Food Prize Foundation. 
+- Their wheats and policies prevented what would have been a disastrous epoch in human history. An epoch that would have seen tremendous human mortality from diseases related to malnutrition and death by outright starvation. 
+- Borlaug believed that science should serve humanity, but realized there was a planetary limit on population. He thought everyone born had a right to food, but was very concerned that human reproduction would outstrip our capacity to feed ourselves. He often referred to the exponential human birth rate as ‘The Population Monster.’
+- The Green Revolution in Asia has also left a conflicted legacy. Leaving aside the social justice concerns surrounding farm consolidation (and therefore the favoring of rich landowners over peasants), it required massive dams like Bhakra or groundwater mining for irrigation water and huge quantities of synthetic fertilizers made from fossil fuels in addition to Borlaug's wheat. Today, India's waters are drying up and some of the water that remains is now poisoned by those same fertilizers.
+- Africa also proved resistant to Borlaug's revolution. Despite nearly 30 years of work, yields have not risen as much as he and others hoped—largely because many countries lack the capacity for massive irrigation or road infrastructure needed to truck in fertilizer. 
 
 # Les organismes supra nationaux
 
