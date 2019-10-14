@@ -251,6 +251,8 @@ https://journals.sagepub.com/doi/abs/10.3102/0091732X012001011?journalCode=rrea
 - [The significance of Borlaug](https://borlaug.cfans.umn.edu/about-borlaug/significance) - University of Minnesota
 - [Norman Borlaug: Wheat breeder who averted famine with a "Green Revolution"](https://blogs.scientificamerican.com/news-blog/norman-borlaug-wheat-breeder-who-av-2009-09-14/) - Scientific American (Septembre 2009)
 - [Green Revolution](https://en.wikipedia.org/wiki/Green_Revolution) - Wikipédia
+- [Green revolution: the way forward](https://www.nature.com/articles/35093585) - Kush (2001)
+- [Green Revolution: Impacts, limits, and the path ahead](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3411969/) - Pingali (2012)
 
 ---
  
@@ -266,6 +268,7 @@ https://journals.sagepub.com/doi/abs/10.3102/0091732X012001011?journalCode=rrea
 - Selon les propres calculs de Norman Borlaug, elles ont permis de pratiquement doubler la production de blé de l'Inde et du Pakistan entre 1965 et 1970, soit une hausse de plus de 11 millions de tonnes. Ce qui a sauvé des millions de gens de la famine.
 - Ces années sont en effet considérées comme « la plus grande période de production vivrière de l'histoire de l'humanité », selon Kenneth Quinn, président de la World Food Prize Foundation. 
 - Their wheats and policies prevented what would have been a disastrous epoch in human history. An epoch that would have seen tremendous human mortality from diseases related to malnutrition and death by outright starvation. 
+-  It took almost 10,000 years for food grain production to reach 1 billion tons, in 1960, and only 40 years to reach 2 billion tons, in 2000. 
 - Borlaug believed that science should serve humanity, but realized there was a planetary limit on population. He thought everyone born had a right to food, but was very concerned that human reproduction would outstrip our capacity to feed ourselves. He often referred to the exponential human birth rate as ‘The Population Monster.’
 - The Green Revolution in Asia has also left a conflicted legacy. Leaving aside the social justice concerns surrounding farm consolidation (and therefore the favoring of rich landowners over peasants), it required massive dams like Bhakra or groundwater mining for irrigation water and huge quantities of synthetic fertilizers made from fossil fuels in addition to Borlaug's wheat. Today, India's waters are drying up and some of the water that remains is now poisoned by those same fertilizers.
 - Africa also proved resistant to Borlaug's revolution. Despite nearly 30 years of work, yields have not risen as much as he and others hoped—largely because many countries lack the capacity for massive irrigation or road infrastructure needed to truck in fertilizer. 
