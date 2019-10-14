@@ -250,9 +250,11 @@ https://journals.sagepub.com/doi/abs/10.3102/0091732X012001011?journalCode=rrea
 - [Norman Borlaug](https://fr.wikipedia.org/wiki/Norman_Borlaug) - Wikipédia
 - [The significance of Borlaug](https://borlaug.cfans.umn.edu/about-borlaug/significance) - University of Minnesota
 - [Norman Borlaug: Wheat breeder who averted famine with a "Green Revolution"](https://blogs.scientificamerican.com/news-blog/norman-borlaug-wheat-breeder-who-av-2009-09-14/) - Scientific American (Septembre 2009)
+- [Green Revolution](https://en.wikipedia.org/wiki/Green_Revolution) - Wikipédia
 
 ---
  
+ - The Green Revolution, or Third Agricultural Revolution, is a set of research technology transfer initiatives occurring between 1950 and the late 1960s, that increased agricultural production worldwide, particularly in the developing world, beginning most markedly in the late 1960s.[1] The initiatives resulted in the adoption of new technologies, including high-yielding varieties (HYVs) of cereals, especially dwarf wheats and rices, in association with chemical fertilizers and agro-chemicals,and with controlled water-supply (usually involving irrigation) and new methods of cultivation, including mechanization. All of these together were seen as a 'package of practices' to supersede 'traditional' technology and to be adopted as a whole.
  - Norman Borlaug est un agronome américain. Considéré comme le père de la révolution verte, il obtient le prix Nobel de la paix en 1970.
 - Mandaté en 1959 par la Fondation Rockefeller pour sélectionner des variétés de blé pour les milieux tropicaux, il proposa les variétés à haut rendement Lerma Rojo 64 et Sonora 64, basées sur la variété de blé Norin 10 et des variétés traditionnelles mexicaines permettant de tripler les rendements de cette céréale. 
 - By combining newly developed crop strains with industrial fertilizers and new irrigation technologies, world grain yields soared during the 20th century—by one estimate, increasing productivity by 170% using only 1% more land.
@@ -267,6 +269,8 @@ https://journals.sagepub.com/doi/abs/10.3102/0091732X012001011?journalCode=rrea
 - Borlaug believed that science should serve humanity, but realized there was a planetary limit on population. He thought everyone born had a right to food, but was very concerned that human reproduction would outstrip our capacity to feed ourselves. He often referred to the exponential human birth rate as ‘The Population Monster.’
 - The Green Revolution in Asia has also left a conflicted legacy. Leaving aside the social justice concerns surrounding farm consolidation (and therefore the favoring of rich landowners over peasants), it required massive dams like Bhakra or groundwater mining for irrigation water and huge quantities of synthetic fertilizers made from fossil fuels in addition to Borlaug's wheat. Today, India's waters are drying up and some of the water that remains is now poisoned by those same fertilizers.
 - Africa also proved resistant to Borlaug's revolution. Despite nearly 30 years of work, yields have not risen as much as he and others hoped—largely because many countries lack the capacity for massive irrigation or road infrastructure needed to truck in fertilizer. 
+- The spread of Green Revolution agriculture affected both agricultural biodiversity (or agrodiversity) and wild biodiversity.[60] There is little disagreement that the Green Revolution acted to reduce agricultural biodiversity, as it relied on just a few high-yield varieties of each crop.
+- This has led to concerns about the susceptibility of a food supply to pathogens that cannot be controlled by agrochemicals, as well as the permanent loss of many valuable genetic traits bred into traditional varieties over thousands of years. To address these concerns, massive seed banks such as Consultative Group on International Agricultural Research’s (CGIAR) International Plant Genetic Resources Institute (now Bioversity International) have been established (see Svalbard Global Seed Vault). 
 
 # Les organismes supra nationaux
 
