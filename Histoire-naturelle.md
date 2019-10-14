@@ -553,6 +553,7 @@
 
 - [Quand la Terre était une boule de neige](https://lejournal.cnrs.fr/articles/quand-la-terre-etait-une-boule-de-neige) - CNRS le journal (Décembre 2017)
 - [A Cryogenian chronology: Two long-lasting synchronous Neoproterozoic glaciations](https://francismacdonald.fas.harvard.edu/files/fmacdonald/files/rooney_etal_geology_2015.pdf) - Rooney et al (2015): pour la datation de la glaciation sturtienne
+- [The story of Snowball Earth](https://www.knowablemagazine.org/article/physical-world/2019/story-snowball-earth?fbclid=IwAR3WwrGVZWeM59lxW9jYq4nBvuXRMy6GrXscExviRj3tPqB9f0j5Fwct7OE) - Knowable Magazine (2019)
 
 ---
 
