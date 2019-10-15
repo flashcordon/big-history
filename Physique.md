@@ -30,3 +30,14 @@
 - The Big Picture - Sean Carroll
 - [More is different](http://robotics.cs.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf) - P. W. Anderson (1972)
 - [De l’atome à la conscience : phénomènes d’émergence et complexité](https://books.openedition.org/pum/17020?lang=fr) - Normand Mousseau (2008)
+
+# Esthétique et complexité
+
+*Sources*
+
+- [Beauty and structural complexity](https://arxiv.org/abs/1910.06088?fbclid=IwAR0sNxSrFww6cxUergSUZOGStO0Gm72u2n20lDenOnsoGVvjMqdVPhAvrBk) - Lakhal et al (2019)
+
+---
+
+- Y a t-il une complexophilie ?
+- Gestaldt theorie
