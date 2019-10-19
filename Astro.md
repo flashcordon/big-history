@@ -20,6 +20,7 @@
 - [La formation du système solaire](#La-formation-du-système-solaire)
 - [La zone d'habitabilité](#La-zone-dhabitabilité)
 - [Les exoplanètes](#Les-exoplanètes)
+- [Planétologie comparée](#Planétologie-comparée)
 
 *Sources*
 
@@ -784,4 +785,11 @@ Burcher
 
 *Liste des étoiles et des exoplanètes connues à moins de 7 années lumière de la Terre (Source : [Pascal Lee](https://twitter.com/pascalleetweets/status/1180895960081170432/photo/1))*
 ![plusproches](https://i.imgur.com/0MQAe2X.jpg)
+
+# Planétologie comparée
+
+*Sources*
+
+- [The discovery of global warming](https://history.aip.org/climate/index.htm#contents) - Spencer Weart : histoire des recherches sur le changement climatique
+- [Venus & Mars](https://history.aip.org/history/climate/Venus.htm)
 
