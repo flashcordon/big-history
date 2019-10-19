@@ -77,7 +77,7 @@
 - Les nuages et les aérosols sont la plus grosse source d’incertitude de nos modèles climatiques à l’heure actuelle.
 > Ils évoluent à une échelle spatiale bien plus faible que la résolution des modèles climatiques (les noyaux de condensation de nuages peuvent mesurer 1/10e de micromètre, et les nuages peuvent mesurer jusqu’à plusieurs milliers de kilomètres de long)
 
-*Emissions mondiales de gaz à effet de serre par secteur en 2005 (Source : World Resources Institute)*
+*Emissions mondiales de gaz à effet de serre par secteur en 2005 (Source : [World Resources Institute](https://www.wri.org/resources/charts-graphs/world-greenhouse-gas-emissions-2005))*
 ![emissions_ges](https://i.imgur.com/fPuPzmD.jpg)
 
 ## Les cycles biogéochimiques
