@@ -95,6 +95,7 @@ Wikipedia, l'encyclopédie universelle en ligne gratuite et collaborative créé
 - Our common denominator : Human universals revisited – Christoph Antweiler (2016)
 - [Aux origines de la société humaine. Parenté et évolution](https://books.google.fr/books?id=gk83DwAAQBAJ&pg=PT20&lpg=PT20&dq=universaux+humains&source=bl&ots=wqITTlBi8U&sig=ACfU3U0FqlEXdoBV_wWK_jqQ9vF30iM6Dw&hl=fr&sa=X&ved=2ahUKEwix7NKOvfDhAhWBAWMBHcLtCmM4FBDoATADegQIBxAB#v=onepage&q=universaux%20humains&f=false) - Bernard Chapais
 - [L'aventure humaine: Des molécules à la culture](https://books.google.fr/books?id=kOkTGJiGgn8C&pg=PA506&lpg=PA506&dq=universaux+humains&source=bl&ots=wmM6aTMm2l&sig=ACfU3U28Z-apuT9T_-NOPDDT_Q4L3axLhg&hl=fr&sa=X&ved=2ahUKEwix7NKOvfDhAhWBAWMBHcLtCmM4FBDoATAAegQICRAB#v=onepage&q=universaux%20humains&f=false) – Robert Boyd
+- Blueprint : The Evolutionary Origins of a Good Society  - Nicholas Christakis (2019)
 
 ---
 
