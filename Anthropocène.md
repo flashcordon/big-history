@@ -77,6 +77,9 @@
 - Les nuages et les aérosols sont la plus grosse source d’incertitude de nos modèles climatiques à l’heure actuelle.
 > Ils évoluent à une échelle spatiale bien plus faible que la résolution des modèles climatiques (les noyaux de condensation de nuages peuvent mesurer 1/10e de micromètre, et les nuages peuvent mesurer jusqu’à plusieurs milliers de kilomètres de long)
 
+*Emissions mondiales de gaz à effet de serre par secteur en 2005 (Source : World Resources Institute)*
+![emissions_ges](https://i.imgur.com/fPuPzmD.jpg)
+
 ## Les cycles biogéochimiques
 
 - Nous altérons de nombreux cycles biogéochimiques de la Terre (ensembles des échanges d'un élément chimique) : le cycle du carbone, de l’azote, du phosphore et du soufre.
