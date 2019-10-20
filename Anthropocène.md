@@ -173,6 +173,12 @@ Scale and diversity of the physical technosphere: A geological perspective](http
 
 ## Les futures traces de l’Humanité dans les roches
 
+*Sources*
+
+- [The Silurian hypothesis: would it be possible to detect an industrial civilization in the geological record?](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6) - Schmidt & Frank (2019)
+
+---
+
 ***Quelles traces notre civilisation va laisser sur Terre dans plusieurs dizaines de millions d’années ?***
 
 - Quoi qu’on fasse en tant que civilisation, la dérive des continents et le recyclage des roches terrestres va continuer. 
