@@ -227,4 +227,8 @@ Les dernières traces de notre civilisation ne seront donc pas sur Terre mais da
 - [Anthropocène : l’humanité mérite-t-elle une époque à son nom ?](https://theconversation.com/anthropocene-lhumanite-merite-t-elle-une-epoque-a-son-nom-123030?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1569295522) - Jean-Renaud Boisserie (Septembre 2019)
 
 
+## Critiques politiques de la notion d'anthropocène
 
+- [MALCOM FERDINAND // Penser une écologie décoloniale, une écologie-du-monde](https://soundcloud.com/user-482486519/malcom-ferdinand-penser-une-ecologie-decoloniale-une-ecologie-du-monde) - Afrotopiques (2019)
+
+- Plantationocène ? Capitalocène ?
