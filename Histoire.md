@@ -105,6 +105,8 @@ https://journals.sagepub.com/doi/abs/10.3102/0091732X012001011?journalCode=rrea
 - Pendant la grande majorité de l’histoire, la capacité de lire et d’écrire a été réservée à une élite, sociale et politique, globalement masculine, et était associée de près à l’exercice du pouvoir.
 > jusqu’au 19e siècle, savoir lire et écrire était réservé aux chefs religieux, aux administrateurs de l’État, des marchants et à la noblesse. Les marchands utilisaient cette technologie pour leurs inventaires. Les administrateurs de l’État l’utilisaient pour mettre en forme leurs lois et préserver l’histoire officielle. Les prêtres l’utilisaient pour mettre en forme leurs codes moraux et leurs histoires sacrées. 
 - L’imprimerie est inventée indépendamment en Chine au 11e siècle et en Corée au 13e siècle.
+- L’imprimerie est inventée en Chine avant 800. Une technologie qui utilise des caractères mobiles sous forme de blocs de bois.
+> le livre imprimé le plus anciennement daté du monde est une traduction chinoise du sûtra du diamant, l'un des grands textes du bouddhisme mahāyāna, daté de 868. Il dépeint un dialogue entre le Bouddha et l'un de ses disciple sur la nature impermanente du monde. Il est aujourd'hui conservé à la British Library. 
 > Mais l’imprimerie moderne, à base de lettres amovibles, est inventée en Europe vers 1450 par l’allemand Johannes Gutenberg.
 - L’invention de l’imprimerie a considérablement augmenté la diffusion du livre dans le monde.
 > En 1500, on estime que 8 million de livres furent imprimés. Un chiffre qui passe à 200 millions à peine 200 ans plus tard.
