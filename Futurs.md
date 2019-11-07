@@ -181,9 +181,9 @@ Déforestation :
 
 ### Agriculture
 
-- Le quart (26%) de nos émissions globales de CO2 sont liées à la production de nourriture. 
+- Le quart (26%) de nos émissions globales de gaz à effet de serre sont liées à la production de nourriture. 
 
-*Emission de CO2 liées à l'élevage et à l'agriculture (Source : [Our World in Data](https://ourworldindata.org/food-ghg-emissions?fbclid=IwAR2RTeFisXtJtBBqeghR1b5jHJ4SiYjC5qSPXNvg-TnK9GlpQVGYpNYZ61Y))*
+*Emissions de gaz à effet de serre liées à l'élevage et à l'agriculture (Source : [Our World in Data](https://ourworldindata.org/food-ghg-emissions?fbclid=IwAR2RTeFisXtJtBBqeghR1b5jHJ4SiYjC5qSPXNvg-TnK9GlpQVGYpNYZ61Y))*
 
 ![emissions_agro](https://i.imgur.com/Hah3IoC.png)
 
