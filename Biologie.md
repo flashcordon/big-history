@@ -480,7 +480,8 @@ Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur T
 
 - [Le vivant a sa matière noire](https://youtu.be/EwVHmf504Fs?list=WL) - Conférence d'Eric Bapteste (2017)
 - [Microbiologie de Prescott](https://books.google.fr/books?id=9XdhDwAAQBAJ&pg=PA167&lpg=PA167&dq=grande+anomalie+de+comptage+microbiologie&source=bl&ots=wcD4I8Jenj&sig=ACfU3U1Vs08q8AYJ1ZKej0Bys5QZVqJcmw&hl=fr&sa=X&ved=2ahUKEwj7vuum8NjlAhXJ34UKHeTWCykQ6AEwAHoECAkQAQ#v=onepage&q=grande%20anomalie%20de%20comptage%20microbiologie&f=false) - Prescott et al
+- [Interactions entre microalgues et bactéries dansl’environnement marin](https://tel.archives-ouvertes.fr/tel-01391468/file/these_archivage_3270917o.pdf) - Thèse de Klervi Crenn (2016)
 
 ---
 
-- La grande anomalie de comptage sur boîte : 99% des cellules microbiennes prélevées dans la nature sont incultivables dans une boîte de Pétri.
+- Quand on réalise des comptages de colonies bactériennes sur un milieu de culture et dans le milieu environnemental, on se rend compte que 99% des cellules microbiennes prélevées dans la nature sont incultivables dans une boîte de Pétri.  Ce phénomène, constaté au début des années 30, est appelé la grande anomalie de comptage sur boîte
