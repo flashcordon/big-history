@@ -179,6 +179,14 @@ Déforestation :
 
 ![sao-felix-du-xingu](https://cms.qz.com/wp-content/uploads/2018/10/sao-felix-du-xingu.jpg?quality=75&strip=all&w=3200&h=1800)
 
+### Agriculture
+
+- Le quart (26%) de nos émissions globales de CO2 sont liées à la production de nourriture. 
+
+*Emission de CO2 liées à l'agriculture (Source : [Our World in Data](https://ourworldindata.org/food-ghg-emissions?fbclid=IwAR2RTeFisXtJtBBqeghR1b5jHJ4SiYjC5qSPXNvg-TnK9GlpQVGYpNYZ61Y))*
+
+![emissions_agro](https://i.imgur.com/Hah3IoC.png)
+
 ### Capturer le carbone
 
 # La 6e extinction de masse
