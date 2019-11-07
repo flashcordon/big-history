@@ -226,6 +226,8 @@ Déforestation :
 - [Wait, Have We Really Wiped Out 60 Percent of Animals?](https://www.theatlantic.com/science/archive/2018/10/have-we-really-killed-60-percent-animals-1970/574549/) - Ed Yong (Octobre 2018)
 - [Impending extinction crisis of the world’s primates: Why primates matter](https://advances.sciencemag.org/content/3/1/e1600946) - Estrada et al (2017)
 - [Emergence of a sixth mass extinction?](https://academic.oup.com/biolinnean/article/122/2/243/3869095?fbclid=IwAR0t_P-uZm4BuQSJMlI__coHaAXG97fHU7S8av2Ef65vBAbU1-LyXi_hbSs) - Briggs (2017)
+- [Faut-il être mignon pour survivre ? | Zeste de Science & Hygiène Mentale | Le Vortex #16](https://youtu.be/nUJqRXGwhHI?list=WL) - Le Vortex (Novembre 2019)
+- [What Conservation Does](https://www.sciencedirect.com/science/article/abs/pii/S0169534718301642?via%3Dihub) - Godet et Devictor (2018)
 
 ---
 
