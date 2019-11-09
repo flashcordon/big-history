@@ -46,6 +46,7 @@ Ressources sur la Big History
 - [Big History European Network](https://ibha.wildapricot.org/European-Big-History-Network)
 - [THE INSTITUTE FOR GLOBAL AND COSMIC PEACE (IGCP)](https://ibha.wildapricot.org/Earth-and-Space-Institute)
 - [Big History Platform](http://bighistoryplatform.weebly.com/) - Plateforme liée à l'Université d'Amsterdam
+- [Universal History](http://www.universalhistory.info/index) - Site de Ingo Nosske
 
 ## Journaux académiques
 
