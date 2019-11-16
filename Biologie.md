@@ -274,6 +274,7 @@
 - [Scivis](http://www.scivis.it/videos/)
 - [Smart Biology](https://twitter.com/SmartBiology3D)
 - [BioVisions](http://biovisions.mcb.harvard.edu/) 
+- [XVivo Scientific Animations](https://xvivo.com/blog/the-inner-life-of-the-cell-animation/) - Producteurs de "the Inner life of a cell"
 
 ## Composition moléculaire d'une cellule
 
