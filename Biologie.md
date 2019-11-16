@@ -275,6 +275,7 @@
 - [Smart Biology](https://twitter.com/SmartBiology3D)
 - [BioVisions](http://biovisions.mcb.harvard.edu/) 
 - [XVivo Scientific Animations](https://xvivo.com/blog/the-inner-life-of-the-cell-animation/) - Producteurs de "the Inner life of a cell"
+- [Cell biology](https://cellbiology.science.uu.nl/lab-cell-biology/movies/) - Université d'Utrecht
 - [Inner Life of a Cell | Protein Packing](https://youtu.be/uHeTQLNFTgU) -  XVIVO Scientific Animation (2014)
 
 ## Composition moléculaire d'une cellule
