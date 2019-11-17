@@ -21,5 +21,3 @@
 - [Alexander von Humboldt and the Invention of Nature: How One of the Last True Polymaths Pioneered the Cosmos of Connections](https://www.brainpickings.org/2015/12/07/the-invention-of-nature-humboldt-wulf/?fbclid=IwAR0UASZ4vxAh0WqDuLvcZdFWNcD4yGyhpfxAwEAmxTOSxLUol4iGDejdNto)
 
 - ["Science is not only compatible with spirituality; it is a profound source of spirituality. When we recognize our place in an immensity of light years and in the passage of ages, when we grasp the intricacy, beauty and subtlety of life, then that soaring feeling, that sense of elation and humility combined, is surely spiritual. So are our emotions in the presence of great art or music or literature, or of acts of exemplary selfless courage such as those of Mohandas Gandhi or Martin Luther King Jr. The notion that science and spirituality are somehow mutually exclusive does a disservice to both." - Carl Sagan, The Demon Haunted World](https://www.brainpickings.org/2013/06/12/carl-sagan-on-science-and-spirituality/)
-
-- “I . . . a universe of atoms . . . an atom in the universe.” - Richard Feynman
