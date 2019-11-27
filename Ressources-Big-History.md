@@ -75,6 +75,7 @@ Ressources sur la Big History
 - [Imagining the Unimaginable: Narratives of the Big Bang: Time, Space, Matter, Energy](https://jbh.journals.villanova.edu/article/view/2251) - Barry Wood (2017)
 - [Evolution of the Early Solar System in Terms of Big History and Universal Evolution](https://jbh.journals.villanova.edu/article/view/2252) - Leonid Grinin (2017)
 - [Big History – The Unfolding of “Information”](https://jbh.journals.villanova.edu/article/view/2254/2099) - Ken Solis (2017)
+- [The energy expansions of evolution](https://www.nature.com/articles/s41559-017-0138) - Judson (2017)
 
 ## Cours
 
