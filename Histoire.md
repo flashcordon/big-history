@@ -249,6 +249,7 @@ https://journals.sagepub.com/doi/abs/10.3102/0091732X012001011?journalCode=rrea
 
 *Sources*
 
+- [Green Revolution | World History Project](https://youtu.be/015HH9zbWHQ?list=WL) - World History Project (2019)
 - [Norman Borlaug](https://fr.wikipedia.org/wiki/Norman_Borlaug) - Wikipédia
 - [The significance of Borlaug](https://borlaug.cfans.umn.edu/about-borlaug/significance) - University of Minnesota
 - [Norman Borlaug: Wheat breeder who averted famine with a "Green Revolution"](https://blogs.scientificamerican.com/news-blog/norman-borlaug-wheat-breeder-who-av-2009-09-14/) - Scientific American (Septembre 2009)
