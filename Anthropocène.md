@@ -27,6 +27,7 @@
 - The Blue Planet : an introduction to Earth System Science - Skinner et Murck (2011)
 - How the Earth works - Michael Wysession (the Great Courses)
 - Rapport de synthèse du GIEC "Changements climatiques" (2014)
+- Something new under the sun : an environmental history of the twentieth century world - John McNeill (2001)
 
 ---
 
