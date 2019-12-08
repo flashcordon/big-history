@@ -35,6 +35,7 @@
 - Nous sommes entrés dans une nouvelle ère géologique : l’anthropocène : 
 > Nous sommes devenus une force géologique. Nous affectons les terres, les eaux, l’air, la vie, les roches. Nous altérons aussi de nombreux cycles naturels.
  (CO2, azote), et nous perturbons la stabilité du système Terre
+ - John McNeill estimates that by the end of the twentieth century human activities (above all mining and various forms of human-caused erosion) were moving about 42 billion tons of rock and soil every year. This is more than wind (1 billion tons), glaciers (4.3), mountain-building processes (14), and oceanic volcanoes (30) and is exceeded only by the impact of moving water (53 billion tons)
 
 ## Les terres
 
