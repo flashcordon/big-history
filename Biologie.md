@@ -499,5 +499,5 @@ Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur T
 
 ---
 
-- Le texte des gènes est entrecoupé de séquences de lettres appelées introns. Ces introns ne servent pas à produire des protéines. Ils sont transcrits par l'ARN puis des mécanismes moléculaires découpent l'ARN pour en retirer les introns. Les parties des gènes qui codent pour des protéines s'appellent des exons (littéralement à l'extérieur des introns).
+- Le texte des gènes est entrecoupé de séquences de lettres appelées introns. Ces introns ne servent pas à produire des protéines. Ils sont transcrits par l'ARN puis des mécanismes moléculaires découpent l'ARN pour en retirer les introns. Les parties des gènes qui codent pour des protéines s'appellent des exons (littéralement à l'extérieur des introns). Le processus d'excision de l'ARN est appelé épissage.
 - Les introns représentent 1/4 du génome humain
