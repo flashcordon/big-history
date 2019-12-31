@@ -489,3 +489,13 @@ Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur T
 ---
 
 - Quand on réalise des comptages de colonies bactériennes sur un milieu de culture et dans le milieu environnemental, on se rend compte que 99% des cellules microbiennes prélevées dans la nature sont incultivables dans une boîte de Pétri.  Ce phénomène, constaté au début des années 30, est appelé la grande anomalie de comptage sur boîte
+
+# Génétique
+
+*Sources*
+
+- Tous entrelacés, Eric Bapteste
+
+---
+
+- Le texte des gènes est entrecoupé de séquences de lettres appelées introns. Ces introns ne servent pas à produire des protéines. Ils sont transcrits par l'ARN puis des mécanismes moléculaires découpent l'ARN pour en retirer les introns. Les parties des gènes qui codent pour des protéines s'appellent des exons (littéralement à l'extérieur des introns).
