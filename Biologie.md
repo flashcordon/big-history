@@ -12,6 +12,7 @@
 - [Universalité des mécanismes du vivant](#Universalité-des-mécanismes-du-vivant)
 - [Taux de remplacement de nos cellules](#Taux-de-remplacement-de-nos-cellules)
 - [Qu'est-ce que le vieillissement](#Quest-ce-que-le-vieillissement)
+- [Génétique](#Génétique)
 
 ---
 
@@ -499,3 +500,4 @@ Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur T
 ---
 
 - Le texte des gènes est entrecoupé de séquences de lettres appelées introns. Ces introns ne servent pas à produire des protéines. Ils sont transcrits par l'ARN puis des mécanismes moléculaires découpent l'ARN pour en retirer les introns. Les parties des gènes qui codent pour des protéines s'appellent des exons (littéralement à l'extérieur des introns).
+- Les introns représentent 1/4 du génome humain
