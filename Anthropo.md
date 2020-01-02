@@ -5,6 +5,7 @@
 - [Nul homme n'est une île](#Nul-homme-nest-une-île)
 - [Les universaux humains](#Les-universaux-humains)
 - [L'évolution des mythes](#Lévolution-des-mythes)
+- [L'humain est un primate](#Lhumain-est-un-primate)
 
 ---
 
@@ -256,6 +257,16 @@ Mais une théorie scientifique de la permanence des mythes reste encore largemen
 Max Weber
 Religion for breakfast
 
+# L'humain est un primate
+
+*Sources*
+
+- [Tweet de John Hawks](https://twitter.com/johnhawks/status/1212522408202121217)
+
+---
+
+- Homo sapiens est un primate, un ordre qui comprend plus de 500 espèces 
 
 
-
+*Arbre phylogénétique des primates (crédits : John Hawks)*
+![primates](https://i.imgur.com/aiUKFYA.png)
