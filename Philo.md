@@ -4,6 +4,7 @@
 
 *Sources*
 
+- [IS PERSONAL IDENTITY WHAT MATTERS?](http://www.stafforini.com/docs//parfit_-_is_personal_identity_what_matters.pdf) - Derek Parfit (2007)
 - http://blog.eyssette.net/2011-2012/?p=670  
 - https://youtu.be/XeZDt43Pij8 
 - https://youtu.be/EZmvdkNjev8 
