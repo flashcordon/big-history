@@ -59,6 +59,9 @@
 - Protérozoïque (de - 2,5 à - 0,541 milliards d’années)
 - Phanérozoïque (depuis l’explosion cambrienne il y a 541 millions d’années, jusqu'à nos jours)
 
+*Un moyen de se souvenir des temps longs (crédit : [Katie Scott](http://nautil.us/issue/17/big-bangs/the-greatest-animal-war))*
+![deeptimes](https://i.imgur.com/EK0FiF6.png)
+
 # La Terre de l'Hadéen
 
 *Sources*
