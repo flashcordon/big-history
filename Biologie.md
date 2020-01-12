@@ -279,6 +279,7 @@
 - [Cell biology](https://cellbiology.science.uu.nl/lab-cell-biology/movies/) - Université d'Utrecht
 - [Inner Life of a Cell | Protein Packing](https://youtu.be/uHeTQLNFTgU) -  XVIVO Scientific Animation (2014)
 - [DNA animations by wehi.tv for science-art exhibition](https://youtu.be/7Hk9jct2ozY) - Drew Berry (2018)
+- [Multi Scale Modeling of Chromatin and Nucleosomes](https://youtu.be/4Z4KwuUfh0A) - SCLS-Channel (2016)
 
 ## Composition moléculaire d'une cellule
 
