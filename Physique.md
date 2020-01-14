@@ -30,6 +30,8 @@
 - The Big Picture - Sean Carroll
 - [More is different](http://robotics.cs.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf) - P. W. Anderson (1972)
 - [De l’atome à la conscience : phénomènes d’émergence et complexité](https://books.openedition.org/pum/17020?lang=fr) - Normand Mousseau (2008)
+- [Weak emergence](https://www.jstor.org/stable/2216138?seq=1) - Mark Bedau (1997) : papier important
+- [Strong and Weak Emergence](http://www.consc.net/papers/emergence.pdf) - David Chalmers
 
 # Esthétique et complexité
 
