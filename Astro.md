@@ -40,6 +40,7 @@
 - [Is Inflationary Cosmology Science?](http://www.preposterousuniverse.com/blog/2017/05/10/is-inflationary-cosmology-science/) - Sean Carroll (Mai 2017)
 - [How Come Cosmic Inflation Doesn’t Break The Speed Of Light?](https://medium.com/starts-with-a-bang/how-come-cosmic-inflation-doesnt-break-the-speed-of-light-182d6bc8e7b0) - Starts with a bang (Avril 2018)
 - [REVIEW OF PARTICLE PHYSICS](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.98.030001) - Tanabashi et al, Physical Review D (2018)
+- Comment le Big Bang s'est imposé ? Conférence de Françoise Combes (SFP, Janvier 2020)
 
 ---
 
@@ -60,9 +61,14 @@
 > « Nous ne cherchons pas à construire un mythe moderne des origines. Cela ne serait pas en accord avec la nature même du modèle cosmologique » - Jean Philippe Uzan
 - En RG, la structure de l’espace-temps est déterminée en résolvant les équations d’Einstein (les solutions sont des géométries)
 > Les équations d’Einstein sont un ensemble de 10 équations pour 10 fonctions de 4 variables
+- En 1917, de Sitter développe à partir de la constante cosmologique un univers vide, sans matière, mais en expansion.
+> Einstein tourne l'univers de de Sitter en dérision, mais c'est ce dernier qui a raison.
 - En 1922, Alexander Friedmann démontre que les solutions des équations d’Einstein ne peuvent pas être statiques : l’espace DOIT se dilater au cours du temps. La dilatation de l’espace est donc une prédiction de la RG.
 > Ces conclusions sont confirmées de manière indépendantes par George Lemaître en 1927.
-- Vers 1924, Edwin Hubble parvient à mesurer les distances des galaxies en exploitant les travaux d’Henrietta Leavitt sur les propriétés d’étoiles variables appelées Céphéides.
+- Le 30 Décembre 1924, Edwin Hubble annonce pour la première fois à la société astronomique américaine la découverte d'une autre galaxie que la voie lactée : M33, la galaxie d'Andromède (?)
+- Vers 1924, Edwin Hubble parvient à mesurer les distances relative des galaxies en exploitant les travaux d’Henrietta Leavitt 1909) sur les propriétés d’étoiles variables appelées Céphéides
+> Leavitt découvre une relation entre période de pulsation et luminosité des Céphéides 
+- Vesto Slipher (date ?) interprète le décalage vers le rouge des galaxies comme un effet de vitesse d'éloignement par effet Doppler
 - Entre 1929 et 1931, Hubble établit une relation entre la vitesse d’éloignement des galaxies, mesurée par le décalage vers le rouge de leur spectre (redshift) et leur distance.
 > * loi de Hubble-Lemaître : toutes les galaxies (suffisamment éloignées pour que leur attraction mutuelle soit négligeable) s’éloignent les unes des autres, avec une vitesse relative d’autant plus grande qu’elles sont éloignées
 > * La fuite des galaxies résulte de la dilatation de l’espace. Elle n’est pas due au mouvement propre des galaxies à travers l’espace. 
@@ -79,6 +85,7 @@
 - Cette température est la même dans toutes les directions du ciel, avec des fluctuations relatives de l’ordre du millième de %!
 > Un rayonnement plus chaud est plus dense, du coup les fluctuations de température du CMB correspondent à des fluctuations de densité de matière dans l’univers primordial (analogie : des grumeaux dans la soupe cosmique)
 - L’étude du CMB révèle que la matière ordinaire (baryonique) ne constitue que 4.86 % de la matière totale de l’univers. Le reste, c’est de la matière noire et de l’énergie sombre (constante cosmologique)
+- L'âge de l'univers (13,8 milliards d'années) n'est pas mesuré mais calculé
 
 ***Qu’est ce que la matière noire ?***
 
@@ -113,6 +120,7 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 > Ce qui veut dire que l’expansion de l’univers s’accélère !
 - Mathématiquement, on modélise cette accélération de l’expansion par une constante dans les équations de Friedmann : la constante cosmologique (notée lambda)
 > C’est un paramètre libre de la relativité générale, qu’on peut mesurer cosmologiquement (« aucune théorie ne peut prédire la valeur de ses constantes. On peut juste les mesurer » - Jean Philippe Uzan)
+- C'est Georges Gamow qui a poplarisé l'idée selon laquelle la constante cosmologique était la plus grande erreur d'Eisntein, "Einstein's biggest blunder" (qui ne l'a probablement jamais dit selon les historiens)
 - La constante cosmologique met le doigt sur l’incompatibilité entre relativité générale et mécanique quantique
 > Selon la mécanique quantique, le vide a une énergie. On peut assimiler cette énergie à la constante cosmologique, mais la valeur prédite par les théories est 10^60 à 10^120 fois plus grande que la valeur mesurée. Il n’y a pas encore de solution à ce problème.
 - Problème : on ne peut pas mesurer la constante cosmologique et l’énergie du vide indépendamment. Les observations astrophysiques ne donnent accès qu’à la somme des 2
@@ -120,6 +128,7 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 - L’énergie sombre aurait une densité d’énergie non constante, ce qui la distinguerait d’une constante cosmologique
 - Les arguments pour l’existence de la matière noire et de l’énergie sombre reposent sur l’hypothèse que la relativité générale décrit bien la gravitation. Et si ce n’était pas le cas ?
 > C’est l’approche des modèles de gravité modifiée (théories de la relativité générale modifiée)
+- L'univers a connu 2 périodes d'expansion accélérée, mais l'une a duré moins de 10^-32s et l'autre plusieurs milliards d'années. Sont-elles générées par le même processus ?
 
 # Inflation
 
