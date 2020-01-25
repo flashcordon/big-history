@@ -10,6 +10,7 @@
 - [Nucléosynthèse primordiale](#Nucléosynthèse-primordiale)
 - [Recombinaison](#Recombinaison)
 - [Ages sombres](#Ages-sombres)
+- [Les grandes structures de l'univers](#Les-grandes-structures-de-lunivers)
 - [Les premières étoiles](#Les-premières-étoiles)
 - [Nucléosynthèse stellaire](#Nucléosynthèse-stellaire)
 - [Origine des éléments plus lourds que le fer](#Origine-des-éléments-plus-lourds-que-le-fer)
@@ -319,6 +320,24 @@ L’essentiel de la masse des galaxies ne se trouve donc pas dans son disque d�
 - Le gaz atomique (majoritairement constitué d'hydrogène et d'hélium) tombe dans les puits de gravité formés par ces halos. Certains halos sont si massifs (supérieur à la masse de Jeans du gaz) que la pression du gaz ne l'empêche plus de s'effondrer gravitationnellement. 
 - Le gaz se concentre alors au coeur des halos de matière noire.
 - La densité augmente, ce qui permet à une minuscule fraction de ce gaz de former les premières molécules : H2, HD et LiH
+
+# Les grandes structures de l'univers
+
+*Sources*
+
+- Comment se tisse la toile cosmique, conférence de Sandrine Codis (SFP, Janvier 2020)
+
+---
+
+- La toile cosmique a été mise en évidence en 1986 par Valérie de Lapparent et al
+- Au sein de la toile cosmique, la matière s'échappe des vides et coule vers les murs et les filaments, pour finir dans les noeuds
+- Les germes de la toile cosmique sont déjà présentes dans les pics de densité du fond diffus cosmologique : il y a des ponts de corrélation entre ces pics.
+> La toile cosmique a ses germes dans les grumeaux de l'univers primordial
+- L'environnement des galaxies affecte leurs propriétés (masse, morphologie, orientation)
+> Dans les zones les plus denses de l'univers, on trouve plus de galaxies elliptiques, massives, et ne formant plus d'étoiles. Le long des filaments de la toile cosmique, on trouve plus souvent des galaxies spirales
+- L'axe de rotation des galaxies spirales a tendance à s'aligner avec les filaments
+> Ce phénomène s'explique bien aujourd'hui : la matière s'échappe des vides cosmiques de toutes les directions pour rejoindre les filaments, elle s'entrechoque au niveau des filaments, ce qui crée de la vorticité sur le front du choc. Ce qui fait que lorsque les halos de matière noire et les galaxies se forment à l'intérieur des filaments, ils ont déjà un axe de rotation privilégié grâce à la vorticité de la matière du filament.
+- L'avenir de la cartographie de la toile cosmique s'écrit avec les instruments EUCLID (2025), LSST/Vera Rubin, et Euclid (2022)
 
 # Les premières étoiles
 
