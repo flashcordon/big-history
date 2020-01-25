@@ -523,7 +523,7 @@ Un supercontinent : Pangea Ultima
 - La galaxie d'Andromède s'approche de notre Voie Lactée, vu que les 2 galaxies sont attirées par leur gravité mutuelle. Elles sont sur une trajectoire de collision.
 > Vitesse relative d'Andromède par rapport à nous : 120 miles/s
 - Des simulations numériques (Cox et Loeb) montrent que le premier contact se produira dans 2 milliards d'années. Elles s'interpénètrent et se traversent au fil des milliards d'années, dans une danse complexe et superbe.
-- Au bout de 5 milliards d'années, elles devraient fusionner en une seule galaxie elliptique : Milkomède (Milkomeda)
+- Au bout de 5 milliards d'années, elles devraient fusionner en une seule galaxie elliptique : Milkomède (Milkomeda), ou Lactomède
 - Ca va dramaticalement changer le ciel nocturne ! Le ciel devrait être 2 fois plus brillant, et la bande blanche du disque de la voie lactée sera progressivement distordue et remplacée par une boule d'étoiles. Adieu les belles structures spirales !
 - Mais pas (ou peu) de collisions stellaires à craindre : le grouffre entre les étoile est trop grand !
 - Les collisions galactiques entre 2 galaxies pleines de gaz (wet merger) sont généralement suivies d'un énorme feu d'artifice de formation d'étoiles (star formation burst)
