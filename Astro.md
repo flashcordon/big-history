@@ -515,6 +515,10 @@ Burcher
 
 ![reionization_info](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/Dark_Ages_1160.jpg)
 
+*Simulation de la réionisation (Source : [Ocvirk et al 2019](http://inspirehep.net/record/1705755/plots#0))
+
+![reionization](https://i.imgur.com/KNUiVCY.png)
+
 # L'évolution des galaxies
 
 *Sources*: 
@@ -711,9 +715,12 @@ Burcher
  - [List of exoplanet extremes](https://en.wikipedia.org/wiki/List_of_exoplanet_extremes) - Wikipédia
  - [Exoplanets Explorations](https://exoplanets.nasa.gov/) - Site de la NASA sur les exoplanètes
  - [The Earth as a distant planet](https://books.google.fr/books?id=qLuVCJtRTV0C&pg=PA252&lpg=PA252&dq=1989+lathan+exoplanet&source=bl&ots=4TytnqXoMf&sig=ACfU3U2NI19znZYfRvYO7nd68rnl_5GCUw&hl=fr&sa=X&ved=2ahUKEwi25LWZ2ozlAhV3DGMBHaP0CxEQ6AEwBXoECAcQAQ#v=onepage&q=1989%20lathan%20exoplanet&f=false)
+- Exoplanètes, conférence de Francesco Pepe (SFP, Janvier 2020)
+- Photographier les exoplanètes – Conférence d'Anne Marie Lagrange (SFP, Janvier 2020)
 
 ---
 
+- Epicure, lettre à Hérodote : "Il y a un nombre infini de mondes semblables au nôtre et un nombre infini de mondes différents. En effet puisque les atomes sont en nombre infini, comme nous l’avons dit tout à l’heure, il y en a partout, leur mouvement les portant même jusque dans les lieux les plus éloignés. Et d’autre part, toujours en vertu de cette infinité en nombre, la quantité d’atomes propres à servir d’éléments, ou, autrement dit, de causes, à un monde, ne peut être épuisée par la constitution d’un monde unique, ni par celle d’un nombre fini de mondes, qu’il s’agisse d’ailleurs de tous les mondes semblables au nôtre ou de tous les mondes différents. Il n’y a donc rien qui empêche l’existence d’une infinité de mondes."
 - Une exoplanète est une planète située en dehors du Système solaire. 
 - A ce jour (12 Avril 2019), on recense environ 4000 (4037) exoplanètes confirmées, dont près de 650 (657) systèmes contenant plusieurs planètes.
 - Plus de 200 exoplanètes ont été détectées dans des systèmes binaires
@@ -729,7 +736,7 @@ Burcher
 ***Méthodes de détection***
 - ***La méthode des transits*** : si un système stellaire est bien orienté par rapport à nous (ie vu par la tranche), à chaque fois qu’une planète du système passe devant son étoile, elle produit une minuscule éclipse (un transit), qu'on peut mesurer. La profondeur du transit (variation de luminosité) nous permet de déduire le diamètre de la planète, et le temps entre 2 transits nous donne la période de révolution de la planète. Près de 3000 planètes (2789) ont été détectées avec cette méthode en Janvier 2018.
 > Osiris (HD 209548 b) est la 1ère exoplanète à avoir été découverte par la méthode des transits, en 1999. Située à 159 années lumière du système solaire, elle orbite autour de son étoile à 1/8e de la distance Mercure-Soleil. C'est une géante gazeuse légèrement plus grande que Jupiter (rayon : 1.32 fois celui de Jupiter, masse : 0.69 fois celle de Jupiter), à la température de surface de 1000K, et tourne autour de son étoile en 3.5 jours. Son atmosphère est soufflée par l'étoile et forme une longue queue gazeuse, comme la queue des comètes
-- ***La méthode des vitesses radiales*** : le mouvement de la planète autour de son étoile induit un léger mouvement de l'étoile (vu que les 2 orbitent autour de leurbarycentre commun), qui est détectable par effet Doppler. On mesure les variations de vitesses radiales de l'étoile, et si ces variations sont périodiques, il y a de grandes chances pour que cela soit dû à une planète. Elle favorise la détection de planètes massives proche de l'étoile (Jupiter chauds).  662 planètes ont été détectées avec cette méthode en Janvier 2018
+- ***La méthode des vitesses radiales*** : le mouvement de la planète autour de son étoile induit un léger mouvement de l'étoile (vu que les 2 orbitent autour de leurbarycentre commun), qui est détectable par effet Doppler. On mesure les variations de vitesses radiales de l'étoile, et si ces variations sont périodiques, il y a de grandes chances pour que cela soit dû à une planète. Elle favorise la détection de planètes massives proche de l'étoile (Jupiter chauds). La méthode des vitesses radiales permet de déduire la masse des planètes 662 planètes ont été détectées avec cette méthode en Janvier 2018
 > 51 Peg b est la première exoplanète à avoir été découverte par la méthode des vitesses radiales (et la 1ère exoplanète tout court à avoir été découverte) en 1995, à l'observatoire de Haute Provence, par 2 astronomes suisses : Michel Mayor et Didier Queloz. 51 Peg b est 700 fois plus massive que la Terre, a une température de surface de 1700K et tourne en 4.23 jours autour de son étoile (à 7.5 millions de km).
 - ***Les microlentilles gravitationnelles*** : le champ gravitationnel d'une étoile déforme l'espace-temps, ce qui dévie la lumière issue d'une étoile distante située derrière, à la manière d'une lentille (effet de microlentille gravitationnelle). Si l'étoile qui agit comme une lentille possède une planète, le champ de cette dernière peut avoir un effet qui, bien que faible, soit détectable. Cet effet n'est visible que si les deux étoiles sont pratiquement alignées. Cette méthode fonctionne bien mieux pour les planètes proches de la Terre et du centre de la Galaxie, où de nombreuses étoiles forment l'arrière-plan. Un inconvénient est qu'il est impossible de reproduire une observation : les alignements sont uniques. Une cinquantaine de planètes (53) ont été détectées avec cette méthode en Janvier 2018.
 - ***L'imagerie directe*** : Cette méthode consiste à prendre une image du système planétaire, où la planète apparaît comme un point. Pour être détectée en imagerie, une planète doit être lumineuse et éloignée de l'étoile.  44 planètes ont été détectées avec cette méthode en Janvier 2018
@@ -777,7 +784,8 @@ Burcher
 - En 1989, Latham et al découvrent la 1ère exoplanète autour d'une étoile de type solaire HD114762 (mais on n'est pas encore sûr si c'est une exoplanète ou une naine brune)
 > On considère qu'un objet est une naine brune si sa masse est entre 13 et 75 fois la masse de Jupiter
 - En 1992, Wolszczan et Frail découvrent un système de planètes autour du pulsar PSR B1257+12. On ne sait toujours pas comment de telles planètes peuvent se former (elles sont normalement détruites par la supernova à l'origine du pulsar), ce sont donc probablement des objets exotiques.
-- En 1995, Michel Mayor et Didier Queloz découvrent l'exoplanète 51 Peg b, un Jupiter chaud orbitant autour d'une étoile de masse solaire. Ils obtiennent le prix Nobel en 2019 pour cette découverte (première exoplanète confirmée autour d'une étoile de type solaire).
+- En 1995, Michel Mayor et Didier Queloz découvrent avec le spectrographe ELODIE l'exoplanète 51 Peg b, un Jupiter chaud orbitant autour d'une étoile de masse solaire. Ils obtiennent le prix Nobel en 2019 pour cette découverte (première exoplanète confirmée autour d'une étoile de type solaire).
+> Cette découverte a soulevé plein de questions sur la formation des planètes et a ouvert un nouveau champ de recherche
 - En 2004, le télescope Yepun du VLT réalise la première image directe d'une exoplanète autour de la naine brune 2M1207 (imagerie infrarouge).
 
 ***Le futur de la détection des exoplanètes***
