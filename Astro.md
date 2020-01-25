@@ -585,6 +585,7 @@ Burcher
 - A history of the solar system – Claudio Vita-Finzi (2016)
 - [The supernova trigger for formation of the solar system](https://www.sciencedirect.com/science/article/abs/pii/0019103577901014) - Cameron et Trujan (1977)
 - [The Sun and the Solar Nebula](https://www.sciencedirect.com/science/article/pii/S0074614204800184) - International Geophysics (2004)
+- Formation des planètes, conférence de Philippe Thebaud (SFP, Janvier 2020)
 
 --- 
 
@@ -602,6 +603,7 @@ Burcher
 - L'observation de disques protoplanétaires (Hubble, ALMA) depuis une vingtaine d'années conforte ce scénario
 - Les grains de poussière du disque protoplanétaire entrent en collision et grossissent en se collant entre eux, sous l'action des forces électrostatiques ou de la fusion partielle issue des collisions (accrétion).
 - Les simulations montrent qu'au bout de quelques milliers d'années, il est commun de voir dans le disque des objets d'une dizaine de grammes, et qu'au bout de 10 000 ans à peine, la plupart de la poussière du disque forme des objets de quelques milliers de kilomètres qu'on appelle des planétésimaux.
+> Il n'y a aujourd'hui pas de consensus pour dépasser la "barrière du mètre", c'est à dire de passer de la taille de cailloux à celle de planétésimaux. Un mécanisme possible est le phénomène d'accrétion boule de neige qui permet de former des objets de la taille de Cérès en 10 000 ans
 - Une fois qu'il y a assez de planétésimaux, leur attraction gravitationnelle les fait s'entrechoquer entre eux (runaway accretion). La plupart de ces collisions sont destructrices, mais certaines d'entre elles donnent des embryons de planètes en quelques centaines de milliers d'années voire en quelques millions d'années qui coexistent avec les planétésimaux qui restent (oligarchic growth).
 - Plus on s'éloigne du disque protoplanétaire, plus la température diminue, jusqu'à atteindre le point de condensation de l'eau, une distance au Soleil qu'on appelle la ligne de glace (à 2-4 UA du Soleil). 
 > * En deça de la ligne de glace, les composants sous forme solide sont les métaux, les silicates et les oxydes. 
@@ -623,7 +625,7 @@ Burcher
 - Jupiter et Saturne s'éloignent du Soleil en entrainant les 2 autres planètes géantes. La conclusion du modèle du Grand Tack fournit les conditions initiales du modèle de Nice
 - Si ce scénario est vrai, il explique pourquoi c'est si rare de trouver des planètes géantes loin de leur étoile.
 - Ce scénario fournit aussi une explication pour la petite taille de Mars (1/10e de la masse de la Terre) et la faible masse de la ceinture d'astéroides.
-- Le scénario du grand Tack reste cependant à confirmer.
+- Le scénario du grand Tack reste cependant à confirmer et est loin d'être le seul modèle.
 
 ***Le modèle de Nice***
 - Modèle développé par un groupe d'astrophysiciens de l'observatoire de Nice en 2005 à partir de simulations numériques sous la direction d’Alessandro Morbidelli
@@ -633,6 +635,7 @@ Burcher
 - Le modèle de Nice explique les orbites actuelles des planètes géantes, et les dates des échantillons lunaires des missions Apollo confirment l'existence du LHB vers 700 millions d'années après la formation du système solaire
 - Le modèle de Nice reste cependant à confirmer.
 - Les débris qui n’ont pas pu s’agglutiner en planètes sont aujourd’hui regroupés dans la ceinture d'astéroïde, la ceinture de Kuiper et le nuage d’Oort.
+- Le modèle de Nice est aujourd'hui dépassé (source : comunication privée)
 
 *Controverses :*
 > * les astronomes comprennent encore mal par quel mécanisme des moutons de poussière de quelques cm ont pu s’agglutiner pour former des planétésimaux. En effet, lorsqu’on fait collisionner des moutons de poussière, ils ont plutôt tendance à se désagréger qu’à se coller entre eux. 
@@ -664,6 +667,8 @@ Burcher
 - Pour qu'une planète puisse abriter de l'eau liquide à sa surface, il lui faut une atmosphère
 > Le problème, c'est qu'on ne connait pas encore la zoologie des atmosphères possibles pour une planète. Il nous faudrait pour cela sonder des atmosphères d'exoplanètes
 - La capacité d'une planète à maintenir de l'eau liquide dépend aussi de son albédo, c'est à dire du pouvoir réfléchissant de sa surface
+- Le cycle des carbonates-silicates fait effet de thermostat géant pour la Terre, ce qui permet d'étendre la borne externe de la zone d'habitabilité
+- Le terme de zone d'habitabilité est controversé pour ses connotations. On lui préfère le terme de zone tempérée, de zone de chasse (Hunting Zone, pour garder le HZ des précédents articles) ou de zone de surf (proposition de Franck Selsis)
 
 ***La limite interne de la ZH***
 - Plus on rapproche la Terre du Soleil, plus une fraction importante de l'eau des océans s'évapore. L'eau étant un puissant gaz à effets de serre (c'est le principal gaz à effet de serre sur Terre), la surface de la planète se réchauffe donc. Ce qui cause l'évaloration d'une plus grande fraction de l'eau, etc etc. Cet emballement de l'effet de serre (runaway greenhouse effect)
@@ -711,6 +716,7 @@ Burcher
 
 - Une exoplanète est une planète située en dehors du Système solaire. 
 - A ce jour (12 Avril 2019), on recense environ 4000 (4037) exoplanètes confirmées, dont près de 650 (657) systèmes contenant plusieurs planètes.
+- Plus de 200 exoplanètes ont été détectées dans des systèmes binaires
 - Une exoplanète est nommée à partir du nom de l'étoile autour de laquelle elle tourne, suivi d'une lettre latine, b pour la première planète découverte autour de cette étoile, c pour la suivant, etc... 
 > Si plusieurs planètes du même système sont découvertes en même temps, la plus proche de l'étoile reçoit la première lettre suivante, et ainsi de suite en s'éloignant de l'étoile. 
 - En se limitant aux étoiles de type solaire, il y a, en moyenne, 2 planètes par étoile.
@@ -742,6 +748,7 @@ Burcher
 - HD 131399 b : une exoplanète qui orbite autour d'un système triple d'étoiles 
 - On a découvert des planètes flottant loin de toute étoile (planètes vagabondes, ou planètes nomades). Elles peuvent avoir été éjectées aprés s'être formées autour d'une étoile, ou bien s'être formées comme des étoiles dans le milieu interstellaire. On en connaît une dizaine à ce jour. Des sondages réalisés par microlentilles gravitationnelles ([Sumi et al 2011](https://arxiv.org/pdf/1105.3544v1.pdf)) ont permi d'estimer qu'il y pourrait y avoir près de 2 fois (1.8) plus de planètes nomades de la masse de Jupiter que d'étoiles dans la séquence principale dans notre galaxie.
 - 1SWASP J1407 b : une naine brune ou une planète géante au système d'anneau beaucoup plus étendu que celui de Saturne (rayon : 90 million de km)
+- WASP-76b
 
 ***Trappist-1, le système extrasolaire avec le plus de planètes***
 - En 2016, un système de 7 planètes de tailles comparables à la Terre a été découvert autour de l’étoile Trappist-1, à 39 années lumières d’ici, grâce à la méthode des transits.
