@@ -751,6 +751,8 @@ Burcher
 > Il est possible que plusieurs de ces exoplanètes aient "migré" fortement au sein du disque gazeux dans lequel elles se sont formées.  Si on comprend encore mal la formation de ces planètes géantes, on l'étudie de plus en plus à l'aide de simulations numériques
 - Il y a beaucoup de planètes dans la Zone Habitable, ou zone d'habitabilité (ZH) de leur étoile. La ZH est la region autour de l’étoile où les conditions physiques à la surface d’une planète rendent possible de l’eau à l’état liquide. Selon de récentes estimations ([Petigura et al. 2013](https://www.pnas.org/content/early/2013/10/31/1319909110)), 1 étoile de type solaire sur 5 (22%) pourrait abriter une planète de la taille de la Terre dans sa zone habitable. Ces planètes se compteraient donc en dizaines de milliards dans la galaxie.
 > On connait à ce jour une cinquantaine de planètes dans la zone habitable (49 en Février 2019), dont 16 de la taille de la Terre, 1 de la taille de Mars et 32 plus grandes que la Terre (super Terres). Elles orbitent toutes autour d'étoiles naines (naine orange ou naine rouge)
+- Illustration du challenge d'observer des exoplanètes : si l'on observait notre système solaire depuis une exoplanète à 40 années lumière d'ici, la Terre serait à 0.1" du Soleil (équivalent à observer un ballon de basket à 500km ed distance), et Jupiter à 0.5" du Soleil (un ballon de basket à 100km)
+- Si l'on a accès au rayon et à la masse on peut en déduire la densité moyenne de la planète
 
 ***Méthodes de détection***
 - ***La méthode des transits*** : si un système stellaire est bien orienté par rapport à nous (ie vu par la tranche), à chaque fois qu’une planète du système passe devant son étoile, elle produit une minuscule éclipse (un transit), qu'on peut mesurer. La profondeur du transit (variation de luminosité) nous permet de déduire le diamètre de la planète, et le temps entre 2 transits nous donne la période de révolution de la planète. Près de 3000 planètes (2789) ont été détectées avec cette méthode en Janvier 2018.
@@ -758,8 +760,13 @@ Burcher
 - ***La méthode des vitesses radiales*** : le mouvement de la planète autour de son étoile induit un léger mouvement de l'étoile (vu que les 2 orbitent autour de leurbarycentre commun), qui est détectable par effet Doppler. On mesure les variations de vitesses radiales de l'étoile, et si ces variations sont périodiques, il y a de grandes chances pour que cela soit dû à une planète. Elle favorise la détection de planètes massives proche de l'étoile (Jupiter chauds). La méthode des vitesses radiales permet de déduire la masse des planètes 662 planètes ont été détectées avec cette méthode en Janvier 2018
 > 51 Peg b est la première exoplanète à avoir été découverte par la méthode des vitesses radiales (et la 1ère exoplanète tout court à avoir été découverte) en 1995, à l'observatoire de Haute Provence, par 2 astronomes suisses : Michel Mayor et Didier Queloz. 51 Peg b est 700 fois plus massive que la Terre, a une température de surface de 1700K et tourne en 4.23 jours autour de son étoile (à 7.5 millions de km).
 - ***Les microlentilles gravitationnelles*** : le champ gravitationnel d'une étoile déforme l'espace-temps, ce qui dévie la lumière issue d'une étoile distante située derrière, à la manière d'une lentille (effet de microlentille gravitationnelle). Si l'étoile qui agit comme une lentille possède une planète, le champ de cette dernière peut avoir un effet qui, bien que faible, soit détectable. Cet effet n'est visible que si les deux étoiles sont pratiquement alignées. Cette méthode fonctionne bien mieux pour les planètes proches de la Terre et du centre de la Galaxie, où de nombreuses étoiles forment l'arrière-plan. Un inconvénient est qu'il est impossible de reproduire une observation : les alignements sont uniques. Une cinquantaine de planètes (53) ont été détectées avec cette méthode en Janvier 2018.
-- ***L'imagerie directe*** : Cette méthode consiste à prendre une image du système planétaire, où la planète apparaît comme un point. Pour être détectée en imagerie, une planète doit être lumineuse et éloignée de l'étoile.  44 planètes ont été détectées avec cette méthode en Janvier 2018
-> La première exoplanète à avoir été détectée par imagerie directe (infrarouge) est une jeune géante gazeuse qui orbite autour d'une naine brune à 170 années lumière du système solaire, 2M1207 b. Elle a été découverte en 2004 grâce à des observations du VLT au Chili. Elle se trouve à une distance équivalente à celle entre Pluton et le Soleil. Sa température de surface est de 1600K (+-100K) et sa masse est de 8 (+-2) fois la masse de Jupiter.
+- ***L'imagerie directe*** : Cette méthode consiste à prendre une image du système planétaire, où la planète apparaît comme un point. Pour être détectée en imagerie, une planète doit être lumineuse et éloignée de l'étoile.  44 planètes ont été détectées avec cette méthode en Janvier 2018. Actuellement, c'est l'instrument SPHERE sur le VLT qui réalise les meilleurs images d'exoplanètes. Imager des exoplanètes implique 3 étapes : cacher la lumière de l'étoile (coronographie), éliminer les perturbations de l'atmosphère (optique adaptative) et traiter les données avec des algorithmes
+> * La première exoplanète à avoir été détectée par imagerie directe (infrarouge) est une jeune géante gazeuse qui orbite autour d'une naine brune à 170 années lumière du système solaire, 2M1207 b. Elle a été découverte en 2004 grâce à des observations du VLT au Chili. Elle se trouve à une distance équivalente à celle entre Pluton et le Soleil. Sa température de surface est de 1600K (+-100K) et sa masse est de 8 (+-2) fois la masse de Jupiter.
+> * Beta Pictoris, à 9 unités astronomiques de son étoile (équivalent à la distance Soleil-Saturne), est à l'heure actuelle l'exoplanète la plus proche de son étoile a avoir été imagée directement
+> * 51 Eri b est la planète la plus légère a avoir été imagée (2-12 fois la mase de Jupiter)
+> * PDS 70b est la plus jeune planète imagée (2-14 millions d'années). Elle se trouve encore dans son disque protoplanétaire
+- Le futur de l'imagerie directe d'exoplanète est écrit par les instruments suivants :
+> Le JWST imagera des planètes géantes (+ spectroscopie), l'ELT imagera des planètes géantes et des super-Terres (+ spectro), WFIRST, LUVOIR, HABEX
 
 ***Exoplanètes insolites***
 - Proxima b : l'exoplanète la plus proche de notre étoile, et elle se trouve dans la zone d'habitabilité de son étoile, une naine rouge.
@@ -807,8 +814,15 @@ Burcher
 > Cette découverte a soulevé plein de questions sur la formation des planètes et a ouvert un nouveau champ de recherche
 - En 2004, le télescope Yepun du VLT réalise la première image directe d'une exoplanète autour de la naine brune 2M1207 (imagerie infrarouge).
 
+***Outils passés et actuels de détection d'exoplanètes***
+- Le spectrographe HARPS permet de détecter des Neptunes et des super-Terres
+> La 1ère super-Terre a été découverte avec HARPS en 2004
+- Le spectrographe ESPRESSO permet de détecter des super-Terres et des terres habitables
+- Les satellites CoRoT et Kepler ont permis de découvrir des milliers d'exoplanètes par la méthode des transits
+
 ***Le futur de la détection des exoplanètes***
 - On pourra bientôt sonder avec précision l’atmosphère des exoplanètes (si elles en ont encore une) pour savoir si elles contiennent des ingrédients chimiques intéressants pour l’apparition de la vie, comme le carbone, le méthane, le dioxygène ou encore l'eau (on y arrive sur quelques exoplanètes, mais c'est rare). C’est d’ailleurs l’un des nombreux objectifs du James Webb Space Telescope, le successeur de Hubble, qui sera lancé d’ici 2020.
+> Il nous faut pour ça des spectres de transition (observer des transits à plusieurs longueur d'onde) via une méthode appelée spectroscopie de transit
 
 
 ![types](https://i.imgur.com/WMcbzdr.png)
