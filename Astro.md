@@ -791,6 +791,7 @@ Burcher
 - On a découvert des planètes flottant loin de toute étoile (planètes vagabondes, ou planètes nomades). Elles peuvent avoir été éjectées aprés s'être formées autour d'une étoile, ou bien s'être formées comme des étoiles dans le milieu interstellaire. On en connaît une dizaine à ce jour. Des sondages réalisés par microlentilles gravitationnelles ([Sumi et al 2011](https://arxiv.org/pdf/1105.3544v1.pdf)) ont permi d'estimer qu'il y pourrait y avoir près de 2 fois (1.8) plus de planètes nomades de la masse de Jupiter que d'étoiles dans la séquence principale dans notre galaxie.
 - 1SWASP J1407 b : une naine brune ou une planète géante au système d'anneau beaucoup plus étendu que celui de Saturne (rayon : 90 million de km)
 - WASP-76b
+- KELT-9b : l'exoplanète la plus chaude découverte à ce jour (4300°C sur la face jour de ce Jupiter ultra chaud). Distance :670 années lumière de la Terre
 
 ***Trappist-1, le système extrasolaire avec le plus de planètes***
 - En 2016, un système de 7 planètes de tailles comparables à la Terre a été découvert autour de l’étoile Trappist-1, à 39 années lumières d’ici, grâce à la méthode des transits.
