@@ -595,6 +595,8 @@ Un supercontinent : Pangea Ultima
 > La durée de vie du proton est d'au moins 10^31 ans (à vérifier) 10^33 à 10^45 ans selon Phil Plait (le nombre exact est inconnu, vu qu'on n'a pas encore vu de proton se désintégrer)
 - Phil Plait postule une durée de vie du proton à 10^37 ans. A partir de cette valeur, à 10^40 ans il n'y a plus aucun proton dans l'univers. Plus de planètes, plus de naines blanches, plus d'étoiles à neutrons. Lentement évaporés par les lois de la physique subatomique. Il ne reste dans l'univers qu'un gaz d'électrons, de positrons (issus de la désintégration des protons), de neutrinos, de photons, et des trous noirs.
 
+![protonfate](https://i.imgur.com/fJSdo1n.png)
+
 # L'ère des trous noirs
 
 *Source:*
