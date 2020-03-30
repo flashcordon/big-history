@@ -20,3 +20,7 @@
 
 - [Sameness and the self: philosophical and psychological considerations](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00029/full) - Klein (2014)
 - [Life](https://plato.stanford.edu/entries/life/) - Weber (2011)
+
+## Neurosciences
+
+- [Consciousness: The last 50 years (and the next)](https://journals.sagepub.com/doi/full/10.1177/2398212818816019) - Seth (2018)
