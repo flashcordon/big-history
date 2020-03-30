@@ -13,6 +13,7 @@
 - [Taux de remplacement de nos cellules](#Taux-de-remplacement-de-nos-cellules)
 - [Qu'est-ce que le vieillissement](#Quest-ce-que-le-vieillissement)
 - [Génétique](#Génétique)
+- [Biosphère de l'ombre](#Biosphère-de-lombre)
 
 ---
 
@@ -516,3 +517,10 @@ Il y a probablement entre 2 millions et 1000 milliards d'espèces vivantes sur T
 
 - Exaptations : mot inventé par Steven Jay Gould pour désigner le développement d’un caractère doté d'une fonction première qui, par le hasard de la sélection naturelle, évolue au fil du temps pour jouer un tout nouveau rôle.
 > Exemple : les plumes ont été inventées bien avant le vol. Initialement, elles devaient servir pour les parades sexuelles ou à réguler la température du corps.
+
+# Biosphère de l'ombre
+
+- [The possibility of alternative microbial life on Earth](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/possibility-of-alternative-microbial-life-on-earth/FDE27A80963B06A43D83D51BDB3BABC2) - Cleland et Copley (2005)
+- The quest for a Universal theory of life - Carol Cleland
+- [Pluralism or unity in biology: could microbes hold the secret to life?](https://link.springer.com/article/10.1007/s10539-013-9361-7) - Cleland (2013)
+- [Signatures of a Shadow Biosphere](https://www.liebertpub.com/doi/abs/10.1089/ast.2008.0251) - Davies et al (2009)
