@@ -1,4 +1,4 @@
-# Articles de revue récents et notables
+# Articles de revue récents notables
 
 ## Nucléosynthèse
 
