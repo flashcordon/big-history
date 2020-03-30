@@ -7,6 +7,7 @@
 ## Sciences du système Terre
 
 - [Mineral Evolution](https://hazen.carnegiescience.edu/sites/hazen.gl.ciw.edu/files/242-Hazen-AmMin-2008.pdf) - Hazen (2008)
+- [Earth: Atmospheric Evolution of aHabitable Planet](https://arxiv.org/ftp/arxiv/papers/1803/1803.05967.pdf) – Olson et al (2018)
 
 ## Exobiologie
 - [Astrobiology and the Possibility of Life on Earth and Elsewhere…](https://link.springer.com/article/10.1007/s11214-015-0196-1) - Cottin et al (2015)
