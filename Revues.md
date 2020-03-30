@@ -10,6 +10,7 @@
 
 ## Exobiologie
 - [Astrobiology and the Possibility of Life on Earth and Elsewhere…](https://link.springer.com/article/10.1007/s11214-015-0196-1) - Cottin et al (2015)
+- [How to Characterize Habitable Worlds and Signs of Life](https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-082214-122238) - Kaltenegger (2017)
 
 ## Philosophie
 
