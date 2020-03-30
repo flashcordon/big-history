@@ -6,3 +6,7 @@
 
 ## Exobiologie
 - [Astrobiology and the Possibility of Life on Earth and Elsewhere…](https://link.springer.com/article/10.1007/s11214-015-0196-1) - Cottin et al (2015)
+
+## Philosophie
+
+- [Sameness and the self: philosophical and psychological considerations](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00029/full) - Klein (2014)
