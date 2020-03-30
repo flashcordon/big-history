@@ -17,3 +17,4 @@
 ## Philosophie
 
 - [Sameness and the self: philosophical and psychological considerations](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00029/full) - Klein (2014)
+- [Life](https://plato.stanford.edu/entries/life/) - Weber (2011)
