@@ -745,6 +745,7 @@ Burcher
  - [The Earth as a distant planet](https://books.google.fr/books?id=qLuVCJtRTV0C&pg=PA252&lpg=PA252&dq=1989+lathan+exoplanet&source=bl&ots=4TytnqXoMf&sig=ACfU3U2NI19znZYfRvYO7nd68rnl_5GCUw&hl=fr&sa=X&ved=2ahUKEwi25LWZ2ozlAhV3DGMBHaP0CxEQ6AEwBXoECAcQAQ#v=onepage&q=1989%20lathan%20exoplanet&f=false)
 - Exoplanètes, conférence de Francesco Pepe (SFP, Janvier 2020)
 - Photographier les exoplanètes – Conférence d'Anne Marie Lagrange (SFP, Janvier 2020)
+- [Plongée dans l'univers des exoplanètes](https://www.lemonde.fr/mmpub/edt/zip/2016/05/03/161236169-7fcea4d429880d203df2d566f4c6cc3b0f390232/index.html) - Le Monde (2016)
 
 ---
 
