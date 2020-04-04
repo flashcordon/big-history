@@ -24,3 +24,7 @@
 ## Neurosciences
 
 - [Consciousness: The last 50 years (and the next)](https://journals.sagepub.com/doi/full/10.1177/2398212818816019) - Seth (2018)
+
+## Anthropologie
+
+- [Cultural Evolution: A Review of Theory, Findings and Controversies](https://static1.squarespace.com/static/5796624746c3c4b7ae13b2b2/t/57a1ebc0e58c6213276dc287/1470229441814/Mesoudi_EvolBiol_2015.pdf) - Mesoudi (2015)
