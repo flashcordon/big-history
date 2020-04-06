@@ -3,6 +3,7 @@
 ## Evolution des galaxies
 
 - [Physical Models of Galaxy Formation in a Cosmological Framework](https://arxiv.org/abs/1412.2712) - Sommerville & Davé (2014)
+- [A History of Dark Matter](https://arxiv.org/pdf/1605.04909.pdf) - Berton et Hooper (2016)
 
 ## Nucléosynthèse
 
