@@ -618,6 +618,7 @@ Burcher
 - [The supernova trigger for formation of the solar system](https://www.sciencedirect.com/science/article/abs/pii/0019103577901014) - Cameron et Trujan (1977)
 - [The Sun and the Solar Nebula](https://www.sciencedirect.com/science/article/pii/S0074614204800184) - International Geophysics (2004)
 - Formation des planètes, conférence de Philippe Thebaud (SFP, Janvier 2020)
+- [Solar System Formation in the Context of Extra-Solar Planets](https://arxiv.org/abs/1812.01033?fbclid=IwAR1NiDGMl-kO6KoYAWY6lp3xnjKnE0kcQDtm_qnqNe6U27n16THQsAwQwOw) - Raymond et al (2018)
 
 --- 
 
