@@ -6,6 +6,7 @@
 - [S9E02: Manifesto, Scaling, and Backs of Envelopes](https://youtu.be/Q69DXymX9OE?list=WL) - Peter Sheridan Dodds (Septembre 2015)
 - [Energy Rate Density as a Complexity Metricand Evolutionary Driver](https://www.cfa.harvard.edu/~ejchaisson/reprints/EnergyRateDensity_I_FINAL_2011.pdf) - Chaisson (2011)
 - [Complex systems manifesto](https://www.uvm.edu/pdodds/writings/2015-06-04complex-systems-manifesto/) - Peter Dodds
+- [Between order and chaos](https://www.nature.com/articles/nphys2190?fbclid=IwAR17t32oocC756xlAZztu55mRcVz6FgPakxKzmSbrZunL7AbS9YaSm2oeS0) - Crutchfield (2012)
 
 ---
 
