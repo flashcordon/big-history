@@ -1,5 +1,9 @@
 # Articles de revue récents notables
 
+## Evolution des galaxies
+
+- [Physical Models of Galaxy Formation in a Cosmological Framework](https://arxiv.org/abs/1412.2712) - Sommerville & Davé (2014)
+
 ## Nucléosynthèse
 
 - [Populating the periodic table: Nucleosynthesis of the elements](https://science.sciencemag.org/content/363/6426/474) - Johnson (2019)
