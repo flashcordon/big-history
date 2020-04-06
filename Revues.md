@@ -18,7 +18,7 @@
 ## Exobiologie
 - [Astrobiology and the Possibility of Life on Earth and Elsewhere…](https://link.springer.com/article/10.1007/s11214-015-0196-1) - Cottin et al (2015)
 - [How to Characterize Habitable Worlds and Signs of Life](https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-082214-122238) - Kaltenegger (2017)
-- [Origins of Life: A Problem for Physics](https://arxiv.org/abs/1705.08073) - Sara Walker (2017)
+- [Origins of Life: A Problem for Physics](https://arxiv.org/abs/1705.08073) - Walker (2017)
 - [The when and where of water in the history of the universe](https://arxiv.org/pdf/1803.01452.pdf) - Torres & Winter (2018)
 
 ## Philosophie
