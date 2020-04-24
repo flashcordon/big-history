@@ -34,6 +34,7 @@
 - [The History of Writing - Where the Story Begins - Extra History](https://youtu.be/HyjLt_RGEww) - Extrat Credits (2016)
 - [Origins and Evolution of Writing Systems](https://blogs.ntu.edu.sg/hss-language-evolution/wiki/chapter-17/) - Language evolution (2017)
 - [Déchiffrer](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin/sur-les-epaules-de-darwin-06-juin-2015) - Sur les épaules de Darwin (2015)
+- [The deep roots of writing](https://aeon.co/essays/the-roots-of-writing-lie-in-hopes-and-dreams-not-in-accounting) - Aeon
 
 ---
 
