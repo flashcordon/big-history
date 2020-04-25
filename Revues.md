@@ -13,7 +13,6 @@
 
 - [Mineral Evolution](https://hazen.carnegiescience.edu/sites/hazen.gl.ciw.edu/files/242-Hazen-AmMin-2008.pdf) - Hazen (2008)
 - [Introducing the Scientific Consensus on Maintaining Humanity’s Life Support Systems in the 21st Century: Information for Policy Makers](https://journals.sagepub.com/doi/abs/10.1177/2053019613516290) - Barnosky et al (2014)
-- [Global Change and the Earth system](http://www.igbp.net/download/18.56b5e28e137d8d8c09380001694/1376383141875/SpringerIGBPSynthesisSteffenetal2004_web.pdf) - Steffen et al (2014)
 - [Earth: Atmospheric Evolution of a Habitable Planet](https://arxiv.org/ftp/arxiv/papers/1803/1803.05967.pdf) – Olson et al (2018)
 
 ## Exobiologie
