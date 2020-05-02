@@ -824,6 +824,7 @@ Burcher
 - En 1992, Wolszczan et Frail découvrent un système de planètes autour du pulsar PSR B1257+12. On ne sait toujours pas comment de telles planètes peuvent se former (elles sont normalement détruites par la supernova à l'origine du pulsar), ce sont donc probablement des objets exotiques.
 - En 1995, Michel Mayor et Didier Queloz découvrent avec le spectrographe ELODIE l'exoplanète 51 Peg b, un Jupiter chaud orbitant autour d'une étoile de masse solaire. Ils obtiennent le prix Nobel en 2019 pour cette découverte (première exoplanète confirmée autour d'une étoile de type solaire).
 > Cette découverte a soulevé plein de questions sur la formation des planètes et a ouvert un nouveau champ de recherche
+- En [2002](https://iopscience.iop.org/article/10.1086/338770/meta), grâce aux observations du télescope spatial Hubble, on a pu sonder pour la première fois l'atmosphère d'une exoplanète, HD 209458b, et y détecter du sodium.
 - En 2004, le télescope Yepun du VLT réalise la première image directe d'une exoplanète autour de la naine brune 2M1207 (imagerie infrarouge).
 
 ***Outils passés et actuels de détection d'exoplanètes***
