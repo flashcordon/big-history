@@ -15,6 +15,10 @@
 - [Introducing the Scientific Consensus on Maintaining Humanity’s Life Support Systems in the 21st Century: Information for Policy Makers](https://journals.sagepub.com/doi/abs/10.1177/2053019613516290) - Barnosky et al (2014)
 - [Earth: Atmospheric Evolution of a Habitable Planet](https://arxiv.org/ftp/arxiv/papers/1803/1803.05967.pdf) – Olson et al (2018)
 
+## Histoire naturelle
+
+- [Endosymbiotic theories for eukaryote origin](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2014.0330#d3e446) - Martin et al (2015)
+
 ## Exobiologie
 - [Astrobiology and the Possibility of Life on Earth and Elsewhere…](https://link.springer.com/article/10.1007/s11214-015-0196-1) - Cottin et al (2015)
 - [How to Characterize Habitable Worlds and Signs of Life](https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-082214-122238) - Kaltenegger (2017)
