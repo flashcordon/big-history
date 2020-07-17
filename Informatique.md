@@ -11,3 +11,7 @@
 # Simulations cosmologiques
 
 - [Cosmological simulations of galaxy formation](https://www.nature.com/articles/s42254-019-0127-2?draft=marketing) - Vogelsberger et al (2020)
+
+# Système Terre
+
+- [Living Earth Simulator Project](https://en.wikipedia.org/wiki/Living_Earth_Simulator_Project) -Wikipédia
