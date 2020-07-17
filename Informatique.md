@@ -1,3 +1,7 @@
+# Varié
+
+- [The Future of Scientific Simulations: from Artificial Life to Artificial Cosmogenesis](https://arxiv.org/ftp/arxiv/papers/0803/0803.1087.pdf) - Vidal (2008)
+
 # Vie artificielle
 
 - [The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities](https://www.mitpressjournals.org/doi/full/10.1162/artl_a_00319) - Lehman et al (2020)
