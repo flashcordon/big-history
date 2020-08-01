@@ -855,3 +855,11 @@ Burcher
 - [The discovery of global warming](https://history.aip.org/climate/index.htm#contents) - Spencer Weart : histoire des recherches sur le changement climatique
 - [Venus & Mars](https://history.aip.org/history/climate/Venus.htm)
 
+# Planètes du système solaire
+
+## Planètes naines
+
+### Pluton
+
+- [Pluto’s dark side spills its secrets — including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html) - Nature, Juillet 2020
+
