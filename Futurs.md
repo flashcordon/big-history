@@ -3,6 +3,7 @@
 - [La révolution urbaine](#La-révolution-urbaine)
 - [Démographie](#Démographie)
 - [Le réchauffement climatique](#Le-réchauffement-climatique)
+- [Acidification des océans](#Acidification-des-océans)
 - [La 6e extinction de masse](#La-6e-extinction-de-masse)
 - [l'humanité évolue-t-elle encore](#lhumanité-évolue-t-elle-encore)
 - [Le système solaire est-il stable](#Le-système-solaire-est-il-stable)
@@ -179,6 +180,65 @@
 Déforestation :
 
 ![sao-felix-du-xingu](https://cms.qz.com/wp-content/uploads/2018/10/sao-felix-du-xingu.jpg?quality=75&strip=all&w=3200&h=1800)
+
+# Acidification des océans
+
+*Sources*
+
+- [Anthropogenic carbon and ocean pH](https://www.nature.com/articles/425365a) – Caldeira et Wickett (2003)
+- [Impacts of ocean acidification on marine fauna and ecosystem processes](https://academic.oup.com/icesjms/article/65/3/414/789605) – Fabry et al (2008)
+- [Ocean acidification](https://ocean.si.edu/ocean-life/invertebrates/ocean-acidification) – Jennifer Bennet (NOAA)
+- [Ocean acidification](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification) – NOAA educational resources
+- [pH](https://www.cnrs.fr/cnrs-images/chimieaulycee/THEMES/acidite/ph.htm) – La chimie au lycée, CNRS
+- [A primer on pH](https://pmel.noaa.gov/co2/story/A+primer+on+pH) – NOAA
+- [Récifs coralliens : des solutions pour aujourd’hui et demain ](https://twitter.com/FlashCordon/status/1009413022530588672) – Thread résumé du colloque du 20 Juin 2018 par @Flashcordon
+- [L’acidification des océans, l’autre danger du CO₂](https://theconversation.com/lacidification-des-oceans-lautre-danger-du-co-114716) – Guillaume Paris, The Conversation (Juin 2019)
+                                       
+---
+                                                                      
+- Depuis le début de la Révolution Industrielle, il y a près de 200 ans, les activités humaines ont drastiquement augmenté la concentration de CO2 dans l’atmosphère.
+> La concentration atmosphérique de CO2 est passée de 180 ppm à 410 ppm. (à vérifier)
+- Durant la même période, le pH des océans a diminué de 0.1 unité.
+> * Il est passé de 8.2 à 8.1. (source ?)
+> * Ça n’a pas l’air d’être un gros changement mais l’échelle de pH est logarithmique ! En pratique, cela représente une augmentation de l’acidité des océans de 30 % !
+> * Attention, le pH de l’océan est toujours légèrement basique (c’est à dire au dessus de 7). L’acidification des océans désigne le processus, pas l’arrivée.                                                                                              
+- Si l’on ne fait rien pour limiter nos émissions de CO2 (scénario business as usual), les projections de la NOAA ([Jiang et al 2019](https://www.nature.com/articles/s41598-019-55039-4)) prédisent que d’ici 2100, les eaux de surface pourraient avoir un pH autour de 7.8.
+- Le problème de l’acidification des océans a été découvert très récemment !
+> * Cela fait à peine plus de 30 ans que le pH des océans est mesuré, et l’expression « acidification des océans » apparaît pour la première fois en 2003, dans le premier article détaillant ses conséquences biologiques ! ([Caldeira et Wickett 2003](https://www.nature.com/articles/425365a))
+
+***L’échelle de pH***
+- Ce qu’on appelle « acidité » est en fait la mesure de la concentration de protons, aussi appelés ions hydrogène (noté H+), dans une solution aqueuse. Plus la concentration en H+ est élevée, plus la solution est acide.
+- Le potentiel hydrogène, ou « pH », est une grandeur qui permet de mesurer l’acidité d’une solution. 
+> pH = - log[H+]  (ion oxonium ?)
+- Le pH de l’eau pure à 25°C est égal à 7, et cette valeur sert de référence pour un milieu considéré comme neutre.
+- L’échelle de pH va de 0 à 14. Une solution dont le pH est en dessous de 7 est considérée comme *acide*, et une solution dont le pH est au dessus de 7 est considérée comme *basique*.
+- Le pH est une échelle logarithmique : quand une solution devient dix fois plus acide, son pH diminue d'une unité. Si elle devient 100 fois plus acide, le pH diminuera alors de deux unités. Etc.
+                                                                        
+
+- L’océan absorbe environ 30 % du CO2 atmosphérique, où ce dernier est dissous.
+- Comme la concentration en CO2 dans l’atmosphère augmente, la quantité de CO2 absorbée par les océans augmente aussi.
+- Une fois dissous dans l’eau, le CO2 se combine aux molécules d’eau pour former de l’acide carbonique (H2CO3), et cet acide se dissocie en ions hydrogènes (H+) et en ions bicarbonates (HCO3-)
+> La concentration en ions hydrogènes augmente alors.
+
+### Conséquences sur les organismes vivants
+- L’acidification des océans a des conséquences dramatiques pour les espèces qui fabriquent des coquilles ou des squelettes de calcaire, comme les coraux, les coquillages, les moules,  les foraminifères, les coccolithophoridés (microalgues qui font partie du plancton), les huîtres, les palourdes, ou encore les oursins et les étoiles de mer.                                                             
+> * Chimiquement parlant, le calcaire, c’est du carbonate de calcium (CaCO3), un assemblage constitué d’un ion calcium (Ca2+) et d’un ion carbonate (CO3^2-) présents dans l’eau de mer. La formation de calcaire dégage du CO2 et de l’eau.
+- Le problème, c’est que lorsque la concentration en ions hydrogène augmente, ces derniers ont tendance à se lier aux ions carbonate pour former un ion bicarbonate (HCO3-)
+> * Les organismes qui tentent de former leur coquille ou leur squelette ont donc moins d’ions carbonate à leur disposition pour former du calcaire. Et même s’ils y parviennent, cela demande plus de ressources et d’énergie, et cette énergie est dépensée aux dépens d’autres activités comme la reproduction.                                                                       
+> * Si l’environnement est suffisamment acide, les ions hydrogène peuvent même détruire les molécules de calcaire présents dans les coquilles et les squelettes des organisme, ce qui dissout alors ces derniers.
+- Les coraux forment des récifs complexes qui abritent non seulement les polypes qui les constituent mais aussi une immense biodiversité sous-marine.
+> * Les récifs coralliens sont les plus grandes bio-constructions de la planète. A l’origine, le corail est une symbiose entre un animal (le polype) et une algue unicellulaire (la zooanthelle). C’est l’exosquelette calcaire que sécrète les polypes qui constitue la base des récifs. 
+> * Les récifs coralliens représentent une surface totale de 300 000 km², soit 0.1 % de la surface des océans. Mais ils abritent près d’un tiers de la biodiversité marine connue !
+- L’acidification des océans fragilise donc l’intégrité des écosystèmes des récifs en limitant la croissance des coraux et en détruisant activement les coraux existants.
+- Les plus grandes menaces des récifs coralliens sont globales
+> * L'augmentation des températures et de l'acidité des océans provoquent le blanchissement des coraux (via l'expulsion des algues symbiotiques). Des coraux blanchis ont un taux de mortalité beaucoup plus grand.                                                                               
+> * Depuis 1980, les épisodes de blanchissement des coraux ont été multipliés par 10. En 2016, plus de 90% de la Grande barrière de corail a blanchi, ce qui a conduit à la disparition de la moitié des coraux entre 2016 et 2017. 
+- Cependant, l’acidification des océans bénéficiera à certains organismes, comme de nombreuses plantes et algues qui produisent leur énergie à partir du CO2 dissous dans l’eau et de la lumière du Soleil.                                                                  
+
+### Conséquences sur les sociétés humaines
+
+- Les barrières de corail fournissent de nombreux services écosystémiques pour l’Humanité. En brisant la houle, ils jouent notamment un rôle de protection des côtes en cas de tempêtes. 
+- L’acidification des océans va affecter négativement la sécurité alimentaire de millions de personnes ainsi que l’économie de la pêche, de l’aquaculture et du tourisme dans le monde entier.
 
 ### Agriculture
 
