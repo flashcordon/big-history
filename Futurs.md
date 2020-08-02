@@ -193,13 +193,14 @@ Déforestation :
 - [A primer on pH](https://pmel.noaa.gov/co2/story/A+primer+on+pH) – NOAA
 - [Récifs coralliens : des solutions pour aujourd’hui et demain ](https://twitter.com/FlashCordon/status/1009413022530588672) – Thread résumé du colloque du 20 Juin 2018 par @Flashcordon
 - [L’acidification des océans, l’autre danger du CO₂](https://theconversation.com/lacidification-des-oceans-lautre-danger-du-co-114716) – Guillaume Paris, The Conversation (Juin 2019)
+- [Studying ocean acidification with conservative, stable numerical schemes for nonequilibrium air‐ocean exchange and ocean equilibrium chemistry](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005220) - 
                                        
 ---
                                                                       
 - Depuis le début de la Révolution Industrielle, il y a près de 200 ans, les activités humaines ont drastiquement augmenté la concentration de CO2 dans l’atmosphère.
 > La concentration atmosphérique de CO2 est passée de 180 ppm à 410 ppm. (à vérifier)
 - Durant la même période, le pH des océans a diminué de 0.1 unité.
-> * Il est passé de 8.2 à 8.1. (source ?)
+> * Il est passé de 8.2 à 8.1 entre 1751 et 2004. ([Jacobson 2005](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005220))
 > * Ça n’a pas l’air d’être un gros changement mais l’échelle de pH est logarithmique ! En pratique, cela représente une augmentation de l’acidité des océans de 30 % !
 > * Attention, le pH de l’océan est toujours légèrement basique (c’est à dire au dessus de 7). L’acidification des océans désigne le processus, pas l’arrivée.                                                                                              
 - Si l’on ne fait rien pour limiter nos émissions de CO2 (scénario business as usual), les projections de la NOAA ([Jiang et al 2019](https://www.nature.com/articles/s41598-019-55039-4)) prédisent que d’ici 2100, les eaux de surface pourraient avoir un pH autour de 7.8.
