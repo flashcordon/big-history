@@ -216,6 +216,9 @@ Déforestation :
 - Le problème de l’acidification des océans a été découvert très récemment !
 > * Cela fait à peine plus de 30 ans que le pH des océans est mesuré, et l’expression « acidification des océans » apparaît pour la première fois en 2003, dans le premier article détaillant ses conséquences biologiques ! ([Caldeira et Wickett 2003](https://www.nature.com/articles/425365a))
 
+*Evolution du pH océanique depuis les 20 derniers millions d'années (Source : Turley et al 2006, citant les données de Pearson et Palmer 2000)*
+![phtempsgeol][https://i.imgur.com/ssTcDwF.png)
+
 
 ***L’échelle de pH***
 - Ce qu’on appelle « acidité » est en fait la mesure de la concentration de protons, aussi appelés ions hydrogène (noté H+), dans une solution aqueuse. Plus la concentration en H+ est élevée, plus la solution est acide.
