@@ -217,7 +217,7 @@ Déforestation :
 > * Cela fait à peine plus de 30 ans que le pH des océans est mesuré, et l’expression « acidification des océans » apparaît pour la première fois en 2003, dans le premier article détaillant ses conséquences biologiques ! ([Caldeira et Wickett 2003](https://www.nature.com/articles/425365a))
 
 *Evolution du pH océanique depuis les 20 derniers millions d'années (Source : Turley et al 2006, citant les données de Pearson et Palmer 2000)*
-![phtempsgeol][https://i.imgur.com/ssTcDwF.png)
+![phtempsgeol](https://i.imgur.com/ssTcDwF.png)
 
 
 ***L’échelle de pH***
