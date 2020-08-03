@@ -193,19 +193,29 @@ Déforestation :
 - [A primer on pH](https://pmel.noaa.gov/co2/story/A+primer+on+pH) – NOAA
 - [Récifs coralliens : des solutions pour aujourd’hui et demain ](https://twitter.com/FlashCordon/status/1009413022530588672) – Thread résumé du colloque du 20 Juin 2018 par @Flashcordon
 - [L’acidification des océans, l’autre danger du CO₂](https://theconversation.com/lacidification-des-oceans-lautre-danger-du-co-114716) – Guillaume Paris, The Conversation (Juin 2019)
-- [Studying ocean acidification with conservative, stable numerical schemes for nonequilibrium air‐ocean exchange and ocean equilibrium chemistry](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005220) - 
-                                       
+- [Studying ocean acidification with conservative, stable numerical schemes for nonequilibrium air‐ocean exchange and ocean equilibrium chemistry](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005220) - Jacobson (2005)
+- [Atmospheric carbon dioxide concentrations over the past 60 million years](https://www.nature.com/articles/35021000) – Pearson et Palmer (2000)
+- [Constraining the evolution of Neogene ocean carbonate chemistry using the boron isotope pH proxy](https://www.sciencedirect.com/science/article/pii/S0012821X1830356X) – Sosdian et al (2018)
+- [Ocean acidification](https://nca2014.globalchange.gov/report/our-changing-climate/ocean-acidification) – National Climate Assessment (2014)
+- [L’acidification de l’océan](https://archimer.ifremer.fr/doc/00142/25352/23434.pdf) –  Gilles Boeuf, Taikona
+
 ---
                                                                       
 - Depuis le début de la Révolution Industrielle, il y a près de 200 ans, les activités humaines ont drastiquement augmenté la concentration de CO2 dans l’atmosphère.
-> La concentration atmosphérique de CO2 est passée de 180 ppm à 410 ppm. (à vérifier)
+> La concentration atmosphérique de CO2 est passée d'un niveau pré-industriel de 280 ppm à 410 ppm aujourd'hui.
 - Durant la même période, le pH des océans a diminué de 0.1 unité.
 > * Il est passé de 8.2 à 8.1 entre 1751 et 2004. ([Jacobson 2005](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005220))
 > * Ça n’a pas l’air d’être un gros changement mais l’échelle de pH est logarithmique ! En pratique, cela représente une augmentation de l’acidité des océans de 30 % !
-> * Attention, le pH de l’océan est toujours légèrement basique (c’est à dire au dessus de 7). L’acidification des océans désigne le processus, pas l’arrivée.                                                                                              
+> * Attention, le pH de l’océan est toujours légèrement basique (c’est à dire au dessus de 7). L’acidification des océans désigne le processus, pas l’arrivée.
+> * Depuis 20 millions d’années, le ph des océans est resté plutôt stable (autour de 8,2). L'acidification est un phénomène très récent sur les temps géologiques.
 - Si l’on ne fait rien pour limiter nos émissions de CO2 (scénario business as usual), les projections de la NOAA ([Jiang et al 2019](https://www.nature.com/articles/s41598-019-55039-4)) prédisent que d’ici 2100, les eaux de surface pourraient avoir un pH autour de 7.8.
+> L'océan n'a pas été aussi acide depuis l'optimum climatique du Miocène, il y a 14 millions d'années.
+- En pratique, l’océan n’est pas acidifié de la même manière partout.
+> * L’abaissement d pH dépend de plein de facteurs, dont la température et la salinité de l’eau. Le CO2 se dissout mieux dans une eau froide. Donc l’acidification touche particulièrement les mers froide (et souvent dessalées) des hautes lattitudes.
+> * L’acidification touche particulièrement les eaux de surface.
 - Le problème de l’acidification des océans a été découvert très récemment !
 > * Cela fait à peine plus de 30 ans que le pH des océans est mesuré, et l’expression « acidification des océans » apparaît pour la première fois en 2003, dans le premier article détaillant ses conséquences biologiques ! ([Caldeira et Wickett 2003](https://www.nature.com/articles/425365a))
+
 
 ***L’échelle de pH***
 - Ce qu’on appelle « acidité » est en fait la mesure de la concentration de protons, aussi appelés ions hydrogène (noté H+), dans une solution aqueuse. Plus la concentration en H+ est élevée, plus la solution est acide.
@@ -217,9 +227,10 @@ Déforestation :
                                                                         
 
 - L’océan absorbe environ 30 % du CO2 atmosphérique, où ce dernier est dissous.
+> Au cours des derniers 250 ans, l'océan a absorbé plus de 500 milliard de tonnes de CO2
 - Comme la concentration en CO2 dans l’atmosphère augmente, la quantité de CO2 absorbée par les océans augmente aussi.
 - Une fois dissous dans l’eau, le CO2 se combine aux molécules d’eau pour former de l’acide carbonique (H2CO3), et cet acide se dissocie en ions hydrogènes (H+) et en ions bicarbonates (HCO3-)
-> La concentration en ions hydrogènes augmente alors.
+> * La concentration en ions hydrogènes augmente alors.
 
 ### Conséquences sur les organismes vivants
 - L’acidification des océans a des conséquences dramatiques pour les espèces qui fabriquent des coquilles ou des squelettes de calcaire, comme les coraux, les coquillages, les moules,  les foraminifères, les coccolithophoridés (microalgues qui font partie du plancton), les huîtres, les palourdes, ou encore les oursins et les étoiles de mer.                                                             
@@ -234,6 +245,7 @@ Déforestation :
 - Les plus grandes menaces des récifs coralliens sont globales
 > * L'augmentation des températures et de l'acidité des océans provoquent le blanchissement des coraux (via l'expulsion des algues symbiotiques). Des coraux blanchis ont un taux de mortalité beaucoup plus grand.                                                                               
 > * Depuis 1980, les épisodes de blanchissement des coraux ont été multipliés par 10. En 2016, plus de 90% de la Grande barrière de corail a blanchi, ce qui a conduit à la disparition de la moitié des coraux entre 2016 et 2017. 
+- Pour de nombreux invertébrés et certains poissons, l’acidification peut affecter leurs processus physiologiques et même leur comportement.
 - Cependant, l’acidification des océans bénéficiera à certains organismes, comme de nombreuses plantes et algues qui produisent leur énergie à partir du CO2 dissous dans l’eau et de la lumière du Soleil.                                                                  
 
 ### Conséquences sur les sociétés humaines
@@ -241,7 +253,16 @@ Déforestation :
 - Les barrières de corail fournissent de nombreux services écosystémiques pour l’Humanité. En brisant la houle, ils jouent notamment un rôle de protection des côtes en cas de tempêtes. 
 - L’acidification des océans va affecter négativement la sécurité alimentaire de millions de personnes ainsi que l’économie de la pêche, de l’aquaculture et du tourisme dans le monde entier.
 
-### Agriculture
+### Solutions recommandées
+
+- Le Policy Brief de l’Institut du Développement Durable et des Relations Internationales (IDDRI) de 2012 recommande :
+> * de limiter la concentration de CO2 (et plus généralement de gaz à effet de serre) dans l’atmosphère
+> * de réduire les flux de polluants côtiers qui aggravent localement l’acidification
+> *  de renforcer la résilience des écosystèmes (création d’aires marines protégées)
+> * d’adapter les activités humaines par anticipation ou en réaction à l’acidification
+> * remédier l’acidification en balançant des matériaux alcalins (peu réaliste) ou avec des techniques d’aquaculture à base de micro-algues qui piègent le CO2 (plus réaliste)
+
+# Agriculture
 
 - Le quart (26%) de nos émissions globales de gaz à effet de serre sont liées à la production de nourriture. 
 
