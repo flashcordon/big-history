@@ -9,5 +9,6 @@
 - [The emergence and evolution of Earth System Science](https://www.nature.com/articles/s43017-019-0005-6?proof=trueHere) - Steffen et al (2020)
 - [Life on Earth is hard to spot](https://journals.sagepub.com/doi/full/10.1177/2053019620918939) - Lenton, Dutreuil et Latour (2020)
 - [La valeur Gaia](https://journals.openedition.org/vertigo/26711) - Federeau (2020)
+- [L’écospiritualité, qu’est-ce que c’est ?](https://theconversation.com/lecospiritualite-quest-ce-que-cest-48844) - Aurélie CHoné, the Conversation (Octobre 2015)
 
 ---
