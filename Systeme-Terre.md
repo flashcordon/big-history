@@ -10,5 +10,7 @@
 - [Life on Earth is hard to spot](https://journals.sagepub.com/doi/full/10.1177/2053019620918939) - Lenton, Dutreuil et Latour (2020)
 - [La valeur Gaia](https://journals.openedition.org/vertigo/26711) - Federeau (2020)
 - [L’écospiritualité, qu’est-ce que c’est ?](https://theconversation.com/lecospiritualite-quest-ce-que-cest-48844) - Aurélie CHoné, the Conversation (Octobre 2015)
+- Revolutions that made the Earth, Tim Lenton et Andrew Watson
+- Gaia: a new look at life on Earth, James Lovelock
 
 ---
