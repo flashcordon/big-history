@@ -863,3 +863,45 @@ Burcher
 
 - [Pluto’s dark side spills its secrets — including hints of a hidden ocean](https://www.nature.com/immersive/d41586-020-02082-1/index.html) - Nature, Juillet 2020
 
+
+# Les odeurs de l'univers
+
+*Sources*
+
+- [The smells of the universe](http://tuimp.astro.ufsc.br/files/booklets/tuimp-en007_booklet_smallscreen.pdf) - Gloria Delgado Inglada 
+- [What does space smell like ?](https://www.smithsonianmag.com/smart-news/what-does-space-smell-like-3457620/) - Smithonian Magazine
+- [Why does the universe smell so bad ?](https://cosmosmagazine.com/space/why-does-the-universe-smell-so-bad/) - Cosmos Magazine
+- [Four great scents from outer space](https://blogs.scientificamerican.com/oscillator/four-great-scents-from-outer-space/) - Scientific American
+- [The smells of space](https://www.discovermagazine.com/the-sciences/the-smells-of-space-burned-steak-gunpowder-raspberries) - Discover Magazine
+- [The many strange smells of space](https://futurism.com/the-many-strange-smells-of-space) - Futurism
+- [Space smells](https://www.popularmechanics.com/space/deep-space/a33075484/space-smell/) - Popular Mechanics
+- [Outer space smells](https://astronomy.com/news/2018/07/outer-space-smells) - Astronomy Magazine
+- [NASA designed perfume captures smell of outer space](https://www.npr.org/2020/07/04/887239246/nasa-designed-perfume-captures-smell-of-outer-space?t=1597315191080) - NPR
+
+---
+
+Smelloscope du professeur Farnsworth, dans Futurama.
+Si on a les bonnes informations chimiques, on peut reproduire les odeurs.
+On ne peut pas sentir dans le vide de l’espace (vous pouvez tenter de prendre une grande inspiration, mais c’est voué à l’échec). Par contre on peut imaginer capturer du gaz spatial dans une fiole et la ramener sur Terre pour vous la faire sentir.
+- Dans les nuages moléculaires, on trouve une chiée de molécules complexes aux odeurs variées. par exemple, à l’intérieur de Sagittarius B2, un vaste nuage de poussière à 300 années lumière du centre Galactique (taille : 150 années-lumière), des astronomes ont détecté des dizaines de molécules différentes. parmi elles, du “ethyl formate”, qui a le goût de la framboise et l’odeur du rhum. Mais cette molécule n’est pas la seule. On trouve aussi du H2S (hydrogen sulfide), qui sent l’oeuf pourri. Mais aussi du HCN (hydrogen cyanide), un gaz mortel qui sent l’amande amère. Mais aussi des PAH (de larges chaînes moléculaires constituées d’un assemblade de carbone et d’hydrogène en anneaux), qu’on retrouve sur Terre dans les toasts brûlés et dans les gaz d’échappement. Bon, la concentration de ces molécules esst 10000 fois trop faible pour être détectée par votre nez.
+L’astronome méxicain Daniel Tafoya a estimé que, pour sentir l’ammoniac contenu dans le nuage d’Orion KL, il nous faudrait un nez de 11,4 km !
+- La comète 67P (Choury) sent l’oeuf pourri, le poisson pourri, l’ail et le choux bouilli
+- Sur Titan, une des lunes de Saturne, on trouve une mixture d’hydrocarbures et de “nitriles” qui sentirait l’essence. Bon, il ferait aussi -X °C. Donc n’y allez pas. 
+- Jupiter : son odeur change de couche en couche ! (Bon ne plongez pas dans l’amosphère de Jupiter, vous allez mourir écrasé par la pression) La sonde Galileo a tenu ? Les couches externes sentent le poisson pourri à cause de l’ammoniac abondant. En dessous, l’ideur de poisson serait mélangé à un délicieux fumet d’oeuf pourri à cause du H2S. On aurait enfin une odeur d’amande amère à cause du hydrogen cyanide. Et ça sentirait aussi l’aîl à cause de la présence de phosphine (?)
+Y a aussi beaucoup de molécules sans odeur, comme l’hélium ou le méthane.
+- Lorsque les astronautes des missions Apollo sont retournés de la Lune, ils ont rapporté que leur combinaison sentait la poudre à canon. Mais chose étonnante, lorsqu’on ramène cette poussière lumaire sur Terre, elle perd son odeur de poudre à canon ! Et personne ne sait pourquoi. la surface lunaire est composée de cristaux de dioxide de silice (silicon dioxide), et du fer, du calcium et du magnésium. Aucun de ces composés n’est sensé sentir la poudre à canon ! (qui elle est constituée de nitrate de potassium, de carbone et de soufre)
+- Autre mystère, les astronautes qui ont effectué des sorties dans l’espace, à l’extérieur de l’ISS, on rapporté avoir senti une étrange odeur caractéristique à leur rentrée dans le module. Une odeur tellement originale que certains d’entre eux ne l’ont jamais oublié. On a plein de témoignages de ce type, et autant de descriptions différentes de cette étrange odeur.
+Thomas Jones : Surflureux
+Peggy Whitson : almost a bitter kind of smell in addition of being smoky and burned
+Chris Hadfield : de la poudre à canon et un steak brûlé
+Anousheh Ansari : des cookies aux amandes toastés
+Alexande Gerst : un mélange entre des noix et les freins de mon vélo.
+Reid Wiseman : like damp clothes after a day in the snow
+On ne sait pas encore à quoi est due cette odeur, mais Hadfield pense qu’il est possible que çasoit du au vide de l’espace qui aspire certaines des molécules des parois de l’ISS qui se collent à la combinaison ensuite.
+
+Comment fonctionne l’odorat ? Les molécules dans l’air arrivet dans votre nez et sont absorbées par les membranes muqueuses. Au dessus de nos passages nasau il y a des tissus épithélium olfactifs dont les récepteurs sensoriels sont similaires aux papilles gustatives. Ces cellules sont activées lorsque des molécules les atteignent, et elles transmettent une information au cerveau via les bulbes olfactifs.
+
+Comment on détecte les odeurs dans l’espace ?
+ALMA peut détecter des molécules dans l’espace dans le domaine des ondes millimétriques. Lorsque les molécules de l’espace entrent en collision, elles tournent, vibrent et se tordent. Ces mouvements produisent de la lumière, ou plus précisément des rayonnements électromagnétiques, dans le domaine des infraouges et des micro-ondes. La longueur d’onde diffère selon la molécule. Et si on identifie la molécule par sa signature dans les spectres, on peut connaître l’ideur de ces enndroits.
+
+Conclusion : l’univers pue ! Pensez-y la prochaine fois que vous prenez les transports en commun.
