@@ -70,6 +70,8 @@ C’est ce que l’on appelle une boucle de rétroaction négative.
 - Le modèle Daisyworld a permis de faire émerger des discussions théoriques sur Gaia. Et certains critiques historiques comme Ford Dollitle ont même développé des concepts théoriques qui pourraient être utiles. comme la sélection par la survie seule (Dolittle 20114), basée sur la persistance au fil du temps. Ou encore le concept d’évolution séquentielle de Betts et Lenton (2007, Lenton2018a), qui nous dit que par une série d’essais et d’erreurs au fil du temps, les effets de la vie sur l’environnementont fini par tomber sur des attracteurs stables, qui perdurent par définition.
 - Mais ces développements théoriques récents montrent qu’il y a encore beaucoup de travail à faire sur le plan théorique pour confirmer ou infirmer l’hypothèse Gaia.
 
+[Vidéo d'illustration de Daisyworld par la NASA](https://youtu.be/sCxIqgZA7ag)
+
 ## L’hypothèse Gaia aujourd’hui
 
 ### L’impact du vivant sur le système Terre
