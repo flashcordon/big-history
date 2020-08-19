@@ -56,11 +56,13 @@ la première visualisation du genre est le diagramme de Bretherton. Dans ce diag
 En 1986 est créé l’IGBP, le Programme International pour la Géosphère et la Biosphère, une institution spécifiquement créée dans le but d’étudier les cycles biogéochimiques de la Terre.
 
 *Diagramme de Bretherton (NASA, 1986)*
+
 ![bretherton](https://i.imgur.com/uHCg48L.png)
 
 ### Daisyworld
 
-- Les critiques scientifiques de l’hypothèse Gaia étaient notamment dûes au fait que Lovelock n’a pas proposé de mécanisme théorique pour expliquer comment le climat aurait pu être stabilisé par le vivant. Ce manque de mécanisme de régulation à échelle planétaire a été comblé en 1983, lorsque Lovelock et u collègue, Andrew Watson, publient le modèle Daisyworld.
+- Les critiques scientifiques de l’hypothèse Gaia étaient notamment dûes au fait que Lovelock n’a pas proposé de mécanisme théorique pour expliquer comment le climat aurait pu être stabilisé par le vivant. 
+- Ce manque de mécanisme de régulation à échelle planétaire a été comblé en 1983, lorsque Lovelock et son collègue Andrew Watson publient [le modèle Daisyworld](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0889.1983.tb00031.x).
 Ce modèle illustre commet des boucles de rétroaction entre la vie et l’environnement pourrait réguler la température globale
 Daisyworld est une planète virtuelle. Une simple boule orbitant autour d’une étoile dont la luminosité augmente au fil des milliards d’années. Sur Daisyworld, il n’y a que 2 formes de vie : des paquerettes (?) blanches, et des pâquerettes noires. Les fleurs blanches reflètent complètement le rayonnement solaire. Elles refroidissent donc la planète. A l’inverse, les fleurs noires absorbent complètement le rayonnement solaire. Et donc elles réchauffent la planète.
 C’est ce que l’on appelle une boucle de rétroaction négative.
