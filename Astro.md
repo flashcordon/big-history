@@ -880,6 +880,7 @@ Burcher
 - [NASA designed perfume captures smell of outer space](https://www.npr.org/2020/07/04/887239246/nasa-designed-perfume-captures-smell-of-outer-space?t=1597315191080) - NPR
 - [The ‘perfume’ of 67P/C-G](https://blogs.esa.int/rosetta/2014/10/23/the-perfume-of-67pc-g/) - Blog ESA
 - [I smelled comet 67P's deadly pong and lived to tell the tale](https://www.newscientist.com/article/2094836-i-smelled-comet-67ps-deadly-pong-and-lived-to-tell-the-tale/) - New Scientist (2016)
+- [The Mysterious Smell of Moondust](https://science.nasa.gov/science-news/science-at-nasa/2006/30jan_smellofmoondust) - NASA
 
 ---
 
@@ -891,6 +892,17 @@ On ne peut pas sentir dans le vide de l’espace (vous pouvez tenter de prendre 
 - ***Titan*** : Sur Titan, une des lunes de Saturne, on trouve une mixture d’hydrocarbures et de “nitriles” qui sentirait l’essence. Bon, il ferait aussi -X °C. Donc n’y allez pas. 
 - ***Jupiter*** : La particularité de cette planète, c'est que son odeur change de couche en couche ! (Bon ne plongez pas dans l’amosphère de Jupiter, vous allez mourir écrasé par la pression) La sonde Galileo a tenu ? Les couches externes sentent le poisson pourri à cause de l’ammoniac abondant. En dessous, l’ideur de poisson serait mélangé à un délicieux fumet d’oeuf pourri à cause du H2S. On aurait enfin une odeur d’amande amère à cause du hydrogen cyanide. Et ça sentirait aussi l’aîl à cause de la présence de phosphine (?) Y a aussi beaucoup de molécules sans odeur, comme l’hélium ou le méthane.
 - ***Lune*** : Lorsque les astronautes des missions Apollo sont retournés de la Lune, ils ont rapporté que leur combinaison sentait la poudre à canon. Mais chose étonnante, lorsqu’on ramène cette poussière lumaire sur Terre, elle perd son odeur de poudre à canon ! Et personne ne sait pourquoi. la surface lunaire est composée de cristaux de dioxide de silice (silicon dioxide), et du fer, du calcium et du magnésium. Aucun de ces composés n’est sensé sentir la poudre à canon ! (qui elle est constituée de nitrate de potassium, de carbone et de soufre)
+Every Apollo astronaut did it. They couldn't touch their noses to the lunar surface. But, after every moonwalk (or "EVA"), they would tramp the stuff back inside the lander. Moondust was incredibly clingy, sticking to boots, gloves and other exposed surfaces. No matter how hard they tried to brush their suits before re-entering the cabin, some dust (and sometimes a lot of dust) made its way inside. 
+On a même une photo où Gene Cernan d'Apollo 17 en a sur le front.
+ "It is really a strong smell," radioed Apollo 16 pilot Charlie Duke. "It has that taste -- to me, [of] gunpowder -- and the smell of gunpowder, too." On the next mission, Apollo 17, Gene Cernan remarked, "smells like someone just fired a carbine in here."
+
+Schmitt says, "All of the Apollo astronauts were used to handling guns." So when they said 'moondust smells like burnt gunpowder,' they knew what they were talking about.
+Modern smokeless gunpowder is a mixture of nitrocellulose (C6H8(NO2)2O5) and nitroglycerin (C3H5N3O9). These are flammable organic molecules "not found in lunar soil," says Gary Lofgren of the Lunar Sample Laboratory at NASA's Johnson Space Center. Hold a match to moondust--nothing happens, at least, nothing explosive.
+What is moondust made of? Almost half is silicon dioxide glass created by meteoroids hitting the moon. These impacts, which have been going on for billions of years, fuse topsoil into glass and shatter the same into tiny pieces. Moondust is also rich in iron, calcium and magnesium bound up in minerals such as olivine and pyroxene. It's nothing like gunpowder.
+
+So why the smell? No one knows.
+There are hundreds of pounds of moondust at the Lunar Sample Lab in Houston. 
+All of the samples brought back by Apollo astronauts have been in contact with moist, oxygen-rich air. Any smelly chemical reactions (or evaporations) ended long ago.
 - ***Espace*** : Autre mystère, les astronautes qui ont effectué des sorties dans l’espace, à l’extérieur de l’ISS, on rapporté avoir senti une étrange odeur caractéristique à leur rentrée dans le module. Une odeur tellement originale que certains d’entre eux ne l’ont jamais oublié. On a plein de témoignages de ce type, et autant de descriptions différentes de cette étrange odeur.
 > * Thomas Jones : Surflureux
 > * Peggy Whitson : almost a bitter kind of smell in addition of being smoky and burned
