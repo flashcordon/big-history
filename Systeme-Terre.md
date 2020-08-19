@@ -16,7 +16,7 @@
 - Gaia: a new look at life on Earth, James Lovelock
 - L’intrusion de Gaia - Isabelle Stengers (2009)
 - Face à Gaia - Bruno Latour (2019?)
-- Sur la piste de Gaia - Bruno Latour, L’Obs
+- [Sur la piste de Gaia](http://www.bruno-latour.fr/sites/default/files/P-187-VISITE-LOVELOCK-NOUVEL-OBSpdf.pdf) - Bruno Latour, le Nouvel Obs
 - Scientists debate Gaia - Stephen Schneider
 
 ---
