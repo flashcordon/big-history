@@ -22,6 +22,7 @@
 ---
 
 - Hypothèse importante, à l’histoire aussi fascinante, complexe et controversée que ses auteurs
+- L'histoire d'une controverse scientifique, et comment elle a fortement influencé la prise de conscience écologique globale.
 
 ## L’histoire de Gaia
 
