@@ -15,6 +15,7 @@
 - [Mineral Evolution](https://hazen.carnegiescience.edu/sites/hazen.gl.ciw.edu/files/242-Hazen-AmMin-2008.pdf) - Hazen (2008)
 - [Introducing the Scientific Consensus on Maintaining Humanity’s Life Support Systems in the 21st Century: Information for Policy Makers](https://journals.sagepub.com/doi/abs/10.1177/2053019613516290) - Barnosky et al (2014)
 - [Earth: Atmospheric Evolution of a Habitable Planet](https://arxiv.org/ftp/arxiv/papers/1803/1803.05967.pdf) – Olson et al (2018)
+- [The emergence and evolution of Earth System Science](https://www.nature.com/articles/s43017-019-0005-6?proof=trueHere) - Steffen et al (2020)
 
 ## Histoire naturelle
 
