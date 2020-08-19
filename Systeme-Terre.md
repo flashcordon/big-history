@@ -52,17 +52,6 @@ Cette figure New age de Gaia est revendiquée directement ou indirectement par l
 Suite à ces critiques, l’hypothèse Gaia devient marginale. Au mieux, les scientifiques s’en désintéressent, au pire elle est vue comme de la pseudo-science, ou un concept New age.
 Le fait que les mouvements environnementalistes et, à une échelle moindre, les mouvements NEw Age, se sont emparé du concept de Gaia de Lovelock a participé à la mauvaise presse de l’hypothèse auprès de la communauté scientifique.
 Gaia trouve un écho particulier auprès des mouvements de contre-culture environnementaliste des années 70. On la trouvera dans les pages du célèbre Whole Earth Catalog de Steward Brand (un manuel pour reconstruire une civilisation from scratch vendu à plusieurs millions d’exemplaires), mais aussi dans la revue Coevolution Quarterly.
-Dans les années 80, Gaia est rebaptisée “système Terre”, pour épurer Gaia de sa connotation mythologique.
-C’est ainsi que naissent les sciences du système Terre. Un domaine qui connecte des disciplines auparavant séparées (géologie, biologie, géochimie, climatologie, écologie, océanographie) pour un même objet d’étude : le système Terre.
-Le système Terre est défini comme la suite complexe de processus physiques, chimiques, biologiques et humains qui transportent et transforment la matière et l’éergie à l’intérieur du système, avec des interactions et des rétroactions complexes entre les parties qui constituent le système.
-les outils des sciences du système Terre sont l’observation de notre planète par le biais de satellites ainsi que la modélisation du système Terre, qui sont en pratique des simulations informatiques complexes.
-Ces modèles ressemblent ) des boîtes connectées entre elles par des flèches qui représentent les différentes interactions.
-la première visualisation du genre est le diagramme de Bretherton. Dans ce diagramme, les humains sont représentés par une boîte, connectée au reste du système Terre par leurs émissions collectives de polluants et de CO2, ainsi que par leur conversion des terres sauvages en terres agricoles et urbaines.
-En 1986 est créé l’IGBP, le Programme International pour la Géosphère et la Biosphère, une institution spécifiquement créée dans le but d’étudier les cycles biogéochimiques de la Terre.
-
-*Diagramme de Bretherton (NASA, 1986)*
-
-![bretherton](https://i.imgur.com/uHCg48L.png)
 
 ### Daisyworld
 
@@ -101,6 +90,19 @@ Sur Terre, la vie piège le carbone organique dans les roches sédimentaires et 
 
 
 ## L’impact scientifique et philosophique de Gaia
+
+- Dans les années 80, Gaia est rebaptisée “système Terre”, pour épurer Gaia de sa connotation mythologique.
+- C’est ainsi que naissent les sciences du système Terre. Un domaine qui connecte des disciplines auparavant séparées (géologie, biologie, géochimie, climatologie, écologie, océanographie) pour un même objet d’étude : le système Terre.
+- Le système Terre est défini comme la suite complexe de processus physiques, chimiques, biologiques et humains qui transportent et transforment la matière et l’éergie à l’intérieur du système, avec des interactions et des rétroactions complexes entre les parties qui constituent le système.
+- Les outils des sciences du système Terre sont l’observation de notre planète par le biais de satellites ainsi que la modélisation du système Terre, qui sont en pratique des simulations informatiques complexes.
+Ces modèles ressemblent à des boîtes connectées entre elles par des flèches qui représentent les différentes interactions.
+> La première visualisation du genre est le diagramme de Bretherton. Dans ce diagramme, les humains sont représentés par une boîte, connectée au reste du système Terre par leurs émissions collectives de polluants et de CO2, ainsi que par leur conversion des terres sauvages en terres agricoles et urbaines.
+- En 1986 est créé l’IGBP, le Programme International pour la Géosphère et la Biosphère, une institution spécifiquement créée dans le but d’étudier les cycles biogéochimiques de la Terre.
+
+*Diagramme de Bretherton (NASA, 1986)*
+
+![bretherton](https://i.imgur.com/uHCg48L.png)
+
 a eu un impact important en sciences de la Terre comme en écologie politique
 Elle nous a montré que le vivant ne faisait pas qu’habiter dans l’ennvironnement. Il façonne l’environnement.
 Elle a brisé les barrières discciplinaires et permis la création d’un nouveau champ d’étude.Une nouvelle manière de penser la Terre.
