@@ -901,12 +901,11 @@ Burcher
 - Mais chose étonnante, lorsqu’on ramène cette poussière lumaire sur Terre, elle perd complètement son odeur de poudre à canon ! Et personne ne sait vraiment pourquoi. 
 > Hypothèse : c'est probablement dû au fait qu'au contact de l'humidité et de l'oxygène sur Terre, les composés de la poussière lunaire ont réagi chimiquement, ce qui leur a fait perdre leur odeur caractéristique au fil du temps.
 - ***Espace*** : Autre mystère, les astronautes qui ont effectué des sorties dans l’espace, à l’extérieur de l’ISS, on rapporté avoir senti une étrange odeur caractéristique à leur rentrée dans le module. Une odeur tellement originale que certains d’entre eux ne l’ont jamais oublié. On a plein de témoignages de ce type, et autant de descriptions différentes de cette étrange odeur.
-> * Thomas Jones : Surflureux
-> * Peggy Whitson : almost a bitter kind of smell in addition of being smoky and burned
+> * Thomas Jones : Sulfureux
 > * Chris Hadfield : de la poudre à canon et un steak brûlé
 > * Anousheh Ansari : des cookies aux amandes toastés
 > * Alexande Gerst : un mélange entre des noix et les freins de mon vélo.
-> * Reid Wiseman : like damp clothes after a day in the snow
+> * Reid Wiseman : comme des vêtements humides après une journée dans la neige
 - On ne sait pas encore à quoi est due cette odeur, mais Hadfield pense qu’il est possible que çasoit du au vide de l’espace qui aspire certaines des molécules des parois de l’ISS qui se collent à la combinaison ensuite.
 
 ### Comment on détecte les odeurs à distance dans l’espace ?
