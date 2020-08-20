@@ -95,7 +95,7 @@ Sur Terre, la vie piège le carbone organique dans les roches sédimentaires et 
 - Les outils des sciences du système Terre sont l’observation de notre planète par le biais de satellites ainsi que la modélisation du système Terre, qui sont en pratique des simulations informatiques complexes.
 Ces modèles ressemblent à des boîtes connectées entre elles par des flèches qui représentent les différentes interactions.
 > La première visualisation du genre est le diagramme de Bretherton. Dans ce diagramme, les humains sont représentés par une boîte, connectée au reste du système Terre par leurs émissions collectives de polluants et de CO2, ainsi que par leur conversion des terres sauvages en terres agricoles et urbaines.
-- En 1986 est créé l’IGBP, le Programme International pour la Géosphère et la Biosphère, une institution spécifiquement créée dans le but d’étudier les cycles biogéochimiques de la Terre.
+- En 1986 est créé l’IGBP, le [Programme International pour la Géosphère et la Biosphère](http://www.igbp.net/), une institution spécifiquement créée dans le but d’étudier les cycles biogéochimiques de la Terre.
 
 *Diagramme de Bretherton (NASA, 1986)*
 
