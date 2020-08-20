@@ -890,6 +890,10 @@ Burcher
 
 ---
 
+- La quasi-totalité des informations qui nous parviennent de l'univers sont sous forme lumineuses. On les contemple donc avec nos yeux, que ça soit directement ou à travers les prothèses oculaires mécaniques que sont nos télescopes, et qui étendent la portée de notre vue.
+- Mais l'univers peut aussi s'expérimenter d'autre manières ! Après tout, nous avons bien d'autre sens que la vue.
+- Aujourd'hui j'aimerais me concentrer sur un sens que l'on utilise trop peu : l'odorat. En effet, le cosmos regorge d'odeurs diverses et mystérieuses, que personne n'a senti jusqu'à présent. Et si on demande aux rares humains qui ont eu la chance de partir dans l'espace, ces derniers ont fait l'expérience de certaines d'entre elles.
+
 ### Les expériences directes
 
 - ***Lune*** : Lorsque les astronautes des missions Apollo sont partis sur la Lune, ils se sont rapidement retrouvés avec de la poussière lunaire collée sur leur combinaison. Ils avaient beau s'épousseter avant de rentrer dans le module lunaire, y avait toujours de la poussière qui restait collée. On a même une photo où Gene Cernan d'Apollo 17 en a sur le front. Et lorsqu'ils rentraient dans le module, les astronautes ont systématiquement rapporté que leur combinaison avait une odeur particulière : celle de la poudre à canon. 
@@ -910,6 +914,8 @@ Burcher
 
 ### Comment on détecte les odeurs à distance dans l’espace ?
 
+- Et si je vous disais que l'on pouvait convertir la lumière... En odeur ? Bon c'est assez indirect, mais c'est très facile à comprendre.
+
 malheureusement on n'a pas d smelloscope à notre disposition. Mais techniquement, rien ne nous empêcherait d'en créer un ! Et aujourd'hui, pour la première fois de l'Histoire, je vais vous révéler le secret de sa fabrication. Un instrument qui révolutionnera notre 
 - ALMA peut détecter des molécules dans l’espace dans le domaine des ondes millimétriques. Lorsque les molécules de l’espace entrent en collision, elles tournent, vibrent et se tordent. Ces mouvements produisent de la lumière, ou plus précisément des rayonnements électromagnétiques, dans le domaine des infraouges et des micro-ondes. La longueur d’onde diffère selon la molécule. Et si on identifie la molécule par sa signature dans les spectres, on peut connaître l’ideur de ces enndroits.
 
@@ -925,9 +931,4 @@ Le plus proche dont on s'est rapproché d'un smellocope, c'est en étudiant une 
 - ***Jupiter*** : La particularité de cette planète, c'est que son odeur change de couche en couche ! (Bon ne plongez pas dans l’amosphère de Jupiter, vous allez mourir écrasé par la pression) Les couches externes sentent l'urine de chat à cause de l’ammoniac (NH3) abondant. À mesure que l'on s'enfonce dans les profondeurs de la planète, l’odeur d'urine serait mélangé à un délicieux fumet d’oeuf pourri à cause du sulfure d'hydrogène (H2S). Plus profondément encore, nos narines seraient imprégnées d'une odeur d’amande amère à cause du cyanure d'hydrogène. Et ça sentirait aussi l’ail à cause de la présence d'hydrure de phosphore (PH3). Mais ce qui domine la composition atmosphérique de Jupiter ce sont des gaz sans odeur, comme l'hydrogène (H2, 86%), l'hélium (He, 13%) et le méthane (CH4, 0.1%).
 - ***Uranus*** :  La planète au centre de toutes les moqueries du système solaire contient du sulfure d'hydrogène (H2S) dans ses nuages, un composé qui sent l'oeuf pourri et qui est présent... Dans nos flatulences. Voilà. On peut enfin dire, le plus sérieusement du monde, avec la science la plus rigoureuse qui existe : Uranus ne sent pas très bon.
 
-
-### Comment fonctionne l’odorat ? 
-
-- Les molécules dans l’air arrivet dans votre nez et sont absorbées par les membranes muqueuses. Au dessus de nos passages nasau il y a des tissus épithélium olfactifs dont les récepteurs sensoriels sont similaires aux papilles gustatives. Ces cellules sont activées lorsque des molécules les atteignent, et elles transmettent une information au cerveau via les bulbes olfactifs.
-
-- ***Conclusion :*** La plupart des odeurs agréables se trouvent sur Terre.
+***Conclusion :*** La plupart des odeurs agréables se trouvent sur Terre.
