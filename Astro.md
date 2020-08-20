@@ -912,10 +912,7 @@ Burcher
 
 ### Comment on détecte les odeurs à distance dans l’espace ?
 
-- Bon, voilà pour les témoignages directs. Tant qu'on est pas allé sniffer d'autres planètes, on ne peut pas faire grand chose de plus, n'est-ce pas ? 
-Le génial professeur Farnsworth a dévoilé une invention révolutionnaire : le smelloscope.
-- Et si je vous disais que l'on pouvait convertir la lumière... En odeur ? Bon c'est assez indirect, mais c'est très facile à comprendre.
-
+- Bon, voilà pour les témoignages directs. Tant qu'on est pas allé sniffer d'autres planètes, on ne peut pas faire grand chose de plus, n'est-ce pas ? Et bien si. On peut. Il y a quelques années, le génial professeur Farnsworth a dévoilé dans les postes de télé du monde entier une invention révolutionnaire : le smelloscope, une invention qui permet de sentir des odeurs provenant d'objets à grande distance. Ca a l'air d'être un objet de science-fiction comme ça, mais à mon avis, le smelloscope n'est pas un instrument aussi sophistiqué qu'il en a l'air. Et grâce à mes compétences supérieures en rétro-ingéniérie, je vais vous dévoiler son fonctionnement probable. Bon, ça reste entre nous hein. Et si je vous disais que le smelloscope n'est rien de plus qu'un instrument à convertir la lumière d'un astre... En odeurs ? Bon, jusque-là ça semble toujours très futuriste. Mais en pratique, qu'est ce qui nous faudrait pour reproduire l'odeur d'un astre, ou d'une partie d'un astre ? Il nous faudrait simplement sa composition chimique. Mais pour cela, on a déjà des instruments. Et ces instruments, on le appelle des pectromètres.
 malheureusement on n'a pas d smelloscope à notre disposition. Mais techniquement, rien ne nous empêcherait d'en créer un ! Et aujourd'hui, pour la première fois de l'Histoire, je vais vous révéler le secret de sa fabrication. Un instrument qui révolutionnera notre 
 - ALMA peut détecter des molécules dans l’espace dans le domaine des ondes millimétriques. Lorsque les molécules de l’espace entrent en collision, elles tournent, vibrent et se tordent. Ces mouvements produisent de la lumière, ou plus précisément des rayonnements électromagnétiques, dans le domaine des infraouges et des micro-ondes. La longueur d’onde diffère selon la molécule. Et si on identifie la molécule par sa signature dans les spectres, on peut connaître l’ideur de ces enndroits.
 
