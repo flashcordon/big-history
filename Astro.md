@@ -892,18 +892,11 @@ Burcher
 
 ### Les expériences directes
 
-- ***Lune*** : Lorsque les astronautes des missions Apollo sont retournés de la Lune, ils ont rapporté que leur combinaison sentait la poudre à canon. Mais chose étonnante, lorsqu’on ramène cette poussière lumaire sur Terre, elle perd son odeur de poudre à canon ! Et personne ne sait pourquoi. la surface lunaire est composée de cristaux de dioxide de silice (silicon dioxide), et du fer, du calcium et du magnésium. Aucun de ces composés n’est sensé sentir la poudre à canon ! (qui elle est constituée de nitrate de potassium, de carbone et de soufre)
-Every Apollo astronaut did it. They couldn't touch their noses to the lunar surface. But, after every moonwalk (or "EVA"), they would tramp the stuff back inside the lander. Moondust was incredibly clingy, sticking to boots, gloves and other exposed surfaces. No matter how hard they tried to brush their suits before re-entering the cabin, some dust (and sometimes a lot of dust) made its way inside. 
-On a même une photo où Gene Cernan d'Apollo 17 en a sur le front.
- "It is really a strong smell," radioed Apollo 16 pilot Charlie Duke. "It has that taste -- to me, [of] gunpowder -- and the smell of gunpowder, too." On the next mission, Apollo 17, Gene Cernan remarked, "smells like someone just fired a carbine in here."
-
-Schmitt says, "All of the Apollo astronauts were used to handling guns." So when they said 'moondust smells like burnt gunpowder,' they knew what they were talking about.
-Modern smokeless gunpowder is a mixture of nitrocellulose (C6H8(NO2)2O5) and nitroglycerin (C3H5N3O9). These are flammable organic molecules "not found in lunar soil," says Gary Lofgren of the Lunar Sample Laboratory at NASA's Johnson Space Center. Hold a match to moondust--nothing happens, at least, nothing explosive.
-What is moondust made of? Almost half is silicon dioxide glass created by meteoroids hitting the moon. These impacts, which have been going on for billions of years, fuse topsoil into glass and shatter the same into tiny pieces. Moondust is also rich in iron, calcium and magnesium bound up in minerals such as olivine and pyroxene. It's nothing like gunpowder.
-
-So why the smell? No one knows.
-There are hundreds of pounds of moondust at the Lunar Sample Lab in Houston. 
-All of the samples brought back by Apollo astronauts have been in contact with moist, oxygen-rich air. Any smelly chemical reactions (or evaporations) ended long ago.
+- ***Lune*** : Lorsque les astronautes des missions Apollo sont partis sur la Lune, ils se sont rapidement retrouvés avec de la poussière lunaire collée sur leur combinaison. Ils avaient beau s'épousseter avant de rentrer dans le module lunaire, y avait toujours de la poussière qui restait collée. On a même une photo où Gene Cernan d'Apollo 17 en a sur le front. Et lorsqu'ils rentraient dans le module, les astronautes ont systématiquement rapporté que leur combinaison avait une odeur particulière : celle de la poudre à canon. 
+> "It is really a strong smell," radioed Apollo 16 pilot Charlie Duke. "It has that taste -- to me, [of] gunpowder -- and the smell of gunpowder, too." On the next mission, Apollo 17, Gene Cernan remarked, "smells like someone just fired a carbine in here."
+- Problème : la surface lunaire est composée de cristaux de dioxide de silicium (généré par des impacts de météoroides), et du fer, du calcium et du magnésium. Aucun de ces composés n’est sensé sentir la poudre à canon, qui est composée d'un mélange de nitrocellulose (C6H8(NO2)2O5) et de nitroglycérine (C3H5N3O9) ! 
+- Mais chose étonnante, lorsqu’on ramène cette poussière lumaire sur Terre, elle perd complètement son odeur de poudre à canon ! Et personne ne sait vraiment pourquoi. 
+> Hypothèse : c'est probablement dû au fait qu'au contact de l'humidité et de l'oxygène sur Terre, les composés de la poussière lunaire ont réagi chimiquement, ce qui leur a fait perdre leur odeur caractéristique.
 - ***Espace*** : Autre mystère, les astronautes qui ont effectué des sorties dans l’espace, à l’extérieur de l’ISS, on rapporté avoir senti une étrange odeur caractéristique à leur rentrée dans le module. Une odeur tellement originale que certains d’entre eux ne l’ont jamais oublié. On a plein de témoignages de ce type, et autant de descriptions différentes de cette étrange odeur.
 > * Thomas Jones : Surflureux
 > * Peggy Whitson : almost a bitter kind of smell in addition of being smoky and burned
