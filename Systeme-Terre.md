@@ -80,7 +80,7 @@ Thinking this way points to new directions in philosophical and empirical resear
 - le taux de méthane atmosphérique est 10ˆ30 fois plus grand que ce à quoi on pourrait s’attendre sur une planète morte à l’équilibre. Pour maintenir cette co-existence du méthane et de l’oxygène il faut fournir une puissance de 0.7 TW.
 - le taux de CO2 atmosphérique est très bas sur Terre par rapport à Mars et à Vénus. L’atmosphère de ces dernières est dominée par le CO2. Sans la vie, le taux de CO2 serait 10 à 100 fois plus élevé.
 Sur Terre, la vie piège le carbone organique dans les roches sédimentaires et accélère l’altération des silicates. 
-- La fixation du diazote (N2) atmosphérique (gaz composant 80% de la composition atmosphérique) et la séquestration de l’azote dans les roches sédimentaires a aussi diminué la pression atmosphérique de la Terre. Ca diminue l’effet de serre.
+- La fixation du diazote (N2) atmosphérique (gaz composant 79% de la composition atmosphérique) et la séquestration de l’azote dans les roches sédimentaires a aussi diminué la pression atmosphérique de la Terre. Ca diminue l’effet de serre.
 - Les cycles géochimiques du carbone, de l’hydrogène, de l’azote, de l’oxygène, du phosphore et du souffre (CHNOPS) sont altérés par le vivant
 - Une grande partie de la diversité minérale de la Terre est due au vivant, directement ou indirectement via l’oxygène produit par le vivant.
 - On ne sait pas si la Terre aurait pu garder son eau sans l’action du vivant. Certains chercheurs supposent que sans son effet régulateur en terme de température, la Terre serait rapidement entré dans un état d’emballement de l’effet de serre (moist greenhouse)
