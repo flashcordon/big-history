@@ -116,3 +116,7 @@ Gaia trouve un écho particulier auprès des mouvements de contre-culture enviro
 
 Son héritage est complexe. Certains chercheurs l’ont rejeté trop vite, tandis que d’autre l’ont accepté trop rapidement. Gaia est une pièce maitresse dans l’histoire de notre compréhension 
 Faute de la transformer en être vivant, HG a transformé la Terre en système unifié, et dont nous faisons partie intégrante.
+
+## Conclusion
+
+- Est ce que la vie a eu une grande influence sur l'évolution géologique et chimique de la Terre ? Absolument. Est-ce qu'elle a fortement participé à maintenir l'habitabilité de la Terre pendant les derniers milliards d'années ? C'est encore trop tôt pour l'affirmer.
