@@ -21,6 +21,7 @@
 - [Making Evolutionary Sense of Gaia](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30141-7?rss=yes) - Doolittle (2019)
 - [Selection for Gaia across Multiple Scales](https://www.sciencedirect.com/science/article/abs/pii/S0169534718301186) - Lenton et al (2018)
 - [La biosphère, un agent biologique majeur](https://youtu.be/_QvJpGtoplk) - Conférence de Pierre Thomas (2020)
+- [Gaia Versus the Anthropocene: A Conversation with Dorion Sagan](https://lareviewofbooks.org/article/gaia-versus-the-anthropocene-a-conversation-with-dorion-sagan/?mc_cid=88472569fd&mc_eid=c7ac6a0f86) - Los Angeles Review of Books (2020)
 
 ---
 
