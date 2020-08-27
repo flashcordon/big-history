@@ -562,6 +562,7 @@ Un supercontinent : Pangea Ultima
 - [Role of stellar physics in regulating the critical steps for life](https://arxiv.org/abs/1804.02271) - Lingam et Loeb (2018)
 - Death from the skies - Phil Plait
 - [The mysterious age invariance of the planetary nebula luminosity function bright cut-off](https://www.nature.com/articles/s41550-018-0453-9.epdf?referrer_access_token=uxNmZNgyM5DrRYwU1iN4kNRgN0jAjWel9jnR3ZoTv0OzwWt8mLOdVW4Y_YiE39LeELOmC9M6iImivpGtXB0NRRHOgg1K0bNNWkzSX72oQsQKuC4IDt-VcFGG6l68GPSVf5BO2oV5QGWykjAejz6NYsHCkGaQW9lWYI-B2Y0SrS2FKSfEarwaVui9bIJ2wtJOruj1zgkuzYuA1YjSrUmBcMio33ay6THckhf1lqHx0vrTl3NSDOVTKB8LgIEjxHcWG-_KCPJGW7HIB2zAu_Qf2ZwFThM2Dw0-pfVACddZ9i8%3D&tracking_referrer=www.smithsonianmag.com) - Gesicki et al (2018)
+- [Swansong Biospheres: Refuges for life and novel microbial biospheres on terrestrial planets near the end of their habitable lifetimes](https://arxiv.org/abs/1210.5721) - O'Malley-James et al (2012)
 
 ---
 
