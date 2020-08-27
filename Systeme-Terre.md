@@ -22,6 +22,7 @@
 - [Selection for Gaia across Multiple Scales](https://www.sciencedirect.com/science/article/abs/pii/S0169534718301186) - Lenton et al (2018)
 - [La biosphère, un agent biologique majeur](https://youtu.be/_QvJpGtoplk) - Conférence de Pierre Thomas (2020)
 - [Gaia Versus the Anthropocene: A Conversation with Dorion Sagan](https://lareviewofbooks.org/article/gaia-versus-the-anthropocene-a-conversation-with-dorion-sagan/?mc_cid=88472569fd&mc_eid=c7ac6a0f86) - Los Angeles Review of Books (2020)
+- [The GAIA theory: from Lovelock to Margulis. From a homeostatic to a cognitive autopoietic worldview](https://link.springer.com/article/10.1007/s12210-012-0187-z) - Onori et Visconti (2012)
 
 ---
 
