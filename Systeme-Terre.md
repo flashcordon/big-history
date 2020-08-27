@@ -25,6 +25,7 @@
 - [The GAIA theory: from Lovelock to Margulis. From a homeostatic to a cognitive autopoietic worldview](https://link.springer.com/article/10.1007/s12210-012-0187-z) - Onori et Visconti (2012)
 - [Why Gaia?](https://www.jstor.org/stable/10.2979/ethicsenviro.19.2.117?seq=1) - Massimo Pigliucci (2014)
 - [Gaia hypothesis](https://courses.seas.harvard.edu/climate/eli/Courses/EPS281r/Sources/Gaia/Gaia-hypothesis-wikipedia.pdf)
+- [Rethinking Gaia: Stengers, Latour, Margulis](https://journals.sagepub.com/doi/10.1177/0263276416686844) - Clarke (2017)
 
 ---
 
