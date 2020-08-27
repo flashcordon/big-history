@@ -120,7 +120,7 @@ Elle a brisé les barrières discciplinaires et permis la création d’un nouve
 Elle a transformé notre vision de l’environnement, de la nature.
 Elle a permis de mettre en avant les interconnections et les chaînes de causes et d’effets qui lient les différentes parties du système Terre.
 
-## L’impact politique de Gaia
+## L’impact politique et culturel de Gaia
 
 - Le fait que les mouvements environnementalistes et, à une échelle moindre, les mouvements NEw Age, se sont emparé du concept de Gaia de Lovelock a participé à la mauvaise presse de l’hypothèse auprès de la communauté scientifique.
 Gaia trouve un écho particulier auprès des mouvements de contre-culture environnementaliste des années 70. On la trouvera dans les pages du célèbre Whole Earth Catalog de Steward Brand (un manuel pour reconstruire une civilisation from scratch vendu à plusieurs millions d’exemplaires), mais aussi dans la revue Coevolution Quarterly.
