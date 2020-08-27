@@ -24,6 +24,7 @@
 - [Gaia Versus the Anthropocene: A Conversation with Dorion Sagan](https://lareviewofbooks.org/article/gaia-versus-the-anthropocene-a-conversation-with-dorion-sagan/?mc_cid=88472569fd&mc_eid=c7ac6a0f86) - Los Angeles Review of Books (2020)
 - [The GAIA theory: from Lovelock to Margulis. From a homeostatic to a cognitive autopoietic worldview](https://link.springer.com/article/10.1007/s12210-012-0187-z) - Onori et Visconti (2012)
 - [Why Gaia?](https://www.jstor.org/stable/10.2979/ethicsenviro.19.2.117?seq=1) - Massimo Pigliucci (2014)
+- [Gaia hypothesis](https://courses.seas.harvard.edu/climate/eli/Courses/EPS281r/Sources/Gaia/Gaia-hypothesis-wikipedia.pdf)
 
 ---
 
@@ -122,6 +123,7 @@ Elle a permis de mettre en avant les interconnections et les chaînes de causes 
 - Le fait que les mouvements environnementalistes et, à une échelle moindre, les mouvements NEw Age, se sont emparé du concept de Gaia de Lovelock a participé à la mauvaise presse de l’hypothèse auprès de la communauté scientifique.
 Gaia trouve un écho particulier auprès des mouvements de contre-culture environnementaliste des années 70. On la trouvera dans les pages du célèbre Whole Earth Catalog de Steward Brand (un manuel pour reconstruire une civilisation from scratch vendu à plusieurs millions d’exemplaires), mais aussi dans la revue Coevolution Quarterly.
 - Mais paradoxalement, la conception Gaienne du monde a participé à sous-estimer systématiquement les problèmes environnementaux des années 70, notamment les émissions de CFC (détectées par l’instrument inveté... Par Lovelock ! (vérifier))
+- ils ont pris littéralement la proposition de considérer la Terre comme un organisme vivant.
 
 Son héritage est complexe. Certains chercheurs l’ont rejeté trop vite, tandis que d’autre l’ont accepté trop rapidement. Gaia est une pièce maitresse dans l’histoire de notre compréhension 
 Faute de la transformer en être vivant, HG a transformé la Terre en système unifié, et dont nous faisons partie intégrante.
