@@ -23,6 +23,7 @@
 - [La biosphère, un agent biologique majeur](https://youtu.be/_QvJpGtoplk) - Conférence de Pierre Thomas (2020)
 - [Gaia Versus the Anthropocene: A Conversation with Dorion Sagan](https://lareviewofbooks.org/article/gaia-versus-the-anthropocene-a-conversation-with-dorion-sagan/?mc_cid=88472569fd&mc_eid=c7ac6a0f86) - Los Angeles Review of Books (2020)
 - [The GAIA theory: from Lovelock to Margulis. From a homeostatic to a cognitive autopoietic worldview](https://link.springer.com/article/10.1007/s12210-012-0187-z) - Onori et Visconti (2012)
+- [Why Gaia?](https://www.jstor.org/stable/10.2979/ethicsenviro.19.2.117?seq=1) - Massimo Pigliucci (2014)
 
 ---
 
@@ -35,6 +36,11 @@
 - En 1968, la première photo de la Terre vue de l’espace prise par un humain fait le tour du monde. C’est le Lever de Terre. 
 - En 1961, l’ingénieur et chimiste britannique James Lovelock, est recruté par la NASA en tant que consultant scientifique, afin de mettre au point des instruments scientifiques dédiés à l’exploration de la planète Mars (Mariner B?). Celui-ci s’était auparavat distingué pour on ivention du détecteur à électrons.
 > Ce travail l’amène à réflechir aux critères de détection de la vie sur d’autres planètes. L’empreinte de la vie est détectable dans l’atmosphère de la Terre; Celle-ci est maintenue dans un état de déséquilibre chimique : en particulier, le métabolisme des organismes vivants produit de l’oxygène et du méthane en permanence.
+
+James Lovelock was appointed by NASA to investigate the chemical composition and physical characteristics of the atmosphere surrounding Mars, in order to determine the planet’s suitability for life.
+
+Lovelock accepted the assignment, even though he was sure that there was no life on Mars.Footnote4 In fact, in the mid-1960s, even before NASA sent the Mariner probe to observe the desolate surface of the planet from orbit, observations had been carried out from Earth with infrared telescopes, showing that the atmosphere on Mars, as on Venus, was dominated by carbon dioxide and only a small percentage of oxygen and nitrogen. Even more importantly, there was a chemical balance among these gases.Footnote5 The latter is usually considered a typical characteristic of environments in which the chemical–physical balance is not disturbed by elements produced by the metabolism of living beings, but is regulated on the basis of strict chemical–physical stoichiometric reactions leading to optimal equilibrium.
+
 - En parallèle, Lovelock est préoccupé par la pollution de l’environnement par les productions industrielles humaines. Sujet qu’il connaît particulièrement parce qu’il travaille pour lesdits industriels. Mais si des humains peuvent modifier l’environnement en balançant de grandes quantités de produits chimiques, cela veut dire qu’il est possible que la chimie de la Terre soit façonnée à long terme par le vivant !
 Hypothèse élaborée au début des années 70 par James Lovelock et la biologiste Lynn Margulis
 Le premier texte mentionnant l’hypothèse Gaia est publié en 1972 (Gaia as seen, Lovelock 1972)
@@ -45,6 +51,7 @@ Elle stipule que l’ensemble total des êtres vivants qui constituent la biosph
 - Elle cherche à expliquer un fait qui semble surprenant : comment se fait-il que la Terre ait pu maintenir des conditions habitables pendant plus de 3.5 milliards d’années malgré les perturbations qu’elle a connu ? (en particulier l’augmentation de la luminosité solaire)
 - La réponse de Lovelock, c’est que c’est la vie dans sa globalité qui a façonné son environnement pour maintenir des conditions favorables à son existence pendant tout ce temps. Et c’est ça, l’hypothèse Gaia.
 - Lovelock n’est pas le premier à promouvoir une telle idée. Des idées similaires existent dans les textes de James Hutton, le fondateur de la géologie moderne, ou dans les écrits du minéralogiste et chimiste Vladimir Vernadsky du début du 20e siècle, dans l’interprétation de ce dernier du cocept de biosphère (la vie est une force géologique). Vernadsky propose un modèle de la Terre en couches (atmosphère, lithosphère, hydrosphère, biopshère) en interactions les unes avec les autres, qui tendent vers l’autorégulation.
+> John Hutton (1794) glorious eighteenth century worldview that geological homeostasis was achieved by eruptive phenomena originating within the Earth’s interior, as reparation of erosive processes of rocks that would return to the oceans as material weathered from the atmospheric agents and transported there by water runoff. Hutton formulated his hypothesis (obtained during a comfortable boat journey while sailing along the west coast of Wales), by observing that the cliffs appeared to be constructed from vertical stratification of minerals covered by horizontal stratification. 
 - Les processus d’auto-régulation que Lovelock a en tête viennent de son intérêt pour la cybernétique, une science du contrôle des systèmes, vivants ou non-vivants, qui émerge à la fin des années 40. Il compare régulièrement Gaia à un thermostat. (exemple)
 - Dans ses articles et dans ses livres, Lovelock donne pas mal de faits qui pourraient être expliqués par l’hypothèse Gaia.Par exemple, le taux d’oxygène de l’atmopshère est maintenu à 21% sur Terre. S’il était trop haut, la surface de la Terre s’embraserait à la moindre étincelle. Salinité. Température.
 - Son hypothèse est rapidement critiquée par les biologistes de l’évolution de renom, en particulier Richard Dawkins et Ford Dolittle. 
@@ -122,3 +129,4 @@ Faute de la transformer en être vivant, HG a transformé la Terre en système u
 ## Conclusion
 
 - Est ce que la vie a eu une grande influence sur l'évolution géologique et chimique de la Terre ? Absolument. Est-ce qu'elle a fortement participé à maintenir l'habitabilité de la Terre pendant les derniers milliards d'années ? C'est encore trop tôt pour l'affirmer.
+Aspects of the Gaia theory do continue to cause great controversy. This has the benefit that by generating interest and debate it is drawing attention to a new way of viewing and studying the world. Importantly, it causes us to ask different kinds of questions about the Earth.
