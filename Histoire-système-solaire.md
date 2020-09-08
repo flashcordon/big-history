@@ -13,7 +13,7 @@
 - Exploring Mercury: The Iron Planet - Robert Strom (2003)
 - [Exploration de Mercure](https://fr.wikipedia.org/wiki/Exploration_de_Mercure#Missions_achev%C3%A9es,_en_cours_ou_en_d%C3%A9veloppement) - Wikipédia
 - [Exploration of Mercury](https://en.wikipedia.org/wiki/Exploration_of_Mercury) - Wikipedia
-
+- [Most ambitious Mercury mission yet will explore mysteries of innermost planet](https://www.sciencemag.org/news/2018/10/most-ambitious-mercury-mission-yet-will-explore-mysteries-innermost-planet) - Science Magazine (2018)
 ---
 
 - Mercure et la Lune se ressemblent en bien des points
