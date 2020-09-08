@@ -11,6 +11,8 @@
 - [White paper on the case for Landed Mercury Explorationand the Timely Need for a Mission Concept Study](https://www.lpi.usra.edu/NASA-academies-resources/White-Paper-Landed-Mercury-Science.pdf) - (2018)
 - Mercury: the view after MESSENGER - Sean Solomon (2019)
 - Exploring Mercury: The Iron Planet - Robert Strom (2003)
+- [Exploration de Mercure](https://fr.wikipedia.org/wiki/Exploration_de_Mercure#Missions_achev%C3%A9es,_en_cours_ou_en_d%C3%A9veloppement) - Wikipédia
+- [Exploration of Mercury](https://en.wikipedia.org/wiki/Exploration_of_Mercury) - Wikipedia
 
 ---
 
