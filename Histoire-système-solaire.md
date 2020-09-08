@@ -67,7 +67,6 @@
 > images d'archives et animations old school ([la même estampillée NASA STI](https://youtu.be/tOQWkasNuvI))
 - [SYND 30-10-73 FEATURE ON THE LAUNCH OF MARINER 10 PROBE TO MERCURY AND VENUS](https://youtu.be/bX_41NNU0mc) - AP Archive
 > Maquette mise en scène de la sonde Mariner 10
-- []()
 
 # Vénus
 
