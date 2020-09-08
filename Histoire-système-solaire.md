@@ -11,6 +11,7 @@
 - Par contre Mercure n'a pas de vastes plaines de lave comme la Lune
 - Mercure fait à peine plus d'un tiers du diamètre de la Terre
 - C'est la plus proche des planètes du système solaire
+- Entre le lever et le coucher du Soleil, il se passe 88 jours terrestres à la surface de Mercure, durant lesquels le Soleil grossit puis diminue en taille. 
 - Sa surface est difficile à observer depuis la Terre
 - A la fin du 19e siècle, l'astronome italien Giovanni Schiaparelli pensait que Mercure était en rotation synchrone. Mais c'est un peu plus compliqué que ça.
 > Mercure fait 1.5 tour sur elle même par orbite. Sa période de rotation est égale à 2/3 de sa période de révolution. Une journée complète sur Mercure est égale à 2 ans Mercuriens !
@@ -49,6 +50,7 @@
 - [MESSENGER Video Gallery](https://www.nasa.gov/mission_pages/messenger/videos/index.html) - NASA
 - [Images taken by the MESSENGER Mission](https://photojournal.jpl.nasa.gov/mission/MESSENGER) - NASA Photojournal
 - [images from MESSENGER](https://messenger.jhuapl.edu/Explore/Images.html) - JOhn Hopkins APL
+- [Simulations interactives sur la journée mercurienne](https://messenger.jhuapl.edu/Learn/Games-and-Interactives.html#games-and-simulations)
 
 # Vénus
 
