@@ -6,6 +6,8 @@
 - [Exploring Mercury by Spacecraft: The MESSENGER Mission](https://youtu.be/xQ-dm2zHljk) - Conférence de Sean Solomon, Smithsonian National Air and Space Museum
 - [Mercury 101 | National Geographic](https://youtu.be/0KBjnNuhRHs) - National Geographic (animations cools)
 - [Why Does It Take So Long to Get to Mercury?](https://youtu.be/SCPMhVhFNdY) - Sci Show Space
+- [Space Exploration and Humanity: A Historical Encyclopedia](https://books.google.fr/books?id=2ZNxDwAAQBAJ&pg=PA237&lpg=PA237&dq=history+of+mercury+exploration&source=bl&ots=zxiO30PMf6&sig=ACfU3U0473oIIwUwcBswrv-3i_UEcEblqA&hl=fr&sa=X&ved=2ahUKEwjSh4_TntrrAhUKzIUKHSC9CKw4UBDoATAGegQICBAB#v=onepage&q=history%20of%20mercury%20exploration&f=false) - American Astronautical Society
+- [How many spacecraft have been to Mercury?](https://coolcosmos.ipac.caltech.edu/ask/31-How-many-spacecraft-have-been-to-Mercury-) - Cool Cosmos
 
 ---
 
@@ -15,7 +17,9 @@
 - Mercure fait à peine plus d'un tiers du diamètre de la Terre
 - C'est la plus proche des planètes du système solaire
 - Entre le lever et le coucher du Soleil, il se passe 88 jours terrestres à la surface de Mercure, durant lesquels le Soleil grossit puis diminue en taille. 
-- Sa surface est difficile à observer depuis la Terre
+- Sa surface est difficile à observer depuis la Terre, du coup jusque dans les années 60 on savait très peu de choses sur la planète.
+- L'orbite de Mercure précesse, et ça ne peut pas être expliqué par la physique de Newton. C'est l'un des succès de la théorie de la relativité générale d'Einstein d'avoir réussi à expliquer l'orbite de Mercure au début du 20e siècle.
+> On s'en est inquiété au 19e siècle. Certains astronomes cherchaient une planète encore plus proche du Soleil appelée Vulcain pour expliquer la perturbation de l'orbite de Mercure, sans succès.
 - A la fin du 19e siècle, l'astronome italien Giovanni Schiaparelli pensait que Mercure était en rotation synchrone. Mais c'est un peu plus compliqué que ça.
 > Mercure fait 1.5 tour sur elle même par orbite. Sa période de rotation est égale à 2/3 de sa période de révolution. Une journée complète sur Mercure est égale à 2 ans Mercuriens !
 - Sur Mercure, les jours sont brulants et les nuits sont glaciales. C'est dû au fait qu'elle n'a pas d'atmosphère
@@ -24,15 +28,19 @@
 - Mercure possède un coeur dense métallique, constitué essentiellement de fer. Mais contrairement à la Terre, ce coeur est trop froid pour créer un champ magnétique plus puissant que 1% de celui de la Terre.
 > La taille de ce coeur est disproportionnée par rapport à la taille de la planète. Peut être est-ce dû à un impact ancien, comme celui qui a formé la Lune ? Ou bien aux éruptions solaires violentes du jeune Soleil qui ont vaporisé les éléments formant des roches près de l'étoile ?
 - Mercure est si petite que sa chaleur interne a été dissipée depuis bien longtemps
-- Mercure n'a pas de véritable atmosphère, donc on n'y trouve pas d'eau liquide. Par contre des images radar ont montré un point brillant au pôle Nord de la planète, qui est dû à de la glace piégée à jamais dans un cratère dans l'ombre permanente. 
+- Mercure n'a pas de véritable atmosphère, donc on n'y trouve pas d'eau liquide. Par contre des images radar ont montré en 1991 un point brillant au pôle Nord de la planète, qui est dû à de la glace piégée à jamais dans un cratère dans l'ombre permanente. 
 > Cette glace provient surement des collisions occasionnelles avec des comètes qui apportent de la vapeur d'eau régulièrement à la planète.
 - De nombreuses planètes dans l'univers ressemblent probablement à Mercure : sans air, à la surface rocheuse cratérisée, faite de roche ou de glace selon la distance à son étoile
 
 ## Missions vers Mercure
 
+- Il n'y a eu jusqu'à présent que 3 missions vers Mercure.
 - Mariner 10 (1974 et 1975)
+> * a effectué 3 survols rapprochés de Mercure entre 1974 et 1975, et a révélé les premières images rapprochées de la surface au monde entier. Une planète sans atmosphère, à la surface meutrie de cratères.
+> * a potographié 45% de la surface de la planète. Les scientifiques découvrent avec surprise que la planète possède un champ magnétique. Faible, mais existant.
 - MESSENGER (2011)
-> * Décollé en 2004. 7 ans plus tard (en 2011) elle entre dans l'orbite de Mercure
+> * Décollé en Aout 2004. En Janvier 2008 elle fait son premier survol rapproché de la planète (200km). En 2013 elle réalise la première cartographie complète de la surface de Mercure.
+> * MESSENGER a permi de découvrir que Mercure a une histoire de volcanisme et que son intérieur est dominé par son coeur.
 - Bepi Colombo
 
 ## Illustrations
