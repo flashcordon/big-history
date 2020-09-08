@@ -17,6 +17,18 @@
 - Sur Mercure, les jours sont brulants et les nuits sont glaciales. C'est dû au fait qu'elle n'a pas d'atmosphère
 > Les températures de surface sur la face éclairée peuvent excéder les 700K (mais le plus souvent c'est plutôt vers 500K), et sur la face nuit on passe à -170°C.
 - Mercure emprunte régulièrement quelques atomes d'hydrogène et d'hélium en provenance du vent solaire pour se couvrir.
+- Mercure possède un coeur dense métallique, constitué essentiellement de fer. Mais contrairement à la Terre, ce coeur est trop froid pour créer un champ magnétique plus puissant que 1% de celui de la Terre.
+> La taille de ce coeur est disproportionnée par rapport à la taille de la planète. Peut être est-ce dû à un impact ancien, comme celui qui a formé la Lune ? Ou bien aux éruptions solaires violentes du jeune Soleil qui ont vaporisé les éléments formant des roches près de l'étoile ?
+- Mercure est si petite que sa chaleur interne a été dissipée depuis bien longtemps
+- Mercury lacks a true atmosphere, so you would not
+expect flooding by water, but radar images show a bright spot at
+the planet’s north pole that may be caused by ice trapped in
+perpetually shaded crater floors where the temperature never
+exceeds 60 K ( – 350 ° F ) . This may be water from comets that
+occasionally collide with Mercury and deliver bursts of water
+vapor. As you read earlier in this chapter, water deposits of this
+type have been identified at the Moon’s south pole.
+- De nombreuses planètes dans l'univers ressemblent probablement à Mercure : sans air, à la surface rocheuse cratérisée, faite de roche ou de glace selon la distance à son étoile
 
 ## Missions vers Mercure
 
