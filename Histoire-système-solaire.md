@@ -20,14 +20,8 @@
 - Mercure possède un coeur dense métallique, constitué essentiellement de fer. Mais contrairement à la Terre, ce coeur est trop froid pour créer un champ magnétique plus puissant que 1% de celui de la Terre.
 > La taille de ce coeur est disproportionnée par rapport à la taille de la planète. Peut être est-ce dû à un impact ancien, comme celui qui a formé la Lune ? Ou bien aux éruptions solaires violentes du jeune Soleil qui ont vaporisé les éléments formant des roches près de l'étoile ?
 - Mercure est si petite que sa chaleur interne a été dissipée depuis bien longtemps
-- Mercury lacks a true atmosphere, so you would not
-expect flooding by water, but radar images show a bright spot at
-the planet’s north pole that may be caused by ice trapped in
-perpetually shaded crater floors where the temperature never
-exceeds 60 K ( – 350 ° F ) . This may be water from comets that
-occasionally collide with Mercury and deliver bursts of water
-vapor. As you read earlier in this chapter, water deposits of this
-type have been identified at the Moon’s south pole.
+- Mercure n'a pas de véritable atmosphère, donc on n'y trouve pas d'eau liquide. Par contre des images radar ont montré un point brillant au pôle Nord de la planète, qui est dû à de la glace piégée à jamais dans un cratère dans l'ombre permanente. 
+> Cette glace provient surement des collisions occasionnelles avec des comètes qui apportent de la vapeur d'eau régulièrement à la planète.
 - De nombreuses planètes dans l'univers ressemblent probablement à Mercure : sans air, à la surface rocheuse cratérisée, faite de roche ou de glace selon la distance à son étoile
 
 ## Missions vers Mercure
