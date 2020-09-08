@@ -46,6 +46,8 @@
 > Animations HD de la sonde
 - [A Tribute to MESSENGER](https://youtu.be/urTtr14reCU) - MESSENGER Mission
 > Collage de plein d'images de la sonde en low res
+- [MESSENGER Takes First Picture While in Mercury's Orbit](https://youtu.be/57Y7Qm-BoCw) - NASA
+> Simulation 3D du point de vue de MESSENGER lors de son arrivée à Mercure
 - [MESSENGER Image Gallery](https://www.nasa.gov/mission_pages/messenger/multimedia/messenger_gallery.html) - NASA 
 - [MESSENGER Video Gallery](https://www.nasa.gov/mission_pages/messenger/videos/index.html) - NASA
 - [Images taken by the MESSENGER Mission](https://photojournal.jpl.nasa.gov/mission/MESSENGER) - NASA Photojournal
