@@ -3,6 +3,9 @@
 *Sources*
 
 - The solar system - Michael Seeds (2016)
+- [Exploring Mercury by Spacecraft: The MESSENGER Mission](https://youtu.be/xQ-dm2zHljk) - Conférence de Sean Solomon, Smithsonian National Air and Space Museum
+- [Mercury 101 | National Geographic](https://youtu.be/0KBjnNuhRHs) - National Geographic (animations cools)
+- [Why Does It Take So Long to Get to Mercury?](https://youtu.be/SCPMhVhFNdY) - Sci Show Space
 
 ---
 
@@ -30,6 +33,7 @@
 - Mariner 10 (1974 et 1975)
 - MESSENGER (2011)
 > * Décollé en 2004. 7 ans plus tard (en 2011) elle entre dans l'orbite de Mercure
+- Bepi Colombo
 
 ## Illustrations
 
@@ -53,6 +57,17 @@
 - [Images taken by the MESSENGER Mission](https://photojournal.jpl.nasa.gov/mission/MESSENGER) - NASA Photojournal
 - [images from MESSENGER](https://messenger.jhuapl.edu/Explore/Images.html) - JOhn Hopkins APL
 - [Simulations interactives sur la journée mercurienne](https://messenger.jhuapl.edu/Learn/Games-and-Interactives.html#games-and-simulations)
+- [What Did Mariner 10 See During Its Historic Journey To Venus and Mercury? (4K UHD)]() - V101 Science
+> Très belles images historiques en HD
+- [1973: Mariner 10 (NASA)](https://youtu.be/ILyO19Nm-Nc) - International Astronautical Federation
+> Images d'archives et simulations old school de Mercure
+- [The Mariner 10 Mission](https://youtu.be/7zXjwxxyV2I) -  Smithsonian National Air and Space Museum
+> animation années 70 de la trajectoire de Mariner 10
+- [Exploration Of Planet Mercury By Mariner 10 - 1976 - CharlieDeanArchives / Archival Footage](https://youtu.be/hI8NPybpbSE) - Charlie Dean Archives
+> images d'archives et animations old school ([la même estampillée NASA STI](https://youtu.be/tOQWkasNuvI))
+- [SYND 30-10-73 FEATURE ON THE LAUNCH OF MARINER 10 PROBE TO MERCURY AND VENUS](https://youtu.be/bX_41NNU0mc) - AP Archive
+> Maquette mise en scène de la sonde Mariner 10
+- []()
 
 # Vénus
 
