@@ -28,6 +28,7 @@
 - How the Earth works - Michael Wysession (the Great Courses)
 - Rapport de synthèse du GIEC "Changements climatiques" (2014)
 - Something new under the sun : an environmental history of the twentieth century world - John McNeill (2001)
+- [Heat stored in the Earth system: where does the energy go?](https://essd.copernicus.org/articles/12/2013/2020/) -  von Schuckmann et al (2020)
 
 ---
 
@@ -36,6 +37,10 @@
 > Nous sommes devenus une force géologique. Nous affectons les terres, les eaux, l’air, la vie, les roches. Nous altérons aussi de nombreux cycles naturels.
  (CO2, azote), et nous perturbons la stabilité du système Terre
  - John McNeill estimates that by the end of the twentieth century human activities (above all mining and various forms of human-caused erosion) were moving about 42 billion tons of rock and soil every year. This is more than wind (1 billion tons), glaciers (4.3), mountain-building processes (14), and oceanic volcanoes (30) and is exceeded only by the impact of moving water (53 billion tons)
+ 
+ *Où va le surplus de chaleur que nos activités imposent au système Terre ? (Source : von Schuckmann et al (2020))*
+ 
+ ![https://essd.copernicus.org/articles/12/2013/2020/essd-12-2013-2020-f08-thumb.png](energiethermique)
 
 ## Les terres
 
