@@ -8,6 +8,9 @@
 - [Why Does It Take So Long to Get to Mercury?](https://youtu.be/SCPMhVhFNdY) - Sci Show Space
 - [Space Exploration and Humanity: A Historical Encyclopedia](https://books.google.fr/books?id=2ZNxDwAAQBAJ&pg=PA237&lpg=PA237&dq=history+of+mercury+exploration&source=bl&ots=zxiO30PMf6&sig=ACfU3U0473oIIwUwcBswrv-3i_UEcEblqA&hl=fr&sa=X&ved=2ahUKEwjSh4_TntrrAhUKzIUKHSC9CKw4UBDoATAGegQICBAB#v=onepage&q=history%20of%20mercury%20exploration&f=false) - American Astronautical Society
 - [How many spacecraft have been to Mercury?](https://coolcosmos.ipac.caltech.edu/ask/31-How-many-spacecraft-have-been-to-Mercury-) - Cool Cosmos
+- [White paper on the case for Landed Mercury Explorationand the Timely Need for a Mission Concept Study](https://www.lpi.usra.edu/NASA-academies-resources/White-Paper-Landed-Mercury-Science.pdf) - (2018)
+- Mercury: the view after MESSENGER - Sean Solomon (2019)
+- Exploring Mercury: The Iron Planet - Robert Strom (2003)
 
 ---
 
