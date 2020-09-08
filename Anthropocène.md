@@ -40,7 +40,7 @@
  
  *Où va le surplus de chaleur que nos activités imposent au système Terre ? (Source : von Schuckmann et al (2020))*
  
- ![https://essd.copernicus.org/articles/12/2013/2020/essd-12-2013-2020-f08-thumb.png](energiethermique)
+ ![energiethermique](https://essd.copernicus.org/articles/12/2013/2020/essd-12-2013-2020-f08-thumb.png)
 
 ## Les terres
 
