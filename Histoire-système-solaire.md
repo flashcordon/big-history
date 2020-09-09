@@ -17,6 +17,10 @@
 - [Exploration of Mercury](https://en.wikipedia.org/wiki/Exploration_of_Mercury) - Wikipedia
 - [Most ambitious Mercury mission yet will explore mysteries of innermost planet](https://www.sciencemag.org/news/2018/10/most-ambitious-mercury-mission-yet-will-explore-mysteries-innermost-planet) - Science Magazine (2018)
 - [Exploration : Mercury](https://solarsystem.nasa.gov/planets/mercury/exploration/?page=0&per_page=10&order=launch_date+desc%2Ctitle+asc&search=&tags=Mercury&category=33) - NASA Solar System
+- [In depth : Mercury](https://solarsystem.nasa.gov/planets/mercury/in-depth/#orbit_and_rotation) - NASA Solar System
+- [The study of Mercury](http://adsabs.harvard.edu/full/2010IAUS..269..141P) - Prockter et al (2010)
+- [7 Important Dates in Mercury History](https://www.britannica.com/list/7-important-dates-in-mercury-history) - Encyclopaedia Britannica
+
 ---
 
 - Mercure est la plus proche des planètes du Système solaire, et aussi la plus petite.
