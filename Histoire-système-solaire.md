@@ -1,5 +1,7 @@
 # Mercure
 
+- Titre possible : Mercure, monde de fer
+
 *Sources*
 
 - The solar system - Michael Seeds (2016)
@@ -17,7 +19,7 @@
 ---
 
 - Mercure et la Lune se ressemblent en bien des points
-> leur rotation a été altéré par les marées, elles ont une atmosphère négligeable, leur surface est remplie de cratères et de bassins de lave anciennes
+> leur rotation a été altéré par les marées, elles ont une atmosphère négligeable (on parle d'exosphère), leur surface est remplie de cratères et de bassins de lave anciennes
 - Par contre Mercure n'a pas de vastes plaines de lave comme la Lune
 - Mercure fait à peine plus d'un tiers du diamètre de la Terre
 - C'est la plus proche des planètes du système solaire
@@ -27,26 +29,30 @@
 > On s'en est inquiété au 19e siècle. Certains astronomes cherchaient une planète encore plus proche du Soleil appelée Vulcain pour expliquer la perturbation de l'orbite de Mercure, sans succès.
 - A la fin du 19e siècle, l'astronome italien Giovanni Schiaparelli pensait que Mercure était en rotation synchrone. Mais c'est un peu plus compliqué que ça.
 > Mercure fait 1.5 tour sur elle même par orbite. Sa période de rotation est égale à 2/3 de sa période de révolution. Une journée complète sur Mercure est égale à 2 ans Mercuriens !
-- Sur Mercure, les jours sont brulants et les nuits sont glaciales. C'est dû au fait qu'elle n'a pas d'atmosphère
+- Sur Mercure, les jours sont brulants et les nuits sont glaciales. C'est dû au fait qu'elle n'a pas d'atmosphère pour redistribuer la chaleur
 > Les températures de surface sur la face éclairée peuvent excéder les 700K (mais le plus souvent c'est plutôt vers 500K), et sur la face nuit on passe à -170°C.
 - Mercure emprunte régulièrement quelques atomes d'hydrogène et d'hélium en provenance du vent solaire pour se couvrir.
 - Mercure possède un coeur dense métallique, constitué essentiellement de fer. Mais contrairement à la Terre, ce coeur est trop froid pour créer un champ magnétique plus puissant que 1% de celui de la Terre.
-> La taille de ce coeur est disproportionnée par rapport à la taille de la planète. Peut être est-ce dû à un impact ancien, comme celui qui a formé la Lune ? Ou bien aux éruptions solaires violentes du jeune Soleil qui ont vaporisé les éléments formant des roches près de l'étoile ?
+> La taille de ce coeur est disproportionnée par rapport à la taille de la planète (80% du rayon de la planète est rempli par le noyau). Peut être est-ce dû à un impact ancien, comme celui qui a formé la Lune ? Ou bien aux éruptions solaires violentes du jeune Soleil qui ont vaporisé les éléments formant des roches près de l'étoile ?
 - Mercure est si petite que sa chaleur interne a été dissipée depuis bien longtemps
 - Mercure n'a pas de véritable atmosphère, donc on n'y trouve pas d'eau liquide. Par contre des images radar ont montré en 1991 un point brillant au pôle Nord de la planète, qui est dû à de la glace piégée à jamais dans un cratère dans l'ombre permanente. 
 > Cette glace provient surement des collisions occasionnelles avec des comètes qui apportent de la vapeur d'eau régulièrement à la planète.
-- De nombreuses planètes dans l'univers ressemblent probablement à Mercure : sans air, à la surface rocheuse cratérisée, faite de roche ou de glace selon la distance à son étoile
+- Par le passé Mercure était une planète géologiquement active.
+- De nombreuses planètes dans l'univers ressemblent probablement à Mercure : sans air, à la surface rocheuse cratérisée, faite de roche ou de glace selon la distance à son étoile. Donc mieux comprendre Mercure et son histoire nous permet aussi d'en savoir plus sur ces monde lointains.
 
 ## Missions vers Mercure
 
 - Il n'y a eu jusqu'à présent que 3 missions vers Mercure.
-- Mariner 10 (1974 et 1975)
+- ***Mariner 10*** (NASA, 1973 à 1975)
 > * a effectué 3 survols rapprochés de Mercure entre 1974 et 1975, et a révélé les premières images rapprochées de la surface au monde entier. Une planète sans atmosphère, à la surface meutrie de cratères.
-> * a potographié 45% de la surface de la planète. Les scientifiques découvrent avec surprise que la planète possède un champ magnétique. Faible, mais existant.
-- MESSENGER (2011)
+> * a photographié 45% de la surface de la planète. Les scientifiques découvrent avec surprise que la planète possède un champ magnétique. Faible, mais existant.
+- ***MESSENGER*** (NASA, 2011)
+> * MErcury Surface, Space ENvironment, GEochemistry, and Ranging
 > * Décollé en Aout 2004. En Janvier 2008 elle fait son premier survol rapproché de la planète (200km). En 2013 elle réalise la première cartographie complète de la surface de Mercure.
 > * MESSENGER a permi de découvrir que Mercure a une histoire de volcanisme et que son intérieur est dominé par son coeur.
-- Bepi Colombo
+- ***BepiColombo*** (ESA-JAXA, 2018-?)
+> * Arrivera près de Mercure en 2025
+> * Composé de 2 sondes, elle a  pour but de mieux caractériser la surface de la planète, son intérieur et l'interaction entre le vent solaire et son champ magnétique
 
 ## Illustrations
 
