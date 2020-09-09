@@ -16,28 +16,32 @@
 - [Exploration de Mercure](https://fr.wikipedia.org/wiki/Exploration_de_Mercure#Missions_achev%C3%A9es,_en_cours_ou_en_d%C3%A9veloppement) - Wikipédia
 - [Exploration of Mercury](https://en.wikipedia.org/wiki/Exploration_of_Mercury) - Wikipedia
 - [Most ambitious Mercury mission yet will explore mysteries of innermost planet](https://www.sciencemag.org/news/2018/10/most-ambitious-mercury-mission-yet-will-explore-mysteries-innermost-planet) - Science Magazine (2018)
+- [Exploration : Mercury](https://solarsystem.nasa.gov/planets/mercury/exploration/?page=0&per_page=10&order=launch_date+desc%2Ctitle+asc&search=&tags=Mercury&category=33) - NASA Solar System
 ---
 
+- Mercure est la plus proche des planètes du Système solaire, et aussi la plus petite.
 - Mercure et la Lune se ressemblent en bien des points
 > leur rotation a été altéré par les marées, elles ont une atmosphère négligeable (on parle d'exosphère), leur surface est remplie de cratères et de bassins de lave anciennes
 - Par contre Mercure n'a pas de vastes plaines de lave comme la Lune
-- Mercure fait à peine plus d'un tiers du diamètre de la Terre
+- Mercure fait à peine plus d'un tiers du diamètre de la Terre. Elle est à peine plus grosse que notre Lune
 - C'est la plus proche des planètes du système solaire
 - Entre le lever et le coucher du Soleil, il se passe 88 jours terrestres à la surface de Mercure, durant lesquels le Soleil grossit puis diminue en taille. 
-- Sa surface est difficile à observer depuis la Terre, du coup jusque dans les années 60 on savait très peu de choses sur la planète.
+> Le Soleil apparaît 3 fois plus large sur Mercure que sur Terre, et 7 fois plus brillant.
+- Sa surface est difficile à observer depuis la Terre (on peut généralement l'observer lorsqu'elle n'est pas éclipsée par le Soleil, c'est à dire à l'aube ou au crépuscule), du coup jusque dans les années 60 on savait très peu de choses sur la planète.
+- Mais 13 fois par siècle on peut observer un transit de Mercure : la planète passe devant le Soleil. La dernière fois, c'était le 11 Novembre 2019.
 - L'orbite de Mercure précesse, et ça ne peut pas être expliqué par la physique de Newton. C'est l'un des succès de la théorie de la relativité générale d'Einstein d'avoir réussi à expliquer l'orbite de Mercure au début du 20e siècle.
 > On s'en est inquiété au 19e siècle. Certains astronomes cherchaient une planète encore plus proche du Soleil appelée Vulcain pour expliquer la perturbation de l'orbite de Mercure, sans succès.
 - A la fin du 19e siècle, l'astronome italien Giovanni Schiaparelli pensait que Mercure était en rotation synchrone. Mais c'est un peu plus compliqué que ça.
 > Mercure fait 1.5 tour sur elle même par orbite. Sa période de rotation est égale à 2/3 de sa période de révolution. Une journée complète sur Mercure est égale à 2 ans Mercuriens !
 - Sur Mercure, les jours sont brulants et les nuits sont glaciales. C'est dû au fait qu'elle n'a pas d'atmosphère pour redistribuer la chaleur
-> Les températures de surface sur la face éclairée peuvent excéder les 700K (mais le plus souvent c'est plutôt vers 500K), et sur la face nuit on passe à -170°C.
+> Les températures de surface sur la face éclairée peuvent excéder les 430°C (mais le plus souvent c'est plutôt vers 500K), et sur la face nuit on passe à -180°C.
 - Mercure emprunte régulièrement quelques atomes d'hydrogène et d'hélium en provenance du vent solaire pour se couvrir.
 - Mercure possède un coeur dense métallique, constitué essentiellement de fer. Mais contrairement à la Terre, ce coeur est trop froid pour créer un champ magnétique plus puissant que 1% de celui de la Terre.
 > La taille de ce coeur est disproportionnée par rapport à la taille de la planète (80% du rayon de la planète est rempli par le noyau). Peut être est-ce dû à un impact ancien, comme celui qui a formé la Lune ? Ou bien aux éruptions solaires violentes du jeune Soleil qui ont vaporisé les éléments formant des roches près de l'étoile ?
 - Mercure est si petite que sa chaleur interne a été dissipée depuis bien longtemps
-- Mercure n'a pas de véritable atmosphère, donc on n'y trouve pas d'eau liquide. Par contre des images radar ont montré en 1991 un point brillant au pôle Nord de la planète, qui est dû à de la glace piégée à jamais dans un cratère dans l'ombre permanente. 
+- Mercure n'a pas de véritable atmosphère, donc on n'y trouve pas d'eau liquide. Par contre des observations radar depuis la Terre ont montré en 1991 un point brillant au pôle Nord de la planète, qui est dû à de la glace piégée à jamais dans un cratère dans l'ombre permanente. 
 > Cette glace provient surement des collisions occasionnelles avec des comètes qui apportent de la vapeur d'eau régulièrement à la planète.
-- Par le passé Mercure était une planète géologiquement active.
+- Par le passé Mercure était une planète géologiquement active, en témoignent la distribution des bassins de lave (basins).
 - De nombreuses planètes dans l'univers ressemblent probablement à Mercure : sans air, à la surface rocheuse cratérisée, faite de roche ou de glace selon la distance à son étoile. Donc mieux comprendre Mercure et son histoire nous permet aussi d'en savoir plus sur ces monde lointains.
 
 ## Missions vers Mercure
@@ -46,9 +50,10 @@
 - ***Mariner 10*** (NASA, 1973 à 1975)
 > * a effectué 3 survols rapprochés de Mercure entre 1974 et 1975, et a révélé les premières images rapprochées de la surface au monde entier. Une planète sans atmosphère, à la surface meutrie de cratères.
 > * a photographié 45% de la surface de la planète. Les scientifiques découvrent avec surprise que la planète possède un champ magnétique. Faible, mais existant.
-- ***MESSENGER*** (NASA, 2011)
+- ***MESSENGER*** (NASA, 2004-2015)
 > * MErcury Surface, Space ENvironment, GEochemistry, and Ranging
 > * Décollé en Aout 2004. En Janvier 2008 elle fait son premier survol rapproché de la planète (200km). En 2013 elle réalise la première cartographie complète de la surface de Mercure.
+> * Elle a orbité la planète pendant 4 ans et a fini par se crasher dessus délibérément en 2015.
 > * MESSENGER a permi de découvrir que Mercure a une histoire de volcanisme et que son intérieur est dominé par son coeur.
 - ***BepiColombo*** (ESA-JAXA, 2018-?)
 > * Arrivera près de Mercure en 2025
@@ -86,6 +91,7 @@
 > images d'archives et animations old school ([la même estampillée NASA STI](https://youtu.be/tOQWkasNuvI))
 - [SYND 30-10-73 FEATURE ON THE LAUNCH OF MARINER 10 PROBE TO MERCURY AND VENUS](https://youtu.be/bX_41NNU0mc) - AP Archive
 > Maquette mise en scène de la sonde Mariner 10
+- [Mercury Transit 2019 - 4K](https://youtu.be/0yNzSwlnQ2Q) - NASA Goddard
 
 # Vénus
 
