@@ -57,8 +57,13 @@
 
 ## Missions vers Mercure
 
+- Dans les années 60, on se dit que pour atteindre Mercure, on peut utiliser Vénus comme fronde gravitationnelle, si on gère bien le timing de lancement.
 - Il n'y a eu jusqu'à présent que 3 missions vers Mercure.
 - ***Mariner 10*** (NASA, 1973 à 1975)
+> * Sonde de 533 kg, avec 78 kg d'instruments scientifiques, une couverture thermique pour éviter les dommages dûs au Soleil
+> * 7 expériences scientifiques à bord ()
+> * Lancé le 2 Novembre 1973 depuis Cape Kennedy en Floride
+> * Le 24 Mars 1974, les premières images floues de la surface de Mercure sont envoyées à la Terre. Plus le vaisseau se rapproch de la planète, plus les détails émergent. On découvre un monde cratérisé, des falaises de 3km de haut et de 500km de long, les cicatrices d'une planète qui se comprime sur elle-même.
 > * a effectué 3 survols rapprochés de Mercure entre 1974 et 1975, et a révélé les premières images rapprochées de la surface au monde entier. Une planète sans atmosphère, à la surface meutrie de cratères.
 > * a photographié 45% de la surface de la planète. Les scientifiques découvrent avec surprise que la planète possède un champ magnétique. Faible, mais existant.
 - ***MESSENGER*** (NASA, 2004-2015)
