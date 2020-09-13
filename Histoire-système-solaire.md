@@ -50,7 +50,7 @@
 - Mercure possède un coeur dense métallique, constitué essentiellement de fer. Mais contrairement à la Terre, ce coeur est trop froid pour créer un champ magnétique plus puissant que 1% de celui de la Terre.
 > La taille de ce coeur est disproportionnée par rapport à la taille de la planète (80% du rayon de la planète est rempli par le noyau). Peut être est-ce dû à un impact ancien, comme celui qui a formé la Lune ? Ou bien aux éruptions solaires violentes du jeune Soleil qui ont vaporisé les éléments formant des roches près de l'étoile ?
 - Mercure est si petite que sa chaleur interne a été dissipée depuis bien longtemps
-- Mercure n'a pas de véritable atmosphère, donc on n'y trouve pas d'eau liquide. Par contre des observations radar depuis la Terre ont montré en 1991 un point brillant au pôle Nord de la planète, qui est dû à de la glace piégée à jamais dans un cratère dans l'ombre permanente. 
+- Mercure n'a pas de véritable atmosphère, donc on n'y trouve pas d'eau liquide. Par contre des observations radar depuis la Terre ont montré en 1991 un point brillant et réfléchissant au pôle Nord de la planète (non photographié par Mariner 10), qui est dû à de la glace piégée à jamais dans un cratère dans l'ombre permanente. 
 > Cette glace provient surement des collisions occasionnelles avec des comètes qui apportent de la vapeur d'eau régulièrement à la planète.
 - Par le passé Mercure était une planète géologiquement active, en témoignent la distribution des bassins de lave (basins).
 - De nombreuses planètes dans l'univers ressemblent probablement à Mercure : sans air, à la surface rocheuse cratérisée, faite de roche ou de glace selon la distance à son étoile. Donc mieux comprendre Mercure et son histoire nous permet aussi d'en savoir plus sur ces monde lointains.
@@ -66,11 +66,14 @@
 > * Le 24 Mars 1974, les premières images floues de la surface de Mercure sont envoyées à la Terre. Plus le vaisseau se rapproch de la planète, plus les détails émergent. On découvre un monde cratérisé, des falaises de 3km de haut et de 500km de long, les cicatrices d'une planète qui se comprime sur elle-même.
 > * a effectué 3 survols rapprochés de Mercure entre 1974 et 1975, et a révélé les premières images rapprochées de la surface au monde entier. Une planète sans atmosphère, à la surface meutrie de cratères.
 > * a photographié 45% de la surface de la planète. Les scientifiques découvrent avec surprise que la planète possède un champ magnétique. Faible, mais existant.
+> * 10 jours après sont 3e passage auprès de Mercure, les réservoirs d'azote de la sonde sont vides.
 - ***MESSENGER*** (NASA, 2004-2015)
+> * Proposée en 1996, sélectionnée en 1999
 > * MErcury Surface, Space ENvironment, GEochemistry, and Ranging
-> * Décollé en Aout 2004. En Janvier 2008 elle fait son premier survol rapproché de la planète (200km). En 2013 elle réalise la première cartographie complète de la surface de Mercure.
+> * Décollé le 3 Aout 2004 depuis Cap Canaveral. En Janvier 2008 elle fait son premier survol rapproché de la planète (200km). En 2013 elle réalise la première cartographie complète de la surface de Mercure.
 > * Elle a orbité la planète pendant 4 ans et a fini par se crasher dessus délibérément en 2015.
 > * MESSENGER a permi de découvrir que Mercure a une histoire de volcanisme et que son intérieur est dominé par son coeur.
+> * Avant MESSENGER? ça faisait 30 ans qu'on se demandait si les plaines de Mercure étaient dues à du volcanisme ou à des éjectats d'impacts. Mais les images de MESSENGER ont permis de lever le doute : c'est bien le résultat d'un volcanisme ancien.
 - ***BepiColombo*** (ESA-JAXA, 2018-?)
 > * Arrivera près de Mercure en 2025
 > * Composé de 2 sondes, elle a  pour but de mieux caractériser la surface de la planète, son intérieur et l'interaction entre le vent solaire et son champ magnétique
