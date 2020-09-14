@@ -75,8 +75,12 @@
 > * MESSENGER a permi de découvrir que Mercure a une histoire de volcanisme et que son intérieur est dominé par son coeur.
 > * Avant MESSENGER? ça faisait 30 ans qu'on se demandait si les plaines de Mercure étaient dues à du volcanisme ou à des éjectats d'impacts. Mais les images de MESSENGER ont permis de lever le doute : c'est bien le résultat d'un volcanisme ancien.
 - ***BepiColombo*** (ESA-JAXA, 2018-?)
+> * Mission franco-japonaise
+> * Lancée en Octobre 2018
 > * Arrivera près de Mercure en 2025
 > * Composé de 2 sondes, elle a  pour but de mieux caractériser la surface de la planète, son intérieur et l'interaction entre le vent solaire et son champ magnétique
+> * Il y a de grosses difficultés à designer une sonde qui peut résister pendant longtemps à des températures de 400°C et des taux de radiations 10 fois plus élevés que sur Terre.
+
 
 ## Illustrations
 
