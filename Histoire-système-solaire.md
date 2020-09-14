@@ -74,13 +74,16 @@
 > * Elle a orbité la planète pendant 4 ans et a fini par se crasher dessus délibérément en 2015.
 > * MESSENGER a permi de découvrir que Mercure a une histoire de volcanisme et que son intérieur est dominé par son coeur.
 > * Avant MESSENGER? ça faisait 30 ans qu'on se demandait si les plaines de Mercure étaient dues à du volcanisme ou à des éjectats d'impacts. Mais les images de MESSENGER ont permis de lever le doute : c'est bien le résultat d'un volcanisme ancien.
+> * MESSENGER a ausi permi de découvrir que la surface de Mercure était remplie de volatiles (chlore, soufre, potassium, sodium), qui auraient dû être soufflés dans les régions externes du système solaire lors de l'adolescence du Soleil. L'étude de ces volatiles permettra donc d'affiner nos modèles d'évolution du système solaire. Une hypothèse est que Mercure se serait formée initialement plus loin que maintenant (plus loin que Mars !), et aurait ensuite migré vers sa position actuelle.
 - ***BepiColombo*** (ESA-JAXA, 2018-?)
 > * Mission franco-japonaise
 > * Lancée en Octobre 2018
-> * Arrivera près de Mercure en 2025
+> * Arrivera près de Mercure en 2025, aprè un voyage de 7 ans. Entre temps, elle passera une fois près de la Terre, 2 fois près de Vénus et 6 fois près de Mercure avant de se stabiliser sur son orbite.
 > * Composé de 2 sondes, elle a  pour but de mieux caractériser la surface de la planète, son intérieur et l'interaction entre le vent solaire et son champ magnétique
+> * L'orbiteur de l'ESA embarque 11 instruments scientifiques pour étudier la planète en détail, tandis qu'une autre sonde japonaise plus petite sera focalisée sur la magnétosphère de Mercure à l'aide de ses 5 instruments scientifiques 
 > * Il y a de grosses difficultés à designer une sonde qui peut résister pendant longtemps à des températures de 400°C et des taux de radiations 10 fois plus élevés que sur Terre.
-
+> * BepiColombo va cartographier en détail les volatiles de Mercure à l'aide de son spectro-imageur.
+> * L'étude détaillée de la magnétosphère de Mercure peut nous éclairer sur l'habitabilité des mondes extrasolaires à proximité des naines rouges, où les vents solaires et les taux de radiations sont très élevés.
 
 ## Illustrations
 
