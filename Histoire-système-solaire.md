@@ -123,6 +123,16 @@
 
 # Vénus
 
+*Sources*
+
+- [Astrobiology and Venus Exploration](http://funkyscience.net/wp-content/uploads/2016/11/AGU-Book_Grinspoon_Chapter.pdf) - Grinspoon et Bullock (2016)
+- [Thread de Chris Lintott sur la découverte de phosphine sur Vénus](https://twitter.com/chrislintott/status/1305521729662529536) - 2020
+- [Phosphine gas in the cloud decks of Venus](https://www.nature.com/articles/s41550-020-1174-4) - Greaves et al (2020)
+
+---
+
+
+
 ## Illustrations
 
 - [Tweet de Landru79 avec un timelapse des nuages de Vénus par  AKATSUKI](https://twitter.com/landru79/status/1238226872854601728)
