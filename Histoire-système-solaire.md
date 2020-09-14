@@ -33,6 +33,7 @@
 - Mercure est la plus proche des planètes du Système solaire, et aussi la plus petite.
 - Mercure et la Lune se ressemblent en bien des points
 > leur rotation a été altéré par les marées, elles ont une atmosphère négligeable (on parle d'exosphère), leur surface est remplie de cratères et de bassins de lave anciennes
+- L'exosphère de Mercure est constituée d'oxygène, de sodium, de potassium, d'hydroène et d'hélium, qui sont éjectés de la surface par les vents solaires.
 - Par contre Mercure n'a pas de vastes plaines de lave comme la Lune
 - Mercure fait à peine plus d'un tiers du diamètre de la Terre. Elle est à peine plus grosse que notre Lune
 - C'est la plus proche des planètes du système solaire
@@ -48,7 +49,8 @@
 > Les températures de surface sur la face éclairée peuvent excéder les 430°C (mais le plus souvent c'est plutôt vers 500K), et sur la face nuit on passe à -180°C.
 - Mercure emprunte régulièrement quelques atomes d'hydrogène et d'hélium en provenance du vent solaire pour se couvrir.
 - Mercure possède un coeur dense métallique, constitué essentiellement de fer. Mais contrairement à la Terre, ce coeur est trop froid pour créer un champ magnétique plus puissant que 1% de celui de la Terre.
-> La taille de ce coeur est disproportionnée par rapport à la taille de la planète (80% du rayon de la planète est rempli par le noyau). Peut être est-ce dû à un impact ancien, comme celui qui a formé la Lune ? Ou bien aux éruptions solaires violentes du jeune Soleil qui ont vaporisé les éléments formant des roches près de l'étoile ?
+> * La taille de ce coeur est disproportionnée par rapport à la taille de la planète (80% du rayon de la planète est rempli par le noyau). Peut être est-ce dû à un impact ancien, comme celui qui a formé la Lune ? Ou bien aux éruptions solaires violentes du jeune Soleil qui ont vaporisé les éléments formant des roches près de l'étoile ?
+> * Le coeur surdimensionné de la planète fait que Mercure rapetisse au fil du refroidissement de celui-ci ! Depuis sa formation, le rayon de Mercure est plus petit de 7 km.
 - Mercure est si petite que sa chaleur interne a été dissipée depuis bien longtemps
 - Mercure n'a pas de véritable atmosphère, donc on n'y trouve pas d'eau liquide. Par contre des observations radar depuis la Terre ont montré en 1991 un point brillant et réfléchissant au pôle Nord de la planète (non photographié par Mariner 10), qui est dû à de la glace piégée à jamais dans un cratère dans l'ombre permanente. 
 > Cette glace provient surement des collisions occasionnelles avec des comètes qui apportent de la vapeur d'eau régulièrement à la planète.
