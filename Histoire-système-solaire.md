@@ -33,6 +33,7 @@
 - Mercure est la plus proche des planètes du Système solaire, et aussi la plus petite.
 - Mercure et la Lune se ressemblent en bien des points
 > leur rotation a été altéré par les marées, elles ont une atmosphère négligeable (on parle d'exosphère), leur surface est remplie de cratères et de bassins de lave anciennes
+- Mercure se trouve à 60 millions de km du Soleil.
 - L'exosphère de Mercure est constituée d'oxygène, de sodium, de potassium, d'hydroène et d'hélium, qui sont éjectés de la surface par les vents solaires.
 - Par contre Mercure n'a pas de vastes plaines de lave comme la Lune
 - Mercure fait à peine plus d'un tiers du diamètre de la Terre. Elle est à peine plus grosse que notre Lune
@@ -60,7 +61,7 @@
 ## Missions vers Mercure
 
 - Dans les années 60, on se dit que pour atteindre Mercure, on peut utiliser Vénus comme fronde gravitationnelle, si on gère bien le timing de lancement.
-- Il n'y a eu jusqu'à présent que 3 missions vers Mercure.
+- Il n'y a eu jusqu'à présent que 3 missions vers Mercure. C4est l'une des planètes les moins explorées du système solaire.
 - ***Mariner 10*** (NASA, 1973 à 1975)
 > * Sonde de 533 kg, avec 78 kg d'instruments scientifiques, une couverture thermique pour éviter les dommages dûs au Soleil
 > * 7 expériences scientifiques à bord ()
@@ -81,6 +82,7 @@
 > * Mission franco-japonaise
 > * Lancée en Octobre 2018
 > * Arrivera près de Mercure en 2025, aprè un voyage de 7 ans. Entre temps, elle passera une fois près de la Terre, 2 fois près de Vénus et 6 fois près de Mercure avant de se stabiliser sur son orbite.
+> * Elle devrat faire pas moins de 6 flybys de la planète avant de se stabiliser sur son orbite.
 > * Composé de 2 sondes, elle a  pour but de mieux caractériser la surface de la planète, son intérieur et l'interaction entre le vent solaire et son champ magnétique
 > * L'orbiteur de l'ESA embarque 11 instruments scientifiques pour étudier la planète en détail, tandis qu'une autre sonde japonaise plus petite sera focalisée sur la magnétosphère de Mercure à l'aide de ses 5 instruments scientifiques 
 > * Il y a de grosses difficultés à designer une sonde qui peut résister pendant longtemps à des températures de 400°C et des taux de radiations 10 fois plus élevés que sur Terre.
