@@ -912,7 +912,7 @@ cf [Maslin 2016](https://www.nature.com/articles/540208a#f1)
 
 *Sources*
 
-- [An astronomically dated record of Earth’s climate and its predictability over the last 66 million years](https://science.sciencemag.org/content/369/6509/1383?utm_campaign=toc_sci-mag_2020-09-10&et_rid=35343971&et_cid=3477516&fbclid=IwAR3hiHo7raynFTh_UovoxC8NTffobasZVZPhdDKU4e26hfkwvv0Z9thYjzg)
+- [An astronomically dated record of Earth’s climate and its predictability over the last 66 million years](https://science.sciencemag.org/content/369/6509/1383?utm_campaign=toc_sci-mag_2020-09-10&et_rid=35343971&et_cid=3477516&fbclid=IwAR3hiHo7raynFTh_UovoxC8NTffobasZVZPhdDKU4e26hfkwvv0Z9thYjzg) - Westerhold et al (2020)
 
 ---
 
@@ -925,6 +925,10 @@ cf [Maslin 2016](https://www.nature.com/articles/540208a#f1)
 *Evolution de la température de la Terre lors des 5 derniers millions d'années ([Lisiecki et Raymo 2005](http://lorraine-lisiecki.com/LisieckiRaymo2005.pdf))*
 
 ![6myrsT](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Five_Myr_Climate_Change.svg/1920px-Five_Myr_Climate_Change.svg.png)
+
+*Evolution de la température de la Terre lors des 66 derniers millions d'années ([Westerhold et al 2020])*
+
+![Westerhold2020](https://i.imgur.com/1XmvORl.jpg)
 
 *Changements de températures lors des derniers 800kyrs mesurés dans les carottes glaciaires du projet EPICA (Antarctique) (Jouzel et al 2007)*
 > Attention ces données sont locales !
