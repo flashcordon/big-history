@@ -910,6 +910,12 @@ cf [Maslin 2016](https://www.nature.com/articles/540208a#f1)
 
 ## Reconstruire les températures du passé
 
+*Sources*
+
+- [An astronomically dated record of Earth’s climate and its predictability over the last 66 million years](https://science.sciencemag.org/content/369/6509/1383?utm_campaign=toc_sci-mag_2020-09-10&et_rid=35343971&et_cid=3477516&fbclid=IwAR3hiHo7raynFTh_UovoxC8NTffobasZVZPhdDKU4e26hfkwvv0Z9thYjzg)
+
+---
+
 - Aujourd'hui, on peut reconstruire les températures du passé en étudiant les rapports isotopiques (oxygène 18) des foraminifères (petits coquillages)
 
 *Evolution de la température de la Terre au cours des 540 derniers millions d'années* (Critique du graphique [ici](http://www.realclimate.org/index.php/archives/2014/03/can-we-make-better-graphs-of-global-temperature-history/))
