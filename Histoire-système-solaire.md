@@ -130,11 +130,14 @@
 - [Astrobiology and Venus Exploration](http://funkyscience.net/wp-content/uploads/2016/11/AGU-Book_Grinspoon_Chapter.pdf) - Grinspoon et Bullock (2016)
 - [Thread de Chris Lintott sur la découverte de phosphine sur Vénus](https://twitter.com/chrislintott/status/1305521729662529536) - 2020
 - [Phosphine gas in the cloud decks of Venus](https://www.nature.com/articles/s41550-020-1174-4) - Greaves et al (2020)
-- [Life in the Clouds of Venus?](https://www.nature.com/articles/2151259a0) - Morowotz et Sagan (1967)
+- [Life in the Clouds of Venus?](https://www.nature.com/articles/2151259a0) - Morowitz et Sagan (1967)
 
 ---
 
+### De la vie sur Vénus ?
 
+- En 1967, dans un article spéculatif, Harold Morowitz et Carl Sagan émettent l'hypothèse que les nuages de Vénus pourraient potentiellement abriter de la vie. En effet, ceux-ci contiennent des concentrations abondantes d'eau, de dioxyde de carbone et de lumière du Soleil, qui sont les éléments nécessaires à la photosynthèse.
+- Au dessus des nuages, on trouve des cristaux de glace d'eau (température : 210K), et il est possible que l'on trouve des goutelette d'eau liquide vers la base de la couverture nuageuse (température : 260-280K).
 
 ## Illustrations
 
