@@ -132,8 +132,13 @@
 - [Phosphine gas in the cloud decks of Venus](https://www.nature.com/articles/s41550-020-1174-4) - Greaves et al (2020)
 - [Life in the Clouds of Venus?](https://www.nature.com/articles/2151259a0) - Morowitz et Sagan (1967)
 - [Vénus : La Nasa envisage une mission pour rechercher la vie dans ses nuages en 2027](https://www.futura-sciences.com/sciences/actualites/nasa-venus-nasa-envisage-mission-rechercher-vie-nuages-2027-58308/?utm_content=bufferf3531&utm_medium=social&utm_source=facebook.com&utm_campaign=futura&fbclid=IwAR1z0wAkP7kGHLPTX2ELqwG6iaGHPU9nP7bM1eeyRFMYfRuhBgHkHxOeCAg) - Futura Science (2020)
+- [Reassessing the Possibility of Life on Venus: Proposal for an Astrobiology Mission](https://www.liebertpub.com/doi/10.1089/15311070260192264) - Schulze-Makuch et al (2004)
 
 ---
+
+- Comprendre pourquoi et comment Vénus et la Terre ont eu des destins divergents est crucial pour comprendre l'évolution de notre planète et de l'habitabilité des systèmes stellaires en général.
+- La couverture nuageuse est probablement maintenue par un volcanisme actif
+
 
 ### De la vie sur Vénus ?
 
@@ -142,7 +147,10 @@
 - La dense couverture nuageuse protégerait le bas des nuages des rayonnements UV du Soleil
 - Morowitz et Sagan imaginaient des créatures en forme de ballons remplis d'hydrogène de la taille d'une balle de ping pong flottant dans l'atmopshère vénusienne comme des montgolfières, juste en dessous de la couverture nuageuse, ou bien à la base des nuages
 - Selon les 2 chercheurs, les nuages de Vénus représentent l'environnement extraterrestre le plus proche des conditions terrestres que l'on connaisse actuellement.
+- Dans son passé, Vénus a très probablement eu des océans d'eau liquide à sa surface (mais très acides). Mais on ne sait pas encore pendant combien de temps.
 - L'idée est que si la surface de Vénus a été habitable par le passé, et à mesure que la surface de Vénus s'est réchauffée et est devenue inhabitable, la vie a émigré et perduré dans les couches nuageuses de la planète.
+- En 2004, l'hypothèse de la vie vénusienne a été remise au goût du jour par Schulze-Makuch et ses collaborateurs, qui proposait de la vie basée sur le soufre pour expliquer ??
+- Aujourd'hui, l'hypothèse de la vie sur Vénus est crédible, et considérée sérieuse par de nombreux exobiologistes. Mais elle reste encore à confirmer ou à infirmer par de futures observations et missions in situ.
 
 
 ## Illustrations
