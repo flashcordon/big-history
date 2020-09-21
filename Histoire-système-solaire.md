@@ -131,6 +131,7 @@
 - [Thread de Chris Lintott sur la découverte de phosphine sur Vénus](https://twitter.com/chrislintott/status/1305521729662529536) - 2020
 - [Phosphine gas in the cloud decks of Venus](https://www.nature.com/articles/s41550-020-1174-4) - Greaves et al (2020)
 - [Life in the Clouds of Venus?](https://www.nature.com/articles/2151259a0) - Morowitz et Sagan (1967)
+- [Vénus : La Nasa envisage une mission pour rechercher la vie dans ses nuages en 2027](https://www.futura-sciences.com/sciences/actualites/nasa-venus-nasa-envisage-mission-rechercher-vie-nuages-2027-58308/?utm_content=bufferf3531&utm_medium=social&utm_source=facebook.com&utm_campaign=futura&fbclid=IwAR1z0wAkP7kGHLPTX2ELqwG6iaGHPU9nP7bM1eeyRFMYfRuhBgHkHxOeCAg) - Futura Science (2020)
 
 ---
 
