@@ -136,8 +136,13 @@
 
 ### De la vie sur Vénus ?
 
-- En 1967, dans un article spéculatif, Harold Morowitz et Carl Sagan émettent l'hypothèse que les nuages de Vénus pourraient potentiellement abriter de la vie. En effet, ceux-ci contiennent des concentrations abondantes d'eau, de dioxyde de carbone et de lumière du Soleil, qui sont les éléments nécessaires à la photosynthèse.
-- Au dessus des nuages, on trouve des cristaux de glace d'eau (température : 210K), et il est possible que l'on trouve des goutelette d'eau liquide vers la base de la couverture nuageuse (température : 260-280K).
+- En 1967, dans un court article spéculatif, Harold Morowitz et Carl Sagan émettent l'hypothèse que les nuages de Vénus pourraient potentiellement abriter de la vie. En effet, ceux-ci contiennent des concentrations abondantes d'eau, de dioxyde de carbone et de lumière du Soleil, qui sont les éléments nécessaires à la photosynthèse.
+- Au dessus des nuages, on trouve des cristaux de glace d'eau (température : 210K), et il est possible que l'on trouve des goutelette d'eau liquide vers la base de la couverture nuageuse (température : 260-280K, pression : 1 atmosphère).
+- La dense couverture nuageuse protégerait le bas des nuages des rayonnements UV du Soleil
+- Morowitz et Sagan imaginaient des créatures en forme de ballons remplis d'hydrogène de la taille d'une balle de ping pong flottant dans l'atmopshère vénusienne comme des montgolfières, juste en dessous de la couverture nuageuse, ou bien à la base des nuages
+- Selon les 2 chercheurs, les nuages de Vénus représentent l'environnement extraterrestre le plus proche des conditions terrestres que l'on connaisse actuellement.
+- L'idée est que si la surface de Vénus a été habitable par le passé, et à mesure que la surface de Vénus s'est réchauffée et est devenue inhabitable, la vie a émigré et perduré dans les couches nuageuses de la planète.
+
 
 ## Illustrations
 
