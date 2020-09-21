@@ -136,6 +136,8 @@
 
 # Vénus
 
+- Titre possible : Vénus : la vie en enfer
+
 *Sources*
 
 - [Astrobiology and Venus Exploration](http://funkyscience.net/wp-content/uploads/2016/11/AGU-Book_Grinspoon_Chapter.pdf) - Grinspoon et Bullock (2016)
@@ -165,6 +167,7 @@
 - En 2004, l'hypothèse de la vie vénusienne a été remise au goût du jour par Schulze-Makuch et ses collaborateurs, qui proposait de la vie basée sur le soufre pour expliquer ??
 - Aujourd'hui, l'hypothèse de la vie sur Vénus est crédible, et considérée sérieuse par de nombreux exobiologistes. Mais elle reste encore à confirmer ou à infirmer par de futures observations et missions in situ.
 
+## Missions vers Mercure
 
 ## Illustrations
 
