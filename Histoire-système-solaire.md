@@ -180,8 +180,9 @@
 ## Illustrations
 
 - [Tweet de Landru79 avec un timelapse des nuages de Vénus par  AKATSUKI](https://twitter.com/landru79/status/1238226872854601728)
-- [NSSDCA Photo Gallery
-Venus](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-venus.html) - NASA
+- [NSSDCA Photo Gallery Venus](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-venus.html) - NASA
+- [Venus Galleries](https://solarsystem.nasa.gov/planets/venus/galleries/?page=0&per_page=25&order=created_at+desc&search=&href_query_params=category%3Dplanets_venus&button_class=big_more_button&tags=venus&condition_1=1%3Ais_in_resource_list&category=51) - NASA Solar System Exploration
+- [Images of Venus](https://photojournal.jpl.nasa.gov/targetFamily/venus) - NASA JPL
 
 # Terre
 
