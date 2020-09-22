@@ -157,7 +157,8 @@
 - On sait que Vénus possède une atmosphère depuis 1761, lorsque Mikhail Lomonosov observe un transit de Vénus à l'observatoire de St Pétersbourg
 > Depuis cette époque, et jusqu'à l'époque de l'exploration du système solaire, Vénus était vu comme un candidat privilégié pour l'existence de vie ailleurs que sur Terre. On pensait même que les nuages de Vénus étaient gorgés d'eau
 - Mais cet optimisme a été malmené par les premières observations en ondes radio de Vénus, dans les années 50 (1956), qui démontraient que la température de surface de Vénus était bien plus grande que sur Terre.
-- En 1967, dans un court article spéculatif, Harold Morowitz et Carl Sagan émettent l'hypothèse que les nuages de Vénus pourraient potentiellement abriter de la vie. En effet, ceux-ci contiennent des concentrations abondantes d'eau, de dioxyde de carbone et de lumière du Soleil, qui sont les éléments nécessaires à la photosynthèse.
+- L'observation est largement confirmée par les données de la sonde Mariner 2. La conclusion est sans appel : la surface de Vénus ne peut pas abriter d'eau liquide. A partir de ce moment, l'intérêt pour la planète diminue fortement.
+- Mais cela ne va pas décourager tous les chercheurs. En 1967, dans un court article spéculatif, Harold Morowitz et Carl Sagan émettent l'hypothèse que les nuages de Vénus pourraient potentiellement abriter de la vie. En effet, ceux-ci contiennent des concentrations abondantes d'eau, de dioxyde de carbone et de lumière du Soleil, qui sont les éléments nécessaires à la photosynthèse.
 - Au dessus des nuages, on trouve des cristaux de glace d'eau (température : 210K), et il est possible que l'on trouve des goutelette d'eau liquide vers la base de la couverture nuageuse (température : 260-280K, pression : 1 atmosphère).
 - La dense couverture nuageuse protégerait le bas des nuages des rayonnements UV du Soleil
 - Morowitz et Sagan imaginaient des créatures en forme de ballons remplis d'hydrogène de la taille d'une balle de ping pong flottant dans l'atmopshère vénusienne comme des montgolfières, juste en dessous de la couverture nuageuse, ou bien à la base des nuages
@@ -168,6 +169,13 @@
 - Aujourd'hui, l'hypothèse de la vie sur Vénus est crédible, et considérée sérieuse par de nombreux exobiologistes. Mais elle reste encore à confirmer ou à infirmer par de futures observations et missions in situ.
 
 ## Missions vers Mercure
+
+### Mariner 2
+
+### Venera 7 et 8
+
+- Ont atterri sur Vénus
+- Ont mesuré une température de 735K et une pression à la surface de 90 bars.
 
 ## Illustrations
 
