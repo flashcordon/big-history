@@ -749,6 +749,7 @@ Burcher
 - Exoplanètes, conférence de Francesco Pepe (SFP, Janvier 2020)
 - Photographier les exoplanètes – Conférence d'Anne Marie Lagrange (SFP, Janvier 2020)
 - [Plongée dans l'univers des exoplanètes](https://www.lemonde.fr/mmpub/edt/zip/2016/05/03/161236169-7fcea4d429880d203df2d566f4c6cc3b0f390232/index.html) - Le Monde (2016)
+- [M51-ULS-1b: The First Candidate for a Planet in an External Galaxy](https://arxiv.org/abs/2009.08987) - Di Stefano et al (2020)
 
 ---
 
@@ -828,6 +829,7 @@ Burcher
 > Cette découverte a soulevé plein de questions sur la formation des planètes et a ouvert un nouveau champ de recherche
 - En [2002](https://iopscience.iop.org/article/10.1086/338770/meta), grâce aux observations du télescope spatial Hubble, on a pu sonder pour la première fois l'atmosphère d'une exoplanète, HD 209458b, et y détecter du sodium.
 - En 2004, le télescope Yepun du VLT réalise la première image directe d'une exoplanète autour de la naine brune 2M1207 (imagerie infrarouge).
+- En 2020, une équipe d'astrophysiciens observant la galaxie M51 dans les rayons X prétendent avoir découvert la première exoplanète extragalactique : M51-ULS-1b.
 
 ***Outils passés et actuels de détection d'exoplanètes***
 - Le spectrographe HARPS permet de détecter des Neptunes et des super-Terres
