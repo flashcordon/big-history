@@ -100,6 +100,31 @@
 > * BepiColombo va cartographier en détail les volatiles de Mercure à l'aide de son spectro-imageur.
 > * L'étude détaillée de la magnétosphère de Mercure peut nous éclairer sur l'habitabilité des mondes extrasolaires à proximité des naines rouges, où les vents solaires et les taux de radiations sont très élevés.
 
+## Mercure, la planète la plus proche de la Terre (en règle générale)
+
+*Sources*
+- [Re: Which Planet is the Closest?](https://www.youtube.com/watch?v=LIS0IFmbZaI) - CGP Grey (2019)
+- [Mercury is the closest planet to all seven other planets](https://youtu.be/GDgbVIqGADQ) - Tomment Section (2019)
+- [Which Planet is the Closest?](https://www.youtube.com/watch?v=SumDHcnCRuU) - CGP Grey (2019)
+- [Venus is not Earth’s closest neighbor](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20190312a/full/) - Stockman et al (2019)
+
+--- 
+
+- Quelle est la planète la plus proche de la Terre ?
+- Si vous demandez à Google, le moteur de recherche vous répondra sans hésiter que c'est la planète Vénus. Ce qui elle est aussi la réponse la plus intuitive. Mais cette réponse a juste un tout petit défaut. Elle est fausse.
+- Ou plus précisément, elle est fausse si l'on se pose les bonnes questions.
+- Parce que si l'on aligne les planètes entre elles, c'est effectivement Vénus qui est la planète dont la distance à la Terre est la plus petite lorsqu'elle est à son point le plus proche de nous. 
+- Mais en pratique, les planètes sont très rarement alignées ! Elles réalisent des ellipses autour du Soleil, et plus elles sont loin de l'étoile, plus elles mettent du temps à réaliser une orbite complète autour d'elle.
+- Du coup, on pourrait se poser une question beaucoup plus pertinente : en prenant en compte les orbites des planètes, quelle est la planète la plus proche de la Terre... En règle général ?
+- Et bien il se trouve que la question n'est pas si vite répondue. Elle demande de coder un logiciel qui simule les orbites des planètes et qui calcule leur distance au fil du temps. 
+- Et c'est exactement ce qu'a fait une équipe de 3 chercheurs et ingénieurs américains en 2019 ! 
+- Sur leur simulation, la Terre est en bleu, Vénus est en jaune, Mars en rouge et Mercure en gris. Et les traits de couleur qui apparaissent représentent les distances des planètes à la Terre.
+- Et ce que nous dit cette simulation, c'est que la planète qui passe le plus de temps le plus près de la Terre, c'est... Mercure ! En moyenne, Mercure est donc la planète la plus proche de la Terre.
+- Ca a l'air complètement contre intuitif mais les chiffres parlent d'eux mêmes ! 
+- En fait, ce résultat il s'explique par le fait qu'en règle générale, les orbites les plus larges mènent à des distances à la Terre plus grandes pendant de plus longues durées.
+- Et comme Mercure est la planète dont l'orbite est la plus proche du Soleil, elle n'est jamais très éloignée de la Terre, et ce même lorsqu'elle est à l'opposé de nous par rapport au Soleil.
+- Le plus intriguant, c'est qu'avec ce raisonnement, Mercure est aussi la planète la plus proche en moyenne... De toutes les autre planètes du système solaire ! La planète la plus proche de Jupiter est donc aussi Mercure. Et pareil pour Saturne, Uranus et Neptune !
+
 ## Illustrations
 
 - [Illumination du pôle Nord de Mercure à partir des données topographiques](https://www.youtube.com/watch?v=pT9YJAe5xsc) - MESSENGER Mission
