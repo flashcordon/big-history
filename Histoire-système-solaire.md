@@ -190,10 +190,13 @@
 - Selon les 2 chercheurs, les nuages de Vénus représentent l'environnement extraterrestre le plus proche des conditions terrestres que l'on connaisse actuellement.
 - Dans son passé, Vénus a très probablement eu des océans d'eau liquide à sa surface (mais très acides). Mais on ne sait pas encore pendant combien de temps.
 - L'idée est que si la surface de Vénus a été habitable par le passé, et à mesure que la surface de Vénus s'est réchauffée et est devenue inhabitable, la vie a émigré et perduré dans les couches nuageuses de la planète.
+> Les modèles d'évolution planétaire prédisent que Vénus aurait pu avoir un océan d'eau liquide par le passé, par le même processus que la Terre a reçu son eau primordiale. C'est le scénario le plus probable à l'heure actuelle. Mais on n'en a aucune trace observable qui soit convaincante à ce jour.
 - En 2004, l'hypothèse de la vie vénusienne a été remise au goût du jour par Schulze-Makuch et ses collaborateurs, qui proposait de la vie basée sur le soufre pour expliquer ??
 - Aujourd'hui, l'hypothèse de la vie sur Vénus est crédible, et considérée sérieuse par de nombreux exobiologistes. Mais elle reste encore à confirmer ou à infirmer par de futures observations et missions in situ.
+- Il est aussi possible que des impacts de météorites entre les planètes aient apporté la vie sur Vénus. On sait que les planètes internes s'échangeaient des cailloux au début de l'histoire du système solaire. (météorites martiennes)
+- Cette hypothèse est difficile à vérifier parce que la surface de Vénus a un âge inférieur à 1 milliard d'années. C'est pour ça que la plupart des missions d'exobiologie jusqu'à présent se sont focalisées sur Mars.
 
-## Missions vers Mercure
+## Missions vers Vénus
 
 ### Mariner 2
 
@@ -202,7 +205,7 @@
 - Ont atterri sur Vénus
 - Ont mesuré une température de 735K et une pression à la surface de 90 bars.
 
-## Illustrations
+## Illustrations Vénus
 
 - [Tweet de Landru79 avec un timelapse des nuages de Vénus par  AKATSUKI](https://twitter.com/landru79/status/1238226872854601728)
 - [NSSDCA Photo Gallery Venus](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-venus.html) - NASA
