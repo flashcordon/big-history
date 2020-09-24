@@ -125,7 +125,7 @@
 - Et comme Mercure est la planète dont l'orbite est la plus proche du Soleil, elle n'est jamais très éloignée de la Terre, et ce même lorsqu'elle est à l'opposé de nous par rapport au Soleil.
 - Le plus intriguant, c'est qu'avec ce raisonnement, Mercure est aussi la planète la plus proche en moyenne... De toutes les autre planètes du système solaire ! La planète la plus proche de Jupiter est donc aussi Mercure. Et pareil pour Saturne, Uranus et Neptune !
 
-## Illustrations
+## Illustrations Mercure
 
 - [Illumination du pôle Nord de Mercure à partir des données topographiques](https://www.youtube.com/watch?v=pT9YJAe5xsc) - MESSENGER Mission
 - [Mercury's South Pole over One Mercury Solar Day](https://www.youtube.com/watch?v=qJuwo-b_Ce8) - MESSENGER Mission
@@ -165,6 +165,7 @@
 
 *Sources*
 
+- The solar system - Michael Seeds (2016)
 - [Astrobiology and Venus Exploration](http://funkyscience.net/wp-content/uploads/2016/11/AGU-Book_Grinspoon_Chapter.pdf) - Grinspoon et Bullock (2016)
 - [Thread de Chris Lintott sur la découverte de phosphine sur Vénus](https://twitter.com/chrislintott/status/1305521729662529536) - 2020
 - [Phosphine gas in the cloud decks of Venus](https://www.nature.com/articles/s41550-020-1174-4) - Greaves et al (2020)
@@ -174,15 +175,21 @@
 
 ---
 
+- Vénus ressemble beaucoup à la Terre en terme de taille, de masse et de densité moyenne
+> Le diamètre de Vénus est 95% de celui de la Terre
 - Comprendre pourquoi et comment Vénus et la Terre ont eu des destins divergents est crucial pour comprendre l'évolution de notre planète et de l'habitabilité des systèmes stellaires en général.
 - La couverture nuageuse est probablement maintenue par un volcanisme actif
+- La surface de Vénus est suffisamment chaude pour faire fondre du plomb.
+- Vénus est nommée en référence à la déesse romaine de l'amour.
 
 ### De la vie sur Vénus ?
 
+- La surface de Vénus est particulièrement difficile à atteindre parce que Vénus est en permanence recouverte d'une épaisse couche nuageuse. 
 - On sait que Vénus possède une atmosphère depuis 1761, lorsque Mikhail Lomonosov observe un transit de Vénus à l'observatoire de St Pétersbourg
 > Depuis cette époque, et jusqu'à l'époque de l'exploration du système solaire, Vénus était vu comme un candidat privilégié pour l'existence de vie ailleurs que sur Terre. On pensait même que les nuages de Vénus étaient gorgés d'eau
+- Les auteurs de SF imaginaient des marais à la surface de Vénus, ou bien une planète océan.
 - Mais cet optimisme a été malmené par les premières observations en ondes radio de Vénus, dans les années 50 (1956), qui démontraient que la température de surface de Vénus était bien plus grande que sur Terre.
-- L'observation est largement confirmée par les données de la sonde Mariner 2. La conclusion est sans appel : la surface de Vénus ne peut pas abriter d'eau liquide. A partir de ce moment, l'intérêt pour la planète diminue fortement.
+- L'observation est largement confirmée par les données de la sonde Mariner 2. La conclusion est sans appel : la surface de Vénus ne peut pas abriter d'eau liquide. Elle est plus sèche que le plus sec des déserts sur Terre. A partir de ce moment, l'intérêt pour la planète diminue fortement.
 - Mais cela ne va pas décourager tous les chercheurs. En 1967, dans un court article spéculatif, Harold Morowitz et Carl Sagan émettent l'hypothèse que les nuages de Vénus pourraient potentiellement abriter de la vie. En effet, ceux-ci contiennent des concentrations abondantes d'eau, de dioxyde de carbone et de lumière du Soleil, qui sont les éléments nécessaires à la photosynthèse.
 - Au dessus des nuages, on trouve des cristaux de glace d'eau (température : 210K), et il est possible que l'on trouve des goutelette d'eau liquide vers la base de la couverture nuageuse (température : 260-280K, pression : 1 atmosphère).
 - La dense couverture nuageuse protégerait le bas des nuages des rayonnements UV du Soleil
@@ -197,6 +204,8 @@
 - Cette hypothèse est difficile à vérifier parce que la surface de Vénus a un âge inférieur à 1 milliard d'années. C'est pour ça que la plupart des missions d'exobiologie jusqu'à présent se sont focalisées sur Mars.
 
 ## Missions vers Vénus
+
+- Plus de 25 sondes ont été envoyées vers Vénus, et plus d'une douzaine a atterri à sa surface.
 
 ### Mariner 2
 
