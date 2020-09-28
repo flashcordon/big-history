@@ -242,6 +242,7 @@
 
 ---
 
+- La planète était si bleue qu'elle fut nommée en l'honneur du dieu romain de la mer, qui contrôlait les vagues et les tempêtes
 - La découverte de Neptune est liée à l'une des grandes controverses de l'histoire de l'astronomie
 > Au 19e siècle, les astronomes tentaient d'expliquer le mouvement des planète à l'aide des lois de Newton. Les planètes orbitent autour du Soleil, mais eles sont aussi influencées par la gravité des autres planètes. Et le mouvement d'Uranus ne collait pas au mouvement prédit par les 7 planètes connues. Selon les prédictions de la théorie de la gravitation de Newton, le mouvement d'Uranus ne pouvait s'expliquer que s'il y avait une autre planète plus loin. Et on pouvait déduire de ces calculs la position de cette nouvelle planète dans le ciel. Cette prédiction a été réalisée au même moment par Urbain le Verrier en France et par John Couch Adams en Grande Bretagne. Le Verrier envoie ses prédictions en 1846 à l'astronome Johann Galle de l'observatoire de Berlin, et au bout de 30 minutes d'observation à peine, bingo ! Une nouvelle planète est découverte : Neptune. S'ensuit une controverse sur la paternité de la découverte, avec suspicion de plagiat pour Adams de la part des français. Mais la découverte de Neptune est le signe du triomphe des lois de Newton.
 >  * Fun fact : dans les carnets de Galilée on peut voir qu'il avait déjà découvert Neptune avant tout le monde (le 24 Décembre 1612), mais il avait pris Neptune pour une étoile dans le background de Jupiter !
@@ -251,6 +252,9 @@
 - Neptune a un diamètre 4 fois plus large que la Terre et une masse 17 fois plus grande
 - Sa couleur bleue est causée par la présence de méthane et d'hydrogène qui absorbe la partie rouge du spectre.
 - Etonnamment, les vents (violents et parallèles à l'équateur) de Neptune tournent dans le sens inverse du sens de rotation de la planète. On ne comprend pas encore pourquoi.
+- Elle possède un système d'au moins 14 lunes. 
+- L'une des plus intriguantes est Triton. Elle a une orbite rétrograde par rapport au sens de rotation de la planète. C'est la seule grosse lune du système solaire dans ce cas de figure. 
+> Les astronomes spéculent que Triton a probablement été capturée par Neptune. 
 
 ## Mission vers Neptune
 
@@ -263,6 +267,7 @@
 - Des nuages blancs se démarquent du fond bleu intense de la planète : ils sont constitués de cristaux de glace de méthane, qui s'étendent jusqu'à 50 km de profondeur
 - Elle observe aussi un sytème d'au moins 4 vastes tempêtes : la plus grande est nommée la grande tache noire, en référence à la grande tache rouge de Jupiter. Elle tourne sur elle-même en 16 jours terrestres, dans le sens contraire aux aiguilles d'une montre. Elle est due à du gaz de l'intérieur de la planète qui remonte dans les couches externes
 - Lorsque le télescope Hubble observe Neptune en 1994, la grande tache noire a disparu. Contrairement aux taches de Jupiter, qui peuvent perdurer des mois, les taches de Neptune survivent bien moins longtemps.
+- Voyager a découvert 6 lunes de plus que celles qu'on connaissait jusu'alors (3) (les autres ont été découvertes par des observations terrestres)
 
 
 
