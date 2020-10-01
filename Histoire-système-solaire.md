@@ -173,6 +173,7 @@
 - [Vénus : La Nasa envisage une mission pour rechercher la vie dans ses nuages en 2027](https://www.futura-sciences.com/sciences/actualites/nasa-venus-nasa-envisage-mission-rechercher-vie-nuages-2027-58308/?utm_content=bufferf3531&utm_medium=social&utm_source=facebook.com&utm_campaign=futura&fbclid=IwAR1z0wAkP7kGHLPTX2ELqwG6iaGHPU9nP7bM1eeyRFMYfRuhBgHkHxOeCAg) - Futura Science (2020)
 - [Reassessing the Possibility of Life on Venus: Proposal for an Astrobiology Mission](https://www.liebertpub.com/doi/10.1089/15311070260192264) - Schulze-Makuch et al (2004)
 - [Venus in Fiction](https://en.wikipedia.org/wiki/Venus_in_fiction) - Wikipédia
+- [Vénus et la phosphine : de trop grandes espérances](http://www.exobiologie.fr/blog/2020/10/01/venus-et-la-phosphine-de-trop-grandes-esperances/) - Hervé Cottin, SFE Blog (2020)
 
 ---
 
