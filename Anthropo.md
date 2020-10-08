@@ -202,13 +202,7 @@ La logique : nous avons tous en nous une capacité à suivre un raisonnement lo
 - The origin of the world's mythologies - Michael Witzel (2012)
 - [Dans les rêves de Cro-Magnon](https://www.lemonde.fr/culture/article/2014/03/13/il-etait-une-fois-les-mythes_4382701_3246.html?xtmc=dans_les_reves_de_cro_magnon&xtcr=1) - Stéphane Foucart, le Monde (Mars 2014)
 - Dictionnaire critique de mythologie - Jean-Loic Le Quellec (2017)
-
----
-
-- Lévy Strauss
-- Etymologie grecque : mythos
-- mythes cosmogoniques, étiologiques (?)
-- Evolution des mythes
+- Travaux de George Dumézil, Bernard Sergent, Lévy-Strauss (Mythologiques)
 
 ---
 
