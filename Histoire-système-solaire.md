@@ -269,6 +269,7 @@
 ## Uranus dans la fiction
 
 - Uranus est peu abordée dans la SF.
+- A Journey Lately Performed through the Air, in an Aerostatic Globe, Commonly Called an Air Balloon, from this Terraqueous Globe to the Newly Discovered Planet, Georgium Sidus: Translated from the French - Monsieur Vivenair (pseudonyme d'un auteur anglais voulant se faire passer pour un auteur français) (1784)
 - The planet of Doubt - Stanley G. Weinbaum, Astounding Stories (1935)
 - [Journey to the seventh planet (1961)](https://www.dailymotion.com/video/x29t9kj)
 > Dans ce film de SF américain, la Terre envoie une équipe de 5 hommes pour explorer la planète glacée Uranus. Arrivés sur la planète, l'équipage découvre avec surprise un monde forestier et un cerveau alien hostile, les manipulant avec des images de leurs femmes.
