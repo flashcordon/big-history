@@ -254,6 +254,7 @@
 
 ## Propriétés d'Uranus
 
+- Uranus est ce que l'on appelle une géante de glace.
 - Uranus est 20 fois plus éloignée du Soleil que la Terre (20 AU)
 - Uranus met 84 ans terrestres à orbiter autour du Soleil.
 - Sa particularité est son axe de rotation. Celui-ci est si incliné qu'elle semble rouler sur son orbite autour du Soleil.
