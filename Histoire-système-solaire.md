@@ -241,6 +241,7 @@
 - *Sources*
 - [Time Lapse du système de lunes d'Uranus par Hubble](https://hubblesite.org/contents/media/videos/1999/11/175-Video.html?news=true)
 - [Uranus in fiction](https://simple.wikipedia.org/wiki/Uranus_in_fiction) - Wikipédia
+- [Outer planets](http://www.sf-encyclopedia.com/entry/outer_planets) - Encyclopaedia of Science Fiction
 
 ---
 
@@ -251,7 +252,7 @@
 - Herschel a rendu l'univers un peu plus grand. Sa découverte le rend célèbre dans le monde entier.
 - C'est l'astronome Johann Bode qui nomme la planète Uranus (Herschel l'avait nommée Georgium Sidus, en référence au roi d'Angleterre Goeorge III, mais ce choix se révéla moins populaire dans le monde)
 
-## Propriétés
+## Propriétés d'Uranus
 
 - Uranus est 20 fois plus éloignée du Soleil que la Terre (20 AU)
 - Uranus met 84 ans terrestres à orbiter autour du Soleil.
@@ -266,6 +267,8 @@
 
 ## Uranus dans la fiction
 
+- Uranus est peu abordée dans la SF.
+- The planet of Doubt - Stanley G. Weinbaum, Astounding Stories (1935)
 - [Journey to the seventh planet (1961)](https://www.dailymotion.com/video/x29t9kj)
 > Dans ce film de SF américain, la Terre envoie une équipe de 5 hommes pour explorer la planète glacée Uranus. Arrivés sur la planète, l'équipage découvre avec surprise un monde forestier et un cerveau alien hostile, les manipulant avec des images de leurs femmes.
 
@@ -282,7 +285,7 @@
 > Au 19e siècle, les astronomes tentaient d'expliquer le mouvement des planète à l'aide des lois de Newton. Les planètes orbitent autour du Soleil, mais eles sont aussi influencées par la gravité des autres planètes. Et le mouvement d'Uranus ne collait pas au mouvement prédit par les 7 planètes connues. Selon les prédictions de la théorie de la gravitation de Newton, le mouvement d'Uranus ne pouvait s'expliquer que s'il y avait une autre planète plus loin. Et on pouvait déduire de ces calculs la position de cette nouvelle planète dans le ciel. Cette prédiction a été réalisée au même moment par Urbain le Verrier en France et par John Couch Adams en Grande Bretagne. Le Verrier envoie ses prédictions en 1846 à l'astronome Johann Galle de l'observatoire de Berlin, et au bout de 30 minutes d'observation à peine, bingo ! Une nouvelle planète est découverte : Neptune. S'ensuit une controverse sur la paternité de la découverte, avec suspicion de plagiat pour Adams de la part des français. Mais la découverte de Neptune est le signe du triomphe des lois de Newton.
 >  * Fun fact : dans les carnets de Galilée on peut voir qu'il avait déjà découvert Neptune avant tout le monde (le 24 Décembre 1612), mais il avait pris Neptune pour une étoile dans le background de Jupiter !
 
-## Propriétés
+## Propriétés de Neptune
 
 - Neptune a un diamètre 4 fois plus large que la Terre et une masse 17 fois plus grande
 - Sa couleur bleue est causée par la présence de méthane et d'hydrogène qui absorbe la partie rouge du spectre.
