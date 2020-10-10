@@ -240,6 +240,26 @@
 
 - [Time Lapse du système de lunes d'Uranus par Hubble](https://hubblesite.org/contents/media/videos/1999/11/175-Video.html?news=true)
 
+- Uranus fait partie, avec Neptune, des 2 planètes du système solaire invisibles à l'oeil nu.
+- Elle a été découverte en 1781 par William Herschel, à l'aide d'un télescope de 16cm de diamètre et de 2m de long qu'il avait dans son jardin.
+- Il était en train de recenser les étoiles binaires, lorsqu'il détecte dans son champ de vision une tache plus grosse que les autres. Au début, il pense à une comète, mais c'est finalement la planète Uranus qu'il découvre.
+> La planète avait été observée au moins 17 fois par le passé par d'autres astronomes, mais aucun d'entre eux n'a pensé que ça pouvait être autre chose qu'une  étoile
+- Herschel a rendu l'univers un peu plus grand. Sa découverte le rend célèbre dans le monde entier.
+- C'est l'astronome Johann Bode qui nomme la planète Uranus (Herschel l'avait nommée Georgium Sidus, en référence au roi d'Angleterre Goeorge III, mais ce choix se révéla moins populaire dans le monde)
+
+## Propriétés
+
+- Uranus est 20 fois plus éloignée du Soleil que la Terre (20 AU)
+- Uranus met 84 ans terrestres à orbiter autour du Soleil.
+- Sa particularité est son axe de rotation. Celui-ci est si incliné qu'elle semble rouler sur son orbite autour du Soleil.
+> Ca rend ses saisons extrêmes
+
+## Missions
+
+- ***Voyager 2***
+
+- En 1986, la sonde prend les premiers clichés rapprochés d'Uranus
+
 # Neptune
 
 *Sources*
