@@ -158,6 +158,7 @@
 - [SYND 30-10-73 FEATURE ON THE LAUNCH OF MARINER 10 PROBE TO MERCURY AND VENUS](https://youtu.be/bX_41NNU0mc) - AP Archive
 > Maquette mise en scène de la sonde Mariner 10
 - [Mercury Transit 2019 - 4K](https://youtu.be/0yNzSwlnQ2Q) - NASA Goddard
+- [Exploration of the Planets](https://youtu.be/_ds8_IFDp1o) - NASA (1971)
 
 # Vénus
 
