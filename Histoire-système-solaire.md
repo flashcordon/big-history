@@ -238,7 +238,11 @@
 
 # Uranus
 
+- *Sources*
 - [Time Lapse du système de lunes d'Uranus par Hubble](https://hubblesite.org/contents/media/videos/1999/11/175-Video.html?news=true)
+- [Uranus in fiction](https://simple.wikipedia.org/wiki/Uranus_in_fiction) - Wikipédia
+
+---
 
 - Uranus fait partie, avec Neptune, des 2 planètes du système solaire invisibles à l'oeil nu.
 - Elle a été découverte en 1781 par William Herschel, à l'aide d'un télescope de 16cm de diamètre et de 2m de long qu'il avait dans son jardin.
@@ -259,6 +263,11 @@
 - ***Voyager 2***
 
 - En 1986, la sonde prend les premiers clichés rapprochés d'Uranus
+
+## Uranus dans la fiction
+
+- [Journey to the seventh planet (1961)](https://www.dailymotion.com/video/x29t9kj)
+> Dans ce film de SF américain, la Terre envoie une équipe de 5 hommes pour explorer la planète glacée Uranus. Arrivés sur la planète, l'équipage découvre avec surprise un monde forestier et un cerveau alien hostile, les manipulant avec des images de leurs femmes.
 
 # Neptune
 
