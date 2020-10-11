@@ -242,6 +242,7 @@
 - [Time Lapse du système de lunes d'Uranus par Hubble](https://hubblesite.org/contents/media/videos/1999/11/175-Video.html?news=true)
 - [Uranus in fiction](https://simple.wikipedia.org/wiki/Uranus_in_fiction) - Wikipédia
 - [Outer planets](http://www.sf-encyclopedia.com/entry/outer_planets) - Encyclopaedia of Science Fiction
+- [Uranus - In depth](https://solarsystem.nasa.gov/planets/uranus/in-depth/#moons) - NASA Solar System Exploration
 
 ---
 
@@ -250,15 +251,18 @@
 - Il était en train de recenser les étoiles binaires, lorsqu'il détecte dans son champ de vision une tache plus grosse que les autres. Au début, il pense à une comète, mais c'est finalement la planète Uranus qu'il découvre.
 > La planète avait été observée au moins 17 fois par le passé par d'autres astronomes, mais aucun d'entre eux n'a pensé que ça pouvait être autre chose qu'une  étoile
 - Herschel a rendu l'univers un peu plus grand. Sa découverte le rend célèbre dans le monde entier.
-- C'est l'astronome Johann Bode qui nomme la planète Uranus (Herschel l'avait nommée Georgium Sidus, en référence au roi d'Angleterre Goeorge III, mais ce choix se révéla moins populaire dans le monde)
+- C'est l'astronome Johann Bode qui confirme la découverte de Herschel et qui nomme la planète Uranus, en référence au dieu Grec du ciel (Herschel l'avait nommée Georgium Sidus, en référence au roi d'Angleterre Goeorge III, mais ce choix se révéla moins populaire dans le monde)
 
 ## Propriétés d'Uranus
 
 - Uranus est ce que l'on appelle une géante de glace.
-- Uranus est 20 fois plus éloignée du Soleil que la Terre (20 AU)
-- Uranus met 84 ans terrestres à orbiter autour du Soleil.
-- Sa particularité est son axe de rotation. Celui-ci est si incliné qu'elle semble rouler sur son orbite autour du Soleil.
-> Ca rend ses saisons extrêmes
+- Uranus est 20 fois plus éloignée du Soleil que la Terre (19,8 AU). Un rayon de Soleil met 2h40 à l'atteindre.
+- Uranus met 84 ans terrestres à orbiter autour du Soleil, et 17h terrestres à faire un tour complet sur elle-même (dans le sens constraire de la plupart des planètes).
+- Sa particularité est son axe de rotation. Celui-ci est si incliné par rapport au plan de son orbite (97,7°) qu'elle semble rouler sur son orbite autour du Soleil comme une boule.
+> Ca rend ses saisons extrêmes, les plus extrêmes du système solaire. Pendant le quart de l'année uranienne, le Soleil fait directement face à ses pôles, ce qui plonge le reste de la planète dans un long hiver sombre de 21 ans.
+- Uranus possède 27 lunes connues, nommées en hommage à des personnages de William Shakespeare et Alexander Pope
+- Elle possède aussi 13 anneaux
+- Uranus est 4 fois plus large que la Terre
 
 ## Missions
 
