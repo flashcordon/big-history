@@ -263,6 +263,8 @@
 - Uranus possède 27 lunes connues, nommées en hommage à des personnages de William Shakespeare et Alexander Pope
 - Elle possède aussi 13 anneaux
 - Uranus est 4 fois plus large que la Terre
+- Elle possède 2 systèmes d'anneau. Le système interne comprend 9 anneaux (gris foncé), le système externe 2 (rougeatre et bleuatre).
+- Son champ magnétique présente aussi une forme particulière par rapport aux autres planètes. Son axe fait un angle de 60 degrés avec son axe de rotation, ce qui fait que les aurores sur Uranus ne sont pas des aurores polaires, comme sur Terre, sur Jupiter et Saturne.
 
 ## Missions
 
