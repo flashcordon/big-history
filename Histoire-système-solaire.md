@@ -243,6 +243,7 @@
 - [Uranus in fiction](https://simple.wikipedia.org/wiki/Uranus_in_fiction) - Wikipédia
 - [Outer planets](http://www.sf-encyclopedia.com/entry/outer_planets) - Encyclopaedia of Science Fiction
 - [Uranus - In depth](https://solarsystem.nasa.gov/planets/uranus/in-depth/#moons) - NASA Solar System Exploration
+- [Polar lights on Uranus](https://www.esa.int/ESA_Multimedia/Images/2018/11/Polar_lights_on_Uranus) - ESA (2018)
 
 ---
 
