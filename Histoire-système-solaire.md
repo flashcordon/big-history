@@ -244,6 +244,7 @@
 - [Outer planets](http://www.sf-encyclopedia.com/entry/outer_planets) - Encyclopaedia of Science Fiction
 - [Uranus - In depth](https://solarsystem.nasa.gov/planets/uranus/in-depth/#moons) - NASA Solar System Exploration
 - [Polar lights on Uranus](https://www.esa.int/ESA_Multimedia/Images/2018/11/Polar_lights_on_Uranus) - ESA (2018)
+- [Uranus 101](https://www.youtube.com/watch?v=m4NXbFOiOGk) - National Geographic
 
 ---
 
@@ -269,7 +270,7 @@
 
 ## Missions
 
-- ***Voyager 2***
+### Voyager 2
 
 - En 1986, la sonde prend les premiers clichés rapprochés d'Uranus
 
@@ -284,6 +285,9 @@
 ## Illustrations Uranus 
 
 - [Galleries - Uranus](https://solarsystem.nasa.gov/planets/uranus/galleries/?page=0&per_page=25&order=created_at+desc&search=&href_query_params=category%3Dplanets_uranus&button_class=big_more_button&tags=uranus&condition_1=1%3Ais_in_resource_list&category=53) - NASA solar system exploration
+- [Images Voyager Took of Uranus](https://voyager.jpl.nasa.gov/galleries/images-voyager-took/uranus/) - NASA
+- [Voyager II - Uranus Encounter Observations - RAW Images](https://youtu.be/hcRlis-ssdA) -  Benjamin Bardou
+- [Voyager 2 Flyby of Uranus (1986) Official NASA animations](https://youtu.be/DrKQaDupdWQ) - Ian Regan / NASA/JPL/Caltech & Jim Blinn
 
 # Neptune
 
