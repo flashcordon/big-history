@@ -245,6 +245,7 @@
 - [Uranus - In depth](https://solarsystem.nasa.gov/planets/uranus/in-depth/#moons) - NASA Solar System Exploration
 - [Polar lights on Uranus](https://www.esa.int/ESA_Multimedia/Images/2018/11/Polar_lights_on_Uranus) - ESA (2018)
 - [Uranus 101](https://www.youtube.com/watch?v=m4NXbFOiOGk) - National Geographic
+- [Voyager : 40 years in space](https://youtu.be/nPSQcXs3DJI) - Conférence de Alan Cummings
 
 ---
 
@@ -288,6 +289,7 @@
 - [Images Voyager Took of Uranus](https://voyager.jpl.nasa.gov/galleries/images-voyager-took/uranus/) - NASA
 - [Voyager II - Uranus Encounter Observations - RAW Images](https://youtu.be/hcRlis-ssdA) -  Benjamin Bardou
 - [Voyager 2 Flyby of Uranus (1986) Official NASA animations](https://youtu.be/DrKQaDupdWQ) - Ian Regan / NASA/JPL/Caltech & Jim Blinn
+- [Voyager: The Grand Tour](https://www.jpl.nasa.gov/video/details.php?id=1215) - NASA (2002)
 
 # Neptune
 
@@ -324,7 +326,11 @@
 - Lorsque le télescope Hubble observe Neptune en 1994, la grande tache noire a disparu. Contrairement aux taches de Jupiter, qui peuvent perdurer des mois, les taches de Neptune survivent bien moins longtemps.
 - Voyager a découvert 6 lunes de plus que celles qu'on connaissait jusu'alors (3) (les autres ont été découvertes par des observations terrestres)
 
+## Illustration de Neptune
 
+- [Voyager Last Picture Show](https://youtu.be/ZHx-f4JPH4I) - NASA
+- [Voyager 2: First Spacecraft at Neptune](https://youtu.be/1HBumk5Vm78?list=PLnKATovDk_48PK3DswHoQKAHIXM_vYZmN) - NASA
+- [Approaching Neptune](https://www.planetary.org/articles/0311011-approaching-neptune) - Planetary Society
 
 
 
