@@ -317,10 +317,15 @@
 ## Propriétés de Neptune
 
 - Neptune a un diamètre 4 fois plus large que la Terre et une masse 17 fois plus grande
+- Elle se trouve 30 fois plus loin du Soleil que la Terre (30 AU). C'est la planète la plus lointaine de notre système solaire.
+- Neptune met 165 ans terrestres à compléter une orbite autour du Soleil. Chacune de ses saisons dure 40 ans.
+- En son centre se trouve un coeur solide, 1,5 fois la taille de la Terre, composé de glace d'eau et de roches silicatées.
 - Sa couleur bleue est causée par la présence de méthane et d'hydrogène qui absorbe la partie rouge du spectre.
+- Les vents de Neptune sont parmi les plus violents du système solaire (près de 2000 km/h). Ils sont si rapides qu'ils sont supersoniques. 
 - Etonnamment, les vents (violents et parallèles à l'équateur) de Neptune tournent dans le sens inverse du sens de rotation de la planète. On ne comprend pas encore pourquoi.
-- Elle possède un système d'au moins 14 lunes. 
-- L'une des plus intriguantes est Triton. Elle a une orbite rétrograde par rapport au sens de rotation de la planète. C'est la seule grosse lune du système solaire dans ce cas de figure. 
+- Elle possède un système d'au moins 14 lunes.
+- Elle possède un système de 6 anneaux.
+- L'une des plus intriguantes (et la plus grosse) est Triton. Elle a une orbite rétrograde par rapport au sens de rotation de la planète. C'est la seule grosse lune du système solaire dans ce cas de figure. Elle possède aussi du cryovolcanisme, ainsi que probablement un océan souterrain.
 > Les astronomes spéculent que Triton a probablement été capturée par Neptune. 
 - The incredibly frigid and windy environments found at the cloud tops, where hydrogen and helium are mixed with methane and ammonia, eventually give way to warmer interiors and crushing pressures with increasing depth
 - Many of the current models of Uranus and Neptune postulate a three-layer structure, consisting of an inner rocky core, a middle ‘ice’ layer of fluid, H2O, CH4, NH3 and an outer hydrogen–helium layer of solar composition1. The estimated pressures and temperatures of the ice layer ranges from about 6Mbar and 7,000 K at the inner core-ice boundary, to ∼0.2 Mbar and 2,200 K at the outer ice/hydrogen–helium boundary. I point out here that shockwave experiments on these liquids2–5, as well as theoretical studies5–7, imply that the H2O and NH3 in the ice layer are almost totally ionized and the CH4 has been pyrolysed to carbon, possibly in the metallic or diamond form
@@ -339,7 +344,7 @@
 
 ## Mission vers Neptune
 
-- On sait peu de choses sur Neptune jusqu'au survol de Voyager 2 en 1989
+- On sait peu de choses sur Neptune jusqu'au survol de Voyager 2 en 1989. Il s'agit à ce jour de la seule sonde ayant réalisé un survol rapproché de la planète.
 
 ### Voyager 2
 
