@@ -304,6 +304,8 @@
 - [Uranus is Full of Diamonds (and so is Neptune)](https://lightsinthedark.com/2020/06/29/uranus-is-full-of-diamonds-and-so-is-neptune/) - Jason major, Lights on the Dark (2020)
 - [Demonstration of X-ray Thomson scattering as diagnostics for miscibility in warm dense matter](https://www.nature.com/articles/s41467-020-16426-y) - Frydrych et al (2020)
 - [Extraterrestrial diamonds](https://en.wikipedia.org/wiki/Extraterrestrial_diamonds) - Wikipédia
+- [What Would You See If You Fell Into Neptune? (4K UHD)](https://youtu.be/B0v7MihXA-s) - V101 Science (2018)
+- [Neptune 101](https://www.youtube.com/watch?v=NStn7zZKXfE) - National Geographic (2019)
 
 ---
 
