@@ -298,7 +298,8 @@
 - The solar system - Michael Seeds (2016)
 - [Dans Neptune, il pleut des diamants](https://www.futura-sciences.com/sciences/actualites/physique-neptune-il-pleut-diamants-22271/) - Futura Sciences
 - [Formation of diamonds in laser-compressed hydrocarbons at planetary interior conditions](https://www.nature.com/articles/s41550-017-0219-9) - Kraus et al (2017)
-- [The ice layer in Uranus and Neptune—diamonds in the sky?]() - Ross (1981)
+- [The ice layer in Uranus and Neptune—diamonds in the sky?](https://www.nature.com/articles/292435a0) - Ross (1981)
+- [It May Rain Diamonds Inside Neptune and Uranus](https://www.smithsonianmag.com/smart-news/its-raining-diamonds-inside-neptune-and-uranus-180964589/) - Smithonian Magazine (2017)
 
 ---
 
@@ -322,9 +323,10 @@
 - On retrouve cette idée dans le roman 2010 : Odyssée 2, d'Arthur C. Clarke, publié en 1982. L'auteur imagine un diamant géant de la taille de la Terre au coeur de Jupiter.
 > "He had almost reached the center of the planet, but Jupiter had one more surprise in store. [...] There, by one of Nature’s supreme jests, was something very precious to mankind. The core of Jupiter, forever beyond human reach, was a diamond as big as the Earth.”
 - En 2017 a eu lieu la première confirmation expérimentale de cette idée.
-> Pour cela, les chercheurs ont comprimé du polystyrène (mélange de carbone et d'hydrogène) à très haute pression à l'aide de lasers surpuissants. Non seulement des diamants de taille nanométrique se forment, mais ils grandissent au fil du temps. Ces expériences ont été réalisées dans des conditions qui simulent l'intérieur de Neptune (Pression : 150 GPa, Température : 5000K) 
+> Pour cela, les chercheurs ont comprimé du polystyrène (mélange de carbone et d'hydrogène) à très haute pression à l'aide de lasers surpuissants. Non seulement des diamants de taille nanométrique se forment, mais ils grandissent au fil du temps. Ces expériences ont été réalisées dans des conditions qui simulent l'intérieur de Neptune (Pression : 150 GPa, soit 1,5 million de fois la pression atmosphérique terrestre, Température : 5000K) 
 - A l'intérieur de Neptune (à environ 10 000 km sous la surface), les diamants qui se forment sont bien plus lourds, de l'ordre de 200 kg. Au cours des milliers d'années, ces diamants tombent comme une pluie dans les couches de glace entourant le cœur rocheux des planètes géantes. Au final, de véritables couches de diamants doivent se former autour du cœur.
-Many of the current models of Uranus and Neptune postulate a three-layer structure, consisting of an inner rocky core, a middle ‘ice’ layer of fluid, H2O, CH4, NH3 and an outer hydrogen–helium layer of solar composition1. The estimated pressures and temperatures of the ice layer ranges from about 6Mbar and 7,000 K at the inner core-ice boundary, to ∼0.2 Mbar and 2,200 K at the outer ice/hydrogen–helium boundary. I point out here that shockwave experiments on these liquids2–5, as well as theoretical studies5–7, imply that the H2O and NH3 in the ice layer are almost totally ionized and the CH4 has been pyrolysed to carbon, possibly in the metallic or diamond form
+- La plupart des modèles suggèrent que le diamand autour du coeur crée une couche solide, mais d'autres suffèrent que si la température près du coeur est suffisamment grande, le coeur de ces planètes serait constitué d'océans de carbone liquide, sur lesquels flotteraient des icebergs de diamants (wow). Et si c'est peu probable sur Uranus et Neptune, c'est peut être le cas sur des exoplanètes.
+- Many of the current models of Uranus and Neptune postulate a three-layer structure, consisting of an inner rocky core, a middle ‘ice’ layer of fluid, H2O, CH4, NH3 and an outer hydrogen–helium layer of solar composition1. The estimated pressures and temperatures of the ice layer ranges from about 6Mbar and 7,000 K at the inner core-ice boundary, to ∼0.2 Mbar and 2,200 K at the outer ice/hydrogen–helium boundary. I point out here that shockwave experiments on these liquids2–5, as well as theoretical studies5–7, imply that the H2O and NH3 in the ice layer are almost totally ionized and the CH4 has been pyrolysed to carbon, possibly in the metallic or diamond form
 
 ## Mission vers Neptune
 
