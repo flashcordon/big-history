@@ -300,6 +300,7 @@
 - [Formation of diamonds in laser-compressed hydrocarbons at planetary interior conditions](https://www.nature.com/articles/s41550-017-0219-9) - Kraus et al (2017)
 - [The ice layer in Uranus and Neptune—diamonds in the sky?](https://www.nature.com/articles/292435a0) - Ross (1981)
 - [It May Rain Diamonds Inside Neptune and Uranus](https://www.smithsonianmag.com/smart-news/its-raining-diamonds-inside-neptune-and-uranus-180964589/) - Smithonian Magazine (2017)
+- [Supersonic Winds](https://svs.gsfc.nasa.gov/11349) - NASA (2013)
 
 ---
 
@@ -346,6 +347,8 @@
 - [Voyager Last Picture Show](https://youtu.be/ZHx-f4JPH4I) - NASA
 - [Voyager 2: First Spacecraft at Neptune](https://youtu.be/1HBumk5Vm78?list=PLnKATovDk_48PK3DswHoQKAHIXM_vYZmN) - NASA
 - [Approaching Neptune](https://www.planetary.org/articles/0311011-approaching-neptune) - Planetary Society
+- [Supersonic Winds](https://svs.gsfc.nasa.gov/11349) - NASA (2013)
+> Visualisation des vents de Neptune et zoom sur les nuages et les taches sombres.
 
 
 
