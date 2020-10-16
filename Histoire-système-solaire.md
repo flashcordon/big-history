@@ -318,9 +318,12 @@
 
 ## Des diamants dans Neptune et Uranus ?
 
-- En 1981, Marvin Ross propose qu'à l'intérieur de Neptune et Uranus, la pression et la température suffisent à comprimer les composés carbonés détectés dans leur atmosphère pour en faire des diamants. 
+- En 1981, Marvin Ross propose qu'à l'intérieur de Neptune et Uranus, la pression et la température suffisent à comprimer les composés carbonés (notamment le méthane CH4) détectés dans leur atmosphère pour en faire des diamants. 
 - On retrouve cette idée dans le roman 2010 : Odyssée 2, d'Arthur C. Clarke, publié en 1982. L'auteur imagine un diamant géant de la taille de la Terre au coeur de Jupiter.
 > "He had almost reached the center of the planet, but Jupiter had one more surprise in store. [...] There, by one of Nature’s supreme jests, was something very precious to mankind. The core of Jupiter, forever beyond human reach, was a diamond as big as the Earth.”
+- En 2017 a eu lieu la première confirmation expérimentale de cette idée.
+> Pour cela, les chercheurs ont comprimé du polystyrène (mélange de carbone et d'hydrogène) à très haute pression à l'aide de lasers surpuissants. Non seulement des diamants de taille nanométrique se forment, mais ils grandissent au fil du temps. Ces expériences ont été réalisées dans des conditions qui simulent l'intérieur de Neptune (Pression : 150 GPa, Température : 5000K) 
+- A l'intérieur de Neptune (à environ 10 000 km sous la surface), les diamants qui se forment sont bien plus lourds, de l'ordre de 200 kg. Au cours des milliers d'années, ces diamants tombent comme une pluie dans les couches de glace entourant le cœur rocheux des planètes géantes. Au final, de véritables couches de diamants doivent se former autour du cœur.
 Many of the current models of Uranus and Neptune postulate a three-layer structure, consisting of an inner rocky core, a middle ‘ice’ layer of fluid, H2O, CH4, NH3 and an outer hydrogen–helium layer of solar composition1. The estimated pressures and temperatures of the ice layer ranges from about 6Mbar and 7,000 K at the inner core-ice boundary, to ∼0.2 Mbar and 2,200 K at the outer ice/hydrogen–helium boundary. I point out here that shockwave experiments on these liquids2–5, as well as theoretical studies5–7, imply that the H2O and NH3 in the ice layer are almost totally ionized and the CH4 has been pyrolysed to carbon, possibly in the metallic or diamond form
 
 ## Mission vers Neptune
