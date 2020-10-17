@@ -33,6 +33,8 @@
 - [In depth : Mercury](https://solarsystem.nasa.gov/planets/mercury/in-depth/#orbit_and_rotation) - NASA Solar System
 - [The study of Mercury](http://adsabs.harvard.edu/full/2010IAUS..269..141P) - Prockter et al (2010)
 - [7 Important Dates in Mercury History](https://www.britannica.com/list/7-important-dates-in-mercury-history) - Encyclopaedia Britannica
+- [Mercury in fiction](https://en.wikipedia.org/wiki/Mercury_in_fiction) - Wikipédia
+- [Mercury](http://www.sf-encyclopedia.com/entry/mercury) - SF Encyclopedia
 
 ---
 
