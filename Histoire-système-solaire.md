@@ -58,7 +58,7 @@
 - L'orbite de Mercure précesse, et ça ne peut pas être expliqué par la physique de Newton. C'est l'un des succès de la théorie de la relativité générale d'Einstein d'avoir réussi à expliquer l'orbite de Mercure au début du 20e siècle.
 > On s'en est inquiété au 19e siècle. Certains astronomes cherchaient une planète encore plus proche du Soleil appelée Vulcain pour expliquer la perturbation de l'orbite de Mercure, sans succès.
 - A la fin du 19e siècle, l'astronome italien Giovanni Schiaparelli pensait que Mercure était en rotation synchrone. Mais c'est un peu plus compliqué que ça.
-> Mercure fait 1.5 tour sur elle même par orbite. Sa période de rotation est égale à 2/3 de sa période de révolution. Une journée complète sur Mercure est égale à 2 ans Mercuriens !
+> Mercure fait 1.5 tour sur elle même par orbite. Sa période de rotation est égale à 2/3 de sa période de révolution. Une journée complète sur Mercure est égale à 2 ans Mercuriens ! Cette propriété de l'orbite de Mercure sera découverte en 1965, suite à des observations de Mercure en ondes radio.
 - Sur Mercure, les jours sont brulants et les nuits sont glaciales. C'est dû au fait qu'elle n'a pas d'atmosphère pour redistribuer la chaleur
 > Les températures de surface sur la face éclairée peuvent excéder les 430°C (mais le plus souvent c'est plutôt vers 500K), et sur la face nuit on passe à -180°C.
 - Mercure emprunte régulièrement quelques atomes d'hydrogène et d'hélium en provenance du vent solaire pour se couvrir.
@@ -66,6 +66,7 @@
 > * La taille de ce coeur est disproportionnée par rapport à la taille de la planète (80% du rayon de la planète est rempli par le noyau). Peut être est-ce dû à un impact ancien, comme celui qui a formé la Lune ? Ou bien aux éruptions solaires violentes du jeune Soleil qui ont vaporisé les éléments formant des roches près de l'étoile ?
 > * Le coeur surdimensionné de la planète fait que Mercure rapetisse au fil du refroidissement de celui-ci ! Depuis sa formation, le rayon de Mercure est plus petit de 7 km.
 - Mercure est si petite que sa chaleur interne a été dissipée depuis bien longtemps
+- Mercure présente [de nombreux cratères](https://www.planetary.org/space-images/permanently-shadowed-radar-bright-mercury) qui sont plongés dans une obscurité éternelle. On les appelle de manière appropriée des [cratères d'obscurité éternelle](https://fr.wikipedia.org/wiki/Crat%C3%A8re_d%27obscurit%C3%A9_%C3%A9ternelle)
 - Mercure n'a pas de véritable atmosphère, donc on n'y trouve pas d'eau liquide. Par contre des observations radar depuis la Terre ont montré en 1991 un point brillant et réfléchissant au pôle Nord de la planète (non photographié par Mariner 10), qui est dû à de la glace piégée à jamais dans un cratère dans l'ombre permanente. 
 > Cette glace provient surement des collisions occasionnelles avec des comètes qui apportent de la vapeur d'eau régulièrement à la planète.
 - Par le passé Mercure était une planète géologiquement active, en témoignent la distribution des bassins de lave (basins).
@@ -127,6 +128,17 @@
 - Et comme Mercure est la planète dont l'orbite est la plus proche du Soleil, elle n'est jamais très éloignée de la Terre, et ce même lorsqu'elle est à l'opposé de nous par rapport au Soleil.
 - Le plus intriguant, c'est qu'avec ce raisonnement, Mercure est aussi la planète la plus proche en moyenne... De toutes les autre planètes du système solaire ! La planète la plus proche de Jupiter est donc aussi Mercure. Et pareil pour Saturne, Uranus et Neptune !
 
+## Mercure dans la fiction
+
+- Fictional works about Mercury can thus be divided into two groups; those, mostly written before 1965, featuring the "Old" Mercury with its light and dark sides, and those that reflect more recent scientific knowledge of the planet. 
+- Until the late nineteenth century it was believed to rotate on its axis every 24 hours or so, but this opinion was displaced by that of Giovanni Schiaparelli (1835-1910) and Percival Lowell, who contended that it kept the same face permanently towards the Sun. Twentieth-century sf writers thus pictured it as having an extremely hot "dayside", a cold "nightside" and a narrow "twilight zone". This image persisted until the 1960s, when it was discovered that Mercury rotates on its axis rapidly enough to have a day somewhat shorter than its year.
+- The earliest visit to Mercury was probably that of Athanasius Kircher in his Itinerarium Exstaticum (1656)
+- The earliest novel in which Mercury came into principal focus was Relation du Monde de Mercure (1750; trans Brian Stableford as The World of Mercury 2015) by Le Chevalier de Béthune
+- Genre SF rarely employed Mercury as a milieu for exotic adventure, preferring Mars and Venus
+- Attempts to use Mercury in more thoughtful stories with some fidelity to astronomical knowledge were likewise infrequent in the pre-World War Two pulps, the first significant examples being Clifford D Simak's "Masquerade" (March 1941 Astounding)
+- After World War Two, however, things picked up a little. Alan E Nourse's memorable "Brightside Crossing" (January 1956 Galaxy) represents a journey across the dayside of the planet as an adventurous feat akin to the then-recent conquest of Everest. The nightside of Mercury features ironically in Larry Niven's "The Coldest Place" (December 1964 If), unfortunately based on the then scientific belief that Mercury always keeps the same face towards the Sun. It emerged in 1965 that the planet has a 3:2 spin-orbit resonance, rotating three times for each two orbits around the Sun: there is no permanent nightside.
+-  Recurring themes include the dangers of being exposed to solar radiation and the possibility of escaping excessive radiation by staying within the planet's slow-moving terminator (the boundary between day and night). 
+
 ## Illustrations Mercure
 
 - [Illumination du pôle Nord de Mercure à partir des données topographiques](https://www.youtube.com/watch?v=pT9YJAe5xsc) - MESSENGER Mission
@@ -161,6 +173,8 @@
 > Maquette mise en scène de la sonde Mariner 10
 - [Mercury Transit 2019 - 4K](https://youtu.be/0yNzSwlnQ2Q) - NASA Goddard
 - [Exploration of the Planets](https://youtu.be/_ds8_IFDp1o) - NASA (1971)
+- [Permanently shadowed, radar-bright regions on Mercury](https://www.planetary.org/space-images/permanently-shadowed-radar-bright-mercury) - Planetary Society (2012)
+> Carte de la sonde MESSENGER montrant des cratères d'obscurité éternelle
 
 # Vénus
 
