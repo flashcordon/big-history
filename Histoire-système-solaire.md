@@ -236,6 +236,17 @@
 
 # Saturne
 
+*Sources*
+
+- [A new 3D model could explain the formation of a hexagon storm on Saturn](https://news.harvard.edu/gazette/story/2020/10/3d-model-seeks-to-explain-mysterious-hexagon-storm-on-saturn/) - Harvard Gazette (2020)
+
+---
+
+## Illustrations de Saturne 
+
+- [Modèle 3D réaliste de Saturne, avec hexagone polaire](https://free3d.com/3d-model/saturn-planet-1949.html) - Free3D (49$)
+- [Saturn’s hexagon mega-storm](https://youtu.be/DB08Hhldg5s) - Harvard University
+
 # Uranus
 
 - *Sources*
