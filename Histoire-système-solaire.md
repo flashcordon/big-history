@@ -268,7 +268,7 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 
 # Mars
 
-## Illustrations
+## Illustrations de Mars
 
 - [Planet Mars](https://youtu.be/dZzY8-nxabA) - NASA (1979)
 
@@ -279,6 +279,7 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 *Sources*
 
 - [A new 3D model could explain the formation of a hexagon storm on Saturn](https://news.harvard.edu/gazette/story/2020/10/3d-model-seeks-to-explain-mysterious-hexagon-storm-on-saturn/) - Harvard Gazette (2020)
+- [Deep rotating convection generates the polar hexagon on Saturn](https://www.pnas.org/content/117/25/13991/tab-article-info) - Yadav et Bloxham (2020)
 
 ---
 
