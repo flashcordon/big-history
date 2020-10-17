@@ -176,6 +176,10 @@
 - [Venus in Fiction](https://en.wikipedia.org/wiki/Venus_in_fiction) - Wikipédia
 - [Vénus et la phosphine : de trop grandes espérances](http://www.exobiologie.fr/blog/2020/10/01/venus-et-la-phosphine-de-trop-grandes-esperances/) - Hervé Cottin, SFE Blog (2020)
 - [A stringent upper limit of the PH3 abundance at the cloud top of Venus](https://arxiv.org/abs/2010.07817) - Encrenaz et al (2020)
+- [Venus in fiction](https://en.wikipedia.org/wiki/Venus_in_fiction) - Wikipédia
+- [The Romantic Venus We Never Knew](http://nautil.us/issue/43/heroes/the-romantic-venus-we-never-knew) - David Grinspoon, Nautilus (2016)
+- [Venus in Science Fiction](https://www.eso.org/public/outreach/eduoff/vt-2004/Background/Infol1/BIS-D10.html) - ESO (2004)
+- [Venus](http://www.sf-encyclopedia.com/entry/venus) - SF Encyclopedia
 
 ---
 
