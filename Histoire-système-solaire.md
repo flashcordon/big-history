@@ -136,8 +136,12 @@
 - The earliest novel in which Mercury came into principal focus was Relation du Monde de Mercure (1750; trans Brian Stableford as The World of Mercury 2015) by Le Chevalier de Béthune
 - Genre SF rarely employed Mercury as a milieu for exotic adventure, preferring Mars and Venus
 - Attempts to use Mercury in more thoughtful stories with some fidelity to astronomical knowledge were likewise infrequent in the pre-World War Two pulps, the first significant examples being Clifford D Simak's "Masquerade" (March 1941 Astounding)
+- In Arthur C. Clarke's Islands in the Sky (1952), there is a description of a strange creature that lives on what was then believed to be the permanently dark nightside with only occasional visits to the twilight zone.
+- In ["The Weather on Mercury"](https://archive.org/stream/galaxymagazine-1953-07/Galaxy_1953_07#page/n85/mode/2up) by William Morrison, a group searches for a missing explorer in the twilight zone of a Mercury with native life.
 - After World War Two, however, things picked up a little. Alan E Nourse's memorable "Brightside Crossing" (January 1956 Galaxy) represents a journey across the dayside of the planet as an adventurous feat akin to the then-recent conquest of Everest. The nightside of Mercury features ironically in Larry Niven's "The Coldest Place" (December 1964 If), unfortunately based on the then scientific belief that Mercury always keeps the same face towards the Sun. It emerged in 1965 that the planet has a 3:2 spin-orbit resonance, rotating three times for each two orbits around the Sun: there is no permanent nightside.
--  Recurring themes include the dangers of being exposed to solar radiation and the possibility of escaping excessive radiation by staying within the planet's slow-moving terminator (the boundary between day and night). 
+-  Recurring themes include the dangers of being exposed to solar radiation and the possibility of escaping excessive radiation by staying within the planet's slow-moving terminator (the boundary between day and night).
+- In Kim Stanley Robinson's novels and short stories, especially The Memory of Whiteness (1985), "Mercurial" (in The Planet on the Table, 1986), Blue Mars (1996), and 2312, Mercury is the home of a vast city called Terminator, populated by large numbers of artists and musicians. To avoid the dangerous solar radiation, the city rolls around the planet's equator on tracks, keeping pace with the planet's rotation so that the Sun never rises fully above the horizon. The motive power comes from solar heat expanding the rails on the day side. 
+- In the 2007 film Sunshine the Icarus II spacecraft goes into orbit around Mercury to rendezvous with the thought-lost Icarus I.
 
 ## Illustrations Mercure
 
