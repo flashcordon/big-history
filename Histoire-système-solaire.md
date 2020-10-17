@@ -240,6 +240,8 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 - [Images of Venus](https://photojournal.jpl.nasa.gov/targetFamily/venus) - NASA JPL
 - [La pluralité des mondes habités](https://gallica.bnf.fr/ark:/12148/bpt6k246240/f11.item.texteImage) - Camille Flammarion (1862)
 > Texte numérisé sur Gallica, avec les illustrations d'origine
+- [Entretiens sur la pluralité des mondes](https://gallica.bnf.fr/ark:/12148/bpt6k5541349w) - Fontenelle (1686)
+> Texte numérisé sur Gallica
 
 # Terre
 
