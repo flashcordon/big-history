@@ -11,6 +11,10 @@
 - [Uranus](#Uranus)
 - [Neptune](#Neptune)
 
+---
+
+- [Pack de modèles 3D phtoréalistes des planètes du système solaire](https://www.cgtrader.com/3d-models/space/planet/photorealistic-solar-system) - caraesarpro, via CGTrader (239$)
+
 # Mercure
 
 - Titre possible : Mercure, monde de fer
