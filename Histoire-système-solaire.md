@@ -238,6 +238,8 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 - [NSSDCA Photo Gallery Venus](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-venus.html) - NASA
 - [Venus Galleries](https://solarsystem.nasa.gov/planets/venus/galleries/?page=0&per_page=25&order=created_at+desc&search=&href_query_params=category%3Dplanets_venus&button_class=big_more_button&tags=venus&condition_1=1%3Ais_in_resource_list&category=51) - NASA Solar System Exploration
 - [Images of Venus](https://photojournal.jpl.nasa.gov/targetFamily/venus) - NASA JPL
+- [La pluralité des mondes habités](https://gallica.bnf.fr/ark:/12148/bpt6k246240/f11.item.texteImage) - Camille Flammarion (1862)
+> Texte numérisé sur Gallica, avec les illustrations d'origine
 
 # Terre
 
