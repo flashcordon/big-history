@@ -175,6 +175,7 @@
 - [Reassessing the Possibility of Life on Venus: Proposal for an Astrobiology Mission](https://www.liebertpub.com/doi/10.1089/15311070260192264) - Schulze-Makuch et al (2004)
 - [Venus in Fiction](https://en.wikipedia.org/wiki/Venus_in_fiction) - Wikipédia
 - [Vénus et la phosphine : de trop grandes espérances](http://www.exobiologie.fr/blog/2020/10/01/venus-et-la-phosphine-de-trop-grandes-esperances/) - Hervé Cottin, SFE Blog (2020)
+- [A stringent upper limit of the PH3 abundance at the cloud top of Venus](https://arxiv.org/abs/2010.07817) - Encrenaz et al (2020)
 
 ---
 
