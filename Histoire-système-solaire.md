@@ -213,6 +213,11 @@
 - La couverture nuageuse est probablement maintenue par un volcanisme actif
 - La surface de Vénus est suffisamment chaude pour faire fondre du plomb.
 - Vénus est nommée en référence à la déesse romaine de l'amour.
+- The very first thing that scientists discovered with a mission to another planet was that Venus was not at all the Earthly paradise that fiction and speculative science had portrayed. It is nearly identical to our own planet in bulk properties such as mass, density, and size. But its surface has been cooked and desiccated by a suffocating ocean of carbon dioxide. Trapped in the scorching death-grip of a runaway greenhouse effect, Venus has long been held up as a cautionary tale for everything that could go wrong on a planet like Earth. As a possible home for alien life, it has been voted the planet least likely to succeed.
+- our picture of Venus at around the time life was getting started on Earth is one of warm oceans, probably rich with organic molecules, sloshing around rocky shores and volcanic vents. Stellar-evolution theory predicts the sun was considerably less bright back then. So, Venus was arguably a cozier habitat for life than Earth. As the sun gradually warmed, water spent more time in the atmosphere than on the surface. Because water vapor is a powerful greenhouse gas, this led to more warming, which in turn led to more evaporation creating a powerful positive feedback. After the sun reached a certain level of brightness, the process became irreversible. The oceans completely boiled off, solar radiation split water into hydrogen and oxygen, the hydrogen escaped into space, and the oxygen either escaped along with it or got swallowed up by surface minerals. The result is the dried-out hellhole we see today.
+- The decline took time. My colleagues and I have applied global circulation models the same kind we use to study climate change on Earth to Venus. When we include details such as cloud formation, global winds, topography, and planetary rotation, our models tell us that Venus could have remained oceanic and habitable for much longer than previously thought perhaps for substantially longer than Mars ever was. 
+- The implications are startling. For most of Earth’s history, Venus may have been the nearest habitable planet and possibly even home to a thriving biosphere. For billions of years, our solar system may have had two neighboring wet, geologically active, habitable rocky worlds. They may even have very occasionally exchanged life when meteors struck and catapulted shrapnel from one planet to the other.
+- My own work in comparative planetology has recently turned increasingly toward understanding the transformation our own planet is now experiencing by our own machine-enabled hands. We need deeper knowledge of climate evolution in order to be good stewards of Earth. But we will never fully understand our planet, or our own role in its evolution, in a vacuum. We need a point of comparison. Venus provides one. It is a natural laboratory to test our models and hone our understanding of extreme climate change.
 
 ### De la vie sur Vénus ?
 
@@ -245,6 +250,16 @@
 
 - Ont atterri sur Vénus
 - Ont mesuré une température de 735K et une pression à la surface de 90 bars.
+
+### Venera 9
+
+-  the first-ever photograph taken from the surface of another planet: Venus. The Soviet Venera 9 probe had sent back a black-and-white image of a landscape with angular rocks and fine-grained dirt. 
+- The rocky vistas glimpsed by Venera 9 and other Russian landers suggested a tortured volcanic history. That was confirmed in the early 1990s by the American Magellan orbiter, which used radar to peer through the planet’s thick clouds and map out a rich, varied, and dynamic surface. To judge from the paucity of impact craters, the surface formed mostly in the last billion years, which makes it fresher and more recently active than any rocky planet other than Earth. Russian and American spacecraft also found hints that the primordial climate might have been wetter, cooler, and possibly even friendly to life. Measurements of density and composition imply that Venus originally formed out of basically the same stuff as Earth. That presumably included much more water than the trace equivalent to one thousandth of 1 percent of Earth’s oceans that we find wafting in the thick air today.
+
+### Akatsuki
+
+- The Japanese space agency JAXA launched its own spacecraft, Akatsuki, but when the probe arrived at Venus in 2010, it failed to go into orbit and instead caromed around the sun. In a technical feat that ranks up there with the recovery of Apollo 13, the agency recovered control of the mission and coaxed it into Venus orbit in 2015. Now it is further enriching our understanding of the vibrant changeable atmosphere and clouds and searching for additional hints of a volcanically active surface.
+
 
 ## Vénus dans la fiction
 
