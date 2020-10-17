@@ -226,6 +226,16 @@
 
 # Terre
 
+*ources*
+
+## Illlustrations de la Terre
+
+- [Lever de Terre](https://fr.wikipedia.org/wiki/Lever_de_Terre#/media/Fichier:NASA-Apollo8-Dec24-Earthrise.jpg) - Bill Anders (1968)
+- [Earthrise: A Video Reconstruction](https://svs.gsfc.nasa.gov/4129) - NASA (2013)
+- [KAGUYA taking "Full Earth-rise" by HDTV (Apr. 5, 2008)](https://youtu.be/H1KWtG66lEQ) - JAXA (2009)
+- [La bille bleue](https://fr.wikipedia.org/wiki/La_Bille_bleue#/media/Fichier:The_Earth_seen_from_Apollo_17.jpg) - Harrison Schmitt ou Ron Evans, d'Apollo 17 (1972)
+- [Blueturn](http://blueturn.earth/?lang=fr)
+
 # Mars
 
 ## Illustrations
