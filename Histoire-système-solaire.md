@@ -222,6 +222,16 @@
 - Ont atterri sur Vénus
 - Ont mesuré une température de 735K et une pression à la surface de 90 bars.
 
+## Vénus dans la fiction
+
+- Le philosophe français Bernard de Bovier de Fontenelle (1657-1757) in France also believed in Venusian inhabitants in his extraordinary book "Entretiens sur la Pluralité des Mondes" published in 1686. It was the first well-founded scientific novel about extraterrestrial worlds. The author spoke about civilisations on Mercury, Venus and Saturn. Fontenelle's novel was the most popular book of this type until the end of the 18th century. 
+Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the theory that the fauna and flora of individual planets were made out of material the lightness and faintness and which depended on their distance from the Sun. So the inhabitants of Earth and Mars were situated at a low level, much lower than the intelligence of the inhabitants of Venus and Mercury. 
+- Venus came to the fore as a theme for science fiction novels in the 1930s. They depicted the planet as a virgin world with fauna and flora which existed on Earth during the Carboniferous and Permian periods (jungles, deserts, oceans, volcanoes and dinosaurs). The stories reflected the colonial history of Africa and the American West. The best known novels about Venus were written by Edgar Rice Burroughs: "Pirates of Venus" (1934), "Lost on Venus" (1935), "Carson of Venus" (1939), "Escape on Venus" (1946) and "The Wizard of Venus" (posthumously in 1970). 
+- Until the middle of the 19th century, ideas of life on other planets were based mostly upon pure fantasy or more or less scientifically based assumptions but not on hard facts. Then the method of spectroscopic observations and new knowledge of chemistry seemed to show that all the planets of the solar system contain the same chemical elements as the Earth. Thus scientists at the beginning of the 20th century concluded that Venus had an atmosphere like that of the Earth.
+- Camille Flammarion, dans [La pluralité des mondes habités](https://gallica.bnf.fr/ark:/12148/bpt6k246240/f11.item.texteImage) publié en 1862
+- The Polish author Stanislav Lem was one of the first to create an image of Venus very similar to our present knowledge of the extreme surface conditions on the planet. In his novel "The Astronauts" (1951), he described the surface of Venus as a hellish place. The astronauts who visit it on an international expedition see that the cause is not natural. When they discover the remains of an extinct high technology civilisation, they find evidence that the inhabitants had committed nuclear suicide and destroyed their environment.
+- Avant l'exploration spatiale les scientifiques pensaient que Vénus était recouverte par une jungle ou un marais
+
 ## Illustrations Vénus
 
 - [Tweet de Landru79 avec un timelapse des nuages de Vénus par  AKATSUKI](https://twitter.com/landru79/status/1238226872854601728)
