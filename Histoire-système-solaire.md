@@ -309,6 +309,10 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 > Texte numérisé sur Gallica, avec les illustrations d'origine
 - [Entretiens sur la pluralité des mondes](https://gallica.bnf.fr/ark:/12148/bpt6k5541349w) - Fontenelle (1686)
 > Texte numérisé sur Gallica
+- [Venera 14 descent vehicle Венера-14 спускаемый аппарат](https://youtu.be/jb1UAbWA4i4) - SOVIET SPACE PROGRAM (Космическая программа СССР) (2017)
+> Animation de la descente sur Vénus de Venera 14
+- [Venus surface (Venera probes 9 10 13 14)](https://youtu.be/1s9zN7o-dik) - SOVIET SPACE PROGRAM (Космическая программа СССР) (2015)
+> Diapo d'images de la surface de Vénus par les sondes Venera 9 10 13 et 14
 
 # Terre
 
