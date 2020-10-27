@@ -204,6 +204,8 @@
 - [The Romantic Venus We Never Knew](http://nautil.us/issue/43/heroes/the-romantic-venus-we-never-knew) - David Grinspoon, Nautilus (2016)
 - [Venus in Science Fiction](https://www.eso.org/public/outreach/eduoff/vt-2004/Background/Infol1/BIS-D10.html) - ESO (2004)
 - [Venus](http://www.sf-encyclopedia.com/entry/venus) - SF Encyclopedia
+- [Vénéra : tout savoir sur le programme soviétique d’exploration de Vénus](https://www.fromspacewithlove.com/fr/venera-fr/) - From space with love
+- [Standing on Venus in 1975](http://planetimages.blogspot.com/2014/07/standing-on-venus-in-1975.html) - Planet Images blog (2014)
 
 ---
 
@@ -239,6 +241,21 @@
 - Aujourd'hui, l'hypothèse de la vie sur Vénus est crédible, et considérée sérieuse par de nombreux exobiologistes. Mais elle reste encore à confirmer ou à infirmer par de futures observations et missions in situ.
 - Il est aussi possible que des impacts de météorites entre les planètes aient apporté la vie sur Vénus. On sait que les planètes internes s'échangeaient des cailloux au début de l'histoire du système solaire. (météorites martiennes)
 - Cette hypothèse est difficile à vérifier parce que la surface de Vénus a un âge inférieur à 1 milliard d'années. C'est pour ça que la plupart des missions d'exobiologie jusqu'à présent se sont focalisées sur Mars.
+- In the first billion years
+of solar system evolution, Venus, Mars and Earth were all
+very different from their current states,
+To the extent that
+we can understand, with some confidence, the likely past and
+future states of local terrestrial planets, we can expand our
+knowledge base to more than the three examples provided
+by the current states of these planets.
+Both Venus and Mars have sulfur-rich environments, and
+may have experienced a watery past followed by an acidic
+phase as they desiccated. Current observations of Mars are
+thus leading to the increasing relevance of studying Venus as
+an early Mars analog. If there was an origin of life on Mars,
+it would most likely have taken place in acidic, sulfur-rich
+conditions.
 
 ## Missions vers Vénus
 
