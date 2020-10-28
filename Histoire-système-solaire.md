@@ -88,7 +88,8 @@
 > * a effectué 3 survols rapprochés de Mercure entre 1974 et 1975, et a révélé les premières images rapprochées de la surface au monde entier. Une planète sans atmosphère, à la surface meutrie de cratères.
 > * a photographié 45% de la surface de la planète. Les scientifiques découvrent avec surprise que la planète possède un champ magnétique. Faible, mais existant.
 > * 10 jours après sont 3e passage auprès de Mercure, les réservoirs d'azote de la sonde sont vides.
-- ***MESSENGER*** (NASA, 2004-2015)
+- ***MESSENGER***
+ (NASA, 2004-2015)
 > * Proposée en 1996, sélectionnée en 1999
 > * MErcury Surface, Space ENvironment, GEochemistry, and Ranging
 > * Décollé le 3 Aout 2004 depuis Cap Canaveral. En Janvier 2008 elle fait son premier survol rapproché de la planète (200km). En 2013 elle réalise la première cartographie complète de la surface de Mercure.
@@ -160,7 +161,8 @@
 > Vidéo du décollage de MESSENGER
 - [NASA's MESSENGER Mission Ends At Mercury](https://www.youtube.com/watch?v=Z0mxVcBum8M) -  JHU Applied Physics Laboratory
 > Animations HD de la sonde
-- [A Tribute to MESSENGER](https://youtu.be/urTtr14reCU) - MESSENGER Mission
+- [A Tribute to MESSENGER](https://youtu.be/urTtr14reCU) - MESSENGER
+ Mission
 > Collage de plein d'images de la sonde en low res
 - [MESSENGER Takes First Picture While in Mercury's Orbit](https://youtu.be/57Y7Qm-BoCw) - NASA
 > Simulation 3D du point de vue de MESSENGER lors de son arrivée à Mercure
@@ -233,7 +235,8 @@
 - Au dessus des nuages, on trouve des cristaux de glace d'eau (température : 210K), et il est possible que l'on trouve des goutelette d'eau liquide vers la base de la couverture nuageuse (température : 260-280K, pression : 1 atmosphère).
 - La dense couverture nuageuse protégerait le bas des nuages des rayonnements UV du Soleil
 - Morowitz et Sagan imaginaient des créatures en forme de ballons remplis d'hydrogène de la taille d'une balle de ping pong flottant dans l'atmopshère vénusienne comme des montgolfières, juste en dessous de la couverture nuageuse, ou bien à la base des nuages
-- Selon les 2 chercheurs, les nuages de Vénus représentent l'environnement extraterrestre le plus proche des conditions terrestres que l'on connaisse actuellement.
+-
+ Selon les 2 chercheurs, les nuages de Vénus représentent l'environnement extraterrestre le plus proche des conditions terrestres que l'on connaisse actuellement.
 - Dans son passé, Vénus a très probablement eu des océans d'eau liquide à sa surface (mais très acides). Mais on ne sait pas encore pendant combien de temps.
 - L'idée est que si la surface de Vénus a été habitable par le passé, et à mesure que la surface de Vénus s'est réchauffée et est devenue inhabitable, la vie a émigré et perduré dans les couches nuageuses de la planète.
 > Les modèles d'évolution planétaire prédisent que Vénus aurait pu avoir un océan d'eau liquide par le passé, par le même processus que la Terre a reçu son eau primordiale. C'est le scénario le plus probable à l'heure actuelle. Mais on n'en a aucune trace observable qui soit convaincante à ce jour.
@@ -260,6 +263,16 @@ conditions.
 ## Missions vers Vénus
 
 - Plus de 25 sondes ont été envoyées vers Vénus, et plus d'une douzaine a atterri à sa surface.
+- Le programme Vénéra désigne une trentaine de sondes spatiales qui ont été tirées par l’URSS vers Vénus entre 1961 et 1985. Cela a donné lieu à des missions de survol, des orbiteurs, des atterrisseurs et même des ballons-sondes.
+- Les premières sondes du programme Vénéra ont pour but de percer le voile de l'atmosphère vénusienne avant les américains.
+
+### Le programme Venera
+
+- Vénéra s’arrache de la gravité terrestre et devient le premier vaisseau spatial humain à entrer sur une trajectoire interplanétaire. Malgré ce lancement réussi, la chance ne dure que quelques jours à peine. Une semaine après son décollage, le contact est perdu avec la sonde spatiale soviétique. Elle finit bel et bien par survoler Vénus mais sans pouvoir nous communiquer aucune de ses observations.
+- Pour ne pas confondre les sondes spatiales, il est nécessaire de faire un petit point sur la nomenclature très particulière des sondes soviétiques de l’époque. Elles ne recevaient leur nom de baptême que lorsqu’elles voyageaient avec succès vers leur cible. Les deux sondes qui ont réussi à partir vers Vénus en 1965 sont donc appelées Vénéra 2 et Vénéra 3, bien qu’elles représentent respectivement la huitième et neuvième tentative d’atteindre Vénus
+- Vénéra 2 et Vénéra 3 atteignent les environs de Vénus sans encombre au cours du premier trimestre de l’année 1965. Vénéra 2 est une mission de survol équipée de huit instruments scientifiques dont des caméras. Pour mettre ces instruments en route, la sonde spatiale doit couper ses communications avec la Terre. Malgré un survol et une prise d’information probablement optimale, les communications ne seront jamais rétablies. Vénéra 2 continue sur sa lancée en emportant ses secrets.
+- Vénéra 3 et la première sonde atmosphérique à pénétrer les couches nuageuses de Vénus le 1er mars 1966, un exploit que les scientifiques soviétiques digère amèrement car le contact radio avec la sonde spatiale a été perdu 12 jours auparavant. Impossible de savoir comment s’est déroulée la descente. La sonde devait déployer un parachute et éventuellement descendre jusqu’à la surface de Vénus. On peut tout de même raisonnablement penser que Vénéra 3 est le premier objet humain à avoir toucher la surface d’une autre planète que la Terre.
+- Vénéra 4 pénètre dans l’atmosphère vénusienne le 18 octobre 1967. A l’époque, on ne sait toujours presque rien de notre voisine. Les américains ont bien réussi un survol en 1962 avec Mariner 2, mais il n’a livré que peu d’informations. Vénéra 4 est donc équipée pour pouvoir atterrir sur une surface solide ou liquide. Elle parvient à déployer son parachute et à maintenir les communications avec la Terre. Elle descend tranquillement pendant 93 minutes en communiquant des mesures de pression de température ou de composition chimique. Un véritable enfer qui se révèle sous leurs yeux. Les températures se comptent en centaines de degrés Celsius. Vénéra 4 est tout simplement broyée par la pression atmosphérique de Vénus alors qu’elle est encore à 27 kilomètres de la surface de Vénus. 
 
 ### Mariner 2
 
@@ -285,7 +298,8 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 - Venus came to the fore as a theme for science fiction novels in the 1930s. They depicted the planet as a virgin world with fauna and flora which existed on Earth during the Carboniferous and Permian periods (jungles, deserts, oceans, volcanoes and dinosaurs). The stories reflected the colonial history of Africa and the American West. The best known novels about Venus were written by Edgar Rice Burroughs: "Pirates of Venus" (1934), "Lost on Venus" (1935), "Carson of Venus" (1939), "Escape on Venus" (1946) and "The Wizard of Venus" (posthumously in 1970). 
 - Until the middle of the 19th century, ideas of life on other planets were based mostly upon pure fantasy or more or less scientifically based assumptions but not on hard facts. Then the method of spectroscopic observations and new knowledge of chemistry seemed to show that all the planets of the solar system contain the same chemical elements as the Earth. Thus scientists at the beginning of the 20th century concluded that Venus had an atmosphere like that of the Earth.
 - Camille Flammarion, dans [La pluralité des mondes habités](https://gallica.bnf.fr/ark:/12148/bpt6k246240/f11.item.texteImage) publié en 1862
-- The Polish author Stanislav Lem was one of the first to create an image of Venus very similar to our present knowledge of the extreme surface conditions on the planet. In his novel "The Astronauts" (1951), he described the surface of Venus as a hellish place. The astronauts who visit it on an international expedition see that the cause is not natural. When they discover the remains of an extinct high technology civilisation, they find evidence that the inhabitants had committed nuclear suicide and destroyed their environment.
+- The Polish author Stanislav Lem was one of the first to create an image of Venus very similar to our present knowledge of the extreme surface conditions on the planet. In his novel "The Astronauts" (1951), he described the surface of Venus as a hellish place. The astronauts who visit it on an international expedition see that the cause is not natural. When they discover the remains of an extinct high technology civilisation, they find evidence that the inhabitants had committed nuclear suicide and destroyed
+ their environment.
 - Avant l'exploration spatiale les scientifiques pensaient que Vénus était recouverte par une jungle ou un marais
 - Nineteenth-century astronomers and early-twentieth-century sf writers generally imagined that, as the featureless face was a permanent cloud layer, the surface beneath must be warm and wet; the Venus of the imagination became a planet of vast oceans (perhaps with no land at all) or sweltering jungles. In the 1960s, however, probes revealed that Venus has no liquid water at its surface, and that its clouds – mostly composed of carbon dioxide – create a greenhouse effect in the lower atmosphere which generates temperatures of several hundred degrees Celsius.
 - Early planetary tours to take in Venus – including Athanasius Kircher's Itinerarium Exstaticum (1656), Emanuel Swedenborg's The Earths in our Solar System (1758) and George Griffith's A Honeymoon in Space (January-July 1900 Pearson's as "Stories of Other Worlds"; exp 1901) – were influenced by the planet's longtime association with the goddess of love: its inhabitants were frequently characterized as gentle and ethereal, after the fashion of Bernard le Bovyer de Fontenelle's Entretiens sur la pluralité des mondes habités (1686; trans J Glanvill as A Plurality of Worlds 1929). The first novel concerned specifically with Venus was Achille Eyraud's Voyage à Venus "Voyage to Venus" (1865).
@@ -313,6 +327,8 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 > Animation de la descente sur Vénus de Venera 14
 - [Venus surface (Venera probes 9 10 13 14)](https://youtu.be/1s9zN7o-dik) - SOVIET SPACE PROGRAM (Космическая программа СССР) (2015)
 > Diapo d'images de la surface de Vénus par les sondes Venera 9 10 13 et 14
+- [Soviet Venus space probe "Venera-4" 1967 documentary](https://youtu.be/XLHH7JGd-Xo) - Vladimir Semin
+> Images d'archives de la construction de Vénéra 4, des tests qu'elle a subi, de son lancement, puis animation vintage de son arrivée à Venus et son atterrissage.
 
 # Terre
 
@@ -375,7 +391,8 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 - Uranus met 84 ans terrestres à orbiter autour du Soleil, et 17h terrestres à faire un tour complet sur elle-même (dans le sens constraire de la plupart des planètes).
 - Sa particularité est son axe de rotation. Celui-ci est si incliné par rapport au plan de son orbite (97,7°) qu'elle semble rouler sur son orbite autour du Soleil comme une boule.
 > Ca rend ses saisons extrêmes, les plus extrêmes du système solaire. Pendant le quart de l'année uranienne, le Soleil fait directement face à ses pôles, ce qui plonge le reste de la planète dans un long hiver sombre de 21 ans.
-- Uranus possède 27 lunes connues, nommées en hommage à des personnages de William Shakespeare et Alexander Pope
+- Uranus possède
+ 27 lunes connues, nommées en hommage à des personnages de William Shakespeare et Alexander Pope
 - Elle possède aussi 13 anneaux
 - Uranus est 4 fois plus large que la Terre
 - Elle possède 2 systèmes d'anneau. Le système interne comprend 9 anneaux (gris foncé), le système externe 2 (rougeatre et bleuatre).
@@ -460,7 +477,8 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 
 ### Voyager 2
 
-- Voyager 2 survole Neptune en 1989, et passe à 4900 km au plus près de la planète.
+- Voyager 2
+ survole Neptune en 1989, et passe à 4900 km au plus près de la planète.
 - Les images de la sonde révèlent une couverture nuageuse qui s'étend parallèle à l'équateur
 - Des nuages blancs se démarquent du fond bleu intense de la planète : ils sont constitués de cristaux de glace de méthane, qui s'étendent jusqu'à 50 km de profondeur
 - Elle observe aussi un sytème d'au moins 4 vastes tempêtes : la plus grande est nommée la grande tache noire, en référence à la grande tache rouge de Jupiter. Elle tourne sur elle-même en 16 jours terrestres, dans le sens contraire aux aiguilles d'une montre. Elle est due à du gaz de l'intérieur de la planète qui remonte dans les couches externes
