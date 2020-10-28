@@ -208,6 +208,7 @@
 - [Venus](http://www.sf-encyclopedia.com/entry/venus) - SF Encyclopedia
 - [Vénéra : tout savoir sur le programme soviétique d’exploration de Vénus](https://www.fromspacewithlove.com/fr/venera-fr/) - From space with love
 - [Standing on Venus in 1975](http://planetimages.blogspot.com/2014/07/standing-on-venus-in-1975.html) - Planet Images blog (2014)
+- [The First Time We Saw All of Venus: The Magellan Mission](https://youtu.be/kSPXrzxwtCE?list=WL) - Scishow Space (2020)
 
 ---
 
@@ -217,6 +218,7 @@
 - La couverture nuageuse est probablement maintenue par un volcanisme actif
 - La surface de Vénus est suffisamment chaude pour faire fondre du plomb.
 - Vénus est nommée en référence à la déesse romaine de l'amour.
+- Contrairement à la plupart des planètes, Vénus tourne sur elle-même dans l'autre sens. 
 - The very first thing that scientists discovered with a mission to another planet was that Venus was not at all the Earthly paradise that fiction and speculative science had portrayed. It is nearly identical to our own planet in bulk properties such as mass, density, and size. But its surface has been cooked and desiccated by a suffocating ocean of carbon dioxide. Trapped in the scorching death-grip of a runaway greenhouse effect, Venus has long been held up as a cautionary tale for everything that could go wrong on a planet like Earth. As a possible home for alien life, it has been voted the planet least likely to succeed.
 - our picture of Venus at around the time life was getting started on Earth is one of warm oceans, probably rich with organic molecules, sloshing around rocky shores and volcanic vents. Stellar-evolution theory predicts the sun was considerably less bright back then. So, Venus was arguably a cozier habitat for life than Earth. As the sun gradually warmed, water spent more time in the atmosphere than on the surface. Because water vapor is a powerful greenhouse gas, this led to more warming, which in turn led to more evaporation creating a powerful positive feedback. After the sun reached a certain level of brightness, the process became irreversible. The oceans completely boiled off, solar radiation split water into hydrogen and oxygen, the hydrogen escaped into space, and the oxygen either escaped along with it or got swallowed up by surface minerals. The result is the dried-out hellhole we see today.
 - The decline took time. My colleagues and I have applied global circulation models the same kind we use to study climate change on Earth to Venus. When we include details such as cloud formation, global winds, topography, and planetary rotation, our models tell us that Venus could have remained oceanic and habitable for much longer than previously thought perhaps for substantially longer than Mars ever was. 
@@ -274,7 +276,7 @@ conditions.
 - Vénéra 3 et la première sonde atmosphérique à pénétrer les couches nuageuses de Vénus le 1er mars 1966, un exploit que les scientifiques soviétiques digère amèrement car le contact radio avec la sonde spatiale a été perdu 12 jours auparavant. Impossible de savoir comment s’est déroulée la descente. La sonde devait déployer un parachute et éventuellement descendre jusqu’à la surface de Vénus. On peut tout de même raisonnablement penser que Vénéra 3 est le premier objet humain à avoir toucher la surface d’une autre planète que la Terre.
 - Vénéra 4 pénètre dans l’atmosphère vénusienne le 18 octobre 1967. A l’époque, on ne sait toujours presque rien de notre voisine. Les américains ont bien réussi un survol en 1962 avec Mariner 2, mais il n’a livré que peu d’informations. Vénéra 4 est donc équipée pour pouvoir atterrir sur une surface solide ou liquide. Elle parvient à déployer son parachute et à maintenir les communications avec la Terre. Elle descend tranquillement pendant 93 minutes en communiquant des mesures de pression de température ou de composition chimique. Un véritable enfer qui se révèle sous leurs yeux. Les températures se comptent en centaines de degrés Celsius. Vénéra 4 est tout simplement broyée par la pression atmosphérique de Vénus alors qu’elle est encore à 27 kilomètres de la surface de Vénus. 
 
-### Mariner 2
+### Mariner 2 et 5
 
 ### Venera 7 et 8
 
@@ -285,6 +287,18 @@ conditions.
 
 -  the first-ever photograph taken from the surface of another planet: Venus. The Soviet Venera 9 probe had sent back a black-and-white image of a landscape with angular rocks and fine-grained dirt. 
 - The rocky vistas glimpsed by Venera 9 and other Russian landers suggested a tortured volcanic history. That was confirmed in the early 1990s by the American Magellan orbiter, which used radar to peer through the planet’s thick clouds and map out a rich, varied, and dynamic surface. To judge from the paucity of impact craters, the surface formed mostly in the last billion years, which makes it fresher and more recently active than any rocky planet other than Earth. Russian and American spacecraft also found hints that the primordial climate might have been wetter, cooler, and possibly even friendly to life. Measurements of density and composition imply that Venus originally formed out of basically the same stuff as Earth. That presumably included much more water than the trace equivalent to one thousandth of 1 percent of Earth’s oceans that we find wafting in the thick air today.
+
+### Magellan
+
+- Lancé en 1989 à bord de la navette spatiale Atlantis
+- Après 15 mois de voyage, Magellan arrive aux abords de Vénus et passe 4 ans à orbiter et à cartographier la planète.
+- Les caméras normales ne peuvent pas percer le voile atmosphérique de Vénus. Par contre les ondes radar si. Elles passent à travers la couverture nuageuse, rebondissent sur la surface, ce qui nous permet d'avoir des images de la surface.
+- Magellan a imagé 98% de la surface de Vénus avec une résolution d'au moins 300m.
+- A la fin de sa mission en 1994, Magellan a été envoyée plonger dans l'atmosphère de Vénus pour y mourir.
+- Magellan nous a fourni la première carte complète, et la plus détaillée à ce jour de la surface de Vénus.
+- Elle a montré que 85% des caractéristiques de surface sur Vénus sont d'origine volcanique : des domes de lave, des plaines de lave, des volcans...
+- Elle a aussi révélé que la surface de Vénus était relativement peu cratérisée. Elle est plutôt lisse. Ce qui suggère que sa surface est relativement jeune (pas plus de 800 millions d'années)
+
 
 ### Akatsuki
 
@@ -329,10 +343,12 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 > Diapo d'images de la surface de Vénus par les sondes Venera 9 10 13 et 14
 - [Soviet Venus space probe "Venera-4" 1967 documentary](https://youtu.be/XLHH7JGd-Xo) - Vladimir Semin
 > Images d'archives de la construction de Vénéra 4, des tests qu'elle a subi, de son lancement, puis animation vintage de son arrivée à Venus et son atterrissage.
+- [Venus in a Minute](https://youtu.be/o-KMLF-OPtg) - NASA Goddard (2020)
+> Simulations réalistes de la surface et des nuages de Vénus.
 
 # Terre
 
-*ources*
+*Sources*
 
 ## Illlustrations de la Terre
 
