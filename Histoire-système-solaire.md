@@ -15,6 +15,11 @@
 
 - [Pack de modèles 3D phtoréalistes des planètes du système solaire](https://www.cgtrader.com/3d-models/space/planet/photorealistic-solar-system) - caraesarpro, via CGTrader (239$)
 
+---
+
+***Idées de mise en scène :***
+- A chaque fois qu'on montre une planète, l'illustrer en comparaison à la Terre
+
 # Mercure
 
 - Titre possible : Mercure, monde de fer
