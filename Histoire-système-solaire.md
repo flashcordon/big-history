@@ -215,6 +215,7 @@
 - [Standing on Venus in 1975](http://planetimages.blogspot.com/2014/07/standing-on-venus-in-1975.html) - Planet Images blog (2014)
 - [The First Time We Saw All of Venus: The Magellan Mission](https://youtu.be/kSPXrzxwtCE?list=WL) - Scishow Space (2020)
 - [This Is What The Surface Of Venus Sounds Like! Venera 14 Sound Recording 1982 (4K UHD)](https://youtu.be/P3Ife6iBdsU) - V101 Science (2020)
+- [Folks: let's talk about Venera 14](https://twitter.com/ThePlanetaryGuy/status/1235724326902435840) - Thread de Pal Byrne (2020)
 
 ---
 
