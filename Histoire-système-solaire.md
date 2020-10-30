@@ -214,6 +214,7 @@
 - [Vénéra : tout savoir sur le programme soviétique d’exploration de Vénus](https://www.fromspacewithlove.com/fr/venera-fr/) - From space with love
 - [Standing on Venus in 1975](http://planetimages.blogspot.com/2014/07/standing-on-venus-in-1975.html) - Planet Images blog (2014)
 - [The First Time We Saw All of Venus: The Magellan Mission](https://youtu.be/kSPXrzxwtCE?list=WL) - Scishow Space (2020)
+- [This Is What The Surface Of Venus Sounds Like! Venera 14 Sound Recording 1982 (4K UHD)](https://youtu.be/P3Ife6iBdsU) - V101 Science (2020)
 
 ---
 
@@ -292,6 +293,10 @@ conditions.
 
 -  the first-ever photograph taken from the surface of another planet: Venus. The Soviet Venera 9 probe had sent back a black-and-white image of a landscape with angular rocks and fine-grained dirt. 
 - The rocky vistas glimpsed by Venera 9 and other Russian landers suggested a tortured volcanic history. That was confirmed in the early 1990s by the American Magellan orbiter, which used radar to peer through the planet’s thick clouds and map out a rich, varied, and dynamic surface. To judge from the paucity of impact craters, the surface formed mostly in the last billion years, which makes it fresher and more recently active than any rocky planet other than Earth. Russian and American spacecraft also found hints that the primordial climate might have been wetter, cooler, and possibly even friendly to life. Measurements of density and composition imply that Venus originally formed out of basically the same stuff as Earth. That presumably included much more water than the trace equivalent to one thousandth of 1 percent of Earth’s oceans that we find wafting in the thick air today.
+
+### Vénéra 14
+
+- En 1982, Vénéra 14 enregistre les sons de la surface de Vénus.
 
 ### Magellan
 
