@@ -367,6 +367,10 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 - [Evolution of Venus Animations](https://svs.gsfc.nasa.gov/20308) - NASA Goddard Conceptual Image Lab
 > Animation réaliste de la surface de Vénus il y a plusieurs milliards d'années (avec océans et volcans), et animation de la surface aujourd'hui
 - [Panoramique de Vénéra 14 à la surface de Vénus](https://www.stelvision.com/astro/wp-content/uploads/2018/04/surface_Venus_Venera14_credit_Acad%C3%A9mie_russe_des_sciences_Ted_Stryk.png) - Académie russe des sciences, Ted Stryk
+- [A way to explore Venus](https://youtu.be/0az7DEwG68A) - NASA Langley Research Center (2014)
+> Concept animé en 3D d'une mission habitée dans les nuages de Vénus à l'aide d'un zeppelin
+- [Venera 13](https://twitter.com/3Dmattias/status/1073500573884956672) - Mattias Malmer (2018)
+> Modèle 3D de Vénéra 13 dans un décor réaliste de Vénus.
 
 # Terre
 
