@@ -231,6 +231,8 @@
 - The decline took time. My colleagues and I have applied global circulation models the same kind we use to study climate change on Earth to Venus. When we include details such as cloud formation, global winds, topography, and planetary rotation, our models tell us that Venus could have remained oceanic and habitable for much longer than previously thought perhaps for substantially longer than Mars ever was. 
 - The implications are startling. For most of Earth’s history, Venus may have been the nearest habitable planet and possibly even home to a thriving biosphere. For billions of years, our solar system may have had two neighboring wet, geologically active, habitable rocky worlds. They may even have very occasionally exchanged life when meteors struck and catapulted shrapnel from one planet to the other.
 - My own work in comparative planetology has recently turned increasingly toward understanding the transformation our own planet is now experiencing by our own machine-enabled hands. We need deeper knowledge of climate evolution in order to be good stewards of Earth. But we will never fully understand our planet, or our own role in its evolution, in a vacuum. We need a point of comparison. Venus provides one. It is a natural laboratory to test our models and hone our understanding of extreme climate change.
+- Les conditions à la surface de Vénus sont insupportables : une température de plus de 460°C, et une pression 93 fois supérieure à la pression terrestre
+> En terme de pression, être à la surface de Vénus, c'est comme être à un kilomètre de profondeur sous les océans sur Terre.
 
 ### De la vie sur Vénus ?
 
@@ -277,6 +279,7 @@ conditions.
 
 ### Le programme Venera
 
+- C'est grâce au programme soviétique Vénéra qu'on a pu avoir des photos depuis la surface de Vénus pour la première fois de l'Histoire.
 - Vénéra s’arrache de la gravité terrestre et devient le premier vaisseau spatial humain à entrer sur une trajectoire interplanétaire. Malgré ce lancement réussi, la chance ne dure que quelques jours à peine. Une semaine après son décollage, le contact est perdu avec la sonde spatiale soviétique. Elle finit bel et bien par survoler Vénus mais sans pouvoir nous communiquer aucune de ses observations.
 - Pour ne pas confondre les sondes spatiales, il est nécessaire de faire un petit point sur la nomenclature très particulière des sondes soviétiques de l’époque. Elles ne recevaient leur nom de baptême que lorsqu’elles voyageaient avec succès vers leur cible. Les deux sondes qui ont réussi à partir vers Vénus en 1965 sont donc appelées Vénéra 2 et Vénéra 3, bien qu’elles représentent respectivement la huitième et neuvième tentative d’atteindre Vénus
 - Vénéra 2 et Vénéra 3 atteignent les environs de Vénus sans encombre au cours du premier trimestre de l’année 1965. Vénéra 2 est une mission de survol équipée de huit instruments scientifiques dont des caméras. Pour mettre ces instruments en route, la sonde spatiale doit couper ses communications avec la Terre. Malgré un survol et une prise d’information probablement optimale, les communications ne seront jamais rétablies. Vénéra 2 continue sur sa lancée en emportant ses secrets.
