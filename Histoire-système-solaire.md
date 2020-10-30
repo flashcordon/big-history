@@ -300,6 +300,8 @@ conditions.
 - Les 2 sondes ont dépassé leur temps de vie estimé
 - Vénéra 14 envoie un panoramique de la surface de Vénus
 - Les deux sondes sont équipées de micros qui enregistrent les sons des vents de la surface de Vénus (pour mesurer leur vitesse)
+> Ces mesures ont montré que la vitesse moyenne des vents sur Vénus est d'environ 0.3-0.5 m/s
+- La sonde Vénéra 14 a survécu près d'une heure dans l'environnement hostile de Vénus.
 
 
 ### Magellan
@@ -359,6 +361,10 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 > Images d'archives de la construction de Vénéra 4, des tests qu'elle a subi, de son lancement, puis animation vintage de son arrivée à Venus et son atterrissage.
 - [Venus in a Minute](https://youtu.be/o-KMLF-OPtg) - NASA Goddard (2020)
 > Simulations réalistes de la surface et des nuages de Vénus.
+- [The sound of Venus (Venera 14) Звук Венеры (Венера-14)](https://youtu.be/8jZDW53U8qQ) - SOVIET SPACE PROGRAM (Космическая программа СССР) (2015)
+> Les enregistrements audio de Vénéra 14 à la surface de Vénus, et le son de la perceuse de la sonde.
+- [Evolution of Venus Animations](https://svs.gsfc.nasa.gov/20308) - NASA Goddard Conceptual Image Lab
+> Animation réaliste de la surface de Vénus il y a plusieurs milliards d'années (avec océans et volcans), et animation de la surface aujourd'hui
 
 # Terre
 
