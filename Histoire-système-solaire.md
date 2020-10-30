@@ -216,6 +216,7 @@
 - [The First Time We Saw All of Venus: The Magellan Mission](https://youtu.be/kSPXrzxwtCE?list=WL) - Scishow Space (2020)
 - [This Is What The Surface Of Venus Sounds Like! Venera 14 Sound Recording 1982 (4K UHD)](https://youtu.be/P3Ife6iBdsU) - V101 Science (2020)
 - [Folks: let's talk about Venera 14](https://twitter.com/ThePlanetaryGuy/status/1235724326902435840) - Thread de Pal Byrne (2020)
+- [What’s on the Surface of Venus? A History of the Venera Program](https://youtu.be/T1c-P1yEEnM) - Fraser Cain (2017)
 
 ---
 
@@ -231,7 +232,7 @@
 - The decline took time. My colleagues and I have applied global circulation models the same kind we use to study climate change on Earth to Venus. When we include details such as cloud formation, global winds, topography, and planetary rotation, our models tell us that Venus could have remained oceanic and habitable for much longer than previously thought perhaps for substantially longer than Mars ever was. 
 - The implications are startling. For most of Earth’s history, Venus may have been the nearest habitable planet and possibly even home to a thriving biosphere. For billions of years, our solar system may have had two neighboring wet, geologically active, habitable rocky worlds. They may even have very occasionally exchanged life when meteors struck and catapulted shrapnel from one planet to the other.
 - My own work in comparative planetology has recently turned increasingly toward understanding the transformation our own planet is now experiencing by our own machine-enabled hands. We need deeper knowledge of climate evolution in order to be good stewards of Earth. But we will never fully understand our planet, or our own role in its evolution, in a vacuum. We need a point of comparison. Venus provides one. It is a natural laboratory to test our models and hone our understanding of extreme climate change.
-- Les conditions à la surface de Vénus sont insupportables : une température de plus de 460°C, et une pression 93 fois supérieure à la pression terrestre
+- Les conditions à la surface de Vénus sont insupportables : des pluies d'acide sulfurique, une température de plus de 460°C, et une pression 93 fois supérieure à la pression terrestre
 > En terme de pression, être à la surface de Vénus, c'est comme être à un kilomètre de profondeur sous les océans sur Terre.
 
 ### De la vie sur Vénus ?
@@ -290,8 +291,10 @@ conditions.
 
 ### Venera 7 et 8
 
-- Ont atterri sur Vénus
-- Ont mesuré une température de 735K et une pression à la surface de 90 bars.
+- Vénéra 7 est la première sonde à s'être posé sur Vénus et à avoir survécu assez longtemps (23 minutes) pour envoyer des données à la Terre
+- Elle a été lancée le 17 Août 2970, et arrive sur Vénus en Décembre.
+- Elle atteint la surface de Vénus plus rapidement que prévu (à 16,5m/s) suite à un mauvais fonctionnement des parachutes), mais elle survit ! Et elle envoie les premiers relevés des températures et de la pression à la surface de vénus.
+- Vénéra 8 est lancée le 17 Mars 1972
 
 ### Venera 9
 
