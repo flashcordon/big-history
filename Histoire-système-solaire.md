@@ -294,21 +294,27 @@ conditions.
 - Vénéra 7 est la première sonde à s'être posé sur Vénus et à avoir survécu assez longtemps (23 minutes) pour envoyer des données à la Terre
 - Elle a été lancée le 17 Août 2970, et arrive sur Vénus en Décembre.
 - Elle atteint la surface de Vénus plus rapidement que prévu (à 16,5m/s) suite à un mauvais fonctionnement des parachutes), mais elle survit ! Et elle envoie les premiers relevés des températures et de la pression à la surface de vénus.
-- Vénéra 8 est lancée le 17 Mars 1972
+- Vénéra 8 est lancée le 17 Mars 1972, et atterrit avec succès sur la surface de Vénus. Elle envoie des données pendant près de 50 minutes. ELle n'avait pas de caméra.
 
 ### Venera 9
 
+- Vénéra 9 est lancée le 8 Juin 1975.
+- C'est la première sonde à prendre des photos de la surface d'une autre planète.
+> Elle envoit à la Terre [une image en noir et blanc des environs de la sonde le 22 Octobre 1975](https://www.planetary.org/space-images/20120907_venera_9_panorama_stryk). Le cache de sa caméra couleur ne s'est pas détaché. Un problème qui s'est aussi poduit pour Vénéra 10, 11 et 12.
+- La sonde survit 53 minutes à la surface de la planète. Pendant ce temps, elle mesure la composition chimique de l'atmosphère.
 -  the first-ever photograph taken from the surface of another planet: Venus. The Soviet Venera 9 probe had sent back a black-and-white image of a landscape with angular rocks and fine-grained dirt. 
 - The rocky vistas glimpsed by Venera 9 and other Russian landers suggested a tortured volcanic history. That was confirmed in the early 1990s by the American Magellan orbiter, which used radar to peer through the planet’s thick clouds and map out a rich, varied, and dynamic surface. To judge from the paucity of impact craters, the surface formed mostly in the last billion years, which makes it fresher and more recently active than any rocky planet other than Earth. Russian and American spacecraft also found hints that the primordial climate might have been wetter, cooler, and possibly even friendly to life. Measurements of density and composition imply that Venus originally formed out of basically the same stuff as Earth. That presumably included much more water than the trace equivalent to one thousandth of 1 percent of Earth’s oceans that we find wafting in the thick air today.
 
 ### Vénéra 13 et 14 (USSR)
 
-- En 1981, Vénéra 13 et 14 sont lancées à quelques jours d'intervalle depuis une fusée Proton-K/D-1. Leur mission : étudier l'atmosphère et la surface de Vénus
+- En 1981, Vénéra 13 et 14 (identiques) sont lancées à quelques jours d'intervalle depuis une fusée Proton-K/D-1. Leur mission : étudier l'atmosphère et la surface de Vénus
 - Les 2 sondes ont dépassé leur temps de vie estimé
+- Vénéra 13 survit pendant 127 minutes à la surface de Vénus. 
 - Vénéra 14 envoie [un panoramique de la surface de Vénus](https://www.stelvision.com/astro/wp-content/uploads/2018/04/surface_Venus_Venera14_credit_Acad%C3%A9mie_russe_des_sciences_Ted_Stryk.png)
 - Les deux sondes sont équipées de micros qui enregistrent les sons des vents de la surface de Vénus (pour mesurer leur vitesse). Grace à Vénéra 13 et 14, on a le premiers enregistrements des sons de la surface d'une autre planète.
 > Ces mesures ont montré que la vitesse moyenne des vents sur Vénus est d'environ 0.3-0.5 m/s
-- La sonde Vénéra 14 a survécu près d'une heure dans l'environnement hostile de Vénus.
+- La sonde Vénéra 14 a survécu près d'une heure (57 minutes) dans l'environnement hostile de Vénus.
+- Vénéra 14 a envoyé les premières photos couleur de la surface de Vénus (à vérifier). Et les dernières. Parce que Vénéra 14 est la dernière sonde a s'être posée sur Vénus.
 
 
 ### Magellan
