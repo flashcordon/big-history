@@ -294,9 +294,13 @@ conditions.
 -  the first-ever photograph taken from the surface of another planet: Venus. The Soviet Venera 9 probe had sent back a black-and-white image of a landscape with angular rocks and fine-grained dirt. 
 - The rocky vistas glimpsed by Venera 9 and other Russian landers suggested a tortured volcanic history. That was confirmed in the early 1990s by the American Magellan orbiter, which used radar to peer through the planet’s thick clouds and map out a rich, varied, and dynamic surface. To judge from the paucity of impact craters, the surface formed mostly in the last billion years, which makes it fresher and more recently active than any rocky planet other than Earth. Russian and American spacecraft also found hints that the primordial climate might have been wetter, cooler, and possibly even friendly to life. Measurements of density and composition imply that Venus originally formed out of basically the same stuff as Earth. That presumably included much more water than the trace equivalent to one thousandth of 1 percent of Earth’s oceans that we find wafting in the thick air today.
 
-### Vénéra 14
+### Vénéra 13 et 14 (USSR)
 
-- En 1982, Vénéra 14 enregistre les sons de la surface de Vénus.
+- En 1981, Vénéra 13 et 14 sont lancées à quelques jours d'intervalle depuis une fusée Proton-K/D-1. Leur mission : étudier l'atmosphère et la surface de Vénus
+- Les 2 sondes ont dépassé leur temps de vie estimé
+- Vénéra 14 envoie un panoramique de la surface de Vénus
+- Les deux sondes sont équipées de micros qui enregistrent les sons des vents de la surface de Vénus (pour mesurer leur vitesse)
+
 
 ### Magellan
 
