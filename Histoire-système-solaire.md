@@ -298,8 +298,8 @@ conditions.
 
 - En 1981, Vénéra 13 et 14 sont lancées à quelques jours d'intervalle depuis une fusée Proton-K/D-1. Leur mission : étudier l'atmosphère et la surface de Vénus
 - Les 2 sondes ont dépassé leur temps de vie estimé
-- Vénéra 14 envoie un panoramique de la surface de Vénus
-- Les deux sondes sont équipées de micros qui enregistrent les sons des vents de la surface de Vénus (pour mesurer leur vitesse)
+- Vénéra 14 envoie [un panoramique de la surface de Vénus](https://www.stelvision.com/astro/wp-content/uploads/2018/04/surface_Venus_Venera14_credit_Acad%C3%A9mie_russe_des_sciences_Ted_Stryk.png)
+- Les deux sondes sont équipées de micros qui enregistrent les sons des vents de la surface de Vénus (pour mesurer leur vitesse). Grace à Vénéra 13 et 14, on a le premiers enregistrements des sons de la surface d'une autre planète.
 > Ces mesures ont montré que la vitesse moyenne des vents sur Vénus est d'environ 0.3-0.5 m/s
 - La sonde Vénéra 14 a survécu près d'une heure dans l'environnement hostile de Vénus.
 
@@ -365,6 +365,7 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 > Les enregistrements audio de Vénéra 14 à la surface de Vénus, et le son de la perceuse de la sonde.
 - [Evolution of Venus Animations](https://svs.gsfc.nasa.gov/20308) - NASA Goddard Conceptual Image Lab
 > Animation réaliste de la surface de Vénus il y a plusieurs milliards d'années (avec océans et volcans), et animation de la surface aujourd'hui
+- [Panoramique de Vénéra 14 à la surface de Vénus](https://www.stelvision.com/astro/wp-content/uploads/2018/04/surface_Venus_Venera14_credit_Acad%C3%A9mie_russe_des_sciences_Ted_Stryk.png) - Académie russe des sciences, Ted Stryk
 
 # Terre
 
