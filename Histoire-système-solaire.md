@@ -57,13 +57,22 @@
 
 ---
 
-## Propriétés de Mercure
+## Histoire de l'observation de Mercure
 
 - La première référence écrite à Mercure nous vient du 7e siècle avant notre ère sur une tablette assyrienne écrite en cunéiformes trouvée en Mésopotamie (la tablette MUL.APIN). A la même époque, les Mayas notent la trajectoire de Mercure dans le ciel, ce qu'on retrouve dans le codex de Dresde.
 - Mercure est présent dans les mythes des civilisations du monde entier
 > * Dans la mythologie nordique elle correspond au dieu Odin
 > * Pour les chinois, elle est associé à la direction du Nord et à l'élément eau
 - Comme c'est la planète avec l'orbite la plus rapprohée du Soleil, sa course est aussi la plus rapide dans le ciel, ce n'est donc pas étonnant que dans de nombreuses cultures elle ait été associée à des dieux messagers (Hermès chez les Grecs, Mercure chez les romains (duh), Thot chez les Egyptiens, Nabu chez les Babyloniens)
+- Malgré le fait qu'elle soit visible à l'oeil nu, sa surface est difficile à observer depuis la Terre (on peut généralement l'observer lorsqu'elle n'est pas éclipsée par le Soleil, c'est à dire à l'aube ou au crépuscule), du coup jusque dans les années 60 on savait très peu de choses sur la planète.
+- Mais 13 fois par siècle on peut observer un transit de Mercure : la planète passe devant le Soleil. La dernière fois, c'était le 11 Novembre 2019.
+- L'orbite de Mercure précesse, et ça ne peut pas être expliqué par la physique de Newton. C'est l'un des succès de la théorie de la relativité générale d'Einstein d'avoir réussi à expliquer l'orbite de Mercure au début du 20e siècle.
+> On s'en est inquiété au 19e siècle. Certains astronomes cherchaient une planète encore plus proche du Soleil appelée Vulcain pour expliquer la perturbation de l'orbite de Mercure, sans succès.
+- A la fin du 19e siècle, l'astronome italien Giovanni Schiaparelli pensait que Mercure était en rotation synchrone. Mais c'est un peu plus compliqué que ça.
+> Mercure fait 1.5 tour sur elle même par orbite. Sa période de rotation est égale à 2/3 de sa période de révolution. Une journée complète sur Mercure est égale à 2 ans Mercuriens ! Cette propriété de l'orbite de Mercure sera découverte en 1965, suite à des observations de Mercure en ondes radio.
+
+## Propriétés de Mercure
+
 - Mercure est la plus proche des planètes du Système solaire, et aussi la plus petite.
 - Mercure et la Lune se ressemblent en bien des points
 > leur rotation a été altéré par les marées, elles ont une atmosphère négligeable (on parle d'exosphère), leur surface est remplie de cratères et de bassins de lave anciennes
@@ -74,12 +83,6 @@
 - C'est la plus proche des planètes du système solaire
 - Entre le lever et le coucher du Soleil, il se passe 88 jours terrestres à la surface de Mercure, durant lesquels le Soleil grossit puis diminue en taille. 
 > Le Soleil apparaît 3 fois plus large sur Mercure que sur Terre, et 7 fois plus brillant.
-- Malgré le fait qu'elle soit visible à l'oeil nu, sa surface est difficile à observer depuis la Terre (on peut généralement l'observer lorsqu'elle n'est pas éclipsée par le Soleil, c'est à dire à l'aube ou au crépuscule), du coup jusque dans les années 60 on savait très peu de choses sur la planète.
-- Mais 13 fois par siècle on peut observer un transit de Mercure : la planète passe devant le Soleil. La dernière fois, c'était le 11 Novembre 2019.
-- L'orbite de Mercure précesse, et ça ne peut pas être expliqué par la physique de Newton. C'est l'un des succès de la théorie de la relativité générale d'Einstein d'avoir réussi à expliquer l'orbite de Mercure au début du 20e siècle.
-> On s'en est inquiété au 19e siècle. Certains astronomes cherchaient une planète encore plus proche du Soleil appelée Vulcain pour expliquer la perturbation de l'orbite de Mercure, sans succès.
-- A la fin du 19e siècle, l'astronome italien Giovanni Schiaparelli pensait que Mercure était en rotation synchrone. Mais c'est un peu plus compliqué que ça.
-> Mercure fait 1.5 tour sur elle même par orbite. Sa période de rotation est égale à 2/3 de sa période de révolution. Une journée complète sur Mercure est égale à 2 ans Mercuriens ! Cette propriété de l'orbite de Mercure sera découverte en 1965, suite à des observations de Mercure en ondes radio.
 - Sur Mercure, les jours sont brulants et les nuits sont glaciales. C'est dû au fait qu'elle n'a pas d'atmosphère pour redistribuer la chaleur
 > Les températures de surface sur la face éclairée peuvent excéder les 430°C (mais le plus souvent c'est plutôt vers 500K), et sur la face nuit on passe à -180°C.
 - Mercure emprunte régulièrement quelques atomes d'hydrogène et d'hélium en provenance du vent solaire pour se couvrir.
