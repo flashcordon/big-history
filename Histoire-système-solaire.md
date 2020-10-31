@@ -425,6 +425,7 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 > Modèle 3D de Vénéra 13 dans un décor réaliste de Vénus.
 - [Venus From 33 Years Ago, and Why We Need to Explore](https://www.planetary.org/articles/0305-venus-from-33-years-ago) - Ted Stryk, Planetary Society 
 > Images en couleur des sondes Vénéra (9, 10, 13, 14)
+- [Panoramique de Vénéra 14, processée par Jason Major](https://twitter.com/ThePlanetaryGuy/status/1235726097926545409/photo/1) - Twitter de Paul Byrne
 
 # Terre
 
