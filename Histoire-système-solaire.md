@@ -19,6 +19,7 @@
 
 ***Idées de mise en scène :***
 - A chaque fois qu'on montre une planète, l'illustrer en comparaison à la Terre
+- Une collab avec un(e) autre vidéaste par épisode ?
 
 # Mercure
 
