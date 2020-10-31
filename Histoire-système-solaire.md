@@ -217,16 +217,18 @@
 - [This Is What The Surface Of Venus Sounds Like! Venera 14 Sound Recording 1982 (4K UHD)](https://youtu.be/P3Ife6iBdsU) - V101 Science (2020)
 - [Folks: let's talk about Venera 14](https://twitter.com/ThePlanetaryGuy/status/1235724326902435840) - Thread de Pal Byrne (2020)
 - [What’s on the Surface of Venus? A History of the Venera Program](https://youtu.be/T1c-P1yEEnM) - Fraser Cain (2017)
+- [What's It Like on ... Venus?](https://youtu.be/c6K2ibg-Wb0?list=WL) - SciShow Space (2014)
 
 ---
 
-- Vénus ressemble beaucoup à la Terre en terme de taille, de masse et de densité moyenne
+- Vénus ressemble beaucoup à la Terre en terme de taille, de masse et de densité moyenne. On peut le voir comme le jumeau maléfique de la Terre.
 > Le diamètre de Vénus est 95% de celui de la Terre
 - Comprendre pourquoi et comment Vénus et la Terre ont eu des destins divergents est crucial pour comprendre l'évolution de notre planète et de l'habitabilité des systèmes stellaires en général.
 - La couverture nuageuse est probablement maintenue par un volcanisme actif
 - La surface de Vénus est suffisamment chaude pour faire fondre du plomb.
 - Vénus est nommée en référence à la déesse romaine de l'amour.
 - Contrairement à la plupart des planètes, Vénus tourne sur elle-même dans l'autre sens. 
+- Sur Vénus, une journée (243 jours) dure plus longtemps qu'un an (220 jours).
 - The very first thing that scientists discovered with a mission to another planet was that Venus was not at all the Earthly paradise that fiction and speculative science had portrayed. It is nearly identical to our own planet in bulk properties such as mass, density, and size. But its surface has been cooked and desiccated by a suffocating ocean of carbon dioxide. Trapped in the scorching death-grip of a runaway greenhouse effect, Venus has long been held up as a cautionary tale for everything that could go wrong on a planet like Earth. As a possible home for alien life, it has been voted the planet least likely to succeed.
 - our picture of Venus at around the time life was getting started on Earth is one of warm oceans, probably rich with organic molecules, sloshing around rocky shores and volcanic vents. Stellar-evolution theory predicts the sun was considerably less bright back then. So, Venus was arguably a cozier habitat for life than Earth. As the sun gradually warmed, water spent more time in the atmosphere than on the surface. Because water vapor is a powerful greenhouse gas, this led to more warming, which in turn led to more evaporation creating a powerful positive feedback. After the sun reached a certain level of brightness, the process became irreversible. The oceans completely boiled off, solar radiation split water into hydrogen and oxygen, the hydrogen escaped into space, and the oxygen either escaped along with it or got swallowed up by surface minerals. The result is the dried-out hellhole we see today.
 - The decline took time. My colleagues and I have applied global circulation models the same kind we use to study climate change on Earth to Venus. When we include details such as cloud formation, global winds, topography, and planetary rotation, our models tell us that Venus could have remained oceanic and habitable for much longer than previously thought perhaps for substantially longer than Mars ever was. 
@@ -328,11 +330,15 @@ conditions.
 - Elle a montré que 85% des caractéristiques de surface sur Vénus sont d'origine volcanique : des domes de lave, des plaines de lave, des volcans...
 - Elle a aussi révélé que la surface de Vénus était relativement peu cratérisée. Elle est plutôt lisse. Ce qui suggère que sa surface est relativement jeune (pas plus de 800 millions d'années)
 
+### Venus Express (ESA, 2005-2014)
 
-### Akatsuki
+- Elle a passé 8 ans à observer Vénus
+
+
+### Akatsuki (JAXA)
 
 - The Japanese space agency JAXA launched its own spacecraft, Akatsuki, but when the probe arrived at Venus in 2010, it failed to go into orbit and instead caromed around the sun. In a technical feat that ranks up there with the recovery of Apollo 13, the agency recovered control of the mission and coaxed it into Venus orbit in 2015. Now it is further enriching our understanding of the vibrant changeable atmosphere and clouds and searching for additional hints of a volcanically active surface.
-
+- Un des grands mystères de Vénus c'est qu'on ne sait pas si sa surface abrite des volcans actifs aujourd'hui.
 
 ## Vénus dans la fiction
 
