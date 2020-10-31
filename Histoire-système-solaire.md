@@ -101,7 +101,7 @@
 ## Missions vers Mercure
 
 - Dans les années 60, on se dit que pour atteindre Mercure, on peut utiliser Vénus comme fronde gravitationnelle, si on gère bien le timing de lancement.
-- Il n'y a eu jusqu'à présent que 3 missions vers Mercure. C4est l'une des planètes les moins explorées du système solaire.
+- Il n'y a eu jusqu'à présent que 3 missions vers Mercure. C'est l'une des planètes les moins explorées du système solaire.
 
 ### Mariner 10 (NASA, 1973-1975)
 
@@ -161,12 +161,12 @@
 
 ## Mercure dans la fiction
 
-- Il y a 2 types d'oeuvres de fiction qui utilisent Mercure d'une manière ou d'une autre : celles écrites avant 1965, la décrivant comme une planète dont une moitié est perpétuellement dans le jour et une autre perpétuellement dans la nuit, et celles écrites après 1965, avec une description plus réaliste de la planète
 - La première oeuvre à imaginer une visite de Mercure est probablement Itinerarium Exstaticum, du jésuite Athanasius Kircher, publié en 1656. [Frontispice](https://en.wikipedia.org/wiki/Itinerarium_exstaticum#/media/File:Fotothek_df_tg_0006154_Astronomie.jpg)
 - Le premier roman à mettre Mercure au centre de l'histoire est [*Relation du Monde de Mercure*](https://gallica.bnf.fr/ark:/12148/bpt6k822119/f1.texteImage) publié par le Chevalier de Béthune en 1750.
-- Mercure a rarement été utilisée dans la SF. Avant la deuxième guerre mondiale, on la retrouve uniquement dans quelques pulps, comme [*Masquerade* de Clifford D Simak](http://www.isfdb.org/cgi-bin/pl.cgi?57562) (Mars 1941, Astounding) [Couverture](http://www.philsp.com/visco/Magazines/ASF/ASF_0124.jpg), [Artwork](https://i.imgur.com/JykDUVb.jpg) ([Source artwork](https://www.abebooks.com/first-edition/Astounding-Science-Fiction-March-1941-Edited-John/30326179817/bd#&gid=1&pid=3): biblioboy, Abebooks)
-- In Arthur C. Clarke's Islands in the Sky (1952), there is a description of a strange creature that lives on what was then believed to be the permanently dark nightside with only occasional visits to the twilight zone.
-- In ["The Weather on Mercury"](https://archive.org/stream/galaxymagazine-1953-07/Galaxy_1953_07#page/n85/mode/2up) by William Morrison, a group searches for a missing explorer in the twilight zone of a Mercury with native life.
+- Mercure a rarement été utilisée dans la SF. Avant la deuxième guerre mondiale, on la retrouve uniquement dans quelques pulps, comme [*Masquerade* de Clifford D Simak](http://www.isfdb.org/cgi-bin/pl.cgi?57562) (Mars 1941, Astounding) [Couverture](http://www.philsp.com/visco/Magazines/ASF/ASF_0124.jpg), [Artwork](https://i.imgur.com/JykDUVb.jpg), ([Source artwork](https://www.abebooks.com/first-edition/Astounding-Science-Fiction-March-1941-Edited-John/30326179817/bd#&gid=1&pid=3): biblioboy, Abebooks)
+- Il y a 2 types d'oeuvres de SF qui utilisent Mercure d'une manière ou d'une autre : celles écrites avant 1965, la décrivant comme une planète dont une moitié est perpétuellement dans le jour et une autre perpétuellement dans la nuit, et celles écrites après 1965, avec une description plus réaliste de la planète
+> * En 1952, dans sa nouvelle *Islands in the Sky*, Arthur C. Clarke imagine Mercure peuplée d'étranges créatures vivant sur la face sombre de Mercure, et qui visitent occasionnellement la zone plongée dans le crépuscule. 
+> * En 1953, William Morrison raconte dans [*The Weather on Mercury*](https://archive.org/stream/galaxymagazine-1953-07/Galaxy_1953_07#page/n85/mode/2up) (Galaxy) l'histoire d'une expédition à la recherche d'un explorateur perdu dans la zone crépusculaire de Mercure, peuplée par de la vie.
 - After World War Two, however, things picked up a little. Alan E Nourse's memorable "Brightside Crossing" (January 1956 Galaxy) represents a journey across the dayside of the planet as an adventurous feat akin to the then-recent conquest of Everest. The nightside of Mercury features ironically in Larry Niven's "The Coldest Place" (December 1964 If), unfortunately based on the then scientific belief that Mercury always keeps the same face towards the Sun. It emerged in 1965 that the planet has a 3:2 spin-orbit resonance, rotating three times for each two orbits around the Sun: there is no permanent nightside.
 -  Recurring themes include the dangers of being exposed to solar radiation and the possibility of escaping excessive radiation by staying within the planet's slow-moving terminator (the boundary between day and night).
 - In Kim Stanley Robinson's novels and short stories, especially The Memory of Whiteness (1985), "Mercurial" (in The Planet on the Table, 1986), Blue Mars (1996), and 2312, Mercury is the home of a vast city called Terminator, populated by large numbers of artists and musicians. To avoid the dangerous solar radiation, the city rolls around the planet's equator on tracks, keeping pace with the planet's rotation so that the Sun never rises fully above the horizon. The motive power comes from solar heat expanding the rails on the day side. 
