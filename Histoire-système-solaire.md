@@ -222,6 +222,8 @@
 - [Venus: Spacecraft exploration](https://www.britannica.com/place/Venus-planet/Spacecraft-exploration) - Encyclopaedia Britannica
 - [Venus exploration](https://www.universetoday.com/47953/venus-exploration/) - Fraser Cain, Universe Today
 - [Missions to Venus: Highlights From History, and When We May Go Back](https://www.nytimes.com/2020/09/14/science/venus-spacecraft-life.html) - Shanon Stironne, New York Times (2020)
+- [Volcanoes on Venus Might Still Be Smoking](https://www.nytimes.com/2020/01/09/science/venus-volcanoes-active.html) - Shannon Hall, New York Times (2020)
+- [Present-day volcanism on Venus as evidenced from weathering rates of olivine](https://advances.sciencemag.org/content/6/1/eaax7445) - Filiberto et al (2020)
 
 ---
 
@@ -242,6 +244,10 @@
 - My own work in comparative planetology has recently turned increasingly toward understanding the transformation our own planet is now experiencing by our own machine-enabled hands. We need deeper knowledge of climate evolution in order to be good stewards of Earth. But we will never fully understand our planet, or our own role in its evolution, in a vacuum. We need a point of comparison. Venus provides one. It is a natural laboratory to test our models and hone our understanding of extreme climate change.
 - Les conditions à la surface de Vénus sont insupportables : des pluies d'acide sulfurique, une température de plus de 460°C, et une pression 93 fois supérieure à la pression terrestre
 > En terme de pression, être à la surface de Vénus, c'est comme être à un kilomètre de profondeur sous les océans sur Terre.
+
+## Un volcanisme actif sur Vénus ?
+
+- 
 
 ### De la vie sur Vénus ?
 
