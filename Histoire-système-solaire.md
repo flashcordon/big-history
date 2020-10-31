@@ -247,7 +247,7 @@
 
 ## Un volcanisme actif sur Vénus ?
 
-- 
+- Scientists have long debated whether Venus might be volcanically active. In the early 1990s, cloud-penetrating radar on the Magellan orbiter revealed a surface studded with volcano-like mountains. But no one knew whether these features remained active. Then in 2010, data from Europe’s Venus Express spacecraft revealed several hot spots that suggested lava had flowed as recently as 250,000 years ago. And in 2012, the orbiter observed spikes in sulfur dioxide — a gas that smells like a struck match and is commonly produced on Earth by active volcanoes — within the Venusian atmosphere. The evidence was tantalizing, but incomplete.
 
 ### De la vie sur Vénus ?
 
