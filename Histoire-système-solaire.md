@@ -221,6 +221,7 @@
 - [Venus Exploration Timeline](https://nssdc.gsfc.nasa.gov/planetary/chronology_venus.html) - NASA
 - [Venus: Spacecraft exploration](https://www.britannica.com/place/Venus-planet/Spacecraft-exploration) - Encyclopaedia Britannica
 - [Venus exploration](https://www.universetoday.com/47953/venus-exploration/) - Fraser Cain, Universe Today
+- [Missions to Venus: Highlights From History, and When We May Go Back](https://www.nytimes.com/2020/09/14/science/venus-spacecraft-life.html) - Shanon Stironne, New York Times (2020)
 
 ---
 
@@ -280,7 +281,7 @@ conditions.
 
 ## Missions vers Vénus
 
-- Plus de 25 sondes ont été envoyées vers Vénus, et plus d'une douzaine a atterri à sa surface.
+- Plus d'une quarantaine de sondes ont été envoyées vers Vénus, et plus d'une douzaine a atterri à sa surface.
 - Le programme Vénéra désigne une trentaine de sondes spatiales qui ont été tirées par l’URSS vers Vénus entre 1961 et 1985. Cela a donné lieu à des missions de survol, des orbiteurs, des atterrisseurs et même des ballons-sondes.
 - Les premières sondes du programme Vénéra ont pour but de percer le voile de l'atmosphère vénusienne avant les américains.
 
@@ -296,8 +297,11 @@ conditions.
 - Vénéra 2 et Vénéra 3 atteignent les environs de Vénus sans encombre au cours du premier trimestre de l’année 1965. Vénéra 2 est une mission de survol équipée de huit instruments scientifiques dont des caméras. Pour mettre ces instruments en route, la sonde spatiale doit couper ses communications avec la Terre. Malgré un survol et une prise d’information probablement optimale, les communications ne seront jamais rétablies. Vénéra 2 continue sur sa lancée en emportant ses secrets.
 - Vénéra 3 et la première sonde atmosphérique à pénétrer les couches nuageuses de Vénus le 1er mars 1966, un exploit que les scientifiques soviétiques digère amèrement car le contact radio avec la sonde spatiale a été perdu 12 jours auparavant. Impossible de savoir comment s’est déroulée la descente. La sonde devait déployer un parachute et éventuellement descendre jusqu’à la surface de Vénus. On peut tout de même raisonnablement penser que Vénéra 3 est le premier objet humain à avoir toucher la surface d’une autre planète que la Terre.
 - Vénéra 4 pénètre dans l’atmosphère vénusienne le 18 octobre 1967. A l’époque, on ne sait toujours presque rien de notre voisine. Les américains ont bien réussi un survol en 1962 avec Mariner 2, mais il n’a livré que peu d’informations. Vénéra 4 est donc équipée pour pouvoir atterrir sur une surface solide ou liquide. Elle parvient à déployer son parachute et à maintenir les communications avec la Terre. Elle descend tranquillement pendant 93 minutes en communiquant des mesures de pression de température ou de composition chimique. Un véritable enfer qui se révèle sous leurs yeux. Les températures se comptent en centaines de degrés Celsius. Vénéra 4 est tout simplement broyée par la pression atmosphérique de Vénus alors qu’elle est encore à 27 kilomètres de la surface de Vénus. 
+- Venera 4 in 1967 became the first spacecraft to measure the atmosphere of another planet, detecting large amounts of carbon dioxide that cause the ceaseless Venusian greenhouse effect.
 
 ### Mariner 2 et 5
+
+- Mariner 2 was the first American spacecraft to make it to Venus, in 1962. It determined that temperatures were cooler higher in the clouds, but extremely hot on the surface.
 
 ### Venera 7 et 8
 
@@ -315,6 +319,10 @@ conditions.
 -  the first-ever photograph taken from the surface of another planet: Venus. The Soviet Venera 9 probe had sent back a black-and-white image of a landscape with angular rocks and fine-grained dirt. 
 - The rocky vistas glimpsed by Venera 9 and other Russian landers suggested a tortured volcanic history. That was confirmed in the early 1990s by the American Magellan orbiter, which used radar to peer through the planet’s thick clouds and map out a rich, varied, and dynamic surface. To judge from the paucity of impact craters, the surface formed mostly in the last billion years, which makes it fresher and more recently active than any rocky planet other than Earth. Russian and American spacecraft also found hints that the primordial climate might have been wetter, cooler, and possibly even friendly to life. Measurements of density and composition imply that Venus originally formed out of basically the same stuff as Earth. That presumably included much more water than the trace equivalent to one thousandth of 1 percent of Earth’s oceans that we find wafting in the thick air today.
 
+### Vénéra 11 et 12
+
+- Venera 11 and 12 both detected large amounts of lightning and thunder as they traveled to the surface. 
+
 ### Vénéra 13 et 14 (USSR)
 
 - En 1981, Vénéra 13 et 14 (identiques) sont lancées à quelques jours d'intervalle depuis une fusée Proton-K/D-1. Leur mission : étudier l'atmosphère et la surface de Vénus
@@ -325,6 +333,10 @@ conditions.
 > Ces mesures ont montré que la vitesse moyenne des vents sur Vénus est d'environ 0.3-0.5 m/s
 - La sonde Vénéra 14 a survécu près d'une heure (57 minutes) dans l'environnement hostile de Vénus.
 - Vénéra 14 a envoyé les premières photos couleur de la surface de Vénus (à vérifier). 
+
+### Vega
+
+- In 1985 the Soviet Union concluded its Venus encounters with the twin Vega spacecraft, which each released large balloons loaded with scientific instruments, demonstrating the potential for probes that could float in the planet’s clouds.
 
 ### Vénéra 15 et 16 
 
@@ -354,6 +366,7 @@ conditions.
 - Elle a été lancée en Mai 2010 et est arrivée près de Vénus en Décembre.
 - The Japanese space agency JAXA launched its own spacecraft, Akatsuki, but when the probe arrived at Venus in 2010, it failed to go into orbit and instead caromed around the sun. In a technical feat that ranks up there with the recovery of Apollo 13, the agency recovered control of the mission and coaxed it into Venus orbit in 2015. Now it is further enriching our understanding of the vibrant changeable atmosphere and clouds and searching for additional hints of a volcanically active surface.
 - Un des grands mystères de Vénus c'est qu'on ne sait pas si sa surface abrite des volcans actifs aujourd'hui.
+- In its study of the physics of the dense cloud layers of Venus, the mission has revealed disturbances in the planet’s winds known as gravity waves, as well as equatorial jet streams in its atmosphere.
 
 ## Vénus dans la fiction
 
@@ -404,6 +417,8 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 > Concept animé en 3D d'une mission habitée dans les nuages de Vénus à l'aide d'un zeppelin
 - [Venera 13](https://twitter.com/3Dmattias/status/1073500573884956672) - Mattias Malmer (2018)
 > Modèle 3D de Vénéra 13 dans un décor réaliste de Vénus.
+- [Venus From 33 Years Ago, and Why We Need to Explore](https://www.planetary.org/articles/0305-venus-from-33-years-ago) - Ted Stryk, Planetary Society 
+> Images en couleur des sondes Vénéra (9, 10, 13, 14)
 
 # Terre
 
