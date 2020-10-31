@@ -218,6 +218,7 @@
 - [Folks: let's talk about Venera 14](https://twitter.com/ThePlanetaryGuy/status/1235724326902435840) - Thread de Pal Byrne (2020)
 - [What’s on the Surface of Venus? A History of the Venera Program](https://youtu.be/T1c-P1yEEnM) - Fraser Cain (2017)
 - [What's It Like on ... Venus?](https://youtu.be/c6K2ibg-Wb0?list=WL) - SciShow Space (2014)
+- [Venus Exploration Timeline](https://nssdc.gsfc.nasa.gov/planetary/chronology_venus.html) - NASA
 
 ---
 
