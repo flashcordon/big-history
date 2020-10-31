@@ -26,6 +26,7 @@
 - Titre possible : Mercure, monde de fer
 
 ***Table des matières***
+- [Histoire de l'observation de Mercure](#Histoire-de-lobservation-de-Mercure)
 - [Propriétés de Mercure](#Propriétés-de-Mercure)
 - [Missions vers Mercure](#Missions-vers-Mercure)
 - [Mercure, la planète la plus proche de la Terre en règle générale](#Mercure-la-planète-la-plus-proche-de-la-Terre-en-règle-générale)
