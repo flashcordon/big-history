@@ -69,6 +69,7 @@
 - Mais 13 fois par siècle on peut observer un transit de Mercure : la planète passe devant le Soleil. La dernière fois, c'était le 11 Novembre 2019.
 - L'orbite de Mercure précesse, et ça ne peut pas être expliqué par la physique de Newton. C'est l'un des succès de la théorie de la relativité générale d'Einstein d'avoir réussi à expliquer l'orbite de Mercure au début du 20e siècle.
 > On s'en est inquiété au 19e siècle. Certains astronomes cherchaient une planète encore plus proche du Soleil appelée Vulcain pour expliquer la perturbation de l'orbite de Mercure, sans succès.
+- Until the late nineteenth century it was believed to rotate on its axis every 24 hours or so, but this opinion was displaced by that of Giovanni Schiaparelli (1835-1910) and Percival Lowell, who contended that it kept the same face permanently towards the Sun. Twentieth-century sf writers thus pictured it as having an extremely hot "dayside", a cold "nightside" and a narrow "twilight zone". This image persisted until the 1960s, when it was discovered that Mercury rotates on its axis rapidly enough to have a day somewhat shorter than its year.
 - A la fin du 19e siècle, l'astronome italien Giovanni Schiaparelli pensait que Mercure était en rotation synchrone. Mais c'est un peu plus compliqué que ça.
 > Mercure fait 1.5 tour sur elle même par orbite. Sa période de rotation est égale à 2/3 de sa période de révolution. Une journée complète sur Mercure est égale à 2 ans Mercuriens ! Cette propriété de l'orbite de Mercure sera découverte en 1965, suite à des observations de Mercure en ondes radio.
 
@@ -101,19 +102,21 @@
 
 - Dans les années 60, on se dit que pour atteindre Mercure, on peut utiliser Vénus comme fronde gravitationnelle, si on gère bien le timing de lancement.
 - Il n'y a eu jusqu'à présent que 3 missions vers Mercure. C4est l'une des planètes les moins explorées du système solaire.
-- ***Mariner 10*** (NASA, 1973 à 1975)
-> * Sonde de 533 kg, avec 78 kg d'instruments scientifiques, une couverture thermique pour éviter les dommages dûs au Soleil
-> * 7 expériences scientifiques à bord ()
-> * Lancé le 2 Novembre 1973 depuis Cape Kennedy en Floride
-> * Le 24 Mars 1974, les premières images floues de la surface de Mercure sont envoyées à la Terre. Plus le vaisseau se rapproch de la planète, plus les détails émergent. On découvre un monde cratérisé, des falaises de 3km de haut et de 500km de long, les cicatrices d'une planète qui se comprime sur elle-même.
-> * a effectué 3 survols rapprochés de Mercure entre 1974 et 1975, et a révélé les premières images rapprochées de la surface au monde entier. Une planète sans atmosphère, à la surface meutrie de cratères.
-> * a photographié 45% de la surface de la planète. Les scientifiques découvrent avec surprise que la planète possède un champ magnétique. Faible, mais existant.
-> * 10 jours après sont 3e passage auprès de Mercure, les réservoirs d'azote de la sonde sont vides.
+
+### Mariner 10 (NASA, 1973-1975)
+
+- Sonde de 533 kg, avec 78 kg d'instruments scientifiques, une couverture thermique pour éviter les dommages dûs au Soleil
+- 7 expériences scientifiques à bord ()
+- Lancé le 2 Novembre 1973 depuis Cape Kennedy en Floride
+- Le 24 Mars 1974, les premières images floues de la surface de Mercure sont envoyées à la Terre. Plus le vaisseau se rapproch de la planète, plus les détails émergent. On découvre un monde cratérisé, des falaises de 3km de haut et de 500km de long, les cicatrices d'une planète qui se comprime sur elle-même.
+- a effectué 3 survols rapprochés de Mercure entre 1974 et 1975, et a révélé les premières images rapprochées de la surface au monde entier. Une planète sans atmosphère, à la surface meutrie de cratères.
+- a photographié 45% de la surface de la planète. Les scientifiques découvrent avec surprise que la planète possède un champ magnétique. Faible, mais existant.
+- 10 jours après sont 3e passage auprès de Mercure, les réservoirs d'azote de la sonde sont vides.
 
 ### MESSENGER (NASA, 2004-2015)
 
 - Proposée en 1996, sélectionnée en 1999
-> * MErcury Surface, Space ENvironment, GEochemistry, and Ranging
+- MErcury Surface, Space ENvironment, GEochemistry, and Ranging
 - Décollé le 3 Aout 2004 depuis Cap Canaveral. En Janvier 2008 elle fait son premier survol rapproché de la planète (200km). En 2013 elle réalise la première cartographie complète de la surface de Mercure.
 - Elle a orbité la planète pendant 4 ans et a fini par se crasher dessus délibérément en 2015.
 - MESSENGER a permi de découvrir que Mercure a une histoire de volcanisme et que son intérieur est dominé par son coeur.
@@ -158,11 +161,10 @@
 
 ## Mercure dans la fiction
 
+- Mercure a rarement été utilisée dans la SF.
 - Il y a 2 types d'oeuvres de fiction qui utilisent Mercure d'une manière ou d'une autre : celles écrites avant 1965, la décrivant comme une planète dont une moitié est perpétuellement dans le jour et une autre perpétuellement dans la nuit, et celles écrites après 1965, avec une description plus réaliste de la planète
-- Until the late nineteenth century it was believed to rotate on its axis every 24 hours or so, but this opinion was displaced by that of Giovanni Schiaparelli (1835-1910) and Percival Lowell, who contended that it kept the same face permanently towards the Sun. Twentieth-century sf writers thus pictured it as having an extremely hot "dayside", a cold "nightside" and a narrow "twilight zone". This image persisted until the 1960s, when it was discovered that Mercury rotates on its axis rapidly enough to have a day somewhat shorter than its year.
 - The earliest visit to Mercury was probably that of Athanasius Kircher in his Itinerarium Exstaticum (1656)
 - The earliest novel in which Mercury came into principal focus was Relation du Monde de Mercure (1750; trans Brian Stableford as The World of Mercury 2015) by Le Chevalier de Béthune
-- Genre SF rarely employed Mercury as a milieu for exotic adventure, preferring Mars and Venus
 - Attempts to use Mercury in more thoughtful stories with some fidelity to astronomical knowledge were likewise infrequent in the pre-World War Two pulps, the first significant examples being Clifford D Simak's "Masquerade" (March 1941 Astounding)
 - In Arthur C. Clarke's Islands in the Sky (1952), there is a description of a strange creature that lives on what was then believed to be the permanently dark nightside with only occasional visits to the twilight zone.
 - In ["The Weather on Mercury"](https://archive.org/stream/galaxymagazine-1953-07/Galaxy_1953_07#page/n85/mode/2up) by William Morrison, a group searches for a missing explorer in the twilight zone of a Mercury with native life.
