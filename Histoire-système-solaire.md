@@ -30,7 +30,7 @@
 - [Propriétés de Mercure](#Propriétés-de-Mercure)
 - [Missions vers Mercure](#Missions-vers-Mercure)
 - [Mercure, la planète la plus proche de la Terre en règle générale](#Mercure-la-planète-la-plus-proche-de-la-Terre-en-règle-générale)
-- [Missions dans la fiction](#Missions-vers-Mercure)
+- [Mercure dans la fiction](#Mercure-dans-la-fiction)
 - [Illustrations Mercure](#Illustrations-Mercure)
 
 ---
@@ -158,7 +158,7 @@
 
 ## Mercure dans la fiction
 
-- Fictional works about Mercury can thus be divided into two groups; those, mostly written before 1965, featuring the "Old" Mercury with its light and dark sides, and those that reflect more recent scientific knowledge of the planet. 
+- Il y a 2 types d'oeuvres de fiction qui utilisent Mercure d'une manière ou d'une autre : celles écrites avant 1965, la décrivant comme une planète dont une moitié est perpétuellement dans le jour et une autre perpétuellement dans la nuit, et celles écrites après 1965, avec une description plus réaliste de la planète
 - Until the late nineteenth century it was believed to rotate on its axis every 24 hours or so, but this opinion was displaced by that of Giovanni Schiaparelli (1835-1910) and Percival Lowell, who contended that it kept the same face permanently towards the Sun. Twentieth-century sf writers thus pictured it as having an extremely hot "dayside", a cold "nightside" and a narrow "twilight zone". This image persisted until the 1960s, when it was discovered that Mercury rotates on its axis rapidly enough to have a day somewhat shorter than its year.
 - The earliest visit to Mercury was probably that of Athanasius Kircher in his Itinerarium Exstaticum (1656)
 - The earliest novel in which Mercury came into principal focus was Relation du Monde de Mercure (1750; trans Brian Stableford as The World of Mercury 2015) by Le Chevalier de Béthune
@@ -169,7 +169,7 @@
 - After World War Two, however, things picked up a little. Alan E Nourse's memorable "Brightside Crossing" (January 1956 Galaxy) represents a journey across the dayside of the planet as an adventurous feat akin to the then-recent conquest of Everest. The nightside of Mercury features ironically in Larry Niven's "The Coldest Place" (December 1964 If), unfortunately based on the then scientific belief that Mercury always keeps the same face towards the Sun. It emerged in 1965 that the planet has a 3:2 spin-orbit resonance, rotating three times for each two orbits around the Sun: there is no permanent nightside.
 -  Recurring themes include the dangers of being exposed to solar radiation and the possibility of escaping excessive radiation by staying within the planet's slow-moving terminator (the boundary between day and night).
 - In Kim Stanley Robinson's novels and short stories, especially The Memory of Whiteness (1985), "Mercurial" (in The Planet on the Table, 1986), Blue Mars (1996), and 2312, Mercury is the home of a vast city called Terminator, populated by large numbers of artists and musicians. To avoid the dangerous solar radiation, the city rolls around the planet's equator on tracks, keeping pace with the planet's rotation so that the Sun never rises fully above the horizon. The motive power comes from solar heat expanding the rails on the day side. 
-- Dans le film Sunshine (2007), [l'équipage du vaisseau Icarus II assiste à un transit de Mercure](https://www.youtube.com/watch?v=dp7z8Gvexas) et orbite autour de la planète pour effectuer un rendez-vous spatial avec un vaisseau perdu (Icarus I)
+- Dans le film Sunshine, de Danny Boyle (2007), [l'équipage du vaisseau Icarus II assiste à un transit de Mercure](https://www.youtube.com/watch?v=dp7z8Gvexas) et orbite autour de la planète pour effectuer un rendez-vous spatial avec un vaisseau perdu (Icarus I)
 
 ## Illustrations Mercure
 
