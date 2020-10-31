@@ -25,7 +25,13 @@
 - Titre possible : Mercure, monde de fer
 
 ***Table des matières***
+- [Propriétés de Mercure](#Propriétés-de-Mercure)
 - [Missions vers Mercure](#Missions-vers-Mercure)
+- [Mercure, la planète la plus proche de la Terre en règle générale](#Mercure-la-planète-la-plus-proche-de-la-Terre-en-règle-générale)
+- [Missions dans la fiction](#Missions-vers-Mercure)
+- [Illustrations Mercure](#Illustrations-Mercure)
+
+---
 
 *Sources*
 
@@ -49,6 +55,8 @@
 - [Mercury](http://www.sf-encyclopedia.com/entry/mercury) - SF Encyclopedia
 
 ---
+
+## Propriétés de Mercure
 
 - La première référence écrite à Mercure nous vient du 7e siècle avant notre ère sur une tablette assyrienne écrite en cunéiformes trouvée en Mésopotamie (la tablette MUL.APIN). A la même époque, les Mayas notent la trajectoire de Mercure dans le ciel, ce qu'on retrouve dans le codex de Dresde.
 - Mercure est présent dans les mythes des civilisations du monde entier
@@ -96,27 +104,29 @@
 > * a effectué 3 survols rapprochés de Mercure entre 1974 et 1975, et a révélé les premières images rapprochées de la surface au monde entier. Une planète sans atmosphère, à la surface meutrie de cratères.
 > * a photographié 45% de la surface de la planète. Les scientifiques découvrent avec surprise que la planète possède un champ magnétique. Faible, mais existant.
 > * 10 jours après sont 3e passage auprès de Mercure, les réservoirs d'azote de la sonde sont vides.
-- ***MESSENGER***
- (NASA, 2004-2015)
-> * Proposée en 1996, sélectionnée en 1999
-> * MErcury Surface, Space ENvironment, GEochemistry, and Ranging
-> * Décollé le 3 Aout 2004 depuis Cap Canaveral. En Janvier 2008 elle fait son premier survol rapproché de la planète (200km). En 2013 elle réalise la première cartographie complète de la surface de Mercure.
-> * Elle a orbité la planète pendant 4 ans et a fini par se crasher dessus délibérément en 2015.
-> * MESSENGER a permi de découvrir que Mercure a une histoire de volcanisme et que son intérieur est dominé par son coeur.
-> * Avant MESSENGER? ça faisait 30 ans qu'on se demandait si les plaines de Mercure étaient dues à du volcanisme ou à des éjectats d'impacts. Mais les images de MESSENGER ont permis de lever le doute : c'est bien le résultat d'un volcanisme ancien.
-> * MESSENGER a ausi permi de découvrir que la surface de Mercure était remplie de volatiles (chlore, soufre, potassium, sodium), qui auraient dû être soufflés dans les régions externes du système solaire lors de l'adolescence du Soleil. L'étude de ces volatiles permettra donc d'affiner nos modèles d'évolution du système solaire. Une hypothèse est que Mercure se serait formée initialement plus loin que maintenant (plus loin que Mars !), et aurait ensuite migré vers sa position actuelle.
-- ***BepiColombo*** (ESA-JAXA, 2018-?)
-> * Mission franco-japonaise
-> * Lancée en Octobre 2018
-> * Arrivera près de Mercure en 2025, aprè un voyage de 7 ans. Entre temps, elle passera une fois près de la Terre, 2 fois près de Vénus et 6 fois près de Mercure avant de se stabiliser sur son orbite.
-> * Elle devrat faire pas moins de 6 flybys de la planète avant de se stabiliser sur son orbite.
-> * Composé de 2 sondes, elle a  pour but de mieux caractériser la surface de la planète, son intérieur et l'interaction entre le vent solaire et son champ magnétique
-> * L'orbiteur de l'ESA embarque 11 instruments scientifiques pour étudier la planète en détail, tandis qu'une autre sonde japonaise plus petite sera focalisée sur la magnétosphère de Mercure à l'aide de ses 5 instruments scientifiques 
-> * Il y a de grosses difficultés à designer une sonde qui peut résister pendant longtemps à des températures de 400°C et des taux de radiations 10 fois plus élevés que sur Terre.
-> * BepiColombo va cartographier en détail les volatiles de Mercure à l'aide de son spectro-imageur.
-> * L'étude détaillée de la magnétosphère de Mercure peut nous éclairer sur l'habitabilité des mondes extrasolaires à proximité des naines rouges, où les vents solaires et les taux de radiations sont très élevés.
 
-## Mercure, la planète la plus proche de la Terre (en règle générale)
+### MESSENGER (NASA, 2004-2015)
+
+- Proposée en 1996, sélectionnée en 1999
+> * MErcury Surface, Space ENvironment, GEochemistry, and Ranging
+- Décollé le 3 Aout 2004 depuis Cap Canaveral. En Janvier 2008 elle fait son premier survol rapproché de la planète (200km). En 2013 elle réalise la première cartographie complète de la surface de Mercure.
+- Elle a orbité la planète pendant 4 ans et a fini par se crasher dessus délibérément en 2015.
+- MESSENGER a permi de découvrir que Mercure a une histoire de volcanisme et que son intérieur est dominé par son coeur.
+- Avant MESSENGER? ça faisait 30 ans qu'on se demandait si les plaines de Mercure étaient dues à du volcanisme ou à des éjectats d'impacts. Mais les images de MESSENGER ont permis de lever le doute : c'est bien le résultat d'un volcanisme ancien.
+- MESSENGER a ausi permi de découvrir que la surface de Mercure était remplie de volatiles (chlore, soufre, potassium, sodium), qui auraient dû être soufflés dans les régions externes du système solaire lors de l'adolescence du Soleil. L'étude de ces volatiles permettra donc d'affiner nos modèles d'évolution du système solaire. Une hypothèse est que Mercure se serait formée initialement plus loin que maintenant (plus loin que Mars !), et aurait ensuite migré vers sa position actuelle.
+
+### BepiColombo (ESA-JAXA, 2018-?)
+
+- Mission franco-japonaise lancée en Octobre 2018
+- Arrivera près de Mercure en 2025, aprè un voyage de 7 ans. Entre temps, elle passera une fois près de la Terre, 2 fois près de Vénus et 6 fois près de Mercure avant de se stabiliser sur son orbite.
+- Elle devrat faire pas moins de 6 flybys de la planète avant de se stabiliser sur son orbite.
+- Composé de 2 sondes, elle a  pour but de mieux caractériser la surface de la planète, son intérieur et l'interaction entre le vent solaire et son champ magnétique
+- L'orbiteur de l'ESA embarque 11 instruments scientifiques pour étudier la planète en détail, tandis qu'une autre sonde japonaise plus petite sera focalisée sur la magnétosphère de Mercure à l'aide de ses 5 instruments scientifiques 
+- Il y a de grosses difficultés à designer une sonde qui peut résister pendant longtemps à des températures de 400°C et des taux de radiations 10 fois plus élevés que sur Terre.
+- BepiColombo va cartographier en détail les volatiles de Mercure à l'aide de son spectro-imageur.
+- L'étude détaillée de la magnétosphère de Mercure peut nous éclairer sur l'habitabilité des mondes extrasolaires à proximité des naines rouges, où les vents solaires et les taux de radiations sont très élevés.
+
+## Mercure, la planète la plus proche de la Terre en règle générale
 
 *Sources*
 - [Re: Which Planet is the Closest?](https://www.youtube.com/watch?v=LIS0IFmbZaI) - CGP Grey (2019)
