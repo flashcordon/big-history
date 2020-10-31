@@ -219,6 +219,7 @@
 - [What’s on the Surface of Venus? A History of the Venera Program](https://youtu.be/T1c-P1yEEnM) - Fraser Cain (2017)
 - [What's It Like on ... Venus?](https://youtu.be/c6K2ibg-Wb0?list=WL) - SciShow Space (2014)
 - [Venus Exploration Timeline](https://nssdc.gsfc.nasa.gov/planetary/chronology_venus.html) - NASA
+- [](https://www.britannica.com/place/Venus-planet/Spacecraft-exploration) - Encyclopaedia Britannica
 
 ---
 
@@ -280,6 +281,10 @@ conditions.
 - Le programme Vénéra désigne une trentaine de sondes spatiales qui ont été tirées par l’URSS vers Vénus entre 1961 et 1985. Cela a donné lieu à des missions de survol, des orbiteurs, des atterrisseurs et même des ballons-sondes.
 - Les premières sondes du programme Vénéra ont pour but de percer le voile de l'atmosphère vénusienne avant les américains.
 
+### Mariner 2
+
+- The first spacecraft to reach the vicinity of another planet and return data was the U.S. Mariner 2 in its flyby of Venus in 1962.
+
 ### Le programme Venera
 
 - C'est grâce au programme soviétique Vénéra qu'on a pu avoir des photos depuis la surface de Vénus pour la première fois de l'Histoire.
@@ -293,7 +298,7 @@ conditions.
 
 ### Venera 7 et 8
 
-- Vénéra 7 est la première sonde à s'être posé sur Vénus et à avoir survécu assez longtemps (23 minutes) pour envoyer des données à la Terre
+- Vénéra 7 est la première sonde à s'être posé en douceur sur Vénus et à avoir survécu assez longtemps (23 minutes) pour envoyer des données à la Terre
 - Elle a été lancée le 17 Août 2970, et arrive sur Vénus en Décembre.
 - Elle atteint la surface de Vénus plus rapidement que prévu (à 16,5m/s) suite à un mauvais fonctionnement des parachutes), mais elle survit ! Et elle envoie les premiers relevés des températures et de la pression à la surface de vénus.
 - Vénéra 8 est lancée le 17 Mars 1972, et atterrit avec succès sur la surface de Vénus. Elle envoie des données pendant près de 50 minutes. ELle n'avait pas de caméra.
@@ -316,15 +321,19 @@ conditions.
 - Les deux sondes sont équipées de micros qui enregistrent les sons des vents de la surface de Vénus (pour mesurer leur vitesse). Grace à Vénéra 13 et 14, on a le premiers enregistrements des sons de la surface d'une autre planète.
 > Ces mesures ont montré que la vitesse moyenne des vents sur Vénus est d'environ 0.3-0.5 m/s
 - La sonde Vénéra 14 a survécu près d'une heure (57 minutes) dans l'environnement hostile de Vénus.
-- Vénéra 14 a envoyé les premières photos couleur de la surface de Vénus (à vérifier). Et les dernières. Parce que Vénéra 14 est la dernière sonde a s'être posée sur Vénus.
+- Vénéra 14 a envoyé les premières photos couleur de la surface de Vénus (à vérifier). 
+
+### Vénéra 15 et 16 
+
+- In terms of the advances they provided in the global understanding of Venus, the most important Soviet missions were Veneras 15 and 16 in 1983. The twin orbiters carried the first radar systems flown to another planet that were capable of producing high-quality images of the surface. They produced a map of the northern quarter of Venus with a resolution of 1–2 km (0.6–1.2 miles), and many types of geologic features now known to exist on the planet were either discovered or first observed in detail in the Venera 15 and 16 data. 
 
 
-### Magellan
+### Magellan (NASA, 1989-1994)
 
 - Lancé en 1989 à bord de la navette spatiale Atlantis
-- Après 15 mois de voyage, Magellan arrive aux abords de Vénus et passe 4 ans à orbiter et à cartographier la planète.
+- Après 15 mois de voyage, Magellan arrive aux abords de Vénus et passe 4 ans à orbiter (en orbite polaire) et à cartographier la planète.
 - Les caméras normales ne peuvent pas percer le voile atmosphérique de Vénus. Par contre les ondes radar si. Elles passent à travers la couverture nuageuse, rebondissent sur la surface, ce qui nous permet d'avoir des images de la surface.
-- Magellan a imagé 98% de la surface de Vénus avec une résolution d'au moins 300m.
+- Magellan a imagé 98% de la surface de Vénus avec une résolution d'au moins 100 m.
 - A la fin de sa mission en 1994, Magellan a été envoyée plonger dans l'atmosphère de Vénus pour y mourir.
 - Magellan nous a fourni la première carte complète, et la plus détaillée à ce jour de la surface de Vénus.
 - Elle a montré que 85% des caractéristiques de surface sur Vénus sont d'origine volcanique : des domes de lave, des plaines de lave, des volcans...
@@ -332,11 +341,14 @@ conditions.
 
 ### Venus Express (ESA, 2005-2014)
 
+- La première sonde européenne a avoir visité Vénus
 - Elle a passé 8 ans à observer Vénus
+- Among its early accomplishments was the return of the first images of cloud structures over the planet’s south pole. 
 
+### Akatsuki (JAXA, 2010)
 
-### Akatsuki (JAXA)
-
+- C'est la première mission japonaise interplanétaire à avoir réussi sa mission.
+- Elle a été lancée en Mai 2010 et est arrivée près de Vénus en Décembre.
 - The Japanese space agency JAXA launched its own spacecraft, Akatsuki, but when the probe arrived at Venus in 2010, it failed to go into orbit and instead caromed around the sun. In a technical feat that ranks up there with the recovery of Apollo 13, the agency recovered control of the mission and coaxed it into Venus orbit in 2015. Now it is further enriching our understanding of the vibrant changeable atmosphere and clouds and searching for additional hints of a volcanically active surface.
 - Un des grands mystères de Vénus c'est qu'on ne sait pas si sa surface abrite des volcans actifs aujourd'hui.
 
