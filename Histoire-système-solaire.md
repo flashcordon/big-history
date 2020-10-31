@@ -219,10 +219,13 @@
 - [What’s on the Surface of Venus? A History of the Venera Program](https://youtu.be/T1c-P1yEEnM) - Fraser Cain (2017)
 - [What's It Like on ... Venus?](https://youtu.be/c6K2ibg-Wb0?list=WL) - SciShow Space (2014)
 - [Venus Exploration Timeline](https://nssdc.gsfc.nasa.gov/planetary/chronology_venus.html) - NASA
-- [](https://www.britannica.com/place/Venus-planet/Spacecraft-exploration) - Encyclopaedia Britannica
+- [Venus: Spacecraft exploration](https://www.britannica.com/place/Venus-planet/Spacecraft-exploration) - Encyclopaedia Britannica
+- [Venus exploration](https://www.universetoday.com/47953/venus-exploration/) - Fraser Cain, Universe Today
 
 ---
 
+- Vénus est le 3e objet du ciel le plus brillant après le Soleil et la Lune. Il a donc une importance particulière dans l'histoire de l'Humanité.
+-  Galileo Galilei was the first to point it at the heavens and make detailed observations of what he saw. In 1610 he discovered that Venus goes through phases, like the Moon. 
 - Vénus ressemble beaucoup à la Terre en terme de taille, de masse et de densité moyenne. On peut le voir comme le jumeau maléfique de la Terre.
 > Le diamètre de Vénus est 95% de celui de la Terre
 - Comprendre pourquoi et comment Vénus et la Terre ont eu des destins divergents est crucial pour comprendre l'évolution de notre planète et de l'habitabilité des systèmes stellaires en général.
