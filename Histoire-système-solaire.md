@@ -170,7 +170,7 @@
 > * En 1956, *Brightside Crossing* de Alan E Nourse (Galaxy) raconte un voyage à travers la face éclairée de Mercure
 > * En 1964, la nouvelle de Larry Niven *The coldest place* (If) parle de la face sombre de Mercure.  
 -  Lorsque'elle est utilisée comme lieu en SF, Mercure est une terre de dangers, fortement exposée aux rayonnements solaires, la seule manière d'échaper aux radiations étant de rester à la frontière entre la face jour et la face nuit.
-> * C'est par exemple le cas dans le roman *2312*, de Kim Stanley Robinson (2012), qui imagine une cité appelée Terminator, peuplée d'artistes et de musiciens, roulant sur des rails autour de la planète pour rester dans la zone crépusculaire.
+> * C'est par exemple le cas dans le roman *2312* ([Couverture](https://images-na.ssl-images-amazon.com/images/I/91BsQB5r3FL.jpg)), de Kim Stanley Robinson (2012), qui imagine une cité appelée Terminator, peuplée d'artistes et de musiciens, roulant sur des rails autour de la planète pour rester dans la zone crépusculaire.
 - Dans le film Sunshine, de Danny Boyle (2007), [l'équipage du vaisseau Icarus II assiste à un transit de Mercure](https://www.youtube.com/watch?v=dp7z8Gvexas) et orbite autour de la planète pour effectuer un rendez-vous spatial avec un vaisseau perdu (Icarus I)
 
 ## Illustrations Mercure
