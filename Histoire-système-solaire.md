@@ -163,7 +163,7 @@
 
 - Mercure a rarement été utilisée dans la SF.
 - Il y a 2 types d'oeuvres de fiction qui utilisent Mercure d'une manière ou d'une autre : celles écrites avant 1965, la décrivant comme une planète dont une moitié est perpétuellement dans le jour et une autre perpétuellement dans la nuit, et celles écrites après 1965, avec une description plus réaliste de la planète
-- The earliest visit to Mercury was probably that of Athanasius Kircher in his Itinerarium Exstaticum (1656)
+- La première oeuvre à imaginer une visite de Mercure est probablement Itinerarium Exstaticum, du jésuite Athanasius Kircher, publié en 1656. [Frontispice](https://en.wikipedia.org/wiki/Itinerarium_exstaticum#/media/File:Fotothek_df_tg_0006154_Astronomie.jpg)
 - The earliest novel in which Mercury came into principal focus was Relation du Monde de Mercure (1750; trans Brian Stableford as The World of Mercury 2015) by Le Chevalier de Béthune
 - Attempts to use Mercury in more thoughtful stories with some fidelity to astronomical knowledge were likewise infrequent in the pre-World War Two pulps, the first significant examples being Clifford D Simak's "Masquerade" (March 1941 Astounding)
 - In Arthur C. Clarke's Islands in the Sky (1952), there is a description of a strange creature that lives on what was then believed to be the permanently dark nightside with only occasional visits to the twilight zone.
