@@ -505,7 +505,7 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 
 ---
 
-- *Sources*
+*Sources*
 - [Time Lapse du système de lunes d'Uranus par Hubble](https://hubblesite.org/contents/media/videos/1999/11/175-Video.html?news=true)
 - [Uranus in fiction](https://simple.wikipedia.org/wiki/Uranus_in_fiction) - Wikipédia
 - [Outer planets](http://www.sf-encyclopedia.com/entry/outer_planets) - Encyclopaedia of Science Fiction
@@ -540,7 +540,7 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 - Elle possède 2 systèmes d'anneau. Le système interne comprend 9 anneaux (gris foncé), le système externe 2 (rougeatre et bleuatre).
 - Son champ magnétique présente aussi une forme particulière par rapport aux autres planètes. Son axe fait un angle de 60 degrés avec son axe de rotation, ce qui fait que les aurores sur Uranus ne sont pas des aurores polaires, comme sur Terre, sur Jupiter et Saturne.
 
-## Missions
+## Missions vers Uranus
 
 ### Voyager 2
 
