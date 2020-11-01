@@ -496,6 +496,15 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 
 # Uranus
 
+***Table des matières***
+- [Histoire de l'observation d'Uranus](#Histoire-de-lobservation-dUranus)
+- [Propriétés d'Uranus](#Propriétés-dUranus)
+- [Missions vers Uranus](#Missions-vers-Uranus)
+- [Uranus dans la fiction](#Uranus-dans-la-fiction)
+- [Illustrations Uranus](#Illustrations-Uranus)
+
+---
+
 - *Sources*
 - [Time Lapse du système de lunes d'Uranus par Hubble](https://hubblesite.org/contents/media/videos/1999/11/175-Video.html?news=true)
 - [Uranus in fiction](https://simple.wikipedia.org/wiki/Uranus_in_fiction) - Wikipédia
@@ -506,6 +515,9 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 - [Voyager : 40 years in space](https://youtu.be/nPSQcXs3DJI) - Conférence de Alan Cummings
 
 ---
+
+
+## Histoire de l'observation d'Uranus
 
 - Uranus fait partie, avec Neptune, des 2 planètes du système solaire invisibles à l'oeil nu.
 - Elle a été découverte en 1781 par William Herschel, à l'aide d'un télescope de 16cm de diamètre et de 2m de long qu'il avait dans son jardin.
@@ -552,6 +564,16 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 
 # Neptune
 
+***Table des matières***
+- [Histoire de l'observation de Neptune](#Histoire-de-lobservation-de-Neptune)
+- [Propriétés de Neptune](#Propriétés-de-Neptune)
+- [Des diamants dans Neptune et Uranus](#Des-diamants-dans-Neptune-et-Uranus)
+- [Missions vers Neptune](#Missions-vers-Neptune)
+- [Neptune dans la fiction](#Neptune-dans-la-fiction)
+- [Illustrations Neptune](#Illustrations-Neptune)
+
+---
+
 *Sources*
 
 - The solar system - Michael Seeds (2016)
@@ -567,6 +589,8 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 - [Neptune 101](https://www.youtube.com/watch?v=NStn7zZKXfE) - National Geographic (2019)
 
 ---
+
+## Histoire de l'observation de Neptune
 
 - La planète était si bleue qu'elle fut nommée en l'honneur du dieu romain de la mer, qui contrôlait les vagues et les tempêtes
 - La découverte de Neptune est liée à l'une des grandes controverses de l'histoire de l'astronomie
@@ -607,8 +631,7 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 
 ### Voyager 2
 
-- Voyager 2
- survole Neptune en 1989, et passe à 4900 km au plus près de la planète.
+- Voyager 2 survole Neptune en 1989, et passe à 4900 km au plus près de la planète.
 - Les images de la sonde révèlent une couverture nuageuse qui s'étend parallèle à l'équateur
 - Des nuages blancs se démarquent du fond bleu intense de la planète : ils sont constitués de cristaux de glace de méthane, qui s'étendent jusqu'à 50 km de profondeur
 - Elle observe aussi un sytème d'au moins 4 vastes tempêtes : la plus grande est nommée la grande tache noire, en référence à la grande tache rouge de Jupiter. Elle tourne sur elle-même en 16 jours terrestres, dans le sens contraire aux aiguilles d'une montre. Elle est due à du gaz de l'intérieur de la planète qui remonte dans les couches externes
