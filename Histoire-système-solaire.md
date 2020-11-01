@@ -215,6 +215,17 @@
 
 - Titre possible : Vénus : une vie en enfer ?
 
+***Table des matières***
+- [Histoire de l'observation de Vénus](#Histoire-de-lobservation-de-Vénus)
+- [Propriétés de Vénus](#Propriétés-de-Vénus)
+- [Un volcanisme actif sur Vénus](#Un-volcanisme-actif-sur-Vénus)
+- [De la vie sur Vénus](#De-la-vie-sur-Vénus)
+- [Missions vers Vénus](#Missions-vers-Vénus)
+- [Vénus dans la fiction](#Vénus-dans-la-fiction)
+- [Illustrations Vénus](#Illustrations-Vénus)
+
+---
+
 *Sources*
 
 - The solar system - Michael Seeds (2016)
@@ -247,6 +258,8 @@
 
 ---
 
+## Histoire de l'observation de Vénus
+
 - Vénus est le 3e objet du ciel le plus brillant après le Soleil et la Lune. Il a donc une importance particulière dans l'histoire de l'Humanité.
 -  Galileo Galilei was the first to point it at the heavens and make detailed observations of what he saw. In 1610 he discovered that Venus goes through phases, like the Moon. 
 - Vénus ressemble beaucoup à la Terre en terme de taille, de masse et de densité moyenne. On peut le voir comme le jumeau maléfique de la Terre.
@@ -265,11 +278,11 @@
 - Les conditions à la surface de Vénus sont insupportables : des pluies d'acide sulfurique, une température de plus de 460°C, et une pression 93 fois supérieure à la pression terrestre
 > En terme de pression, être à la surface de Vénus, c'est comme être à un kilomètre de profondeur sous les océans sur Terre.
 
-## Un volcanisme actif sur Vénus ?
+## Un volcanisme actif sur Vénus
 
 - Scientists have long debated whether Venus might be volcanically active. In the early 1990s, cloud-penetrating radar on the Magellan orbiter revealed a surface studded with volcano-like mountains. But no one knew whether these features remained active. Then in 2010, data from Europe’s Venus Express spacecraft revealed several hot spots that suggested lava had flowed as recently as 250,000 years ago. And in 2012, the orbiter observed spikes in sulfur dioxide — a gas that smells like a struck match and is commonly produced on Earth by active volcanoes — within the Venusian atmosphere. The evidence was tantalizing, but incomplete.
 
-### De la vie sur Vénus ?
+### De la vie sur Vénus
 
 - La surface de Vénus est particulièrement difficile à atteindre parce que Vénus est en permanence recouverte d'une épaisse couche nuageuse. 
 - On sait que Vénus possède une atmosphère depuis 1761, lorsque Mikhail Lomonosov observe un transit de Vénus à l'observatoire de St Pétersbourg
@@ -311,11 +324,12 @@ conditions.
 - Le programme Vénéra désigne une trentaine de sondes spatiales qui ont été tirées par l’URSS vers Vénus entre 1961 et 1985. Cela a donné lieu à des missions de survol, des orbiteurs, des atterrisseurs et même des ballons-sondes.
 - Les premières sondes du programme Vénéra ont pour but de percer le voile de l'atmosphère vénusienne avant les américains.
 
-### Mariner 2
+### Mariner 2 et 5 (NASA)
 
 - The first spacecraft to reach the vicinity of another planet and return data was the U.S. Mariner 2 in its flyby of Venus in 1962.
+- Mariner 2 was the first American spacecraft to make it to Venus, in 1962. It determined that temperatures were cooler higher in the clouds, but extremely hot on the surface.
 
-### Le programme Venera
+### Le programme Venera (USSR)
 
 - C'est grâce au programme soviétique Vénéra qu'on a pu avoir des photos depuis la surface de Vénus pour la première fois de l'Histoire.
 - Vénéra s’arrache de la gravité terrestre et devient le premier vaisseau spatial humain à entrer sur une trajectoire interplanétaire. Malgré ce lancement réussi, la chance ne dure que quelques jours à peine. Une semaine après son décollage, le contact est perdu avec la sonde spatiale soviétique. Elle finit bel et bien par survoler Vénus mais sans pouvoir nous communiquer aucune de ses observations.
@@ -324,10 +338,6 @@ conditions.
 - Vénéra 3 et la première sonde atmosphérique à pénétrer les couches nuageuses de Vénus le 1er mars 1966, un exploit que les scientifiques soviétiques digère amèrement car le contact radio avec la sonde spatiale a été perdu 12 jours auparavant. Impossible de savoir comment s’est déroulée la descente. La sonde devait déployer un parachute et éventuellement descendre jusqu’à la surface de Vénus. On peut tout de même raisonnablement penser que Vénéra 3 est le premier objet humain à avoir toucher la surface d’une autre planète que la Terre.
 - Vénéra 4 pénètre dans l’atmosphère vénusienne le 18 octobre 1967. A l’époque, on ne sait toujours presque rien de notre voisine. Les américains ont bien réussi un survol en 1962 avec Mariner 2, mais il n’a livré que peu d’informations. Vénéra 4 est donc équipée pour pouvoir atterrir sur une surface solide ou liquide. Elle parvient à déployer son parachute et à maintenir les communications avec la Terre. Elle descend tranquillement pendant 93 minutes en communiquant des mesures de pression de température ou de composition chimique. Un véritable enfer qui se révèle sous leurs yeux. Les températures se comptent en centaines de degrés Celsius. Vénéra 4 est tout simplement broyée par la pression atmosphérique de Vénus alors qu’elle est encore à 27 kilomètres de la surface de Vénus. 
 - Venera 4 in 1967 became the first spacecraft to measure the atmosphere of another planet, detecting large amounts of carbon dioxide that cause the ceaseless Venusian greenhouse effect.
-
-### Mariner 2 et 5
-
-- Mariner 2 was the first American spacecraft to make it to Venus, in 1962. It determined that temperatures were cooler higher in the clouds, but extremely hot on the surface.
 
 ### Venera 7 et 8
 
@@ -360,13 +370,13 @@ conditions.
 - La sonde Vénéra 14 a survécu près d'une heure (57 minutes) dans l'environnement hostile de Vénus.
 - Vénéra 14 a envoyé les premières photos couleur de la surface de Vénus (à vérifier). 
 
-### Vega
-
-- In 1985 the Soviet Union concluded its Venus encounters with the twin Vega spacecraft, which each released large balloons loaded with scientific instruments, demonstrating the potential for probes that could float in the planet’s clouds.
-
 ### Vénéra 15 et 16 
 
 - In terms of the advances they provided in the global understanding of Venus, the most important Soviet missions were Veneras 15 and 16 in 1983. The twin orbiters carried the first radar systems flown to another planet that were capable of producing high-quality images of the surface. They produced a map of the northern quarter of Venus with a resolution of 1–2 km (0.6–1.2 miles), and many types of geologic features now known to exist on the planet were either discovered or first observed in detail in the Venera 15 and 16 data. 
+
+### Vega
+
+- In 1985 the Soviet Union concluded its Venus encounters with the twin Vega spacecraft, which each released large balloons loaded with scientific instruments, demonstrating the potential for probes that could float in the planet’s clouds.
 
 
 ### Magellan (NASA, 1989-1994)
