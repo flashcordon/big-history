@@ -262,12 +262,15 @@
 
 - Vénus est le 3e objet du ciel le plus brillant après le Soleil et la Lune. Il a donc une importance particulière dans l'histoire de l'Humanité.
 -  Galileo Galilei was the first to point it at the heavens and make detailed observations of what he saw. In 1610 he discovered that Venus goes through phases, like the Moon. 
+- Vénus est nommée en référence à la déesse romaine de l'amour.
+
+## Propriétés de Vénus
+
 - Vénus ressemble beaucoup à la Terre en terme de taille, de masse et de densité moyenne. On peut le voir comme le jumeau maléfique de la Terre.
 > Le diamètre de Vénus est 95% de celui de la Terre
 - Comprendre pourquoi et comment Vénus et la Terre ont eu des destins divergents est crucial pour comprendre l'évolution de notre planète et de l'habitabilité des systèmes stellaires en général.
 - La couverture nuageuse est probablement maintenue par un volcanisme actif
 - La surface de Vénus est suffisamment chaude pour faire fondre du plomb.
-- Vénus est nommée en référence à la déesse romaine de l'amour.
 - Contrairement à la plupart des planètes, Vénus tourne sur elle-même dans l'autre sens. 
 - Sur Vénus, une journée (243 jours) dure plus longtemps qu'un an (220 jours).
 - The very first thing that scientists discovered with a mission to another planet was that Venus was not at all the Earthly paradise that fiction and speculative science had portrayed. It is nearly identical to our own planet in bulk properties such as mass, density, and size. But its surface has been cooked and desiccated by a suffocating ocean of carbon dioxide. Trapped in the scorching death-grip of a runaway greenhouse effect, Venus has long been held up as a cautionary tale for everything that could go wrong on a planet like Earth. As a possible home for alien life, it has been voted the planet least likely to succeed.
