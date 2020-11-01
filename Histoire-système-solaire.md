@@ -614,7 +614,7 @@ Immanuel Kant , the famous Königsberg philosopher (1724-1804), put forward the 
 - Many of the current models of Uranus and Neptune postulate a three-layer structure, consisting of an inner rocky core, a middle ‘ice’ layer of fluid, H2O, CH4, NH3 and an outer hydrogen–helium layer of solar composition1. The estimated pressures and temperatures of the ice layer ranges from about 6Mbar and 7,000 K at the inner core-ice boundary, to ∼0.2 Mbar and 2,200 K at the outer ice/hydrogen–helium boundary. I point out here that shockwave experiments on these liquids2–5, as well as theoretical studies5–7, imply that the H2O and NH3 in the ice layer are almost totally ionized and the CH4 has been pyrolysed to carbon, possibly in the metallic or diamond form
 
 
-## Des diamants dans Neptune et Uranus ?
+## Des diamants dans Neptune et Uranus
 
 - En 1981, Marvin Ross propose qu'à l'intérieur de Neptune et Uranus, la pression et la température suffisent à comprimer les composés carbonés (notamment le méthane CH4) détectés dans leur atmosphère pour en faire des diamants. 
 > A très haute pression, les atomes de carbone se séparent des atomes d'hydrogène, et les atomes de carbone se réunissent pour former des diamants. 
