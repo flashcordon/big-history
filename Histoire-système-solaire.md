@@ -330,7 +330,22 @@ conditions.
 
 ## Terraformer Vénus
 
-
+- The term “terraforming” refers to the concept
+of altering a planet's environment to make it suitable for human habitat. The word was coined by SF author Jack
+Williamson in 19425
+- in many ways Venus is the Earth's closest analogue in the solar system, with a size
+and surface gravity similar to that of Earth, and incident solar radiation ("insolation") slightly higher than that of
+Earth.
+- Serious calculations about the feasibility of terraforming have a fifty-year history, dating back to Sagan's 1961
+proposal to terraform Venus3
+- proposals to terraform Venus are thus simply
+engineering attempts to return Venus to its early state.
+- Sagan proposed eliminating the strong greenhouse effect at the surface by use of floating photosynthetic bacteria
+to reduce the infrared-absorbing carbon dioxide atmosphere to an infrared-transparent oxygen atmosphere, in order 
+to produce a cooler planet that would be similar to the Earth in climate. This is possible because, although the
+temperature of Venus at the surface level is well above the boiling point of water, at altitudes sufficiently high in the
+atmosphere, the temperature moderates to a level low enough that bacteria would be able to survive. Unfortunately,
+this proposal, although audacious, would not work in the real world due to the thickness of atmosphere
 
 ## Missions vers Vénus
 
