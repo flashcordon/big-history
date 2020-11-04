@@ -346,6 +346,17 @@ to produce a cooler planet that would be similar to the Earth in climate. This i
 temperature of Venus at the surface level is well above the boiling point of water, at altitudes sufficiently high in the
 atmosphere, the temperature moderates to a level low enough that bacteria would be able to survive. Unfortunately,
 this proposal, although audacious, would not work in the real world due to the thickness of atmosphere
+- Sagan’s originally proposed method was for photosynthetic bacteria that would float in the atmosphere of Venus
+by the technique of reproducing fast enough that vertical mixing of the atmosphere keeps a population airborne
+faster than Stokes settling makes them settle toward the surface. Unfortunately, some fraction of the organisms will
+settle or be moved by vertical convection to the lower atmosphere16, encountering temperatures at which they will
+be pyrolized; if the atmosphere contains significant amounts of oxygen, they will then be oxidized, returning any
+sequestered carbon dioxide to the atmosphere. a more reasonable solution would be to further genetically
+engineer plants to incorporate oxygen or hydrogen containing gas bladders, to allow them to float reliably above the
+high temperature lower atmosphere. This concept was originally suggested by Morowitz and Sagan16,17 in 1967, and
+analyzed in more detail by Cockell18 in 1999. Kelp, for example, is a common ocean plant that uses atmospherefilled
+bladders to float in the atmosphere on Venus; the same gas would be lighter than the carbon-dioxide
+atmosphere.
 - When
 Sagan first proposed terraforming Venus by "seeding" algae into the clouds in 1961, Venus was though to be much
 more Earthlike than it is now known to be. We now know that the temperature of Venus is significantly hotter, the
@@ -372,7 +383,100 @@ processed, are daunting
 - A. Chemical Sequestering
 Chemically sequestering the atmosphere could be done if the carbon dioxide is combined with surface rock to
 form carbonate rock such as dolomite
+- It would require
+pulverizing the surface to a depth of at least 1 km, and possibly more, to produce enough rock surface area to
+convert enough of the atmosphere. It will also require a technique for producing carbonates. On Earth, this process
+is mediated by water. Finally, carbonates are not stable at Venus surface temperature: they decompose rapidly back
+to rock and carbon dioxide.
+- Alternately, the atmosphere could be converted into some other material sequestering carbon dioxide. One
+possibility would be to convert the carbon dioxide atmosphere into carbon and oxygen, sequester the carbon in the
+form of elemental carbon (in the form of graphite or “coal”), and use the oxygen to oxidize surface rocks.
+- B. Physical Removal
+An alternative concept would be to blast away the atmosphere. At the escape velocity of Venus, the minimum
+energy needed to remove atmosphere is about 50 MJ/kg. The energy required would be on the order of 2.5E28
+Joules: equal to a terawatt of power applied continuously for 850 million years.
+- The atmosphere could conceivably be ablated away by a sufficient number of asteroid impacts. There are a
+number of difficulties with this proposal, however.
+- Reducing the pressure from 92 bar to 1 bar would, by this calculation, require a minimum of 2000 impacts, even if
+the efficiency of atmosphere removal was perfect.
+- Coupling of energy from the impact to kinetic energy of the atmosphere is not expected to be efficient. Most
+of the energy is likely to go into vaporizing the impactor, and a significant amount will be released as heat and
+thermal radiation. Of the energy reaching the atmosphere, some of it will heat the atmosphere, but by an amount
+less than the escape energy; while on the other hand, some of the atmosphere that is ejected will be ejected with
+more than the minimum escape energy. Hence only a small fraction of the impact energy will result in removal of
+atmosphere. If ten percent of the impact energy is assumed to be effective in removing atmosphere, and on the
+average the impactors arrive at Venus orbital velocity, which is about ten times escape energy, then each impacting
+asteroid will ablate away an amount of atmosphere equal to its own mass. Thus, the impact of about two million 1-
+km diameter asteroids, or two thousand 10-km asteroids, would be required to ablate the required amount of
+atmosphere.
+- The asteroid belt is believed to contain about 10,000 asteroids of diameter greater than 10 kilometers,
+and the Kuiper belt and the Oort cloud many times more.
+- Nevertheless, it is likely that a spacefaring civilization
+with the technology to redirect the orbits of asteroids will most likely have other uses for asteroids, and not be
+interested in using the asteroids as impactors.
+Thus, removal of atmosphere by asteroidal impacts does not seem to be a reasonable method of terraforming
+Venus.
+- It is also reasonable to envision a several of these methods used in combination. Impacting the surface with
+asteroids, for example, could not only remove atmosphere directly, but would pulverize some amount of the surface,
+increasing the surface area available for reaction of the atmosphere to form carbonates or oxides
+- C. Condensing the Atmosphere
+A final possible proposal would be to use a large shadow-shield, placed between Venus and the sun, to reduce
+the solar input and so cool the planet sufficiently that the carbon dioxide would condense into liquid, and then (as
+the pressure reduces further) freeze out in the form of carbon dioxide ice. The shield would have to be extremely
+light weight; presumably a technology similar to a solar sail, although much larger.
+- The shield
+would be located at Venus/Sun L1 point (with the orbit suitably adjusted to account for solar photon pressure), or
+could consist of a larger number of smaller shields in a lower Venus orbit.
+This proposal also has a number of problems. It takes a planet like Venus an extremely very long time to cool.
+The Venus atmosphere has a large heat capacity, and the Venus rocks and soil also have a very large heat capacity.
+It is also unclear to what extent a planet covered with carbon dioxide snow can be called “terraformed.” The desired
+final state would be to have the CO2 snow concentrated in some places (e.g., “polar caps”), allowing other regions of
+planet to be temperate
+- alternative A. Floating colonies
+- A “sweet spot” exists in the atmosphere of Venus, at an altitude at which the temperature is roughly similar to
+that of Earth, and the atmospheric pressure is also similar to that of Earth.
+- The atmospheric pressure is
+roughly equal to that of Earth sea level at slightly over 54 km above the mean surface, and the temperature is 20°C
+at slightly under 56 km altitude. Near and slightly above these altitudes, the atmospheric pressure and the
+atmospheric temperature approach those of the surface environment of Earth.
+- A “near-term solution” would be to envision colonies in the form of floating habitats7,12, taking advantage of the
+fact that the carbon-dioxide atmosphere of Venus is denser than the oxygen-nitrogen mixture of the Earth's
+environment, and hence breathable air is a gas that could be used as the primary lifting gas of balloons or aerostats,
+allowing the entire envelope to be used as habitat volume requiring no pressurization.
+- Venus has great advantages over conventional space colony concepts, in that the gravity is
+provided by the planet, radiation protection is provided by the atmosphere, and no pressurization is needed (the
+habitats can float at or near the one-bar level). In addition, the atmosphere contains major volatiles needed for life
+(carbon, hydrogen, oxygen, nitrogen, sulfur), and above the clouds the environment has an abundance of solar
+energy.
+
+- Difficultés
+- A. Not enough water
+For the terraformed Venus to not be an arid surface, we will want to import water. This is not a problem in
+principle– there are many icy objects in the outer solar system (and likely as close as the asteroid belt).
+- it must also be noted that water is a potent greenhouse gas, and the runaway greenhouse effect that is
+believed to be primarily responsible for the high temperature of Venus was originally triggered by water vapor in the
+Downloaded by UNIVERSITY OF NEW SOUTH WALES on April 26, 2016 | http://arc.aiaa.org | DOI: 10.2514/6.2011-7215
+American Institute of Aeronautics and Astronautics
+6
+atmosphere. It will be a delicate problem to balance the instability of the greenhouse effect of water in the
+atmosphere with the desire for water in the ecosystem.
+- B. Sulfuric acid clouds
+Today’s Venus has clouds of sulfuric acid, which is both corrosive and hazardous.
+This, however, is not likely to be as much of a problem as it appears, since sulfuric acid reacts with rocks much
+more readily than carbon dioxide. It should be possible to sequester the sulfuric acid by reacting it with the rocks
+and soil to form sulfate rocks (e.g., gypsum).
 - 
+
+- why should humanity choose to engage in such an enormous and long-term project?
+Classically, two reasons have been given as reasons for terraforming:
+• The imperative of life to expand into new territory
+• A new home for humanity could preserve life in the event of global catastrophe
+terraforming other planets will give us scientific knowledge about our own planet. We are inadvertently
+reforming the Earth by technology anyway; it would be useful to learn about what we are doing on a planet where
+we can afford to make mistakes
+a long-term project such as terraforming Venus would serve as a focus to promote world-wide
+teamwork for a worlds-wide goal: a peaceful project for all of humankind-- "the moral equivalent of war.” It would
+be a major economic venture for the Earth's people.
 
 ## Missions vers Vénus
 
