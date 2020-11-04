@@ -346,6 +346,33 @@ to produce a cooler planet that would be similar to the Earth in climate. This i
 temperature of Venus at the surface level is well above the boiling point of water, at altitudes sufficiently high in the
 atmosphere, the temperature moderates to a level low enough that bacteria would be able to survive. Unfortunately,
 this proposal, although audacious, would not work in the real world due to the thickness of atmosphere
+- When
+Sagan first proposed terraforming Venus by "seeding" algae into the clouds in 1961, Venus was though to be much
+more Earthlike than it is now known to be. We now know that the temperature of Venus is significantly hotter, the
+atmospheric pressure tremendously higher, and the chemical environment a lot harsher,
+- Three decades after his original proposal, Sagan conceded
+that his concept for terraforming Venus with atmospheric microbes was naïve. In Pale Blue Dot8 he wrote:
+“Here's the fatal flaw: In 1961, I thought the atmospheric pressure at the surface of Venus
+was a few bars ... We now know it to be 90 bars, so if the scheme worked, the result would
+be a surface buried in hundreds of meters of fine graphite, and an atmosphere made of 65
+bars of almost pure molecular oxygen. Whether we would first implode under the
+atmospheric pressure or spontaneously burst into flames in all that oxygen is open to
+question. However, long before so much oxygen could build up, the graphite would
+spontaneously burn back into CO2, short-circuiting the process."
+- Fogg also points out that, even if it were possible to engineer organisms to sequester the carbon dioxide from the
+Venus atmosphere, the process would take between eleven thousand and 1.1 million years, depending on how
+optimistic one is about how efficient photosynthesis could be made to become6
+- In the fifty years since Sagan’s original concept, many other proposals for terraforming Venus have been
+analyzed6,9,10. These terraforming concepts require removal of the majority (99%) of the Venus atmosphere (and
+conversion of the remainder to an infrared-transparent gas).
+The amount of atmosphere that must be removed is large: terraforming would require removal of about 500
+quintillion kilograms of excess carbon dioxide. Proposed ways to do this include chemically combining or
+sequestering the atmosphere, or by physical removal technologies. The energies, and the amount of gas to be
+processed, are daunting
+- A. Chemical Sequestering
+Chemically sequestering the atmosphere could be done if the carbon dioxide is combined with surface rock to
+form carbonate rock such as dolomite
+- 
 
 ## Missions vers Vénus
 
