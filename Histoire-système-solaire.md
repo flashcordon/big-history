@@ -260,6 +260,7 @@
 - [The Planet Venus](https://science.sciencemag.org/content/133/3456/849) - Sagan (1961)
 - [The Terraforming of Venus](https://d1wqtxts1xzle7.cloudfront.net/31693077/chapter7.pdf?1375958463=&response-content-disposition=inline%3B+filename%3DChapter_7_The_Terraforming_of_Venus.pdf&Expires=1604510764&Signature=gdOfq6y~5UMii0HE0Xl-jWswxSicNhGKTMo6w1jKE1gIvdFAJZaSNoRKcQudCHYPu5kAW-Lv0mhtYSwNCJy52cC~NQ2ZuUGHeZDFPJMVXYZ6hK44zaXsonMqUHaOC2YNdwzDnpQAnGPxgyJEtkZQo--WYPbGJs4FOijROP21bTAYYGJ-0YfEFkCkNJiTHow7B1zWhhDOZck~o9MGU2iRXWs87AiiywW1rtnAZIv8-IMCiIbguTU8OS4covQhF2n3A~n-khtfOczz451DMevbttc84MOZY0fOxig0DPC71Wd5cN9WrWT2PdM4inDbF4w3RhvAUuFejbe1vSLdb0KQtw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) - Martyn Fogg, in TERRAFORMING : Engineering Planetary Environments (1995)
 - [Settling and Terraforming Venus: A Synthesis of Modern Approaches](https://d1wqtxts1xzle7.cloudfront.net/32702109/terraforming_venus.pdf?1389129817=&response-content-disposition=inline%3B+filename%3DTerraforming_Venus_A_Synthesis_of_Modern.pdf&Expires=1604510775&Signature=KBP2P74u-pKsLq4riIHpwmeGR6Zvt0gg1AeciCLI96hv4go9hBAgwBVYk6s7m5z68q0j8b9olWgq3I7GCY0X8L2Y~C~u3gmn-0EMqwdaqPkMZUJyOgx28yAPiLkpZshV-CW8qM9HKoPkI9hI7L4zoY-3WbtOiv8tv7wNEPZhS9zp3CmoLrAhGglkaZYw0lUlzly8lhFPNs~aS9wd-3o3T-fMuGsEgkmMByu-bRG2BLDY-wA-qMpUIdZzIjQGyDdYoKEmxA7PhRRjJ0wrafaBJa5e7UtZxkmBGIpxUSt9bS-sxj7TrYewZohuu9hn5ZnBrzQcIxZYV5A9zyxNKkqRXg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) - Seth Pritchard
+- Terraforming: the creating of habitable worlds - Martin Beech (2009)
 
 ---
 
