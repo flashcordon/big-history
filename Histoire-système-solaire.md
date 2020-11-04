@@ -255,6 +255,7 @@
 - [Missions to Venus: Highlights From History, and When We May Go Back](https://www.nytimes.com/2020/09/14/science/venus-spacecraft-life.html) - Shanon Stironne, New York Times (2020)
 - [Volcanoes on Venus Might Still Be Smoking](https://www.nytimes.com/2020/01/09/science/venus-volcanoes-active.html) - Shannon Hall, New York Times (2020)
 - [Present-day volcanism on Venus as evidenced from weathering rates of olivine](https://advances.sciencemag.org/content/6/1/eaax7445) - Filiberto et al (2020)
+- [Terraforming Venus quickly](https://www.orionsarm.com/fm_store/TerraformingVenusQuickly.pdf) - Paul Birch, JBIS (1991)
 
 ---
 
@@ -322,6 +323,8 @@ it would most likely have taken place in acidic, sulfur-rich
 conditions.
 
 ## Terraformer Vénus
+
+
 
 ## Missions vers Vénus
 
