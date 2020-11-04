@@ -219,6 +219,7 @@
 - [Propriétés de Vénus](#Propriétés-de-Vénus)
 - [Un volcanisme actif sur Vénus](#Un-volcanisme-actif-sur-Vénus)
 - [De la vie sur Vénus](#De-la-vie-sur-Vénus)
+- [Terraformer Vénus](#Terraformer-Vénus)
 - [Missions vers Vénus](#Missions-vers-Vénus)
 - [Vénus dans la fiction](#Vénus-dans-la-fiction)
 - [Illustrations Vénus](#Illustrations-Vénus)
@@ -319,6 +320,8 @@ thus leading to the increasing relevance of studying Venus as
 an early Mars analog. If there was an origin of life on Mars,
 it would most likely have taken place in acidic, sulfur-rich
 conditions.
+
+## Terraformer Vénus
 
 ## Missions vers Vénus
 
