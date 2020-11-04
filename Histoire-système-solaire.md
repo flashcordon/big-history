@@ -270,6 +270,40 @@
 - Vénus est le 3e objet du ciel le plus brillant après le Soleil et la Lune. Il a donc une importance particulière dans l'histoire de l'Humanité.
 - En 1610, Galilée fut le premier à observer, à travers sa lunette, que Vénus avait des phases, comme la Lune. 
 - Vénus est nommée en référence à la déesse romaine de l'amour.
+- In  1918 the Swedish astronomer  Svante  Arrenhius  published perhaps  the most  well known pre-space  age 
+speculation on the Venusian environment [1]. Assuming that the clouds were composed of water droplets, it 
+seemed natural to deduce a warm and humid surface: "We must therefore conclude that everything on Venus 
+is dripping wet." The planet of Arrenhius therefore was one with lots of water and a powerful hydrological 
+cycle driven by the fiercer Sun; a world of huge cloud formations and violent rains —what land was present resembling Carboniferous-type swamps, choked with the growth of plants, thriving at temperatures of ~ 47 
+oC. It was only a short step beyond this for science fiction writers to complete the picture and populate the 
+swamps with giant creatures resembling dinosaurs and the inevitable intelligent humanoids. This watery hot-
+house and its variants were, for the next forty years, the most popular images of Venus in science fiction.
+- However, the failure of astronomers between the wars to spectroscopically detect water vapour in the Venu-
+sian atmosphere, and the discovery of the presence of CO2, suggested a dry planet. The clouds were therefore 
+variously proposed to be composed of  fine dust [2], maintained aloft by perpetual winds; photochemically 
+produced polymers of formaldehyde [3]; or a hydrocarbon smog, generated from a boiling ocean of oil [4]. 
+The wet Venus model was not completely abandoned either [5], for if the cloud tops were cold enough (e.g. 
+ice crystals at -40 oC) then there would be little water vapour above them to be detected. Moreover, if the 
+planet was totally ocean covered, a CO2 atmosphere could persist, isolated from silicate rocks with which it 
+might combine by a layer of sediments on the sea floor. One of the last visions of Venus that preceded the 
+dawn of reality was therefore of a planet with a world-girdling ocean of Perrier and perhaps life of its own.
+- As it transpired, all these models had greatly underestimated the hostility of the real Venus. In the decade of 
+the 1960's, microwave observations of the planet and data returned from a succession of Soviet and US space 
+probes revealed the ground truth that the clouds had obscured. The surface of Venus swelters under an at-
+mosphere almost 100 times as dense as on Earth at temperatures hot enough to melt metals such as zinc and 
+lead; those once inviting clouds are tainted with corrosive sulphuric acid; and the planet spins backwards on 
+its  axis  so  slowly  that  its  sidereal day  is  longer  than  its  year.  A deadlier  place could  hardly  be  imagined. 
+Whilst the real Venus has been compared to visions of the medieval Hell, conditions are actually far more le-
+thal than anything Dante imagined. There would be very little torture being exposed to the Venusian envi-
+ronment,  only  near-instant  death  followed  by  one's  body  being  reduced  to  a  charred  stain  on  the  ground 
+within seconds.
+- The disappointment with the planet nature had finally to offer was eloquently summed up in 1968 by British 
+science fiction author Brian Aldiss [6]. In the foreword to a book appropriately entitled Farewell Fantastic 
+Venus! he wrote, "... a story has ended. It is a long story, because man has been telling himself it for many 
+centuries: the story of a fair imagined Venus... An unsatisfactory sibling she has proved at last... Her name is 
+most beautiful. And yet: the Cytherian landscape, under the thick oppressive Cytherian cloudbanks, must be 
+uglier than anything Earth can offer. Venus just has not come up to expectations."
+
 
 ## Propriétés de Vénus
 
