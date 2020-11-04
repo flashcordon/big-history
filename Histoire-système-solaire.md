@@ -449,6 +449,27 @@ habitats can float at or near the one-bar level). In addition, the atmosphere co
 (carbon, hydrogen, oxygen, nitrogen, sulfur), and above the clouds the environment has an abundance of solar
 energy.
 
+- Echelles de temps
+- the work of Birch (1991) laid
+out the general foundations for the
+terraforming of Venus, including the
+economic considerations, population
+growth, and megascale environmental
+engineering. The low end of the
+timescales for cooling Venus are
+within ~200 years, suggested by Birch
+(1991), but the upper limit suggested
+it could take as long as 10,000 years. I
+show that a more reasonable timescale
+is in between the two around 3,000–
+4,000 years for Venus.
+- Removing its massive atmosphere is the
+single greatest obstacle in terraforming Venus (
+- The terraforming of Venus after the removal of nearly ~6.9 MPa of atmosphere would initially
+include the addition of the oceans, which would collect at the poles of Venus, since the equatorial region is
+highest in elevation.
+- 
+
 - Difficultés
 - A. Not enough water
 For the terraformed Venus to not be an arid surface, we will want to import water. This is not a problem in
