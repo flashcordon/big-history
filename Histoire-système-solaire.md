@@ -465,9 +465,6 @@ is in between the two around 3,000–
 4,000 years for Venus.
 - Removing its massive atmosphere is the
 single greatest obstacle in terraforming Venus (
-- The terraforming of Venus after the removal of nearly ~6.9 MPa of atmosphere would initially
-include the addition of the oceans, which would collect at the poles of Venus, since the equatorial region is
-highest in elevation.
 - 
 
 - Difficultés
