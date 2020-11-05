@@ -314,6 +314,7 @@ uglier than anything Earth can offer. Venus just has not come up to expectations
 - La surface de Vénus est suffisamment chaude pour faire fondre du plomb.
 - Contrairement à la plupart des planètes, Vénus tourne sur elle-même dans l'autre sens. 
 - Sur Vénus, une journée (243 jours) dure plus longtemps qu'un an (220 jours).
+- L'orbite de Vénus est la moins excentrique des planètes du système solaire, à tel point qu'il n'y a pas de saisons sur Vénus.
 - The very first thing that scientists discovered with a mission to another planet was that Venus was not at all the Earthly paradise that fiction and speculative science had portrayed. It is nearly identical to our own planet in bulk properties such as mass, density, and size. But its surface has been cooked and desiccated by a suffocating ocean of carbon dioxide. Trapped in the scorching death-grip of a runaway greenhouse effect, Venus has long been held up as a cautionary tale for everything that could go wrong on a planet like Earth. As a possible home for alien life, it has been voted the planet least likely to succeed.
 - our picture of Venus at around the time life was getting started on Earth is one of warm oceans, probably rich with organic molecules, sloshing around rocky shores and volcanic vents. Stellar-evolution theory predicts the sun was considerably less bright back then. So, Venus was arguably a cozier habitat for life than Earth. As the sun gradually warmed, water spent more time in the atmosphere than on the surface. Because water vapor is a powerful greenhouse gas, this led to more warming, which in turn led to more evaporation creating a powerful positive feedback. After the sun reached a certain level of brightness, the process became irreversible. The oceans completely boiled off, solar radiation split water into hydrogen and oxygen, the hydrogen escaped into space, and the oxygen either escaped along with it or got swallowed up by surface minerals. The result is the dried-out hellhole we see today.
 - The decline took time. My colleagues and I have applied global circulation models the same kind we use to study climate change on Earth to Venus. When we include details such as cloud formation, global winds, topography, and planetary rotation, our models tell us that Venus could have remained oceanic and habitable for much longer than previously thought perhaps for substantially longer than Mars ever was. 
@@ -373,7 +374,7 @@ Earth.
 proposal to terraform Venus3
 - proposals to terraform Venus are thus simply
 engineering attempts to return Venus to its early state.
-- Le premier à avoir proposé sérieusement la terraformation de Vénus à très long terme est l'astronome américain Carl Sagan, en 1961.
+- Le premier à avoir proposé sérieusement la terraformation de Vénus à très long terme est l'astronome américain Carl Sagan, en 1961, juste avant l'atterrissage des premières sondes sur le sol de la planète.
 > * Il est aussi le premier à avoir proposé la terraformation de Mars.
 - Sagan proposait de saupoudrer l'atmosphère de Vénus par des bactéries photosynthétiques qui consommeraient le CO2 de l'atmosphère pour le convertir en oxygène, ce qui refroidirait la planète.
 > Malheureusement, cette stratégie, certes crédible avec les connaissances du début des années 60, n'est plus considérée comme réaliste.
