@@ -499,7 +499,10 @@ is in between the two around 3,000–
 4,000 years for Venus.
 - Removing its massive atmosphere is the
 single greatest obstacle in terraforming Venus (
-- 
+
+*Différents scénarios de terraformation de Vénus (Source: Martyn Fogg, Terraforming: Engineering Planetary Environments, Chapitre 7)*
+
+![terraformingvenus](https://i.imgur.com/G7f7c2v.png)
 
 ### Difficultés à terraformer Vénus
 
