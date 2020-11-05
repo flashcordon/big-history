@@ -366,19 +366,14 @@ conditions.
 ## Terraformer Vénus
 
 - Le concept de "terraformation" a été inventé par l'auteur de SF Jack Williamson en 1942. Il désigne l'altération intentionnelle de l'environnement d'une planète pour la rendre habitable pour des humains.
+- On parle beaucoup de terraformation de Mars. Pourtant, en ce qui concerne la taille, la gravité de surface et le taux d'insolation, Vénus est plus similaire à la Terre que Mars. Evidemment, les conditions de surface de la planète rendent cette dernière complètement inhabitable.
 
-- in many ways Venus is the Earth's closest analogue in the solar system, with a size
-and surface gravity similar to that of Earth, and incident solar radiation ("insolation") slightly higher than that of
-Earth.
-- Serious calculations about the feasibility of terraforming have a fifty-year history, dating back to Sagan's 1961
-proposal to terraform Venus3
-- proposals to terraform Venus are thus simply
-engineering attempts to return Venus to its early state.
 - Le premier à avoir proposé sérieusement la terraformation de Vénus à très long terme est l'astronome américain Carl Sagan, en 1961, juste avant l'atterrissage des premières sondes sur le sol de la planète.
 > * Il est aussi le premier à avoir proposé la terraformation de Mars.
 - Sagan proposait de saupoudrer l'atmosphère de Vénus par des bactéries photosynthétiques qui consommeraient le CO2 de l'atmosphère pour le convertir en oxygène, ce qui refroidirait la planète.
 > Malheureusement, cette stratégie, certes crédible avec les connaissances du début des années 60, n'est plus considérée comme réaliste.
-- Unfortunately,
+- proposals to terraform Venus are thus simply
+engineering attempts to return Venus to its early state.
 this proposal, although audacious, would not work in the real world due to the thickness of atmosphere
 - Sagan’s originally proposed method was for photosynthetic bacteria that would float in the atmosphere of Venus
 by the technique of reproducing fast enough that vertical mixing of the atmosphere keeps a population airborne
