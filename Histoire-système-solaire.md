@@ -365,6 +365,7 @@ conditions.
 ## Terraformer Vénus
 
 - Le concept de "terraformation" a été inventé par l'auteur de SF Jack Williamson en 1942. Il désigne l'altération intentionnelle de l'environnement d'une planète pour la rendre habitable pour des humains.
+
 - in many ways Venus is the Earth's closest analogue in the solar system, with a size
 and surface gravity similar to that of Earth, and incident solar radiation ("insolation") slightly higher than that of
 Earth.
@@ -372,11 +373,11 @@ Earth.
 proposal to terraform Venus3
 - proposals to terraform Venus are thus simply
 engineering attempts to return Venus to its early state.
-- Sagan proposed eliminating the strong greenhouse effect at the surface by use of floating photosynthetic bacteria
-to reduce the infrared-absorbing carbon dioxide atmosphere to an infrared-transparent oxygen atmosphere, in order 
-to produce a cooler planet that would be similar to the Earth in climate. This is possible because, although the
-temperature of Venus at the surface level is well above the boiling point of water, at altitudes sufficiently high in the
-atmosphere, the temperature moderates to a level low enough that bacteria would be able to survive. Unfortunately,
+- Le premier à avoir proposé sérieusement la terraformation de Vénus à très long terme est l'astronome américain Carl Sagan, en 1961.
+> * Il est aussi le premier à avoir proposé la terraformation de Mars.
+- Sagan proposait de saupoudrer l'atmosphère de Vénus par des bactéries photosynthétiques qui consommeraient le CO2 de l'atmosphère pour le convertir en oxygène, ce qui refroidirait la planète.
+> Malheureusement, cette stratégie, certes crédible avec les connaissances du début des années 60, n'est plus considérée comme réaliste.
+- Unfortunately,
 this proposal, although audacious, would not work in the real world due to the thickness of atmosphere
 - Sagan’s originally proposed method was for photosynthetic bacteria that would float in the atmosphere of Venus
 by the technique of reproducing fast enough that vertical mixing of the atmosphere keeps a population airborne
