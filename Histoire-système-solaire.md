@@ -366,14 +366,12 @@ conditions.
 ## Terraformer Vénus
 
 - Le concept de "terraformation" a été inventé par l'auteur de SF Jack Williamson en 1942. Il désigne l'altération intentionnelle de l'environnement d'une planète pour la rendre habitable pour des humains.
-- On parle beaucoup de terraformation de Mars. Pourtant, en ce qui concerne la taille, la gravité de surface et le taux d'insolation, Vénus est plus similaire à la Terre que Mars. Evidemment, les conditions de surface de la planète rendent cette dernière complètement inhabitable.
+- On parle beaucoup de terraformation de Mars. Pourtant, en ce qui concerne la taille, la gravité de surface et le taux d'insolation, Vénus est plus similaire à la Terre que Mars. Evidemment, les conditions de surface de la planète rendent cette dernière complètement inhabitable. Mais ça n'a pas toujours été le cas. Du coup, les scénarios de terraformation de Vénus visent à faire revenir la planète à son état d'il y a plusieurs milliards d'années.
 - Le premier à avoir proposé sérieusement la terraformation de Vénus à très long terme est l'astronome américain Carl Sagan, en 1961, juste avant l'atterrissage des premières sondes sur le sol de la planète.
 > * Il est aussi le premier à avoir proposé la terraformation de Mars.
 - Sagan proposait de saupoudrer l'atmosphère de Vénus par des bactéries photosynthétiques qui consommeraient le CO2 de l'atmosphère pour le convertir en oxygène, ce qui refroidirait la planète.
 > * Malheureusement, cette stratégie, certes crédible avec les connaissances du début des années 60, n'est plus considérée comme réaliste, comme Sagan l'avouera lui-même plus tard.
 > * Dans "Pale Blue Dot", il écrit : Here's the fatal flaw: In 1961, I thought the atmospheric pressure at the surface of Venus was a few bars ... We now know it to be 90 bars, so if the scheme worked, the result would be a surface buried in hundreds of meters of fine graphite, and an atmosphere made of 65 bars of almost pure molecular oxygen. Whether we would first implode under the atmospheric pressure or spontaneously burst into flames in all that oxygen is open to question. However, long before so much oxygen could build up, the graphite would spontaneously burn back into CO2, short-circuiting the process.
-- proposals to terraform Venus are thus simply
-engineering attempts to return Venus to its early state.
 this proposal, although audacious, would not work in the real world due to the thickness of atmosphere
 - Sagan’s originally proposed method was for photosynthetic bacteria that would float in the atmosphere of Venus
 by the technique of reproducing fast enough that vertical mixing of the atmosphere keeps a population airborne
