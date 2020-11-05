@@ -364,9 +364,7 @@ conditions.
 
 ## Terraformer Vénus
 
-- The term “terraforming” refers to the concept
-of altering a planet's environment to make it suitable for human habitat. The word was coined by SF author Jack
-Williamson in 19425
+- Le concept de "terraformation" a été inventé par l'auteur de SF Jack Williamson en 1942. Il désigne l'altération intentionnelle de l'environnement d'une planète pour la rendre habitable pour des humains.
 - in many ways Venus is the Earth's closest analogue in the solar system, with a size
 and surface gravity similar to that of Earth, and incident solar radiation ("insolation") slightly higher than that of
 Earth.
@@ -518,17 +516,10 @@ This, however, is not likely to be as much of a problem as it appears, since sul
 more readily than carbon dioxide. It should be possible to sequester the sulfuric acid by reacting it with the rocks
 and soil to form sulfate rocks (e.g., gypsum).
 - 
+### Pourquoi terraformer une planète ?
 
-- why should humanity choose to engage in such an enormous and long-term project?
-Classically, two reasons have been given as reasons for terraforming:
-• The imperative of life to expand into new territory
-• A new home for humanity could preserve life in the event of global catastrophe
-terraforming other planets will give us scientific knowledge about our own planet. We are inadvertently
-reforming the Earth by technology anyway; it would be useful to learn about what we are doing on a planet where
-we can afford to make mistakes
-a long-term project such as terraforming Venus would serve as a focus to promote world-wide
-teamwork for a worlds-wide goal: a peaceful project for all of humankind-- "the moral equivalent of war.” It would
-be a major economic venture for the Earth's people.
+- Les apologistes de la terraformation invoquent souvent le besoin pour la vie de s'étendre à de nouveaux territoires, ainsi que l'espoir d'une planète B pour l'Humanité en cas de catastrophe globale sur Terre. Il s'agirait aussi d'un projet fédérateur sur le long terme pour l'Humanité, un "équivalent moral à la guerre".
+- Au delà de sa faisabilité réelle, il s'agit aussi d'un exercice de pensée intéressant en soi, car il nous permet de nous interroger sur les facteurs qui rendent une planète accueuillante pour la vie telle qu'on la connaît, et elle nous permet de mieux comprendre comment fonctionnent les planètes.
 
 ## Missions vers Vénus
 
