@@ -503,7 +503,7 @@ single greatest obstacle in terraforming Venus (
 
 ### Difficultés à terraformer Vénus
 
-- Vénus ne contient pas assez d'eau pour être habitable. Il faudrait donc importer de l'eau sur la planète, via des astéroides et des comètes de la ceinture d'astéroide et de celle de Kuiper. Mais attention : la vapeur d'eau est un puissant gaz à effet de serre, qui est probablement responsable de l'embalement climatique initial de la planète il y a plusieurs milliards d'années. Donc il y aurait un équilibre délicat à trouver entre la quantité d'eau à inclure et le réchauffement de la planète par cette eau.
+- Avec un réservoir d'eau atmosphérique 100 000 fois moins élevé que sur Terre, Vénus ne contient pas assez d'eau pour être habitable. Il faudrait donc importer de l'eau sur la planète, via des astéroides et des comètes de la ceinture d'astéroide et de celle de Kuiper. Mais attention : la vapeur d'eau est un puissant gaz à effet de serre, qui est probablement responsable de l'embalement climatique initial de la planète il y a plusieurs milliards d'années. Donc il y aurait un équilibre délicat à trouver entre la quantité d'eau à inclure et le réchauffement de la planète par cette eau.
 - Les nuages de Vénus sont constitués d'acide sulfuriques... Mais c'est un problème résoluble ! Car l'acide sulfurique réagit chimiquement avec les roches, donc on pourrait le piéger dans ces dernières pour former des roches sulfatées comme le gypse.
  
 ### Pourquoi terraformer une planète ?
