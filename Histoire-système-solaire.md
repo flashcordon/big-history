@@ -444,7 +444,9 @@ The Venus atmosphere has a large heat capacity, and the Venus rocks and soil als
 It is also unclear to what extent a planet covered with carbon dioxide snow can be called “terraformed.” The desired
 final state would be to have the CO2 snow concentrated in some places (e.g., “polar caps”), allowing other regions of
 planet to be temperate
-- alternative A. Floating colonies
+
+***Des colonies flottantes sur Vénus***
+
 - A “sweet spot” exists in the atmosphere of Venus, at an altitude at which the temperature is roughly similar to
 that of Earth, and the atmospheric pressure is also similar to that of Earth.
 - The atmospheric pressure is
