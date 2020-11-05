@@ -367,11 +367,10 @@ conditions.
 
 - Le concept de "terraformation" a été inventé par l'auteur de SF Jack Williamson en 1942. Il désigne l'altération intentionnelle de l'environnement d'une planète pour la rendre habitable pour des humains.
 - On parle beaucoup de terraformation de Mars. Pourtant, en ce qui concerne la taille, la gravité de surface et le taux d'insolation, Vénus est plus similaire à la Terre que Mars. Evidemment, les conditions de surface de la planète rendent cette dernière complètement inhabitable.
-
 - Le premier à avoir proposé sérieusement la terraformation de Vénus à très long terme est l'astronome américain Carl Sagan, en 1961, juste avant l'atterrissage des premières sondes sur le sol de la planète.
 > * Il est aussi le premier à avoir proposé la terraformation de Mars.
 - Sagan proposait de saupoudrer l'atmosphère de Vénus par des bactéries photosynthétiques qui consommeraient le CO2 de l'atmosphère pour le convertir en oxygène, ce qui refroidirait la planète.
-> Malheureusement, cette stratégie, certes crédible avec les connaissances du début des années 60, n'est plus considérée comme réaliste.
+> Malheureusement, cette stratégie, certes crédible avec les connaissances du début des années 60, n'est plus considérée comme réaliste, comme Sagan l'avouera lui-même plus tard.
 - proposals to terraform Venus are thus simply
 engineering attempts to return Venus to its early state.
 this proposal, although audacious, would not work in the real world due to the thickness of atmosphere
@@ -478,22 +477,10 @@ habitats can float at or near the one-bar level). In addition, the atmosphere co
 (carbon, hydrogen, oxygen, nitrogen, sulfur), and above the clouds the environment has an abundance of solar
 energy.
 
-- Echelles de temps
-- the work of Birch (1991) laid
-out the general foundations for the
-terraforming of Venus, including the
-economic considerations, population
-growth, and megascale environmental
-engineering. The low end of the
-timescales for cooling Venus are
-within ~200 years, suggested by Birch
-(1991), but the upper limit suggested
-it could take as long as 10,000 years. I
-show that a more reasonable timescale
-is in between the two around 3,000–
-4,000 years for Venus.
+- Echelles de temps : entre 200 et 10 000 ans, selon Birch (1991).
+
 - Removing its massive atmosphere is the
-single greatest obstacle in terraforming Venus (
+single greatest obstacle in terraforming Venus
 
 *Différents scénarios de terraformation de Vénus (Source: Martyn Fogg, Terraforming: Engineering Planetary Environments, Chapitre 7)*
 
