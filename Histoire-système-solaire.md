@@ -370,7 +370,8 @@ conditions.
 - Le premier à avoir proposé sérieusement la terraformation de Vénus à très long terme est l'astronome américain Carl Sagan, en 1961, juste avant l'atterrissage des premières sondes sur le sol de la planète.
 > * Il est aussi le premier à avoir proposé la terraformation de Mars.
 - Sagan proposait de saupoudrer l'atmosphère de Vénus par des bactéries photosynthétiques qui consommeraient le CO2 de l'atmosphère pour le convertir en oxygène, ce qui refroidirait la planète.
-> Malheureusement, cette stratégie, certes crédible avec les connaissances du début des années 60, n'est plus considérée comme réaliste, comme Sagan l'avouera lui-même plus tard.
+> * Malheureusement, cette stratégie, certes crédible avec les connaissances du début des années 60, n'est plus considérée comme réaliste, comme Sagan l'avouera lui-même plus tard.
+> * Dans "Pale Blue Dot", il écrit : Here's the fatal flaw: In 1961, I thought the atmospheric pressure at the surface of Venus was a few bars ... We now know it to be 90 bars, so if the scheme worked, the result would be a surface buried in hundreds of meters of fine graphite, and an atmosphere made of 65 bars of almost pure molecular oxygen. Whether we would first implode under the atmospheric pressure or spontaneously burst into flames in all that oxygen is open to question. However, long before so much oxygen could build up, the graphite would spontaneously burn back into CO2, short-circuiting the process.
 - proposals to terraform Venus are thus simply
 engineering attempts to return Venus to its early state.
 this proposal, although audacious, would not work in the real world due to the thickness of atmosphere
@@ -391,13 +392,7 @@ more Earthlike than it is now known to be. We now know that the temperature of V
 atmospheric pressure tremendously higher, and the chemical environment a lot harsher,
 - Three decades after his original proposal, Sagan conceded
 that his concept for terraforming Venus with atmospheric microbes was naïve. In Pale Blue Dot8 he wrote:
-“Here's the fatal flaw: In 1961, I thought the atmospheric pressure at the surface of Venus
-was a few bars ... We now know it to be 90 bars, so if the scheme worked, the result would
-be a surface buried in hundreds of meters of fine graphite, and an atmosphere made of 65
-bars of almost pure molecular oxygen. Whether we would first implode under the
-atmospheric pressure or spontaneously burst into flames in all that oxygen is open to
-question. However, long before so much oxygen could build up, the graphite would
-spontaneously burn back into CO2, short-circuiting the process."
+“"
 - Fogg also points out that, even if it were possible to engineer organisms to sequester the carbon dioxide from the
 Venus atmosphere, the process would take between eleven thousand and 1.1 million years, depending on how
 optimistic one is about how efficient photosynthesis could be made to become6
