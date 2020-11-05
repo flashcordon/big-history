@@ -499,23 +499,11 @@ is in between the two around 3,000–
 single greatest obstacle in terraforming Venus (
 - 
 
-- Difficultés
-- A. Not enough water
-For the terraformed Venus to not be an arid surface, we will want to import water. This is not a problem in
-principle– there are many icy objects in the outer solar system (and likely as close as the asteroid belt).
-- it must also be noted that water is a potent greenhouse gas, and the runaway greenhouse effect that is
-believed to be primarily responsible for the high temperature of Venus was originally triggered by water vapor in the
-Downloaded by UNIVERSITY OF NEW SOUTH WALES on April 26, 2016 | http://arc.aiaa.org | DOI: 10.2514/6.2011-7215
-American Institute of Aeronautics and Astronautics
-6
-atmosphere. It will be a delicate problem to balance the instability of the greenhouse effect of water in the
-atmosphere with the desire for water in the ecosystem.
-- B. Sulfuric acid clouds
-Today’s Venus has clouds of sulfuric acid, which is both corrosive and hazardous.
-This, however, is not likely to be as much of a problem as it appears, since sulfuric acid reacts with rocks much
-more readily than carbon dioxide. It should be possible to sequester the sulfuric acid by reacting it with the rocks
-and soil to form sulfate rocks (e.g., gypsum).
-- 
+### Difficultés à terraformer Vénus
+
+- Vénus ne contient pas assez d'eau pour être habitable. Il faudrait donc importer de l'eau sur la planète, via des astéroides et des comètes de la ceinture d'astéroide et de celle de Kuiper. Mais attention : la vapeur d'eau est un puissant gaz à effet de serre, qui est probablement responsable de l'embalement climatique initial de la planète il y a plusieurs milliards d'années. Donc il y aurait un équilibre délicat à trouver entre la quantité d'eau à inclure et le réchauffement de la planète par cette eau.
+- Les nuages de Vénus sont constitués d'acide sulfuriques... Mais c'est un problème résoluble ! Car l'acide sulfurique réagit chimiquement avec les roches, donc on pourrait le piéger dans ces dernières pour former des roches sulfatées comme le gypse.
+ 
 ### Pourquoi terraformer une planète ?
 
 - Les apologistes de la terraformation invoquent souvent le besoin pour la vie de s'étendre à de nouveaux territoires, ainsi que l'espoir d'une planète B pour l'Humanité en cas de catastrophe globale sur Terre. Il s'agirait aussi d'un projet fédérateur sur le long terme pour l'Humanité, un "équivalent moral à la guerre".
