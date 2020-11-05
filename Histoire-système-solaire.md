@@ -372,25 +372,18 @@ conditions.
 - Sagan proposait de saupoudrer l'atmosphère de Vénus par des bactéries photosynthétiques qui consommeraient le CO2 de l'atmosphère pour le convertir en oxygène, ce qui refroidirait la planète.
 > * Malheureusement, cette stratégie, certes crédible avec les connaissances du début des années 60, n'est plus considérée comme réaliste, comme Sagan l'avouera lui-même plus tard.
 > * Dans "Pale Blue Dot", il écrit : Here's the fatal flaw: In 1961, I thought the atmospheric pressure at the surface of Venus was a few bars ... We now know it to be 90 bars, so if the scheme worked, the result would be a surface buried in hundreds of meters of fine graphite, and an atmosphere made of 65 bars of almost pure molecular oxygen. Whether we would first implode under the atmospheric pressure or spontaneously burst into flames in all that oxygen is open to question. However, long before so much oxygen could build up, the graphite would spontaneously burn back into CO2, short-circuiting the process.
-this proposal, although audacious, would not work in the real world due to the thickness of atmosphere
-- Sagan’s originally proposed method was for photosynthetic bacteria that would float in the atmosphere of Venus
-by the technique of reproducing fast enough that vertical mixing of the atmosphere keeps a population airborne
-faster than Stokes settling makes them settle toward the surface. Unfortunately, some fraction of the organisms will
-settle or be moved by vertical convection to the lower atmosphere16, encountering temperatures at which they will
-be pyrolized; if the atmosphere contains significant amounts of oxygen, they will then be oxidized, returning any
-sequestered carbon dioxide to the atmosphere. a more reasonable solution would be to further genetically
+
+***Séquestration chimique de l'atmosphère***
+
+- L'idée est de séquestrer le CO2 de l'atmosphère de la planète.
+- Chimiquement, cela pourrait être réalisé en faisant réagir le CO2 avec des roches de surface pour former des carbonates (comme la dolomite)
+
+- a more reasonable solution would be to further genetically
 engineer plants to incorporate oxygen or hydrogen containing gas bladders, to allow them to float reliably above the
 high temperature lower atmosphere. This concept was originally suggested by Morowitz and Sagan16,17 in 1967, and
 analyzed in more detail by Cockell18 in 1999. Kelp, for example, is a common ocean plant that uses atmospherefilled
 bladders to float in the atmosphere on Venus; the same gas would be lighter than the carbon-dioxide
 atmosphere.
-- When
-Sagan first proposed terraforming Venus by "seeding" algae into the clouds in 1961, Venus was though to be much
-more Earthlike than it is now known to be. We now know that the temperature of Venus is significantly hotter, the
-atmospheric pressure tremendously higher, and the chemical environment a lot harsher,
-- Three decades after his original proposal, Sagan conceded
-that his concept for terraforming Venus with atmospheric microbes was naïve. In Pale Blue Dot8 he wrote:
-“"
 - Fogg also points out that, even if it were possible to engineer organisms to sequester the carbon dioxide from the
 Venus atmosphere, the process would take between eleven thousand and 1.1 million years, depending on how
 optimistic one is about how efficient photosynthesis could be made to become6
@@ -402,8 +395,6 @@ quintillion kilograms of excess carbon dioxide. Proposed ways to do this include
 sequestering the atmosphere, or by physical removal technologies. The energies, and the amount of gas to be
 processed, are daunting
 - A. Chemical Sequestering
-Chemically sequestering the atmosphere could be done if the carbon dioxide is combined with surface rock to
-form carbonate rock such as dolomite
 - It would require
 pulverizing the surface to a depth of at least 1 km, and possibly more, to produce enough rock surface area to
 convert enough of the atmosphere. It will also require a technique for producing carbonates. On Earth, this process
