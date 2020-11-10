@@ -411,29 +411,13 @@ form of elemental carbon (in the form of graphite or “coal”), and use the ox
 > * Les calculs montrent qu'il faudrait au moins 2000 impacts d'astéroides de 10 kilomètres de diamètre (ou 1 million d'impacts d'astéroides de 1 km de diamètre) pour réduire la pression atmosphérique à la surface de Vénus à 1 bar. 
 > * Dans ce calcul, il faut prendre en compte l'efficacité du transfert de l'énergie de l'impact à l'atmosphère, qui est loin d'être de 100%. Lors de l'impact, une partie de l'énergie de la collision sert à vaporiser l'astéroide, une autre est dégagée sous forme de chaleur. Une fraction de cette énergie chauffe l'atmosphère, mais la majeure partie de cette énergie ne porte pas les molécules de l'atmosphère à une vitesse suffisante pour échapper à l'attraction gravitationnelle de Vénus. Les chiffres ci-dessus sont donnés pour une efficacité estimée de 10%. Dans ces condirions, on estime qu'un astéroide qui impacte Vénus retire une masse d'atmosphère à peu près équivalente à sa propre masse.
 - Dans la ceinture d'astéroides entre Mars et Jupiter, il y a environ 10 000 astéroides au diamètre plus grand que 10 kilomètres. Et il y en a beaucoup plus si on inclue la ceinture de Kuiper et le nuage d'Oort.
-- Nevertheless, it is likely that a spacefaring civilization
-with the technology to redirect the orbits of asteroids will most likely have other uses for asteroids, and not be
-interested in using the asteroids as impactors.
-Thus, removal of atmosphere by asteroidal impacts does not seem to be a reasonable method of terraforming
-Venus.
-- It is also reasonable to envision a several of these methods used in combination. Impacting the surface with
-asteroids, for example, could not only remove atmosphere directly, but would pulverize some amount of the surface,
-increasing the surface area available for reaction of the atmosphere to form carbonates or oxides
+- Cette méthode peut être combinée à d'autres. Par exemple, l'impact des astéroides avec la surface de Vénus exposera les roches de la zone de l'impact à l'atmosphère, ce qui servira à former des carbonates.
 
 ***Condensation de l'atmosphère***
 
-A final possible proposal would be to use a large shadow-shield, placed between Venus and the sun, to reduce
-the solar input and so cool the planet sufficiently that the carbon dioxide would condense into liquid, and then (as
-the pressure reduces further) freeze out in the form of carbon dioxide ice. The shield would have to be extremely
-light weight; presumably a technology similar to a solar sail, although much larger.
-- The shield
-would be located at Venus/Sun L1 point (with the orbit suitably adjusted to account for solar photon pressure), or
-could consist of a larger number of smaller shields in a lower Venus orbit.
-This proposal also has a number of problems. It takes a planet like Venus an extremely very long time to cool.
-The Venus atmosphere has a large heat capacity, and the Venus rocks and soil also have a very large heat capacity.
-It is also unclear to what extent a planet covered with carbon dioxide snow can be called “terraformed.” The desired
-final state would be to have the CO2 snow concentrated in some places (e.g., “polar caps”), allowing other regions of
-planet to be temperate
+- Une autre solution consiste à placer un gigantesque parasol entre Vénus et le Soleil, pour réduire le taux d'insolation et donc refroidir la planète. Le dioxyde de carbone se condenserait alors en liquide, puis en glace
+> Il faudrait placer le gros parasol au point L1 de l'orbite Vénus/Soleil, ou bien placer beaucoup de petits parasols en orbite autour de Vénus.
+- Le principal inconvénient de cette solution est le temps extrêmement long (combien?) que cela prendrait pour refroidir Vénus. Il y a aussi le fait qu'à la fin la surface de Vénus serait recouverte de glace de CO2, ce qui n'est pas optimal pour l'habitabilité.
 
 ***Des colonies flottantes sur Vénus***
 
