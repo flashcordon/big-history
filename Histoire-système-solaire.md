@@ -982,7 +982,23 @@ cyanobacteria, and through planet photosynthesis.
 - The generation of oxygen will not only be important
 for making the atmosphere of Mars breathable, it will also produce
 an ozone layer that will act to reduce the surface UV flux
-- 
+- Mars currently supports a nitrogen partial pressure of 0.15
+microbars, and this will have to be significantly increased during
+the Phase 2 stage of terraforming
+- It seems highly likely that Mars’
+initial inventory of atmospheric nitrogen was much higher than it
+is today, its loss being precipitated through oxidation to produce
+nitrate (NO3), which currently resides in the regolith. The denitrification
+of the regolith can be brought about through bacterial
+action in an aqueous environment, whereby the nitrate is initially
+converted into nitrite (NO2). Other bacteria then reduce the nitrite
+to nitric oxide (NO) and nitrous oxide (N2O), with the eventual
+release of nitrogen gas (N2). Furthermore, other microorganisms
+can assimilate nitrate to produce ammonia (NH3), and then the
+nitrate in the regolith can be reduced and the partial pressure of
+nitrogen increased. Importantly, once the partial pressure of nitrogen
+exceeds 5 microbars, then nitrogen fixation can begin, and a
+closed biochemical nitrogen cycle will become established.
 
 
 ## Mars dans la fiction
