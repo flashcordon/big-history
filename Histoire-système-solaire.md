@@ -604,6 +604,8 @@ billion years, and the least cratered flanks of the mighty Olympus
 Mons (the largest volcano in the entire Solar System) have an
 estimated age of just 30 million years, suggesting that perhaps the
 volcano is presently dormant rather than extinct
+- Detailed model calculations indicate that Phobos will impact
+the Martian surface in about 100 million years
 
 
 ## La vie sur Mars
@@ -660,6 +662,52 @@ journal Icarus. Entitled The Long Winter Model of Martian Biology
 of Mars at the present time. The surface pressure is too low and the
 surface temperature is not high enough for the liquid phase to
 be stable.
+> * Sagan built his argument upon the assumption that the northern
+polar cap of Mars was composed entirely of carbon dioxide ice
+> * if all the ice in the northern polar cap could be
+devolatized then Mars, Sagan realized, would rapidly develop a
+much denser and warmer atmosphere, and the conditions for liquid
+water to exist on the planet’s surface might be achieved.
+> * Sagan’s greatest leap
+of the imagination, however, was contained within the penultimate
+paragraph of his 1971 paper: ‘‘It is just conceivable that, in time,
+human endeavors could, by volatizing the present northern
+polar cap remnant, and taking advantage of the hypothesized
+instabilities, introduce much more clement conditions on Mars,
+in times considerably shorter than the precession cycle.’’
+- Almost exactly a year to the day after Sagan submitted his longwinter
+model paper to the journal Icarus, two of his Cornell University
+colleagues, Joseph Burns and Martin Harwit, submitted to
+the journal editors a research article illustrating how the Martian
+precession cycle might be modified. Burns and Harwit suggested
+that the Martian precession cycle could be altered by either modifying
+the orbit of its largest moon, Phobos, or by introducing material
+mined from the main-belt asteroid region to form a ring around the
+planet
+- The Burns–Harwit maneuver, as their method is now often
+called, would no doubt work if the physical engineering could be
+achieved
+- almost exactly a year to the day after Burns and Harwit
+submitted their paper to Icarus, Sagan came back with a second
+research article; this time, perhaps rather provocatively, the article
+was entitled Planetary Engineering on Mars. Sagan outlined three
+possible methods by which Mars might be terraformed
+- Sagan’s elegantly argued long-winter model for Mars was simply
+not true. Not only was the northern polar cap of Mars not made
+entirely of carbon dioxide ice, but there was absolutely no evidence
+from the surface geology to support the idea of periodic liquid water
+inundations. The long-winter model for Mars was dead within
+5 years of being formulated.
+
+Requirements :
+1. The atmospheric pressure must be increased by at least a factor
+of 100.
+2. The mean global temperature must be increased by at least 60 K.
+3. The establishment of standing liquid-water reserves on the
+Martian surface.
+4. Achange in the chemical composition of the Martian atmosphere.
+5. A reduction in the surface UV flux.
+
 - in the distant past
 the higher density of the Martian atmosphere did allow liquid water
 to pool and flow on the planet’s surface. This atmospheric support
@@ -687,6 +735,85 @@ Martian surface, at depths of perhaps just a few hundred meters.
 studies of the water-ice contained in the southern polar cap indicate
 that it alone could produce an 11-m deep global ocean if it was
 melted.
+
+***Atmosphère***
+
+- There are basically two CO2 reservoirs on Mars that the terraforming
+engineer can attempt to access. The main reserve of CO2 is that
+trapped within the surface regolith, with smaller reserves being
+contained within the polar caps. In terms of surface pressure
+increase, if all of the CO2 in the Martian regolith were released
+- into the atmosphere, it would contribute an additional 400 millibars.
+If all the CO2 in the polar caps were to be released into the
+Martian atmosphere, some 100 millibars of additional surface pressure
+would be realized. Figure 6.14 indicates that a 500-millibar
+increase in the CO2 surface pressure will produce a maximum
+equatorial heating of about 268 K—a temperature still 58 below
+the freezing point of water.
+- With respect to
+releasing all, or as much as possible, of its CO2 reserve into the
+Martian atmosphere a lever that produces an additional 58 increase
+in the polar temperature is all that is required for terraforming to
+begin. Here the trick is to establish a positive feedback mechanism
+(recall the discussion in Chapter 5 and see Figure 6.14) such that
+Mars essentiallywarms itself, each increment of heating resulting in
+more CO2 being placed in the atmosphere, which then results in
+more heating, and so on. This recipe cooks itself. Under this philosophy,
+the hardest part of the terraforming process will be to get the
+runaway process started.Once going, however, the process could run
+automatically, and the role of the engineer is accordinglyminimized.
+- Mars is currently in a
+stable state, in that moderate changes in surface temperature or
+atmospheric pressure are self-correcting. In other words, there is a
+negative feedback mechanism at play, which keeps the polar temperature
+at about 147 K and the CO2 surface pressure at about 6
+microbars.
+- the problem with attempting to terraform Mars by simply
+adding additional CO2 to its atmosphere is that it will redistribute
+the CO2 as polar ice and thereby maintain its current equilibrium
+state
+- McKay and co-workers realized,
+however, that if some additional polar heating, not directly dependent
+upon an increase in atmospheric CO2, could be found,, then a runaway effect would be produced
+- how much of an additional heating
+effect is required to achieve the runaway state? Well, not much is
+the short answer. Indeed, just an additional 58 will suffice to trigger
+the desired effect. This relatively modest additional heating effect
+might be achieved in a number of ways, such as reducing the polar
+cap albedo (option 4 listed above), by adding super-greenhouse gases
+to the Martian atmosphere (option 5), or by heating the polar caps
+with a large, reflecting, space mirror (option 9; see below). Since the
+southern polar cap has a much greater reserve of CO2 ice than the
+northern cap, the additional heating effect need only be applied to
+the southern hemisphere.
+- Robert Zubrin and Chris McKay have investigated several
+models for regolith devolatization and find that perhaps of order
+half of the regolith CO2 reservoir might be released as a consequence
+of inducing the polar cap runaway process. This suggests,
+therefore, that a Martian CO2 atmosphere providing somewhere
+between 300 and 600 millibars of surface pressure might be realized
+as a result of engineering a 58 temperature rise in the polar cap
+temperature. With this amount of CO2 in the atmosphere, the
+resultant equatorial temperature on Mars would fall somewhere
+between 262 K and 271 K. Although this is an impressive amount
+of warming, it is still not enough to allow liquid water to exist on
+the surface of Mars. In order to push the temperatures higher,
+additional terraforming agents will need to be employed.
+
+- A more direct but perhaps rather extreme process of regolith
+devolatization has been proposed by British physicist Paul Birch.
+His suggestion is to build a mirror system in orbit around Mars that 
+will act as a giant lens. This aerial lens will then be used to direct a
+narrow beam of intense solar radiation onto a small region of the
+Martian surface, thereby raising the temperature to several thousand
+degrees. At such temperatures, the surface rock will undergo
+thermal decomposition, and carbonate rocks in particular will
+evolve CO2 and H2O, both gases of which will act to warm the
+atmosphere.
+Birch notes that the deep, glass-lined scars gouged-out by the
+devolatization beam could act as liquid-water-bearing canals (an
+idea that Percival Lowell would presumably like4) and, if appropriately
+roofed, regions of early settlement.
 
 ## Mars dans la fiction
 
