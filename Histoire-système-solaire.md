@@ -372,41 +372,22 @@ conditions.
 - Sagan proposait de saupoudrer l'atmosphère de Vénus par des bactéries photosynthétiques qui consommeraient le CO2 de l'atmosphère pour le convertir en oxygène, ce qui refroidirait la planète.
 > * Malheureusement, cette stratégie, certes crédible avec les connaissances du début des années 60, n'est plus considérée comme réaliste, comme Sagan l'avouera lui-même plus tard.
 > * Dans "Pale Blue Dot", il écrit : Here's the fatal flaw: In 1961, I thought the atmospheric pressure at the surface of Venus was a few bars ... We now know it to be 90 bars, so if the scheme worked, the result would be a surface buried in hundreds of meters of fine graphite, and an atmosphere made of 65 bars of almost pure molecular oxygen. Whether we would first implode under the atmospheric pressure or spontaneously burst into flames in all that oxygen is open to question. However, long before so much oxygen could build up, the graphite would spontaneously burn back into CO2, short-circuiting the process.
+> * Une autre solution serait de créer des organismes par bio-ingéniérie, des sortes de ballons organiques, qui flotteraient librement dans l'atmosphère de Vénus. Mais même s'il était possible de créer de tels organismes capables de retirer le CO2 de l'atmosphère, cela prendrait aussi un temps monstrueux : entre 11 000 ans et 1,1 million d'années, selon l'efficacité de la photosynthèse.
+- Pour rendre Vénus habitable, il faudrait songer à retirer 99% de son atmosphère, et à convertir le 1% restant en atmosphère respirable et transparente aux infrarouges.
+> Vénus contient de l'ordre de 10^32 kilos de CO2 de trop pour être habitable.
+- Terraformer Vénus requiererait des énergies absolument colossales.
 
 ***Séquestration chimique de l'atmosphère***
 
 - L'idée est de séquestrer le CO2 de l'atmosphère de la planète.
 - Chimiquement, cela pourrait être réalisé en faisant réagir le CO2 avec des roches de surface pour former des carbonates (comme la dolomite)
-
-- a more reasonable solution would be to further genetically
-engineer plants to incorporate oxygen or hydrogen containing gas bladders, to allow them to float reliably above the
-high temperature lower atmosphere. This concept was originally suggested by Morowitz and Sagan16,17 in 1967, and
-analyzed in more detail by Cockell18 in 1999. Kelp, for example, is a common ocean plant that uses atmospherefilled
-bladders to float in the atmosphere on Venus; the same gas would be lighter than the carbon-dioxide
-atmosphere.
-- Fogg also points out that, even if it were possible to engineer organisms to sequester the carbon dioxide from the
-Venus atmosphere, the process would take between eleven thousand and 1.1 million years, depending on how
-optimistic one is about how efficient photosynthesis could be made to become6
-- In the fifty years since Sagan’s original concept, many other proposals for terraforming Venus have been
-analyzed6,9,10. These terraforming concepts require removal of the majority (99%) of the Venus atmosphere (and
-conversion of the remainder to an infrared-transparent gas).
-The amount of atmosphere that must be removed is large: terraforming would require removal of about 500
-quintillion kilograms of excess carbon dioxide. Proposed ways to do this include chemically combining or
-sequestering the atmosphere, or by physical removal technologies. The energies, and the amount of gas to be
-processed, are daunting
-- A. Chemical Sequestering
-- It would require
-pulverizing the surface to a depth of at least 1 km, and possibly more, to produce enough rock surface area to
-convert enough of the atmosphere. It will also require a technique for producing carbonates. On Earth, this process
-is mediated by water. Finally, carbonates are not stable at Venus surface temperature: they decompose rapidly back
-to rock and carbon dioxide.
-- Alternately, the atmosphere could be converted into some other material sequestering carbon dioxide. One
-possibility would be to convert the carbon dioxide atmosphere into carbon and oxygen, sequester the carbon in the
-form of elemental carbon (in the form of graphite or “coal”), and use the oxygen to oxidize surface rocks.
+- Cela requièrerait de pulvériser l'intégralité de la surface pour exposer ses roches de profondeurs (1 km voire plus) à l'atmosphère de la planète, ainsi qu'un moyen de former des carbonates, qui ne sont pas stables sur Vénus (ils se décomposent en roche et en CO2 rapidement).
+> Sur Terre, ce processus fait intervenir de l'eau liquide.
+- On peut aussi imaginer séparer chimiquement le CO2 en ses constituants élémentaires, en convertissant le carbone en charbon ou en graphite et en utilisant l'oxygène pour oxyder les roches de surface.
 
 ***Capture physique de l'atmosphère***
 
-- Pour retirer 1 kg d'atmosphère de Vénus, sa vitesse d'échappement nous apprend qu'il faudrait une énergie de l'ordre de 50 Mégajoules. Retirer suffisamment d'atsmophère de Vénus pour la rendre habitable requierait de l'ordre de 10^28 joules (soit 1 terawatt de puissance appliqué continuellement pendant 850 millions d'années)
+- Pour retirer 1 kg d'atmosphère de Vénus, sa vitesse d'échappement nous apprend qu'il faudrait une énergie de l'ordre de 50 Mégajoules. Retirer suffisamment d'atmosphère de Vénus pour la rendre habitable requierait de l'ordre de 10^28 joules (soit 1 terawatt de puissance appliqué continuellement pendant 850 millions d'années)
 - Une telle énergie est atteignable à l'aide d'impacts d'astéroides.
 > * Les calculs montrent qu'il faudrait au moins 2000 impacts d'astéroides de 10 kilomètres de diamètre (ou 1 million d'impacts d'astéroides de 1 km de diamètre) pour réduire la pression atmosphérique à la surface de Vénus à 1 bar. 
 > * Dans ce calcul, il faut prendre en compte l'efficacité du transfert de l'énergie de l'impact à l'atmosphère, qui est loin d'être de 100%. Lors de l'impact, une partie de l'énergie de la collision sert à vaporiser l'astéroide, une autre est dégagée sous forme de chaleur. Une fraction de cette énergie chauffe l'atmosphère, mais la majeure partie de cette énergie ne porte pas les molécules de l'atmosphère à une vitesse suffisante pour échapper à l'attraction gravitationnelle de Vénus. Les chiffres ci-dessus sont donnés pour une efficacité estimée de 10%. Dans ces condirions, on estime qu'un astéroide qui impacte Vénus retire une masse d'atmosphère à peu près équivalente à sa propre masse.
