@@ -595,6 +595,15 @@ about the Sun, sweeping out equal areas in equal intervals of time.
 - Sa gravité de surface est 38% celle de la Terre
 - Mars fait un tour complet sur elle-même en un peu plus de 24h, et effectue un tour complet du Soleil en presque 2 ans (1,9) terrestres
 - Elle se trouve à 1.5 UA du Soleil (entre 1,381 et 1,666 UA)
+- The youngest large-scale surface features on Mars are the Tharsis
+and Elysium regions, where huge volcanoes rise above the surrounding
+plains. Crater counts indicate that the impressive chain of
+Tharsis volcanoes have probably been active during the past 1
+billion years, and the least cratered flanks of the mighty Olympus
+Mons (the largest volcano in the entire Solar System) have an
+estimated age of just 30 million years, suggesting that perhaps the
+volcano is presently dormant rather than extinct
+
 
 ## La vie sur Mars
 
@@ -609,6 +618,31 @@ several thousand years after the fact, that humanity had at least
 discovered the rule that the square of the hypotenuse is equal to the
 sum of the squares of the other two sides of a right-angles triangle.
 - Mars avait potentiellement un océan d'eau liquide à sa surface dans son passé
+> The evidence for this is literally everywhere to be seen. Orbital
+spacecraft images reveal long, sinuous, flowing channels; waterscoured
+flood plains; and water-shaped teardrop islands (Figure 6.5).
+Spacecraft analysis of surface terrains has also revealed the presence
+of aqueous alteredminerals, such as the hematite-bearing regions of
+Sinus Meridiani and Aram Chaos. High-resolution images of complex
+surface terrain, such as is seen in the southwestern Candor
+Chasma region, reveal a clear sedimentation origin (Figure 6.6). Surface
+robotic missions have further revealed the presence of wateraltered
+mineralogy, such as the goethite deposits identified by
+the Spirit rover in the Columbia Hills, and the jarosite found by
+the Opportunity rover in Meridiani Planum. In addition, both
+Mars rovers have found great numbers of ‘‘blueberry’’ spherules
+(Figure 6.7) scattered across the Martian surface, and these betray
+the past presence of enduring pools of standing water.
+Mars Global Surveyor image showing layered sedimentary rock on
+Mars.
+Martian ‘‘blueberry’’ spherules. The spherules, which are typically
+a few millimeters in diameter, contain hematite and formed under standing
+water conditions.
+- since about 2.5 billion years ago Mars
+has been an essentially dry and frozen world; small, high-salinity,
+and isolated lake systems may have existed near the pole in the
+northern lowland region for an additional billion years, but even
+these would have frozen over by the mid-Amazonian epoch.
 
 ## Missions vers Mars
 
