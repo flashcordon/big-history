@@ -708,6 +708,25 @@ Martian surface.
 4. Achange in the chemical composition of the Martian atmosphere.
 5. A reduction in the surface UV flux.
 
+options:
+1. Change the orbital eccentricity of Mars’s orbit about the Sun.
+2. Change the obliquity of Mars’s spin axis.
+3. Change the Martian precession cycle.
+4. Spread dark, heat-absorbing dust grains over the polar ice caps.
+5. Degas the carbon dioxide within the Martian regolith.
+6. Add super-greenhouse gases to the Martian atmosphere.
+7. Seed the Martian atmosphere with heat-absorbing, cloudforming
+particles.
+8. Devolatize carbonates within the Martian crust.
+9. Heat the polar ice caps by large statite (solar sail) mirrors.
+10. Channel volatile-rich cometary nuclei into the Martian
+atmosphere.
+11. Induce large-scale drainage of Martian aquifers.
+12. Introduce bioengineered microbes to alter the atmospheric
+composition.
+13. Introduce bioengineered plants to change the planet’s surface
+albedo
+
 - in the distant past
 the higher density of the Martian atmosphere did allow liquid water
 to pool and flow on the planet’s surface. This atmospheric support
