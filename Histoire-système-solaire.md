@@ -999,6 +999,21 @@ nitrate in the regolith can be reduced and the partial pressure of
 nitrogen increased. Importantly, once the partial pressure of nitrogen
 exceeds 5 microbars, then nitrogen fixation can begin, and a
 closed biochemical nitrogen cycle will become established.
+- The
+reduction in atmospheric CO2, a vital part of the Phase 2 stage,
+might also proceed biologically through the growth of bryophytes,
+such as mosses. Indeed, their role will be to sequester carbon dioxide
+in decay-resistant organic compounds in Martian peat lands.
+Conditions compatible with the eventual appearance of trees will
+further enhance the biological reduction of atmospheric CO2.
+- The onset of the stewardship, Phase 3, stage of Martian terraforming
+will in some sense mark the end of the terraforming process.
+Once this stage begins, Mars will be fully, or at least mostly,
+habitable
+- A long-lived,
+zero-maintenance, life-supporting atmosphere on Mars, however,
+will never be fully realized, and a terraformed Mars will require
+continuous monitoring and stewardship.
 
 
 ## Mars dans la fiction
