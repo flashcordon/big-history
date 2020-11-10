@@ -403,26 +403,14 @@ to rock and carbon dioxide.
 - Alternately, the atmosphere could be converted into some other material sequestering carbon dioxide. One
 possibility would be to convert the carbon dioxide atmosphere into carbon and oxygen, sequester the carbon in the
 form of elemental carbon (in the form of graphite or “coal”), and use the oxygen to oxidize surface rocks.
-- B. Physical Removal
-An alternative concept would be to blast away the atmosphere. At the escape velocity of Venus, the minimum
-energy needed to remove atmosphere is about 50 MJ/kg. The energy required would be on the order of 2.5E28
-Joules: equal to a terawatt of power applied continuously for 850 million years.
-- The atmosphere could conceivably be ablated away by a sufficient number of asteroid impacts. There are a
-number of difficulties with this proposal, however.
-- Reducing the pressure from 92 bar to 1 bar would, by this calculation, require a minimum of 2000 impacts, even if
-the efficiency of atmosphere removal was perfect.
-- Coupling of energy from the impact to kinetic energy of the atmosphere is not expected to be efficient. Most
-of the energy is likely to go into vaporizing the impactor, and a significant amount will be released as heat and
-thermal radiation. Of the energy reaching the atmosphere, some of it will heat the atmosphere, but by an amount
-less than the escape energy; while on the other hand, some of the atmosphere that is ejected will be ejected with
-more than the minimum escape energy. Hence only a small fraction of the impact energy will result in removal of
-atmosphere. If ten percent of the impact energy is assumed to be effective in removing atmosphere, and on the
-average the impactors arrive at Venus orbital velocity, which is about ten times escape energy, then each impacting
-asteroid will ablate away an amount of atmosphere equal to its own mass. Thus, the impact of about two million 1-
-km diameter asteroids, or two thousand 10-km asteroids, would be required to ablate the required amount of
-atmosphere.
-- The asteroid belt is believed to contain about 10,000 asteroids of diameter greater than 10 kilometers,
-and the Kuiper belt and the Oort cloud many times more.
+
+***Capture physique de l'atmosphère***
+
+- Pour retirer 1 kg d'atmosphère de Vénus, sa vitesse d'échappement nous apprend qu'il faudrait une énergie de l'ordre de 50 Mégajoules. Retirer suffisamment d'atsmophère de Vénus pour la rendre habitable requierait de l'ordre de 10^28 joules (soit 1 terawatt de puissance appliqué continuellement pendant 850 millions d'années)
+- Une telle énergie est atteignable à l'aide d'impacts d'astéroides.
+> * Les calculs montrent qu'il faudrait au moins 2000 impacts d'astéroides de 10 kilomètres de diamètre (ou 1 million d'impacts d'astéroides de 1 km de diamètre) pour réduire la pression atmosphérique à la surface de Vénus à 1 bar. 
+> * Dans ce calcul, il faut prendre en compte l'efficacité du transfert de l'énergie de l'impact à l'atmosphère, qui est loin d'être de 100%. Lors de l'impact, une partie de l'énergie de la collision sert à vaporiser l'astéroide, une autre est dégagée sous forme de chaleur. Une fraction de cette énergie chauffe l'atmosphère, mais la majeure partie de cette énergie ne porte pas les molécules de l'atmosphère à une vitesse suffisante pour échapper à l'attraction gravitationnelle de Vénus. Les chiffres ci-dessus sont donnés pour une efficacité estimée de 10%. Dans ces condirions, on estime qu'un astéroide qui impacte Vénus retire une masse d'atmosphère à peu près équivalente à sa propre masse.
+- Dans la ceinture d'astéroides entre Mars et Jupiter, il y a environ 10 000 astéroides au diamètre plus grand que 10 kilomètres. Et il y en a beaucoup plus si on inclue la ceinture de Kuiper et le nuage d'Oort.
 - Nevertheless, it is likely that a spacefaring civilization
 with the technology to redirect the orbits of asteroids will most likely have other uses for asteroids, and not be
 interested in using the asteroids as impactors.
@@ -431,7 +419,9 @@ Venus.
 - It is also reasonable to envision a several of these methods used in combination. Impacting the surface with
 asteroids, for example, could not only remove atmosphere directly, but would pulverize some amount of the surface,
 increasing the surface area available for reaction of the atmosphere to form carbonates or oxides
-- C. Condensing the Atmosphere
+
+***Condensation de l'atmosphère***
+
 A final possible proposal would be to use a large shadow-shield, placed between Venus and the sun, to reduce
 the solar input and so cool the planet sufficiently that the carbon dioxide would condense into liquid, and then (as
 the pressure reduces further) freeze out in the form of carbon dioxide ice. The shield would have to be extremely
@@ -475,7 +465,7 @@ single greatest obstacle in terraforming Venus
 ### Difficultés à terraformer Vénus
 
 - Avec un réservoir d'eau atmosphérique 100 000 fois moins élevé que sur Terre, Vénus ne contient pas assez d'eau pour être habitable. Il faudrait donc importer de l'eau sur la planète, via des astéroides et des comètes de la ceinture d'astéroide et de celle de Kuiper. Mais attention : la vapeur d'eau est un puissant gaz à effet de serre, qui est probablement responsable de l'embalement climatique initial de la planète il y a plusieurs milliards d'années. Donc il y aurait un équilibre délicat à trouver entre la quantité d'eau à inclure et le réchauffement de la planète par cette eau.
-- Les nuages de Vénus sont constitués d'acide sulfuriques... Mais c'est un problème résoluble ! Car l'acide sulfurique réagit chimiquement avec les roches, donc on pourrait le piéger dans ces dernières pour former des roches sulfatées comme le gypse.
+- Les nuages de Vénus sont constitués d'acide sulfuriques... Mais c'est un problème soluble ! Car l'acide sulfurique réagit chimiquement avec les roches, donc on pourrait le piéger dans ces dernières pour former des roches sulfatées comme le gypse.
  
 ### Pourquoi terraformer une planète ?
 
