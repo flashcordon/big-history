@@ -652,7 +652,40 @@ these would have frozen over by the mid-Amazonian epoch.
 
 ## Terraformer Mars
 
-- 
+- in late 1971. It was in that year that Sagan published a
+short research paper in the then relatively new planetary astronomy
+journal Icarus. Entitled The Long Winter Model of Martian Biology
+- liquid water cannot exist for long periods of time on the surface
+of Mars at the present time. The surface pressure is too low and the
+surface temperature is not high enough for the liquid phase to
+be stable.
+- in the distant past
+the higher density of the Martian atmosphere did allow liquid water
+to pool and flow on the planet’s surface. This atmospheric support
+no longer exists, and much of the ocean water will have turned to
+surface ice and seeped into the deep interior of the Martian crust.
+- In terms of the water phase diagram, two important things will
+happen as deeper regions of the Martian crust are encountered.
+First, the pressure will increase due to the weight of overlying
+rock layers, and second the temperature will increase, since the
+Martian core is still warmed somewhat by the decay of long-lived
+radioactive isotopes. Eventually, indeed inevitably, the ambient
+temperature and pressure will enable liquid water to exist. At
+what depth this ice-to-liquid water transition occurs will depend
+upon the specific rock structure of the Martian crust.
+- In
+regions where the thermal conductivity is very high, such as those
+associated with ice-cemented regolith and ice-free sandstone,
+liquid water can only exist at much greater depths, between 3 and
+7 km. There is great uncertainty, therefore, at what depth liquid
+water might generally be found in the Martian crust. In regions
+where there is rock stratification, liquid water may exist near the
+Martian surface, at depths of perhaps just a few hundred meters.
+- Que dit Mars Express sur les réserves près des poles ? grace à son radar qui permet de sonder à distance le sous sol de Mars
+- the ground-penetrating radar
+studies of the water-ice contained in the southern polar cap indicate
+that it alone could produce an 11-m deep global ocean if it was
+melted.
 
 ## Mars dans la fiction
 
