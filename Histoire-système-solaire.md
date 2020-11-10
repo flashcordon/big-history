@@ -815,6 +815,118 @@ devolatization beam could act as liquid-water-bearing canals (an
 idea that Percival Lowell would presumably like4) and, if appropriately
 roofed, regions of early settlement.
 
+***Gaz à super-effet de serre***
+
+- effet de serre plus puissants que le CO2
+- Zubrin and Mckay, for example, have
+noted that cometary nuclei and possibly some asteroids contain
+ammonia (NH3) ice, which in its gaseous phase is a strong greenhouse
+gas, and they suggest that such cometary nuclei and asteroids
+might have their orbits altered in order to impact upon the surface
+of Mars
+- Ammonia ice is generally estimated to make up something like
+1% of the mass of a cometary nucleus, and to produce a partial
+pressure of 0.1 Pa (1 microbar) of order 41012 kg of ammonia gas
+would need to be imported to Mars.5 This amount of ammonia
+might be delivered by a single impact from a cometary nucleus with
+a diameter of about 10 km across
+- Not
+only will the atmospheric and ground disruption of cometary nuclei
+in the early stages of terraforming Mars provided ammonia, but
+such actions will also provide additional water vapor, itself a strong
+greenhouse agent, additional CO2, and, important for eventual
+human habitability, atmospheric nitrogen, and oxygen
+
+- the Solar System is
+literally full of resources and that there are no reasons to
+suppose that terraforming can’t proceed for the want of basic raw
+materials and chemical components. The problem for humanity, of
+course, is exactly how to perform the large-scale extraction and
+transportation of the resources from one location in the Solar
+System to another.
+- Staggeringly large amounts of ammonia would need to be added
+to the Martian atmosphere in order to push its equatorial temperature
+above the freezing point of water. Indeed, a partial pressure of
+some 250 microbars (= 25 Pa) would be required (Figure 6.16),
+corresponding to an imported mass of some 1015 kg of ammonia
+(see Note 5). Rather than use gases such as ammonia, therefore,
+James Lovelock and Michael Allaby realized in the early 1980 s that
+it would make much more sense to utilize super-greenhouse gases
+such as the chlorofluorocarbons (CFCs) and perfluorocarbons
+(PFCs) to warm Mars. In the case of CFCs, a partial pressure of
+order 0.25 microbars, corresponding to an atmospheric mass of
+about 1012 kg, would produce an equatorial temperature above
+the freezing point of water.8 During the peak production time, in
+the mid-1980 s, worldwide production of CFCs amounted to some
+1 billion kilograms per year.
+- With a relatively modest increase in
+The Terraforming of Mars 153
+this production rate it would be possible, therefore, to substantially
+warm Mars via CFC greenhouse gases alone within a few hundred
+years.
+- there are several serious side
+effects associated with the introduction of large quantities of CFC
+gases into a planetary atmosphere. The most important issue (on
+the Earth currently) concerns ozone depletion through CFC chemistry.
+Although there is no ozone in the Martian atmosphere at the
+present time, it is certainly a gas that will warrant eventual accumulation.
+The key point about the Earth’s ozone layer (and eventually
+that surrounding the Martian surface) is that it is highly
+efficient at absorbing the potentially deadly solar UV radiation. In
+contrast to the CFCs, the various PFC gases do not destroy ozone,
+since they lack the chlorine (and bromine) that catalytically
+destroys the O3, and their atmospheric lifetime against destruction
+is much longer than those of the CFCs. The fluorine-based gas
+C3F8 is one atmospheric-heating agent that shows particular promise
+with respect to the warming of Mars, since it is a strong
+absorber over a large fraction of the infrared spectrum (see Figure
+B.1). A 1 microbar partial pressure of C3F8 alone will produce a 128
+temperature increase in the equatorial temperature on Mars, while
+a 10-microbar pressure would push the equatorial temperature to 68
+above the freezing point of water.
+
+***Modification de l'albédo***
+
+- the smaller the albedo term, the greater the amount
+of solar heating that takes place.
+- a 10% increase in the insolation results
+in an additional 78 of heating, irrespective of the albedo, while
+halving the current atmospheric albedo to A = 0.1 results in a
+temperature increase of some 98.
+- Carl Sagan, for example, touted the idea of
+inducing a polar ice-cap albedo change by spreading a thin, dark
+layer upon the surface ice. This material could be supplied through
+controlled impacts of asteroids rich in carbonaceous material. The
+injection of small, dark, energy-absorbing particles into the upper
+Martian atmosphere might also be a means of reducing the albedo.
+- might also be realized through the development of
+suitably bioengineered dark-colored plants or algae
+- the insolation can be increased externally by the means of
+large space mirrors.
+- the beauty of solar sails
+(Figure 6.17) is that they can be placed in orbits that are controlled
+not only by the gravitational force of a specific planet but also the
+pressure force resulting from an interaction with the Sun’s radiation
+field. Aerospace engineer and science fiction writer Robert
+Forward realized in the late 1980 s that this combination of forces
+could be balanced one against the other and used to place a solar sail
+in a fixed position relative to the planet–Sun line. Moving beyond
+the equatorial geosynchronous location commonly used by Earthorbiting
+broadcast satellites today, solar sails can be made to occupy
+fixed sky positions at any inclination above or below the equatorial
+plane. Forward has introduced the term ‘‘statite’’ to describe a solar
+sail occupying a fixed sky position with respect to a planet
+- Robert Zubrin and Christopher McKay have argued (see Note 3)
+that the southern Martian polar cap might be heated by an additional
+58 through the use of a 250-km-diameter statite located
+214,000 km from the center of Mars in the anti-Sun direction.
+A 350-km- diameter statite would provide about 108 of additional
+polar heating.
+- Solar sails as large
+as a Mars-heating statite, however, will need to be constructed in a
+low-gravity environment
+
+
 ## Mars dans la fiction
 
 - In 1898, some 80 years afterGauss suggested thatwe send a sign
