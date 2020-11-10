@@ -376,6 +376,7 @@ conditions.
 - Pour rendre Vénus habitable, il faudrait songer à retirer 99% de son atmosphère, et à convertir le 1% restant en atmosphère respirable et transparente aux infrarouges.
 > Vénus contient de l'ordre de 10^32 kilos de CO2 de trop pour être habitable.
 - Terraformer Vénus requiererait des énergies absolument colossales.
+- Echelles de temps : entre 200 et 10 000 ans, selon Birch (1991).
 
 ***Séquestration chimique de l'atmosphère***
 
@@ -407,8 +408,6 @@ conditions.
 - Comme l'atmosphère de Vénus est plus dense que celle de la Terre, il serait relativement facile d'y faire flotter des ballons remplis d'air.
 > * Les colons vénusiens respireraient directement l'air du ballon. Pas besoin de pressuriser l'habitat !
 > * Ils seraient aussi protégés des radiations par l'atmosphère de la planète, bénéfécieraient d'une abondance d'énergie solaire au dessus des nuages, et d'une grande quantité de CHONS sous forme volatile, utiles poua la vie.
-
-- Echelles de temps : entre 200 et 10 000 ans, selon Birch (1991).
 
 *Différents scénarios de terraformation de Vénus (Source: Martyn Fogg, Terraforming: Engineering Planetary Environments, Chapitre 7)*
 
