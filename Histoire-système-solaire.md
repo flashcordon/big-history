@@ -575,6 +575,60 @@ conditions.
 
 # Mars
 
+*Sources*
+
+- Terraforming: the creating of habitable worlds - Martin Beech (2009)
+
+---
+
+## Histoire de l'observation de Mars
+
+- Kepler’s battle with Mars was won in1605, when he finally
+realized that the orbit of the planet was elliptical and that it moved
+about the Sun, sweeping out equal areas in equal intervals of time.
+
+## Propriétés de Mars
+
+- Mars fait un dixième de la masse de la Terre, et près de la moitié de sa taille
+- Il fait de l'ordre de 4 fois plus froid sur Mars que sur Terre
+- Mars est un monde inactif, géologiquement parlant.
+- Sa gravité de surface est 38% celle de la Terre
+- Mars fait un tour complet sur elle-même en un peu plus de 24h, et effectue un tour complet du Soleil en presque 2 ans (1,9) terrestres
+- Elle se trouve à 1.5 UA du Soleil (entre 1,381 et 1,666 UA)
+
+## La vie sur Mars
+
+- Karl Friedrich Gauss, suggested that a signal of
+humanity’s intelligence might be sent to Mars by cutting a massive
+Pythagorean triangle into the forests of Siberia.
+- He also reasoned
+that by growing giant square-shaped fields of wheat along each side
+of the triangle for contrast, the message would be easily visible to
+alien telescopes. Any observant Martian would then know, albeit
+several thousand years after the fact, that humanity had at least
+discovered the rule that the square of the hypotenuse is equal to the
+sum of the squares of the other two sides of a right-angles triangle.
+- Mars avait potentiellement un océan d'eau liquide à sa surface dans son passé
+
+## Missions vers Mars
+
+### Viking
+
+### Spirit et Opportunity
+
+## Terraformer Mars
+
+- 
+
+## Mars dans la fiction
+
+- In 1898, some 80 years afterGauss suggested thatwe send a sign
+of ourmathematical prowess to theMartians,writerHerbertGeorge
+Wells cast our erstwhile neighbors in amoremenacing lightwith the
+publication of his The War of the Worlds
+
+
+
 ## Illustrations de Mars
 
 - [Planet Mars](https://youtu.be/dZzY8-nxabA) - NASA (1979)
