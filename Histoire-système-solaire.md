@@ -1015,6 +1015,27 @@ zero-maintenance, life-supporting atmosphere on Mars, however,
 will never be fully realized, and a terraformed Mars will require
 continuous monitoring and stewardship.
 
+- the initial
+terraforming phase of Mars will be amultigenerational project. Estimates
+vary, but most researchers suggest that the Phase 1 stage of
+ecopoiesis might take several centuries to complete, which corresponds
+to a minimum of some six to seven human generations. The
+completion of Phase 2will take at least an order ofmagnitude longer
+than Phase 1, requiring perhaps 1,000–2,000 years before the beginning
+of Phase 3, the stewardship stage, is realized.
+Weare now considering an interval of time that embraces some
+60–70 human generations
+
+- ancient archaeological history provides us with a number of examples
+of dedicated, multigenerational, large-scale building projects.
+The great megalithic encampment of Stonehenge (see Figure 6.19)
+in Britain, for example, is a structure that was adapted and maintained
+over a time span of at least a thousand years starting from
+circa 3,000 B.C. Its true purpose is not readily known to us today,
+but it was clearly an extremely important object to our distant
+ancestors, who invested a tremendous amount of time, energy,
+and no doubt lives into its development
+- 
 
 ## Mars dans la fiction
 
