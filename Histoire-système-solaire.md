@@ -578,6 +578,7 @@ conditions.
 *Sources*
 
 - Terraforming: the creating of habitable worlds - Martin Beech (2009)
+- [The long winter model of Martian biology: A speculation](https://ntrs.nasa.gov/api/citations/19720005188/downloads/19720005188.pdf) - Sagan (1971)
 
 ---
 
