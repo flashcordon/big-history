@@ -421,26 +421,13 @@ form of elemental carbon (in the form of graphite or “coal”), and use the ox
 
 ***Des colonies flottantes sur Vénus***
 
-- A “sweet spot” exists in the atmosphere of Venus, at an altitude at which the temperature is roughly similar to
-that of Earth, and the atmospheric pressure is also similar to that of Earth.
-- The atmospheric pressure is
-roughly equal to that of Earth sea level at slightly over 54 km above the mean surface, and the temperature is 20°C
-at slightly under 56 km altitude. Near and slightly above these altitudes, the atmospheric pressure and the
-atmospheric temperature approach those of the surface environment of Earth.
-- A “near-term solution” would be to envision colonies in the form of floating habitats7,12, taking advantage of the
-fact that the carbon-dioxide atmosphere of Venus is denser than the oxygen-nitrogen mixture of the Earth's
-environment, and hence breathable air is a gas that could be used as the primary lifting gas of balloons or aerostats,
-allowing the entire envelope to be used as habitat volume requiring no pressurization.
-- Venus has great advantages over conventional space colony concepts, in that the gravity is
-provided by the planet, radiation protection is provided by the atmosphere, and no pressurization is needed (the
-habitats can float at or near the one-bar level). In addition, the atmosphere contains major volatiles needed for life
-(carbon, hydrogen, oxygen, nitrogen, sulfur), and above the clouds the environment has an abundance of solar
-energy.
+- Il serait très difficile de rendre la surface de Vénus habitable, même avec toutes les solutions envisagées jusqu'à présent. Par contre, il existe une zone au niveau de l'atmosphère de Vénus qui serait envisageable pour y placer des colonies flottantes à moyen terme.
+> Dans cette zone, qui se trouve entre 54 et 56 km d'altitude, la température est de 20 degrés et la pression de 1 bar, soit équivalente à des conditions terrestres.
+- Comme l'atmosphère de Vénus est plus dense que celle de la Terre, il serait relativement facile d'y faire flotter des ballons remplis d'air.
+> * Les colons vénusiens respireraient directement l'air du ballon. Pas besoin de pressuriser l'habitat !
+> * Ils seraient aussi protégés des radiations par l'atmosphère de la planète, bénéfécieraient d'une abondance d'énergie solaire au dessus des nuages, et d'une grande quantité de CHONS sous forme volatile, utiles poua la vie.
 
 - Echelles de temps : entre 200 et 10 000 ans, selon Birch (1991).
-
-- Removing its massive atmosphere is the
-single greatest obstacle in terraforming Venus
 
 *Différents scénarios de terraformation de Vénus (Source: Martyn Fogg, Terraforming: Engineering Planetary Environments, Chapitre 7)*
 
