@@ -579,6 +579,8 @@ conditions.
 
 - Terraforming: the creating of habitable worlds - Martin Beech (2009)
 - [The long winter model of Martian biology: A speculation](https://ntrs.nasa.gov/api/citations/19720005188/downloads/19720005188.pdf) - Sagan (1971)
+- [Could We Terraform Mars?](https://youtu.be/FshtPsOTCP4) - PBS Space Time (2019)
+- [Inventory of CO2 available for terraforming Mars](https://lasp.colorado.edu/home/maven/files/2018/08/Inventory-of-CO2-available-for-terraforming-Mars.pdf) - Jakosky et Edwards (2018)
 
 ---
 
