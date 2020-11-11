@@ -581,6 +581,7 @@ conditions.
 - [The long winter model of Martian biology: A speculation](https://ntrs.nasa.gov/api/citations/19720005188/downloads/19720005188.pdf) - Sagan (1971)
 - [Could We Terraform Mars?](https://youtu.be/FshtPsOTCP4) - PBS Space Time (2019)
 - [Inventory of CO2 available for terraforming Mars](https://lasp.colorado.edu/home/maven/files/2018/08/Inventory-of-CO2-available-for-terraforming-Mars.pdf) - Jakosky et Edwards (2018)
+- [Making Mars habitable](https://www.nature.com/articles/352489a0) - McKay, Toon, Kasting (1991)
 
 ---
 
@@ -700,6 +701,159 @@ entirely of carbon dioxide ice, but there was absolutely no evidence
 from the surface geology to support the idea of periodic liquid water
 inundations. The long-winter model for Mars was dead within
 5 years of being formulated.
+
+‘terraforming’ Mars — changing its environment to be more Earth-like in a way that would allow terrestrial
+life (possibly including humans) to survive without the need for life-support systems
+We want to answer the question of whether it is possible to mobilize gases present on Mars today in nonatmospheric
+reservoirs by emplacing them into the atmosphere, and increase the pressure and temperature so that plants or
+humans could survive at the surface.
+Recent observations have been made of the loss
+of Mars’s atmosphere to space by the Mars Atmosphere and Volatile Evolution Mission probe and the Mars Express spacecraft,
+along with analyses of the abundance of carbon-bearing minerals and the occurrence of CO2 in polar ice from the Mars
+Reconnaissance Orbiter and the Mars Odyssey spacecraft. These results suggest that there is not enough CO2 remaining on
+Mars to provide significant greenhouse warming were the gas to be emplaced into the atmosphere; in addition, most of the CO2
+gas in these reservoirs is not accessible and thus cannot be readily mobilized
+
+CO2 and H2O are the only greenhouse gases that are likely to be
+present on Mars today in sufficient abundance to provide any significant
+greenhouse warming. While other gases such as introduced
+chlorofluorocarbons have been proposed as ways to raise the atmospheric
+temperature2,4–6, these are short-lived and without a feasible
+source using current technologies; they are therefore not considered
+further here.
+
+Below we will discuss the amount of CO2 necessary
+to raise temperatures sufficiently to allow liquid water; for now,
+however, take a nominal requirement as being about 1 bar of CO2,
+which is equivalent to about 2,500 g CO2 cm–2 in the atmosphere.
+For comparison, the present-day atmosphere has an average pressure
+of about 6 mbar — equivalent to about 15 g CO2 cm–2 at the
+surface.
+
+The Martian polar caps contain a seasonal
+covering of CO2 ice that deposits in winter when the surface
+drops below the condensation temperature of atmospheric CO2,
+and disappears in summer when sunlight causes it to sublimate back
+into the atmosphere. This seasonal covering can contain as much as
+perhaps a third of the atmosphere at any given time, or the equivalent
+of about 2 mbar
+
+The Martian north polar cap loses its entire covering of CO2 ice
+during summer, exposing a residual polar cap. This cap consists
+broadly of water ice with intermixed dust in various proportions to
+form layers in a stack up to several kilometres thick
+
+The south polar cap retains a thin and spatially discontinuous
+cover of CO2 ice after the seasonal frost has disappeared during
+summer. This ice is not thought to be substantial, containing only
+the equivalent of a fraction of the present-day atmospheric CO2
+abundance8. Water ice is observed to be present beneath that CO2,
+and much of the volume of the polar deposits is thought to be water
+ice with intermixed dust. Within the volume of the polar deposits,
+however, radar measurements show what appears to be a substantial
+volume of clean CO2 ice buried at depth10. This volume of ice,
+if emplaced into the atmosphere, would provide enough CO2 to
+double the atmospheric pressure, to an estimated 12 mbar (ref. 11).
+H2O and CO2 can also occur in a clathrate structure, in which
+the H2O molecules form a ‘cage’ that can hold CO2
+
+Although it’s not possible to obtain a more realistic estimate of the
+possible CO2 content of the polar deposit, 150 mbar should be considered
+as an extreme upper limit, and it’s possible that there is no
+clathrate present at all
+
+Both CO2 and H2O can be adsorbed onto individual
+grains in the regolith and megaregolith16,17. This process involves a
+physical (as opposed to chemical) bonding at the level of the individual
+molecule. The amount of gas that can adsorb onto a grain
+depends on the specific surface area of the grain, which in turn
+depends on the composition and size/shape of the grain at the molecular
+level.
+
+If we take a high estimate of 0.01 g CO2 per gram of weathered
+regolith, and an estimated total regolith equivalent thickness of 100
+m, there could be as much as 100 g CO2 cm–2 adsorbed within the
+subsurface.
+
+If the full 100 g CO2 cm–2 could be emplaced into the atmosphere,
+it would provide the equivalent pressure of about 40 mbar.
+
+CO2 can be locked up in carbon-bearing
+minerals. Carbonate minerals were believed for a long time to be
+the repository of an ancient, thick CO2 atmosphere that is thought
+to have provided greenhouse warming on early Mars21,22. However,
+no widespread global deposits of carbonates have been identified; to
+hold the equivalent of 1 bar of CO2, carbonate minerals would have
+to contain the equivalent of a global layer ~15 m thick, and this has
+not been seen. Localized deposits of carbonates have been identified23–
+25, and carbonates have been detected in low abundances in
+airborne dust26.
+
+While ‘deep’ carbonate-bearing materials may
+sequester significant amounts of CO2 (potentially > 1 bar), they are
+considered only part of a largely unknowable reservoir when the
+limited distribution27 and poor formation constraints are considered.
+
+In short, given the current ability to see and identify carbonate
+outcrops in the remote sensing data, it is difficult to see how more
+than the equivalent of about 50 mbar of CO2 could be sequestered
+globally24. While there is no formal upper limit on the amount of
+carbonate deposits — one could always argue that they are preferentially
+sequestered in locations that we have not or cannot observe
+— such deposits are both geologically implausible and difficult or
+impossible to access for terraforming.
+
+Terraforming Mars would require mobilizing the CO2 remaining on
+the planet and present in non-atmospheric reservoirs today, moving
+it from its current location back into the atmosphere.
+The most accessible CO2 reservoir is in the polar caps. The
+CO2 ice there could be readily mobilized by heating of the deposits.
+This could be done by, for example, using explosives to raise
+dust into the atmosphere so that it would deposit on the polar
+caps, effectively decreasing their surface albedo and increasing
+the amount of absorbed solar energy36. This could also be done by
+utilizing explosives to heat the polar ice directly, thus triggering
+sublimation (as suggested by Elon Musk37). However, if the whole
+volume of polar-cap CO2 were emplaced into the atmosphere, it
+would increase the pressure to less than 15 mbar total and, while
+about twice the current Martian atmospheric pressure, this is well
+below the needed ~1 bar
+
+Carbonate-bearing mineral deposits could be heated to release
+their CO2. The typical decrepitation temperature for carbonates is
+around ~300 °C. This is high enough that it could not be achieved
+by solar heating from greenhouse warming, and would thus require
+some form of deposit processing.
+
+There is
+no plausible scenario that is feasible today or in the near future by
+which sufficient volumes of carbonate-bearing material could be
+processed to release substantial quantities of CO2. Here, we take
+12 mbar as the maximum plausible amount of CO2 that could be
+released from carbonates.
+
+Releasing the full 40 mbar of CO2 estimated
+to be in the regolith would require processing material over
+the entire planet to a depth of at least 100 m, again assuming a complete
+release of the CO2
+
+Regarding loss to space, once gas is lost it will very quickly
+become ionized and carried away by the solar wind. Once lost, it is
+gone and unable to come back
+
+Although there is considerable
+uncertainty in an exact CO2 pressure that could be produced, we
+will use 20 mbar as a representative maximum atmospheric pressure
+that could be achieved; while higher pressures are theoretically
+possible, there is no evidence to suggest that these larger amounts
+of CO2 are available
+
+It would take a CO2 pressure of about 1 bar to produce greenhouse
+warming that would bring temperatures close to the melting
+point of ice7,43. This is well beyond what could be mobilized into the
+Mars atmosphere
+
+
 
 Requirements :
 1. The atmospheric pressure must be increased by at least a factor
