@@ -586,6 +586,7 @@ conditions.
 - [Bringing Life to Mars](http://meteorite.unm.edu/site_media/pdf/BringingLife.pdf) - McKay, Scientific American (1991)
 - [Technological Requirements for Terraforming Mars](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.8928&rep=rep1&type=pdf) - Zubrin et McKay (2005)
 - [So Can We Terraform Mars or Not?](http://nautil.us/issue/65/in-plain-sight/so-can-we-terraform-mars-or-not) - Nautilus (2018)
+- [The Physics, Biology, and Environmental Ethics ofMaking Mars Habitable](https://www.ifa.hawaii.edu/~meech/a281/handouts/McKay_astrobio01.pdf) - McKay et Marinova (2001)
 
 ---
 
