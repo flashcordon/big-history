@@ -671,7 +671,8 @@ these would have frozen over by the mid-Amazonian epoch.
 
 ## Terraformer Mars
 
-- En 1971, l'astronome américain Carl Sagan publie dans le journal Icarus un court article intitulé *The Long Winter Model of Martian Biology*. Il s'agit du premier article scientifique de l'histoire à avancer l'idée de terraformation de Mars.
+- En 1971, l'astronome américain Carl Sagan publie dans le journal Icarus un court article intitulé *The Long Winter Model of Martian Biology*. Il s'agit du premier article scientifique de l'histoire à avancer l'idée de terraformation de Mars. L'article se conclut sur ces mots :
+> it is  just conceivable that, in time, human en-deavors could, by volatilizing the present NPC remnant, andtaking advantage of the hypothesized instabilities, introducemuch more clement conditions on Mars, in times considerablyshorter than the precessional period. As with a related sug-gestion for Venus (Sagan, 1961), such planetary engineeringshould be considered seriously only after the most thoroughand ecologically responsible investigation of the planet isperformed.
 - En 1973, dans un article intitulé *Planetary engineering on Mars*, il énonce 3 scénarios possibles de terraformation de Mars 
 - liquid water cannot exist for long periods of time on the surface
 of Mars at the present time. The surface pressure is too low and the
