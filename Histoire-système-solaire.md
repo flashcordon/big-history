@@ -583,6 +583,7 @@ conditions.
 - [Inventory of CO2 available for terraforming Mars](https://lasp.colorado.edu/home/maven/files/2018/08/Inventory-of-CO2-available-for-terraforming-Mars.pdf) - Jakosky et Edwards (2018)
 - [Making Mars habitable](https://www.nature.com/articles/352489a0) - McKay, Toon, Kasting (1991)
 - [Terraforming: Can We Turn Mars Into Earth 2.0?](https://youtu.be/9F1iWp4Gl3k?list=WL) - Scishow space
+- [Terraforming Mars quickly](https://orionsarm.com/fm_store/TerraformingMarsQuickly.pdf) - Birch (1992)
 - [Bringing Life to Mars](http://meteorite.unm.edu/site_media/pdf/BringingLife.pdf) - McKay, Scientific American (1991)
 - [Technological Requirements for Terraforming Mars](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.8928&rep=rep1&type=pdf) - Zubrin et McKay (2005)
 - [So Can We Terraform Mars or Not?](http://nautil.us/issue/65/in-plain-sight/so-can-we-terraform-mars-or-not) - Nautilus (2018)
