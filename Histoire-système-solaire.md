@@ -668,9 +668,7 @@ these would have frozen over by the mid-Amazonian epoch.
 
 ## Terraformer Mars
 
-- in late 1971. It was in that year that Sagan published a
-short research paper in the then relatively new planetary astronomy
-journal Icarus. Entitled The Long Winter Model of Martian Biology
+- En 1971, l'astronome américain Carl Sagan publie dans le journal Icarus un court article intitulé *The Long Winter Model of Martian Biology*. Il s'agit du premier article scientifique de l'histoire à avancer l'idée de terraformation de Mars.
 - liquid water cannot exist for long periods of time on the surface
 of Mars at the present time. The surface pressure is too low and the
 surface temperature is not high enough for the liquid phase to
@@ -863,16 +861,11 @@ warming that would bring temperatures close to the melting
 point of ice7,43. This is well beyond what could be mobilized into the
 Mars atmosphere
 
-
-
-Requirements :
-1. The atmospheric pressure must be increased by at least a factor
-of 100.
-2. The mean global temperature must be increased by at least 60 K.
-3. The establishment of standing liquid-water reserves on the
-Martian surface.
-4. Achange in the chemical composition of the Martian atmosphere.
-5. A reduction in the surface UV flux.
+***Actions requises pour terraformer Mars***
+- La pression atmosphérique doit être multipliée par 100
+- La température moyenne de surface de la planète doit être augmentée d'au moins 60°C
+- La composition chimique de l'atmosphère doit être drastiquement modifiée pour être respirable par des humains
+- Une protection à grande échelle contre les rayons UV doit être implémentée.
 
 options:
 1. Change the orbital eccentricity of Mars’s orbit about the Sun.
