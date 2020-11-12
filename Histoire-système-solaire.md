@@ -593,6 +593,7 @@ conditions.
 - [Mars in fiction](https://en.wikipedia.org/wiki/Mars_in_fiction) - Wikipédia
 - Markley, Robert, 2005 - Dying planet: Mars in Science and the Imagination
 - Lost Mars: Stories from the Golden Age of the Red Planet, edited by Mike Ashley (2018)
+- [Planetary engineering on Mars](https://doi.org/10.1016/0019-1035(73)90026-2) - Sagan (1973)
 ---
 
 ## Histoire de l'observation de Mars
@@ -669,6 +670,7 @@ these would have frozen over by the mid-Amazonian epoch.
 ## Terraformer Mars
 
 - En 1971, l'astronome américain Carl Sagan publie dans le journal Icarus un court article intitulé *The Long Winter Model of Martian Biology*. Il s'agit du premier article scientifique de l'histoire à avancer l'idée de terraformation de Mars.
+- En 1973, dans un article intitulé *Planetary engineering on Mars*, il énonce 3 scénarios possibles de terraformation de Mars 
 - liquid water cannot exist for long periods of time on the surface
 of Mars at the present time. The surface pressure is too low and the
 surface temperature is not high enough for the liquid phase to
@@ -710,8 +712,6 @@ from the surface geology to support the idea of periodic liquid water
 inundations. The long-winter model for Mars was dead within
 5 years of being formulated.
 
-‘terraforming’ Mars — changing its environment to be more Earth-like in a way that would allow terrestrial
-life (possibly including humans) to survive without the need for life-support systems
 We want to answer the question of whether it is possible to mobilize gases present on Mars today in nonatmospheric
 reservoirs by emplacing them into the atmosphere, and increase the pressure and temperature so that plants or
 humans could survive at the surface.
