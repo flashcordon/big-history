@@ -587,6 +587,10 @@ conditions.
 - [Technological Requirements for Terraforming Mars](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.8928&rep=rep1&type=pdf) - Zubrin et McKay (2005)
 - [So Can We Terraform Mars or Not?](http://nautil.us/issue/65/in-plain-sight/so-can-we-terraform-mars-or-not) - Nautilus (2018)
 - [The Physics, Biology, and Environmental Ethics ofMaking Mars Habitable](https://www.ifa.hawaii.edu/~meech/a281/handouts/McKay_astrobio01.pdf) - McKay et Marinova (2001)
+- [Science-fiction et futurologie de la colonisation martienne](https://journals.openedition.org/socio/7681) - Saint Martin (2019)
+- [A Brief History of Sci-Fi’s Love Affair With the Red Planet](https://lithub.com/a-brief-history-of-sci-fis-love-affair-with-the-red-planet/) - Lithub (2018)
+- [Mars](http://www.sf-encyclopedia.com/entry/mars) - Science Fiction Encyclopedia
+- [Mars in fiction](https://en.wikipedia.org/wiki/Mars_in_fiction) - Wikipédia
 
 ---
 
