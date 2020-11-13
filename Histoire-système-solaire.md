@@ -683,7 +683,16 @@ these would have frozen over by the mid-Amazonian epoch.
 - La composition chimique de l'atmosphère doit être drastiquement modifiée pour être respirable par des humains
 - Une protection à grande échelle contre les rayons UV doit être implémentée.
 
+***Contenu en eau de Mars***
+- Par le passé, Mars possédait une atmosphère plus dense qui permettait à des étendues stables d'eau liquide d'exister. Mais aujourd'hui, l'eau de Mars qui ne s'est pas échappée dans l'espace s'est retirée dans les calottes polaires et les profondeurs de la croûte martienne. 
+- Les conditions présumées de température et de pression des profondeurs de la croûte martienne permettent l'existence de poches d'eau liquide, possiblement chauffées par la désintégration radioactive des isotopes de son coeur. Mais il y a de grandes incertitudes à l'heure actuelle sur la profondeur à laquelle ces poches d'eau existent (entre quelques centaines de mètres et 7 km).
+- Grâce aux données radar de la sonde Mars Express, on estime que la glace d'eau de la calotte polaire sud de Mars pourrait, si elle était fondue, produire un océan global de 11 mètres de profondeur en moyenne.
+- Que dit Mars Express sur les réserves près des poles ? grace à son radar qui permet de sonder à distance le sous sol de Mars
 
+***Contenu en CO2 de Mars***
+- Le CO2 et la vapeur d'eau sont les seuls gaz à effet de serre présent sur Mars à l'heure actuelle dans des abondances suffisantes pour chauffer la planète de manière non négligeable.
+- Pour permettre à l'atmosphère de Mars d'atteindre une pression suffisante pour permettre à l'eau liquide d'exister (sans prendre en compte la température pour le moment), il faudrait idéalement passer des 6 millibar de CO2 à la surface actuellement (15 g CO2 cm–2) à 1 bar (2500 g CO2 cm–2).
+- Les observations radar récentes permettent d'estimer que les calottes polaires de Mars contiennent suffisamment de glace de CO2 pour augmenter la pression atmosphérique de 12 millibar tout au plus. Et si on fait l'hypothèse qu'il existe des clathrates de CO2 (des molécules de CO2 piégées dans des cages de molécules d' H2O) dans les régions polaires de Mars, on peut en théorie faire monter la pression atmosphérique à 150 millibar maximum.
 
 We want to answer the question of whether it is possible to mobilize gases present on Mars today in nonatmospheric
 reservoirs by emplacing them into the atmosphere, and increase the pressure and temperature so that plants or
@@ -694,54 +703,6 @@ along with analyses of the abundance of carbon-bearing minerals and the occurren
 Reconnaissance Orbiter and the Mars Odyssey spacecraft. These results suggest that there is not enough CO2 remaining on
 Mars to provide significant greenhouse warming were the gas to be emplaced into the atmosphere; in addition, most of the CO2
 gas in these reservoirs is not accessible and thus cannot be readily mobilized
-
-CO2 and H2O are the only greenhouse gases that are likely to be
-present on Mars today in sufficient abundance to provide any significant
-greenhouse warming. While other gases such as introduced
-chlorofluorocarbons have been proposed as ways to raise the atmospheric
-temperature2,4–6, these are short-lived and without a feasible
-source using current technologies; they are therefore not considered
-further here.
-
-Below we will discuss the amount of CO2 necessary
-to raise temperatures sufficiently to allow liquid water; for now,
-however, take a nominal requirement as being about 1 bar of CO2,
-which is equivalent to about 2,500 g CO2 cm–2 in the atmosphere.
-For comparison, the present-day atmosphere has an average pressure
-of about 6 mbar — equivalent to about 15 g CO2 cm–2 at the
-surface.
-
-The Martian polar caps contain a seasonal
-covering of CO2 ice that deposits in winter when the surface
-drops below the condensation temperature of atmospheric CO2,
-and disappears in summer when sunlight causes it to sublimate back
-into the atmosphere. This seasonal covering can contain as much as
-perhaps a third of the atmosphere at any given time, or the equivalent
-of about 2 mbar
-
-The Martian north polar cap loses its entire covering of CO2 ice
-during summer, exposing a residual polar cap. This cap consists
-broadly of water ice with intermixed dust in various proportions to
-form layers in a stack up to several kilometres thick
-
-The south polar cap retains a thin and spatially discontinuous
-cover of CO2 ice after the seasonal frost has disappeared during
-summer. This ice is not thought to be substantial, containing only
-the equivalent of a fraction of the present-day atmospheric CO2
-abundance8. Water ice is observed to be present beneath that CO2,
-and much of the volume of the polar deposits is thought to be water
-ice with intermixed dust. Within the volume of the polar deposits,
-however, radar measurements show what appears to be a substantial
-volume of clean CO2 ice buried at depth10. This volume of ice,
-if emplaced into the atmosphere, would provide enough CO2 to
-double the atmospheric pressure, to an estimated 12 mbar (ref. 11).
-H2O and CO2 can also occur in a clathrate structure, in which
-the H2O molecules form a ‘cage’ that can hold CO2
-
-Although it’s not possible to obtain a more realistic estimate of the
-possible CO2 content of the polar deposit, 150 mbar should be considered
-as an extreme upper limit, and it’s possible that there is no
-clathrate present at all
 
 Both CO2 and H2O can be adsorbed onto individual
 grains in the regolith and megaregolith16,17. This process involves a
@@ -854,11 +815,7 @@ composition.
 13. Introduce bioengineered plants to change the planet’s surface
 albedo
 
-***Contenu en eau***
-- Par le passé, Mars possédait une atmosphère plus dense qui permettait à des étendues stables d'eau liquide d'exister. Mais aujourd'hui, l'eau de Mars qui ne s'est pas échappée dans l'espace s'est retirée dans les calottes polaires et les profondeurs de la croûte martienne. 
-- Les conditions présumées de température et de pression des profondeurs de la croûte martienne permettent l'existence de poches d'eau liquide, possiblement chauffées par la désintégration radioactive des isotopes de son coeur. Mais il y a de grandes incertitudes à l'heure actuelle sur la profondeur à laquelle ces poches d'eau existent (entre quelques centaines de mètres et quelques kilomètres - jusqu'à 7 km).
-- Grâce aux données radar de la sonde Mars Express, on estime que la glace d'eau de la calotte polaire sud de Mars pourrait, si elle était fondue, produire un océan global de 11 mètres de profondeur en moyenne.
-- Que dit Mars Express sur les réserves près des poles ? grace à son radar qui permet de sonder à distance le sous sol de Mars
+
 
 ***Atmosphère***
 
