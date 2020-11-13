@@ -575,6 +575,16 @@ conditions.
 
 # Mars
 
+- [Histoire de l'observation de Mars](#Histoire-de-lobservation-de-Mars)
+- [Propriétés de Mars](#Propriétés-de-Mars)
+- [La vie sur Mars](#La-vie-sur-Mars)
+- [Missions vers Mars](#Missions-vers-Mars)
+- [Terraformer Mars](#Terraformer-Mars)
+- [Mars dans la fiction](#Mars-dans-la-fiction)
+- [Illustrations Mars](#Illustrations-Mars)
+
+---
+
 *Sources*
 
 - Terraforming: the creating of habitable worlds - Martin Beech (2009)
