@@ -700,17 +700,11 @@ these would have frozen over by the mid-Amazonian epoch.
 
 ***Gaz à super-effet de serre***
 - Une alternative au CO2 serait d'introduire sur Mars des gaz à effet de serre au pouvoir chauffant plus grands que le CO2.
-- L'un de ces gaz à super-effet de serre est l'ammoniac (NH3), qui est présent dans certains noyaux de comètes et dans certains astéroides sous forme de glace.
-> L'ammoniac constitue environ 1% de la masse d'un noyau cométaire. L'impact d'un seul noyau cométaire de 10 km de diamètre avec la surface de Mars apporterait suffisamment d'ammoniac et de vapeur d'eau pour ? 
+- L'un de ces gaz à super-effet de serre est l'ammoniac (NH3), qui est présent dans certains noyaux de comètes (à raison de 1% de leur masse) et dans certains astéroides sous forme de glace.
+> Il faudrait importer de l'ordre de 1000 milliards de tonnes d'ammoniac pour assurer la stabilité des étendues d'eau liquide sur Mars.
+- Une autre suggestion, qui nous vient de James Lovelock et Michael Allaby, est l'apport de chlorofluorocarbures (CFC).
+> Il faudrait de l'ordre d'1 milliard de tonnes de CFC pour réchauffer suffisamment la planète. Lors du pic de production mondial de CFC, au milieu des années 90, l'Humanité produisait 1 million de tonnes de CFC par an.
 
-
-- the Solar System is
-literally full of resources and that there are no reasons to
-suppose that terraforming can’t proceed for the want of basic raw
-materials and chemical components. The problem for humanity, of
-course, is exactly how to perform the large-scale extraction and
-transportation of the resources from one location in the Solar
-System to another.
 - Staggeringly large amounts of ammonia would need to be added
 to the Martian atmosphere in order to push its equatorial temperature
 above the freezing point of water. Indeed, a partial pressure of
