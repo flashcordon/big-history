@@ -672,49 +672,18 @@ these would have frozen over by the mid-Amazonian epoch.
 
 ## Terraformer Mars
 
-- En 1971, l'astronome américain Carl Sagan publie dans le journal Icarus un court article intitulé *The Long Winter Model of Martian Biology*. Il s'agit du premier article scientifique de l'histoire à avancer l'idée de terraformation de Mars. L'article se conclut sur ces mots :
-> it is  just conceivable that, in time, human en-deavors could, by volatilizing the present NPC remnant, andtaking advantage of the hypothesized instabilities, introducemuch more clement conditions on Mars, in times considerablyshorter than the precessional period. As with a related sug-gestion for Venus (Sagan, 1961), such planetary engineeringshould be considered seriously only after the most thoroughand ecologically responsible investigation of the planet isperformed.
-- En 1973, dans un article intitulé *Planetary engineering on Mars*, il énonce 3 scénarios possibles de terraformation de Mars 
-- liquid water cannot exist for long periods of time on the surface
-of Mars at the present time. The surface pressure is too low and the
-surface temperature is not high enough for the liquid phase to
-be stable.
-> * Sagan built his argument upon the assumption that the northern
-polar cap of Mars was composed entirely of carbon dioxide ice
-> * if all the ice in the northern polar cap could be
-devolatized then Mars, Sagan realized, would rapidly develop a
-much denser and warmer atmosphere, and the conditions for liquid
-water to exist on the planet’s surface might be achieved.
-> * Sagan’s greatest leap
-of the imagination, however, was contained within the penultimate
-paragraph of his 1971 paper: ‘‘It is just conceivable that, in time,
-human endeavors could, by volatizing the present northern
-polar cap remnant, and taking advantage of the hypothesized
-instabilities, introduce much more clement conditions on Mars,
-in times considerably shorter than the precession cycle.’’
-- Almost exactly a year to the day after Sagan submitted his longwinter
-model paper to the journal Icarus, two of his Cornell University
-colleagues, Joseph Burns and Martin Harwit, submitted to
-the journal editors a research article illustrating how the Martian
-precession cycle might be modified. Burns and Harwit suggested
-that the Martian precession cycle could be altered by either modifying
-the orbit of its largest moon, Phobos, or by introducing material
-mined from the main-belt asteroid region to form a ring around the
-planet
-- The Burns–Harwit maneuver, as their method is now often
-called, would no doubt work if the physical engineering could be
-achieved
-- almost exactly a year to the day after Burns and Harwit
-submitted their paper to Icarus, Sagan came back with a second
-research article; this time, perhaps rather provocatively, the article
-was entitled Planetary Engineering on Mars. Sagan outlined three
-possible methods by which Mars might be terraformed
-- Sagan’s elegantly argued long-winter model for Mars was simply
-not true. Not only was the northern polar cap of Mars not made
-entirely of carbon dioxide ice, but there was absolutely no evidence
-from the surface geology to support the idea of periodic liquid water
-inundations. The long-winter model for Mars was dead within
-5 years of being formulated.
+- En 1971, l'astronome américain Carl Sagan publie dans le journal Icarus un court article intitulé *The Long Winter Model of Martian Biology* (un modèle qui sera rendu caduque 5 ans après sa formulation). Il s'agit du premier article scientifique de l'histoire à avancer l'idée de terraformation de Mars. L'article se conclut sur ces mots :
+> it is  just conceivable that, in time, human endeavors could, by volatilizing the present northern polar cap remnant, and taking advantage of the hypothesized instabilities, introduce much more clement conditions on Mars, in times considerably shorter than the precessional period. As with a related suggestion for Venus (Sagan, 1961), such planetary engineering should be considered seriously only after the most thorough and ecologically responsible investigation of the planet is performed.
+- En 1973, dans un article intitulé *Planetary engineering on Mars*, il énonce 3 scénarios possibles de terraformation de Mars.
+> Lesquels ?
+
+***Actions requises pour terraformer Mars***
+- La pression atmosphérique doit être multipliée par 100
+- La température moyenne de surface de la planète doit être augmentée d'au moins 60°C
+- La composition chimique de l'atmosphère doit être drastiquement modifiée pour être respirable par des humains
+- Une protection à grande échelle contre les rayons UV doit être implémentée.
+
+
 
 We want to answer the question of whether it is possible to mobilize gases present on Mars today in nonatmospheric
 reservoirs by emplacing them into the atmosphere, and increase the pressure and temperature so that plants or
@@ -865,11 +834,6 @@ warming that would bring temperatures close to the melting
 point of ice7,43. This is well beyond what could be mobilized into the
 Mars atmosphere
 
-***Actions requises pour terraformer Mars***
-- La pression atmosphérique doit être multipliée par 100
-- La température moyenne de surface de la planète doit être augmentée d'au moins 60°C
-- La composition chimique de l'atmosphère doit être drastiquement modifiée pour être respirable par des humains
-- Une protection à grande échelle contre les rayons UV doit être implémentée.
 
 options:
 1. Change the orbital eccentricity of Mars’s orbit about the Sun.
@@ -890,28 +854,10 @@ composition.
 13. Introduce bioengineered plants to change the planet’s surface
 albedo
 
-- in the distant past
-the higher density of the Martian atmosphere did allow liquid water
-to pool and flow on the planet’s surface. This atmospheric support
-no longer exists, and much of the ocean water will have turned to
-surface ice and seeped into the deep interior of the Martian crust.
-- In terms of the water phase diagram, two important things will
-happen as deeper regions of the Martian crust are encountered.
-First, the pressure will increase due to the weight of overlying
-rock layers, and second the temperature will increase, since the
-Martian core is still warmed somewhat by the decay of long-lived
-radioactive isotopes. Eventually, indeed inevitably, the ambient
-temperature and pressure will enable liquid water to exist. At
-what depth this ice-to-liquid water transition occurs will depend
-upon the specific rock structure of the Martian crust.
-- In
-regions where the thermal conductivity is very high, such as those
-associated with ice-cemented regolith and ice-free sandstone,
-liquid water can only exist at much greater depths, between 3 and
-7 km. There is great uncertainty, therefore, at what depth liquid
-water might generally be found in the Martian crust. In regions
-where there is rock stratification, liquid water may exist near the
-Martian surface, at depths of perhaps just a few hundred meters.
+- Par le passé, Mars possédait une atmosphère plus dense qui permettait à des étendues stables d'eau liquide d'exister. Mais aujourd'hui, l'eau de Mars qui ne s'est pas échappée dans l'espace s'est retirée dans les calottes polaires et les profondeurs de la croûte martienne. 
+- Les conditions présumées de température et de pression des profondeurs de la croûte martienne permettent l'existence de poches d'eau liquide, possiblement chauffées par la désintégration radioactive des isotopes de son coeur. Mais il y a de grandes incertitudes à l'heure actuelle sur la profondeur à laquelle ces poches d'eau existent (entre quelques centaines de mètres et quelques kilomètres - jusqu'à 7 km).
+
+
 - Que dit Mars Express sur les réserves près des poles ? grace à son radar qui permet de sonder à distance le sous sol de Mars
 - the ground-penetrating radar
 studies of the water-ice contained in the southern polar cap indicate
