@@ -691,11 +691,11 @@ these would have frozen over by the mid-Amazonian epoch.
 
 ***Contenu en CO2 de Mars***
 - Le CO2 et la vapeur d'eau sont les seuls gaz à effet de serre présent sur Mars à l'heure actuelle dans des abondances suffisantes pour chauffer la planète de manière non négligeable.
-- Pour permettre à l'atmosphère de Mars d'atteindre une pression suffisante pour permettre à l'eau liquide d'exister (sans prendre en compte la température pour le moment), il faudrait idéalement passer des 6 millibar de CO2 à la surface actuellement (15 g CO2 cm–2) à 1 bar (2500 g CO2 cm–2).
+- Pour permettre à l'atmosphère de Mars d'atteindre une pression et une température suffisante pour permettre à l'eau liquide d'exister, il faudrait idéalement passer des 6 millibar de CO2 à la surface actuellement (15 g CO2 cm–2) à 1 bar (2500 g CO2 cm–2).
 - Les observations radar récentes permettent d'estimer que les calottes polaires de Mars contiennent suffisamment de glace de CO2 pour augmenter la pression atmosphérique de 12 millibar tout au plus. Et si on fait l'hypothèse qu'il existe des clathrates de CO2 (des molécules de CO2 piégées dans des cages de molécules d' H2O) dans les régions polaires de Mars, on peut en théorie faire monter la pression atmosphérique à 150 millibar maximum.
 - Il y a aussi du CO2 (et de l'H2O) absorbé dans les grains de poussière du régolithe martien. Si l'intégralité du régolithe relachaît son CO2, cela fournirait environ 40 millibar de pression à l'atmosphère martienne.
 > Hypothèses : 0.01 g CO2 par gramme de régolithe, avec une profondeur moyenne de 100 m.
-- Enfin, il y a du CO2 dans les roches carbonatées de Mars, qui pourraient être libéré en chauffant les roches à 300°C. Mais il n'y a pas de gisements à grande échelle de telles roches sur Mars. Il y a probablement des gisements cachés sous la surface, mais il est impossible d'estimer à quel point ces gisements sont importants à l'heure actuelle.
+- Enfin, il y a du CO2 dans les roches carbonatées de Mars, qui pourraient être libéré en chauffant les roches à 300°C. Mais il n'y a pas de gisements à grande échelle de telles roches sur Mars. Il y a probablement des gisements cachés sous la surface, mais il est impossible d'estimer à quel point ces gisements sont importants à l'heure actuelle. Jakosky et Edwards (2018) estiment que la pression atmosphérique maximum pouvant être atteinte de manière réaliste en chauffant les carbonates est de 12 millibar.
 
 We want to answer the question of whether it is possible to mobilize gases present on Mars today in nonatmospheric
 reservoirs by emplacing them into the atmosphere, and increase the pressure and temperature so that plants or
@@ -723,34 +723,9 @@ would increase the pressure to less than 15 mbar total and, while
 about twice the current Martian atmospheric pressure, this is well
 below the needed ~1 bar
 
-There is
-no plausible scenario that is feasible today or in the near future by
-which sufficient volumes of carbonate-bearing material could be
-processed to release substantial quantities of CO2. Here, we take
-12 mbar as the maximum plausible amount of CO2 that could be
-released from carbonates.
-
-Releasing the full 40 mbar of CO2 estimated
-to be in the regolith would require processing material over
-the entire planet to a depth of at least 100 m, again assuming a complete
-release of the CO2
-
 Regarding loss to space, once gas is lost it will very quickly
 become ionized and carried away by the solar wind. Once lost, it is
 gone and unable to come back
-
-Although there is considerable
-uncertainty in an exact CO2 pressure that could be produced, we
-will use 20 mbar as a representative maximum atmospheric pressure
-that could be achieved; while higher pressures are theoretically
-possible, there is no evidence to suggest that these larger amounts
-of CO2 are available
-
-It would take a CO2 pressure of about 1 bar to produce greenhouse
-warming that would bring temperatures close to the melting
-point of ice7,43. This is well beyond what could be mobilized into the
-Mars atmosphere
-
 
 options:
 1. Change the orbital eccentricity of Mars’s orbit about the Sun.
