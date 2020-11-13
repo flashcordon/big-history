@@ -695,6 +695,7 @@ these would have frozen over by the mid-Amazonian epoch.
 - Les observations radar récentes permettent d'estimer que les calottes polaires de Mars contiennent suffisamment de glace de CO2 pour augmenter la pression atmosphérique de 12 millibar tout au plus. Et si on fait l'hypothèse qu'il existe des clathrates de CO2 (des molécules de CO2 piégées dans des cages de molécules d' H2O) dans les régions polaires de Mars, on peut en théorie faire monter la pression atmosphérique à 150 millibar maximum.
 - Il y a aussi du CO2 (et de l'H2O) absorbé dans les grains de poussière du régolithe martien. Si l'intégralité du régolithe relachaît son CO2, cela fournirait environ 40 millibar de pression à l'atmosphère martienne.
 > Hypothèses : 0.01 g CO2 par gramme de régolithe, avec une profondeur moyenne de 100 m.
+- Enfin, il y a du CO2 dans les roches carbonatées de Mars, qui pourraient être libéré en chauffant les roches à 300°C. Mais il n'y a pas de gisements à grande échelle de telles roches sur Mars. Il y a probablement des gisements cachés sous la surface, mais il est impossible d'estimer à quel point ces gisements sont importants à l'heure actuelle.
 
 We want to answer the question of whether it is possible to mobilize gases present on Mars today in nonatmospheric
 reservoirs by emplacing them into the atmosphere, and increase the pressure and temperature so that plants or
@@ -705,31 +706,6 @@ along with analyses of the abundance of carbon-bearing minerals and the occurren
 Reconnaissance Orbiter and the Mars Odyssey spacecraft. These results suggest that there is not enough CO2 remaining on
 Mars to provide significant greenhouse warming were the gas to be emplaced into the atmosphere; in addition, most of the CO2
 gas in these reservoirs is not accessible and thus cannot be readily mobilized
-
-CO2 can be locked up in carbon-bearing
-minerals. Carbonate minerals were believed for a long time to be
-the repository of an ancient, thick CO2 atmosphere that is thought
-to have provided greenhouse warming on early Mars21,22. However,
-no widespread global deposits of carbonates have been identified; to
-hold the equivalent of 1 bar of CO2, carbonate minerals would have
-to contain the equivalent of a global layer ~15 m thick, and this has
-not been seen. Localized deposits of carbonates have been identified23–
-25, and carbonates have been detected in low abundances in
-airborne dust26.
-
-While ‘deep’ carbonate-bearing materials may
-sequester significant amounts of CO2 (potentially > 1 bar), they are
-considered only part of a largely unknowable reservoir when the
-limited distribution27 and poor formation constraints are considered.
-
-In short, given the current ability to see and identify carbonate
-outcrops in the remote sensing data, it is difficult to see how more
-than the equivalent of about 50 mbar of CO2 could be sequestered
-globally24. While there is no formal upper limit on the amount of
-carbonate deposits — one could always argue that they are preferentially
-sequestered in locations that we have not or cannot observe
-— such deposits are both geologically implausible and difficult or
-impossible to access for terraforming.
 
 Terraforming Mars would require mobilizing the CO2 remaining on
 the planet and present in non-atmospheric reservoirs today, moving
@@ -746,12 +722,6 @@ volume of polar-cap CO2 were emplaced into the atmosphere, it
 would increase the pressure to less than 15 mbar total and, while
 about twice the current Martian atmospheric pressure, this is well
 below the needed ~1 bar
-
-Carbonate-bearing mineral deposits could be heated to release
-their CO2. The typical decrepitation temperature for carbonates is
-around ~300 °C. This is high enough that it could not be achieved
-by solar heating from greenhouse warming, and would thus require
-some form of deposit processing.
 
 There is
 no plausible scenario that is feasible today or in the near future by
