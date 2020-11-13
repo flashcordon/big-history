@@ -696,6 +696,61 @@ these would have frozen over by the mid-Amazonian epoch.
 - Il y a aussi du CO2 (et de l'H2O) absorbé dans les grains de poussière du régolithe martien. Si l'intégralité du régolithe relachaît son CO2, cela fournirait environ 40 millibar de pression à l'atmosphère martienne.
 > Hypothèses : 0.01 g CO2 par gramme de régolithe, avec une profondeur moyenne de 100 m.
 - Enfin, il y a du CO2 dans les roches carbonatées de Mars, qui pourraient être libéré en chauffant les roches à 300°C. Mais il n'y a pas de gisements à grande échelle de telles roches sur Mars. Il y a probablement des gisements cachés sous la surface, mais il est impossible d'estimer à quel point ces gisements sont importants à l'heure actuelle. Jakosky et Edwards (2018) estiment que la pression atmosphérique maximum pouvant être atteinte de manière réaliste en chauffant les carbonates est de 12 millibar.
+- Si tous les réservoirs de CO2 de Mars sont convertis en gaz, l'ensemble pourrait tout au plus contribuer à la pression atmosphérique à la hauteur de quelques centaines de millibar tout au plus. Ce qui est toujours insuffisant pour permettre à l'eau liquide de perdurer.
+
+***Gaz à super-effet de serre***
+- Une alternative au CO2 serait d'introduire sur Mars des gaz à effet de serre au pouvoir chauffant plus grands que le CO2.
+- L'un de ces gaz à super-effet de serre est l'ammoniac (NH3), qui est présent dans certains noyaux de comètes et dans certains astéroides sous forme de glace.
+> L'ammoniac constitue environ 1% de la masse d'un noyau cométaire. L'impact d'un seul noyau cométaire de 10 km de diamètre avec la surface de Mars apporterait suffisamment d'ammoniac et de vapeur d'eau pour ? 
+
+
+- the Solar System is
+literally full of resources and that there are no reasons to
+suppose that terraforming can’t proceed for the want of basic raw
+materials and chemical components. The problem for humanity, of
+course, is exactly how to perform the large-scale extraction and
+transportation of the resources from one location in the Solar
+System to another.
+- Staggeringly large amounts of ammonia would need to be added
+to the Martian atmosphere in order to push its equatorial temperature
+above the freezing point of water. Indeed, a partial pressure of
+some 250 microbars (= 25 Pa) would be required (Figure 6.16),
+corresponding to an imported mass of some 1015 kg of ammonia
+(see Note 5). Rather than use gases such as ammonia, therefore,
+James Lovelock and Michael Allaby realized in the early 1980 s that
+it would make much more sense to utilize super-greenhouse gases
+such as the chlorofluorocarbons (CFCs) and perfluorocarbons
+(PFCs) to warm Mars. In the case of CFCs, a partial pressure of
+order 0.25 microbars, corresponding to an atmospheric mass of
+about 1012 kg, would produce an equatorial temperature above
+the freezing point of water.8 During the peak production time, in
+the mid-1980 s, worldwide production of CFCs amounted to some
+1 billion kilograms per year.
+- With a relatively modest increase in
+The Terraforming of Mars 153
+this production rate it would be possible, therefore, to substantially
+warm Mars via CFC greenhouse gases alone within a few hundred
+years.
+- there are several serious side
+effects associated with the introduction of large quantities of CFC
+gases into a planetary atmosphere. The most important issue (on
+the Earth currently) concerns ozone depletion through CFC chemistry.
+Although there is no ozone in the Martian atmosphere at the
+present time, it is certainly a gas that will warrant eventual accumulation.
+The key point about the Earth’s ozone layer (and eventually
+that surrounding the Martian surface) is that it is highly
+efficient at absorbing the potentially deadly solar UV radiation. In
+contrast to the CFCs, the various PFC gases do not destroy ozone,
+since they lack the chlorine (and bromine) that catalytically
+destroys the O3, and their atmospheric lifetime against destruction
+is much longer than those of the CFCs. The fluorine-based gas
+C3F8 is one atmospheric-heating agent that shows particular promise
+with respect to the warming of Mars, since it is a strong
+absorber over a large fraction of the infrared spectrum (see Figure
+B.1). A 1 microbar partial pressure of C3F8 alone will produce a 128
+temperature increase in the equatorial temperature on Mars, while
+a 10-microbar pressure would push the equatorial temperature to 68
+above the freezing point of water.
 
 We want to answer the question of whether it is possible to mobilize gases present on Mars today in nonatmospheric
 reservoirs by emplacing them into the atmosphere, and increase the pressure and temperature so that plants or
@@ -827,75 +882,7 @@ devolatization beam could act as liquid-water-bearing canals (an
 idea that Percival Lowell would presumably like4) and, if appropriately
 roofed, regions of early settlement.
 
-***Gaz à super-effet de serre***
 
-- effet de serre plus puissants que le CO2
-- Zubrin and Mckay, for example, have
-noted that cometary nuclei and possibly some asteroids contain
-ammonia (NH3) ice, which in its gaseous phase is a strong greenhouse
-gas, and they suggest that such cometary nuclei and asteroids
-might have their orbits altered in order to impact upon the surface
-of Mars
-- Ammonia ice is generally estimated to make up something like
-1% of the mass of a cometary nucleus, and to produce a partial
-pressure of 0.1 Pa (1 microbar) of order 41012 kg of ammonia gas
-would need to be imported to Mars.5 This amount of ammonia
-might be delivered by a single impact from a cometary nucleus with
-a diameter of about 10 km across
-- Not
-only will the atmospheric and ground disruption of cometary nuclei
-in the early stages of terraforming Mars provided ammonia, but
-such actions will also provide additional water vapor, itself a strong
-greenhouse agent, additional CO2, and, important for eventual
-human habitability, atmospheric nitrogen, and oxygen
-
-- the Solar System is
-literally full of resources and that there are no reasons to
-suppose that terraforming can’t proceed for the want of basic raw
-materials and chemical components. The problem for humanity, of
-course, is exactly how to perform the large-scale extraction and
-transportation of the resources from one location in the Solar
-System to another.
-- Staggeringly large amounts of ammonia would need to be added
-to the Martian atmosphere in order to push its equatorial temperature
-above the freezing point of water. Indeed, a partial pressure of
-some 250 microbars (= 25 Pa) would be required (Figure 6.16),
-corresponding to an imported mass of some 1015 kg of ammonia
-(see Note 5). Rather than use gases such as ammonia, therefore,
-James Lovelock and Michael Allaby realized in the early 1980 s that
-it would make much more sense to utilize super-greenhouse gases
-such as the chlorofluorocarbons (CFCs) and perfluorocarbons
-(PFCs) to warm Mars. In the case of CFCs, a partial pressure of
-order 0.25 microbars, corresponding to an atmospheric mass of
-about 1012 kg, would produce an equatorial temperature above
-the freezing point of water.8 During the peak production time, in
-the mid-1980 s, worldwide production of CFCs amounted to some
-1 billion kilograms per year.
-- With a relatively modest increase in
-The Terraforming of Mars 153
-this production rate it would be possible, therefore, to substantially
-warm Mars via CFC greenhouse gases alone within a few hundred
-years.
-- there are several serious side
-effects associated with the introduction of large quantities of CFC
-gases into a planetary atmosphere. The most important issue (on
-the Earth currently) concerns ozone depletion through CFC chemistry.
-Although there is no ozone in the Martian atmosphere at the
-present time, it is certainly a gas that will warrant eventual accumulation.
-The key point about the Earth’s ozone layer (and eventually
-that surrounding the Martian surface) is that it is highly
-efficient at absorbing the potentially deadly solar UV radiation. In
-contrast to the CFCs, the various PFC gases do not destroy ozone,
-since they lack the chlorine (and bromine) that catalytically
-destroys the O3, and their atmospheric lifetime against destruction
-is much longer than those of the CFCs. The fluorine-based gas
-C3F8 is one atmospheric-heating agent that shows particular promise
-with respect to the warming of Mars, since it is a strong
-absorber over a large fraction of the infrared spectrum (see Figure
-B.1). A 1 microbar partial pressure of C3F8 alone will produce a 128
-temperature increase in the equatorial temperature on Mars, while
-a 10-microbar pressure would push the equatorial temperature to 68
-above the freezing point of water.
 
 ***Modification de l'albédo***
 
