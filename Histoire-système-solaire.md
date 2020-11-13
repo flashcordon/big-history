@@ -854,15 +854,11 @@ composition.
 13. Introduce bioengineered plants to change the planet’s surface
 albedo
 
+***Contenu en eau***
 - Par le passé, Mars possédait une atmosphère plus dense qui permettait à des étendues stables d'eau liquide d'exister. Mais aujourd'hui, l'eau de Mars qui ne s'est pas échappée dans l'espace s'est retirée dans les calottes polaires et les profondeurs de la croûte martienne. 
 - Les conditions présumées de température et de pression des profondeurs de la croûte martienne permettent l'existence de poches d'eau liquide, possiblement chauffées par la désintégration radioactive des isotopes de son coeur. Mais il y a de grandes incertitudes à l'heure actuelle sur la profondeur à laquelle ces poches d'eau existent (entre quelques centaines de mètres et quelques kilomètres - jusqu'à 7 km).
-
-
+- Grâce aux données radar de la sonde Mars Express, on estime que la glace d'eau de la calotte polaire sud de Mars pourrait, si elle était fondue, produire un océan global de 11 mètres de profondeur en moyenne.
 - Que dit Mars Express sur les réserves près des poles ? grace à son radar qui permet de sonder à distance le sous sol de Mars
-- the ground-penetrating radar
-studies of the water-ice contained in the southern polar cap indicate
-that it alone could produce an 11-m deep global ocean if it was
-melted.
 
 ***Atmosphère***
 
