@@ -693,6 +693,8 @@ these would have frozen over by the mid-Amazonian epoch.
 - Le CO2 et la vapeur d'eau sont les seuls gaz à effet de serre présent sur Mars à l'heure actuelle dans des abondances suffisantes pour chauffer la planète de manière non négligeable.
 - Pour permettre à l'atmosphère de Mars d'atteindre une pression suffisante pour permettre à l'eau liquide d'exister (sans prendre en compte la température pour le moment), il faudrait idéalement passer des 6 millibar de CO2 à la surface actuellement (15 g CO2 cm–2) à 1 bar (2500 g CO2 cm–2).
 - Les observations radar récentes permettent d'estimer que les calottes polaires de Mars contiennent suffisamment de glace de CO2 pour augmenter la pression atmosphérique de 12 millibar tout au plus. Et si on fait l'hypothèse qu'il existe des clathrates de CO2 (des molécules de CO2 piégées dans des cages de molécules d' H2O) dans les régions polaires de Mars, on peut en théorie faire monter la pression atmosphérique à 150 millibar maximum.
+- Il y a aussi du CO2 (et de l'H2O) absorbé dans les grains de poussière du régolithe martien. Si l'intégralité du régolithe relachaît son CO2, cela fournirait environ 40 millibar de pression à l'atmosphère martienne.
+> Hypothèses : 0.01 g CO2 par gramme de régolithe, avec une profondeur moyenne de 100 m.
 
 We want to answer the question of whether it is possible to mobilize gases present on Mars today in nonatmospheric
 reservoirs by emplacing them into the atmosphere, and increase the pressure and temperature so that plants or
@@ -703,22 +705,6 @@ along with analyses of the abundance of carbon-bearing minerals and the occurren
 Reconnaissance Orbiter and the Mars Odyssey spacecraft. These results suggest that there is not enough CO2 remaining on
 Mars to provide significant greenhouse warming were the gas to be emplaced into the atmosphere; in addition, most of the CO2
 gas in these reservoirs is not accessible and thus cannot be readily mobilized
-
-Both CO2 and H2O can be adsorbed onto individual
-grains in the regolith and megaregolith16,17. This process involves a
-physical (as opposed to chemical) bonding at the level of the individual
-molecule. The amount of gas that can adsorb onto a grain
-depends on the specific surface area of the grain, which in turn
-depends on the composition and size/shape of the grain at the molecular
-level.
-
-If we take a high estimate of 0.01 g CO2 per gram of weathered
-regolith, and an estimated total regolith equivalent thickness of 100
-m, there could be as much as 100 g CO2 cm–2 adsorbed within the
-subsurface.
-
-If the full 100 g CO2 cm–2 could be emplaced into the atmosphere,
-it would provide the equivalent pressure of about 40 mbar.
 
 CO2 can be locked up in carbon-bearing
 minerals. Carbonate minerals were believed for a long time to be
