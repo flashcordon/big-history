@@ -707,6 +707,40 @@ these would have frozen over by the mid-Amazonian epoch.
 > * Le problème des CFC c'est qu'ils détruisent les molécules d'ozone sur Terre. Mais bon sur Mars il n'y a pas d'ozone à détruire. Mais à terme cela pourrait devenir problématique pour une installation humaine.
 - D'autres gaz à super-effet de serre ont aussi été envisagés, comme le C3F8 par exemple.
 
+***Modification de l'albédo***
+- Une autre méthode pour réchauffer Mars consiste à diminuer son albédo, c'est à dire la fraction de la lumière du Soleil que la planète renvoie dans l'espace.
+> Plus la planète est sombre, plus son albédo est petit. Une planète blanche a un albédo de 1,une palnète noire a un albédo de 0.
+- On peut augmenter la température de la planète de 98°C si on fait passer son albédo de 25% actuellement à 10%.
+- Pour cela, on peut assombrir les calottes polaires de Mars en y balançant des astéroides riches en carbone, ou en injectant de la poussière dans sa haute atmosphère.
+
+***Modification de l'insolation***
+- might also be realized through the development of
+suitably bioengineered dark-colored plants or algae
+- the insolation can be increased externally by the means of
+large space mirrors.
+- the beauty of solar sails
+(Figure 6.17) is that they can be placed in orbits that are controlled
+not only by the gravitational force of a specific planet but also the
+pressure force resulting from an interaction with the Sun’s radiation
+field. Aerospace engineer and science fiction writer Robert
+Forward realized in the late 1980 s that this combination of forces
+could be balanced one against the other and used to place a solar sail
+in a fixed position relative to the planet–Sun line. Moving beyond
+the equatorial geosynchronous location commonly used by Earthorbiting
+broadcast satellites today, solar sails can be made to occupy
+fixed sky positions at any inclination above or below the equatorial
+plane. Forward has introduced the term ‘‘statite’’ to describe a solar
+sail occupying a fixed sky position with respect to a planet
+- Robert Zubrin and Christopher McKay have argued (see Note 3)
+that the southern Martian polar cap might be heated by an additional
+58 through the use of a 250-km-diameter statite located
+214,000 km from the center of Mars in the anti-Sun direction.
+A 350-km- diameter statite would provide about 108 of additional
+polar heating.
+- Solar sails as large
+as a Mars-heating statite, however, will need to be constructed in a
+low-gravity environment
+
 We want to answer the question of whether it is possible to mobilize gases present on Mars today in nonatmospheric
 reservoirs by emplacing them into the atmosphere, and increase the pressure and temperature so that plants or
 humans could survive at the surface.
@@ -839,46 +873,7 @@ roofed, regions of early settlement.
 
 
 
-***Modification de l'albédo***
 
-- the smaller the albedo term, the greater the amount
-of solar heating that takes place.
-- a 10% increase in the insolation results
-in an additional 78 of heating, irrespective of the albedo, while
-halving the current atmospheric albedo to A = 0.1 results in a
-temperature increase of some 98.
-- Carl Sagan, for example, touted the idea of
-inducing a polar ice-cap albedo change by spreading a thin, dark
-layer upon the surface ice. This material could be supplied through
-controlled impacts of asteroids rich in carbonaceous material. The
-injection of small, dark, energy-absorbing particles into the upper
-Martian atmosphere might also be a means of reducing the albedo.
-- might also be realized through the development of
-suitably bioengineered dark-colored plants or algae
-- the insolation can be increased externally by the means of
-large space mirrors.
-- the beauty of solar sails
-(Figure 6.17) is that they can be placed in orbits that are controlled
-not only by the gravitational force of a specific planet but also the
-pressure force resulting from an interaction with the Sun’s radiation
-field. Aerospace engineer and science fiction writer Robert
-Forward realized in the late 1980 s that this combination of forces
-could be balanced one against the other and used to place a solar sail
-in a fixed position relative to the planet–Sun line. Moving beyond
-the equatorial geosynchronous location commonly used by Earthorbiting
-broadcast satellites today, solar sails can be made to occupy
-fixed sky positions at any inclination above or below the equatorial
-plane. Forward has introduced the term ‘‘statite’’ to describe a solar
-sail occupying a fixed sky position with respect to a planet
-- Robert Zubrin and Christopher McKay have argued (see Note 3)
-that the southern Martian polar cap might be heated by an additional
-58 through the use of a 250-km-diameter statite located
-214,000 km from the center of Mars in the anti-Sun direction.
-A 350-km- diameter statite would provide about 108 of additional
-polar heating.
-- Solar sails as large
-as a Mars-heating statite, however, will need to be constructed in a
-low-gravity environment
 
 - no one
 atmospheric heating and thickening process is capable of making
