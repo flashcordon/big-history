@@ -703,48 +703,9 @@ these would have frozen over by the mid-Amazonian epoch.
 - L'un de ces gaz à super-effet de serre est l'ammoniac (NH3), qui est présent dans certains noyaux de comètes (à raison de 1% de leur masse) et dans certains astéroides sous forme de glace.
 > Il faudrait importer de l'ordre de 1000 milliards de tonnes d'ammoniac pour assurer la stabilité des étendues d'eau liquide sur Mars.
 - Une autre suggestion, qui nous vient de James Lovelock et Michael Allaby, est l'apport de chlorofluorocarbures (CFC).
-> Il faudrait de l'ordre d'1 milliard de tonnes de CFC pour réchauffer suffisamment la planète. Lors du pic de production mondial de CFC, au milieu des années 90, l'Humanité produisait 1 million de tonnes de CFC par an.
-
-- Staggeringly large amounts of ammonia would need to be added
-to the Martian atmosphere in order to push its equatorial temperature
-above the freezing point of water. Indeed, a partial pressure of
-some 250 microbars (= 25 Pa) would be required (Figure 6.16),
-corresponding to an imported mass of some 1015 kg of ammonia
-(see Note 5). Rather than use gases such as ammonia, therefore,
-James Lovelock and Michael Allaby realized in the early 1980 s that
-it would make much more sense to utilize super-greenhouse gases
-such as the chlorofluorocarbons (CFCs) and perfluorocarbons
-(PFCs) to warm Mars. In the case of CFCs, a partial pressure of
-order 0.25 microbars, corresponding to an atmospheric mass of
-about 1012 kg, would produce an equatorial temperature above
-the freezing point of water.8 During the peak production time, in
-the mid-1980 s, worldwide production of CFCs amounted to some
-1 billion kilograms per year.
-- With a relatively modest increase in
-The Terraforming of Mars 153
-this production rate it would be possible, therefore, to substantially
-warm Mars via CFC greenhouse gases alone within a few hundred
-years.
-- there are several serious side
-effects associated with the introduction of large quantities of CFC
-gases into a planetary atmosphere. The most important issue (on
-the Earth currently) concerns ozone depletion through CFC chemistry.
-Although there is no ozone in the Martian atmosphere at the
-present time, it is certainly a gas that will warrant eventual accumulation.
-The key point about the Earth’s ozone layer (and eventually
-that surrounding the Martian surface) is that it is highly
-efficient at absorbing the potentially deadly solar UV radiation. In
-contrast to the CFCs, the various PFC gases do not destroy ozone,
-since they lack the chlorine (and bromine) that catalytically
-destroys the O3, and their atmospheric lifetime against destruction
-is much longer than those of the CFCs. The fluorine-based gas
-C3F8 is one atmospheric-heating agent that shows particular promise
-with respect to the warming of Mars, since it is a strong
-absorber over a large fraction of the infrared spectrum (see Figure
-B.1). A 1 microbar partial pressure of C3F8 alone will produce a 128
-temperature increase in the equatorial temperature on Mars, while
-a 10-microbar pressure would push the equatorial temperature to 68
-above the freezing point of water.
+> * Il faudrait de l'ordre d'1 milliard de tonnes de CFC pour réchauffer suffisamment la planète. Lors du pic de production mondial de CFC, au milieu des années 90, l'Humanité produisait 1 million de tonnes de CFC par an. On peut imaginer augmenter légèrement ce rythme de production, et réchauffer Mars en à peine quelques siècles.
+> * Le problème des CFC c'est qu'ils détruisent les molécules d'ozone sur Terre. Mais bon sur Mars il n'y a pas d'ozone à détruire. Mais à terme cela pourrait devenir problématique pour une installation humaine.
+- D'autres gaz à super-effet de serre ont aussi été envisagés, comme le C3F8 par exemple.
 
 We want to answer the question of whether it is possible to mobilize gases present on Mars today in nonatmospheric
 reservoirs by emplacing them into the atmosphere, and increase the pressure and temperature so that plants or
