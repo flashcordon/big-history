@@ -711,11 +711,10 @@ these would have frozen over by the mid-Amazonian epoch.
 - Une autre méthode pour réchauffer Mars consiste à diminuer son albédo, c'est à dire la fraction de la lumière du Soleil que la planète renvoie dans l'espace.
 > Plus la planète est sombre, plus son albédo est petit. Une planète blanche a un albédo de 1,une palnète noire a un albédo de 0.
 - On peut augmenter la température de la planète de 98°C si on fait passer son albédo de 25% actuellement à 10%.
-- Pour cela, on peut assombrir les calottes polaires de Mars en y balançant des astéroides riches en carbone, ou en injectant de la poussière dans sa haute atmosphère.
+- Pour cela, on peut assombrir les calottes polaires de Mars en y balançant des astéroides riches en carbone, ou en injectant de la poussière sur la glace ou dans sa haute atmosphère, ou bien en plantant des plantes ou des algues sombres à sa surface.
 
 ***Modification de l'insolation***
-- might also be realized through the development of
-suitably bioengineered dark-colored plants or algae
+- On peut aussi augmenter artificiellement l'insolation de Mars en placant de gigantesques miroirs spatiaux en orbite
 - the insolation can be increased externally by the means of
 large space mirrors.
 - the beauty of solar sails
