@@ -724,31 +724,9 @@ these would have frozen over by the mid-Amazonian epoch.
 - Pour cela, on peut assombrir les calottes polaires de Mars en y balançant des astéroides riches en carbone, ou en injectant de la poussière sur la glace ou dans sa haute atmosphère, ou bien en plantant des plantes ou des algues sombres à sa surface.
 
 ***Modification de l'insolation***
-- On peut aussi augmenter artificiellement l'insolation de Mars en placant de gigantesques miroirs spatiaux en orbite
-- the insolation can be increased externally by the means of
-large space mirrors.
-- the beauty of solar sails
-(Figure 6.17) is that they can be placed in orbits that are controlled
-not only by the gravitational force of a specific planet but also the
-pressure force resulting from an interaction with the Sun’s radiation
-field. Aerospace engineer and science fiction writer Robert
-Forward realized in the late 1980 s that this combination of forces
-could be balanced one against the other and used to place a solar sail
-in a fixed position relative to the planet–Sun line. Moving beyond
-the equatorial geosynchronous location commonly used by Earthorbiting
-broadcast satellites today, solar sails can be made to occupy
-fixed sky positions at any inclination above or below the equatorial
-plane. Forward has introduced the term ‘‘statite’’ to describe a solar
-sail occupying a fixed sky position with respect to a planet
-- Robert Zubrin and Christopher McKay have argued (see Note 3)
-that the southern Martian polar cap might be heated by an additional
-58 through the use of a 250-km-diameter statite located
-214,000 km from the center of Mars in the anti-Sun direction.
-A 350-km- diameter statite would provide about 108 of additional
-polar heating.
-- Solar sails as large
-as a Mars-heating statite, however, will need to be constructed in a
-low-gravity environment
+- On peut aussi augmenter artificiellement l'insolation de Mars en placant de gigantesques miroirs spatiaux en orbite. Ces miroirs satiaux peuvent être des voiles solaires.
+- Dans les années 80, l'ingénieur Robert Forward a montré qu'il était possible de placer une voile solaire dans une position fixe entre Mars et le Soleil, grâce à la pression de radiation du Soleil. C'est ce qu'il appelle un *statite*.
+- Robert Zubrin et Chris McKay ont montré qu'on pouvait réchauffer la calotte polaire sud de Mars de 58 degrés avec un statite de 250 km de diamètre à près de 200 000 km du centre ed Mars. Il faudrait construire cette dernière dans l'espace, ou dans un environnement à faible gravité comme la Lune.
 
 We want to answer the question of whether it is possible to mobilize gases present on Mars today in nonatmospheric
 reservoirs by emplacing them into the atmosphere, and increase the pressure and temperature so that plants or
