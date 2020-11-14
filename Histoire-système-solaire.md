@@ -826,10 +826,8 @@ additional terraforming agents will need to be employed.
 
 - Martyn Fogg a suggéré que la terraformation de Mars pourrait se dérouler en 3 phases :
 > * Une phase de réchauffement de la planète et d'écopoièse (introduction d'un écosystème microbien) : réchauffement des pôles, production de gaz à super-effet de serre, modification de l'albédo, bombardement de comètes et d'astéroides... Le but est de permettre à un océan stable d'exister sur Mars, pour y introduire de la vie microbienne photosynthétique.
-> * Une phase de transformation de la planète pour la rendre habitable pour des humains : introduction d'azote et d'oxygène dans l'atmophère pour la rendre respirable, introduction d'écosystèmes complexes (forêts, prairies...), production d'une couche d'ozone pour protéger les créatures vivantes des rayons UV.
-> * Une phase de gestion planétaire pour maintenir Mars habitable
-
-
+> * Une phase de transformation de la planète pour la rendre habitable pour des humains : réduction du CO2 atmosphérique par des organismes comme des mousses ou des arbres, introduction d'azote et d'oxygène dans l'atmophère pour la rendre respirable, introduction d'écosystèmes complexes (forêts, prairies...), production d'une couche d'ozone pour protéger les créatures vivantes des rayons UV.
+> * Une phase de gestion planétaire pour maintenir la planète nouvellement terraformée habitable
 
 - It seems highly likely that Mars’
 initial inventory of atmospheric nitrogen was much higher than it
@@ -845,17 +843,6 @@ nitrate in the regolith can be reduced and the partial pressure of
 nitrogen increased. Importantly, once the partial pressure of nitrogen
 exceeds 5 microbars, then nitrogen fixation can begin, and a
 closed biochemical nitrogen cycle will become established.
-- The
-reduction in atmospheric CO2, a vital part of the Phase 2 stage,
-might also proceed biologically through the growth of bryophytes,
-such as mosses. Indeed, their role will be to sequester carbon dioxide
-in decay-resistant organic compounds in Martian peat lands.
-Conditions compatible with the eventual appearance of trees will
-further enhance the biological reduction of atmospheric CO2.
-- The onset of the stewardship, Phase 3, stage of Martian terraforming
-will in some sense mark the end of the terraforming process.
-Once this stage begins, Mars will be fully, or at least mostly,
-habitable
 
 - the initial
 terraforming phase of Mars will be amultigenerational project. Estimates
