@@ -606,6 +606,7 @@ conditions.
 - Lost Mars: Stories from the Golden Age of the Red Planet, edited by Mike Ashley (2018)
 - [Planetary engineering on Mars](https://doi.org/10.1016/0019-1035(73)90026-2) - Sagan (1973)
 - Red Planet: Scientific and Cultural Encounters with Mars (2001), a DVD package assembled by Robert Markley 
+- [Why an intrinsic magnetic field does not protect a planet against atmospheric escape](https://www.aanda.org/articles/aa/full_html/2018/06/aa32934-18/aa32934-18.html#R4) - Gunell et al (2018)
 
 ---
 
@@ -741,6 +742,12 @@ analogs of Martian regolith, but so, too, can micro-bacteria
 will, with little doubt, play an important role in the
 Phase 1 (and after) alteration of Mars
 
+***Echappement atmosphérique***
+- Un problème auquel toute tentative de terraformation de Mars devra faire face, c'est l'échappement atmosphérique de la planète.
+- Regarding loss to space, once gas is lost it will very quickly
+become ionized and carried away by the solar wind. Once lost, it is
+gone and unable to come back
+
 Recent observations have been made of the loss
 of Mars’s atmosphere to space by the Mars Atmosphere and Volatile Evolution Mission probe and the Mars Express spacecraft,
 along with analyses of the abundance of carbon-bearing minerals and the occurrence of CO2 in polar ice from the Mars
@@ -749,9 +756,7 @@ Mars to provide significant greenhouse warming were the gas to be emplaced into 
 gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 
-Regarding loss to space, once gas is lost it will very quickly
-become ionized and carried away by the solar wind. Once lost, it is
-gone and unable to come back
+
 
 options:
 1. Change the orbital eccentricity of Mars’s orbit about the Sun.
@@ -825,35 +830,9 @@ additional terraforming agents will need to be employed.
 
 
 - Martyn Fogg a suggéré que la terraformation de Mars pourrait se dérouler en 3 phases :
-> * Une phase de réchauffement de la planète et d'écopoièse (introduction d'un écosystème microbien) : réchauffement des pôles, production de gaz à super-effet de serre, modification de l'albédo, bombardement de comètes et d'astéroides... Le but est de permettre à un océan stable d'exister sur Mars, pour y introduire de la vie microbienne photosynthétique.
-> * Une phase de transformation de la planète pour la rendre habitable pour des humains : réduction du CO2 atmosphérique par des organismes comme des mousses ou des arbres, introduction d'azote et d'oxygène dans l'atmophère pour la rendre respirable, introduction d'écosystèmes complexes (forêts, prairies...), production d'une couche d'ozone pour protéger les créatures vivantes des rayons UV.
+> * Une phase de réchauffement de la planète et d'écopoièse (introduction d'un écosystème microbien) : réchauffement des pôles, production de gaz à super-effet de serre, modification de l'albédo, bombardement de comètes et d'astéroides... Le but est de permettre à un océan stable d'exister sur Mars, pour y introduire de la vie microbienne photosynthétique. Durée estimée : quelques siècles.
+> * Une phase de transformation de la planète pour la rendre habitable pour des humains : réduction du CO2 atmosphérique par des organismes comme des mousses ou des arbres, introduction d'azote et d'oxygène dans l'atmophère pour la rendre respirable (par de l'activité bactérienne), introduction d'écosystèmes complexes (forêts, prairies...), production d'une couche d'ozone pour protéger les créatures vivantes des rayons UV. Durée estimée : 1000-2000 ans.
 > * Une phase de gestion planétaire pour maintenir la planète nouvellement terraformée habitable
-
-- It seems highly likely that Mars’
-initial inventory of atmospheric nitrogen was much higher than it
-is today, its loss being precipitated through oxidation to produce
-nitrate (NO3), which currently resides in the regolith. The denitrification
-of the regolith can be brought about through bacterial
-action in an aqueous environment, whereby the nitrate is initially
-converted into nitrite (NO2). Other bacteria then reduce the nitrite
-to nitric oxide (NO) and nitrous oxide (N2O), with the eventual
-release of nitrogen gas (N2). Furthermore, other microorganisms
-can assimilate nitrate to produce ammonia (NH3), and then the
-nitrate in the regolith can be reduced and the partial pressure of
-nitrogen increased. Importantly, once the partial pressure of nitrogen
-exceeds 5 microbars, then nitrogen fixation can begin, and a
-closed biochemical nitrogen cycle will become established.
-
-- the initial
-terraforming phase of Mars will be amultigenerational project. Estimates
-vary, but most researchers suggest that the Phase 1 stage of
-ecopoiesis might take several centuries to complete, which corresponds
-to a minimum of some six to seven human generations. The
-completion of Phase 2will take at least an order ofmagnitude longer
-than Phase 1, requiring perhaps 1,000–2,000 years before the beginning
-of Phase 3, the stewardship stage, is realized.
-Weare now considering an interval of time that embraces some
-60–70 human generations
 
 - ancient archaeological history provides us with a number of examples
 of dedicated, multigenerational, large-scale building projects.
