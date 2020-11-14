@@ -422,6 +422,15 @@ conditions.
 
 - Les apologistes de la terraformation invoquent souvent le besoin pour la vie de s'étendre à de nouveaux territoires, ainsi que l'espoir d'une planète B pour l'Humanité en cas de catastrophe globale sur Terre. Il s'agirait aussi d'un projet fédérateur sur le long terme pour l'Humanité, un "équivalent moral à la guerre".
 - Au delà de sa faisabilité réelle, il s'agit aussi d'un exercice de pensée intéressant en soi, car il nous permet de nous interroger sur les facteurs qui rendent une planète accueuillante pour la vie telle qu'on la connaît, et elle nous permet de mieux comprendre comment fonctionnent les planètes.
+- ancient archaeological history provides us with a number of examples
+of dedicated, multigenerational, large-scale building projects.
+The great megalithic encampment of Stonehenge (see Figure 6.19)
+in Britain, for example, is a structure that was adapted and maintained
+over a time span of at least a thousand years starting from
+circa 3,000 B.C. Its true purpose is not readily known to us today,
+but it was clearly an extremely important object to our distant
+ancestors, who invested a tremendous amount of time, energy,
+and no doubt lives into its development
 
 ## Missions vers Vénus
 
@@ -688,6 +697,10 @@ these would have frozen over by the mid-Amazonian epoch.
 - En 1973, dans un article intitulé *Planetary engineering on Mars*, il énonce 3 scénarios possibles de terraformation de Mars.
 > Lesquels ?
 
+1. Change the orbital eccentricity of Mars’s orbit about the Sun.
+2. Change the obliquity of Mars’s spin axis.
+3. Change the Martian precession cycle.
+
 ***Actions requises pour terraformer Mars***
 - La pression atmosphérique doit être multipliée par 100
 - La température moyenne de surface de la planète doit être augmentée d'au moins 60°C
@@ -755,94 +768,11 @@ Reconnaissance Orbiter and the Mars Odyssey spacecraft. These results suggest th
 Mars to provide significant greenhouse warming were the gas to be emplaced into the atmosphere; in addition, most of the CO2
 gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
-
-
-
-options:
-1. Change the orbital eccentricity of Mars’s orbit about the Sun.
-2. Change the obliquity of Mars’s spin axis.
-3. Change the Martian precession cycle.
-4. Spread dark, heat-absorbing dust grains over the polar ice caps.
-5. Degas the carbon dioxide within the Martian regolith.
-6. Add super-greenhouse gases to the Martian atmosphere.
-7. Seed the Martian atmosphere with heat-absorbing, cloudforming
-particles.
-8. Devolatize carbonates within the Martian crust.
-9. Heat the polar ice caps by large statite (solar sail) mirrors.
-10. Channel volatile-rich cometary nuclei into the Martian
-atmosphere.
-11. Induce large-scale drainage of Martian aquifers.
-12. Introduce bioengineered microbes to alter the atmospheric
-composition.
-13. Introduce bioengineered plants to change the planet’s surface
-albedo
-
-- With respect to
-releasing all, or as much as possible, of its CO2 reserve into the
-Martian atmosphere a lever that produces an additional 58 increase
-in the polar temperature is all that is required for terraforming to
-begin. Here the trick is to establish a positive feedback mechanism
-(recall the discussion in Chapter 5 and see Figure 6.14) such that
-Mars essentiallywarms itself, each increment of heating resulting in
-more CO2 being placed in the atmosphere, which then results in
-more heating, and so on. This recipe cooks itself. Under this philosophy,
-the hardest part of the terraforming process will be to get the
-runaway process started.Once going, however, the process could run
-automatically, and the role of the engineer is accordinglyminimized.
-- Mars is currently in a
-stable state, in that moderate changes in surface temperature or
-atmospheric pressure are self-correcting. In other words, there is a
-negative feedback mechanism at play, which keeps the polar temperature
-at about 147 K and the CO2 surface pressure at about 6
-microbars.
-- the problem with attempting to terraform Mars by simply
-adding additional CO2 to its atmosphere is that it will redistribute
-the CO2 as polar ice and thereby maintain its current equilibrium
-state
-- McKay and co-workers realized,
-however, that if some additional polar heating, not directly dependent
-upon an increase in atmospheric CO2, could be found,, then a runaway effect would be produced
-- how much of an additional heating
-effect is required to achieve the runaway state? Well, not much is
-the short answer. Indeed, just an additional 58 will suffice to trigger
-the desired effect. This relatively modest additional heating effect
-might be achieved in a number of ways, such as reducing the polar
-cap albedo (option 4 listed above), by adding super-greenhouse gases
-to the Martian atmosphere (option 5), or by heating the polar caps
-with a large, reflecting, space mirror (option 9; see below). Since the
-southern polar cap has a much greater reserve of CO2 ice than the
-northern cap, the additional heating effect need only be applied to
-the southern hemisphere.
-- Robert Zubrin and Chris McKay have investigated several
-models for regolith devolatization and find that perhaps of order
-half of the regolith CO2 reservoir might be released as a consequence
-of inducing the polar cap runaway process. This suggests,
-therefore, that a Martian CO2 atmosphere providing somewhere
-between 300 and 600 millibars of surface pressure might be realized
-as a result of engineering a 58 temperature rise in the polar cap
-temperature. With this amount of CO2 in the atmosphere, the
-resultant equatorial temperature on Mars would fall somewhere
-between 262 K and 271 K. Although this is an impressive amount
-of warming, it is still not enough to allow liquid water to exist on
-the surface of Mars. In order to push the temperatures higher,
-additional terraforming agents will need to be employed.
-
-
-
+***Etapes de la terraformation***
 - Martyn Fogg a suggéré que la terraformation de Mars pourrait se dérouler en 3 phases :
-> * Une phase de réchauffement de la planète et d'écopoièse (introduction d'un écosystème microbien) : réchauffement des pôles, production de gaz à super-effet de serre, modification de l'albédo, bombardement de comètes et d'astéroides... Le but est de permettre à un océan stable d'exister sur Mars, pour y introduire de la vie microbienne photosynthétique. Durée estimée : quelques siècles.
+> * Une phase de réchauffement de la planète et d'écopoièse (introduction d'un écosystème microbien stable sur une planète sans vie) : réchauffement des pôles, production de gaz à super-effet de serre, modification de l'albédo, bombardement de comètes et d'astéroides... Le but est de permettre à un océan stable d'exister sur Mars, pour y introduire de la vie microbienne photosynthétique. Pour débuter le processus de terraformation, il faudra trouver un moyen de sortir la planète de son état d'équilibre actuel (qui maintient la température des calottes polaires à -126°C) et de démarrer une boucle de rétroaction positive de réchauffement, afin que la planète se mette à se réchauffer d'elle-même (exemple : plus on libère du CO2 dans l'atmosphère, plus la planète se réchauffe, plus les glaces fondent, plus elles balancent du CO2 dans l'atmosphère etc...). Durée estimée : quelques siècles.
 > * Une phase de transformation de la planète pour la rendre habitable pour des humains : réduction du CO2 atmosphérique par des organismes comme des mousses ou des arbres, introduction d'azote et d'oxygène dans l'atmophère pour la rendre respirable (par de l'activité bactérienne), introduction d'écosystèmes complexes (forêts, prairies...), production d'une couche d'ozone pour protéger les créatures vivantes des rayons UV. Durée estimée : 1000-2000 ans.
 > * Une phase de gestion planétaire pour maintenir la planète nouvellement terraformée habitable
-
-- ancient archaeological history provides us with a number of examples
-of dedicated, multigenerational, large-scale building projects.
-The great megalithic encampment of Stonehenge (see Figure 6.19)
-in Britain, for example, is a structure that was adapted and maintained
-over a time span of at least a thousand years starting from
-circa 3,000 B.C. Its true purpose is not readily known to us today,
-but it was clearly an extremely important object to our distant
-ancestors, who invested a tremendous amount of time, energy,
-and no doubt lives into its development
 
 ### L'éthique environnementale, sur Terre et ailleurs
 
