@@ -706,6 +706,7 @@ these would have frozen over by the mid-Amazonian epoch.
 - Il y a aussi du CO2 (et de l'H2O) absorbé dans les grains de poussière du régolithe martien. Si l'intégralité du régolithe relachaît son CO2, cela fournirait environ 40 millibar de pression à l'atmosphère martienne.
 > Hypothèses : 0.01 g CO2 par gramme de régolithe, avec une profondeur moyenne de 100 m.
 - Enfin, il y a du CO2 dans les roches carbonatées de Mars, qui pourraient être libéré en chauffant les roches à 300°C. Mais il n'y a pas de gisements à grande échelle de telles roches sur Mars. Il y a probablement des gisements cachés sous la surface, mais il est impossible d'estimer à quel point ces gisements sont importants à l'heure actuelle. Jakosky et Edwards (2018) estiment que la pression atmosphérique maximum pouvant être atteinte de manière réaliste en chauffant les carbonates est de 12 millibar.
+> Pur chauffer le régolithe martien, Paul Birch a suggéré utiliser un système de miroirs spatiaux agissant comme une grosse lentille concave, qui concentrerait les rayons du Soleil. Ce qui créerait d'immenses canaux de verre à la surface de la planète, qui rappelleraient les canaux de Lowell et pourraient être utilisés pour de l'irrigation.
 - Si tous les réservoirs de CO2 de Mars sont convertis en gaz, l'ensemble pourrait tout au plus contribuer à la pression atmosphérique à la hauteur de quelques centaines de millibar tout au plus. Ce qui est toujours insuffisant pour permettre à l'eau liquide de perdurer.
 
 ***Gaz à super-effet de serre***
@@ -728,9 +729,6 @@ these would have frozen over by the mid-Amazonian epoch.
 - Dans les années 80, l'ingénieur Robert Forward a montré qu'il était possible de placer une voile solaire dans une position fixe entre Mars et le Soleil, grâce à la pression de radiation du Soleil. C'est ce qu'il appelle un *statite*.
 - Robert Zubrin et Chris McKay ont montré qu'on pouvait réchauffer la calotte polaire sud de Mars de 58 degrés avec un statite de 250 km de diamètre à près de 200 000 km du centre ed Mars. Il faudrait construire cette dernière dans l'espace, ou dans un environnement à faible gravité comme la Lune.
 
-We want to answer the question of whether it is possible to mobilize gases present on Mars today in nonatmospheric
-reservoirs by emplacing them into the atmosphere, and increase the pressure and temperature so that plants or
-humans could survive at the surface.
 Recent observations have been made of the loss
 of Mars’s atmosphere to space by the Mars Atmosphere and Volatile Evolution Mission probe and the Mars Express spacecraft,
 along with analyses of the abundance of carbon-bearing minerals and the occurrence of CO2 in polar ice from the Mars
@@ -738,10 +736,7 @@ Reconnaissance Orbiter and the Mars Odyssey spacecraft. These results suggest th
 Mars to provide significant greenhouse warming were the gas to be emplaced into the atmosphere; in addition, most of the CO2
 gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
-Terraforming Mars would require mobilizing the CO2 remaining on
-the planet and present in non-atmospheric reservoirs today, moving
-it from its current location back into the atmosphere.
-The most accessible CO2 reservoir is in the polar caps. The
+The
 CO2 ice there could be readily mobilized by heating of the deposits.
 This could be done by, for example, using explosives to raise
 dust into the atmosphere so that it would deposit on the polar
@@ -843,20 +838,6 @@ of warming, it is still not enough to allow liquid water to exist on
 the surface of Mars. In order to push the temperatures higher,
 additional terraforming agents will need to be employed.
 
-- A more direct but perhaps rather extreme process of regolith
-devolatization has been proposed by British physicist Paul Birch.
-His suggestion is to build a mirror system in orbit around Mars that 
-will act as a giant lens. This aerial lens will then be used to direct a
-narrow beam of intense solar radiation onto a small region of the
-Martian surface, thereby raising the temperature to several thousand
-degrees. At such temperatures, the surface rock will undergo
-thermal decomposition, and carbonate rocks in particular will
-evolve CO2 and H2O, both gases of which will act to warm the
-atmosphere.
-Birch notes that the deep, glass-lined scars gouged-out by the
-devolatization beam could act as liquid-water-bearing canals (an
-idea that Percival Lowell would presumably like4) and, if appropriately
-roofed, regions of early settlement.
 
 
 
