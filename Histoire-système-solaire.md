@@ -616,6 +616,8 @@ and no doubt lives into its development
 - [Planetary engineering on Mars](https://doi.org/10.1016/0019-1035(73)90026-2) - Sagan (1973)
 - Red Planet: Scientific and Cultural Encounters with Mars (2001), a DVD package assembled by Robert Markley 
 - [Why an intrinsic magnetic field does not protect a planet against atmospheric escape](https://www.aanda.org/articles/aa/full_html/2018/06/aa32934-18/aa32934-18.html#R4) - Gunell et al (2018)
+- [Terraforming de Mars](http://www.astrosurf.com/luxorion/mars-terraforming.htm) - Astrosurf
+- [De la planète rouge à l'origine de la vie](https://www.nirgal.net/main.html) - Nirgal
 
 ---
 
