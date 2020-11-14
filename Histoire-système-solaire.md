@@ -729,6 +729,18 @@ these would have frozen over by the mid-Amazonian epoch.
 - Dans les années 80, l'ingénieur Robert Forward a montré qu'il était possible de placer une voile solaire dans une position fixe entre Mars et le Soleil, grâce à la pression de radiation du Soleil. C'est ce qu'il appelle un *statite*.
 - Robert Zubrin et Chris McKay ont montré qu'on pouvait réchauffer la calotte polaire sud de Mars de 58 degrés avec un statite de 250 km de diamètre à près de 200 000 km du centre ed Mars. Il faudrait construire cette dernière dans l'espace, ou dans un environnement à faible gravité comme la Lune.
 
+***Fertilité du sol martien***
+- - The biological fertility of Martian soil has also been studied, by
+Michael Mautner (Lincoln University, New Zealand). Mautner
+finds, in fact, that asparagus and potato tissue cultures can be
+successfully grown in pulverized Martian meteorite soil. He also
+finds that the biological fertility of Martian basalts is greater than
+that of terrestrial basalts. Not only can plants thrive in laboratory
+analogs of Martian regolith, but so, too, can micro-bacteria
+- The propagation of plant species and the introduction of microorganisms
+will, with little doubt, play an important role in the
+Phase 1 (and after) alteration of Mars
+
 Recent observations have been made of the loss
 of Mars’s atmosphere to space by the Mars Atmosphere and Volatile Evolution Mission probe and the Mars Express spacecraft,
 along with analyses of the abundance of carbon-bearing minerals and the occurrence of CO2 in polar ice from the Mars
@@ -812,69 +824,13 @@ additional terraforming agents will need to be employed.
 
 
 
-- Martyn Fogg a suggéré que la terraformation de Mars pourrait se passer en 3 phases :
-> * 
+- Martyn Fogg a suggéré que la terraformation de Mars pourrait se dérouler en 3 phases :
+> * Une phase de réchauffement de la planète et d'écopoièse (introduction d'un écosystème microbien) : réchauffement des pôles, production de gaz à super-effet de serre, modification de l'albédo, bombardement de comètes et d'astéroides... Le but est de permettre à un océan stable d'exister sur Mars, pour y introduire de la vie microbienne photosynthétique.
+> * Une phase de transformation de la planète pour la rendre habitable pour des humains : introduction d'azote et d'oxygène dans l'atmophère pour la rendre respirable, introduction d'écosystèmes complexes (forêts, prairies...), production d'une couche d'ozone pour protéger les créatures vivantes des rayons UV.
+> * Une phase de gestion planétaire pour maintenir Mars habitable
 
 
-- no one
-atmospheric heating and thickening process is capable of making
-Mars fully habitable for free-walking humans, and that multiple
-processes will have to be run either in parallel or in appropriate
-order. To date, no detailed synergistic program has been developed
-for Mars, but Fogg, for example, suggests that a three-phase
-approach might be followed, with each phase having its own distinct
-set of goals, the completion of which could be achieved on
-various long and short timescales. The three main phases for making
-Mars habitable are:
-1. a nonbiological (anaerobic) warming phase
-2. a habitability-making phase
-3. a stewardship phase.
 
-- Phase 1 will see the initiation of all, or a selection of, the
-processes already described in this chapter: polar heating with a
-statite, in situ production of super-greenhouse gases, comet/asteroid
-impact delivery of greenhouse gas, albedo reduction, and so on
-The expression ecopoiesis, meaning the generation of an open,
-anaerobic biosphere, is often used to describe these first steps of
-The Terraforming of Mars 157
-terraforming. The aim of this ecopoiesis phase is to create the
-atmospheric conditions that provide a surface temperature greater
-than 273 K over a sizable fraction of the Martian surface, and a
-surface pressure that will allow liquid water to be stable and,
-indeed, will foster the growth of a northern hemisphere ocean.
-
-- The biological fertility of Martian soil has also been studied, by
-Michael Mautner (Lincoln University, New Zealand). Mautner
-finds, in fact, that asparagus and potato tissue cultures can be
-successfully grown in pulverized Martian meteorite soil. He also
-finds that the biological fertility of Martian basalts is greater than
-that of terrestrial basalts. Not only can plants thrive in laboratory
-analogs of Martian regolith, but so, too, can micro-bacteria
-- The propagation of plant species and the introduction of microorganisms
-will, with little doubt, play an important role in the
-Phase 1 (and after) alteration of Mars
-
-- Phase 2 is concerned with the process of making Mars habitable
-for a wide range of biota and free-moving human beings over
-larger and larger regions of the planet’s surface. This will primarily
-require the production of an atmosphere rich in nitrogen and oxygen.
-- To make the Phase 2 atmosphere of Mars breathable for
-humans, the Phase 1 abundances will require considerable alteration.
-The partial pressure of oxygen will need to be increased by a
-factor of about 5, while those of nitrogen and carbon dioxide will
-need to be increased and reduced, respectively, by a factor of about
-30. The increased oxygen and nitrogen abundances are required for
-human respiration as well as allowing for the growth of a temperate
-ecosystem containing flowering plants, grassland regions, forests,
-multiple microorganisms, and diverse animal life forms. The oxygen
-increase will be driven by microbial activity, such as that due to
-cyanobacteria, and through planet photosynthesis.
-- The generation of oxygen will not only be important
-for making the atmosphere of Mars breathable, it will also produce
-an ozone layer that will act to reduce the surface UV flux
-- Mars currently supports a nitrogen partial pressure of 0.15
-microbars, and this will have to be significantly increased during
-the Phase 2 stage of terraforming
 - It seems highly likely that Mars’
 initial inventory of atmospheric nitrogen was much higher than it
 is today, its loss being precipitated through oxidation to produce
@@ -900,10 +856,6 @@ further enhance the biological reduction of atmospheric CO2.
 will in some sense mark the end of the terraforming process.
 Once this stage begins, Mars will be fully, or at least mostly,
 habitable
-- A long-lived,
-zero-maintenance, life-supporting atmosphere on Mars, however,
-will never be fully realized, and a terraformed Mars will require
-continuous monitoring and stewardship.
 
 - the initial
 terraforming phase of Mars will be amultigenerational project. Estimates
