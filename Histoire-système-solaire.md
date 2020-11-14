@@ -736,18 +736,6 @@ Reconnaissance Orbiter and the Mars Odyssey spacecraft. These results suggest th
 Mars to provide significant greenhouse warming were the gas to be emplaced into the atmosphere; in addition, most of the CO2
 gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
-The
-CO2 ice there could be readily mobilized by heating of the deposits.
-This could be done by, for example, using explosives to raise
-dust into the atmosphere so that it would deposit on the polar
-caps, effectively decreasing their surface albedo and increasing
-the amount of absorbed solar energy36. This could also be done by
-utilizing explosives to heat the polar ice directly, thus triggering
-sublimation (as suggested by Elon Musk37). However, if the whole
-volume of polar-cap CO2 were emplaced into the atmosphere, it
-would increase the pressure to less than 15 mbar total and, while
-about twice the current Martian atmospheric pressure, this is well
-below the needed ~1 bar
 
 Regarding loss to space, once gas is lost it will very quickly
 become ionized and carried away by the solar wind. Once lost, it is
@@ -772,22 +760,6 @@ composition.
 13. Introduce bioengineered plants to change the planet’s surface
 albedo
 
-
-
-***Atmosphère***
-
-- There are basically two CO2 reservoirs on Mars that the terraforming
-engineer can attempt to access. The main reserve of CO2 is that
-trapped within the surface regolith, with smaller reserves being
-contained within the polar caps. In terms of surface pressure
-increase, if all of the CO2 in the Martian regolith were released
-- into the atmosphere, it would contribute an additional 400 millibars.
-If all the CO2 in the polar caps were to be released into the
-Martian atmosphere, some 100 millibars of additional surface pressure
-would be realized. Figure 6.14 indicates that a 500-millibar
-increase in the CO2 surface pressure will produce a maximum
-equatorial heating of about 268 K—a temperature still 58 below
-the freezing point of water.
 - With respect to
 releasing all, or as much as possible, of its CO2 reserve into the
 Martian atmosphere a lever that produces an additional 58 increase
@@ -840,7 +812,8 @@ additional terraforming agents will need to be employed.
 
 
 
-
+- Martyn Fogg a suggéré que la terraformation de Mars pourrait se passer en 3 phases :
+> * 
 
 
 - no one
