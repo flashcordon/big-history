@@ -649,16 +649,7 @@ the Martian surface in about 100 million years
 
 ## La vie sur Mars
 
-- Karl Friedrich Gauss, suggested that a signal of
-humanity’s intelligence might be sent to Mars by cutting a massive
-Pythagorean triangle into the forests of Siberia.
-- He also reasoned
-that by growing giant square-shaped fields of wheat along each side
-of the triangle for contrast, the message would be easily visible to
-alien telescopes. Any observant Martian would then know, albeit
-several thousand years after the fact, that humanity had at least
-discovered the rule that the square of the hypotenuse is equal to the
-sum of the squares of the other two sides of a right-angles triangle.
+- Afin de contacter des martiens, le mathématicien Karl Friedrich Gauss avait dessiné un immense triangle dans les forêts de Sibérie. Si les martiens étaient intelligents, ils devraient se rendre compte que le triangle respecte e théorème de Pythagore.
 - Mars avait potentiellement un océan d'eau liquide à sa surface dans son passé
 > The evidence for this is literally everywhere to be seen. Orbital
 spacecraft images reveal long, sinuous, flowing channels; waterscoured
