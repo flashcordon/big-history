@@ -797,6 +797,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 > Ses récits mettent en scène le capitaine John Carter, un vétéran de la guerre civile américaine magiquement transporté sur Mars alors qu'il tente de fuir des amérindiens. Mars y est dépeinte comme un désert parcouru de canaux d'irrigations chers à Lowell, où résident 2 types de martiens : une race de guerriers verts à 4 bras, et une race de scientifiques télépathes à la peau rouge.
 - Les visions de la surface de Mars rapportées par les sondes Mariner et Viking dans les années 60 et 70 ont brisé les rêves romantiques d'une planète rouge habitée. 
 - Dès lors, pour la SF, Mars devient un lieu hostile où l'on tente de survivre plutôt que d'y vivre. C'est l'explosion des Robinsonnades, dont les films *Robinson Crusoe on Mars* (Byron Haskin, 1964) ou encore *Seul sur Mars* (livre d'Andy Weir, 2009, film de Ridley Scott, 2015) sont de bons représentants.
+> Autres exemples filmiques :  Mission Mars (1968), The Astronaut (1972), Alternative 3 (1977), Red Planet (2000), Mission to Mars (2000)
 - Si ce n'est pas les humains qui s'adaptent à la planète Mars, c'est la planète Mars qui doit s'adapter à nous. Dans les années 90, c'est le thème de la terraformation de Mars qui devient populaire, culminant à travers le succès de la trilogie martiene de Kim Stanley Robinson (Mars la Rouge (1992), Mars la Verte (1993), Mars la Bleue (1996)), chef d'oeuvre de la hard science fiction.
 > On peut aussi citer Genesis (1988), un poème épique de 10 000 vers contant la transformation de Mars et les embrouilles entre les partisans de la terraformation et les écothéistes, ou encore Spin de Robert Charles Wilson (2005), où Mars est terraformée en quelques jours via une bulle de distorsion temporelle dans laquelle la Terre est enfermée.
 
@@ -836,12 +837,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 - In the mid-1980s, however, interest in Mars expeditions and Colonization began a surprising revival. A group of scientists and aerospace engineers calling themselves the "Mars Underground" formed to reexamine the challenges of the project, NASA held a conference on Mars in 1986 (the first such since Viking), and some writers began to see near-future Colonization as a viable subject again, as in Lewis Shiner's grittily realistic Frontera (1984), though his Mars colony is a slummy place without much hope or vigour. Frontier Mars is featured also in Sterling Lanier's Menace under Marswood (1983) and in Jack Butler's Nightshade (1989). 
 
-
-
 - Gregory Benford's The Martian Race (1999) borrows openly from the "Mars Direct" plan proposed by aerospace engineer Robert Zubrin (1952-    ) in a tale of privately-funded missions competing for a $10 billion reward. Zubrin had emerged as the most outspoken member of the Mars Underground; his The Case for Mars: The Plan to Settle the Red Planet and Why We Must (1996) argues for the moral necessity of Martian exploration as well as a cheaper, non-governmental mission model; his novel, First Landing (2002) is little more than a fictionalized version of his views. Zubrin founded the Mars Society in 1998 and has continued as its president to the present.
-- Andy Weir's somewhat retro The Martian (2014) revisits the lone-stranded-astronaut territory of Rex Gordon's already-cited Rex Gordon's No Man Friday.
-
-- Travel to Mars, in one form or another, is depicted in Aelita (1924), Rocketship X-M (1950; vt Expedition Moon), Flight to Mars (1951), Conquest of Space (1955), World Without End (1956), It! the Terror from beyond Space (1958), The Angry Red Planet (1959; vt Invasion of Mars), Robinson Crusoe on Mars (1964) – for much of its length a filmic Robinsonade – the Oz spoof The Wizard of Mars (1965), Mission Mars (1968), The Astronaut (1972), Alternative 3 (1977), Red Planet (2000), Mission to Mars (2000), Ghosts of Mars (2001)
 
 ## Illustrations de Mars
 
