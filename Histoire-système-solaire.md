@@ -262,6 +262,7 @@
 - [Settling and Terraforming Venus: A Synthesis of Modern Approaches](https://d1wqtxts1xzle7.cloudfront.net/32702109/terraforming_venus.pdf?1389129817=&response-content-disposition=inline%3B+filename%3DTerraforming_Venus_A_Synthesis_of_Modern.pdf&Expires=1604510775&Signature=KBP2P74u-pKsLq4riIHpwmeGR6Zvt0gg1AeciCLI96hv4go9hBAgwBVYk6s7m5z68q0j8b9olWgq3I7GCY0X8L2Y~C~u3gmn-0EMqwdaqPkMZUJyOgx28yAPiLkpZshV-CW8qM9HKoPkI9hI7L4zoY-3WbtOiv8tv7wNEPZhS9zp3CmoLrAhGglkaZYw0lUlzly8lhFPNs~aS9wd-3o3T-fMuGsEgkmMByu-bRG2BLDY-wA-qMpUIdZzIjQGyDdYoKEmxA7PhRRjJ0wrafaBJa5e7UtZxkmBGIpxUSt9bS-sxj7TrYewZohuu9hn5ZnBrzQcIxZYV5A9zyxNKkqRXg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) - Seth Pritchard
 - Terraforming: the creating of habitable worlds - Martin Beech (2009)
 - [Terraforming Venus: A Challenging Project for Future Colonization](https://arc.aiaa.org/doi/10.2514/6.2011-7215) - Landis (2012)
+- [Was Venus the first habitable world of our solar system?](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL069790) - Way et al (2016)
 
 ---
 
