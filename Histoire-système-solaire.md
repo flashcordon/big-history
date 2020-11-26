@@ -263,6 +263,7 @@
 - Terraforming: the creating of habitable worlds - Martin Beech (2009)
 - [Terraforming Venus: A Challenging Project for Future Colonization](https://arc.aiaa.org/doi/10.2514/6.2011-7215) - Landis (2012)
 - [Was Venus the first habitable world of our solar system?](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL069790) - Way et al (2016)
+- [Du volcanisme actif, ou très récent, sur Vénus ?](https://planet-terre.ens-lyon.fr/article/volcanisme-Venus.xml) - ENS Lyon, Planète Terre (2010)
 
 ---
 
