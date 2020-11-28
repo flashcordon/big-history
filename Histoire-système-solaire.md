@@ -847,6 +847,8 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Mars Reconnaissance Orbiter Videos](https://mars.nasa.gov/mro/multimedia/videos/) - NASA
 - [Mars Pathfinder Historical Images](https://nssdc.gsfc.nasa.gov/planetary/marspath_images_h.html) - NASA
 - [Mars Pathfinder Color Images](https://nssdc.gsfc.nasa.gov/planetary/marspath_images_2.html) - NASA
+- [Mars Odyssey Videos](https://mars.nasa.gov/odyssey/multimedia/videos/) - NASA
+- [Mars Odyssey Images](https://mars.nasa.gov/odyssey/multimedia/images/) - NASA
 - [SpaceX Interplanetary Transport System](https://youtu.be/0qo78R_yYFA) - SpaceX
 
 # Jupiter
