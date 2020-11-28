@@ -680,7 +680,7 @@ these would have frozen over by the mid-Amazonian epoch.
 
 ### Viking
 
-### Pathfinder
+### Pathfinder et Sojourner
 
 ### Mars Global Surveyor
 
@@ -842,6 +842,11 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Phoenix Mars Mission Gallery](http://phoenix.lpl.arizona.edu/videos.php) - University of Arizona
 - [Phoenix Mars Lander Videos](https://www.nasa.gov/mission_pages/phoenix/videos/index.html) - NASA
 - [Phoenix Mars Lander Images](https://www.nasa.gov/mission_pages/phoenix/images/index.html) - NASA
+- [Disney Educational Animation Mars and Beyond 1957](https://www.youtube.com/watch?v=E0sbqqYo97s) - Rick Morgan
+- [Mars Reconnaissance Orbiter images](https://mars.nasa.gov/mro/multimedia/images/) - NASA
+- [Mars Reconnaissance Orbiter Videos](https://mars.nasa.gov/mro/multimedia/videos/) - NASA
+- [Mars Pathfinder Historical Images](https://nssdc.gsfc.nasa.gov/planetary/marspath_images_h.html) - NASA
+- [Mars Pathfinder Color Images](https://nssdc.gsfc.nasa.gov/planetary/marspath_images_2.html) - NASA
 
 # Jupiter
 
