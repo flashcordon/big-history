@@ -802,12 +802,23 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 > * Néanmoins, le scénario Mars Direct de Zubrin a directement inspiré certains auteurs de SF comme Gregory Benford (The Martian Race, 1999) et même l'astronaute Buzz Aldrin (First Landing, 2001). Zubrin lui-même fictionnalise The Case for Mars, et son livre est adapté au cinéma en 2000 : il s'agit du film Mission to Mars. Ces récits deviennent des catalyseurs d'inspiration, et une manière pour les idées marsistes de percoler dans la culture populaire.
 - Cet imaginaire est toujours mobilisé à l'heure actuelle par les compagnies privées du NewSpace, avec Elon Musk et Jeff Bezos en tête de proue.
 
-## Illustrations de Mars
+## Illustrations Mars
 
 - [Planet Mars](https://youtu.be/dZzY8-nxabA) - NASA (1979)
 - [Mars Curiosity Image Gallery](https://www.nasa.gov/mission_pages/msl/images/index.html) - NASA
 - [Mars Curiosity Rover Raw Images](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl) - NASA
 - [Curiosity Video Gallery](https://www.nasa.gov/mission_pages/msl/videos/index.html) - NASA
+- [Images taken by the Viking 1 Lander](https://photojournal.jpl.nasa.gov/spacecraft/Viking%2BLander%2B1) - NASA Photojournal
+- [Images taken  by the Viking Orbiter 1](https://www.jpl.nasa.gov/spaceimages/index.php?search=Viking+Orbiter+1) - NASA Photojournal
+- [Images taken by the Viking 2 Lander](https://photojournal.jpl.nasa.gov/spacecraft/Viking%2BLander%2B2) - NASA Photojournal
+- [Spirit and Opportunity Image Gallery](https://www.nasa.gov/mission_pages/mer/images/index.html) - NASA
+- [Spirit and Opportunity Video Gallery](https://www.nasa.gov/mission_pages/mer/videos/index.html) - NASA
+- [Spirit and Opportunity Raw Images](https://mars.nasa.gov/mer/multimedia/raw/) - NASA
+- [Images taken by the Spirit Rover](https://photojournal.jpl.nasa.gov/spacecraft/spirit) - NASA Photojournal
+- [Mars Express Image Browser](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_Express_image_browser) - ESA
+- [Images taken by the Mariner 9 Spacecraft](https://photojournal.jpl.nasa.gov/spacecraft/Mariner%2B9) - NASA Photojournal
+- [First close-up image of Mars by Mariner 4 -15 Juillet 1965](https://mars.nasa.gov/resources/6800/first-close-up-image-of-mars-by-mariner-4/) - NASA
+- [Images taken by the Mariner missions](https://photojournal.jpl.nasa.gov/mission/Mariner) - NASA Photojournal
 
 
 # Jupiter
