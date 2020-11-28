@@ -614,6 +614,7 @@ and no doubt lives into its development
 - [Why an intrinsic magnetic field does not protect a planet against atmospheric escape](https://www.aanda.org/articles/aa/full_html/2018/06/aa32934-18/aa32934-18.html#R4) - Gunell et al (2018)
 - [Terraforming de Mars](http://www.astrosurf.com/luxorion/mars-terraforming.htm) - Astrosurf
 - [De la planète rouge à l'origine de la vie](https://www.nirgal.net/main.html) - Nirgal
+- [Liste des missions vers Mars](https://fr.wikipedia.org/wiki/Liste_de_missions_vers_Mars) - Wikipédia
 
 ---
 
@@ -675,9 +676,25 @@ these would have frozen over by the mid-Amazonian epoch.
 
 ## Missions vers Mars
 
+### Mariner
+
 ### Viking
 
+### Pathfinder
+
+### Mars Global Surveyor
+
+### Mars Odyssey
+
 ### Spirit et Opportunity
+
+### Mars Reconnaissance Orbiter
+
+### Phoenix
+
+### MAVEN
+
+### Insight
 
 ## Terraformer Mars
 
@@ -819,6 +836,9 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Images taken by the Mariner 9 Spacecraft](https://photojournal.jpl.nasa.gov/spacecraft/Mariner%2B9) - NASA Photojournal
 - [First close-up image of Mars by Mariner 4 -15 Juillet 1965](https://mars.nasa.gov/resources/6800/first-close-up-image-of-mars-by-mariner-4/) - NASA
 - [Images taken by the Mariner missions](https://photojournal.jpl.nasa.gov/mission/Mariner) - NASA Photojournal
+- [Exomars Videos](https://www.esa.int/ESA_Multimedia/Search?SearchText=exomars&result_type=videos) - ESA
+- [MAVEN videos](https://www.nasa.gov/mission_pages/maven/videos/index.html) - NASA
+- [MAVEN Videos](https://lasp.colorado.edu/home/maven/multimedia/videos/) - University of Colorado Boulder
 
 
 # Jupiter
