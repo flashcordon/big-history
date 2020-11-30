@@ -879,9 +879,12 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 ## Illustrations Jupiter
 
-- []() - NASA
-- []() - NASA
-- []() - NASA
+- [Jupiter Image gallery](https://solarsystem.nasa.gov/planets/jupiter/galleries/?page=0&per_page=25&order=created_at+desc&search=&href_query_params=category%3Dplanets_jupiter&button_class=big_more_button&tags=jupiter&condition_1=1%3Ais_in_resource_list&category=51) - NASA
+- [Jupiter Video Gallery](https://solarsystem.nasa.gov/planets/jupiter/galleries/?page=0&per_page=25&order=created_at+desc&search=&href_query_params=category%3Dplanets_jupiter&button_class=big_more_button&tags=jupiter&condition_1=1%3Ais_in_resource_list&category=53) - NASA
+- [Images Voyager took of Jupiter](https://voyager.jpl.nasa.gov/galleries/images-voyager-took/jupiter/) - NASA
+- [Images taken by the Galileo Mission](https://photojournal.jpl.nasa.gov/mission/Galileo) - NASA Photojournal
+- [Galileo Image Gallery](https://solarsystem.nasa.gov/missions/galileo/galleries/?page=0&per_page=25&order=created_at+desc&search=&href_query_params=category%3Dmissions_galileo&button_class=big_more_button&tags=galileo&condition_1=1%3Ais_in_resource_list&category=51) - NASA
+- [Galileo NSSDCA Photo Gallery](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-galileo.html) - NASA
 - [Pioneer 10 at Jupiter](https://solarsystem.nasa.gov/resources/707/pioneer-10-at-jupiter/) - NASA
 - [Pioneer 11's Jupiter](https://solarsystem.nasa.gov/resources/710/pioneer-11s-jupiter/) - NASA
 - [A close shot from Pioneer 10](https://planetimages.blogspot.com/2011/08/close-shot-from-pioneer-10.html) - Ted Stryk, Planetary images from then and now
@@ -931,7 +934,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Dragonfly video gallery](https://www.nasa.gov/dragonfly/videos/index.html) - NASA
 - [Pioneer 11 approaches Saturn](https://www.planetary.org/space-images/piomosaicimprovedc) - Planetary Society
 - [Pioneer 11 Image of Saturn and Its Moon Titan](https://www.nasa.gov/multimedia/imagegallery/image_feature_2483.html) - NASA
-- [A Thirty Year Old View of Saturn (Pioneer 11)](A Thirty Year Old View of Saturn) - Ted Stryk, Planetary Images From Then and Now 
+- [A Thirty Year Old View of Saturn (Pioneer 11)](http://planetimages.blogspot.com/2009/09/thirty-year-old-view-of-saturn.html) - Ted Stryk, Planetary Images From Then and Now 
 - [Pioneer-11 at Saturn - 38 Years Later](https://planetimages.blogspot.com/2017/09/pioneer-11-at-saturn-38-years-later.html) - Ted Stryk, Planetary Images From Then and Now 
 
 # Uranus
