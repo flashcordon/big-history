@@ -914,12 +914,17 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [A new 3D model could explain the formation of a hexagon storm on Saturn](https://news.harvard.edu/gazette/story/2020/10/3d-model-seeks-to-explain-mysterious-hexagon-storm-on-saturn/) - Harvard Gazette (2020)
 - [Deep rotating convection generates the polar hexagon on Saturn](https://www.pnas.org/content/117/25/13991/tab-article-info) - Yadav et Bloxham (2020)
 - [Exploration du système saturnien](https://fr.wikipedia.org/wiki/Exploration_du_syst%C3%A8me_saturnien) - Wikipédia
+- [Saturn in fiction](https://en.wikipedia.org/wiki/Saturn_in_fiction) - Wikipédia
+- [Saturn's moons in fiction](https://en.wikipedia.org/wiki/Saturn%27s_moons_in_fiction) - Wikipédia
+- [Outer planets](http://www.sf-encyclopedia.com/entry/outer_planets) - Science Fiction Encyclopedia
 
 ---
 
 ## Histoire de l'observation de Saturne
 
 ## Propriétés de Saturne
+
+## L'hexagone polaire de Saturne
 
 ## Missions vers Saturne
 
