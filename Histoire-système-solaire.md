@@ -896,7 +896,8 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Updated: Io Over Jupiter's Terminator (and also a bit of historical perspective) (Voyager 1, 1979)](https://planetimages.blogspot.com/2010/12/updated-io-over-jupiters-terminator-and.html) - Ted Stryk, Planetary images from then and now
 - [Io from Voyager 2](https://planetimages.blogspot.com/2011/09/io-from-voyager-2.html) - Ted Stryk, Planetary images from then and now
 - [Europa from Galileo - another take](https://planetimages.blogspot.com/2012/05/europa-from-galileo-another-take.html) - Ted Stryk, Planetary images from then and now
-
+- [ESA Juice videos](https://www.esa.int/ESA_Multimedia/Missions/Juice/(result_type)/videos) - ESA
+- [Europa Clipper Videos](https://europa.nasa.gov/galleries/videos/) - NASA
 
 # Saturne
 
