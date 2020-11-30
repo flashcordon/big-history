@@ -210,6 +210,7 @@
 - [Exploration of the Planets](https://youtu.be/_ds8_IFDp1o) - NASA (1971)
 - [Permanently shadowed, radar-bright regions on Mercury](https://www.planetary.org/space-images/permanently-shadowed-radar-bright-mercury) - Planetary Society (2012)
 > Carte de la sonde MESSENGER montrant des cratères d'obscurité éternelle
+- [Mariner 10 at Mercury](https://planetimages.blogspot.com/2009/09/mariner-10-at-mercury.html) - Ted Stryk, Planetary images from then and now
 
 # Vénus
 
@@ -851,8 +852,48 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Mars Odyssey Videos](https://mars.nasa.gov/odyssey/multimedia/videos/) - NASA
 - [Mars Odyssey Images](https://mars.nasa.gov/odyssey/multimedia/images/) - NASA
 - [SpaceX Interplanetary Transport System](https://youtu.be/0qo78R_yYFA) - SpaceX
+- [A View of the Martian Sufrace From Viking 1](https://planetimages.blogspot.com/2011/04/view-from-viking-1.html) - Ted Stryk, Planetary images from then and now
+- [Mars from Mariner 4](https://planetimages.blogspot.com/2012/12/mars-from-mariner-4.html) - Ted Stryk, Planetary images from then and now
 
 # Jupiter
+
+*Source*
+
+- [Exploration du système jovien](https://fr.wikipedia.org/wiki/Exploration_du_syst%C3%A8me_jovien) - Wikipédia
+
+---
+
+## Missions vers Jupiter
+
+### Pioneer 10 et 11
+
+### Voyager 1 et 2
+
+### Galileo
+
+### Juno (2011-)
+
+### Juice (2022-)
+
+### Europa Clipper (2025-)
+
+## Illustrations Jupiter
+
+- []() - NASA
+- []() - NASA
+- []() - NASA
+- [Pioneer 10 at Jupiter](https://solarsystem.nasa.gov/resources/707/pioneer-10-at-jupiter/) - NASA
+- [Pioneer 11's Jupiter](https://solarsystem.nasa.gov/resources/710/pioneer-11s-jupiter/) - NASA
+- [A close shot from Pioneer 10](https://planetimages.blogspot.com/2011/08/close-shot-from-pioneer-10.html) - Ted Stryk, Planetary images from then and now
+- [Jupiter from Pioneer 11](https://planetimages.blogspot.com/2011/08/jupiter-from-pioneer-11.html) - Ted Stryk, Planetary images from then and now
+- [Blast from the past: Pioneer 10 and 11 pictures of Jupiter](https://www.planetary.org/articles/3171) - Planetary Society
+- [A Nice Little View of Europa (Galileo, 1997)](https://planetimages.blogspot.com/2009/12/nice-little-view-of-europa.html) - Ted Stryk, Planetary images from then and now
+- [A Voyager 2 View of Europa](https://planetimages.blogspot.com/2014/07/a-voyager-2-view-of-europa.html) - Ted Stryk, Planetary images from then and now
+- [Europa from Voyager 2](https://planetimages.blogspot.com/2010/03/europa-from-voyager-2.html) - Ted Stryk, Planetary images from then and now
+- [Updated: Io Over Jupiter's Terminator (and also a bit of historical perspective) (Voyager 1, 1979)](https://planetimages.blogspot.com/2010/12/updated-io-over-jupiters-terminator-and.html) - Ted Stryk, Planetary images from then and now
+- [Io from Voyager 2](https://planetimages.blogspot.com/2011/09/io-from-voyager-2.html) - Ted Stryk, Planetary images from then and now
+- [Europa from Galileo - another take](https://planetimages.blogspot.com/2012/05/europa-from-galileo-another-take.html) - Ted Stryk, Planetary images from then and now
+
 
 # Saturne
 
@@ -890,6 +931,8 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Dragonfly video gallery](https://www.nasa.gov/dragonfly/videos/index.html) - NASA
 - [Pioneer 11 approaches Saturn](https://www.planetary.org/space-images/piomosaicimprovedc) - Planetary Society
 - [Pioneer 11 Image of Saturn and Its Moon Titan](https://www.nasa.gov/multimedia/imagegallery/image_feature_2483.html) - NASA
+- [A Thirty Year Old View of Saturn (Pioneer 11)](A Thirty Year Old View of Saturn) - Ted Stryk, Planetary Images From Then and Now 
+- [Pioneer-11 at Saturn - 38 Years Later](https://planetimages.blogspot.com/2017/09/pioneer-11-at-saturn-38-years-later.html) - Ted Stryk, Planetary Images From Then and Now 
 
 # Uranus
 
