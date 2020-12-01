@@ -918,6 +918,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Saturn's moons in fiction](https://en.wikipedia.org/wiki/Saturn%27s_moons_in_fiction) - Wikipédia
 - [Outer planets](http://www.sf-encyclopedia.com/entry/outer_planets) - Science Fiction Encyclopedia
 - [Titan in Fiction](https://en.wikipedia.org/wiki/Titan_in_fiction) - Wikipédia
+- [Titan](https://solarsystem.nasa.gov/moons/saturn-moons/titan/overview/) - NASA
 
 ---
 
@@ -965,6 +966,9 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - In the 1930s Buck Rogers old time radio show, Enceladus makes an appearance. In the story entitled "Killer Kane and Ardala on Saturn's moon," the titular villains try to take over the peaceful government of the Saturnian moon. The moon is depicted as having an atmosphere and supporting a happy population of humanoid life. Buck races to the moon to set things right.
 - In Arthur C. Clarke's novel 2001: A Space Odyssey (1968), astronaut Dave Bowman finds an enigmatic alien monolith waiting for him on the surface of Iapetus (referred to as "Japetus" throughout). Iapetus's two tone coloration is caused by a vast white ellipse on the moon's surface, with the monolith appearing as a black dot in its exact center. When the Voyager space probes arrived at Iapetus thirteen years later, they discovered that there was indeed a black region within the moon's brighter hemisphere. Clarke reports that Carl Sagan, who was on the Voyager imaging team, sent him a photo, with the note "Thinking of you ...".[3] Because of difficulties achieving a convincing model of Saturn's rings, the film version of 2001: A Space Odyssey relocated the monolith to an orbit around Jupiter. The three sequel novels written by Clarke follow the film rather than the novel in this matter.
 - In Dan Simmons's Hyperion, the eponymous planet was first colonised by settlers from a colony on the moon Hyperion.
+- Titan (2018), réalisé par Lennart Ruff. La Terre est devenue inhabitable et des expériences sont menées pour adapter l'humanité à la vie sur Titan.
+- Cowboy Bebop, où Titan est devenu un désert stérile après une guerre dans les années 2060 à laquelle ont participé plusieurs personnages de la série.
+- Judge Dredd, où une colonie pénitentiaire a été installée sur Titan.
 
 ## Illustrations de Saturne 
 
