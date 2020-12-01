@@ -917,12 +917,19 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Saturn in fiction](https://en.wikipedia.org/wiki/Saturn_in_fiction) - Wikipédia
 - [Saturn's moons in fiction](https://en.wikipedia.org/wiki/Saturn%27s_moons_in_fiction) - Wikipédia
 - [Outer planets](http://www.sf-encyclopedia.com/entry/outer_planets) - Science Fiction Encyclopedia
+- [Titan in Fiction](https://en.wikipedia.org/wiki/Titan_in_fiction) - Wikipédia
 
 ---
 
 ## Histoire de l'observation de Saturne
 
 ## Propriétés de Saturne
+
+## Lunes de Saturne
+
+- Enceladus is a small, icy moon orbiting close to Saturn, with an extremely bright surface and the geyser-like plumes of ice and water vapor that erupt from its southern polar region. It is the source of material for Saturn's E Ring. 
+- Iapetus is a large moon orbiting further from Saturn than any of its other large satellites. Half of its surface is very bright while the other half is extremely dark. Investigations since 2004 have also noted its irregular shape, immense impact basins, and a high mountainous ridge on the equator. 
+- Hyperion is the largest irregularly-shaped moon of Saturn, orbiting between Titan and Iapetus. 
 
 ## L'hexagone polaire de Saturne
 
@@ -937,6 +944,27 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 ### Dragonfly (2026-)
 
 ## Saturne dans la fiction
+
+-  is therefore the only outer planet featured in Athanasius Kircher's and Emanuel Swedenborg's interplanetary tours
+- Micromégas (1752) by Voltaire. Micromégas, an extraterrestrial visitor, arrives at Saturn first (Uranus and Neptune had not yet been discovered in 1752[1]). Saturn's citizens are "only a thousand fathoms high", have 72 senses and live for about 15,000 years. Micromégas forms a close friendship with the secretary of the Academy of Saturn, who accompanies him to Earth.
+- Off on a Comet (1877) by Jules Verne. Adventurers pass within 415,000,000 miles of Saturn while riding on a comet. The book describes Saturn as having 8 satellites and 3 rings. It contains a black and white illustration showing what night might look like from the surface of the planet. The rings are brightly illuminated by the sun, and an elliptical shadow is cast on them by the planet. The drawing shows the surface of Saturn as a rocky, desolate, solid surface.
+- A Journey in Other Worlds (1894) by John Jacob Astor IV. Explorers from Earth reach Saturn from Jupiter (which is a tropical jungle world, much like ancient Earth) and find that the planet is a dark, dry, dying planet. The only inhabitants of Saturn are gigantic, ghostlike creatures that communicate telepathically and can predict the future.
+- Saturn was visited, en route to Earth, by Voltaire's tourist from Sirius in Micromegas (in Le Micromégas de Mr. de Voltaire ..., coll 1752; trans anon 1753), and a Saturnian accompanied him on his sightseeing trip. Sir Humphry Davy's far-ranging traveller describes Saturn and its giant inhabitants in Consolations in Travel (1830). Saturn is one of the stops in a Balloon tour of several planets in Paul Aermont's A Narrative of the Travels and Adventures of Paul Aermont Among the Planets (1873).
+- Roy Rockwood's series of juvenile interplanetary novels extended thus far in By Spaceship to Saturn (1935), but relatively few Pulp-magazine writers followed suit.
+- In the post-World War Two period, Saturn and its moons were more frequently featured in serious speculative fictions. The rings of Saturn play a key part in Isaac Asimov's "The Martian Way" (November 1952 Galaxy) as a source of ice for thirsty Mars, and Asimov returned to the same locale in his juvenile Lucky Starr and the Rings of Saturn (1958)
+-  The ringed planet is visited in the film The Bamboo Saucer (1968; vt Collision Course). An offbeat religious cult is engaged in painting the Saturnian "Ring Beta" red in John Varley's "Equinoctial" (in Ascents of Wonder, anth 1977, ed David Gerrold).
+- Elsewhere, Saturn's moon Titan features much more prominently than its parent world. Stanley G Weinbaum was the only early pulp writer of any real significance to explore the outer planets, one of the relevant tales being "Flight on Titan" (January 1935 Astounding; vt "A Man, a Maid, and Saturn's Temptation" in Avon Fantasy Reader, anth 1951)
+- Alan E Nourse's Trouble on Titan (1954) is a juvenile novel about Colonization of the satellite, the climactic scenes of Kurt Vonnegut Jr's The Sirens of Titan (1959) take place there, and Titan is the location of huge Alien machines in Ben Bova's As on a Darkling Plain (1972). A more fully described Titan colony is featured in Arthur C Clarke's Imperial Earth (1975), and it is the home of the strange lifeform that provides the climax of Gregory Benford's and Gordon Eklund's If the Stars are Gods (fixup 1977).
+- Stephen Baxter's novel of the immense journey from Earth to Saturn's moon is also called Titan (1997), and Ben Bova's later Tales of the Grand Tour sequence visits Saturn and Titan in novels imaginatively titled Saturn (2003) and Titan (2006). Titan has been colonized in the film Oblivion (2013)
+- Another moon of Saturn, Iapetus (discovered 1671), is of interest for its possession of a bright and a dark hemisphere: it features in Theodore Sturgeon's "The Comedian's Children" (May 1958 Venture), Arthur C Clarke's 2001: A Space Odyssey (1968) – here under its alternate spelling Japetus – Grant Callin's Saturnalia sequence comprising Saturnalia (1986) and A Lion on Tharthee (1987), and William S Kirby's Iapetus (1993).
+- In the film Interstellar, NASA sends a four astronauts aboard a spacecraft called the Endurance to Saturn in order to enter a wormhole next to the planet in order to find a new habitable planet for the people of Earth.
+- Titan is the largest moon of Saturn. It has a substantial atmosphere and is the most Earth-like satellite in the Solar System, making it a popular science fiction setting.[1][2] Science fiction set on Titan can be roughly divided into the pre- and post-Pioneer eras, with a division set by the flyby of Saturn by the Pioneer 11 space probe on September 1, 1979, which showed that Titan's surface was too cold to sustain (Earthlike) life.[3] Somewhat later, the arrival of Cassini–Huygens mission in 2004 with the Huygens probe's landing in 2005 showed the presence of hydrocarbon lakes on Titan, leading to further changes in its depiction in science fiction. 
+- Call of Duty: Infinite Warfare - In the reveal trailer, Titan was shown to have a dust-like storm, and near the end, Saturn is shown in the sky.
+- Star Trek (2009). The USS Enterprise drops out of warp inside Titan's atmosphere, using its magnetic field to hide from the Romulans' sensors long enough for Kirk and Spock to beam aboard the enemy ship.
+- The Invisible Enemy (1977), a Doctor Who serial. Takes place partly on a manned base on Titan in the year 5000, by which time the human race has spread across the galaxy. Titan's methane atmosphere bursts into flames after the Doctor releases vast amounts of oxygen as a trap to destroy an enlarged virus.
+- In the 1930s Buck Rogers old time radio show, Enceladus makes an appearance. In the story entitled "Killer Kane and Ardala on Saturn's moon," the titular villains try to take over the peaceful government of the Saturnian moon. The moon is depicted as having an atmosphere and supporting a happy population of humanoid life. Buck races to the moon to set things right.
+- In Arthur C. Clarke's novel 2001: A Space Odyssey (1968), astronaut Dave Bowman finds an enigmatic alien monolith waiting for him on the surface of Iapetus (referred to as "Japetus" throughout). Iapetus's two tone coloration is caused by a vast white ellipse on the moon's surface, with the monolith appearing as a black dot in its exact center. When the Voyager space probes arrived at Iapetus thirteen years later, they discovered that there was indeed a black region within the moon's brighter hemisphere. Clarke reports that Carl Sagan, who was on the Voyager imaging team, sent him a photo, with the note "Thinking of you ...".[3] Because of difficulties achieving a convincing model of Saturn's rings, the film version of 2001: A Space Odyssey relocated the monolith to an orbit around Jupiter. The three sequel novels written by Clarke follow the film rather than the novel in this matter.
+- In Dan Simmons's Hyperion, the eponymous planet was first colonised by settlers from a colony on the moon Hyperion.
 
 ## Illustrations de Saturne 
 
