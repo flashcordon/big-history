@@ -860,6 +860,9 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 *Source*
 
 - [Exploration du système jovien](https://fr.wikipedia.org/wiki/Exploration_du_syst%C3%A8me_jovien) - Wikipédia
+- [Jupiter](http://www.sf-encyclopedia.com/entry/jupiter) - Science Fiction Encyclopedia
+- [Jupiter in fiction](https://en.wikipedia.org/wiki/Jupiter_in_fiction) - Wikipédia
+- [Jupiter's moons in fiction](https://en.wikipedia.org/wiki/Jupiter%27s_moons_in_fiction) - Wikipédia
 
 ---
 
@@ -876,6 +879,49 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 ### Juice (2022-)
 
 ### Europa Clipper (2025-)
+
+## Jupiter dans la fiction
+
+- Jupiter's importance in sf is derived from its status as the largest planet in the solar system
+-  Its four major moons – Ganymede, Callisto, Io and Europa – were discovered by Galileo, but it was not until 1892 that the US astronomer Edward Barnard (1857-1923) discovered the fifth. About a dozen others were discovered in the twentieth century. 
+- Micromégas (1752) by Voltaire. The eponymous hero and his Saturnian companion stop on Jupiter[1] for a year, where they "learned some very remarkable secrets".[2]
+- A Journey in Other Worlds (1894) by John Jacob Astor IV. Explorers from Earth reach Jupiter, prior to traveling on to Saturn. On Jupiter the travelers encounter Earth-like dinosaurs.[3]
+- The Conquest of Two Worlds (1932) by Edmond Hamilton. Humans explore the solar system and discover intelligent life on Mars and Jupiter, and proceed to ruthlessly conquer and subjugate it. Jupiter is a humid jungle world with high gravity.
+- Skeleton Men of Jupiter (1943) by Edgar Rice Burroughs. John Carter is transported to Sasoom (Jupiter).
+- City stories (1952) by Clifford D. Simak. Most humans are eventually voluntarily transformed into creatures able to survive on Jupiter without life support. In this new form, Jupiter appears as a paradise. Jupiter is portrayed as having a solid surface, which is cold, toxic, and barren from a human perspective.
+- A Meeting with Medusa (1972), novella by Arthur C. Clarke. A journey into the depths of Jupiter's atmosphere, where vast, mile-sized floating life-forms have evolved. This is similar to a scene in 2010 in which Jupiter's atmosphere is inhabited by enormous cloud-like creatures which are in turn preyed upon by delta-shaped flying predators.
+- Jupiter (2001) by Ben Bova. A journey into Jupiter's clouds, storms, and the liquid stage of its atmosphere for the discovery of intelligent life there. 
+- Galileo's Dream (2009) by Kim Stanley Robinson. Galileo is transported to the Jovian system in the 29th century, where human colonists learn that the planet itself is a vast, conscious intelligence.
+- Space Patrol (1962), puppet television series. "The Walking Lake of Jupiter" episode. Scientists Dr Brown and Dr Smith discover that water from a Jovian lake has the power to cause inanimate objects to move as if with a life of their own. Dart arrives to witness the phenomenon. and ends up on the trail of the unfortunate Dr Brown, whose spacesuit has become energized by the Jovian water.
+- In The Wandering Earth (2019), when the moving Earth passes Jupiter for gravity assist, a group of Chinese rescuers ignite Jupiter's hydrogen-abundant atmosphere to blow Earth away from being absorbed.
+- In Arthur C. Clarke's Space Odyssey series, Jupiter is a major location. For the first story in the series, 2001: A Space Odyssey, the novel and film differ. In the novel, the spaceship Discovery One is travelling to Saturn, and flies close to Jupiter to accelerate via the "gravitational slingshot" effect. The movie 2001: A Space Odyssey (1968), simplifies the scenario, where Jupiter is the intended final destination, not a passing point. The sequel novel 2010: Odyssey Two takes place in the Jovian system: the core of the planet is discovered to be made of solid diamond (which is important to the plot of the two subsequent novels) and Jupiter is renamed Lucifer after being transformed into a star, by fictional technology employed by the alien Monolith (see also TV/Films). 
+- The 2015 film Jupiter Ascending features a protagonist named for the planet, while the film's main antagonist operates from a massive fortress and youth serum production facility deep within the Great Red Spot.
+- Jupiter was included in various interplanetary tours inspired by the religious imagination, and is prominent in several nineteenth-century interplanetary novels, including A World of Wonders (1838) by Joel R Peabody, Paul Aermont's A Narrative of the Travels and Adventures of Paul Aermont Among the Planets (1873) – as one of the stops in a Balloon tour of several planets – the anonymously published Voices from Many Hilltops, Echoes from Many Valleys (1886) by John B Fayette, and John Jacob Astor's A Journey in Other Worlds (1894), in which it is a "prehistoric" version of Earth, replete with Dinosaurs, etc. 
+- As astronomical discoveries were popularized, however, the credibility of an Earthlike Jupiter waned rapidly. The last significant novel to use a Jovian scenario for straightforward Utopian modelling was Ella Scrymsour's The Perfect World (1922), though pulp-sf writers squeezed a little more melodramatic life out of the notion. Edmond Hamilton's "A Conquest of Two Worlds" (February 1932 Wonder Stories) tells the harrowing tale of the human invasion of Jupiter, and Edgar Rice Burroughs sent John Carter there to fight the eponymous "Skeleton Men of Jupiter" (February 1943 Amazing).
+- John W Campbell Jr required contributors to Astounding Science-Fiction to pay more attention to what was actually known about the planets. Early applications of this new realism to Jupiter include "Clerical Error" (August 1940 Astounding) by Clifford D Simak. Simak revisited Jupiter in his curious "Desertion" (November 1944 Astounding), in which humans undergo biological metamorphosis to endure the planet's harsh extremes, and (with their changed Perception) find it so paradisal that they refuse to be changed back. Isaac Asimov set one of his earliest stories, "The Callistan Menace" (April 1940 Astonishing), in the neighbourhood, then turned his attention to Jupiter itself in "Not Final!" (October 1941 Astounding), in which hostile Aliens are discovered there, and in "Victory Unintentional" (August 1942 Super Science Stories), in which the same hostile Jovians fail to realize that their invulnerable visitors are Robots rather than men.
+- Although it has become obvious that humans could never live on Jupiter, the idea of a descent into its atmosphere continues to attract attention. Such descents are featured in Isaac Asimov's Lucky Starr and the Moons of Jupiter (1957 as by Paul French; vt The Moons of Jupiter)
+- By far the most spectacular use to which Jupiter has been put, however, is in Arthur C Clarke's 2010: Odyssey Two (1982), in which it is elevated to the status of a second Sun by a swarm of Clarke's famous deus-ex-machina monoliths in order to give a crucial boost to Evolution on Europa 
+- There has been much speculation on the possibility of life-bearing liquid oceans beneath Europa's frozen surface, as suggested in 2010: Odyssey Two and developed in such later tales as Dan Simmons's Ilium (2003), Paul J McAuley's The Quiet War (2008) and Kim Stanley Robinson's Galileo's Dream (2009). An early tale of Europa that lacks the plausibility of the ice-ocean theory is Stanley G Weinbaum's "Redemption Cairn" (March 1936 Astounding) – in which a lowland region of the moon's Jupiter-facing side has breathable air supporting various forms of life (including visiting astronauts).
+- In Cinema, Jupiter is the approximate destination of the space mission of 2001: A Space Odyssey (1968), although Arthur C Clarke's book version continues to Saturn (see Outer Planets). The book and film sequels 2010: Odyssey Two (1982) and 2010 (1984) agree on Jupiter and its ignition as above. The film Lifepod (1981) features another Spaceship voyage to Jupiter, with Computer problems vaguely reminiscent of 2001 and with Callisto used as an emergency refuge; Outland (1981) is set on the Jovian moon Io.
+- The mining of helium-3 fusion fuel from Jupiter's atmosphere – as seriously proposed in the 1970s – has become an sf commonplace, although this planet's intense local radiation may make Saturn (see Outer Planets) or its moon Titan a more feasible source despite the vastly greater distance from Earth. In Firstborn (2007), Arthur C Clarke and Stephen Baxter posit the "mining" of naturally created Antimatter from the high-energy magnetic flux tube known to exist between Jupiter and its moon Io.
+- In the anime Cowboy Bebop (1998), various episodes take place on Jupiter's moons. In "Mushroom Samba" en route to Europa the crew is forced to land on Io. The two-part episode "Jupiter Jazz" takes place on Callisto, and "Ganymede Elegy", takes place on Ganymede. 
+- The motion picture sequel 2010 involves Io and Europa.
+- The science fiction drama Cloud Atlas (2012) depicts humans living on a terraformed Europa or Callisto after a nuclear holocaust destroys much of Earth.
+- The science fiction drama Europa Report portrays 6 astronauts on a space mission to Europa after studies show life being possible in the underground ocean of Europa.
+- In the science fiction film IO (2019), humanity is in the process of leaving a toxic Earth to a new colony on Io.
+- The futuristic racing computer game POD - Planet of Death takes place on Io where a corrosive biosubstance known as "Pod" emerges from under the ground and devours the moon, eventually tearing it apart.
+- Outland (1981) - film written and directed by Peter Hyams (who also wrote and directed 2010, as above) which is set in a mining colony on Io.
+- Destiny 2 (2017), PC, Xbox One, and PlayStation 4 game. Io is one of the worlds in which players (Guardians) can visit. In the game's lore, Io is considered a sacred and holy place for the Guardians, especially for Warlocks, as it was the last place the Traveler visited during the Golden Age and before the Collapse. Despite this, the moon is now populated with Vex, Taken and Cabal Red Legion enemies.
+- Ocean (2004), comic book by Warren Ellis. An ancient race of aliens is discovered in hibernation below the surface of Europa. At the climax the moon is destroyed by a horrific weapon.
+- Galileo's Dream (2009) by Kim Stanley Robinson. Galileo is transported to Europa in the 29th century. The colonists live in a Venice-like underground city carved from ice. Under the ice live vast, sentient organisms in a subsurface ocean.
+- In the anime series Mobile Suit Gundam SEED, George Glenn explores the moon Europa and finds evidence of alien life forms.
+- In the Futurama episode "Put Your Head on My Shoulders", Fry, Amy and Dr Zoidberg go on a picnic to Europa.
+- In HBO's Watchmen superhero drama television series, character Adrian Veidt is stuck on Europa after being sent there by Dr. Manhattan.
+- In the video game Call of Duty: Infinite Warfare, the first mission, "Rising Threat", takes place on Europa. It is also the setting for a map of the game's multiplayer mode, Frost.
+- Ganymede's size made it a popular location for early science fiction authors looking for locations beyond Mars that might be inhabitable by humans. In reality, Ganymede is a cold, icy, cratered world with a vanishingly thin atmosphere. 
+- In the anime series Cowboy Bebop (1998), Ganymede is depicted as an aquatic planet, a terraformed world that is entirely covered in water.
+- In the 2017- television show The Expanse, Ganymede is a planet where much of the solar system's food production takes place. A battle on Ganymede and its consequences for food security and the peace between Mars and Earth plays a pivotal role in the second season. 
+- 
 
 ## Illustrations Jupiter
 
