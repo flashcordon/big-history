@@ -965,6 +965,10 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Outer planets](http://www.sf-encyclopedia.com/entry/outer_planets) - Science Fiction Encyclopedia
 - [Titan in Fiction](https://en.wikipedia.org/wiki/Titan_in_fiction) - Wikipédia
 - [Titan](https://solarsystem.nasa.gov/moons/saturn-moons/titan/overview/) - NASA
+- [NASA's Dragonfly Will Fly Around Titan Looking for Origins, Signs of Life](https://www.nasa.gov/press-release/nasas-dragonfly-will-fly-around-titan-looking-for-origins-signs-of-life) - NASA
+- [PSW 2397 Dragonfly: Exploring Titan by Rotorcraft | Zibi Turtle](https://youtu.be/bukR9jljUrU) - PSW Science
+- [Dragonfly: A Rotorcraft Lander Concept for Scientific Exploration at Titan](https://dragonfly.jhuapl.edu/News-and-Resources/docs/34_03-Lorenz.pdf) - Lorenz et al (2018)
+- [NASA's Dragonfly Mission to Titan](https://youtu.be/wJuWuJBbc1s) - Real Engineering (2019)
 
 ---
 
@@ -988,7 +992,18 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 ### Cassini-Huygens
 
-### Dragonfly (2026-)
+### Dragonfly (2027-2039)
+
+- Annoncée par la NASA en 2019, dans le cadre de son programme New Frontiers
+- Sera lancée en 2027, pour un atterrissage sur Titan en 2036. Sa mission sur place est conçue pour durer au moins 2,7 ans.
+- Le robot possède 8 rotors qui lui permettent de se déplacer sur les multiples terrains du satellite, depuis les dunes de matière organique jusqu'à un cratère d'impact (le cratère Selk) où de la matière organique, de l'énergie et de l'eau liquide a existé pendant des dizaines de milliers d'années (possiblement).
+> Il peut réaliser des sauts de puce de 8 kilomètres maximum.
+- Au cours de sa mission, Dragonfly parcourera en tout près de 175 kilomètres, soit une plus grande distance que tous les rovers martiens combinés
+- Il sera le premier véhicule multi-rotor à décoller d'un monde extraterrestre
+- Son but sera d'étudier la chimie prébiotique de Titan
+- Ses instruments seront capables de détecter si de la matière organique (voire de la chimie prébiotiquese) trouve sur le sol autour de la sonde. 
+- Ils pourront aussi déterminer la chiralité des molécules présentes sur la surface du satellite, pour voir s'il y a une préférence comme sur Terre
+- Il atterrira dans un champ de dunes nommé Shangri-La, similaires aux dunes que l'on trouve en Namibie
 
 ## Saturne dans la fiction
 
@@ -1034,6 +1049,9 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Pioneer 11 Image of Saturn and Its Moon Titan](https://www.nasa.gov/multimedia/imagegallery/image_feature_2483.html) - NASA
 - [A Thirty Year Old View of Saturn (Pioneer 11)](http://planetimages.blogspot.com/2009/09/thirty-year-old-view-of-saturn.html) - Ted Stryk, Planetary Images From Then and Now 
 - [Pioneer-11 at Saturn - 38 Years Later](https://planetimages.blogspot.com/2017/09/pioneer-11-at-saturn-38-years-later.html) - Ted Stryk, Planetary Images From Then and Now 
+- [The science of Dragonfly](https://www.youtube.com/watch?v=GlwzLPytW9A&feature=emb_title) - NASA Goddard
+- [Dragonfly Mission Landing Animation](https://youtu.be/IdYeWN9ZivE) - NASA
+- [Dragonfly Gallery](https://dragonfly.jhuapl.edu/Gallery/) - John Hopkins
 
 # Uranus
 
