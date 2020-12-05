@@ -1051,9 +1051,6 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - Another moon of Saturn, Iapetus (discovered 1671), is of interest for its possession of a bright and a dark hemisphere: it features in Theodore Sturgeon's "The Comedian's Children" (May 1958 Venture), Arthur C Clarke's 2001: A Space Odyssey (1968) – here under its alternate spelling Japetus – Grant Callin's Saturnalia sequence comprising Saturnalia (1986) and A Lion on Tharthee (1987), and William S Kirby's Iapetus (1993).
 - In the film Interstellar, NASA sends a four astronauts aboard a spacecraft called the Endurance to Saturn in order to enter a wormhole next to the planet in order to find a new habitable planet for the people of Earth.
 
-- In Arthur C. Clarke's novel 2001: A Space Odyssey (1968), astronaut Dave Bowman finds an enigmatic alien monolith waiting for him on the surface of Iapetus (referred to as "Japetus" throughout). Iapetus's two tone coloration is caused by a vast white ellipse on the moon's surface, with the monolith appearing as a black dot in its exact center. When the Voyager space probes arrived at Iapetus thirteen years later, they discovered that there was indeed a black region within the moon's brighter hemisphere. Clarke reports that Carl Sagan, who was on the Voyager imaging team, sent him a photo, with the note "Thinking of you ...".[3] Because of difficulties achieving a convincing model of Saturn's rings, the film version of 2001: A Space Odyssey relocated the monolith to an orbit around Jupiter. The three sequel novels written by Clarke follow the film rather than the novel in this matter.
-- In Dan Simmons's Hyperion, the eponymous planet was first colonised by settlers from a colony on the moon Hyperion.
-
 ***Titan***
 - La lune a été un lieu de choix pour de nombreuses oeuvres de SF :
 > * Dans la littérature : *Flight on Titan* (Stanley G Weinbaum, Astounding, 1935), *Trouble on Titan* (Alan E Nourse, 1954), *The Sirens of Titan* (Kurt Vonnegut Jr, 1959), *Imperial Earth* (Arthur C Clarke, 1975), *Titan* (Stephen Baxter, 1997), *Titan* (Ben Bova, 2006)
@@ -1067,7 +1064,8 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 ***Autres lunes***
 - Dans l'aventure radio de Buck Rogers *Killer Kane and Ardala on Saturn's moon* (années 30), les méchants tetent un coup d'état du gouvernement de la lune Encelade, peuplée d'humanoides heureux.
 - Dans *2001 l'odyssée de l'espace* (Arthur C. Clarke, 1968), Dave Bowman trouve un monolithe à la surface de Japet.
-> Dans la version du film, suite à des difficultés à modéliser les anneaux de Saturne à l'écran, Stanley Kubrick a déplacé cette scène dans l'orbite de Jupiter. 
+> Dans la version filmique, suite à des difficultés à modéliser les anneaux de Saturne à l'écran, Stanley Kubrick a déplacé cette scène dans l'orbite de Jupiter. La suite des bouquins de Clarke suivent la version canonique du film plutôt que du livre.
+- Dans *Hypérion* (Dan Simmons), la planète Hypérion a été colonisée par des habitants de la Lune *Hypérion*.
 
 ## Illustrations de Saturne 
 
