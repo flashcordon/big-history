@@ -1039,24 +1039,26 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 ## Saturne dans la fiction
 
-- Lorsque l'extraterrestre Micromégas arrive sur Saturne, dans le conte philosophique de Voltaire (1752), la planète est habitée par des personnes de 2 kilomètres de haut, à 72 sens et vivant prè de 15 000 ans. Il se lie d’amitié avec le secrétaire de l’Académie de Saturne, un « nain » à ses yeux, qu'il accompagne sur Terre. 
-
--  is therefore the only outer planet featured in Athanasius Kircher's and Emanuel Swedenborg's interplanetary tours
-- Off on a Comet (1877) by Jules Verne. Adventurers pass within 415,000,000 miles of Saturn while riding on a comet. The book describes Saturn as having 8 satellites and 3 rings. It contains a black and white illustration showing what night might look like from the surface of the planet. The rings are brightly illuminated by the sun, and an elliptical shadow is cast on them by the planet. The drawing shows the surface of Saturn as a rocky, desolate, solid surface.
-- A Journey in Other Worlds (1894) by John Jacob Astor IV. Explorers from Earth reach Saturn from Jupiter (which is a tropical jungle world, much like ancient Earth) and find that the planet is a dark, dry, dying planet. The only inhabitants of Saturn are gigantic, ghostlike creatures that communicate telepathically and can predict the future.
-- Sir Humphry Davy's far-ranging traveller describes Saturn and its giant inhabitants in Consolations in Travel (1830). Saturn is one of the stops in a Balloon tour of several planets in Paul Aermont's A Narrative of the Travels and Adventures of Paul Aermont Among the Planets (1873).
-- Roy Rockwood's series of juvenile interplanetary novels extended thus far in By Spaceship to Saturn (1935), but relatively few Pulp-magazine writers followed suit.
-- In the post-World War Two period, Saturn and its moons were more frequently featured in serious speculative fictions. The rings of Saturn play a key part in Isaac Asimov's "The Martian Way" (November 1952 Galaxy) as a source of ice for thirsty Mars, and Asimov returned to the same locale in his juvenile Lucky Starr and the Rings of Saturn (1958)
--  The ringed planet is visited in the film The Bamboo Saucer (1968; vt Collision Course). An offbeat religious cult is engaged in painting the Saturnian "Ring Beta" red in John Varley's "Equinoctial" (in Ascents of Wonder, anth 1977, ed David Gerrold).
-- Another moon of Saturn, Iapetus (discovered 1671), is of interest for its possession of a bright and a dark hemisphere: it features in Theodore Sturgeon's "The Comedian's Children" (May 1958 Venture), Arthur C Clarke's 2001: A Space Odyssey (1968) – here under its alternate spelling Japetus – Grant Callin's Saturnalia sequence comprising Saturnalia (1986) and A Lion on Tharthee (1987), and William S Kirby's Iapetus (1993).
-- In the film Interstellar, NASA sends a four astronauts aboard a spacecraft called the Endurance to Saturn in order to enter a wormhole next to the planet in order to find a new habitable planet for the people of Earth.
+- Lors de ses premières descriptions dans la littérature, Saturne n'est qu'une étape dans un grand tour du système solaire.
+> * Exemples : Emanuel Swedenborg, Athanasius Kircher, *A Narrative of the Travels and Adventures of Paul Aermont Among the Planets* (Paul Aermont, 1873)
+- Dans les premiers ouvrages de fiction mentionnant Saturne, elle est décrite comme présentant une surface solide et souvent habitée par des créatures géantes.
+> * Lorsque l'extraterrestre Micromégas arrive sur Saturne, dans le conte philosophique de Voltaire (1752), la planète est habitée par des personnes de 2 kilomètres de haut, à 72 sens et vivant prè de 15 000 ans. Il se lie d’amitié avec le secrétaire de l’Académie de Saturne, un « nain » à ses yeux, qu'il accompagne sur Terre. 
+> * Dans *Consolations in Travel* (Humphry Davy, 1830)
+> * Dans *Hector Servadac* (1877), Jules Verne fait passer les aventuriers près de Saturne en chevauchant une comète. La planète est décrite comme un monde rocheux et désertique. 
+> * Une Saturne sèche et mourrante, habitée par de gigantesques créatures à l'allure de fantômes qui peuvent prédire l'avenir et communiquer par télépathie est explorée par des terriens dans *Journey in Other Worlds* (John Jacob Astor IV, 1894)
+- Saturne devient fréquemment mentionnée dans les oeuvres de SF après la seconde guerre mondiale.
+> * Dans *The Martian Way* (Isaac Asimov, Galaxy, 1952), Saturne est une source de glace pour la planète Mars.
+> * Saturne est le lieu principal du livre jeunesse *Lucky Starr and the Rings of Saturn* d'Isaac Asimov (1958)
+> * La planète est visitée dans le film *Bamboo Saucer* (1968)
+> * Dans *Equinoctial* (John Varley, Ascents of Wonder, 1977), un culte religieux tente de peindre un anneau de Saturne en rouge.
+> * Dans *Interstellar* (Christopher Nolan, 2014), le vaisseau Endurance survole Saturne, à côté de laquelle se trouve un trou de ver.
 
 ***Titan***
 - La lune a été un lieu de choix pour de nombreuses oeuvres de SF :
 > * Dans la littérature : *Flight on Titan* (Stanley G Weinbaum, Astounding, 1935), *Trouble on Titan* (Alan E Nourse, 1954), *The Sirens of Titan* (Kurt Vonnegut Jr, 1959), *Imperial Earth* (Arthur C Clarke, 1975), *Titan* (Stephen Baxter, 1997), *Titan* (Ben Bova, 2006)
 > * L'épisode de Doctor Who *The Invisible Enemy* (1977) se tient sur une base humaine sur Titan de l'an 5000. L'atmosphère de méthane de Titan entre en feu lorsque que le Docteur y relâche une grande quantité d'oxygène pur détruire un virus. 
 > * Dans *Cowboy Bebop*, où Titan est devenu un désert stérile après une guerre dans les années 2060 à laquelle ont participé plusieurs personnages de la série.
-> * Dans *Star Trek* (2009), l'USS Enterprise warp dans l'atmosphère de Titan.
+> * Dans *Star Trek* (J. J. Abrams, 2009), l'USS Enterprise warp dans l'atmosphère de Titan.
 > * Dans *Titan* (2018), réalisé par Lennart Ruff. La Terre est devenue inhabitable et des expériences sont menées pour adapter l'humanité à la vie sur Titan.
 > * Dans *Judge Dredd*, une colonie pénitentiaire a été installée sur Titan.
 > * Il y a une mission sur Titan dans *Call of Duty: Infinite Warfare*
