@@ -953,7 +953,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Propriétés de Saturne](#Propriétés-de-Saturne)
 - [Missions vers Saturne](#Missions-vers-Saturne)
 - [Saturne dans la fiction](#Saturne-dans-la-fiction)
-- [Illustrations Saturne](#Illustrations-Saturne)
+- [Illustrations de Saturne](#Illustrations-Saturne)
 
 *Sources*
 
