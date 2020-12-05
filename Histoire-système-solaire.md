@@ -1014,6 +1014,8 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 ***Anneaux***
 - La plus grande découverte des sondes Voyager au niveau de Saturne concerne ses anneaux. Avant le survol des sondes, on pensait que 
 > comme les sillons d'un vinyle.
+- L'épaisseur des anneaux a aussi été mesurée pour la première fois : entre 10 et 200m.
+- Des structures plus petites (amas, vagues...) dues à l'intéractionont aussi été résolues.
 
 ***Lunes***
 - Voyager 1 et 2 ont découvert 4 nouvelles Lunes autour de Saturne, et ont confirmé l'hypothèse selon laquelle l'atmosphère de Titan serait majoritairement constituée d'azote.
