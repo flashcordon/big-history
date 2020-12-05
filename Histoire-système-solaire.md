@@ -970,10 +970,16 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Dragonfly: A Rotorcraft Lander Concept for Scientific Exploration at Titan](https://dragonfly.jhuapl.edu/News-and-Resources/docs/34_03-Lorenz.pdf) - Lorenz et al (2018)
 - [NASA's Dragonfly Mission to Titan](https://youtu.be/wJuWuJBbc1s) - Real Engineering (2019)
 - [Pioneer 11 at Saturn](https://solarsystem.nasa.gov/resources/722/pioneer-11-at-saturn/) - NASA
+- [Voyager : Saturn approach](https://voyager.jpl.nasa.gov/mission/science/saturn/) - NASA
+- [What Voyager probes saw when they dropped by Saturn](https://cosmosmagazine.com/space/what-voyager-probes-saw-when-they-dropped-by-saturn/) - COSMOS Magazine
+- [The Voyager Encounters](https://airandspace.si.edu/exhibitions/exploring-the-planets/online/solar-system/saturn/voyager-encounters.cfm) - Air and Space Museum
+- [When Voyager gave us the first close-up pictures of Saturn's rings](https://astronomy.com/magazine/2019/08/close-encounters-with-the-ringed-planet) - Astronomy Magazine
 
 ---
 
 ## Histoire de l'observation de Saturne
+
+- Some call Saturn the jewel of the solar system, with its distinctive rings, variety of moons, and swift atmospheric winds. The first glances of the planet through a telescope certainly form a memory that sticks in peoples’ minds
 
 ## Propriétés de Saturne
 
@@ -995,6 +1001,28 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - Pioneer 11 a aussi découvert 2 nouvelles Lunes (elle a faili s'écraser sur l'une d'entre elles), et un nouvel anneau (l'anneau F) autour de Saturne. Elle a révélé que Titan est une sphère orangée avec une atmosphère.
 
 ### Voyager 1 et 2
+
+- The Voyager 1 and 2 Saturn encounters occurred nine months apart, in November 1980 and August 1981. 
+- Voyager 1 found that about 7 percent of the volume of Saturn's upper atmosphere is helium (compared with 11 percent of Jupiter's atmosphere), while almost all the rest is hydrogen. Since Saturn's internal helium abundance was expected to be the same as Jupiter's and the Sun's, the lower abundance of helium in the upper atmosphere may imply that the heavier helium may be slowly sinking through Saturn's hydrogen; that might explain the excess heat that Saturn radiates over energy it receives from the Sun. (Saturn is the only planet less dense than water. In the unlikely event that a lake could be found large enough, Saturn would float in it.)
+- Winds blow at high speeds in Saturn. Near the equator, the Voyagers measured winds about 500 meters a second (1,100 miles an hour). The wind blows mostly in an easterly direction. Strongest winds are found near the equator, and velocity falls off uniformly at higher latitudes. At latitudes greater than 35 degrees, winds alternate east and west as latitude increases. 
+- The Voyagers found aurora-like ultraviolet emissions of hydrogen at mid-latitudes in the atmosphere, and auroras at polar latitudes (above 65 degrees). The high-level auroral activity may lead to formation of complex hydrocarbon molecules that are carried toward the equator. The mid-latitude auroras, which occur only in sunlit regions, remain a puzzle, since bombardment by electrons and ions, known to cause auroras on Earth, occurs primarily at high latitudes.
+- Both Voyagers measured the rotation of Saturn (the length of a day) at 10 hours, 39 minutes, 24 seconds.
+- Vouager 1 The probe discovered three new moons and an additional ring surrounding Saturn. It also learned that the atmosphere of the planet’s largest moon, Titan, is made mostly of nitrogen 
+- the Voyager probes were critical for analysing how Saturn’s atmosphere changed with the seasons as they measured the wind speeds, temperature and density of Saturn’s atmosphere. 
+- The spacecraft also revealed a great deal about the nature of Saturn’s moons – and identified four new ones – and confirmed the theory that the atmosphere of Saturn’s moon Titan was predominantly nitrogen. 
+- As Voyager 1 approached Saturn in November 1980, the rings began to reveal more and more detail. Once thought to be discretely separated bands, the rings now are known to consist of thousands of small bands which differ in particle size as well as in composition. 
+- Each closest approach was a quick encounter — after all, the probes were traveling faster than 9 miles per second (15 km/s).
+- On October 6, 1980, when Voyager 1 was still 30 million miles (50 million kilometers) from Saturn, researchers first made out dark streaks in the rings. The streaks didn’t circle the planet, but instead looked like they radiated away from it. These “spokes” were the first of many unexpected details in the ring system. 
+- As Voyager 1 neared closest approach and the resolution improved, the team could make out more details. “It looked like grooves on a phonograph record,” says Spilker of the rings. Hundreds of concentric rings circled Saturn. Scientists saw waves along the edges of gaps between those rings, as well as braided features and spiral structures within the rings — all due to the gravitational influence of small moons embedded in and sitting just outside of the rings. 
+- With those data, scientists could estimate the thickness at the edge of each ring: between 33 and 656 feet (10–200m). They saw smaller structures in the rings: clumps, twists, and waves — all due to the gravity of Saturn’s satellites. That occultation using Delta Scorpii was one of the most crucial observations Voyager made at Saturn. 
+- Before either Voyager arrived at Saturn, most of the planet’s moons were no more than pinpricks of light. Ground-based telescopes couldn’t resolve their surfaces, so scientists had little information about the immense variation these worlds hold.
+- First up was Titan, the planet’s largest moon. Voyager 1 made its closest approach to the orange sphere in the late hours of November 11, 1980, when it flew less than 310,000 miles (500,000km) from the moon. Scientists hoped to see through the thick atmosphere to learn about the surface, but Titan’s mysteries weren’t so easy to solve. The visible and infrared cameras could not penetrate the clouds. Fortunately, researchers could get a radio signal to the surface and back, and used it to calculate the atmosphere’s density: 1.6 times that of Earth.
+- What Voyager did reveal of Titan, though — knowledge of its atmosphere’s density and composition, the possibility of hydrocarbons perhaps in liquid form at the surface — made Titan even more intriguing for further study.
+-  it was that flyby that sparked the Cassini mission.
+- The Titan discoveries were just the beginning of revealing the saturnian satellites. From afar, two of the planet’s closer-in moons, Mimas and Enceladus, had been considered twins due to their similar sizes. But on November 12, 1980, Voyager found that their surfaces look vastly different. 
+-  Saturn’s atmosphere hosts incredible storms and enormous jet streams, and the Voyager twins were the first spacecraft to photograph the details in those cloud tops up close.
+- While reanalyzing Voyager images of Saturn’s poles, astronomer David Godfrey discovered a hexagonal shape surrounding the northern pole. That surprising shape comes from jet streams moving at different speeds.
+- 
 
 ### Cassini-Huygens
 
@@ -1058,6 +1086,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [The science of Dragonfly](https://www.youtube.com/watch?v=GlwzLPytW9A&feature=emb_title) - NASA Goddard
 - [Dragonfly Mission Landing Animation](https://youtu.be/IdYeWN9ZivE) - NASA
 - [Dragonfly Gallery](https://dragonfly.jhuapl.edu/Gallery/) - John Hopkins
+- [The Voyager Encounters](https://airandspace.si.edu/exhibitions/exploring-the-planets/online/solar-system/saturn/voyager-encounters.cfm) - Air and Space Museum
 
 # Uranus
 
