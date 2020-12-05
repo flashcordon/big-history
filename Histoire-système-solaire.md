@@ -1002,11 +1002,12 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 ### Voyager 1 et 2
 
-- The Voyager 1 and 2 Saturn encounters occurred nine months apart, in November 1980 and August 1981. 
+- Les sondes Voyager ont survolé Saturne à 9 mois d'écart, respectivement en Novembre 1980 et en Août 1981.
+- Elles ont mesuré pour la première fois le taux de rotation de Saturne : 10 heures, 39 minutes et 24 secondes.
+- Elles ont découvert des émissions en ultraviolet de l'atome d'hydrogène aux lattitudes moyennes de la planète (dans les régions éclairées par le Soleil), qui ressemblent à des aurores. Ce phénomène n'est pas encore expliqué à ce jour parce que le bombardement par les ions et les électrons est sensé se produire surtout aux hautes latitudes.
+- Elles ont aussi découvert des aurores aux pôles de Saturne, qui pourraient conduire à la formation d'hydrocarbures complexes qui seraient transportés au niveau de l'équateur.
 - Voyager 1 found that about 7 percent of the volume of Saturn's upper atmosphere is helium (compared with 11 percent of Jupiter's atmosphere), while almost all the rest is hydrogen. Since Saturn's internal helium abundance was expected to be the same as Jupiter's and the Sun's, the lower abundance of helium in the upper atmosphere may imply that the heavier helium may be slowly sinking through Saturn's hydrogen; that might explain the excess heat that Saturn radiates over energy it receives from the Sun. (Saturn is the only planet less dense than water. In the unlikely event that a lake could be found large enough, Saturn would float in it.)
 - Winds blow at high speeds in Saturn. Near the equator, the Voyagers measured winds about 500 meters a second (1,100 miles an hour). The wind blows mostly in an easterly direction. Strongest winds are found near the equator, and velocity falls off uniformly at higher latitudes. At latitudes greater than 35 degrees, winds alternate east and west as latitude increases. 
-- The Voyagers found aurora-like ultraviolet emissions of hydrogen at mid-latitudes in the atmosphere, and auroras at polar latitudes (above 65 degrees). The high-level auroral activity may lead to formation of complex hydrocarbon molecules that are carried toward the equator. The mid-latitude auroras, which occur only in sunlit regions, remain a puzzle, since bombardment by electrons and ions, known to cause auroras on Earth, occurs primarily at high latitudes.
-- Both Voyagers measured the rotation of Saturn (the length of a day) at 10 hours, 39 minutes, 24 seconds.
 - Vouager 1 The probe discovered three new moons and an additional ring surrounding Saturn. It also learned that the atmosphere of the planet’s largest moon, Titan, is made mostly of nitrogen 
 - the Voyager probes were critical for analysing how Saturn’s atmosphere changed with the seasons as they measured the wind speeds, temperature and density of Saturn’s atmosphere. 
 - The spacecraft also revealed a great deal about the nature of Saturn’s moons – and identified four new ones – and confirmed the theory that the atmosphere of Saturn’s moon Titan was predominantly nitrogen. 
@@ -1022,7 +1023,6 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - The Titan discoveries were just the beginning of revealing the saturnian satellites. From afar, two of the planet’s closer-in moons, Mimas and Enceladus, had been considered twins due to their similar sizes. But on November 12, 1980, Voyager found that their surfaces look vastly different. 
 -  Saturn’s atmosphere hosts incredible storms and enormous jet streams, and the Voyager twins were the first spacecraft to photograph the details in those cloud tops up close.
 - While reanalyzing Voyager images of Saturn’s poles, astronomer David Godfrey discovered a hexagonal shape surrounding the northern pole. That surprising shape comes from jet streams moving at different speeds.
-- 
 
 ### Cassini-Huygens
 
