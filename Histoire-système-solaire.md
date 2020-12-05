@@ -1006,16 +1006,23 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - Elles ont mesuré pour la première fois le taux de rotation de Saturne : 10 heures, 39 minutes et 24 secondes.
 - Elles ont découvert des émissions en ultraviolet de l'atome d'hydrogène aux lattitudes moyennes de la planète (dans les régions éclairées par le Soleil), qui ressemblent à des aurores. Ce phénomène n'est pas encore expliqué à ce jour parce que le bombardement par les ions et les électrons est sensé se produire surtout aux hautes latitudes.
 - Elles ont aussi découvert des aurores aux pôles de Saturne, qui pourraient conduire à la formation d'hydrocarbures complexes qui seraient transportés au niveau de l'équateur.
-- Voyager 1 et 2 ont découvert 4 nouvelles Lunes autour de Saturne, et ont confirmé l'hypothèse selon laquelle l'atmosphère de Titan serait majoritairement constituée d'azote.
 - Les sondes ont observé comment l'atmosphère de Saturne change d'apparence au fil des saisons, et ils ont mesuré la vitesse des vents (500m/s à l'équateur, essentiellement d'ouest en est), la composition la température et la densité de l'atmosphère de la planète.
 > * Elles ont notamment observé en détail d'énormes tempêtes et des jet streams
 > * Voyager 1 a découvert que seulement 7% du volume de la haute atmosphère Saturne est composé d'hélium, contrairement aux 11% de Jupiter (le reste c'est essentiellement de l'hydrogène). Comme Jupiter et Saturne sont sensé avoir la même abondance en hélium que le Soleil, cela semble montrer que l'hélium de Saturne coule à l'intérieur de la planète
 - En ré-analysant les images de Saturne prises par les sondes Voyager, l'astronome David Godfrey a découvert un motif hexagonal au pôle Nord de Saturne.
+
+***Anneaux***
+- La plus grande découverte des sondes Voyager au niveau de Saturne concerne ses anneaux. Avant le survol des sondes, on pensait que 
+> comme les sillons d'un vinyle.
+
+***Lunes***
+- Voyager 1 et 2 ont découvert 4 nouvelles Lunes autour de Saturne, et ont confirmé l'hypothèse selon laquelle l'atmosphère de Titan serait majoritairement constituée d'azote.
+- Avant le survol des sondes Voyager, la plupart des lunes de Saturne n'étaient que des points à la surface non résolue pour les astronomes. On a ainsi obtenu les premiers clichés rapprochés de certaines lunes, ce qui a révélé la diversité de ces dernières.
+
 - As Voyager 1 approached Saturn in November 1980, the rings began to reveal more and more detail. Once thought to be discretely separated bands, the rings now are known to consist of thousands of small bands which differ in particle size as well as in composition. 
 - On October 6, 1980, when Voyager 1 was still 30 million miles (50 million kilometers) from Saturn, researchers first made out dark streaks in the rings. The streaks didn’t circle the planet, but instead looked like they radiated away from it. These “spokes” were the first of many unexpected details in the ring system. 
 - As Voyager 1 neared closest approach and the resolution improved, the team could make out more details. “It looked like grooves on a phonograph record,” says Spilker of the rings. Hundreds of concentric rings circled Saturn. Scientists saw waves along the edges of gaps between those rings, as well as braided features and spiral structures within the rings — all due to the gravitational influence of small moons embedded in and sitting just outside of the rings. 
 - With those data, scientists could estimate the thickness at the edge of each ring: between 33 and 656 feet (10–200m). They saw smaller structures in the rings: clumps, twists, and waves — all due to the gravity of Saturn’s satellites. That occultation using Delta Scorpii was one of the most crucial observations Voyager made at Saturn. 
-- Before either Voyager arrived at Saturn, most of the planet’s moons were no more than pinpricks of light. Ground-based telescopes couldn’t resolve their surfaces, so scientists had little information about the immense variation these worlds hold.
 - First up was Titan, the planet’s largest moon. Voyager 1 made its closest approach to the orange sphere in the late hours of November 11, 1980, when it flew less than 310,000 miles (500,000km) from the moon. Scientists hoped to see through the thick atmosphere to learn about the surface, but Titan’s mysteries weren’t so easy to solve. The visible and infrared cameras could not penetrate the clouds. Fortunately, researchers could get a radio signal to the surface and back, and used it to calculate the atmosphere’s density: 1.6 times that of Earth.
 - What Voyager did reveal of Titan, though — knowledge of its atmosphere’s density and composition, the possibility of hydrocarbons perhaps in liquid form at the surface — made Titan even more intriguing for further study.
 -  it was that flyby that sparked the Cassini mission.
