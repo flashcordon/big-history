@@ -1039,8 +1039,8 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 ## Saturne dans la fiction
 
+- Lorsque l'extraterrestre Micromégas arrive sur Saturne, dans le conte philosophique de Voltaire (1752), la planète est habitée par des personnes de 2 kilomètres de haut, à 72 sens et vivant prè de 15 000 ans. Il se lie d’amitié avec le secrétaire de l’Académie de Saturne, un « nain » à ses yeux, qu'il accompagne sur Terre. 
 -  is therefore the only outer planet featured in Athanasius Kircher's and Emanuel Swedenborg's interplanetary tours
-- Micromégas (1752) by Voltaire. Micromégas, an extraterrestrial visitor, arrives at Saturn first (Uranus and Neptune had not yet been discovered in 1752[1]). Saturn's citizens are "only a thousand fathoms high", have 72 senses and live for about 15,000 years. Micromégas forms a close friendship with the secretary of the Academy of Saturn, who accompanies him to Earth.
 - Off on a Comet (1877) by Jules Verne. Adventurers pass within 415,000,000 miles of Saturn while riding on a comet. The book describes Saturn as having 8 satellites and 3 rings. It contains a black and white illustration showing what night might look like from the surface of the planet. The rings are brightly illuminated by the sun, and an elliptical shadow is cast on them by the planet. The drawing shows the surface of Saturn as a rocky, desolate, solid surface.
 - A Journey in Other Worlds (1894) by John Jacob Astor IV. Explorers from Earth reach Saturn from Jupiter (which is a tropical jungle world, much like ancient Earth) and find that the planet is a dark, dry, dying planet. The only inhabitants of Saturn are gigantic, ghostlike creatures that communicate telepathically and can predict the future.
 - Saturn was visited, en route to Earth, by Voltaire's tourist from Sirius in Micromegas (in Le Micromégas de Mr. de Voltaire ..., coll 1752; trans anon 1753), and a Saturnian accompanied him on his sightseeing trip. Sir Humphry Davy's far-ranging traveller describes Saturn and its giant inhabitants in Consolations in Travel (1830). Saturn is one of the stops in a Balloon tour of several planets in Paul Aermont's A Narrative of the Travels and Adventures of Paul Aermont Among the Planets (1873).
@@ -1059,9 +1059,12 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - In the 1930s Buck Rogers old time radio show, Enceladus makes an appearance. In the story entitled "Killer Kane and Ardala on Saturn's moon," the titular villains try to take over the peaceful government of the Saturnian moon. The moon is depicted as having an atmosphere and supporting a happy population of humanoid life. Buck races to the moon to set things right.
 - In Arthur C. Clarke's novel 2001: A Space Odyssey (1968), astronaut Dave Bowman finds an enigmatic alien monolith waiting for him on the surface of Iapetus (referred to as "Japetus" throughout). Iapetus's two tone coloration is caused by a vast white ellipse on the moon's surface, with the monolith appearing as a black dot in its exact center. When the Voyager space probes arrived at Iapetus thirteen years later, they discovered that there was indeed a black region within the moon's brighter hemisphere. Clarke reports that Carl Sagan, who was on the Voyager imaging team, sent him a photo, with the note "Thinking of you ...".[3] Because of difficulties achieving a convincing model of Saturn's rings, the film version of 2001: A Space Odyssey relocated the monolith to an orbit around Jupiter. The three sequel novels written by Clarke follow the film rather than the novel in this matter.
 - In Dan Simmons's Hyperion, the eponymous planet was first colonised by settlers from a colony on the moon Hyperion.
-- Titan (2018), réalisé par Lennart Ruff. La Terre est devenue inhabitable et des expériences sont menées pour adapter l'humanité à la vie sur Titan.
-- Cowboy Bebop, où Titan est devenu un désert stérile après une guerre dans les années 2060 à laquelle ont participé plusieurs personnages de la série.
-- Judge Dredd, où une colonie pénitentiaire a été installée sur Titan.
+
+***Titan***
+- La lune a été un lieu de choix pour quelques oeuvres de SF :
+> * Dans *Titan* (2018), réalisé par Lennart Ruff. La Terre est devenue inhabitable et des expériences sont menées pour adapter l'humanité à la vie sur Titan.
+> * Dans *Cowboy Bebop*, où Titan est devenu un désert stérile après une guerre dans les années 2060 à laquelle ont participé plusieurs personnages de la série.
+> * Dans *Judge Dredd*, une colonie pénitentiaire a été installée sur Titan.
 
 ## Illustrations de Saturne 
 
