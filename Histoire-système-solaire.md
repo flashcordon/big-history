@@ -1051,7 +1051,6 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - Another moon of Saturn, Iapetus (discovered 1671), is of interest for its possession of a bright and a dark hemisphere: it features in Theodore Sturgeon's "The Comedian's Children" (May 1958 Venture), Arthur C Clarke's 2001: A Space Odyssey (1968) – here under its alternate spelling Japetus – Grant Callin's Saturnalia sequence comprising Saturnalia (1986) and A Lion on Tharthee (1987), and William S Kirby's Iapetus (1993).
 - In the film Interstellar, NASA sends a four astronauts aboard a spacecraft called the Endurance to Saturn in order to enter a wormhole next to the planet in order to find a new habitable planet for the people of Earth.
 
-- In the 1930s Buck Rogers old time radio show, Enceladus makes an appearance. In the story entitled "Killer Kane and Ardala on Saturn's moon," the titular villains try to take over the peaceful government of the Saturnian moon. The moon is depicted as having an atmosphere and supporting a happy population of humanoid life. Buck races to the moon to set things right.
 - In Arthur C. Clarke's novel 2001: A Space Odyssey (1968), astronaut Dave Bowman finds an enigmatic alien monolith waiting for him on the surface of Iapetus (referred to as "Japetus" throughout). Iapetus's two tone coloration is caused by a vast white ellipse on the moon's surface, with the monolith appearing as a black dot in its exact center. When the Voyager space probes arrived at Iapetus thirteen years later, they discovered that there was indeed a black region within the moon's brighter hemisphere. Clarke reports that Carl Sagan, who was on the Voyager imaging team, sent him a photo, with the note "Thinking of you ...".[3] Because of difficulties achieving a convincing model of Saturn's rings, the film version of 2001: A Space Odyssey relocated the monolith to an orbit around Jupiter. The three sequel novels written by Clarke follow the film rather than the novel in this matter.
 - In Dan Simmons's Hyperion, the eponymous planet was first colonised by settlers from a colony on the moon Hyperion.
 
@@ -1064,6 +1063,11 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 > * Dans *Titan* (2018), réalisé par Lennart Ruff. La Terre est devenue inhabitable et des expériences sont menées pour adapter l'humanité à la vie sur Titan.
 > * Dans *Judge Dredd*, une colonie pénitentiaire a été installée sur Titan.
 > * Il y a une mission sur Titan dans *Call of Duty: Infinite Warfare*
+
+***Autres lunes***
+- Dans l'aventure radio de Buck Rogers *Killer Kane and Ardala on Saturn's moon* (années 30), les méchants tetent un coup d'état du gouvernement de la lune Encelade, peuplée d'humanoides heureux.
+- Dans *2001 l'odyssée de l'espace* (Arthur C. Clarke, 1968), Dave Bowman trouve un monolithe à la surface de Japet.
+> Dans la version du film, suite à des difficultés à modéliser les anneaux de Saturne à l'écran, Stanley Kubrick a déplacé cette scène dans l'orbite de Jupiter. 
 
 ## Illustrations de Saturne 
 
