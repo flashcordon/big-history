@@ -969,6 +969,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [PSW 2397 Dragonfly: Exploring Titan by Rotorcraft | Zibi Turtle](https://youtu.be/bukR9jljUrU) - PSW Science
 - [Dragonfly: A Rotorcraft Lander Concept for Scientific Exploration at Titan](https://dragonfly.jhuapl.edu/News-and-Resources/docs/34_03-Lorenz.pdf) - Lorenz et al (2018)
 - [NASA's Dragonfly Mission to Titan](https://youtu.be/wJuWuJBbc1s) - Real Engineering (2019)
+- [Pioneer 11 at Saturn](https://solarsystem.nasa.gov/resources/722/pioneer-11-at-saturn/) - NASA
 
 ---
 
@@ -987,6 +988,11 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 ## Missions vers Saturne
 
 ### Pioneer 11
+
+- Entre Juillet et Octobre 1979, la sonde Pioneer 11 réalise le premier survol rapproché de Saturne. Au plus près, elle s'est approchée à 21 000 km de la couche nuageuse de la planète.
+> Elle réalise de nombreuses mesures scientifiques et prend 440 images du système saturnien.
+- Grâce à ce survol, on a appris que l'atmosphère de Saturne est majoritairement constituée d'hydrogène liquide, et que la planète possède un champ magnétique.
+- Pioneer 11 a aussi découvert 2 nouvelles Lunes (elle a faili s'écraser sur l'une d'entre elles), et un nouvel anneau (l'anneau F) autour de Saturne. Elle a révélé que Titan est une sphère orangée avec une atmosphère.
 
 ### Voyager 1 et 2
 
