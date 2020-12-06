@@ -974,6 +974,13 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [What Voyager probes saw when they dropped by Saturn](https://cosmosmagazine.com/space/what-voyager-probes-saw-when-they-dropped-by-saturn/) - COSMOS Magazine
 - [The Voyager Encounters](https://airandspace.si.edu/exhibitions/exploring-the-planets/online/solar-system/saturn/voyager-encounters.cfm) - Air and Space Museum
 - [When Voyager gave us the first close-up pictures of Saturn's rings](https://astronomy.com/magazine/2019/08/close-encounters-with-the-ringed-planet) - Astronomy Magazine
+- [Cassini-Huygens’ exploration of the Saturn system: 13 years of discovery](https://science.sciencemag.org/content/364/6445/1046?rss=1) - Spilker (2019)
+- [The history of the Cassini-Huygens Mission from historical origins until its successful launch in 1997](https://ui.adsabs.harvard.edu/abs/2018DPS....5020502S/abstract) - Strobel (2018)
+- [Titan's cold case files - Outstanding questions after Cassini-Huygens](https://www.sciencedirect.com/science/article/pii/S0032063317302854) - Nixon et al (2018)
+- [Cassini-Huygens overview](https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens_overview) - ESA
+- [Cassini-Huygens](https://www.jpl.nasa.gov/missions/cassini-huygens/) - NASA
+- [A mission to Saturn and its moons](https://www.dlr.de/cassini-huygens/en/desktopdefault.aspx/tabid-309/468_read-660/) - DLR
+- [What Cassini-Huygens has revealed about Titan](https://academic.oup.com/astrogeo/article/48/2/2.14/185249) - Coustenis (2007)
 
 ---
 
