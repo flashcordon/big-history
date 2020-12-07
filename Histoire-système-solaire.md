@@ -981,22 +981,28 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Cassini-Huygens](https://www.jpl.nasa.gov/missions/cassini-huygens/) - NASA
 - [A mission to Saturn and its moons](https://www.dlr.de/cassini-huygens/en/desktopdefault.aspx/tabid-309/468_read-660/) - DLR
 - [What Cassini-Huygens has revealed about Titan](https://academic.oup.com/astrogeo/article/48/2/2.14/185249) - Coustenis (2007)
+- [The Legacy of Cassini-Huygens](https://royalsociety.org/blog/2017/09/the-legacy-of-cassini-huygens/) - Royal Society blog
 
 ---
 
 ## Histoire de l'observation de Saturne
 
 - Some call Saturn the jewel of the solar system, with its distinctive rings, variety of moons, and swift atmospheric winds. The first glances of the planet through a telescope certainly form a memory that sticks in peoples’ minds
+- In 1655 Christiaan Huygens, a Dutch amateur astronomer, discovered Saturn's satellite Titan named for its great size (half that of the Earth's) and thought to be the largest moon in our solar system thanks to its extended atmosphere. 
 
 ## Propriétés de Saturne
 
 ## Lunes de Saturne
 - Titan is the largest moon of Saturn. It has a substantial atmosphere and is the most Earth-like satellite in the Solar System
+-  This atmosphere is essentially composed of molecular nitrogen (at a surface pressure of 1.5 bar, almost like on Earth), and is the host of an active organic chemistry due to the combination of CH4 and N2. Hydrocarbons, nitriles (some of which, such as HCN, are called “prebiotic” and are considered to be the precursors of life on our own planet) and traces of oxygen in Titan, in the form of H2O, CO and CO2, comprise the gaseous content of the atmosphere. Titan is a dark place and the temperature is very low (varies from 70 to180 K in the atmosphere) due to the 10 AU distance from the Sun. At the surface, the temperature reaches 94 K (Fulchignoni 2005) thanks to a greenhouse effect, as on our planet.
+
 - Enceladus is a small, icy moon orbiting close to Saturn, with an extremely bright surface and the geyser-like plumes of ice and water vapor that erupt from its southern polar region. It is the source of material for Saturn's E Ring. 
 - Iapetus is a large moon orbiting further from Saturn than any of its other large satellites. Half of its surface is very bright while the other half is extremely dark. Investigations since 2004 have also noted its irregular shape, immense impact basins, and a high mountainous ridge on the equator. 
 - Hyperion is the largest irregularly-shaped moon of Saturn, orbiting between Titan and Iapetus. 
 
 ## L'hexagone polaire de Saturne
+
+-  The long time spent at Saturn by Cassini has revealed that the mysterious hexagonal-shaped jet stream in Saturn’s atmosphere around the north pole is stable over years, as are storms at both poles, and scientists are still not in agreement on why there are these structures in the giant planet’s atmosphere. Cassini also saw an enormous storm emerge in the atmosphere in 2010, which lasted for almost a whole year.
 
 ## Missions vers Saturne
 
@@ -1027,9 +1033,47 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - Avant le survol des sondes Voyager, la plupart des lunes de Saturne n'étaient que des points à la surface non résolue pour les astronomes. On a ainsi obtenu les premiers clichés rapprochés de certaines lunes, ce qui a révélé la diversité de ces dernières.
 - Voyager 1 et 2 ont découvert 4 nouvelles Lunes autour de Saturne
 - Lors de son survol à moins de 500 000 km de Titan, le 11 Novembre 1980, Voyager 1 a analysé la densité de l'atmosphère du satellite : 1,6 fois celle de la Terre. Les survols des Voyager ont aussi confirmé l'hypothèse selon laquelle l'atmosphère de Titan serait majoritairement constituée d'azote.
+- Titan's exploration begun in the 1980s with the stunning Voyager missions, which returned its atmospheric composition and other characteristics during just one close flyby. However, such things as the nature of the surface or the aerosol distribution, or the structure in the troposphere remained unknown, because of the thick haze deck surrounding the moon.
 - C'est ce survol de Titan qui a déclenché une vague d'intérêt pour le satellite, et lancé la mission Cassini.
 
-### Cassini-Huygens
+### Cassini-Huygens (ESA-NASA)
+
+- The Cassini-Huygens mission was launched in 1997 and arrived in the Saturnian system in 2004.
+ - An extraordinary collaboration between ESA and NASA generated the extremely fruitful Cassini-Huygens mission, composed of an orbiter and a probe (Huygens)
+ - The spacecraft is equipped with 18 science instruments (12 on the orbiter and 6 carried by the probe), gathering both remote sensing and in situ data
+ - The 5650 kg (6 ton) Cassini-Huygens spacecraft was launched successfully on 15 October 1997 from the Kennedy Space Center at Cape Canaveral
+ - Cassini-Huygens reached Saturn in July 2004 and performed a flawless orbit insertion, becoming trapped forever in orbit like one of Saturn's moons.
+ -  Power is provided through three Radioisotope Thermoelectric Generators (RTGs).
+ - The instruments study the temperatures in various locations, the plasma levels, the neutral and charged particles, the surface composition, the atmospheres and rings, the solar wind, and even the dust grains in the Saturn system. Other instruments perform spectral mapping for high-quality images of the ringed planet, its moons and rings.
+ - only met its end this year, 2017.
+ - How long is a day on Saturn?: We still don’t know! This might seem like an easy thing to figure out, but the different bands of Saturn’s atmosphere rotate at different rates, only constraining the length of a day to somewhere between 10 and 11 hours. The wobble of the planet’s magnetic field and periodic changes in radio waves coming from near Saturn were expected to give us a better idea, but Cassini has shown that this gives a different length of day in the North compared to the South, and these both change as Saturn travels around the Sun.
+ 
+***Titan***
+- The Huygens probe lands on Titan: Saturn’s largest moon, Titan, has a thick, nitrogen-rich atmosphere, leading many to refer to Titan as “primordial Earth in a freezer”.
+- the mission saw the deployment of the European-built Huygens probe. After release from the Cassini orbiter, on 25 December 2004, this 300 kg probe plunged into Titan's atmosphere on 14 January 2005 at 11:04 UTC and descended through it by means of several parachute breaks, which slowed the probe from supersonic speeds of 6 km/s during entry and down to 5 m/s at impact. The five batteries onboard the probe lasted much longer than expected, allowing Huygens to collect descent data for 2 hrs and 27 mns and surface data for 1 hr and 12 mns
+- the first probe to land on a world in the Outer Solar System
+- During its descent, Huygens' Descent Imager Spectral Radiometer (DISR) returned more than 750 images, while the probe's other five instruments sampled Titan's atmosphere to help determine its composition and structure.
+- in situ observations conducted by the Cassini-Huygens mission after a 7.5-year trek through our solar system. Since the Saturn orbit insertion in July 2004, we have witnessed the fantastic success of the Huygens mission, which descended through Titan's atmosphere on 14 January 2005. The combined orbiter and probe investigations have been a precious means for describing Titan's atmosphere and surface, returning wonderful new data whose analysis has revealed an amazing world, in many ways similar to our planet yet 10 times further away from our Sun.
+- The Cassini-Huygens HASI instrument measured Titan's temperature profile at the probe's landing site (10°S, 192°W) from 1400 km down to the surface, where 93.65 ± 0.25 K were measured for a surface pressure of 1467 ± 1 hPa. As Voyager did before, HASI found Titan's atmosphere to exhibit the features that characterize the Earth's thermal structure: an exosphere, a mesosphere, a stratosphere and a troposphere
+-  The surface temperature as determined by HASI (12 K warmer than the effective temperature of 82 K) is maintained by a greenhouse warming (mostly due to methane and nitrogen) of 22 K, offset by cooling by the haze.
+- With the detection of water vapour, the source for the atmospheric carbon monoxide and carbon dioxide observed in Titan was at last found.
+-  The source for water on Titan can be found in the rings of Saturn, the meteorites or comets. 
+- The CIRS spectra yielded vertical distribution information for most of the hydrocarbons and nitriles (Vinatier 2006). Most of the vertical distributions increase with altitude, confirming the prediction of photochemical models that these species form in the upper atmosphere and then diffuse downwards in the stratosphere.
+- Titan's surface has been known to be covered with bright regions separated by darker material from ground-based and HST observations
+- Titan may well exhibit cryovolcanic activity, in view of various recent reports (Sotin 2005) from Cassini/ISS. A bright circular structure (about 30 km in diameter) found in the VIMS hyperspectral images is interpreted as a cryovolcanic dome in an area dominated by extension. The VIMS team hypothesized that the dry channels observed on Titan are related to upwelling “hot ice” and contaminated by hydrocarbons that vaporize as they get close to the surface (to account for the methane gas in the atmosphere). These mechanisms are similar to those operating for silicate volcanism on Earth (using tidal heating as an energy source) and may lead to flows of non-H2O ices on Titan's surface. Following such eruptions, methane rain could produce the dendritic dark structures seen by Cassini-Huygens.
+- The Cassini instruments have found no obvious evidence for heavy cratering on the bright or the dark areas of Titan so far. A few features interpreted as impact craters (or volcanoes) have been announced to date
+-  This may mean that the surface of Titan is young (less than a billion years) or highly eroded/modified.
+- Recent features observed by the Cassini orbiter include large areas similar to the dunes as observed on Earth
+- These formations are aligned west to east covering hundreds of kilometres and rising to about 100 m. They are expected to have formed for the major part due to the influence of Saturn (through tidal forces 400 times greater than on Earth, causing winds of about 0.5 m/s at the surface) and could easily move the Titanian “sand” in this world of low gravity. The nature of this “sand” is, however, quite different from that on our planet, consisting of fine grains of ice or organic material.
+- record for the furthest landing of a man-made machine ever. 
+- No biotic signatures have been found on Titan. One of the elements in the negative response (at least so far as the present or past life is concerned) was found by the GCMS in the 13C/14C isotopic ratio, which showed that no active biota exist on Titan and that the methane on Titan is of non-biologic source.
+- we now know that it rains methane on Titan, forming rivers and lakes. Titan’s atmosphere is a soup of complex hydrocarbons
+
+***Encelade***
+- During a flyby of this icy moon the UK-led magnetometer instrument (a “space compass”) measured a disturbance in Saturn’s magnetic field, and the rest is history. The disturbance was shown to be evidence of a dynamic atmosphere now called the plumes of Enceladus. Further observations of more flybys showed that these are plumes of water coming from cracks in Enceladus’ icy surface near the moon’s south pole, which likely originate from an ocean beneath the ice. 
+
+***Anneaux***
+-  Thanks to many years in orbit Cassini’s cameras have shown us how active and dynamic the planet’s distinctive ring system really is. Cassini has seen structures in the rings that look like propellers, and witnessed what might be the birth of a new moon. Also, while we knew Saturn’s rings were thin, the changing seasons experienced by Cassini allowed us to see shadows on the rings that gives researchers what they need in order to calculate just how thin they are, to greater accuracy than ever before.
 
 ### Dragonfly (2027-2039)
 
