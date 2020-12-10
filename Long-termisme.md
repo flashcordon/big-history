@@ -10,5 +10,10 @@
 - [Introducing longtermism](https://80000hours.org/articles/future-generations/) - Benjamin Todd (2017)
 - [The long-term future](https://concepts.effectivealtruism.org/concepts/the-long-term-future/) - Effective Altruism Concepts
 - [Toby Ord on Longtermism](https://podcasts.apple.com/us/podcast/115-toby-ord-on-longtermism/id1147502226?i=1000471003936) - The Good Life
+- [Stories on long-termism](https://www.climate-kic.org/programmes/deep-demonstrations/long-termism/publications/) - Climate-KIC
+- [On the overwhelming importance of shaping the far future](https://rucore.libraries.rutgers.edu/rutgers-lib/40469/PDF/1/play/) - Nicholas Beckstead
+- [The Long Time Tools: Tools to cultivate long-termism in institutions](https://static1.squarespace.com/static/5eb2e536e7ddf65e8cb25952/t/5f3e5375754fa93c1a097e6b/1597920137599/Long+Time+Project_Long+Time+Tools.pdf) -  Climate-KIC, The Long Time Project
+- [The Long Time Project](https://www.thelongtimeproject.org/)
+- [Why the long-term future of humanity matters more than anything else, and what we should do about it](https://80000hours.org/podcast/episodes/why-the-long-run-future-matters-more-than-anything-else-and-what-we-should-do-about-it/) - Toby Ord, 80 000 hours podcast
 
 ---
