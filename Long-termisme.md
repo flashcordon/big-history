@@ -15,5 +15,6 @@
 - [The Long Time Tools: Tools to cultivate long-termism in institutions](https://static1.squarespace.com/static/5eb2e536e7ddf65e8cb25952/t/5f3e5375754fa93c1a097e6b/1597920137599/Long+Time+Project_Long+Time+Tools.pdf) -  Climate-KIC, The Long Time Project
 - [The Long Time Project](https://www.thelongtimeproject.org/)
 - [Why the long-term future of humanity matters more than anything else, and what we should do about it](https://80000hours.org/podcast/episodes/why-the-long-run-future-matters-more-than-anything-else-and-what-we-should-do-about-it/) - Toby Ord, 80 000 hours podcast
+- [Futures in Long-termism](https://medium.com/futures-in-long-termism/futures-in-long-termism-95f64710f9b2) - Dark Matter Labs, Medium
 
 ---
