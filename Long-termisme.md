@@ -19,5 +19,6 @@
 - [Why the long-term future of humanity matters more than anything else, and what we should do about it](https://80000hours.org/podcast/episodes/why-the-long-run-future-matters-more-than-anything-else-and-what-we-should-do-about-it/) - Toby Ord, 80 000 hours podcast
 - [Futures in Long-termism](https://medium.com/futures-in-long-termism/futures-in-long-termism-95f64710f9b2) - Dark Matter Labs, Medium
 - [The benefits of embracing 'deep time' in a year like 2020](https://www.bbc.com/future/article/20201209-the-benefits-of-embracing-deep-time-in-a-year-like-2020) - BBC Futures
+- [The Long-termist's Field Guide: 1,000 Ideas For The Next 1,000 Years](https://longtermist.substack.com/) - Richard Fisher
 
 ---
