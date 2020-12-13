@@ -20,5 +20,6 @@
 - [Futures in Long-termism](https://medium.com/futures-in-long-termism/futures-in-long-termism-95f64710f9b2) - Dark Matter Labs, Medium
 - [The benefits of embracing 'deep time' in a year like 2020](https://www.bbc.com/future/article/20201209-the-benefits-of-embracing-deep-time-in-a-year-like-2020) - BBC Futures
 - [The Long-termist's Field Guide: 1,000 Ideas For The Next 1,000 Years](https://longtermist.substack.com/) - Richard Fisher
+- [Introducing "Long-terminology": The vocabulary of long-term thinking](https://longtermist.substack.com/p/introducing-long-terminology) - Richard Fisher
 
 ---
