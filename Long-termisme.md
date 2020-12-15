@@ -23,5 +23,6 @@
 - [The Long-termist's Field Guide: 1,000 Ideas For The Next 1,000 Years](https://longtermist.substack.com/) - Richard Fisher
 - [Introducing "Long-terminology": The vocabulary of long-term thinking](https://longtermist.substack.com/p/introducing-long-terminology) - Richard Fisher
 - [The Best Books for Long-Term Thinking](https://fivebooks.com/best-books/long-term-thinking-roman-krznaric/) - recommended by Roman Krznaric, Five Books
+- [The History of the Earth at an Arms Length](https://www.seh.ox.ac.uk/blog/the-history-of-the-earth-at-an-arms-length) - Brooke Johnson
 
 ---
