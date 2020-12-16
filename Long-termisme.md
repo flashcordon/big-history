@@ -8,6 +8,7 @@
 - The Precipice - Toby Ord (2020)
 - Timefulness:  How Thinking Like a Geologist Can Help Save the World - Marcia Bjornerud (2018)
 - The End of Everything: (Astrophysically Speaking) - Katie Mack (2020)
+- Underland: A Deep Time Journey - Robert Macfarlane (2019)
 - [Psychology of existential risk and longtermism | Stefan Schubert | EA Global: London 2018](https://youtu.be/FR9lZGKL1Dg?list=PLwp9xeoX5p8NjWAeGnbe5tQwoXm3oMY3H) - Center for Effective Altruism (2019)
 - [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/wp-content/uploads/2019/Greaves_MacAskill_The_Case_for_Strong_Longtermism.pdf) - Hilary Greaves and William MacAskill
 - [Introducing longtermism](https://80000hours.org/articles/future-generations/) - Benjamin Todd (2017)
