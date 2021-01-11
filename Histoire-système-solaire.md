@@ -989,6 +989,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Are Saturn’s Rings Really as Young as the Dinosaurs?](https://www.quantamagazine.org/are-saturns-rings-really-as-young-as-the-dinosaurs-20191121/) - Quanta Magazine (2019)
 - [Are Saturn’s rings actually young?](https://www.nature.com/articles/s41550-019-0876-y) - Crida et al (2019)
 - [Saturn and its Rings: Four Centuries of Imperfect Amodal Completion](https://journals.sagepub.com/doi/full/10.1177/2041669518822084) - Roncato (2019)
+- [The Origin of Planetary Ring Systems](https://arxiv.org/abs/1703.09741) - Charnoz et al (2018)
 
 ---
 
