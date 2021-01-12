@@ -990,6 +990,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Are Saturn’s rings actually young?](https://www.nature.com/articles/s41550-019-0876-y) - Crida et al (2019)
 - [Saturn and its Rings: Four Centuries of Imperfect Amodal Completion](https://journals.sagepub.com/doi/full/10.1177/2041669518822084) - Roncato (2019)
 - [The Origin of Planetary Ring Systems](https://arxiv.org/abs/1703.09741) - Charnoz et al (2018)
+- [Les anneaux de Saturne vus par la mission CASSINI-HUYGENS](http://www.aim.ufr-physique.univ-paris7.fr/CHARNOZ/homepage/l%27astronomie_charnoz.pdf) - Sébastien Charnoz, L'Astronomie (2005)
 
 ---
 
@@ -1167,15 +1168,15 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - L'océan souterrain d'Encelade est potentiellement habitable.
 
 ***Anneaux***
--  Thanks to many years in orbit Cassini’s cameras have shown us how active and dynamic the planet’s distinctive ring system really is. Cassini has seen structures in the rings that look like propellers, and witnessed what might be the birth of a new moon. Also, while we knew Saturn’s rings were thin, the changing seasons experienced by Cassini allowed us to see shadows on the rings that gives researchers what they need in order to calculate just how thin they are, to greater accuracy than ever before.
-- Iess et al. measured the gravitational pull on Cassini, separating the contributions from the planet and the rings. This allowed them to determine the interior structure of Saturn and the mass of its rings. Buratti et al. present observations of five small moons located in and around the rings. The moons each have distinctive shapes and compositions, owing to accretion of ring material. Tiscareno et al. observed the rings directly at close range, finding complex features sculpted by the gravitational interactions between moons and ring particles. 
-- these results show that Saturn's rings are substantially younger than the planet itself and constrain models of their origin.
-- Cassini’s 13 years in orbit provided an opportunity to observe temporal changes in Saturn’s dynamic ring system on both the sunlit and unilluminated sides of the rings. Some regions in Saturn’s rings changed on time scales of weeks or months
-- Dozens of objects (0.1 to 1 km) orbiting in the A ring shifted their locations as they interacted with neighboring material (85). Although these objects were too small to be seen directly, they opened propeller-shaped gaps as large as thousands of kilometers in length that were captured by the Cassini cameras and in stellar occultations of the rings (85). These migrating propeller-shaped structures (85), an analogy for protoplanets forming in a planetary nebula, were followed during the mission. Cassini also witnessed signs of the possible formation of a new moon at the outer edge of Saturn’s A ring 
-- Detailed horizontal and vertical structure (95, 96) and particle sizes (97) were revealed at multiple wavelengths, providing a detailed map of Saturn’s rings.
-- Three-dimensional measurements were taken of tendril-like, ephemeral structures in the rings called self-gravity wakes (98). These transient clumps form only briefly before being torn apart by Saturn’s tides. Similar behavior in a protoplanetary disk might play a role in planet formation. 
-- Gravity measurements during the Grand Finale orbits showed that the total mass of the rings was less than all previous estimates, hinting at a young age for the rings 
-- The low value of the ring mass suggests a scenario where the present rings of Saturn are young, probably just 10 million to 100 million years old, to be consistent with their pristine icy composition. Nevertheless, the rings may have evolved substantially since their formation and were perhaps once more massive than they are today. Models for a young ring system invoke the chance capture and tidal disruption of a comet or an icy outer Solar System body, suggesting that catastrophic events continued to occur in the Solar System long after its formation 4.6 billion years ago.
+- Au cours de ses 13 ans en orbite autour du système saturnien, Cassini a permis de révéler à quel point les anneaux de Saturne sont dynamiques.
+> Certaines régions changeaient d'apparence sur une échelle de temps qui se compte en semaines.
+> La sonde a observé des structures (0,1 à 1km) qui accumulent des particules et qui ressemblent à des protoplanètes qui se forment au début de l'histoire du système solaire, migrant dans les anneaux. Ils créent des divisions dans les anneaux qui peuvent être de plusieurs milliers de km de longueur
+> Elle a aussi observé des structures éphémères appelées sillage gravitationnels (self-gravity wakes en anglais) qui se forment et sont ensuite détruits par les effets de marées
+- La sonde a probablement observé la naissance d'une nouvelle lune dans les régions externes de l'anneau A, ainsi que de nombreuses structures sculptées par les interactions gravitationnelles entre les lunes et les anneaux.
+- En observant les ombres des anneaux au fil des saisons, les chercheurs ont pu calculer la véritable épaisseur des anneaux, avec une précision inégalée.
+- Les mesures de Cassini ont permis de cartographier la structure et la distribution en tailles des particules des anneaux de Saturne
+- Lors de son Grand Final, Cassini a réalisé plusieurs plongeons (à vérifier) dans les anneaux, et a mesuré la force d'attraction gravitationnelle qu'exercent les anneaux sur la sonde, afin de déterminer la masse de ces derniers.
+> La masse estimée s'est révélée plus faible que toutes les estimations précédentes, ce qui suggère un jeune âge pour les anneaux (10 à 100 millions d'années), mais cette conclusion est controversée car les anneaux ont pu évoluer significativement depuis leur formation et ils auraient très bien pu être beaucoup plus massif dans un passé lointain.
 
 ### Dragonfly (2027-2039)
 
