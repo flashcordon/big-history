@@ -1140,27 +1140,25 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 > * La sonde de 300 kg a mis 2h27 à descendre en parachute avant d'atteindre la surface de la Lune.
 - Au cours de sa descente, Huygens a mesuré la composition chimique de l'atmosphère ainsi que son profil de température et de pression et la vitesse de ses vents (430 km/h max)
 > * Comme sur Terre, l'atmosphère de Titan possède une exosphère, une mésosphère, une stratosphère et une troposphère
+> * L'atmospphère de Titan est essentiellement composée d'azote ainsi que d'une soupe complexe d'hydrocarbures créés lorsque les molécules de méthane de la haute atmosphère sont brisées par la lumière du Soleil.
 > * La pression à la surface est 1,5 fois celle de la Terre
 > * La température de surface est de 94 K (maintenue 22°C plus chaude que sa température effective par l'effet de serre dû à la présence de méthane et d'azote).
 - Il a aussi réalisé des images de sa descente (plus de 750 images), ainsi que de la surface du satellite.
 - Huygens evoie des données de la surfaces du satellite pendant 1h12.
-- L'atmosphère dense de Titan, composée d'azote, ainsi que ses surfaces liquides, lui valent le surnom de "Terre primordiale dans un freezer"
+- L'atmosphère dense de Titan ainsi que ses surfaces liquides lui valent le surnom de "Terre primordiale dans un freezer"
 - Huygens détecte de la vapeur d'eau dans l'atmosphère de Titan, ce qui est la source de son contenu en CO et en CO2
 > Titan s'approvisionne en eau via les anneaux de Saturne, les météorites et les comètes
-- The CIRS spectra yielded vertical distribution information for most of the hydrocarbons and nitriles (Vinatier 2006). Most of the vertical distributions increase with altitude, confirming the prediction of photochemical models that these species form in the upper atmosphere and then diffuse downwards in the stratosphere.
-- Titan's surface has been known to be covered with bright regions separated by darker material from ground-based and HST observations
-- Titan may well exhibit cryovolcanic activity, in view of various recent reports (Sotin 2005) from Cassini/ISS. A bright circular structure (about 30 km in diameter) found in the VIMS hyperspectral images is interpreted as a cryovolcanic dome in an area dominated by extension. The VIMS team hypothesized that the dry channels observed on Titan are related to upwelling “hot ice” and contaminated by hydrocarbons that vaporize as they get close to the surface (to account for the methane gas in the atmosphere). These mechanisms are similar to those operating for silicate volcanism on Earth (using tidal heating as an energy source) and may lead to flows of non-H2O ices on Titan's surface. Following such eruptions, methane rain could produce the dendritic dark structures seen by Cassini-Huygens.
-- The Cassini instruments have found no obvious evidence for heavy cratering on the bright or the dark areas of Titan so far. A few features interpreted as impact craters (or volcanoes) have been announced to date
--  This may mean that the surface of Titan is young (less than a billion years) or highly eroded/modified.
-- Recent features observed by the Cassini orbiter include large areas similar to the dunes as observed on Earth
-- These formations are aligned west to east covering hundreds of kilometres and rising to about 100 m. They are expected to have formed for the major part due to the influence of Saturn (through tidal forces 400 times greater than on Earth, causing winds of about 0.5 m/s at the surface) and could easily move the Titanian “sand” in this world of low gravity. The nature of this “sand” is, however, quite different from that on our planet, consisting of fine grains of ice or organic material.
-- record for the furthest landing of a man-made machine ever. 
-- No biotic signatures have been found on Titan. One of the elements in the negative response (at least so far as the present or past life is concerned) was found by the GCMS in the 13C/14C isotopic ratio, which showed that no active biota exist on Titan and that the methane on Titan is of non-biologic source.
-- we now know that it rains methane on Titan, forming rivers and lakes. Titan’s atmosphere is a soup of complex hydrocarbons
-- Cassini flew overhead to receive and relay the Huygens data, including data from ~72 min on Titan’s surface, before Huygens’ link to Cassini was lost as Cassini set over the horizon. Huygens landed in a dry lakebed filled with rounded pebbles (Fig. 2), near the Xanadu region, an equatorial area about the size of Australia. I
-- Rounded, smoothed pebbles at the landing site are evidence of fluid flow
-- Cassini-Huygens revealed an array of complex hydrocarbons in Titan’s atmosphere, created as methane gas is broken apart by sunlight in the upper atmosphere, generating active chemistry (50) and a link to haze formation (51). The mechanism by which methane is replenished remains a mystery. Over the course of the mission, methane rainfall darkened parts of Titan’s surface (52, 53), and methane clouds formed and dissipated
-- The surface of Titan was observed from orbit using radar and imaging at infrared wavelengths, which showed broad regions of light and dark terrain (58) and geologic processes reminiscent of those on Earth. However, with surface temperatures around 93 K, methane plays the role of water on Earth, and solid water ice is an ingredient of Titan’s bedrock. Titan’s rain is composed of methane, its lakes and seas are filled with liquid methane and ethane (59), and its long, linear equatorial dunes are particles of organic solids or ice covered by organics (60, 61). Some seas are about the size of North America’s Great Lakes (62) and are ~160 m deep 
+- Les hydrocarbures et les nitriles se forment dans les couches hautes de l'atmopshère et sont ensuite diffusées plus bas dans la stratosphère
+- Des observations par Cassini d'une structure circulaire brillante de 30 km de diamètre à la surface de Titan laisse penser que la lune abrite du cryovolcanisme
+- La surface de Titan n'est presque pas cratérisée, ce qui suggère une surface jeune (moins d'un milliard d'années) ou fortement érodée/altérée.
+- Cassini a aussi détecté des dunes à la surface de Titan, qui s'étendent dans des formations de plusieurs centaines de km, et hautes de 100 m. Ces dunes ne sont pas constituées de sable comme sur Terre, mais de particules fines de glace ou de matériaux organiques.
+> On pense qu'elles se sont formées sous l'influence des forces de marées 400 fois plus fortes que sur Terre, ce qui cause des vents de 0.5m/s à la surface)
+- On n'a pas encore détecté de traces de vie sur Titan.
+> La source de méthane est non-biologique (mais son mécanisme de renouvellement est encore mystérieux) et les rapports isotopiques 13C/14C sont incompatibles avec l'existence d'une vie de surface présente.
+- Sur Titan, il y a des nuages de méthane et il pleut du méthane, ce qui noircit sa surface et forme des rivières et des lacs (composées de méthane et d'éthane).
+> * Il y a un cycle du méthane, comme il y a un cycle de l'eau sur Terre.
+> * Certaines étendues liquides sont aussi grandes que les grands lacs américains, et d'une profondeur de 160m.
+- Huygens a atterri dans un lit de rivière asséché rempli de galets arrondis, ce qui suggère des écoulements fluides (région Xanadu, prè de l'équateur)
 - Il y a de très fortes chances que Titan possède un océan d'eau liquide souterrain (preuves ?)
 
 ***Encelade***
