@@ -1001,16 +1001,19 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 ## Propriétés de Saturne
 
 ## Lunes de Saturne
-- The Saturn system contains 62 known moons, many of them small, captured objects that are distant from Saturn and irregular in shape. Closer to Saturn are 24 regular moons that probably formed from the same gas-and-dust cloud as Saturn. Some of these moons have strong gravitational interactions with the ring system, opening gaps and sculpting the rings. 
-- Mimas is the innermost and smallest of the intermediate-sized moons, with a diameter of 394 km. 
+- Saturne compte 62 lunes connues.
+> * La plupart d'entre elles sont de petits corps capturés par la gravité de la planète géante, et ont des formes étranges.
+> * Cependant, les 24 lunes les plus proches de Saturne se sont probablement formées sur place.
+- La plus proche des Lunes, c'est Mimas (diamètre : 394 km).
+- Hypérion est la lune irrégulière la plus grosse.
+- Titan est la plus grande des lunes de Saturne. Elle est même plus grosse que Mercure !
+> * Il s'agit de la seule lune du système solaire avec une atmosphère dense et des surfaces liquides.
+> * Son atmosphère est composée d'azote moléculaire (pression de surface : 1.5 bar, presque équivalente à celle sur Terre)
+> * Il fait sombre et froid sur Titan. Sa température atmosphérique oscille entre 70 et 180 K, et sa température de surface est de 94 K grâce à l'effet de serre.
 - The presence of carbon and its higher density than the other medium-sized moons of Saturn suggest that Phoebe was formed near the edge of the Solar System and migrated inward before being captured by Saturn (20). Phoebe might have originated in the Kuiper Belt, the reservoir of ice-and-rock bodies beyond the orbit of Neptune.
 - Cassini data led to the discovery of seven additional small moons in the Saturn system: Pallene, Aegaeon, Anthe, Methone, Daphnis, S/2009 S 1, and Polydeuces
-- Titan is the largest moon of Saturn. It has a substantial atmosphere and is the most Earth-like satellite in the Solar System
--  This atmosphere is essentially composed of molecular nitrogen (at a surface pressure of 1.5 bar, almost like on Earth), and is the host of an active organic chemistry due to the combination of CH4 and N2. Hydrocarbons, nitriles (some of which, such as HCN, are called “prebiotic” and are considered to be the precursors of life on our own planet) and traces of oxygen in Titan, in the form of H2O, CO and CO2, comprise the gaseous content of the atmosphere. Titan is a dark place and the temperature is very low (varies from 70 to180 K in the atmosphere) due to the 10 AU distance from the Sun. At the surface, the temperature reaches 94 K (Fulchignoni 2005) thanks to a greenhouse effect, as on our planet.
-Titan is the largest moon in the Saturn system, slightly larger than the planet Mercury. It is the only moon in the Solar System with a dense atmosphere, first characterized in detail by Voyager 1 (40, 41). Titan and Earth are the only bodies that have surface liquids: water on Earth, liquid hydrocarbons on Titan. Titan’s atmosphere is mostly nitrogen with some methane and a haze layer of organics that give this moon its orange color. 
 - Enceladus is a small, icy moon orbiting close to Saturn, with an extremely bright surface and the geyser-like plumes of ice and water vapor that erupt from its southern polar region. It is the source of material for Saturn's E Ring. 
-- Iapetus is a large moon orbiting further from Saturn than any of its other large satellites. Half of its surface is very bright while the other half is extremely dark. Investigations since 2004 have also noted its irregular shape, immense impact basins, and a high mountainous ridge on the equator. 
-- Hyperion is the largest irregularly-shaped moon of Saturn, orbiting between Titan and Iapetus. 
+- Iapetus is a large moon orbiting further from Saturn than any of its other large satellites. Half of its surface is very bright while the other half is extremely dark. Investigations since 2004 have also noted its irregular shape, immense impact basins, and a high mountainous ridge on the equator.  
 
 ### Anneaux de Saturne
 - The rings were named alphabetically in the order they were discovered. Starting from the innermost ring, the D ring is followed by the C, B, A, F, G and E rings.
