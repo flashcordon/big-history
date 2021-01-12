@@ -1002,7 +1002,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 ## Lunes de Saturne
 - Saturne compte 62 lunes connues.
-> * La plupart d'entre elles sont de petits corps capturés par la gravité de la planète géante, et ont des formes étranges.
+> * La plupart d'entre elles sont de petits corps (probablement issus de la ceinture de Kuiper pour certains) capturés par la gravité de la planète géante, et ont des formes étranges.
 > * Cependant, les 24 lunes les plus proches de Saturne se sont probablement formées sur place.
 - La plus proche des Lunes, c'est Mimas (diamètre : 394 km).
 - Hypérion est la lune irrégulière la plus grosse.
@@ -1010,10 +1010,9 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 > * Il s'agit de la seule lune du système solaire avec une atmosphère dense et des surfaces liquides.
 > * Son atmosphère est composée d'azote moléculaire (pression de surface : 1.5 bar, presque équivalente à celle sur Terre)
 > * Il fait sombre et froid sur Titan. Sa température atmosphérique oscille entre 70 et 180 K, et sa température de surface est de 94 K grâce à l'effet de serre.
-- The presence of carbon and its higher density than the other medium-sized moons of Saturn suggest that Phoebe was formed near the edge of the Solar System and migrated inward before being captured by Saturn (20). Phoebe might have originated in the Kuiper Belt, the reservoir of ice-and-rock bodies beyond the orbit of Neptune.
-- Cassini data led to the discovery of seven additional small moons in the Saturn system: Pallene, Aegaeon, Anthe, Methone, Daphnis, S/2009 S 1, and Polydeuces
-- Enceladus is a small, icy moon orbiting close to Saturn, with an extremely bright surface and the geyser-like plumes of ice and water vapor that erupt from its southern polar region. It is the source of material for Saturn's E Ring. 
-- Iapetus is a large moon orbiting further from Saturn than any of its other large satellites. Half of its surface is very bright while the other half is extremely dark. Investigations since 2004 have also noted its irregular shape, immense impact basins, and a high mountainous ridge on the equator.  
+- Encelade est une lune glacée duquel émerge des geysers de glace et de vapeur d'eau (depuis son pôle sud). Les geysers d'Encelade sont la source des matériaux qui constituent l'anneau E de Saturne.
+- De toutes les grosses lunes de Saturne, Japet est la plus éloignée.
+> Il s'agit d'une lune Yin-Yang : la moitié de sa surface est très sombre, et l'autre très claire.
 
 ### Anneaux de Saturne
 - The rings were named alphabetically in the order they were discovered. Starting from the innermost ring, the D ring is followed by the C, B, A, F, G and E rings.
@@ -1120,6 +1119,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - In 2017, when it was running low on fuel, Cassini was intentionally vaporized in Saturn’s atmosphere to protect the ocean moons, Enceladus and Titan, where it had discovered habitats potentially suitable for life.
 - Mission findings include Enceladus’ south polar geysers, the source of Saturn’s E ring; Titan’s methane cycle, including rain that creates hydrocarbon lakes; dynamic rings containing ice, silicates, and organics; and Saturn’s differential rotation. 
 - In the Grand Finale, Cassini dove between the innermost D ring and the upper region of Saturn’s atmosphere before the mission’s end in 2017, a few months after northern summer solstice, with a deliberate crash into Saturn’s atmosphere.
+- Cassini data led to the discovery of seven additional small moons in the Saturn system: Pallene, Aegaeon, Anthe, Methone, Daphnis, S/2009 S 1, and Polydeuces
 - Cassini’s encounters with Saturn’s moons Enceladus and Titan led to findings such as potentially habitable environments in Enceladus’ and Titan’s subsurface water oceans (10–12); Enceladus’ south polar geysers (13), the source of Saturn’s E ring (14); and Titan’s methane-based hydrologic cycle (15), with methane rain that creates hydrocarbon lakes and seas
 - Other findings include three-dimensional structures in the planet’s dynamic rings (17), a giant Saturn storm that completely encircled a northern latitude band for almost a year (18), a long-lived hexagonal jet stream encircling the north pole (19), and evidence that the captured moon Phoebe may have originated in the outer Solar System’s Kuiper Belt 
 - Cassini’s 13-year mission provided opportunities to observe the formation and dissipation of a giant storm, the characteristics of Saturn’s polar vortices, northern hexagonal jet stream, lightning and aurora, and seasonal change. Cassini arrived 2 years after northern winter solstice and the mission ended just after northern summer solstice, providing almost two complete Saturn seasons of observations.
