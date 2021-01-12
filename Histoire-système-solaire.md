@@ -1001,6 +1001,8 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 ## Propriétés de Saturne
 
+- Saturne se trouve environ 10 fois plus loin du Soleil que la Terre.
+
 ## Lunes de Saturne
 - Saturne compte 62 lunes connues.
 > * La plupart d'entre elles sont de petits corps (probablement issus de la ceinture de Kuiper pour certains) capturés par la gravité de la planète géante, et ont des formes étranges.
@@ -1130,18 +1132,21 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - Saturn emits long-wavelength radio waves known as Saturn kilometric radiation (SKR). SKR was first observed by Voyager in the early 1980s and interpreted as an indicator of Saturn’s internal rotation period (length of day). Cassini results showed that the SKR signals are not coming from the interior of Saturn as originally assumed. The SKR period changed from year to year, incompatible with an interior origin. When Cassini first arrived at Saturn and measured the SKR period, data from the Radio and Plasma Wave Science instrument also showed that the radio waves’ frequencies were different in the northern and southern hemispheres
 - An alternative method for estimating the length of Saturn’s day came from the detection of small, Saturn-driven waves in the rings (115). Saturn’s ring system acts like a seismograph, providing a measure of Saturn’s internal oscillations (or normal modes) that directly probe the interior of the planet (116) and provide a means for measuring its deep rotation rate. These vibrations, determined by Saturn’s nonuniform internal structure, are probably driven by convection inside the planet, which cause oscillations in Saturn’s gravity field that manifest themselves as waves in the rings. Preliminary modeling of the propagation behavior of this collection of waves provides an interior rotation rate for Saturn of ~10.6 hours (117).
 - As Cassini ran low on fuel, it embarked on a series of orbits that took it closer to Saturn. The spacecraft transmitted its final data on 15 September 2017, as it plunged into Saturn’s atmosphere
+- in situ observations conducted by the Cassini-Huygens mission after a 7.5-year trek through our solar system. Since the Saturn orbit insertion in July 2004
  
 ***Titan***
-- The Huygens probe lands on Titan: Saturn’s largest moon, Titan, has a thick, nitrogen-rich atmosphere, leading many to refer to Titan as “primordial Earth in a freezer”.
-- Huygens separated from Cassini in December 2004 and landed on Titan 3 weeks later, on 14 January 2005 (44). The probe’s 2 hour 27 min parachute descent provided an in situ atmospheric profile of temperature, pressure, density, wind, and composition, as well as detailed images of the surface. The surface pressure was 1.47 times that on Earth (45); super-rotating prograde, zonal winds peaked at 430 km hour−1, much greater than Titan’s equatorial rotation velocity
-- the mission saw the deployment of the European-built Huygens probe. After release from the Cassini orbiter, on 25 December 2004, this 300 kg probe plunged into Titan's atmosphere on 14 January 2005 at 11:04 UTC and descended through it by means of several parachute breaks, which slowed the probe from supersonic speeds of 6 km/s during entry and down to 5 m/s at impact. The five batteries onboard the probe lasted much longer than expected, allowing Huygens to collect descent data for 2 hrs and 27 mns and surface data for 1 hr and 12 mns
-- the first probe to land on a world in the Outer Solar System
-- During its descent, Huygens' Descent Imager Spectral Radiometer (DISR) returned more than 750 images, while the probe's other five instruments sampled Titan's atmosphere to help determine its composition and structure.
-- in situ observations conducted by the Cassini-Huygens mission after a 7.5-year trek through our solar system. Since the Saturn orbit insertion in July 2004, we have witnessed the fantastic success of the Huygens mission, which descended through Titan's atmosphere on 14 January 2005. The combined orbiter and probe investigations have been a precious means for describing Titan's atmosphere and surface, returning wonderful new data whose analysis has revealed an amazing world, in many ways similar to our planet yet 10 times further away from our Sun.
-- The Cassini-Huygens HASI instrument measured Titan's temperature profile at the probe's landing site (10°S, 192°W) from 1400 km down to the surface, where 93.65 ± 0.25 K were measured for a surface pressure of 1467 ± 1 hPa. As Voyager did before, HASI found Titan's atmosphere to exhibit the features that characterize the Earth's thermal structure: an exosphere, a mesosphere, a stratosphere and a troposphere
--  The surface temperature as determined by HASI (12 K warmer than the effective temperature of 82 K) is maintained by a greenhouse warming (mostly due to methane and nitrogen) of 22 K, offset by cooling by the haze.
-- With the detection of water vapour, the source for the atmospheric carbon monoxide and carbon dioxide observed in Titan was at last found.
--  The source for water on Titan can be found in the rings of Saturn, the meteorites or comets. 
+- L'atterrisseur Huygens est devenu, le 14 Janvier 2005, le premier artefact humain à se poser sur un monde du système solaire externe.
+> * Huygens s'est séparé de Cassini en Décembre 2004 et s'est posée sur Titan 3 semaines plus tard.
+> * La sonde de 300 kg a mis 2h27 à descendre en parachute avant d'atteindre la surface de la Lune.
+- Au cours de sa descente, Huygens a mesuré la composition chimique de l'atmosphère ainsi que son profil de température et de pression et la vitesse de ses vents (430 km/h max)
+> * Comme sur Terre, l'atmosphère de Titan possède une exosphère, une mésosphère, une stratosphère et une troposphère
+> * La pression à la surface est 1,5 fois celle de la Terre
+> * La température de surface est de 94 K (maintenue 22°C plus chaude que sa température effective par l'effet de serre dû à la présence de méthane et d'azote).
+- Il a aussi réalisé des images de sa descente (plus de 750 images), ainsi que de la surface du satellite.
+- Huygens evoie des données de la surfaces du satellite pendant 1h12.
+- L'atmosphère dense de Titan, composée d'azote, ainsi que ses surfaces liquides, lui valent le surnom de "Terre primordiale dans un freezer"
+- Huygens détecte de la vapeur d'eau dans l'atmosphère de Titan, ce qui est la source de son contenu en CO et en CO2
+> Titan s'approvisionne en eau via les anneaux de Saturne, les météorites et les comètes
 - The CIRS spectra yielded vertical distribution information for most of the hydrocarbons and nitriles (Vinatier 2006). Most of the vertical distributions increase with altitude, confirming the prediction of photochemical models that these species form in the upper atmosphere and then diffuse downwards in the stratosphere.
 - Titan's surface has been known to be covered with bright regions separated by darker material from ground-based and HST observations
 - Titan may well exhibit cryovolcanic activity, in view of various recent reports (Sotin 2005) from Cassini/ISS. A bright circular structure (about 30 km in diameter) found in the VIMS hyperspectral images is interpreted as a cryovolcanic dome in an area dominated by extension. The VIMS team hypothesized that the dry channels observed on Titan are related to upwelling “hot ice” and contaminated by hydrocarbons that vaporize as they get close to the surface (to account for the methane gas in the atmosphere). These mechanisms are similar to those operating for silicate volcanism on Earth (using tidal heating as an energy source) and may lead to flows of non-H2O ices on Titan's surface. Following such eruptions, methane rain could produce the dendritic dark structures seen by Cassini-Huygens.
@@ -1156,7 +1161,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - Rounded, smoothed pebbles at the landing site are evidence of fluid flow
 - Cassini-Huygens revealed an array of complex hydrocarbons in Titan’s atmosphere, created as methane gas is broken apart by sunlight in the upper atmosphere, generating active chemistry (50) and a link to haze formation (51). The mechanism by which methane is replenished remains a mystery. Over the course of the mission, methane rainfall darkened parts of Titan’s surface (52, 53), and methane clouds formed and dissipated
 - The surface of Titan was observed from orbit using radar and imaging at infrared wavelengths, which showed broad regions of light and dark terrain (58) and geologic processes reminiscent of those on Earth. However, with surface temperatures around 93 K, methane plays the role of water on Earth, and solid water ice is an ingredient of Titan’s bedrock. Titan’s rain is composed of methane, its lakes and seas are filled with liquid methane and ethane (59), and its long, linear equatorial dunes are particles of organic solids or ice covered by organics (60, 61). Some seas are about the size of North America’s Great Lakes (62) and are ~160 m deep 
-- Strong evidence exists for a subsurface liquid water ocean
+- Il y a de très fortes chances que Titan possède un océan d'eau liquide souterrain (preuves ?)
 
 ***Encelade***
 - Lorsque Cassini réalise un vol rapproché de la lune glacée, son magnétomètre (qu'on peut voir comme une boussole spatiale) détecte une anomalie dans le champ magnétique de saturne. Cette anomalie provient de geysers d'eau sous forme gazeuse et solide, que la LUne éjecte depuis des fissures proches du pôe Sud.
