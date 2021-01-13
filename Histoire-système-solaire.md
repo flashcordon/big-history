@@ -1013,7 +1013,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 > * Il s'agit de la seule lune du système solaire avec une atmosphère dense et des surfaces liquides.
 > * Son atmosphère est composée d'azote moléculaire (pression de surface : 1.5 bar, presque équivalente à celle sur Terre)
 > * Il fait sombre et froid sur Titan. Sa température atmosphérique oscille entre 70 et 180 K, et sa température de surface est de 94 K grâce à l'effet de serre.
-- Encelade (diamètre : près de 500 km) est une lune glacée de laquelle émerge des geysers de glace et de vapeur d'eau (depuis son pôle sud). Les geysers d'Encelade sont la source des matériaux qui constituent l'anneau E de Saturne.
+- Encelade (diamètre : près de 500 km) est une lune glacée de laquelle émerge des geysers de glace et de vapeur d'eau (depuis son pôle sud). Les geysers d'Encelade sont la source des matériaux qui constituent l'anneau E de Saturne [Photo Cassini du 19 Juillet 2013](https://twitter.com/JPMajor/status/1349484228786991106/photo/1).
 > Encelade est la lune la plus brillante du système solaire.
 - De toutes les grosses lunes de Saturne, Japet est la plus éloignée.
 > Il s'agit d'une lune Yin-Yang : la moitié de sa surface est très sombre, et l'autre très claire.
