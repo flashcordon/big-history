@@ -1005,7 +1005,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 ## Lunes de Saturne
 - Saturne compte 62 lunes connues.
-> * La plupart d'entre elles sont de petits corps (probablement issus de la ceinture de Kuiper pour certains) capturés par la gravité de la planète géante, et ont des formes étranges.
+> * La plupart d'entre elles sont de petits corps (probablement issus de la ceinture de Kuiper pour certains come Phoebe) capturés par la gravité de la planète géante, et ont des formes étranges.
 > * Cependant, les 24 lunes les plus proches de Saturne se sont probablement formées sur place.
 - La plus proche des Lunes, c'est Mimas (diamètre : 394 km).
 - Hypérion est la lune irrégulière la plus grosse.
@@ -1114,22 +1114,18 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - La mission Cassini-Huygens est lancée le 15 Octobre 1997 depuis Cape Canaveral, et arrive dans le système saturnien en Juillet 2004, après 7 ans et demi de voyage
 - La sonde de près de 6 tonnes est composée d'un orbiteur (Cassini) et d'un aterrisseur (Huygens)
 - Elle comprend 18 instruments scientifiques (12 sur l'orbiteur, 6 sur l'atterrisseur)
-> Ils permettent de mesurer la température, les champs magnétiques, la composition chimique, et permettent de réaliser des images haute résolution 
+> Ils permettent de mesurer la température, les champs magnétiques, la composition chimique, et de réaliser des images haute résolution 
 - Elle est alimentée par 3 RTG (Radioisotope Thermoelectric Generators)
 - La mission de Cassini-Huygens en orbite autour du système Saturnien s'étale sur près de 13 ans, soit près d'une demi-année saturnienne.
 - Durant son séjour, la sonde a découvert 7 petites lunes supplémentaires à celles que l'on connaissait déjà : Pallene, Aegaeon, Anthe, Methone, Daphnis, S/2009 S 1, et Polydeuces
-- En 2017, Cassini a épuisé la plupart de son carburant. Les scientifiques décident alors d'envoyer la sonde se faire vaporiser dans l'atmosphère de Saturne, dans un Grand Final spectaculaire. La sonde cesse d'émettre des données le 15 Septembre 2017, alors qu'elle plonge dans l'atmosphère de la planète. [La dernière photo qu'ellea envoyé](https://svs.gsfc.nasa.gov/12735)
+- En 2017, Cassini a épuisé la plupart de son carburant. Les scientifiques décident alors d'envoyer la sonde se faire vaporiser dans l'atmosphère de Saturne, dans un Grand Final spectaculaire. La sonde cesse d'émettre des données le 15 Septembre 2017, alors qu'elle plonge dans l'atmosphère de la planète. [La dernière photo qu'elle a envoyé](https://svs.gsfc.nasa.gov/12735)
 > Il en a été décidé ainsi afin d'éviter toute contamination terrestre de lunes potentiellement habitables ou habitées (Titan et Encelade)
 
 ***Saturne***
+- Cassini a permis de préciser nos estimations de la durée d'une journée sur Saturne.
+> * Estimer une telle quantité n'est pas si simple, car différentes bandes de l'atmosphère de Saturne tournent à des vitesses différentes
+- Au cours de sa mission, Cassini a pu observer la naissance et la dissipation d'une énorme tempête qui a encerclé pendant 9 mois l'atmosphère de Saturne en 2010, la dynamique d'un jet stream hexagonal au pôle nord de la planète au fil des saisons, des éclairs, et des aurores à 1200 km d'altitude
  - How long is a day on Saturn?: We still don’t know! This might seem like an easy thing to figure out, but the different bands of Saturn’s atmosphere rotate at different rates, only constraining the length of a day to somewhere between 10 and 11 hours. The wobble of the planet’s magnetic field and periodic changes in radio waves coming from near Saturn were expected to give us a better idea, but Cassini has shown that this gives a different length of day in the North compared to the South, and these both change as Saturn travels around the Sun.
-- Mission findings include Enceladus’ south polar geysers, the source of Saturn’s E ring; Titan’s methane cycle, including rain that creates hydrocarbon lakes; dynamic rings containing ice, silicates, and organics; and Saturn’s differential rotation. 
-- In the Grand Finale, Cassini dove between the innermost D ring and the upper region of Saturn’s atmosphere before the mission’s end in 2017, a few months after northern summer solstice, with a deliberate crash into Saturn’s atmosphere.
-- Cassini’s encounters with Saturn’s moons Enceladus and Titan led to findings such as potentially habitable environments in Enceladus’ and Titan’s subsurface water oceans (10–12); Enceladus’ south polar geysers (13), the source of Saturn’s E ring (14); and Titan’s methane-based hydrologic cycle (15), with methane rain that creates hydrocarbon lakes and seas
-- Other findings include three-dimensional structures in the planet’s dynamic rings (17), a giant Saturn storm that completely encircled a northern latitude band for almost a year (18), a long-lived hexagonal jet stream encircling the north pole (19), and evidence that the captured moon Phoebe may have originated in the outer Solar System’s Kuiper Belt 
-- Cassini’s 13-year mission provided opportunities to observe the formation and dissipation of a giant storm, the characteristics of Saturn’s polar vortices, northern hexagonal jet stream, lightning and aurora, and seasonal change. Cassini arrived 2 years after northern winter solstice and the mission ended just after northern summer solstice, providing almost two complete Saturn seasons of observations.
--  Curtains of auroral emission rose more than 1200 km above the planet 
-- Late in 2010, a giant storm erupted quickly in Saturn’s typically bland atmosphere. This type of storm occurs roughly every 30 years, but this one arrived 10 years early. Within months, the storm completely encircled the planet with a swirling band of clouds and vortices (18). Large temperature increases were measured in the stratosphere, and previously undetected molecules were observed in Saturn’s upper atmosphere (106, 107). The storm began to fade shortly after wrapping itself completely around one latitude band of the planet, about 9 months after it began
 - Saturn emits long-wavelength radio waves known as Saturn kilometric radiation (SKR). SKR was first observed by Voyager in the early 1980s and interpreted as an indicator of Saturn’s internal rotation period (length of day). Cassini results showed that the SKR signals are not coming from the interior of Saturn as originally assumed. The SKR period changed from year to year, incompatible with an interior origin. When Cassini first arrived at Saturn and measured the SKR period, data from the Radio and Plasma Wave Science instrument also showed that the radio waves’ frequencies were different in the northern and southern hemispheres
 - An alternative method for estimating the length of Saturn’s day came from the detection of small, Saturn-driven waves in the rings (115). Saturn’s ring system acts like a seismograph, providing a measure of Saturn’s internal oscillations (or normal modes) that directly probe the interior of the planet (116) and provide a means for measuring its deep rotation rate. These vibrations, determined by Saturn’s nonuniform internal structure, are probably driven by convection inside the planet, which cause oscillations in Saturn’s gravity field that manifest themselves as waves in the rings. Preliminary modeling of the propagation behavior of this collection of waves provides an interior rotation rate for Saturn of ~10.6 hours (117).
  
@@ -1176,7 +1172,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 > Elle a aussi observé des structures éphémères appelées sillage gravitationnels (self-gravity wakes en anglais) qui se forment et sont ensuite détruits par les effets de marées
 - La sonde a probablement observé la naissance d'une nouvelle lune dans les régions externes de l'anneau A, ainsi que de nombreuses structures sculptées par les interactions gravitationnelles entre les lunes et les anneaux.
 - En observant les ombres des anneaux au fil des saisons, les chercheurs ont pu calculer la véritable épaisseur des anneaux, avec une précision inégalée.
-- Les mesures de Cassini ont permis de cartographier la structure et la distribution en tailles des particules des anneaux de Saturne
+- Les mesures de Cassini ont permis de cartographier la structure 3D et la distribution en tailles des particules des anneaux de Saturne
 - Lors de son Grand Final, Cassini a réalisé plusieurs plongeons (à vérifier) dans les anneaux, et a mesuré la force d'attraction gravitationnelle qu'exercent les anneaux sur la sonde, afin de déterminer la masse de ces derniers.
 > La masse estimée s'est révélée plus faible que toutes les estimations précédentes, ce qui suggère un jeune âge pour les anneaux (10 à 100 millions d'années), mais cette conclusion est controversée car les anneaux ont pu évoluer significativement depuis leur formation et ils auraient très bien pu être beaucoup plus massif dans un passé lointain.
 
