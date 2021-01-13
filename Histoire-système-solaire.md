@@ -1106,18 +1106,17 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - Titan's exploration begun in the 1980s with the stunning Voyager missions, which returned its atmospheric composition and other characteristics during just one close flyby. However, such things as the nature of the surface or the aerosol distribution, or the structure in the troposphere remained unknown, because of the thick haze deck surrounding the moon.
 - C'est ce survol de Titan qui a déclenché une vague d'intérêt pour le satellite, et lancé la mission Cassini.
 
-### Cassini-Huygens (ESA-NASA)
-
--  In 1986, the National Research Council’s Committee on Planetary and Lunar Exploration (COMPLEX) stated that the “highest priority for outer planet exploration in the next decade is intensive study of Saturn—the planet, satellites, rings, and magnetosphere—as a system” (4). Using the COMPLEX endorsement, NASA initiated joint studies with the European Space Agency (ESA), resulting in the Cassini-Huygens mission.
-- he motivation for planetary science missions such as Cassini-Huygens includes seeking answers to basic questions such as how planetary systems form, how they evolve through time, and where beyond Earth can requirements for life be found
--  The high-level Cassini scientific objectives were to conduct in-depth investigations of the Saturn system, including orbital remote sensing of Saturn’s atmosphere, icy satellites, and rings; in situ orbital measurements of charged particles, dust particles, and magnetic fields; and detailed measurements with the Huygens probe during descent through Titan’s atmosphere and on the surface. The Cassini-Huygens mission met or exceeded all of these objectives.
-- The Cassini-Huygens mission was launched in 1997 and arrived in the Saturnian system in 2004.
- - An extraordinary collaboration between ESA and NASA generated the extremely fruitful Cassini-Huygens mission, composed of an orbiter and a probe (Huygens)
- - The spacecraft is equipped with 18 science instruments (12 on the orbiter and 6 carried by the probe), gathering both remote sensing and in situ data
- - The 5650 kg (6 ton) Cassini-Huygens spacecraft was launched successfully on 15 October 1997 from the Kennedy Space Center at Cape Canaveral
- - Cassini-Huygens reached Saturn in July 2004 and performed a flawless orbit insertion, becoming trapped forever in orbit like one of Saturn's moons.
- -  Power is provided through three Radioisotope Thermoelectric Generators (RTGs).
- - The instruments study the temperatures in various locations, the plasma levels, the neutral and charged particles, the surface composition, the atmospheres and rings, the solar wind, and even the dust grains in the Saturn system. Other instruments perform spectral mapping for high-quality images of the ringed planet, its moons and rings.
+### Cassini-Huygens (ESA-NASA) (1997-2017)
+- En 1986, le National Research Council’s Committee on Planetary and Lunar Exploration (COMPLEX) déclare que la plus grande priorité pour l'exploration planétaire au cours de la prochaine décennie est l'étude intensive du système de Saturne, ses lunes et ses anneaux.
+- A la suite de cette déclaration, une mission internationale naît, collaboration entre la NASA et l'ESA : c'est la mission Cassini-Huygens.
+- Cassini-Huygens nous aide à répondre à des questions très générales : comment les systèmes planétaires se forment, comment ils évoluent, où se trouvent les conditions qui permettent à la vie d'apparaître...
+> En particulier, les objectifs scientifiques de la mission sont de mener une investigation à long terme du système saturnien : observer son atmosphère, son champ magnétique, ses lunes, ses anneaux, prélever des échantillons de particules de poussières et autres particules chargées, et atterrissage sur la lune Titan
+- La mission Cassini-Huygens est lancée le 15 Octobre 1997 depuis Cape Canaveral, et arrive dans le système saturnien en Juillet 2004, après 7 ans et demi de voyage
+- La sonde de près de 6 tonnes est composée d'un orbiteur (Cassini) et d'un aterrisseur (Huygens)
+- Elle comprend 18 instruments scientifiques (12 sur l'orbiteur, 6 sur l'atterrisseur)
+> Ils permettent de mesurer la température, les champs magnétiques, la composition chimique, et permettent de réaliser des images haute résolution 
+- Elle est alimentée par 3 RTG (Radioisotope Thermoelectric Generators)
+- La mission de Cassini-Huygens en orbite autour du système Saturnien s'étale sur près de 13 ans.
  - only met its end this year, 2017. 13 years it spent orbiting Saturn. which spanned almost half of a Saturn year, covering late northern winter, spring, and summer.
  - How long is a day on Saturn?: We still don’t know! This might seem like an easy thing to figure out, but the different bands of Saturn’s atmosphere rotate at different rates, only constraining the length of a day to somewhere between 10 and 11 hours. The wobble of the planet’s magnetic field and periodic changes in radio waves coming from near Saturn were expected to give us a better idea, but Cassini has shown that this gives a different length of day in the North compared to the South, and these both change as Saturn travels around the Sun.
 - In 2017, when it was running low on fuel, Cassini was intentionally vaporized in Saturn’s atmosphere to protect the ocean moons, Enceladus and Titan, where it had discovered habitats potentially suitable for life.
@@ -1132,7 +1131,6 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - Saturn emits long-wavelength radio waves known as Saturn kilometric radiation (SKR). SKR was first observed by Voyager in the early 1980s and interpreted as an indicator of Saturn’s internal rotation period (length of day). Cassini results showed that the SKR signals are not coming from the interior of Saturn as originally assumed. The SKR period changed from year to year, incompatible with an interior origin. When Cassini first arrived at Saturn and measured the SKR period, data from the Radio and Plasma Wave Science instrument also showed that the radio waves’ frequencies were different in the northern and southern hemispheres
 - An alternative method for estimating the length of Saturn’s day came from the detection of small, Saturn-driven waves in the rings (115). Saturn’s ring system acts like a seismograph, providing a measure of Saturn’s internal oscillations (or normal modes) that directly probe the interior of the planet (116) and provide a means for measuring its deep rotation rate. These vibrations, determined by Saturn’s nonuniform internal structure, are probably driven by convection inside the planet, which cause oscillations in Saturn’s gravity field that manifest themselves as waves in the rings. Preliminary modeling of the propagation behavior of this collection of waves provides an interior rotation rate for Saturn of ~10.6 hours (117).
 - As Cassini ran low on fuel, it embarked on a series of orbits that took it closer to Saturn. The spacecraft transmitted its final data on 15 September 2017, as it plunged into Saturn’s atmosphere
-- in situ observations conducted by the Cassini-Huygens mission after a 7.5-year trek through our solar system. Since the Saturn orbit insertion in July 2004
  
 ***Titan***
 - L'atterrisseur Huygens est devenu, le 14 Janvier 2005, le premier artefact humain à se poser sur un monde du système solaire externe.
