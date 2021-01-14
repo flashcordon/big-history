@@ -1019,12 +1019,17 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 > Il s'agit d'une lune Yin-Yang : la moitié de sa surface est très sombre, et l'autre très claire.
 
 ### Anneaux de Saturne
-- The rings were named alphabetically in the order they were discovered. Starting from the innermost ring, the D ring is followed by the C, B, A, F, G and E rings.
-- Pourquoi Saturne a t-elle des anneaux ?
+- Les anneaux de Saturne sont un véritable symbole de l'astronomie. Un joyau du système solaire. Mais depuis quand existent-ils ?
+- Les anneaux de Saturne ont été nommées dans l'ordre alphabétique selon l'ordre de leur découverte.
+> Du plus proche de Saturne au plus éloigné on a donc l'anneau D, C, B, A, F et G.
+- Saturne possède entre 500 et 1000 anneaux. Il y a aussi des divisions entre ces anneaux.
+- Les anneaux s'étendent sur près de 400 000 km, soit la distace Terre-Lune. Mais leur épaisseur moyenne n'est que de 100m. Ce qui fait des anneaux l'une des structures les plus fines que l'on connaisse.
+- Les anneaux sont constitués de boules de neige et de roches couvertes de glaces. La distribution des particules des anneaux va de la taille de... Particules à celle d'un bus. 
+- Saturne n'est pas la seule planète à posséder des anneaux. Toutes les planètes géantes du système solaire en possèdent. Mais les anneaux de Saturne sont de loin les plus brillants.
+- La masse totale des anneaux est probablement comparable à celle de la lune Mimas.
+
 - Most people think many millions of years ago, Saturn didn’t have rings at all. Instead, it had a big moon moving around it. Eventually, this moon came very close to Saturn while moving faster and faster around it. This caused the moon to get pulled in two directions at once. It burst and broke into pieces that eventually spread around the planet into a flattened doughnut shape made of ice and rock. The chunks kept smashing into each other, which made a lot of powdery dust and snow. Some chunks fell onto Saturn or floated off into space. That’s still happening today, and in the distant future the rings will disappear entirely.
-- The rings are about 400,000 kilometers (240,000 miles) wide. That's the distance from the Earth to the Moon! But the rings are as little as 100 meters (330 feet) thick. They range from particles too tiny to see to "particles" the size of a bus. Scientists think they are icy snowballs or ice covered rocks.
-- There are actually many rings—maybe 500 to 1000. There are also gaps in the rings.
-- Saturn’s  rings  are  the  largest  and  the  brightest  of  the  four  ring  systems  surrounding  each  of  the giant  planets  (for  comparison,  see  Esposito  2006). They  likely  contain  at  least  as  much  mass  as the  moon  Mimas 
+
 - Saturn’s rings are complex, and the processes observed there provide a laboratory for planet formation. Some of Cassini’s highest-resolution data on the rings were obtained during Saturn orbit insertion (SOI) in 2004 as well as during the final year of the mission.
 - en 2009, The  origin  and  long-term  evolution  of  Saturn’s  rings  is  still  an  unsolved  problem  in  modern planetary  science. 
 - the main rings (A, Cassini Division, B, C), the F Ring, and the diffuse rings (E and G)
@@ -1066,7 +1071,6 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - Second, the solar system’s first billion years or so were a pinball-like pandemonium, with protoplanetary objects constantly colliding. These days, said Crida, things are far more settled, so the likelihood of a catastrophic collision leading to Saturn’s rings is far lower.
 - “The question of whether the rings are old or young will one day be definitively answered,” said Becker. But right now, there is enough evidence on both sides
 - While the past is unclear, the future seems more certain. The rings may look permanent, but the opposite is true. Observations from a telescope atop Hawaii’s Mauna Kea volcano found torrents of material raining out from the rings. When scientists add this to the material detected by Cassini, they estimate that the rings will disappear completely in 100 million years.
-- It appears that time is running out for Saturn’s rings, a “symbol of astronomy,” Crida said, one universally admired for its staggering beauty. Like many, he considers it fortunate that humanity and the rings coexist — giving us plenty of opportunity to argue about the secrets they hold.
 
 ## L'hexagone polaire de Saturne
 
