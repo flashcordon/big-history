@@ -991,6 +991,8 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Saturn and its Rings: Four Centuries of Imperfect Amodal Completion](https://journals.sagepub.com/doi/full/10.1177/2041669518822084) - Roncato (2019)
 - [The Origin of Planetary Ring Systems](https://arxiv.org/abs/1703.09741) - Charnoz et al (2018)
 - [Les anneaux de Saturne vus par la mission CASSINI-HUYGENS](http://www.aim.ufr-physique.univ-paris7.fr/CHARNOZ/homepage/l%27astronomie_charnoz.pdf) - Sébastien Charnoz, L'Astronomie (2005)
+- [NASA Research Reveals Saturn is Losing Its Rings at “Worst-Case-Scenario” Rate](https://www.nasa.gov/press-release/goddard/2018/ring-rain) - NASA
+- [The Rings of Saturn](https://caps.gsfc.nasa.gov/simpson/kingswood/rings/) - Dr. David G. Simpson, NASA
 
 ---
 
@@ -1021,20 +1023,25 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 ### Anneaux de Saturne
 - Les anneaux de Saturne sont un véritable symbole de l'astronomie. Un joyau du système solaire. Mais depuis quand existent-ils ?
 - Les anneaux de Saturne ont été nommées dans l'ordre alphabétique selon l'ordre de leur découverte.
-> Du plus proche de Saturne au plus éloigné on a donc l'anneau D, C, B, A, F et G.
+> * Du plus proche de Saturne au plus éloigné on a donc l'anneau D, C, B, A, F et G.
+> * Il y a 3 anneaux principaux (A, B et C) principalement composées de glace d'eau, et 2 anneaux diffus (E et G)
 - Saturne possède entre 500 et 1000 anneaux. Il y a aussi des divisions entre ces anneaux.
-- Les anneaux s'étendent sur près de 400 000 km, soit la distace Terre-Lune. Mais leur épaisseur moyenne n'est que de 100m. Ce qui fait des anneaux l'une des structures les plus fines que l'on connaisse.
+> * La région qui sépare l'anneau A et B est appelée la division Cassini, et c'est la divivion la plus évidente à observer au télescope. Bien qu'elle apparaisse sombre, elle n'est pas vide de matière.
+- Les anneaux s'étendent sur près de 400 000 km, soit la distace Terre-Lune. Mais leur épaisseur moyenne n'est que de 10 m. Ce qui fait des anneaux l'une des structures les plus fines que l'on connaisse.
+> * Si Saturne faisait la taille d'un terrain de basket, les anneaux seraient aussi épais qu'1/250e de cheveu.
+> * Les structures verticales les plus hautes des anneaux ne dépassent pas les 2,5 km. Elles produisent des ombres étendues.
 - Les anneaux sont constitués de boules de neige et de roches couvertes de glaces. La distribution des particules des anneaux va de la taille de... Particules à celle d'un bus. 
 - Saturne n'est pas la seule planète à posséder des anneaux. Toutes les planètes géantes du système solaire en possèdent. Mais les anneaux de Saturne sont de loin les plus brillants.
-- La masse totale des anneaux est probablement comparable à celle de la lune Mimas.
+- La masse totale des anneaux est probablement du même ordre de grandeur que celle de la lune Mimas.
+> * le grand final de Cassini a permis d'estimer précisément la masse des anneaux, en plongeant 22 fois à l'intérieur de ceux-ci [vidéo](https://youtu.be/kMpN3TN9jTA) (Crédit : NASA/JPL-Caltech).
+- L'origine et l'âge des anneaux de Saturne est encore un sujet controversé aujourd'hui.
+> * Cette estimation a été réalisée en analysant la quantité de poussière dans les anneaux et le flux de poussière provenant du système solaire externe (depuis la ceinture de Kuiper). Les chercheurs en ont déduit qu'à ce rythme de pollution externe, les anneaux de Saturne mettraient 10 à 100 millions d'années max à noircir ainsi.
+- À l'échelle des temps géologiques, les anneaux de Saturne ne sont qu'une structure éphémère. Des observations récentes réalisées en 2018 grace au télescope Keck à Hawaii ont révélé qu'une pluie de poussière et de glace s'échappe des anneaux en permanence et, guidé par le champ magnétique de la planète, finit par se perdre à l'intérieur de son atmosphère. À ce rythme, les anneaux devraient complètement disparaitre d'ici 100 millions d'années.
 
-- Most people think many millions of years ago, Saturn didn’t have rings at all. Instead, it had a big moon moving around it. Eventually, this moon came very close to Saturn while moving faster and faster around it. This caused the moon to get pulled in two directions at once. It burst and broke into pieces that eventually spread around the planet into a flattened doughnut shape made of ice and rock. The chunks kept smashing into each other, which made a lot of powdery dust and snow. Some chunks fell onto Saturn or floated off into space. That’s still happening today, and in the distant future the rings will disappear entirely.
+- Most people think many millions of years ago, Saturn didn’t have rings at all. Instead, it had a big moon moving around it. Eventually, this moon came very close to Saturn while moving faster and faster around it. This caused the moon to get pulled in two directions at once. It burst and broke into pieces that eventually spread around the planet into a flattened doughnut shape made of ice and rock. The chunks kept smashing into each other, which made a lot of powdery dust and snow. Some chunks fell onto Saturn or floated off into space. 
 
 - Saturn’s rings are complex, and the processes observed there provide a laboratory for planet formation. Some of Cassini’s highest-resolution data on the rings were obtained during Saturn orbit insertion (SOI) in 2004 as well as during the final year of the mission.
-- en 2009, The  origin  and  long-term  evolution  of  Saturn’s  rings  is  still  an  unsolved  problem  in  modern planetary  science. 
-- the main rings (A, Cassini Division, B, C), the F Ring, and the diffuse rings (E and G)
-- Although Saturn’s rings were first observed in the 17th century by Galileo Galilei, their origin and long-term  evolution  is  still  a  matter  of  passionate  debate.  
-- Saturn’s  main rings  have  a  mass  on  the  order  of  one  to  several  Mimas  masses  (Esposito  et  al.,  1983,  2007; Stewart et al., 2007) and are mainly composed of pure water ice, with little contamination 
+
 - Given the current state of  knowledge, the  destruction  of  a  massive  satellite  (Pollack  et al.,  1976;  Harris  1984)  or  the  tidal  splitting  of comets  grazing  Saturn  (Dones  1991;  Dones  et  al.,  2007)  could  be  viable  mechanisms  for implanting such a large amount of ice inside Saturn’s Roche zone. However, the actual cometary bombardment  rate  seems  too  low,  by  orders  of  magnitude,  for  these  scenarios  to  work.  Such  a paradoxical  situation  could  be  resolved  if  the  seemingly  young  rings  are  constantly  renewed  by 
 3some material recycling mechanism (sometimes called “cosmic recycling”). 
 - The   Cassini  spacecraft has   provided   invaluable   data   that   constrain   particle properties,  size  distributions,  and  processes  at  work  in  the  rings,  such  as:  the discovery of propellers (Tiscareno et al., 2006, 2008), measurements of the shape of small inner satellites (Charnoz et al., 2007; Porco et al., 2007), multiple stellar occultations  with  resolutions  better  than  10  m  (Colwell  et  al.,  2006,  2007),    high resolution  spectra  of  rings  (Nicholson  et  al.,  2008),    measurements  of  the  rings’ thermal  inertia  (see  e.g.,  Leyrat  et  al.,  2008)  and  the  discovery  of  Enceladus’ plumes 
@@ -1060,17 +1067,14 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - One of the strongest constraints on the rings’ age − the darkening by meteoroid bombardment −might  be  solved  if  the  rings  were  more  massive  than  previously  thought  or,  alternatively,  if  the meteoroid bombardment was much smaller than previously estimated. However, as mentioned in section 3.1, the meteoroid flux may  also have been much higher in the distant past. The idea of recycling  material,  embodied  in  the  concept  of  “Cosmic  Recycling”  still  needs  modeling  and investigation.  The  evidence  for  ancient  rings  and  continued  recycling  is  indirect,  but  more  than just  intriguing.  It  includes  the  larger  optical  depths  measured  by  Cassini  occultations,  the clumpiness   seen   in   the   rings   that   implies   that   the mass   of   the   rings   may   have   been underestimated, and the variety of structures visible in the outer A Ring and in the F Ring.
 - The Cassini spacecraft perished in a literal blaze of glory on September 15, 2017, when it ended its 13-year study of Saturn by intentionally plunging into the gas giant’s swirling atmosphere. The crash came after a last few months of furious study, during which Cassini performed the Grand Finale — a sensational, death-defying dance that saw the spacecraft dive between the planet and its rings 22 times.
 - As new perspectives often do, this one revealed a surprise. Previously, planetary scientists had assumed that Saturn’s rings were as old as the solar system itself — about 4.5 billion years old. But cosmic clues hidden deep within the rings caused some Cassini scientists to massively revise this figure. The rings aren’t as old as the solar system, they argued in a paper published this summer in the journal Science. They emerged no more than 100 million years ago, back when dinosaurs roamed Earth.
-- Cette estimation a été réalisée en analysant la quantité de oussière dans les anneaux et le flux de poussière provenant du système solaire externe (depuis la ceinture de Kuiper). Il sen ont déduit qu'à ce rythme de pollution externe, les anneaux de Saturne mettraient 10 à 100 millions d'années max à noircir ainsi.
+
 - In response to the hypothesis, Crida co-authored a commentary for Nature Astronomy, published in September, that presented a litany of uncertainties. The dinosaurian age of the rings is an eye-catching claim, said Crida, but it circumvents an uncomfortable reality: Too many uncertainties exist to permit any firm estimate of the age of the rings. Despite Cassini’s heroics, “we’re not really far ahead of where we were almost 40 years ago,”
 - Il existe un processus qui "nettoie" les anneaux : des particules de poussières et de matière organique chargées électriquement sont entrainées par les lignes de champ magnétiques de la planète à l'intérieur de celle-ci. Ce processus perturbe ce type d'estimation
 - The pollution rate may have also changed relatively recently. “It could just be that the bombardment rate is unusually high at the moment,” 
 - We also don’t fully understand the physics behind the ring darkening. The micrometeoroids from the Kuiper belt slam into the rings’ icy chunks at such high speeds that the impacts are like little explosions, suggesting that not much of the micrometeoroids adheres. This has led to a fudge factor in the literature — guesstimates that 10% of the micrometeoroidal matter sticks to the ice and pollutes it.
-- le grand final de Cassini a permis d'estimer plus précisément la masse des anneaux, en plongeant 22 fois à l'intérieur de ceux-ci [vidéo](https://youtu.be/kMpN3TN9jTA) (Crédit : NASA/JPL-Caltech).
+
 - First, we have no idea what created the rings, so assigning them an origin story at any point in time is difficult. The rings may be the vestige of a comet torn asunder by Saturn’s gravitational tides, or the product of a collision between a comet and an icy moon, or the result of something that disturbed the orbit of several moons, causing them to smash into each other.
-- At the edge of Saturn’s B ring, vertical structures rise as high as 2.5 kilometers above the plane of the rings, casting long shadows. The typical thickness of the rings is only about 10 meters.
 - Second, the solar system’s first billion years or so were a pinball-like pandemonium, with protoplanetary objects constantly colliding. These days, said Crida, things are far more settled, so the likelihood of a catastrophic collision leading to Saturn’s rings is far lower.
-- “The question of whether the rings are old or young will one day be definitively answered,” said Becker. But right now, there is enough evidence on both sides
-- While the past is unclear, the future seems more certain. The rings may look permanent, but the opposite is true. Observations from a telescope atop Hawaii’s Mauna Kea volcano found torrents of material raining out from the rings. When scientists add this to the material detected by Cassini, they estimate that the rings will disappear completely in 100 million years.
 
 ## L'hexagone polaire de Saturne
 
