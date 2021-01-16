@@ -696,7 +696,11 @@ these would have frozen over by the mid-Amazonian epoch.
 
 ### MAVEN
 
+### Curiosity
+
 ### Insight
+
+### Perseverance
 
 ## Terraformer Mars
 
@@ -854,6 +858,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [SpaceX Interplanetary Transport System](https://youtu.be/0qo78R_yYFA) - SpaceX
 - [A View of the Martian Sufrace From Viking 1](https://planetimages.blogspot.com/2011/04/view-from-viking-1.html) - Ted Stryk, Planetary images from then and now
 - [Mars from Mariner 4](https://planetimages.blogspot.com/2012/12/mars-from-mariner-4.html) - Ted Stryk, Planetary images from then and now
+- [Curiosity Drops in on Mars in High-Res](https://www.youtube.com/watch?v=e1ebHThBdlY) - NASA JPL
 
 # Jupiter
 
