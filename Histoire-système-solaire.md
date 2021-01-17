@@ -1033,7 +1033,7 @@ http://onlinelibrary.wiley.com/doi/10.1002/2013GL059078/full
 ## Histoire de l'observation de Saturne
 
 - Saturne est probablement l'astre le plus emblématique du système solaire. Ses anneaux caractéristiques sont toujours une source d'émerveillement chez les astronomes amateurs.
-- Le premier à avoir observé Saturne à travers une lunette astronomique est Galilée, en 1610. La vision de la planète le trouble: son instrument (et sa vision) étant de piètre qualité, il croit voir 2 grosses lunes autour de Saturne, puis pas de lune du tout, puis avec des "oreilles" ou des "anses".
+- Le premier à avoir observé Saturne à travers une lunette astronomique est Galilée, en 1610. La vision de la planète le trouble: son instrument (et sa vision) étant de piètre qualité, il croit voir 2 grosses lunes autour de Saturne, puis pas de lune du tout, puis avec des "oreilles" ou des "anses". [Dessins de Saturne par Galilée](https://commons.wikimedia.org/wiki/File:Galileosaturnus.jpg)
 - C'est l'astronome néerlandais Christiaan Huygens qui est le premier à suggérer que Saturne est entourée d'anneaux. Ce que Galilée avait vu, c'était les anneaux sous différents angles selon la date d'observation.
 - En 1655, l'astronome néerlandais Christiaan Huygens découvre Titan, la plus grosse lune de Saturne, nommée en raison de sa grande taille
 - En 1675, l'astronomie savoisien Jean-Dominique Cassini découvre dans les anneaux de Saturne la division qui porte son nom.
