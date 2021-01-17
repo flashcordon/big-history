@@ -1003,6 +1003,30 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Christian Huygens](https://collections.royalsociety.org/DServe.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Persons&dsqPos=2&dsqSearch=%28%28text%29%3D%27huyghens%27%29) - Royal Society
 - The solar system - Michael Seeds et Backman
 - [Saturn fact sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html) - NASA
+- https://youtu.be/zVScPy-fiGM 
+http://www.sciencemag.org/news/2010/04/saturns-strange-hexagon-recreated-lab 
+http://www.cidehom.com/apod.php?_date=130220 
+https://photojournal.jpl.nasa.gov/catalog/PIA09187 
+http://aasnova.org/2015/08/21/an-explanation-for-saturns-hexagon/
+http://iopscience.iop.org/article/10.1088/2041-8205/806/1/L18/meta 
+http://www.skyandtelescope.com/astronomy-news/cassini-amazing-views-saturn-hexagon/ 
+https://www.seeker.com/saturns-north-pole-hexagon-mystery-solved-1765044584.html  
+https://www.youtube.com/watch?v=VQzLY17ncWM 
+https://www.youtube.com/watch?v=n_c9A9Auf0A 
+https://apod.nasa.gov/apod/ap170403.html 
+https://saturn.jpl.nasa.gov/news/3037/a-vexing-hexagon/ 
+http://www.popularmechanics.com/space/a23552/saturn-hexagon-changed-color/ 
+http://www.planetary.org/blogs/emily-lakdawalla/2010/2471.html 
+https://www.youtube.com/watch?v=LcmNMWG9vqA 
+https://www.nytimes.com/2014/08/06/science/space/storm-chasing-on-saturn.html 
+https://youtu.be/gqXcXNUu1lg 
+http://iopscience.iop.org/article/10.1088/2041-8205/806/1/L18/meta 
+https://books.google.fr/books?id=lCXYQ4phwbwC&pg=PA332&lpg=PA332&dq=saturn+hexagon+aurora&source=bl&ots=ZiYtD79glu&sig=xDWxsqtxaxi7SEbNtfvVa68DF-0&hl=en&sa=X&ved=0ahUKEwjgk4HHoLzXAhUB2xoKHbUuDGM4FBDoAQgnMAA#v=onepage&q=saturn%20hexagon%20aurora&f=false 
+https://en.wikipedia.org/wiki/Saturn%27s_hexagon 
+https://www.nasa.gov/mission_pages/cassini/multimedia/pia09185.html 
+http://tquark.colorado.edu/~tianlu/public/saturnHex_paper.pdf 
+http://www.sciencedirect.com/science/article/pii/S0019103517300659 
+http://onlinelibrary.wiley.com/doi/10.1002/2013GL059078/full
 
 ---
 
@@ -1067,9 +1091,17 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 ## L'hexagone polaire de Saturne
 
-- Les jet streams de Saturne forment des bandes nuageuses qui encerclent la planète. Mais l'un de ces jets streams situé à 75° de latitude nord forme un motif hexagonal caractéristique qui fait 2 fois la taille de la Terre.
-- Cet hexagone, stable depuis au moins 40 ans, a été découvert par les sondes Voyager
+- Les jet streams de Saturne forment des bandes nuageuses qui encerclent la planète. Mais l'un de ces jets streams (une sorte de courant d’air qui souffle d’ouest en est) situé à 75° de latitude nord forme un motif hexagonal caractéristique assez large pour englober 4 planètes Terre
+- Cet hexagone a été découvert par les sondes Voyager au début des années 80
+- Il faudra attendre plus de 20 ans avant que l’existence de cet hexagone ne soit confirmée par la sonde Cassini, qu’on envoie cette fois pour étudier en détail la planète aux anneaux. En 2004, et alors que le pôle nord de Saturne est plongé dans l’obscurité à cause de l’hiver Saturnien, Cassini va réaliser les premiers clichés détaillés du motif grâce à sa caméra infrarouge qui capte les émissions de chaleur en provenance des différentes couches de nuages de la planète.
+- Ce qui est frappant avec cet hexagone, c’est d’abord sa longévité. Sur Terre, les phénomènes météo comme les ouragans perdent rapidement leur énergie par friction avec le sol et les reliefs terrestres, du coup ils durent rarement plus de quelques semaines. Mais Saturne étant une planète gazeuse, et donc sans surface solide, son hexagone est resté stable pendant près de 4 décennies, et personne ne sait encore combien de temps il peut perdurer.
 - Sa source est encore mal comprise.
+- au centre du polygone trône un immense cyclone de 2000km de diamètre, presque 2 fois plus large que les plus gros cyclones terrestres, et avec des vents qui pointent à plus de 500km/h ! Des simulations numériques ont d’ailleurs montré que ce cyclone ne serait pas étranger à la remarquable stabilité de l’hexagone.
+- Cette forme géométrique serait une manifestation, non pas d’un complexe militaire alien, mais plutôt d’une dynamique des gaz assez complexe. Pour comprendre comment un tel phénomène peut émerger, des chercheurs de l’université d’Oxford ont tenté en 2010 de reproduire les conditions atmosphériques du pôle nord de Saturne en utilisant un bac cylindrique contenant 30L d’eau posé sur une table tournante, l’eau étant ici sensée représenter l’atmosphère de la planète. 
+> Au centre du cylindre se trouve un petit anneau qui fait tourner le fluide autour de lui plus rapidement que le cylindre. En injectant du colorant vert dans le bac, les chercheurs ont pu tracer l’évolution du mouvement du fluide. Et selon la différence de vitesse de rotation entre l’anneau et le cylindre, le fluide turbulent a pu être perturbé de manière à produire toutes sortes de formes géométriques: des triangles, des carrés et même… des hexagones. Plus la différence de vitesse de rotation est grande, moins le polygone a de côtés.
+- Ce que cette expérience montre, c’est que si ce processus est à l’oeuvre à grande échelle, on pourrait parfaitement imaginer trouver sur les pôles d’une quelconque planète géante des triangles, des octogones et autres polygones de gaz ! Néanmoins, reproduire ce phénomène demande des conditions de vitesses des fluides assez particulières, conditions qui ne sont pas respectées au pôle sud de Saturne par exemple, ce qui explique pourquoi on n’a pas observé d’hexagone à cet endroit.
+- Si l’hexagone a effectivement su garder sa structure intacte pendant tout ce temps, pour ses couleurs, c’est une autre histoire. Parce qu’entre 2012 et 2016, des images en vraies couleurs prises par la sonde Cassini ont montré que l’hexagone est passé d’un bleu subtil à des tons plus dorés.
+> il est probable que le jet stream qui délimite l’hexagone agisse comme une barrière qui empêche les particules produites à l’intérieur d’en sortir et les particules à l’extérieur d’y entrer. Et entre 2012 et 2016, Saturne est sortie de son long hiver et a entamé le printemps. Sachant que chaque saison sur Saturne dure 7 ans, l’atmosphère du pôle nord s’est donc retrouvé continuellement baigné par les rayons du soleil, ce qui a augmenté la production de particules fines à l’intérieur de l’hexagone par des réactions chimiques, et a formé une sorte de brume qui a donné à l’hexagone sa teinte dorée.
 
 ## Missions vers Saturne
 
