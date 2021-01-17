@@ -1001,26 +1001,30 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [A brief astronomical history of Saturn’s amazing rings ](https://theconversation.com/a-brief-astronomical-history-of-saturns-amazing-rings-120945) - Vahe Peroomian, The Conversation
 - [Who discovered Saturn?](https://www.universetoday.com/46237/who-discovered-saturn/) - Universe Today
 - [Christian Huygens](https://collections.royalsociety.org/DServe.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Persons&dsqPos=2&dsqSearch=%28%28text%29%3D%27huyghens%27%29) - Royal Society
+- The solar system - Michael Seeds et Backman
+- [Saturn fact sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html) - NASA
 
 ---
 
 ## Histoire de l'observation de Saturne
 
-- Saturn has been known since prehistoric times,[125] and in early recorded history it was a major character in various mythologies.
-- Some call Saturn the jewel of the solar system, with its distinctive rings, variety of moons, and swift atmospheric winds. The first glances of the planet through a telescope certainly form a memory that sticks in peoples’ minds
-- In 1655 Christiaan Huygens, a Dutch amateur astronomer, discovered Saturn's satellite Titan named for its great size (half that of the Earth's) and thought to be the largest moon in our solar system thanks to its extended atmosphere. 
-- When Galileo first observed Saturn through his telescope in 1610, he was still basking in the fame of discovering the four moons of Jupiter. But Saturn perplexed him. Peering at the planet through his telescope, it first looked to him as a planet with two very large moons, then as a lone planet, and then again through his newer telescope, in 1616, as a planet with arms or handles. He thought the planet might have ears, or two small balls on either side.
-- Four decades later, Christiaan Huygens first suggested that Saturn was a ringed planet, and what Galileo had seen were different views of Saturn’s rings. Because of the 27 degrees in the tilt of Saturn’s rotation axis relative to the plane of its orbit, the rings appear to tilt toward and away from Earth with the 29-year cycle of Saturn’s revolution about the Sun, giving humanity an ever-changing view of the rings.
-- Huygens also discovered Saturn's moon Titan
-- In 1675, Cassini discovered the gap now known as the Cassini Division Better observations of Saturn by Giovanni Cassini turned up 4 additional moons of Saturn, as well a division in the rings that would later be named after him: the Cassini division.
-- Huygens soon turned his attention to lens grinding and telescope construction. Around 1654 he devised a new and better way of grinding and polishing lenses. Using one of his own lenses, Huygens detected, in 1655, the first moon of Saturn. 
+- Saturne est probablement l'astre le plus emblématique du système solaire. Ses anneaux caractéristiques sont toujours une source d'émerveillement chez les astronomes amateurs.
+- Le premier à avoir observé Saturne à travers une lunette astronomique est Galilée, en 1610. La vision de la planète le trouble: son instrument (et sa vision) étant de piètre qualité, il croit voir 2 grosses lunes autour de Saturne, puis pas de lune du tout, puis avec des "oreilles" ou des "anses".
+- C'est l'astronome néerlandais Christiaan Huygens qui est le premier à suggérer que Saturne est entourée d'anneaux. Ce que Galilée avait vu, c'était les anneaux sous différents angles selon la date d'observation.
+- En 1655, l'astronome néerlandais Christiaan Huygens découvre Titan, la plus grosse lune de Saturne, nommée en raison de sa grande taille
+- En 1675, l'astronomie savoisien Jean-Dominique Cassini découvre dans les anneaux de Saturne la division qui porte son nom.
+> Il découvre aussi en 1671-1672 4 lunes additionnelles : Téthys, Dioné, Rhéa et Japet.
 
 ## Propriétés de Saturne
 
 - Saturne se trouve environ 10 fois plus loin du Soleil que la Terre. (9,6 UA)
+- Elle est 95 fois plus massive que la Terre
+- On pourrait mettre 763 Terres dans le volume de Saturne 
+- Son atmosphère est composée en majeure partie d'hydrogène moléculaire (96.3% en volume) et d'hélium (3.25%), mais contient des traces de méthane, d'ammoniac, de deutérure d'hydrogène et d'éthane. 
+> On y trouve aussi des aérosols, comme des particules de glace d'ammoniac et d'eau
 
 ## Lunes de Saturne
-- Saturne compte 62 lunes connues.
+- Saturne compte 82 lunes connues.
 > * La plupart d'entre elles sont de petits corps (probablement issus de la ceinture de Kuiper pour certains come Phoebe) capturés par la gravité de la planète géante, et ont des formes étranges.
 > * Cependant, les 24 lunes les plus proches de Saturne se sont probablement formées sur place.
 - La plus proche des Lunes, c'est Mimas (diamètre : 394 km).
@@ -1063,9 +1067,9 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 ## L'hexagone polaire de Saturne
 
-- Saturn’s alternating eastward and westward jet streams define the bands of cloud that circle the planet. The bands follow lines of constant latitude up to within 1° of each pole. One of the jet streams, near 75° north latitude, forms a hexagonal pattern that is two Earth diameters across (19). Voyager first discovered the hexagon, and it is still there after 35 years. Small clouds move eastward around the corners of the pattern. This hexagonal-shaped jet stream (Fig. 4) is remarkable for its stability and longevity; its source remains a mystery. 
-- Cassini scientists observed hurricane-like vortices, 50 times larger than a typical Earth hurricane, centered on both of Saturn’s poles 
--  The long time spent at Saturn by Cassini has revealed that the mysterious hexagonal-shaped jet stream in Saturn’s atmosphere around the north pole is stable over years, as are storms at both poles, and scientists are still not in agreement on why there are these structures in the giant planet’s atmosphere. Cassini also saw an enormous storm emerge in the atmosphere in 2010, which lasted for almost a whole year.
+- Les jet streams de Saturne forment des bandes nuageuses qui encerclent la planète. Mais l'un de ces jets streams situé à 75° de latitude nord forme un motif hexagonal caractéristique qui fait 2 fois la taille de la Terre.
+- Cet hexagone, stable depuis au moins 40 ans, a été découvert par les sondes Voyager
+- Sa source est encore mal comprise.
 
 ## Missions vers Saturne
 
