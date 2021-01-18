@@ -868,8 +868,18 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Jupiter](http://www.sf-encyclopedia.com/entry/jupiter) - Science Fiction Encyclopedia
 - [Jupiter in fiction](https://en.wikipedia.org/wiki/Jupiter_in_fiction) - Wikipédia
 - [Jupiter's moons in fiction](https://en.wikipedia.org/wiki/Jupiter%27s_moons_in_fiction) - Wikipédia
+- [Your guide to Europa Clipper](https://www.planetary.org/space-missions/europa-clipper) - Planetary Society
+- [About the mission - Europa Clipper](https://europa.nasa.gov/mission/about/) - NASA
+- [Europa Clipper](https://fr.wikipedia.org/wiki/Europa_Clipper#Le_lancement_du_projet_Europa_Clipper) - Wikipédia
+- [Europa Clipper : la Nasa donne le feu vert à la mission sur la lune glacée de Jupiter](https://www.futura-sciences.com/sciences/actualites/exploration-robotique-europa-clipper-nasa-donne-feu-vert-mission-lune-glacee-jupiter-57084/) - Futura Sciences (2019)
 
 ---
+
+## Lunes de Jupiter
+
+### Europe
+
+- Scientists believe Europa's ocean has more than twice the amount of water as Earth's oceans. 
 
 ## Missions vers Jupiter
 
@@ -885,6 +895,40 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 ### Europa Clipper (2025-)
 
+- La mission a reçu le feu vert de la NAS en 2019
+-  that will try to determine if Europa's subsurface ocean could support life
+- The spacecraft will search for signs the ocean has 3 ingredients for life as we know it:
+
+    Water
+    Energy (from hydrothermal vents or metabolism-driving molecules created by Jupiter's radiation)
+    Light elements like carbon, sulfur, nitrogen, and phosphorus that form complex molecules together
+ It could launch as early as 2024 and arrive as early as 2028
+ 
+ Europa Clipper is a huge spacecraft packed with 10 science instruments to scan Europa from above and directly sample the moon's tenuous atmosphere.
+ 
+ the instruments will:
+
+    Map the ice (REASON) and determine the depth and salinity of the ocean (ECM)
+    Map the surface in color (EIS) and thermal-image “hot spots” where the ocean may be seeping up through the ice shell (E-THEMIS)
+    Determine the composition of the surface and any ocean plumes spouting into space (MISE, Europa-UVS) 
+    Directly sample Europa's atmosphere (MASPEX, SUDA, PIMS), including possible ocean water, surface particles shot into space by Jupiter's radiation
+    
+ Europa Clipper could launch as early as 2024, but it all depends on the choice of rocket. Congress mandated that Europa Clipper launch on NASA's Space Launch System, or SLS, but a recent report by the NASA Office of Inspector General says a spare SLS won't be available until at least 2025. Using the beefy SLS would allow Clipper to fly to Europa directly and arrive in 2028, but that assumes a 2025 launch, which is uncertain given the rocket's role in NASA's Artemis program.
+
+If NASA can avoid the Congressional SLS requirement, Europa Clipper could launch as soon as 2024 on a less-expensive commercial rocket like the SpaceX Falcon Heavy or United Launch Alliance Delta IV Heavy.
+
+The spacecraft, in orbit around Jupiter, will make about 45 close passes over Europa, shifting its flight path for each flyby to soar over a different location so that it eventually scans nearly the entire moon.
+Europa Clipper's altitude will vary from 1,675 miles to 16 miles (2,700 kilometers to 25 kilometers) above the moon's surface at closest approach. Most of the flybys will be below 60 miles (100 kilometers). 
+At liftoff, it will have a mass of about 13,228 pounds (6,000 kilograms) including fuel for the journey.
+Europa Clipper's payload will include cameras and spectrometers to produce high-resolution images and compositional maps of Europa's surface and thin atmosphere, an ice-penetrating radar to search for subsurface water, and a magnetometer and gravity measurements to measure the moon's magnetic field and unlock clues about its ocean and deep interior.
+
+ sur une période de 3,5 ans.
+
+The spacecraft will also carry a thermal instrument to pinpoint locations of warmer ice and perhaps recent eruptions of water, and instruments to measure the composition of tiny particles in the moon's thin atmosphere and surrounding space environment.
+
+En quelques années, la sonde pourrait cartographier une grande majorité de la surface d'Europe, permettant aux chercheurs de déterminer un site d'atterrissage pertinent.
+Europa Clipper identifiera les régions où la banquise est plus fine pour déterminer les terrains les plus favorables pour l’atterrisseur qui, lui, pourrait partir dans le courant de la décennie 2030 pour y rechercher de la vie.
+ 
 ## Jupiter dans la fiction
 
 - Jupiter's importance in sf is derived from its status as the largest planet in the solar system
