@@ -872,14 +872,27 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [About the mission - Europa Clipper](https://europa.nasa.gov/mission/about/) - NASA
 - [Europa Clipper](https://fr.wikipedia.org/wiki/Europa_Clipper#Le_lancement_du_projet_Europa_Clipper) - Wikipédia
 - [Europa Clipper : la Nasa donne le feu vert à la mission sur la lune glacée de Jupiter](https://www.futura-sciences.com/sciences/actualites/exploration-robotique-europa-clipper-nasa-donne-feu-vert-mission-lune-glacee-jupiter-57084/) - Futura Sciences (2019)
+- [JUICE](https://sci.esa.int/web/juice) - ESA
+- [JUICE](https://www.lpc2e.cnrs.fr/activites-scientifiques/plasmas-spatiaux/projets/missions-spatiales/juice/) - LPC2E
+- [Mission JUICE](https://juice.cnes.fr/fr/JUICE/Fr/GP_mission.htm) - CNES
 
 ---
+
+## Histoire de l'observation de Jupiter
+
+## Propriétés de Jupiter
 
 ## Lunes de Jupiter
 
 ### Europe
 
 - Scientists believe Europa's ocean has more than twice the amount of water as Earth's oceans. 
+
+### Ganymède 
+
+- Ganymède est la seule lune du Système solaire à générer son propre champ magnétique
+
+### Callisto
 
 ## Missions vers Jupiter
 
@@ -891,7 +904,19 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 
 ### Juno (2011-)
 
-### Juice (2022-)
+### Juice (2022-2033)
+
+- JUICE - JUpiter ICy moons Explorer est une mission de l'Agence Spatiale Européenne, retenue dans le cadre de son programme Vision cosmique 2015-2025.
+- Son lancement est prévu pour Mai 2022 (elle sera envoyée à bord d'une Ariane 5) et la sonde arrivera autour de Jupiter en Janvier 2030, après un voyage de plus de 7 ans et demi
+- Elle passera 3 ans et demi en orbite autour du système Jovien, afin d'étudier en détails la planète ainsi que 3 de ses lunes glacées : Ganymède, Callisto et Europe, toutes 3 étant supposées abriter un océan interne
+- Elle survolera Europe (2 survols) et Callisto, mais une attention particulière sera portée sur Ganymède en raison de ses similitudes avec la Terre
+> * Présence d’un champ magnétique fort, d’une ionosphère et d’un océan.
+> * La sonde se mettra en orbite autour de Ganymède en 2032, et étudiera la surface glacée et la structure interne de cette lune, son océan souterrain ainsi que les interactions de son champ magnétique avec celui de Jupiter. 
+- La sonde embarquera 11 instruments scientifiques
+> Des instruments de télédétection (spectromètre imageur, caméra infrarouge) et de géophysique (altimètre laser, radar, magnétomètre) pour caractériser en détails la surface des lunes glacées, et des détecteurs de particules et de champ gravitationnel
+- JUICE étudiera en continu l’atmosphère et la magnétosphère de Jupiter, ainsi que les interactions de ses lunes avec la géante gazeuse.
+> * Il s'agira d'étudier en détails la structure, la dynamique et a composition de l'atmosphère
+> * Les aurores et les émissions radio, ainsi que leurs interactions avec le vent solaire, seront aussi analysées.
 
 ### Europa Clipper (2025-?)
 
