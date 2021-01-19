@@ -918,6 +918,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - JUICE étudiera en continu l’atmosphère et la magnétosphère de Jupiter, ainsi que les interactions de ses lunes avec la géante gazeuse.
 > * Il s'agira d'étudier en détails la structure, la dynamique et a composition de l'atmosphère
 > * Les aurores et les émissions radio, ainsi que leurs interactions avec le vent solaire, seront aussi analysées.
+- JUICE sera la première sonde spatiale européenne à destination des planètes externes du Système solaire. 
 
 ### Europa Clipper (2025-?)
 
