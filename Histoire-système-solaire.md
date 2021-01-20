@@ -936,13 +936,16 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
  
 ## Jupiter dans la fiction
 
+- Jupiter est l'une des escales de Micromégas, dans la fiction éponyme de Voltaire (1752)
+- A la fin du 19e et au début du 20e siècle, on n'a aucune idée de la véritable nature de Jupiter. On sait juste qu'elle est immense. Alors la SF et les pulps l'imaginent avec une surface, souvent avec une jungle humide avec une forte gravité.
+> * Dans *A Journey in Other Worlds* de John Jacob Astor IV (1894), des explorateurs du système solaire découvrent des dinosaures sur Jupiter
+> * Dans *Skeleton Men of Jupiter* (1943), Edgar Rice Burroughs fait transporter son héros John Carter sur Jupiter, nommée Sasoom dans l'aventure
+> * Dans *The Conquest of Two Worlds* d'Edmond Hamilton (1932), les humains explorent le système solaire et découvrent des formes de vie intelligentes sur Jupiter, un monde exotique avec des jungles humides
+- Quand on découvre que Jupiter est une planète gazeuse (quand ?), les descriptions fictionnelles de la planète changent radicalement
+
+
 - Jupiter's importance in sf is derived from its status as the largest planet in the solar system
 -  Its four major moons – Ganymede, Callisto, Io and Europa – were discovered by Galileo, but it was not until 1892 that the US astronomer Edward Barnard (1857-1923) discovered the fifth. About a dozen others were discovered in the twentieth century. 
-- Micromégas (1752) by Voltaire. The eponymous hero and his Saturnian companion stop on Jupiter[1] for a year, where they "learned some very remarkable secrets".[2]
-- A Journey in Other Worlds (1894) by John Jacob Astor IV. Explorers from Earth reach Jupiter, prior to traveling on to Saturn. On Jupiter the travelers encounter Earth-like dinosaurs.[3]
-- The Conquest of Two Worlds (1932) by Edmond Hamilton. Humans explore the solar system and discover intelligent life on Mars and Jupiter, and proceed to ruthlessly conquer and subjugate it. Jupiter is a humid jungle world with high gravity.
-- Skeleton Men of Jupiter (1943) by Edgar Rice Burroughs. John Carter is transported to Sasoom (Jupiter).
-- City stories (1952) by Clifford D. Simak. Most humans are eventually voluntarily transformed into creatures able to survive on Jupiter without life support. In this new form, Jupiter appears as a paradise. Jupiter is portrayed as having a solid surface, which is cold, toxic, and barren from a human perspective.
 - A Meeting with Medusa (1972), novella by Arthur C. Clarke. A journey into the depths of Jupiter's atmosphere, where vast, mile-sized floating life-forms have evolved. This is similar to a scene in 2010 in which Jupiter's atmosphere is inhabited by enormous cloud-like creatures which are in turn preyed upon by delta-shaped flying predators.
 - Jupiter (2001) by Ben Bova. A journey into Jupiter's clouds, storms, and the liquid stage of its atmosphere for the discovery of intelligent life there. 
 - Galileo's Dream (2009) by Kim Stanley Robinson. Galileo is transported to the Jovian system in the 29th century, where human colonists learn that the planet itself is a vast, conscious intelligence.
