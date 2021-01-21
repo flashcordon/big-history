@@ -572,6 +572,21 @@ and no doubt lives into its development
 
 *Sources*
 
+- [Earthrise: The Story Behind William Anders' Apollo 8 Photograph | 100 Photos | TIME](https://www.youtube.com/watch?v=Pu7NUQEHfe4) - Time Magazine
+- [How the Apollo 8 Earthrise photo was taken](https://youtu.be/5VAIU1-GgwQ) - NASA
+- [Portraits of a planet: Earth from space](https://youtu.be/MJZKGNltqK0) - Nature
+- [Earthrise: The 45th Anniversary](https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4129) - NASA
+- [What Does The Earth Look Like From The Moon?](https://youtu.be/CwEcEumoeuc) - Fraser Cain
+- [Viewing the Earth from the Moon](https://youtu.be/KYeFnnG7X9E) - Kevin Gill
+- [Earthrise](https://svs.gsfc.nasa.gov/3936) - NASA
+- [Apollo 8: A Story of Christmas Around the Moon](https://youtu.be/OfIlau2VVp4) - NASA
+- [https://theconversation.com/earthrise-a-photo-that-changed-the-world-109009](https://theconversation.com/earthrise-a-photo-that-changed-the-world-109009) - The Conversation
+- [First Lunar Earthrise, Old and New](https://moon.nasa.gov/resources/351/first-lunar-earthrise-old-and-new/) - NASA
+- [Earthrise Museum](http://www.bensisto.com/projects/earthrise-museum) 
+- [Earthrise Multimedia Experience](https://emergencemagazine.org/story/earthrise/) - Emergence Magazine
+- [50 Years After 'Earthrise,' a Christmas Eve Message from Its Photographer](https://www.space.com/42848-earthrise-photo-apollo-8-legacy-bill-anders.html) - Space
+- [On the social impact of the Apollo 8 Earthrise photo, or the lack of it?](https://jbh.journals.villanova.edu/article/view/2425/2377) - Fred Spier (2019)
+
 ## Illlustrations de la Terre
 
 - [Lever de Terre](https://fr.wikipedia.org/wiki/Lever_de_Terre#/media/Fichier:NASA-Apollo8-Dec24-Earthrise.jpg) - Bill Anders (1968)
