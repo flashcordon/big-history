@@ -1102,6 +1102,7 @@ http://tquark.colorado.edu/~tianlu/public/saturnHex_paper.pdf
 http://www.sciencedirect.com/science/article/pii/S0019103517300659 
 http://onlinelibrary.wiley.com/doi/10.1002/2013GL059078/full
 
+- [L’inquiétant Kraken Mare, le plus grand lac de Titan, est bien plus profond qu’on ne le pensait](https://www.sciencesetavenir.fr/espace/systeme-solaire/l-inquietant-kraken-mare-le-plus-grand-lac-de-titan-est-bien-plus-profond-qu-on-ne-le-pensait_151210?xtor=RSS-9&fbclid=IwAR10B58fi1nb9NzXhztGA3o9vuIu8h6VL6GbHrbbLJ-TIl3CqNRECcdkEzk) - Science et Avenir (2021)
 ---
 
 ## Histoire de l'observation de Saturne
