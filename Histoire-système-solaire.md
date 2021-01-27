@@ -632,6 +632,10 @@ and no doubt lives into its development
 - [Terraforming de Mars](http://www.astrosurf.com/luxorion/mars-terraforming.htm) - Astrosurf
 - [De la planète rouge à l'origine de la vie](https://www.nirgal.net/main.html) - Nirgal
 - [Liste des missions vers Mars](https://fr.wikipedia.org/wiki/Liste_de_missions_vers_Mars) - Wikipédia
+- [Lancement de la mission Mars 2020 - Le rover Perseverance avec à son bord l'instrument SuperCam est en route vers Mars !](https://www.cnrs.fr/fr/lancement-de-la-mission-mars-2020-le-rover-perseverance-avec-son-bord-linstrument-supercam-est-en) - CNRS (2020)
+- [Mars 2020 Perseverance Rover](https://mars.nasa.gov/mars2020/) - NASA
+- [Mars 2020 : tour d’horizon du nouveau rover de la Nasa](https://www.futura-sciences.com/sciences/actualites/mars-2020-rover-mars-2020-tour-horizon-nouveau-rover-nasa-78999/) - Futura Sciences
+- [Mars 2020 (mission spatiale)](https://fr.wikipedia.org/wiki/Mars_2020_(mission_spatiale)) - Wikipédia
 
 ---
 
@@ -716,6 +720,49 @@ these would have frozen over by the mid-Amazonian epoch.
 ### Insight
 
 ### Perseverance
+
+- Perseverance’s older cousin, the Curiosity rover, explored the “habitability” of Mars. It found nutrients and energy sources that microbes could have used, and established that Mars indeed had regions that could have been friendly to life in the ancient past. Did life take hold on the Red Planet? Perseverance takes the next step by looking for the signs of past life itself.
+- 30 juillet 2020, succès du lancement de la mission Mars 2020 depuis Cap Canaveral en Floride ! A bord d’un lanceur Atlas V, le rover Perseverance
+- Perseverance explorera des environnements anciens de la planète Mars afin de déchiffrer son histoire géologique et mieux caractériser son habitabilité. Il recherchera des traces de vie passée en détectant des bio signatures éventuelles. Sa mission est aussi de préparer l’exploration humaine de Mars. Le rover est conçu pour collecter des échantillons qui seront récupérés et rapportés sur Terre grâce aux missions conjointes des États-Unis et de l’Europe, prévues d’ici une dizaine d’années (MSR, Mars Sample Return).
+- Perseverance porte sept instruments, un système de prélèvement et de conditionnement d’échantillons et le petit drone « hélicoptère », Ingenuity. La contribution française concerne l’instrument SuperCam, version très améliorée de ChemCam qui opère déjà à bord du rover Curiosity, sur Mars depuis le 6 août 2012.
+- SuperCam étudiera la chimie et la minéralogie des roches et des sols de Mars, ainsi que la composition de son atmosphère. C’est un peu le « couteau suisse » des scientifiques de la mission. Il effectue cinq types d’analyse différents : une mesure de composition chimique élémentaire, deux mesures moléculaires (la façon dont les atomes sont liés entre eux et l’arrangement des molécules au sein des minéraux), un imageur pour photographier les cibles qui sont analysées et enfin un microphone. 
+- Le 18 février 2021, Perseverance se posera dans le cratère Jezero, un bassin d’impact de 45 kilomètres de diamètre. Ce cratère abrite un ancien delta de rivière qui débouchait, il y a 3,5 milliards d’années dans un lac. L’ancien système lac-delta offre la possibilité de récolter des échantillons provenant de roches et de minéraux très variés, en particulier des carbonates qui peuvent préserver des traces fossiles de vie ancienne.
+- Perseverance has four main science objectives.
+
+    Geology: Study the rocks and landscape at its landing site to reveal the region’s history
+    Astrobiology: Determine whether an area of interest was suitable for life, and look for signs of ancient life itself
+    Sample Caching: Find and collect promising samples of Mars rock and soil that could be brought back to Earth in the future
+    Prepare for Humans: Test technologies that would help sustain human presence on Mars someday
+- Perseverance rover will carry seven primary instruments: An advanced camera system with panoramic and stereoscopic imaging capability and the ability to zoom. The instrument can also help scientists assess the mineralogy of the Martian surface and assist with rover operations. A set of sensors to provide measurements of temperature, wind speed and direction, pressure, relative humidity and dust size and shape. An exploration technology investigation to produce oxygen from Martian atmospheric carbon dioxide. An X-ray fluorescence spectrometer with high-resolution camera to determine the fine scale elemental composition of Martian surface materials. A ground-penetrating radar to provide centimeter-scale resolution of the geologic structure of the subsurface. A spectrometer to provide fine-scale imaging and use an ultraviolet (UV) laser to determine fine-scale mineralogy and detect organic compounds. SHERLOC is the first UV Raman spectrometer to fly to the surface of Mars. SuperCam
+
+An instrument that can provide imaging, chemical composition analysis, and mineralogy. The instrument can detect the presence of organic compounds in rocks and regolith from a distance. 
+
+Much of Perseverance’s rover design, including its entry, descent, and landing system are directly inherited from the Curiosity rover, which landed on Mars in 2012. Perseverance carries new technology demonstrations and improved entry, descent, and landing technologies, which will help pave the way for future robotic and human missions to the Moon and Mars.
+The MOXIE instrument, located inside the body of the rover, will test technology that converts carbon dioxide in the Martian atmosphere into oxygen. Using local resources found on the planet will be important for future human missions to Mars.
+Stowed beneath the rover is the Ingenuity Mars Helicopter: a small, autonomous rotorcraft designed to test — for the first time — powered flight in the thin Martian atmosphere.
+
+
+Mission Duration: At least one Mars year (about 687 Earth days)
+NASA chose Jezero Crater as the landing site for the Perseverance rover. Scientists believe the area was once flooded with water and was home to an ancient river delta. 
+Jezero Crater tells a story of the on-again, off-again nature of the wet past of Mars. More than 3.5 billion years ago, river channels spilled over the crater wall and created a lake. Scientists see evidence that water carried clay minerals from the surrounding area into the crater lake. Conceivably, microbial life could have lived in Jezero during one or more of these wet times. If so, signs of their remains might be found in lakebed or shoreline sediments. Scientists will study how the region formed and evolved, seek signs of past life, and collect samples of Mars rock and soil that might preserve these signs.
+Jezero Crater is 28 miles (45 kilometers) wide, and is located on the western edge of a flat plain called Isidis Planitia, which lies just north of the Martian equator. The landing site is about 2,300 miles (3,700 kilometers) from Curiosity’s landing site in Gale Crater.
+Jezero Crater sits within the Isidis Planitia region of Mars, where an ancient meteorite impact left behind a large crater some 750 miles (1,200 kilometers) across. This event is known as Isidis impact, and it forever changed the rock at the base of the crater. A later, smaller meteorite impact created the Jezero Crater within the Isidis impact basin. Scientists believe that these events likely created environments friendly to life. There is evidence of ancient river flow into Jezero, forming a delta that has long since been dry.
+Jezero Crater is thus likely to have been habitable in the distant past. The Mars Reconnaissance Orbiter's CRISM instrument has revealed that the crater contains clays, which only form in the presence of water. On Earth, scientists have found such clays in the Mississippi river delta, where microbial life has been found embedded in the rock itself. This makes Jezero Crater a great place to fulfill the Mars 2020 mission's science goal of studying a potentially habitable environment that may still preserve signs of past life.
+At Jezero Crater, Perseverance should be able to access rocks that are as old as 3.6 billion years. There are many ideas about what early Mars was like, and how it came to be what it is today. Accessing the ancient rock at Jezero should help answer some of these questions, and tell us more about the formation of rocky planets. It is also a great location for the rover to collect a variety of samples of Martian rock and soil.
+
+The 1.8 kg Mars Helicopter is a small, autonomous aircraft that will be carried to the surface on the Red Planet attached to the belly of the Mars 2020 rover. Its mission is experimental in nature and completely independent of the Mars 2020 science mission. In the months after landing, the helicopter will be placed on the surface to test – for the first time ever – powered flight in the thin Martian air. Its performance during these experimental test flights will help inform decisions relating to considering small helicopters for future Mars missions, where they could perform in a sup-port role as robotic scouts, surveying terrain
+from above, or as full standalone science craft carrying instrument payloads. Taking to the air would give scientists a new perspective on a region’s geology and even allow them to peer into areas that are too steep or slippery to send a rover. In the distant future, they might even help astronauts explore Mars.The project is solely a demonstration of tech-nology; it is not designed to support the Mars 2020 mission
+The helicopter will use solarpower to charge its batteries and rely on internalheaters to maintain operational temperatures duringthe cold Martian nights. 
+Two 4-foot-long (1.2- meter-long) rotor system thatspins up to 2,400 revolutions per minute•Equipped with inertial sensors, a laser altimeter andtwo cameras (one color and one black-and-white)
+
+Nous avons un équipement qui va nous permettre de fabriquer de l'oxygène à partir du CO2 de Mars, à la fois pour les besoins d'une éventuelle présence humaine mais aussi pour faire l'agent oxydant d'un carburant nous permettant de quitter Mars pour le voyage retour », dit-il.
+
+The car-sized Perseverance rover has roughly the same dimensions as Curiosity: it’s about 10 feet long (not including the arm), 9 feet wide, and 7 feet tall (about 3 meters long, 2.7 meters wide, and 2.2 meters tall). But at 2,260 pounds (1,025 kilograms), Perseverance is about 278 pounds (126 kilograms) heavier than Curiosity
+As with Curiosity, Perseverance’s baseline power system is a Multi-Mission Radioisotope Thermoelectric Generator (MMRTG) provided by the U.S. Department of Energy. It uses the heat from the natural decay of plutonium-238 to generate electricity
+De la taille d'une voiture (3 mètres de long pour 2,70 mètres de large), le rover est doté de six roues comme son prédécesseur Curiosity, pour lui permettre de passer les rochers mais n'est pas bâti pour la vitesse. Il n'en a d'ailleurs pas besoin puisqu'il ne doit parcourir que 200 mètres en moyenne par jour martien.
+ Mars 2020 dispose d'un bras articulé long de 2,20 mètres et d'une foreuse pour pulvériser des échantillons de roches prélevés dans des endroits qu'il aura identifiés comme propices à certaines formes de vie et molécules organiques.
+ Une fois prélevé, l'échantillon sera transféré à l'intérieur du rover pour être hermétiquement scellé dans un tube qui sera rejeté en attendant qu'une future mission martienne en prenne livraison. 
+ On vise un lancement en 2026 pour la prochaine mission, qui irait sur Mars pour prendre les échantillons, les placerait dans une fusée qui se mettrait en orbite autour de Mars, poursuit Matt Wallace. Les échantillons auraient alors rendez-vous avec un orbiteur qui les rapporterait sur Terre. On pourrait avoir ces échantillons en main pour les analyser d'ici une décennie ».
 
 ## Terraformer Mars
 
