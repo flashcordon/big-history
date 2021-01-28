@@ -636,6 +636,11 @@ and no doubt lives into its development
 - [Mars 2020 Perseverance Rover](https://mars.nasa.gov/mars2020/) - NASA
 - [Mars 2020 : tour d’horizon du nouveau rover de la Nasa](https://www.futura-sciences.com/sciences/actualites/mars-2020-rover-mars-2020-tour-horizon-nouveau-rover-nasa-78999/) - Futura Sciences
 - [Mars 2020 (mission spatiale)](https://fr.wikipedia.org/wiki/Mars_2020_(mission_spatiale)) - Wikipédia
+- [Mariner 4](https://fr.wikipedia.org/wiki/Mariner_4) - Wikipedia
+- [Mariner 4](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1964-077A) - NASA Space Science Data
+- [Mariner 4](https://www.jpl.nasa.gov/missions/mariner-4/) - NASA JPL
+- [55 years ago : Mariner 4 first to Mars](https://www.nasa.gov/feature/55-years-ago-mariner-4-first-to-mars) - NASA
+- [First mission to Mars: Mariner 4’s special place in history](https://cosmosmagazine.com/space/first-mission-to-mars-mariner-4-s-special-place-in-history/) - Tim Wallace, COSMOS Magazine
 
 ---
 
@@ -697,7 +702,66 @@ these would have frozen over by the mid-Amazonian epoch.
 
 ## Missions vers Mars
 
-### Mariner
+### Mariner 4
+
+Elle est lancée par la NASA le 28 novembre 1964 pour prendre des photographies de la planète Mars. Elle réalise le premier survol de la planète Mars, envoie les premières images de la surface martienne et de fait, les premières images rapprochées d'une autre planète
+Mariner 4 est un véhicule spatial de 260,8 kg.
+ L'objectif principal de Mariner 4, baptisé Mariner-D, est de photographier la surface de la planète Mars à l'aide d'une seule caméra de télévision fixée sur une plate-forme pouvant retourner jusqu'à 22 images après un voyage de près de huit mois, lors de son survol et les transmettre à la Terre et pour effectuer des mesures scientifiques. 
+ Le lancement survient le 28 novembre 1964 à 14 h 22 min 01 s TU avec le lanceur Atlas-Agena D de l'aire de lancement LC-12 de la base de lancement de Cap Canaveral. 
+ Mariner 4 survole la planète Mars les 14 et 15 juillet 1965. 
+ Mariner 4 exécute toutes les activités programmées avec succès et restitue les données utiles depuis le lancement jusqu'à à 22 h 05 min 07 s, le 1er octobre 1965
+L'acquisition intégrale des données reprend à la fin de 1967. 
+Le 21 décembre 1967, les communications avec Mariner 4 sont définitivement perdues. La NASA déclare la mission terminée le 31 décembre 1967. 
+Les images envoyées montrent un sol martien avec de nombreux cratères comme sur la Lune (les missions ultérieures montrent que ce n'est pas typique de la planète Mars, mais seulement des plus anciennes régions imagées par Mariner 4). Une pression atmosphérique de surface de 4,1 à 7,0 mbar et des températures diurnes de -100 °C sont estimées et aucun champ magnétique n'est détecté, ce qui permet de conclure que le vent solaire peut avoir une interaction directe avec l'atmosphère martienne et que l'atmosphère et la surface sont entièrement exposées aux rayonnements solaire et cosmique. 
+Les cratères et l'atmosphère ténue, révélant une planète plutôt inactive et livrée à la rigueur de l'environnement spatial, dissipent les espoirs de découverte de vie intelligente sur Mars, espoirs qui a été entretenus par des siècles de spéculation scientifique ou littéraire.
+ Mariner 4 mission journeyed to Mars -- making its closest approach on July 15, 1965  
+the spacecraft far outlasted its planned eight-month mission. It lasted about three years in solar orbit, continuing long-term studies of the solar wind and making coordinated measurements with the Mariner 5 spacecraft. 
+
+ Instruments
+
+    Imaging system
+    Helium magnetometer
+    Plasma probe
+    Cosmic-ray telescope
+    Cosmic ray detector
+    Cosmic dust detector 
+    
+ Jul 15, 1965
+Mariner 4 makes its closest approach to Mars, simultaneously making history by taking the first photos of another planet from space. 
+Mariner 4 was the fourth in a series of spacecraft used for planetary exploration in a flyby mode
+ Data could also be stored on a tape recorder with a capacity of 5.24 million bits for later transmission. 
+ The camera sequence started at 00:18:36 UT on July 15 (7:18:49 p.m. EST on July 14) and 21 pictures plus 21 lines of a 22nd picture were taken. The images covered a discontinuous swath of Mars starting near 40 N, 170 E, down to about 35 S, 200 E, and then across to the terminator at 50 S, 255 E, representing about 1% of the planet's surface.
+ The total data returned by the mission was 5.2 million bits. 
+ The images returned showed a Moon-like cratered terrain (which later missions showed was not typical for Mars, but only for the more ancient region imaged by Mariner 4). A surface atmospheric pressure of 4.1 to 7.0 mb and daytime temperatures of -100 degrees C were estimated and no magnetic field was detected, leading to the conclusion that the solar wind may have direct interaction with the martian atmosphere, and that the atmosphere and surface are fully exposed to solar and cosmic radiation. 
+ 
+carried seven science instruments:
+
+    The television imaging system enabled topographic reconnaissance of the Martian surface.
+    The Helium Magnetometer measured magnetic field strength around the planet.
+    The Ionization Chamber and particle flux detector measured the omnidirectional flux of particle radiation near Mars and in interplanetary space.
+    The Cosmic Dust Detector measured dust particle momentum and mass distribution.
+    The Cosmic Ray Telescope measured charged particles.
+    The Trapped Radiation Detector consisted of three Geiger-Muller detectors to measure any charged particles that may be trapped by a Martian magnetic field.
+    The Solar Plasma Probe measured the density, velocity, temperature, and direction of movement of protons streaming from the Sun.
+
+Four solar panels generated 310 watts of electric power to operate the spacecraft’s systems and science instruments. During the eight-month cruise phase to Mars, the spacecraft took measurements on the conditions of interplanetary space and transmit the data to Earth. During the flyby of the planet, the spacecraft recorded the images onboard for playback to Earth after the encounter.
+On July 14, 1965, after a 228-day cruise from Earth, Mariner 4 passed within 6,118 miles of Mars, snapping 22 photographs of the planet and taking scientific measurements. The spacecraft passed behind the planet as seen from Earth, allowing a radio occultation study to estimate the density of the Martian atmosphere. Playback of the flyby imagery began soon after Mariner 4 emerged from behind Mars and continued until Aug. 3.
+The data Mariner 4 beamed back to Earth surprised many scientists. The radio occultation results indicated a very low surface atmospheric pressure, about 1 % that at Earth’s sea level.
+
+The on-board tape recorder used on Mariner 4 was a spare, not originally intended for the Mariner 4 flight. Between the failure of Mariner 3, the fact that the Mariner 4 recorder was a spare, and some error readings suggesting an issue with the tape-recorder, it was determined that the team would test the camera function definitively. This eventually led to the first digital image being hand-drawn. While waiting for the image data to be computer processed, the team used a pastel set from an art supply store to hand-color (paint-by-numbers style) a numerical printout of the raw pixels. The resulting image provided early verification that the camera was functioning. The hand-drawn image compared favorably with the processed image when it became available
+The first digital image from Mars hand-colored like a paint-by-numbers picture 
+
+ Technical instruments, most of which were mounted on the frame’s exterior, included a magnetometer, dust detector, cosmic ray telescope, trapped radiation detector, solar plasma probe, Geiger counter and, most importantly, a television camera.
+ 
+ The Mariner 4 mission was the seventh attempt to send a spacecraft to Mars. Between 1960 and 1964 the Soviet Union tried and failed five times. NASA launched Mariner 3, also intended for Mars, four weeks before Mariner 4 but it failed to separate from the Atlas-Agena rocket that boosted it into space.
+ 
+ After traveling for 228 days Mariner 4 flew within 10,000 km of Mars, capturing the first images of another planet ever taken in space. This is an enhanced contrast version of the first Mars photograph, released on July 15, 1965. It was radioed back to Earth as digital data. Mariner 4 could transmit information through its high-gain antenna at a speed of 33.3 bits per second and its low-gain antenna at 8.3 bps. Sending a whole image (200 by 200 pixels) took about 10 hours.
+ 
+ Digital image data transmitted by Mariner was converted by a “real-time data translator” into numbers printed on thin strips of paper. Too impatient to wait for the official processed image, members of the telecommunications section at NASA’s Jet Propulsion Laboratory manually arranged the strips and hand-coloured the numbers to produce the above picture. The completed image was subsequently framed and presented to JPL’s director, William Pickering.
+ 
+ Over a few hours Mariner 4 took a grand total of 21 complete pictures of Mars (plus part of a 22nd). This was dictated by the limits of the four-track magnetic tape recorder on which the images were initially stored for later transmission; its 100 metres of tape had a storage capacity of 5.24 million bits, or 655 kilobytes – cutting-edge for its time. With each photo covering an area of about 200 square kilometres, the fuzzy black-and-white images collectively captured just 1% of the Martian surface; but it was enough.
+ 
+ 
 
 ### Viking
 
