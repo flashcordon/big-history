@@ -646,6 +646,8 @@ and no doubt lives into its development
 - [Biology and the exploration of Mars](https://www.nap.edu/read/12409/chapter/2) - National Research Council (1966)
 - [La fenêtre de tir de 1964 et les premières sondes américaines](https://www.nirgal.net/explora_1964.html) - Nirgal
 - [Mariner to Mercury, Venus and Mars](http://faculty.tamuc.edu/cdavis/resources/AESP/InstructionalMaterials/Mariner%20Fact%20Sheet.pdf) - NASA
+- [Mars Reconnaissance Orbiter](https://fr.wikipedia.org/wiki/Mars_Reconnaissance_Orbiter) - Wikipédia
+- 
 
 ---
 
@@ -835,7 +837,32 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 
 ### Spirit et Opportunity
 
-### Mars Reconnaissance Orbiter
+### Mars Reconnaissance Orbiter (NASA, 2005-?)
+
+- lancée le 12 août 2005 par une fusée Atlas V-401 depuis la base de lancement de Cap Canaveral et s'est insérée en orbite martienne le 10 mars 2006. 
+- L'objectif principal de la mission MRO est de cartographier la surface de Mars. L'orbiteur de grande taille (plus de 2 tonnes (2 180 kg) avec les ergols) dispose pour remplir cet objectif du télescope HIRISE permettant d'obtenir des images avec une résolution de 20 à 30 cm. Cet instrument est complété par un spectromètre et un radiomètre fonctionnant en lumière visible et infrarouge ainsi que par un radar qui permettent de déterminer la composition minéralogique du sol, sa géologie ainsi que de rechercher l'eau piégée sous forme de glace. Enfin, MRO est équipé d'un système de télécommunications qui doit lui permettre de transférer des volumes de données très importants vers la Terre et de jouer le rôle de relais pour les données collectées par les atterrisseurs et rovers posés à la surface de Mars tels que Mars Science Laboratory. 
+- Les instruments de MRO ont permis notamment d'estimer le volume de la calotte polaire de Mars, de détecter de la glace dans des cratères situés à une latitude relativement basse, d'observer des avalanches et de détecter plusieurs types de minéraux. 
+- devrait rester opérationnelle jusqu'au milieu de la décennie 2020. 
+- Les objectifs scientifiques suivants sont assignés à la mission MRO7 :
+
+    caractériser le climat actuel de Mars et les mécanismes physiques à l'origine des changements climatiques saisonniers et interannuels ;
+    déterminer la nature des terrains présentant une stratification complexes et identifier les formations de surface résultant de l'action de l'eau ;
+    rechercher les sites présentant des signes d'une activité liée à la circulation de l'eau en surface ou à l'hydrothermalisme ;
+    identifier et caractériser les sites ayant le plus fort potentiel pour des missions impliquant des atterrisseurs ou des rovers ainsi que des missions de retour d'échantillons martiens.
+- L'orbiteur emporte également un radar (SHARAD) optimisé pour analyser les couches superficielles du sol sur une profondeur de 1 km, un spectromètre imageur (CRISM) fonctionnant en infrarouge et en lumière visible et doté d'une résolution spatiale remarquable de 20 mètres et un sondeur atmosphérique (MCS) fournissant la température et la pression de l'atmosphère martienne ainsi que la température des calottes polaires.
+
+- Par ailleurs, la sonde spatiale joue un rôle très important pour les missions à la surface de Mars assurant le relais entre les engins posés sur le sol de Mars et la Terre.
+- Six instruments scientifiques sont embarqués à bord du vaisseau, ainsi que deux instruments
+- La caméra HiRISE (High Resolution Imaging Science Experiment) est constituée d'un télescope de 50 cm de diamètre et d'une longueur focale de 12 m, qui demeure en 2016 la plus grosse caméra jamais embarquée sur une sonde spatiale. Sa résolution spatiale au sol atteint 30 cm depuis une altitude de 300 km. Le détecteur est constitué de 14 capteurs CCD de 2 048 x 128 pixels, dont 10 comportent un filtre rouge et les quatre autres un filtre bleu, vert et proche infrarouge. 
+- 
+- Permet de découvrir de nouveau paysages ? (trainées noires, traces d'écoulements, pics sombres ressemblent forêts ?)
+- La mission scientifique proprement dite n'a commencé que lorsque tous les tests techniques ont été effectués (en novembre 2006). Après ses deux années de mission, la sonde a continué ses observations scientifiques, tout en jouant le rôle de relais de communication pour les engins spatiaux posés à la surface de Mars. 
+- L'orbite de travail oscille entre 255 kilomètres (au-dessus du pôle Sud) et 320 kilomètres (au-dessus du pôle Nord de Mars)
+- Mission primaire (novembre 2005 à novembre 2008)
+- Les caméras de MRO ont permis de choisir les sites d'atterrissage les plus propices pour ces robots, en permettant de trouver le meilleur compromis entre risques et résultats scientifiques.
+- Le 25 mai 2008, la caméra HiRISE parvient à photographier la sonde spatiale Phoenix alors qu'elle descend accrochée sous son parachute vers le site d'atterrissage situé dans la région de Vastitas Borealis25. 
+- Extensions de mission (novembre 2008 -)
+- 
 
 ### Phoenix
 
