@@ -647,7 +647,8 @@ and no doubt lives into its development
 - [La fenêtre de tir de 1964 et les premières sondes américaines](https://www.nirgal.net/explora_1964.html) - Nirgal
 - [Mariner to Mercury, Venus and Mars](http://faculty.tamuc.edu/cdavis/resources/AESP/InstructionalMaterials/Mariner%20Fact%20Sheet.pdf) - NASA
 - [Mars Reconnaissance Orbiter](https://fr.wikipedia.org/wiki/Mars_Reconnaissance_Orbiter) - Wikipédia
-- 
+- [Mars Reconnaissance Orbiter](https://www.nirgal.net/mro.html) - Nirgal
+- [Il y a 15 ans le Mars Reconnaissance Orbiter était lancé](https://www.sciencesetavenir.fr/espace/systeme-solaire/il-y-a-15-ans-le-mars-reconnaissance-orbiter-etait-lance_146831) - Sciences et Avenir (2020)
 
 ---
 
@@ -862,7 +863,18 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 - Les caméras de MRO ont permis de choisir les sites d'atterrissage les plus propices pour ces robots, en permettant de trouver le meilleur compromis entre risques et résultats scientifiques.
 - Le 25 mai 2008, la caméra HiRISE parvient à photographier la sonde spatiale Phoenix alors qu'elle descend accrochée sous son parachute vers le site d'atterrissage situé dans la région de Vastitas Borealis25. 
 - Extensions de mission (novembre 2008 -)
-- 
+- ix mois environ de freinage atmosphérique (une technique consistant à profiter de la friction avec l'atmosphère martienne pour ralentir la sonde et abaisser son orbite) seront nécessaires avant que la sonde ne puisse se caler sur son orbite finale de cartographie
+- une période de révolution de 2 heures
+- Le diamètre de l'antenne grand gain, ainsi que la puissance des équipements radio, vont permettre à Mars Reconnaissance Orbiter de transmettre des données avec un débit maximal de 3 à 4 mégabits par seconde (soit une vitesse 8 fois supérieure à celle d'une connexion Internet ADSL classique de 512 kbps), ce qui représente une amélioration d'un facteur dix par rapport aux précédents orbiteurs. 
+- Elle a déjà envoyé plus de 400 Térabits de données à la Terre
+- Une caméra surpuissante fournira les images les plus détaillées jamais obtenues de la surface martienne. 
+-  Deux autres instruments feront écho à la puissance de la caméra HiRISE : le spectromètre infrarouge CRISM, qui fournira des cartes minéralogiques très précises de la surface martienne, et le radar SHARAD qui sondera le proche sous-sol à la recherche de poches d'eau ou de glace.
+- La caméra HiRISE est l'un des instruments phares de la sonde MRO. Capables de fournir des images couleurs, stéréoscopiques et à très haute résolution de la surface de Mars, cet instrument va probablement bouleverser nos connaissances de la surface martienne (une seule image de HiRISE non compressée pouvant peser jusqu'à 28 gigabits !)
+- Etant donné qu'il faut au moins trois pixels pour apercevoir la forme d'un objet, la plus petite structure visible sur les images de MRO mesurera environ 1 mètre de côté (à condition qu'il offre un contraste suffisant avec les zones environnantes). La sonde pourra ainsi distinguer des objets aussi petits qu'un bureau. A titre de comparaison, Mars Global Surveyor permet de distinguer en surface un objet de la taille d'une petite voiture, et sur les meilleurs clichés des sondes Viking, on ne pouvait pas apercevoir des objets plus petits qu'un terrain de football ! Durant la totalité de sa mission (deux années terrestres), Mars Reconnaissance Orbiter ne pourra observer qu'environ 1 % seulement de la surface martienne avec HiRISE, ce qui donne une petite idée de son pouvoir grossissant.
+- Les images obtenues par une petite caméra (CTX) serviront de cadre de référence pour replacer les images à très haute résolution de HiRISE dans leur contexte 
+- Sa durabilité a permis d’explorer les phénomènes longs qui se déroulent à la surface de Mars : la succession des saisons, le gel et le dégel de la glace carbonique ou encore la formation des ravines sous l'effet de cette glace. Elle a même réussi à repérer un nouveau cratère d'impact d'astéroïde qui est apparu durant sa mission.
+- L’engin a imagé la quasi totalité de la surface martienne en lumière visible et infrarouge à basse résolution et la caméra haute résolution HiRISE (High Resolution Imaging Science Experiment) a elle couvert plus de 3% de la surface de Mars. 
+- Son apport a également été déterminant dans la sélection du cratère Jezero, le site d’atterrissage du nouveau rover de la Nasa, Perseverance, qui a décollé cet été et qui arrivera sur Mars en février 2021. Enfin, de concert avec la sonde Mars Odyssey qui s’est déplacée pour l’occasion, MRO servira de relais pour l’astromobile en transmettant ses données vers la Terre via les antennes du réseau Deep Space Network. 
 
 ### Phoenix
 
