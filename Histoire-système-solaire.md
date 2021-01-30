@@ -649,6 +649,10 @@ and no doubt lives into its development
 - [Mars Reconnaissance Orbiter](https://fr.wikipedia.org/wiki/Mars_Reconnaissance_Orbiter) - Wikipédia
 - [Mars Reconnaissance Orbiter](https://www.nirgal.net/mro.html) - Nirgal
 - [Il y a 15 ans le Mars Reconnaissance Orbiter était lancé](https://www.sciencesetavenir.fr/espace/systeme-solaire/il-y-a-15-ans-le-mars-reconnaissance-orbiter-etait-lance_146831) - Sciences et Avenir (2020)
+- [MAVEN](https://fr.wikipedia.org/wiki/MAVEN#cite_note-Spaceflight101-05112015-46) - Wikipédia
+- [1,000 Days in Orbit: MAVEN’s Top 10 Discoveries at Mars](https://www.nasa.gov/feature/goddard/2017/maven-1000-days) - NASA
+- [Major Results from the MAVEN Mission to Mars](https://agupubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2169-9402.MAVEN2) - JGR: Space Physics (2016)
+- [Your Guide to NASA's MAVEN mission](https://www.planetary.org/space-missions/maven) - Planetary Society
 
 ---
 
@@ -880,6 +884,55 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 
 ### MAVEN
 
+- MAVEN a été lancé le 18 novembre 2013 par une fusée Atlas V 401 depuis la base de lancement de Cap Canaveral et s'est placé en orbite autour de Mars le 21 septembre 2014.
+- MAVEN (acronyme de Mars Atmosphere and Volatile EvolutioNN 1)
+- MAVEN, qui circule sur une orbite elliptique autour de Mars, a pour mission de déterminer les mécanismes à l'origine de la quasi-disparition de son atmosphère.
+- MAVEN est un orbiteur de grande taille (2,55 tonnes, 11 mètres d'envergure) qui emporte une charge utile constituée de huit instruments scientifiques. 
+- Au cours de sa mission primaire d'une durée d'un an, MAVEN doit effectuer cinq « plongées » dans l'atmosphère basse relativement dense. Une fois sa mission primaire achevée, il est prévu que la sonde puisse jouer le rôle de relais de télécommunications entre les engins spatiaux posés sur le sol martien (rover Curiosity…) et la Terre tout en poursuivant ses mesures scientifiques. 
+- MAVEN a pour mission d'évaluer le rôle des différents processus d'échappement atmosphérique déjà identifiés et, éventuellement d'en découvrir de nouveaux. La sonde spatiale doit mesurer le taux de perte sur une année et l'incidence des variations de l'activité solaire sur ce taux. La mesure du ratio deutérium sur hydrogène doit permettre d'évaluer la quantité d'hydrogène perdue par Mars depuis sa création : le deutérium est un isotope lourd de l'hydrogène qui s'échappe donc plus difficilement de l'atmosphère martienne. Les mécanismes à l'œuvre ont modifié ce ratio par rapport à la proportion d'origine établie à partir de mesures effectuées sur les comètes et astéroïdes qui sont le reflet de la composition originelle du système solaire. 
+- Les mesures effectuées par les instruments scientifiques de la sonde MAVEN doivent permettre de remplir quatre objectifs12 :
+
+    mesurer l'incidence de la perte des composés volatils de l'atmosphère martienne (dioxyde de carbone, dioxyde d'azote, eau…) sur l'histoire de Mars, de son climat, de la présence de l'eau ;
+    déterminer les caractéristiques actuelles de la couche atmosphérique supérieure de Mars, de l'ionosphère et les interactions avec le vent solaire ;
+    évaluer la vitesse d'échappement actuelle des gaz non ionisés et des ions dans l'espace et les processus qui en sont responsables ;
+    déterminer la proportion d'isotopes stables dans l'atmosphère martienne.
+- Par ailleurs, MAVEN pourra remplacer MRO et Mars Odyssey dans leur rôle de relais de télécommunications entre les engins spatiaux posés sur le sol de Mars (rovers MSL, MER…) et la Terre.
+- La sonde emporte huit instruments scientifiques 
+- spectromètre de masse ,  Cet instrument a pour objectif de déterminer la composition de la haute atmosphèreN 2 et de l'ionosphère de l'homopause (limite inférieure de la région de l'atmosphère dominée par le processus de diffusion moléculaire) jusqu'à l'exobase (limite supérieure). Il doit déterminer les ratios des différents isotopes ainsi que les variations de la composition. 
+- le spectromètre imageur ultraviolet IUVS (Imaging Ultraviolet Spectrometer) est développé par le LASP. Il fournit des profils verticaux des ions et atomes neutres par mesure du limbe et les propriétés de la basse atmosphère par occultations stellaires.
+- Les six instruments suivants forment l'Instrumental Particle and Field Package (PFP), destinés à étudier le plasma : 
+- e magnétomètre, mesure le champ magnétique complexe créé par les anomalies magnétiques de la croute martienne afin d'évaluer leur rôle dans l'échappement de l'atmosphère martienne actuelle et passée. 
+- l'analyseur d'électrons du vent solaire , d'ions du vent solaire, des protons, 
+- un instrument analysant les ondes de plasma
+- MAVEN commence sa première campagne de plongée dans l'atmosphère martienne le 10 février 2015. 
+- Au cours des mois suivants, les données fournies par la sonde de Langmuir permettent de découvrir un nuage de poussière persistant stagnant à très haute altitude (entre 150 et 300 km), qui a été éjecté de l'atmosphère par un processus mystérieux. 
+-  Les résultats obtenus ont permis de mesurer le volume de gaz arraché par le vent solaire et de confirmer le rôle sans doute majeur joué par ce processus dans la disparition de l'atmosphère primitive de la planète Mars
+- Mission primaire (novembre 2014- novembre 2015)
+- Les mesures montrent que 100 grammes d'atmosphère sont arrachés chaque seconde par le vent solaire, et que ce volume s'accroit considérablement à chaque éruption solaire. Au bout de plusieurs milliards d'années, ce processus, compte tenu de la fréquence beaucoup plus élevée des éruptions solaires lorsque le Soleil était plus jeune, est sans doute la raison principale de la transformation de l'atmosphère martienne. 
+- l'ionosphère de Mars joue un rôle critique dans la perte des gaz et de l'eau de Mars. MAVEN a effectué la première mesure de la composition de l'ionosphère de Mars depuis les orbiteurs Viking en 1976. Mais contrairement à ces sondes spatiales, MAVEN a effectué une cartographie s'étendant à la face nocturne49.
+des nuages de poussière ont été observés à très haute altitude entre 150 et 300 kilomètres. Cette observation est inattendue, et on ne sait pas si ces nuages sont permanents ou sont un phénomène transitoire. L'origine de ces nuages pourrait être la couche basse de l'atmosphère ou de la poussière produite par les deux lunes de Mars, Phobos et Deimos, qui aurait été repoussée par le vent solaire, ou encore de la poussière produite par les comètes durant leur passage près du Soleil
+- le champ magnétique martien a été complètement cartographié à différentes altitudes. A la surprise des scientifiques, en dessous de 300 km d'altitude, les boucles magnétiques dominent la planète entière, y compris au-dessus de l'hémisphère nord pourtant faiblement magnétisé. A des altitudes plus élevées (vers 800 kilomètres), les lignes magnétiques sont ouvertes sauf au-dessus de quelques régions plus fortement magnétisées
+- MAVEN has identified two new types of aurora, termed “diffuse” and “proton” aurora; unlike how we think of most aurorae on Earth, these aurorae are unrelated to either a global or local magnetic field.
+
+6. These aurorae are caused by an influx of particles from the sun ejected by different types of solar storms. When particles from these storms hit the Martian atmosphere, they also can increase the rate of loss of gas to space, by a factor of ten or more.
+- 4. MAVEN observed the full seasonal variation of hydrogen in the upper atmosphere, confirming that it varies by a factor of 10 throughout the year. The source of the hydrogen ultimately is water in the lower atmosphere, broken apart into hydrogen and oxygen by sunlight. This variation is unexpected and, as yet, not well understood.
+
+3. MAVEN has used measurements of the isotopes in the upper atmosphere (atoms of the same composition but having different mass) to determine how much gas has been lost through time. These measurements suggest that 2/3 or more of the gas has been lost to space.
+
+1. The Mars atmosphere has been stripped away by the sun and the solar wind over time, changing the climate from a warmer and wetter environment early in history to the cold, dry climate that we see today.
+
+the first spacecraft dedicated to understanding Mars’ upper atmosphere. The goal of the mission is to determine the role that loss of atmospheric gas to space played in changing the Martian climate through time. MAVEN is studying the entire region from the top of the upper atmosphere all the way down to the lower atmosphere so that the connections between these regions can be understood.
+
+- MAVEN is part of NASA's Mars Exploration Program, an unprecedented, multi-decade campaign to comprehensively understand Mars and its suitability to host past or present life. Within just weeks of arriving at Mars, MAVEN observed oxygen, carbon and hydrogen escaping from the planet’s atmosphere into space. These atoms were once part of carbon dioxide and water vapor molecules near the surface.
+
+MAVEN found that Mars’ atmospheric loss is primarily driven by the Sun. The Sun emits a stream of hot, highly energetic particles collectively known as the solar wind. When this solar wind hits the unprotected Martian atmosphere, it imparts energy to atmospheric atoms and molecules, giving them enough velocity to escape the planet's gravity. MAVEN learned that the solar wind penetrates more deeply into Mars’ atmosphere than previously thought.
+
+MAVEN created a global wind map of the planet’s upper atmosphere—a first for any planet other than Earth. It has also watched huge clouds spanning hundreds of kilometers form in a matter of hours!
+
+MAVEN has enough fuel to be operational until at least 2030, so it will be increasingly tasked with replacing communication relay responsibilities of aging orbiters like NASA's Mars Reconnaissance Orbiter and Odyssey spacecraft. While not conducting relay communications, MAVEN will continue to study Mars’s atmosphere.
+
+Auroras on Earth are caused by energetic charged particles from space crashing down into the atmosphere along Earth’s magnetic field lines, causing gases to glow near the poles. Since Mars has no internally generated magnetic field, the solar wind penetrates deeper and causes planet-wide auroras that have been observed by MAVEN. 
+
 ### Curiosity
 
 ### Insight
@@ -898,6 +951,7 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
     Astrobiology: Determine whether an area of interest was suitable for life, and look for signs of ancient life itself
     Sample Caching: Find and collect promising samples of Mars rock and soil that could be brought back to Earth in the future
     Prepare for Humans: Test technologies that would help sustain human presence on Mars someday
+    
 - Perseverance rover will carry seven primary instruments: An advanced camera system with panoramic and stereoscopic imaging capability and the ability to zoom. The instrument can also help scientists assess the mineralogy of the Martian surface and assist with rover operations. A set of sensors to provide measurements of temperature, wind speed and direction, pressure, relative humidity and dust size and shape. An exploration technology investigation to produce oxygen from Martian atmospheric carbon dioxide. An X-ray fluorescence spectrometer with high-resolution camera to determine the fine scale elemental composition of Martian surface materials. A ground-penetrating radar to provide centimeter-scale resolution of the geologic structure of the subsurface. A spectrometer to provide fine-scale imaging and use an ultraviolet (UV) laser to determine fine-scale mineralogy and detect organic compounds. SHERLOC is the first UV Raman spectrometer to fly to the surface of Mars. SuperCam
 
 An instrument that can provide imaging, chemical composition analysis, and mineralogy. The instrument can detect the presence of organic compounds in rocks and regolith from a distance. 
