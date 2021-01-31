@@ -995,8 +995,8 @@ Ces données sont collectées afin d'étudier finement le processus de rotation 
 
 ### Perseverance (NASA, 2020-)
 
-- Perseverance a été lancé le 30 Juillet 2020 depuis Cap Canaveral en Floride (à bord d'un lanceur Atlas V)
-- Il se pose sur Mars le 18 Février 2021, dans le cratère Jezero, un bassin d'impact de 45km de diamètre
+- Perseverance est un rover de la taille d'une voiture (3 mètres de long pour 2,70 mètres de large, environ 1 tonne) a été lancé le 30 Juillet 2020 depuis Cap Canaveral en Floride (à bord d'un lanceur Atlas V)
+- Il s'est posé sur Mars le 18 Février 2021 dans le cratère Jezero, un bassin d'impact de 45 km de diamètre
 > Ce cratère est très intéressant exobiologiquement parlant, car il abrite un ancien delta de rivière qui débouchait, il y a 3,5 milliards d'années, dans un lac. Il y a donc des chances de trouver des traces de vie passée sous forme fossiles, dans les carbonates notamment.
 - Perseverance a 4 objectifs scientifiques à remplir :
 > * étudier la géologie de son site d'atterrissage pour dévoiler l'histoire de la région
@@ -1008,7 +1008,13 @@ Ces données sont collectées afin d'étudier finement le processus de rotation 
 - Le design de Perseverance est largement basé sur celui de Curiosity, mais il dispose aussi de nouveaux démonstrateurs technologiques : 
 > * L'intérieur du rover contient un instrument nommé MOXIE, conçu pour transformer le CO2 de l'atmosphère martienne en oxygène, ce qui devrait être très utile pour l'exploration humaine de Mars
 > * Il dispose aussi d'un petit drone autonome d'1,8 kg, alimenté à l'énergie solaire, dont la mission est complètement indépendante de celle de Mars 2020 mission: prouver la faisabilité du vol dans l'atmosphère ténue de Mars). Quelques mois après l'atterrissage, cet hélicoptère de reconnaissance deviendra le premier engin de ce type à décoller depuis la surface d'une autre planète. À l'avenir, ce type de drones pourrait aider des astronautes et des missions robotiques à explorer la planète rouge.
+- Perseverance est alimenté par un RTG (Radioisotope Thermoelectric Generator) utilisant la désintégration radioactive du plutonium 238.
+- Ses 6 roues lui permettent d'évoluer à la surface de Mars à 200 mètres / sol en moyenne.
+> 1 sol = 1 jour solaire martien = 24 h 39 min
 
+ Mars 2020 dispose d'un bras articulé long de 2,20 mètres et d'une foreuse pour pulvériser des échantillons de roches prélevés dans des endroits qu'il aura identifiés comme propices à certaines formes de vie et molécules organiques.
+ Une fois prélevé, l'échantillon sera transféré à l'intérieur du rover pour être hermétiquement scellé dans un tube qui sera rejeté en attendant qu'une future mission martienne en prenne livraison. 
+ On vise un lancement en 2026 pour la prochaine mission, qui irait sur Mars pour prendre les échantillons, les placerait dans une fusée qui se mettrait en orbite autour de Mars, poursuit Matt Wallace. Les échantillons auraient alors rendez-vous avec un orbiteur qui les rapporterait sur Terre. On pourrait avoir ces échantillons en main pour les analyser d'ici une décennie ».
 
 - Perseverance’s older cousin, the Curiosity rover, explored the “habitability” of Mars. It found nutrients and energy sources that microbes could have used, and established that Mars indeed had regions that could have been friendly to life in the ancient past. Did life take hold on the Red Planet? Perseverance takes the next step by looking for the signs of past life itself.
 Sa mission est aussi de préparer l’exploration humaine de Mars. Le rover est conçu pour collecter des échantillons qui seront récupérés et rapportés sur Terre grâce aux missions conjointes des États-Unis et de l’Europe, prévues d’ici une dizaine d’années (MSR, Mars Sample Return).
@@ -1024,13 +1030,6 @@ Jezero Crater is 28 miles (45 kilometers) wide, and is located on the western ed
 Jezero Crater sits within the Isidis Planitia region of Mars, where an ancient meteorite impact left behind a large crater some 750 miles (1,200 kilometers) across. This event is known as Isidis impact, and it forever changed the rock at the base of the crater. A later, smaller meteorite impact created the Jezero Crater within the Isidis impact basin. Scientists believe that these events likely created environments friendly to life. There is evidence of ancient river flow into Jezero, forming a delta that has long since been dry.
 Jezero Crater is thus likely to have been habitable in the distant past. The Mars Reconnaissance Orbiter's CRISM instrument has revealed that the crater contains clays, which only form in the presence of water. On Earth, scientists have found such clays in the Mississippi river delta, where microbial life has been found embedded in the rock itself. This makes Jezero Crater a great place to fulfill the Mars 2020 mission's science goal of studying a potentially habitable environment that may still preserve signs of past life.
 At Jezero Crater, Perseverance should be able to access rocks that are as old as 3.6 billion years. There are many ideas about what early Mars was like, and how it came to be what it is today. Accessing the ancient rock at Jezero should help answer some of these questions, and tell us more about the formation of rocky planets. It is also a great location for the rover to collect a variety of samples of Martian rock and soil.
-
-The car-sized Perseverance rover has roughly the same dimensions as Curiosity: it’s about 10 feet long (not including the arm), 9 feet wide, and 7 feet tall (about 3 meters long, 2.7 meters wide, and 2.2 meters tall). But at 2,260 pounds (1,025 kilograms), Perseverance is about 278 pounds (126 kilograms) heavier than Curiosity
-As with Curiosity, Perseverance’s baseline power system is a Multi-Mission Radioisotope Thermoelectric Generator (MMRTG) provided by the U.S. Department of Energy. It uses the heat from the natural decay of plutonium-238 to generate electricity
-De la taille d'une voiture (3 mètres de long pour 2,70 mètres de large), le rover est doté de six roues comme son prédécesseur Curiosity, pour lui permettre de passer les rochers mais n'est pas bâti pour la vitesse. Il n'en a d'ailleurs pas besoin puisqu'il ne doit parcourir que 200 mètres en moyenne par jour martien.
- Mars 2020 dispose d'un bras articulé long de 2,20 mètres et d'une foreuse pour pulvériser des échantillons de roches prélevés dans des endroits qu'il aura identifiés comme propices à certaines formes de vie et molécules organiques.
- Une fois prélevé, l'échantillon sera transféré à l'intérieur du rover pour être hermétiquement scellé dans un tube qui sera rejeté en attendant qu'une future mission martienne en prenne livraison. 
- On vise un lancement en 2026 pour la prochaine mission, qui irait sur Mars pour prendre les échantillons, les placerait dans une fusée qui se mettrait en orbite autour de Mars, poursuit Matt Wallace. Les échantillons auraient alors rendez-vous avec un orbiteur qui les rapporterait sur Terre. On pourrait avoir ces échantillons en main pour les analyser d'ici une décennie ».
 
 ## Terraformer Mars
 
