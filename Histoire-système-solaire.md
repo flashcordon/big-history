@@ -655,6 +655,8 @@ and no doubt lives into its development
 - [Your Guide to NASA's MAVEN mission](https://www.planetary.org/space-missions/maven) - Planetary Society
 - [InSight](https://fr.wikipedia.org/wiki/InSight) - Wikipédia
 - [PREMIÈRE ANNÉE DE LAMISSION MARTIENNE INSIGHT,DES RÉSULTATS SCIENTIFIQUES SURPRENANTS](https://anr.fr/fileadmin/aap/2020/CP-insight-fev-2020.pdf) - Communiqué de presse du 24 Février 2020, ANR 
+- [Initial results from the InSight mission on Mars](https://www.nature.com/articles/s41561-020-0544-y) - Banerdt et al (2020)
+- [La mission martienne InSight , objectif et instruments](https://www.nature.com/articles/s41561-020-0544-y) -  Chloé Michaut (2019)
 
 ---
 
