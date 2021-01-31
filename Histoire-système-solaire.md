@@ -684,7 +684,7 @@ estimated age of just 30 million years, suggesting that perhaps the
 volcano is presently dormant rather than extinct
 - Detailed model calculations indicate that Phobos will impact
 the Martian surface in about 100 million years
-
+- Mars, figure 2, est une planète rocheuse, plus petite (3 400 km de rayon) que la Terre (6 370 km de rayon), qui présente les traces d'une intense activité volcanique passée en surface avec des grandes plaines de lave au Nord et des volcans géants ( Olympus Mons étant le plus grand volcan de Mars et du système solaire), mais aussi d'une activité tectonique avec la présence d'un grand rift, Valles Marineris . Cependant, elle ne présente pas de tectonique des plaques, processus très spécifique à la Terre : les volcans ne sont pas alignés le long de limites de plaques tectoniques. Ils se sont formés à l'aplomb de grands panaches de matériel mantellique chaud remontant depuis les profondeurs du manteau par convection. Mars présente cependant une surface très ancienne, avec un âge moyen de l'ordre de 3 à 3,5 milliards d'années. Sur Terre, il n'existe au contraire que très peu de roches datant d'une période si ancienne. 
 
 ## La vie sur Mars
 
@@ -982,7 +982,16 @@ sismologie : les séismes martiens sont plus faibles mais plus fréquents que ne
 - Mars ne présente pas de tectonique des plaques comme la Terre, mais elle a des régions volcaniques actives qui peuvent générer des secousses.  
 - Les capteurs météorologiques d’InSightont détecté des centaines de turbulences ou, lorsqu'elles soulèvent du sable et deviennent visibles, des tourbillons de poussière (dust devilsen anglais). 
 - InSight a deux antennes radio : l’une pour échanger des informations régulièrement avec la Terre, et l’autre plus puissante,pour mesurer les oscillations de l’axe de rotation de Mars. Cet instrument RISE (Rotation and Interior Structure Experiment) qui émet en bande X, pourra éventuellement révéler si le noyau de la planète est solide ou liquide. Un noyau solide ferait osciller Mars dans une moindre mesure qu'un noyau liquide
-- 
+-  InSight (positionnée en blanc sur la figure 2) est la première station géophysique martienne. Elle a pour objectif de connaître la structure interne, c'est-à-dire la taille et la composition des différentes couches de la planète : le noyau, le manteau et la croute, ainsi que son état thermique actuel. Ces informations permettront de comprendre et de contraindre l'évolution de la planète depuis son accrétion, la nature du matériel ayant formé la planète, ainsi que le processus de différenciation qui a conduit à la formation des différentes couches.
+- Les temps d'arrivée des ondes de surface, en particulier, vont permettre d'obtenir la distance d'un séisme à la station
+- L'instrument HP3 ( Heat flow and Physical Properties Package ) dit « la taupe »
+- Pour déterminer le flux de chaleur local, l'instrument doit mesurer deux quantités : le gradient de température dans le sous-sol (comment la température augmente en profondeur), ainsi que la conductivité thermique des roches du sous-sol (comment les roches du sous-sol conduisent la chaleur).
+- Pour mesurer le gradient de température, la taupe va pénétrer dans le sous-sol martien, qui est un régolithe (un sol constitué de grains fins, meuble et friable car constamment bombardé par des météorites), entre 3 et 5 m de profondeur, grâce à un simple mécanisme d'auto-martelage. Cette sonde va entraîner derrière elle un long câble contenant quatorze capteurs thermiques à des intervalles connus qui vont mesurer la température le long de ces 3 à 5 m de profondeur. Cette profondeur doit permettre de s'affranchir des variations d'origine météorologiques et climatiques
+-  C'est la première fois que l'on va creuser si profond sur une planète tellurique (sur la Lune, pour connaître le flux de chaleur de main d'homme, on avait atteint 2,3 m de profondeur).
+- Le forage a commencé mais… la taupe bute sur un obstacle depuis le 1er mars 2019, à seulement 30 cm de profondeur. 
+- L'instrument RISE ( Rotation and Interior Structure Experiment ) se compose de deux antennes radio émettant dans la bande X, qui vont échanger des informations avec la Terre, figure 14. RISE fonctionne comme un miroir, il rélfléchit le signal émis par la Terre, pour révéler la position exacte de l'atterrisseur dans l'espace. La mesure est basée sur l'effet Doppler et permet d'obtenir une précision sur la position de 10 cm.
+
+Ces données sont collectées afin d'étudier finement le processus de rotation de la planète sur elle-même. La planète effectue en effet un tour sur elle-même en un temps très comparable à la Terre : 24 h et 37 min. Mais, tout comme la Terre, l'axe de rotation de Mars décrit lui aussi un cercle autour d'un axe : c'est le phénomène de précession, dont la période est, pour Mars, d'environ 175 000 ans. Ce phénomène de précession présente finalement des oscillations de l'obliquité, appelées nutations, dont la période est de l'ordre de 2 années terrestres (une année martienne). Ces processus de précession et de nutation sont fonction du moment d'inertie de la planète et en particulier de la taille du noyau. 
 
 ### Perseverance
 
