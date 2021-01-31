@@ -1015,7 +1015,7 @@ Ces données sont collectées afin d'étudier finement le processus de rotation 
 - Perseverance est alimenté par un RTG (Radioisotope Thermoelectric Generator) utilisant la désintégration radioactive du plutonium 238.
 - Ses 6 roues lui permettent d'évoluer à la surface de Mars à 200 mètres / sol en moyenne.
 > 1 sol = 1 jour solaire martien = 24 h 39 min
-- Le rover dispose d'un bras articulé de 2,20 m de long et d'une foreuse pour pulvériser des échantillons de roches martiens intéressants. Il devrait ainsi récupérer 43 échantillons de roches (15 grammes) abritant potentiellement des traces chimiques de la vie ainsi que de roches volcaniques. Une fois prélevé, l'échantillon sera hermétiquement scellé dans un tube qui sera déposé à l'avenir dans un endroit précis en attendant qu'une future mission martienne le récupère et le ramène sur Terre. 
+- Le rover dispose d'un bras articulé de 2,20 m de long et d'une foreuse pour pulvériser des échantillons de roches martiens intéressants. Il devrait ainsi récupérer 43 échantillons de roches (15 grammes chacun) abritant potentiellement des traces chimiques de la vie ainsi que de roches volcaniques. Une fois prélevé, l'échantillon sera hermétiquement scellé dans un tube qui sera déposé à l'avenir dans un endroit précis en attendant qu'une future mission martienne le récupère et le ramène sur Terre. 
 
 ## Terraformer Mars
 
