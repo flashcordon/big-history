@@ -653,6 +653,7 @@ and no doubt lives into its development
 - [1,000 Days in Orbit: MAVEN’s Top 10 Discoveries at Mars](https://www.nasa.gov/feature/goddard/2017/maven-1000-days) - NASA
 - [Major Results from the MAVEN Mission to Mars](https://agupubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2169-9402.MAVEN2) - JGR: Space Physics (2016)
 - [Your Guide to NASA's MAVEN mission](https://www.planetary.org/space-missions/maven) - Planetary Society
+- [InSight](https://fr.wikipedia.org/wiki/InSight) - Wikipédia
 
 ---
 
@@ -936,6 +937,44 @@ Auroras on Earth are caused by energetic charged particles from space crashing d
 ### Curiosity
 
 ### Insight
+
+- InSight est à l'origine une proposition de mission spatiale pour le programme New Frontiers de l'agence spatiale civile américaine, la NASA
+-  lanceur une fusée Atlas V 401, qui doit décoller depuis la base de Vandenberg en Californie
+- InSight (acronyme de l'anglais Interior Exploration using Seismic Investigations, Geodesy and Heat Transport ; en français : Exploration interne par les sondages sismiques, la géodésie et les flux thermiques) est une mission d'exploration de la planète Mars développée par l'agence spatiale américaine, la NASA, et qui a décollé le 5 mai 2018 pour atterrir à la surface de la planète le 26 novembre 2018. 
+- C'est la première mission entièrement consacrée à l'étude de la structure interne de cette planète. Pour y parvenir, elle emporte deux instruments scientifiques : le sismomètre SEIS et HP3, instrument de mesure des flux de chaleur en provenance du cœur de la planète. L'objectif scientifique principal de la mission est de disposer d'une meilleure connaissance de la structure interne de la planète, dont les caractéristiques sont mal connues, dans le but de reconstituer l'histoire de Mars. 
+- la mission InSight est sélectionnée en 2012, dans le cadre du programme Discovery de la NASA
+- InSight se pose à la surface de Mars le 26 novembre 2018 dans une région de plaine baptisée Elysium Planitia et située près de l'équateur de cette planète. La phase d'étude scientifique doit durer deux années terrestres. Le sismomètre SEIS entre en service début février 2019 et pour la première fois dans l'histoire de l'exploration de Mars, une secousse sismique est détectée le 7 avril 2019. L'instrument HP3, qui nécessite l'enfoncement d'une sonde dans le sol, rencontre un problème lié à la nature du sol que l'équipe au sol tente toujours de résoudre début octobre.
+- Pour la première fois le bruit du vent qui souffle à une vitesse comprise entre 18 et 25 km/h, est enregistré et transmis au sol. En fait InSight ne dispose pas de microphonea pour ce son non perceptible par un humainb. Il est produit par la conversion des vibrations des panneaux solaires générées par le vent et enregistrées par le capteur courte période du sismomètre installé provisoirement sur le plateau supérieur d'InSight. Ces infrasons produits par le vent sont également enregistrés par le capteur de pression de la suite météorologique et leur conversion effectuée pour pouvoir être perceptible par l'oreille humaine4,5. 
+- Une fois le sismomètre SEIS opérationnel, l'équipe au sol dépose l'instrument HP3 sur le sol à l'aide du bras de la sonde spatiale. Pour que l'instrument de mesure des flux de chaleur puisse fonctionner il faut enfoncer un tube long d'environ 40 centimètres jusqu'à une profondeur de 5 mètres. Cette opération dure plusieurs semaines, avec des pauses de 2 à 3 jours durant lesquelles on laisse la chaleur produite par le processus se dissiper, puis on mesure la conductivité thermique. Le tube s'enfonce sous l'action d'une masse en tungstène qui coulisse à l'intérieur entre deux ressorts et qui est mise en mouvement par un moteur électrique9,10.
+- Le sismomètre SEIS est le premier instrument installé. Le transfert est réalisé en plusieurs jours afin de vérifier le bon fonctionnent du bras et s'assurer que le sismomètre a été bien saisi par celui-ci. 
+- Le sismomètre est placé sur le sol à environ 1,63 mètre de l'atterrisseur, distance maximale que peut atteindre le bras. 
+- Début janvier la cloche assurant la protection thermique et éolienne du sismomètre est saisie par le bras sur le plateau supérieur et installée de manière à recouvrir le sismomètre dans le but de le protéger des phénomènes météorologiques8. 
+Les opérations de forage débutent le 28 février 2019, 92 jours après l'atterrissage sur Mars. Le tube s'enfonce aux trois quarts dans le sol mais sa progression est rapidement stoppée. Les opérations reprennent le 2 mars, mais le tube ne parvient pas à s'enfoncer plus avant et est désormais incliné d'environ 15 degrés par rapport à la verticale.
+- La source du blocage reste incertaine : le tube est-il arrêté par une roche ou la nature du sol trop élastique annule-t-elle les effets du mouvement du bloc de tungstène ? Le mécanisme de déroulement du câble situé à l'intérieur de l'instrument est-il gêné par un objet non identifié11 ? 
+-  la mission primaire, prévue originellement pour durer 2 ans (jusqu’en novembre 2020), est prolongée de 2 nouvelles années (jusqu’en décembre 2022).
+-  InSight doit collecter des données qui permettront d'effectuer six types de mesure40 :
+
+    déterminer la taille, la composition et l'état (solide ou liquide) du noyau planétaire ;
+    déterminer l'épaisseur et la structure de la croûte ;
+    déterminer la composition et la structure du manteau ;
+    déterminer l'état thermique des structures internes de Mars ;
+    mesurer la force, la fréquence et la distribution géographique de l'activité sismique interne de la planète ;
+    mesurer la fréquence des impacts de météorites à la surface de Mars.
+- Aucune des deux missions martiennes dotées de sismomètres ayant précédé InSight n'a pu fournir d'informations sur l'activité sismique de Mars, du fait de la défaillance des instruments (Viking) ou de l'échec du lancement (Mars 96). 
+- InSight reprend l'architecture de la sonde spatiale Phoenix 
+- La sonde spatiale a une masse au lancement de 694 kg.
+- l'atterrisseur (358 kg), qui est le seul élément qui se pose sur Mars et qui emporte les différents instruments scientifiques.
+- Le Seismic Experiment for Interior Structure (SEIS, expérience sismique pour la structure intérieure) est un sismomètre à trois axes, N-S, E-W, et vertical, qui prendra des mesures précises des séismes et autres activités internes sur Mars, afin de mieux comprendre l'histoire de la planète et la conformation de sa structure. L'instrument, qui a une masse totale de 29,5 kg, est composé des capteurs sismiques, associés à des capteurs de température
+- Les capteurs très large bande sont enfermés dans une enceinte sphérique, de la taille approximative d'un melon, réalisée en titane (4 dans le schéma 5). Un vide très poussé est maintenu dans la sphère. Cette sphère remplit plusieurs objectifs. À la surface de Mars, la température connait de grandes amplitudes avec des différences de température quotidiennes qui peuvent atteindre 70 °C. Or, la présence de gaz génère des ponts thermiques entre l'extérieur et les capteurs, qui accroissent le bruit et affectent la précision des mesures. D'autre part, l'impact des molécules de gaz sur le pendule servant de capteur affecte également son mouvement. Enfin, en faisant le vide, on écarte les poussières qui pourraient affecter les parties mobiles. 
+- L'instrument Heat Flow and Physical Properties Package (HP3, ensemble instrumental flux de chaleur et propriétés physiques), fourni par l'agence spatiale allemande (DLR), est un capteur de flux de chaleur, qui s'enfoncera jusqu'à une profondeur de 5 mètres dans le sous-sol martien, plus profondément que tous les instruments utilisés jusque-là sur Mars : pelles, foreuses et sondes. C'est la première fois qu'un instrument de ce type est utilisé sur le sol d'une planète autre que la Terre. HP3 doit mesurer la quantité de chaleur dégagée depuis le noyau de Mars et fournir ainsi des indices sur l'histoire thermique de la planète60.
+
+La profondeur visée (5 mètres) a été choisie pour que les mesures ne soient pas perturbées par les variations quotidiennes et saisonnières de la température de la surface.
+- Les principaux résultats acquis au cours de la première année d'InSight sur Mars, publiés fin février 2020 dans six articles scientifiques
+- les capteurs météorologiques mesurent presque continûment la vitesse et la direction des vents, ainsi que la pression atmosphérique. Ils ont détecté des centaines de turbulences, dont certaines sont à l'origine de tourbillons de poussière (dust devils)
+- magnétisme : le magnétomètre a détecté un champ magnétique dix fois supérieur à ce qui était prévu sur la base des données satellitaires et des valeurs moyennes calculées sur quelques centaines de kilomètres (les mesures d'InSight concernent une zone beaucoup plus locale). Les roches voisines du lieu d’atterrissage étant trop jeunes pour avoir été aimantées par l'ancien champ global de Mars, le champ mesuré doit provenir de roches plus profondes. InSight a également détecté des impulsions magnétiques en milieu de nuit, dont l'origine est encore inconnue
+- 
+sismologie : les séismes martiens sont plus faibles mais plus fréquents que ne le prévoyaient les modèles théoriques. En 13 mois, SEIS a enregistré près de 460 événements, essentiellement des microséismes. 40 sont des signaux de basse fréquence, correspondant à des séismes relativement profonds ; les autres sont des événements de haute fréquence, beaucoup plus superficiels et proches, d'origine encore imprécise (plausiblement de petits séismes superficiels, des glissements de terrain ou des micro-ébranlements de falaises). La magnitude des deux séismes les plus puissants est de 3,6, pas tout à fait assez pour atteindre le manteau inférieur ni le noyau. 
+- 
 
 ### Perseverance
 
