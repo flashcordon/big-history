@@ -993,7 +993,7 @@ sismologie : les séismes martiens sont plus faibles mais plus fréquents que ne
 
 Ces données sont collectées afin d'étudier finement le processus de rotation de la planète sur elle-même. La planète effectue en effet un tour sur elle-même en un temps très comparable à la Terre : 24 h et 37 min. Mais, tout comme la Terre, l'axe de rotation de Mars décrit lui aussi un cercle autour d'un axe : c'est le phénomène de précession, dont la période est, pour Mars, d'environ 175 000 ans. Ce phénomène de précession présente finalement des oscillations de l'obliquité, appelées nutations, dont la période est de l'ordre de 2 années terrestres (une année martienne). Ces processus de précession et de nutation sont fonction du moment d'inertie de la planète et en particulier de la taille du noyau. 
 
-### Perseverance (NASA, 2020-)
+### Perseverance (NASA, 2020-2023 ?)
 
 - Perseverance est un rover de la taille d'une voiture (3 mètres de long pour 2,70 mètres de large, environ 1 tonne) a été lancé le 30 Juillet 2020 depuis Cap Canaveral en Floride (à bord d'un lanceur Atlas V)
 - Il s'est posé sur Mars le 18 Février 2021 dans le cratère Jezero, un bassin d'impact de 45 km de diamètre
@@ -1008,7 +1008,7 @@ Ces données sont collectées afin d'étudier finement le processus de rotation 
 > * des instruments pour mesurer la température, la vitesse et la direction des vents, la pression, l'humidité et la distribution en taille et en forme des grains de poussière.
 > * des spectromètres pour déterminer avec précision la composition des minéraux de surface (roche et régolithe) et détecter de la matière organique
 > * un radar pour déterminer la structure du sous-sol avec une résolution de l'ordre du cm
-- La mission est sensée durée au moins une année martienne complète (687 jours terrestres)
+- La mission est sensée durer au moins une année martienne complète (687 jours terrestres)
 - Le design de Perseverance est largement basé sur celui de Curiosity, mais il dispose aussi de nouveaux démonstrateurs technologiques : 
 > * L'intérieur du rover contient un instrument nommé MOXIE, conçu pour transformer le CO2 de l'atmosphère martienne en oxygène, ce qui devrait être très utile pour l'exploration humaine de Mars
 > * Il dispose aussi d'un petit drone autonome d'1,8 kg (nommé Ingenuity), alimenté à l'énergie solaire, dont la mission est complètement indépendante de celle de Mars 2020 mission: prouver la faisabilité du vol dans l'atmosphère ténue de Mars). Quelques mois après l'atterrissage, cet hélicoptère de reconnaissance deviendra le premier engin de ce type à décoller depuis la surface d'une autre planète. À l'avenir, ce type de drones pourrait aider des astronautes et des missions robotiques à explorer la planète rouge.
