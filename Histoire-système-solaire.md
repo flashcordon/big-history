@@ -654,6 +654,7 @@ and no doubt lives into its development
 - [Major Results from the MAVEN Mission to Mars](https://agupubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2169-9402.MAVEN2) - JGR: Space Physics (2016)
 - [Your Guide to NASA's MAVEN mission](https://www.planetary.org/space-missions/maven) - Planetary Society
 - [InSight](https://fr.wikipedia.org/wiki/InSight) - Wikipédia
+- [PREMIÈRE ANNÉE DE LAMISSION MARTIENNE INSIGHT,DES RÉSULTATS SCIENTIFIQUES SURPRENANTS](https://anr.fr/fileadmin/aap/2020/CP-insight-fev-2020.pdf) - Communiqué de presse du 24 Février 2020, ANR 
 
 ---
 
@@ -974,6 +975,11 @@ La profondeur visée (5 mètres) a été choisie pour que les mesures ne soient 
 - magnétisme : le magnétomètre a détecté un champ magnétique dix fois supérieur à ce qui était prévu sur la base des données satellitaires et des valeurs moyennes calculées sur quelques centaines de kilomètres (les mesures d'InSight concernent une zone beaucoup plus locale). Les roches voisines du lieu d’atterrissage étant trop jeunes pour avoir été aimantées par l'ancien champ global de Mars, le champ mesuré doit provenir de roches plus profondes. InSight a également détecté des impulsions magnétiques en milieu de nuit, dont l'origine est encore inconnue
 - 
 sismologie : les séismes martiens sont plus faibles mais plus fréquents que ne le prévoyaient les modèles théoriques. En 13 mois, SEIS a enregistré près de 460 événements, essentiellement des microséismes. 40 sont des signaux de basse fréquence, correspondant à des séismes relativement profonds ; les autres sont des événements de haute fréquence, beaucoup plus superficiels et proches, d'origine encore imprécise (plausiblement de petits séismes superficiels, des glissements de terrain ou des micro-ébranlements de falaises). La magnitude des deux séismes les plus puissants est de 3,6, pas tout à fait assez pour atteindre le manteau inférieur ni le noyau. 
+- En écoutant la façon dont les ondes sismiques, provoquées par des séismes martiens ou des impacts de météorites, vont se propager à l’intérieur de Mars, les géophysiciens vont pour déterminer pour la première fois avec précision la structure de la planète, depuis la croûte jusqu’au noyau métallique, en passant par le manteau. InSight permettra également de mesurer la sismicité martienne, le taux des impacts météoritiques, ainsi que la puissance dissipée dans l’espace par le moteur planétaire (grâce à HP3).
+- le sismomètre ultra-sensible a permis aux scientifiques de détecter de nombreux évènements sismiques à des centaines, voire des milliers de kilomètres de distance
+- Mars ne présente pas de tectonique des plaques comme la Terre, mais elle a des régions volcaniques actives qui peuvent générer des secousses.  
+- Les capteurs météorologiques d’InSightont détecté des centaines de turbulences ou, lorsqu'elles soulèvent du sable et deviennent visibles, des tourbillons de poussière (dust devilsen anglais). 
+- InSight a deux antennes radio : l’une pour échanger des informations régulièrement avec la Terre, et l’autre plus puissante,pour mesurer les oscillations de l’axe de rotation de Mars. Cet instrument RISE (Rotation and Interior Structure Experiment) qui émet en bande X, pourra éventuellement révéler si le noyau de la planète est solide ou liquide. Un noyau solide ferait osciller Mars dans une moindre mesure qu'un noyau liquide
 - 
 
 ### Perseverance
