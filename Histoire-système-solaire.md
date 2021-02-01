@@ -846,7 +846,7 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 
 ### Spirit et Opportunity
 
-### Mars Reconnaissance Orbiter (NASA, 2005-?)
+### Mars Reconnaissance Orbiter (NASA, 2005-202X)
 
 - MRO est un orbiteur de plus de 2 tonnes lancé le 12 août 2005 depuis Cap Canaveral (par un lanceur Atlas V-401)
 - Son objectif principal est de cartographier en détail la surface de Mars, depuis une orbite qui oscille entre 255 km d'altitude (au-dessus du pôle Sud) et 320 km (au-dessus du pôle Nord).
@@ -856,29 +856,15 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 > * rechercher les sites présentant des signes d'une activité liée à la circulation de l'eau en surface ou à l'hydrothermalisme
 > * identifier et caractériser les sites ayant le plus fort potentiel pour des missions impliquant des atterrisseurs ou des rovers ainsi que des missions de retour d'échantillons martiens
 - Pour remplir ces objectifs, la sonde dispose de 6 instruments scientifiques :
-> * La caméra HiRISE (High Resolution Imaging Science Experiment), un télescope de 50 cm de diamètre (focale de 12 m), est la plus grosse caméra jamais embarquée sur une sonde spatiale. Sa résolution spatiale au sol atteint 30 cm depuis une altitude de 300 km. Elle peut voir dans 3 filtres du domaines du visible (rouge, vert, bleu) ainsi que dans le proche infrarouge. Elle réalise les images les plus détaillées de la surface de Mars prises depuis l'orbite : une seule image de HiRISE peut peser jusqu'à 3,5 Gigaoctets.
+> * La caméra HiRISE (High Resolution Imaging Science Experiment), un télescope de 50 cm de diamètre (focale de 12 m), est la plus grosse caméra jamais embarquée sur une sonde spatiale. Sa résolution spatiale au sol atteint 30 cm depuis une altitude de 300 km. Sa caméra stéréoscopique peut voir dans 3 filtres du domaines du visible (rouge, vert, bleu) ainsi que dans le proche infrarouge. Elle réalise les images les plus détaillées de la surface de Mars prises depuis l'orbite : une seule image de HiRISE peut peser jusqu'à 3,5 Gigaoctets. La plus petite structure visible sur les images de MRO mesure environ 1 mètre de côté (la taille d'un bureau)
 > * Un radar (SHARAD) conçu pour analyser la structure du sous-sol martien sur une profondeur de 1 km et détecter des poches d'eau liquide et de glace
 > * Un spectromètre imageur (CRISM) fonctionnant dans le domaine du visible et de l'infrarouge pour caractériser la minéralogie de la surface de Mars
 > * Un sondeur atmosphérique (MCS) pour mesurer la température et la pression de l'atmosphère ainsi que la température des calottes polaires
 - Elle s'est insérée en orbite martienne le 10 mars 2006. Sa mission scientifique, initialement prévue pour durer 2 ans, a été étendue en 2008 et la sonde devrait ainsi rester opérationnelle jusqu'au milieu de la décennie 2020.
-- MRO joue aussi le rôle de relai pour transférer à la Terre les données acquises par les rovers et les atterrisseurs à la surface de Mars, comme Curiosity ou Perseverance.
+- MRO joue aussi le rôle de relai de communication entre la Terre et les rovers et les atterrisseurs à la surface de Mars, comme Curiosity ou Perseverance.
 - MRO réalise toutes les 2 heures une orbite complète autour de Mars.
 - A ce jour, MRO a déjà envoyé plus de 50 TO (400 Terabits) de données à la Terre, et a cartographié environ 3% de la surface de Mars en haute résolution, ainsi que la quasi-totalité de la surface en basse résolution.
-
-- Les instruments de MRO ont permis notamment d'estimer le volume de la calotte polaire de Mars, de détecter de la glace dans des cratères situés à une latitude relativement basse, d'observer des avalanches et de détecter plusieurs types de minéraux. 
-
-- Permet de découvrir de nouveau paysages ? (trainées noires, traces d'écoulements, pics sombres ressemblent forêts ?)
-- La mission scientifique proprement dite n'a commencé que lorsque tous les tests techniques ont été effectués (en novembre 2006). Après ses deux années de mission, la sonde a continué ses observations scientifiques, tout en jouant le rôle de relais de communication pour les engins spatiaux posés à la surface de Mars. 
-- Mission primaire (novembre 2005 à novembre 2008)
-- Les caméras de MRO ont permis de choisir les sites d'atterrissage les plus propices pour ces robots, en permettant de trouver le meilleur compromis entre risques et résultats scientifiques.
-- Le 25 mai 2008, la caméra HiRISE parvient à photographier la sonde spatiale Phoenix alors qu'elle descend accrochée sous son parachute vers le site d'atterrissage situé dans la région de Vastitas Borealis25. 
-- ix mois environ de freinage atmosphérique (une technique consistant à profiter de la friction avec l'atmosphère martienne pour ralentir la sonde et abaisser son orbite) seront nécessaires avant que la sonde ne puisse se caler sur son orbite finale de cartographie
-
-- La caméra HiRISE est l'un des instruments phares de la sonde MRO. Capables de fournir des images couleurs, stéréoscopiques et à très haute résolution de la surface de Mars, cet instrument va probablement bouleverser nos connaissances de la surface martienne ( !)
-- Etant donné qu'il faut au moins trois pixels pour apercevoir la forme d'un objet, la plus petite structure visible sur les images de MRO mesurera environ 1 mètre de côté (à condition qu'il offre un contraste suffisant avec les zones environnantes). La sonde pourra ainsi distinguer des objets aussi petits qu'un bureau. A titre de comparaison, Mars Global Surveyor permet de distinguer en surface un objet de la taille d'une petite voiture, et sur les meilleurs clichés des sondes Viking, on ne pouvait pas apercevoir des objets plus petits qu'un terrain de football ! Durant la totalité de sa mission (deux années terrestres), Mars Reconnaissance Orbiter ne pourra observer qu'environ 1 % seulement de la surface martienne avec HiRISE, ce qui donne une petite idée de son pouvoir grossissant.
-- Les images obtenues par une petite caméra (CTX) serviront de cadre de référence pour replacer les images à très haute résolution de HiRISE dans leur contexte 
-- Sa durabilité a permis d’explorer les phénomènes longs qui se déroulent à la surface de Mars : la succession des saisons, le gel et le dégel de la glace carbonique ou encore la formation des ravines sous l'effet de cette glace. Elle a même réussi à repérer un nouveau cratère d'impact d'astéroïde qui est apparu durant sa mission.
-- Son apport a également été déterminant dans la sélection du cratère Jezero, le site d’atterrissage du nouveau rover de la Nasa, Perseverance, qui a décollé cet été et qui arrivera sur Mars en février 2021. Enfin, de concert avec la sonde Mars Odyssey qui s’est déplacée pour l’occasion, MRO servira de relais pour l’astromobile en transmettant ses données vers la Terre via les antennes du réseau Deep Space Network. 
+- MRO a permis d'estimer le volume de la calotte polaire de Mars, de détecter de la glace dans des cratères situés à une latitude relativement basse, d'observer des avalanches, de détecter plusieurs types de minéraux ainsi que des paysages insolites (trainées noires, traces d'écoulements...). Sa durabilité lui a permis d'observer des phénomènes longs qui se déroulent sur Mars : la succession des saisons, le gel et le dégel de la glace carbonique, la formation des ravines sous l'effet de cette glace. Elle a même détecté un nouveau cratère d'impact qui est apparu au cours de sa mission.
 
 ### Phoenix
 
