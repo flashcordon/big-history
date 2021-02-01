@@ -870,8 +870,9 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 
 ### MAVEN
 
-- MAVEN a été lancé le 18 novembre 2013 par une fusée Atlas V 401 depuis la base de lancement de Cap Canaveral et s'est placé en orbite autour de Mars le 21 septembre 2014.
-- MAVEN (acronyme de Mars Atmosphere and Volatile EvolutioNN 1)
+- MAVEN (acronyme de Mars Atmosphere and Volatile EvolutioN) est une sonde de 2,55 tonnes lancé le 18 novembre 2013 depuis Cap Canaveral par une fusée Atlas V 401
+- Elle s'est placé en orbite autour de Mars le 21 septembre 2014.
+
 - MAVEN, qui circule sur une orbite elliptique autour de Mars, a pour mission de déterminer les mécanismes à l'origine de la quasi-disparition de son atmosphère.
 - MAVEN est un orbiteur de grande taille (2,55 tonnes, 11 mètres d'envergure) qui emporte une charge utile constituée de huit instruments scientifiques. 
 - Au cours de sa mission primaire d'une durée d'un an, MAVEN doit effectuer cinq « plongées » dans l'atmosphère basse relativement dense. Une fois sa mission primaire achevée, il est prévu que la sonde puisse jouer le rôle de relais de télécommunications entre les engins spatiaux posés sur le sol martien (rover Curiosity…) et la Terre tout en poursuivant ses mesures scientifiques. 
