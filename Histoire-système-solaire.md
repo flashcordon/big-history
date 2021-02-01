@@ -848,25 +848,29 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 
 ### Mars Reconnaissance Orbiter (NASA, 2005-?)
 
-- lancée le 12 août 2005 par une fusée Atlas V-401 depuis la base de lancement de Cap Canaveral et s'est insérée en orbite martienne le 10 mars 2006. 
-- L'objectif principal de la mission MRO est de cartographier la surface de Mars. L'orbiteur de grande taille (plus de 2 tonnes (2 180 kg) avec les ergols) dispose pour remplir cet objectif du télescope HIRISE permettant d'obtenir des images avec une résolution de 20 à 30 cm. Cet instrument est complété par un spectromètre et un radiomètre fonctionnant en lumière visible et infrarouge ainsi que par un radar qui permettent de déterminer la composition minéralogique du sol, sa géologie ainsi que de rechercher l'eau piégée sous forme de glace. Enfin, MRO est équipé d'un système de télécommunications qui doit lui permettre de transférer des volumes de données très importants vers la Terre et de jouer le rôle de relais pour les données collectées par les atterrisseurs et rovers posés à la surface de Mars tels que Mars Science Laboratory. 
-- Les instruments de MRO ont permis notamment d'estimer le volume de la calotte polaire de Mars, de détecter de la glace dans des cratères situés à une latitude relativement basse, d'observer des avalanches et de détecter plusieurs types de minéraux. 
-- devrait rester opérationnelle jusqu'au milieu de la décennie 2020. 
-- Les objectifs scientifiques suivants sont assignés à la mission MRO7 :
+- MRO est un orbiteur de plus de 2 tonnes lancé le 12 août 2005 depuis Cap Canaveral (par un lanceur Atlas V-401)
+- Son objectif principal est de cartographier en détail la surface de Mars, depuis une orbite qui oscille entre 255 km d'altitude (au-dessus du pôle Sud) et 320 km (au-dessus du pôle Nord).
+- La mission MRO a plusieurs objectifs scientifiques :
+> * caractériser le climat actuel de Mars et les mécanismes physiques à l'origine des changements climatiques saisonniers et interannuels
+> * déterminer la nature des terrains présentant une stratification complexes et identifier les formations de surface résultant de l'action de l'eau
+> * rechercher les sites présentant des signes d'une activité liée à la circulation de l'eau en surface ou à l'hydrothermalisme
+> * identifier et caractériser les sites ayant le plus fort potentiel pour des missions impliquant des atterrisseurs ou des rovers ainsi que des missions de retour d'échantillons martiens
+- Pour remplir ces objectifs, la sonde dispose de 6 instruments scientifiques :
+> * La caméra HiRISE (High Resolution Imaging Science Experiment), un télescope de 50 cm de diamètre (focale de 12 m), est la plus grosse caméra jamais embarquée sur une sonde spatiale. Sa résolution spatiale au sol atteint 30 cm depuis une altitude de 300 km. Elle peut voir dans 3 filtres du domaines du visible (rouge, vert, bleu) ainsi que dans le proche infrarouge. Elle réalise les images les plus détaillées de la surface de Mars prises depuis l'orbite.
+> * Un radar (SHARAD) conçu pour analyser la structure du sous-sol martien sur une profondeur de 1 km
+> * Un spectromètre imageur (CRISM) fonctionnant dans le domaine du visible et de l'infrarouge pour caractériser la minéralogie de la surface de Mars
+> * Un sondeur atmosphérique (MCS) pour mesurer la température et la pression de l'atmosphère ainsi que la température des calottes polaires
+- Elle s'est insérée en orbite martienne le 10 mars 2006 et devrait rester opérationnelle jusqu'au milieu de la décennie 2020.
+- MRO joue aussi le rôle de relai 
+- MRO a déjà envoyé plus de 50 TO (400 Terabits) de données à la Terre
 
-    caractériser le climat actuel de Mars et les mécanismes physiques à l'origine des changements climatiques saisonniers et interannuels ;
-    déterminer la nature des terrains présentant une stratification complexes et identifier les formations de surface résultant de l'action de l'eau ;
-    rechercher les sites présentant des signes d'une activité liée à la circulation de l'eau en surface ou à l'hydrothermalisme ;
-    identifier et caractériser les sites ayant le plus fort potentiel pour des missions impliquant des atterrisseurs ou des rovers ainsi que des missions de retour d'échantillons martiens.
-- L'orbiteur emporte également un radar (SHARAD) optimisé pour analyser les couches superficielles du sol sur une profondeur de 1 km, un spectromètre imageur (CRISM) fonctionnant en infrarouge et en lumière visible et doté d'une résolution spatiale remarquable de 20 mètres et un sondeur atmosphérique (MCS) fournissant la température et la pression de l'atmosphère martienne ainsi que la température des calottes polaires.
+dispose pour remplir cet objectif du télescope HIRISE permettant d'obtenir des images avec une résolution de 20 à 30 cm. Cet instrument est complété par un spectromètre et un radiomètre fonctionnant en lumière visible et infrarouge ainsi que par un radar qui permettent de déterminer la composition minéralogique du sol, sa géologie ainsi que de rechercher l'eau piégée sous forme de glace. Enfin, MRO est équipé d'un système de télécommunications qui doit lui permettre de transférer des volumes de données très importants vers la Terre et de jouer le rôle de relais pour les données collectées par les atterrisseurs et rovers posés à la surface de Mars tels que Mars Science Laboratory. 
+- Les instruments de MRO ont permis notamment d'estimer le volume de la calotte polaire de Mars, de détecter de la glace dans des cratères situés à une latitude relativement basse, d'observer des avalanches et de détecter plusieurs types de minéraux. 
 
 - Par ailleurs, la sonde spatiale joue un rôle très important pour les missions à la surface de Mars assurant le relais entre les engins posés sur le sol de Mars et la Terre.
 - Six instruments scientifiques sont embarqués à bord du vaisseau, ainsi que deux instruments
-- La caméra HiRISE (High Resolution Imaging Science Experiment) est constituée d'un télescope de 50 cm de diamètre et d'une longueur focale de 12 m, qui demeure en 2016 la plus grosse caméra jamais embarquée sur une sonde spatiale. Sa résolution spatiale au sol atteint 30 cm depuis une altitude de 300 km. Le détecteur est constitué de 14 capteurs CCD de 2 048 x 128 pixels, dont 10 comportent un filtre rouge et les quatre autres un filtre bleu, vert et proche infrarouge. 
-- 
 - Permet de découvrir de nouveau paysages ? (trainées noires, traces d'écoulements, pics sombres ressemblent forêts ?)
 - La mission scientifique proprement dite n'a commencé que lorsque tous les tests techniques ont été effectués (en novembre 2006). Après ses deux années de mission, la sonde a continué ses observations scientifiques, tout en jouant le rôle de relais de communication pour les engins spatiaux posés à la surface de Mars. 
-- L'orbite de travail oscille entre 255 kilomètres (au-dessus du pôle Sud) et 320 kilomètres (au-dessus du pôle Nord de Mars)
 - Mission primaire (novembre 2005 à novembre 2008)
 - Les caméras de MRO ont permis de choisir les sites d'atterrissage les plus propices pour ces robots, en permettant de trouver le meilleur compromis entre risques et résultats scientifiques.
 - Le 25 mai 2008, la caméra HiRISE parvient à photographier la sonde spatiale Phoenix alors qu'elle descend accrochée sous son parachute vers le site d'atterrissage situé dans la région de Vastitas Borealis25. 
@@ -874,8 +878,7 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 - ix mois environ de freinage atmosphérique (une technique consistant à profiter de la friction avec l'atmosphère martienne pour ralentir la sonde et abaisser son orbite) seront nécessaires avant que la sonde ne puisse se caler sur son orbite finale de cartographie
 - une période de révolution de 2 heures
 - Le diamètre de l'antenne grand gain, ainsi que la puissance des équipements radio, vont permettre à Mars Reconnaissance Orbiter de transmettre des données avec un débit maximal de 3 à 4 mégabits par seconde (soit une vitesse 8 fois supérieure à celle d'une connexion Internet ADSL classique de 512 kbps), ce qui représente une amélioration d'un facteur dix par rapport aux précédents orbiteurs. 
-- Elle a déjà envoyé plus de 400 Térabits de données à la Terre
-- Une caméra surpuissante fournira les images les plus détaillées jamais obtenues de la surface martienne. 
+
 -  Deux autres instruments feront écho à la puissance de la caméra HiRISE : le spectromètre infrarouge CRISM, qui fournira des cartes minéralogiques très précises de la surface martienne, et le radar SHARAD qui sondera le proche sous-sol à la recherche de poches d'eau ou de glace.
 - La caméra HiRISE est l'un des instruments phares de la sonde MRO. Capables de fournir des images couleurs, stéréoscopiques et à très haute résolution de la surface de Mars, cet instrument va probablement bouleverser nos connaissances de la surface martienne (une seule image de HiRISE non compressée pouvant peser jusqu'à 28 gigabits !)
 - Etant donné qu'il faut au moins trois pixels pour apercevoir la forme d'un objet, la plus petite structure visible sur les images de MRO mesurera environ 1 mètre de côté (à condition qu'il offre un contraste suffisant avec les zones environnantes). La sonde pourra ainsi distinguer des objets aussi petits qu'un bureau. A titre de comparaison, Mars Global Surveyor permet de distinguer en surface un objet de la taille d'une petite voiture, et sur les meilleurs clichés des sondes Viking, on ne pouvait pas apercevoir des objets plus petits qu'un terrain de football ! Durant la totalité de sa mission (deux années terrestres), Mars Reconnaissance Orbiter ne pourra observer qu'environ 1 % seulement de la surface martienne avec HiRISE, ce qui donne une petite idée de son pouvoir grossissant.
