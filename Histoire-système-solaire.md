@@ -860,22 +860,19 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 > * Un radar (SHARAD) conçu pour analyser la structure du sous-sol martien sur une profondeur de 1 km et détecter des poches d'eau liquide et de glace
 > * Un spectromètre imageur (CRISM) fonctionnant dans le domaine du visible et de l'infrarouge pour caractériser la minéralogie de la surface de Mars
 > * Un sondeur atmosphérique (MCS) pour mesurer la température et la pression de l'atmosphère ainsi que la température des calottes polaires
-- Elle s'est insérée en orbite martienne le 10 mars 2006 et devrait rester opérationnelle jusqu'au milieu de la décennie 2020.
+- Elle s'est insérée en orbite martienne le 10 mars 2006. Sa mission scientifique, initialement prévue pour durer 2 ans, a été étendue en 2008 et la sonde devrait ainsi rester opérationnelle jusqu'au milieu de la décennie 2020.
 - MRO joue aussi le rôle de relai pour transférer à la Terre les données acquises par les rovers et les atterrisseurs à la surface de Mars, comme Curiosity ou Perseverance.
+- MRO réalise toutes les 2 heures une orbite complète autour de Mars.
 - A ce jour, MRO a déjà envoyé plus de 50 TO (400 Terabits) de données à la Terre, et a cartographié environ 3% de la surface de Mars en haute résolution, ainsi que la quasi-totalité de la surface en basse résolution.
 
 - Les instruments de MRO ont permis notamment d'estimer le volume de la calotte polaire de Mars, de détecter de la glace dans des cratères situés à une latitude relativement basse, d'observer des avalanches et de détecter plusieurs types de minéraux. 
 
-- Six instruments scientifiques sont embarqués à bord du vaisseau, ainsi que deux instruments
 - Permet de découvrir de nouveau paysages ? (trainées noires, traces d'écoulements, pics sombres ressemblent forêts ?)
 - La mission scientifique proprement dite n'a commencé que lorsque tous les tests techniques ont été effectués (en novembre 2006). Après ses deux années de mission, la sonde a continué ses observations scientifiques, tout en jouant le rôle de relais de communication pour les engins spatiaux posés à la surface de Mars. 
 - Mission primaire (novembre 2005 à novembre 2008)
 - Les caméras de MRO ont permis de choisir les sites d'atterrissage les plus propices pour ces robots, en permettant de trouver le meilleur compromis entre risques et résultats scientifiques.
 - Le 25 mai 2008, la caméra HiRISE parvient à photographier la sonde spatiale Phoenix alors qu'elle descend accrochée sous son parachute vers le site d'atterrissage situé dans la région de Vastitas Borealis25. 
-- Extensions de mission (novembre 2008 -)
 - ix mois environ de freinage atmosphérique (une technique consistant à profiter de la friction avec l'atmosphère martienne pour ralentir la sonde et abaisser son orbite) seront nécessaires avant que la sonde ne puisse se caler sur son orbite finale de cartographie
-- une période de révolution de 2 heures
-- Le diamètre de l'antenne grand gain, ainsi que la puissance des équipements radio, vont permettre à Mars Reconnaissance Orbiter de transmettre des données avec un débit maximal de 3 à 4 mégabits par seconde (soit une vitesse 8 fois supérieure à celle d'une connexion Internet ADSL classique de 512 kbps), ce qui représente une amélioration d'un facteur dix par rapport aux précédents orbiteurs. 
 
 - La caméra HiRISE est l'un des instruments phares de la sonde MRO. Capables de fournir des images couleurs, stéréoscopiques et à très haute résolution de la surface de Mars, cet instrument va probablement bouleverser nos connaissances de la surface martienne ( !)
 - Etant donné qu'il faut au moins trois pixels pour apercevoir la forme d'un objet, la plus petite structure visible sur les images de MRO mesurera environ 1 mètre de côté (à condition qu'il offre un contraste suffisant avec les zones environnantes). La sonde pourra ainsi distinguer des objets aussi petits qu'un bureau. A titre de comparaison, Mars Global Surveyor permet de distinguer en surface un objet de la taille d'une petite voiture, et sur les meilleurs clichés des sondes Viking, on ne pouvait pas apercevoir des objets plus petits qu'un terrain de football ! Durant la totalité de sa mission (deux années terrestres), Mars Reconnaissance Orbiter ne pourra observer qu'environ 1 % seulement de la surface martienne avec HiRISE, ce qui donne une petite idée de son pouvoir grossissant.
