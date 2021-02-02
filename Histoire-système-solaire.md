@@ -933,7 +933,7 @@ Il se présente sous la forme d'une plateforme de 1,5 mètre de diamètre posée
 - Phoenix surface operations lasted from Martian late spring to late summer—May 26 to November 2, 2008, or 152 sols.
 - No organic molecules, and no traces of previous or present biological activity, were found at the landing site. Hence, the search for organic molecules will have to be continued by future missions. 
 
-### MAVEN
+### MAVEN (2013-203X)
 
 - MAVEN (acronyme de Mars Atmosphere and Volatile EvolutioN) est une sonde de 2,55 tonnes lancé le 18 novembre 2013 depuis Cap Canaveral par une fusée Atlas V 401
 - Elle fait partie du Mars Exploration Program de la NASA.
@@ -953,41 +953,33 @@ Il se présente sous la forme d'une plateforme de 1,5 mètre de diamètre posée
 > * deux instruments d'analyse du vent solaire (électrons, ions et protons)
 - Sa mission primaire a duré un an (novembre 2014-novembre 2015), au cours de laquelle la sonde a effecté 5 plongées dans l'atmosphère basse de Mars.
 > La première campagne de plongée a eu lieu le 10 février 2015
-- Les mesures réalisées par MAVEN ont montré que Mars perd environ 100 g d'atmosphère par seconde à cause du vent solaire. Ce volume peut s'accroitre considérablement lors d'une éruption solaire.
-> Sachant que ces éruptions étaient beaucoup plus fréquentes dans la jeunesse du Soleil, on pense que c'est le vent solaire qui est en majeure partie responsable de la quasi-disparition de l'atmosphère martienne.
+- Les mesures réalisées par MAVEN ont montré que Mars perd environ 100 g d'atmosphère par seconde à cause du vent solaire. Ce volume peut s'accroitre considérablement (d'un facteur 10 ou plus) lors d'une éruption solaire.
+> Sachant que ces éruptions étaient beaucoup plus fréquentes dans la jeunesse du Soleil, on pense que c'est le vent solaire qui est en majeure partie responsable de la quasi-disparition de l'atmosphère martienne et de sa transformation en planète hostile à la vie de surface.
 - MAVEN a complètement carographié le champ magnétique martien à différentes altitudes
-
+- La sonde a aussi identifié deux nouveaux types d'aurores : les aurores diffuses et les aurores à protons
+> Contrairement aux aurores sur Terre, ces dernières ne sont pas liées au champ magnétique de la planète, car Mars n'a pas de champ magnétique entretenu par une dynamo interne ! Elles sont dues aux particules du vent solaire qui pénètrent profondément dans certaines couches de l'atmosphère martienne.
+- MAVEN a aussi réalisé la première carte de circulation des vents de haute atmosphère d'une planète autre que la Terre
+- Elle a aussi observé d'immenses nuages de plusieurs centaines de kilomètres se former en à peine quelques heures.
+- La sonde a suffisamment de carburant pour être opérationnelle jusqu'à au moins 2030. Elle remplacera donc progressivement MRO et Mars Odyssey dans le rôle de relai de télécommunication entre les robots martiens et la Terre, tout en réalisant des mesures atmosphériques de temps en temps. 
 
 il est prévu que la sonde puisse jouer le rôle de relais de télécommunications entre les engins spatiaux posés sur le sol martien (rover Curiosity…) et la Terre tout en poursuivant ses mesures scientifiques. 
 La mesure du ratio deutérium sur hydrogène doit permettre d'évaluer la quantité d'hydrogène perdue par Mars depuis sa création : le deutérium est un isotope lourd de l'hydrogène qui s'échappe donc plus difficilement de l'atmosphère martienne. Les mécanismes à l'œuvre ont modifié ce ratio par rapport à la proportion d'origine établie à partir de mesures effectuées sur les comètes et astéroïdes qui sont le reflet de la composition originelle du système solaire. 
 
-- Par ailleurs, MAVEN pourra remplacer MRO et Mars Odyssey dans leur rôle de relais de télécommunications entre les engins spatiaux posés sur le sol de Mars (rovers MSL, MER…) et la Terre.
-
 - Au cours des mois suivants, les données fournies par la sonde de Langmuir permettent de découvrir un nuage de poussière persistant stagnant à très haute altitude (entre 150 et 300 km), qui a été éjecté de l'atmosphère par un processus mystérieux. 
--  Les résultats obtenus ont permis de mesurer le volume de gaz arraché par le vent solaire et de confirmer le rôle sans doute majeur joué par ce processus dans la disparition de l'atmosphère primitive de la planète Mars
 
 - l'ionosphère de Mars joue un rôle critique dans la perte des gaz et de l'eau de Mars. MAVEN a effectué la première mesure de la composition de l'ionosphère de Mars depuis les orbiteurs Viking en 1976. Mais contrairement à ces sondes spatiales, MAVEN a effectué une cartographie s'étendant à la face nocturne49.
 des nuages de poussière ont été observés à très haute altitude entre 150 et 300 kilomètres. Cette observation est inattendue, et on ne sait pas si ces nuages sont permanents ou sont un phénomène transitoire. L'origine de ces nuages pourrait être la couche basse de l'atmosphère ou de la poussière produite par les deux lunes de Mars, Phobos et Deimos, qui aurait été repoussée par le vent solaire, ou encore de la poussière produite par les comètes durant leur passage près du Soleil
 
 A la surprise des scientifiques, en dessous de 300 km d'altitude, les boucles magnétiques dominent la planète entière, y compris au-dessus de l'hémisphère nord pourtant faiblement magnétisé. A des altitudes plus élevées (vers 800 kilomètres), les lignes magnétiques sont ouvertes sauf au-dessus de quelques régions plus fortement magnétisées
-- MAVEN has identified two new types of aurora, termed “diffuse” and “proton” aurora; unlike how we think of most aurorae on Earth, these aurorae are unrelated to either a global or local magnetic field.
 
-6. These aurorae are caused by an influx of particles from the sun ejected by different types of solar storms. When particles from these storms hit the Martian atmosphere, they also can increase the rate of loss of gas to space, by a factor of ten or more.
 - 4. MAVEN observed the full seasonal variation of hydrogen in the upper atmosphere, confirming that it varies by a factor of 10 throughout the year. The source of the hydrogen ultimately is water in the lower atmosphere, broken apart into hydrogen and oxygen by sunlight. This variation is unexpected and, as yet, not well understood.
 
 3. MAVEN has used measurements of the isotopes in the upper atmosphere (atoms of the same composition but having different mass) to determine how much gas has been lost through time. These measurements suggest that 2/3 or more of the gas has been lost to space.
 
-1. The Mars atmosphere has been stripped away by the sun and the solar wind over time, changing the climate from a warmer and wetter environment early in history to the cold, dry climate that we see today.
-
 Within just weeks of arriving at Mars, MAVEN observed oxygen, carbon and hydrogen escaping from the planet’s atmosphere into space. These atoms were once part of carbon dioxide and water vapor molecules near the surface.
 
-MAVEN found that Mars’ atmospheric loss is primarily driven by the Sun. The Sun emits a stream of hot, highly energetic particles collectively known as the solar wind. When this solar wind hits the unprotected Martian atmosphere, it imparts energy to atmospheric atoms and molecules, giving them enough velocity to escape the planet's gravity. MAVEN learned that the solar wind penetrates more deeply into Mars’ atmosphere than previously thought.
-
-MAVEN created a global wind map of the planet’s upper atmosphere—a first for any planet other than Earth. It has also watched huge clouds spanning hundreds of kilometers form in a matter of hours!
-
-MAVEN has enough fuel to be operational until at least 2030, so it will be increasingly tasked with replacing communication relay responsibilities of aging orbiters like NASA's Mars Reconnaissance Orbiter and Odyssey spacecraft. While not conducting relay communications, MAVEN will continue to study Mars’s atmosphere.
-
-Auroras on Earth are caused by energetic charged particles from space crashing down into the atmosphere along Earth’s magnetic field lines, causing gases to glow near the poles. Since Mars has no internally generated magnetic field, the solar wind penetrates deeper and causes planet-wide auroras that have been observed by MAVEN. 
+When this solar wind hits the unprotected Martian atmosphere, it imparts energy to atmospheric atoms and molecules, giving them enough velocity to escape the planet's gravity. MAVEN learned that the solar wind penetrates more deeply into Mars’ atmosphere than previously thought.
+ 
 
 ### Curiosity
 
