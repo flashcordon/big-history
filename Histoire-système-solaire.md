@@ -936,11 +936,19 @@ Il se présente sous la forme d'une plateforme de 1,5 mètre de diamètre posée
 ### MAVEN
 
 - MAVEN (acronyme de Mars Atmosphere and Volatile EvolutioN) est une sonde de 2,55 tonnes lancé le 18 novembre 2013 depuis Cap Canaveral par une fusée Atlas V 401
-- Elle s'est placé en orbite autour de Mars le 21 septembre 2014.
+- Elle s'est placé en orbite elliptique autour de Mars le 21 septembre 2014.
+- Son but est de caractériser les mécanismes à l'origine de la quasi-disparition de son atmosphère
+- La sonde dispose pour cela de 8 instruments :
+> * un spectromètre de masse, pour déterminer la composition de l'atmosphère à différentes altitudes ainsi que ses variations au cours du temps
+> * un spectromètre imageur ultraviolet, pour déterminer les profils verticaux des ions et des atomes neutres
+> * un magnétomètre pour évaluer le rôle du champ magnétique dans l'échappement atmosphérique
+> * un instrument analysant les ondes de plasma
+> * deux instruments d'analyse du vent solaire (électrons, ions et protons)
+- Sa mission primaire a duré un an, au cours de laquelle la sonde a effecté 5 plongées dans l'atmosphère basse de Mars.
+- 
 
-- MAVEN, qui circule sur une orbite elliptique autour de Mars, a pour mission de déterminer les mécanismes à l'origine de la quasi-disparition de son atmosphère.
-- MAVEN est un orbiteur de grande taille (2,55 tonnes, 11 mètres d'envergure) qui emporte une charge utile constituée de huit instruments scientifiques. 
-- Au cours de sa mission primaire d'une durée d'un an, MAVEN doit effectuer cinq « plongées » dans l'atmosphère basse relativement dense. Une fois sa mission primaire achevée, il est prévu que la sonde puisse jouer le rôle de relais de télécommunications entre les engins spatiaux posés sur le sol martien (rover Curiosity…) et la Terre tout en poursuivant ses mesures scientifiques. 
+
+il est prévu que la sonde puisse jouer le rôle de relais de télécommunications entre les engins spatiaux posés sur le sol martien (rover Curiosity…) et la Terre tout en poursuivant ses mesures scientifiques. 
 - MAVEN a pour mission d'évaluer le rôle des différents processus d'échappement atmosphérique déjà identifiés et, éventuellement d'en découvrir de nouveaux. La sonde spatiale doit mesurer le taux de perte sur une année et l'incidence des variations de l'activité solaire sur ce taux. La mesure du ratio deutérium sur hydrogène doit permettre d'évaluer la quantité d'hydrogène perdue par Mars depuis sa création : le deutérium est un isotope lourd de l'hydrogène qui s'échappe donc plus difficilement de l'atmosphère martienne. Les mécanismes à l'œuvre ont modifié ce ratio par rapport à la proportion d'origine établie à partir de mesures effectuées sur les comètes et astéroïdes qui sont le reflet de la composition originelle du système solaire. 
 - Les mesures effectuées par les instruments scientifiques de la sonde MAVEN doivent permettre de remplir quatre objectifs12 :
 
@@ -949,13 +957,7 @@ Il se présente sous la forme d'une plateforme de 1,5 mètre de diamètre posée
     évaluer la vitesse d'échappement actuelle des gaz non ionisés et des ions dans l'espace et les processus qui en sont responsables ;
     déterminer la proportion d'isotopes stables dans l'atmosphère martienne.
 - Par ailleurs, MAVEN pourra remplacer MRO et Mars Odyssey dans leur rôle de relais de télécommunications entre les engins spatiaux posés sur le sol de Mars (rovers MSL, MER…) et la Terre.
-- La sonde emporte huit instruments scientifiques 
-- spectromètre de masse ,  Cet instrument a pour objectif de déterminer la composition de la haute atmosphèreN 2 et de l'ionosphère de l'homopause (limite inférieure de la région de l'atmosphère dominée par le processus de diffusion moléculaire) jusqu'à l'exobase (limite supérieure). Il doit déterminer les ratios des différents isotopes ainsi que les variations de la composition. 
-- le spectromètre imageur ultraviolet IUVS (Imaging Ultraviolet Spectrometer) est développé par le LASP. Il fournit des profils verticaux des ions et atomes neutres par mesure du limbe et les propriétés de la basse atmosphère par occultations stellaires.
-- Les six instruments suivants forment l'Instrumental Particle and Field Package (PFP), destinés à étudier le plasma : 
-- e magnétomètre, mesure le champ magnétique complexe créé par les anomalies magnétiques de la croute martienne afin d'évaluer leur rôle dans l'échappement de l'atmosphère martienne actuelle et passée. 
-- l'analyseur d'électrons du vent solaire , d'ions du vent solaire, des protons, 
-- un instrument analysant les ondes de plasma
+
 - MAVEN commence sa première campagne de plongée dans l'atmosphère martienne le 10 février 2015. 
 - Au cours des mois suivants, les données fournies par la sonde de Langmuir permettent de découvrir un nuage de poussière persistant stagnant à très haute altitude (entre 150 et 300 km), qui a été éjecté de l'atmosphère par un processus mystérieux. 
 -  Les résultats obtenus ont permis de mesurer le volume de gaz arraché par le vent solaire et de confirmer le rôle sans doute majeur joué par ce processus dans la disparition de l'atmosphère primitive de la planète Mars
