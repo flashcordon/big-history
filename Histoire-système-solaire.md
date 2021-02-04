@@ -662,6 +662,10 @@ and no doubt lives into its development
 - [Phoenix Mars Lander: The First Spacecraft to Taste Martian Water](https://www.space.com/42947-phoenix-mars-lander.html) - Space (2019)
 - [H2O at the Phoenix Landing Site](https://science.sciencemag.org/content/325/5936/58) - Smith et al (2009)
 - [Phoenix on Mars](https://www.americanscientist.org/article/phoenix-on-mars) - American Scientist
+- [Exploration de Mars par des sondes et des robots](https://planet-terre.ens-lyon.fr/ressources/dossiers-thematiques/nouvelles-mars) - ENS Planète Terre
+- [Mars Science Laboratory](https://fr.wikipedia.org/wiki/Mars_Science_Laboratory) - Wikipédia
+- [Mars Science Laboratory Mission and Science Investigation](https://link.springer.com/article/10.1007/s11214-012-9892-2) - Grotzinger et al (2012)
+- [Results of the Mars Curiosity Rover](https://mars.nasa.gov/msl/mission/science/results/) - NASA
 
 ---
 
@@ -965,7 +969,60 @@ Il se présente sous la forme d'une plateforme de 1,5 mètre de diamètre posée
 > On ne sait pas si ces nuages sont permanents ou sont un phénomène transitoire. Ils pourraient provenir de la couche basse de l'atmosphère, ou bien de la poussière produite par Phobos et Deimos propulsée par le vent solaire, ou encore par de la poussière de comète.
 - La sonde a suffisamment de carburant pour être opérationnelle jusqu'à au moins 2030. Elle remplacera donc progressivement MRO et Mars Odyssey dans le rôle de relai de télécommunication entre les robots martiens et la Terre, tout en réalisant des mesures atmosphériques de temps en temps. 
 
-### Curiosity
+### Curiosity (2011-)
+
+- Mars Science Laboratory (MSL, en français « Laboratoire de science martienne ») est une mission d'exploration de la planète Mars à l'aide d'un astromobile (rover) développé par le centre JPL associé à l'agence spatiale américaine de la NASA. La sonde spatiale est lancée le 26 novembre 2011 par un lanceur Atlas V. Le site d'atterrissage, sur lequel la sonde spatiale s'est posée le 6 août 2012, se situe dans le cratère Gale.
+- Curiosity, va rechercher si un environnement favorable à l'apparition de la vie a existé, analyser la composition minéralogique, étudier la géologie de la zone explorée et collecter des données sur la météorologie et les radiations qui atteignent le sol de la planète. La durée de la mission est fixée initialement à une année martienne soit environ 669 sols (jours solaires martiens) ou 687 jours (solaires) terrestres. 
+-  le rover utilise un générateur thermoélectrique à radioisotope
+-  le rover de 899 kg
+- La mission Mars Science Laboratory poursuit quatre objectifs principaux10 :
+
+    déterminer si des conditions propices à la vie ont pu exister sur Mars ;
+    caractériser le climat de Mars ;
+    préciser la géologie de Mars ;
+    préparer l'exploration humaine de la planète rouge.
+
+Dans cette optique, et particulièrement du point de vue de l'habitabilité de la planète, Mars Science Laboratory devra travailler selon huit axes principaux11,12 :
+
+    Recenser les composés organiques présents à la surface de Mars et établir leur distribution ainsi que leur concentration ;
+    Quantifier les éléments chimiques fondamentaux de la biochimie : carbone, oxygène, hydrogène, azote, phosphore et soufre ;
+    Identifier d'éventuelles traces de processus biologiques ;
+    Caractériser la composition de la surface martienne et des couches superficielles du sol d'un point de vue minéralogique, isotopique et chimique ;
+    Comprendre les processus de formation et d'altération des sols et des roches sur Mars ;
+    Déterminer le schéma d'évolution de l'atmosphère de Mars sur les quatre derniers milliards d'années ;
+    Établir le cycle de l'eau et le cycle du dioxyde de carbone sur Mars ainsi que la distribution actuelle de ces deux molécules sur la planète ;
+    Mesurer le spectre large des radiations à la surface de Mars issues des rayons cosmiques, des bouffées de protons énergétiques émis par les éruptions solaires ou par les ondes de choc d'éjections de masse coronale, voire des neutrons secondaires issus de réactions de fission nucléaire dans l'atmosphère sous l'effet des rayonnements incidents.  
+- e site du cratère Gale est finalement retenu comme cible de la mission Mars Science Laboratory
+- Le site doit présenter un environnement géologique ou un ensemble d'environnements propices à la vie. Il doit permettre de réaliser la plus grande variété d'expériences afin de maximiser le nombre d'axes de recherche pouvant être explorés. Dans l'idéal, la région accessible depuis le site d'atterrissage doit présenter des spectres indiquant la présence simultanée de plusieurs minéraux hydratés, par exemple des argiles avec des sulfates hydratés. L'hématite, d'autres oxydes de fer, les sulfates, les silicates, ainsi peut-être que certains chlorures, pourraient avoir permis la fossilisation d'éventuelles formes de vie martiennes13.
+
+Les sites susceptibles d'avoir préservé d'éventuelles traces de vie passée présentent une topographie marquée, offrant ainsi une grande variété d'affleurements et de roches. 
+- Le rover embarque 10 instruments scientifiques qui doivent lui permettre de détecter d'éventuelles traces d'eau, analyser précisément les roches, d'étudier les minéraux présents à la surface de Mars, mesurer la chiralité des molécules détectées, et effectuer des photographies à haute résolution. 
+-     deux instruments permettant de faire des analyses à distance et situés dans le mât du rover : la caméra MASTCAM et le Laser CHEMCAM qui détermine la composition des roches à l'aide d'un laser, fournissent une première analyse chimique et géologique de l'environnement,
+    deux instruments fonctionnant au contact de l'objet à analyser dont les senseurs sont situés au bout du bras du robot : le spectromètre à rayons X APXS et la caméra microscope MAHLI fournissent la composition chimique et des images détaillées facilitant la sélection des échantillons à analyser,
+    deux laboratoires d'analyse logés dans le corps du rover et alimentés en échantillon de sol ou de roche martienne par la foreuse et la mini pelleteuse situés au bout du bras du rover : CheMin qui effectue l'analyse minéralogique et SAM qui effectue l'analyse des éléments organiques et volatils,
+    quatre instruments caractérisant l'environnement martien : la station météorologique REMS, le détecteur de particules énergétiques RAD qui mesure les radiations qui parviennent jusqu'au sol, le détecteur de neutrons DAN chargé d'identifier la présence d'eau dans le proche sous-sol et la caméra de l'étage de descente MARDI qui réalise avant l'atterrissage des photos de la zone environnante.
+- Le rover Curiosity est un engin particulièrement imposant avec une masse de 899 kg 
+- Le rover est long de 2,7 m.
+- Un mât, qui est implanté sur l'avant de ce boîtier et qui culmine à 2,13 mètres, porte plusieurs caméras, des sondes atmosphériques, ainsi que le spectromètre laser. Le bras télécommandé est articulé à l'avant du rover et supporte à son extrémité les équipements de prélèvement d'échantillon ainsi que deux instruments scientifiques. 
+- Le rover peut se déplacer à une vitesse de 4 cm par seconde en navigation automatique sans détection d'obstacles soit 150 m/h, mais si la détection d'obstacle est activée sa vitesse chute à 2 cm par seconde soit 75 m/h en moyenne compte tenu des irrégularités du terrain ou des problèmes de visibilité. Le rover Curiosity est conçu pour parcourir au moins une vingtaine de kilomètres au cours des 22 mois terrestres que doit durer au minimum sa mission primaire
+- Pour pouvoir poser la masse du rover cinq fois supérieure à celle de ses prédécesseurs et effectuer un atterrissage de précision qui permette au rover Curiosity d'atteindre la zone d'étude choisie par les scientifiques sans avoir à faire un nombre de kilomètres supérieur à ce que lui permet son autonomie, MSL inaugure de nouvelles techniques de descente vers le sol martien
+- un atterrissage ayant recours à des fusées fixées sur un étage de descente qui se désolidarise du rover dans les derniers mètres pour déposer celui-ci au-dessus du sol avant de s'élever à nouveau pour s'écraser à distance de sécurité. 
+- L'atterrissage sur Mars se décompose en cinq phases :
+
+    la phase d'approche,
+    la rentrée atmosphérique pilotée qui fait tomber la vitesse à Mach 2 tout en corrigeant de manière active les écarts par rapport à la trajectoire idéale,
+    la descente sous parachute lorsque la vitesse a chuté sous Mach 2,
+    la descente propulsée à partir de 1500 mètres d'altitude grâce à des moteurs chargés d'annuler la vitesse résiduelle,
+    la dépose par l'étage de descente fonctionnant à la manière d'un hélicoptère grue du rover sur le sol martien.
+- Au bout d'environ une semaine, Curiosity entame sa mission opérationnelle. La durée initiale de celle-ci est d'une année martienne soit 687 jours terrestres
+- Le rover devrait parcourir durant ces 22 mois terrestres de 5 à 20 km. Au cours de ses déplacements, il est prévu qu'il collecte et analyse environ 70 échantillons de roche et de sol martien
+- le cratère Gale de 154 km de diamètre comporte en son centre l'Aeolis Mons, un pic qui culmine à 5 kilomètres au-dessus de son plancherNote 20. Les pentes de cette montagne sont suffisamment douces pour que le rover puisse l'escalader mais Curiosity ne devrait gravir que ses contreforts durant sa mission nominale dont la durée est fixée à deux ans (soit une année martienne). Plusieurs indices, fournis par les instruments des satellites en orbite autour de Mars donnent à penser que l'eau a circulé autrefois dans le cratère98 :
+
+    la faible altitude du plancher du cratère (4,45 km au-dessous du niveau moyen) : si de l'eau a circulé à la surface de Mars, elle s'est concentrée dans les parties les plus basses.
+    la présence de sulfates et d'argiles dans les parties les plus basses du pic central,
+    dans des zones plus élevées l'existence de terrains fracturés comblés par des eaux saturées en minéraux.
+
+Les strates visibles sur le mont central permettent de penser que celui-ci constitue un témoin de l'histoire géologique de la planète depuis l'impact qui a créé le cratère il y a environ 3 milliards d'années.
 
 ### Insight
 
