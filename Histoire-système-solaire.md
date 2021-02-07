@@ -695,6 +695,40 @@ volcano is presently dormant rather than extinct
 the Martian surface in about 100 million years
 - Mars, figure 2, est une planète rocheuse, plus petite (3 400 km de rayon) que la Terre (6 370 km de rayon), qui présente les traces d'une intense activité volcanique passée en surface avec des grandes plaines de lave au Nord et des volcans géants ( Olympus Mons étant le plus grand volcan de Mars et du système solaire), mais aussi d'une activité tectonique avec la présence d'un grand rift, Valles Marineris . Cependant, elle ne présente pas de tectonique des plaques, processus très spécifique à la Terre : les volcans ne sont pas alignés le long de limites de plaques tectoniques. Ils se sont formés à l'aplomb de grands panaches de matériel mantellique chaud remontant depuis les profondeurs du manteau par convection. Mars présente cependant une surface très ancienne, avec un âge moyen de l'ordre de 3 à 3,5 milliards d'années. Sur Terre, il n'existe au contraire que très peu de roches datant d'une période si ancienne. 
 
+- À cause de sa couleur rouge dans le ciel nocturne, on l’a longtemps associé au sang, à la guerre. Mars est d’ailleurs le nom du dieu romain de la guerre.
+> * Cette couleur rouge est due à l’oxyde de fer (autrement dit, de la rouille) parsemé sur sa surface.
+> * Elle est aussi due à l’histoire de la planète : Mars n’ayant pas d’oxygène moléculaire dans son atmosphère, elle n’a pas développé de couche d’ozone pour la protéger des rayons UV du Soleil. Ces derniers ont donc brisé les molécules d’eau dans l’atmosphère en leurs constituants élémentaires. L’hydrogène s’échappe, ce qui participe à l’échappement atmosphérique de la planète. L’oxygène, plus lourd, se combine au fer du sol pour former des oxydes. 
+- Mars se trouve à 1,52 UA du Soleil
+- Un jour sidéral sur Mars dure 24,62 heures
+- Elle fait un dixième de la masse de la Terre (10,7%) et à peine plus de la moitié de sa taille (diamètre : 53 % celui de la Terre)
+- Sa gravité de surface est donc plus faible que sur Terre : sur Mars, vous pèseriez 38 % de votre poids
+- L’atmosphère de Mars est assez similaire à celle de Vénus : composée à 95 % de CO2, avec quelques pourcents d’argon (1,6%) et d’azote.
+- Mars a perdu une grande partie de son atmosphère, qui est aujourd’hui 100 fois moins dense que sur Terre (pression de surface : 1 % de celle de la Terre). Par le passé, elle était probablement 10 à 100 fois plus dense.
+> * Cette pression est insuffisante pour garantir l’existence de l’eau liquide à la surface de Mars. L’eau existe sous forme de vapeur et de glace, mais elle ne peut que se sublimer ou se solidifier. 
+> * Le faible volcanisme de Mars couplé à l’échappement atmosphérique explique pourquoi l’atmosphère est si ténue aujourd’hui.
+- Mars possède 2 petites lunes aussi sombres que du charbon (albédo de 7%), Phobos et Deimos, dont les propriétés laissent suggérer que ce sont des astéroïdes capturés par la gravité de Mars
+> Dans le ciel de Mars, Phobos aurait une taille apparente équivalente à moins de la moitié de celle de la Lune dans le ciel, et Deimos 1/14e.
+- Les deux lunes sont verrouillées gravitationnellement à Mars : elles lui montrent toujours la même face.
+- Mars possède 2 calottes polaires, composées de glace de CO2 à la surface et de glace d’eau par dessous (à vérifier)
+- Mars ne génère pas de champ magnétique interne, son cœur solidifié n’étant plus en état d’en produire un par effet dynamo. Par contre il y a des traces de magnétisme dans certaines roches de la vieille croûte martienne. Elle a donc probablement eu une magnétosphère par le passé suffisamment puissant pour magnétiser les roches de surface.
+- On a de solides indices qui laissent penser que Mars a abrité un océan d’eau liquide qui recouvrait une bonne partie de l’hémisphère Nord il y a plusieurs milliards d’années.
+> * De nombreuses formations rocheuses, dont la plupart se trouve dans l’hémisphère nord, sont autant d’indices qui pointent vers l’existence d’eau liquide par le passé : des « outflow channels », des réseaux de vallées qui ressemblent à des lits de rivière « meandering », des terrains lissent que l’on interprète comme du plancher océanique, des bassins d’impact circulaires marqués par des traces de circulation d’eau...
+> * Spirit et Opportunity ont découvert à la surface des petites formations sphériques d’hématite nommées « blueberries », qui ne se forment qu’en présence d’eau. On a aussi découvert des argiles et Opportunity a découvert des couches de sédiments avec des traces de « ripples ».
+- Quelle quantité d’eau avait Mars par le passé ? Le deutérium (hydrogène lourd) est 5,5 fois plus abondant dans l’atmosphère martienne que l’hydrogène « normal ». Grâce à ces données, on infère que Mars abritait 20 fois plus d’eau qu’aujourd’hui par le passé.
+- La grande majorité de l’eau Martienne se trouve aujourd’hui emprisonnée sous forme de glace dans les calottes polaires, ainsi que dans la croûte martienne, sous la surface
+> Les relevés radar de Mars Express ont montré qu’il y a probablement suffisamment d’eau dans la calotte polaire sud pour recouvrir toute la surface de la planète avec un océan de 11m de profondeur.
+- Les planétologues divisent l’histoire géologique de Mars en trois périodes :
+> * le Noachien (-4,3 – 3,7 milliards d’années), période pendant laquelle Mars est bombardée d’astéroides 
+> * l’Hespérien (-3,7 – 3 milliards d’années), période durant laquelle des flots de lave recouvrent une fraction de la surface de Mars.
+> * l’Amazonien (-3 milliards d’années – présent), période d’évolution lente 
+- La surface de Mars est ponctuée de volcans boucliers. Mais ceux-ci ne sont pas dus à une activité tectonique (Mars n’ayant pas développé un système de plaques comme sur Terre), mais à des points chauds, c’est-à-dire à du magma issus du manteau qui montent à la surface.
+> Le plus gros de ces volcans est Olympus Mons. C’est le plus gros volcan du système solaire.
+- On n’a jamais observé d’éruption volcanique sur Mars, mais il est plausible que quelques volcans soient encore actifs.
+> Dans les régions d’Elysium et de Tharsis, le manque de cratères d’impacts dans certaines coulées de lave suggère que certains volcans ont été actifs il y a seulement quelques millions d’années.
+- À chaque printemps martien, des points sombres et des « fans » ? apparaissent au pôle sud de Mars. Ils ont dus à du CO2 gelé à haute pression sous un mètre de glace qui est éjecté sous forme de geysers et mélangé à de la poussière martienne lorsque la lumière du Soleil est suffisamment chaude pour sublimer la glace. Ces geysers peuvent s’élever à plusieurs centaines de mètres de haut ! Le vent pousse ensuite les débris, qui se déposent ensuite sur le sol et forme ces marques caractéristiques.
+- Mars possède aussi des paysages très insolites, comme Valles Marineris, un réseau de canyons long de 4000 km et large de 600 km. Il est 4 fois plus profond que le grand Canyon à son endroit le plus profond.
+
+
 ## La vie sur Mars
 
 - Afin de contacter des martiens, le mathématicien Karl Friedrich Gauss avait dessiné un immense triangle dans les forêts de Sibérie. Si les martiens étaient intelligents, ils devraient se rendre compte que le triangle respecte e théorème de Pythagore.
