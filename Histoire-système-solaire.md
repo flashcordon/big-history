@@ -666,6 +666,10 @@ and no doubt lives into its development
 - [Mars Science Laboratory](https://fr.wikipedia.org/wiki/Mars_Science_Laboratory) - Wikipédia
 - [Mars Science Laboratory Mission and Science Investigation](https://link.springer.com/article/10.1007/s11214-012-9892-2) - Grotzinger et al (2012)
 - [Results of the Mars Curiosity Rover](https://mars.nasa.gov/msl/mission/science/results/) - NASA
+- [A-t-on vraiment découvert de l'eau liquide sur Mars ? Décryptage.](https://planet-terre.ens-lyon.fr/article/ecoulement-eau-Mars-2015.xml) - Patrick Thollot, Planète Terre (2015)
+- [Les résultats de l'exploration de Mars par Curiosity entre novembre 2012 et février 2013 : sable volcanique, grès à stratifications entrecroisées, filons de gypse…](https://planet-terre.ens-lyon.fr/article/Curiosity-etalonnage-mesures.xml) - Pierre Thomas et Olivier Dequincey, Planète Terre (2013)
+- [Les aventures et les résultats de Curiosity entre septembre 2013 et mai 2014, de Yellowknife Bay à Kimberley](https://planet-terre.ens-lyon.fr/article/Curiosity-mai-2014.xml) - Pierre Thomas, Planète Terre (2014)
+- [Les aventures et les résultats de Curiosity entre mai 2014 et janvier 2015, de Kimberley à Pahrump Hills](https://planet-terre.ens-lyon.fr/article/Mars-Curiosity-2014.xml) - Pierre Thomas, Planète Terre (2015)
 
 ---
 
@@ -674,6 +678,10 @@ and no doubt lives into its development
 - Kepler’s battle with Mars was won in1605, when he finally
 realized that the orbit of the planet was elliptical and that it moved
 about the Sun, sweeping out equal areas in equal intervals of time.
+
+l'astronome William Herschel, à la fin du XVIIIème siècle, avait proposé que les calottes polaires de Mars (figure ci dessous), qui avaient déjà été observées par Cassini au siècle précédent, étaient constituées de neige et de glace.
+- W. Herschel, 1784. On the Remarkable Appearances at the Polar Regions of the Planet Mars, the Inclination of Its Axis, the Position of Its Poles, and Its Spheroidical Figure; With a Few Hints Relating to Its Real Diameter and Atmosphere, Philosophical Transactions of the Royal Society of London, 74, 233-273.
+
 
 ## Propriétés de Mars
 
@@ -732,6 +740,7 @@ the Martian surface in about 100 million years
 ## La vie sur Mars
 
 - Afin de contacter des martiens, le mathématicien Karl Friedrich Gauss avait dessiné un immense triangle dans les forêts de Sibérie. Si les martiens étaient intelligents, ils devraient se rendre compte que le triangle respecte e théorème de Pythagore.
+- Au tournant des XIXème et XXème siècles, l'astronome Percival Lowell passa même des années à cartographier ce qu'il croyait être des canaux construits par une civilisation martienne amenant l'eau de fonte des calottes polaires vers les autres régions de la planète... des canaux qui n'existaient pas !
 - Mars avait potentiellement un océan d'eau liquide à sa surface dans son passé
 > The evidence for this is literally everywhere to be seen. Orbital
 spacecraft images reveal long, sinuous, flowing channels; waterscoured
@@ -758,6 +767,14 @@ has been an essentially dry and frozen world; small, high-salinity,
 and isolated lake systems may have existed near the pole in the
 northern lowland region for an additional billion years, but even
 these would have frozen over by the mid-Amazonian epoch.
+
+la nature chimique de ces sels de perchlorate et les propriétés associées. Le perchlorate est un oxydant extrêmement fort. Le composé courant le plus proche d'une solution de perchlorate n'est autre que l'eau de javel, qu'il ne viendrait à l'idée de personne de boire ! Ces propriétés oxydantes expliquent aussi l'utilisation d'un perchlorate, le perchlorate d'ammonium, dans des explosifs (munitions) et propulseurs (missiles ou même les accélérateurs à poudre de la fusée Ariane). C'est enfin aussi un perturbateur thyroïdien reconnu. Dans l'exploitation des ressources en eau sur Terre, les perchlorates sont considérés comme des polluants qui rendent les eaux impropres à la consommation, même à très faible dose, alors à la concentration probable dans les RSL...
+
+Finalement, on est très loin d'une eau de source terrestre, et cette "eau" ne constituera probablement pas une ressource très intéressante pour les explorateurs dans un futur proche. 
+les sels de perchlorates ont une affinité extrême pour l'eau. En raison de leurs propriétés chimiques, ils peuvent absorber plusieurs fois leur masse en eau, comme le chlorure de calcium, un desséchant courant. Ce faisant, ils incorporent des molécules d'eau dans leur réseau cristallin, incorporation qui peut aller jusqu'à effondrement de ce dernier sur lui-même, formant une solution aqueuse extrêmement concentrée. On nomme ce processus la déliquescence.
+Il est ainsi fort probable que là où il y a beaucoup de perchlorates dans le sol, ils absorbent l'eau de l'atmosphère à forte humidité relative (probablement la nuit), jusqu'à entrer en déliquescence. Avec l'augmentation de température en début de journée, il pourrait se former des solutions aqueuses très concentrées dont le point de fusion serait assez bas pour qu'elles soient liquides et le restent assez longtemps pour s'écouler sur quelques centimètres à quelques mètres avant que l'eau ne s'évapore. Le cycle pourrait ainsi se répéter d'un jour à l'autre, formant des RSL s'allongeant au cours de la saison chaude.
+
+L'eau liquide sur Mars coule peut-être actuellement, mais de façon très transitoire, dans des lieux spécifiques, en quantité très faible, et avec une composition chimique exotique la rendant impropre à la consommation.
 
 ## Missions vers Mars
 
@@ -909,6 +926,18 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 - A ce jour, MRO a déjà envoyé plus de 50 TO (400 Terabits) de données à la Terre, et a cartographié environ 3% de la surface de Mars en haute résolution, ainsi que la quasi-totalité de la surface en basse résolution.
 - MRO a permis d'estimer le volume de la calotte polaire de Mars, de détecter de la glace dans des cratères situés à une latitude relativement basse, d'observer des avalanches, de détecter plusieurs types de minéraux ainsi que des paysages insolites (trainées noires, traces d'écoulements...). Sa durabilité lui a permis d'observer des phénomènes longs qui se déroulent sur Mars : la succession des saisons, le gel et le dégel de la glace carbonique, la formation des ravines sous l'effet de cette glace. Elle a même détecté un nouveau cratère d'impact qui est apparu au cours de sa mission.
 
+- Les traces qui font l'objet des récentes effusions médiatiques ont été annoncées pour la première fois en 2011 (et ont d'ailleurs fait un buzz similaire à ce moment là) grâce aux observations d'une caméra à très haute résolution, HiRISE, capable de distinguer des objets de seulement 1 mètre de large. Ce sont des traces sombres allongées le long des pentes de certains reliefs (cratères ou autres), au grand maximum de quelques centaines de mètres de long, et de seulement un à quelques mètres de large.
+
+Le caractère original de ces traces est que leur présence dépend de la saison, mais qu'elles semblent se répéter d'une année sur l'autre. Afin d'utiliser un terme uniquement descriptif, sans suggérer d'interprétation, on les a nommées « recurring slope linae » ou RSL, ce qui signifie à peu près « linéaments de pente répétitifs ».
+ les résultats ne montrent pas la présence d'eau liquide. Les auteurs insistent d'ailleurs sur ce résultat négatif (qui pourrait s'expliquer, entre autres, par l'horaire d'observation fixe, en début d'après-midi, c'est à dire au moment le plus sec de la journée).
+
+En revanche, d'après les auteurs de l'étude, les spectres montrent la présence à la saison chaude de "sels" hydratés particuliers, des perchlorates, associés aux RSL.
+Des perchlorates ont été reconnus sur Mars pour la première fois en 2008 par l'atterrisseur Phoenix, et, depuis, détectés par le rover Curiosity. Les résultats des expériences Viking de 1976 ont été interprétés en leur temps comme pouvant être dus à la présence de peroxydes (les perchlorates sont des peroxydes de chlore) et sont compatibles avec la présence de perchlorates aux sites d'atterrissage Viking (les sondes Viking n'avaient pas la capacité analytique de détecter de tels perchlorates). Les perchlorates sont donc des sels relativement courants sur Mars.
+
+Les signatures spectrales de perchlorates publiées récemment sont changeantes au cours des saisons, et les auteurs de l'article proposent que ces variations puissent être le reflet d'un cycle de dissolution et précipitation des perchlorates par de l'eau liquide. Des sels de perchlorates déshydratés présents dans le sol seraient dissous par de l'eau, les solutions liquides de perchlorates ainsi formées s'écouleraient ensuite, mais s'évaporeraient rapidement, redéposant les sels plus loin et dans un état plus hydraté. Cet état "frais" des perchlorates hydratés serait celui détecté dans les spectres CRISM.
+
+
+
 ### Phoenix
 
 - in 2002 when the Mars Odyssey orbiter discovered large amounts of near-surface hydrogen in exactly these regions. The hydrogen reservoir was interpreted as water ice—less than a meter below the surface. It was argued that such arctic water ice might contain the long-searched for (and long-missed) organic compounds that could signify the presence of life, either past or present. 
@@ -1003,7 +1032,7 @@ Il se présente sous la forme d'une plateforme de 1,5 mètre de diamètre posée
 > On ne sait pas si ces nuages sont permanents ou sont un phénomène transitoire. Ils pourraient provenir de la couche basse de l'atmosphère, ou bien de la poussière produite par Phobos et Deimos propulsée par le vent solaire, ou encore par de la poussière de comète.
 - La sonde a suffisamment de carburant pour être opérationnelle jusqu'à au moins 2030. Elle remplacera donc progressivement MRO et Mars Odyssey dans le rôle de relai de télécommunication entre les robots martiens et la Terre, tout en réalisant des mesures atmosphériques de temps en temps. 
 
-### Curiosity (2011-)
+### Mars Science Laboratory / Curiosity (2011-)
 
 - Mars Science Laboratory (MSL, en français « Laboratoire de science martienne ») est une mission d'exploration de la planète Mars à l'aide d'un astromobile (rover) développé par le centre JPL associé à l'agence spatiale américaine de la NASA. La sonde spatiale est lancée le 26 novembre 2011 par un lanceur Atlas V. Le site d'atterrissage, sur lequel la sonde spatiale s'est posée le 6 août 2012, se situe dans le cratère Gale.
 - Curiosity, va rechercher si un environnement favorable à l'apparition de la vie a existé, analyser la composition minéralogique, étudier la géologie de la zone explorée et collecter des données sur la météorologie et les radiations qui atteignent le sol de la planète. La durée de la mission est fixée initialement à une année martienne soit environ 669 sols (jours solaires martiens) ou 687 jours (solaires) terrestres. 
@@ -1057,6 +1086,12 @@ Les sites susceptibles d'avoir préservé d'éventuelles traces de vie passée p
     dans des zones plus élevées l'existence de terrains fracturés comblés par des eaux saturées en minéraux.
 
 Les strates visibles sur le mont central permettent de penser que celui-ci constitue un témoin de l'histoire géologique de la planète depuis l'impact qui a créé le cratère il y a environ 3 milliards d'années.
+
+- Just after landing, Curiosity found smooth, rounded pebbles that likely rolled downstream for at least a few miles in a river that was ankle- to hip-deep. When Curiosity reached Mount Sharp, the team found that over 1,000 vertical feet of rock formed originally as mud at the bottom of a series of shallow lakes. Rivers and lakes persisted in Gale crater for perhaps a million years or longer.
+- The Curiosity rover found that ancient Mars had the right chemistry to support living microbes. Curiosity found sulfur, nitrogen, oxygen, phosphorus and carbon-- key ingredients necessary for life--in the powder sample drilled from the "Sheepbed" mudstone in Yellowknife Bay. The sample also reveals clay minerals and not too much salt, which suggests fresh, possibly drinkable water once flowed there.
+- En 2015, annonce  la détection de sels hydratés associés à des « traces de pente saisonnières »
+- on sait depuis une dizaine d'années, grâce aux sondes en orbite, qu'il y a dans les roches sédimentaires martiennes une grande quantité d'eau piégée depuis des milliards d'années, dans des minéraux hydratés comme des argiles. Le rover Curiosity a démontré la présence de ces argiles in situ après son atterrissage sur Mars en 2012
+
 
 ### Insight
 
