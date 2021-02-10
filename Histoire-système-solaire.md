@@ -796,7 +796,9 @@ L'eau liquide sur Mars coule peut-être actuellement, mais de façon très trans
 
 ### Mariner 4
 
-Between 1962 and late 1973, NASA’s JetPropulsion Laboratory designed and built 10 space-craft named Mariner to explore the inner solar system-- visiting the planets Venus, Mars and Mercury forthe first time, and returning to Venus and Mars foradditional close observations. The final mission in theseries, Mariner 10, flew past Venus before going on toencounter Mercury, after which it returned to Mercuryfor a total of three flybys.  The next-to-last, Mariner9, became the first ever to orbit another planet whenit rached Mars for about a year of mapping and mea-surement.
+- Entre 1962 et 1973, la NASA construit 10 sondes nommées Mariner destinées à explorer le système solaire interne (Mercure, Vénus, Mars) pour la première fois.
+- Au milieu des années 60, on ne sait rien de l'atmosphère de Mars : ni sa densité, ni sa composition.
+
 
 While ideas about the true nature of Mars evolved throughout the first half of the 20th century, in 1965 nobody could say with any confidence how dense the martian atmosphere was or determine its exact composition. Telescopic surveys had recorded a visual event called the "wave of darkening," which some scientists theorized could be plant life blooming and perishing as the harsh martian seasons changed. A few of them still thought of Mars as a place capable of supporting advanced life, although most thought it unlikely. However, there was no conclusive evidence for either scenario.
 
