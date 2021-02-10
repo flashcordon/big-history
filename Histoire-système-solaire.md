@@ -949,8 +949,6 @@ Still, NASA had been selling the public on the idea that exploring Mars promised
 
 The cuts, though, didn’t end the program. Other Mariner spacecraft would be sent to Mars over the next few years. And, in 1976, NASA finally landed the Viking spacecraft on the red planet’s surface. 
 
-
-
 ### Viking
 
 ### Pathfinder et Sojourner
@@ -993,39 +991,43 @@ Les signatures spectrales de perchlorates publiées récemment sont changeantes 
 
 
 
-### Phoenix
+### Phoenix (NASA, 2007-2008)
+
+- La sonde de 670 kg (dont 410 kg pour l'atterrisseur) est lancée le 4 août 2007 de Cap Canaveral à bord d'une fusée Delta II 792516.
+- Après un voyage de 10 mois, elle arrive aux abords de Mars et se pose le 25 Mai 2008 dans la région de Vastitas Borealis près de la calotte polaire Nord. 
+- Phoenix est une plateforme d'1,5 m de diamètre 
+- La NASA a énoncé 8 objectifs à atteindre pour qualifier la mission de succès complet :
+> * Réussir un atterrissage en douceur dans des conditions garantissant une production d'énergie électrique suffisante
+> * Réaliser un panorama à 360° en vraies couleurs du site d’atterrissage
+> * Obtenir des spectres étalonnés de trois emplacements distincts de la surface de Mars comprenant à la fois des roches et du sol
+> * Effectuer des relevés de température et de pression pendant toute la durée de la mission de manière à déterminer les principales caractéristiques de l'atmosphère
+> * Fournir des échantillons du sol aux instruments TEGA et MECA prélevés à deux niveaux de profondeur distincts
+> * Analyser avec TEGA au moins trois échantillons de sol de manière à déterminer la proportion de H2O stockée, y compris sous forme de minéraux hydratés et de glace
+> * Effectuer une analyse d'un échantillon de l'atmosphère avec le spectromètre de masse
+> * Analyser avec l'instrument MECA trois échantillons de sol pour en déterminer la chimie hydratée. Analyser également trois échantillons à l'aide du microscope
+> * Fournir le contexte des 8 échantillons analysés avant et après prélèvement en réalisant des photos
+- Pour remplir ces objectifs, Phoenix dispose d'une sélection d'instruments :
+> * Un bras robot de près de 2 m muni d'une caméra et d'une pelle qui lui permet de creuser jusqu'à 50 cm de profondeur et de récolter des échantillons
+> * Une caméra stéréoscopique pour prendre des images de la surface martienne à hauteur d'homme (2 m) dans 12 longueurs d'onde différentes, du violet au proche IR)
+> * Une caméra de surface pour prendre des images du site d'atterrissage
+> * Un analyseur de gaz (TEGA) pour analyser les échantillons de sol et de glace récupérés par le bras à la recherche de composés organiques (le premier instrument envoyé dans ce but depuis les sondes Viking)
+> * Un petit laboratoire chimique (MECA) doté d'un microscope pour analyser les propriétés du sol martien (pH, potentiel d'oxydo-réduction, salinité, acidité, concentration en O2 et en CO2, distribution en taille des grains)
+> * Une station météo
+- Alors que la durée de sa mission avait été fixée à trois mois, l'atterrisseur a survécu plus de cinq mois. Il a rempli tous les objectifs qui lui étaient assignés.
+
+Pour analyser un échantillon de sol le bras robotique creuse une petite tranchée de quelques centimètres dans le sol dans laquelle un échantillon de sol est prélevé. Celui-ci est photographié par la caméra du bras robotique puis déposé dans l'un des 8 fours du TEGA (leur taille est approximativement celle d'une petite cartouche d'encre). Une diode LED permet de confirmer qu'un échantillon de sol a bien été déposé. L'échantillon est alors porté à très haute température (environ 1 000 °C) de manière progressive. Lors du chauffage progressif, l'échantillon libère de l'eau et du CO2, ainsi que diverses substances volatiles emprisonnées dans les différents minéraux qu'il contient. L'identification des substances volatiles est effectué grâce à un spectromètre de masse très sensible qui peut mesurer précisément la masse (et donc la nature) ainsi que la concentration des substances libérées au cours du chauffage
 
 - in 2002 when the Mars Odyssey orbiter discovered large amounts of near-surface hydrogen in exactly these regions. The hydrogen reservoir was interpreted as water ice—less than a meter below the surface. It was argued that such arctic water ice might contain the long-searched for (and long-missed) organic compounds that could signify the presence of life, either past or present. 
 - These discoveries led a group, headed by Peter H. Smith of the University of Arizona, to develop a mission that would build on previous designs and use the already completed, but unused, Mars Surveyor lander. Thus was born the Phoenix Mars Lander, named because like the mythical bird, it had been resurrected from the ashes of its predecessors.
 - In 2002, NASA's Mars Odyssey Orbiter revealed large amounts of subsurface water ice in the Martian arctic. Because of that, the Phoenix spacecraft was designed to include a robotic arm capable of digging through the protective topsoil layer to the water ice below.
-- Le 4 août 2007 à 9 h 26 min 34 s UTC, Phoenix décolle de Cap Canaveral à bord d'une fusée Delta II 792516. 
-- Après un voyage de 10 mois et de 679 millions de kilomètres, l'engin spatial arrive aux abords de Mars le 25 mai 2008. s'est posée le 25 mai 2008 sur le sol de la planète Mars dans la région de Vastitas Borealis près de la calotte polaire Nord. 
--  l'atterrisseur a une masse de 350 kg. La sonde spatiale, qui a une masse totale de 670 kg
-Il se présente sous la forme d'une plateforme de 1,5 mètre de diamètre posée sur 3 pieds comportant un système d’absorption de choc. Sa masse est de 410 kg dont 59 kg pour les instruments scientifiques et 67 kg d'ergols. 
-- dispose de plusieurs instruments (55 kg) comprenant deux petits laboratoires d'analyse chimique alimentés avec des échantillons du sol prélevés par une pelle télécommandée, des microscopes, des caméras et une station météorologique. C'est la première sonde spatiale du programme Mars Scout, rassemblant des missions martiennes à faible coût (420 millions de dollars soit 304 millions d'euros dans le cas de Phoenix) pour répondre rapidement à un objectif scientifique ciblé. 
-- Alors que la durée de sa mission avait été fixée à trois mois, l'engin spatial a survécu jusqu'au 2 novembre soit plus de cinq mois. La mission a rempli tous les objectifs qui lui étaient assignés. Avec sa pelle mécanique Phoenix a creusé neuf tranchées mettant à découvert une couche de glace d'eau présente à faible profondeur. Le laboratoire embarqué MECA a analysé plusieurs échantillons du sol mettant en évidence la présence de carbonates et de perchlorates. Les caméras et un lidar ont permis d'observer des chutes de neige à haute altitude et le dépôt de couches de givre. 
+C'est la première sonde spatiale du programme Mars Scout, rassemblant des missions martiennes à faible coût (420 millions de dollars soit 304 millions d'euros dans le cas de Phoenix) pour répondre rapidement à un objectif scientifique ciblé. 
+
+Avec sa pelle mécanique Phoenix a creusé neuf tranchées mettant à découvert une couche de glace d'eau présente à faible profondeur. Le laboratoire embarqué MECA a analysé plusieurs échantillons du sol mettant en évidence la présence de carbonates et de perchlorates. Les caméras et un lidar ont permis d'observer des chutes de neige à haute altitude et le dépôt de couches de givre. 
 - Les objectifs de la mission Phoenix s'inscrivent dans les priorités identifiées par l'agence spatiale américaine pour l'exploration de Mars : rechercher de l'eau ou plus précisément « enquêter sur l'histoire de l'eau liquide qui a pu exister dans l'arctique martien aussi récemment qu'il y a seulement 100 000 ans ». 
 - Phoenix se voit confier une mission d'exobiologie : un bras robotique doit fouiller le pergélisol jusqu'à 50 cm de profondeur, y prélever des échantillons du sol puis les faire analyser par un mini-laboratoire embarqué. L'objectif est de déterminer si de l'eau liquide est présente sur Mars il y a 100 000 ans et si des microbes ont pu s'y développer.
 - L'atterrisseur est également chargé d'étudier la météorologie de la planète en observant l'atmosphère martienne jusqu'à 20 km d'altitude. 
-- La NASA a énoncé 8 objectifs à atteindre pour qualifier la mission de succès complet 2 :
 
-    Réussir un atterrissage en douceur dans des conditions garantissant une production d'énergie électrique suffisante ;
-    Réaliser un panorama à 360° en vraies couleurs du site d’atterrissage ;
-    Obtenir des spectres étalonnés de trois emplacements distincts de la surface de Mars comprenant à la fois des roches et du sol ;
-    Effectuer des relevés de température et de pression pendant toute la durée de la mission de manière à déterminer les principales caractéristiques de l'atmosphère ;
-    Fournir des échantillons du sol aux instruments TEGA et MECA prélevés à deux niveaux de profondeur distincts ;
-    Analyser avec TEGA au moins trois échantillons de sol de manière à déterminer la proportion de H2O stockée, y compris sous forme de minéraux hydratés et de glace. Effectuer une analyse d'un échantillon de l'atmosphère avec le spectromètre de masse ;
-    Analyser avec l'instrument MECA trois échantillons de sol pour en déterminer la chimie hydratée. Analyser également trois échantillons à l'aide du microscope ;
-    Fournir le contexte des 8 échantillons analysés avant et après prélèvement en réalisant des photos.
-- Instruments :
-- Le bras robotisé RA (en anglais Robotic Arm)  long de 2,35 mètres, le bras robotique permet à Phoenix de creuser dans le sol jusqu'à 50 centimètres de profondeur au moyen d'une petite pelle fixée à son extrémité, d'y récolter des échantillons et de les transférer vers d'autres instruments en vue d'être analysés.
-- La caméra du bras robotisé RAC (Robotic Arm Camera)Cette caméra a réalisé des images des échantillons collectées par la pelle à partir du sol. 
-- L'imageur stéréo SSI (en anglais Surface Stereo Imager) constitue les yeux de l'atterrisseur.
-- la caméra SSI a pu prendre des images stéréoscopiques en couleurs du site d'atterrissage, pratiquement à hauteur d'homme (2 mètres au-dessus de la surface martienne).
-- Des roues à filtres permettent à la caméra d'observer dans 12 longueurs d'onde différentes (du violet au proche infrarouge) le sol, le ciel et le soleil. Les panoramas réalisés ont permis de caractériser la géologie du site d'atterrissage, d'identifier les minéraux des roches et du sol, et de réaliser des cartes permettant de définir les déplacements du bras robotique. 
-- L'analyseur de gaz TEGA (en anglais Thermal and Evolved Gas Analyzer)  permet d'analyser les échantillons de sol et de glace collectés par le bras robotique. Le TEGA de Phoenix a des caractéristiques proches de l'appareil du même nom embarqué sur la sonde Mars Polar Lander, et est le premier instrument à rechercher de composés organiques dans le sol martien depuis les sondes Viking en 197612. Pour analyser un échantillon de sol le bras robotique creuse une petite tranchée de quelques centimètres dans le sol dans laquelle un échantillon de sol est prélevé. Celui-ci est photographié par la caméra du bras robotique puis déposé dans l'un des 8 fours du TEGA (leur taille est approximativement celle d'une petite cartouche d'encre). Une diode LED permet de confirmer qu'un échantillon de sol a bien été déposé. L'échantillon est alors porté à très haute température (environ 1 000 °C) de manière progressive. Lors du chauffage progressif, l'échantillon libère de l'eau et du CO2, ainsi que diverses substances volatiles emprisonnées dans les différents minéraux qu'il contient. L'identification des substances volatiles est effectué grâce à un spectromètre de masse très sensible qui peut mesurer précisément la masse (et donc la nature) ainsi que la concentration des substances libérées au cours du chauffage
-- L'analyseur microscopique et électrochimique MECA (en anglais Microscopy, Electrochemistry, and Conductivity Analyzer) est un petit laboratoire destiné à analyser de nombreuses propriétés du sol martien. mesure de nombreuses propriétés du sol, comme le pH, le potentiel d'oxydo-réduction, la salinité (magnésium, sodium, chlore, brome et sulfates), l'acidité ou l'alcalinité, ou encore les concentrations en oxygène et dioxyde de carbone. un ensemble de deux microscopes qui étudient les particules de sol à différents grossissements ; 
-- La station météorologique MET (Meteorological Station) est un instrument fourni par l'Agence spatiale canadienne. Elle comprend des capteurs de pression et de température ainsi qu'un lidar, instrument similaire à un radar mais utilisant des brèves émissions de lumière laser en lieu et place des impulsions d'ondes radio. 
+
 - L'hiver martien est particulièrement rigoureux au niveau des pôles sur Mars comme sur la Terre à cause de la baisse importante du niveau d'éclairage et de la brièveté des jours. Le 27 octobre une tempête de poussière non prévue sévit sur la région et les batteries ne peuvent être rechargées ce qui fait passer l'atterrisseur en mode survie. À partir du 28 octobre, les panneaux solaires ne peuvent plus fournir assez d'énergie à la sonde pour lui permettre de fonctionner de manière normale 
 - Le 2 novembre, 152e jour de la mission, Phoenix envoie son dernier signal à la Terre
 - De nombreuses tentatives de réveil de la sonde spatiale sont effectuées par les orbiteurs martiens entre janvier et mai 2010 correspondant au solstice d'été. Aucune réponse n'est obtenue. Des photos prises par MRO montrent l'absence d'ombre sous l'un des deux panneaux solaires, indiquant que celui-ci s'est sans doute brisé au cours de l'hiver sous le poids de la glace de dioxyde de carbone qui s'est déposée. 
