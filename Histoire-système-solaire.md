@@ -719,9 +719,6 @@ the Martian surface in about 100 million years
 - Mars a perdu une grande partie de son atmosphère, qui est aujourd’hui 100 fois moins dense que sur Terre (pression de surface : 1 % de celle de la Terre). Par le passé, elle était probablement 10 à 100 fois plus dense.
 > * Cette pression est insuffisante pour garantir l’existence de l’eau liquide à la surface de Mars. L’eau existe sous forme de vapeur et de glace, mais elle ne peut que se sublimer ou se solidifier. 
 > * Le faible volcanisme de Mars couplé à l’échappement atmosphérique explique pourquoi l’atmosphère est si ténue aujourd’hui.
-- Mars possède 2 petites lunes aussi sombres que du charbon (albédo de 7%), Phobos et Deimos, dont les propriétés laissent suggérer que ce sont des astéroïdes capturés par la gravité de Mars
-> Dans le ciel de Mars, Phobos aurait une taille apparente équivalente à moins de la moitié de celle de la Lune dans le ciel, et Deimos 1/14e.
-- Les deux lunes sont verrouillées gravitationnellement à Mars : elles lui montrent toujours la même face.
 - Mars possède 2 calottes polaires, composées de glace de CO2 à la surface et de glace d’eau par dessous (à vérifier)
 - Mars ne génère pas de champ magnétique interne, son cœur solidifié n’étant plus en état d’en produire un par effet dynamo. Par contre il y a des traces de magnétisme dans certaines roches de la vieille croûte martienne. Elle a donc probablement eu une magnétosphère par le passé suffisamment puissant pour magnétiser les roches de surface.
 - On a de solides indices qui laissent penser que Mars a abrité un océan d’eau liquide qui recouvrait une bonne partie de l’hémisphère Nord il y a plusieurs milliards d’années.
@@ -735,12 +732,20 @@ the Martian surface in about 100 million years
 > * l’Hespérien (-3,7 – 3 milliards d’années), période durant laquelle des flots de lave recouvrent une fraction de la surface de Mars.
 > * l’Amazonien (-3 milliards d’années – présent), période d’évolution lente 
 - La surface de Mars est ponctuée de volcans boucliers. Mais ceux-ci ne sont pas dus à une activité tectonique (Mars n’ayant pas développé un système de plaques comme sur Terre), mais à des points chauds, c’est-à-dire à du magma issus du manteau qui montent à la surface.
-> Le plus gros de ces volcans est Olympus Mons. C’est le plus gros volcan du système solaire.
+> Le plus gros de ces volcans est Olympus Mons. C’est le plus gros volcan du système solaire. Si ces volcans sont si gros, c'est parce que Mars a une croûte très épaisse et n'a pas développé de plaques tectoniques
 - On n’a jamais observé d’éruption volcanique sur Mars, mais il est plausible que quelques volcans soient encore actifs.
 > Dans les régions d’Elysium et de Tharsis, le manque de cratères d’impacts dans certaines coulées de lave suggère que certains volcans ont été actifs il y a seulement quelques millions d’années.
 - À chaque printemps martien, des points sombres et des « fans » ? apparaissent au pôle sud de Mars. Ils ont dus à du CO2 gelé à haute pression sous un mètre de glace qui est éjecté sous forme de geysers et mélangé à de la poussière martienne lorsque la lumière du Soleil est suffisamment chaude pour sublimer la glace. Ces geysers peuvent s’élever à plusieurs centaines de mètres de haut ! Le vent pousse ensuite les débris, qui se déposent ensuite sur le sol et forme ces marques caractéristiques.
 - Mars possède aussi des paysages très insolites, comme Valles Marineris, un réseau de canyons long de 4000 km et large de 600 km. Il est 4 fois plus profond que le grand Canyon à son endroit le plus profond.
 
+## Lunes de Mars
+
+- Mars possède 2 petites lunes aussi sombres que du charbon (albédo de 7%) et très cratérisées, Phobos et Deimos, dont la taille est de l'ordre d'une dizaine de kilomètres.
+- Les deux lunes sont verrouillées gravitationnellement à Mars : elles lui montrent toujours la même face.
+- Phobos et Deimos ressemblent aux astéroïdes que l’on trouve dans les régions externes de la ceinture d’astéroides. Ils ont probablement été éjecté hors de leur orbite initiale par la gravité de Jupiter, puis capturés par la gravité de Mars.
+- Dans le ciel de Mars, Phobos aurait une taille apparente équivalente à moins de la moitié de celle de la Lune dans le ciel, et Deimos 1/14e.
+- Phobos est si proche de Mars que les effets de marées la font s’approcher un peu plus de Mars chaque jour, au rythme de 1,8 m par siècle. D’ici 100 millions d’années, elle devrait soit s’écraser sur la planète rouge, soit être déchirée par les effets de marées. Deimos quant à lui, s'éloigne lentement de la planète.
+- Phobos est si peu massive que sa vitesse de libération n’est que de 11 m/s (contre 11 km/s sur Terre). Un astronaute un peu trop hardi (ou un petit Prince) pourrait s’échapper de sa gravité en sautant un peu trop fort.
 
 ## La vie sur Mars
 
@@ -772,6 +777,11 @@ has been an essentially dry and frozen world; small, high-salinity,
 and isolated lake systems may have existed near the pole in the
 northern lowland region for an additional billion years, but even
 these would have frozen over by the mid-Amazonian epoch.
+
+The Northern Lowlands of Mars
+and the Hellas Basin may once
+have been filled with water.
+
 
 la nature chimique de ces sels de perchlorate et les propriétés associées. Le perchlorate est un oxydant extrêmement fort. Le composé courant le plus proche d'une solution de perchlorate n'est autre que l'eau de javel, qu'il ne viendrait à l'idée de personne de boire ! Ces propriétés oxydantes expliquent aussi l'utilisation d'un perchlorate, le perchlorate d'ammonium, dans des explosifs (munitions) et propulseurs (missiles ou même les accélérateurs à poudre de la fusée Ariane). C'est enfin aussi un perturbateur thyroïdien reconnu. Dans l'exploitation des ressources en eau sur Terre, les perchlorates sont considérés comme des polluants qui rendent les eaux impropres à la consommation, même à très faible dose, alors à la concentration probable dans les RSL...
 
