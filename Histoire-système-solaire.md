@@ -1037,18 +1037,22 @@ Il se présente sous la forme d'une plateforme de 1,5 mètre de diamètre posée
 > On ne sait pas si ces nuages sont permanents ou sont un phénomène transitoire. Ils pourraient provenir de la couche basse de l'atmosphère, ou bien de la poussière produite par Phobos et Deimos propulsée par le vent solaire, ou encore par de la poussière de comète.
 - La sonde a suffisamment de carburant pour être opérationnelle jusqu'à au moins 2030. Elle remplacera donc progressivement MRO et Mars Odyssey dans le rôle de relai de télécommunication entre les robots martiens et la Terre, tout en réalisant des mesures atmosphériques de temps en temps. 
 
-### Mars Science Laboratory / Curiosity (2011-)
+### Mars Science Laboratory / Curiosity (NASA, 2011-)
 
-- Mars Science Laboratory (MSL, en français « Laboratoire de science martienne ») est une mission d'exploration de la planète Mars à l'aide d'un astromobile (rover) développé par le centre JPL associé à l'agence spatiale américaine de la NASA. La sonde spatiale est lancée le 26 novembre 2011 par un lanceur Atlas V. Le site d'atterrissage, sur lequel la sonde spatiale s'est posée le 6 août 2012, se situe dans le cratère Gale.
+- Mars Science Laboratory (MSL) est une mission d'exploration de Mars à l'aide d'un rover de 900 kg et de la taille d'une petite voiture (2,7 m de long) nommé Curiosity. 
+- La sonde est lancée le 26 novembre 2011 par un lanceur Atlas V, et s'est posée sur Mars le 6 août 2012 dans le cratère Gale.
+> Ce cratère d'impact de 155 km de diamètre a probablement été rempli d'un lac d'eau liquide par le passé. Dans ce lac se seraient déposés des sédiments, qui se seraient en grande partie érodé par la suite, sauf au centre du cratère. Dans cette région, les sédiments auraient formé une montagne : le Mont Sharp. La cible ultime de Curiosity est donc ce fameux Mont Sharp, dont la base se trouve à près de 4 km de son site d'aterrissage. 
+- La mission a 4 objectifs principaux :
+> * déterminer si des conditions propices à la vie ont pu exister sur Mars
+> * caractériser le climat de Mars
+> * préciser la géologie de Mars
+> * préparer l'exploration humaine de la planète rouge
+- La durée initiale de MSL est d'une année martienne (687 jours terrestres). Pendant cette durée, le rover est sensé parcourir entre 5 et 20 km, et collecter et analyser près de 70 échantillons de roches et de sol martiens.
+
+- Gale. D'août 2012 à septembre 2014, Curiosity roule sur et analyse les sédiments de ces cônes alluviaux tardifs et de ces lacs temporaires. Mais sa véritable cible, ce sont les sédiments de la base du Mont Sharp. Les études spectrales (faites depuis l'orbite) montrent que ceux-ci sont riches en argile (montmorillonite) et les minéraux détectés montrent qu'ils se sont déposés en milieu non acide. Des conditions idéales pour étudier les conditions paléogéographiques ayant eu lieu dans ce lac entre -3,8 et -3,5 Ga et ayant pu conserver de la matière organique (éventuellement complexe) si une chimie organique complexe a eu lieu dans ce lac ! 
+
 - Curiosity, va rechercher si un environnement favorable à l'apparition de la vie a existé, analyser la composition minéralogique, étudier la géologie de la zone explorée et collecter des données sur la météorologie et les radiations qui atteignent le sol de la planète. La durée de la mission est fixée initialement à une année martienne soit environ 669 sols (jours solaires martiens) ou 687 jours (solaires) terrestres. 
 -  le rover utilise un générateur thermoélectrique à radioisotope
--  le rover de 899 kg
-- La mission Mars Science Laboratory poursuit quatre objectifs principaux10 :
-
-    déterminer si des conditions propices à la vie ont pu exister sur Mars ;
-    caractériser le climat de Mars ;
-    préciser la géologie de Mars ;
-    préparer l'exploration humaine de la planète rouge.
 
 Dans cette optique, et particulièrement du point de vue de l'habitabilité de la planète, Mars Science Laboratory devra travailler selon huit axes principaux11,12 :
 
@@ -1060,7 +1064,6 @@ Dans cette optique, et particulièrement du point de vue de l'habitabilité de l
     Déterminer le schéma d'évolution de l'atmosphère de Mars sur les quatre derniers milliards d'années ;
     Établir le cycle de l'eau et le cycle du dioxyde de carbone sur Mars ainsi que la distribution actuelle de ces deux molécules sur la planète ;
     Mesurer le spectre large des radiations à la surface de Mars issues des rayons cosmiques, des bouffées de protons énergétiques émis par les éruptions solaires ou par les ondes de choc d'éjections de masse coronale, voire des neutrons secondaires issus de réactions de fission nucléaire dans l'atmosphère sous l'effet des rayonnements incidents.  
-- e site du cratère Gale est finalement retenu comme cible de la mission Mars Science Laboratory
 - Le site doit présenter un environnement géologique ou un ensemble d'environnements propices à la vie. Il doit permettre de réaliser la plus grande variété d'expériences afin de maximiser le nombre d'axes de recherche pouvant être explorés. Dans l'idéal, la région accessible depuis le site d'atterrissage doit présenter des spectres indiquant la présence simultanée de plusieurs minéraux hydratés, par exemple des argiles avec des sulfates hydratés. L'hématite, d'autres oxydes de fer, les sulfates, les silicates, ainsi peut-être que certains chlorures, pourraient avoir permis la fossilisation d'éventuelles formes de vie martiennes13.
 
 Les sites susceptibles d'avoir préservé d'éventuelles traces de vie passée présentent une topographie marquée, offrant ainsi une grande variété d'affleurements et de roches. 
@@ -1069,8 +1072,6 @@ Les sites susceptibles d'avoir préservé d'éventuelles traces de vie passée p
     deux instruments fonctionnant au contact de l'objet à analyser dont les senseurs sont situés au bout du bras du robot : le spectromètre à rayons X APXS et la caméra microscope MAHLI fournissent la composition chimique et des images détaillées facilitant la sélection des échantillons à analyser,
     deux laboratoires d'analyse logés dans le corps du rover et alimentés en échantillon de sol ou de roche martienne par la foreuse et la mini pelleteuse situés au bout du bras du rover : CheMin qui effectue l'analyse minéralogique et SAM qui effectue l'analyse des éléments organiques et volatils,
     quatre instruments caractérisant l'environnement martien : la station météorologique REMS, le détecteur de particules énergétiques RAD qui mesure les radiations qui parviennent jusqu'au sol, le détecteur de neutrons DAN chargé d'identifier la présence d'eau dans le proche sous-sol et la caméra de l'étage de descente MARDI qui réalise avant l'atterrissage des photos de la zone environnante.
-- Le rover Curiosity est un engin particulièrement imposant avec une masse de 899 kg 
-- Le rover est long de 2,7 m.
 - Un mât, qui est implanté sur l'avant de ce boîtier et qui culmine à 2,13 mètres, porte plusieurs caméras, des sondes atmosphériques, ainsi que le spectromètre laser. Le bras télécommandé est articulé à l'avant du rover et supporte à son extrémité les équipements de prélèvement d'échantillon ainsi que deux instruments scientifiques. 
 - Le rover peut se déplacer à une vitesse de 4 cm par seconde en navigation automatique sans détection d'obstacles soit 150 m/h, mais si la détection d'obstacle est activée sa vitesse chute à 2 cm par seconde soit 75 m/h en moyenne compte tenu des irrégularités du terrain ou des problèmes de visibilité. Le rover Curiosity est conçu pour parcourir au moins une vingtaine de kilomètres au cours des 22 mois terrestres que doit durer au minimum sa mission primaire
 - Pour pouvoir poser la masse du rover cinq fois supérieure à celle de ses prédécesseurs et effectuer un atterrissage de précision qui permette au rover Curiosity d'atteindre la zone d'étude choisie par les scientifiques sans avoir à faire un nombre de kilomètres supérieur à ce que lui permet son autonomie, MSL inaugure de nouvelles techniques de descente vers le sol martien
@@ -1082,8 +1083,7 @@ Les sites susceptibles d'avoir préservé d'éventuelles traces de vie passée p
     la descente sous parachute lorsque la vitesse a chuté sous Mach 2,
     la descente propulsée à partir de 1500 mètres d'altitude grâce à des moteurs chargés d'annuler la vitesse résiduelle,
     la dépose par l'étage de descente fonctionnant à la manière d'un hélicoptère grue du rover sur le sol martien.
-- Au bout d'environ une semaine, Curiosity entame sa mission opérationnelle. La durée initiale de celle-ci est d'une année martienne soit 687 jours terrestres
-- Le rover devrait parcourir durant ces 22 mois terrestres de 5 à 20 km. Au cours de ses déplacements, il est prévu qu'il collecte et analyse environ 70 échantillons de roche et de sol martien
+- Au bout d'environ une semaine, Curiosity entame sa mission opérationnelle. 
 - le cratère Gale de 154 km de diamètre comporte en son centre l'Aeolis Mons, un pic qui culmine à 5 kilomètres au-dessus de son plancherNote 20. Les pentes de cette montagne sont suffisamment douces pour que le rover puisse l'escalader mais Curiosity ne devrait gravir que ses contreforts durant sa mission nominale dont la durée est fixée à deux ans (soit une année martienne). Plusieurs indices, fournis par les instruments des satellites en orbite autour de Mars donnent à penser que l'eau a circulé autrefois dans le cratère98 :
 
     la faible altitude du plancher du cratère (4,45 km au-dessous du niveau moyen) : si de l'eau a circulé à la surface de Mars, elle s'est concentrée dans les parties les plus basses.
@@ -1104,7 +1104,7 @@ Les strates visibles sur le mont central permettent de penser que celui-ci const
 - La vitesse de l'érosion éolienne a pu être estimée à environ 1 m par million d'années.
 
 
-- Ce cratère a eu une histoire atypique. Selon les études effectuées avec les images des sondes orbitales et partiellement confirmées par les deux premières années de Curiosity, Gale aurait été rempli d'un lac où se seraient déposés des sédiments lacustres. Puis l'érosion aurait enlevé la presque totalité de ces sédiments, sauf en son centre où ils forment une montagne, le Mont Sharp. Enfin, une fois creusée par l'érosion, la dépression entourant ce Mont Sharp aurait été épisodiquement tapissée de cônes alluviaux venant des monts environnants et aurait même abrité des lacs temporaires. D'août 2012 à septembre 2014, Curiosity roule sur et analyse les sédiments de ces cônes alluviaux tardifs et de ces lacs temporaires. Mais sa véritable cible, ce sont les sédiments de la base du Mont Sharp. Les études spectrales (faites depuis l'orbite) montrent que ceux-ci sont riches en argile (montmorillonite) et les minéraux détectés montrent qu'ils se sont déposés en milieu non acide. Des conditions idéales pour étudier les conditions paléogéographiques ayant eu lieu dans ce lac entre -3,8 et -3,5 Ga et ayant pu conserver de la matière organique (éventuellement complexe) si une chimie organique complexe a eu lieu dans ce lac ! Mais un cordon de dunes sépare le site d'atterrissage de la base du Mont Sharp, distante au plus près de 4 km de ce site d'atterrissage. Cela oblige Curiosity à faire un long détour vers le SO pour éviter ce cordon de dunes et atteindre la base du Mont Sharp à travers une interruption du cordon dunaire, interruption que la NASA a appelé Entry Point encore distante de 5 km de Kimberley
+
 
 - Curiosity, grâce à son instrument SAM, a recherché de la matière organique dans les roches de 5 sites : Rocknest, John Klein, Windjana, Cumberland, et Confidence Hills. L'n de ces 5 sites, Cumberland (situé dans Yellowknife Bay), a donné un signal indiscutable en mai 2013, prouvant qu'il y a de la matière organique dans le niveau d'argile (montmorillonite) gréseuse nommé Sheepbed. 
 - Curiosity a formellement identifié un certain nombre de composés organochlorés : les trois chlorométhanes, des chloroéthanes, propane, butane, et du mono-chlorobenzène (le plus abondant, en masse, des composés organiques identifiés). Ces composés organochlorés ne sont pas des produits martiens d'origine, mais des produits secondaires fabriqués par les techniques d'analyses de Curiosity. En effet, Curiosity ramasse de la poudre de roche, poudre qui contient des molécules organiques mais aussi des perchlorates (ClO4-). En chauffant cette poudre, les perchlorates réagissent avec les molécules carbonées, les détruisent partiellement et engendrent chlorobenzène et autres composés organochlorés. Il sera difficile, en analysant ces molécules organiques secondaires, de remonter aux molécules organiques primaires. 
