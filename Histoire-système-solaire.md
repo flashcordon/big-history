@@ -1047,9 +1047,17 @@ Il se présente sous la forme d'une plateforme de 1,5 mètre de diamètre posée
 > * caractériser le climat de Mars
 > * préciser la géologie de Mars
 > * préparer l'exploration humaine de la planète rouge
+- Pour accomplir sa mission, Curiosity dispose de 10 instruments scientifiques :
+> * le mat du rover abrite 2 instruments, une caméra (MASTCAM) et un laser (CHEMCAM) permettant d'analyser à distance la composition des roches
+> * le bras du rover, doté d'une fereuse et d'une mini-pelleteuse, abrite un spectromètre à rayons X et une caméra-microscope.
+> * le corps du rover abrite 2 laboratoires d'analyse minéralogique et des éléments organiques volatils (CheMin et SAM respectivement)
+> * une station météo
+> * un détecteur de particules énergétiques pour mesurer les taux de radiation
+> * un détecteur de neutrons pour identifier la présence d'eau en sous-sol
+> * une caméra sur l'étage de descente pour caractériser l'environnement lors de l'aterrissage.
 - La durée initiale de MSL est d'une année martienne (687 jours terrestres). Pendant cette durée, le rover est sensé parcourir entre 5 et 20 km, et collecter et analyser près de 70 échantillons de roches et de sol martiens.
 - Curiosity est doté d'un générateur thermoélectrique à radioisotope (RTG) pour s'alimenter.
-- Le système d'aterrissage de Curiosity est pour le moins insolite : après une première phase de descente par parachute, l'étage de descente se désolidarise du rover. Une grue auto-propulsée dotée de moteurs de fusée, initialement attachée au rover, détache ensuite celui-ci et le fait descendre à l'aide d'un filin jusqu'à son aterrissage. La grue s'éloigne ensuite du rover et s'écrase plus loin. 
+- Le système d'aterrissage de Curiosity est pour le moins insolite : après une première phase de descente par parachute, l'étage de descente se désolidarise du rover. Une grue auto-propulsée dotée de moteurs de fusée, initialement attachée au rover, détache ensuite celui-ci et le fait descendre à l'aide d'un filin jusqu'à son aterrissage. La grue s'éloigne ensuite du rover et s'écrase plus loin.
 
 
 - Gale. D'août 2012 à septembre 2014, Curiosity roule sur et analyse les sédiments de ces cônes alluviaux tardifs et de ces lacs temporaires. Mais sa véritable cible, ce sont les sédiments de la base du Mont Sharp. Les études spectrales (faites depuis l'orbite) montrent que ceux-ci sont riches en argile (montmorillonite) et les minéraux détectés montrent qu'ils se sont déposés en milieu non acide. Des conditions idéales pour étudier les conditions paléogéographiques ayant eu lieu dans ce lac entre -3,8 et -3,5 Ga et ayant pu conserver de la matière organique (éventuellement complexe) si une chimie organique complexe a eu lieu dans ce lac ! 
@@ -1068,12 +1076,7 @@ Dans cette optique, et particulièrement du point de vue de l'habitabilité de l
 - Le site doit présenter un environnement géologique ou un ensemble d'environnements propices à la vie. Il doit permettre de réaliser la plus grande variété d'expériences afin de maximiser le nombre d'axes de recherche pouvant être explorés. Dans l'idéal, la région accessible depuis le site d'atterrissage doit présenter des spectres indiquant la présence simultanée de plusieurs minéraux hydratés, par exemple des argiles avec des sulfates hydratés. L'hématite, d'autres oxydes de fer, les sulfates, les silicates, ainsi peut-être que certains chlorures, pourraient avoir permis la fossilisation d'éventuelles formes de vie martiennes13.
 
 Les sites susceptibles d'avoir préservé d'éventuelles traces de vie passée présentent une topographie marquée, offrant ainsi une grande variété d'affleurements et de roches. 
-- Le rover embarque 10 instruments scientifiques qui doivent lui permettre de détecter d'éventuelles traces d'eau, analyser précisément les roches, d'étudier les minéraux présents à la surface de Mars, mesurer la chiralité des molécules détectées, et effectuer des photographies à haute résolution. 
--     deux instruments permettant de faire des analyses à distance et situés dans le mât du rover : la caméra MASTCAM et le Laser CHEMCAM qui détermine la composition des roches à l'aide d'un laser, fournissent une première analyse chimique et géologique de l'environnement,
-    deux instruments fonctionnant au contact de l'objet à analyser dont les senseurs sont situés au bout du bras du robot : le spectromètre à rayons X APXS et la caméra microscope MAHLI fournissent la composition chimique et des images détaillées facilitant la sélection des échantillons à analyser,
-    deux laboratoires d'analyse logés dans le corps du rover et alimentés en échantillon de sol ou de roche martienne par la foreuse et la mini pelleteuse situés au bout du bras du rover : CheMin qui effectue l'analyse minéralogique et SAM qui effectue l'analyse des éléments organiques et volatils,
-    quatre instruments caractérisant l'environnement martien : la station météorologique REMS, le détecteur de particules énergétiques RAD qui mesure les radiations qui parviennent jusqu'au sol, le détecteur de neutrons DAN chargé d'identifier la présence d'eau dans le proche sous-sol et la caméra de l'étage de descente MARDI qui réalise avant l'atterrissage des photos de la zone environnante.
-- Un mât, qui est implanté sur l'avant de ce boîtier et qui culmine à 2,13 mètres, porte plusieurs caméras, des sondes atmosphériques, ainsi que le spectromètre laser. Le bras télécommandé est articulé à l'avant du rover et supporte à son extrémité les équipements de prélèvement d'échantillon ainsi que deux instruments scientifiques. 
+
 - Le rover peut se déplacer à une vitesse de 4 cm par seconde en navigation automatique sans détection d'obstacles soit 150 m/h, mais si la détection d'obstacle est activée sa vitesse chute à 2 cm par seconde soit 75 m/h en moyenne compte tenu des irrégularités du terrain ou des problèmes de visibilité. Le rover Curiosity est conçu pour parcourir au moins une vingtaine de kilomètres au cours des 22 mois terrestres que doit durer au minimum sa mission primaire
 - Pour pouvoir poser la masse du rover cinq fois supérieure à celle de ses prédécesseurs et effectuer un atterrissage de précision qui permette au rover Curiosity d'atteindre la zone d'étude choisie par les scientifiques sans avoir à faire un nombre de kilomètres supérieur à ce que lui permet son autonomie, MSL inaugure de nouvelles techniques de descente vers le sol martien
 
