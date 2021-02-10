@@ -1055,10 +1055,9 @@ Il se présente sous la forme d'une plateforme de 1,5 mètre de diamètre posée
 > * un détecteur de particules énergétiques pour mesurer les taux de radiation
 > * un détecteur de neutrons pour identifier la présence d'eau en sous-sol
 > * une caméra sur l'étage de descente pour caractériser l'environnement lors de l'aterrissage.
-- La durée initiale de MSL est d'une année martienne (687 jours terrestres). Pendant cette durée, le rover est sensé parcourir entre 5 et 20 km, et collecter et analyser près de 70 échantillons de roches et de sol martiens.
+- La durée initiale de MSL est d'une année martienne (687 jours terrestres). Pendant cette durée, le rover est sensé parcourir entre 5 et 20 km (à une vitesse de 2 à 4 cm/s, soit 72 à 144 m/h), et collecter et analyser près de 70 échantillons de roches et de sol martiens.
 - Curiosity est doté d'un générateur thermoélectrique à radioisotope (RTG) pour s'alimenter.
-- Le système d'aterrissage de Curiosity est pour le moins insolite : après une première phase de descente par parachute, l'étage de descente se désolidarise du rover. Une grue auto-propulsée dotée de moteurs de fusée, initialement attachée au rover, détache ensuite celui-ci et le fait descendre à l'aide d'un filin jusqu'à son aterrissage. La grue s'éloigne ensuite du rover et s'écrase plus loin.
-
+- À cause de sa grosse masse, le système d'aterrissage de Curiosity est pour le moins insolite : après une première phase de descente par parachute, l'étage de descente se désolidarise du rover. Une grue auto-propulsée dotée de moteurs de fusée, initialement attachée au rover, détache ensuite celui-ci et le fait descendre à l'aide d'un filin jusqu'à son aterrissage. La grue s'éloigne ensuite du rover et s'écrase plus loin.
 
 - Gale. D'août 2012 à septembre 2014, Curiosity roule sur et analyse les sédiments de ces cônes alluviaux tardifs et de ces lacs temporaires. Mais sa véritable cible, ce sont les sédiments de la base du Mont Sharp. Les études spectrales (faites depuis l'orbite) montrent que ceux-ci sont riches en argile (montmorillonite) et les minéraux détectés montrent qu'ils se sont déposés en milieu non acide. Des conditions idéales pour étudier les conditions paléogéographiques ayant eu lieu dans ce lac entre -3,8 et -3,5 Ga et ayant pu conserver de la matière organique (éventuellement complexe) si une chimie organique complexe a eu lieu dans ce lac ! 
 
@@ -1077,10 +1076,6 @@ Dans cette optique, et particulièrement du point de vue de l'habitabilité de l
 
 Les sites susceptibles d'avoir préservé d'éventuelles traces de vie passée présentent une topographie marquée, offrant ainsi une grande variété d'affleurements et de roches. 
 
-- Le rover peut se déplacer à une vitesse de 4 cm par seconde en navigation automatique sans détection d'obstacles soit 150 m/h, mais si la détection d'obstacle est activée sa vitesse chute à 2 cm par seconde soit 75 m/h en moyenne compte tenu des irrégularités du terrain ou des problèmes de visibilité. Le rover Curiosity est conçu pour parcourir au moins une vingtaine de kilomètres au cours des 22 mois terrestres que doit durer au minimum sa mission primaire
-- Pour pouvoir poser la masse du rover cinq fois supérieure à celle de ses prédécesseurs et effectuer un atterrissage de précision qui permette au rover Curiosity d'atteindre la zone d'étude choisie par les scientifiques sans avoir à faire un nombre de kilomètres supérieur à ce que lui permet son autonomie, MSL inaugure de nouvelles techniques de descente vers le sol martien
-
-    la faible altitude du plancher du cratère (4,45 km au-dessous du niveau moyen) : si de l'eau a circulé à la surface de Mars, elle s'est concentrée dans les parties les plus basses.
     la présence de sulfates et d'argiles dans les parties les plus basses du pic central,
     dans des zones plus élevées l'existence de terrains fracturés comblés par des eaux saturées en minéraux.
 
@@ -1096,9 +1091,6 @@ Les strates visibles sur le mont central permettent de penser que celui-ci const
 - Curiosity a toujours circulé sur des roches sédimentaires, roches qui ont été déposées par de l'eau courante dans un ancien lac. Ce sont essentiellement des roches détritiques, gréseuses ou argileuses, provenant de l'altération et de l'érosion de roches basiques (basaltes, gabbros…) et du dépôt de leurs débris et produits néoformés dans le lac. Elles se sont déposées dans de l'eau peu salée, avec un pH neutre, avec coexistence de micro-environnements oxydés et réduits. Une colonne stratigraphique locale a pu être établie. Cet ancien environnement serait aujourd'hui tout à fait habitable par la majorité des bactéries terrestres actuelles, alors que l'ancien environnement d'Opportunity ne le serait que pour des bactéries bien particulières (acidophiles et halophiles). Ce pH neutre est également une condition favorable à une éventuelle chimie prébiotique (polymérisation des acides aminés…). 
 
 - La vitesse de l'érosion éolienne a pu être estimée à environ 1 m par million d'années.
-
-
-
 
 - Curiosity, grâce à son instrument SAM, a recherché de la matière organique dans les roches de 5 sites : Rocknest, John Klein, Windjana, Cumberland, et Confidence Hills. L'n de ces 5 sites, Cumberland (situé dans Yellowknife Bay), a donné un signal indiscutable en mai 2013, prouvant qu'il y a de la matière organique dans le niveau d'argile (montmorillonite) gréseuse nommé Sheepbed. 
 - Curiosity a formellement identifié un certain nombre de composés organochlorés : les trois chlorométhanes, des chloroéthanes, propane, butane, et du mono-chlorobenzène (le plus abondant, en masse, des composés organiques identifiés). Ces composés organochlorés ne sont pas des produits martiens d'origine, mais des produits secondaires fabriqués par les techniques d'analyses de Curiosity. En effet, Curiosity ramasse de la poudre de roche, poudre qui contient des molécules organiques mais aussi des perchlorates (ClO4-). En chauffant cette poudre, les perchlorates réagissent avec les molécules carbonées, les détruisent partiellement et engendrent chlorobenzène et autres composés organochlorés. Il sera difficile, en analysant ces molécules organiques secondaires, de remonter aux molécules organiques primaires. 
