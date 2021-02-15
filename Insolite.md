@@ -6,9 +6,7 @@
 - [Mercure est en moyenne la planète la plus proche de toutes les planètes du système solaire](https://www.popularmechanics.com/space/solar-system/a26839314/closest-planet-to-earth-on-average/)
 - [Les platypus sont biofluorescents](https://www.degruyter.com/view/journals/mamm/ahead-of-print/article-10.1515-mammalia-2020-0027/article-10.1515-mammalia-2020-0027.xml)
 
-# Anecdotes de l'histoire de l'exploration spatiale 
-
-Les fails de l'exploration spatiale 
+# Les fails de l'exploration spatiale 
 
 - On November 11, 1982, an over-the-air software update was broadcast to the Viking 1 lander to correct a battery charging issue. The update had an error in it and accidentally overwrote the wrong bits resulting in a bricked lander. Basically, they accidentally overwrote the memory reserved for the antenna pointing code which immediately terminated all communications.  Une erreur humaine durant la mise à jour du logiciel de Viking 1 rend l'antenne de communication HS, et met fin à la mission. I always get nervous updating firmware, but I can't imagine what it would be like to be responsible for ending a billion-dollar mission ($4 billion in 2014 dollars)
 - Mars 3 est une sonde spatiale soviétique lancée le 28 mai 1971. L'atterrisseur de Mars 3 est le premier engin de fabrication humaine à avoir réussi à se poser en douceur sur Mars.  Mais vingt secondes seulement après avoir déployé ses instruments, il est victime d'une panne lui donnant juste le temps de transmettre une image sombre et floue de la planète, et l'empêchant ainsi de fournir des informations scientifiques
@@ -31,3 +29,11 @@ https://astronomy.com/news/2020/12/nasas-failures-robotic-space-missions-that-di
 https://newatlas.com/space-failures-mishaps/46050/  
 https://www.laserfiche.com/ecmblog/whats-worst-software-bug-history/ 
 https://www.youtube.com/watch?v=Xsqe3utT6rs 
+
+# Expériences insolites de l'histoire de l'exploration spatiale
+
+- Galiléo : la Terre est-elle habitée ?
+- TARDIS : des tardigrades dans l'espace
+- Shang-E : des vers à soie sur la Lune
+
+
