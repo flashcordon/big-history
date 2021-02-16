@@ -969,9 +969,9 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 > * L'atterrisseur doit détecter des indices d'une éventuelle présence de vie sur Mars
 > * Un troisième objecif est la caractérisation de la structure et de la composition de l'atmosphère et de la surface de la planète
 - Pour accomplir ces objectifs, la sonde dispose de plusieurs instruments :
-> * L'orbiteur est doté d'un système de prise de vue composé de 2 caméras, d'un spectromètre infrarouge pour cartographier l'eau dans la haute atmosphère martienne, et un radiomètre (?) pour la cartographie thermique (?)
+> * L'orbiteur est doté d'un système de prise de vue composé de 2 caméras noir et blanc dotées de 6 filtres et d'un téléobjectif, d'un spectromètre infrarouge pour cartographier l'eau dans la haute atmosphère martienne, et un radiomètre infrarouge pour mesurer l'albédo et la température de la surface et de l'atmosphère
 > * Le bouclier de protection thermique (aeroshell) est doté de 2 isntruments : un analyseur de "retarding potential" et un spectromètre de masse pour la haute atmosphère, ainsi qu'une batterie de capteurs (pression, température, densité) pour analyser l'atmosphère durant la descente de l'atterrisseur.
-> * Chaque atterrisseur est doté de 2 caméras, un sismomètre, un spectromètre à fluorescence X, une station météo (température, pression, vitesse des vents) et un laboratoire biologique
+> * Chaque atterrisseur est doté de 2 caméras à 360°, un sismomètre, un spectromètre à rayons X à fluorescence, une station météo (température, pression, direction et vitesse des vents) et un laboratoire biologique
 - Les deux atterrisseurs sont alimentés par des RTG à base de plutonium 238.
 - Après un voyage de près d'un an (10 mois pour Viking 1 et 333 jours pour Viking 2), les sondes arrivent en orbite autour de Mars en 1976 (le 21 Juin pour Viking 1 et le 9 Août pour Viking 2)
 > A son arrivée, pendant un mois, l'orbiteur cartographie la surface de la planète afin de chercher un site d'atterrisage sûr.
@@ -982,31 +982,22 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 > * Viking 2 est terminé suite à une défaillance de sa batterie
 > * Le 13 novembre 1982, les ingénieurs de la NASA envoient une mise à jour du logiciel de l'atterrisseur Viking 1 pour corriger un problème de chargement de batterie. Mais le code du logiciel contient une erreur. La mise à jour a donc accidentellement écrasé l'emplacement mémoire réservé au code de pointage de l'antenne de communication de l'atterrisseur. Toute communication entre Viking 1 et la Terre a donc immédiatement été coupée. 
 - Durant leur mission, les atterrisseurs ont envoyé à la Terre près de 4500 photos de leur site d'atterrissage. Et les orbiteurs 52663 images de Mars, cartographiant 97% de la planète à une résolution de 150 à 300 m (certaines régions ont été cartographiées avec une résolution de 8 m).
+> Les images des orbiteurs ont permis de découvrir des volcans, des plaines de lave, des canyons, des formations géologiques sculptées par le vent et de nombreuses formations géologiques formées par l'action de l'eau.
 - Le sismomètre de Viking 1 n'a pas fonctionné car les opérateurs ne sont pas parvenus à débloquer le verrou qui protège sa partie mobile des vibrations durant le vol. Quant à celui de Viking 2, il a pu être activé mais les données enregistrées n'ont rien à voir avec des données sismiques : l'instrument, attaché à l'atterriseur, entegistre les mouvements de ce dernier (rotation de l'antenne, déplacement du bras robot, vibration de la plateforme par le vent...). Seules les mesures réalisées de nuit (sans vent et sans activité des autres instruments) sont potentiellement exploitables.
 
-  
-Les sondes spatiales Viking ont permis de découvrir que de nombreuses formations géologiques à la surface de Mars avaient été formées par l'action de l'eau. Par contre, malgré l'emport d'instruments d'analyse sophistiqués, elles n'ont pas permis de déterminer si des formes de vie étaient présentes dans le sol martien.
 
-Les images prises par les orbiteurs ont permis notamment de découvrir des volcans, des plaines de lave, des canyons immenses, des formations géologiques créées par le vent, et des preuves de la présence d'eau en surface. La mission Viking a également permis de fournir des photographies précises des deux satellites orbitant autour de la planète, Phobos et Déimos. 
+Les instruments scientifiques embarqués sur l'orbiteur comprenaient des appareils de prises de vue de Mars, de mesure de vapeur d'eau dans l'atmosphère et de cartographie en infra-rouge. 
+
+Deux caméras numériques cylindriques à 360° étaient montées sur le côté long de la base du vaisseau. Un bras d'expérimentation muni d'un réceptacle pour collecter les échantillons était implanté du même côté que la caméra, au centre. Une centrale météorologique avec capteur de température, de direction et vitesse du vent était située à l'extérieur du vaisseau, sur le dessus de l'une des jambes d'atterrissage. Un senseur de pression était attaché sous le corps de l'atterrisseur.
+Un détecteur de champ magnétique, ainsi que des cibles de mise au point et de test des caméras, accompagnés d'un miroir d'agrandissement étaient situés à l'opposé des caméras, à proximité de l'antenne à fort gain. Au sein de l'atterrisseur, un compartiment dont l'environnement était contrôlé, contenait les expériences biologiques et le chromatographe à gaz et spectrométrie de masse.
+
+Par contre, malgré l'emport d'instruments d'analyse sophistiqués, elles n'ont pas permis de déterminer si des formes de vie étaient présentes dans le sol martien.
+La mission Viking a également permis de fournir des photographies précises des deux satellites orbitant autour de la planète, Phobos et Déimos. 
 Les atterrisseurs ont fourni pour leur part des images de la surface. Ils y ont prélevé, pour la première fois, des échantillons, étudié le climat, analysé la composition atmosphérique ainsi que la sismicité de la planète. Les deux sondes ont également fourni près de 1 400 images de leurs deux sites d'atterrissage. 
  
  The biology package consisted of four experiments. The gas chromatograph mass spectrometer was designed to look for any organic compounds that might be present in Martian soil samples. The gas exchange experiment looked for gases given off by a sample of Martian soil incubated in a mix of organic and inorganic nutrients, essentially looking for products of metabolism by any microorganisms. In the labeled release experiment, a drop of a nutrient solution tagged with a 14C label was placed on a soil sample and the air monitored for the release of any 14CO2, a sign of metabolism. The pyrolytic release experiment placed 14C labeled gasses in a chamber with Martian soil, and after a few days of incubation the soil was baked and detectors looked for signs of any labeled gas that would be evidence that organisms in the soil had incorporated them in a process such as photosynthesis. Each lander also carried a remote sampler arm to take soil samples and deposit them into the biology instruments.
  
- 
-
- 
- 
-Les instruments scientifiques embarqués sur l'orbiteur comprenaient des appareils de prises de vue de Mars, de mesure de vapeur d'eau dans l'atmosphère et de cartographie en infra-rouge. 
-Chaque orbiteur était équipé de 2 caméras. Les caméras de la sonde orbitale Viking étaient dérivées de celles des sondes Mariner. Il s'agit de caméras vidéo noir et blanc hautes performances de type vidicon, semblables à celles utilisées à l'époque dans les studios de télévision. Elles étaient équipées d'un téléobjectif à lentille. 
-Six filtres pouvaient être activés, autorisant l'acquisition d'images couleurs (après assemblage de prises de vue filtrées avec les composants de couleur rouge, verte et bleue).
-Deux caméras numériques cylindriques à 360° étaient montées sur le côté long de la base du vaisseau. Un bras d'expérimentation muni d'un réceptacle pour collecter les échantillons était implanté du même côté que la caméra, au centre. Une centrale météorologique avec capteur de température, de direction et vitesse du vent était située à l'extérieur du vaisseau, sur le dessus de l'une des jambes d'atterrissage. Un senseur de pression était attaché sous le corps de l'atterrisseur.
-Un détecteur de champ magnétique, ainsi que des cibles de mise au point et de test des caméras, accompagnés d'un miroir d'agrandissement étaient situés à l'opposé des caméras, à proximité de l'antenne à fort gain. Au sein de l'atterrisseur, un compartiment dont l'environnement était contrôlé, contenait les expériences biologiques et le chromatographe à gaz et spectrométrie de masse. Le spectromètre à rayons X à fluorescence était lui aussi monté à l'intérieur de la structure du véhicule. 
-
-
-
 Plus tard, lors de sa mission, l'orbiteur de Viking 2 se rapprocha de Déimos, la plus petite des deux lunes martiennes. Il survola cette lune à une distance de 22 km seulement. Des images particulièrement spectaculaires de ce satellite furent prises. Viking 2 a fourni plus de 16 000 images de Mars et ses satellites avant de s'éteindre le 25 juillet 1978
-
- 
 
 Les instruments utilisés pour détecter la présence de vie dans le sol martien fournirent des résultats ambigus. Dans un premier temps, les résultats furent positifs et le résultat d'une des expériences remplit les conditions fixées par la NASA pour affirmer que la vie avait bien été détectée. Ces premiers résultats positifs furent contredits par un second test qui ne parvint pas à révéler l'existence de molécules organiques dans le sol. La plupart des scientifiques furent alors convaincus que les résultats initiaux était le fruit de réactions chimiques de nature non biologique, créées par les conditions particulières d'oxydation du sol sur Mars25.
 
