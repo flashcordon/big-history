@@ -847,6 +847,7 @@ L'eau liquide sur Mars coule peut-être actuellement, mais de façon très trans
 - Les attentes sont immenses, et les représentations des canaux martiens sont encore bien ancrées dans la culture populaire. Y aurait-il de l'eau liquide à la surface ? Des plantes ? Des civilisations ?
 > la [carte de Mars utilisée pour plannifier la mission](https://www.planetary.org/space-images/mariner-4-images-map) était d'ailleurs une carte de Mars avec des canaux !
 - Mariner 4 est lancée le 28 novembre 1964 depuis Cap Canaveral via un lanceur Atlas-Agena D. Au bout d'un voyage de 8 mois, la sonde (un engin octogonal de 1,3m de diagonale, de 46 cm de haut et de 260 kg) réalise le premier survol de la planète rouge de l'Histoire les 14 et 15 Juillet 1965, et renvoie les premières images rapprochée d'une autre planète.
+> Mariner 4 est la 7e tentative d'envoi d'une sonde vers Mars.
 - Pour accomplir sa mission, la sonde dispose de 7 instruments :
 > * Une caméra de télévision pour caractériser la topographie de la surface martienne (Les images étaient au format carré, comprenant 200 lignes de 200 pixels chacune)
 > * Un magnétomètre pour mesurer le champ magnétique martien
@@ -857,15 +858,16 @@ L'eau liquide sur Mars coule peut-être actuellement, mais de façon très trans
 > * Un détecteur de plasma pour déterminer la densité, la vitesse, la température et le mouvement des protons du vent solaire
 - La sonde s'est approchée au plus près de la planète le 15 Juillet 1965 (à 9846 km d'altitude), et sa dernière image est obtenue à une distance de 16 900 km.
 - La durée de l'enregistrement des images dure à peine une heure. Mais la transmission des images à la Terre est beaucoup plus lente, à cause d'un système encore rudimentaire. En effet, pour la transmission, la bande magnétique doit passer entre la tête de lecture d'un magnétoscope qui lit les informations enregistrées sur le fin ruban pour les diriger vers l'antenne grand gain. Le moteur faisait défiler la bande sous la tête de lecture à la vitesse de 0,254 mm par seconde et marquait une pause entre chaque image.
+> * La caméra acquiert 21 images complètes, et les 21 premières lignes de la 22e image.  
 > * La transmission de la première image a pris 8h.
 > * Il a fallu 10 jours pour transmettre les 22 images.
-- Les images prises par Mariner 4 montrent une planète 
-> * La caméra acquiert 21 images complètes, et les 21 premières lignes de la 22e image. 
-- L'acquisition des données prend fin en Décembre 1967. 
+> *  Chaque photo couvre With each photo covering an area of about 200 square kilometres, the fuzzy black-and-white images collectively captured just 1% of the Martian surface; but it was enough.
+ 
+- Les images par Mariner 4 montrent une planète hostile, désertique et couverte de cratères, comme la Lune. Impropre à la vie. C'est une immense déception pour beaucoup de gens.
+- L'acquisition des données prend fin en Décembre 1967.
+> Au total, la mission aura envoyé à la Terre 5,2 millions de bits de données (655 kilo-octets)
 
-
-
-
+ The atmospheric density was about one-thousandth that of Earth, and no liquid water was apparent on the surface.
 
 While ideas about the true nature of Mars evolved throughout the first half of the 20th century, in 1965 nobody could say with any confidence how dense the martian atmosphere was or determine its exact composition. Telescopic surveys had recorded a visual event called the "wave of darkening," which some scientists theorized could be plant life blooming and perishing as the harsh martian seasons changed. A few of them still thought of Mars as a place capable of supporting advanced life, although most thought it unlikely. However, there was no conclusive evidence for either scenario
 
@@ -882,9 +884,6 @@ the spacecraft far outlasted its planned eight-month mission. It lasted about th
 
 Les images de Mariner 4 ont fait l'objet de nombreuses anecdotes et en voici une particulièrement intéressante. On n'était pas du tout certain que les images obtenues par Mariner seraient enregistrées et lorsque les premières données sont arrivées enfin au centre de contrôle, il a été décidé de les exploiter en temps réel. Les techniciens ont donc retroussé leurs manches avant de s'atteler à un drôle de travail. Les nombres représentant la luminosité de chaque pixel de l'image n°1 ont été imprimés sur une bande de papier verticale. A chaque fois qu'une colonne était remplie, elle était découpée et la bandelette de papier était collée à côté des précédentes. Après mains découpages et collages, les scientifiques avaient à leur disposition la première image jamais prise d'une autre planète, sous la forme d'une matrice de nombres de 200 lignes sur 200 colonnes ! En utilisant une échelle de couleur et quelques crayons, les techniciens se sont mis à colorier frénétiquement la feuille de papier pour produire une image en fausse couleur qui a fini par laisser apparaître les contours de la planète (l'image n°1 de Mariner 4 montre effectivement une partie du limbe de Mars). 
 
-
-
-
  Le 20 décembre 1967, Mariner 4 termine son périple martien en devenant à jamais muette. Elle aura tenu 1118 jours. Victime d'une ultime micrométéorite, peut être plus grosse que les autres, la petite sonde aura menée à bien chacun de ses objectifs.
  
   Tous les instruments ont fonctionné comme prévu, sauf la chambre d'ionisation (et son compteur Geiger) qui est tombé en panne pendant le mois de février 1965 et le capteur de plasma solaire qui a vu ses performances se dégrader à partir du 6 décembre 1964.
@@ -899,12 +898,8 @@ L'occultation radio a également permis d'estimer les températures au-dessus de
 
 Lorsque la sonde Mariner 4 a survolé la planète rouge, les ingénieurs n'avaient aucun moyen de savoir si les images obtenues par la caméra avaient bel et bien été enregistrées. Dans l'expectative, ils ont donc décidé de reconstituer la première image de Mars en temps réel, à l'aide de quelques feuilles de papiers, d'un ciseau, d'un peu de colle et d'une poignée de crayons de couleurs ! Chaque image de Mariner 4 se composait de 200 colonnes d'une hauteur de 200 pixels chacune. Dès que la valeur de luminosité d'un pixel (codée sur 64 niveaux de gris) parvenait à la Terre, elle était imprimée sur une grande bande de papier. Dès qu'une bande était complétée, elle était collée sur un grand tableau blanc. Pour faire apparaître l'image, les ingénieurs ont ensuite colorié chaque pixel selon sa valeur de luminosité, comme un enfant l'aurait fait avec un album à colorier. Etrange contraste que cette première image de Mars, envoyée sur Terre par une sonde robotique qui représentait à l'époque le summum en matière de technologie spatiale, et néanmoins assemblée avec le contenu d'une trousse d'écolier ...
     
- Jul 15, 1965
-Mariner 4 makes its closest approach to Mars, simultaneously making history by taking the first photos of another planet from space. 
-Mariner 4 was the fourth in a series of spacecraft used for planetary exploration in a flyby mode
- Data could also be stored on a tape recorder with a capacity of 5.24 million bits for later transmission. 
- The camera sequence started at 00:18:36 UT on July 15 (7:18:49 p.m. EST on July 14) and 21 pictures plus 21 lines of a 22nd picture were taken. The images covered a discontinuous swath of Mars starting near 40 N, 170 E, down to about 35 S, 200 E, and then across to the terminator at 50 S, 255 E, representing about 1% of the planet's surface.
- The total data returned by the mission was 5.2 million bits. 
+    The images covered a discontinuous swath of Mars starting near 40 N, 170 E, down to about 35 S, 200 E, and then across to the terminator at 50 S, 255 E, representing about 1% of the planet's surface.
+
  The images returned showed a Moon-like cratered terrain (which later missions showed was not typical for Mars, but only for the more ancient region imaged by Mariner 4). A surface atmospheric pressure of 4.1 to 7.0 mb and daytime temperatures of -100 degrees C were estimated and no magnetic field was detected, leading to the conclusion that the solar wind may have direct interaction with the martian atmosphere, and that the atmosphere and surface are fully exposed to solar and cosmic radiation. 
 
 Four solar panels generated 310 watts of electric power to operate the spacecraft’s systems and science instruments. During the eight-month cruise phase to Mars, the spacecraft took measurements on the conditions of interplanetary space and transmit the data to Earth. During the flyby of the planet, the spacecraft recorded the images onboard for playback to Earth after the encounter.
@@ -916,15 +911,11 @@ The first digital image from Mars hand-colored like a paint-by-numbers picture
 
  Technical instruments, most of which were mounted on the frame’s exterior, included a magnetometer, dust detector, cosmic ray telescope, trapped radiation detector, solar plasma probe, Geiger counter and, most importantly, a television camera.
  
- The Mariner 4 mission was the seventh attempt to send a spacecraft to Mars. Between 1960 and 1964 the Soviet Union tried and failed five times. NASA launched Mariner 3, also intended for Mars, four weeks before Mariner 4 but it failed to separate from the Atlas-Agena rocket that boosted it into space.
- 
- After traveling for 228 days Mariner 4 flew within 10,000 km of Mars, capturing the first images of another planet ever taken in space. This is an enhanced contrast version of the first Mars photograph, released on July 15, 1965. It was radioed back to Earth as digital data. Mariner 4 could transmit information through its high-gain antenna at a speed of 33.3 bits per second and its low-gain antenna at 8.3 bps. Sending a whole image (200 by 200 pixels) took about 10 hours.
+It was radioed back to Earth as digital data. Mariner 4 could transmit information through its high-gain antenna at a speed of 33.3 bits per second and its low-gain antenna at 8.3 bps. Sending a whole image (200 by 200 pixels) took about 10 hours.
  
  Digital image data transmitted by Mariner was converted by a “real-time data translator” into numbers printed on thin strips of paper. Too impatient to wait for the official processed image, members of the telecommunications section at NASA’s Jet Propulsion Laboratory manually arranged the strips and hand-coloured the numbers to produce the above picture. The completed image was subsequently framed and presented to JPL’s director, William Pickering.
  
- Over a few hours Mariner 4 took a grand total of 21 complete pictures of Mars (plus part of a 22nd). This was dictated by the limits of the four-track magnetic tape recorder on which the images were initially stored for later transmission; its 100 metres of tape had a storage capacity of 5.24 million bits, or 655 kilobytes – cutting-edge for its time. With each photo covering an area of about 200 square kilometres, the fuzzy black-and-white images collectively captured just 1% of the Martian surface; but it was enough.
- 
-The 22 images sent by Mariner 4 appeared conclusive. Although they were low-resolution and black-and-white, they indicated that Mars was not a place likely to be friendly to life. It was a cold, dry desert, covered with so many craters as to strongly resemble Earth's moon. The atmospheric density was about one-thousandth that of Earth, and no liquid water was apparent on the surface.
+
 
 After its voyage past Mars, Mariner 4 maintained intermittent communication with JPL and returned data about the interplanetary environment for two more years. But by the end of 1967, the spacecraft had suffered tens of thousands of micrometeoroid impacts and was out of the nitrogen gas it used for maneuvering. The mission officially ended on December 21.
 
