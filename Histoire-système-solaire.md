@@ -844,7 +844,15 @@ L'eau liquide sur Mars coule peut-être actuellement, mais de façon très trans
 - Entre 1962 et 1973, la NASA construit 10 sondes nommées Mariner destinées à explorer le système solaire interne (Mercure, Vénus, Mars) pour la première fois.
 - Au milieu des années 60, on ne sait rien de l'atmosphère de Mars : ni sa densité, ni sa composition.
 > Depuis la Terre, les télescopes observaient des "vagues de noircissement"
-
+- Pour accomplir sa mission, la sonde dispose de 7 instruments :
+> * Une caméra de télévision pour caractériser la topographie de la surface martienne
+> * Un magnétomètre pour mesurer le champ magnétique martien
+> * Un détecteur de particules pour mesurer le taux de radiation de l'espace interplanétaire et de l'orbite martienne
+> * Un détecteur de poussières cosmiques pour caractériser la distribution en vitesse et en masse de ces particules
+> * Un détecteur de rayons cosmiques pour caractériser le flux de particules chargées
+> * 3 compteurs Geiger pour détecter les particules chargées piégées dans le champ magnétique martien
+> * Un détecteur de plasma pour déterminer la densité, la vitesse, la température et le mouvement des protons du vent solaire
+    
 While ideas about the true nature of Mars evolved throughout the first half of the 20th century, in 1965 nobody could say with any confidence how dense the martian atmosphere was or determine its exact composition. Telescopic surveys had recorded a visual event called the "wave of darkening," which some scientists theorized could be plant life blooming and perishing as the harsh martian seasons changed. A few of them still thought of Mars as a place capable of supporting advanced life, although most thought it unlikely. However, there was no conclusive evidence for either scenario.
 
 So, as Mariner 4 flew past Mars, much was at stake, both for the scientific community and a curious general public. Were there canals or channels on the surface, as some astronomers had reported? Would we find advanced life forms or vast collections of plant life? Would there be liquid water on the surface?
@@ -893,16 +901,6 @@ Pour la transmission, la bande magnétique doit passer entre la tête de lecture
 L'occultation radio a également permis d'estimer les températures au-dessus de certaines régions comme Electris ou Mare Acidalium : entre -80° et -120 °C. Des températures glaciales pour des régions équatoriales ou tropicales !
 
 Lorsque la sonde Mariner 4 a survolé la planète rouge, les ingénieurs n'avaient aucun moyen de savoir si les images obtenues par la caméra avaient bel et bien été enregistrées. Dans l'expectative, ils ont donc décidé de reconstituer la première image de Mars en temps réel, à l'aide de quelques feuilles de papiers, d'un ciseau, d'un peu de colle et d'une poignée de crayons de couleurs ! Chaque image de Mariner 4 se composait de 200 colonnes d'une hauteur de 200 pixels chacune. Dès que la valeur de luminosité d'un pixel (codée sur 64 niveaux de gris) parvenait à la Terre, elle était imprimée sur une grande bande de papier. Dès qu'une bande était complétée, elle était collée sur un grand tableau blanc. Pour faire apparaître l'image, les ingénieurs ont ensuite colorié chaque pixel selon sa valeur de luminosité, comme un enfant l'aurait fait avec un album à colorier. Etrange contraste que cette première image de Mars, envoyée sur Terre par une sonde robotique qui représentait à l'époque le summum en matière de technologie spatiale, et néanmoins assemblée avec le contenu d'une trousse d'écolier ...
-
-
- Instruments
-
-    Imaging system
-    Helium magnetometer
-    Plasma probe
-    Cosmic-ray telescope
-    Cosmic ray detector
-    Cosmic dust detector 
     
  Jul 15, 1965
 Mariner 4 makes its closest approach to Mars, simultaneously making history by taking the first photos of another planet from space. 
@@ -911,16 +909,6 @@ Mariner 4 was the fourth in a series of spacecraft used for planetary exploratio
  The camera sequence started at 00:18:36 UT on July 15 (7:18:49 p.m. EST on July 14) and 21 pictures plus 21 lines of a 22nd picture were taken. The images covered a discontinuous swath of Mars starting near 40 N, 170 E, down to about 35 S, 200 E, and then across to the terminator at 50 S, 255 E, representing about 1% of the planet's surface.
  The total data returned by the mission was 5.2 million bits. 
  The images returned showed a Moon-like cratered terrain (which later missions showed was not typical for Mars, but only for the more ancient region imaged by Mariner 4). A surface atmospheric pressure of 4.1 to 7.0 mb and daytime temperatures of -100 degrees C were estimated and no magnetic field was detected, leading to the conclusion that the solar wind may have direct interaction with the martian atmosphere, and that the atmosphere and surface are fully exposed to solar and cosmic radiation. 
- 
-carried seven science instruments:
-
-    The television imaging system enabled topographic reconnaissance of the Martian surface.
-    The Helium Magnetometer measured magnetic field strength around the planet.
-    The Ionization Chamber and particle flux detector measured the omnidirectional flux of particle radiation near Mars and in interplanetary space.
-    The Cosmic Dust Detector measured dust particle momentum and mass distribution.
-    The Cosmic Ray Telescope measured charged particles.
-    The Trapped Radiation Detector consisted of three Geiger-Muller detectors to measure any charged particles that may be trapped by a Martian magnetic field.
-    The Solar Plasma Probe measured the density, velocity, temperature, and direction of movement of protons streaming from the Sun.
 
 Four solar panels generated 310 watts of electric power to operate the spacecraft’s systems and science instruments. During the eight-month cruise phase to Mars, the spacecraft took measurements on the conditions of interplanetary space and transmit the data to Earth. During the flyby of the planet, the spacecraft recorded the images onboard for playback to Earth after the encounter.
 On July 14, 1965, after a 228-day cruise from Earth, Mariner 4 passed within 6,118 miles of Mars, snapping 22 photographs of the planet and taking scientific measurements. The spacecraft passed behind the planet as seen from Earth, allowing a radio occultation study to estimate the density of the Martian atmosphere. Playback of the flyby imagery began soon after Mariner 4 emerged from behind Mars and continued until Aug. 3.
