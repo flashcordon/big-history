@@ -844,9 +844,9 @@ L'eau liquide sur Mars coule peut-être actuellement, mais de façon très trans
 - Entre 1962 et 1973, la NASA construit 10 sondes nommées Mariner destinées à explorer le système solaire interne (Mercure, Vénus, Mars) pour la première fois.
 - Au milieu des années 60, on ne sait rien de l'atmosphère de Mars : ni sa densité, ni sa composition.
 > Depuis la Terre, les télescopes observaient des "vagues de noircissement"
-- Les attentes sont immenses, et les images des canaux martiens sont encore bien ancrés dans la culture populaire.
+- Les attentes sont immenses, et les représentations des canaux martiens sont encore bien ancrées dans la culture populaire. Y aurait-il de l'eau liquide à la surface ? Des plantes ? Des civilisations ?
 > la [carte de Mars utilisée pour plannifier la mission](https://www.planetary.org/space-images/mariner-4-images-map) était d'ailleurs une carte de Mars avec des canaux !
-- Mariner 4 est lancée le 28 novembre 1964 depuis Cap Canaveral via un lanceur Atlas-Agena D. Au bout d'un voyage de 8 mois, la sonde (un engin octogonal de 1,3m de diagonale, de 46 cm de haut et de 260 kg) survole la planète rouge les 14 et 15 Juillet 1965.
+- Mariner 4 est lancée le 28 novembre 1964 depuis Cap Canaveral via un lanceur Atlas-Agena D. Au bout d'un voyage de 8 mois, la sonde (un engin octogonal de 1,3m de diagonale, de 46 cm de haut et de 260 kg) réalise le premier survol de la planète rouge de l'Histoire les 14 et 15 Juillet 1965, et renvoie les premières images rapprochée d'une autre planète.
 - Pour accomplir sa mission, la sonde dispose de 7 instruments :
 > * Une caméra de télévision pour caractériser la topographie de la surface martienne (Les images étaient au format carré, comprenant 200 lignes de 200 pixels chacune)
 > * Un magnétomètre pour mesurer le champ magnétique martien
@@ -855,35 +855,35 @@ L'eau liquide sur Mars coule peut-être actuellement, mais de façon très trans
 > * Un détecteur de rayons cosmiques pour caractériser le flux de particules chargées
 > * 3 compteurs Geiger pour détecter les particules chargées piégées dans le champ magnétique martien
 > * Un détecteur de plasma pour déterminer la densité, la vitesse, la température et le mouvement des protons du vent solaire
-    
-While ideas about the true nature of Mars evolved throughout the first half of the 20th century, in 1965 nobody could say with any confidence how dense the martian atmosphere was or determine its exact composition. Telescopic surveys had recorded a visual event called the "wave of darkening," which some scientists theorized could be plant life blooming and perishing as the harsh martian seasons changed. A few of them still thought of Mars as a place capable of supporting advanced life, although most thought it unlikely. However, there was no conclusive evidence for either scenario.
+- La sonde s'est approchée au plus près de la planète le 15 Juillet 1965 (à 9846 km d'altitude), et sa dernière image est obtenue à une distance de 16 900 km.
+- La durée de l'enregistrement des images dure à peine une heure. Mais la transmission des images à la Terre est beaucoup plus lente, à cause d'un système encore rudimentaire. En effet, pour la transmission, la bande magnétique doit passer entre la tête de lecture d'un magnétoscope qui lit les informations enregistrées sur le fin ruban pour les diriger vers l'antenne grand gain. Le moteur faisait défiler la bande sous la tête de lecture à la vitesse de 0,254 mm par seconde et marquait une pause entre chaque image.
+> * La transmission de la première image a pris 8h.
+> * Il a fallu 10 jours pour transmettre les 22 images.
+- Les images prises par Mariner 4 montrent une planète 
+> * La caméra acquiert 21 images complètes, et les 21 premières lignes de la 22e image. 
+- L'acquisition des données prend fin en Décembre 1967. 
 
-So, as Mariner 4 flew past Mars, much was at stake, both for the scientific community and a curious general public. Were there canals or channels on the surface, as some astronomers had reported? Would we find advanced life forms or vast collections of plant life? Would there be liquid water on the surface?
+
+
+
+
+While ideas about the true nature of Mars evolved throughout the first half of the 20th century, in 1965 nobody could say with any confidence how dense the martian atmosphere was or determine its exact composition. Telescopic surveys had recorded a visual event called the "wave of darkening," which some scientists theorized could be plant life blooming and perishing as the harsh martian seasons changed. A few of them still thought of Mars as a place capable of supporting advanced life, although most thought it unlikely. However, there was no conclusive evidence for either scenario
 
  Son principal objectif était de mener à bien des observations planétaire, mais la sonde devait également conduire des expériences d'astrophysiques (mesure des champs magnétiques et des particules dans l'espace interplanétaire et au voisinage de Mars). Après avoir accompli son objectif principal, elle a également permis aux ingénieurs et techniciens d'acquérir de l'expérience et des compétences dans le domaine des vols interplanétaire de longue durée.
  
-Elle est lancée par la NASA le 28 novembre 1964 pour prendre des photographies de la planète Mars. Elle réalise le premier survol de la planète Mars, envoie les premières images de la surface martienne et de fait, les premières images rapprochées d'une autre planète
  L'objectif principal de Mariner 4, baptisé Mariner-D, est de photographier la surface de la planète Mars à l'aide d'une seule caméra de télévision fixée sur une plate-forme pouvant retourner jusqu'à 22 images après un voyage de près de huit mois, lors de son survol et les transmettre à la Terre et pour effectuer des mesures scientifiques. 
- Mariner 4 survole la planète Mars les 14 et 15 juillet 1965. 
- Mariner 4 exécute toutes les activités programmées avec succès et restitue les données utiles depuis le lancement jusqu'à à 22 h 05 min 07 s, le 1er octobre 1965
-L'acquisition intégrale des données reprend à la fin de 1967. 
-Le 21 décembre 1967, les communications avec Mariner 4 sont définitivement perdues. La NASA déclare la mission terminée le 31 décembre 1967. 
+
 Les images envoyées montrent un sol martien avec de nombreux cratères comme sur la Lune (les missions ultérieures montrent que ce n'est pas typique de la planète Mars, mais seulement des plus anciennes régions imagées par Mariner 4). Une pression atmosphérique de surface de 4,1 à 7,0 mbar et des températures diurnes de -100 °C sont estimées et aucun champ magnétique n'est détecté, ce qui permet de conclure que le vent solaire peut avoir une interaction directe avec l'atmosphère martienne et que l'atmosphère et la surface sont entièrement exposées aux rayonnements solaire et cosmique. 
 Les cratères et l'atmosphère ténue, révélant une planète plutôt inactive et livrée à la rigueur de l'environnement spatial, dissipent les espoirs de découverte de vie intelligente sur Mars, espoirs qui a été entretenus par des siècles de spéculation scientifique ou littéraire.
  Mariner 4 mission journeyed to Mars -- making its closest approach on July 15, 1965  
 the spacecraft far outlasted its planned eight-month mission. It lasted about three years in solar orbit, continuing long-term studies of the solar wind and making coordinated measurements with the Mariner 5 spacecraft. 
 
-La caméra réussira à acquérir 21 images complètes, et les 21 premières lignes de la 22éme et dernière image (qui sera donc incomplète), chaque image étant prise sur un intervalle de 48 secondes. La dernière image sera obtenue à une distance de 16 900 km.
-Le passage le plus rapproché de la sonde au-dessus de la surface martienne a eu lieu le 15 juillet 1965 à 01:00:57 UT très précisément. Mariner 4 a survolé les paysages martiens à 9846 km d'altitude. 
  La photographie historique ne montrera cependant pas grand chose. Mais ce qui est remarquable, c'est qu'elle aura été attendue avec une impatience non dissimulée par les scientifiques. L'arrivée des pixels composant cette image s'échelonnera effectivement sur une période 8 heures !
 
 Les images de Mariner 4 ont fait l'objet de nombreuses anecdotes et en voici une particulièrement intéressante. On n'était pas du tout certain que les images obtenues par Mariner seraient enregistrées et lorsque les premières données sont arrivées enfin au centre de contrôle, il a été décidé de les exploiter en temps réel. Les techniciens ont donc retroussé leurs manches avant de s'atteler à un drôle de travail. Les nombres représentant la luminosité de chaque pixel de l'image n°1 ont été imprimés sur une bande de papier verticale. A chaque fois qu'une colonne était remplie, elle était découpée et la bandelette de papier était collée à côté des précédentes. Après mains découpages et collages, les scientifiques avaient à leur disposition la première image jamais prise d'une autre planète, sous la forme d'une matrice de nombres de 200 lignes sur 200 colonnes ! En utilisant une échelle de couleur et quelques crayons, les techniciens se sont mis à colorier frénétiquement la feuille de papier pour produire une image en fausse couleur qui a fini par laisser apparaître les contours de la planète (l'image n°1 de Mariner 4 montre effectivement une partie du limbe de Mars). 
 
-Si la durée totale de l'enregistrement des images par la caméra n'a pas excédé une heure, il n'en sera pas de même pour la transmission des clichés obtenus vers la Terre. Nous l'avons vu, la transmission de la première image a pris 8 heures, et le même délai affectera les autres clichés. Il faudra compter environ 10 jours pour mener à bien la transmission des 22 images.
 
 
-
-Pour la transmission, la bande magnétique doit passer entre la tête de lecture d'un magnétoscope qui lit les informations enregistrées sur le fin ruban pour les diriger vers l'antenne grand gain. Le moteur faisait défiler la bande sous la tête de lecture à la vitesse de 0,254 mm par seconde et marquait une pause entre chaque image.
 
  Le 20 décembre 1967, Mariner 4 termine son périple martien en devenant à jamais muette. Elle aura tenu 1118 jours. Victime d'une ultime micrométéorite, peut être plus grosse que les autres, la petite sonde aura menée à bien chacun de ses objectifs.
  
