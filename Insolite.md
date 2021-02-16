@@ -45,4 +45,10 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 
 - https://www.sciencealert.com/wild-space-experiments-conducted-by-humans
 
+# Anecdotes de l'histoire des sciences
 
+- Le doigt de Galilée
+- Full Newton Alchemist
+- Le nez de Tycho Brahé
+- Les restes de Clyde Tombaugh
+- Le stylo de Neil Armstrong
