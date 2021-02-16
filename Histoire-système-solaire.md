@@ -960,24 +960,33 @@ The cuts, though, didn’t end the program. Other Mariner spacecraft would be se
 
 - Mariner 9 entered orbit around Mars in November 1971, observing the planet from that vantage point until August 1972. The spacecraft discovered many surface features that indicated that at least sometime in its past Mars was geologically active and photographed features that could have been caused by flowing liquid. The discoveries revolutionized our perception of Mars and gave hope that perhaps at some time in its history it had conditions favorable for life.
 
-### Viking
+### Viking 1 et 2 (NASA, 1975-1982)
 
-Mariner 9 entered orbit around Mars in November 1971, observing the planet from that vantage point until August 1972. The spacecraft discovered many surface features that indicated that at least sometime in its past Mars was geologically active and photographed features that could have been caused by flowing liquid. The discoveries revolutionized our perception of Mars and gave hope that perhaps at some time in its history it had conditions favorable for life.
-The next step in Mars exploration involved placing landers on the surface to examine its properties up close and search for possible signs of present or past life.
+- Viking 1 et 2 sont deux sondes spatiales identiques lancées en 1975 depuis Cap Canaveral par une fusée Titan équipée d'un dernier étage Centaur 
+> Les deux sondes sont lancées à un mois d'intervalle : le 20 août pour Viking 1 et le 9 septembre pour Viking 2
+- Chaque sonde comprend un orbiteur et un atterrisseur à la mission scientifique différente :
+> * L'orbiteur doit cartographier le plus précisément possible la surface de Mars
+> * L'atterrisseur doit détecter des indices d'une éventuelle présence de vie sur Mars
+> * Un troisième objecif est la caractérisation de la structure et de la composition de l'atmosphère et de la surface de la planète
+- Pour accomplir ces objectifs, la sonde dispose de plusieurs instruments :
+> * L'orbiteur est doté d'un système de prise de vue composé de 2 caméras, d'un spectromètre infrarouge pour cartographier l'eau dans la haute atmosphère martienne, et un radiomètre (?) pour la cartographie thermique (?)
+> * Le bouclier de protection thermique (aeroshell) est doté de 2 isntruments : un analyseur de "retarding potential" et un spectromètre de masse pour la haute atmosphère, ainsi qu'une batterie de capteurs (pression, température, densité) pour analyser l'atmosphère durant la descente de l'atterrisseur.
+> * Chaque atterrisseur est doté de 2 caméras, un sismomètre, un spectromètre à fluorescence X, une station météo (température, pression, vitesse des vents) et un laboratoire biologique
+- Après un voyage de près d'un an (10 mois pour Viking 1 et 333 jours pour Viking 2), les sondes arrivent en orbite autour de Mars en 1976 (le 21 Juin pour Viking 1 et le 9 Août pour Viking 2)
+- L'atterrisseur Viking 1 se pose sur le sol martien le 20 Juillet 1976 et Viking 2 le 3 Septembre. Ils sont les premiers engins américains à se poser en douveur sur le sol martien, et les premiers à prendre des images de la surface de la planète exploitables scientifiquement.
+> C'est la sonde soviétique Mars 3
+- 
+- Les sondes Viking étaient prévues pour fonctionner 90 jours après leur atterrissage. Mais Viking 1 a fonctionné plus de 6 ans, jusqu'au 13 Novembre 1982, et Viking 2 a tenu un peu moins de 4 ans, jusqu'au 11 avril 1980 (différents modules ont fonctionné plus ou moins longtemps, entre 1 et 6 ans). 
+> * Viking 2 est terminé suite à une défaillance de sa batterie
+> Le 13 novembre 1982, les ingénieurs de la NASA envoient une mise à jour du logiciel de l'atterrisseur Viking 1 pour corriger un problème de chargement de batterie. Mais le code du logiciel contient une erreur. La mise à jour a donc accidentellement écrasé l'emplacement mémoire réservé au code de pointage de l'antenne de communication de l'atterrisseur. Toute communication entre Viking 1 et la Terre a donc immédiatement été coupée. 
 
-les premiers engins américains sur le sol martien. 
-deux sondes spatiales identiques, Viking 1 et Viking 2, ont été lancées en 1975 par une fusée Titan équipée d'un dernier étage Centaur à un mois d'intervalle. Chacune de ces missions comprenait un engin destiné à se placer en orbite autour de la planète et un module qui devait se poser sur le sol et mener des investigations en restant fixe. Les objectifs scientifiques étaient de réaliser des images à haute résolution de la surface de la planète, de déterminer la structure et la composition de l'atmosphère et d'identifier éventuellement la présence de la vie sur Mars. 
-Les différents modules composant le programme Viking ont fonctionné selon le cas durant 1 à 6 ans. Les sondes spatiales Viking ont permis de découvrir que de nombreuses formations géologiques à la surface de Mars avaient été formées par l'action de l'eau. Par contre, malgré l'emport d'instruments d'analyse sophistiqués, elles n'ont pas permis de déterminer si des formes de vie étaient présentes dans le sol martien.
-c'est en 1975 que les deux sondes s'envolent vers Mars, le 20 août pour Viking 1 et le 9 septembre pour Viking 2. Après un voyage d'un peu moins d'un an, Viking 1 se place en orbite le 21 juin 1976, elle est rejointe par Viking 2 le 9 août sur son orbite. Les deux atterrisseurs se posent sur le sol martien le 20 juillet pour Viking 1 et le 3 septembre pour Viking 2. Viking 1 fonctionnera pendant plus de six ans, jusqu'au 13 novembre 1982. Viking 2 durera un peu moins longtemps, mais continuera tout de même de fonctionner pendant un peu moins de quatre ans, jusqu'au 11 avril 1980. 
+
+
+Les sondes spatiales Viking ont permis de découvrir que de nombreuses formations géologiques à la surface de Mars avaient été formées par l'action de l'eau. Par contre, malgré l'emport d'instruments d'analyse sophistiqués, elles n'ont pas permis de déterminer si des formes de vie étaient présentes dans le sol martien.
+
+
 les missions Viking ont permis de fournir une couverture photographique complète de la surface de Mars avec une résolution variant de 150 à 300 mètres. Certaines des zones ont même été photographiées avec une résolution de 8 mètres. Les missions Viking nous ont fourni la plus complète vision de la planète Mars. Les images prises par les orbiteurs ont permis notamment de découvrir des volcans, des plaines de lave, des canyons immenses, des formations géologiques créées par le vent, et des preuves de la présence d'eau en surface. La mission Viking a également permis de fournir des photographies précises des deux satellites orbitant autour de la planète, Phobos et Déimos. 
 Les atterrisseurs ont fourni pour leur part des images de la surface. Ils y ont prélevé, pour la première fois, des échantillons, étudié le climat, analysé la composition atmosphérique ainsi que la sismicité de la planète. Les deux sondes ont également fourni près de 1 400 images de leurs deux sites d'atterrissage. 
-les deux objectifs scientifiques du programme Viking à remplir étaient :
-
-    pour l'orbiteur : cartographier le plus précisément possible la surface de Mars ;
-    pour l'atterrisseur : détecter une éventuelle présence de vie au stade élémentaire.
-
- Instruments on the orbiters included an imaging system consisting of two cameras, an infrared spectrometer to map water in Mars’ upper atmosphere, and an infrared radiometer for thermal mapping. The lander’s aeroshell carried two instruments, a retarding potential analyzer and an upper atmosphere mass spectrometer, as well as pressure, temperature, and density sensors to take measurements of the Martian atmosphere during the descent. At the time the landers were the most sophisticated planetary spacecraft launched. Each carried two cameras as part of its imaging system, a seismometer, an x-ray fluorescence spectrometer, a weather instrument package to monitor temperature, pressure, and wind velocity, and a biological laboratory.
- 
  
  The biology package consisted of four experiments. The gas chromatograph mass spectrometer was designed to look for any organic compounds that might be present in Martian soil samples. The gas exchange experiment looked for gases given off by a sample of Martian soil incubated in a mix of organic and inorganic nutrients, essentially looking for products of metabolism by any microorganisms. In the labeled release experiment, a drop of a nutrient solution tagged with a 14C label was placed on a soil sample and the air monitored for the release of any 14CO2, a sign of metabolism. The pyrolytic release experiment placed 14C labeled gasses in a chamber with Martian soil, and after a few days of incubation the soil was baked and detectors looked for signs of any labeled gas that would be evidence that organisms in the soil had incorporated them in a process such as photosynthesis. Each lander also carried a remote sampler arm to take soil samples and deposit them into the biology instruments.
  
@@ -1001,8 +1010,7 @@ Viking 2 fut lancé le 9 septembre 1975. Après une navigation de 333 jours, il 
 
 Plus tard, lors de sa mission, l'orbiteur de Viking 2 se rapprocha de Déimos, la plus petite des deux lunes martiennes. Il survola cette lune à une distance de 22 km seulement. Des images particulièrement spectaculaires de ce satellite furent prises. Viking 2 a fourni plus de 16 000 images de Mars et ses satellites avant de s'éteindre le 25 juillet 1978
 
-Viking 1 : fin le 13 novembre 1982, Une erreur humaine durant une mise à jour du logiciel entraîna la mise hors service de l'antenne, entraînant la fin des communications entre l'atterrisseur et la Terre. 
-Viking 2 : fin le	11 avril 1980.  Défaillance de la batterie. 
+ 
 
 Les instruments utilisés pour détecter la présence de vie dans le sol martien fournirent des résultats ambigus. Dans un premier temps, les résultats furent positifs et le résultat d'une des expériences remplit les conditions fixées par la NASA pour affirmer que la vie avait bien été détectée. Ces premiers résultats positifs furent contredits par un second test qui ne parvint pas à révéler l'existence de molécules organiques dans le sol. La plupart des scientifiques furent alors convaincus que les résultats initiaux était le fruit de réactions chimiques de nature non biologique, créées par les conditions particulières d'oxydation du sol sur Mars25.
 
@@ -1010,7 +1018,6 @@ Il existe aujourd'hui un consensus général pour affirmer que les sondes Viking
 
 Le sismomètre embarqué à bord de Viking 1 reste inopérant car les opérateurs ne parviennent pas à débloquer le verrou qui protège sa partie mobile des vibrations durant le vol : ce sismomètre sera le seul instrument non opérationnel de tout le programme Viking. Le sismomètre de Viking 2 peut être activé mais les scientifiques constatent rapidement que les données collectées n'ont rien à voir avec des mouvements sismiques. Solidaire du pont de l'atterrisseur, l'instrument enregistre tous les mouvements mécaniques affectant celui-ci : rotation de l'antenne grand gain orientable, déplacement du bras robotique, fonctionnement du magnétophone et surtout action du vent qui fait vibrer la plateforme. Seules les mesures faites de nuit, caractérisée par une diminution du vent et l'absence d'activité des instruments, sont éventuellement exploitables. 
 
- On November 11, 1982, an over-the-air software update was broadcast to the Viking 1 lander to correct a battery charging issue. The update had an error in it and accidentally overwrote the wrong bits resulting in a bricked lander. Basically, they accidentally overwrote the memory reserved for the antenna pointing code which immediately terminated all communications. 
  
 ### Pathfinder et Sojourner
 
