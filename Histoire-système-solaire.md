@@ -844,8 +844,11 @@ L'eau liquide sur Mars coule peut-être actuellement, mais de façon très trans
 - Entre 1962 et 1973, la NASA construit 10 sondes nommées Mariner destinées à explorer le système solaire interne (Mercure, Vénus, Mars) pour la première fois.
 - Au milieu des années 60, on ne sait rien de l'atmosphère de Mars : ni sa densité, ni sa composition.
 > Depuis la Terre, les télescopes observaient des "vagues de noircissement"
+- Les attentes sont immenses, et les images des canaux martiens sont encore bien ancrés dans la culture populaire.
+> la [carte de Mars utilisée pour plannifier la mission](https://www.planetary.org/space-images/mariner-4-images-map) était d'ailleurs une carte de Mars avec des canaux !
+- Mariner 4 est lancée le 28 novembre 1964 depuis Cap Canaveral via un lanceur Atlas-Agena D. Au bout d'un voyage de 8 mois, la sonde (un engin octogonal de 1,3m de diagonale, de 46 cm de haut et de 260 kg) survole la planète rouge les 14 et 15 Juillet 1965.
 - Pour accomplir sa mission, la sonde dispose de 7 instruments :
-> * Une caméra de télévision pour caractériser la topographie de la surface martienne
+> * Une caméra de télévision pour caractériser la topographie de la surface martienne (Les images étaient au format carré, comprenant 200 lignes de 200 pixels chacune)
 > * Un magnétomètre pour mesurer le champ magnétique martien
 > * Un détecteur de particules pour mesurer le taux de radiation de l'espace interplanétaire et de l'orbite martienne
 > * Un détecteur de poussières cosmiques pour caractériser la distribution en vitesse et en masse de ces particules
@@ -859,14 +862,8 @@ So, as Mariner 4 flew past Mars, much was at stake, both for the scientific comm
 
  Son principal objectif était de mener à bien des observations planétaire, mais la sonde devait également conduire des expériences d'astrophysiques (mesure des champs magnétiques et des particules dans l'espace interplanétaire et au voisinage de Mars). Après avoir accompli son objectif principal, elle a également permis aux ingénieurs et techniciens d'acquérir de l'expérience et des compétences dans le domaine des vols interplanétaire de longue durée.
  
- Mariner 4 consistait principalement en un volume prismatique octogonal de 1,27 mètres de diagonale pour 45,7 centimètres de haut
- Sur la partie basse de l'appareil, une caméra de télévision était montée sur une plate-forme mobile.
-
-- la [carte de Mars utilisée pour plannifier la mission](https://www.planetary.org/space-images/mariner-4-images-map) était une carte de Mars avec des canaux !
 Elle est lancée par la NASA le 28 novembre 1964 pour prendre des photographies de la planète Mars. Elle réalise le premier survol de la planète Mars, envoie les premières images de la surface martienne et de fait, les premières images rapprochées d'une autre planète
-Mariner 4 est un véhicule spatial de 260,8 kg.
  L'objectif principal de Mariner 4, baptisé Mariner-D, est de photographier la surface de la planète Mars à l'aide d'une seule caméra de télévision fixée sur une plate-forme pouvant retourner jusqu'à 22 images après un voyage de près de huit mois, lors de son survol et les transmettre à la Terre et pour effectuer des mesures scientifiques. 
- Le lancement survient le 28 novembre 1964 à 14 h 22 min 01 s TU avec le lanceur Atlas-Agena D de l'aire de lancement LC-12 de la base de lancement de Cap Canaveral. 
  Mariner 4 survole la planète Mars les 14 et 15 juillet 1965. 
  Mariner 4 exécute toutes les activités programmées avec succès et restitue les données utiles depuis le lancement jusqu'à à 22 h 05 min 07 s, le 1er octobre 1965
 L'acquisition intégrale des données reprend à la fin de 1967. 
@@ -884,7 +881,7 @@ Les images de Mariner 4 ont fait l'objet de nombreuses anecdotes et en voici une
 
 Si la durée totale de l'enregistrement des images par la caméra n'a pas excédé une heure, il n'en sera pas de même pour la transmission des clichés obtenus vers la Terre. Nous l'avons vu, la transmission de la première image a pris 8 heures, et le même délai affectera les autres clichés. Il faudra compter environ 10 jours pour mener à bien la transmission des 22 images.
 
-Les images étaient au format carré, chacune comprenant 200 lignes de 200 pixels ou points chacune. 
+
 
 Pour la transmission, la bande magnétique doit passer entre la tête de lecture d'un magnétoscope qui lit les informations enregistrées sur le fin ruban pour les diriger vers l'antenne grand gain. Le moteur faisait défiler la bande sous la tête de lecture à la vitesse de 0,254 mm par seconde et marquait une pause entre chaque image.
 
