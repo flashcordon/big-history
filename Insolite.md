@@ -52,3 +52,4 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - Le nez de Tycho Brahé
 - Les restes de Clyde Tombaugh
 - Le stylo de Neil Armstrong
+- La première image de la surface de Mars a été coloriée.
