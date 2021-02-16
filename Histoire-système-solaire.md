@@ -843,9 +843,10 @@ L'eau liquide sur Mars coule peut-être actuellement, mais de façon très trans
 
 - Entre 1962 et 1973, la NASA construit 10 sondes nommées Mariner destinées à explorer le système solaire interne (Mercure, Vénus, Mars) pour la première fois.
 - Au milieu des années 60, on ne sait rien de l'atmosphère de Mars : ni sa densité, ni sa composition.
-> Depuis la Terre, les télescopes observaient des "vagues de noircissement"
 - Les attentes sont immenses, et les représentations des canaux martiens sont encore bien ancrées dans la culture populaire. Y aurait-il de l'eau liquide à la surface ? Des plantes ? Des civilisations ?
-> la [carte de Mars utilisée pour plannifier la mission](https://www.planetary.org/space-images/mariner-4-images-map) était d'ailleurs une carte de Mars avec des canaux !
+> * Depuis la Terre, les télescopes observaient des "vagues de noircissement", que certains interprètent comme la présence de végétation
+> * Dans un rapport rédigé en 1964, le Space Science Board de la NASA déclare : “Given all the evidence presently available, we believe it entirely reasonable that Mars is inhabited with living organisms and that life independently originated there."
+> * la [carte de Mars utilisée pour plannifier la mission](https://www.planetary.org/space-images/mariner-4-images-map) était d'ailleurs une carte de Mars avec des canaux !
 - Mariner 4 est lancée le 28 novembre 1964 depuis Cap Canaveral via un lanceur Atlas-Agena D. Au bout d'un voyage de 8 mois, la sonde (un engin octogonal de 1,3m de diagonale, de 46 cm de haut et de 260 kg) réalise le premier survol de la planète rouge de l'Histoire les 14 et 15 Juillet 1965, et renvoie les premières images rapprochée d'une autre planète.
 > Mariner 4 est la 7e tentative d'envoi d'une sonde vers Mars.
 - Pour accomplir sa mission, la sonde dispose de 7 instruments :
@@ -856,31 +857,30 @@ L'eau liquide sur Mars coule peut-être actuellement, mais de façon très trans
 > * Un détecteur de rayons cosmiques pour caractériser le flux de particules chargées
 > * 3 compteurs Geiger pour détecter les particules chargées piégées dans le champ magnétique martien
 > * Un détecteur de plasma pour déterminer la densité, la vitesse, la température et le mouvement des protons du vent solaire
+- La sonde est alimentée par des panneaux solaires
 - La sonde s'est approchée au plus près de la planète le 15 Juillet 1965 (à 9846 km d'altitude), et sa dernière image est obtenue à une distance de 16 900 km.
-- La durée de l'enregistrement des images dure à peine une heure. Mais la transmission des images à la Terre est beaucoup plus lente, à cause d'un système encore rudimentaire. En effet, pour la transmission, la bande magnétique doit passer entre la tête de lecture d'un magnétoscope qui lit les informations enregistrées sur le fin ruban pour les diriger vers l'antenne grand gain. Le moteur faisait défiler la bande sous la tête de lecture à la vitesse de 0,254 mm par seconde et marquait une pause entre chaque image.
+- La durée de l'enregistrement des images dure à peine une heure. Mais la transmission des images à la Terre est beaucoup plus lente, à cause d'un système encore rudimentaire. En effet, pour la transmission, la bande magnétique doit passer entre la tête de lecture d'un magnétoscope qui lit les informations enregistrées sur le fin ruban pour les diriger vers l'antenne grand gain. Le moteur faisait défiler la bande sous la tête de lecture à la vitesse de 0,254 mm par seconde et marquait une pause entre chaque image. Les informations sont ensuite transmise à ses antennes à une vitesse de 33 bits/s maximum.
 > * La caméra acquiert 21 images complètes, et les 21 premières lignes de la 22e image.  
 > * La transmission de la première image a pris 8h.
 > * Il a fallu 10 jours pour transmettre les 22 images.
-> *  Chaque photo couvre With each photo covering an area of about 200 square kilometres, the fuzzy black-and-white images collectively captured just 1% of the Martian surface; but it was enough.
- 
-- Les images par Mariner 4 montrent une planète hostile, désertique et couverte de cratères, comme la Lune. Impropre à la vie. C'est une immense déception pour beaucoup de gens.
+> * Chaque photo couvre une surface de 200 km² environ. L'ensemble des images représente à peine 1% de la surface de Mars.
+- Les images par Mariner 4 montrent une planète hostile, sans eau, désertique et couverte de cratères, comme la Lune. Impropre à la vie. C'est une immense déception pour beaucoup de gens, et notamment pour le Congrès Américain qui, déjà agacé par les coûts du programme Apollo et de la guerre du Vietnam, supprime en 1967 30 millions de dollars au programme de mission d'atterrissage martien de la NASA. Heureusement, le programme survivra à cet obstacle et la mission Viking sera finalement envoyée en 1975.
+> * Le 30 Juillet 1965, un édito du New York Times ("Dead Planet") déclare : “Mars, it now appears, is a desolate world [...] Its surface bathed in deadly radiation from outer space, it has very little atmosphere and has probably never had large bodies of water such as those in which life developed on this planet.”
+> * Les missions suivantes ont montré que ces paysages cratérisés n'étaient en fait pas représentatifs de Mars. Mariner 4 a surtout survolé les terrains fortement cratérisés (donc très anciens) des hauts plateaux de l'hémisphère sud.
+- Les capteurs de la sonde ont révélé une faible pression atmosphérique à la surface (4 à 7 millibars, soit 0.4 à 0.7% de la pression terrestre au niveau de la mer), une température de -100°C et une absence de champ magnétique. 
+> Cette pression atmosphérique surprennamment faible par rapport aux modèles de l'époque a poussé les ingénieurs à revoir tous leurs plans pour faire atterrir des sondes sur Mars.
 - L'acquisition des données prend fin en Décembre 1967.
-> Au total, la mission aura envoyé à la Terre 5,2 millions de bits de données (655 kilo-octets)
-
- The atmospheric density was about one-thousandth that of Earth, and no liquid water was apparent on the surface.
+> * Après son survol de Mars, Mariner 4 a continué d'analyser l'environnement interplanétaire pendant 2 ans. Mais fin 1967, la sonde s'est faite endommager par des dizaines de milliers de cailloux spatiaux et a fini par être à court d'azote pour manoeuvrer.
+> * Au total, la mission aura envoyé 5,2 millions de bits de données (655 kilo-octets) à la Terre.
 
 While ideas about the true nature of Mars evolved throughout the first half of the 20th century, in 1965 nobody could say with any confidence how dense the martian atmosphere was or determine its exact composition. Telescopic surveys had recorded a visual event called the "wave of darkening," which some scientists theorized could be plant life blooming and perishing as the harsh martian seasons changed. A few of them still thought of Mars as a place capable of supporting advanced life, although most thought it unlikely. However, there was no conclusive evidence for either scenario
 
  Son principal objectif était de mener à bien des observations planétaire, mais la sonde devait également conduire des expériences d'astrophysiques (mesure des champs magnétiques et des particules dans l'espace interplanétaire et au voisinage de Mars). Après avoir accompli son objectif principal, elle a également permis aux ingénieurs et techniciens d'acquérir de l'expérience et des compétences dans le domaine des vols interplanétaire de longue durée.
- 
- L'objectif principal de Mariner 4, baptisé Mariner-D, est de photographier la surface de la planète Mars à l'aide d'une seule caméra de télévision fixée sur une plate-forme pouvant retourner jusqu'à 22 images après un voyage de près de huit mois, lors de son survol et les transmettre à la Terre et pour effectuer des mesures scientifiques. 
 
 Les images envoyées montrent un sol martien avec de nombreux cratères comme sur la Lune (les missions ultérieures montrent que ce n'est pas typique de la planète Mars, mais seulement des plus anciennes régions imagées par Mariner 4). Une pression atmosphérique de surface de 4,1 à 7,0 mbar et des températures diurnes de -100 °C sont estimées et aucun champ magnétique n'est détecté, ce qui permet de conclure que le vent solaire peut avoir une interaction directe avec l'atmosphère martienne et que l'atmosphère et la surface sont entièrement exposées aux rayonnements solaire et cosmique. 
 Les cratères et l'atmosphère ténue, révélant une planète plutôt inactive et livrée à la rigueur de l'environnement spatial, dissipent les espoirs de découverte de vie intelligente sur Mars, espoirs qui a été entretenus par des siècles de spéculation scientifique ou littéraire.
  Mariner 4 mission journeyed to Mars -- making its closest approach on July 15, 1965  
 the spacecraft far outlasted its planned eight-month mission. It lasted about three years in solar orbit, continuing long-term studies of the solar wind and making coordinated measurements with the Mariner 5 spacecraft. 
-
- La photographie historique ne montrera cependant pas grand chose. Mais ce qui est remarquable, c'est qu'elle aura été attendue avec une impatience non dissimulée par les scientifiques. L'arrivée des pixels composant cette image s'échelonnera effectivement sur une période 8 heures !
 
 Les images de Mariner 4 ont fait l'objet de nombreuses anecdotes et en voici une particulièrement intéressante. On n'était pas du tout certain que les images obtenues par Mariner seraient enregistrées et lorsque les premières données sont arrivées enfin au centre de contrôle, il a été décidé de les exploiter en temps réel. Les techniciens ont donc retroussé leurs manches avant de s'atteler à un drôle de travail. Les nombres représentant la luminosité de chaque pixel de l'image n°1 ont été imprimés sur une bande de papier verticale. A chaque fois qu'une colonne était remplie, elle était découpée et la bandelette de papier était collée à côté des précédentes. Après mains découpages et collages, les scientifiques avaient à leur disposition la première image jamais prise d'une autre planète, sous la forme d'une matrice de nombres de 200 lignes sur 200 colonnes ! En utilisant une échelle de couleur et quelques crayons, les techniciens se sont mis à colorier frénétiquement la feuille de papier pour produire une image en fausse couleur qui a fini par laisser apparaître les contours de la planète (l'image n°1 de Mariner 4 montre effectivement une partie du limbe de Mars). 
 
@@ -888,50 +888,19 @@ Les images de Mariner 4 ont fait l'objet de nombreuses anecdotes et en voici une
  
   Tous les instruments ont fonctionné comme prévu, sauf la chambre d'ionisation (et son compteur Geiger) qui est tombé en panne pendant le mois de février 1965 et le capteur de plasma solaire qui a vu ses performances se dégrader à partir du 6 décembre 1964.
   
-  La surprise fut considérable de voir l'extraordinaire ressemblance du sol martien avec la surface de la Lune, et bien peu avait prévu que Mars posséderait des cratères d'impact (à part Clyde Tombaught, l'heureux découvreur de Pluton et quelques autres). Mars n'était finalement pas tellement différente de la Lune, et n'avait plus rien du monde bouillonnant et excitant que l'on imaginait.
-  
-  Les images de Mariner 4 ne mentaient pas et Mars possède effectivement de nombreux cratères d'impact. Mais les 22 images acquises par la caméra de Mariner 4 ne couvraient que 1 % de la surface martienne, et la sonde a surtout survolé les terrains fortement cratérisés des hauts plateaux de l'hémisphère sud. Les régions survolées, Amazonis et Mare Sirenum, étaient de plus peu diversifiées. On a pensé à tort que les images de Mariner 4 étaient représentatives de la planète rouge. Alors qu'elles n'en montraient qu'une petite partie.
-  
-  Cette nouvelle valeur de la pression atmosphérique, extrêmement basse, de la pression atmosphérique martienne a eu une conséquence insoupçonnée. Elle a invalidé tous les projets d'atterrisseurs martiens et a forcé les ingénieurs à retourner à leur planche à dessin pour concevoir de nouveaux modules capables d'effectuer un atterrissage sans risque, en dépit d'une pression atmosphérique très faible. Les projets d'atterrisseurs pour l'année 1967 pouvaient rejoindre les poubelles, et aucun atterrissage sur Mars à cette période n'était plus possible techniquement. 
-
 L'occultation radio a également permis d'estimer les températures au-dessus de certaines régions comme Electris ou Mare Acidalium : entre -80° et -120 °C. Des températures glaciales pour des régions équatoriales ou tropicales !
 
 Lorsque la sonde Mariner 4 a survolé la planète rouge, les ingénieurs n'avaient aucun moyen de savoir si les images obtenues par la caméra avaient bel et bien été enregistrées. Dans l'expectative, ils ont donc décidé de reconstituer la première image de Mars en temps réel, à l'aide de quelques feuilles de papiers, d'un ciseau, d'un peu de colle et d'une poignée de crayons de couleurs ! Chaque image de Mariner 4 se composait de 200 colonnes d'une hauteur de 200 pixels chacune. Dès que la valeur de luminosité d'un pixel (codée sur 64 niveaux de gris) parvenait à la Terre, elle était imprimée sur une grande bande de papier. Dès qu'une bande était complétée, elle était collée sur un grand tableau blanc. Pour faire apparaître l'image, les ingénieurs ont ensuite colorié chaque pixel selon sa valeur de luminosité, comme un enfant l'aurait fait avec un album à colorier. Etrange contraste que cette première image de Mars, envoyée sur Terre par une sonde robotique qui représentait à l'époque le summum en matière de technologie spatiale, et néanmoins assemblée avec le contenu d'une trousse d'écolier ...
-    
-    The images covered a discontinuous swath of Mars starting near 40 N, 170 E, down to about 35 S, 200 E, and then across to the terminator at 50 S, 255 E, representing about 1% of the planet's surface.
+ 
 
- The images returned showed a Moon-like cratered terrain (which later missions showed was not typical for Mars, but only for the more ancient region imaged by Mariner 4). A surface atmospheric pressure of 4.1 to 7.0 mb and daytime temperatures of -100 degrees C were estimated and no magnetic field was detected, leading to the conclusion that the solar wind may have direct interaction with the martian atmosphere, and that the atmosphere and surface are fully exposed to solar and cosmic radiation. 
 
-Four solar panels generated 310 watts of electric power to operate the spacecraft’s systems and science instruments. During the eight-month cruise phase to Mars, the spacecraft took measurements on the conditions of interplanetary space and transmit the data to Earth. During the flyby of the planet, the spacecraft recorded the images onboard for playback to Earth after the encounter.
-On July 14, 1965, after a 228-day cruise from Earth, Mariner 4 passed within 6,118 miles of Mars, snapping 22 photographs of the planet and taking scientific measurements. The spacecraft passed behind the planet as seen from Earth, allowing a radio occultation study to estimate the density of the Martian atmosphere. Playback of the flyby imagery began soon after Mariner 4 emerged from behind Mars and continued until Aug. 3.
+The spacecraft passed behind the planet as seen from Earth, allowing a radio occultation study to estimate the density of the Martian atmosphere. 
 The data Mariner 4 beamed back to Earth surprised many scientists. The radio occultation results indicated a very low surface atmospheric pressure, about 1 % that at Earth’s sea level.
 
 The on-board tape recorder used on Mariner 4 was a spare, not originally intended for the Mariner 4 flight. Between the failure of Mariner 3, the fact that the Mariner 4 recorder was a spare, and some error readings suggesting an issue with the tape-recorder, it was determined that the team would test the camera function definitively. This eventually led to the first digital image being hand-drawn. While waiting for the image data to be computer processed, the team used a pastel set from an art supply store to hand-color (paint-by-numbers style) a numerical printout of the raw pixels. The resulting image provided early verification that the camera was functioning. The hand-drawn image compared favorably with the processed image when it became available
 The first digital image from Mars hand-colored like a paint-by-numbers picture 
-
- Technical instruments, most of which were mounted on the frame’s exterior, included a magnetometer, dust detector, cosmic ray telescope, trapped radiation detector, solar plasma probe, Geiger counter and, most importantly, a television camera.
- 
-It was radioed back to Earth as digital data. Mariner 4 could transmit information through its high-gain antenna at a speed of 33.3 bits per second and its low-gain antenna at 8.3 bps. Sending a whole image (200 by 200 pixels) took about 10 hours.
- 
+  
  Digital image data transmitted by Mariner was converted by a “real-time data translator” into numbers printed on thin strips of paper. Too impatient to wait for the official processed image, members of the telecommunications section at NASA’s Jet Propulsion Laboratory manually arranged the strips and hand-coloured the numbers to produce the above picture. The completed image was subsequently framed and presented to JPL’s director, William Pickering.
- 
-
-
-After its voyage past Mars, Mariner 4 maintained intermittent communication with JPL and returned data about the interplanetary environment for two more years. But by the end of 1967, the spacecraft had suffered tens of thousands of micrometeoroid impacts and was out of the nitrogen gas it used for maneuvering. The mission officially ended on December 21.
-
-“Mars, it now appears, is a desolate world,” declared a July 30, New York Times editorial titled “Dead Planet.” “Its surface bathed in deadly radiation from outer space, it has very little atmosphere and has probably never had large bodies of water such as those in which life developed on this planet.”
-
-The Times added that these findings refuted a draft report—published three months earlier by the National Academy of Sciences—which had stated, “Given all the evidence presently available, we believe it entirely reasonable that Mars is inhabited with living organisms and that life independently originated there."
-
-
-
-Although the National Academy of Sciences had said it was reasonable for Mars to host living organisms, it also cautioned that those life-forms would almost certainly be microbes, which would be impossible to detect without landing on the surface.
-
-And, as the NASA History Office explains, “The spacecraft had, after all, imaged only 1 percent of Mars at resolution so low that, had it photographed Earth, scientists examining its pictures would likely have missed all signs of terrestrial life.”
-
-Still, NASA had been selling the public on the idea that exploring Mars promised the possibility of finding the first evidence of extraterrestrial life. The initial, bleak images of the red planet made that a harder sell. In 1967, the U.S. Congress—already frustrated by the escalating costs of the Apollo program and the Vietnam War—cut $30 million from the program to land a spacecraft on Mars.
-
-The cuts, though, didn’t end the program. Other Mariner spacecraft would be sent to Mars over the next few years. And, in 1976, NASA finally landed the Viking spacecraft on the red planet’s surface. 
 
 ### Mariner 9
 
