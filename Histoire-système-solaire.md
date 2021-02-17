@@ -685,99 +685,52 @@ and no doubt lives into its development
 
 ## Histoire de l'observation de Mars
 
-- Kepler’s battle with Mars was won in1605, when he finally
-realized that the orbit of the planet was elliptical and that it moved
-about the Sun, sweeping out equal areas in equal intervals of time.
-
-l'astronome William Herschel, à la fin du XVIIIème siècle, avait proposé que les calottes polaires de Mars (figure ci dessous), qui avaient déjà été observées par Cassini au siècle précédent, étaient constituées de neige et de glace.
-- W. Herschel, 1784. On the Remarkable Appearances at the Polar Regions of the Planet Mars, the Inclination of Its Axis, the Position of Its Poles, and Its Spheroidical Figure; With a Few Hints Relating to Its Real Diameter and Atmosphere, Philosophical Transactions of the Royal Society of London, 74, 233-273.
-
-l'eau (sous forme de glace) a été découverte sur Mars en 1666 (règne de Louis XIV), et qu'on a la preuve que de l'eau liquide a coulé à la surface de Mars dans un passé lointain depuis 1971 (mission Mariner 9).
-
-Dès 1666, Jean-dominique Cassini estimait que Mars ressemblait beaucoup à la Terre. Pour lui, les étendues sombres et claires que l'on distinguait à la lunette n'étaient que l'équivalent des mers et des continents terrestres. Pour un observateur de la surface terrestre, la première chose qui frappe est le découpage en mers et en terres émergées. Il était donc tout à fait naturel de calquer sur Mars cette caractéristique terrestre. Les masses d'eau ayant la propriété d'absorber les rayons du Soleil, Cassini pressent que les zones sombres doivent correspondre à des étendues d'eau, tandis que les plages plus claires coïncideraient plutôt avec des continents.
-
-Dans son ouvrage Cosmotheoros publié en 1698, soit trois années après sa mort, Christian Huygens s'interroge pour la première fois sur les couleurs de Mars : il estime que les paysages martiens doivent être plus sombres que ceux de Jupiter ou de la Lune, ce qui expliquait le bel aspect cuivré de Mars dans le champ d'un télescope.
-
-Le fils du grand astronome William Herschel considérait lui aussi que les zones claires de Mars devaient correspondre à des continents, tandis que les plages sombres - au pouvoir absorbant plus important -, ne pouvaient être que des masses liquides. Il avait également noté l'étrange teinte verdâtre que revêtaient parfois les mers martiennes, mais il attribua bien vite cette coloration étonnante à une simple différence de contraste entre les zones claires et les zones sombres.
-
-François d'Arago, le directeur de l'observatoire de Paris, remarqua de son côté la nature changeante des couleurs martiennes. Alors que la planète apparaissait rosâtre dans un petit instrument, elle devenait successivement orange puis jaune dès que l'on passait à des grossissements supérieurs. Quant aux teintes verdâtres qu'il avait lui aussi noté, il n'y voyait, comme son confrère, que le résultat d'une illusion d'optique.
-
-Lors de l'opposition de 1858, le père jésuite Angelo Secchi note à la surface de Mars un large triangle sombre, qui semble tirer sur le bleu (la fameuse région de Syrtis Major, connue à cette époque sous le nom de Mer du Sablier). 
-
-Pour Secchi, il ne fait plus aucun doute que l'eau liquide existe sur Mars et que la surface martienne est découpée en mers et en continents. Comment, sinon, expliquer les teintes bleutés de la surface ? Cette vision maritime de la planète Mars est rapidement acceptée par les astronomes. En 1867, Richard Anthony Proctor publie sa propre carte de Mars. Par analogie avec la Terre, les étendues claires jaunes orangées sont désignées comme des déserts, tandis que les régions sombres et bleuâtres sont assimilées à des océans, des mers ou des lacs. Reste que la topographie martienne est mouvante, et que les cartes ne correspondent parfois plus avec la réalité : d'année en année, certaines zones sombres enflent démesurément, jusqu'à recouvrir de larges régions préalablement désertiques. Ce phénomène semble confirmer leur nature liquide : les astronomes assistent simplement à d'énormes inondations, les mers et les océans empiétant sur les terres émergées.
-
-L'hypothèse maritime ne fait pourtant pas l'unanimité. John Philipps, un professeur de géologie d'Oxford, qui avait profité de l'opposition de 1862 pour scruter intensément la planète Mars, met en doute la nature des zones sombres. Selon lui, ces dernières pourraient être des terres mornes et grisâtres, à l'image des mers lunaires. Philipps note également que si les taches sombres sont bien des mers, elles devraient réfléchir la lumière du Soleil. Pour l'astronome Giovanni Schiaparelli, cette réflexion spéculaire devrait donner naissance à un point lumineux aussi brillant qu'une étoile de troisième magnitude à la surface de Mars. Or, bien que la position du point où devait se réfléchir l'image du Soleil ait été publiée durant de nombreuses années dans les éphémérides astronomiques, personne n'assista jamais au phénomène ...
-
-Emmanuel Liais, un astronome français travaillant à l'observatoire de Paris, va alors suggérer une autre explication, qui va malheureusement être largement ignorée des années durant. Dans son ouvrage intitulé "L'espace céleste", publié en 1865 et illustré de nombreuses esquisses en couleurs de Mars exécutées en 1860, Liais estime que les zones sombres pourraient correspondre non pas à des étendues d'eau liquide, mais à un couvert végétal.
-
-Dans son superbe recueil "la planète Mars", remarquable compilation de toutes les observations martiennes réalisées jusqu'alors, Camille Flammarion défend l'hypothèse maritime, sans pour autant exclure la présence de végétation. Fasciné par la question de l'existence d'une vie extraterrestre sur les autres planètes, Flammarion ne peut effectivement pas se résoudre à accepter la stérilité des étendues désertiques martiennes. Mars, qui semble posséder tous les attributs nécessaires à la vie, ne mérite pas d'être un globe sans vie ! Flammarion estime alors que les zones ocres sont recouvertes d'une végétation ... rougeâtre ! Après tout, pourquoi la végétation martienne serait-elle verte, s'interroge Flammarion ? L'astronome remarque que lorsque l'on sépare les composants de la chlorophylle par le procédé de chromatographie, on obtient  deux pigments, l'un vert (chlorophylle a et chlorophylle a) et l'autre jaune (carotène et xanthophylle). La végétation martienne, qui n'a pas a être identique à celle de la Terre, pourrait très bien n'utiliser que le second élément pour sa chlorophylle, ce qui lui donnerait une apparence jaune, et expliquerait les teintes fauves des étendues végétales ...
-
-Lors de l'opposition de 1892, William Henry Pickering, le directeur de l'observatoire de Lick, réalisa des observations particulièrement controversées (il indiqua en particulier avoir aperçu de la neige tombant en flocons sur des sommets montagneux de la bande équatoriale, puis fondre peu après). Pickering assista à un phénomène étrange, qui entrait en contradiction avec la vision maritime de Mars. Certains des canaux décrits par Schiaparelli traversaient impunément les zones sombres, qui ne pouvaient donc plus être des mers ou des océans. Pour Pickering, la teinte verdâtre suggérait plutôt une origine organique, et les grandes étendues sombres devaient être formées par un prodigieux entrelacement d'espèces végétales (comme l'avait déjà suggéré d'Emmanuel Liais dans les années 1860). Comme Flammarion, Pickering croyait lui aussi en la présence de végétaux sur Mars, même si, pour les deux astronomes, ces derniers n'étaient ni au même endroit, ni de la même couleur !
-
-L'excentrique Percival Lowell avait de plus noté qu'au printemps et en été, certaines taches exhibaient clairement des teintes bleuâtres ou verdâtres. Avec l'arrivée de l'automne, ces zones sombres se mettaient à revêtir un habit brun rouille, violacé ou carmin, une palette de couleurs qui évoquait irrésistiblement celles de nos forets en automne, lorsque les arbres se mettent à faner. L'hypothèse végétale gagnait donc progressivement du terrain sur l'hypothèse maritime, d'autant plus que la couleur n'était pas le seul indice en faveur de l'existence d'une jungle luxuriante sur Mars.
-
-Un autre changement, saisonnier celui-là, semblait confirmer cette hypothèse. Au début du printemps, alors que les premiers rayons du Soleil commencent à lécher les glaces de la calotte polaire, une vague sombre se matérialise au niveau du pôle et commence une lente migration en direction des basses latitudes. Tout se passe comme si une formidable bombe explosait au niveau du pôle en générant une onde de choc annulaire progressant de tous côtés. Le phénomène a tellement d'ampleur que la vague obscure dépasse parfois l'équateur et s'étale dans l'hémisphère opposé ! Fasciné par cette sorte de marée noire martienne, Lowell avait même réussi à en déterminer la vitesse de progression. D'après ses calculs, la vague se déplaçait à la vitesse de 30 km par jour ! Cette dernière n'étant pas bloquée par les reliefs, il devint rapidement clair que l'agent responsable de l'assombrissement se propageait par voie atmosphérique, et non pas par voie terrestre. Pour de nombreux astronomes, ce phénomène s'expliquait par une augmentation de l'humidité atmosphérique, qui réveillait sur son passage une vie végétale.
-
-En 1906, dans son ouvrage "Mars et ses canaux", Lowell voyait "l'existence de végétaux sur cette planète comme la seule explication possible des traces sombres que l'on peut y voir : celles-ci sont remarquables non seulement par leur apparence à un moment donné, mais aussi par les changements qu'elles subissent à chaque saison successive de l'année martienne". Si, quelques années plus tard, la réalité des canaux martiens sera sérieusement remise en question, la présence - tout aussi spéculative - d'une végétation sur Mars sera encore largement acceptée par les scientifiques jusqu'au milieu du XXe siècle. En 1947, le soviétique Gavriil A. Tikhov, bien déterminé à étudier la végétation martienne, dota même l'institut de physique et d'astronomie de l'académie des sciences du Kazakhstan d'une chaire d'astrobotanique !
-
-L'hypothèse de l'existence d'une végétation martienne se heurtait pourtant à un obstacle sérieux : les scientifiques étaient en effet incapables de détecter la moindre trace de chlorophylle sur Mars
-
-Les couleurs de certaines régions de la surface martienne, ainsi que les changements (saisonniers ou non) qu'elles subissaient avaient conduit les astronomes à croire en l'existence d'une végétation sur Mars. Aujourd'hui, nous savons que tout cela n'était qu'une illusion de contraste, là ou les canaux martiens avaient été illusion de forme. Vision poétique et naïve, la végétation martienne n'a probablement existé que dans les rêves des terriens, et jamais le vent martien n'a fait bruisser le moindre feuillage sur la planète rouge.
-
-L'avancée et le retrait des taches sombres sont simplement dus à la nature poussiéreuse de Mars. Les régions sombres sont généralement des affleurements de roches volcaniques, tandis que les déserts clairs correspondent la plupart du temps à des terrains drapés par un manteau de poussière. Lorsque la couverture de poussière est décapée par les vents, et que les roches sont mises à nu, les régions sombres semblent étendre leur emprise sur la surface martienne. Au contraire, une accumulation massive de poussière (au crépuscule d'une tempête de poussière par exemple) peut facilement faire disparaître de vastes étendues sombres. Quant aux inquiétantes vagues d'assombrissement qui étendaient leurs voiles ténébreux à la surface de Mars, ils seraient paradoxalement dus à des vagues d'éclaircissement. Cette explication, proposée par le grand astronome Charles Capen, prouve encore une fois la facilité avec laquelle Mars peut nous tromper. Au printemps, la fonte de la pellicule de glace déposée en hiver dévoilerait des dépôts clairs de poussière, qui rendraient alors plus sombres les terrains alentours ...
-
-Quant aux vifs reflets bleus et verts des régions sombres, qui étaient réellement observés par les astronomes, ils doivent être mis sur le compte d'une illusion d'optique connue sous le nom de contraste simultanée. Comme l'avait noté dès 1839 un chimiste français (M.E. Chevreul), lorsque des couleurs relativement neutres et continues sont vues côte à côte, elles vont apparaître de manière aussi différente que possible. Ainsi, les étendues sombres, qui exhibent en réalité des teintes ternes évoluant entre le rouge foncé et le gris-brun, se parent soudain de tons bleuâtres et verdâtres lorsqu'elles sont observées au voisinage des plages jaune orange des déserts martiens. Par le jeu d'une étonnante distorsion de la perception, l'apparence d'une couleur dépend donc plus souvent des couleurs voisines que de sa nature réelle. Comme nous l'avons vu plus haut, cette explication purement physique avait déjà été soulevée au XIXe par les astronomes John Herschel et François Arago, mais elle a vite été reléguée aux oubliettes, condamnée sans doute par son manque de poésie.
-
-L'homme avait à peine rivé son oeil à l'oculaire d'une lunette que les couleurs de Mars avaient déjà commencé à lui jouer des tours
-
+- C’est par l’observation rigoureuse de la trajectoire de Mars au fil des nuits dans le ciel nocturne (réalisée en collaboration avec l’astronome danois ? Tycho Brahe) que Johannes Kepler réalise que les orbites des planètes autour du Soleil ne sont pas sphériques, mais elliptiques.
+- En 1666, Jean-Dominique Cassini émet l’idée que Mars ressemble beaucoup à la Terre. Il suggère que les étendues sombres et claires qu’il observe sont respectivement des mers et des continents.
+- A la fin du 18e siècle, William Herschel propose que les calottes polaires de Mars sont constituées de neige et de glace (W. Herschel, 1784. On the Remarkable Appearances at the Polar Regions of the Planet Mars, the Inclination of Its Axis, the Position of Its Poles, and Its Spheroidical Figure; With a Few Hints Relating to Its Real Diameter and Atmosphere, Philosophical Transactions of the Royal Society of London).
+- Le fils de Wiliam Herschel quant à lui, remarque une étrange teinte verdâtre dans les « mers » martiennes. Il l’attribue à une illusion d’optique.
+- François Arago, le directeur de l’Observatoire de Paris, remarque que les couleurs martiennes semblent changer au fil du temps. Elles passerait du rose au jaune, en passant par l’orange. Il pense aussi que c’est une illusion d’optique.
+- En 1858, le père jésuite Angelo Secchi affirme observer un gros triangle sombre et bleuâtre à la surface de Mars, qu’il attribue à la présence d’un océan liquide. C’est l’hypothèse maritime, populaire auprès des astronomes.
+- En 1867, Richard Anthony Proctor publie sa propre carte de Mars, avec ses océans (les régions bleuâtres) et ses déserts (les régions orangées). Mais ces régions semblent changer de forme avec le temps. De nombreux astronomes interprètent cela comme d’énormes inondations à la surface de Mars.
+- Mais pour d’autres astronomes, comme Emmanuel Liais (1860) et Percival Lowell (Mars et ses canaux, 1906), les zones sombres ne correspondent pas à des océans, mais à des couvertures végétales. C’est l’hypothèse végétale.
+- Pour Lowell, les vagues d’assombrissement que l’on peut voir périodiquement sur la planète au fil des saisons ne peuvent s’expliquer que par la présence de végétation.
+> Lowell prétend qu’au printemps et en été, certaines taches tirent vers le bleu-vert. En automne, les zones sombres se transforment en zones rougeâtres, violacées ou carmin, ce qui rappelle l’automne terrestre à l’astronome.
+- Cette idée d’une planète mars couverte de végétation va être très populaire chez les scientifiques jusqu’au milieu du 20e siècle
+> * Dans son recueil « La planète Mars » publié en XXX, Camille Flammarion défend l’hypothèse maritime, mais n’exclut pas la présence de végétation (mais une végétation rougeâtre!)
+> * En 1947,  le soviétique Gavriil A. Tikhov va même jusqu’à créer une chaire d’astrobotanique à  l'institut de physique et d'astronomie de l'académie des sciences du Kazakhstan
+- Aujourd’hui, on interprète ces changements de couleurs comme une simple illusion de contraste. La végétation martienne n’existait que dans les esprits rêveurs des astronomes, et dans les limites de notre perception.
+> * L’avancée et le retrait des taches sombres sont attribués à la dynamique des poussières au gré des vents martiens, au fil des saisons. Les régions claires sont des terrains poussiéreux. De temps en temps, les tempêtes de poussière font disparaître les régions sombres, qui sont des affleurements de roches volcaniques. Au printemps, la glace se sublime, et dévoile des dépôts clairs de poussière, ce qui rend plus sombres les terrains alentours. C’est là l’origine des vagues d’assombrissement !
+> * Les teintes bleutées et verdâtres des régions sombres sont attribués à une illusion d’optique , l’illusion de « contraste simultané » : lorsque des couleurs continues sont vues côte à côte, on les voit apparaître de manière plus différente qu’elles ne le sont. Les étendues rouges et oranges du sol martien font donc apparaître l’illusion de ces teintes.
+- Mais la végétation n’est pas la seule illusion martienne qui a berné les astronomes. Les canaux de Mars 
 
 ## Propriétés de Mars
 
-- Mars fait un dixième de la masse de la Terre, et près de la moitié de sa taille
-- Il fait de l'ordre de 4 fois plus froid sur Mars que sur Terre
-- Mars est un monde inactif, géologiquement parlant.
-- Sa gravité de surface est 38% celle de la Terre
-- Mars fait un tour complet sur elle-même en un peu plus de 24h, et effectue un tour complet du Soleil en presque 2 ans (1,9) terrestres
-- Elle se trouve à 1.5 UA du Soleil (entre 1,381 et 1,666 UA)
-- The youngest large-scale surface features on Mars are the Tharsis
-and Elysium regions, where huge volcanoes rise above the surrounding
-plains. Crater counts indicate that the impressive chain of
-Tharsis volcanoes have probably been active during the past 1
-billion years, and the least cratered flanks of the mighty Olympus
-Mons (the largest volcano in the entire Solar System) have an
-estimated age of just 30 million years, suggesting that perhaps the
-volcano is presently dormant rather than extinct
-- Detailed model calculations indicate that Phobos will impact
-the Martian surface in about 100 million years
-- Mars, figure 2, est une planète rocheuse, plus petite (3 400 km de rayon) que la Terre (6 370 km de rayon), qui présente les traces d'une intense activité volcanique passée en surface avec des grandes plaines de lave au Nord et des volcans géants ( Olympus Mons étant le plus grand volcan de Mars et du système solaire), mais aussi d'une activité tectonique avec la présence d'un grand rift, Valles Marineris . Cependant, elle ne présente pas de tectonique des plaques, processus très spécifique à la Terre : les volcans ne sont pas alignés le long de limites de plaques tectoniques. Ils se sont formés à l'aplomb de grands panaches de matériel mantellique chaud remontant depuis les profondeurs du manteau par convection. Mars présente cependant une surface très ancienne, avec un âge moyen de l'ordre de 3 à 3,5 milliards d'années. Sur Terre, il n'existe au contraire que très peu de roches datant d'une période si ancienne. 
-
 - À cause de sa couleur rouge dans le ciel nocturne, on l’a longtemps associé au sang, à la guerre. Mars est d’ailleurs le nom du dieu romain de la guerre.
 > * Cette couleur rouge est due à l’oxyde de fer (autrement dit, de la rouille) parsemé sur sa surface.
-> * Elle est aussi due à l’histoire de la planète : Mars n’ayant pas d’oxygène moléculaire dans son atmosphère, elle n’a pas développé de couche d’ozone pour la protéger des rayons UV du Soleil. Ces derniers ont donc brisé les molécules d’eau dans l’atmosphère en leurs constituants élémentaires. L’hydrogène s’échappe, ce qui participe à l’échappement atmosphérique de la planète. L’oxygène, plus lourd, se combine au fer du sol pour former des oxydes. 
-- Mars se trouve à 1,52 UA du Soleil
-- Un jour sidéral sur Mars dure 24,62 heures
+> * Elle est aussi due à l’histoire de la planète : Mars n’ayant pas d’oxygène moléculaire dans son atmosphère, elle n’a pas développé de couche d’ozone pour la protéger des rayons UV du Soleil. Ces derniers ont donc brisé les molécules d’eau dans l’atmosphère en leurs constituants élémentaires. L’hydrogène s’échappe, ce qui participe à l’échappement atmosphérique de la planète. L’oxygène, plus lourd, se combine au fer du sol pour former des oxydes.
+- Mars se trouve à 1.5 UA du Soleil (entre 1,381 et 1,666 UA)
+- Mars fait un tour complet sur elle-même en un peu plus de 24h, et effectue un tour complet du Soleil en presque 2 ans (1,9) terrestres 
+> Un jour sidéral sur Mars dure 24,62 heures
 - Elle fait un dixième de la masse de la Terre (10,7%) et à peine plus de la moitié de sa taille (diamètre : 53 % celui de la Terre)
+> Rayon de Mars : 3 400 km. Rayon de la Terre : 6 400 km
 - Sa gravité de surface est donc plus faible que sur Terre : sur Mars, vous pèseriez 38 % de votre poids
-- L’atmosphère de Mars est assez similaire à celle de Vénus : composée à 95 % de CO2, avec quelques pourcents d’argon (1,6%) et d’azote.
+- Il fait de l'ordre de 4 fois plus froid sur Mars que sur Terre (-67°C en moyenne? Températures extrêmes ?)
+- L’atmosphère de Mars est assez similaire à celle de Vénus :
+ composée à 95 % de CO2, avec quelques pourcents d’argon (1,6%) et d’azote.
 - Mars a perdu une grande partie de son atmosphère, qui est aujourd’hui 100 fois moins dense que sur Terre (pression de surface : 1 % de celle de la Terre). Par le passé, elle était probablement 10 à 100 fois plus dense.
 > * Cette pression est insuffisante pour garantir l’existence de l’eau liquide à la surface de Mars. L’eau existe sous forme de vapeur et de glace, mais elle ne peut que se sublimer ou se solidifier. 
 > * Le faible volcanisme de Mars couplé à l’échappement atmosphérique explique pourquoi l’atmosphère est si ténue aujourd’hui.
 - Mars possède 2 calottes polaires, composées de glace de CO2 à la surface et de glace d’eau par dessous (à vérifier)
 - Mars ne génère pas de champ magnétique interne, son cœur solidifié n’étant plus en état d’en produire un par effet dynamo. Par contre il y a des traces de magnétisme dans certaines roches de la vieille croûte martienne. Elle a donc probablement eu une magnétosphère par le passé suffisamment puissant pour magnétiser les roches de surface.
-- On a de solides indices qui laissent penser que Mars a abrité un océan d’eau liquide qui recouvrait une bonne partie de l’hémisphère Nord il y a plusieurs milliards d’années.
-> * De nombreuses formations rocheuses, dont la plupart se trouve dans l’hémisphère nord, sont autant d’indices qui pointent vers l’existence d’eau liquide par le passé : des « outflow channels », des réseaux de vallées qui ressemblent à des lits de rivière « meandering », des terrains lissent que l’on interprète comme du plancher océanique, des bassins d’impact circulaires marqués par des traces de circulation d’eau...
-> * Spirit et Opportunity ont découvert à la surface des petites formations sphériques d’hématite nommées myrtilles (« blueberries »), qui ne se forment qu’en présence d’eau. On a aussi découvert des argiles et Opportunity a découvert des couches de sédiments avec des traces de « ripples ».
-- Quelle quantité d’eau avait Mars par le passé ? Le deutérium (hydrogène lourd) est 5,5 fois plus abondant dans l’atmosphère martienne que l’hydrogène « normal ». Grâce à ces données, on infère que Mars abritait 20 fois plus d’eau qu’aujourd’hui par le passé.
-- La grande majorité de l’eau Martienne se trouve aujourd’hui emprisonnée sous forme de glace dans les calottes polaires, ainsi que dans la croûte martienne, sous la surface
-> Les relevés radar de Mars Express ont montré qu’il y a probablement suffisamment d’eau dans la calotte polaire sud pour recouvrir toute la surface de la planète avec un océan de 11m de profondeur.
 - Les planétologues divisent l’histoire géologique de Mars en trois périodes :
 > * le Noachien (-4,3 – 3,7 milliards d’années), période pendant laquelle Mars est bombardée d’astéroides 
 > * l’Hespérien (-3,7 – 3 milliards d’années), période durant laquelle des flots de lave recouvrent une fraction de la surface de Mars.
 > * l’Amazonien (-3 milliards d’années – présent), période d’évolution lente 
+- Mars est un monde inactif, géologiquement parlant.
 - La surface de Mars est ponctuée de volcans boucliers. Mais ceux-ci ne sont pas dus à une activité tectonique (Mars n’ayant pas développé un système de plaques comme sur Terre), mais à des points chauds, c’est-à-dire à du magma issus du manteau qui montent à la surface.
-> Le plus gros de ces volcans est Olympus Mons. C’est le plus gros volcan du système solaire. Si ces volcans sont si gros, c'est parce que Mars a une croûte très épaisse et n'a pas développé de plaques tectoniques
+> Le plus gros de ces volcans est Olympus Mons. Son âge estimé est d’à peine 30 millions d’années. C’est le plus gros volcan du système solaire. Si ces volcans sont si gros, c'est parce que Mars a une croûte très épaisse et n'a pas développé de plaques tectoniques. Il n’est peut être pas encore éteint.
 - On n’a jamais observé d’éruption volcanique sur Mars, mais il est plausible que quelques volcans soient encore actifs.
-> Dans les régions d’Elysium et de Tharsis, le manque de cratères d’impacts dans certaines coulées de lave suggère que certains volcans ont été actifs il y a seulement quelques millions d’années.
+> Dans les régions d’Elysium et de Tharsis (les régions de la planète les plus jeunes géologiquement parlant), le manque de cratères d’impacts dans certaines coulées de lave suggère que certains volcans ont été actifs il y a seulement quelques millions d’années.
 - À chaque printemps martien, des points sombres et des « fans » ? apparaissent au pôle sud de Mars. Ils ont dus à du CO2 gelé à haute pression sous un mètre de glace qui est éjecté sous forme de geysers et mélangé à de la poussière martienne lorsque la lumière du Soleil est suffisamment chaude pour sublimer la glace. Ces geysers peuvent s’élever à plusieurs centaines de mètres de haut ! Le vent pousse ensuite les débris, qui se déposent ensuite sur le sol et forme ces marques caractéristiques.
 - Mars possède aussi des paysages très insolites, comme Valles Marineris, un réseau de canyons long de 4000 km et large de 600 km. Il est 4 fois plus profond que le grand Canyon à son endroit le plus profond.
 
@@ -790,51 +743,27 @@ the Martian surface in about 100 million years
 - Phobos est si proche de Mars que les effets de marées la font s’approcher un peu plus de Mars chaque jour, au rythme de 1,8 m par siècle. D’ici 100 millions d’années, elle devrait soit s’écraser sur la planète rouge, soit être déchirée par les effets de marées. Deimos quant à lui, s'éloigne lentement de la planète.
 - Phobos est si peu massive que sa vitesse de libération n’est que de 11 m/s (contre 11 km/s sur Terre). Un astronaute un peu trop hardi (ou un petit Prince) pourrait s’échapper de sa gravité en sautant un peu trop fort.
 
+## L’eau sur Mars
+
+- On a de solides indices qui laissent penser que Mars a abrité un océan d’eau liquide qui recouvrait une bonne partie de l’hémisphère Nord il y a plusieurs milliards d’années.
+> * De nombreuses formations rocheuses, dont la plupart se trouve dans l’hémisphère nord, sont autant d’indices qui pointent vers l’existence d’eau liquide par le passé : des « outflow channels », des réseaux de vallées qui ressemblent à des lits de rivière « meandering », des terrains lissent que l’on interprète comme du plancher océanique, des bassins d’impact circulaires marqués par des traces de circulation d’eau...
+> * Les rovers Spirit et Opportunity ont découvert à la surface des petites formations sphériques d’hématite nommées myrtilles (« blueberries »), qui ne se forment qu’en présence d’eau sur des temps longs. On a aussi découvert des argiles et Opportunity a découvert des couches de sédiments avec des traces de « ripples ».
+- On pense que les Northen Lowlands et le bassin Hellas ont probablement été remplis d’eau à une certaine époque.
+- Quelle quantité d’eau avait Mars par le passé ? Le deutérium (hydrogène lourd) est 5,5 fois plus abondant dans l’atmosphère martienne que l’hydrogène « normal ». Grâce à ces données, on infère que Mars abritait 20 fois plus d’eau qu’aujourd’hui par le passé.
+- La grande majorité de l’eau Martienne se trouve aujourd’hui emprisonnée sous forme de glace dans les calottes polaires, ainsi que dans la croûte martienne, sous la surface
+> Les relevés radar de Mars Express ont montré qu’il y a probablement suffisamment d’eau dans la calotte polaire sud pour recouvrir toute la surface de la planète avec un océan de 11m de profondeur.
+- Depuis au moins 2.5 milliards d’années, Mars est essentiellement une planète aride et glacée, et son atmosphère ténue ne lui permet pas de maintenir de l’eau liquide très longtemps à la surface. La glace se sublime.
+- Néanmoins, dans certains lieux spécifiques, il est possible qu’une faible quantité d’eau liquide s’écoule actuellement, de façon transitoire (quelques cm à quelques mètres), si elle est suffisamment chargée en sels de perchlorates
+> * Les perchlorates absorbent les molécules d’eau de l’atmosphère et l’incorporent dans leur réseau cristallin, jusqu’à effondrement de ce dernier (et donc écoulement), dans un processus nommé déliquescence
+> * En 2015, on a annoncé la détection en orbite (mission?) de sels hydratés associés à des traces de pente saisonnières.
+
 ## La vie sur Mars
 
-- Afin de contacter des martiens, le mathématicien Karl Friedrich Gauss avait dessiné un immense triangle dans les forêts de Sibérie. Si les martiens étaient intelligents, ils devraient se rendre compte que le triangle respecte e théorème de Pythagore.
-- Au tournant des XIXème et XXème siècles, l'astronome Percival Lowell passa même des années à cartographier ce qu'il croyait être des canaux construits par une civilisation martienne amenant l'eau de fonte des calottes polaires vers les autres régions de la planète... des canaux qui n'existaient pas !
-- Mars avait potentiellement un océan d'eau liquide à sa surface dans son passé
-> The evidence for this is literally everywhere to be seen. Orbital
-spacecraft images reveal long, sinuous, flowing channels; waterscoured
-flood plains; and water-shaped teardrop islands (Figure 6.5).
-Spacecraft analysis of surface terrains has also revealed the presence
-of aqueous alteredminerals, such as the hematite-bearing regions of
-Sinus Meridiani and Aram Chaos. High-resolution images of complex
-surface terrain, such as is seen in the southwestern Candor
-Chasma region, reveal a clear sedimentation origin (Figure 6.6). Surface
-robotic missions have further revealed the presence of wateraltered
-mineralogy, such as the goethite deposits identified by
-the Spirit rover in the Columbia Hills, and the jarosite found by
-the Opportunity rover in Meridiani Planum. In addition, both
-Mars rovers have found great numbers of ‘‘blueberry’’ spherules
-(Figure 6.7) scattered across the Martian surface, and these betray
-the past presence of enduring pools of standing water.
-Mars Global Surveyor image showing layered sedimentary rock on
-Mars.
-Martian ‘‘blueberry’’ spherules. The spherules, which are typically
-a few millimeters in diameter, contain hematite and formed under standing
-water conditions.
-- since about 2.5 billion years ago Mars
-has been an essentially dry and frozen world; small, high-salinity,
-and isolated lake systems may have existed near the pole in the
-northern lowland region for an additional billion years, but even
-these would have frozen over by the mid-Amazonian epoch.
-
-The Northern Lowlands of Mars
-and the Hellas Basin may once
-have been filled with water.
-
-la nature chimique de ces sels de perchlorate et les propriétés associées. Le perchlorate est un oxydant extrêmement fort. Le composé courant le plus proche d'une solution de perchlorate n'est autre que l'eau de javel, qu'il ne viendrait à l'idée de personne de boire ! Ces propriétés oxydantes expliquent aussi l'utilisation d'un perchlorate, le perchlorate d'ammonium, dans des explosifs (munitions) et propulseurs (missiles ou même les accélérateurs à poudre de la fusée Ariane). C'est enfin aussi un perturbateur thyroïdien reconnu. Dans l'exploitation des ressources en eau sur Terre, les perchlorates sont considérés comme des polluants qui rendent les eaux impropres à la consommation, même à très faible dose, alors à la concentration probable dans les RSL...
-
-Finalement, on est très loin d'une eau de source terrestre, et cette "eau" ne constituera probablement pas une ressource très intéressante pour les explorateurs dans un futur proche. 
-les sels de perchlorates ont une affinité extrême pour l'eau. En raison de leurs propriétés chimiques, ils peuvent absorber plusieurs fois leur masse en eau, comme le chlorure de calcium, un desséchant courant. Ce faisant, ils incorporent des molécules d'eau dans leur réseau cristallin, incorporation qui peut aller jusqu'à effondrement de ce dernier sur lui-même, formant une solution aqueuse extrêmement concentrée. On nomme ce processus la déliquescence.
-Il est ainsi fort probable que là où il y a beaucoup de perchlorates dans le sol, ils absorbent l'eau de l'atmosphère à forte humidité relative (probablement la nuit), jusqu'à entrer en déliquescence. Avec l'augmentation de température en début de journée, il pourrait se former des solutions aqueuses très concentrées dont le point de fusion serait assez bas pour qu'elles soient liquides et le restent assez longtemps pour s'écouler sur quelques centimètres à quelques mètres avant que l'eau ne s'évapore. Le cycle pourrait ainsi se répéter d'un jour à l'autre, formant des RSL s'allongeant au cours de la saison chaude.
-
-L'eau liquide sur Mars coule peut-être actuellement, mais de façon très transitoire, dans des lieux spécifiques, en quantité très faible, et avec une composition chimique exotique la rendant impropre à la consommation.
-- En 2015, annonce  la détection de sels hydratés associés à des « traces de pente saisonnières »
-
-- According to scientists, Mars is self-sterilizing. They believe the combination of solar ultraviolet radiation that saturates the surface, the extreme dryness of the soil and the oxidizing nature of the soil chemistry prevent the formation of living organisms in the Martian soil.
+- Afin de contacter des martiens, le mathématicien Karl Friedrich Gauss avait dessiné un immense triangle dans les forêts de Sibérie. Si les martiens étaient intelligents, ils devraient se rendre compte que le triangle respecte le théorème de Pythagore.
+- Au XIXème et au XXème siècle, l'astronome Percival Lowell passe des années à cartographier ce qu'il croit être des canaux construits par une civilisation martienne amenant l'eau de fonte des calottes polaires vers les autres régions de la planète... des canaux qui n'existaient pas !
+- Aujourd’hui, la plupart des scientifiques pensent que la vie telle qu’on la connaît ne peut émerger à la surface de Mars actuellement.
+> Mars est en effet baignée de rayons UV en provenance du Soleil, sans couche d’ozone pour protéger sa surface. Il n’y a pas non plus d’eau liquide à la surface, et le sol contient des composés très oxydants, comme les sels de perchlorates (le composé courant le plus proche d'une solution de perchlorate est l'eau de javel). 
+- Par contre, il pourrait se passer des choses intéressantes en profondeur...
 
 ## Missions vers Mars
 
@@ -877,6 +806,33 @@ L'eau liquide sur Mars coule peut-être actuellement, mais de façon très trans
 ### Mariner 9
 
 - Mariner 9 entered orbit around Mars in November 1971, observing the planet from that vantage point until August 1972. The spacecraft discovered many surface features that indicated that at least sometime in its past Mars was geologically active and photographed features that could have been caused by flowing liquid. The discoveries revolutionized our perception of Mars and gave hope that perhaps at some time in its history it had conditions favorable for life.
+on a la preuve que de l'eau liquide a coulé à la surface de Mars dans un passé lointain depuis 1971 (mission Mariner 9).
+
+- Mariner 9 made one more fascinating discovery about the Martian surface.
+The poles of Mars, like Earth’s, are covered in ice. Unlike Earth’s polar
+caps, Mars shows clear signs, even from space, of lamination. They consist of
+layers of ice separated by layers of what appear to be dust. The laminations
+were taken to be evidence of “quasi-periodic climatic changes” on Mars that
+had produced advance and retreat of the water-ice caps
+
+Mariner 9 ran out of maneuvering fuel and was shut down on October 27,
+1972, having radically altered the scientific community’s beliefs about Mars.
+
+The first American planetary orbiter reached Mars in late 1971. The
+spacecraft went into orbit November 13, and the images it returned showed
+a completely featureless Mars. A dust storm had covered the entire planet.
+The only visible features were Nix Olympica and three other peaks that
+protruded above the storm. This revealed to the camera team that they
+were the largest volcanoes in the solar system by far, dwarfing anything on
+Earth.23
+After the planetary dust storm finally ended in late December, the imaging
+team began to produce a photographic map of the planet. In the process,
+they found that the images from the previous flyby missions had been misleading.
+While Mars certainly had Moon-like cratering, it also had vast volcanoes
+and still more interestingly, vast chasms and canyons.24 Many of these
+looked like the natural drainage structures on Earth—extensive dendritic
+patterns, outwash plains, and deltas. The signs of past water were unmistakable,
+but the water itself was missing.
 
 ### Viking 1 et 2 (NASA, 1975-1982)
 
@@ -1294,6 +1250,212 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 -  Its four major moons – Ganymede, Callisto, Io and Europa – were discovered by Galileo, but it was not until 1892 that the US astronomer Edward Barnard (1857-1923) discovered the fifth. About a dozen others were discovered in the twentieth century. 
 
 ## Propriétés de Jupiter
+
+- Jupiter est la planète la plus massive et la plus grosse du système solaire
+> Le diamètre de Jupiter est égal à 11 fois le diamètre de la Terre
+- En nombre de molécules, Jupiter est composée à 90 % d’H2, à 10 % d’He, de 0.3 % de méthane, de 0.03 % d’ammoniac et de 0.0004 % d’eau.
+- L’intérieur de la géante gazeuse est en majeure partie constituée d’hydrogène liquide
+The pressure and
+temperature are higher than the
+critical point for hydrogen, and that
+means there is no difference between
+gaseous hydrogen and liquid hydrogen.
+If you parachuted into Jupiter,
+you would fall through the gaseous
+atmosphere and notice the density of
+the surrounding fluid gradually
+increasing until you were in a liquid,
+but you would never splash into a
+liquid surface.
+Roughly a quarter of the way to
+the center, the pressure is high enough
+to force the hydrogen into being
+liquid metallic hydrogen , which is a
+very good electrical conductor. Because liquid metallic hydrogen
+has been very difficult to create and study in the laboratory so
+far, its properties are poorly understood. That is the reason why
+the models are uncertain about the depth of the transition from
+normal to metallic liquid hydrogen.
+The models are also uncertain about the presence of a
+heavy-element core in Jupiter. The planet contains about
+30 Earth masses of elements heavier than helium, but much of
+that may be suspended in the convectively stirred liquid hydrogen.
+Measurements by orbiting spacecraft indicate that no more
+than 10 Earth masses are included in a heavy-element core.
+The center of Jupiter
+is five or six times hotter than the surface of the Sun and is prevented
+from exploding into vapor only by the tremendous pressure.
+If there is a core, it is “rocky” only in the sense that it
+contains heavy elements
+How do astronomers know Jupiter is hot inside? Infrared
+observations show that Jupiter is glowing strongly in the infrared,
+radiating 1.7 times more energy than it receives from the
+Sun That observation, combined with models of its interior, provides
+an estimate of its internal temperature.
+If you measure a photograph of Jupiter, you will discover that
+it is noticeably flattened; it is a bit more than 6 percent larger in
+diameter through its equator than through its poles. This is
+referred to as Jupiter’s oblateness . The amount of flattening
+depends on the speed of rotation and on the rigidity of the
+planet. Jupiter’s flattened shape shows that the planet cannot be
+as rigid as a Terrestrial planet and must have a liquid interior.
+
+In 1973 and 1974, two Pioneer spacecraft flew past Jupiter,
+followed in 1979 by two Voyager spacecraft. Those probes found
+that Jupiter has a magnetic field about 14 times stronger than
+Earth’s field. Apparently, the field is produced by the dynamo
+effect operating in the highly conductive liquid metallic hydrogen
+as it is circulated by convection and spun by the rapid rotation
+of the planet.
+
+The spacecraft
+passing through the radiation belts received radiation doses
+equivalent to a billion chest X-rays—at least 4000 times the
+lethal dose for a human. Some of the electronics on the spacecraft
+were damaged by the radiation.
+
+Charged particles in the magnetosphere leak downward
+along the magnetic field, and where they enter the atmosphere
+they produce auroras 1000 times more luminous than
+those on Earth The auroras
+on Jupiter, like those on Earth, occur in rings around the magnetic
+poles
+
+You now know that Jupiter is a liquid world that has no surface.
+The gaseous atmosphere blends gradually with the liquid hydrogen
+interior. Below the clouds of Jupiter lies the largest ocean in
+the Solar System—an ocean that has no surface and no waves.
+When you look at Jupiter, all you see are clouds.
+
+The cloud layers are located at certain levels within the
+atmosphere where the temperatures are such that ammonia
+( NH 3 ) , ammonium hydrosulfide ( NH 4 SH ) , and water
+( H 2 O ) can condense to form ice particles.
+3
+The belt–zone circulation is driven by high- and low-pressure
+areas related to those on Earth.
+4
+The large circular or oval spots seen in Jupiter’s clouds are
+circulating storms that can remain stable for decades or
+even centuries.
+
+Observations made by the Cassini spacecraft as it raced
+past Jupiter on its way to Saturn revealed that the dark belts,
+which were thought to be entirely regions of sinking gas, contain
+small rising storm systems too small to have been seen in images
+by previous probes. Evidently, the general circulation usually
+attributed to the belts and zones is much more complex when it
+is observed in more detail
+
+The rapid rotation and large size of Jupiter cause belt–zone
+circulation in its atmosphere. Heat flowing upward from the
+interior causes rising currents in the bright zones, and cooler gas
+sinks in the dark belts. As on Earth, winds blow at the margins
+of these regions, and large spots appear to be cyclonic disturbances.
+Internal heat has been escaping since Jupiter formed, so
+you can guess that Jupiter’s atmospheric circulation and storms
+were stronger in the distant past and will diminish in the future.
+
+Combien de lunes ?
+Most of these moons are
+small and rocky, and many are probably captured asteroids. The
+four Galilean moons are large
+
+Jupiter’s rings were not discovered until 1979 when the
+Voyager 1 spacecraft sent back photos. The discovery was confirmed
+soon after by difficult ground-based measurements. Less
+than 1 percent as bright as Saturn’s rings, the ghostly rings
+around Jupiter are a puzzle.
+
+the particles
+in Jupiter’s rings are very dark and reddish. This is evidence that
+those rings are rocky rather than icy
+
+the ring particles are mostly microscopic
+
+Larger particles are not entirely ruled out. A sparse component
+of rocky objects ranging from pieces of gravel to boulders
+is possible, but objects larger than 1 km would have been
+detected in spacecraft photos. The vast majority of the ring particles
+are microscopic dust.
+
+You can also be sure that the ring particles are not old.
+The pressure of sunlight and Jupiter’s powerful magnetic field
+alter the orbits of the particles, and they gradually spiral into
+the planet. Images show faint ring material extending down
+toward Jupiter’s cloud tops, and this is evidently dust grains
+spiraling inward. Dust is also lost from the rings as electromagnetic
+effects force the particles out of the ring plane
+to form a low-density halo above and below the rings
+( Figure 14-13b ). Yet another reason the ring particles can’t be
+old is that the intense radiation around Jupiter can grind dust
+specks down to nothing in a century or so. For all these reasons,
+the rings seen today can’t be made up of material that has
+been in the form of small particles for the entire time since the
+formation of Jupiter.
+Obviously, the rings of Jupiter must be continuously resupplied
+with new material.
+
+Observations made by
+the Galileo spacecraft show that the main ring is densest at its
+outer edge,
+
+Images from the Voyager and Galileo probes also reveal
+much fainter rings, called the gossamer rings , extending twice
+as far from the planet as the main ring. These gossamer rings are
+densest at the orbits of two small moons, Amalthea and Thebe,
+more evidence that ring particles are being blasted into space by
+impacts on the moons.
+
+the composition
+is roughly three-quarters hydrogen and a quarter
+helium by mass,
+
+The first spacecraft to enter Jupiter’s atmosphere was the
+Galileo probe. Released from the main Galileo spacecraft,
+the probe entered Jupiter’s atmosphere in 1995. It parachuted
+through the upper atmosphere of clear hydrogen, released its heat
+shield, and then sent measurements back to
+Earth as it descended through layers of
+increasing pressure in Jupiter’s stormy atmosphere
+until it was finally crushed.
+
+Jupiter’s atmosphere is a thin
+layer of turbulent gas above
+the liquid interior. It makes up
+only about 1 percent of the
+radius of the planet.
+
+The Great Red Spot at right is a giant circulating
+storm in one of the southern zones. It has lasted
+at least 350 years since astronomers first
+noticed it after the invention of the telescope.
+Smaller spots are also circulating storms
+
+Lightning bolts are
+common in Jupiter’s
+turbulent clouds.
+
+The visible clouds on Jupiter are composed of
+ammonia crystals, but models predict that deeper
+layers of clouds contain ammonium hydrosulfide
+crystals, and deeper still lies a cloud layer of water
+droplets. These compounds are normally white, so
+planetary scientists think the colors arise from small
+amounts of other molecules formed in reactions
+powered by lightning or sunlight.
+
+Great Red Spot. The
+reason for the red color is unknown, but it
+may show that the storm is bringing material
+up from lower in the atmosphere.
+Storms in Jupiter’s atmosphere may be stable for
+decades or centuries, but astronomers had never
+before witnessed the appearance of a new red spot.
+The development of such storms is unpredictable,
+and most eventually disappear. Even the Great Red
+Spot may someday vanish.
+
 
 ## Lunes de Jupiter
 
