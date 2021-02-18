@@ -680,6 +680,9 @@ and no doubt lives into its development
 - [Viking 1 and 2 Mission](https://mars.nasa.gov/mars-exploration/missions/viking-1-2/) - NASA
 - [Viking Mission to Mars](https://nssdc.gsfc.nasa.gov/planetary/viking.html) - NASA
 - [Viking 1 et 2](https://www.planete-mars.eu/viking-1-et-2.php) - Planète Mars
+- [Mariner 9](https://fr.wikipedia.org/wiki/Mariner_9) - Wikipédia
+- [Mariner 9](https://solarsystem.nasa.gov/missions/mariner-09/in-depth/) - NASA
+- [1971, l'année martienne](https://www.nirgal.net/explora_1971.html) - Nirgal
 
 ---
 
@@ -726,7 +729,6 @@ and no doubt lives into its development
 > * le Noachien (-4,3 – 3,7 milliards d’années), période pendant laquelle Mars est bombardée d’astéroides 
 > * l’Hespérien (-3,7 – 3 milliards d’années), période durant laquelle des flots de lave recouvrent une fraction de la surface de Mars.
 > * l’Amazonien (-3 milliards d’années – présent), période d’évolution lente 
-- Mars est un monde inactif, géologiquement parlant.
 - La surface de Mars est ponctuée de volcans boucliers. Mais ceux-ci ne sont pas dus à une activité tectonique (Mars n’ayant pas développé un système de plaques comme sur Terre), mais à des points chauds, c’est-à-dire à du magma issus du manteau qui montent à la surface.
 > Le plus gros de ces volcans est Olympus Mons. Son âge estimé est d’à peine 30 millions d’années. C’est le plus gros volcan du système solaire. Si ces volcans sont si gros, c'est parce que Mars a une croûte très épaisse et n'a pas développé de plaques tectoniques. Il n’est peut être pas encore éteint.
 - On n’a jamais observé d’éruption volcanique sur Mars, mais il est plausible que quelques volcans soient encore actifs.
@@ -805,6 +807,35 @@ and no doubt lives into its development
 
 ### Mariner 9
 
+L'année 1971 sera un grand cru dans l'exploration de la planète Mars. Les américains proposent deux Mariner pour occuper la fenêtre de tir, et les russes trois sondes : Kosmos 419, Mars 2 et Mars 3. C'est donc une véritable flottille qui va s'envoler pour la planète rouge. 
+Malgré la guerre froide, les scientifiques impliqués dans les missions Mars et Mariner se sont mis d'accord, et les résultats qui seront obtenus par les différentes sondes seront échangés, pour le bénéfice des deux parties. Une ligne téléphonique avait même été installée entre le Jet Propulsion Laboratory et l'Institut de Recherche Spatiale soviétique.
+
+
+
+Le 10 novembre, alors qu'il ne reste plus à la sonde qu'une distance de 800 000 kilomètres à parcourir, la caméra se met en marche. La salle de contrôle de mission se remplit et tout le monde attend avec une impatience non dissimulée les premières images de la planète. La déception va être énorme.
+
+Lorsque les images parviennent enfin au centre de contrôle, elles ne montrent rien d'autre qu'un globe gris uniforme, terne, sur lequel ne se détache que les glaces brillantes de la calotte polaire sud et quatre points noirs mystérieux plantés au niveau de l'équateur. La mise en orbite ne changera rien à la situation.
+La planète entière est recouverte d'un épais manteau de poussière, qui ne laisse rien voir des détails de sa surface. 
+ Sur une idée de Carl Sagan, et en attendant l'apaisement de la tempête, Mariner 9 se reporta sur Phobos et Deimos.
+ 
+    First spacecraft to orbit another planet
+    First spacecraft to orbit Mars
+The primary goal of the mission was to map about 70% of the surface during the first three months of operation. 
+- Mariner 9 est lancée vers la planète Mars le 30 mai 1971 par le lanceur Atlas-Centaur (AC-23) depuis l'aire de lancement LC-36 B, à la base de lancement de Cap Kennedy. et atteint celle-ci le 14 novembre de la même année. Elle devient le premier véhicule spatial à se mettre en orbite autour d'une autre planète
+- La sonde Mariner 9 arrive dans l'environnement de la planète de Mars le 14 novembre 1971 après un vol de 167 jours
+- - Après des mois d'attente, la fin de tempêtes de poussières sur Mars, la sonde Mariner 9 réussit le 2 janvier 1972 à envoyer les premières photos de la surface de Mars d'une clarté surprenante, la résolution atteignant 1 km. Grâce à ses instruments (spectromètres ultraviolet, infrarouge, radiomètre infrarouge et deux caméras), elle découvre des éléments marquants de la géographie de Mars tels que le volcan Olympus Mons, le plus grand volcan du Système solaire, et l'énorme canyon qui est ensuite nommé Valles Marineris en l'honneur de la réussite de la mission. Mariner 9 permet de construire le profil vertical de l'atmosphère de Mars. 
+- une plate-forme octogonale en magnésium, d'une profondeur de 45,7 cm et d'une diagonale de 138,4 cm. La hauteur totale du véhicule spatial est de 2,28 mètres. La masse au lancement est de 997,9 kg
+- La sonde spatiale a six instruments
+- Expérience de mécanique céleste (Celestial Mechanics Experiment), pour mesurer le champ gravitationnel martien et les éphémérides
+- Spectromètre à interféromètre infrarouge pour fournir des informations sur la structure verticale, la composition et la dynamique de l'atmosphère et sur les propriétés d'émission de la surface de Mars.
+- Radiomètre infrarouge (IRR - InfraRed Radiometer), l'expérience est conçue pour fournir, sur une large couverture de la surface de Mars, les températures de luminosité du sol en fonction de l'heure locale en mesurant l'énergie rayonnée dans les bandes de longueurs d'onde de 8 à 12 μm et 18 à 25 μm. À partir de ces températures, les informations suivantes sont dérivées : 1° la distribution à grande échelle de l'inertie thermique des matériaux de surface, 2° l'apparition d'irrégularités dans la courbe de refroidissement, 3° l'existence de « points chauds » pouvant indiquer des sources de chaleur interne, et 4° la température du pôle polaire et de la surface adjacente. 
+- Expérience d'occultation en bande S (S-Band Occultation Expriment), le décalage Doppler du signal de télémétrie en bande S lors de l'occultation de la sonde Mariner 9 par la planète Mars fournit la distribution verticale de l'indice de réfraction de l'atmosphère martienne
+- Système d'imagerie à l'aide de caméras de télévision (Mars TV Camera System)
+- Spectromètre ultraviolet (UVS - UltraViolet Spectrometer), 
+- L'imagerie de la surface de Mars par la sonde Mariner 9 est retardée par une tempête de sable qui commence le 22 septembre 1971 dans la région de Noachis Terra. La tempête est rapidement devenue l'une des plus grandes tempêtes jamais observées sur la planète Mars. Au moment où le véhicule spatial est arrivé autour de Mars, aucun détail de la surface ne pouvait être vu, à l'exception des sommets du volcan Olympus Mons et des trois volcans de Tharsis Montes. 
+- La tempête s'apaise en novembre et décembre 1971 et les opérations normales de cartographie commencent le 2 janvier 1972. 
+- Un total de 54 milliards de bits de données scientifiques sont retournés, dont 7 329 images couvrant la planète entière.
+- 
 - Mariner 9 entered orbit around Mars in November 1971, observing the planet from that vantage point until August 1972. The spacecraft discovered many surface features that indicated that at least sometime in its past Mars was geologically active and photographed features that could have been caused by flowing liquid. The discoveries revolutionized our perception of Mars and gave hope that perhaps at some time in its history it had conditions favorable for life.
 on a la preuve que de l'eau liquide a coulé à la surface de Mars dans un passé lointain depuis 1971 (mission Mariner 9).
 
@@ -833,6 +864,24 @@ and still more interestingly, vast chasms and canyons.24 Many of these
 looked like the natural drainage structures on Earth—extensive dendritic
 patterns, outwash plains, and deltas. The signs of past water were unmistakable,
 but the water itself was missing.
+
+-  While in orbit, Mariner 9 mapped 85 percent of the Martian surface
+-  Feb. 11, 1972: NASA announced that Mariner 9 had achieved all goals
+
+ Mariner 9 a ainsi découvert le volcan géant Olympus Mons, le dôme de Tharsis et ses trois volcans boucliers, l'immense canyon de Valles Marineris (nommé ainsi en l'honneur de la sonde), la structure des calottes polaires, les dépôts stratifiés, l'activité éolienne de surface (dépôts et érosion), l'intense activité tectonique de surface (failles, ravins, fractures de la croûte), les différents types de cratères d 'impact et la célèbre dichotomie martienne avec les hauts plateaux cratérisés de l'hémisphère nord et les basses plaines de l'hémisphère nord.
+ 
+
+La découverte la plus importante de Mariner 9 reste sans doute la mise en évidence des réseaux de vallées et des chenaux d'inondations. Ces structures, qui ressemblaient à s'y méprendre à des lits de rivières asséchées, prouvaient que la planète Mars n'avait pas toujours été gelée et aride et qu'à une époque lointaine, le climat devait être suffisamment chaud et l'atmosphère suffisamment dense pour permettre à l'eau liquide d'exister à sa surface.
+Une nouvelle fois, Mars allait réveiller une obsession millénaire. 
+Le spectromètre ultraviolet a également obtenu de nombreuses mesures de la pression atmosphérique, ce qui a permis par la suite d'obtenir les altitudes de nombreuses formations. On s'est ainsi rendu compte que la profondeur de Valles Marineris avoisinait les 6 km et que le volcan Olympus Mons s'élevait à plus de 26 kilomètres au-dessus des plaines environnantes.
+
+
+La sonde a terminé sa mission le 27 octobre 1972, à cause de l'épuisement du gaz utilisé par le système de contrôle d'attitude. Comme il n'était plus possible de contrôler l'orientation de la sonde, les responsables lui ordonnèrent de se taire à jamais. La sonde aura travaillé pendant 349 jours, une durée bien supérieure à ce qui était prévu initialement (90 jours).
+By February 1972, the spacecraft had identified about 20 volcanoes, one of which was later named Olympus Mons. 
+Oct. 27, 1972: Last contact with spacecraft
+ tous les objectifs seront accomplis. S'il fallait résumer en une seule phrase l'apport de Mariner 9, on pourrait dire que cette sonde nous a montré, pour la première fois, la planète Mars telle qu'elle est réellement.
+The spacecraft is expected to crash onto the Martian surface sometime around 2020.
+Un beau jour de l'année 2022, la sonde rentrera dans l'atmosphère martienne et s'y désintégrera. 
 
 ### Viking 1 et 2 (NASA, 1975-1982)
 
