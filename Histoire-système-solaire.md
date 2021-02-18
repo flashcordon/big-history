@@ -712,6 +712,7 @@ and no doubt lives into its development
 > * Cette couleur rouge est due à l’oxyde de fer (autrement dit, de la rouille) parsemé sur sa surface.
 > * Elle est aussi due à l’histoire de la planète : Mars n’ayant pas d’oxygène moléculaire dans son atmosphère, elle n’a pas développé de couche d’ozone pour la protéger des rayons UV du Soleil. Ces derniers ont donc brisé les molécules d’eau dans l’atmosphère en leurs constituants élémentaires. L’hydrogène s’échappe, ce qui participe à l’échappement atmosphérique de la planète. L’oxygène, plus lourd, se combine au fer du sol pour former des oxydes.
 - Mars se trouve à 1.5 UA du Soleil (entre 1,381 et 1,666 UA)
+> Selon la configuration entre Mars et la Terre, un signal lumineux met entre 3 et 22 minutes à parcourir la distance entre les deux planètes (en moyenne : 12 minutes)
 - Mars fait un tour complet sur elle-même en un peu plus de 24h, et effectue un tour complet du Soleil en presque 2 ans (1,9) terrestres 
 > Un jour sidéral sur Mars dure 24,62 heures
 - Elle fait un dixième de la masse de la Terre (10,7%) et à peine plus de la moitié de sa taille (diamètre : 53 % celui de la Terre)
