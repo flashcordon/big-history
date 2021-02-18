@@ -730,7 +730,7 @@ and no doubt lives into its development
 > * l’Hespérien (-3,7 – 3 milliards d’années), période durant laquelle des flots de lave recouvrent une fraction de la surface de Mars.
 > * l’Amazonien (-3 milliards d’années – présent), période d’évolution lente 
 - La surface de Mars est ponctuée de volcans boucliers. Mais ceux-ci ne sont pas dus à une activité tectonique (Mars n’ayant pas développé un système de plaques comme sur Terre), mais à des points chauds, c’est-à-dire à du magma issus du manteau qui montent à la surface.
-> Le plus gros de ces volcans est Olympus Mons. Son âge estimé est d’à peine 30 millions d’années. C’est le plus gros volcan du système solaire. Si ces volcans sont si gros, c'est parce que Mars a une croûte très épaisse et n'a pas développé de plaques tectoniques. Il n’est peut être pas encore éteint.
+> Le plus gros de ces volcans est Olympus Mons, qui culmine à plus de 26 kilomètres au-dessus des plaines environnantes. Son âge estimé est d’à peine 30 millions d’années. C’est le plus gros volcan du système solaire. Si ces volcans sont si gros, c'est parce que Mars a une croûte très épaisse et n'a pas développé de plaques tectoniques. Il n’est peut être pas encore éteint.
 - On n’a jamais observé d’éruption volcanique sur Mars, mais il est plausible que quelques volcans soient encore actifs.
 > Dans les régions d’Elysium et de Tharsis (les régions de la planète les plus jeunes géologiquement parlant), le manque de cratères d’impacts dans certaines coulées de lave suggère que certains volcans ont été actifs il y a seulement quelques millions d’années.
 - À chaque printemps martien, des points sombres et des « fans » ? apparaissent au pôle sud de Mars. Ils ont dus à du CO2 gelé à haute pression sous un mètre de glace qui est éjecté sous forme de geysers et mélangé à de la poussière martienne lorsque la lumière du Soleil est suffisamment chaude pour sublimer la glace. Ces geysers peuvent s’élever à plusieurs centaines de mètres de haut ! Le vent pousse ensuite les débris, qui se déposent ensuite sur le sol et forme ces marques caractéristiques.
@@ -809,6 +809,7 @@ and no doubt lives into its development
 
 - En 1971, une flotte de sondes part pour la planète Mars : 3 soviétiques (Kosmos 419, Mars 2 et Mars 3) et 2 américaines (Mariner 8 et 9).
 - En pleine guerre froide, URSS et USA décident de coopérer pour se partager mutuellement les résultats, et une ligne téléphonique est installée entre le Jet Propulsion Laboratory et l'Institut de Recherche Spatiale soviétique.
+- Mariner 9 est lancée le 30 Mai 1971 depuis Cap Kennedy par un lanceur Atlas-Centaur.
 - Sa mission principale est de cartographier 70% de la surface de Mars pendant les 3 premiers mois d'opération
 - Pour remplir sa mission, la sonde octogonale de près d'une tonne (998 kg au lancement) dispose de 6 instruments :
 > * Une expérience de mécanique céleste, pour mesurer le champ gravitationnel martien et les éphémérides
@@ -819,59 +820,20 @@ and no doubt lives into its development
 > * Un spectromètre UV
 - Le 14 Novembre 1971, après un voyage de 167 jours, Mariner 9 devient la première sonde spatiale à arriver dans l'orbite de Mars. Et la première sonde spatiale à orbiter autour d'une autre planète.
 - Mais lorsque la sonde allume sa caméra le 10 Novembre, la déception est immense : à part la calotte polaire sud et 4 points noirs, aucun détail n'est discernable à la surface !
-> La planète rouge fait face à une énorme tempête de poussière, la plus grande jamais enregistrée sur Mars. Celle-ci débute le 22 Septembre 1971 et recouvre la quasi-totalité de la surface de Mars. Les 4 points noirs observés sont les sommets d'Olympus Mons, et des 3 volcans de Tharsis Montes. En attendant la fin de la tempête, Carl Saga propose d'étudier Phobos et Deimos. La tempête prend fin en Novembre-Décembre 1971, et la cartographie de la planète débute le 2 Janvier 1972.
-- Au total, la mission a envoyé 6,7 GO de données à la Terre, dont 7329 images.
-
-
-- Mariner 9 est lancée vers la planète Mars le 30 mai 1971 par le lanceur Atlas-Centaur (AC-23) depuis l'aire de lancement LC-36 B, à la base de lancement de Cap Kennedy. et atteint celle-ci le 14 novembre de la même année. 
-- - Après des mois d'attente, la fin de tempêtes de poussières sur Mars, la sonde Mariner 9 réussit le 2 janvier 1972 à envoyer les premières photos de la surface de Mars d'une clarté surprenante, la résolution atteignant 1 km. Grâce à ses instruments (spectromètres ultraviolet, infrarouge, radiomètre infrarouge et deux caméras), elle découvre des éléments marquants de la géographie de Mars tels que le volcan Olympus Mons, le plus grand volcan du Système solaire, et l'énorme canyon qui est ensuite nommé Valles Marineris en l'honneur de la réussite de la mission. Mariner 9 permet de construire le profil vertical de l'atmosphère de Mars. 
-- 
-- Mariner 9 entered orbit around Mars in November 1971, observing the planet from that vantage point until August 1972. The spacecraft discovered many surface features that indicated that at least sometime in its past Mars was geologically active and photographed features that could have been caused by flowing liquid. The discoveries revolutionized our perception of Mars and gave hope that perhaps at some time in its history it had conditions favorable for life.
-on a la preuve que de l'eau liquide a coulé à la surface de Mars dans un passé lointain depuis 1971 (mission Mariner 9).
-
-- Mariner 9 made one more fascinating discovery about the Martian surface.
-The poles of Mars, like Earth’s, are covered in ice. Unlike Earth’s polar
-caps, Mars shows clear signs, even from space, of lamination. They consist of
-layers of ice separated by layers of what appear to be dust. The laminations
-were taken to be evidence of “quasi-periodic climatic changes” on Mars that
-had produced advance and retreat of the water-ice caps
-
-Mariner 9 ran out of maneuvering fuel and was shut down on October 27,
-1972, having radically altered the scientific community’s beliefs about Mars.
-
-The first American planetary orbiter reached Mars in late 1971. The
-spacecraft went into orbit November 13, and the images it returned showed
-a completely featureless Mars. A dust storm had covered the entire planet.
-The only visible features were Nix Olympica and three other peaks that
-protruded above the storm. This revealed to the camera team that they
-were the largest volcanoes in the solar system by far, dwarfing anything on
-Earth.23
-After the planetary dust storm finally ended in late December, the imaging
-team began to produce a photographic map of the planet. In the process,
-they found that the images from the previous flyby missions had been misleading.
-While Mars certainly had Moon-like cratering, it also had vast volcanoes
-and still more interestingly, vast chasms and canyons.24 Many of these
-looked like the natural drainage structures on Earth—extensive dendritic
-patterns, outwash plains, and deltas. The signs of past water were unmistakable,
-but the water itself was missing.
-
--  While in orbit, Mariner 9 mapped 85 percent of the Martian surface
--  Feb. 11, 1972: NASA announced that Mariner 9 had achieved all goals
-
- Mariner 9 a ainsi découvert le volcan géant Olympus Mons, le dôme de Tharsis et ses trois volcans boucliers, l'immense canyon de Valles Marineris (nommé ainsi en l'honneur de la sonde), la structure des calottes polaires, les dépôts stratifiés, l'activité éolienne de surface (dépôts et érosion), l'intense activité tectonique de surface (failles, ravins, fractures de la croûte), les différents types de cratères d 'impact et la célèbre dichotomie martienne avec les hauts plateaux cratérisés de l'hémisphère nord et les basses plaines de l'hémisphère nord.
- 
-
-La découverte la plus importante de Mariner 9 reste sans doute la mise en évidence des réseaux de vallées et des chenaux d'inondations. Ces structures, qui ressemblaient à s'y méprendre à des lits de rivières asséchées, prouvaient que la planète Mars n'avait pas toujours été gelée et aride et qu'à une époque lointaine, le climat devait être suffisamment chaud et l'atmosphère suffisamment dense pour permettre à l'eau liquide d'exister à sa surface.
-Une nouvelle fois, Mars allait réveiller une obsession millénaire. 
-Le spectromètre ultraviolet a également obtenu de nombreuses mesures de la pression atmosphérique, ce qui a permis par la suite d'obtenir les altitudes de nombreuses formations. On s'est ainsi rendu compte que la profondeur de Valles Marineris avoisinait les 6 km et que le volcan Olympus Mons s'élevait à plus de 26 kilomètres au-dessus des plaines environnantes.
-
-
-La sonde a terminé sa mission le 27 octobre 1972, à cause de l'épuisement du gaz utilisé par le système de contrôle d'attitude. Comme il n'était plus possible de contrôler l'orientation de la sonde, les responsables lui ordonnèrent de se taire à jamais. La sonde aura travaillé pendant 349 jours, une durée bien supérieure à ce qui était prévu initialement (90 jours).
-By February 1972, the spacecraft had identified about 20 volcanoes, one of which was later named Olympus Mons. 
-Oct. 27, 1972: Last contact with spacecraft
- tous les objectifs seront accomplis. S'il fallait résumer en une seule phrase l'apport de Mariner 9, on pourrait dire que cette sonde nous a montré, pour la première fois, la planète Mars telle qu'elle est réellement.
-The spacecraft is expected to crash onto the Martian surface sometime around 2020.
-Un beau jour de l'année 2022, la sonde rentrera dans l'atmosphère martienne et s'y désintégrera. 
+> La planète rouge fait face à une énorme tempête de poussière, la plus grande jamais enregistrée sur Mars. Celle-ci débute le 22 Septembre 1971 et recouvre la quasi-totalité de la surface de Mars. Les 4 points noirs observés sont les sommets d'Olympus Mons, et des 3 volcans du dôme de Tharsis. En attendant la fin de la tempête, Carl Saga propose d'étudier Phobos et Deimos. La tempête prend fin en Novembre-Décembre 1971, et la cartographie de la planète débute le 2 Janvier 1972.
+- Au total, la mission a envoyé 6,7 GO de données à la Terre, dont 7329 images. Elle a cartographié 85% de la surface de la planète.
+- Mariner 9 a été la première à révéler Mars sous son vrai visage :
+> * La sonde a découvert 20 volcans, dont Olympus Mons ainsi que les 3 volcans du dôme de Tharsis, ce qui montre que la planète n'est pas encore totalement inerte, géologiquement parlant.
+> * Elle a aussi découvert l'immense canyon de Valles Marineris, nommé en l'honneur de la sonde
+> * Elle a découvert les calottes polaires de Mars
+> * Elle révèle une dichotomie entre les hauts plateaux cratérisés de l'hémisphère Sud et les basses plaines de l'hémisphère Nord.
+> * Elle découvre le profil vertical de l'atmosphère de Mars
+> * Le spectromètre UV est utilisé pour mesurer la pression atmosphérique, ce qui permet d'inferrer les altitudes des formations géologiques
+- L'une des révélations les plus importantes de Mariner 9, c'est la mise en évidence de réseaux de vallées et des chenaux d'inondation, qui ressemblent à des lits de rivière asséchées.  
+> Ce qui voulait dire que Mars n'a pas toujours été aussi aride et hostile qu'elle ne l'est maintenant ! Elle a probablement eu de l'eau liquide par le passé ! Cette découverte ravive les espoirs des scientifiques de trouver un jour de la vie martienne. 
+- Mariner 9 a terminé sa mission le 27 Octobre 1972, après avoir rempli tous ses obectifs et largement dépassé sa durée de vie initiale (349 jours au lieu de 90 jours prévus initialement).
+> * La mission s'est terminée à cause de l'épuisement de l'azote utilisé pour contrôler son altitude.
+- Mariner 9 est toujours en orbite autour de Mars, s'approchant chaque jour un peu plus de la planète. D'ici 2022, elle devrait s'écraser sur Mars.
 
 ### Viking 1 et 2 (NASA, 1975-1982)
 
