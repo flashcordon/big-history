@@ -717,7 +717,8 @@ and no doubt lives into its development
 - Elle fait un dixième de la masse de la Terre (10,7%) et à peine plus de la moitié de sa taille (diamètre : 53 % celui de la Terre)
 > Rayon de Mars : 3 400 km. Rayon de la Terre : 6 400 km
 - Sa gravité de surface est donc plus faible que sur Terre : sur Mars, vous pèseriez 38 % de votre poids
-- Il fait de l'ordre de 4 fois plus froid sur Mars que sur Terre (-67°C en moyenne? Températures extrêmes ?)
+- Il fait de l'ordre de 4 fois plus froid sur Mars que sur Terre
+> Sa température moyenne annuelle est de -63°C (14°C pour la Terre). Elle peut varier entre -143°C et +23°C.
 - L’atmosphère de Mars est assez similaire à celle de Vénus :
  composée à 95 % de CO2, avec quelques pourcents d’argon (1,6%) et d’azote.
 - Mars a perdu une grande partie de son atmosphère, qui est aujourd’hui 100 fois moins dense que sur Terre (pression de surface : 1 % de celle de la Terre). Par le passé, elle était probablement 10 à 100 fois plus dense.
@@ -750,7 +751,7 @@ and no doubt lives into its development
 - On a de solides indices qui laissent penser que Mars a abrité un océan d’eau liquide qui recouvrait une bonne partie de l’hémisphère Nord il y a plusieurs milliards d’années.
 > * De nombreuses formations rocheuses, dont la plupart se trouve dans l’hémisphère nord, sont autant d’indices qui pointent vers l’existence d’eau liquide par le passé : des « outflow channels », des réseaux de vallées qui ressemblent à des lits de rivière « meandering », des terrains lissent que l’on interprète comme du plancher océanique, des bassins d’impact circulaires marqués par des traces de circulation d’eau...
 > * Les rovers Spirit et Opportunity ont découvert à la surface des petites formations sphériques d’hématite nommées myrtilles (« blueberries »), qui ne se forment qu’en présence d’eau sur des temps longs. On a aussi découvert des argiles et Opportunity a découvert des couches de sédiments avec des traces de « ripples ».
-- On pense que les Northen Lowlands et le bassin Hellas ont probablement été remplis d’eau à une certaine époque.
+- On pense que les basses plaines de l'hémisphère Nord et le bassin d'Hellas Planitia ont probablement été remplis d’eau à une certaine époque.
 - Quelle quantité d’eau avait Mars par le passé ? Le deutérium (hydrogène lourd) est 5,5 fois plus abondant dans l’atmosphère martienne que l’hydrogène « normal ». Grâce à ces données, on infère que Mars abritait 20 fois plus d’eau qu’aujourd’hui par le passé.
 - La grande majorité de l’eau Martienne se trouve aujourd’hui emprisonnée sous forme de glace dans les calottes polaires, ainsi que dans la croûte martienne, sous la surface
 > Les relevés radar de Mars Express ont montré qu’il y a probablement suffisamment d’eau dans la calotte polaire sud pour recouvrir toute la surface de la planète avec un océan de 11m de profondeur.
