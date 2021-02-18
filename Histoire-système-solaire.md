@@ -749,8 +749,8 @@ and no doubt lives into its development
 ## L’eau sur Mars
 
 - On a de solides indices qui laissent penser que Mars a abrité un océan d’eau liquide qui recouvrait une bonne partie de l’hémisphère Nord il y a plusieurs milliards d’années.
-> * De nombreuses formations rocheuses, dont la plupart se trouve dans l’hémisphère nord, sont autant d’indices qui pointent vers l’existence d’eau liquide par le passé : des « outflow channels », des réseaux de vallées qui ressemblent à des lits de rivière « meandering », des terrains lissent que l’on interprète comme du plancher océanique, des bassins d’impact circulaires marqués par des traces de circulation d’eau...
-> * Les rovers Spirit et Opportunity ont découvert à la surface des petites formations sphériques d’hématite nommées myrtilles (« blueberries »), qui ne se forment qu’en présence d’eau sur des temps longs. On a aussi découvert des argiles et Opportunity a découvert des couches de sédiments avec des traces de « ripples ».
+> * De nombreuses formations rocheuses, dont la plupart se trouve dans l’hémisphère nord, sont autant d’indices qui pointent vers l’existence d’eau liquide par le passé : des chenaux d'inondation, des réseaux de vallées qui ressemblent à des lits de rivière sinueux, des terrains lissent que l’on interprète comme du plancher océanique, des bassins d’impact circulaires marqués par des traces de circulation d’eau...
+> * Les rovers Spirit et Opportunity ont découvert à la surface des petites formations sphériques d’hématite nommées myrtilles (« blueberries »), qui ne se forment qu’en présence d’eau sur des temps longs. On a aussi découvert des argiles et Opportunity a découvert des couches de sédiments avec des traces d'ondulations.
 - On pense que les basses plaines de l'hémisphère Nord et le bassin d'Hellas Planitia ont probablement été remplis d’eau à une certaine époque.
 - Quelle quantité d’eau avait Mars par le passé ? Le deutérium (hydrogène lourd) est 5,5 fois plus abondant dans l’atmosphère martienne que l’hydrogène « normal ». Grâce à ces données, on infère que Mars abritait 20 fois plus d’eau qu’aujourd’hui par le passé.
 - La grande majorité de l’eau Martienne se trouve aujourd’hui emprisonnée sous forme de glace dans les calottes polaires, ainsi que dans la croûte martienne, sous la surface
@@ -906,8 +906,6 @@ Des perchlorates ont été reconnus sur Mars pour la première fois en 2008 par 
 
 Les signatures spectrales de perchlorates publiées récemment sont changeantes au cours des saisons, et les auteurs de l'article proposent que ces variations puissent être le reflet d'un cycle de dissolution et précipitation des perchlorates par de l'eau liquide. Des sels de perchlorates déshydratés présents dans le sol seraient dissous par de l'eau, les solutions liquides de perchlorates ainsi formées s'écouleraient ensuite, mais s'évaporeraient rapidement, redéposant les sels plus loin et dans un état plus hydraté. Cet état "frais" des perchlorates hydratés serait celui détecté dans les spectres CRISM.
 
-
-
 ### Phoenix (NASA, 2007-2008)
 
 - En 2002, la sonde Mars Odyssey découvre un vaste réservoir d'hydrogène souterrain proche de la surface dans la région de Vastitas Borealis, près de la calotte polaire Nord. Les scientifiques interprètent ces données comme signalant la présence de glace d'eau à moins d'un mètre de profondeur.
@@ -1038,6 +1036,7 @@ Les signatures spectrales de perchlorates publiées récemment sont changeantes 
 ### Perseverance (NASA, 2020-2023 ?)
 
 - Perseverance est un rover de la taille d'une voiture (3 mètres de long pour 2,70 mètres de large, environ 1 tonne) a été lancé le 30 Juillet 2020 depuis Cap Canaveral en Floride (à bord d'un lanceur Atlas V)
+> Son nom est choisi par le jeune Alexander Mather, 14 ans, suite à un concours lancé par la NASA à des écoles primaires et secondaires réunissant plus de 28 000 propositions
 - Il s'est posé sur Mars le 18 Février 2021 dans le cratère Jezero, un bassin d'impact de 45 km de diamètre
 > Ce cratère, situé juste au nord de l'équateur martien (dans la région d'Isidis Planitia), est très intéressant exobiologiquement parlant, car il abrite un ancien delta de rivière qui débouchait, il y a plus de 3,5 milliards d'années, dans un lac. Il y a donc des chances de trouver des traces de vie passée sous forme fossiles, dans les carbonates notamment. On sait que ce cratère a abrité de l'eau par le passé parce qu'il contient des argiles, qui ne se forment qu'en présence d'eau.
 - Perseverance a 4 objectifs scientifiques à remplir :
