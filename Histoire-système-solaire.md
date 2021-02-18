@@ -758,7 +758,7 @@ and no doubt lives into its development
 - Depuis au moins 2.5 milliards d’années, Mars est essentiellement une planète aride et glacée, et son atmosphère ténue ne lui permet pas de maintenir de l’eau liquide très longtemps à la surface. La glace se sublime.
 - Néanmoins, dans certains lieux spécifiques, il est possible qu’une faible quantité d’eau liquide s’écoule actuellement, de façon transitoire (quelques cm à quelques mètres), si elle est suffisamment chargée en sels de perchlorates
 > * Les perchlorates absorbent les molécules d’eau de l’atmosphère et l’incorporent dans leur réseau cristallin, jusqu’à effondrement de ce dernier (et donc écoulement), dans un processus nommé déliquescence
-> * En 2015, on a annoncé la détection en orbite (mission?) de sels hydratés associés à des traces de pente saisonnières.
+> * En 2015, une étude analysant les données de la sonde MRO a annoncé la détection en orbite de sels hydratés (saumure) associés à des traces de pente saisonnières.
 
 ## La vie sur Mars
 
@@ -770,7 +770,10 @@ and no doubt lives into its development
 
 ## Missions vers Mars
 
-### Mariner 4
+- Une cinquantaine de missions ont été envoyées vers Mars depuis les années 60. Près de la moitié seulement sont parvenues à destination.
+> Les seules puissances à avoir envoyé des sondes vers Mars sont : la Chine, l'Inde, le Japon, la Russie, l'USSR, les Emirats Arabes Unis, le Royaume Unis, les Etats Unis et l'Union Européenne.
+
+### Mariner 4 (NASA, 1964-1967)
 
 - Entre 1962 et 1973, la NASA construit 10 sondes nommées Mariner destinées à explorer le système solaire interne (Mercure, Vénus, Mars) pour la première fois.
 - Au milieu des années 60, on ne sait rien de l'atmosphère de Mars : ni sa densité, ni sa composition.
@@ -806,7 +809,7 @@ and no doubt lives into its development
 > * Après son survol de Mars, Mariner 4 a continué d'analyser l'environnement interplanétaire pendant encore 2 ans. Mais fin 1967, la sonde s'est faite endommager par des dizaines de milliers de micrométéorites et a fini par être à court d'azote pour manoeuvrer. La mission a largement excédé sa durée de vie prévue de 8 mois.
 > * Au total, la mission aura envoyé 5,2 millions de bits de données (655 kilo-octets) à la Terre.
 
-### Mariner 9
+### Mariner 9 (NASA, 1971-1972)
 
 - En 1971, une flotte de sondes part pour la planète Mars : 3 soviétiques (Kosmos 419, Mars 2 et Mars 3) et 2 américaines (Mariner 8 et 9).
 - En pleine guerre froide, URSS et USA décident de coopérer pour se partager mutuellement les résultats, et une ligne téléphonique est installée entre le Jet Propulsion Laboratory et l'Institut de Recherche Spatiale soviétique.
@@ -868,13 +871,15 @@ contenait des organismes vivants, le taux de radioactivité de l’air à l’in
 chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dérivées du carbone. Ces molécules sont pourtant indispensables à la vie sur Terre ! Pour la majorité des scientifiques de la NASA, l’affaire était donc classée. Les résultats de GC-MS suffisaient à invalider les résultats de Labeled Release. Les réactions chimiques observées sont certainement de nature non-biologique.
 > * La validité du résultat positif de Labeled Release dépend de l'absence d'agents oxydants dans le sol martien. Or la mission Phoenix a montré qu'il existe des perchlorates dans le sol martien, et ces perchlorates sont des agents oxydants.
 
-### Pathfinder et Sojourner
+### Pathfinder et Sojourner (NASA, 1996-1997)
 
-### Mars Global Surveyor
+### Mars Global Surveyor (NASA, 1996-2007)
 
-### Mars Odyssey
+### Mars Odyssey (NASA, 2001-2025)
 
-### Spirit et Opportunity
+### Mars Express (ESA, 2003-2022)
+
+### Mars Exploration Rovers / Spirit et Opportunity (NASA, 2003-2019)
 
 ### Mars Reconnaissance Orbiter (NASA, 2005-202X)
 
@@ -1033,7 +1038,7 @@ Les signatures spectrales de perchlorates publiées récemment sont changeantes 
 - Le forage de HP3 a commencé mais la taupe bute sur un obstacle inconnu à 30 cm de profondeur depuis le 1er Mars 2019
 - La mission primaire, prévue originellement pour durer 2 ans (jusqu’en Novembre 2020), a été prolongée de 2 nouvelles années (jusqu’en Décembre 2022).
 
-### Perseverance (NASA, 2020-2023 ?)
+### Mars 2020 / Perseverance (NASA, 2020-2023 ?)
 
 - Perseverance est un rover de la taille d'une voiture (3 mètres de long pour 2,70 mètres de large, environ 1 tonne) a été lancé le 30 Juillet 2020 depuis Cap Canaveral en Floride (à bord d'un lanceur Atlas V)
 > Son nom est choisi par le jeune Alexander Mather, 14 ans, suite à un concours lancé par la NASA à des écoles primaires et secondaires réunissant plus de 28 000 propositions
