@@ -688,7 +688,7 @@ and no doubt lives into its development
 
 ## Histoire de l'observation de Mars
 
-- C’est par l’observation rigoureuse de la trajectoire de Mars au fil des nuits dans le ciel nocturne (réalisée en collaboration avec l’astronome danois ? Tycho Brahe) que Johannes Kepler réalise que les orbites des planètes autour du Soleil ne sont pas sphériques, mais elliptiques.
+- C’est par l’observation rigoureuse de la trajectoire de Mars au fil des nuits dans le ciel nocturne (réalisée en collaboration avec l’astronome danois ? Tycho Brahe) que Johannes Kepler réalise que les orbites des planètes autour du Soleil ne sont pas circulaires, mais elliptiques.
 - En 1666, Jean-Dominique Cassini émet l’idée que Mars ressemble beaucoup à la Terre. Il suggère que les étendues sombres et claires qu’il observe sont respectivement des mers et des continents.
 - A la fin du 18e siècle, William Herschel propose que les calottes polaires de Mars sont constituées de neige et de glace (W. Herschel, 1784. On the Remarkable Appearances at the Polar Regions of the Planet Mars, the Inclination of Its Axis, the Position of Its Poles, and Its Spheroidical Figure; With a Few Hints Relating to Its Real Diameter and Atmosphere, Philosophical Transactions of the Royal Society of London).
 - Le fils de Wiliam Herschel quant à lui, remarque une étrange teinte verdâtre dans les « mers » martiennes. Il l’attribue à une illusion d’optique.
@@ -807,34 +807,24 @@ and no doubt lives into its development
 
 ### Mariner 9
 
-L'année 1971 sera un grand cru dans l'exploration de la planète Mars. Les américains proposent deux Mariner pour occuper la fenêtre de tir, et les russes trois sondes : Kosmos 419, Mars 2 et Mars 3. C'est donc une véritable flottille qui va s'envoler pour la planète rouge. 
-Malgré la guerre froide, les scientifiques impliqués dans les missions Mars et Mariner se sont mis d'accord, et les résultats qui seront obtenus par les différentes sondes seront échangés, pour le bénéfice des deux parties. Une ligne téléphonique avait même été installée entre le Jet Propulsion Laboratory et l'Institut de Recherche Spatiale soviétique.
+- En 1971, une flotte de sondes part pour la planète Mars : 3 soviétiques (Kosmos 419, Mars 2 et Mars 3) et 2 américaines (Mariner 8 et 9).
+- En pleine guerre froide, URSS et USA décident de coopérer pour se partager mutuellement les résultats, et une ligne téléphonique est installée entre le Jet Propulsion Laboratory et l'Institut de Recherche Spatiale soviétique.
+- Sa mission principale est de cartographier 70% de la surface de Mars pendant les 3 premiers mois d'opération
+- Pour remplir sa mission, la sonde octogonale de près d'une tonne (998 kg au lancement) dispose de 6 instruments :
+> * Une expérience de mécanique céleste, pour mesurer le champ gravitationnel martien et les éphémérides
+> * Un spectromètre à interféromètre infrarouge pour analyser la structure verticale, la composition et la dynamique de l'atmosphère, et les propriétés d'émission de la surface de Mars.
+> * Un radiomètre infrarouge, pour cartographier la température du sol en fonction de l'heure
+> * Une expérience d'occultation pour déterminer la distribution verticale de l'indice de réfraction de l'atmosphère
+> * Des caméras de télévision
+> * Un spectromètre UV
+- Le 14 Novembre 1971, après un voyage de 167 jours, Mariner 9 devient la première sonde spatiale à arriver dans l'orbite de Mars. Et la première sonde spatiale à orbiter autour d'une autre planète.
+- Mais lorsque la sonde allume sa caméra le 10 Novembre, la déception est immense : à part la calotte polaire sud et 4 points noirs, aucun détail n'est discernable à la surface !
+> La planète rouge fait face à une énorme tempête de poussière, la plus grande jamais enregistrée sur Mars. Celle-ci débute le 22 Septembre 1971 et recouvre la quasi-totalité de la surface de Mars. Les 4 points noirs observés sont les sommets d'Olympus Mons, et des 3 volcans de Tharsis Montes. En attendant la fin de la tempête, Carl Saga propose d'étudier Phobos et Deimos. La tempête prend fin en Novembre-Décembre 1971, et la cartographie de la planète débute le 2 Janvier 1972.
+- Au total, la mission a envoyé 6,7 GO de données à la Terre, dont 7329 images.
 
 
-
-Le 10 novembre, alors qu'il ne reste plus à la sonde qu'une distance de 800 000 kilomètres à parcourir, la caméra se met en marche. La salle de contrôle de mission se remplit et tout le monde attend avec une impatience non dissimulée les premières images de la planète. La déception va être énorme.
-
-Lorsque les images parviennent enfin au centre de contrôle, elles ne montrent rien d'autre qu'un globe gris uniforme, terne, sur lequel ne se détache que les glaces brillantes de la calotte polaire sud et quatre points noirs mystérieux plantés au niveau de l'équateur. La mise en orbite ne changera rien à la situation.
-La planète entière est recouverte d'un épais manteau de poussière, qui ne laisse rien voir des détails de sa surface. 
- Sur une idée de Carl Sagan, et en attendant l'apaisement de la tempête, Mariner 9 se reporta sur Phobos et Deimos.
- 
-    First spacecraft to orbit another planet
-    First spacecraft to orbit Mars
-The primary goal of the mission was to map about 70% of the surface during the first three months of operation. 
-- Mariner 9 est lancée vers la planète Mars le 30 mai 1971 par le lanceur Atlas-Centaur (AC-23) depuis l'aire de lancement LC-36 B, à la base de lancement de Cap Kennedy. et atteint celle-ci le 14 novembre de la même année. Elle devient le premier véhicule spatial à se mettre en orbite autour d'une autre planète
-- La sonde Mariner 9 arrive dans l'environnement de la planète de Mars le 14 novembre 1971 après un vol de 167 jours
+- Mariner 9 est lancée vers la planète Mars le 30 mai 1971 par le lanceur Atlas-Centaur (AC-23) depuis l'aire de lancement LC-36 B, à la base de lancement de Cap Kennedy. et atteint celle-ci le 14 novembre de la même année. 
 - - Après des mois d'attente, la fin de tempêtes de poussières sur Mars, la sonde Mariner 9 réussit le 2 janvier 1972 à envoyer les premières photos de la surface de Mars d'une clarté surprenante, la résolution atteignant 1 km. Grâce à ses instruments (spectromètres ultraviolet, infrarouge, radiomètre infrarouge et deux caméras), elle découvre des éléments marquants de la géographie de Mars tels que le volcan Olympus Mons, le plus grand volcan du Système solaire, et l'énorme canyon qui est ensuite nommé Valles Marineris en l'honneur de la réussite de la mission. Mariner 9 permet de construire le profil vertical de l'atmosphère de Mars. 
-- une plate-forme octogonale en magnésium, d'une profondeur de 45,7 cm et d'une diagonale de 138,4 cm. La hauteur totale du véhicule spatial est de 2,28 mètres. La masse au lancement est de 997,9 kg
-- La sonde spatiale a six instruments
-- Expérience de mécanique céleste (Celestial Mechanics Experiment), pour mesurer le champ gravitationnel martien et les éphémérides
-- Spectromètre à interféromètre infrarouge pour fournir des informations sur la structure verticale, la composition et la dynamique de l'atmosphère et sur les propriétés d'émission de la surface de Mars.
-- Radiomètre infrarouge (IRR - InfraRed Radiometer), l'expérience est conçue pour fournir, sur une large couverture de la surface de Mars, les températures de luminosité du sol en fonction de l'heure locale en mesurant l'énergie rayonnée dans les bandes de longueurs d'onde de 8 à 12 μm et 18 à 25 μm. À partir de ces températures, les informations suivantes sont dérivées : 1° la distribution à grande échelle de l'inertie thermique des matériaux de surface, 2° l'apparition d'irrégularités dans la courbe de refroidissement, 3° l'existence de « points chauds » pouvant indiquer des sources de chaleur interne, et 4° la température du pôle polaire et de la surface adjacente. 
-- Expérience d'occultation en bande S (S-Band Occultation Expriment), le décalage Doppler du signal de télémétrie en bande S lors de l'occultation de la sonde Mariner 9 par la planète Mars fournit la distribution verticale de l'indice de réfraction de l'atmosphère martienne
-- Système d'imagerie à l'aide de caméras de télévision (Mars TV Camera System)
-- Spectromètre ultraviolet (UVS - UltraViolet Spectrometer), 
-- L'imagerie de la surface de Mars par la sonde Mariner 9 est retardée par une tempête de sable qui commence le 22 septembre 1971 dans la région de Noachis Terra. La tempête est rapidement devenue l'une des plus grandes tempêtes jamais observées sur la planète Mars. Au moment où le véhicule spatial est arrivé autour de Mars, aucun détail de la surface ne pouvait être vu, à l'exception des sommets du volcan Olympus Mons et des trois volcans de Tharsis Montes. 
-- La tempête s'apaise en novembre et décembre 1971 et les opérations normales de cartographie commencent le 2 janvier 1972. 
-- Un total de 54 milliards de bits de données scientifiques sont retournés, dont 7 329 images couvrant la planète entière.
 - 
 - Mariner 9 entered orbit around Mars in November 1971, observing the planet from that vantage point until August 1972. The spacecraft discovered many surface features that indicated that at least sometime in its past Mars was geologically active and photographed features that could have been caused by flowing liquid. The discoveries revolutionized our perception of Mars and gave hope that perhaps at some time in its history it had conditions favorable for life.
 on a la preuve que de l'eau liquide a coulé à la surface de Mars dans un passé lointain depuis 1971 (mission Mariner 9).
