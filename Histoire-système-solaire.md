@@ -982,8 +982,8 @@ for obtaining close-up, high-resolution images of rocks and soils.
  
 RAT
 Rock Abrasion Tool
-
 for removing dusty and weathered rock surfaces and exposing fresh material for examination by instruments onboard.
+- Deux mondes, un Soleil. C'est la devise qui figure sur le cadran solaire qui équipe Spirit et Opportunity. Tout en permettant d'apprécier le passage des heures et des saisons, l'ombre du style central servira à régler la luminosité de la caméra panoramique. La face supérieure richement colorée du cadran jouera aussi le rôle de mire d'étalonnage pour les couleurs. Des petits miroirs fixés sur les extrémités du cadran permettront d'observer la couleur du ciel au cours d'une journée. Le mot Mars, traduit dans 17 langues différentes, apparaît sur la face supérieure du cadran. Le cercle gris clair, qui porte la devise "Deux Mondes, un Soleil" ainsi que la mention "Mars 2004", représente l'orbite de Mars, celle de la Terre étant figurée en gris foncé. La sphère dorée fixée au sommet du style symbolise quant à elle notre soleil. Les quatre côtés du cadran solaire sont ornés de petites plaques gravées, qui portent un court texte accompagné de nombreux dessins d'enfants (Crédit photo : droits réservés)
 
 
 ### Mars Reconnaissance Orbiter (NASA, 2005-202X)
