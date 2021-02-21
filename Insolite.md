@@ -62,6 +62,7 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 
 - [50 Years Later: The pen that saved Apollo 11](https://abcnews.go.com/Politics/50-years-pen-saved-apollo-11/story?id=64228723) - ABC News
 - [When Buzz Aldrin and Neil Armstrong Were Nearly Stranded on the Moon](https://www.history.com/news/buzz-aldrin-moon-landing-accident) - History Channel
+- ["Stylo de l'espace" : cet instant où Buzz Aldrin est devenu le MacGyver de la Lune](https://www.lci.fr/sciences/video-50-anniversaire-apollo-xi-cet-instant-ou-buzz-aldrin-est-devenu-le-macgyver-de-la-lune-space-pen-fischer-neil-armstrong-21-juillet-1969-nasa-2125499.html) - LCI
 
 ---
 
@@ -80,3 +81,6 @@ In his book, Magnificent Desolation: The Long Journey Home from the Moon, Aldrin
 - “The broken switch had snapped off from the engine-arm circuit breaker, the one vital breaker needed to send electrical power to the ascent engine that would lift Neil and me off the moon,” he writes. 
 - “After examining it more closely, I thought that if I could find something in the LM to push into the circuit, it might hold,” Aldrin writes. “But since it was electrical, I decided not to put my finger in, or use anything that had metal on the end. I had a felt-tipped pen in the shoulder pocket of my suit that might do the job. 
 - If the engine arm circuit breaker remained open, Armstrong and Aldrin likely would have been stuck
+- Aldrin doit, quant à lui, se transformer en "MacGyver" - un rôle qu'il endosse bien avant la première apparition à l'écran de ce personnage de fiction, en 1985. Le bouton du commutateur qui sert à la mise à feu du moteur de remontée a en effet été brisé par l'un des deux hommes, probablement au moment où ils sont remontés à bord du module lunaire. Or, sans cette pièce, impossible de redécoller.
+- Dans un coup de génie, Buzz s'empare alors de son stylo, le désormais fameux AG-7 ou "Space pen" (en français, "stylo de l'espace"), en extrait le capuchon et constate que le diamètre correspond à celui du poussoir. Aujourd'hui encore, Aldrin affirme qu'il possède le stylo original, ainsi que le morceau de l'interrupteur qui s'était rompu. Certains avancent cependant que même sans le bricolage effectué par Aldrin, le module lunaire d'Apollo XI aurait pu redécoller de la Lune. Buzz, connu pour son ego démesuré et sa haute opinion de lui-même, a-t-il construit sa propre légende, en forçant le trait ? Difficile à dire, d'autant qu'Armstrong n'a jamais démenti son équipier...
+- Quoi qu'il en soit, grâce à Buzz Aldrin et au "Space pen", le 21 juillet à 17h54 (temps universel), soit vingt-et-une heures et vingt-six minutes après l'alunissage, le moteur du second étage de Eagle soulève le vaisseau et le propulse vers l'espace où l'attend le module de commande Columbia, en orbite à 110 kilomètres. Michael Collins, qui y est resté seul, retrouve enfin ses deux compagnons. 
