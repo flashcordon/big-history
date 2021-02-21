@@ -687,6 +687,9 @@ and no doubt lives into its development
 - [Mars Exploration Rovers](https://mars.nasa.gov/mer/) - NASA
 - [Mars Exploration Rovers Overview](https://mars.nasa.gov/mer/mission/overview/) - NASA
 - [Mars Exploration Rover (MER) : Spirit et Opportunity](https://www.nirgal.net/rover_2003.html) - Nirgal
+- [Mars Pathfinder](https://fr.wikipedia.org/wiki/Mars_Pathfinder) - Wikipédia
+- [Mars Pathfinder](https://www.nirgal.net/pres_mpf1.html) - Nirgal
+- [Mars : le jour où Pathfinder a “cassé Internet”](https://sciencepost.fr/mars-pathfinder/) - Science Post
 ---
 
 ## Histoire de l'observation de Mars
@@ -875,7 +878,43 @@ contenait des organismes vivants, le taux de radioactivité de l’air à l’in
 chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dérivées du carbone. Ces molécules sont pourtant indispensables à la vie sur Terre ! Pour la majorité des scientifiques de la NASA, l’affaire était donc classée. Les résultats de GC-MS suffisaient à invalider les résultats de Labeled Release. Les réactions chimiques observées sont certainement de nature non-biologique.
 > * La validité du résultat positif de Labeled Release dépend de l'absence d'agents oxydants dans le sol martien. Or la mission Phoenix a montré qu'il existe des perchlorates dans le sol martien, et ces perchlorates sont des agents oxydants.
 
-### Pathfinder et Sojourner (NASA, 1996-1997)
+### Mars Pathfinder / Sojourner (NASA, 1996-1997)
+
+- Mars Pathfinder est une sonde spatiale de type atterrisseur, développée par l'agence spatiale américaine, la NASA, qui s'est posée sur le sol de la planète Mars le 4 juillet 1997 à Ares Vallis, dans la région de Chryse Planitia. L'engin spatial principal est avant tout un démonstrateur technologique à bas coût qui permet de valider le recours à une nouvelle technique d'atterrissage en douceur sur Mars utilisant des coussins gonflables et utilise pour la première fois sur Mars un petit robot mobile (astromobile), Sojourner. 
+-  première mission de la NASA sur le sol de Mars depuis la programme Viking qui s'est déroulé en 1976 soit 20 ans plus tôt. 
+-  La mission Mars Pathfinder remplit complètement les objectifs limités qui lui ont été fixés et s'achève le 27 septembre 1997. La charge utile, réduite à une station météorologique, une caméra et un spectromètre embarqué sur le rover Sojourner, apporte peu d'informations scientifiques nouvelles
+-  Par contre pour la première fois le détail du déroulement d'une mission spatiale est communiqué en temps réel au grand public, image à l'appui, grâce à la généralisation d'internet et cette médiatisation par le biais de ce support connaît un énorme succès. 
+-  ses objectifs sont essentiellement techniques. Il s'agit en effet de tester des procédures qui pourront être utilisées ultérieurement sur des missions ambitieuses sur le plan scientifique et donc plus coûteuses.
+
+    prouver que la devise « faster, better and cheaper » (plus rapide, mieux et moins cher) peut s'appliquer aux missions spatiales (la sonde a été développée en seulement trois ans pour un coût inférieur à 150 millions de dollars, soit cinq fois moins que le projet Viking).
+    tester une méthode d'atterrissage totalement innovante : des coussins gonflables géants amortissant l'impact de la sonde avec le sol
+- Mars Pathfinder, qui pèse 895 kg
+- Le rover Sojourner (nommé d'après Sojourner Truth) pèse 10,6 kg et mesure 65 cm de long pour 48 cm de large et 30 cm de haut. Doté de six roues il peut s'éloigner théoriquement jusqu'à 500 mètres de la zone d'atterrissage. 
+- sept mois que dure son trajet vers la planète rouge
+- lancé  4 décembre 1996 Arrivée sur Mars (4 juillet 1997)
+- Le site d'atterrissage est baptisé Mémorial Carl Sagan en l'honneur de l'astronome et planétologue américain Carl Sagan, qui avait été un grand défenseur de l'exploration spatiale et qui était décédé deux semaines seulement après le lancement de la sonde spatiale
+- Mars Pathfinder emporte trois instruments : la caméra IMP et la station météorologique ASI/MET installées sur l'atterrisseur et le spectromètre à rayons X alpha proton APXS installé sur le rover Sojourner. 
+- IMP (Imager for Mars Pathfinder) est une caméra stéréo couleur qui utilise deux optiques pour fournir des images en relief. La caméra est fixée à 1 mètre au-dessus du plateau supérieur de l'atterrisseur au sommet d'un mat télescopique 
+- La couleur du ciel est une surprise pour les scientifiques. Alors qu'aucune tempête de poussière majeure n'a eu lieu depuis des années, celui-ci est de couleur rosé ce qui semble indiquer que la poussière, à l'origine de cette coloration, est présente en permanence dans l'atmosphère.
+- Après avoir étudié le site de Rock Garden, l'équipe projet envisage d'envoyer Sojourner beaucoup plus loin pour évaluer ses capacités et contribuer à la mise au point de la prochaine génération de rovers. Mais la recharge de la batterie de Mars Pathfinder se dégrade progressivement. Un dernier contact avec la sonde spatiale a lieu le 27 septembre 1997 à 10h 23 heure universelle. Le 28 septembre la sonde spatiale ne répond plus. La raison exacte de l'arrêt des transmissions n'est pas certaine, mais il est probablement du à l'épuisement de la batterie durant la nuit qui aurait remis l'horloge interne à 0. Lorsque le jour revient et que l'énergie afflue de nouveau, l'ordinateur embarqué n'aurait pas pu situer la Terre et donc pointer l'antenne parabolique vers celle-ci. Une brève liaison est rétablie les 1er et 7 octobre mais sans qu'aucun donnée ne soit transmise. L'électronique devenant de plus en plus froide au fil des nuits, il est probable qu'elle a cessé de fonctionner de jour au bout d'un certain temps. Les ingénieurs abandonnent le 10 mars 1998 les tentatives de prise de contact
+- Durant son séjour à la surface de Mars, 17 050 images (dont 550 venant du rover) ont été réalisées et transmises
+- Le rover a parcouru une centaine de mètres et effectué 230 manœuvres, réalisant l'analyse chimique de seize roches et parcelles de sol différents, répartis sur une surface d'environ 250 m2. La mission, qui avait une durée prévue de 7 jours, a duré 12 fois plus longtemps
+- des tourbillons de poussière ont été fréquemment observés et suggèrent qu'ils forment le mécanisme injectant la poussière dans l'atmosphère de Mars.
+les photos prises montrent la présence de nuages de glace d'eau dans la basse atmosphère en début de journée. Ceux-ci se dissipent lorsque l'atmosphère se réchauffe.
+- l'atmosphère présente une teinte rose pale due à la présente des particules fines de poussière dans la basse atmosphère, phénomène déjà constaté sur les sites d'atterrissage des sondes spatiales Viking.
+- Sojourner a été le tout premier engin à se déplacer sur le sol martien  Sojourner fut donc le tout premier véhicule terrestre à se déplacer sur une autre planète. 
+- dans le film Planète rouge, des astronautes en péril sur Mars utilisent des pièces de Sojourner pour fabriquer une radio improvisée et communiquer avec leur vaisseau spatial.
+- dans le roman Seul sur Mars ainsi que son adaptation cinématographique, un astronaute abandonné sur Mars voyage jusqu'à Pathfinder pour récupérer et réparer la sonde afin de communiquer avec la Terre.
+- Le rover a renvoyé un trésor d’informations, collectant pas moins de 1,2 gigaoctet de données et prenant environ 10 000 photos de la surface martienne. Conçu pour ne durer qu’un mois, le rover à énergie solaire a tout de même tenu 70 sols martiens, soit 85 jours terrestres. Il a renvoyé sa dernière transmission vers la Terre le 27 septembre 1997.
+- Composé d'une station au sol et d'un robot mobile, Pathfinder devait prouver que l'exploration martienne pouvait être parfaitement conduite par des sondes économiques et assemblées dans des temps records (le fameux better, faster, cheaper cher à l'administrateur de la NASA d'alors, Daniel Goldin).
+- Après son arrivée sur Mars, la station au sol de Pathfinder a été officiellement baptisée Station Carl Sagan, en hommage au célèbre astronome américain, disparu le 20 décembre 1996, peu après le lancement de la mission.
+- Sojourner était alimenté en énergie par un petit panneau solaire d'une surface totale de 0,25 m2. Il fonctionnait avec une puissance de seulement 16 Watts (puissance consommée par une lampe de four, à comparer aux 500 Watts nécessaires au fonctionnement d'un ordinateur de bureau !). Pour les opérations nocturnes, le rover basculait sur une batterie au lithium non rechargeable.
+- Au sol, la vitesse maximale de Sojourner était de 24 m/h, et il pouvait théoriquement s'éloigner à 500 mètres de sa station. En réalité, au cours de la mission, la vitesse moyenne de Sojourner n'a été que de 1 centimètre par jour
+- Le nom du petit rover a été choisi suite à un concours organisé par la NASA. La gagnante, une jeune fille de 12 ans prénommée Valérie Ambroise, avait proposé de baptiser le robot en l'honneur de Sojourner Truth, militante antiesclavagiste qui a fait beaucoup pour le droit des femmes.
+- La mission Pathfinder a été un véritable succès, à tout point de vue. Sur une durée de trois mois, la sonde a retourné 2,6 gigabits de données, dont 16 000 images de la surface de Mars prises par la caméra de l'atterrisseur, 550 images acquises par le rover et 8,5 millions de mesures concernant la température, la pression et les vents martiens. Sojourner s'est déplacé sur une distance totale de 100 mètres
+- du point de vue médiatique, Pathfinder a été un succès sans précédent dans l'histoire de l'exploration spatiale, et la mission a dévoilé la puissance de la NASA en terme de communication. L'atterrissage de la sonde, qui a eu lieu le jour de la fête de l'indépendance américaine, fut suivi par des millions d'internautes à travers le monde. Le lundi 7 juillet, premier jour de travail depuis l'atterrissage, le site officiel de la NASA avait déjà enregistré 47 millions de hits. A la fin du mois de juillet, il avait recueilli plus de 566 millions de hits, faisant de l'atterrissage de Pathfinder l'un des événements les plus suivis de l'histoire de l'Internet.
+- Le 27 septembre 1997, après 83 jours d'opérations, les équipes au sol perdent brutalement le contact avec Pathfinder. Parmi toutes les hypothèses soulevées pour expliquer la rupture des communications, l'épuisement des batteries est la plus probable. Sans énergie, incapable de résister au climat glacial de Mars, Pathfinder est probablement mort de froid.
+- La mission Pathfinder s'est officiellement terminée le 4 novembre 1998, après une dernière tentative de la part de la NASA pour reprendre contact avec l'atterrisseur grâce à l'antenne de 34 mètres du DSN de Goldstone, en Californie, le 10 mars 1998.
 
 ### Mars Global Surveyor (NASA, 1996-2007)
 
