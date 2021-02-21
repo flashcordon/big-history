@@ -686,7 +686,7 @@ and no doubt lives into its development
 - [Mars Exploration Rover](https://fr.wikipedia.org/wiki/Mars_Exploration_Rover) - Wikipédia
 - [Mars Exploration Rovers](https://mars.nasa.gov/mer/) - NASA
 - [Mars Exploration Rovers Overview](https://mars.nasa.gov/mer/mission/overview/) - NASA
-- 
+- [Mars Exploration Rover (MER) : Spirit et Opportunity](https://www.nirgal.net/rover_2003.html) - Nirgal
 ---
 
 ## Histoire de l'observation de Mars
@@ -928,7 +928,63 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
     
 - La vapeur d'eau contenue dans l'atmosphère martienne se condense parfois en glace pour former des nuages de cristaux d'H2O. Le dioxyde de carbone peut également se condenser en formant des cristaux de CO2 dépassant 1 µm de diamètre, à des altitudes plus élevées que ceux constitués de glace d'eau. Les nuages qui en résultent, aux formes similaires aux cirrus terriens, ont été observés par les rovers. 
 - poussière est continuellement injectée dans l'atmosphère par des tourbillons de poussière77 (dust devils en anglais), comme celui observé ci-dessous par le rover Spirit le 12 mars 2005
+- No response has been received from Opportunity since Sol 5111 (June 10, 2018), amid a planet-encircling dust storm on Mars.
+- Spirit a duré 6 ans, et Opportunity plus de 14
+- Landing in a crater, Opportunity scored a "hole in one" by finding the mineral hematite, which typically forms in water. Water is key to life as we know it. Yet, acidic water soaked this area in Mars' ancient past, making conditions harder for life to thrive.
+- At a place called Comanche, Spirit found rocks ten times richer in key chemicals (magnesium and iron carbonates) than any other Martian rocks studied before. These rocks formed when Mars was warm and wet (had a thicker carbon-dioxide atmosphere and near-neutral-pH water). This warmer, watery environment could have supported life much better than the harshly acidic conditions the rover found elsewhere.
+- While dragging a wheel, Spirit churned up soil and found 90 percent pure silica at "Home Plate." On Earth, this kind of silica usually exists in hot springs or hot steam vents, where life as we know it often finds a hot, happy home. Perhaps ancient microbes on Mars did as well.
+- Spirit discovered that an ancient volcano erupted at "Home Plate," the rover's final resting place. Together, powerful steam eruptions from heated underground water produced some explosive volcanism. While violent, these extreme conditions can support microbial life on Earth. Once upon a time, maybe they did on Mars...
+- Score! Near the rim of Endeavor Crater, Opportunity found bright-colored veins of gypsum in the rocks. These rocks likely formed when water flowed through underground fractures in the rocks, leaving calcium behind. A slam-dunk sign that Mars was once more hospitable to life than it is today!
+- Opportunity found compelling signs of a watery past on Mars: clay minerals formed in neutral-pH water. Of all the places studied by Opportunity, this environment at Endeavor Crater once had the friendliest conditions for ancient microbial life.
+- Opportunity is a crater explorer. The rover has visited and studied the geology well over 100 impact craters of all sizes in its 14 years on Mars. It has learned about the lives of craters: how they form and erode through time.
+- Opportunity : While analyzing rocks and soils on Mars, the robotic geologist, equipped with a toolbox of scientific instruments, found hard spheres the size of peppercorns. Sometimes the spheres, nicknamed blueberries," were loosely scattered across the surface; other times, they were anchored within individual rock layers. After weeks of meticulous measurements, Opportunity demonstrated that the spheres consisted primarily of the mineral hematite. On Earth, hematite generally -- though not always -- forms in the presence of water. Water provides the oxygen atoms that bind with iron atoms in the mineral. On Mars, it appeared possible that groundwater carrying dissolved iron had percolated through the sandstone to form the tiny spheres. 
+- When Opportunity later discovered the mineral jarosite, scientists were ecstatic. Jarosite only forms in the presence of acidic water, so this mineral provides clues to what the environment was like when water was around. Acidic water is harsh, but we know that microbes on Earth can thrive in it. 
+-  On Earth, microbial communities thrive in highly acidic waters rich in iron and sulfur, such as the blood-red waters of the Rio Tinto in southwestern Spain. Among the minerals dissolved in the Rio Tinto is jarosite, an iron- and sulfur-bearing mineral also found on Mars. Whether life ever existed on Mars has yet to be deteremined.
+- Perhaps most stunning of all was Opportunity's discovery of centimeter-scale rock layers overlapping and cutting into each other. Known as crossbeds, these layers had shapes and sizes that indicated that water once flowed on the surface of Mars. In nearby "Endurance Crater," a thick stack of exposed rock layers, some deposited by wind, suggested that water was intermittently present. Rich in the elements sulfur, chlorine, and bromine, many of the minerals studied by Opportunity had settled to the bottom of a salty body of water, known as a brine, to form deposits similar to those seen in salt flats in desert regions on Earth. 
+- One characteristic of rocks formed by flowing water are fine, undulating layers of sediment, like those at the bottom of a stream, that flow over and cut into one another, known as crossbeds. 
+-  On Mars, wind and water eroded the rocks containing these minerals and carried pieces of them to their current location. These grains piled up with bits of volcanic rock and solidified to form sandstone. Many such layers, stacked atop one another and containing minerals that had initially settled as water evaporated, indicated that water was present for a long, long time. Opportunity discovered tiny cavities in the rock that were similar in shape and size to rock cavities on Earth that are left behind when certain minerals are dissolved and dispersed by groundwater.
+- Spirit and Opportunity surveyed the amount and distribution of dust and water ice in the Martian atmosphere, using cameras and spectrometers that measured the absorption of different wavelengths of light. As the seasons changed from summer to fall to winter to spring, the rovers monitored changes in temperature at different heights above the surface and at different times of day.
+- In November, 2004, Opportunity observed clouds at the onset of Martian winter. Similar in appearance to cirrus clouds on Earth, these clouds are believed to be composed of water-ice particles on the order of several micrometers (a few ten-thousandths of an inch) in length. 
+- During spring and summer of 2005 on Earth, Spirit often observed dozens of dust devils each day at around lunchtime local solar time on Mars. 
+- Measuring infrared radiation (heat) associated with specific minerals, the rovers identified and mapped minerals in rocks and soils. Key among these was hematite, an iron-bearing mineral often associated with water originally mapped by the Odyssey spacecraft. After being sent to the same area to get a closer look, Opportunity did indeed find hematite in rock outcrops as well as in high concentrations in the rounded, blueberry-size concretions.
+- Opportunity found the most compelling signs of a watery past on Mars: clay minerals formed in neutral-pH water. Of all the places studied by the twin rovers, this environment at Endeavor Crater once had the friendliest conditions for ancient microbial life.
 - 
+ 
+Pancam
+Panoramic Camera
+
+for determining the mineralogy, texture, and structure of the local terrain.
+ 
+Mini-TES
+Miniature Thermal Emission Spectrometer
+
+for identifying promising rocks and soils for closer examination and for determining the processes that formed Martian rocks. The instrument is designed to look skyward to provide temperature profiles of the Martian atmosphere.
+ 
+MB
+Mössbauer Spectrometer
+
+for close-up investigations of the mineralogy of iron-bearing rocks and soils.
+ 
+APXS
+Alpha Particle X-Ray Spectrometer
+
+for close-up analysis of the abundances of elements that make up rocks and soils.
+ 
+Magnets
+Magnets
+
+for collecting magnetic dust particles. The Mössbauer Spectrometer and the Alpha Particle X-ray Spectrometer were designed to analyze the particles collected and help determine the ratio of magnetic particles to non-magnetic particles. They also analyze the composition of magnetic minerals in airborne dust and rocks that have been ground by the Rock Abrasion Tool
+ 
+MI
+Microscopic Imager
+
+for obtaining close-up, high-resolution images of rocks and soils.
+ 
+RAT
+Rock Abrasion Tool
+
+for removing dusty and weathered rock surfaces and exposing fresh material for examination by instruments onboard.
+
 
 ### Mars Reconnaissance Orbiter (NASA, 2005-202X)
 
