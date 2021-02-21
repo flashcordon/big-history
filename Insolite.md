@@ -63,6 +63,7 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - [50 Years Later: The pen that saved Apollo 11](https://abcnews.go.com/Politics/50-years-pen-saved-apollo-11/story?id=64228723) - ABC News
 - [When Buzz Aldrin and Neil Armstrong Were Nearly Stranded on the Moon](https://www.history.com/news/buzz-aldrin-moon-landing-accident) - History Channel
 - ["Stylo de l'espace" : cet instant où Buzz Aldrin est devenu le MacGyver de la Lune](https://www.lci.fr/sciences/video-50-anniversaire-apollo-xi-cet-instant-ou-buzz-aldrin-est-devenu-le-macgyver-de-la-lune-space-pen-fischer-neil-armstrong-21-juillet-1969-nasa-2125499.html) - LCI
+- [Space Pens Mark 45th Anniversary of First Moon Landing](https://www.space.com/26543-apollo-11-moon-landing-space-pens.html) - Space
 
 ---
 
