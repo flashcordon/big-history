@@ -62,9 +62,21 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 
 - [50 Years Later: The pen that saved Apollo 11](https://abcnews.go.com/Politics/50-years-pen-saved-apollo-11/story?id=64228723) - ABC News
 - [When Buzz Aldrin and Neil Armstrong Were Nearly Stranded on the Moon](https://www.history.com/news/buzz-aldrin-moon-landing-accident) - History Channel
-- [Apollo 11 50th Anniversary Astronaut Space Pen](https://shop.amnh.org/apollo-11-50th-anniversary-astronaut-space-pen.html) - AMNH Store
 
 ---
 
+- On July 20, 1969, the first men to land on the moon, Neil Armstrong and Buzz Aldrin, had been on the moon’s surface collecting rock and dust samples for almost three hours.
+As they were climbing back into the Lunar Module (LM) in preparation to return home, Aldrin hit the circuit breaker switch with the life support backpack on his suit.
 -  the pen used to fix the broken switch and bring the Apollo 11 astronauts back to Earth is on display at The Museum of Flight in Seattle, Washington
 -  This pen is equipped with a pressurized ink cartridge and can function in a weightless environment, underwater and in extreme temperatures—still used by astronauts today.
+-  The switch (ENG ARM) activates the spacecraft’s ascent engine to lift them off the moon so they could rendezvous with Michael Collins, who was in the Columbia command module orbiting overhead.
+-  Using what they had left, a pen, Aldrin activated the inside switch to engage the circuit breaker and trigger the engine.
+-  Following the Apollo 11 historic July 20, 1969, moonwalk, Aldrin and Neil Armstrong were preparing to return to command from their lunar module when they discovered that a 1-inch engine arm circuit breaker switch had broken off the instrument panel.
+
+In his book, Magnificent Desolation: The Long Journey Home from the Moon, Aldrin recalls spotting something on the floor of the lunar module that didn’t belong there.
+
+“I looked closer and jolted a bit,” he writes. “There on the dust on the floor on the right side of the cabin, lay a circuit breaker switch that had broken off.” 
+- Wondering where the switch had come from, he looked at the rows of breakers on the instrument panel. Then he “gulped hard.” 
+- “The broken switch had snapped off from the engine-arm circuit breaker, the one vital breaker needed to send electrical power to the ascent engine that would lift Neil and me off the moon,” he writes. 
+- “After examining it more closely, I thought that if I could find something in the LM to push into the circuit, it might hold,” Aldrin writes. “But since it was electrical, I decided not to put my finger in, or use anything that had metal on the end. I had a felt-tipped pen in the shoulder pocket of my suit that might do the job. 
+- If the engine arm circuit breaker remained open, Armstrong and Aldrin likely would have been stuck
