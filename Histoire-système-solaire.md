@@ -688,6 +688,7 @@ and no doubt lives into its development
 - [Mars Exploration Rovers Overview](https://mars.nasa.gov/mer/mission/overview/) - NASA
 - [Mars Exploration Rover (MER) : Spirit et Opportunity](https://www.nirgal.net/rover_2003.html) - Nirgal
 - [Mars Pathfinder](https://fr.wikipedia.org/wiki/Mars_Pathfinder) - Wikipédia
+- [Mars Pathfinder](https://mars.nasa.gov/mars-exploration/missions/pathfinder/) - NASA
 - [Mars Pathfinder](https://www.nirgal.net/pres_mpf1.html) - Nirgal
 - [Mars : le jour où Pathfinder a “cassé Internet”](https://sciencepost.fr/mars-pathfinder/) - Science Post
 ---
@@ -727,7 +728,7 @@ and no doubt lives into its development
 - Il fait de l'ordre de 4 fois plus froid sur Mars que sur Terre
 > Sa température moyenne annuelle est de -63°C (14°C pour la Terre). Elle peut varier entre -143°C et +23°C.
 - L’atmosphère de Mars est assez similaire à celle de Vénus :
- composée à 95 % de CO2, avec quelques pourcents d’argon (1,6%) et d’azote.
+ composée à 95 % de CO2, avec quelques pourcents d’argon (1,6%) et d’azote (2,7%). 
 - Mars a perdu une grande partie de son atmosphère, qui est aujourd’hui 100 fois moins dense que sur Terre (pression de surface : 1 % de celle de la Terre). Par le passé, elle était probablement 10 à 100 fois plus dense.
 > * Cette pression est insuffisante pour garantir l’existence de l’eau liquide à la surface de Mars. L’eau existe sous forme de vapeur et de glace, mais elle ne peut que se sublimer ou se solidifier. 
 > * Le faible volcanisme de Mars couplé à l’échappement atmosphérique explique pourquoi l’atmosphère est si ténue aujourd’hui.
@@ -915,6 +916,28 @@ les photos prises montrent la présence de nuages de glace d'eau dans la basse a
 - du point de vue médiatique, Pathfinder a été un succès sans précédent dans l'histoire de l'exploration spatiale, et la mission a dévoilé la puissance de la NASA en terme de communication. L'atterrissage de la sonde, qui a eu lieu le jour de la fête de l'indépendance américaine, fut suivi par des millions d'internautes à travers le monde. Le lundi 7 juillet, premier jour de travail depuis l'atterrissage, le site officiel de la NASA avait déjà enregistré 47 millions de hits. A la fin du mois de juillet, il avait recueilli plus de 566 millions de hits, faisant de l'atterrissage de Pathfinder l'un des événements les plus suivis de l'histoire de l'Internet.
 - Le 27 septembre 1997, après 83 jours d'opérations, les équipes au sol perdent brutalement le contact avec Pathfinder. Parmi toutes les hypothèses soulevées pour expliquer la rupture des communications, l'épuisement des batteries est la plus probable. Sans énergie, incapable de résister au climat glacial de Mars, Pathfinder est probablement mort de froid.
 - La mission Pathfinder s'est officiellement terminée le 4 novembre 1998, après une dernière tentative de la part de la NASA pour reprendre contact avec l'atterrisseur grâce à l'antenne de 34 mètres du DSN de Goldstone, en Californie, le 10 mars 1998.
+
+- Mars Pathfinder used an innovative method of directly entering the Martian atmosphere, assisted by a parachute to slow its descent through the thin Martian atmosphere and a giant system of airbags to cushion the impact. The landing site, an ancient flood plain in Mars’ northern hemisphere known as Ares Vallis, is among the rockiest parts of Mars. It was chosen because scientists believed it to be a relatively safe surface to land on and one which contained a wide variety of rocks deposited during a catastrophic flood.
+- From landing on July 4, 1997 until the final data transmission on September 27, 1997, Mars Pathfinder returned 2.3 billion bits of information, including more than 16,500 images from the lander and 550 images from the rover, as well as more than 15 chemical analyses of rocks and soil and extensive data on winds and other weather factors. Findings from the investigations carried out by scientific instruments on both the lander and the rover suggest that Mars was at one time in its past warm and wet, with water existing in its liquid state and a thicker atmosphere.
+- Mars Pathfinder Science Instruments
+
+    Alpha Proton X-ray Spectrometer: Determined the elemental composition of rocks and soils.
+    Three Cameras: provided images of the surrounding terrain for geological studies, and documented the performance and operating environment for Pathfinder mission technologies.
+    Atmospheric Structure Instrument/Meteorology Package: Measured the Martian atmosphere during Pathfinder's descent to the surface, and provided meteorological measurements at the lander.
+
+
+    Rounded pebbles and cobbles at the landing site, and other observations, suggested conglomerates that formed in running water during a warmer past in which liquid water was stable.
+    Radio tracking of Mars Pathfinder provided a precise measure of the lander's location and Mars' pole of rotation. The measurements suggested that the radius of the planet's central metallic core is greater than 800 miles (1,300 kilometers) but less than roughly 1,250 miles (2,000 kilometers).
+    Airborne dust is magnetic, and its characteristics suggest the magnetic mineral is maghemite, a very magnetic form of iron oxide, which may have been freeze-dried on the particles as a stain or cement. An active water cycle in the past may have leached out the iron from materials in the crust.
+    Dust devils were seen and frequently measured by temperature, wind and pressure sensors. Observations suggested that these gusts are a mechanism for mixing dust into the atmosphere.
+    Early morning water ice clouds were seen in the lower atmosphere.
+    Abrupt temperature fluctuations were recorded in the morning, suggesting that the atmosphere is warmed by the planet's surface, with heat convected upward in small eddies.
+
+site d'atterrissage : sci-entists believe thatthe flood plain wascut by a volume ofwater the size ofNorth AmericaísGreat Lakes inabout two weeks.
+The only objective left unfinished at the timecommunications was lost was completion of a high-resolution 360-degree image of the landing site nick-named the ìSuper Pan,î of which 83 percent wasreceived on Earth. 
+The Pathfinder rover was named after SojournerTruth, an African-American crusader who lived dur-ing the U.S. Civil War era and traveled throughout thecountry advocating the rights of all people to be free.The name Sojourner, which means ìtraveler,î 
+
+
 
 ### Mars Global Surveyor (NASA, 1996-2007)
 
