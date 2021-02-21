@@ -55,3 +55,16 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - La première image de la surface de Mars a été coloriée.
 
 - Le point NEMO, cimetière d'épaves spatiales
+
+## Le stylo qui a sauvé Apollo 11
+
+*Sources*
+
+- [50 Years Later: The pen that saved Apollo 11](https://abcnews.go.com/Politics/50-years-pen-saved-apollo-11/story?id=64228723) - ABC News
+- [When Buzz Aldrin and Neil Armstrong Were Nearly Stranded on the Moon](https://www.history.com/news/buzz-aldrin-moon-landing-accident) - History Channel
+- [Apollo 11 50th Anniversary Astronaut Space Pen](https://shop.amnh.org/apollo-11-50th-anniversary-astronaut-space-pen.html) - AMNH Store
+
+---
+
+-  the pen used to fix the broken switch and bring the Apollo 11 astronauts back to Earth is on display at The Museum of Flight in Seattle, Washington
+-  This pen is equipped with a pressurized ink cartridge and can function in a weightless environment, underwater and in extreme temperatures—still used by astronauts today.
