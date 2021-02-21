@@ -51,10 +51,34 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - Full Newton Alchemist
 - Le nez de Tycho Brahé
 - Les restes de Clyde Tombaugh
-- Le stylo de Neil Armstrong
 - La première image de la surface de Mars a été coloriée.
 
 - Le point NEMO, cimetière d'épaves spatiales
+
+## Le 1er humain à quitter le système solaire
+
+*Sources*
+
+- [A man’s cremated ashes are heading to Pluto on a space probe, and it’s the longest known post-mortem flight](https://www.businessinsider.com/cremated-ashes-pluto-space-probe-2018-10?IR=T) - Business Insider
+- [Today in science: Clyde Tombaugh discovers Pluto](https://earthsky.org/space/this-date-in-science-clyde-tombaugh-discoverer-of-pluto) - Earthsky
+- [Tombaugh's discovery of Pluto revolutionized knowledge of our solar system](https://phys.org/news/2020-02-tombaugh-discovery-pluto-revolutionized-knowledge.html) - Physorg
+
+---
+
+New Horizons now travels to the mysterious Kuiper Belt or Third Zone before eventually leaving the Solar System altogether and taking Clyde Tombaugh's ashes with it
+The man who discovered Pluto will become the first human to have his remains sent outside the Solar System after his ashes were placed on board the Nasa spacecraft New Horizons....
+Tombaugh died in 1997 and his ashes were placed in an aluminum capsule within the space probe in 2006.
+New Horizons came within 7,500 miles of Pluto in 2015 and is now more than four billion miles away from Earth
+Tombaugh was the first person to ever get a glimpse of Pluto in 1930. When he was 24 years old, working at the Lowell Observatory in Flagstaff, Arizona, he discovered a planetary body that was then dubbed “Planet X.”
+being “buried” in space isn’t unique. Since Star Trek creator did it in 1992, around 450 people have followed suit, requesting that a small portion of their cremated remains be launched into the great unknown. There are even companies dedicated to space burial, including Elysium and Celestis.
+- February 18, 1930. On this date 90 years ago, a young astronomer was working at Lowell Observatory in Flagstaff, Arizona. Clyde Tombaugh had just turned 25 years old. He’d been hired to continue a search for a ninth planet, begun by Percival Lowell. He’d been at it for about one year. On February 18, 1930, he compared photos of a single star field – taken six days apart a few weeks earlier – and noticed an object that was moving against the backdrop of distant stars. It was a small, dim, remote body in our own solar system. Today, we know this little world as Pluto.
+- Tombaugh’s ashes were aboard the New Horizons spacecraft when it launched from Cape Canaveral, Florida, in January 2006. Those ashes, carried in a small canister on the spacecraft, traveled with New Horizons on a 9-year, 3-billion-mile journey to Pluto, which it swept past in 2015, revealing a complex world with mountains and weather, and with a large, young, heart-shaped region of ice on its surface. 
+- Tombaugh, born in 1906, grew up on a farm in Streator, Illinois. He’d dreamed of becoming an astronomer, but gave up the possibility of attending college after his family’s crops were destroyed by a hailstorm. However, he had taught himself mathematical skills required for astronomy, including geometry and trigonometry.
+
+And he observed the skies with his homemade telescope.
+Clyde Tombaugh using a device to ‘blink plates,’ that is, to click back and forth between two images of the same patch of sky, taken on two different nights.On those two images, the distant background stars would not appear to move, but closer objects would move from one night to another. Comparing thousands of images, Tombaugh discovered Pluto. 
+Tombaugh's discovery was so much more than just the discovery of the ninth planet," said New Horizons Principal Investigator Alan Stern, of the Southwest Research Institute. "It was the harbinger of a whole new region of the solar system and two different and completely new types of bodies—dwarf planets and Kuiper Belt objects. 
+
 
 ## Le stylo qui a sauvé Apollo 11
 
