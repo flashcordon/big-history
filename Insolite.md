@@ -79,6 +79,7 @@ And he observed the skies with his homemade telescope.
 Clyde Tombaugh using a device to ‘blink plates,’ that is, to click back and forth between two images of the same patch of sky, taken on two different nights.On those two images, the distant background stars would not appear to move, but closer objects would move from one night to another. Comparing thousands of images, Tombaugh discovered Pluto. 
 Tombaugh's discovery was so much more than just the discovery of the ninth planet," said New Horizons Principal Investigator Alan Stern, of the Southwest Research Institute. "It was the harbinger of a whole new region of the solar system and two different and completely new types of bodies—dwarf planets and Kuiper Belt objects. 
 
+Tombaugh died on January 17, 1997, in Las Cruces, New Mexico, at the age of 90, and he was cremated. A small portion of his ashes was placed aboard the New Horizons spacecraft. The container includes the inscription: "Interred herein are remains of American Clyde W. Tombaugh, discoverer of Pluto and the Solar System's 'third zone'. 
 
 ## Le stylo qui a sauvé Apollo 11
 
