@@ -89,13 +89,13 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 
 ---
 
-- Lui, c'est Clyde Tombaugh. Et vous devriez retenir son nom, parce qu'aucun humain dans l'Histoire n'est allé aussi loin que lui.
-- En 1930, ce jeune astronome américain autodidacte passe de longues nuits à travailler à l'observatoire Lowell, en Arizona.
-- Son boulot, c'est de comparer des paires de photos d'une même zone du ciel prises à plusieurs jours d'écart, à l'aide d'une machine spéciale.
+- Lui, c'est Clyde Tombaugh. Et retenez bien son nom, parce qu'aucun humain dans l'Histoire n'est allé aussi loin que lui.
+- En 1930, ce jeune astronome américain passe de longues nuits à travailler à l'observatoire Lowell, dans l'Arizona.
+- Son boulot, c'est de comparer des paires de photos d'une même région du ciel prises à plusieurs jours d'intervalle.
 - Après avoir fait ça pendant près d'un an et comparé des milliers de clichés, il fini par remarquer qu'un minuscule objet lumineux se déplace sur le fond étoilé.
-- L'objet qu'il vient de découvrir, c'est la planète naine Pluton, qui est située dans les régions externes de notre système solaire !
-- Lorsque Tombaugh est décédé en 1997, il a été incinéré, et une partie de ses cendres a été placée dans une capsule d'aluminium à bord de la sonde New Horizon.
-- Et c'est cette sonde de la NASA qui a pris en 2015 les premiers clichés rapprochées de la surface de Pluton !
+- L'objet qu'il vient de découvrir, c'est la planète naine Pluton, qui se trouve dans les régions externes du système solaire !
+- Lorsque Tombaugh est décédé en 1997, il a été incinéré, et une partie de ses cendres a été placée dans une capsule d'aluminium à bord de la sonde New Horizons.
+- Cette sonde de la NASA a pris en 2015 les premiers clichés rapprochées de la surface de Pluton !
 - Depuis, les cendres de Clyde Tombaugh dérivent dans l'espace à plus de 7 milliards de km de la Terre, vers l'infini... Et au delà...
 
 ## Le stylo qui a sauvé Apollo 11
