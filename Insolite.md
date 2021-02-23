@@ -79,7 +79,7 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - Le plus célèbre de ces trésors est sans doute l'épave de la station spatiale MIR, qui s'y est crashée en 2001 à la fin de sa mission.
 - Et le point NEMO sera aussi la dernière demeure de l'ISS, la station spatiale internationale, qui devrait être désorbitée vers 2028.
 
-## L'homme qui quittera le système solaire
+## L'homme qui va quitter le système solaire
 
 *Sources*
 
