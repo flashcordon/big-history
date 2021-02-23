@@ -63,37 +63,19 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - [Le Point Nemo, cet étonnant cimetière de vaisseaux spatiaux au fond de l’océan Pacifique](https://www.maxisciences.com/espace/point-nemo-un-etonnant-cimetiere-de-vaisseaux-spatiaux-au-fond-de-l-ocean-pacifique_art43331.html) - Maxiscience
 - [Le point Nemo, gigantesque « cimetière spatial » au milieu du Pacifique](https://www.lepoint.fr/astronomie/le-point-nemo-gigantesque-cimetiere-spatial-au-milieu-du-pacifique-02-04-2018-2207385_1925.php) - Le Point
 - [Point Nemo](https://fr.wikipedia.org/wiki/Point_Nemo) - Wikipédia
+- [Debris landed in Texas](https://www.esa.int/ESA_Multimedia/Images/2015/12/Debris_landed_in_Texas) - ESA
 
 ---
 
 - Voici l'endroit le plus isolé de toute la planète.
 - Le point NEMO, comme on l'appelle, est situé au plein coeur de l'océan Pacifique.
-- Les terres émergées les plus proches de cette zone se trouvent à plus de 2 000 km  de distance 
-- Autour du point NEMO, on ne trouve pas d'habitations, pas de traffic maritime ou aérien et très peu de poissons. Par contre, on y trouve une très forte concentration... De vaisseaux spatiaux!
-- Le point NEMO est en effet un véritable cimetière d'épaves spatial. C'est ici que les agences spatiales du monde entier envoient leurs débris spatiaux de grande taille ainsi que leurs satellites en fin de vie.
-- L'idée étant de faire en sorte que ces débris de l'espace ne viennent pas se crasher sur dans une zone habitée, comme ce qui s'est passé au Texas 
+- Les terres émergées les plus proches de cette zone se trouvent à plus de 2 600 km  de distance !
+- Autour du point NEMO, on ne trouve pas d'habitations, pas de traffic maritime ou aérien et très peu de poissons. Par contre, on y trouve une très forte concentration... De vaisseaux spatiaux !
+- Le point NEMO est en effet un véritable cimetière d'épaves spatiales. C'est ici que les agences spatiales du monde entier envoient leurs débris spatiaux de grande taille ainsi que les satellites en fin de vie dont on peut encore contrôler la trajectoire.
+- L'idée étant de faire en sorte que ces débris de l'espace ne viennent pas se crasher dans une zone habitée, comme ce bout de fusée qui s'est écrasé près de la ville de GeorgeTown au Texas en 1997.
 - A ce jour, le point NEMO abrite plus de 260 engins en tous genres, qui reposent au fond de l'océan. 
-- Le plus célèbre de ces trésors sous-marins est sans doute l'épave de la station MIR, qui s'y est crashée en 2001 à la fin de sa mission.
-- Et c'est aussi ici que la station spatiale internationale doit finir ses jours
-
-Peu de gens connaissent cet endroit très précis dans l'océan Pacifique. Et pourtant, de multiples vaisseaux spatiaux s'y sont échoués après leur voyage dans l'espace. Son nom : le "point Nemo".
-uand un équipement spatial est en fin de vie et qu’il faut le faire redescendre sur Terre, la NASA a un endroit bien particulier pour les faire revenir.
-Il s’agit de l’endroit le plus reculé de notre planète, situé dans l'océan Pacifique : le "point Nemo". Il n’y a pas de terres aux alentours avant 2.250 kilomètres de distance. Les astronautes à bord de la Station Spatiale Internationale (ISS) sont d’ailleurs les humains les plus proches de ce cimetière, vu que celle-ci orbite autour de la Terre à une distance de 360 kilomètres.
-48°52.6 sud, 123°23.6 ouest. Les aventuriers qui suivraient ces coordonnées géographiques ne découvriraient pas un mystérieux trésor, mais un cimetière d'épaves... spatiales. 
-
-L'objectif est de provoquer leur chute, de façon à ce qu'elle ne fasse ni dégâts, ni victimes.
-Le "point Nemo", qui tire son nom du célèbre capitaine de Vingt mille lieues sous les mers, est apparu comme le plus adapté. Son avantage ? C'est le pôle d'inaccessibilité océanique de la Terre. Si ce terme semble presque sorti d'Harry Potter, il désigne simplement le point des océans le plus éloigné de toute terre émergée
-pas d'île, pas d'habitant, presque pas de trafic maritime ou aérien.
-Le "cimetière des objets spatiaux" n'abrite donc aucune épave intacte. Mais il accueille de plus en plus d'engins : plus de 260 ont été désorbités dans cette zone de 1 500 kilomètres carrés. L'agence spatiale russe y a remisé plus de 190 satellites, les Etats-Unis 52, l'Europe huit et le Japon six, selon le décompte de Popular Science (en anglais), en 2016.
-Le "point Nemo" sera aussi le cimetière de la Station spatiale internationale (ISS). Il y a encore un peu de temps : sa mission doit s'achever au plus tôt en 2028. La date est régulièrement repoussée et les plans pour la rentrée contrôlée sont "revus régulièrement"
-tombeau sous-marin
-Entre 1971 et 2016, plus de 260 vaisseaux et satellites se sont écrasés sur le Point Nemo, parmi lesquels la station spatiale soviétique MIR, environ 140 véhicules russes et même une fusée Space X.
-Cet endroit perdu au milieu du Pacifique, appelé « pôle d'inaccessibilité » ou point Nemo, en hommage au capitaine de Jules Verne, représente l'endroit le plus isolé du monde, distant de 2 688 kilomètres de la première terre émergée, l'île Ducie, un atoll inhabité. « C'est plutôt une zone qu'un point », explique Florent Deleflie, astronome de l'Observatoire de Paris.
-Il est donc utilisé comme décharge, ou cimetière spatial pour employer un terme plus poli 
-Le nom de « point Nemo » est également utilisé, notamment par la presse internationale pour désigner une vaste zone du Pacifique Sud, située au large des côtes chiliennes et utilisée comme vaste cimetière de matériel astronautique pour accueillir les restes de « vaisseaux spatiaux obsolètes encore contrôlables »
-Les humains les plus proches du pôle maritime d'inaccessibilité sont régulièrement les occupants de la Station spatiale internationale4,5 ; celle-ci tourne en effet en orbite entre 330 et 410 km environ au-dessus de la surface du globe, alors que la première terre habitée est éloignée de 2 700 km environ. À la surface de la planète, certains navigateurs du Vendée Globe se rapprochent aussi du point Nemo
-Ce point est également utilisé comme « décharge spatiale » en raison de son éloignement de tout lieu habité. Ce cimetière aurait déjà accueilli 250 à 300 engins spatiaux en fin de vie, dont la station spatiale soviétique Mir (120 tonnes), ainsi que les restes de la station spatiale chinoise Tiangong-17,8.
-
+- Le plus célèbre de ces trésors sous-marins est sans doute l'épave de la station spatiale MIR, qui s'y est crashée en 2001 à la fin de sa mission.
+- Et le point NEMO sera aussi la dernière demeure de l'ISS, la station spatiale internationale, qui devrait être désorbitée vers 2028.
 
 ## Le 1er humain à quitter le système solaire
 
