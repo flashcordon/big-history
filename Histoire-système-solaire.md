@@ -691,6 +691,8 @@ and no doubt lives into its development
 - [Mars Pathfinder](https://mars.nasa.gov/mars-exploration/missions/pathfinder/) - NASA
 - [Mars Pathfinder](https://www.nirgal.net/pres_mpf1.html) - Nirgal
 - [Mars : le jour où Pathfinder a “cassé Internet”](https://sciencepost.fr/mars-pathfinder/) - Science Post
+- [Mars Express](https://fr.wikipedia.org/wiki/Mars_Express) - Wikipédia
+
 ---
 
 ## Histoire de l'observation de Mars
@@ -944,6 +946,76 @@ The Pathfinder rover was named after SojournerTruth, an African-American crusade
 ### Mars Odyssey (NASA, 2001-2025)
 
 ### Mars Express (ESA, 2003-2022)
+
+
+Mars Express est une sonde spatiale de l'Agence spatiale européenne (ESA) lancée le 2 juin 2003 pour étudier la planète Mars. Il s'agit de la première mission d'exploration d'une autre planète du système solaire lancée par l'Agence européenne. Sa mission est de recueillir des données sur la surface, l'atmosphère, l'ionosphère et le sous-sol de la planète. La sonde comprend un orbiteur et un petit atterrisseur, Beagle 2, chargé de se poser sur la surface et de déceler d'éventuelles traces de vie. 
+
+Toute trace de Beagle 2 est perdue peu après sa séparation avec la sonde principale.
+
+Mars Express a obtenu de nombreux résultats scientifiques : détermination de la nature des calottes polaires et estimation du volume d'eau stockée, composition de l'atmosphère martienne et interactions de celle-ci avec le vent solaire, observation du cycle saisonnier de l'eau, cartographie tridimensionnelle des reliefs, détection de minéraux hydratés prouvant la présence par le passé d'eau sur de longues périodes à la surface et cartographie des régions concernées, détection de présence d'eau à l'état liquide sous la calotte glaciaire du pôle sud. La mission, d'une durée initiale de 23 mois, a été prolongée à plusieurs reprises. Fin 2018 est annoncée une nouvelle extension de la mission jusqu'en 2022. 
+
+Les objectifs de la mission sont4 :
+
+    dresser une carte en couleur et en relief de la surface de la planète avec une résolution de 10 mètres par pixel et pour des zones choisies de 2 mètres par pixel ;
+    réaliser une carte fournissant la composition minéralogique de la surface avec une résolution de 100 mètres par pixel ;
+    localiser à l'aide d'un radar la présence d'éventuelles poches d'eau ou de glace dans le sous-sol de Mars ;
+    déterminer la composition de l'atmosphère et les processus en jeu : échanges avec la surface, le vent solaire et le milieu interplanétaire ;
+    déterminer le champ de gravité de la planète et les propriétés diélectriques de la surface de la planète ;
+    identifier des traces de vie passées ou présentes (atterrisseur Beagle 2).
+    
+La durée nominale de la mission de l'orbiteur était d'une année martienne, soit 687 jours terrestres, et elle devrait ainsi prendre fin le 30 novembre 2005. La prolongation de la mission d'une année martienne jusqu'au 31 octobre 2007 est prévue dès le départ car un surplus de carburant a été emporté
+
+L'atterrisseur Beagle 2 doit se poser sur Isidis Planitia, un bassin sédimentaire qui pourrait avoir préservé les traces d'une éventuelle vie. 
+
+Sa masse au décollage était de 1 052 kg, dont 427 kg de carburant et 60 kg pour l'atterrisseur Beagle 2. 
+
+La charge utile de l'orbiteur est constituée de 7 instruments
+ASPERA (Analyser of Space Plasmas & EneRgetic Atoms) est un instrument qui permet d'analyser les particules chargées et neutres autour de la planète Mars. L'objectif est de comprendre comment les particules du vent solaire interagissent avec l’atmosphère martienne, et par quel mécanisme le vent solaire éjecte les particules de l'atmosphère dans le milieu interstellaire
+HRSC (High Resolution Stereo Camera) est une caméra produisant des images en trois dimensions en couleur à haute résolution (de 10 mètres par pixel pouvant aller jusqu'à 2 mètres par pixel)
+OMEGA (Observatoire pour la Minéralogie, l'Eau, les Glaces et l'Activité) est un spectromètre opérant dans le proche infrarouge et les micro-ondes (gamme de longueurs d'onde de 350 µm à 5,1 µm). Il étudie la composition minéralogique de la surface et la distribution de certains composés de l'atmosphère
+PFS (Planetary Fourier Spectrometer) est un spectromètre infrarouge développé par l'Institut de physique de l'espace interplanétaire de Rome (Italie), optimisé pour l'étude des différents composants de l'atmosphère martienne
+MaRS (Mars Radio Science) est un instrument de l'université de Cologne de radioscience, utilisant le système radio de l'orbiteur pour étudier par occultation radio l'ionosphère, l'atmosphère, la surface et le sous-sol de Mars
+MARSIS (en) (Mars Advanced Radar for Subsurface and Ionosphere Sounding) est un radar destiné à la détection de présence d'eau sous forme liquide ou solide sous la surface martienne, jusqu'à une profondeur de 3 à 4 km
+SPICAM (SPectroscopy for the Investigation of the Characteristics of the Atmosphere of Mars) est un spectromètre opérant dans l'ultraviolet et l'infrarouge, mesurant le taux d'ozone et de vapeur d'eau de l'atmosphère
+
+Beagle 2 est un atterrisseur de très petite taille (68,8 kg)
+
+ Elle renferme un bras mobile sur lequel sont fixés les instruments : une meuleuse, une foreuse qui permet de prélever un échantillon de sol jusqu'à 3 mètres de l'atterrisseur, une paire de caméras, un microscope, un spectromètre Mössbauer et un spectromètre à rayons X. Un spectromètre de masse installé au sein de la capsule est chargé de mesurer les proportions des différents isotopes de carbone dans l'échantillon de sol ramené par le bras : ces analyses doivent permettre de déterminer si l'échantillon contenait les restes d'organismes vivants. Enfin, plusieurs capteurs doivent permettre de mesurer les caractéristiques de l'environnement : température, pression, vent, poussière, flux ultraviolet. 
+ 
+ Mars Express est lancée le 2 juin 2003 à 17 h 45 UTC par un lanceur Soyouz doté d'un 4e étage supérieur Fregat depuis le Cosmodrome de Baïkonour au Kazakhstan. 
+ 
+ Le 19 décembre 2003, cinq jours avant le rendez-vous avec Mars, le module Beagle 2 est désolidarisé de la sonde par un dispositif pyrotechnique et s'éloigne, repoussé par un mécanisme qui comprend un ressort et qui met l'atterrisseur en rotation pour stabiliser sa trajectoire
+ 
+ L'atterrisseur Beagle 2 ne dispose pas pour des raisons de poids d'équipements radio lui permettant d'envoyer des données sur sa situation après sa séparation avec l'orbiteur. La première émission radio doit être émise après son atterrissage sur le sol martien qui doit se produire le 25 décembre à 3 h 40. La sonde Mars Odyssey qui doit survoler le site vers 5 h 30 dispose d'un équipement de réception radio lui permettant de recevoir le signal de Beagle 2. Aucun signal ne sera capté par Mars Odyssey lors de son passage ni plus tard
+ 
+ Le 23 janvier 2004, la sonde confirme l'existence d'eau sous forme de glace au pôle sud grâce aux instruments « Omega [archive] » et « Spicam [archive] »
+ 
+ Mars Express a produit un grand nombre de résultats significatifs sur le plan scientifique. Les plus accessibles sont les photos en trois dimensions spectaculaires des canyons, anciennes vallées fluviales, cratères d'impact et des calottes polaires. 
+ 
+ Le spectromètre OMEGA est le premier instrument à avoir détecté la présence de minéraux hydratés à la surface de la planète. Ces minéraux prouvent que, non seulement l'eau a circulé à la surface de la planète comme on le savait déjà à travers différents indices comme la présence de chenaux et de deltas, mais que l'eau a été présente sur des périodes suffisamment longues pour permettre la formation de roches minérales. 
+ des phyllosilicates (comme l'argile) résultant de la décomposition de roches à la suite de contacts prolongés avec de l'eau
+ des sulfates hydratés qui se forment au contact d'eaux acides
+ 
+ Les mesures effectuées par les engins spatiaux jusqu'à l'arrivée de Mars Express avaient permis de déterminer que la calotte polaire nord était composée principalement de glace d'eau tandis que la calotte polaire sud, plus froide, était composée principalement de glace de dioxyde de carbone avec peut-être de la glace d'eau. L'instrument OMEGA de Mars Express, en mesurant la proportion de la lumière du Soleil et de la chaleur réfléchie par la calotte, a permis d'évaluer que celle-ci était composée à 85 % de dioxyde de carbone et à 15 % de glace d'eau.
+ 
+ Le radar MARSIS de la sonde spatiale a permis d'évaluer l'épaisseur des deux calottes polaires qui est évaluée à environ 3,5 km38. 
+ 
+ Des observations effectuées entre 2012 et 2015 à l'aide du radar embarqué MARSIS ont été longuement analysées. En juillet 2018 l'équipe scientifique de Mars Express annonce, en se basant sur ces données, qu'un lac d'eau à l'état liquide d'environ 20 km de diamètre a été découvert sous une couche de glace de Planum Australe39,40. Malgré la température très basse (-74 °C), l'eau serait maintenu à l'état liquide grâce à sa saturation en sel. Toutefois la résolution spatiale du radar MARSIS (5 kilomètres) semble un peu juste à certains scientifiques pour permettre d'être complètement affirmatif quant à la présence d'eau liquide41. 
+ 
+  l'échappement atmosphérique, un processus par lequel le vent solaire, en ionisant les couches supérieures de l'atmosphère, arrache les atomes présents qui sont éjectés dans l'espace. L’instrument ASPERA-3 a été spécifiquement conçu pour quantifier ce phénomène. Il a permis de démontrer que ce processus était efficace pour les atomes d'hydrogène et d'oxygène composant les molécules d'eau mais qu'il était peu efficace pour le dioxyde de carbone, composant majoritaire de l'atmosphère martienne. D'autres processus ont dû donc contribuer à la transformation de l'atmosphère martienne
+  
+  Découverte d'aurores polaires localisées : il subsistait un champ magnétique résiduel dans certaines portions de la croute planétaire. Les scientifiques soupçonnaient que ce champ magnétique résiduel pouvait être à l'origine de phénomènes similaires aux aurores polaires terrestres. L'instrument SPICAM a confirmé cette hypothèse en détectant des émissions de lumière sur la face nocturne de Mars. Les phénomènes détectés s'étendaient au-dessus d'une région d'une trentaine de km de diamètre et débutaient à une altitude évaluée à 150 km. Les régions où se manifestent ces aurores correspondent bien aux zones où subsiste un champ magnétique local44. 
+  
+  Des expériences d’occultation radio ont été menées par Mars Express (Expérience MaRS) pour sonder l'atmosphère martienne. Deux couches avaient été jusque-là identifiées dans l'ionosphère de Mars. Une troisième couche a été détectée grâce à cette expérience. Elle est située entre 65 et 110 km d'altitude alors que les deux autres se trouvent respectivement à 110 et 135 km d'altitude. Cette nouvelle couche se caractérise par une densité d'électrons 10 fois plus faible que la densité moyenne de l'ionosphère martienne. Elle n'est pas continue et sa localisation varie en fonction de l'heure de la journée. Cette couche serait similaire à une couche de l'ionosphère terrestre, dite couche météoritique, créée par la destruction des météorites pénétrant dans l'atmosphère terrestre. Ce processus entraîne la production d'atomes de magnésium et de fer qui interagissent avec le rayonnement ultraviolet du Soleil et l'ionosphère en créant une couche atmosphérique particulière.
+  
+Le principal composant de l'atmosphère ténue de Mars est le dioxyde de carbone. Les variations saisonnières du climat de Mars se traduisent principalement par des cycles de vaporisation et de transformation en glace de ce gaz. On connaissait l'existence de nuages de glace de dioxyde de carbone mais c'est Mars Express qui a pu réaliser les premières observations directes de ces formations nuageuses
+
+Mars Express a effectué à de nombreuses reprises des survols à faible distance de la lune martienne Phobos. Ces passages rapprochés ont permis de réaliser une cartographie très précise du satellite martien. Le passage le plus proche a été réalisé le 3 mars 2010 lorsque la sonde spatiale est passée à 67 km de sa surface permettant d'effectuer une mesure du changement de vitesse induit par sa gravité. Cette variation, bien que de très faible ampleur (quelques millimètres par seconde), a pu être calculée en mesurant la variation de l'onde porteuse de son signal radio. La masse de Phobos a pu être ainsi évaluée avec une précision 100 fois plus grande que précédemment. En effectuant des calculs du volume de la lune à partir des photos détaillées prises par la caméra de Mars Express, les scientifiques ont pu déduire que la densité de Photos était de seulement 1,86 g/cm3. Cette valeur particulièrement faible semble indiquer que Phobos est un empilement de roches comportant des espaces vides. Si ces roches sont des chondrites primitives, les espaces vides devraient représenter environ 15 % du volume. Si Phobos est constituée de roches d'origine martienne, plus denses, la proportion de vide monterait à 45%47.
+
+La théorie la plus courante en ce qui concerne l'origine des lunes de Mars est que celles-ci sont des astéroïdes capturés par la planète Mars. Mais un objet aussi poreux n'aurait sans doute pas survécu à un tel processus de capture. Par ailleurs, le spectromètre PFS a permis de détecter la présence de minéraux de type phyllosilicate à la surface de Phobos en particulier près de Stickney, le plus grand des cratères d'impact. La faible densité de Phobos et la présence à sa surface de minéraux formés en présence d'eau permettent de penser que Phobos est en réalité le résultat de l'accrétion de matériaux rocheux éjectés de la surface de Mars par un impact géant
+
+En mars 2004, le spectromètre FPS détecte la présence de petites quantités de méthane dans l'atmosphère. La présence de ce gaz, qui a une durée de vie de 440 ans s'il n'est pas renouvelé, ne peut avoir qu'une origine volcanique ou bactérienne. Il subsiste toutefois une certaine incertitude sur cette découverte car la quantité très faible de méthane détecté se situe à la limite de la sensibilité de l'instrument
+  
 
 ### Mars Exploration Rovers / Spirit et Opportunity (NASA, 2003-2019)
 
