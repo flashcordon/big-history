@@ -37,6 +37,9 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - Galiléo : la Terre est-elle habitée ?
 - TARDIS : des tardigrades dans l'espace
 - Chang-E : des vers à soie sur la Lune
+
+- Cet astronaute éjecté dans l'espace n'est pas un imposteur. C'est un satellite !
+- 
 - Une combinaison spatiale transformée en satellite : A spacesuit floats, untethered, away from the International Space Station ISS), the vast black void of space yawning before it. You may be relieved to learn that no humans were harmed in the making of this experiment - there's no one in the Russian Orlan spacesuit, nicknamed Ivan Ivanovitch or Mr Smith - it's stuffed with a bunch of old clothes and a radio transmitter. The idea was that old spacesuits could be used as satellites. SuitSat-1 - officially designated AMSAT-OSCAR 54 - was deployed on 3 February 2006, but the experiment was only partially successful; reports vary, with NASA claiming the transmitter had died shortly after release and Russia reporting a final transmission a whole fortnight later. The last confirmed signal was received on 18 February. SuitSat-1 went on to spend several months in silent orbit, before entering Earth's atmosphere and burning up on 7 September 2006.
 - L'expérience de Galilée sur la Lune : In the late 16th century, Galileo Galilei dropped two spheres of unequal mass from the Leaning Tower of Pisa in Italy. When both arrived on the ground at the same time, he'd countered classically established views, by showing mass had no bearing on gravitational acceleration. All objects, no matter the mass, should fall at the same rate - even if it's a feather and a hammer. On Earth, this is tricky to demonstrate due to air resistance. But nearly 400 years later, a human standing on the Moon repeated the experiment. On 2 August 1971, Commander David Scott of Apollo 15 took a geological hammer in one hand, and a falcon feather in the other. He raised them to a height of about 1.6 metres off the ground, and dropped them. Because the astronaut was essentially in a vacuum, without air resistance the two objects fell in sync. "Within the accuracy of the simultaneous release, the objects were observed to undergo the same acceleration and strike the lunar surface simultaneously," wrote NASA astronaut Joe Allen, "which was a result predicted by well-established theory, but a result nonetheless reassuring considering both the number of viewers that witnessed the experiment and the fact that the homeward journey was based critically on the validity of the particular theory being tested." The hammer and feather are both still up there.
 - Des tortues autour de la Lune : Back in the 1960s, before humans had been to the Moon, it wasn't clear exactly how - if at all - getting up close and personal with the Moon would affect us physically. So, in 1968, the Soviet space program sent two Russian tortoises (Agrionemys horsfieldii) up for a trip round Earth's companion. Actually, it wasn't just tortoises. Included in the flight were wine flies, mealworms, seeds, plants, algae and bacteria. There was also a dummy fitted with radiation sensors, since none of the living organisms aboard were remotely analogous to humans. Tortoises, according to a 1969 report, seem to have been chosen because they're relatively easy to strap down. The two unnamed reptilian cosmonauts were placed onboard the Zond-5 spacecraft on 2 September 1968, at which point they were no longer fed. They were launched into space on 15 September 1968, returning back to Earth (in the Indian ocean) on 21 September. They finally returned to Moscow on 7 October. Their journey included seven days of spaceflight, several days in tropical climates (including bobbing about in the ocean while they waited for retrieval) and transportation back to Russia. Ultimately, they spent 39 days without food. It would try anyone. Control tortoises that remained on Earth were also deprived of food for the same time period. A comparison of the two sets of tortoises revealed that any changes in the space-faring reptiles were mostly the result of starvation, with a small contribution from spaceflight-related atrophy. We'd like to say that no one ever sent tortoises to space again, but sadly, two more tortoise missions took place. Zond 7 in 1969 carried tortoises. In 1975, the Soyuz 20 spacecraft ferried a tortoise around for 90 days. And two tortoises flew on the Salyut-5 space station in 1976.
@@ -50,7 +53,6 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - Le doigt de Galilée
 - Full Newton Alchemist
 - Le nez de Tycho Brahé
-- Les restes de Clyde Tombaugh
 - La première image de la surface de Mars a été coloriée.
 
 ## Le cimetière de vaisseaux spatiaux
@@ -67,7 +69,7 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 
 - Voici l'endroit le plus isolé de toute la planète.
 - Le point NEMO, comme on l'appelle, est situé au plein coeur de l'océan Pacifique.
-- Les terres émergées les plus proches de cette zone se trouvent à plus de 2 600 km  de distance !
+- Les terres émergées les plus proches de cette zone se trouvent à plus de 2 600 km de distance !
 - Autour du point NEMO, il n'y a pas d'habitation, pas de traffic maritime ou aérien et très peu de poissons. 
 - Par contre, on y trouve une très forte concentration... De vaisseaux spatiaux !
 - Le point NEMO est en effet un cimetière d'épaves spatiales. 
@@ -77,7 +79,7 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - Le plus célèbre de ces trésors est sans doute l'épave de la station spatiale MIR, qui s'y est crashée en 2001 à la fin de sa mission.
 - Et le point NEMO sera aussi la dernière demeure de l'ISS, la station spatiale internationale, qui devrait être désorbitée vers 2028.
 
-## Le 1er humain à quitter le système solaire
+## L'homme qui quittera le système solaire
 
 *Sources*
 
@@ -87,21 +89,14 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 
 ---
 
-New Horizons now travels to the mysterious Kuiper Belt or Third Zone before eventually leaving the Solar System altogether and taking Clyde Tombaugh's ashes with it
-The man who discovered Pluto will become the first human to have his remains sent outside the Solar System after his ashes were placed on board the Nasa spacecraft New Horizons....
-Tombaugh died in 1997 and his ashes were placed in an aluminum capsule within the space probe in 2006.
-New Horizons came within 7,500 miles of Pluto in 2015 and is now more than four billion miles away from Earth
-Tombaugh was the first person to ever get a glimpse of Pluto in 1930. When he was 24 years old, working at the Lowell Observatory in Flagstaff, Arizona, he discovered a planetary body that was then dubbed “Planet X.”
-being “buried” in space isn’t unique. Since Star Trek creator did it in 1992, around 450 people have followed suit, requesting that a small portion of their cremated remains be launched into the great unknown. There are even companies dedicated to space burial, including Elysium and Celestis.
-- February 18, 1930. On this date 90 years ago, a young astronomer was working at Lowell Observatory in Flagstaff, Arizona. Clyde Tombaugh had just turned 25 years old. He’d been hired to continue a search for a ninth planet, begun by Percival Lowell. He’d been at it for about one year. On February 18, 1930, he compared photos of a single star field – taken six days apart a few weeks earlier – and noticed an object that was moving against the backdrop of distant stars. It was a small, dim, remote body in our own solar system. Today, we know this little world as Pluto.
-- Tombaugh’s ashes were aboard the New Horizons spacecraft when it launched from Cape Canaveral, Florida, in January 2006. Those ashes, carried in a small canister on the spacecraft, traveled with New Horizons on a 9-year, 3-billion-mile journey to Pluto, which it swept past in 2015, revealing a complex world with mountains and weather, and with a large, young, heart-shaped region of ice on its surface. 
-- Tombaugh, born in 1906, grew up on a farm in Streator, Illinois. He’d dreamed of becoming an astronomer, but gave up the possibility of attending college after his family’s crops were destroyed by a hailstorm. However, he had taught himself mathematical skills required for astronomy, including geometry and trigonometry.
-
-And he observed the skies with his homemade telescope.
-Clyde Tombaugh using a device to ‘blink plates,’ that is, to click back and forth between two images of the same patch of sky, taken on two different nights.On those two images, the distant background stars would not appear to move, but closer objects would move from one night to another. Comparing thousands of images, Tombaugh discovered Pluto. 
-Tombaugh's discovery was so much more than just the discovery of the ninth planet," said New Horizons Principal Investigator Alan Stern, of the Southwest Research Institute. "It was the harbinger of a whole new region of the solar system and two different and completely new types of bodies—dwarf planets and Kuiper Belt objects. 
-
-Tombaugh died on January 17, 1997, in Las Cruces, New Mexico, at the age of 90, and he was cremated. A small portion of his ashes was placed aboard the New Horizons spacecraft. The container includes the inscription: "Interred herein are remains of American Clyde W. Tombaugh, discoverer of Pluto and the Solar System's 'third zone'. 
+- Lui, c'est Clyde Tombaugh. Et vous devriez retenir son nom, parce qu'aucun humain dans l'Histoire n'est allé aussi loin que lui.
+- En 1930, ce jeune astronome américain autodidacte passe de longues nuits à travailler à l'observatoire Lowell, en Arizona.
+- Son boulot, c'est de comparer des paires de photos d'une même zone du ciel prises à plusieurs jours d'écart, à l'aide d'une machine spéciale.
+- Après avoir fait ça pendant près d'un an et comparé des milliers de clichés, il fini par remarquer qu'un minuscule objet lumineux se déplace sur le fond étoilé.
+- L'objet qu'il vient de découvrir, c'est la planète naine Pluton, qui est située dans les régions externes de notre système solaire !
+- Lorsque Tombaugh est décédé en 1997, il a été incinéré, et une partie de ses cendres a été placée dans une capsule d'aluminium à bord de la sonde New Horizon.
+- Et c'est cette sonde de la NASA qui a pris en 2015 les premiers clichés rapprochées de la surface de Pluton !
+- Depuis, les cendres de Clyde Tombaugh dérivent dans l'espace à plus de 7 milliards de km de la Terre, vers l'infini... Et au delà...
 
 ## Le stylo qui a sauvé Apollo 11
 
@@ -114,6 +109,7 @@ Tombaugh died on January 17, 1997, in Las Cruces, New Mexico, at the age of 90, 
 
 ---
 
+- Ce stylo a évité aux premiers humains sur la Lune... De mourir sur place.
 - On July 20, 1969, the first men to land on the moon, Neil Armstrong and Buzz Aldrin, had been on the moon’s surface collecting rock and dust samples for almost three hours.
 As they were climbing back into the Lunar Module (LM) in preparation to return home, Aldrin hit the circuit breaker switch with the life support backpack on his suit.
 -  the pen used to fix the broken switch and bring the Apollo 11 astronauts back to Earth is on display at The Museum of Flight in Seattle, Washington
