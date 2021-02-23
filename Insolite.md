@@ -53,8 +53,6 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - Les restes de Clyde Tombaugh
 - La première image de la surface de Mars a été coloriée.
 
-- Le point NEMO, cimetière d'épaves spatiales
-
 ## Le cimetière de vaisseaux spatiaux
 
 *Sources*
@@ -70,11 +68,13 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - Voici l'endroit le plus isolé de toute la planète.
 - Le point NEMO, comme on l'appelle, est situé au plein coeur de l'océan Pacifique.
 - Les terres émergées les plus proches de cette zone se trouvent à plus de 2 600 km  de distance !
-- Autour du point NEMO, on ne trouve pas d'habitations, pas de traffic maritime ou aérien et très peu de poissons. Par contre, on y trouve une très forte concentration... De vaisseaux spatiaux !
-- Le point NEMO est en effet un véritable cimetière d'épaves spatiales. C'est ici que les agences spatiales du monde entier envoient leurs débris spatiaux de grande taille ainsi que les satellites en fin de vie dont on peut encore contrôler la trajectoire.
-- L'idée étant de faire en sorte que ces débris de l'espace ne viennent pas se crasher dans une zone habitée, comme ce bout de fusée qui s'est écrasé près de la ville de GeorgeTown au Texas en 1997.
-- A ce jour, le point NEMO abrite plus de 260 engins en tous genres, qui reposent au fond de l'océan. 
-- Le plus célèbre de ces trésors sous-marins est sans doute l'épave de la station spatiale MIR, qui s'y est crashée en 2001 à la fin de sa mission.
+- Autour du point NEMO, il n'y a pas d'habitation, pas de traffic maritime ou aérien et très peu de poissons. 
+- Par contre, on y trouve une très forte concentration... De vaisseaux spatiaux !
+- Le point NEMO est en effet un cimetière d'épaves spatiales. 
+- C'est ici que les agences spatiales du monde entier envoient leurs débris spatiaux de grande taille et les satellites en fin de vie qui sont encore contrôlables.
+- L'idée, c'est de faire en sorte que ces débris de l'espace évitent le destin de ce bout de fusée qui s'est écrasé près de la ville de GeorgeTown au Texas en 97.
+- Le point NEMO abrite aujourd'hui plus de 260 engins en tous genres, qui reposent au fond de l'océan. 
+- Le plus célèbre de ces trésors est sans doute l'épave de la station spatiale MIR, qui s'y est crashée en 2001 à la fin de sa mission.
 - Et le point NEMO sera aussi la dernière demeure de l'ISS, la station spatiale internationale, qui devrait être désorbitée vers 2028.
 
 ## Le 1er humain à quitter le système solaire
