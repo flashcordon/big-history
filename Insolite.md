@@ -110,23 +110,11 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 ---
 
 - Ce stylo a évité aux premiers humains sur la Lune... De mourir sur place.
-- On July 20, 1969, the first men to land on the moon, Neil Armstrong and Buzz Aldrin, had been on the moon’s surface collecting rock and dust samples for almost three hours.
-As they were climbing back into the Lunar Module (LM) in preparation to return home, Aldrin hit the circuit breaker switch with the life support backpack on his suit.
--  the pen used to fix the broken switch and bring the Apollo 11 astronauts back to Earth is on display at The Museum of Flight in Seattle, Washington
--  This pen is equipped with a pressurized ink cartridge and can function in a weightless environment, underwater and in extreme temperatures—still used by astronauts today.
--  The switch (ENG ARM) activates the spacecraft’s ascent engine to lift them off the moon so they could rendezvous with Michael Collins, who was in the Columbia command module orbiting overhead.
--  Using what they had left, a pen, Aldrin activated the inside switch to engage the circuit breaker and trigger the engine.
--  Following the Apollo 11 historic July 20, 1969, moonwalk, Aldrin and Neil Armstrong were preparing to return to command from their lunar module when they discovered that a 1-inch engine arm circuit breaker switch had broken off the instrument panel.
-
-In his book, Magnificent Desolation: The Long Journey Home from the Moon, Aldrin recalls spotting something on the floor of the lunar module that didn’t belong there.
-
-“I looked closer and jolted a bit,” he writes. “There on the dust on the floor on the right side of the cabin, lay a circuit breaker switch that had broken off.” 
-- Wondering where the switch had come from, he looked at the rows of breakers on the instrument panel. Then he “gulped hard.” 
-- “The broken switch had snapped off from the engine-arm circuit breaker, the one vital breaker needed to send electrical power to the ascent engine that would lift Neil and me off the moon,” he writes. 
-- “After examining it more closely, I thought that if I could find something in the LM to push into the circuit, it might hold,” Aldrin writes. “But since it was electrical, I decided not to put my finger in, or use anything that had metal on the end. I had a felt-tipped pen in the shoulder pocket of my suit that might do the job. 
-- If the engine arm circuit breaker remained open, Armstrong and Aldrin likely would have been stuck
-- Aldrin doit, quant à lui, se transformer en "MacGyver" - un rôle qu'il endosse bien avant la première apparition à l'écran de ce personnage de fiction, en 1985. Le bouton du commutateur qui sert à la mise à feu du moteur de remontée a en effet été brisé par l'un des deux hommes, probablement au moment où ils sont remontés à bord du module lunaire. Or, sans cette pièce, impossible de redécoller.
-- Dans un coup de génie, Buzz s'empare alors de son stylo, le désormais fameux AG-7 ou "Space pen" (en français, "stylo de l'espace"), en extrait le capuchon et constate que le diamètre correspond à celui du poussoir. Aujourd'hui encore, Aldrin affirme qu'il possède le stylo original, ainsi que le morceau de l'interrupteur qui s'était rompu. Certains avancent cependant que même sans le bricolage effectué par Aldrin, le module lunaire d'Apollo XI aurait pu redécoller de la Lune. Buzz, connu pour son ego démesuré et sa haute opinion de lui-même, a-t-il construit sa propre légende, en forçant le trait ? Difficile à dire, d'autant qu'Armstrong n'a jamais démenti son équipier...
-- Quoi qu'il en soit, grâce à Buzz Aldrin et au "Space pen", le 21 juillet à 17h54 (temps universel), soit vingt-et-une heures et vingt-six minutes après l'alunissage, le moteur du second étage de Eagle soulève le vaisseau et le propulse vers l'espace où l'attend le module de commande Columbia, en orbite à 110 kilomètres. Michael Collins, qui y est resté seul, retrouve enfin ses deux compagnons. 
-- Armstrong maneuvered toward the open hatch, aided by Aldrin. As Armstrong twisted his bulky suit to head out, unheard in the vacuum of the cabin, something small snapped. Armstrong's backpack had broken off the ascent engine arming switch. But upon their preparation to leave the moon some 21 hours later, Armstrong calmly flipped the broken stub with a ballpoint pen. Another crisis averted, this time courtesy of the Fisher Space Pen. 
-- Fisher's pen may not have saved the mission (the felt tip pens were provided by the Duro Pen Company) 
+- Le 20 Juillet 1969, après quelques cabrioles sur la surface lunaire, Neil Armstrong et Buzz Aldrin se préparent à rentrer dans le module lunaire qui va les ramener à la maison.
+- Mais alors que les deux astronautes se glissent dans l'écoutille du vaisseau, la combinaison d'Aldrin heurte un interrupteur sur l'un des panneaux de contrôle, et le brise.
+- L'incident aurait pu se produire sur n'importe lequel des dizaines d'interrupteurs que comptait le panneau. 
+- Mais il a fallu que ça tombe sur LE SEUL qui activait la mise à feu du module lunaire ! Sans cette pièce, impossible de redécoller.
+- Ah la boulette...
+- Heureusement, Aldrin a sur lui un stylo qui, PAR CHANCE, a le bon diamètre pour être inséré dans le poussoir pour activer le circuit.
+- Le module lunaire a donc pu décoller donc sans encombre, et les astronautes ont pu rentrer chez eux, ainsi que dans l'Histoire.
+- Quant au stylo, il est aujourd'hui exposé au Museum of Flight de Seattle.
