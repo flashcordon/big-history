@@ -134,3 +134,47 @@ Faute de la transformer en être vivant, HG a transformé la Terre en système u
 
 - Est ce que la vie a eu une grande influence sur l'évolution géologique et chimique de la Terre ? Absolument. Est-ce qu'elle a fortement participé à maintenir l'habitabilité de la Terre pendant les derniers milliards d'années ? C'est encore trop tôt pour l'affirmer.
 Aspects of the Gaia theory do continue to cause great controversy. This has the benefit that by generating interest and debate it is drawing attention to a new way of viewing and studying the world. Importantly, it causes us to ask different kinds of questions about the Earth.
+
+# L'acidification des océans
+
+*Sources*
+
+- [Module pédagogique clé en main sur l’océan et la cryosphère](https://www.oce.global/fr/resources/activites-de-classe/le-climat-entre-nos-mains-ocean-et-cryosphere) - OCE
+- [Résumé pour enseignant du rapport GIEC "océan et cryosphère"](https://www.oce.global/fr/resources/documentation-scientifique/locean-et-la-cryosphere-face-au-changement-climatique-resume) - OCE
+- [Capsule vidéo sur l'acidification de l'océan](https://www.oce.global/fr/resources/videos/clim-acidification-des-oceans) - OCE
+- [L'océan et le climat](https://www.fondation-lamap.org/fr/page/28652/ocean-sequence-i-locean-et-le-climat) - Fondation la main à la pâte
+- [L'océan milieu de vie](https://www.fondation-lamap.org/fr/page/28653/ocean-sequence-ii-locean-milieu-de-vie) - Fondation la main à la pâte
+- [L'océan et nous](https://www.fondation-lamap.org/fr/ocean/enseignants) - Fondation la main à la pâte
+- [Anthropogenic carbon and ocean pH](https://www.nature.com/articles/425365a) – Caldeira et Wickett (2003)
+- [Impacts of ocean acidification on marine fauna and ecosystem processes](https://academic.oup.com/icesjms/article/65/3/414/789605) – Fabry et al (2008)
+- [Ocean acidification](https://ocean.si.edu/ocean-life/invertebrates/ocean-acidification) – Jennifer Bennet (NOAA)
+- [Ocean acidification](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification) – NOAA educational resources
+- [pH](https://www.cnrs.fr/cnrs-images/chimieaulycee/THEMES/acidite/ph.htm) – La chimie au lycée, CNRS
+- [A primer on pH](https://pmel.noaa.gov/co2/story/A+primer+on+pH) – NOAA
+- [Récifs coralliens : des solutions pour aujourd’hui et demain](https://twitter.com/FlashCordon/status/1009413022530588672) – Thread résumé du colloque du 20 Juin 2018 par @Flashcordon
+- [L’acidification des océans, l’autre danger du CO₂](https://theconversation.com/lacidification-des-oceans-lautre-danger-du-co-114716) – Guillaume Paris, The Conversation (Juin 2019)
+- [Studying ocean acidification with conservative, stable numerical schemes for nonequilibrium air‐ocean exchange and ocean equilibrium chemistry](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005220) - Jacobson (2005)
+- [Atmospheric carbon dioxide concentrations over the past 60 million years](https://www.nature.com/articles/35021000) – Pearson et Palmer (2000)
+- [Constraining the evolution of Neogene ocean carbonate chemistry using the boron isotope pH proxy](https://www.sciencedirect.com/science/article/pii/S0012821X1830356X) – Sosdian et al (2018)
+- [Ocean acidification](https://nca2014.globalchange.gov/report/our-changing-climate/ocean-acidification) – National Climate Assessment (2014)
+- [L’acidification de l’océan](https://archimer.ifremer.fr/doc/00142/25352/23434.pdf) – Gilles Boeuf, Taikona
+
+---
+
+- Depuis le début de la Révolution Industrielle, il y a près de deux siècles, les activités humaines ont drastiquement augmenté la concentration de CO2 dans l’atmosphère. Celle-ci est ainsi passée d'un niveau pré-industriel de 280 parties par million à 410 parties par million aujourd'hui. Et durant la même période, le pH des océans est passé de 8.2 à 8.1. Il a donc diminué de 0.1 unité.
+- Ça n’a pas l’air d’être un gros changement dit comme ça, mais c’est sans compter que l’échelle de pH est logarithmique ! Quand une solution devient dix fois plus acide, son pH diminue d'une unité. Si elle devient 100 fois plus acide, son pH diminue de deux unités etc. Et en pratique, une diminution du pH de 0.1 unité représente une augmentation de l’acidité des océans d’environ 30 % !
+- Attention cependant, le pH de l’océan est toujours légèrement basique (c'est-à dire au-dessus de 7). L’acidification des océans désigne le processus d’acidification, pas le fait que l’océan lui-même deviendra acide, puisque selon toutes les projections, son pH devrait rester au-dessus de 7 dans tous les cas.
+- Si l’on ne fait rien pour limiter nos émissions de CO2, les scientifiques prédisent que d’ici 2100, les eaux de surface pourraient avoir un pH autour de 7.8, une acidité que la Terre n’a pas connu depuis environ 14 millions d'années.
+- Mais comment fonctionne cette acidification ? Et bien il faut savoir tout d’abord que l’océan absorbe environ 30 % du CO2 atmosphérique, et ce CO2, une fois absorbé, est dissous dans l’eau. Le CO2 se combine alors aux molécules d’eau (H2O) pour former de l’acide carbonique (H2CO3), et cet acide se dissocie à son tour en ions hydrogènes (H+) et en ions bicarbonates (HCO3-). Le résultat, c’est que si la concentration en CO2 atmosphérique augmente, la concentration en ions hydrogène dans l’océan aussi. Et l’océan devient alors de plus en plus acide.
+- Attention, l’acidification des océans est souvent confondue à tort avec un autre phénomène, celui des  pluies acides. Mais les deux processus n’ont rien à voir, chimiquement parlant. Les pluies acides sont des précipitations anormalement acides liées à nos émissions de dioxyde de soufre (SO2) et d’oxydes d’azote (NOx).
+
+## Conséquences de l’acidification des océans
+
+- L’acidification des océans a des conséquences dramatiques pour les espèces qui fabriquent des coquilles ou des squelettes de calcaire, comme les coraux, les coquillages, les moules, les huîtres, les palourdes, ou encore les oursins et les étoiles de mer.
+- Chimiquement parlant, le calcaire, c’est du carbonate de calcium (CaCO3), un assemblage constitué d’un ion calcium (Ca2+) et d’un ion carbonate (CO3^2-) présents dans l’eau de mer. 
+- Le problème, c’est que lorsque la concentration en ions hydrogène augmente dans l’océan, ces ions hydrogène ont tendance à se lier aux ions carbonate pour former un ion bicarbonate (HCO3-). Les organismes qui tentent de former leur coquille ou leur squelette ont donc moins d’ions carbonate à leur disposition pour former du calcaire. Et même s’ils y parviennent, cela demande plus de ressources et d’énergie, et cette énergie est dépensée aux dépens d’autres activités comme la reproduction. 
+- Si l’environnement est suffisamment acide, les ions hydrogène peuvent même détruire les molécules de calcaire présents dans les coquilles et les squelettes des organisme, ce qui dissout alors ces derniers. 
+- Parmi les organismes à coquille, les coraux sont particulièrement menacés par l’acidification des océans, qui limite leur croissance et détruit les coraux existants. Et ce phénomène est très problématique, car les coraux forment des récifs complexes qui abritent une grande variété d’organismes vivants. Les récifs coralliens abritent en effet près du tiers de la biodiversité marine connue ! 
+- Il est aussi important de noter que l’acidification des océans n’est pas le seul phénomène qui impacte les récifs coralliens. L’augmentation de la température globale liée au dérèglement climatique entraîne aussi une augmentation des épisodes de blanchissement des coraux, un phénomène lié à l’expulsion des algues symbiotiques qui les constituent. Et un corail blanchi a un taux de mortalité beaucoup plus élevé qu’un corail non blanchi.
+- L’acidification des océans a aussi des conséquences néfastes pour les sociétés humaines. Elle affecte négativement la sécurité alimentaire de millions de personnes, ainsi que l’économie de la pêche, de l’aquaculture et du tourisme dans le monde entier. La fragilisation des récifs coralliens pourrait aussi rendre les zones côtières plus vulnérables aux événements météorologiques extrêmes, car les coraux fournissent un service aux populations humaines en brisant la houle en cas de tempête.
+- Que faudrait-il donc faire pour limiter l’acidification des océans ? Selon l’IDDRI, l’Institut du Développement Durable et des Relations Internationales, il y a plusieurs solutions recommandées, la première consistant à réduire drastiquement nos émissions de CO2. D’autres recommandations incluent la réduction des flux de polluants côtiers qui aggravent localement l’acidification, ou encore la création d’aires marines protégées.
