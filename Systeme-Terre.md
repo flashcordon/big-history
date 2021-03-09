@@ -2,6 +2,7 @@
 
 - [L'hypothèse Gaia](#Lhypothèse-Gaia)
 - [L'acidification des océans](#Lacidification-des-océans)
+- [La montée des eaux](#La-montée-des-eaux)
 
 # L'hypothèse Gaia
 
@@ -193,6 +194,34 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - Que faudrait-il donc faire pour limiter l’acidification des océans ? Selon l’IDDRI, l’Institut du Développement Durable et des Relations Internationales, il y a plusieurs solutions recommandées, la première consistant à réduire drastiquement nos émissions de CO2. D’autres recommandations incluent la réduction des flux de polluants côtiers qui aggravent localement l’acidification, ou encore la création d’aires marines protégées.
 
 # La montée des eaux
+
+*Sources*
+
+- [Fonte des glaces et augmentation du niveau des mers](https://www.fondation-lamap.org/fr/page/28660/ocean-seance-i6-fonte-des-glaces-et-augmentation-du-niveau-des-mers) - La Main à la Pâte
+- [Quelles sont les conséquences du changement climatique ? ](http://www.fondation-lamap.org/fr/page/14372/sequence-2-quelles-sont-les-consequences-du-changement-climatique) - La Main à la Pâte
+- [Classe de glace](http://www.classesdeglace.org/)
+- [Le réchauffement climatique : des origines aux solutions](http://www.fondation-lamap.org/fr/page/55995/le-rechauffement-climatique-des-origines-aux-solutions) - La Main à la Pâte
+- [Cryosphere](https://en.wikipedia.org/wiki/Cryosphere) - Wikipédia
+- [Water and Ice | Crash Course Cryosphere #1](https://youtu.be/zU46kdTtlUk) - Simon CLark
+- [Quel rôle jouent les glaciers dans le climat terrestre actuel ?](https://www.emse.fr/~bouchardon/enseignement/processus-naturels/up1/web/wiki/Q%20-%20Atm%20-%20Role%20des%20glaciers%20dans%20le%20climat%20terrestre%20actuel%20-%20Rondeau.htm) - Nathalie RONDEAU
+- [Élévation du niveau de la mer MaP#18](https://youtu.be/yvtH89KvqbM) - Le Réveilleur
+- [Le rôle de la cryosphère sur le climat](http://www.reseau-canope.fr/docsciences/Le-role-de-la-cryosphere-sur-le.html) - Doc Science, Canopé
+- [The increasing rate of global mean sea-level rise during 1993–2014](https://www.nature.com/articles/nclimate3325) - Chen et al (2017)
+- [Consequences of twenty-first-century policy for multi-millennial climate and sea-level change](https://www.nature.com/articles/nclimate2923) - Clark et al (2016)
+- [Le glaçon dans l’apéro, l’iceberg et la montée des eaux…](http://pourquoilecielestbleu.cafe-sciences.org/articles/le-glacon-dans-l-apero/) - Pourquoi le ciel est bleu
+- [Fonte de la banquise (glace de mer) et élévation du niveau marin](http://planet-terre.ens-lyon.fr/article/fonte-banquise-2005-10-06.xml) - ENS Planète Terre
+- [La fonte des glaces et l'élévation du niveau marin](http://planet-terre.ens-lyon.fr/article/fonte-des-glaces.xml) - ENS Planète Terre
+- [Fonte des glaces, dilatation thermique de l'eau et montée du niveau marin](http://planet-terre.ens-lyon.fr/article/montee-mer.xml) - Pierre Thomas, ENS Planète Terre
+- [Expériences en sciences de la Terre](https://www.fr.ch/sites/default/files/contens/mhn/_www/files/pdf36/Experiences_en_sciences_de_la_terre.pdf)
+- [Évolution du climat : du passé vers le futur](http://planet-terre.ens-lyon.fr/article/evolution-du-climat.xml) - ENS Planète Terre
+- [L'océan, réservoir de chaleur](http://www.ocean-climate.org/wp-content/uploads/2015/03/FichesScientifiques-ocean-reservoir-chaleur_BD.pdf) - Ocean Climate
+- [Les éléments scientifiques du 5e rapport du GIEC](http://leclimatchange.fr/les-elements-scientifiques/) - Le climat change
+- [New study finds sea level rise accelerating](https://climate.nasa.gov/news/2680/new-study-finds-sea-level-rise-accelerating/) - NASA
+- [Hausse du niveau des mers : comprendre et anticiper](https://www.ademe.fr/sites/default/files/assets/documents/changement_climatique_hausse_niveau_mers.pdf) - Réseau Action Climat
+- [Océan, changementsclimatiqueset migration humaine](http://www.ocean-climate.org/wp-content/uploads/2017/02/oc%C3%A9an-climat-migration_FichesScientifiques_Oct2016_BD_ppp-12.pdf) - Ocean Climate
+- [How much will sea levels rise in the 21st Century?](https://www.skepticalscience.com/sea-level-rise-predictions.htm) - Skeptical Science
+
+---
 
 - Sur Terre, on trouve de nombreux endroit où l’eau est gelée, c’est à dire sous forme solide, de façon temporaire ou permanente. On appelle l’ensemble de tous ces endroits gelés la cryosphère. En fonction de la saison, ces surfaces représentent entre 7 et 17% de la superficie de la Terre. 
 - La cryosphère abrite une grande variété de surfaces enneigées ou englacées, qui vont de la banquise aux glaciers en passant par les icebergs et le pergélisol.
