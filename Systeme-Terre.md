@@ -161,6 +161,14 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 
 ---
 
+## L’échelle de pH
+
+- Ce qu’on appelle « acidité » est en fait la mesure de la concentration de protons, aussi appelés ions hydrogène (noté H+), dans une solution aqueuse. Plus la concentration en ions hydrogène est élevée, plus la solution est acide.
+- Le  « pH », diminutif de “potentiel hydrogène”, est une grandeur qui permet de mesurer l’acidité d’une solution. Il est inversement proportionnel au logarithme de la concentration en ions hydrogène. (- log[H+]). 
+- L’échelle de pH va de 0 à 14. Une solution dont le pH est en dessous de 7 est considérée comme acide, et une solution dont le pH est au-dessus de 7 est considérée comme basique. Le pH de l’eau pure à 25°C est égal à 7, et cette valeur sert de référence pour un milieu considéré comme neutre. 
+
+## Le mécanisme de l’acidification des océans
+
 - Depuis le début de la Révolution Industrielle, il y a près de deux siècles, les activités humaines ont drastiquement augmenté la concentration de CO2 dans l’atmosphère. Celle-ci est ainsi passée d'un niveau pré-industriel de 280 parties par million à 410 parties par million aujourd'hui. Et durant la même période, le pH des océans est passé de 8.2 à 8.1. Il a donc diminué de 0.1 unité.
 - Ça n’a pas l’air d’être un gros changement dit comme ça, mais c’est sans compter que l’échelle de pH est logarithmique ! Quand une solution devient dix fois plus acide, son pH diminue d'une unité. Si elle devient 100 fois plus acide, son pH diminue de deux unités etc. Et en pratique, une diminution du pH de 0.1 unité représente une augmentation de l’acidité des océans d’environ 30 % !
 - Attention cependant, le pH de l’océan est toujours légèrement basique (c'est-à dire au-dessus de 7). L’acidification des océans désigne le processus d’acidification, pas le fait que l’océan lui-même deviendra acide, puisque selon toutes les projections, son pH devrait rester au-dessus de 7 dans tous les cas.
