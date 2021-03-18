@@ -118,3 +118,8 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - Heureusement, Aldrin a sur lui un stylo qui, PAR CHANCE, a le bon diamètre pour être inséré dans le poussoir pour activer le circuit.
 - Le module lunaire a donc pu décoller donc sans encombre, et les astronautes ont pu rentrer chez eux, ainsi que dans l'Histoire.
 - Quant au stylo, il est aujourd'hui exposé au Museum of Flight de Seattle.
+
+## Les diamants de Neptune
+
+- Il pleut des diamants sur Neptune !
+- Neptune est une planète mystérieuse.
