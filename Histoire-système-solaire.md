@@ -1892,7 +1892,7 @@ https://www.nasa.gov/mission_pages/cassini/multimedia/pia09185.html
 http://tquark.colorado.edu/~tianlu/public/saturnHex_paper.pdf 
 http://www.sciencedirect.com/science/article/pii/S0019103517300659 
 http://onlinelibrary.wiley.com/doi/10.1002/2013GL059078/full
-
+- [PIA12259: Infrared Ring around Saturn](https://photojournal.jpl.nasa.gov/catalog/PIA12259) - NASA
 - [L’inquiétant Kraken Mare, le plus grand lac de Titan, est bien plus profond qu’on ne le pensait](https://www.sciencesetavenir.fr/espace/systeme-solaire/l-inquietant-kraken-mare-le-plus-grand-lac-de-titan-est-bien-plus-profond-qu-on-ne-le-pensait_151210?xtor=RSS-9&fbclid=IwAR10B58fi1nb9NzXhztGA3o9vuIu8h6VL6GbHrbbLJ-TIl3CqNRECcdkEzk) - Science et Avenir (2021)
 ---
 
@@ -1954,6 +1954,7 @@ http://onlinelibrary.wiley.com/doi/10.1002/2013GL059078/full
 - Les anneaux sont des structures dynamiques. 
 - Les anneaux de Saturne sont comme un mini système solaire à l'époque de sa formation. 
 - À l'échelle des temps géologiques, les anneaux de Saturne ne sont qu'une structure éphémère. Des observations récentes réalisées en 2018 grace au télescope Keck à Hawaii ont révélé qu'une pluie de poussière et de glace s'échappe des anneaux en permanence et, guidé par le champ magnétique de la planète, finit par se perdre à l'intérieur de son atmosphère. À ce rythme, les anneaux devraient complètement disparaitre d'ici 100 millions d'années.
+- En 2009, le télescope spatial infrarouge Spitzer découvre que Saturne est entourée d'un grand et épais disque de poussière, 300 fois plus large que ses anneaux. 
 
 ## L'hexagone polaire de Saturne
 
