@@ -693,6 +693,8 @@ and no doubt lives into its development
 - [Mars Pathfinder](https://www.nirgal.net/pres_mpf1.html) - Nirgal
 - [Mars : le jour où Pathfinder a “cassé Internet”](https://sciencepost.fr/mars-pathfinder/) - Science Post
 - [Mars Express](https://fr.wikipedia.org/wiki/Mars_Express) - Wikipédia
+- [Des aurores à protons observées pour la première fois sur Mars !](https://www.recherche.uliege.be/cms/c_9942571/fr/des-aurores-a-protons-observees-pour-la-premiere-fois-sur-mars) - Université de Liège (2018)
+- [Observations of the Proton Aurora on Mars With SPICAM on Board Mars Express](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076235) - Ritter et al (2017)
 
 ---
 
@@ -1016,7 +1018,26 @@ Mars Express a effectué à de nombreuses reprises des survols à faible distanc
 La théorie la plus courante en ce qui concerne l'origine des lunes de Mars est que celles-ci sont des astéroïdes capturés par la planète Mars. Mais un objet aussi poreux n'aurait sans doute pas survécu à un tel processus de capture. Par ailleurs, le spectromètre PFS a permis de détecter la présence de minéraux de type phyllosilicate à la surface de Phobos en particulier près de Stickney, le plus grand des cratères d'impact. La faible densité de Phobos et la présence à sa surface de minéraux formés en présence d'eau permettent de penser que Phobos est en réalité le résultat de l'accrétion de matériaux rocheux éjectés de la surface de Mars par un impact géant
 
 En mars 2004, le spectromètre FPS détecte la présence de petites quantités de méthane dans l'atmosphère. La présence de ce gaz, qui a une durée de vie de 440 ans s'il n'est pas renouvelé, ne peut avoir qu'une origine volcanique ou bactérienne. Il subsiste toutefois une certaine incertitude sur cette découverte car la quantité très faible de méthane détecté se situe à la limite de la sensibilité de l'instrument
-  
+
+Un programme de recherche mené à l’Université de Liège en collaboration avec l'Observatoire Royal de Belgique et l’Université de Liège vient d’observer pour la première fois des aurores à protons sur la planète Mars, pourtant dépourvue de champ magnétique planétaire. Les chercheurs ont analysé les données recueillies entre 2004 et 2011 avec le spectromètre ultraviolet SPICAM à bord de la sonde Mars Express (ESA). C’est la première fois que des chercheurs constatent l’existence de ce type d’aurore ailleurs que sur Terre.
+
+Notre Soleil libère dans l'espace un flux continu de particules chargées électriquement  (électrons, protons, ions), ce que l’on appelle le vent solaire. Ces particules atteignent les planètes du système solaire et interagissent avec leur champ magnétique global. Sur Terre, cette interaction mène à l’accélération vers la haute atmosphère de particules piégées dans le champ géomagnétique, ce qui résulte en des émissions lumineuses, mieux connues sous le nom d’aurores polaires, ces voiles de lumières extrêmement colorés et assez spectaculaires qui se produisent autours des pôles magnétiques de notre planète, parfois même à des latitudes plus basses pendant les périodes d'activité solaire accrue.
+
+Sur Terre, on discerne trois types d’aurores : les aurores discrètes et les aurores diffuses - toutes deux déclenchées par des électrons - et les aurores à protons - également diffuses et qui, comme leur nom l’indique, sont déclenchées par des protons - chacune ayant une forme et une traduction lumineuse différente. Ces trois types d’aurores sont observés depuis longtemps sur notre planète, alors que sur Mars, les aurores à protons, viennent tout juste d’être observées
+
+Mars ne dispose pas d’un champ magnétique global comme la Terre, ce qui limite fortement l’apparition d’aurores, mais la planète présente toutefois des régions de l'hémisphère Sud qui ont gardé l'empreinte du champ magnétique qui régnait dans les périodes géologiques passées et qui permet donc l’apparition de ce type de phénomène physique. »
+
+L'aurore discrète, déclenchée par les électrons, avait été cartographiée sur Mars en 2013 par la même équipe de l’ULiège à l’aide de SPICAM – un instrument de l’Agence spatiale européenne (ESA) destiné à l’étude des caractéristiques de l’atmosphère de Mars. Le second type d’aurore, l’aurore diffuse, a été découvert en 2015 par MAVEN, une sonde spatiale d'exploration de la planète Mars de l'agence spatiale américaine (NASA). Ces aurores sont beaucoup plus faibles sur Mars que sur Terre et sont globalement observées sur le côté nocturne de la planète, pendant les périodes d'activité solaire. L'aurore à protons qui a été récemment détectée est, quant à elle, visible uniquement du côté éclairé de la planète.
+
+«L'aurore à protons martienne avait  été théoriquement prédite dès 2001, mais ce n'est que maintenant que l'on en a trouvé des preuves observationnelles
+
+ L'examen de sept années de données (de 2004 à 2011) récoltées de Mars Express a révélé que lorsqu’un flux de protons solaires supérieur à la normale atteint Mars, cette aurore à protons est perçue comme une augmentation de la brillance de l’atmosphère entre 120 et 150 km d’altitude. Ce phénomène peut se produire n'importe où sur le côté éclairé de la planète et n'est lié à aucune structure de champ magnétique».  Un flux de protons solaires supérieur à la normale peut par exemple se produire par une éjection de masse coronale (CME) pendant des périodes d’activité solaire accrue, lors de laquelle une énorme quantité de plasma solaire est éjectée en une fois dans l’espace interplanétaire. Ces CME peuvent transporter des nuages denses de protons de vent solaire loin dans le système solaire.
+ 
+ L'observation de l'aurore à protons sur Mars nous renseigne, comme souvent en recherche spatiale, sur la nature générale des processus physiques. Elle indique en outre que l'aurore à protons pourrait être très commune dans l'univers et que, contrairement à la vision traditionnelle, la présence d’un champ magnétique planétaire n’est pas requise pour produire le phénomène auroral.
+ 
+ Le "vent" solaire n'est évidemment pas un courant d'air comme nous l'entendons habituellement mais il est constitué de flux de particules chargées électriquement en provenance du Soleil qui balayent en permanence le milieu interplanétaire. Ce vent très peu dense (5 à 10 particules par centimètre cube), fluctuant et très rapide (400 à 800 km/s). Il est composé principalement d'électrons, de protons et de noyaux d'hélium et, chose curieuse, il transporte le champ magnétique d’origine solaire comme gelé en son sein : le champ magnétique interplanétaire qui conditionne de manière cruciale l’interaction entre le vent solaire et l’environnement spatial des planètes possédant un champ magnétique intense. 
+ 
+ 
 
 ### Mars Exploration Rovers / Spirit et Opportunity (NASA, 2003-2019)
 
