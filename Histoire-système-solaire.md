@@ -695,6 +695,7 @@ and no doubt lives into its development
 - [Mars Express](https://fr.wikipedia.org/wiki/Mars_Express) - Wikipédia
 - [Des aurores à protons observées pour la première fois sur Mars !](https://www.recherche.uliege.be/cms/c_9942571/fr/des-aurores-a-protons-observees-pour-la-premiere-fois-sur-mars) - Université de Liège (2018)
 - [Observations of the Proton Aurora on Mars With SPICAM on Board Mars Express](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076235) - Ritter et al (2017)
+- [The Red Color Of Mars Is Only Millimeters Thick](https://www.forbes.com/sites/startswithabang/2021/03/11/the-red-color-of-mars-is-only-millimeters-thick/?sh=70bdaa433922) - Starts with a Bang (2021)
 
 ---
 
@@ -720,6 +721,11 @@ and no doubt lives into its development
 
 ## Propriétés de Mars
 
+- From space, there’s no denying the red appearance of Mars. For all of recorded history in a wide variety of languages, the redness of Mars has been its most prominent feature. Mangala, the Sanskrit word for Mars, is red. Har decher, its ancient name in Egyptian, literally means “red one.”
+-  the red dust that dominates the color palette of Mars is only skin deep. That’s not even a poetic turn of phrase in this case: most of Mars is covered by a layer of dust that’s only a few millimeters thick! Even in the region where the dust is thickest — the large plateau known as the Tharsis region, consisting of three very large volcanoes just offset from Olympus Mons (which appears to the plateau’s northwest) — it’s estimated to be a meager 2 meters (~7 feet) thick.
+-  Mars’s atmosphere is always rich with this dust; that dust provides the atmosphere’s color
+-  Mars isn’t a uniform red color at all. In fact, the surface itself is more of an orangey shade of butterscotch overall, and that various rocky objects and deposits on the surface appear to have a variety of colors: brown, golden, tan, and even greenish or yellow, depending on what minerals make up those deposits.
+-  So, all in all, Mars is red because of hematite, which is a red form of ferric oxide. Although ferric oxides are found in many places, only the hematite is largely responsible for the red color, and the small dust particles that are suspended in the atmosphere and that coat the top few millimeters-to-meters of Mars’s surface are wholly responsible for the red color we see. 
 - À cause de sa couleur rouge dans le ciel nocturne, on l’a longtemps associé au sang, à la guerre. Mars est d’ailleurs le nom du dieu romain de la guerre.
 > * Cette couleur rouge est due à l’oxyde de fer (autrement dit, de la rouille) parsemé sur sa surface.
 > * Elle est aussi due à l’histoire de la planète : Mars n’ayant pas d’oxygène moléculaire dans son atmosphère, elle n’a pas développé de couche d’ozone pour la protéger des rayons UV du Soleil. Ces derniers ont donc brisé les molécules d’eau dans l’atmosphère en leurs constituants élémentaires. L’hydrogène s’échappe, ce qui participe à l’échappement atmosphérique de la planète. L’oxygène, plus lourd, se combine au fer du sol pour former des oxydes.
