@@ -54,7 +54,8 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - Le doigt de Galilée
 - Full Newton Alchemist
 - Le nez de Tycho Brahé
-- La première image de la surface de Mars a été coloriée.
+- La première image de la surface de Mars a été coloriée
+- Giacomo Leopardi, 15 ans, historien de l'astronomie 
 
 ## Le cimetière de vaisseaux spatiaux
 
