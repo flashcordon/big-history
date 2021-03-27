@@ -956,7 +956,7 @@ The Pathfinder rover was named after SojournerTruth, an African-American crusade
 
 ### Mars Express (ESA, 2003-2022)
 
-
+Suite à l'échec de la mission russe « Mars 96 », l'Agence spatiale européenne (ESA), reprend le projet et crée la mission « Mars Express ». Les objectifs de l'envoi de cette nouvelle sonde sur Mars sont de cartographier la planète, analyser son sous-sol et étudier son atmosphère. Lancée le 2 juin 2003, par un lanceur russe depuis Baïkonour au Kazakhstan, la sonde « Mars Express » atteint la planète Mars en seulement 7 mois. Depuis, l'appareil enchaîne les rotations autour de Mars, au rythme d'une toutes les 7 heures. Initialement prévue pour durer 2 ans, la mission a été prolongée à plusieurs reprises devant l'ampleur des résultats scientifiques obtenus. 
 Mars Express est une sonde spatiale de l'Agence spatiale européenne (ESA) lancée le 2 juin 2003 pour étudier la planète Mars. Il s'agit de la première mission d'exploration d'une autre planète du système solaire lancée par l'Agence européenne. Sa mission est de recueillir des données sur la surface, l'atmosphère, l'ionosphère et le sous-sol de la planète. La sonde comprend un orbiteur et un petit atterrisseur, Beagle 2, chargé de se poser sur la surface et de déceler d'éventuelles traces de vie. 
 
 Toute trace de Beagle 2 est perdue peu après sa séparation avec la sonde principale.
