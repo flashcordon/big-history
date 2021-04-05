@@ -899,7 +899,7 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 > Le site d'atterrissage sera renommé Memorial Carl Sagan, ce dernier étant décédé 2 semaines après le lancement de la sonde.
 - L'objectif de la mission est essentiellement technique :
 > * Il s'agit d'un démonstrateur technologique destiné à valider le recours à une nouvelle technique d'atterrissage en douceur utilisant des coussins gonflables pour amortir sa chute
-> * Il contient aussi le premier astromobile à fouler le sol de Mars : Sojourner, un petit robot de 10,6 kg (65 cm de long, 48 cm de large, et 30 cm de haut), alimenté par un petit panneau solaire et une batterie au lithium non rechargeable, et doté de 6 roues. Il est le premier robot à évoluer sur la surface d'une autre planète.
+> * Il contient aussi le premier astromobile à fouler le sol de Mars : Sojourner, un petit robot de 10,6 kg (65 cm de long, 48 cm de large, et 30 cm de haut), alimenté par un petit panneau solaire et une batterie au lithium non rechargeable, et doté de 6 roues. Il est le premier robot à évoluer sur la surface d'une autre planète. Il pouvait se déplacer à 24 m/h maximum et pouvait théoriquement s'éloigner à 500 m de l'atterrisseur. En pratique, elle ne s'est déplacée en moyenne qu'à 1 cm/jour.
 - L'astromobile est nommée par Valérie Ambroise, une jeune fille de 12 ans (à la suite d'un concours de la NASA), en l'honneur de Sojourner Truth, une abolitionniste afro-américaine et une militante pour le droit de vote des femmes qui a vécu au 19e siècle à l'époque de la guerre civile américaine.
 - L'objectif étant surtout technique, Pathfinder embarque peu d'instruments scientifiques :
 > * une caméra stéréo couleur et une station météo sur l'atterrisseur
@@ -916,21 +916,13 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
 Findings from the investigations carried out by scientific instruments on both the lander and the rover suggest that Mars was at one time in its past warm and wet, with water existing in its liquid state and a thicker atmosphere.
 
-
-Doté de six roues il peut s'éloigner théoriquement jusqu'à 500 mètres de la zone d'atterrissage. 
 - La couleur du ciel est une surprise pour les scientifiques. Alors qu'aucune tempête de poussière majeure n'a eu lieu depuis des années, celui-ci est de couleur rosé ce qui semble indiquer que la poussière, à l'origine de cette coloration, est présente en permanence dans l'atmosphère.
 - Après avoir étudié le site de Rock Garden, l'équipe projet envisage d'envoyer Sojourner beaucoup plus loin pour évaluer ses capacités et contribuer à la mise au point de la prochaine génération de rovers. Mais la recharge de la batterie de Mars Pathfinder se dégrade progressivement. Un dernier contact avec la sonde spatiale a lieu le 27 septembre 1997 à 10h 23 heure universelle. Le 28 septembre la sonde spatiale ne répond plus. La raison exacte de l'arrêt des transmissions n'est pas certaine, mais il est probablement du à l'épuisement de la batterie durant la nuit qui aurait remis l'horloge interne à 0. Lorsque le jour revient et que l'énergie afflue de nouveau, l'ordinateur embarqué n'aurait pas pu situer la Terre et donc pointer l'antenne parabolique vers celle-ci. Une brève liaison est rétablie les 1er et 7 octobre mais sans qu'aucun donnée ne soit transmise. L'électronique devenant de plus en plus froide au fil des nuits, il est probable qu'elle a cessé de fonctionner de jour au bout d'un certain temps. Les ingénieurs abandonnent le 10 mars 1998 les tentatives de prise de contact
-
 
 - des tourbillons de poussière ont été fréquemment observés et suggèrent qu'ils forment le mécanisme injectant la poussière dans l'atmosphère de Mars.
 les photos prises montrent la présence de nuages de glace d'eau dans la basse atmosphère en début de journée. Ceux-ci se dissipent lorsque l'atmosphère se réchauffe.
 - l'atmosphère présente une teinte rose pale due à la présente des particules fines de poussière dans la basse atmosphère, phénomène déjà constaté sur les sites d'atterrissage des sondes spatiales Viking.
-- dans le film Planète rouge, des astronautes en péril sur Mars utilisent des pièces de Sojourner pour fabriquer une radio improvisée et communiquer avec leur vaisseau spatial.
 - Le rover a renvoyé un trésor d’informations, collectant pas moins de 1,2 gigaoctet de données et prenant environ 10 000 photos de la surface martienne. Conçu pour ne durer qu’un mois, le rover à énergie solaire a tout de même tenu 70 sols martiens, soit 85 jours terrestres. Il a renvoyé sa dernière transmission vers la Terre le 27 septembre 1997.
-- Composé d'une station au sol et d'un robot mobile, Pathfinder devait prouver que l'exploration martienne pouvait être parfaitement conduite par des sondes économiques et assemblées dans des temps records (le fameux better, faster, cheaper cher à l'administrateur de la NASA d'alors, Daniel Goldin).
-- Au sol, la vitesse maximale de Sojourner était de 24 m/h, et il pouvait théoriquement s'éloigner à 500 mètres de sa station. En réalité, au cours de la mission, la vitesse moyenne de Sojourner n'a été que de 1 centimètre par jour
-
-- La mission Pathfinder a été un véritable succès, à tout point de vue. Sur une durée de trois mois, la sonde a retourné 2,6 gigabits de données, dont 16 000 images de la surface de Mars prises par la caméra de l'atterrisseur, 550 images acquises par le rover et 8,5 millions de mesures concernant la température, la pression et les vents martiens. Sojourner s'est déplacé sur une distance totale de 100 mètres
 
 - Le 27 septembre 1997, après 83 jours d'opérations, les équipes au sol perdent brutalement le contact avec Pathfinder. Parmi toutes les hypothèses soulevées pour expliquer la rupture des communications, l'épuisement des batteries est la plus probable. Sans énergie, incapable de résister au climat glacial de Mars, Pathfinder est probablement mort de froid.
 
