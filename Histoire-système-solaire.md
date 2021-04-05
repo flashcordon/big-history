@@ -904,38 +904,22 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - L'objectif étant surtout technique, Pathfinder embarque peu d'instruments scientifiques :
 > * une caméra stéréo couleur et une station météo sur l'atterrisseur
 > * un spectromètre à rayons X sur le rover, pour déterminer la composition du sol et des roches martiennes, ainsi que 3 caméras de navigation (2 noir et blanc, et une couleur)
+- Le 27 Septembre 1997, le contact avec le rover est rompu.
+> "il est probablement du à l'épuisement de la batterie durant la nuit qui aurait remis l'horloge interne à 0. Lorsque le jour revient et que l'énergie afflue de nouveau, l'ordinateur embarqué n'aurait pas pu situer la Terre et donc pointer l'antenne parabolique vers celle-ci. Une brève liaison est rétablie les 1er et 7 octobre mais sans qu'aucun donnée ne soit transmise. L'électronique devenant de plus en plus froide au fil des nuits, il est probable qu'elle a cessé de fonctionner de jour au bout d'un certain temps. Les ingénieurs abandonnent le 10 mars 1998 les tentatives de prise de contact"
 - La mission Pathfinder s'est officiellement terminée le 4 novembre 1998, après avoir rempli quasiment tous ses objectifs
 > * Le rover a parcouru une centaine de mètres, et a analysé la composition chimique de 16 roches et parcelles de sol différentes
-> * Durant son séjour à la surface de Mars, 17 050 images (dont 550 du rover) ont été transmises
-> * La mission était prévue pour durer une semaine, mais elle a en fait duré 12 fois plus longtemps
+> * Durant son séjour à la surface de Mars, 17 050 images (dont 550 du rover) ont été transmises à la Terre
+> * La mission était prévue pour durer une semaine, mais elle a en fait duré 85 jours terrestres (70 sols martiens), soit 12 fois plus longtemps
 > * L'unique objectif non rempli est la complétion d'un panorama à 360° du site d'atterrissage, qui n'a été complété qu'à 83%.
 > * Au total, la mission aura transmis près de 300 MO de données à la Terre. Les dernières données ont été envoyées le 27 Septembre 1997.
+- Des galets arrondis ont été trouvés près de la zone d'atterrissage, ce qui suggère qu'ils se sont formés dans des conditions où de l'eau coulait dans le passé lointain de Mars.
+- Les scientifiques sont surpris de la teinte rose pale du ciel de Mars, ce qui suggère que de la poussière est toujours présente dans l'atmosphère
+- Des mesures radio ont permis de contraindre la taille du noyau métallique de Mars : son rayon serait compris entre 1300 et 2000 km.
+- Pathfinder a observé des nuages de glace d'eau dans la basse atmosphère qui se forment en début de journée, et qui se dissipent lorsque l'atmosphère se réchauffe.
+- La mission a aussi analysé les propriétés des tourbillons de poussières nommés "dust devils" sur Mars. Ces tourbillons sont l'un des mécanismes qui apportent de la poussière dans l'atmosphère martienne.
 - Mais c'est du point de vue médiatique que la mission a connu son plus grand succès.
 > * L'atterrissage de la sonde a été suivi en direct par des dizaines de millions d'internautes à travers le globe. Un mois après l'atterrissage de la sonde, le site de la NASA recueillait plusieurs centaines de millions de hits, ce qui en fait l'un des événements les plus suivis de l'histoire d'Internet
 > * Sojourner a fait quelques apparitions dans des films de science-fiction comme Planète Rouge et Seul sur Mars.
-
-Findings from the investigations carried out by scientific instruments on both the lander and the rover suggest that Mars was at one time in its past warm and wet, with water existing in its liquid state and a thicker atmosphere.
-
-- La couleur du ciel est une surprise pour les scientifiques. Alors qu'aucune tempête de poussière majeure n'a eu lieu depuis des années, celui-ci est de couleur rosé ce qui semble indiquer que la poussière, à l'origine de cette coloration, est présente en permanence dans l'atmosphère.
-- Après avoir étudié le site de Rock Garden, l'équipe projet envisage d'envoyer Sojourner beaucoup plus loin pour évaluer ses capacités et contribuer à la mise au point de la prochaine génération de rovers. Mais la recharge de la batterie de Mars Pathfinder se dégrade progressivement. Un dernier contact avec la sonde spatiale a lieu le 27 septembre 1997 à 10h 23 heure universelle. Le 28 septembre la sonde spatiale ne répond plus. La raison exacte de l'arrêt des transmissions n'est pas certaine, mais il est probablement du à l'épuisement de la batterie durant la nuit qui aurait remis l'horloge interne à 0. Lorsque le jour revient et que l'énergie afflue de nouveau, l'ordinateur embarqué n'aurait pas pu situer la Terre et donc pointer l'antenne parabolique vers celle-ci. Une brève liaison est rétablie les 1er et 7 octobre mais sans qu'aucun donnée ne soit transmise. L'électronique devenant de plus en plus froide au fil des nuits, il est probable qu'elle a cessé de fonctionner de jour au bout d'un certain temps. Les ingénieurs abandonnent le 10 mars 1998 les tentatives de prise de contact
-
-- des tourbillons de poussière ont été fréquemment observés et suggèrent qu'ils forment le mécanisme injectant la poussière dans l'atmosphère de Mars.
-les photos prises montrent la présence de nuages de glace d'eau dans la basse atmosphère en début de journée. Ceux-ci se dissipent lorsque l'atmosphère se réchauffe.
-- l'atmosphère présente une teinte rose pale due à la présente des particules fines de poussière dans la basse atmosphère, phénomène déjà constaté sur les sites d'atterrissage des sondes spatiales Viking.
-- Le rover a renvoyé un trésor d’informations, collectant pas moins de 1,2 gigaoctet de données et prenant environ 10 000 photos de la surface martienne. Conçu pour ne durer qu’un mois, le rover à énergie solaire a tout de même tenu 70 sols martiens, soit 85 jours terrestres. Il a renvoyé sa dernière transmission vers la Terre le 27 septembre 1997.
-
-- Le 27 septembre 1997, après 83 jours d'opérations, les équipes au sol perdent brutalement le contact avec Pathfinder. Parmi toutes les hypothèses soulevées pour expliquer la rupture des communications, l'épuisement des batteries est la plus probable. Sans énergie, incapable de résister au climat glacial de Mars, Pathfinder est probablement mort de froid.
-
-irectly entering the Martian atmosphere, assisted by a parachute to slow its descent through the thin Martian atmosphere and a giant system of airbags to cushion the impact. The landing site, an ancient flood plain in Mars’ northern hemisphere known as Ares Vallis, is among the rockiest parts of Mars. It was chosen because scientists believed it to be a relatively safe surface to land on and one which contained a wide variety of rocks deposited during a catastrophic flood.
-
-
-    Rounded pebbles and cobbles at the landing site, and other observations, suggested conglomerates that formed in running water during a warmer past in which liquid water was stable.
-    Radio tracking of Mars Pathfinder provided a precise measure of the lander's location and Mars' pole of rotation. The measurements suggested that the radius of the planet's central metallic core is greater than 800 miles (1,300 kilometers) but less than roughly 1,250 miles (2,000 kilometers).
-    Airborne dust is magnetic, and its characteristics suggest the magnetic mineral is maghemite, a very magnetic form of iron oxide, which may have been freeze-dried on the particles as a stain or cement. An active water cycle in the past may have leached out the iron from materials in the crust.
-    Dust devils were seen and frequently measured by temperature, wind and pressure sensors. Observations suggested that these gusts are a mechanism for mixing dust into the atmosphere.
-    Early morning water ice clouds were seen in the lower atmosphere.
-    Abrupt temperature fluctuations were recorded in the morning, suggesting that the atmosphere is warmed by the planet's surface, with heat convected upward in small eddies.
-
 
 ### Mars Global Surveyor (NASA, 1996-2007)
 
