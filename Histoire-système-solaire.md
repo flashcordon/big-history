@@ -892,18 +892,21 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
 ### Mars Pathfinder / Sojourner (NASA, 1996-1997)
 
-- Mars Pathfinder est une sonde spatiale de type atterrisseur, développée par l'agence spatiale américaine, la NASA, qui s'est posée sur le sol de la planète Mars le 4 juillet 1997 à Ares Vallis, dans la région de Chryse Planitia. L'engin spatial principal est avant tout un démonstrateur technologique à bas coût qui permet de valider le recours à une nouvelle technique d'atterrissage en douceur sur Mars utilisant des coussins gonflables et utilise pour la première fois sur Mars un petit robot mobile (astromobile), Sojourner. 
--  première mission de la NASA sur le sol de Mars depuis la programme Viking qui s'est déroulé en 1976 soit 20 ans plus tôt. 
+
+- Mars Pathfinder est une sonde spatiale de type atterrisseur de près de 900 kg, lancée le 4 décembre 1996 
+- Il s'agit de la première mission de la NASA vers Mars depuis le programme Viking, deux décennies plus tôt.
+> l'objectif de la NASA est de montrer la validité de leur programme d'exploration spatiale porté par la devise "faster, better and cheaper". Pathfinder est en effet 5 fois moins cher que le programme Viking et a été développée en 3 ans.
+- Après un voyage de 7 mois, la sonde atterrit à Ares Vallis dans la région de Chryse Planitia le 4 juillet 1997
+- L'objectif de la mission est essentiellement technique :
+> * Il s'agit d'un démonstrateur technologique destiné à valider le recours à une nouvelle technique d'atterrissage en douceur utilisant des coussins gonflables pour amortir sa chute
+> * Il contient aussi le premier astromobile à fouler le sol de Mars : Sojourner, un petit robot de 10,6 kg, de 65 cm de long, 48 cm de large, et 30 cm de haut, et doté de 6 roues
+
+
 -  La mission Mars Pathfinder remplit complètement les objectifs limités qui lui ont été fixés et s'achève le 27 septembre 1997. La charge utile, réduite à une station météorologique, une caméra et un spectromètre embarqué sur le rover Sojourner, apporte peu d'informations scientifiques nouvelles
 -  Par contre pour la première fois le détail du déroulement d'une mission spatiale est communiqué en temps réel au grand public, image à l'appui, grâce à la généralisation d'internet et cette médiatisation par le biais de ce support connaît un énorme succès. 
 -  ses objectifs sont essentiellement techniques. Il s'agit en effet de tester des procédures qui pourront être utilisées ultérieurement sur des missions ambitieuses sur le plan scientifique et donc plus coûteuses.
 
-    prouver que la devise « faster, better and cheaper » (plus rapide, mieux et moins cher) peut s'appliquer aux missions spatiales (la sonde a été développée en seulement trois ans pour un coût inférieur à 150 millions de dollars, soit cinq fois moins que le projet Viking).
-    tester une méthode d'atterrissage totalement innovante : des coussins gonflables géants amortissant l'impact de la sonde avec le sol
-- Mars Pathfinder, qui pèse 895 kg
 - Le rover Sojourner (nommé d'après Sojourner Truth) pèse 10,6 kg et mesure 65 cm de long pour 48 cm de large et 30 cm de haut. Doté de six roues il peut s'éloigner théoriquement jusqu'à 500 mètres de la zone d'atterrissage. 
-- sept mois que dure son trajet vers la planète rouge
-- lancé  4 décembre 1996 Arrivée sur Mars (4 juillet 1997)
 - Le site d'atterrissage est baptisé Mémorial Carl Sagan en l'honneur de l'astronome et planétologue américain Carl Sagan, qui avait été un grand défenseur de l'exploration spatiale et qui était décédé deux semaines seulement après le lancement de la sonde spatiale
 - Mars Pathfinder emporte trois instruments : la caméra IMP et la station météorologique ASI/MET installées sur l'atterrisseur et le spectromètre à rayons X alpha proton APXS installé sur le rover Sojourner. 
 - IMP (Imager for Mars Pathfinder) est une caméra stéréo couleur qui utilise deux optiques pour fournir des images en relief. La caméra est fixée à 1 mètre au-dessus du plateau supérieur de l'atterrisseur au sommet d'un mat télescopique 
@@ -948,14 +951,13 @@ site d'atterrissage : sci-entists believe thatthe flood plain wascut by a volume
 The only objective left unfinished at the timecommunications was lost was completion of a high-resolution 360-degree image of the landing site nick-named the ìSuper Pan,î of which 83 percent wasreceived on Earth. 
 The Pathfinder rover was named after SojournerTruth, an African-American crusader who lived dur-ing the U.S. Civil War era and traveled throughout thecountry advocating the rights of all people to be free.The name Sojourner, which means ìtraveler,î 
 
-
-
 ### Mars Global Surveyor (NASA, 1996-2007)
 
 ### Mars Odyssey (NASA, 2001-2025)
 
 ### Mars Express (ESA, 2003-2022)
 
+- 
 Suite à l'échec de la mission russe « Mars 96 », l'Agence spatiale européenne (ESA), reprend le projet et crée la mission « Mars Express ». Les objectifs de l'envoi de cette nouvelle sonde sur Mars sont de cartographier la planète, analyser son sous-sol et étudier son atmosphère. Lancée le 2 juin 2003, par un lanceur russe depuis Baïkonour au Kazakhstan, la sonde « Mars Express » atteint la planète Mars en seulement 7 mois. Depuis, l'appareil enchaîne les rotations autour de Mars, au rythme d'une toutes les 7 heures. Initialement prévue pour durer 2 ans, la mission a été prolongée à plusieurs reprises devant l'ampleur des résultats scientifiques obtenus. 
 Mars Express est une sonde spatiale de l'Agence spatiale européenne (ESA) lancée le 2 juin 2003 pour étudier la planète Mars. Il s'agit de la première mission d'exploration d'une autre planète du système solaire lancée par l'Agence européenne. Sa mission est de recueillir des données sur la surface, l'atmosphère, l'ionosphère et le sous-sol de la planète. La sonde comprend un orbiteur et un petit atterrisseur, Beagle 2, chargé de se poser sur la surface et de déceler d'éventuelles traces de vie. 
 
