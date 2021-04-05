@@ -900,16 +900,20 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - L'objectif de la mission est essentiellement technique :
 > * Il s'agit d'un démonstrateur technologique destiné à valider le recours à une nouvelle technique d'atterrissage en douceur utilisant des coussins gonflables pour amortir sa chute
 > * Il contient aussi le premier astromobile à fouler le sol de Mars : Sojourner, un petit robot de 10,6 kg, de 65 cm de long, 48 cm de large, et 30 cm de haut, et doté de 6 roues
+- L'astromobile est nommée en l'honneur de Sojourner Truth, une abolitionniste afro-américaine et une militante pour le droit de vote des femmes qui a vécu au 19e siècle à l'époque de la guerre civile américaine.
+- Pathfinder embarque 3 instruments :
+> * une caméra stéréo couleur et une station météo sur l'atterrisseur
+> * un spectromètre à rayons X sur le rover, pour déterminer la composition du sol et des roches martiennes
+> * le rover disposait quant à lui de 3 caméras de navigation (2 noir et blanc, et une couleur)
+
 
 
 -  La mission Mars Pathfinder remplit complètement les objectifs limités qui lui ont été fixés et s'achève le 27 septembre 1997. La charge utile, réduite à une station météorologique, une caméra et un spectromètre embarqué sur le rover Sojourner, apporte peu d'informations scientifiques nouvelles
 -  Par contre pour la première fois le détail du déroulement d'une mission spatiale est communiqué en temps réel au grand public, image à l'appui, grâce à la généralisation d'internet et cette médiatisation par le biais de ce support connaît un énorme succès. 
--  ses objectifs sont essentiellement techniques. Il s'agit en effet de tester des procédures qui pourront être utilisées ultérieurement sur des missions ambitieuses sur le plan scientifique et donc plus coûteuses.
 
-- Le rover Sojourner (nommé d'après Sojourner Truth) pèse 10,6 kg et mesure 65 cm de long pour 48 cm de large et 30 cm de haut. Doté de six roues il peut s'éloigner théoriquement jusqu'à 500 mètres de la zone d'atterrissage. 
+Doté de six roues il peut s'éloigner théoriquement jusqu'à 500 mètres de la zone d'atterrissage. 
 - Le site d'atterrissage est baptisé Mémorial Carl Sagan en l'honneur de l'astronome et planétologue américain Carl Sagan, qui avait été un grand défenseur de l'exploration spatiale et qui était décédé deux semaines seulement après le lancement de la sonde spatiale
-- Mars Pathfinder emporte trois instruments : la caméra IMP et la station météorologique ASI/MET installées sur l'atterrisseur et le spectromètre à rayons X alpha proton APXS installé sur le rover Sojourner. 
-- IMP (Imager for Mars Pathfinder) est une caméra stéréo couleur qui utilise deux optiques pour fournir des images en relief. La caméra est fixée à 1 mètre au-dessus du plateau supérieur de l'atterrisseur au sommet d'un mat télescopique 
+- 
 - La couleur du ciel est une surprise pour les scientifiques. Alors qu'aucune tempête de poussière majeure n'a eu lieu depuis des années, celui-ci est de couleur rosé ce qui semble indiquer que la poussière, à l'origine de cette coloration, est présente en permanence dans l'atmosphère.
 - Après avoir étudié le site de Rock Garden, l'équipe projet envisage d'envoyer Sojourner beaucoup plus loin pour évaluer ses capacités et contribuer à la mise au point de la prochaine génération de rovers. Mais la recharge de la batterie de Mars Pathfinder se dégrade progressivement. Un dernier contact avec la sonde spatiale a lieu le 27 septembre 1997 à 10h 23 heure universelle. Le 28 septembre la sonde spatiale ne répond plus. La raison exacte de l'arrêt des transmissions n'est pas certaine, mais il est probablement du à l'épuisement de la batterie durant la nuit qui aurait remis l'horloge interne à 0. Lorsque le jour revient et que l'énergie afflue de nouveau, l'ordinateur embarqué n'aurait pas pu situer la Terre et donc pointer l'antenne parabolique vers celle-ci. Une brève liaison est rétablie les 1er et 7 octobre mais sans qu'aucun donnée ne soit transmise. L'électronique devenant de plus en plus froide au fil des nuits, il est probable qu'elle a cessé de fonctionner de jour au bout d'un certain temps. Les ingénieurs abandonnent le 10 mars 1998 les tentatives de prise de contact
 - Durant son séjour à la surface de Mars, 17 050 images (dont 550 venant du rover) ont été réalisées et transmises
@@ -933,11 +937,7 @@ les photos prises montrent la présence de nuages de glace d'eau dans la basse a
 
 - Mars Pathfinder used an innovative method of directly entering the Martian atmosphere, assisted by a parachute to slow its descent through the thin Martian atmosphere and a giant system of airbags to cushion the impact. The landing site, an ancient flood plain in Mars’ northern hemisphere known as Ares Vallis, is among the rockiest parts of Mars. It was chosen because scientists believed it to be a relatively safe surface to land on and one which contained a wide variety of rocks deposited during a catastrophic flood.
 - From landing on July 4, 1997 until the final data transmission on September 27, 1997, Mars Pathfinder returned 2.3 billion bits of information, including more than 16,500 images from the lander and 550 images from the rover, as well as more than 15 chemical analyses of rocks and soil and extensive data on winds and other weather factors. Findings from the investigations carried out by scientific instruments on both the lander and the rover suggest that Mars was at one time in its past warm and wet, with water existing in its liquid state and a thicker atmosphere.
-- Mars Pathfinder Science Instruments
 
-    Alpha Proton X-ray Spectrometer: Determined the elemental composition of rocks and soils.
-    Three Cameras: provided images of the surrounding terrain for geological studies, and documented the performance and operating environment for Pathfinder mission technologies.
-    Atmospheric Structure Instrument/Meteorology Package: Measured the Martian atmosphere during Pathfinder's descent to the surface, and provided meteorological measurements at the lander.
 
 
     Rounded pebbles and cobbles at the landing site, and other observations, suggested conglomerates that formed in running water during a warmer past in which liquid water was stable.
@@ -949,7 +949,6 @@ les photos prises montrent la présence de nuages de glace d'eau dans la basse a
 
 site d'atterrissage : sci-entists believe thatthe flood plain wascut by a volume ofwater the size ofNorth AmericaísGreat Lakes inabout two weeks.
 The only objective left unfinished at the timecommunications was lost was completion of a high-resolution 360-degree image of the landing site nick-named the ìSuper Pan,î of which 83 percent wasreceived on Earth. 
-The Pathfinder rover was named after SojournerTruth, an African-American crusader who lived dur-ing the U.S. Civil War era and traveled throughout thecountry advocating the rights of all people to be free.The name Sojourner, which means ìtraveler,î 
 
 ### Mars Global Surveyor (NASA, 1996-2007)
 
