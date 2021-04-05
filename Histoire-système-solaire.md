@@ -909,10 +909,13 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 > * Durant son séjour à la surface de Mars, 17 050 images (dont 550 du rover) ont été transmises
 > * La mission était prévue pour durer une semaine, mais elle a en fait duré 12 fois plus longtemps
 > * L'unique objectif non rempli est la complétion d'un panorama à 360° du site d'atterrissage, qui n'a été complété qu'à 83%.
-- 
+> * Au total, la mission aura transmis près de 300 MO de données à la Terre. Les dernières données ont été envoyées le 27 Septembre 1997.
+- Mais c'est du point de vue médiatique que la mission a connu son plus grand succès.
+> * L'atterrissage de la sonde a été suivi en direct par des dizaines de millions d'internautes à travers le globe. Un mois après l'atterrissage de la sonde, le site de la NASA recueillait plusieurs centaines de millions de hits, ce qui en fait l'un des événements les plus suivis de l'histoire d'Internet
+> * Sojourner a fait quelques apparitions dans des films de science-fiction comme Planète Rouge et Seul sur Mars.
 
--  La mission Mars Pathfinder remplit complètement les objectifs limités qui lui ont été fixés et s'achève le 27 septembre 1997. La charge utile, réduite à une station météorologique, une caméra et un spectromètre embarqué sur le rover Sojourner, apporte peu d'informations scientifiques nouvelles
--  Par contre pour la première fois le détail du déroulement d'une mission spatiale est communiqué en temps réel au grand public, image à l'appui, grâce à la généralisation d'internet et cette médiatisation par le biais de ce support connaît un énorme succès. 
+Findings from the investigations carried out by scientific instruments on both the lander and the rover suggest that Mars was at one time in its past warm and wet, with water existing in its liquid state and a thicker atmosphere.
+
 
 Doté de six roues il peut s'éloigner théoriquement jusqu'à 500 mètres de la zone d'atterrissage. 
 - La couleur du ciel est une surprise pour les scientifiques. Alors qu'aucune tempête de poussière majeure n'a eu lieu depuis des années, celui-ci est de couleur rosé ce qui semble indiquer que la poussière, à l'origine de cette coloration, est présente en permanence dans l'atmosphère.
@@ -923,18 +926,16 @@ Doté de six roues il peut s'éloigner théoriquement jusqu'à 500 mètres de la
 les photos prises montrent la présence de nuages de glace d'eau dans la basse atmosphère en début de journée. Ceux-ci se dissipent lorsque l'atmosphère se réchauffe.
 - l'atmosphère présente une teinte rose pale due à la présente des particules fines de poussière dans la basse atmosphère, phénomène déjà constaté sur les sites d'atterrissage des sondes spatiales Viking.
 - dans le film Planète rouge, des astronautes en péril sur Mars utilisent des pièces de Sojourner pour fabriquer une radio improvisée et communiquer avec leur vaisseau spatial.
-- dans le roman Seul sur Mars ainsi que son adaptation cinématographique, un astronaute abandonné sur Mars voyage jusqu'à Pathfinder pour récupérer et réparer la sonde afin de communiquer avec la Terre.
 - Le rover a renvoyé un trésor d’informations, collectant pas moins de 1,2 gigaoctet de données et prenant environ 10 000 photos de la surface martienne. Conçu pour ne durer qu’un mois, le rover à énergie solaire a tout de même tenu 70 sols martiens, soit 85 jours terrestres. Il a renvoyé sa dernière transmission vers la Terre le 27 septembre 1997.
 - Composé d'une station au sol et d'un robot mobile, Pathfinder devait prouver que l'exploration martienne pouvait être parfaitement conduite par des sondes économiques et assemblées dans des temps records (le fameux better, faster, cheaper cher à l'administrateur de la NASA d'alors, Daniel Goldin).
-- Après son arrivée sur Mars, la station au sol de Pathfinder a été officiellement baptisée Station Carl Sagan, en hommage au célèbre astronome américain, disparu le 20 décembre 1996, peu après le lancement de la mission.
 - Au sol, la vitesse maximale de Sojourner était de 24 m/h, et il pouvait théoriquement s'éloigner à 500 mètres de sa station. En réalité, au cours de la mission, la vitesse moyenne de Sojourner n'a été que de 1 centimètre par jour
 
 - La mission Pathfinder a été un véritable succès, à tout point de vue. Sur une durée de trois mois, la sonde a retourné 2,6 gigabits de données, dont 16 000 images de la surface de Mars prises par la caméra de l'atterrisseur, 550 images acquises par le rover et 8,5 millions de mesures concernant la température, la pression et les vents martiens. Sojourner s'est déplacé sur une distance totale de 100 mètres
-- du point de vue médiatique, Pathfinder a été un succès sans précédent dans l'histoire de l'exploration spatiale, et la mission a dévoilé la puissance de la NASA en terme de communication. L'atterrissage de la sonde, qui a eu lieu le jour de la fête de l'indépendance américaine, fut suivi par des millions d'internautes à travers le monde. Le lundi 7 juillet, premier jour de travail depuis l'atterrissage, le site officiel de la NASA avait déjà enregistré 47 millions de hits. A la fin du mois de juillet, il avait recueilli plus de 566 millions de hits, faisant de l'atterrissage de Pathfinder l'un des événements les plus suivis de l'histoire de l'Internet.
+
 - Le 27 septembre 1997, après 83 jours d'opérations, les équipes au sol perdent brutalement le contact avec Pathfinder. Parmi toutes les hypothèses soulevées pour expliquer la rupture des communications, l'épuisement des batteries est la plus probable. Sans énergie, incapable de résister au climat glacial de Mars, Pathfinder est probablement mort de froid.
 
-- Mars Pathfinder used an innovative method of directly entering the Martian atmosphere, assisted by a parachute to slow its descent through the thin Martian atmosphere and a giant system of airbags to cushion the impact. The landing site, an ancient flood plain in Mars’ northern hemisphere known as Ares Vallis, is among the rockiest parts of Mars. It was chosen because scientists believed it to be a relatively safe surface to land on and one which contained a wide variety of rocks deposited during a catastrophic flood.
-- From landing on July 4, 1997 until the final data transmission on September 27, 1997, Mars Pathfinder returned 2.3 billion bits of information, including more than 16,500 images from the lander and 550 images from the rover, as well as more than 15 chemical analyses of rocks and soil and extensive data on winds and other weather factors. Findings from the investigations carried out by scientific instruments on both the lander and the rover suggest that Mars was at one time in its past warm and wet, with water existing in its liquid state and a thicker atmosphere.
+irectly entering the Martian atmosphere, assisted by a parachute to slow its descent through the thin Martian atmosphere and a giant system of airbags to cushion the impact. The landing site, an ancient flood plain in Mars’ northern hemisphere known as Ares Vallis, is among the rockiest parts of Mars. It was chosen because scientists believed it to be a relatively safe surface to land on and one which contained a wide variety of rocks deposited during a catastrophic flood.
+
 
     Rounded pebbles and cobbles at the landing site, and other observations, suggested conglomerates that formed in running water during a warmer past in which liquid water was stable.
     Radio tracking of Mars Pathfinder provided a precise measure of the lander's location and Mars' pole of rotation. The measurements suggested that the radius of the planet's central metallic core is greater than 800 miles (1,300 kilometers) but less than roughly 1,250 miles (2,000 kilometers).
