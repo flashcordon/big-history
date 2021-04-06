@@ -949,21 +949,15 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - La mission était initialement prévue pour durer 2 ans (23 mois), mais elle a été prolongée à plusieurs reprises devant l'ampleur de ses résultats scientifiques. ELle est désormais prévue pour durer jusqu'en 2022.
 - La sonde comprend un orbiteur et un petit atterrisseur d'une soixantaine de kilos (68.8 kg), Beagle 2 (nommée après le navire de Charles Darwin), chargé de se poser sur la surface et de déceler d'éventuelles traces de vie. 
 > Beagle 2 s'est désolidarisé de la sonde le 19 Décembre 2003. Malheureusement, l'atterrisseur perd tout contact avec la Terre et n'enverra jamais de données. Que s'est-il passé ? C'est resté un mystère jusqu'en 2015. Cette année-là, la sonde MRO a réalisé des clichés de la surface martienne et est parvenue à détecter Beagle 2, qui s'était bien posé en douceur sur Isidis Planitia (un bassin sédimentaire qui pourrait avoir préservé les traces d'une éventuelle vie) et déployé sur Mars. Mais seulement 2 de ses 4 panneaux solaires ont pu être déployés, probablement à cause des airbags qui ont servi à amortir sa chute qui se sont emmêlés et ont empêché les panneaux de se déployer.
-
+- Mars Express a obtenu de nombreux résultats scientifiques importants
+> * Elle a réalisé de nombreuses cartographies du relief martien
+> * Le spectromètre OMEGA est le 1er instrument à détecter la présence de minéraux hydratés à la surface de la planète : des phyllosilicates comme l'argile, qui se forment à la suite de contacts prolongés avec de l'eau, ainsi que des sulfates hydratés, qui se forment au contact d'eaux acides. Ces minéraux montrent que l'eau a circulé sur Mars sur des périodes longues.
+> * En 2004, la sonde confirme l'existence de glace d'eau au pôle sud de Mars. L'épaisseur des calottes polaires est évaluée à 3,5 km environ.
+> * 
 
 Mars Express a obtenu de nombreux résultats scientifiques : détermination de la nature des calottes polaires et estimation du volume d'eau stockée, composition de l'atmosphère martienne et interactions de celle-ci avec le vent solaire, observation du cycle saisonnier de l'eau, cartographie tridimensionnelle des reliefs, détection de minéraux hydratés prouvant la présence par le passé d'eau sur de longues périodes à la surface et cartographie des régions concernées, détection de présence d'eau à l'état liquide sous la calotte glaciaire du pôle sud. 
  
- Le 23 janvier 2004, la sonde confirme l'existence d'eau sous forme de glace au pôle sud grâce aux instruments « Omega [archive] » et « Spicam [archive] »
- 
- Mars Express a produit un grand nombre de résultats significatifs sur le plan scientifique. Les plus accessibles sont les photos en trois dimensions spectaculaires des canyons, anciennes vallées fluviales, cratères d'impact et des calottes polaires. 
- 
- Le spectromètre OMEGA est le premier instrument à avoir détecté la présence de minéraux hydratés à la surface de la planète. Ces minéraux prouvent que, non seulement l'eau a circulé à la surface de la planète comme on le savait déjà à travers différents indices comme la présence de chenaux et de deltas, mais que l'eau a été présente sur des périodes suffisamment longues pour permettre la formation de roches minérales. 
- des phyllosilicates (comme l'argile) résultant de la décomposition de roches à la suite de contacts prolongés avec de l'eau
- des sulfates hydratés qui se forment au contact d'eaux acides
- 
  Les mesures effectuées par les engins spatiaux jusqu'à l'arrivée de Mars Express avaient permis de déterminer que la calotte polaire nord était composée principalement de glace d'eau tandis que la calotte polaire sud, plus froide, était composée principalement de glace de dioxyde de carbone avec peut-être de la glace d'eau. L'instrument OMEGA de Mars Express, en mesurant la proportion de la lumière du Soleil et de la chaleur réfléchie par la calotte, a permis d'évaluer que celle-ci était composée à 85 % de dioxyde de carbone et à 15 % de glace d'eau.
- 
- Le radar MARSIS de la sonde spatiale a permis d'évaluer l'épaisseur des deux calottes polaires qui est évaluée à environ 3,5 km38. 
  
  Des observations effectuées entre 2012 et 2015 à l'aide du radar embarqué MARSIS ont été longuement analysées. En juillet 2018 l'équipe scientifique de Mars Express annonce, en se basant sur ces données, qu'un lac d'eau à l'état liquide d'environ 20 km de diamètre a été découvert sous une couche de glace de Planum Australe39,40. Malgré la température très basse (-74 °C), l'eau serait maintenu à l'état liquide grâce à sa saturation en sel. Toutefois la résolution spatiale du radar MARSIS (5 kilomètres) semble un peu juste à certains scientifiques pour permettre d'être complètement affirmatif quant à la présence d'eau liquide41. 
  
