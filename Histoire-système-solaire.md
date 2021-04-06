@@ -927,22 +927,32 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
 ### Mars Express (ESA, 2003-2022)
 
-- 
+- Mars Express est une sonde de l'ESA  de près d'une tonne (1052 kg) lancée le 2 Juin 2003 par un lanceur russe.
+- Après un voyage de 7 mois, elle atteint Mars et se met en orbite autour de la planète rouge.
+> Elle réalise une orbite de Mars toutes les 7 heures.
+- La mission a plusieurs objectifs
+> * dresser une carte en couleur et en relief de la surface de la planète avec une résolution entre 10 m/pixel et 2 m/pixel
+> * réaliser une carte fournissant la composition minéralogique de la surface avec une résolution de 100 m/pixel
+> * localiser à l'aide d'un radar la présence d'éventuelles poches d'eau ou de glace dans le sous-sol de Mars
+> * déterminer la composition de l'atmosphère et les processus en jeu : échanges avec la surface, le vent solaire et le milieu interplanétaire
+> * déterminer le champ de gravité de la planète et les propriétés diélectriques de la surface de la planète
+> * identifier des traces de vie passées ou présentes (atterrisseur Beagle 2)
+- Elle dispose pour cela de 7 instruments 
+> * un instrument qui permet d'analyser les particules chargées et neutres autour de la planète Mars
+> * une caméra couleur stéréoscopique
+> * un spectromètre opérant dans le proche infrarouge et les micro-ondes pour étudier la composition minéralogique du sol martien et la distribution de certain composés atmosphériques
+> * un spectromètre infrarouge pour étudier la composition de l'atmosphère martienne
+> * un instrument de radioscience pour étudier la structure interne de Mars et son atmosphère par occultation radio
+> * un radar pour détecter des traces d'eau (liquides ou gazeuses) jusqu'à une profondeur de 4 km
+> * un spectromètre UV et infrarouge qui mesure le taux d'ozone et de vapeur d'eau dans l'atmosphère
+
+
 Suite à l'échec de la mission russe « Mars 96 », l'Agence spatiale européenne (ESA), reprend le projet et crée la mission « Mars Express ». Les objectifs de l'envoi de cette nouvelle sonde sur Mars sont de cartographier la planète, analyser son sous-sol et étudier son atmosphère. Lancée le 2 juin 2003, par un lanceur russe depuis Baïkonour au Kazakhstan, la sonde « Mars Express » atteint la planète Mars en seulement 7 mois. Depuis, l'appareil enchaîne les rotations autour de Mars, au rythme d'une toutes les 7 heures. Initialement prévue pour durer 2 ans, la mission a été prolongée à plusieurs reprises devant l'ampleur des résultats scientifiques obtenus. 
 Mars Express est une sonde spatiale de l'Agence spatiale européenne (ESA) lancée le 2 juin 2003 pour étudier la planète Mars. Il s'agit de la première mission d'exploration d'une autre planète du système solaire lancée par l'Agence européenne. Sa mission est de recueillir des données sur la surface, l'atmosphère, l'ionosphère et le sous-sol de la planète. La sonde comprend un orbiteur et un petit atterrisseur, Beagle 2, chargé de se poser sur la surface et de déceler d'éventuelles traces de vie. 
 
 Toute trace de Beagle 2 est perdue peu après sa séparation avec la sonde principale.
 
 Mars Express a obtenu de nombreux résultats scientifiques : détermination de la nature des calottes polaires et estimation du volume d'eau stockée, composition de l'atmosphère martienne et interactions de celle-ci avec le vent solaire, observation du cycle saisonnier de l'eau, cartographie tridimensionnelle des reliefs, détection de minéraux hydratés prouvant la présence par le passé d'eau sur de longues périodes à la surface et cartographie des régions concernées, détection de présence d'eau à l'état liquide sous la calotte glaciaire du pôle sud. La mission, d'une durée initiale de 23 mois, a été prolongée à plusieurs reprises. Fin 2018 est annoncée une nouvelle extension de la mission jusqu'en 2022. 
-
-Les objectifs de la mission sont4 :
-
-    dresser une carte en couleur et en relief de la surface de la planète avec une résolution de 10 mètres par pixel et pour des zones choisies de 2 mètres par pixel ;
-    réaliser une carte fournissant la composition minéralogique de la surface avec une résolution de 100 mètres par pixel ;
-    localiser à l'aide d'un radar la présence d'éventuelles poches d'eau ou de glace dans le sous-sol de Mars ;
-    déterminer la composition de l'atmosphère et les processus en jeu : échanges avec la surface, le vent solaire et le milieu interplanétaire ;
-    déterminer le champ de gravité de la planète et les propriétés diélectriques de la surface de la planète ;
-    identifier des traces de vie passées ou présentes (atterrisseur Beagle 2).
     
 La durée nominale de la mission de l'orbiteur était d'une année martienne, soit 687 jours terrestres, et elle devrait ainsi prendre fin le 30 novembre 2005. La prolongation de la mission d'une année martienne jusqu'au 31 octobre 2007 est prévue dès le départ car un surplus de carburant a été emporté
 
@@ -950,14 +960,7 @@ L'atterrisseur Beagle 2 doit se poser sur Isidis Planitia, un bassin sédimentai
 
 Sa masse au décollage était de 1 052 kg, dont 427 kg de carburant et 60 kg pour l'atterrisseur Beagle 2. 
 
-La charge utile de l'orbiteur est constituée de 7 instruments
-ASPERA (Analyser of Space Plasmas & EneRgetic Atoms) est un instrument qui permet d'analyser les particules chargées et neutres autour de la planète Mars. L'objectif est de comprendre comment les particules du vent solaire interagissent avec l’atmosphère martienne, et par quel mécanisme le vent solaire éjecte les particules de l'atmosphère dans le milieu interstellaire
-HRSC (High Resolution Stereo Camera) est une caméra produisant des images en trois dimensions en couleur à haute résolution (de 10 mètres par pixel pouvant aller jusqu'à 2 mètres par pixel)
-OMEGA (Observatoire pour la Minéralogie, l'Eau, les Glaces et l'Activité) est un spectromètre opérant dans le proche infrarouge et les micro-ondes (gamme de longueurs d'onde de 350 µm à 5,1 µm). Il étudie la composition minéralogique de la surface et la distribution de certains composés de l'atmosphère
-PFS (Planetary Fourier Spectrometer) est un spectromètre infrarouge développé par l'Institut de physique de l'espace interplanétaire de Rome (Italie), optimisé pour l'étude des différents composants de l'atmosphère martienne
-MaRS (Mars Radio Science) est un instrument de l'université de Cologne de radioscience, utilisant le système radio de l'orbiteur pour étudier par occultation radio l'ionosphère, l'atmosphère, la surface et le sous-sol de Mars
-MARSIS (en) (Mars Advanced Radar for Subsurface and Ionosphere Sounding) est un radar destiné à la détection de présence d'eau sous forme liquide ou solide sous la surface martienne, jusqu'à une profondeur de 3 à 4 km
-SPICAM (SPectroscopy for the Investigation of the Characteristics of the Atmosphere of Mars) est un spectromètre opérant dans l'ultraviolet et l'infrarouge, mesurant le taux d'ozone et de vapeur d'eau de l'atmosphère
+
 
 Beagle 2 est un atterrisseur de très petite taille (68,8 kg)
 
