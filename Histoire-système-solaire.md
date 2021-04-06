@@ -927,7 +927,8 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
 ### Mars Express (ESA, 2003-2022)
 
-- Mars Express est une sonde de l'ESA  de près d'une tonne (1052 kg) lancée le 2 Juin 2003 par un lanceur russe.
+- Mars Express est une sonde de l'ESA  de près d'une tonne (1052 kg) lancée le 2 Juin 2003 par un lanceur russe. Il s'agit de la première mission d'exploration d'une autre planète du système solaire lancée ar l'ESA.
+> Son lancement fait suite à l'échec de la mission russe Mars 96 (perdue au lancement). Mars Express reprend les objectifs scientifiques de Mars 96.
 - Après un voyage de 7 mois, elle atteint Mars et se met en orbite autour de la planète rouge.
 > Elle réalise une orbite de Mars toutes les 7 heures.
 - La mission a plusieurs objectifs
@@ -945,10 +946,8 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 > * un instrument de radioscience pour étudier la structure interne de Mars et son atmosphère par occultation radio
 > * un radar pour détecter des traces d'eau (liquides ou gazeuses) jusqu'à une profondeur de 4 km
 > * un spectromètre UV et infrarouge qui mesure le taux d'ozone et de vapeur d'eau dans l'atmosphère
-
-
-Suite à l'échec de la mission russe « Mars 96 », l'Agence spatiale européenne (ESA), reprend le projet et crée la mission « Mars Express ». Les objectifs de l'envoi de cette nouvelle sonde sur Mars sont de cartographier la planète, analyser son sous-sol et étudier son atmosphère. Lancée le 2 juin 2003, par un lanceur russe depuis Baïkonour au Kazakhstan, la sonde « Mars Express » atteint la planète Mars en seulement 7 mois. Depuis, l'appareil enchaîne les rotations autour de Mars, au rythme d'une toutes les 7 heures. Initialement prévue pour durer 2 ans, la mission a été prolongée à plusieurs reprises devant l'ampleur des résultats scientifiques obtenus. 
-Mars Express est une sonde spatiale de l'Agence spatiale européenne (ESA) lancée le 2 juin 2003 pour étudier la planète Mars. Il s'agit de la première mission d'exploration d'une autre planète du système solaire lancée par l'Agence européenne. Sa mission est de recueillir des données sur la surface, l'atmosphère, l'ionosphère et le sous-sol de la planète. La sonde comprend un orbiteur et un petit atterrisseur, Beagle 2, chargé de se poser sur la surface et de déceler d'éventuelles traces de vie. 
+- La mission était initialement prévue pour durer 2 ans, mais elle a été prolongée à plusieurs reprises devant l'ampleur de ses résultats scientifiques
+- La sonde comprend un orbiteur et un petit atterrisseur, Beagle 2, chargé de se poser sur la surface et de déceler d'éventuelles traces de vie. 
 
 Toute trace de Beagle 2 est perdue peu après sa séparation avec la sonde principale.
 
