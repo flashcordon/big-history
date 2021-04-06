@@ -964,7 +964,10 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
 ### Mars Exploration Rovers / Spirit et Opportunity (NASA, 2003-2019)
 
-- Mars Exploration Rover (MER) est une mission double de la NASA lancée en 2003 et composée de deux robots mobiles ayant pour objectif d'étudier la géologie de la planète Mars et en particulier le rôle joué par l'eau dans l'histoire de la planète. Les deux robots ont été lancés au début de l'été 2003 et se sont posés en janvier 2004 sur deux sites martiens susceptibles d'avoir conservé des traces de l'action de l'eau dans leur sol. 
+- Mars Exploration Rover (MER) est une mission double de la NASA lancée en 2003
+- Elle est constituée de 2 rovers identiques (Spirit et Opportunity)
+> Ils ont chacun une hauteur de 1,5 m, une largeur de 2,3 m, une longueur de 1,6 m
+-   et composée de deux robots mobiles ayant pour objectif d'étudier la géologie de la planète Mars et en particulier le rôle joué par l'eau dans l'histoire de la planète. Les deux robots ont été lancés au début de l'été 2003 et se sont posés en janvier 2004 sur deux sites martiens susceptibles d'avoir conservé des traces de l'action de l'eau dans leur sol. 
 - Spirit, a atterri le 3 janvier 2004 dans le cratère Gusev (d'un diamètre de 145 km), une dépression de 170 kilomètres de diamètre qui a peut-être accueilli un lac
 -  Opportunity, s'est posé le 24 janvier 2004 sur Meridiani Planum.
 -  Chaque rover pèse environ 185 kg et se déplace sur six roues mues par l'énergie électrique fournie par des panneaux solaires. Il est équipé de trois paires de caméras utilisées pour la navigation et de plusieurs instruments scientifiques : une caméra panoramique située sur un mât à 1,5 mètre de hauteur, un outil pour abraser la surface des roches porté par un bras articulé sur lequel se trouvent également un spectromètre à rayons X, un spectromètre Mössbauer et une caméra microscope. Enfin, un spectromètre infrarouge est utilisé pour l'analyse des roches et de l'atmosphère. 
@@ -980,7 +983,7 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
     rechercher des minéraux contenant du fer, identifier et quantifier les différents types de minéraux qui contiennent de l'eau ou ont été formés dans l'eau tels que les carbonates de fer ;
     déterminer les caractéristiques des minéraux ainsi que les textures des roches et des sols et spécifier les processus qui les ont créés ;
     rechercher des indices géologiques de la période où l'eau était présente sous forme liquide. Déterminer si ces environnements pouvaient être propices à la vie.
-- Les deux rovers sont identiques avec une hauteur de 1,5 m, une largeur de 2,3 m, une longueur de 1,6 m
+- Les deux rovers sont identiques avec une 
 - L'espoir de découvrir des traces d'une sédimentation lacustre est rapidement déçu : Spirit détecte essentiellement du basalte d'origine volcanique. Les sédiments existent peut-être mais sont enfouis sous des matériaux plus récents. Par ailleurs, le site d'atterrissage de Spirit ne présente aucun affleurement rocheux qui permettrait d'étudier le sous-sol. Le 10 février, le rover est dirigé vers un cratère d'impact de 192 m de diamètre nommé Bonneville, avec l'espoir que celui-ci soit suffisamment profond pour que des affleurements de roches y apparaissent39.
 - Après avoir parcouru 250 mètres depuis le site d'atterrissage, Spirit parvient au cratère Bonneville : celui n'est pas assez profond pour laisser apparaître des affleurements rocheux. L'impact de la météorite n'a pas été suffisant pour que les éjectas proviennent de la sous-couche volcanique. Le rover entame ensuite un long trajet vers les collines Columbia, le relief le plus proche distant de 2,3 km toujours dans l'espoir de trouver des affleurements rocheux. 
 - Spirit atteint la base des collines Columbia en juin 2004. 
