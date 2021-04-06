@@ -927,7 +927,7 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
 ### Mars Express (ESA, 2003-2022)
 
-- Mars Express est une sonde de l'ESA  de près d'une tonne (1052 kg) lancée le 2 Juin 2003 par un lanceur russe. Il s'agit de la première mission d'exploration d'une autre planète du système solaire lancée ar l'ESA.
+- Mars Express est une sonde de l'ESA  de près d'une tonne (1052 kg) lancée le 2 Juin 2003 par un lanceur russe Soyouz. Il s'agit de la première mission d'exploration d'une autre planète du système solaire lancée ar l'ESA.
 > Son lancement fait suite à l'échec de la mission russe Mars 96 (perdue au lancement). Mars Express reprend les objectifs scientifiques de Mars 96.
 - Après un voyage de 7 mois, elle atteint Mars et se met en orbite autour de la planète rouge.
 > Elle réalise une orbite de Mars toutes les 7 heures.
@@ -946,30 +946,12 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 > * un instrument de radioscience pour étudier la structure interne de Mars et son atmosphère par occultation radio
 > * un radar pour détecter des traces d'eau (liquides ou gazeuses) jusqu'à une profondeur de 4 km
 > * un spectromètre UV et infrarouge qui mesure le taux d'ozone et de vapeur d'eau dans l'atmosphère
-- La mission était initialement prévue pour durer 2 ans, mais elle a été prolongée à plusieurs reprises devant l'ampleur de ses résultats scientifiques
-- La sonde comprend un orbiteur et un petit atterrisseur, Beagle 2, chargé de se poser sur la surface et de déceler d'éventuelles traces de vie. 
-
-Toute trace de Beagle 2 est perdue peu après sa séparation avec la sonde principale.
-
-Mars Express a obtenu de nombreux résultats scientifiques : détermination de la nature des calottes polaires et estimation du volume d'eau stockée, composition de l'atmosphère martienne et interactions de celle-ci avec le vent solaire, observation du cycle saisonnier de l'eau, cartographie tridimensionnelle des reliefs, détection de minéraux hydratés prouvant la présence par le passé d'eau sur de longues périodes à la surface et cartographie des régions concernées, détection de présence d'eau à l'état liquide sous la calotte glaciaire du pôle sud. La mission, d'une durée initiale de 23 mois, a été prolongée à plusieurs reprises. Fin 2018 est annoncée une nouvelle extension de la mission jusqu'en 2022. 
-    
-La durée nominale de la mission de l'orbiteur était d'une année martienne, soit 687 jours terrestres, et elle devrait ainsi prendre fin le 30 novembre 2005. La prolongation de la mission d'une année martienne jusqu'au 31 octobre 2007 est prévue dès le départ car un surplus de carburant a été emporté
-
-L'atterrisseur Beagle 2 doit se poser sur Isidis Planitia, un bassin sédimentaire qui pourrait avoir préservé les traces d'une éventuelle vie. 
-
-Sa masse au décollage était de 1 052 kg, dont 427 kg de carburant et 60 kg pour l'atterrisseur Beagle 2. 
+- La mission était initialement prévue pour durer 2 ans (23 mois), mais elle a été prolongée à plusieurs reprises devant l'ampleur de ses résultats scientifiques. ELle est désormais prévue pour durer jusqu'en 2022.
+- La sonde comprend un orbiteur et un petit atterrisseur d'une soixantaine de kilos (68.8 kg), Beagle 2 (nommée après le navire de Charles Darwin), chargé de se poser sur la surface et de déceler d'éventuelles traces de vie. 
+> Beagle 2 s'est désolidarisé de la sonde le 19 Décembre 2003. Malheureusement, l'atterrisseur perd tout contact avec la Terre et n'enverra jamais de données. Que s'est-il passé ? C'est resté un mystère jusqu'en 2015. Cette année-là, la sonde MRO a réalisé des clichés de la surface martienne et est parvenue à détecter Beagle 2, qui s'était bien posé en douceur sur Isidis Planitia (un bassin sédimentaire qui pourrait avoir préservé les traces d'une éventuelle vie) et déployé sur Mars. Mais seulement 2 de ses 4 panneaux solaires ont pu être déployés, probablement à cause des airbags qui ont servi à amortir sa chute qui se sont emmêlés et ont empêché les panneaux de se déployer.
 
 
-
-Beagle 2 est un atterrisseur de très petite taille (68,8 kg)
-
- Elle renferme un bras mobile sur lequel sont fixés les instruments : une meuleuse, une foreuse qui permet de prélever un échantillon de sol jusqu'à 3 mètres de l'atterrisseur, une paire de caméras, un microscope, un spectromètre Mössbauer et un spectromètre à rayons X. Un spectromètre de masse installé au sein de la capsule est chargé de mesurer les proportions des différents isotopes de carbone dans l'échantillon de sol ramené par le bras : ces analyses doivent permettre de déterminer si l'échantillon contenait les restes d'organismes vivants. Enfin, plusieurs capteurs doivent permettre de mesurer les caractéristiques de l'environnement : température, pression, vent, poussière, flux ultraviolet. 
- 
- Mars Express est lancée le 2 juin 2003 à 17 h 45 UTC par un lanceur Soyouz doté d'un 4e étage supérieur Fregat depuis le Cosmodrome de Baïkonour au Kazakhstan. 
- 
- Le 19 décembre 2003, cinq jours avant le rendez-vous avec Mars, le module Beagle 2 est désolidarisé de la sonde par un dispositif pyrotechnique et s'éloigne, repoussé par un mécanisme qui comprend un ressort et qui met l'atterrisseur en rotation pour stabiliser sa trajectoire
- 
- L'atterrisseur Beagle 2 ne dispose pas pour des raisons de poids d'équipements radio lui permettant d'envoyer des données sur sa situation après sa séparation avec l'orbiteur. La première émission radio doit être émise après son atterrissage sur le sol martien qui doit se produire le 25 décembre à 3 h 40. La sonde Mars Odyssey qui doit survoler le site vers 5 h 30 dispose d'un équipement de réception radio lui permettant de recevoir le signal de Beagle 2. Aucun signal ne sera capté par Mars Odyssey lors de son passage ni plus tard
+Mars Express a obtenu de nombreux résultats scientifiques : détermination de la nature des calottes polaires et estimation du volume d'eau stockée, composition de l'atmosphère martienne et interactions de celle-ci avec le vent solaire, observation du cycle saisonnier de l'eau, cartographie tridimensionnelle des reliefs, détection de minéraux hydratés prouvant la présence par le passé d'eau sur de longues périodes à la surface et cartographie des régions concernées, détection de présence d'eau à l'état liquide sous la calotte glaciaire du pôle sud. 
  
  Le 23 janvier 2004, la sonde confirme l'existence d'eau sous forme de glace au pôle sud grâce aux instruments « Omega [archive] » et « Spicam [archive] »
  
@@ -1016,8 +998,6 @@ L'aurore discrète, déclenchée par les électrons, avait été cartographiée 
  L'observation de l'aurore à protons sur Mars nous renseigne, comme souvent en recherche spatiale, sur la nature générale des processus physiques. Elle indique en outre que l'aurore à protons pourrait être très commune dans l'univers et que, contrairement à la vision traditionnelle, la présence d’un champ magnétique planétaire n’est pas requise pour produire le phénomène auroral.
  
  Le "vent" solaire n'est évidemment pas un courant d'air comme nous l'entendons habituellement mais il est constitué de flux de particules chargées électriquement en provenance du Soleil qui balayent en permanence le milieu interplanétaire. Ce vent très peu dense (5 à 10 particules par centimètre cube), fluctuant et très rapide (400 à 800 km/s). Il est composé principalement d'électrons, de protons et de noyaux d'hélium et, chose curieuse, il transporte le champ magnétique d’origine solaire comme gelé en son sein : le champ magnétique interplanétaire qui conditionne de manière cruciale l’interaction entre le vent solaire et l’environnement spatial des planètes possédant un champ magnétique intense. 
- 
- 
 
 ### Mars Exploration Rovers / Spirit et Opportunity (NASA, 2003-2019)
 
