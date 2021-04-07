@@ -976,6 +976,15 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 -  Chaque MER est équipé de six instruments scientifiques et est conçu pour parcourir au moins 1 km durant 90 jours martiens
 -  La NASA assigne sept objectifs scientifiques à la mission2 :
 
+
+- De tous les environnements visités par les 2 rovers, le cratère Endeavor est celui qui a offert les conditions les plus propices à l'apparition de la vie.
+> Opportunity y a découvert des argiles qui se sont formés dans un milieu aqueux au pH neutre.
+- Spirit a observé de nombreux "dust devils" qui évoluent quotidiennement sur la surface martienne
+- Opportunity a quant à lui observé des nuages de glace d'eau au début de l'hiver martien, similaires à des cirrus sur Terre.
+- Spirit a duré 6 ans, et Opportunity plus de 14 !
+> * Opportunity a envoyé son dernier signal à la Terre le 10 Juin 2018, pendant une immense tempête de poussière.
+
+
     rechercher des roches et des sols témoignant de l'action passée de l'eau et déterminer leurs caractéristiques. Cette recherche porte en particulier sur les minéraux déposés par les processus liés à la présence d'eau tels que les précipitations, l'évaporation, la sédimentation et l'activité hydrothermale ;
     déterminer la distribution et la composition des minéraux, rochers et sols qui entourent les sites d'atterrissage ;
     déterminer les processus géologiques à l'origine de la formation des sols avoisinants et qui ont influencé leur chimie. Ces processus peuvent inclure l'érosion par l'action du vent ou par l'eau, l'activité hydrothermale, le volcanisme et l'impact de météorites ;
@@ -983,7 +992,7 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
     rechercher des minéraux contenant du fer, identifier et quantifier les différents types de minéraux qui contiennent de l'eau ou ont été formés dans l'eau tels que les carbonates de fer ;
     déterminer les caractéristiques des minéraux ainsi que les textures des roches et des sols et spécifier les processus qui les ont créés ;
     rechercher des indices géologiques de la période où l'eau était présente sous forme liquide. Déterminer si ces environnements pouvaient être propices à la vie.
-- Les deux rovers sont identiques avec une 
+
 - L'espoir de découvrir des traces d'une sédimentation lacustre est rapidement déçu : Spirit détecte essentiellement du basalte d'origine volcanique. Les sédiments existent peut-être mais sont enfouis sous des matériaux plus récents. Par ailleurs, le site d'atterrissage de Spirit ne présente aucun affleurement rocheux qui permettrait d'étudier le sous-sol. Le 10 février, le rover est dirigé vers un cratère d'impact de 192 m de diamètre nommé Bonneville, avec l'espoir que celui-ci soit suffisamment profond pour que des affleurements de roches y apparaissent39.
 - Après avoir parcouru 250 mètres depuis le site d'atterrissage, Spirit parvient au cratère Bonneville : celui n'est pas assez profond pour laisser apparaître des affleurements rocheux. L'impact de la météorite n'a pas été suffisant pour que les éjectas proviennent de la sous-couche volcanique. Le rover entame ensuite un long trajet vers les collines Columbia, le relief le plus proche distant de 2,3 km toujours dans l'espoir de trouver des affleurements rocheux. 
 - Spirit atteint la base des collines Columbia en juin 2004. 
@@ -1006,12 +1015,9 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
     elles peuvent résulter de l'impact ayant créé le cratère Endurance ;
     une autre raison serait liée à la disparition de l'eau présente dans la roche lors de sa formation ;
-    les fissures ont aussi pu se créer beaucoup plus tard après la formation de la roche. La création du cratère a pu dégager la roche en la ramenant à la surface. Elle serait alors devenue de nouveau humide puis le séchage aurait fait apparaître ces fissures polygonales.
-    
-- La vapeur d'eau contenue dans l'atmosphère martienne se condense parfois en glace pour former des nuages de cristaux d'H2O. Le dioxyde de carbone peut également se condenser en formant des cristaux de CO2 dépassant 1 µm de diamètre, à des altitudes plus élevées que ceux constitués de glace d'eau. Les nuages qui en résultent, aux formes similaires aux cirrus terriens, ont été observés par les rovers. 
-- poussière est continuellement injectée dans l'atmosphère par des tourbillons de poussière77 (dust devils en anglais), comme celui observé ci-dessous par le rover Spirit le 12 mars 2005
-- No response has been received from Opportunity since Sol 5111 (June 10, 2018), amid a planet-encircling dust storm on Mars.
-- Spirit a duré 6 ans, et Opportunity plus de 14
+    les fissures ont aussi pu se créer beaucoup plus tard après la formation de la roche. La création du cratère a pu dégager la roche en la ramenant à la surface. Elle serait alors devenue de nouveau humide puis le séchage aurait fait apparaître ces fissures polygonales
+
+
 - Landing in a crater, Opportunity scored a "hole in one" by finding the mineral hematite, which typically forms in water. Water is key to life as we know it. Yet, acidic water soaked this area in Mars' ancient past, making conditions harder for life to thrive.
 - At a place called Comanche, Spirit found rocks ten times richer in key chemicals (magnesium and iron carbonates) than any other Martian rocks studied before. These rocks formed when Mars was warm and wet (had a thicker carbon-dioxide atmosphere and near-neutral-pH water). This warmer, watery environment could have supported life much better than the harshly acidic conditions the rover found elsewhere.
 - While dragging a wheel, Spirit churned up soil and found 90 percent pure silica at "Home Plate." On Earth, this kind of silica usually exists in hot springs or hot steam vents, where life as we know it often finds a hot, happy home. Perhaps ancient microbes on Mars did as well.
@@ -1026,10 +1032,8 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - One characteristic of rocks formed by flowing water are fine, undulating layers of sediment, like those at the bottom of a stream, that flow over and cut into one another, known as crossbeds. 
 -  On Mars, wind and water eroded the rocks containing these minerals and carried pieces of them to their current location. These grains piled up with bits of volcanic rock and solidified to form sandstone. Many such layers, stacked atop one another and containing minerals that had initially settled as water evaporated, indicated that water was present for a long, long time. Opportunity discovered tiny cavities in the rock that were similar in shape and size to rock cavities on Earth that are left behind when certain minerals are dissolved and dispersed by groundwater.
 - Spirit and Opportunity surveyed the amount and distribution of dust and water ice in the Martian atmosphere, using cameras and spectrometers that measured the absorption of different wavelengths of light. As the seasons changed from summer to fall to winter to spring, the rovers monitored changes in temperature at different heights above the surface and at different times of day.
-- In November, 2004, Opportunity observed clouds at the onset of Martian winter. Similar in appearance to cirrus clouds on Earth, these clouds are believed to be composed of water-ice particles on the order of several micrometers (a few ten-thousandths of an inch) in length. 
-- During spring and summer of 2005 on Earth, Spirit often observed dozens of dust devils each day at around lunchtime local solar time on Mars. 
 - Measuring infrared radiation (heat) associated with specific minerals, the rovers identified and mapped minerals in rocks and soils. Key among these was hematite, an iron-bearing mineral often associated with water originally mapped by the Odyssey spacecraft. After being sent to the same area to get a closer look, Opportunity did indeed find hematite in rock outcrops as well as in high concentrations in the rounded, blueberry-size concretions.
-- Opportunity found the most compelling signs of a watery past on Mars: clay minerals formed in neutral-pH water. Of all the places studied by the twin rovers, this environment at Endeavor Crater once had the friendliest conditions for ancient microbial life.
+
 - 
  
 Pancam
