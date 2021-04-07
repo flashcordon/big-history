@@ -972,24 +972,39 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
 -  Chaque rover pèse environ 185 kg et se déplace sur six roues mues par l'énergie électrique fournie par des panneaux solaires. Il est équipé de trois paires de caméras utilisées pour la navigation et de plusieurs instruments scientifiques : une caméra panoramique située sur un mât à 1,5 mètre de hauteur, un outil pour abraser la surface des roches porté par un bras articulé sur lequel se trouvent également un spectromètre à rayons X, un spectromètre Mössbauer et une caméra microscope. Enfin, un spectromètre infrarouge est utilisé pour l'analyse des roches et de l'atmosphère. 
 -  Les objectifs scientifiques du programme ont été remplis avec la découverte par les deux robots de plusieurs formations rocheuses qui résultent probablement de l'action de l'eau dans le passé : billes d'hématite grise et silicates. Les robots ont également permis d'étudier les phénomènes météorologiques, d'observer des nuages et de caractériser les propriétés des couches de l'atmosphère martienne. 
--  Opportunity, après une tempête de sable qui a recouvert ses panneaux solaires, est devenu injoignable et sa mission s'est officiellement terminée le 13 février 2019. 
--  La NASA assigne sept objectifs scientifiques à la mission2 :
 
--  Chaque MER est équipé de six instruments scientifiques :
+-  La NASA assigne 7 objectifs scientifiques à la mission :
+> * rechercher des roches et des sols témoignant de l'action passée de l'eau et déterminer leurs caractéristiques
+> * déterminer la distribution et la composition des minéraux, rochers et sols qui entourent les sites d'atterrissage
+> * déterminer les processus géologiques à l'origine de la formation des sols avoisinants et qui ont influencé leur chimie
+> * valider les données collectées par les sondes en orbite en les confrontant aux observations au sol
+> * rechercher des minéraux contenant du fer, identifier et quantifier les différents types de minéraux qui contiennent de l'eau ou ont été formés dans l'eau tels que les carbonates de fer
+> * déterminer les caractéristiques des minéraux ainsi que les textures des roches et des sols et spécifier les processus qui les ont créés
+> * rechercher des indices géologiques de la période où l'eau était présente sous forme liquide. Déterminer si ces environnements pouvaient être propices à la vie
+-  Pour remplir ces missions, chaque MER est équipé de six instruments scientifiques :
 > * Une caméra panoramique, pour déterminer la minéralogie, la texture et la structure du terrain
 > * Un spectromètre infrarouge pour identifier des roches prometteuses et réaliser des profils de température de l'atmosphère martienne
 > * Un spectromètre Mössbauer pour analyser la minéralogie des roches et du sol contenant du fer.
 > * Un spectromètre à particules alpha et à rayons X pour obtenir la composition chimique des échantillons de roches et de sol.
 > * Une caméra microscope
 > * Un outil pour abraser la surface des roches
-- Spirit a duré 6 ans, et Opportunity plus de 14, alors que leur mission n'était sensée durer que 90 jours !
+- Spirit a duré 6 ans, et Opportunity plus de 14, alors que leur mission n'était sensée durer que 90 jours ! Les deux rovers ont largement rempli tous leurs objectifs scientifiques.
+- Sur les deux rovers se trouve un cadran solaire coloré qui sert à régler la luminosité et à étalonner leur caméra panoramique. Il est orné de la devise "deux mondes, un Soleil" et de plaques gravées qui comportent de nombreux dessins d'enfants.
 
 ***Le voyage de Spirit***
 - Spirit a atterri le 3 janvier 2004 dans le cratère Gusev (145 km de diamètre), une dépression de 170 kilomètres de diamètre qui a peut-être accueilli un lac
 
 - En 2005, Spirit a observé de nombreux "dust devils" qui évoluent quotidiennement sur la surface martienne
-- Spirit a envoyé ses dernières données scientifiques à la Terre le 22 Mars 2010. Il a parcouru 7.7 km en tout.
+- Spirit a envoyé ses dernières données scientifiques à la Terre le 22 Mars 2010. Sa mission prend officiellement fin le 25 Mai 2011, lorsque la NASA abandonne ses tentatives de contact.
+- Au cours de ses 6 années d'activité, Spirit a parcouru 7.7 km en tout.
 
+- L'espoir de découvrir des traces d'une sédimentation lacustre est rapidement déçu : Spirit détecte essentiellement du basalte d'origine volcanique. Les sédiments existent peut-être mais sont enfouis sous des matériaux plus récents. Par ailleurs, le site d'atterrissage de Spirit ne présente aucun affleurement rocheux qui permettrait d'étudier le sous-sol. Le 10 février, le rover est dirigé vers un cratère d'impact de 192 m de diamètre nommé Bonneville, avec l'espoir que celui-ci soit suffisamment profond pour que des affleurements de roches y apparaissent39.
+- Après avoir parcouru 250 mètres depuis le site d'atterrissage, Spirit parvient au cratère Bonneville : celui n'est pas assez profond pour laisser apparaître des affleurements rocheux. L'impact de la météorite n'a pas été suffisant pour que les éjectas proviennent de la sous-couche volcanique. Le rover entame ensuite un long trajet vers les collines Columbia, le relief le plus proche distant de 2,3 km toujours dans l'espoir de trouver des affleurements rocheux. 
+- Spirit atteint la base des collines Columbia en juin 2004. 
+- Durant son ascension, les panneaux solaires du rover, qui se sont progressivement recouverts de poussière depuis l'atterrissage, retrouvent toute leur efficacité grâce à l'action des tourbillons de poussière martiens40. Le rover entame la descente vers la plaine et atteint en février 2006 un affleurement rocheux remarquable en forme de plateau situé au pied des collines baptisé Home Plate. Cet ensemble semble constitué de plusieurs couches rocheuses d'origine volcanique. 
+- En décembre 2008, Spirit entame un long trajet qui doit l'amener vers deux formations géologiques baptisées « Goddard » et « von Braun ».
+- Alors que Spirit est en route vers von Braun, début mai ses roues s'enfoncent dans une couche de sable et le rover ne parvient pas à se dégager43. L'équipe du JPL essaie de trouver une solution pour libérer Spirit en simulant sur Terre les manœuvres à effectuer à l'aide d'un modèle du rover placé sur une reproduction du sol martien. Plusieurs tentatives sont exécutées en essayant de faire reculer ou avancer prudemment Spirit mais toutes échouent. Début 2010, la NASA renonce à libérer Spirit : le rover qui a parcouru depuis son atterrissage 7 730,5 mètres agit désormais en tant que station de mesure fixe. 
+- Mais l'hiver martien approchant (le solstice de l'hiver martien est le 12 mai 2010), la quantité d'énergie disponible chute fortement. Or Spirit, immobilisé, ne peut pas orienter ses panneaux solaires de manière optimale. Le 30 mars, le satellite Mars Odyssey qui relaie les liaisons radio de Spirit signale qu'il n'a pas reçu l'émission radio programmée de Spirit. Le rover, qui ne recevait plus que 134 Wh par jour lors de la dernière communication réussie, s'est sans doute mis en sommeil pour ne pas descendre au-dessous d'un seuil d'énergie critique pour ses fonctions vitales. Mi-juillet 2010, malgré l'augmentation de l'énergie solaire reçue par les panneaux solaires, le rover est toujours silencieux44. 
 
 ***Le voyage d'Opportunity***
 - Opportunity se pose le 24 Janvier 2004 sur Meridiani Planum, un plateau choisi en raison de la présence d'un minéral appelé hématite (une forme d'oxyde ferreux) détecté depuis l'orbite par Mars Global Surveyor. La mission du rover est de chercher des indices d'une formation d'hématite par voie sédimentaire ou hydrothermale. 
@@ -1003,28 +1018,15 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 > * Il a aussi découvert une veine de gypse de plus de 40 cm de long (et 1 à 2 cm de large) qui s'est probablement formée lorsque de l'eau s'infiltrait dans de la roche volcanique
 - Opportunity a quant à lui observé des nuages de glace d'eau au début de l'hiver martien, similaires à des cirrus sur Terre.
 
-> * Opportunity a envoyé son dernier signal à la Terre le 10 Juin 2018, pendant une immense tempête de poussière.
-- Sur les deux rovers se trouve un cadran solaire coloré qui sert à régler la luminosité et à étalonner leur caméra panoramique. Il est orné de la devise "deux mondes, un Soleil" et de plaques gravées qui comportent de nombreux dessins d'enfants.
+- Opportunity a envoyé son dernier signal à la Terre le 10 Juin 2018, pendant une immense tempête de poussière qui a recouvert ses panneaux solaires. Sa mission s'est officiellement terminée le 13 février 2019.
+
 
 - Opportunity : While analyzing rocks and soils on Mars, the robotic geologist, equipped with a toolbox of scientific instruments, found hard spheres the size of peppercorns. Sometimes the spheres, nicknamed blueberries," were loosely scattered across the surface; other times, they were anchored within individual rock layers. After weeks of meticulous measurements, Opportunity demonstrated that the spheres consisted primarily of the mineral hematite. On Earth, hematite generally -- though not always -- forms in the presence of water. Water provides the oxygen atoms that bind with iron atoms in the mineral. On Mars, it appeared possible that groundwater carrying dissolved iron had percolated through the sandstone to form the tiny spheres. 
 - Perhaps most stunning of all was Opportunity's discovery of centimeter-scale rock layers overlapping and cutting into each other. Known as crossbeds, these layers had shapes and sizes that indicated that water once flowed on the surface of Mars. In nearby "Endurance Crater," a thick stack of exposed rock layers, some deposited by wind, suggested that water was intermittently present. Rich in the elements sulfur, chlorine, and bromine, many of the minerals studied by Opportunity had settled to the bottom of a salty body of water, known as a brine, to form deposits similar to those seen in salt flats in desert regions on Earth. 
 - One characteristic of rocks formed by flowing water are fine, undulating layers of sediment, like those at the bottom of a stream, that flow over and cut into one another, known as crossbeds. 
 
-    rechercher des roches et des sols témoignant de l'action passée de l'eau et déterminer leurs caractéristiques. Cette recherche porte en particulier sur les minéraux déposés par les processus liés à la présence d'eau tels que les précipitations, l'évaporation, la sédimentation et l'activité hydrothermale ;
-    déterminer la distribution et la composition des minéraux, rochers et sols qui entourent les sites d'atterrissage ;
-    déterminer les processus géologiques à l'origine de la formation des sols avoisinants et qui ont influencé leur chimie. Ces processus peuvent inclure l'érosion par l'action du vent ou par l'eau, l'activité hydrothermale, le volcanisme et l'impact de météorites ;
-    valider les données collectées par les sondes en orbite en les confrontant aux observations au sol. Ces vérifications doivent permettre de déterminer la précision et le bon fonctionnement des différents instruments qui effectuent des observations géologiques depuis l'orbite ;
-    rechercher des minéraux contenant du fer, identifier et quantifier les différents types de minéraux qui contiennent de l'eau ou ont été formés dans l'eau tels que les carbonates de fer ;
-    déterminer les caractéristiques des minéraux ainsi que les textures des roches et des sols et spécifier les processus qui les ont créés ;
-    rechercher des indices géologiques de la période où l'eau était présente sous forme liquide. Déterminer si ces environnements pouvaient être propices à la vie.
 
-- L'espoir de découvrir des traces d'une sédimentation lacustre est rapidement déçu : Spirit détecte essentiellement du basalte d'origine volcanique. Les sédiments existent peut-être mais sont enfouis sous des matériaux plus récents. Par ailleurs, le site d'atterrissage de Spirit ne présente aucun affleurement rocheux qui permettrait d'étudier le sous-sol. Le 10 février, le rover est dirigé vers un cratère d'impact de 192 m de diamètre nommé Bonneville, avec l'espoir que celui-ci soit suffisamment profond pour que des affleurements de roches y apparaissent39.
-- Après avoir parcouru 250 mètres depuis le site d'atterrissage, Spirit parvient au cratère Bonneville : celui n'est pas assez profond pour laisser apparaître des affleurements rocheux. L'impact de la météorite n'a pas été suffisant pour que les éjectas proviennent de la sous-couche volcanique. Le rover entame ensuite un long trajet vers les collines Columbia, le relief le plus proche distant de 2,3 km toujours dans l'espoir de trouver des affleurements rocheux. 
-- Spirit atteint la base des collines Columbia en juin 2004. 
-- Durant son ascension, les panneaux solaires du rover, qui se sont progressivement recouverts de poussière depuis l'atterrissage, retrouvent toute leur efficacité grâce à l'action des tourbillons de poussière martiens40. Le rover entame la descente vers la plaine et atteint en février 2006 un affleurement rocheux remarquable en forme de plateau situé au pied des collines baptisé Home Plate. Cet ensemble semble constitué de plusieurs couches rocheuses d'origine volcanique. 
-- En décembre 2008, Spirit entame un long trajet qui doit l'amener vers deux formations géologiques baptisées « Goddard » et « von Braun ».
-- Alors que Spirit est en route vers von Braun, début mai ses roues s'enfoncent dans une couche de sable et le rover ne parvient pas à se dégager43. L'équipe du JPL essaie de trouver une solution pour libérer Spirit en simulant sur Terre les manœuvres à effectuer à l'aide d'un modèle du rover placé sur une reproduction du sol martien. Plusieurs tentatives sont exécutées en essayant de faire reculer ou avancer prudemment Spirit mais toutes échouent. Début 2010, la NASA renonce à libérer Spirit : le rover qui a parcouru depuis son atterrissage 7 730,5 mètres agit désormais en tant que station de mesure fixe. 
-- Mais l'hiver martien approchant (le solstice de l'hiver martien est le 12 mai 2010), la quantité d'énergie disponible chute fortement. Or Spirit, immobilisé, ne peut pas orienter ses panneaux solaires de manière optimale. Le 30 mars, le satellite Mars Odyssey qui relaie les liaisons radio de Spirit signale qu'il n'a pas reçu l'émission radio programmée de Spirit. Le rover, qui ne recevait plus que 134 Wh par jour lors de la dernière communication réussie, s'est sans doute mis en sommeil pour ne pas descendre au-dessous d'un seuil d'énergie critique pour ses fonctions vitales. Mi-juillet 2010, malgré l'augmentation de l'énergie solaire reçue par les panneaux solaires, le rover est toujours silencieux44. Le 25 mai 2011, la NASA met fin à ses tentatives pour contacter le robot. 
+
 - 
 
 
@@ -1039,8 +1041,6 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
     elles peuvent résulter de l'impact ayant créé le cratère Endurance ;
     une autre raison serait liée à la disparition de l'eau présente dans la roche lors de sa formation ;
     les fissures ont aussi pu se créer beaucoup plus tard après la formation de la roche. La création du cratère a pu dégager la roche en la ramenant à la surface. Elle serait alors devenue de nouveau humide puis le séchage aurait fait apparaître ces fissures polygonales
-
-
 
 
 - At a place called Comanche, Spirit found rocks ten times richer in key chemicals (magnesium and iron carbonates) than any other Martian rocks studied before. These rocks formed when Mars was warm and wet (had a thicker carbon-dioxide atmosphere and near-neutral-pH water). This warmer, watery environment could have supported life much better than the harshly acidic conditions the rover found elsewhere.
