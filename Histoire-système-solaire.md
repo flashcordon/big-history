@@ -795,6 +795,8 @@ and no doubt lives into its development
 - Une cinquantaine de missions ont été envoyées vers Mars depuis les années 60. Près de la moitié seulement sont parvenues à destination.
 > Les seules puissances à avoir envoyé des sondes vers Mars sont : la Chine, l'Inde, le Japon, la Russie, l'USSR, les Emirats Arabes Unis, le Royaume Unis, les Etats Unis et l'Union Européenne.
 
+- [Mariner 4 (NASA, 1964-1967)](#Mariner-4-(NASA,-1964-1967))
+
 ### Mariner 4 (NASA, 1964-1967)
 
 - Entre 1962 et 1973, la NASA construit 10 sondes nommées Mariner destinées à explorer le système solaire interne (Mercure, Vénus, Mars) pour la première fois.
@@ -990,7 +992,7 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - Sur les deux rovers se trouve un cadran solaire coloré qui sert à régler la luminosité et à étalonner leur caméra panoramique. Il est orné de la devise "deux mondes, un Soleil" et de plaques gravées qui comportent de nombreux dessins d'enfants.
 
 ***Le voyage de Spirit***
-- Spirit a atterri le 3 janvier 2004 dans le cratère Gusev (145 km de diamètre), une dépression de 170 kilomètres de diamètre qui a peut-être accueilli un lac
+- Spirit a atterri le 3 janvier 2004 dans le cratère Gusev, une dépression de 166 kilomètres de diamètre qui a peut-être accueilli un lac
 > Malheureusement, il n'y découvre aucune trace de sédimentation lacustre, ni d'affleurement rocheux.
 - Spirit se lance donc dans un grand périple recherche d'affleurements rocheux.
 - Durant son ascension des collines Columbi en 2004, les panneaux solaires du rover sont nettoyés par des tourbillons de poussière martienne, ce qui prolonge la durée de vie du rover.
