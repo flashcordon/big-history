@@ -124,4 +124,9 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 ## Les diamants de Neptune
 
 - Il pleut des diamants sur Neptune !
-- Neptune est une planète mystérieuse.
+- Au début des années 80, le physicien Marvin Ross a émis l'hypothèse que les conditions de pressions et de températures à l'intérieur de l'atmosphère de Neptune sont si extrêmes que les atomes de carbone qu'elle contient doivent être comprimés au point d'en faire des diamants.
+- Mais il a fallu atteindre 2017 avant qu'on ait enfin la confirmation expérimentale de cette idée.
+- Pour cela, des chercheurs de l'université de Stanford ont reproduit les conditions atmosphériques de Neptune en tirant sur des bouts de polystyrène avec des lasers surpuissants.
+- Non, c'est pas une blague, et oui, ça marche très bien, parce qu'ils ont réussi à former des diamants en à peine quelques nanosecondes !
+- On pense aujourd'hui que ces diamants se forment en continu dans les profondeurs de l'atmosphère de Neptune, et qu'ils peuvent grossir jusqu'à atteindre 200 kg avant de tomber sur le noyau de la planète. 
+- Ce qui fait des pluies de diamants de Neptune l'un des panoramas les plus exotiques du système solaire.
