@@ -968,21 +968,39 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - Elle est constituée de 2 rovers identiques (Spirit et Opportunity)
 > Ils ont chacun une hauteur de 1,5 m, une largeur de 2,3 m, une longueur de 1,6 m
 -   et composée de deux robots mobiles ayant pour objectif d'étudier la géologie de la planète Mars et en particulier le rôle joué par l'eau dans l'histoire de la planète. Les deux robots ont été lancés au début de l'été 2003 et se sont posés en janvier 2004 sur deux sites martiens susceptibles d'avoir conservé des traces de l'action de l'eau dans leur sol. 
-- Spirit, a atterri le 3 janvier 2004 dans le cratère Gusev (d'un diamètre de 145 km), une dépression de 170 kilomètres de diamètre qui a peut-être accueilli un lac
--  Opportunity, s'est posé le 24 janvier 2004 sur Meridiani Planum.
+
 -  Chaque rover pèse environ 185 kg et se déplace sur six roues mues par l'énergie électrique fournie par des panneaux solaires. Il est équipé de trois paires de caméras utilisées pour la navigation et de plusieurs instruments scientifiques : une caméra panoramique située sur un mât à 1,5 mètre de hauteur, un outil pour abraser la surface des roches porté par un bras articulé sur lequel se trouvent également un spectromètre à rayons X, un spectromètre Mössbauer et une caméra microscope. Enfin, un spectromètre infrarouge est utilisé pour l'analyse des roches et de l'atmosphère. 
 -  Les objectifs scientifiques du programme ont été remplis avec la découverte par les deux robots de plusieurs formations rocheuses qui résultent probablement de l'action de l'eau dans le passé : billes d'hématite grise et silicates. Les robots ont également permis d'étudier les phénomènes météorologiques, d'observer des nuages et de caractériser les propriétés des couches de l'atmosphère martienne. 
 -  ont largement dépassé les objectifs qui leur étaient fixés : parcourir 600 mètres et rester opérationnel durant 90 jours martiens. Spirit, désormais bloqué par le sable, a pu parcourir 7,7 kilomètres et a transmis ses dernières données scientifiques le 22 mars 2010. Opportunity, après une tempête de sable qui a recouvert ses panneaux solaires, est devenu injoignable et sa mission s'est officiellement terminée le 13 février 2019. 
--  Chaque MER est équipé de six instruments scientifiques et est conçu pour parcourir au moins 1 km durant 90 jours martiens
+
 -  La NASA assigne sept objectifs scientifiques à la mission2 :
 
+-  Chaque MER est équipé de six instruments scientifiques et est conçu pour parcourir au moins 1 km
 
+- Spirit a duré 6 ans, et Opportunity plus de 14, alors que leur mission n'était sensée durer que 90 jours !
+
+
+
+***Le voyage de Spirit***
+- Spirit a atterri le 3 janvier 2004 dans le cratère Gusev (145 km de diamètre), une dépression de 170 kilomètres de diamètre qui a peut-être accueilli un lac
+
+- En 2005, Spirit a observé de nombreux "dust devils" qui évoluent quotidiennement sur la surface martienne
+
+
+***Le voyage d'Opportunity***
+- Opportunity se pose le 24 Janvier 2004 sur Meridiani Planum, un plateau choisi en raison de la présence d'un minéral appelé hématite (une forme d'oxyde ferreux) détecté depuis l'orbite par Mars Global Surveyor. La mission du rover est de chercher des indices d'une formation d'hématite par voie sédimentaire ou hydrothermale. 
+> l'hématite se forme généralement (mais pas toujours) en présence d'eau liquide.
+- Opportnity s'immobilise à la suite de son atterrissage au centre d'un cratère appelé Eagle (22 m de diamètre), qui présente des affleurements rocheux dont une partie a été formée sous l'action de l'eau liquide
+- Mais l'eau de cet environnement était acide, ce qui complique le maintien de la vie à cet endroit.
 - De tous les environnements visités par les 2 rovers, le cratère Endeavor est celui qui a offert les conditions les plus propices à l'apparition de la vie.
 > Opportunity y a découvert des argiles qui se sont formés dans un milieu aqueux au pH neutre.
-- Spirit a observé de nombreux "dust devils" qui évoluent quotidiennement sur la surface martienne
 - Opportunity a quant à lui observé des nuages de glace d'eau au début de l'hiver martien, similaires à des cirrus sur Terre.
-- Spirit a duré 6 ans, et Opportunity plus de 14 !
+
 > * Opportunity a envoyé son dernier signal à la Terre le 10 Juin 2018, pendant une immense tempête de poussière.
+- Sur les deux rovers se trouve un cadran solaire coloré qui sert à régler la luminosité et à étalonner leur caméra panoramique. Il est orné de la devise "deux mondes, un Soleil" et de plaques gravées qui comportent de nombreux dessins d'enfants.
+
+- Après avoir quitté le cratère Eagle, le rover se dirige vers le cratère Endurance situé à 750 m. Il l'atteint le 30 avril 2004.
+
 
 
     rechercher des roches et des sols témoignant de l'action passée de l'eau et déterminer leurs caractéristiques. Cette recherche porte en particulier sur les minéraux déposés par les processus liés à la présence d'eau tels que les précipitations, l'évaporation, la sédimentation et l'activité hydrothermale ;
@@ -1000,9 +1018,7 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - En décembre 2008, Spirit entame un long trajet qui doit l'amener vers deux formations géologiques baptisées « Goddard » et « von Braun ».
 - Alors que Spirit est en route vers von Braun, début mai ses roues s'enfoncent dans une couche de sable et le rover ne parvient pas à se dégager43. L'équipe du JPL essaie de trouver une solution pour libérer Spirit en simulant sur Terre les manœuvres à effectuer à l'aide d'un modèle du rover placé sur une reproduction du sol martien. Plusieurs tentatives sont exécutées en essayant de faire reculer ou avancer prudemment Spirit mais toutes échouent. Début 2010, la NASA renonce à libérer Spirit : le rover qui a parcouru depuis son atterrissage 7 730,5 mètres agit désormais en tant que station de mesure fixe. 
 - Mais l'hiver martien approchant (le solstice de l'hiver martien est le 12 mai 2010), la quantité d'énergie disponible chute fortement. Or Spirit, immobilisé, ne peut pas orienter ses panneaux solaires de manière optimale. Le 30 mars, le satellite Mars Odyssey qui relaie les liaisons radio de Spirit signale qu'il n'a pas reçu l'émission radio programmée de Spirit. Le rover, qui ne recevait plus que 134 Wh par jour lors de la dernière communication réussie, s'est sans doute mis en sommeil pour ne pas descendre au-dessous d'un seuil d'énergie critique pour ses fonctions vitales. Mi-juillet 2010, malgré l'augmentation de l'énergie solaire reçue par les panneaux solaires, le rover est toujours silencieux44. Le 25 mai 2011, la NASA met fin à ses tentatives pour contacter le robot. 
-- Le rover Opportunity se pose le 24 janvier 2004 sur Meridiani Planum. Ce plateau a été retenu comme site d'atterrissage parce que le spectromètre embarqué à bord de l'orbiteur martien Mars Global Surveyor a détecté que cette région était particulièrement riche en une des formes d'oxyde ferreux appelée hématite grise. Or, sur Terre, ce minerai se forme généralement, mais pas toujours, en présence d'eau liquide. L'objectif de la mission est de chercher des indices d'une formation de l'hématite par voie sédimentaire (dépôts laissés par un lac), ou du fait d'une activité hydrothermale
-- Opportunity, plus chanceux que Spirit, s'immobilise après son atterrissage au centre d'un petit cratère d'impact de 22 m de diamètre, baptisé Eagle, dont les bords présentent des affleurements rocheux. Cette disposition des lieux a permis de conduire rapidement des études sur la nature et l'histoire du sous-sol rocheux du site. Les instruments scientifiques recueillent de nombreux indices qui prouvent qu'une partie des roches visibles se sont formées en partie sous l'action de l'eau liquide. 
-- Après avoir quitté le cratère Eagle, le rover se dirige vers le cratère Endurance situé à 750 m. Il l'atteint le 30 avril 2004.
+- 
 
 
 -  L'objectif de la mission est de trouver des indices de la présence d'eau liquide à la surface de Mars dans des conditions qui auraient permis l'apparition de la vie. 
@@ -1018,7 +1034,8 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
     les fissures ont aussi pu se créer beaucoup plus tard après la formation de la roche. La création du cratère a pu dégager la roche en la ramenant à la surface. Elle serait alors devenue de nouveau humide puis le séchage aurait fait apparaître ces fissures polygonales
 
 
-- Landing in a crater, Opportunity scored a "hole in one" by finding the mineral hematite, which typically forms in water. Water is key to life as we know it. Yet, acidic water soaked this area in Mars' ancient past, making conditions harder for life to thrive.
+
+
 - At a place called Comanche, Spirit found rocks ten times richer in key chemicals (magnesium and iron carbonates) than any other Martian rocks studied before. These rocks formed when Mars was warm and wet (had a thicker carbon-dioxide atmosphere and near-neutral-pH water). This warmer, watery environment could have supported life much better than the harshly acidic conditions the rover found elsewhere.
 - While dragging a wheel, Spirit churned up soil and found 90 percent pure silica at "Home Plate." On Earth, this kind of silica usually exists in hot springs or hot steam vents, where life as we know it often finds a hot, happy home. Perhaps ancient microbes on Mars did as well.
 - Spirit discovered that an ancient volcano erupted at "Home Plate," the rover's final resting place. Together, powerful steam eruptions from heated underground water produced some explosive volcanism. While violent, these extreme conditions can support microbial life on Earth. Once upon a time, maybe they did on Mars...
@@ -1069,7 +1086,6 @@ for obtaining close-up, high-resolution images of rocks and soils.
 RAT
 Rock Abrasion Tool
 for removing dusty and weathered rock surfaces and exposing fresh material for examination by instruments onboard.
-- Deux mondes, un Soleil. C'est la devise qui figure sur le cadran solaire qui équipe Spirit et Opportunity. Tout en permettant d'apprécier le passage des heures et des saisons, l'ombre du style central servira à régler la luminosité de la caméra panoramique. La face supérieure richement colorée du cadran jouera aussi le rôle de mire d'étalonnage pour les couleurs. Des petits miroirs fixés sur les extrémités du cadran permettront d'observer la couleur du ciel au cours d'une journée. Le mot Mars, traduit dans 17 langues différentes, apparaît sur la face supérieure du cadran. Le cercle gris clair, qui porte la devise "Deux Mondes, un Soleil" ainsi que la mention "Mars 2004", représente l'orbite de Mars, celle de la Terre étant figurée en gris foncé. La sphère dorée fixée au sommet du style symbolise quant à elle notre soleil. Les quatre côtés du cadran solaire sont ornés de petites plaques gravées, qui portent un court texte accompagné de nombreux dessins d'enfants (Crédit photo : droits réservés)
 
 
 ### Mars Reconnaissance Orbiter (NASA, 2005-202X)
