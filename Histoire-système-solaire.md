@@ -697,6 +697,7 @@ and no doubt lives into its development
 - [Observations of the Proton Aurora on Mars With SPICAM on Board Mars Express](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076235) - Ritter et al (2017)
 - [The Red Color Of Mars Is Only Millimeters Thick](https://www.forbes.com/sites/startswithabang/2021/03/11/the-red-color-of-mars-is-only-millimeters-thick/?sh=70bdaa433922) - Starts with a Bang (2021)
 - [Jarosite and Hematite at Meridiani Planum from Opportunity's Mössbauer Spectrometer](https://science.sciencemag.org/content/306/5702/1740?sid=56bc6a6d-f786-44b2-9a48-1e902a8f0b3a) - Klingelhöfer et al (2004)
+- [Spirit découvre de la silice pratiquement pure sur Mars](https://www.futura-sciences.com/sciences/actualites/astronautique-spirit-decouvre-silice-pratiquement-pure-mars-11890/) - Futura Science (2007)
 
 ---
 
@@ -994,48 +995,28 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - Spirit se lance donc dans un grand périple recherche d'affleurements rocheux.
 - Durant son ascension des collines Columbi en 2004, les panneaux solaires du rover sont nettoyés par des tourbillons de poussière martienne, ce qui prolonge la durée de vie du rover.
 - En 2005, Spirit a observé de nombreux "dust devils" qui évoluent quotidiennement sur la surface martienne
+- En 2007, alors que le rover évolue près du plateau de "Home Plate" et qu'il perd l'usage d'une de ses roues, cette dernière creuse un sillon dans le sol martien, et révèle un sable blanc constitué à 90% de silice
+> Sur Terre, ce type de silice existe dans les sources chaudes, ou plus généralement dans des conditions où des vapeurs volcaniques interagissent avec les matériaux du sol et de l'eau acide. Cette découverte conforte donc l'hypothèse du passé humide de Mars.
 - En Mai 2008, alors que Spirit est en direction d'une formation géologique nommée "Von Braun", les roues du rover s'enfoncent dans le sable et ce dernier est coincé. Toutes les tentatives pour le dégager échouent. À partir de 2010, Spirit est considéré comme une station de mesure fixe.
 - La quantité d'énergie solaire diminue à mesure que l'hiver martien s'installe (le solstice de l'hiver martien est le 12 mai 2010). Le rover finit par se mettre en sommeil, et ne se réveille plus jamais.
 - Spirit a envoyé ses dernières données scientifiques à la Terre le 22 Mars 2010. Sa mission prend officiellement fin le 25 Mai 2011, lorsque la NASA abandonne ses tentatives de contact.
 - Au cours de ses 6 années d'activité, Spirit a parcouru 7.7 km en tout.
 
 ***Le voyage d'Opportunity***
-- Opportunity se pose le 24 Janvier 2004 sur Meridiani Planum, un plateau choisi en raison de la présence d'un minéral appelé hématite (une forme d'oxyde ferreux) détecté depuis l'orbite par Mars Global Surveyor. La mission du rover est de chercher des indices d'une formation d'hématite par voie sédimentaire ou hydrothermale. 
+- Opportunity se pose le 24 Janvier 2004 sur Meridiani Planum, un plateau choisi en raison de la présence d'un minéral appelé hématite détecté depuis l'orbite par Mars Global Surveyor. La mission du rover est de chercher des indices d'une formation d'hématite par voie sédimentaire ou hydrothermale. 
 > l'hématite se forme généralement (mais pas toujours) en présence d'eau liquide.
 - Opportnity s'immobilise à la suite de son atterrissage au centre d'un cratère appelé Eagle (22 m de diamètre).
-> * Il y a révélé la présence de 2 minéraux qui se forment sous l'action de l'eau liquide : l'hématite et la jarosite
+> * Il y a révélé la présence de 2 minéraux qui se forment sous l'action de l'eau liquide : l'hématite grise (une forme d'oxyde ferreux de formule Fe2O3) et la jarosite (un sulfate de fer hydraté)
+> * L'hématite peut être formée par l'activité volcanique, ou bien sous l'action de l'eau.
 > * La jarosite, quant à elle, ne peut se former que dans des conditions acides, ce qui complique le maintien de la vie à cet endroit. Mais ça ne l'empêche pas complètement non plus : sur Terre, on trouve des communautés microbiennes dans des conditions acides, notamment dans les eaux rouges du Rio Tinto en Espagne (où l'on trouve aussi de la jarosite).
 - Durant son périple, Opportunity a exploré plus de 100 cratères de toutes tailles.
+- Il a notamment découvert des indices de sédiments laissés par des plans d'eau (crossbeds).
+- Il a aussi découvert des petites sphérules grises de 2 à 3 mm de diamètres surnommées "myrtilles", riches en hématite, sur le sol ou enkystées dans des strates.
 - De tous les environnements visités par les 2 rovers, le cratère Endeavor est celui qui a offert les conditions les plus propices à l'apparition de la vie.
 > * Opportunity y a découvert des argiles qui se sont formés dans un milieu aqueux au pH neutre.
 > * Il a aussi découvert une veine de gypse de plus de 40 cm de long (et 1 à 2 cm de large) qui s'est probablement formée lorsque de l'eau s'infiltrait dans de la roche volcanique
-- Opportunity a quant à lui observé des nuages de glace d'eau au début de l'hiver martien, similaires à des cirrus sur Terre.
-
+- Opportunity a observé des nuages de glace d'eau au début de l'hiver martien, similaires à des cirrus sur Terre.
 - Opportunity a envoyé son dernier signal à la Terre le 10 Juin 2018, pendant une immense tempête de poussière qui a recouvert ses panneaux solaires. Sa mission s'est officiellement terminée le 13 février 2019.
-
-
-- Opportunity : While analyzing rocks and soils on Mars, the robotic geologist, equipped with a toolbox of scientific instruments, found hard spheres the size of peppercorns. Sometimes the spheres, nicknamed blueberries," were loosely scattered across the surface; other times, they were anchored within individual rock layers. After weeks of meticulous measurements, Opportunity demonstrated that the spheres consisted primarily of the mineral hematite. On Earth, hematite generally -- though not always -- forms in the presence of water. Water provides the oxygen atoms that bind with iron atoms in the mineral. On Mars, it appeared possible that groundwater carrying dissolved iron had percolated through the sandstone to form the tiny spheres. 
-- Perhaps most stunning of all was Opportunity's discovery of centimeter-scale rock layers overlapping and cutting into each other. Known as crossbeds, these layers had shapes and sizes that indicated that water once flowed on the surface of Mars. In nearby "Endurance Crater," a thick stack of exposed rock layers, some deposited by wind, suggested that water was intermittently present. Rich in the elements sulfur, chlorine, and bromine, many of the minerals studied by Opportunity had settled to the bottom of a salty body of water, known as a brine, to form deposits similar to those seen in salt flats in desert regions on Earth. 
-- One characteristic of rocks formed by flowing water are fine, undulating layers of sediment, like those at the bottom of a stream, that flow over and cut into one another, known as crossbeds. 
-
--  L'objectif de la mission est de trouver des indices de la présence d'eau liquide à la surface de Mars dans des conditions qui auraient permis l'apparition de la vie. 
--  De grandes concentrations d'hématite grise ont été repérées dans une zone proche à la fois de l'équateur et du méridien zéro martien, nommée pour cette raison Terra Meridiani (latitude 2° sud, longitude 0° à 5° ouest) par le spectromètre thermique TES de la sonde Mars Global Surveyor. L'hématite est un oxyde de fer dont la formule chimique est Fe2O3. L'hématite peut être comparée à de la rouille, mais sur Terra Meridiani, elle se présente sous forme d'hématite cristalline grise, susceptible d'avoir été créée en présence d'eau. Ce type de formation peut être formé par l'activité volcanique, ou par l'action de l'eau. C'est la raison qui explique le site d'atterrissage du rover Opportunity dans cette région, sur le plateau de Meridiani Planum
-- Les débuts de l'exploration du cratère Gusev par le rover Spirit ont été décevants car aucune preuve évidente de l'action de l'eau n'a été découverte mais une fois les collines Columbia atteintes, plusieurs sites ont prouvé que l'eau avait contribué à façonner certaines formations géologiques. Mais ce rôle semble lié à une activité volcanique plutôt qu'à des dépôts marins ou lacustres. Le rover Opportunity a par contre découvert des minéraux probablement créés par l'eau et des indices de sédiments laissés par des plans d'eau
-- Les flancs intérieurs du petit cratère Eagle dans lequel Opportunity s'est posé sont couverts d'affleurements disposés en strates sur une hauteur d'environ 75 cm. Celles-ci se présentent selon une coupe presque verticale ce qui facilite leur analyse. Les instruments du robot Opportunity fournissent d'excellents indices prouvant que les strates rocheuses étaient autrefois soit submergées soit se sont formées dans l'eau. Les roches analysées sont riches en sulfures. La jarosite qui est un sulfate de fer hydraté est notamment détecté, or celui-ci se forme en présence d'eau68,69. La morphologie des roches semble également indiquer l'action de l'eau. 
-- Par ailleurs, des sphérules de 2 à 3 mm de diamètre sont enkystées dans ces strates. Nombre d'entre elles s'en sont détachées du fait de la désagrégation des lamelles de roches et jonchent le sol. Ces petites sphères de couleur grise nommées « myrtilles », sont très riches en hématite70.
-- Des rochers présentant en surface des structures polygonales sont observés par Opportunity notamment sur le rocher Escher sur les pentes sud-ouest du cratère Endurance71. D'autres rochers voisins au fond de ce cratère présentent également ces structures polygonales. Ces roches présentent une surface plate montrant des réseaux de fissures divisant la partie supérieure en polygones. Leur apparence est quelque peu semblable à l'aspect de la boue craquelée après que l'eau s'est évaporée
-- Plusieurs hypothèses sont émises pour expliquer l'origine des fissures qui divisent la surface des roches en polygones :
-
-    elles peuvent résulter de l'impact ayant créé le cratère Endurance ;
-    une autre raison serait liée à la disparition de l'eau présente dans la roche lors de sa formation ;
-    les fissures ont aussi pu se créer beaucoup plus tard après la formation de la roche. La création du cratère a pu dégager la roche en la ramenant à la surface. Elle serait alors devenue de nouveau humide puis le séchage aurait fait apparaître ces fissures polygonales
-
-- At a place called Comanche, Spirit found rocks ten times richer in key chemicals (magnesium and iron carbonates) than any other Martian rocks studied before. These rocks formed when Mars was warm and wet (had a thicker carbon-dioxide atmosphere and near-neutral-pH water). This warmer, watery environment could have supported life much better than the harshly acidic conditions the rover found elsewhere.
-- While dragging a wheel, Spirit churned up soil and found 90 percent pure silica at "Home Plate." On Earth, this kind of silica usually exists in hot springs or hot steam vents, where life as we know it often finds a hot, happy home. Perhaps ancient microbes on Mars did as well.
-- Spirit discovered that an ancient volcano erupted at "Home Plate," the rover's final resting place. Together, powerful steam eruptions from heated underground water produced some explosive volcanism. While violent, these extreme conditions can support microbial life on Earth. Once upon a time, maybe they did on Mars...
-
-
-- Measuring infrared radiation (heat) associated with specific minerals, the rovers identified and mapped minerals in rocks and soils. Key among these was hematite, an iron-bearing mineral often associated with water originally mapped by the Odyssey spacecraft. After being sent to the same area to get a closer look, Opportunity did indeed find hematite in rock outcrops as well as in high concentrations in the rounded, blueberry-size concretions.
 
 ### Mars Reconnaissance Orbiter (NASA, 2005-202X)
 
