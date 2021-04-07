@@ -795,7 +795,7 @@ and no doubt lives into its development
 - Une cinquantaine de missions ont été envoyées vers Mars depuis les années 60. Près de la moitié seulement sont parvenues à destination.
 > Les seules puissances à avoir envoyé des sondes vers Mars sont : la Chine, l'Inde, le Japon, la Russie, l'USSR, les Emirats Arabes Unis, le Royaume Unis, les Etats Unis et l'Union Européenne.
 
-- [Mariner 4 (NASA, 1964-1967)](#Mariner-4-(NASA,-1964-1967))
+- [Mariner 4 (NASA, 1964-1967)](#mariner-4-nasa-1964-1967)
 
 ### Mariner 4 (NASA, 1964-1967)
 
