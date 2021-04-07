@@ -966,13 +966,9 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 ### Mars Exploration Rovers / Spirit et Opportunity (NASA, 2003-2019)
 
 - Mars Exploration Rover (MER) est une mission double de la NASA lancée en 2003
-- Elle est constituée de 2 rovers identiques (Spirit et Opportunity)
+- Elle est constituée de 2 rovers identiques (Spirit et Opportunity) de 185 kg chacun, alimentés par des panneaux solaires et dotés de 6 roues.
 > Ils ont chacun une hauteur de 1,5 m, une largeur de 2,3 m, une longueur de 1,6 m
--   et composée de deux robots mobiles ayant pour objectif d'étudier la géologie de la planète Mars et en particulier le rôle joué par l'eau dans l'histoire de la planète. Les deux robots ont été lancés au début de l'été 2003 et se sont posés en janvier 2004 sur deux sites martiens susceptibles d'avoir conservé des traces de l'action de l'eau dans leur sol. 
-
--  Chaque rover pèse environ 185 kg et se déplace sur six roues mues par l'énergie électrique fournie par des panneaux solaires. Il est équipé de trois paires de caméras utilisées pour la navigation et de plusieurs instruments scientifiques : une caméra panoramique située sur un mât à 1,5 mètre de hauteur, un outil pour abraser la surface des roches porté par un bras articulé sur lequel se trouvent également un spectromètre à rayons X, un spectromètre Mössbauer et une caméra microscope. Enfin, un spectromètre infrarouge est utilisé pour l'analyse des roches et de l'atmosphère. 
--  Les objectifs scientifiques du programme ont été remplis avec la découverte par les deux robots de plusieurs formations rocheuses qui résultent probablement de l'action de l'eau dans le passé : billes d'hématite grise et silicates. Les robots ont également permis d'étudier les phénomènes météorologiques, d'observer des nuages et de caractériser les propriétés des couches de l'atmosphère martienne. 
-
+- Les 2 robots ont pour objectif d'étudier la géologie de la planète Mars et en particulier le rôle joué par l'eau dans l'histoire de la planète.
 - La NASA assigne 7 objectifs scientifiques à la mission :
 > * rechercher des roches et des sols témoignant de l'action passée de l'eau et déterminer leurs caractéristiques
 > * déterminer la distribution et la composition des minéraux, rochers et sols qui entourent les sites d'atterrissage
@@ -988,7 +984,8 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 > * Un spectromètre à particules alpha et à rayons X pour obtenir la composition chimique des échantillons de roches et de sol.
 > * Une caméra microscope
 > * Un outil pour abraser la surface des roches
-- Spirit a duré 6 ans, et Opportunity plus de 14, alors que leur mission n'était sensée durer que 90 jours ! Les deux rovers ont largement rempli tous leurs objectifs scientifiques.
+- Les objectifs scientifiques du programme ont été remplis avec la découverte de plusieurs formations rocheuses qui résultent probablement de l'action de l'eau dans le passé : billes d'hématite grise et silicates. Les robots ont également permis d'étudier les phénomènes météorologiques (quantité et la distribution de glace d'eau et de poussière dans l'atmosphère martienne), d'observer des nuages et de caractériser les propriétés des couches de l'atmosphère martienne (variations de la température à différentes altitudes et à différents moments de la journée et de l'année). 
+- Spirit a duré 6 ans, et Opportunity plus de 14, alors que leur mission n'était sensée durer que 90 jours !
 - Sur les deux rovers se trouve un cadran solaire coloré qui sert à régler la luminosité et à étalonner leur caméra panoramique. Il est orné de la devise "deux mondes, un Soleil" et de plaques gravées qui comportent de nombreux dessins d'enfants.
 
 ***Le voyage de Spirit***
@@ -1037,7 +1034,7 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - While dragging a wheel, Spirit churned up soil and found 90 percent pure silica at "Home Plate." On Earth, this kind of silica usually exists in hot springs or hot steam vents, where life as we know it often finds a hot, happy home. Perhaps ancient microbes on Mars did as well.
 - Spirit discovered that an ancient volcano erupted at "Home Plate," the rover's final resting place. Together, powerful steam eruptions from heated underground water produced some explosive volcanism. While violent, these extreme conditions can support microbial life on Earth. Once upon a time, maybe they did on Mars...
 
-- Spirit and Opportunity surveyed the amount and distribution of dust and water ice in the Martian atmosphere, using cameras and spectrometers that measured the absorption of different wavelengths of light. As the seasons changed from summer to fall to winter to spring, the rovers monitored changes in temperature at different heights above the surface and at different times of day.
+
 - Measuring infrared radiation (heat) associated with specific minerals, the rovers identified and mapped minerals in rocks and soils. Key among these was hematite, an iron-bearing mineral often associated with water originally mapped by the Odyssey spacecraft. After being sent to the same area to get a closer look, Opportunity did indeed find hematite in rock outcrops as well as in high concentrations in the rounded, blueberry-size concretions.
 
 ### Mars Reconnaissance Orbiter (NASA, 2005-202X)
