@@ -696,6 +696,7 @@ and no doubt lives into its development
 - [Des aurores à protons observées pour la première fois sur Mars !](https://www.recherche.uliege.be/cms/c_9942571/fr/des-aurores-a-protons-observees-pour-la-premiere-fois-sur-mars) - Université de Liège (2018)
 - [Observations of the Proton Aurora on Mars With SPICAM on Board Mars Express](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076235) - Ritter et al (2017)
 - [The Red Color Of Mars Is Only Millimeters Thick](https://www.forbes.com/sites/startswithabang/2021/03/11/the-red-color-of-mars-is-only-millimeters-thick/?sh=70bdaa433922) - Starts with a Bang (2021)
+- [Jarosite and Hematite at Meridiani Planum from Opportunity's Mössbauer Spectrometer](https://science.sciencemag.org/content/306/5702/1740?sid=56bc6a6d-f786-44b2-9a48-1e902a8f0b3a) - Klingelhöfer et al (2004)
 
 ---
 
@@ -971,37 +972,43 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
 -  Chaque rover pèse environ 185 kg et se déplace sur six roues mues par l'énergie électrique fournie par des panneaux solaires. Il est équipé de trois paires de caméras utilisées pour la navigation et de plusieurs instruments scientifiques : une caméra panoramique située sur un mât à 1,5 mètre de hauteur, un outil pour abraser la surface des roches porté par un bras articulé sur lequel se trouvent également un spectromètre à rayons X, un spectromètre Mössbauer et une caméra microscope. Enfin, un spectromètre infrarouge est utilisé pour l'analyse des roches et de l'atmosphère. 
 -  Les objectifs scientifiques du programme ont été remplis avec la découverte par les deux robots de plusieurs formations rocheuses qui résultent probablement de l'action de l'eau dans le passé : billes d'hématite grise et silicates. Les robots ont également permis d'étudier les phénomènes météorologiques, d'observer des nuages et de caractériser les propriétés des couches de l'atmosphère martienne. 
--  ont largement dépassé les objectifs qui leur étaient fixés : parcourir 600 mètres et rester opérationnel durant 90 jours martiens. Spirit, désormais bloqué par le sable, a pu parcourir 7,7 kilomètres et a transmis ses dernières données scientifiques le 22 mars 2010. Opportunity, après une tempête de sable qui a recouvert ses panneaux solaires, est devenu injoignable et sa mission s'est officiellement terminée le 13 février 2019. 
-
+-  Opportunity, après une tempête de sable qui a recouvert ses panneaux solaires, est devenu injoignable et sa mission s'est officiellement terminée le 13 février 2019. 
 -  La NASA assigne sept objectifs scientifiques à la mission2 :
 
--  Chaque MER est équipé de six instruments scientifiques et est conçu pour parcourir au moins 1 km
-
+-  Chaque MER est équipé de six instruments scientifiques :
+> * Une caméra panoramique, pour déterminer la minéralogie, la texture et la structure du terrain
+> * Un spectromètre infrarouge pour identifier des roches prometteuses et réaliser des profils de température de l'atmosphère martienne
+> * Un spectromètre Mössbauer pour analyser la minéralogie des roches et du sol contenant du fer.
+> * Un spectromètre à particules alpha et à rayons X pour obtenir la composition chimique des échantillons de roches et de sol.
+> * Une caméra microscope
+> * Un outil pour abraser la surface des roches
 - Spirit a duré 6 ans, et Opportunity plus de 14, alors que leur mission n'était sensée durer que 90 jours !
-
-
 
 ***Le voyage de Spirit***
 - Spirit a atterri le 3 janvier 2004 dans le cratère Gusev (145 km de diamètre), une dépression de 170 kilomètres de diamètre qui a peut-être accueilli un lac
 
 - En 2005, Spirit a observé de nombreux "dust devils" qui évoluent quotidiennement sur la surface martienne
+- Spirit a envoyé ses dernières données scientifiques à la Terre le 22 Mars 2010. Il a parcouru 7.7 km en tout.
 
 
 ***Le voyage d'Opportunity***
 - Opportunity se pose le 24 Janvier 2004 sur Meridiani Planum, un plateau choisi en raison de la présence d'un minéral appelé hématite (une forme d'oxyde ferreux) détecté depuis l'orbite par Mars Global Surveyor. La mission du rover est de chercher des indices d'une formation d'hématite par voie sédimentaire ou hydrothermale. 
 > l'hématite se forme généralement (mais pas toujours) en présence d'eau liquide.
-- Opportnity s'immobilise à la suite de son atterrissage au centre d'un cratère appelé Eagle (22 m de diamètre), qui présente des affleurements rocheux dont une partie a été formée sous l'action de l'eau liquide
-- Mais l'eau de cet environnement était acide, ce qui complique le maintien de la vie à cet endroit.
+- Opportnity s'immobilise à la suite de son atterrissage au centre d'un cratère appelé Eagle (22 m de diamètre).
+> * Il y a révélé la présence de 2 minéraux qui se forment sous l'action de l'eau liquide : l'hématite et la jarosite
+> * La jarosite, quant à elle, ne peut se former que dans des conditions acides, ce qui complique le maintien de la vie à cet endroit. Mais ça ne l'empêche pas complètement non plus : sur Terre, on trouve des communautés microbiennes dans des conditions acides, notamment dans les eaux rouges du Rio Tinto en Espagne (où l'on trouve aussi de la jarosite).
+- Durant son périple, Opportunity a exploré plus de 100 cratères de toutes tailles.
 - De tous les environnements visités par les 2 rovers, le cratère Endeavor est celui qui a offert les conditions les plus propices à l'apparition de la vie.
-> Opportunity y a découvert des argiles qui se sont formés dans un milieu aqueux au pH neutre.
+> * Opportunity y a découvert des argiles qui se sont formés dans un milieu aqueux au pH neutre.
+> * Il a aussi découvert une veine de gypse de plus de 40 cm de long (et 1 à 2 cm de large) qui s'est probablement formée lorsque de l'eau s'infiltrait dans de la roche volcanique
 - Opportunity a quant à lui observé des nuages de glace d'eau au début de l'hiver martien, similaires à des cirrus sur Terre.
 
 > * Opportunity a envoyé son dernier signal à la Terre le 10 Juin 2018, pendant une immense tempête de poussière.
 - Sur les deux rovers se trouve un cadran solaire coloré qui sert à régler la luminosité et à étalonner leur caméra panoramique. Il est orné de la devise "deux mondes, un Soleil" et de plaques gravées qui comportent de nombreux dessins d'enfants.
 
-- Après avoir quitté le cratère Eagle, le rover se dirige vers le cratère Endurance situé à 750 m. Il l'atteint le 30 avril 2004.
-
-
+- Opportunity : While analyzing rocks and soils on Mars, the robotic geologist, equipped with a toolbox of scientific instruments, found hard spheres the size of peppercorns. Sometimes the spheres, nicknamed blueberries," were loosely scattered across the surface; other times, they were anchored within individual rock layers. After weeks of meticulous measurements, Opportunity demonstrated that the spheres consisted primarily of the mineral hematite. On Earth, hematite generally -- though not always -- forms in the presence of water. Water provides the oxygen atoms that bind with iron atoms in the mineral. On Mars, it appeared possible that groundwater carrying dissolved iron had percolated through the sandstone to form the tiny spheres. 
+- Perhaps most stunning of all was Opportunity's discovery of centimeter-scale rock layers overlapping and cutting into each other. Known as crossbeds, these layers had shapes and sizes that indicated that water once flowed on the surface of Mars. In nearby "Endurance Crater," a thick stack of exposed rock layers, some deposited by wind, suggested that water was intermittently present. Rich in the elements sulfur, chlorine, and bromine, many of the minerals studied by Opportunity had settled to the bottom of a salty body of water, known as a brine, to form deposits similar to those seen in salt flats in desert regions on Earth. 
+- One characteristic of rocks formed by flowing water are fine, undulating layers of sediment, like those at the bottom of a stream, that flow over and cut into one another, known as crossbeds. 
 
     rechercher des roches et des sols témoignant de l'action passée de l'eau et déterminer leurs caractéristiques. Cette recherche porte en particulier sur les minéraux déposés par les processus liés à la présence d'eau tels que les précipitations, l'évaporation, la sédimentation et l'activité hydrothermale ;
     déterminer la distribution et la composition des minéraux, rochers et sols qui entourent les sites d'atterrissage ;
@@ -1039,53 +1046,9 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - At a place called Comanche, Spirit found rocks ten times richer in key chemicals (magnesium and iron carbonates) than any other Martian rocks studied before. These rocks formed when Mars was warm and wet (had a thicker carbon-dioxide atmosphere and near-neutral-pH water). This warmer, watery environment could have supported life much better than the harshly acidic conditions the rover found elsewhere.
 - While dragging a wheel, Spirit churned up soil and found 90 percent pure silica at "Home Plate." On Earth, this kind of silica usually exists in hot springs or hot steam vents, where life as we know it often finds a hot, happy home. Perhaps ancient microbes on Mars did as well.
 - Spirit discovered that an ancient volcano erupted at "Home Plate," the rover's final resting place. Together, powerful steam eruptions from heated underground water produced some explosive volcanism. While violent, these extreme conditions can support microbial life on Earth. Once upon a time, maybe they did on Mars...
-- Score! Near the rim of Endeavor Crater, Opportunity found bright-colored veins of gypsum in the rocks. These rocks likely formed when water flowed through underground fractures in the rocks, leaving calcium behind. A slam-dunk sign that Mars was once more hospitable to life than it is today!
-- Opportunity found compelling signs of a watery past on Mars: clay minerals formed in neutral-pH water. Of all the places studied by Opportunity, this environment at Endeavor Crater once had the friendliest conditions for ancient microbial life.
-- Opportunity is a crater explorer. The rover has visited and studied the geology well over 100 impact craters of all sizes in its 14 years on Mars. It has learned about the lives of craters: how they form and erode through time.
-- Opportunity : While analyzing rocks and soils on Mars, the robotic geologist, equipped with a toolbox of scientific instruments, found hard spheres the size of peppercorns. Sometimes the spheres, nicknamed blueberries," were loosely scattered across the surface; other times, they were anchored within individual rock layers. After weeks of meticulous measurements, Opportunity demonstrated that the spheres consisted primarily of the mineral hematite. On Earth, hematite generally -- though not always -- forms in the presence of water. Water provides the oxygen atoms that bind with iron atoms in the mineral. On Mars, it appeared possible that groundwater carrying dissolved iron had percolated through the sandstone to form the tiny spheres. 
-- When Opportunity later discovered the mineral jarosite, scientists were ecstatic. Jarosite only forms in the presence of acidic water, so this mineral provides clues to what the environment was like when water was around. Acidic water is harsh, but we know that microbes on Earth can thrive in it. 
--  On Earth, microbial communities thrive in highly acidic waters rich in iron and sulfur, such as the blood-red waters of the Rio Tinto in southwestern Spain. Among the minerals dissolved in the Rio Tinto is jarosite, an iron- and sulfur-bearing mineral also found on Mars. Whether life ever existed on Mars has yet to be deteremined.
-- Perhaps most stunning of all was Opportunity's discovery of centimeter-scale rock layers overlapping and cutting into each other. Known as crossbeds, these layers had shapes and sizes that indicated that water once flowed on the surface of Mars. In nearby "Endurance Crater," a thick stack of exposed rock layers, some deposited by wind, suggested that water was intermittently present. Rich in the elements sulfur, chlorine, and bromine, many of the minerals studied by Opportunity had settled to the bottom of a salty body of water, known as a brine, to form deposits similar to those seen in salt flats in desert regions on Earth. 
-- One characteristic of rocks formed by flowing water are fine, undulating layers of sediment, like those at the bottom of a stream, that flow over and cut into one another, known as crossbeds. 
--  On Mars, wind and water eroded the rocks containing these minerals and carried pieces of them to their current location. These grains piled up with bits of volcanic rock and solidified to form sandstone. Many such layers, stacked atop one another and containing minerals that had initially settled as water evaporated, indicated that water was present for a long, long time. Opportunity discovered tiny cavities in the rock that were similar in shape and size to rock cavities on Earth that are left behind when certain minerals are dissolved and dispersed by groundwater.
+
 - Spirit and Opportunity surveyed the amount and distribution of dust and water ice in the Martian atmosphere, using cameras and spectrometers that measured the absorption of different wavelengths of light. As the seasons changed from summer to fall to winter to spring, the rovers monitored changes in temperature at different heights above the surface and at different times of day.
 - Measuring infrared radiation (heat) associated with specific minerals, the rovers identified and mapped minerals in rocks and soils. Key among these was hematite, an iron-bearing mineral often associated with water originally mapped by the Odyssey spacecraft. After being sent to the same area to get a closer look, Opportunity did indeed find hematite in rock outcrops as well as in high concentrations in the rounded, blueberry-size concretions.
-
-- 
- 
-Pancam
-Panoramic Camera
-
-for determining the mineralogy, texture, and structure of the local terrain.
- 
-Mini-TES
-Miniature Thermal Emission Spectrometer
-
-for identifying promising rocks and soils for closer examination and for determining the processes that formed Martian rocks. The instrument is designed to look skyward to provide temperature profiles of the Martian atmosphere.
- 
-MB
-Mössbauer Spectrometer
-
-for close-up investigations of the mineralogy of iron-bearing rocks and soils.
- 
-APXS
-Alpha Particle X-Ray Spectrometer
-
-for close-up analysis of the abundances of elements that make up rocks and soils.
- 
-Magnets
-Magnets
-
-for collecting magnetic dust particles. The Mössbauer Spectrometer and the Alpha Particle X-ray Spectrometer were designed to analyze the particles collected and help determine the ratio of magnetic particles to non-magnetic particles. They also analyze the composition of magnetic minerals in airborne dust and rocks that have been ground by the Rock Abrasion Tool
- 
-MI
-Microscopic Imager
-
-for obtaining close-up, high-resolution images of rocks and soils.
- 
-RAT
-Rock Abrasion Tool
-for removing dusty and weathered rock surfaces and exposing fresh material for examination by instruments onboard.
 
 
 ### Mars Reconnaissance Orbiter (NASA, 2005-202X)
