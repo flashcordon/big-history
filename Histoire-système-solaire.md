@@ -808,7 +808,7 @@ and no doubt lives into its development
 - [MAVEN (2013-203X)](#MAVEN-NASA-2013-203X)
 - [Mars Science Laboratory / Curiosity (NASA, 2011-)](#mars-science-laboratory--curiosity-nasa-2011-)
 - [InSight (NASA, 2018-2022)](#InSight-NASA-2018-2022)
-- [Mars 2020 / Perseverance (NASA, 2020-2023 ?)](#Mars-2020--Perseverance-NASA-2020-2023)
+- [Mars 2020 / Perseverance (NASA, 2020-2023 ?)](#mars-2020--perseverance-nasa-2020-2023-)
 
 ### Mariner 4 (NASA, 1964-1967)
 
