@@ -129,4 +129,4 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - Pour cela, des chercheurs de l'université de Stanford ont reproduit les conditions atmosphériques de Neptune en tirant sur des bouts de polystyrène avec des lasers surpuissants.
 - Non, c'est pas une blague, et oui, ça marche très bien, parce qu'ils ont réussi à former des diamants en à peine quelques nanosecondes !
 - On pense aujourd'hui que ces diamants se forment en continu dans les profondeurs de l'atmosphère de Neptune, et qu'ils peuvent grossir jusqu'à atteindre 200 kg avant de tomber sur le noyau de la planète. 
-- Ce qui fait des pluies de diamants de Neptune l'un des panoramas les plus exotiques du système solaire.
+- Ce phénomène hallucinant fait de l'atmosphère de Neptune l'un des panoramas les plus exotiques du système solaire.
