@@ -973,7 +973,7 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 -  Chaque rover pèse environ 185 kg et se déplace sur six roues mues par l'énergie électrique fournie par des panneaux solaires. Il est équipé de trois paires de caméras utilisées pour la navigation et de plusieurs instruments scientifiques : une caméra panoramique située sur un mât à 1,5 mètre de hauteur, un outil pour abraser la surface des roches porté par un bras articulé sur lequel se trouvent également un spectromètre à rayons X, un spectromètre Mössbauer et une caméra microscope. Enfin, un spectromètre infrarouge est utilisé pour l'analyse des roches et de l'atmosphère. 
 -  Les objectifs scientifiques du programme ont été remplis avec la découverte par les deux robots de plusieurs formations rocheuses qui résultent probablement de l'action de l'eau dans le passé : billes d'hématite grise et silicates. Les robots ont également permis d'étudier les phénomènes météorologiques, d'observer des nuages et de caractériser les propriétés des couches de l'atmosphère martienne. 
 
--  La NASA assigne 7 objectifs scientifiques à la mission :
+- La NASA assigne 7 objectifs scientifiques à la mission :
 > * rechercher des roches et des sols témoignant de l'action passée de l'eau et déterminer leurs caractéristiques
 > * déterminer la distribution et la composition des minéraux, rochers et sols qui entourent les sites d'atterrissage
 > * déterminer les processus géologiques à l'origine de la formation des sols avoisinants et qui ont influencé leur chimie
@@ -981,7 +981,7 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 > * rechercher des minéraux contenant du fer, identifier et quantifier les différents types de minéraux qui contiennent de l'eau ou ont été formés dans l'eau tels que les carbonates de fer
 > * déterminer les caractéristiques des minéraux ainsi que les textures des roches et des sols et spécifier les processus qui les ont créés
 > * rechercher des indices géologiques de la période où l'eau était présente sous forme liquide. Déterminer si ces environnements pouvaient être propices à la vie
--  Pour remplir ces missions, chaque MER est équipé de six instruments scientifiques :
+- Pour remplir ces missions, chaque MER est équipé de six instruments scientifiques :
 > * Une caméra panoramique, pour déterminer la minéralogie, la texture et la structure du terrain
 > * Un spectromètre infrarouge pour identifier des roches prometteuses et réaliser des profils de température de l'atmosphère martienne
 > * Un spectromètre Mössbauer pour analyser la minéralogie des roches et du sol contenant du fer.
@@ -993,18 +993,14 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
 ***Le voyage de Spirit***
 - Spirit a atterri le 3 janvier 2004 dans le cratère Gusev (145 km de diamètre), une dépression de 170 kilomètres de diamètre qui a peut-être accueilli un lac
-
+> Malheureusement, il n'y découvre aucune trace de sédimentation lacustre, ni d'affleurement rocheux.
+- Spirit se lance donc dans un grand périple recherche d'affleurements rocheux.
+- Durant son ascension des collines Columbi en 2004, les panneaux solaires du rover sont nettoyés par des tourbillons de poussière martienne, ce qui prolonge la durée de vie du rover.
 - En 2005, Spirit a observé de nombreux "dust devils" qui évoluent quotidiennement sur la surface martienne
+- En Mai 2008, alors que Spirit est en direction d'une formation géologique nommée "Von Braun", les roues du rover s'enfoncent dans le sable et ce dernier est coincé. Toutes les tentatives pour le dégager échouent. À partir de 2010, Spirit est considéré comme une station de mesure fixe.
+- La quantité d'énergie solaire diminue à mesure que l'hiver martien s'installe (le solstice de l'hiver martien est le 12 mai 2010). Le rover finit par se mettre en sommeil, et ne se réveille plus jamais.
 - Spirit a envoyé ses dernières données scientifiques à la Terre le 22 Mars 2010. Sa mission prend officiellement fin le 25 Mai 2011, lorsque la NASA abandonne ses tentatives de contact.
 - Au cours de ses 6 années d'activité, Spirit a parcouru 7.7 km en tout.
-
-- L'espoir de découvrir des traces d'une sédimentation lacustre est rapidement déçu : Spirit détecte essentiellement du basalte d'origine volcanique. Les sédiments existent peut-être mais sont enfouis sous des matériaux plus récents. Par ailleurs, le site d'atterrissage de Spirit ne présente aucun affleurement rocheux qui permettrait d'étudier le sous-sol. Le 10 février, le rover est dirigé vers un cratère d'impact de 192 m de diamètre nommé Bonneville, avec l'espoir que celui-ci soit suffisamment profond pour que des affleurements de roches y apparaissent39.
-- Après avoir parcouru 250 mètres depuis le site d'atterrissage, Spirit parvient au cratère Bonneville : celui n'est pas assez profond pour laisser apparaître des affleurements rocheux. L'impact de la météorite n'a pas été suffisant pour que les éjectas proviennent de la sous-couche volcanique. Le rover entame ensuite un long trajet vers les collines Columbia, le relief le plus proche distant de 2,3 km toujours dans l'espoir de trouver des affleurements rocheux. 
-- Spirit atteint la base des collines Columbia en juin 2004. 
-- Durant son ascension, les panneaux solaires du rover, qui se sont progressivement recouverts de poussière depuis l'atterrissage, retrouvent toute leur efficacité grâce à l'action des tourbillons de poussière martiens40. Le rover entame la descente vers la plaine et atteint en février 2006 un affleurement rocheux remarquable en forme de plateau situé au pied des collines baptisé Home Plate. Cet ensemble semble constitué de plusieurs couches rocheuses d'origine volcanique. 
-- En décembre 2008, Spirit entame un long trajet qui doit l'amener vers deux formations géologiques baptisées « Goddard » et « von Braun ».
-- Alors que Spirit est en route vers von Braun, début mai ses roues s'enfoncent dans une couche de sable et le rover ne parvient pas à se dégager43. L'équipe du JPL essaie de trouver une solution pour libérer Spirit en simulant sur Terre les manœuvres à effectuer à l'aide d'un modèle du rover placé sur une reproduction du sol martien. Plusieurs tentatives sont exécutées en essayant de faire reculer ou avancer prudemment Spirit mais toutes échouent. Début 2010, la NASA renonce à libérer Spirit : le rover qui a parcouru depuis son atterrissage 7 730,5 mètres agit désormais en tant que station de mesure fixe. 
-- Mais l'hiver martien approchant (le solstice de l'hiver martien est le 12 mai 2010), la quantité d'énergie disponible chute fortement. Or Spirit, immobilisé, ne peut pas orienter ses panneaux solaires de manière optimale. Le 30 mars, le satellite Mars Odyssey qui relaie les liaisons radio de Spirit signale qu'il n'a pas reçu l'émission radio programmée de Spirit. Le rover, qui ne recevait plus que 134 Wh par jour lors de la dernière communication réussie, s'est sans doute mis en sommeil pour ne pas descendre au-dessous d'un seuil d'énergie critique pour ses fonctions vitales. Mi-juillet 2010, malgré l'augmentation de l'énergie solaire reçue par les panneaux solaires, le rover est toujours silencieux44. 
 
 ***Le voyage d'Opportunity***
 - Opportunity se pose le 24 Janvier 2004 sur Meridiani Planum, un plateau choisi en raison de la présence d'un minéral appelé hématite (une forme d'oxyde ferreux) détecté depuis l'orbite par Mars Global Surveyor. La mission du rover est de chercher des indices d'une formation d'hématite par voie sédimentaire ou hydrothermale. 
@@ -1025,11 +1021,6 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - Perhaps most stunning of all was Opportunity's discovery of centimeter-scale rock layers overlapping and cutting into each other. Known as crossbeds, these layers had shapes and sizes that indicated that water once flowed on the surface of Mars. In nearby "Endurance Crater," a thick stack of exposed rock layers, some deposited by wind, suggested that water was intermittently present. Rich in the elements sulfur, chlorine, and bromine, many of the minerals studied by Opportunity had settled to the bottom of a salty body of water, known as a brine, to form deposits similar to those seen in salt flats in desert regions on Earth. 
 - One characteristic of rocks formed by flowing water are fine, undulating layers of sediment, like those at the bottom of a stream, that flow over and cut into one another, known as crossbeds. 
 
-
-
-- 
-
-
 -  L'objectif de la mission est de trouver des indices de la présence d'eau liquide à la surface de Mars dans des conditions qui auraient permis l'apparition de la vie. 
 -  De grandes concentrations d'hématite grise ont été repérées dans une zone proche à la fois de l'équateur et du méridien zéro martien, nommée pour cette raison Terra Meridiani (latitude 2° sud, longitude 0° à 5° ouest) par le spectromètre thermique TES de la sonde Mars Global Surveyor. L'hématite est un oxyde de fer dont la formule chimique est Fe2O3. L'hématite peut être comparée à de la rouille, mais sur Terra Meridiani, elle se présente sous forme d'hématite cristalline grise, susceptible d'avoir été créée en présence d'eau. Ce type de formation peut être formé par l'activité volcanique, ou par l'action de l'eau. C'est la raison qui explique le site d'atterrissage du rover Opportunity dans cette région, sur le plateau de Meridiani Planum
 - Les débuts de l'exploration du cratère Gusev par le rover Spirit ont été décevants car aucune preuve évidente de l'action de l'eau n'a été découverte mais une fois les collines Columbia atteintes, plusieurs sites ont prouvé que l'eau avait contribué à façonner certaines formations géologiques. Mais ce rôle semble lié à une activité volcanique plutôt qu'à des dépôts marins ou lacustres. Le rover Opportunity a par contre découvert des minéraux probablement créés par l'eau et des indices de sédiments laissés par des plans d'eau
@@ -1042,14 +1033,12 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
     une autre raison serait liée à la disparition de l'eau présente dans la roche lors de sa formation ;
     les fissures ont aussi pu se créer beaucoup plus tard après la formation de la roche. La création du cratère a pu dégager la roche en la ramenant à la surface. Elle serait alors devenue de nouveau humide puis le séchage aurait fait apparaître ces fissures polygonales
 
-
 - At a place called Comanche, Spirit found rocks ten times richer in key chemicals (magnesium and iron carbonates) than any other Martian rocks studied before. These rocks formed when Mars was warm and wet (had a thicker carbon-dioxide atmosphere and near-neutral-pH water). This warmer, watery environment could have supported life much better than the harshly acidic conditions the rover found elsewhere.
 - While dragging a wheel, Spirit churned up soil and found 90 percent pure silica at "Home Plate." On Earth, this kind of silica usually exists in hot springs or hot steam vents, where life as we know it often finds a hot, happy home. Perhaps ancient microbes on Mars did as well.
 - Spirit discovered that an ancient volcano erupted at "Home Plate," the rover's final resting place. Together, powerful steam eruptions from heated underground water produced some explosive volcanism. While violent, these extreme conditions can support microbial life on Earth. Once upon a time, maybe they did on Mars...
 
 - Spirit and Opportunity surveyed the amount and distribution of dust and water ice in the Martian atmosphere, using cameras and spectrometers that measured the absorption of different wavelengths of light. As the seasons changed from summer to fall to winter to spring, the rovers monitored changes in temperature at different heights above the surface and at different times of day.
 - Measuring infrared radiation (heat) associated with specific minerals, the rovers identified and mapped minerals in rocks and soils. Key among these was hematite, an iron-bearing mineral often associated with water originally mapped by the Odyssey spacecraft. After being sent to the same area to get a closer look, Opportunity did indeed find hematite in rock outcrops as well as in high concentrations in the rounded, blueberry-size concretions.
-
 
 ### Mars Reconnaissance Orbiter (NASA, 2005-202X)
 
