@@ -941,6 +941,34 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
 ### Mars Global Surveyor (NASA, 1996-2007)
 
+En novembre 1996, la NASA et le Jet Propulsion Laboratory (JPL) sonne le retour de l'exploration martienne (après une absence de près de 20 ans) en lançant la sonde Mars Global Surveyor
+
+La mission Global Surveyor a été décidé après la perte tragique de la sonde Mars Observer le 21 août 1993.
+
+Le lanceur utilisé est une fusée Delta II 7925
+
+Mars Global Surveyor se mettra en orbite grâce à une technique spéciale qui consiste à utiliser la résistance des hautes couches de l'atmosphère martienne pour ralentir, plutôt que d'avoir recourt à un moteur de freinage. 
+
+La sonde n'emporte plus que 6 des 8 instruments de Mars Observer
+ Les instruments embarqués sur MGS sont identiques à ceux de Mars Observer, car il n'était plus possible après la perte de cette dernière, de se lancer dans le développement de nouvelles expériences. 
+ Mars Global Surveyor ne pèse plus que 1050 kg
+ une boite rectangulaire flanquée de deux panneaux solaires
+ MGS est la première sonde américaine à être envoyée sur une autre planète avec des unités de stockage de type RAM à la place de la classique cassette magnétique
+ 
+ mise en orbite effectuée le 12 septembre 1997. Excepté un problème avec un panneau solaire (qui a perturbé le freinage atmosphérique et retardé la phase de cartographie d'une année), la mission a été un véritable triomphe.
+ La phase de cartographie a commencé officiellement en avril 1999 et s'est terminée le 24 janvier 2001. Mars Global Surveyor a ensuite bénéficié d'une extension de mission d'une durée d'une année martienne qui s'est achevée le 12 décembre 2002, et qui a ensuite été à nouveau reconduite trois fois par la NASA. La sonde a envoyé sa dernière transmission le 5 novembre 2006
+ La perte de Mars Global Surveyor serait due à une erreur qui se serait glissée dans des instructions logicielles envoyées à la sonde en juin 2006.
+ Mars Global Surveyor a témoigné d'une longévité exceptionnelle, puisque depuis son orbite, elle a inlassablement observé la planète Mars pendant 9 ans.
+ Cet orbiteur a retourné une masse considérable de données, dont plus de 240 000 images de la surface martienne (soit un peu moins de 5 fois le nombre d'images acquises par les deux orbiteurs Viking I et Viking II). La caméra MOC a en particulier observé à haute résolution un peu moins de 5 % de la surface martienne.
+ 
+ Mars Global Surveyor possède à son actif de nombreuses découvertes. La caméra MOC a ainsi imagé des traces d'écoulements récents, qui pourraient avoir été laissées par des torrents d'eau liquide (ce qui soulève un paradoxe de taille, la température et la pression à la surface de Mars n'étant pas compatibles avec l'existence d'eau liquide). Des preuves de la présence d'eau dans un passé bien plus lointain ont également été observées, sous la forme de gigantesques dépôts sédimentaires, ou d'un ancien delta. La caméra a également documenté le rôle de la poussière dans le façonnage actuel de la surface martienne, en particulier en imageant les superbes arabesques dessinées dans certaines régions par les tourbillons de poussière. L'altimètre laser MOLA a produit une carte topographique globale absolument époustouflante de la planète Mars, qui sert aujourd'hui de base à une multitude de travaux scientifiques. Cette carte a ainsi permis de mettre évidence l'existence d'une pente topographique marquée entre l'hémisphère sud et l'hémisphère nord, pente ayant pu favoriser un drainage de l'eau au niveau planétaire. Le spectromètre TES s'est quant à lui illustré en découvrant de l'hématite grise en de rares endroits de la surface martienne.
+ 
+ Le magnétomètre/réflectomètre à électrons MAG/ER a mis en évidence des champs magnétiques fossiles locaux, prouvant par la même que la planète rouge a possédé, dans un passé lointain, un champ magnétique global. Ayant observé le globe martien depuis un point de vue avantageux pendant plus de quatre années martiennes, Mars Global Surveyor a pu étudier les cycles annuels de l'eau, du dioxyde de carbone et de la poussière. La sonde a ainsi montré que le dépôt de dioxyde de carbone au niveau de la calotte polaire sud se réduisait d'année en année, signe éventuel d'un réchauffement climatique.
+ 
+ D'un point de vue technique, Mars Global Surveyor est également rentré dans l'histoire comme étant le premier satellite martien à avoir tiré parti de la technique du freinage atmosphérique pour ajuster son orbite. 
+ 
+ 
+
 ### Mars Odyssey (NASA, 2001-2025)
 
 ### Mars Express (ESA, 2003-2022)
