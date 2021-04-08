@@ -698,6 +698,14 @@ and no doubt lives into its development
 - [The Red Color Of Mars Is Only Millimeters Thick](https://www.forbes.com/sites/startswithabang/2021/03/11/the-red-color-of-mars-is-only-millimeters-thick/?sh=70bdaa433922) - Starts with a Bang (2021)
 - [Jarosite and Hematite at Meridiani Planum from Opportunity's Mössbauer Spectrometer](https://science.sciencemag.org/content/306/5702/1740?sid=56bc6a6d-f786-44b2-9a48-1e902a8f0b3a) - Klingelhöfer et al (2004)
 - [Spirit découvre de la silice pratiquement pure sur Mars](https://www.futura-sciences.com/sciences/actualites/astronautique-spirit-decouvre-silice-pratiquement-pure-mars-11890/) - Futura Science (2007)
+- [Mars Global Surveyor Mars Orbiter Camera: Interplanetary cruise through primary mission](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000JE001455) - Malin et Edgett (2001)
+- [Mars Global Surveyor](https://fr.wikipedia.org/wiki/Mars_Global_Surveyor#cite_note-64) - Wikipédia
+- [Mars Global Surveyor](https://mars.nasa.gov/mars-exploration/missions/mars-global-surveyor/) - NASA
+- [Perte de Mars Global Surveyor (MGS) : une erreur humaine](https://www.futura-sciences.com/sciences/actualites/univers-perte-mars-global-surveyor-mgs-erreur-humaine-10681/) - Futura Science (2007)
+- [L'exploration spatile, tout le reste](https://www.nirgal.net/explora_suite.html#mgs) - Nirgal
+- [Mars Global Surveyor, présentation de la sonde](https://www.nirgal.net/pres_mgs1.html) - Nirgal
+- [Statut de Mars Global Surveyor](https://www.nirgal.net/today_mgs2.html) - Nirgal
+- [Mars Global Surveyor Mission: Overview and Status](https://science.sciencemag.org/content/279/5357/1671.abstract) - Alby et al (1998)
 
 ---
 
@@ -1050,7 +1058,7 @@ Mars Global Surveyor est la première mission à revenir étudier la planète Ma
   des centaines de ravines ont été découvertes. Elles pourraient avoir été formées par la circulation d'eau liquide. Certaines de ces formations sont récentes
   les mesures effectuées montrent également que pratiquement toute la surface de Mars est recouverte par un sol d'origine volcanique
   
-    
+high‐resolution (1.5–20 m/pixel) photographic observations of the surface of Mars have dramatically changed our view of that planet.    
  
 
 ### Mars Odyssey (NASA, 2001-2025)
