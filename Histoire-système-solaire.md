@@ -1063,6 +1063,14 @@ high‐resolution (1.5–20 m/pixel) photographic observations of the surface of
 
 ### Mars Odyssey (NASA, 2001-2025)
 
+Mars Surveyor 2001 a été baptisé 2001 Mars Odyssey en hommage au film « 2001, l’Odyssée de l’espace » réalisé par le fameux cinéaste Stanley Kubrick et tiré de la nouvelle de science-fiction "la sentinelle" du non moins célèbre Arthur C. Clarke
+
+Mars Odyssey mesure 2,2 mètres de long pour 2,6 mètres de large et 1,7 mètres de haut. Au moment du lancement, l'orbiteur pèsait 725 kilogrammes 
+
+L'orbiteur tire son énergie d'un ensemble de trois panneaux solaires. 
+
+
+
 ### Mars Express (ESA, 2003-2022)
 
 - Mars Express est une sonde de l'ESA  de près d'une tonne (1052 kg) lancée le 2 Juin 2003 par un lanceur russe Soyouz. Il s'agit de la première mission d'exploration d'une autre planète du système solaire lancée ar l'ESA.
