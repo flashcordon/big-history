@@ -967,6 +967,90 @@ La sonde n'emporte plus que 6 des 8 instruments de Mars Observer
  
  D'un point de vue technique, Mars Global Surveyor est également rentré dans l'histoire comme étant le premier satellite martien à avoir tiré parti de la technique du freinage atmosphérique pour ajuster son orbite. 
  
+ Lorsque du lancement de la sonde MGS, l'un des panneaux solaires ne s'était pas complètement déployé ni verrouillé. Il s'était bloqué 20° avant sa position idéale. Apparemment, une petite pièce de métal s'était coincée dans la charnière du panneau solaire. Comme les panneaux solaires offrent la plus grande partie de la surface exposée à l'atmosphère martienne pendant la phase de freinage atmosphérique, les équipes au sol ont essayé de profiter de cette phase pour forcer le panneau à se déployer complètement. Comme la pression de l'air augmente au fur et à mesure que la sonde s'enfonce dans l'atmosphère martienne, le panneau aurait fini par atteindre sa position finale.
+ 
+  La phase de cartographie commencera seulement en 1999 au lieu de 1998, à cause du freinage plus progressif et d'une période de 6 mois (été 1998), pendant laquelle Mars va s'aligner correctement par rapport au Soleil pour permettre une cartographie globale par la sonde spatiale. MGS atteindra sa position orbitale finale en mi janvier 1999, et la cartographie commencera véritablement en mars 1999 au lieu de mars 1998 comme initialement prévu
+  
+   la suite d'évènements qui ont abouti à la perte de Mars Global Surveyor (MGS) en novembre 2006 a été provoquée par une erreur humaine.
+   
+   Cinq mois avant la panne qui a affecté l'engin, une nouvelle série de commandes ainsi qu'un renouvellement du programme informatique avaient été transmis depuis la Terre. Il s'agissait essentiellement d'une mise à jour tenant compte des plus récentes coordonnées orbitales, qui contenait les instructions nécessaires au maintien des panneaux solaires de Mars Global Surveyor vers le Soleil, ainsi que de son antenne à grand gain en direction de la Terre.
+
+Tout s'est bien passé jusqu'à ce jour fatidique du 2 novembre 2006, où après une commande routinière de réorientation de ses collecteurs solaires, la sonde s'est soudain mise à émettre une série d'alarmes sur son fonctionnement interne qui semblaient indiquer un mauvais fonctionnement des panneaux et une perte de puissance d'une des batteries, puis un nouveau signal indiquait que la situation était stabilisée. Mais onze heures plus tard, la puissance d'émission décroissait rapidement et le contact avec la Terre était définitivement perdu.
+
+Lorsque le vaisseau s'est retrouvé, par suite d'un concours de circonstances, dans une mauvaise configuration de vol, l'ordinateur de bord a aussitôt entrepris les manœuvres nécessaires afin de modifier son programme d'assiette. De fait, les panneaux solaires ont été à nouveau correctement orientés et la recharge des batteries, qui avait été interrompue durant ce temps, a pu reprendre.
+
+Mais pour effectuer ces manœuvres, l'ordinateur exécutait le nouveau logiciel qui avait été envoyé à la sonde quelque cinq mois plus tôt. Malheureusement, et cela les techniciens ignoraient, il comportait une erreur de programmation. Bien que sa position soit correcte en ce qui concerne l'orientation des panneaux et des antennes, Mars Global Surveyor se présentait à présent sous un angle qui exposait directement une de ses batteries au rayonnement solaire, paramètre qui n'avait apparemment pas été pris en compte. La surchauffe ainsi provoquée entraîna rapidement sa destruction, tandis que la seconde batterie s'épuisait rapidement.
+
+En onze heures exactement, toute l'énergie disponible à bord était épuisée et MGS, privée d'alimentation électrique, se mettait à dériver tandis que son antenne à grand gain se désalignait, rendant toute intervention à distance impossible.
+
+ a étudié de 1997 à 2006 l'atmosphère et la surface de la planète Mars en circulant sur une orbite héliosynchrone autour de celle-ci.
+ 
+ la sonde spatiale inaugure le recours à l'aérofreinage qui permet de réduire la quantité d'ergols transportée et donc d'abaisser les coûts.
+ 
+ Le déploiement incomplet d'un panneau solaire rallonge la phase d'aérofreinage qui s'achève en février 1999, soit 15 mois après la date prévue. La phase de recueil des données scientifiques débute alors et se prolonge jusqu'en octobre 2006 établissant un nouveau record de longévité. 
+ 
+  L'altimètre laser de MGS dresse la première carte topographique de la planète mettant en évidence les différences spectaculaires entre les hémisphères nord et sud. 
+  
+  La mission contribue à atteindre les quatre objectifs scientifiques du programme martien que la NASA s'est fixés à l'époque8 :
+
+    déterminer si la vie a pu apparaître sur Mars9 ;
+    définir les caractéristiques du climat martien10 ;
+    étudier la géologie de la planète11 ;
+    préparer les futures missions d'exploration avec équipage12.
+
+Pour contribuer à ces objectifs généraux, la mission doit13 :
+
+    caractériser les structures géologiques de surface et identifier les processus géologiques à l’œuvre ;
+    déterminer la composition, la distribution et les caractéristiques physiques des minéraux, roches et glaces présents en surface ;
+    déterminer la topographie globale de la planète, sa forme et son champ gravitationnel ;
+    étudier la météorologie martienne et la structure thermique de son atmosphère ;
+    étudier les interactions entre la surface de Mars et son atmosphère en observant les mouvements de retrait ou d'expansion des calottes polaires liés au cycle des saisons.
+
+La mission de MGS ayant été prolongée à plusieurs reprises, plusieurs objectifs ont été ajoutés après le lancement13 :
+
+    poursuivre les observations météorologiques de manière à ne pas créer de discontinuité dans les relevés jusqu'à l'arrivée de la sonde spatiale Mars Reconnaissance Orbiter en mars 2006 ;
+    prendre des photos des futurs sites d’atterrissage de Phoenix et de Mars Science Laboratory ;
+    observer et analyser les sites intéressants sur le plan scientifique tels que les affleurements sédimentaires ;
+    continuer à surveiller les changements en surface : phénomènes météorologiques et cycle des calottes polaires.
+    
+Mars Global Surveyor doit également assister les autres missions martiennes de la NASA en fournissant des données sur l'atmosphère aux orbiteurs de ce programme durant leurs opérations d'aérofreinage et en jouant le rôle de relais entre d'une part les atterrisseurs et rovers posés sur le sol de Mars et d'autre part la Terre
+
+MGS doit circuler sur une orbite héliosynchrone qui permet à la sonde spatiale de passer au-dessus de l'ensemble de la surface à la même heure solaire et donc dans des conditions d'éclairage identiques.
+
+Mars Global Surveyor, qui a approximativement la forme d'un parallélépipède de 3 mètres de haut avec une section de 1,2 × 1,2 mètre, pèse 1 030 kg au lancement dont 360,5 kg d'ergols et 75,6 kg d'instrumentation scientifique. La structure de la sonde spatiale est réalisée essentiellement en aluminium avec des panneaux en fibre de carbone. Les panneaux solaires, qui sont déployés dès que la sonde spatiale est dans l'espace, portent l'envergure à 12 mètres.
+
+Mars Global Surveyor emporte cinq instruments tous développés initialement pour la mission Mars Observer
+Caméra MOC
+regroupe deux instruments distincts :
+
+    le premier est une caméra dotée d'un puissant téléobjectif,  Cette caméra est conçue pour obtenir des images détaillées des structures géologiques de la surface avec une résolution spatiale effective comprise entre 2,5 et 3 mètres.
+    le deuxième est constitué de deux caméras fixées sur le cache optique du téléobjectif et dotées d'un objectif grand angle aux caractéristiques optiques très proches  L'ensemble atteint, à une altitude de 380 km, une résolution spatiale théorique de 280 mètres par pixel au nadir du satellite et de 2 km lorsque la visée se fait sur le limbe de la planète. Les caméras grand angle fournissent des images globales de l'atmosphère et de la surface de Mars permettant d'identifier les principaux phénomènes atmosphériques.
+    Le spectromètre TES (Thermal Emission Spectrometer) analyse le rayonnement infrarouge émis par la surface.
+    Les données collectées permettent notamment de déterminer les principales caractéristiques des roches et du sol : granularité, identification des minéraux. L'instrument est également utilisé pour déterminer la nature et la position des nuages et des poussières. 
+    L'altimètre laser MOLA (Mars Orbiter Laser Altimeter) mesure l'altitude de la surface de Mars
+    Le magnétomètre MAG et le réflectomètre à électrons (MGS Electron Reflectometer) doivent identifier les caractéristiques du champ magnétique de la planète ou ses rémanences en déterminant son intensité et sa direction.
+    Un oscillateur ultra stable fournissant un signal radio particulièrement précis est utilisé pour mener des expériences reposant sur le système de communication de la sonde spatiale (RSI Radio Science Investigations). Il s'agit d'une part d'expériences d'occultation radio : lorsque l'atmosphère martienne s'interpose entre l'instrument et la Terre (peu avant le survol des pôles), les modifications affectant les ondes radio permettent de déterminer certaines propriétés de cette atmosphère. Le même système est utilisé pour mesurer les caractéristiques du champ gravitationnel martien ; les irrégularités affectant la structure interne de la planète sont déterminées en mesurant par effet Doppler les accélérations et les décélérations de la sonde spatiale qui découlent des variations locales du champ de gravité martien. 
+    
+Mars Global Surveyor est lancée le 7 novembre 1996 depuis la base de Cap Canaveral en Floride par une fusée Delta-7925 
+Mars Global Surveyor est la première mission à revenir étudier la planète Mars depuis les sondes spatiales du programme Viking lancées vingt ans auparavant. 
+ Au cours de son séjour, la sonde spatiale a collecté et transmis environ 5 térabits de données et plus de 244 000 images. 
+ MGS a néanmoins transmis 97 000 images à haute définition couvrant 5,2 % de la surface de Mars. 
+ L'altimètre MOLA a permis de dresser une carte topographique de Mars exceptionnellement précise et spectaculaire qui sert toujours de référence début 2016. La caractéristique la plus frappante de la planète est la dichotomie entre un hémisphère sud constitué de terrains élevés parsemés de cratères et âgés (Noachien) et l'hémisphère nord recouvert de plaines situées à une altitude inférieure de 3 à 6 km, pratiquement dépourvues de relief apparent et formées de sols plus jeunes et présentant peu de cratères visibles. 
+ 
+ L'étude du champ gravitationnel martien, déduit des accélérations de MGS mesurées par effet Doppler sur le signal radio, a confirmé la dichotomie entre l'hémisphère sud et l'hémisphère nord de la planète : au sud, la croute est épaisse avec peu d'anomalies, tandis qu'au nord, elle s'amincit et comporte de nombreuses anomalies. Les anomalies les plus notables se trouvent au niveau des volcans du dôme de Tharsis et de Valles Marineris. Dans l'hémisphère nord, certaines anomalies n'ont pas de correspondance topographique et pourraient correspondre à des bassins d'impact comblés par des dépôts volcaniques ou des sédiments
+ 
+ La première découverte attribuable à Mars Global Surveyor est réalisée par son magnétomètre et réflectomètre à électrons MAG/ER. Alors qu'aucune magnétosphère, manifestation habituelle d'un champ magnétique, n'avait été identifiée par les sondes spatiales précédentes, l'instrument permet de découvrir que Mars dispose d'un tel champ dont l'intensité atteint 1,5 µT à 100 km d'altitude. Ce champ magnétique n'a pas la structure dipolaire qui résulterait de l'effet dynamo produit par les mouvements d'un noyau liquide au cœur de la planète comme c'est le cas pour la Terre. Il résulte d'un magnétisme rémanent
+ 
+ La découverte la plus importante effectuée grâce aux données du spectromètre infrarouge TES est la présence d’hématite grise sur deux sites : dans la région de Terra Meridiani, près de l'équateur martien à 0° de longitude, et dans l'Aram Chaos, près de Valles Marineris. Ces grains cristallisés d'oxyde de fer, qui se forment en milieu aqueux ou par altération de terrains par le passage de l'eau, ont soulevé un grand intérêt scientifique car ils constituent un indice de la présence d’eau liquide dans un passé lointain
+ 
+ Les données collectées par le spectromètre infrarouge TES montrent que la surface de Mars comporte essentiellement deux grandes catégories de terrain. Les basaltes, roches volcaniques à faible teneur de silice, produites par des coulées de laves très fluides dominent sur les hauts plateaux de l'hémisphère sud, en particulier dans la région de Syrtis Major, Terra Cimmeria et Noachis Terra. Dans l'hémisphère nord et plus particulièrement à Acidalia Planitia, dans le nord-ouest de Syrtis Major et dans les plaines de Vastitas Borealis, la roche dominante est l'andésite, également volcanique mais dont la teneur en silice est plus élevée et qui est formée par des laves moins fluides
+ 
+  L'altimètre MOLA a mesuré les variations d'épaisseur des calottes polaires dues à la sublimation, au transport et au dépôt de l'eau et du dioxyde de carbone sous l'effet des variations de température. Aux latitudes supérieures à 80°, l'épaisseur de la calotte régresse de plusieurs mètres. 
+  
+  des centaines de ravines ont été découvertes. Elles pourraient avoir été formées par la circulation d'eau liquide. Certaines de ces formations sont récentes
+  les mesures effectuées montrent également que pratiquement toute la surface de Mars est recouverte par un sol d'origine volcanique
+  
+    
  
 
 ### Mars Odyssey (NASA, 2001-2025)
