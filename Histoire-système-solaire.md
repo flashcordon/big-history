@@ -983,16 +983,12 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - Malgré de nombreux problèmes techniques, la sonde a rempli tous ses objectifs
 > * Elle a transmis 625 GO de données et plus de 244 000 iamges au cours de sa mission, dont 97 000 images en haute définition couvrant près de 5% de la surface de Mars
 > * Son altimètre a réalisé la première carte topographique de Mars, et a mis en évidence une dichotomie spectaculaire entre les terrains de l'hémisphère nord et sud. En effet, l'hémisphère sud est plus élevé que l'hémisphère nord de 3 à 6 km ! De plus, l'hémisphère sud est parsemé de cratères âgés du Noachien, et l'hémisphère nord de plaines quasiment sans relief apparent et avec peu de cratères. Cette dichotomie a été confirmée par l'étude du champ gravitationnel de la planète : la croûte est épaisse dans l'hémisphère sud, et plus mince dans l'hémisphère nord.
-> * MGS est la première sonde à détecter un champ magnétique rémanent autour de certaines régions de la planète Mars (d'une intensité de 1,5 µT à 100 km d'altitude)
+> * Le spectromètre infrarouge de la sonde a permis de montrer que la surface de Mars est recouerte d'un sol d'origine volcanique principalement constituée de 2 types de roches : les basaltes, qui dominent les hauts plateaux de l'hémisphère sud, et l'andésite, qui domine les terrains de l'hémisphère nord et qui contient plus de silice que les basaltes.
+> * MGS est la première sonde à détecter un champ magnétique rémanent localisé autour de certaines régions de la planète Mars (d'une intensité de 1,5 µT à 100 km d'altitude), ce qui prouve qu'elle a possédé un champ magnétique global par le passé.
 > * Le spectromètre de la sonde a aussi découvert de grandes quantités d'hématite grise dans la région de Terra Meridiani et dans l'Aram Chaos. Ces oxydes ferreux sont des indices trahissant la présence d'eau liquide dans le passé.
 > * L'altimètre de la sonde a mesuré les variations d'épaisseur des calottes polaires au fil des saisons
+> * La sonde a aussi découvert des centaines de ravines et des dépots sédimentaires qui témoignent potentiellement de la circulation d'eau liquide par le passé. Certaines de ces traces sont curieusement récentes, parce qu'on ne pense pas que Mars possède les conditions nécessaires pour avoir de l'eau liquide à sa surface.
  
- Les données collectées par le spectromètre infrarouge TES montrent que la surface de Mars comporte essentiellement deux grandes catégories de terrain. Les basaltes, roches volcaniques à faible teneur de silice, produites par des coulées de laves très fluides dominent sur les hauts plateaux de l'hémisphère sud, en particulier dans la région de Syrtis Major, Terra Cimmeria et Noachis Terra. Dans l'hémisphère nord et plus particulièrement à Acidalia Planitia, dans le nord-ouest de Syrtis Major et dans les plaines de Vastitas Borealis, la roche dominante est l'andésite, également volcanique mais dont la teneur en silice est plus élevée et qui est formée par des laves moins fluides
- 
-  des centaines de ravines ont été découvertes. Elles pourraient avoir été formées par la circulation d'eau liquide. Certaines de ces formations sont récentes
-  les mesures effectuées montrent également que pratiquement toute la surface de Mars est recouverte par un sol d'origine volcanique
- 
-
  D'un point de vue technique, Mars Global Surveyor est également rentré dans l'histoire comme étant le premier satellite martien à avoir tiré parti de la technique du freinage atmosphérique pour ajuster son orbite. 
  
 Mars Global Surveyor se mettra en orbite grâce à une technique spéciale qui consiste à utiliser la résistance des hautes couches de l'atmosphère martienne pour ralentir, plutôt que d'avoir recourt à un moteur de freinage. 
@@ -1002,10 +998,6 @@ Mars Global Surveyor se mettra en orbite grâce à une technique spéciale qui c
  La perte de Mars Global Surveyor serait due à une erreur qui se serait glissée dans des instructions logicielles envoyées à la sonde en juin 2006.
  Mars Global Surveyor a témoigné d'une longévité exceptionnelle, puisque depuis son orbite, elle a inlassablement observé la planète Mars pendant 9 ans.
  Cet orbiteur a retourné une masse considérable de données, dont plus de 240 000 images de la surface martienne (soit un peu moins de 5 fois le nombre d'images acquises par les deux orbiteurs Viking I et Viking II). La caméra MOC a en particulier observé à haute résolution un peu moins de 5 % de la surface martienne.
- 
- Mars Global Surveyor possède à son actif de nombreuses découvertes. La caméra MOC a ainsi imagé des traces d'écoulements récents, qui pourraient avoir été laissées par des torrents d'eau liquide (ce qui soulève un paradoxe de taille, la température et la pression à la surface de Mars n'étant pas compatibles avec l'existence d'eau liquide). Des preuves de la présence d'eau dans un passé bien plus lointain ont également été observées, sous la forme de gigantesques dépôts sédimentaires, ou d'un ancien delta. La caméra a également documenté le rôle de la poussière dans le façonnage actuel de la surface martienne, en particulier en imageant les superbes arabesques dessinées dans certaines régions par les tourbillons de poussière. L'altimètre laser MOLA a produit une carte topographique globale absolument époustouflante de la planète Mars, qui sert aujourd'hui de base à une multitude de travaux scientifiques. Cette carte a ainsi permis de mettre évidence l'existence d'une pente topographique marquée entre l'hémisphère sud et l'hémisphère nord, pente ayant pu favoriser un drainage de l'eau au niveau planétaire. Le spectromètre TES s'est quant à lui illustré en découvrant de l'hématite grise en de rares endroits de la surface martienne.
- 
- Le magnétomètre/réflectomètre à électrons MAG/ER a mis en évidence des champs magnétiques fossiles locaux, prouvant par la même que la planète rouge a possédé, dans un passé lointain, un champ magnétique global. Ayant observé le globe martien depuis un point de vue avantageux pendant plus de quatre années martiennes, Mars Global Surveyor a pu étudier les cycles annuels de l'eau, du dioxyde de carbone et de la poussière. La sonde a ainsi montré que le dépôt de dioxyde de carbone au niveau de la calotte polaire sud se réduisait d'année en année, signe éventuel d'un réchauffement climatique.
  
  Lorsque du lancement de la sonde MGS, l'un des panneaux solaires ne s'était pas complètement déployé ni verrouillé. Il s'était bloqué 20° avant sa position idéale. Apparemment, une petite pièce de métal s'était coincée dans la charnière du panneau solaire. Comme les panneaux solaires offrent la plus grande partie de la surface exposée à l'atmosphère martienne pendant la phase de freinage atmosphérique, les équipes au sol ont essayé de profiter de cette phase pour forcer le panneau à se déployer complètement. Comme la pression de l'air augmente au fur et à mesure que la sonde s'enfonce dans l'atmosphère martienne, le panneau aurait fini par atteindre sa position finale.
  
@@ -1026,8 +1018,6 @@ En onze heures exactement, toute l'énergie disponible à bord était épuisée 
  la sonde spatiale inaugure le recours à l'aérofreinage qui permet de réduire la quantité d'ergols transportée et donc d'abaisser les coûts.
  
  Le déploiement incomplet d'un panneau solaire rallonge la phase d'aérofreinage qui s'achève en février 1999, soit 15 mois après la date prévue. La phase de recueil des données scientifiques débute alors et se prolonge jusqu'en octobre 2006 établissant un nouveau record de longévité. 
- 
-Mars Global Surveyor doit également assister les autres missions martiennes de la NASA en fournissant des données sur l'atmosphère aux orbiteurs de ce programme durant leurs opérations d'aérofreinage et en jouant le rôle de relais entre d'une part les atterrisseurs et rovers posés sur le sol de Mars et d'autre part la Terre
 
 ### Mars Odyssey (NASA, 2001-2025)
 
