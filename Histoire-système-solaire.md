@@ -1091,24 +1091,11 @@ high‐resolution (1.5–20 m/pixel) photographic observations of the surface of
 - Elle a découvert de grandes concentrations d'olivine dans un canyon de Valles Marineris
 > Lorsque l'olivine est en présence d'eau, elle se transforme en serpentine. La présence d'olivine signifie que Mars est restée sèche à cet endroit pendant très longtemps
 - Le détecteur de radiations a enregistré des niveaux de radiations 2 à 3 fois plus grands que ceux enregistrés au niveau de l'ISS, et ces derniers peuvent grimper jusqu'à 100 fois à la suite d'une tempête solaire.
-- La sonde a produit la première 
+- La sonde a produit la première carte globale de Mars en lumière visible et infrarouge avec une résolution de 10 mètres, à partir de 21 000 photos réalisées par le spectro-imageur THEMIS. Il s'agit de la carte globale la plus détaillée à ce jour de la surface martienne.
 - La mission principale de Mars Odyssey a duré 917 jours terrestres (fin officielle : 24 août 2004) et a accompli tous ses objectifs. Depuis, la sonde sert de relai de transmission pour les engins au sol.
-> Elle a notamment participé à déterminer les sites d'atterrissage de Spirit et Opportunity, et a retransmis à la Terre 90% de leurs données.
+> Elle a notamment participé à déterminer les sites d'atterrissage de Spirit et Opportunity, et a retransmis à la Terre près de 85% de leurs données.
 - La sonde est toujours en activité aujourd'hui, ce qui en fait la plus longue mission spatiale autour d'une autre planète de l'Histoire.
-    
-Odyssey has delivered on those goals. It measured the amount and depth of water ice across the planet, helped us create the most detailed global map of Mars ever, and found landing sites for rover missions where surface materials formed in water. 
-
-Odyssey transmitted about 85 percent of the data from NASA’s Spirit and Opportunity rovers and continues to serve as a data relay for InSight.
-
-During its first year around Mars, Odyssey found the first direct evidence of subsurface water on the planet. 
-
-Odyssey has played a pivotal role in changing how we think about Mars,” says Lori Glaze, NASA’s Planetary Science Division director. “It has really changed our perception of a planet that [we thought] was a dry desert to one that’s a frozen desert.”
-
-One of Odyssey’s greatest achievements, however, was its comprehensive map of the Red Planet. In 2010, researchers combined some 21,000 THEMIS images to create the most accurate global map of Mars to date. According to Plaut, the map is now the starting point for almost all geologic studies undertaken on the Red Planet.
-
-Mars Odyssey a parfaitement rempli sa mission : les instruments de la sonde spatiale ont permis de mettre en évidence de grandes quantités de glace stockées sous les deux pôles et l'abondance particulièrement importante du potassium. Le spectromètre imageur THEMIS a servi à établir une carte globale de Mars en lumière visible et en infrarouge et montré la présence de grandes concentrations d'olivine qui prouvent que la période sèche que connait Mars a débuté il y a très longtemps. Enfin, les données fournies par la sonde ont été utilisées pour sélectionner les sites d'atterrissages des rovers MER. 
-
-. Une couverture photographique globale de Mars en lumière visible et en infrarouge (de nuit) a été réalisée pour la première fois avec une résolution de 10 mètres. 
+- Selon Lori Glaze, directrice de la Division des sciences planétaires de la Direction des missions scientifiques de la NASA, “It (Mars Odysssey) has really changed our perception of a planet that [we thought] was a dry desert to one that’s a frozen desert.”
 
 ### Mars Express (ESA, 2003-2022)
 
