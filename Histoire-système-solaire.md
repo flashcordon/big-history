@@ -2227,6 +2227,9 @@ http://onlinelibrary.wiley.com/doi/10.1002/2013GL059078/full
 - [Polar lights on Uranus](https://www.esa.int/ESA_Multimedia/Images/2018/11/Polar_lights_on_Uranus) - ESA (2018)
 - [Uranus 101](https://www.youtube.com/watch?v=m4NXbFOiOGk) - National Geographic
 - [Voyager : 40 years in space](https://youtu.be/nPSQcXs3DJI) - Conférence de Alan Cummings
+- [Uranus is belching X-rays and is weirder than we ever thought](https://www.space.com/uranus-emitting-x-rays-chandra-observations) - Space.com
+- [Uranus: First X-rays From Uranus Discovered](https://chandra.si.edu/photo/2021/uranus/) - Chandra X-Ray Observatory
+- [A Low Signal Detection of X‐Rays From Uranus](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JA028739) - Dunn et al (2021)
 
 ---
 
@@ -2242,6 +2245,7 @@ http://onlinelibrary.wiley.com/doi/10.1002/2013GL059078/full
 
 ## Propriétés d'Uranus
 
+- The planet, which has four times the diameter of Earth, rotates on its side, making it different from all other planets in the solar system. 
 - Uranus est ce que l'on appelle une géante de glace.
 - Uranus est 20 fois plus éloignée du Soleil que la Terre (19,8 AU). Un rayon de Soleil met 2h40 à l'atteindre.
 - Uranus met 84 ans terrestres à orbiter autour du Soleil, et 17h terrestres à faire un tour complet sur elle-même (dans le sens constraire de la plupart des planètes).
@@ -2253,6 +2257,19 @@ http://onlinelibrary.wiley.com/doi/10.1002/2013GL059078/full
 - Uranus est 4 fois plus large que la Terre
 - Elle possède 2 systèmes d'anneau. Le système interne comprend 9 anneaux (gris foncé), le système externe 2 (rougeatre et bleuatre).
 - Son champ magnétique présente aussi une forme particulière par rapport aux autres planètes. Son axe fait un angle de 60 degrés avec son axe de rotation, ce qui fait que les aurores sur Uranus ne sont pas des aurores polaires, comme sur Terre, sur Jupiter et Saturne.
+
+- En 2021, la NASA a annoncé la découverte de rayons X émanant d'Uranus. 
+> Les chercheurs ont pour cela utilisé les données de la sonde Chandra, qui a observé la planète dans ces longueurs d'ondes en 2002 et en 2017
+
+Like Jupiter and Saturn, Uranus and its rings appear to mainly produce X-rays by scattering solar X-rays, but some may also come from auroras.
+
+What could cause Uranus to emit X-rays? The answer: mainly the Sun. Astronomers have observed that both Jupiter and Saturn scatter X-ray light given off by the Sun, similar to how Earth's atmosphere scatters the Sun's light. While the authors of the new Uranus study initially expected that most of the X-rays detected would also be from scattering, there are tantalizing hints that at least one other source of X-rays is present. If further observations confirm this, it could have intriguing implications for understanding Uranus.
+
+One possibility is that the rings of Uranus are producing X-rays themselves, which is the case for Saturn's rings. Uranus is surrounded by charged particles such as electrons and protons in its nearby space environment. If these energetic particles collide with the rings, they could cause the rings to glow in X-rays. Another possibility is that at least some of the X-rays come from auroras on Uranus, a phenomenon that has previously been observed on this planet at other wavelengths.
+
+On Earth, we can see colorful light shows in the sky called auroras, which happen when high-energy particles interact with the atmosphere. X-rays are emitted in Earth's auroras, produced by energetic electrons after they travel down the planet's magnetic field lines to its poles and are slowed down by the atmosphere. Jupiter has auroras, too. The X-rays from auroras on Jupiter come from two sources: electrons traveling down magnetic field lines, as on Earth, and positively charged atoms and molecules raining down at Jupiter's polar regions. However, scientists are less certain about what causes auroras on Uranus. Chandra's observations may help figure out this mystery.
+
+Uranus is an especially interesting target for X-ray observations because of the unusual orientations of its spin axis and its magnetic field. While the rotation and magnetic field axes of the other planets of the solar system are almost perpendicular to the plane of their orbit, the rotation axis of Uranus is nearly parallel to its path around the Sun. Furthermore, while Uranus is tilted on its side, its magnetic field is tilted by a different amount, and offset from the planet's center. This may cause its auroras to be unusually complex and variable. Determining the sources of the X-rays from Uranus could help astronomers better understand how more exotic objects in space, such as growing black holes and neutron stars, emit X-rays.
 
 ## Missions vers Uranus
 
