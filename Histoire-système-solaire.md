@@ -982,8 +982,16 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 - La mission a ensuite été prolongée plusieurs fois, et a envoyé ses dernières données à la Terre le 5 Novembre 2006.
 - Malgré de nombreux problèmes techniques, la sonde a rempli tous ses objectifs
 > * Elle a transmis 625 GO de données et plus de 244 000 iamges au cours de sa mission, dont 97 000 images en haute définition couvrant près de 5% de la surface de Mars
-> * Son altimètre a réalisé la première carte topographique de Mars, et a mis en évidence une dichotomie spectaculaire entre les terrains de l'hémisphère nord et sud.
-
+> * Son altimètre a réalisé la première carte topographique de Mars, et a mis en évidence une dichotomie spectaculaire entre les terrains de l'hémisphère nord et sud. En effet, l'hémisphère sud est plus élevé que l'hémisphère nord de 3 à 6 km ! De plus, l'hémisphère sud est parsemé de cratères âgés du Noachien, et l'hémisphère nord de plaines quasiment sans relief apparent et avec peu de cratères. Cette dichotomie a été confirmée par l'étude du champ gravitationnel de la planète : la croûte est épaisse dans l'hémisphère sud, et plus mince dans l'hémisphère nord.
+> * MGS est la première sonde à détecter un champ magnétique rémanent autour de certaines régions de la planète Mars (d'une intensité de 1,5 µT à 100 km d'altitude)
+> * Le spectromètre de la sonde a aussi découvert de grandes quantités d'hématite grise dans la région de Terra Meridiani et dans l'Aram Chaos. Ces oxydes ferreux sont des indices trahissant la présence d'eau liquide dans le passé.
+> * L'altimètre de la sonde a mesuré les variations d'épaisseur des calottes polaires au fil des saisons
+ 
+ Les données collectées par le spectromètre infrarouge TES montrent que la surface de Mars comporte essentiellement deux grandes catégories de terrain. Les basaltes, roches volcaniques à faible teneur de silice, produites par des coulées de laves très fluides dominent sur les hauts plateaux de l'hémisphère sud, en particulier dans la région de Syrtis Major, Terra Cimmeria et Noachis Terra. Dans l'hémisphère nord et plus particulièrement à Acidalia Planitia, dans le nord-ouest de Syrtis Major et dans les plaines de Vastitas Borealis, la roche dominante est l'andésite, également volcanique mais dont la teneur en silice est plus élevée et qui est formée par des laves moins fluides
+ 
+  des centaines de ravines ont été découvertes. Elles pourraient avoir été formées par la circulation d'eau liquide. Certaines de ces formations sont récentes
+  les mesures effectuées montrent également que pratiquement toute la surface de Mars est recouverte par un sol d'origine volcanique
+ 
 
  D'un point de vue technique, Mars Global Surveyor est également rentré dans l'histoire comme étant le premier satellite martien à avoir tiré parti de la technique du freinage atmosphérique pour ajuster son orbite. 
  
@@ -1020,24 +1028,6 @@ En onze heures exactement, toute l'énergie disponible à bord était épuisée 
  Le déploiement incomplet d'un panneau solaire rallonge la phase d'aérofreinage qui s'achève en février 1999, soit 15 mois après la date prévue. La phase de recueil des données scientifiques débute alors et se prolonge jusqu'en octobre 2006 établissant un nouveau record de longévité. 
  
 Mars Global Surveyor doit également assister les autres missions martiennes de la NASA en fournissant des données sur l'atmosphère aux orbiteurs de ce programme durant leurs opérations d'aérofreinage et en jouant le rôle de relais entre d'une part les atterrisseurs et rovers posés sur le sol de Mars et d'autre part la Terre
-
-MGS doit circuler sur une orbite héliosynchrone qui permet à la sonde spatiale de passer au-dessus de l'ensemble de la surface à la même heure solaire et donc dans des conditions d'éclairage identiques.
-    
- L'altimètre MOLA a permis de dresser une carte topographique de Mars exceptionnellement précise et spectaculaire qui sert toujours de référence début 2016. La caractéristique la plus frappante de la planète est la dichotomie entre un hémisphère sud constitué de terrains élevés parsemés de cratères et âgés (Noachien) et l'hémisphère nord recouvert de plaines situées à une altitude inférieure de 3 à 6 km, pratiquement dépourvues de relief apparent et formées de sols plus jeunes et présentant peu de cratères visibles. 
- 
- L'étude du champ gravitationnel martien, déduit des accélérations de MGS mesurées par effet Doppler sur le signal radio, a confirmé la dichotomie entre l'hémisphère sud et l'hémisphère nord de la planète : au sud, la croute est épaisse avec peu d'anomalies, tandis qu'au nord, elle s'amincit et comporte de nombreuses anomalies. Les anomalies les plus notables se trouvent au niveau des volcans du dôme de Tharsis et de Valles Marineris. Dans l'hémisphère nord, certaines anomalies n'ont pas de correspondance topographique et pourraient correspondre à des bassins d'impact comblés par des dépôts volcaniques ou des sédiments
- 
- La première découverte attribuable à Mars Global Surveyor est réalisée par son magnétomètre et réflectomètre à électrons MAG/ER. Alors qu'aucune magnétosphère, manifestation habituelle d'un champ magnétique, n'avait été identifiée par les sondes spatiales précédentes, l'instrument permet de découvrir que Mars dispose d'un tel champ dont l'intensité atteint 1,5 µT à 100 km d'altitude. Ce champ magnétique n'a pas la structure dipolaire qui résulterait de l'effet dynamo produit par les mouvements d'un noyau liquide au cœur de la planète comme c'est le cas pour la Terre. Il résulte d'un magnétisme rémanent
- 
- La découverte la plus importante effectuée grâce aux données du spectromètre infrarouge TES est la présence d’hématite grise sur deux sites : dans la région de Terra Meridiani, près de l'équateur martien à 0° de longitude, et dans l'Aram Chaos, près de Valles Marineris. Ces grains cristallisés d'oxyde de fer, qui se forment en milieu aqueux ou par altération de terrains par le passage de l'eau, ont soulevé un grand intérêt scientifique car ils constituent un indice de la présence d’eau liquide dans un passé lointain
- 
- Les données collectées par le spectromètre infrarouge TES montrent que la surface de Mars comporte essentiellement deux grandes catégories de terrain. Les basaltes, roches volcaniques à faible teneur de silice, produites par des coulées de laves très fluides dominent sur les hauts plateaux de l'hémisphère sud, en particulier dans la région de Syrtis Major, Terra Cimmeria et Noachis Terra. Dans l'hémisphère nord et plus particulièrement à Acidalia Planitia, dans le nord-ouest de Syrtis Major et dans les plaines de Vastitas Borealis, la roche dominante est l'andésite, également volcanique mais dont la teneur en silice est plus élevée et qui est formée par des laves moins fluides
- 
-  L'altimètre MOLA a mesuré les variations d'épaisseur des calottes polaires dues à la sublimation, au transport et au dépôt de l'eau et du dioxyde de carbone sous l'effet des variations de température. Aux latitudes supérieures à 80°, l'épaisseur de la calotte régresse de plusieurs mètres. 
-  
-  des centaines de ravines ont été découvertes. Elles pourraient avoir été formées par la circulation d'eau liquide. Certaines de ces formations sont récentes
-  les mesures effectuées montrent également que pratiquement toute la surface de Mars est recouverte par un sol d'origine volcanique
- 
 
 ### Mars Odyssey (NASA, 2001-2025)
 
