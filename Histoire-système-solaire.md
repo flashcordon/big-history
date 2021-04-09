@@ -1070,26 +1070,28 @@ high‐resolution (1.5–20 m/pixel) photographic observations of the surface of
 
 ### Mars Odyssey (NASA, 2001-2025)
 
-Mars Surveyor 2001 a été baptisé 2001 Mars Odyssey en hommage au film « 2001, l’Odyssée de l’espace » réalisé par le fameux cinéaste Stanley Kubrick et tiré de la nouvelle de science-fiction "la sentinelle" du non moins célèbre Arthur C. Clarke
+- 2001 Mars Odyssey est une sonde de 725 kg de la NASA lancée vers Mars le 7 avril 2001 par une fusée Delta II-7425
+> Son nom est un hommage à 2001 l'Odyssée de l'espace de Stanley Kubrick (inspiré du roman "La sentinelle" d'Arthur C Clarke)
+- Mars Odyssey mesure 2,2 m de long, 2,6 m de large et 1,7 m de haut, et est alimenté par 3 panneaux solaires
+- La sonde arrive en orbite martienne le 24 octobre 2001 à 4h26 (heure française). 3 jours plus tard, elle entame 3 mois d'aérofreinage pour modifier ses paramètres orbitaux. À la fin, son orbite est un cercle quasi parfait qui passe par les pôles. La sonde réalise une orbite complète toutes les 2h.
+> Elle plonge à 322 reprises dans la haute atmosphère martienne
+- La mission Mars Odyssey a les objectifs scientifiques suivants :
+> * Cartographier la composition élémentaire globale de la surface martienne
+> * Déterminer l'abondance en hydrogène sous la surface martienne
+> * Acquérir des images et des spectres à haute résolution de la minéralogie de surface
+> * Analyser la morphologie de la surface
+> * Caractériser le niveau de radiations dans l'environnement spatial autour de Mars
+- La sonde dispose pour cela de 3 instruments scientifiques:
+> * un spectromètre gamma pour analyser la composition élémentaire de la surface martienne
+> * un spectro-imageur, pour étudier la minéralogie et la morphologie de la surface martienne. Il s'agit du seul imageur thermique actuellement en orbite autour de Mars.
+> * un instrument de mesure du niveau de radiation, pour quantifier les niveaux d'exposition des futurs astronautes martiens
+- La mission principale de Mars Odyssey dure 917 jours terrestres.
 
-Mars Odyssey mesure 2,2 mètres de long pour 2,6 mètres de large et 1,7 mètres de haut. Au moment du lancement, l'orbiteur pèsait 725 kilogrammes 
 
-L'orbiteur tire son énergie d'un ensemble de trois panneaux solaires. 
-
-La mise en orbite Mars a eu lieu le 24 octobre 2001 à 4h26 (heure française)
-
-Le samedi 27 octobre 2001, soit trois jours seulement après la mise en orbite, Mars Odyssey a entamé 3 longs mois d'aérofreinage. Cette technique délicate, validée par la sonde Mars Global Surveyor, consiste à effleurer à maintes reprises les hautes couches de l'atmosphère martienne pour modifier les paramètres orbitaux. 
-
-Après avoir plongé à 322 reprises dans la couche d'air ténu qui entoure la planète Mars, Mars Odyssey a terminé avec succès son freinage atmosphérique le 11 janvier 2002. 
-
-Au cours des deux semaines qui ont suivi la fin de l'aérofreinage, les navigateurs ont affiné l'orbite pour lui donner sa forme définitive : un cercle presque parfait (périapse situé 400 km) parcouru en 2 heures et passant par les pôles
+Odyssey carried three main science instruments to the Red Planet: THEMIS, the Gamma Ray Spectrometer (GRS), and the Mars Radiation Environment Experiment (MARIE). THEMIS is still active today, working to map the distribution of minerals on Mars’ surface by scanning it in visible and infrared light. Martian minerals that are heated by the Sun radiate that heat back into space, allowing THEMIS to chart the planet’s mineralogical makeup at night. GRS, also still active, has a similar job: mapping chemicals by monitoring gamma rays produced when cosmic rays strike the martian surface. This technique allowed GRS to play a key role in discovering water ice locked just below the ground in 2002. MARIE’s job was characterizing the radiation environment of space around Mars. However, MARIE shut down in 2003, after charged particles from the Sun bombarded the spacecraft, irrevocably damaging the instrument.
 
 La mission principale de Mars Odyssey va durer 917 jours terrestres. Mars Odyssey jouera ensuite le rôle de relais de transmission pour les futurs atterrisseurs martiens pendant 457 jours terrestres, ce qui porte la durée totale de la mission à 1374 jours (soit deux années martiennes).
 
-Trois instruments scientifiques seront embarqués sur l'orbiteur. L'instrument THEMIS étudiera la minéralogie et la morphologie de la surface martienne grâce à une caméra haute résolution et un spectromètre infrarouge. Le GRS s'attaquera à la composition élémentaire de la surface martienne tandis que l'instrument MARIE étudiera le niveau de radiations pendant le trajet Terre - Mars, ainsi qu'au voisinage de la planète.
-Le spectro-imageur THEMIS
-Le spectromètre gamma GRS
-L'instrument MARIE (Martian Radiation Environment Experiment) étudiera le niveau de radiations au voisinage de la planète Mars, l'objectif final étant de quantifier les risques auxquels s'exposeront les équipages des prochaines missions habitées. 
 
 Peu après le début des opérations scientifiques, l'instrument GRS couplé aux spectromètres à neutrons a mis en évidence de grandes quantités de glace dans le premier mètre du sol dans les hautes latitudes des deux hémisphères (et, dans une moindre mesure, dans les latitudes moyennes). Outre la découverte de la glace, le GRS a permis de dresser la première cartographie des éléments chimiques rentrant dans la constitution de la surface martienne. La croûte martienne contiendrait ainsi deux fois plus de potassium que la croûte terrestre. Mars Odyssey a également découvert de grandes concentrations d'olivine dans l'un des canyons de Valles Marineris. Etant donné que l'olivine se transforme très rapidement en serpentine en présence d'eau, cette découverte prouve que la région est restée sèche pendant un temps très long. L'instrument MARIE, irrémédiablement abîmé lors d'une tempête solaire en août 2001, a enregistré un niveau de radiations deux fois plus élevé autour de Mars que celui auquel sont confrontés les astronautes en orbite terrestre.
 
@@ -1108,26 +1110,12 @@ During its first year around Mars, Odyssey found the first direct evidence of su
 
 Odyssey has played a pivotal role in changing how we think about Mars,” says Lori Glaze, NASA’s Planetary Science Division director. “It has really changed our perception of a planet that [we thought] was a dry desert to one that’s a frozen desert.”
 
-Odyssey carried three main science instruments to the Red Planet: THEMIS, the Gamma Ray Spectrometer (GRS), and the Mars Radiation Environment Experiment (MARIE). THEMIS is still active today, working to map the distribution of minerals on Mars’ surface by scanning it in visible and infrared light. Martian minerals that are heated by the Sun radiate that heat back into space, allowing THEMIS to chart the planet’s mineralogical makeup at night. GRS, also still active, has a similar job: mapping chemicals by monitoring gamma rays produced when cosmic rays strike the martian surface. This technique allowed GRS to play a key role in discovering water ice locked just below the ground in 2002. MARIE’s job was characterizing the radiation environment of space around Mars. However, MARIE shut down in 2003, after charged particles from the Sun bombarded the spacecraft, irrevocably damaging the instrument.
-
 One of Odyssey’s greatest achievements, however, was its comprehensive map of the Red Planet. In 2010, researchers combined some 21,000 THEMIS images to create the most accurate global map of Mars to date. According to Plaut, the map is now the starting point for almost all geologic studies undertaken on the Red Planet.
-
-Odyssey also has the only thermal infrared imager currently orbiting Mars.
 
 2001 Mars Odyssey has contributed numerous science results. It has mapped the amount and distribution of chemical elements and minerals that make up the Martian surface. Maps of hydrogen distribution led scientists to discover vast amounts of water ice in the polar regions burried just beneath the surface. Odyssey has also recorded the radiation environment in low Mars orbit to determine the radiation-related risk to any future human explorers who may one day go to Mars.
 
 
-Mars Odyssey has the following science objectives:
 
-    Globally map the elemental composition of the surface
-
-    Determine the abundance of hydrogen in the shallow subsurface
-
-    Acquire high spatial and spectral resolution images of the surface mineralogy
-
-    Provide information on the morphology of the Martian surface
-
-    Characterize the Martian near-space radiation environment as related to radiation-induced risk to human explorers
 
 Mars Odyssey a parfaitement rempli sa mission : les instruments de la sonde spatiale ont permis de mettre en évidence de grandes quantités de glace stockées sous les deux pôles et l'abondance particulièrement importante du potassium. Le spectromètre imageur THEMIS a servi à établir une carte globale de Mars en lumière visible et en infrarouge et montré la présence de grandes concentrations d'olivine qui prouvent que la période sèche que connait Mars a débuté il y a très longtemps. Enfin, les données fournies par la sonde ont été utilisées pour sélectionner les sites d'atterrissages des rovers MER. 
 
