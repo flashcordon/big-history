@@ -1077,34 +1077,28 @@ high‐resolution (1.5–20 m/pixel) photographic observations of the surface of
 > Elle plonge à 322 reprises dans la haute atmosphère martienne
 - La mission Mars Odyssey a les objectifs scientifiques suivants :
 > * Cartographier la composition élémentaire globale de la surface martienne
-> * Déterminer l'abondance en hydrogène sous la surface martienne
+> * Déterminer l'abondance en hydrogène sous la surface martienne (proxy pour détecter de l'eau)
 > * Acquérir des images et des spectres à haute résolution de la minéralogie de surface
 > * Analyser la morphologie de la surface
 > * Caractériser le niveau de radiations dans l'environnement spatial autour de Mars
 - La sonde dispose pour cela de 3 instruments scientifiques:
 > * un spectromètre gamma pour analyser la composition élémentaire de la surface martienne
 > * un spectro-imageur, pour étudier la minéralogie et la morphologie de la surface martienne. Il s'agit du seul imageur thermique actuellement en orbite autour de Mars.
-> * un instrument de mesure du niveau de radiation, pour quantifier les niveaux d'exposition des futurs astronautes martiens
-- La mission principale de Mars Odyssey dure 917 jours terrestres.
-
-
-Odyssey carried three main science instruments to the Red Planet: THEMIS, the Gamma Ray Spectrometer (GRS), and the Mars Radiation Environment Experiment (MARIE). THEMIS is still active today, working to map the distribution of minerals on Mars’ surface by scanning it in visible and infrared light. Martian minerals that are heated by the Sun radiate that heat back into space, allowing THEMIS to chart the planet’s mineralogical makeup at night. GRS, also still active, has a similar job: mapping chemicals by monitoring gamma rays produced when cosmic rays strike the martian surface. This technique allowed GRS to play a key role in discovering water ice locked just below the ground in 2002. MARIE’s job was characterizing the radiation environment of space around Mars. However, MARIE shut down in 2003, after charged particles from the Sun bombarded the spacecraft, irrevocably damaging the instrument.
-
-La mission principale de Mars Odyssey va durer 917 jours terrestres. Mars Odyssey jouera ensuite le rôle de relais de transmission pour les futurs atterrisseurs martiens pendant 457 jours terrestres, ce qui porte la durée totale de la mission à 1374 jours (soit deux années martiennes).
-
-
-Peu après le début des opérations scientifiques, l'instrument GRS couplé aux spectromètres à neutrons a mis en évidence de grandes quantités de glace dans le premier mètre du sol dans les hautes latitudes des deux hémisphères (et, dans une moindre mesure, dans les latitudes moyennes). Outre la découverte de la glace, le GRS a permis de dresser la première cartographie des éléments chimiques rentrant dans la constitution de la surface martienne. La croûte martienne contiendrait ainsi deux fois plus de potassium que la croûte terrestre. Mars Odyssey a également découvert de grandes concentrations d'olivine dans l'un des canyons de Valles Marineris. Etant donné que l'olivine se transforme très rapidement en serpentine en présence d'eau, cette découverte prouve que la région est restée sèche pendant un temps très long. L'instrument MARIE, irrémédiablement abîmé lors d'une tempête solaire en août 2001, a enregistré un niveau de radiations deux fois plus élevé autour de Mars que celui auquel sont confrontés les astronautes en orbite terrestre.
-
-Mars Odyssey a participé au choix et à la caractérisation des sites d'atterrissage des rovers Spirit et Opportuniy, et le relais radio de la sonde a retransmis vers la Terre 90 % de leurs données, faisant de Mars Odyssey le premier élément d'un réseau de télécommunication martien. Mars Odyssey a terminé officiellement et avec brio sa mission scientifique le 24 août 2004. La sonde va demeurer en activité jusqu'en septembre 2006, pour continuer ses études scientifiques et servir de relais de communication pour les engins au sol.
-
-    NASA’s Odyssey spacecraft has been orbiting Mars since 2001. Its original goals were to search for signs of water, make detailed maps of the planet’s surface materials, and determine radiation levels for humans.
-    Today, Odyssey is the longest-operating space mission at another planet. It monitors Mars’ surface changes and is a critical communications relay between surface spacecraft and Earth.
+> * un instrument de mesure du niveau de radiation, pour quantifier les niveaux d'exposition des futurs astronautes martiens. Cet instrument a fonctionné pendant 2 ans, et a ensuite été rendu inopérant à cause d'une tempête solaire.
+- La sonde a permis de révéler de grandes quantités de glace d'eau enfouies juste sous la surface, dans le premier mètre du sol. Ces glaces se trouvent majoritairement dans les hautes latitudes
+- Elle a aussi dressé la première carte des éléments chimiques de la surface martienne
+> * La croûte martienne contient 2 fois plus de potassium que la croûte terrestre
+- Elle a découvert de grandes concentrations d'olivine dans un canyon de Valles Marineris
+> Lorsque l'olivine est en présence d'eau, elle se transforme en serpentine. La présence d'olivine signifie que Mars est restée sèche à cet endroit pendant très longtemps
+- Le détecteur de radiations a enregistré des niveaux de radiations 2 à 3 fois plus grands que ceux enregistrés au niveau de l'ISS, et ces derniers peuvent grimper jusqu'à 100 fois à la suite d'une tempête solaire.
+- La sonde a produit la première 
+- La mission principale de Mars Odyssey a duré 917 jours terrestres (fin officielle : 24 août 2004) et a accompli tous ses objectifs. Depuis, la sonde sert de relai de transmission pour les engins au sol.
+> Elle a notamment participé à déterminer les sites d'atterrissage de Spirit et Opportunity, et a retransmis à la Terre 90% de leurs données.
+- La sonde est toujours en activité aujourd'hui, ce qui en fait la plus longue mission spatiale autour d'une autre planète de l'Histoire.
     
-Odyssey has delivered on those goals. It measured the amount and depth of water ice across the planet, helped us create the most detailed global map of Mars ever, and found landing sites for rover missions where surface materials formed in water. It also showed that radiation levels at Mars are 2 to 3 times greater than those on the International Space Station, and can spike up to 100 or more times greater following solar flares.
+Odyssey has delivered on those goals. It measured the amount and depth of water ice across the planet, helped us create the most detailed global map of Mars ever, and found landing sites for rover missions where surface materials formed in water. 
 
 Odyssey transmitted about 85 percent of the data from NASA’s Spirit and Opportunity rovers and continues to serve as a data relay for InSight.
-
-Its radiation detector, the Mars Radiation Environment Experiment (MARIE), collected 2 years’ worth of data before failing in 2003.
 
 During its first year around Mars, Odyssey found the first direct evidence of subsurface water on the planet. 
 
@@ -1112,14 +1106,7 @@ Odyssey has played a pivotal role in changing how we think about Mars,” says L
 
 One of Odyssey’s greatest achievements, however, was its comprehensive map of the Red Planet. In 2010, researchers combined some 21,000 THEMIS images to create the most accurate global map of Mars to date. According to Plaut, the map is now the starting point for almost all geologic studies undertaken on the Red Planet.
 
-2001 Mars Odyssey has contributed numerous science results. It has mapped the amount and distribution of chemical elements and minerals that make up the Martian surface. Maps of hydrogen distribution led scientists to discover vast amounts of water ice in the polar regions burried just beneath the surface. Odyssey has also recorded the radiation environment in low Mars orbit to determine the radiation-related risk to any future human explorers who may one day go to Mars.
-
-
-
-
 Mars Odyssey a parfaitement rempli sa mission : les instruments de la sonde spatiale ont permis de mettre en évidence de grandes quantités de glace stockées sous les deux pôles et l'abondance particulièrement importante du potassium. Le spectromètre imageur THEMIS a servi à établir une carte globale de Mars en lumière visible et en infrarouge et montré la présence de grandes concentrations d'olivine qui prouvent que la période sèche que connait Mars a débuté il y a très longtemps. Enfin, les données fournies par la sonde ont été utilisées pour sélectionner les sites d'atterrissages des rovers MER. 
-
-Mars Odyssey, qui a approximativement la forme d'un parallélépipède de 2,2 × 1,7 × 2,6 mètres, pèse 725 kg 
 
 . Une couverture photographique globale de Mars en lumière visible et en infrarouge (de nuit) a été réalisée pour la première fois avec une résolution de 10 mètres. 
 
