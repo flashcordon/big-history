@@ -956,19 +956,28 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
 ### Mars Global Surveyor (NASA, 1996-2007)
 
-En novembre 1996, la NASA et le Jet Propulsion Laboratory (JPL) sonne le retour de l'exploration martienne (après une absence de près de 20 ans) en lançant la sonde Mars Global Surveyor
+- Mars Global Surveyor est une sonde de plus d'une tonne (1050 kg) lancée le 7 novembre 1996 par une fusée Delta II 7925.
+> * Il s'agit de la première sonde américaine envoyée vers Mars depuis les sondes Viking 20 ans plus tôt. Les soviétiques avaient envoyé Phobos 1 et 2 en 1988 (2 orbiteurs et 2 atterrisseurs), mais aucune n'est parvenue à accomplir sa mission.
+> * MGS fait suite à l'échec de la sonde Mars Observer, lancée vers Mars en 1992 mais qui perdra le contact avec la Terre 3 jours avant son insersion en orbite martienne, le 21 Août 1993.
+- MGS ressemble à une boite rectangulaire (3 m de haut avec une section de 1,2 × 1,2 mètre),  dotée de 2 panneaux solaires qui, lorsqu'ils sont déployés, lui donnent une envergure de 12 m au total.
+- Mars Global Surveyor a plusieurs objectifs scientifiques :
+> * caractériser les structures géologiques de surface et identifier les processus géologiques à l’œuvre
+> * déterminer la composition, la distribution et les caractéristiques physiques des minéraux, roches et glaces présents en surface
+> * déterminer la topographie globale de la planète, sa forme et son champ gravitationnel
+> * étudier la météorologie martienne et la structure thermique de son atmosphère
+> * étudier les interactions entre la surface de Mars et son atmosphère en observant les mouvements de retrait ou d'expansion des calottes polaires liés au cycle des saisons
+- Suite aux nombreux prolongements de la mission, d'autres objectifs ont été ajoutés :
+> * poursuivre les observations météorologiques de manière à ne pas créer de discontinuité dans les relevés jusqu'à l'arrivée de la sonde spatiale MRO
+> * prendre des photos des futurs sites d’atterrissage de Phoenix et de Mars Science Laboratory
+> * observer et analyser les sites intéressants sur le plan scientifique tels que les affleurements sédimentaires
+> * continuer à surveiller les changements en surface : phénomènes météorologiques et cycle des calottes polaires
+- La sonde se met en orbite martienne le 12 Septembre 1997.
 
-La mission Global Surveyor a été décidé après la perte tragique de la sonde Mars Observer le 21 août 1993.
-
-Le lanceur utilisé est une fusée Delta II 7925
 
 Mars Global Surveyor se mettra en orbite grâce à une technique spéciale qui consiste à utiliser la résistance des hautes couches de l'atmosphère martienne pour ralentir, plutôt que d'avoir recourt à un moteur de freinage. 
 
 La sonde n'emporte plus que 6 des 8 instruments de Mars Observer
  Les instruments embarqués sur MGS sont identiques à ceux de Mars Observer, car il n'était plus possible après la perte de cette dernière, de se lancer dans le développement de nouvelles expériences. 
- Mars Global Surveyor ne pèse plus que 1050 kg
- une boite rectangulaire flanquée de deux panneaux solaires
- MGS est la première sonde américaine à être envoyée sur une autre planète avec des unités de stockage de type RAM à la place de la classique cassette magnétique
  
  mise en orbite effectuée le 12 septembre 1997. Excepté un problème avec un panneau solaire (qui a perturbé le freinage atmosphérique et retardé la phase de cartographie d'une année), la mission a été un véritable triomphe.
  La phase de cartographie a commencé officiellement en avril 1999 et s'est terminée le 24 janvier 2001. Mars Global Surveyor a ensuite bénéficié d'une extension de mission d'une durée d'une année martienne qui s'est achevée le 12 décembre 2002, et qui a ensuite été à nouveau reconduite trois fois par la NASA. La sonde a envoyé sa dernière transmission le 5 novembre 2006
@@ -1005,34 +1014,10 @@ En onze heures exactement, toute l'énergie disponible à bord était épuisée 
  Le déploiement incomplet d'un panneau solaire rallonge la phase d'aérofreinage qui s'achève en février 1999, soit 15 mois après la date prévue. La phase de recueil des données scientifiques débute alors et se prolonge jusqu'en octobre 2006 établissant un nouveau record de longévité. 
  
   L'altimètre laser de MGS dresse la première carte topographique de la planète mettant en évidence les différences spectaculaires entre les hémisphères nord et sud. 
-  
-  La mission contribue à atteindre les quatre objectifs scientifiques du programme martien que la NASA s'est fixés à l'époque8 :
-
-    déterminer si la vie a pu apparaître sur Mars9 ;
-    définir les caractéristiques du climat martien10 ;
-    étudier la géologie de la planète11 ;
-    préparer les futures missions d'exploration avec équipage12.
-
-Pour contribuer à ces objectifs généraux, la mission doit13 :
-
-    caractériser les structures géologiques de surface et identifier les processus géologiques à l’œuvre ;
-    déterminer la composition, la distribution et les caractéristiques physiques des minéraux, roches et glaces présents en surface ;
-    déterminer la topographie globale de la planète, sa forme et son champ gravitationnel ;
-    étudier la météorologie martienne et la structure thermique de son atmosphère ;
-    étudier les interactions entre la surface de Mars et son atmosphère en observant les mouvements de retrait ou d'expansion des calottes polaires liés au cycle des saisons.
-
-La mission de MGS ayant été prolongée à plusieurs reprises, plusieurs objectifs ont été ajoutés après le lancement13 :
-
-    poursuivre les observations météorologiques de manière à ne pas créer de discontinuité dans les relevés jusqu'à l'arrivée de la sonde spatiale Mars Reconnaissance Orbiter en mars 2006 ;
-    prendre des photos des futurs sites d’atterrissage de Phoenix et de Mars Science Laboratory ;
-    observer et analyser les sites intéressants sur le plan scientifique tels que les affleurements sédimentaires ;
-    continuer à surveiller les changements en surface : phénomènes météorologiques et cycle des calottes polaires.
     
 Mars Global Surveyor doit également assister les autres missions martiennes de la NASA en fournissant des données sur l'atmosphère aux orbiteurs de ce programme durant leurs opérations d'aérofreinage et en jouant le rôle de relais entre d'une part les atterrisseurs et rovers posés sur le sol de Mars et d'autre part la Terre
 
 MGS doit circuler sur une orbite héliosynchrone qui permet à la sonde spatiale de passer au-dessus de l'ensemble de la surface à la même heure solaire et donc dans des conditions d'éclairage identiques.
-
-Mars Global Surveyor, qui a approximativement la forme d'un parallélépipède de 3 mètres de haut avec une section de 1,2 × 1,2 mètre, pèse 1 030 kg au lancement dont 360,5 kg d'ergols et 75,6 kg d'instrumentation scientifique. La structure de la sonde spatiale est réalisée essentiellement en aluminium avec des panneaux en fibre de carbone. Les panneaux solaires, qui sont déployés dès que la sonde spatiale est dans l'espace, portent l'envergure à 12 mètres.
 
 Mars Global Surveyor emporte cinq instruments tous développés initialement pour la mission Mars Observer
 Caméra MOC
