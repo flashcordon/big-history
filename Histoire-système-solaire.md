@@ -926,7 +926,7 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 ### Mars Pathfinder / Sojourner (NASA, 1996-1997)
 
 - Mars Pathfinder est une sonde spatiale de type atterrisseur de près de 900 kg, lancée le 4 décembre 1996 
-- Il s'agit de la première mission de la NASA vers Mars depuis le programme Viking, deux décennies plus tôt.
+- Il s'agit de la première mission de la NASA destinée à atterrir sur le sol de Mars depuis le programme Viking, deux décennies plus tôt.
 > l'objectif de la NASA est de montrer la validité de leur programme d'exploration spatiale porté par la devise "faster, better and cheaper". Pathfinder est en effet 5 fois moins cher que le programme Viking et a été développée en 3 ans.
 - Après un voyage de 7 mois, la sonde atterrit à Ares Vallis dans la région de Chryse Planitia le 4 juillet 1997
 > Le site d'atterrissage sera renommé Memorial Carl Sagan, ce dernier étant décédé 2 semaines après le lancement de la sonde.
@@ -956,7 +956,7 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 
 ### Mars Global Surveyor (NASA, 1996-2007)
 
-- Mars Global Surveyor est une sonde de plus d'une tonne (1050 kg) lancée le 7 novembre 1996 par une fusée Delta II 7925.
+- Mars Global Surveyor est une sonde de plus d'une tonne (1050 kg) lancée le 7 novembre 1996 depuis la base de Cap Canaveral par une fusée Delta II 7925.
 > * Il s'agit de la première sonde américaine envoyée vers Mars depuis les sondes Viking 20 ans plus tôt. Les soviétiques avaient envoyé Phobos 1 et 2 en 1988 (2 orbiteurs et 2 atterrisseurs), mais aucune n'est parvenue à accomplir sa mission.
 > * MGS fait suite à l'échec de la sonde Mars Observer, lancée vers Mars en 1992 mais qui perdra le contact avec la Terre 3 jours avant son insersion en orbite martienne, le 21 Août 1993.
 - MGS ressemble à une boite rectangulaire (3 m de haut avec une section de 1,2 × 1,2 mètre),  dotée de 2 panneaux solaires qui, lorsqu'ils sont déployés, lui donnent une envergure de 12 m au total.
@@ -971,8 +971,13 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 > * prendre des photos des futurs sites d’atterrissage de Phoenix et de Mars Science Laboratory
 > * observer et analyser les sites intéressants sur le plan scientifique tels que les affleurements sédimentaires
 > * continuer à surveiller les changements en surface : phénomènes météorologiques et cycle des calottes polaires
+- Pour remplir ces objectifs, la sonde emporte à son bord 5 instruments scientifiques (tous développés initialement pour Mars Observer)
+> * un système de 3 caméras, une dotée d'un téléobjectif permettant de produire des images de la surface martienne avec une résolution de 2,5 à 3 m, et 2 autres dotée d'un objectif grand angle permettant d'atteindre jusqu'à 280 m en terme de résolution.
+> * Un spectromètre infrarouge
+> * un altimètre laser
+> * un magnétomètre et un réflectomètre à électrons pour caractériser le champ magnétique de la planète
+> * un oscillateur radio permettant de réaliser des expériences d'occultation radio et ainsi mesurer les propriétés de l'atmosphère martienne et la structure interne de la planète
 - La sonde se met en orbite martienne le 12 Septembre 1997.
-
 
 Mars Global Surveyor se mettra en orbite grâce à une technique spéciale qui consiste à utiliser la résistance des hautes couches de l'atmosphère martienne pour ralentir, plutôt que d'avoir recourt à un moteur de freinage. 
 
@@ -1019,20 +1024,7 @@ Mars Global Surveyor doit également assister les autres missions martiennes de 
 
 MGS doit circuler sur une orbite héliosynchrone qui permet à la sonde spatiale de passer au-dessus de l'ensemble de la surface à la même heure solaire et donc dans des conditions d'éclairage identiques.
 
-Mars Global Surveyor emporte cinq instruments tous développés initialement pour la mission Mars Observer
-Caméra MOC
-regroupe deux instruments distincts :
-
-    le premier est une caméra dotée d'un puissant téléobjectif,  Cette caméra est conçue pour obtenir des images détaillées des structures géologiques de la surface avec une résolution spatiale effective comprise entre 2,5 et 3 mètres.
-    le deuxième est constitué de deux caméras fixées sur le cache optique du téléobjectif et dotées d'un objectif grand angle aux caractéristiques optiques très proches  L'ensemble atteint, à une altitude de 380 km, une résolution spatiale théorique de 280 mètres par pixel au nadir du satellite et de 2 km lorsque la visée se fait sur le limbe de la planète. Les caméras grand angle fournissent des images globales de l'atmosphère et de la surface de Mars permettant d'identifier les principaux phénomènes atmosphériques.
-    Le spectromètre TES (Thermal Emission Spectrometer) analyse le rayonnement infrarouge émis par la surface.
-    Les données collectées permettent notamment de déterminer les principales caractéristiques des roches et du sol : granularité, identification des minéraux. L'instrument est également utilisé pour déterminer la nature et la position des nuages et des poussières. 
-    L'altimètre laser MOLA (Mars Orbiter Laser Altimeter) mesure l'altitude de la surface de Mars
-    Le magnétomètre MAG et le réflectomètre à électrons (MGS Electron Reflectometer) doivent identifier les caractéristiques du champ magnétique de la planète ou ses rémanences en déterminant son intensité et sa direction.
-    Un oscillateur ultra stable fournissant un signal radio particulièrement précis est utilisé pour mener des expériences reposant sur le système de communication de la sonde spatiale (RSI Radio Science Investigations). Il s'agit d'une part d'expériences d'occultation radio : lorsque l'atmosphère martienne s'interpose entre l'instrument et la Terre (peu avant le survol des pôles), les modifications affectant les ondes radio permettent de déterminer certaines propriétés de cette atmosphère. Le même système est utilisé pour mesurer les caractéristiques du champ gravitationnel martien ; les irrégularités affectant la structure interne de la planète sont déterminées en mesurant par effet Doppler les accélérations et les décélérations de la sonde spatiale qui découlent des variations locales du champ de gravité martien. 
     
-Mars Global Surveyor est lancée le 7 novembre 1996 depuis la base de Cap Canaveral en Floride par une fusée Delta-7925 
-Mars Global Surveyor est la première mission à revenir étudier la planète Mars depuis les sondes spatiales du programme Viking lancées vingt ans auparavant. 
  Au cours de son séjour, la sonde spatiale a collecté et transmis environ 5 térabits de données et plus de 244 000 images. 
  MGS a néanmoins transmis 97 000 images à haute définition couvrant 5,2 % de la surface de Mars. 
  L'altimètre MOLA a permis de dresser une carte topographique de Mars exceptionnellement précise et spectaculaire qui sert toujours de référence début 2016. La caractéristique la plus frappante de la planète est la dichotomie entre un hémisphère sud constitué de terrains élevés parsemés de cratères et âgés (Noachien) et l'hémisphère nord recouvert de plaines situées à une altitude inférieure de 3 à 6 km, pratiquement dépourvues de relief apparent et formées de sols plus jeunes et présentant peu de cratères visibles. 
@@ -1049,8 +1041,6 @@ Mars Global Surveyor est la première mission à revenir étudier la planète Ma
   
   des centaines de ravines ont été découvertes. Elles pourraient avoir été formées par la circulation d'eau liquide. Certaines de ces formations sont récentes
   les mesures effectuées montrent également que pratiquement toute la surface de Mars est recouverte par un sol d'origine volcanique
-  
-high‐resolution (1.5–20 m/pixel) photographic observations of the surface of Mars have dramatically changed our view of that planet.    
  
 
 ### Mars Odyssey (NASA, 2001-2025)
