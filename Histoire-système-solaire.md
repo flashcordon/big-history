@@ -977,9 +977,11 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 > * un altimètre laser
 > * un magnétomètre et un réflectomètre à électrons pour caractériser le champ magnétique de la planète
 > * un oscillateur radio permettant de réaliser des expériences d'occultation radio et ainsi mesurer les propriétés de l'atmosphère martienne et la structure interne de la planète
-- La sonde arrive aux abords du système martien le 12 Septembre 1997. Mais un problème avec son panneau solaire a retardé d'un an la phase de cartographie
+- La sonde arrive aux abords du système martien le 12 Septembre 1997. 
+> Pour ajuster son orbite, la sonde a recours à un nouveau procédé : l'aérofreinage, c'est-à-dire l'utilisation de la résistance des hautes couches de l'atmosphère martienne pour la ralentir. Mais un problème avec son panneau solaire (une pièce de métal qui coinçait et qui l'empêchait de se déployer complètement) a retardé d'un an la phase de cartographie
 - La phase de cartographie commence officiellement en Avril 1999 et se termine le 24 Janvier 2001. MGS est alors en orbite héliosynchrone autour de Mars.
-- La mission a ensuite été prolongée plusieurs fois, et a envoyé ses dernières données à la Terre le 5 Novembre 2006.
+- La mission a ensuite été prolongée plusieurs fois, et a envoyé ses dernières données à la Terre le 5 Novembre 2006, au bout de 9 ans passés à cartographier la planète.
+> La perte de MGS serait due à une erreur humaine : en Juin 2006, les ingénieurs envoient une mise à jour logicielle et une nouvelle série de commandes à la sonde, pour rediriger ses panneaux solaire et son antenne. Mais le programme contient des erreurs. Le 2 Novembre, alors que la sonde cherche à corriger son orientation, elle présente accidentellement l'une de ses batteries au rayonnement solaire, ce qui grille cette dernière. La 2e batterie s'est quant à elle épuisée en 11h, rendant toute communication avec la Terre impossible.
 - Malgré de nombreux problèmes techniques, la sonde a rempli tous ses objectifs
 > * Elle a transmis 625 GO de données et plus de 244 000 iamges au cours de sa mission, dont 97 000 images en haute définition couvrant près de 5% de la surface de Mars
 > * Son altimètre a réalisé la première carte topographique de Mars, et a mis en évidence une dichotomie spectaculaire entre les terrains de l'hémisphère nord et sud. En effet, l'hémisphère sud est plus élevé que l'hémisphère nord de 3 à 6 km ! De plus, l'hémisphère sud est parsemé de cratères âgés du Noachien, et l'hémisphère nord de plaines quasiment sans relief apparent et avec peu de cratères. Cette dichotomie a été confirmée par l'étude du champ gravitationnel de la planète : la croûte est épaisse dans l'hémisphère sud, et plus mince dans l'hémisphère nord.
@@ -988,36 +990,6 @@ chimique du sol martien. GC-MS n’y détecta aucune traces de molécules dériv
 > * Le spectromètre de la sonde a aussi découvert de grandes quantités d'hématite grise dans la région de Terra Meridiani et dans l'Aram Chaos. Ces oxydes ferreux sont des indices trahissant la présence d'eau liquide dans le passé.
 > * L'altimètre de la sonde a mesuré les variations d'épaisseur des calottes polaires au fil des saisons
 > * La sonde a aussi découvert des centaines de ravines et des dépots sédimentaires qui témoignent potentiellement de la circulation d'eau liquide par le passé. Certaines de ces traces sont curieusement récentes, parce qu'on ne pense pas que Mars possède les conditions nécessaires pour avoir de l'eau liquide à sa surface.
- 
- D'un point de vue technique, Mars Global Surveyor est également rentré dans l'histoire comme étant le premier satellite martien à avoir tiré parti de la technique du freinage atmosphérique pour ajuster son orbite. 
- 
-Mars Global Surveyor se mettra en orbite grâce à une technique spéciale qui consiste à utiliser la résistance des hautes couches de l'atmosphère martienne pour ralentir, plutôt que d'avoir recourt à un moteur de freinage. 
- 
- mise en orbite effectuée le 12 septembre 1997. Excepté un problème avec un panneau solaire (qui a perturbé le freinage atmosphérique et retardé la phase de cartographie d'une année), la mission a été un véritable triomphe.
-
- La perte de Mars Global Surveyor serait due à une erreur qui se serait glissée dans des instructions logicielles envoyées à la sonde en juin 2006.
- Mars Global Surveyor a témoigné d'une longévité exceptionnelle, puisque depuis son orbite, elle a inlassablement observé la planète Mars pendant 9 ans.
- Cet orbiteur a retourné une masse considérable de données, dont plus de 240 000 images de la surface martienne (soit un peu moins de 5 fois le nombre d'images acquises par les deux orbiteurs Viking I et Viking II). La caméra MOC a en particulier observé à haute résolution un peu moins de 5 % de la surface martienne.
- 
- Lorsque du lancement de la sonde MGS, l'un des panneaux solaires ne s'était pas complètement déployé ni verrouillé. Il s'était bloqué 20° avant sa position idéale. Apparemment, une petite pièce de métal s'était coincée dans la charnière du panneau solaire. Comme les panneaux solaires offrent la plus grande partie de la surface exposée à l'atmosphère martienne pendant la phase de freinage atmosphérique, les équipes au sol ont essayé de profiter de cette phase pour forcer le panneau à se déployer complètement. Comme la pression de l'air augmente au fur et à mesure que la sonde s'enfonce dans l'atmosphère martienne, le panneau aurait fini par atteindre sa position finale.
- 
-  La phase de cartographie commencera seulement en 1999 au lieu de 1998, à cause du freinage plus progressif et d'une période de 6 mois (été 1998), pendant laquelle Mars va s'aligner correctement par rapport au Soleil pour permettre une cartographie globale par la sonde spatiale. MGS atteindra sa position orbitale finale en mi janvier 1999, et la cartographie commencera véritablement en mars 1999 au lieu de mars 1998 comme initialement prévu
-  
-   la suite d'évènements qui ont abouti à la perte de Mars Global Surveyor (MGS) en novembre 2006 a été provoquée par une erreur humaine.
-   
-   Cinq mois avant la panne qui a affecté l'engin, une nouvelle série de commandes ainsi qu'un renouvellement du programme informatique avaient été transmis depuis la Terre. Il s'agissait essentiellement d'une mise à jour tenant compte des plus récentes coordonnées orbitales, qui contenait les instructions nécessaires au maintien des panneaux solaires de Mars Global Surveyor vers le Soleil, ainsi que de son antenne à grand gain en direction de la Terre.
-
-Tout s'est bien passé jusqu'à ce jour fatidique du 2 novembre 2006, où après une commande routinière de réorientation de ses collecteurs solaires, la sonde s'est soudain mise à émettre une série d'alarmes sur son fonctionnement interne qui semblaient indiquer un mauvais fonctionnement des panneaux et une perte de puissance d'une des batteries, puis un nouveau signal indiquait que la situation était stabilisée. Mais onze heures plus tard, la puissance d'émission décroissait rapidement et le contact avec la Terre était définitivement perdu.
-
-Lorsque le vaisseau s'est retrouvé, par suite d'un concours de circonstances, dans une mauvaise configuration de vol, l'ordinateur de bord a aussitôt entrepris les manœuvres nécessaires afin de modifier son programme d'assiette. De fait, les panneaux solaires ont été à nouveau correctement orientés et la recharge des batteries, qui avait été interrompue durant ce temps, a pu reprendre.
-
-Mais pour effectuer ces manœuvres, l'ordinateur exécutait le nouveau logiciel qui avait été envoyé à la sonde quelque cinq mois plus tôt. Malheureusement, et cela les techniciens ignoraient, il comportait une erreur de programmation. Bien que sa position soit correcte en ce qui concerne l'orientation des panneaux et des antennes, Mars Global Surveyor se présentait à présent sous un angle qui exposait directement une de ses batteries au rayonnement solaire, paramètre qui n'avait apparemment pas été pris en compte. La surchauffe ainsi provoquée entraîna rapidement sa destruction, tandis que la seconde batterie s'épuisait rapidement.
-
-En onze heures exactement, toute l'énergie disponible à bord était épuisée et MGS, privée d'alimentation électrique, se mettait à dériver tandis que son antenne à grand gain se désalignait, rendant toute intervention à distance impossible.
-
- la sonde spatiale inaugure le recours à l'aérofreinage qui permet de réduire la quantité d'ergols transportée et donc d'abaisser les coûts.
- 
- Le déploiement incomplet d'un panneau solaire rallonge la phase d'aérofreinage qui s'achève en février 1999, soit 15 mois après la date prévue. La phase de recueil des données scientifiques débute alors et se prolonge jusqu'en octobre 2006 établissant un nouveau record de longévité. 
 
 ### Mars Odyssey (NASA, 2001-2025)
 
