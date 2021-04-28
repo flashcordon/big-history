@@ -244,3 +244,8 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - Mais cette montée ne s’arrêtera pas en 2100, et devrait se poursuivre dans les siècles à venir, à un niveau qui dépendra de la trajectoire que nous prendrons collectivement dans nos émissions de gaz à effets de serre.
 - Les zones les plus directement touchées par cette élévation seront les états insulaires, comme l’archipel des Maldives par exemple, dont la plupart des terres sont situées à moins d’un mètre au dessus du niveau de la mer
 
+# Pourquoi le monde est-il vert ?
+
+*Sources*
+
+- [Why is the world green? The interactions of top–down and bottom–up processes in terrestrial vegetation ecology](https://www.tandfonline.com/doi/full/10.1080/17550874.2016.1178353) - Wilkinson et Sherratt (2016)
