@@ -248,5 +248,7 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 
 *Sources*
 
+- [Vegetation's red edge: a possible spectroscopic biosignature of extraterrestrial plants](https://pubmed.ncbi.nlm.nih.gov/15941381/) - Seager et al (2005)
 - [Why is the world green? The interactions of top–down and bottom–up processes in terrestrial vegetation ecology](https://www.tandfonline.com/doi/full/10.1080/17550874.2016.1178353) - Wilkinson et Sherratt (2016)
 - [Spectral Signatures of Photosynthesis. I. Review of Earth Organisms](https://www.liebertpub.com/doi/abs/10.1089/ast.2006.0105) - Kiang et al (2007)
+- [The Vegetation Red Edge Biosignature Through Time on Earth and Exoplanets](https://www.liebertpub.com/doi/10.1089/ast.2017.1798) - Malley-James and Kaltenegger (2018)
