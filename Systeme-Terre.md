@@ -249,3 +249,4 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 *Sources*
 
 - [Why is the world green? The interactions of top–down and bottom–up processes in terrestrial vegetation ecology](https://www.tandfonline.com/doi/full/10.1080/17550874.2016.1178353) - Wilkinson et Sherratt (2016)
+- [Spectral Signatures of Photosynthesis. I. Review of Earth Organisms](https://www.liebertpub.com/doi/abs/10.1089/ast.2006.0105) - Kiang et al (2007)
