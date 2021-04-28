@@ -248,8 +248,12 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 
 *Sources*
 
+- [Community Structure, Population Control, and Competition](https://www.journals.uchicago.edu/doi/10.1086/282146) - Hairston et al (1960) : Première mention de l'hypothèse du monde vert
+- [The green world hypothesis revisited](https://books.google.fr/books?id=ndb0QOvq2LYC&pg=PA82&lpg=PA82&dq=Terborgh+world+green&source=bl&ots=viG9Uc4jd0&sig=ACfU3U2IKfr-DF9K51A1iCDetb28fNrpDA&hl=fr&sa=X&ved=2ahUKEwiKuveV86DwAhXlB2MBHS5CBTMQ6AEwD3oECBQQAw#v=onepage&q=Terborgh%20world%20green&f=false) - John Terborgh
+- [Vegetation dynamics of predator‐free land‐bridge islands](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2745.2006.01106.x) - Terborgh et al (2006)
 - [Vegetation's red edge: a possible spectroscopic biosignature of extraterrestrial plants](https://pubmed.ncbi.nlm.nih.gov/15941381/) - Seager et al (2005)
 - [Why is the world green? The interactions of top–down and bottom–up processes in terrestrial vegetation ecology](https://www.tandfonline.com/doi/full/10.1080/17550874.2016.1178353) - Wilkinson et Sherratt (2016)
 - [Spectral Signatures of Photosynthesis. I. Review of Earth Organisms](https://www.liebertpub.com/doi/abs/10.1089/ast.2006.0105) - Kiang et al (2007)
 - [The Vegetation Red Edge Biosignature Through Time on Earth and Exoplanets](https://www.liebertpub.com/doi/10.1089/ast.2017.1798) - Malley-James and Kaltenegger (2018)
 - [A search for life on Earth from the Galileo spacecraft](https://www.nature.com/articles/365715a0) - Sagan et al (1993)
+- The Emerald Planet: How plants changed Earth's history -  David Beerling (2017)
