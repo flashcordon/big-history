@@ -41,3 +41,7 @@
 
 - [Cultural Evolution: A Review of Theory, Findings and Controversies](https://static1.squarespace.com/static/5796624746c3c4b7ae13b2b2/t/57a1ebc0e58c6213276dc287/1470229441814/Mesoudi_EvolBiol_2015.pdf) - Mesoudi (2015)
 - [Human cumulative culture: a comparative perspective](https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.12053) - Dean et al (2013)
+
+##Intelligence Artificielle
+
+- [On the measure of intelligence](https://arxiv.org/abs/1911.01547) - François Chollet (2019)
