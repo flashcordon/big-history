@@ -258,3 +258,4 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [A search for life on Earth from the Galileo spacecraft](https://www.nature.com/articles/365715a0) - Sagan et al (1993)
 - The Emerald Planet: How plants changed Earth's history -  David Beerling (2017)
 - [Earth’s Natural History May Serve as Guide for Astrobiologists to Spot Inhabited Exoplanets](http://www.sci-news.com/astronomy/inhabited-exoplanets-vegetation-red-edge-06452.html) - Scinews (2018)
+- [Earth restored](http://www.tobyord.com/earth) - Toby Ord (2021)
