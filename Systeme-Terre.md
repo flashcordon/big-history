@@ -272,7 +272,38 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 ## Pour des raisons biochimiques
 
 
-![Irradiance solaire (Source : Cell Biology by the Numbers, Milo and Phillips)](https://i.imgur.com/9IgGRnX.png)
+![Irradiance solaire (Source : Cell Biology by the Numbers, Milo and Phillips (2016))](https://i.imgur.com/9IgGRnX.png)
+
+- The sun’s emission spectrum is thus that
+of a blackbody at ≈5500°C (Figure 3-7; BNID 110208, 110209). However, as
+a result of our own atmosphere, the photons reaching Earth’s surface do
+not reflect a perfect blackbody spectrum since several wavelength bands
+get absorbed, as shown in Figure 3-7, resulting in a spectrum full of peaks
+and troughs.
+- The overall process taking place in photosynthesis, which serves as the
+energetic basis for our biosphere, is depicted in Figure 3-8. To drive photosynthesis,
+a photon must be energetic enough to excite photosynthetic
+pigments. In particular, this excitation refers to the fact that an electron
+in the pigment needs to get shifted from one molecular energy level
+to another. These pigments are coupled, in turn, to the photochemical
+machinery that converts electromagnetic energy into chemical energy by
+producing charge separation. This charge separation takes several forms.
+One contribution comes from an imbalance of protons across membranes,
+- which drive the ATP synthases—the molecular machines that synthesize
+ATP, resulting in an end product of ATP itself. The second form of charge
+separation manifests itself in the form of reducing power, the term for the
+transient storage of electrons in carriers such as NADPH, which are used
+later for stable energy storage in the form of sugars produced in the Calvin–
+Benson cycle. The redox reactions that drive the production of this
+reducing power are themselves driven by the light-induced excitation of
+pigments.
+The vast majority (>99.9%*) of these photochemical transformations are
+performed by the most familiar and important pigment of them all—
+namely, chlorophyll. In the chlorophyll molecule, an electron moves to an
+excited energy level as a result of the absorption of a photon with wavelength
+≤700 nm. To convert wavelength into energy, we exploit the Planck
+relation,
+E = hν,
 
 - Why  did  chlorophyl  evolve  to  be  green  as  opposed  to  black, which would absorb more energy?1. Firstly, getting energy from the sun is a great boon to life. Originally it probably came about by accident.  A  few  mutations  that  allowed  certain  chemicals  to  beproduced  that  produced  a secondary effect of energy gain. The particular chemicals that combined to form this could have been  any  color.  Nature  didn't  just  decide  on  a  color.  Evolution  has  no  goals.  It  is  a  series  of random  fluctuations  and  sometimes  thatrandom  new  trait  just  happens  to  allow  a  life  form  to outcompete  others  and  is  selectively  reinforced.  Once  you  have  something  that  works  it  works. What works is what stays. Plants work very well even with their green color.Plants  do  use  other colors  of light  than  just  the  ones  that  trigger chlorophyll.  Many  of  these  are through secondary processes or secondary dyes. Plants actually use almost 85% of the spectrum in some form or another. They just get most of their energy from Red and Blue.There are several scenarios that have been proposed. Any combination of these factors may be responsible.
 - Purple Earth.It is possible that the very first life form to process light may have been purple colored. This would mean it was reflecting red and blue light and absorbing green. In such a scenario this thing if it was the first to produce energy from light would have out competed against  everything  else.  It  would  have  had  a  population  explosion  and  possibly  covered much of the Earth or at least the oceans.Haloarchaeaare an example of a simple life form that  usesRetinalandBacteriorhodopsinto  produce  energy  though  far  less  efficiently  than photosynthesis.  Had  this  been  developed  prior  to  photosynthesis  it  may  have  let  it  spread very  far  even  though  it  is  a  less  efficient  energy  production  method.  A  2%  efficiency increase in a market no one has yet tapped is still a huge advantage.In  this  scenario  becuase  the  first  thing  to  use  light  was  using  green  light  it  left  a  niche  for another form of life to exploit. That niche would have been absorbtion of the Red and Blue spectrums.  Which  is  the  same  area  plants  absorb  today.  They  got  so  good  at  their  niche that they eventually were able to generate much more energy than the first life form did and eventually  out  competed  for  the  sun.  This  niche  has  worked  so  well  thatthey  never developed a full system for the other spectrums.
