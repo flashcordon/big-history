@@ -262,12 +262,18 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [Quieting a noisy antenna reproduces photosynthetic light-harvesting spectra](https://science.sciencemag.org/content/368/6498/1490) - Arp et al (2020)
 - [Why Are Plants Green? To Reduce the Noise in Photosynthesis](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/) - Quanta Magazine (2020)
 - [The simplicity of robust light harvesting](https://science.sciencemag.org/content/368/6498/1427) - Duffy (2020)
+- [Why are leaves green ? Part 1](https://www.youtube.com/watch?v=aAQYpra4aUs) - Minute Earth (2013)
+- [Why are leaves green ? Part 2](https://www.youtube.com/watch?v=545rqaOJQD8) - Minute Earth (2013)
+- [Why Are Plants Green Instead of Black?](https://www.youtube.com/watch?v=X96d1YEN_fQ) - SciShow (2020)
 
 ---
 
 ## Pour des raisons biochimiques
 
 - Fonctionnement de la photosynthèse et chlorophylle
+- Purple bacteria 
+- peut être sur d'autres exoplanètes ?
+- Mais sur Terre, chlorophylle responsable de 99,9% de la productivité des plantes (d'où vient le 0,01%?)
 - From large trees in the Amazon jungle to houseplants to seaweed in the ocean, green is the color that reigns over the plant kingdom. Why green, and not blue or magenta or gray? The simple answer is that although plants absorb almost all the photons in the red and blue regions of the light spectrum, they absorb only about 90% of the green photons. If they absorbed more, they would look black to our eyes. Plants are green because the small amount of light they reflect is that color.
 - But that seems unsatisfyingly wasteful because most of the energy that the sun radiates is in the green part of the spectrum. When pressed to explain further, biologists have sometimes suggested that the green light might be too powerful for plants to use without harm, but the reason why hasn’t been clear. Even after decades of molecular research on the light-harvesting machinery in plants, scientists could not establish a detailed rationale for plants’ color.
 - Recently, however, in the pages of Science, scientists finally provided a more complete answer. They built a model to explain why the photosynthetic machinery of plants wastes green light. What they did not expect was that their model would also explain the colors of other photosynthetic forms of life too. Their findings point to an evolutionary principle governing light-harvesting organisms that might apply throughout the universe. They also offer a lesson that — at least sometimes — evolution cares less about making biological systems efficient than about keeping them stable.
