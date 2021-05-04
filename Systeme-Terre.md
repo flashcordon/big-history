@@ -275,6 +275,116 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 
 ![Irradiance solaire (Source : Cell Biology by the Numbers, Milo and Phillips (2016))](https://i.imgur.com/9IgGRnX.png)
 
+- The selective utilization of light energy results in
+two well-known spectral signatures exhibited in
+land plants: the “green bump,” due to lower absorbance
+of green light by chlorophyll (Chl); and
+the “red edge,” characterized by absorbance in
+the red by Chl strongly contrasting with reflectance
+in the near-infrared (NIR) due to refraction
+between leaf mesophyll cell walls and air
+spaces in the leaf. The red edge is so different
+spectrally from other matter that it has been measured
+by satellites to identify vegetation cover
+(Tucker, 1976; Grant, 1987; Sagan et al., 1993) and
+estimate plant productivity
+- why are plants green? More precisely,
+what is the functional role of different features of
+a photosynthetic organism’s reflectance spectrum?
+Although it is fairly well understood how
+pigments absorb and how cells scatter light, it is
+not yet settled as to why photosynthetic pigments
+absorb at those particular wavelengths.
+- Photosynthetic spectral reflectance signatures
+are a result of both molecular constraints on biochemical
+processes and environmental pressures
+for adaptation.
+- a minimum
+of eight photons total are required both to evolve
+one O2 and to fix carbon from one CO2. More than eight
+photons are generally required (experiments
+have shown up to about 12 photons (Govindjee,
+1999) because some are unsuccessful )
+- The quantum requirement in all these cases is
+also 8 to 12 photons per carbon fixed. In summary,
+the inputs to photosynthesis are light energy,
+a carbon source, and a reductant. The direct
+products are carbohydrates and can be oxygen,
+elemental sulfur, water, and other oxidized forms of the reductant. Soil nutrients are also necessary
+inputs,
+- Photosynthesis arose fairly early in the history
+of the Earth. One theory about the origin of
+photosynthesis is that it began as a fortuitous
+adaptation of primitive pigments for infrared
+thermotaxis of chemolithotrophic bacteria in hydrothermal
+ocean vents [early Archean, possibly
+3.8 Ga ago (Nisbet et al., 1995)]. Thus, with these
+organisms being less dependent on the heat of the
+hydrothermal vents, their habitats gradually expanded
+to shallower waters where solar light
+could be utilized (Nisbet and Fowler, 1999; Des
+Marais, 2000). It is also possible that photosynthesis
+arose first in shallow waters and, before
+there was oxygenic photosynthesis to provide an
+ozone shield, ultraviolet (UV) screening proteins
+led to the transfer of excitation energy to the porphyrin
+(Mulkidjanian and Junge, 1997). The evolution
+of ocean chemistry could have played a
+major role in the evolution of Chl
+- Allen and Martin
+(2007) provide a nice review of these ideas of
+the origins of oxygenic photosynthesis.
+- The fossil record seems to support that the
+early photosynthesizers were anoxygenic purple
+bacteria and green sulfur bacteria that used reducing
+substrates other than water, such as H2
+and H2S (Olson, 2006). Anoxic environments allowed
+these organisms to thrive, since oxygen is
+damaging to bacteriochlorophylls (BChls). By the
+mid- to late Archean (3.5–3.6 Ga ago) or as late
+as 2.3 Ga ago in the Early Proterozoic, oxygenic
+cyanobacterial mats had formed in the shallower
+waters. Endosymbiosis of cyanobacteria and
+early animal protists gave rise to the plastids of
+algae, with these plastids being the photosynthesizing
+organelle (Larkum and Vesk, 2003). The
+algae were, thus, the first eukaryotic photosynthesizers
+and occur in both single-cell and
+multicellular forms (e.g., kelp)
+- Land plants are believed to be descended
+from a single branch of the green algae
+(Larkum and Vesk, 2003). The first land plants,
+with the nonvascular Bryophyta (mosses and liverworts)
+being the earliest, did not occur until 460
+Myr ago, after which the abundance of plant life
+exploded, reaching a first peak of productivity by
+the end of the Devonian 360 Myr ago
+- Oxygenic photosynthesis on Earth is limited to
+photosystems that operate at 400–730 nm, but
+anoxygenic photosynthesis occurs at wavelengths
+as long as 1,015–1,020 nm
+- Among
+the phototrophic bacteria, only cyanobacteria
+(formerly known as blue-green algae) are oxygenic.
+The diversity of pigments of cyanobacteria
+includes Chl a/b/c/d, phycobilins, and carotenoids,
+which allows them a wide range of colors
+and distribution nearly everywhere on Earth,
+from aquatic environments to desert salt crusts.
+- Plants utilize only Chl a, Chl b, and
+carotenoids but have developed more complex
+mechanisms to acquire CO2 and retain water. All
+photosynthetic organisms have carotenoids.
+- Because the photosystems are tied to the type
+of electron donor, the photosynthesizer is therefore
+necessarily restricted to particular resource
+environment niches. Purple and green sulfur bacteria
+are restricted to aquatic environments where
+sulfur (sulfide, sulfate, sulfite, thiosulfate, H2S) is
+available as an electron donor, and some of these
+bacteria require anoxic environments.
+- 
+
 - Photosynthesis is a series of chemical reactions that use sunlight and water
 to produce energy-carrier molecules that in turn are used to make sugars from
 carbon dioxide. The process releases oxygen gas into the environment.
@@ -403,6 +513,25 @@ E = hν,
 
 ## Exobiologie
 
+- Figure 2c shows the typical reflectance signature
+of land plants, for which the significant features
+include the green bump in reflectance and
+the “red edge.” The latter is so-called because
+plant photosynthetic pigments absorb strongly in
+the visible or PAR, which strongly contrasts with
+high scattering in the NIR due to refraction between
+leaf mesophyll cell walls and air spaces inside
+the leaf. The wavelength of the “red edge”
+is more strictly defined as the inflection point in
+the slope of the reflectance between the red and
+NIR, and is sometimes referred to as the “red
+edge inflection point” or the “red edge position.”
+It falls generally around 700 nm, but the location
+and steepness may vary according to the organism’s
+abundance or thickness (if sensing over a
+large area) and physiological status; as shown
+later in this paper, there can be distinct differences
+between organism types.
 - The high reflection of land vegetation in the near-infrared, the vegetation red edge (VRE), is often cited as a
 spectral biosignature for surface vegetation on exoplanets. The VRE involves only a few percentage change in
 reflectivity for a disk-integrated observation of present-day Earth. Here we show that the strength of Earth’s
