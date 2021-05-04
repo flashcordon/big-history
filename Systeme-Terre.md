@@ -264,6 +264,209 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 
 ## Pour des raisons biochimiques
 
+- Fonctionnement de la photosynthèse et chlorophylle
+- The high reflection of land vegetation in the near-infrared, the vegetation red edge (VRE), is often cited as a
+spectral biosignature for surface vegetation on exoplanets. The VRE involves only a few percentage change in
+reflectivity for a disk-integrated observation of present-day Earth. Here we show that the strength of Earth’s
+VRE has increased over the past *500 million years of land plant evolution and may continue to increase as
+solar luminosity increases and the planet warms, until either vegetation coverage is reduced, or the planet’s
+atmosphere becomes opaque to light reflected off the surface. Early plants such as mosses and liverworts, which
+dominated the land 500–400 million years ago, produce a weaker VRE, approximately half as strong as that of
+modern vegetation. We explore how the changes in land plants, as well as geological changes such as ice
+coverage during ice ages and interglacial periods, influence the detectability of the VRE through Earth’s
+geological past. Our results show that the VRE has varied through the evolutionary history of land plants on
+Earth and could continue to change into the future if hotter climate conditions became dominant, encouraging
+the spread of vegetation.
+- Remote direct detection of surface life in reflected light
+from exoplanets becomes possible when organisms modify
+the detectable reflectivity of the surface (e.g., by influencing
+surface colors). Land vegetation is commonly cited as such
+a surface biosignature. On Earth vegetation has a specific
+reflection spectrum, with a sharp edge *700 nm, called the
+vegetation red edge (VRE)
+- Photosynthetic plants efficiently absorb visible light, but developed strong infrared reflectivity
+resulting in the steep change in reflectivity that
+defines the VRE. The advantages gained by reflecting this
+radiation are still debated. Some studies have claimed that
+plants balance the absorption of sunlight for photosynthesis
+reactions with efficient reflectance at other wavelengths to
+avoid damage caused by overheating (Gates et al., 1965;
+Seager et al., 2005), but there are not yet enough data to
+determine consistent trends
+- The primary
+molecules that absorb energy from light and convert it
+to drive photosynthesis (H2O and CO2 into sugars and O2)
+are chlorophyll a (absorption peaks at 430 and 662 nm in
+diethyl ether) and b (absorption peaks at 453 and 642 nm in
+diethyl ether) (Seager et al., 2005). The VRE is caused by
+the structure of leaves, which makes them very efficient at
+scattering light. Leaves are composed of water-filled cells
+surrounded by air gaps. Some light reflects off the cell walls;
+some enters the cells. The structure of leaf cells causes light
+entering them to be internally scattered (a combined effect
+of the high index of refraction between water and air, and
+the size of internal components of the cells, which are of the
+order of the wavelength of light). The scattered light eventually
+exits as transmitted light (below leaf) or reflected
+light (above leaf). Similar reflectance properties are found in
+other photosynthetic organisms, such as algae, which also
+exhibit red edges. This process enables the light-harvesting
+cells to absorb the specific wavelengths they need while
+effectively scattering away the rest. Chlorophyll pigments
+are almost transparent at wavelengths >700 nm, which results
+in the majority of the reflected/transmitted light being
+in the near-infrared (NIR)
+- The VRE is often suggested as a direct signature of life
+(Sagan et al., 1993; Seager et al., 2005) and is commonly
+modeled using deciduous vegetation. The concept of a VRE
+biosignature is based on the assumptions that (1) extraterrestrial
+photosynthesizers evolve on other worlds, and (2)
+these organisms also reflect strongly in the NIR.
+- A thorough
+analysis of the likelihood of oxygenic photosynthesis
+arising elsewhere is done by Wolstencroft and Raven (2002)
+and Rothschild (2008).
+- The VRE signature for the present-day Earth is weak and
+very difficult to detect. Several groups (Arnold, 2008, and
+references therein) have measured the integrated Earth spectrum
+via the technique of Earthshine, using sunlight reflected
+from the nonilluminated side of the Moon.
+- The nature of NIR reflectance varies for different plant
+species. The magnitude of the increase in reflectivity and
+the wavelength at which the increase occurs both vary for different
+vegetation types. Deciduous vegetation on Earth causes
+- an increase in reflectance in the NIR from*5% to 50% when
+observed alone. For nonvascular plants such as mosses, this
+reflectance peak can be as lowas 20%,whereas for desert plants
+such as cacti it can be >80% (Fig. 2). Note however, when the
+effect is hemispherically averaged and overlying clouds and an
+atmosphere are taken into account, the observed change is reduced
+to a lower percentage (Figs. 3–6) as observed in presentday
+Earthshine spectra
+- When land vegetation first emerged between 725 and
+500 Myr ago, plants such as mosses dominated the planet’s
+surface, thus the spectral feature of deciduous vegetation
+would not have been present then. Modern flowering plants
+and trees have only dominated the surface for the past
+*130 Myr (Fig. 2). Stemming from an algal ancestor, the
+first land plants were simple and lacked a vascular system
+with which to transport water. However, these soon evolved
+into larger leafy plants. The dominant surface vegetation on
+Earth would have changed during this time, potentially altering
+the strength of the spectral red-edge signature.
+- Studies of carbon isotope ratios suggest that microbial
+photosynthetic life may have been present on land from as
+long as 1.2 billion years ago (Horodyski and Knauth, 1994;
+Raven, 1997; Knauth and Kennedy, 2009) long before the
+first land plants appeared
+- Mosses represent
+the main surface vegetation coverage for the earliest
+times when Earth hosted land vegetation, followed by ferns
+for later periods, deciduous vegetation for more recent periods
+and the present-day Earth. For a future hot, dry Earth
+we model cacti-dominated surface vegetation
+- this timeline only represents the time frame when
+land vegetation was widespread (starting <500 Mya based
+on widely accepted fossil evidence, although land plants
+- could potentially have emerged as early as 725 Mya; Magallo
+´n et al. (2013), Zimmer et al. 2007
+- While fossil evidence and molecular clock analyses indicate
+that embryophytes (the higher plants outlined in
+Fig. 2) have been present on land for possibly 725 Myr
+(Zimmer et al., 2007), with fossil evidence suggesting
+<500 Myr (Magallo´n et al., 2013), non-embryophytic photosynthesizers
+may have colonized the land as early as 0.85
+to 1.2 Gyr ago (Horodyski and Knauth, 1994; Raven, 1997;
+Knauth and Kennedy, 2009). This hypothesis is based on
+chemical analyses of ancient rocks, so there is no direct
+fossil evidence from which to determine the characteristics
+of this early terrestrial life. However, early land ecosystems
+may have been composed of lichens, microbial mats, or
+photosynthetic bacteria (Horodyski and Knauth, 1994; Raven,
+1997). Microbial mats would have incorporated photosynthetic
+microbes, producing an associated red-edge
+reflectance feature (Sanroma et al., 2013). Lichens are
+formed from a symbiotic relationship between fungi and
+algae or cyanobacteria, which means that they also have a
+red-edge feature that is comparable with terrestrial vegetation,
+especially mosses. Therefore, if ancient lichens were
+similar to modern equivalents, and if they were well distributed
+on Earth’s surface, the red-edge signature could be
+much older than previously thought.
+- Our knowledge of the reflectivity of different surface
+components on Earth—such as deserts, oceans, and ice—
+helps assigning the VRE of the Earthshine spectrum to
+terrestrial vegetation. Therefore, the detection of the VRE
+on exoplanets, however interesting, will not be unambiguous.
+For example, some minerals can exhibit a similar
+spectral shape to vegetation *750 nm (Seager et al.,
+2005). An open question is whether similar photosynthesis
+would evolve on a planet orbiting other host stars. If it
+does, the VRE could be shifted to different wavelengths
+- In our models we assumed an average cloud fraction of
+50%, based on observed cloud cover on the present-day
+Earth. However, changes in climate on Earth through geological
+time could have altered Earth’s average cloud fraction.
+Whether this would have increased or decreased during
+warmer and colder periods is still open to debate. For example,
+warmer climates could increase humidity, favoring
+increased cloud formation (Sellwood et al., 2000), but
+higher temperatures could also reduce nutrient cycling in the
+oceans, reducing the rate of biologically produced cloud
+- condensation nuclei, leading to optically thinner, shorter
+lived clouds (Kump and Pollard, 2008). Even if the overall
+cloud fraction remained approximately constant, cloud distributions
+could change
+- Generally, habitable dry exoplanets (desert worlds with
+limited surface water) could be more common than waterrich
+planets such as Earth, because the HZ for dry planets is
+wider than that for Earth-like planets (Abe et al., 2011).
+Low levels of atmospheric water vapor allow habitable
+temperatures to persist at closer distances to the host star
+without causing a runaway greenhouse, while further out
+from the star the lower levels of water allow the planet to
+resist freezing (Abe et al., 2011). The lack of water on desert
+worlds would also reduce cloud cover, making surface
+features like the VRE easier to detect. If desert worlds have
+surface vegetation that has evolved a high reflectivity to
+conserve water loss, such planets provide interesting targets
+for successfully detecting a VRE signal. Such desert exoplanets
+with cactus-like vegetation and low-cloud fractions
+would exhibit a strong VRE. Conversely, fast growing
+plants, which can complete their life cycles within a few
+weeks after a rare rainfall, could be the dominant form of
+vegetation on desert worlds. This type of vegetation would
+lead to a short-lived, temporary VRE signal, which would be
+challenging to observe at the right time.
+- If the development of life on other inhabited worlds follows
+a similar timeline to life on Earth, VRE biosignatures
+are only present for a fraction of a planet’s habitable lifetime
+once vegetation covers the surface (from *500Myr ago on
+Earth). A VRE biosignature similar to that on the present-day
+Earth would be difficult to detect without very high-precision
+instruments (Seager et al., 2005; Montan˜e´s-Rodrı´guez et al.,
+2006). However, our models show that the VRE signature
+increases with geological time, as well as with increasing
+vegetation surface fraction and decreasing cloud coverage.
+On Earth the VRE signature would have been weaker when
+the first land plants emerged *500Myr ago, such as mosses,
+liverworts, and hornworts, as a result of the spectral properties
+of the first land plants. Once vascular plants, such as ferns,
+emerged, plants had similar VRE strengths; however, the
+overall VRE signal increased due to globally increasing vegetation
+surface coverage. On Earth other geological surface
+feature changes, such as ice cover, modified the increasing
+VRE strength over time. The VRE signature generally increases
+through geological time, making older Earth-like
+planets better targets to find a vegetation surface feature
+- The far-future evolution of Earth’s climate is extremely
+hard to model. Two of the many possible scenarios, a warm
+humid future Earth (or jungleworld) and a hot arid future Earth
+(or desertworld), show an increasedVRE signal in ourmodel
+- the best exoplanet targets for VRE detections
+should be older Earth analogues, hot jungle worlds, and
+potentially, hot arid desert worlds, as well as exoplanets
+with low-cloud coverage
 
 ## Pour des raisons de perception
 
