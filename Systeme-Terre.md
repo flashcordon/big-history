@@ -271,6 +271,8 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [Biophysical impacts of Earth greening largely controlled by aerodynamic resistance](https://advances.sciencemag.org/content/6/47/eabb1981) - Chen et al (2020)
 - [Earth is getting greener. Here’s why that’s a problem.](https://grist.org/climate-energy/earth-is-getting-greener-heres-why-thats-a-problem/) - Phil Plait (2016)
 - [China and India lead in greening of the world through land-use management](https://www.nature.com/articles/s41893-019-0220-7) - Chen et al (2019)
+- [Greening of the Earth Mitigates Surface Warming](https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming) - NASA (2020)
+- [Carbon Dioxide Fertilization Greening Earth, Study Finds](https://www.nasa.gov/feature/goddard/2016/carbon-dioxide-fertilization-greening-earth) - NASA (2016)
 
 ---
 
