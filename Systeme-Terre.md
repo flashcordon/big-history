@@ -269,6 +269,7 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - Discover Biology - Michael Cain et al (2009)
 - [Characteristics, drivers and feedbacks of global greening](https://www.nature.com/articles/s43017-019-0001-x) - Piao et al (2019)
 - [Biophysical impacts of Earth greening largely controlled by aerodynamic resistance](https://advances.sciencemag.org/content/6/47/eabb1981) - Chen et al (2020)
+- [Earth is getting greener. Here’s why that’s a problem.](https://grist.org/climate-energy/earth-is-getting-greener-heres-why-thats-a-problem/) - Phil Plait (2016)
 
 ---
 
@@ -477,7 +478,6 @@ colors. Plants absorb and use mostly red-orange and
 blue-violet light. Because these pigments do not absorb
 green light to any appreciable extent, green light bounces
 off photosynthetic tissues so they look green to us
-- 
 
 - The sun’s emission spectrum is thus that
 of a blackbody at ≈5500°C (Figure 3-7; BNID 110208, 110209). However, as
@@ -526,7 +526,7 @@ E = hν,
 -  most light-harvesting by plants is chlorophyll, a green pigment. The green color indicates that it is absorbing all the non-green light--the blues (~425-450 nm), the reds and yellows (600-700 nm). Red and yellow light is longer wavelength, lower energy light, while the blue light is higher energy. In between the two is green light (~500-550 nm). It seems strange that plants would harvest the lower energy  red  light  instead  of  the higher energy  green  light,  unless  you  consider that,  like all life, plants first evolved in the ocean. Sea water quickly absorbs the high-energy blue and green light,  so  that  only  the  lower  energy,  longer  wavelength  red  light  can  penetrate  into  the  ocean. Since  early  plants  and  still  most  plant-life  today,  lived  in  the  ocean,  optimizing  their  pigments  to absorb  the  reds  and  yellows  that  were  present  in  ocean  water  was  most  effective.  While  the ability  to  capture  the  highest  energy  blue  light  was  retained,  the  inability  to  harvest  green  light appears  to  be  a  consequence  of  the  need  to  be  able  to  absorb  the  lower  energy  of  red  light.Plantsalso  use  multiple  variants  of  chlorophyll,  as  well  as  accessory  pigments  such  as carotenoids  (which  give  carrots  their  orange  color)  to  tune  themselves  to  absorbing  different wavelengths  of  light.  That makes  it  impossible  to  assign  a  single  wavelength  of best  absorption for all plants. All plants, however, has chlorophyll a, which absorbs most strongly at ~450 nm, or a bright  blue  color.  
 -  photosynthesis.The  molecular  apparatus  of photosynthesis  isfinely  tunedto  use  the  energy  oftwophotons  arriving  in  rapid  succession  to splitonewater molecule (yielding oxygen as a waste byproduct) and obtaintwo protons.A single photon in the ultraviolet region of the spectrum couldprovide the required energy.However, the atmosphere  attenuates  such  radiation.  So  photosynthesis  uses  two  photons  in  the  visible spectrum  arriving  within  a  femtosecond  timescale.Capturing  all  incident  radiation  isn't  going  to make the process more efficient.
 -  black plants exist. Here's Black Mondo Grass (Osphiopogon planiscapus 'Nigrescens')
--  
+
 
 - Fonctionnement de la photosynthèse et chlorophylle
 - Purple bacteria 
@@ -1038,3 +1038,4 @@ these processes are under- represented in ESMs.
 - "Notably, the NASA satellite data observed pronounced greening during the 21st century in the world's most populous and still-developing countries, China and India
 - Over the last 40 years, carbon emissions from fossil fuel use and tropical deforestation have added 160 parts per million (ppm), a unit of measure for air pollutants, of CO2 to Earth's atmosphere. About 40 ppm of that has diffused passively into the oceans and another 50 ppm has been actively taken up by plants, the researchers say. But 70 ppm remains in the atmosphere, and together with other greenhouse gases, is responsible the land warming patterns that have been observed since the 1980s.
 - "Plants are actively defending against the dangers of carbon pollution by not only sequestering carbon on land but also by wetting the atmosphere through transpiration of ground water and evaporation of precipitation intercepted by their bodies,
+- The beneficial aspect of CO2 fertilization in promoting plant growth has been used by contrarians, notably Lord Ridley (hereditary peer in the U.K. House of Lords) and Mr. Rupert Murdoch (owner of several news outlets), to argue against cuts in carbon emissions to mitigate climate change, similar to those agreed at the 21st Conference of Parties (COP) meeting in Paris last year under the U.N. Framework on Climate Change (UNFCCC). “The fallacy of the contrarian argument is two-fold. First, the many negative aspects of climate change, namely global warming, rising sea levels, melting glaciers and sea ice, more severe tropical storms, etc. are not acknowledged. Second, studies have shown that plants acclimatize, or adjust, to rising CO2 concentration and the fertilization effect diminishes over time,” says coauthor Dr. Philippe Ciais
