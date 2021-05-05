@@ -275,6 +275,7 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [Carbon Dioxide Fertilization Greening Earth, Study Finds](https://www.nasa.gov/feature/goddard/2016/carbon-dioxide-fertilization-greening-earth) - NASA (2016)
 - [La végétation, influenceuse du climat](https://www.cea.fr/drf/Pages/Actualites/En-direct-des-labos/2020/la-vegetation-influenceuse-du-climat.aspx) - Communiqu de presse du CEA (2020)
 - [Notre planète verdit, poussée par la Chine et l'Inde](https://www.notre-planete.info/actualites/2422-verdissement-planete-agriculture-reforestation) - Notre planète
+- [Pourquoi le verdissement de la Terre n’est pas qu’une bonne nouvelle](https://www.lemonde.fr/les-decodeurs/article/2019/06/21/pourquoi-le-verdissement-de-la-terre-n-est-pas-qu-une-bonne-nouvelle_5479913_4355770.html) - Les Décodeurs (2019)
 
 ---
 
