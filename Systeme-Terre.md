@@ -825,6 +825,205 @@ and bacteria.
 
 ## L'influence de l'Humanité
 
+- Vegetation greenness has been increasing globally since at least 1981, when satellite
+technology enabled large- scale vegetation monitoring. The greening phenomenon, together with
+warming, sea- level rise and sea- ice decline, represents highly credible evidence of anthropogenic
+climate change.
+- Greening is pronounced over intensively farmed or afforested areas, such as
+in China and India, reflecting human activities. However, strong greening also occurs in biomes
+with low human footprint, such as the Arctic, where global change drivers play a dominant role.
+Vegetation models suggest that CO2 fertilization is the main driver of greening on the global scale,
+with other factors being notable at the regional scale. Modelling indicates that greening could
+mitigate global warming by increasing the carbon sink on land and altering biogeophysical
+processes, mainly evaporative cooling.
+- Afforestation
+The conversion of treeless
+lands to forests through
+planting trees.
+- satellite- based remote sensing has enabled
+continuous estimation of a few important metrics,
+including vegetation greenness, since the 1980s
+- This ‘vegetation greening’
+is defined as a statistically significant
+increase in annual or
+seasonal vegetation greenness at a location resulting, for
+instance, from increases in average leaf size, leaf number
+per plant, plant density, species composition, duration of
+green- leaf presence due to changes in the growing season
+and increases in the number of crops grown per year
+- Lucht et al.14 and Xu et al.10 revealed that warming has
+eased climatic constraints, facilitating increasing vegetation
+greenness over the high latitudes. Zhu et al.11
+further investigated key drivers of greenness trends and
+concluded that CO2 fertilization is a major factor driving
+vegetation greening at the global scale. Subsequent
+studies based on fine- resolution and medium- resolution
+satellite
+data13 have shown the critical role of land- surface
+history, including afforestation and agricultural intensification,
+in enhancing vegetation greenness.
+- Greener vegetation not only results from climatic and
+atmospheric changes but also feeds back to the climate
+through biogeochemical and biogeophysical processes.
+These feedbacks are often studied with Earth system
+models (ESMs), in which vegetation is coupled with
+the atmosphere and the hydrologic cycle17. ESM- based
+studies have demonstrated that greening can accelerate
+the hydrologic cycle by increasing the amount of water
+transpired by plants, alter the energy exchange between
+land and the atmosphere, and affect atmospheric
+circulation patterns18,19
+- Warming is the major cause of greening in boreal and Arctic biomes, but has negative
+effects on greening in the tropics.
+• Greening was found to mitigate global warming through enhanced land carbon
+uptake and evaporative cooling, but might also lead to decreased albedo that could
+potentially cause local warming.
+• Greening enhances transpiration, a process that reduces soil moisture and runoff
+locally, but can either amplify or reduce runoff and soil moisture regionally through
+altering the pattern of precipitation.
+- Chen et al.13 showed that leaf area increased by
+5.4 million km2 over 2000–2017, an area equivalent to
+the areal extent of the Amazon rainforest13
+- Regions with the greatest greening trend
+include northern Alaska and Canada, the low- Arctic
+parts of eastern Canada and Siberia, and regions of
+Scandinavia
+- The increase of
+vegetation greenness is especially strong in agricultural
+regions (for example, India13) and recently afforested
+areas (for example, China13,39); collectively, China and
+India alone contribute more than 30% of the total net
+increase in the global LAI13. leaf area
+index (LAI).
+- substantial uncertainties remain in the tropical
+vegetation greenness estimations due to the saturation
+effects of greenness indices in dense vegetation41 and contamination
+by clouds and aerosols4
+- Several factors are thought to impact vegetation greening,
+including rising atmospheric CO2 concentrations,
+climate change, nitrogen deposition and land- use
+changes. However, nonlinear impacts and interactions
+make it challenging to quantify the individual contribution
+of these factors to the observed greening trend.
+- As CO2 is the substrate for photosynthesis,
+rising atmospheric CO2 concentration can
+enhance photosynthesis66 by accelerating the rate of
+carboxylation; this process is known as the ‘CO2 fertilization
+effect’. In addition, increased CO2 concentrations
+can also enhance vegetation greenness by partially
+closing leaf stomata, leading to enhanced water- use
+efficiency67, which should relax water limitation to
+plant growth, particularly over semi- arid regions
+- rising CO2 is the dominant driver of vegetation
+greening, accounting for nearly 70% of global LAI trend since the 1980s
+- climate
+change, such as anthropogenic warming and regional
+trends in precipitation, is a dominant driver of greenness
+changes over 28% of the global vegetated area11.
+The global contribution of climate change to increasing
+greenness is only 8% (Fig. 4a), however, because
+impacts of climate change on vegetation greenness vary
+between regions11. For example, warming could reduce
+vegetation growth in the tropics84, where ambient temperature
+is close to vegetation optimal temperature85,
+but warming significantly increases vegetation greenness
+in the boreal and Arctic regions86 by enhancing
+metabolism87 and extending the growing season59,88,89
+- However, this positive impact of anthropogenic
+warming on greenness appears to have weakened
+during the past four decades90,91, when the correlation
+coefficient between temperature and greenness
+decreased by more than 50%90,91, suggesting a possible
+saturation of future greening in response to warmer
+temperature.
+- Like climate change, land-use change
+exerts a considerable but highly spatially variable
+influence on greenness changes11,13 (Fig. 4). Specifically,
+deforestation dominates the tropics101,102, while afforestation
+increases forest area over temperate regions
+- particularly in China, where the forest area has increased
+by more than 20% since the 1980s
+- Greening increases the amount of photosynthetically
+active sunlight that is absorbed by vegetation and, thus,
+enhances productivity112,113
+- Enhanced vegetation productivity increases terrestrial
+carbon storage, slowing down anthropogenic
+climate warming117. For example, about 29% of anthropogenic
+CO2 emissions since the 1980s have been offset
+by the land carbon sink (2.5 ± 1.0 PgC year−1)111
+- Multiple lines of evidence,
+including analyses from DGVMs, atmospheric
+inversion models and the residual land sink (the mass
+balance residual of anthropogenic CO2 emissions, atmospheric
+CO2 growth rate and ocean CO2 budget), confirm
+the increasing magnitude of the global land carbon sink
+since the 1980s111
+- the trend in the land carbon sink has further
+accelerated since the late 1990s120,121. For example,
+the rate of update during 1998–2012 was three times
+that of 1980–1988 (0.17 PgC year−2 in comparison with
+0.05 PgC year−2)121, attributed to afforestation- induced
+greening in the temperate Northern Hemisphere13,121
+- Recent DGVM studies122,123
+have further confirmed that the carbon sink
+during the 2000s was partly driven by afforestation and
+forest regrowth in East Asia and Europe124. The extensive
+greening over croplands, however, has probably contributed
+less to the carbon sink, because only a minor portion
+of assimilated carbon by crops remain sequestered
+due to crop harvest.
+- Vegetation greening modulates
+water cycling. Land water losses to the atmosphere
+occur through ET, which includes transpiration (60–90%
+of the total land ET134–136) and evaporation. Greening
+increases water losses through an extended area of
+leaves performing transpiration137. A larger foliage area
+reduces the bare ground surface from which soil evaporation
+occurs, but increases the re- evaporation of rainfall
+intercepted by leaves138, so that greening can cause the
+net evaporation to either increase or decrease. Various
+remote- sensing-based ET estimates consistently point
+to a significant increase in global terrestrial ET over
+the past four decades, suggesting an intensified water
+exchange between the land and the atmosphere concurrent
+with the greening trend139. More than half of the
+global ET increase since the 1980s has been attributed
+to vegetation greening138,139
+- Greening impacts the
+exchange of energy between the land and the atmosphere,
+which ultimately leads to modifications in surface
+air temperature150. Greening increases ET, which
+cools the surface through evaporative cooling19,150, but
+greener canopies have a lower albedo than bare ground
+and absorb more sunlight, which can result in a larger
+sensible heat flux. This enhanced sensible heat warms
+the land surface, an effect called albedo warming151
+- The net effect of greening on surface air temperature in
+many cases can be viewed as the balance between evaporative
+cooling and albedo warming152,153, which was
+estimated globally to be −0.9 W m−2 from evaporative
+cooling and +0.1 W m−2 from albedo warming
+- When all the aforementioned impacts of vegetation
+greening on near- surface air temperature were simulated
+in coupled ESMs driven by the satellite- based greening
+since the 1980s, the results suggested a net cooling trend
+by 12% ± 3% of the concurrent observed warming rate19
+- Widespread vegetation greening since the 1980s is one
+of the most notable characteristics of biosphere change
+in the Anthropocene. Greening has significantly enhanced
+the land carbon sink, intensified the hydrologic cycle
+and cooled the land surface at the global scale
+- Considerable uncertainties remain in ESM projections
+on if and where vegetation greening will occur.
+Recent studies have identified several processes causing
+vegetation browning in some regions, including forest
+diebacks170, insect35 and disease outbreaks171, thermokarst
+development172, human mismanagement36,173, destructive
+logging174 and industrial development175. These
+emerging threats could lead to unexpected changes in
+vegetation greenness relative to our current projections
+(such as the projections shown in Figs 2e–h,5), since
+these processes are under- represented in ESMs.
 - About 85 percent of Earth’s ice-free lands is covered by vegetation. The area covered by all the green leaves on Earth is equal to, on average, 32 percent of Earth’s total surface area - oceans, lands and permanent ice sheets combined. 
 - increased vegetation growth during the recent decades, known as the “Greening Earth”, has a strong cooling effect on the land due to increased efficiency of heat and water vapor transfer to the atmosphere.
 - NASA satellites have been observing increased green cover on land, which is thought to be due to intensive agriculture to feed growing populations and ambitious tree-planting programs – for example, the so-called “Green Great Wall” in China.
