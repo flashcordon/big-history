@@ -383,7 +383,37 @@ are restricted to aquatic environments where
 sulfur (sulfide, sulfate, sulfite, thiosulfate, H2S) is
 available as an electron donor, and some of these
 bacteria require anoxic environments.
-- 
+- Plant reflectance of green
+light is often considered a similarly suboptimal
+feature of plants, as there appears a spectral mismatch
+between solar radiation at the Earth’s surface
+and the absorption peaks (440 and 680 nm) of
+Chl (Raven and Wolstencroft, 2002). Even with our
+rules above for pigment properties, there appears
+to be wasted green light. However, given that algae
+and cyanobacteria utilize phycobilins to harvest
+green light, the low harvesting of green light
+in land plants has been thought by some to be an
+inefficiency due to an evolutionary “lock-in” from
+the lineage of green algae. However, aboveground
+plant pigments do absorb green light, just
+in a lesser ratio to other colors, and they often
+experience too much light (or are limited by other
+resources), hence the need for quenching by
+carotenoids. The non–light harvesting pigment anthocyanin,
+which accumulates at the surface of
+shade-adapted leaves and makes them red, may
+provide photoprotection under high light by shading
+Chl b in chloroplasts from green light (Gould
+et al., 2002; Pietrini et al., 2002). So, there may be
+no selective advantage to absorbing more green
+light.
+- That all land plants are descended from the
+green algae may very much be because their pigment
+combinations provided the selective advantage
+for life on land after the buildup of atmospheric
+O2, which shifted the surface spectral
+photon flux from a peak at 600 nm to 685 nm.
 
 - Photosynthesis is a series of chemical reactions that use sunlight and water
 to produce energy-carrier molecules that in turn are used to make sugars from
@@ -734,6 +764,10 @@ humid future Earth (or jungleworld) and a hot arid future Earth
 should be older Earth analogues, hot jungle worlds, and
 potentially, hot arid desert worlds, as well as exoplanets
 with low-cloud coverage
+- it appears that all photosynthesizers
+except the purple bacteria (Fig. 3d) have
+a “red edge,” albeit this edge is weak in lichens
+and bacteria.
 
 ## Pour des raisons de perception
 
@@ -786,3 +820,7 @@ with low-cloud coverage
 - However, there is an increasing emphasis on interactions between bottom–up and top–down processes.
 - Having pointed out these complexities and the multiple processes involved in a full explanation, it appears to us that bottom–up processes are probably the most widely applicable explanation for why herbivores do not destroy all vegetation and so they provide an important part of the answer to the green world question. Hunter and Price (1992) stated the point in simple but almost unarguable terms, “the removal of higher trophic levels leaves lower levels intact (if perhaps greatly modified), whereas the removal of primary producers leaves no system at all.”
 -  At the end of the 1990s, Polis (1999) summarised this bottom–up view in a widely cited review paper and we think his main conclusions still stand (albeit with caveats about the complexity of coupled complex systems), he wrote “The implication is clear: even in a world full of green energy, many/most herbivores cannot obtain enough requisite resources to grow, survive, or reproduce at high rates. Nutritional shortages regulate herbivore numbers, often limit their effects on plant biomass, and form one important reason why much of the world is green.”  
+
+## L'influence de l'Humanité
+
+
