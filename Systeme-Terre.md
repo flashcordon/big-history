@@ -276,7 +276,7 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [La végétation, influenceuse du climat](https://www.cea.fr/drf/Pages/Actualites/En-direct-des-labos/2020/la-vegetation-influenceuse-du-climat.aspx) - Communiqu de presse du CEA (2020)
 - [Notre planète verdit, poussée par la Chine et l'Inde](https://www.notre-planete.info/actualites/2422-verdissement-planete-agriculture-reforestation) - Notre planète
 - [Pourquoi le verdissement de la Terre n’est pas qu’une bonne nouvelle](https://www.lemonde.fr/les-decodeurs/article/2019/06/21/pourquoi-le-verdissement-de-la-terre-n-est-pas-qu-une-bonne-nouvelle_5479913_4355770.html) - Les Décodeurs (2019)
-
+- [L’indice foliaire des couverts forestiers : mesure, variabilité et rôle fonctionnel](http://documents.irevues.inist.fr/bitstream/handle/2042/5426/135_150.pdf?...) - Nathalie Bréda (1999)
 ---
 
 ## Pour des raisons biochimiques
@@ -831,17 +831,11 @@ and bacteria.
 
 ## L'influence de l'Humanité
 
-- Vegetation greenness has been increasing globally since at least 1981, when satellite
-technology enabled large- scale vegetation monitoring. The greening phenomenon, together with
-warming, sea- level rise and sea- ice decline, represents highly credible evidence of anthropogenic
-climate change.
-- Greening is pronounced over intensively farmed or afforested areas, such as
-in China and India, reflecting human activities. However, strong greening also occurs in biomes
-with low human footprint, such as the Arctic, where global change drivers play a dominant role.
-Vegetation models suggest that CO2 fertilization is the main driver of greening on the global scale,
-with other factors being notable at the regional scale. Modelling indicates that greening could
-mitigate global warming by increasing the carbon sink on land and altering biogeophysical
-processes, mainly evaporative cooling.
+- Depuis l'avènement des données satellitaires, au début des années 80, les scientifiques ont constaté un "verdissement de la planète". Ce verdissement constitue l'un des indicateurs les plus notables du changement climatique d'origine anthropique, au même titre que le réchauffement planétaire ou la montée des eaux.
+> Il est mesuré par l'indice de surface foliaire (leaf area index, LAI), une grandeur sans dimension qui exprime la surface foliaire d’un arbre, d’un peuplement, d’un écosystème ou d’un biome par unité de surface de sol. Il est déterminé par le calcul de l'intégralité des surfaces des feuilles de la plante sur la surface de sol que couvre cette plante.
+- Le verdissement est particulièrement prononcé en Chine et en Inde
+- Selon les modèles, le moteur principal de ce verdissement à l'échelle globale est la fertilisation CO2, 
+
 - Afforestation
 The conversion of treeless
 lands to forests through
@@ -849,14 +843,6 @@ planting trees.
 - satellite- based remote sensing has enabled
 continuous estimation of a few important metrics,
 including vegetation greenness, since the 1980s
-- This ‘vegetation greening’
-is defined as a statistically significant
-increase in annual or
-seasonal vegetation greenness at a location resulting, for
-instance, from increases in average leaf size, leaf number
-per plant, plant density, species composition, duration of
-green- leaf presence due to changes in the growing season
-and increases in the number of crops grown per year
 - Lucht et al.14 and Xu et al.10 revealed that warming has
 eased climatic constraints, facilitating increasing vegetation
 greenness over the high latitudes. Zhu et al.11
