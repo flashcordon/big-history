@@ -278,6 +278,8 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [Notre planète verdit, poussée par la Chine et l'Inde](https://www.notre-planete.info/actualites/2422-verdissement-planete-agriculture-reforestation) - Notre planète
 - [Pourquoi le verdissement de la Terre n’est pas qu’une bonne nouvelle](https://www.lemonde.fr/les-decodeurs/article/2019/06/21/pourquoi-le-verdissement-de-la-terre-n-est-pas-qu-une-bonne-nouvelle_5479913_4355770.html) - Les Décodeurs (2019)
 - [L’indice foliaire des couverts forestiers : mesure, variabilité et rôle fonctionnel](http://documents.irevues.inist.fr/bitstream/handle/2042/5426/135_150.pdf?...) - Nathalie Bréda (1999)
+- [Great Green Wall (China)](https://en.wikipedia.org/wiki/Great_Green_Wall_(China)) - Wikipédia
+
 ---
 
 ## Pour des raisons biochimiques
@@ -834,15 +836,15 @@ and bacteria.
 
 - Depuis l'avènement des données satellitaires, au début des années 80, les scientifiques ont constaté un "verdissement de la planète". Ce verdissement constitue l'un des indicateurs les plus notables du changement climatique d'origine anthropique, au même titre que le réchauffement planétaire ou la montée des eaux.
 > * Il est mesuré par l'indice foliaire, aussi appelé indice de surface foliaire (leaf area index, LAI), une grandeur sans dimension qui exprime la surface foliaire d’un arbre, d’un peuplement, d’un écosystème ou d’un biome par unité de surface de sol. Il est déterminé par le calcul de l'intégralité des surfaces des feuilles de la plante sur la surface de sol que couvre cette plante.
-- Entre 2000 et 2017, la surface foliaire a augmenté de près de 5,4 millions de km², une surface équivalente à l'intégralité de la forêt amazonienne. Cette tendance est particulièrement prononcée en Chine et en Inde. 
-> En Inde, le verdissement est essentiellement dû à l'intensification de l'agriculture (à 82%), qui augmente la surface des terres cultivées, tandis qu'en Chine ce sont en grande partie (42%) les grands programmes d'afforestation et, dans une moindre mesure, l'agriculture (32%) qui sont responsables de ce phénomène
 - Le moteur principal de ce verdissement à l'échelle globale est l'effet fertilisant du CO2 
 > Selon les modèles, l'accroissement du CO2 atmosphérique est responsable d'environ 70% du verdissement observé depuis les années 80.
 - Mais il y a aussi d'autres facteurs en jeu :
 > * Le réchauffement climatique, qui crée des conditions climatiques plus douces aux hautes latitudes, notamment dans les régions arctiques et la zone boréale, ce qui favorise le verdissement de ces régions. Mais en contrepartie, le réchauffement global favorise l'aridification des terres dans les tropiques.
 > * L'afforestation, c'est à dire la plantation d'arbres sur des surfaces longtemps restées dépourvues d'arbre
-> * L'intensification de l'agriculture
-- 
+> * L'intensification de l'agriculture, en particulier dans les pays comme la Chine et l'Inde, dans lesquelles la production de nourriture a augmenté de plus de 35% depuis le début des années 2000.
+- Entre 2000 et 2017, la surface foliaire a augmenté de près de 5,4 millions de km², une surface équivalente à l'intégralité de la forêt amazonienne. Cette tendance est particulièrement prononcée en Chine et en Inde. 
+> * En Inde, le verdissement est essentiellement dû à l'intensification de l'agriculture (à 82%), qui augmente la surface des terres cultivées, tandis qu'en Chine ce sont en grande partie (42%) les grands programmes d'afforestation et, dans une moindre mesure, l'agriculture (32%) qui sont responsables de ce phénomène.
+> * Depuis les années 80, la surface forestière de la Chine a augmenté de plus de 20% ! Parmi les projets de plantation les plus ambitieux (et les plus controversés) de la Chine, il y a la "la Grande muraille verte", une bande de forêt de 4500 km de long destinée à freiner la progression du désert de Gobi. Le projet a débuté en 1978 et sa mise en place devrait se terminer en 2074 ! Il s'agit de la plus grande forêt artificielle au monde.
 
 - Greener vegetation not only results from climatic and
 atmospheric changes but also feeds back to the climate
@@ -915,8 +917,7 @@ exerts a considerable but highly spatially variable
 influence on greenness changes11,13 (Fig. 4). Specifically,
 deforestation dominates the tropics101,102, while afforestation
 increases forest area over temperate regions
-- particularly in China, where the forest area has increased
-by more than 20% since the 1980s
+
 - Greening increases the amount of photosynthetically
 active sunlight that is absorbed by vegetation and, thus,
 enhances productivity112,113
