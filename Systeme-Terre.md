@@ -832,9 +832,11 @@ and bacteria.
 ## L'influence de l'Humanité
 
 - Depuis l'avènement des données satellitaires, au début des années 80, les scientifiques ont constaté un "verdissement de la planète". Ce verdissement constitue l'un des indicateurs les plus notables du changement climatique d'origine anthropique, au même titre que le réchauffement planétaire ou la montée des eaux.
-> Il est mesuré par l'indice de surface foliaire (leaf area index, LAI), une grandeur sans dimension qui exprime la surface foliaire d’un arbre, d’un peuplement, d’un écosystème ou d’un biome par unité de surface de sol. Il est déterminé par le calcul de l'intégralité des surfaces des feuilles de la plante sur la surface de sol que couvre cette plante.
+> * Il est mesuré par l'indice foliaire, aussi appelé indice de surface foliaire (leaf area index, LAI), une grandeur sans dimension qui exprime la surface foliaire d’un arbre, d’un peuplement, d’un écosystème ou d’un biome par unité de surface de sol. Il est déterminé par le calcul de l'intégralité des surfaces des feuilles de la plante sur la surface de sol que couvre cette plante.
+- Entre 2000 et 2017, la surface foliaire a augmenté de près de 5,4 millions de km², une surface équivalente à l'intégralité de la forêt amazonienne
 - Le verdissement est particulièrement prononcé en Chine et en Inde
-- Selon les modèles, le moteur principal de ce verdissement à l'échelle globale est la fertilisation CO2, 
+- Le moteur principal de ce verdissement à l'échelle globale est la fertilisation CO2, 
+> Selon les modèles, l'accroissement du CO2 atmosphérique est responsable d'environ 70% du verdissement observé depuis les années 80.
 
 - Afforestation
 The conversion of treeless
@@ -873,9 +875,7 @@ potentially cause local warming.
 • Greening enhances transpiration, a process that reduces soil moisture and runoff
 locally, but can either amplify or reduce runoff and soil moisture regionally through
 altering the pattern of precipitation.
-- Chen et al.13 showed that leaf area increased by
-5.4 million km2 over 2000–2017, an area equivalent to
-the areal extent of the Amazon rainforest13
+
 - Regions with the greatest greening trend
 include northern Alaska and Canada, the low- Arctic
 parts of eastern Canada and Siberia, and regions of
@@ -906,8 +906,6 @@ can also enhance vegetation greenness by partially
 closing leaf stomata, leading to enhanced water- use
 efficiency67, which should relax water limitation to
 plant growth, particularly over semi- arid regions
-- rising CO2 is the dominant driver of vegetation
-greening, accounting for nearly 70% of global LAI trend since the 1980s
 - climate
 change, such as anthropogenic warming and regional
 trends in precipitation, is a dominant driver of greenness
