@@ -849,10 +849,7 @@ and bacteria.
 - Le verdissement de la végétation a des conséquences majeures sur la dynamique du système Terre
 > * Il a intensifié le cycle de l'eau
 > * Il a enhanced la séquestration du carbone
-> * Il contribue à refroidir les surfaces terrestres à l'échelle globale. Sans cette augmentation de la couverture végétale, les terres seraient environ 12% (± 3%) plus chaudes au cours des 3 dernières décennies. 
-
-- The vegetation cooling effect is large from the energy dissipation perspective, but only about 10%-20% compared to the pace of global warming. The cooling effect from greening is less significant in tropical forests with high leaf areas.
-
+> * Il contribue à refroidir les surfaces terrestres à l'échelle globale. Sans cette augmentation de la couverture végétale au cours des 3 dernières décennies, les terres seraient en moyenne 0.09°C (±0.02) plus chaudes. Comme les surfaces terrestres se sont réchauffées de 0.89°C en moyenne sur cette période, l'effet mitigateur du verdissement terrestre sur l'augmentation des températures globales est estimé à environ 12%. 
 - Les conséquences positives de l'effet fertilisant du CO2 est utilisé par les inactivistes comme Rupert Murdoch (un homme d'affaire australo-américain actionnaire majoritaire du plus grand et le plus influent groupe de médias au monde, News Corporation) comme un argument pour continuer d'émettre du CO2 dans l'atmosphère. Evidemment, ils ne prennent pas en compte les conséquences négatives du changement climatique, ni le fait que les plantes finissent par s'acclimater à l'augmentation de CO2 atmosphérique, ce qui diminue l'effet fertilisant au fil du temps.
 
 
