@@ -835,27 +835,14 @@ and bacteria.
 > * Il est mesuré par l'indice foliaire, aussi appelé indice de surface foliaire (leaf area index, LAI), une grandeur sans dimension qui exprime la surface foliaire d’un arbre, d’un peuplement, d’un écosystème ou d’un biome par unité de surface de sol. Il est déterminé par le calcul de l'intégralité des surfaces des feuilles de la plante sur la surface de sol que couvre cette plante.
 - Entre 2000 et 2017, la surface foliaire a augmenté de près de 5,4 millions de km², une surface équivalente à l'intégralité de la forêt amazonienne
 - Le verdissement est particulièrement prononcé en Chine et en Inde
-- Le moteur principal de ce verdissement à l'échelle globale est la fertilisation CO2, 
+- Le moteur principal de ce verdissement à l'échelle globale est l'effet fertilisant du CO2 
 > Selon les modèles, l'accroissement du CO2 atmosphérique est responsable d'environ 70% du verdissement observé depuis les années 80.
+- Mais il y a aussi d'autres facteurs en jeu :
+> * Le réchauffement climatique, qui crée des conditions climatiques plus douces aux hautes latitudes, notamment dans les régions arctiques et la zone boréale, ce qui favorise le verdissement de ces régions. Mais en contrepartie, le réchauffement global favorise l'aridification des terres dans les tropiques.
+> * L'afforestation, c'est à dire la plantation d'arbres sur des surfaces longtemps restées dépourvues d'arbre
+> * L'intensification de l'agriculture
+- 
 
-- Afforestation
-The conversion of treeless
-lands to forests through
-planting trees.
-- satellite- based remote sensing has enabled
-continuous estimation of a few important metrics,
-including vegetation greenness, since the 1980s
-- Lucht et al.14 and Xu et al.10 revealed that warming has
-eased climatic constraints, facilitating increasing vegetation
-greenness over the high latitudes. Zhu et al.11
-further investigated key drivers of greenness trends and
-concluded that CO2 fertilization is a major factor driving
-vegetation greening at the global scale. Subsequent
-studies based on fine- resolution and medium- resolution
-satellite
-data13 have shown the critical role of land- surface
-history, including afforestation and agricultural intensification,
-in enhancing vegetation greenness.
 - Greener vegetation not only results from climatic and
 atmospheric changes but also feeds back to the climate
 through biogeochemical and biogeophysical processes.
@@ -876,10 +863,6 @@ potentially cause local warming.
 locally, but can either amplify or reduce runoff and soil moisture regionally through
 altering the pattern of precipitation.
 
-- Regions with the greatest greening trend
-include northern Alaska and Canada, the low- Arctic
-parts of eastern Canada and Siberia, and regions of
-Scandinavia
 - The increase of
 vegetation greenness is especially strong in agricultural
 regions (for example, India13) and recently afforested
