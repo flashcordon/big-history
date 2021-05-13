@@ -839,12 +839,15 @@ and bacteria.
 - Le moteur principal de ce verdissement à l'échelle globale est l'effet fertilisant du CO2 
 > Selon les modèles, l'accroissement du CO2 atmosphérique est responsable d'environ 70% du verdissement observé depuis les années 80.
 - Mais il y a aussi d'autres facteurs en jeu :
-> * Le réchauffement climatique, qui crée des conditions climatiques plus douces aux hautes latitudes, notamment dans les régions arctiques et la zone boréale, ce qui favorise le verdissement de ces régions. Mais en contrepartie, le réchauffement global favorise l'aridification des terres dans les tropiques.
-> * L'afforestation, c'est à dire la plantation d'arbres sur des surfaces longtemps restées dépourvues d'arbre
+> * Le réchauffement climatique (qui contribue au verdissement à environ 8%), qui crée des conditions climatiques plus douces aux hautes latitudes, notamment dans les régions arctiques et la zone boréale, ce qui favorise le verdissement de ces régions. Mais en contrepartie, le réchauffement global favorise l'aridification des terres dans les tropiques.
+> * L'afforestation, c'est à dire la plantation d'arbres sur des surfaces longtemps restées dépourvues d'arbre. Son effet est en partie contrebalancé par la déforestation.
 > * L'intensification de l'agriculture, en particulier dans les pays comme la Chine et l'Inde, dans lesquelles la production de nourriture a augmenté de plus de 35% depuis le début des années 2000.
 - Entre 2000 et 2017, la surface foliaire a augmenté de près de 5,4 millions de km², une surface équivalente à l'intégralité de la forêt amazonienne. Cette tendance est particulièrement prononcée en Chine et en Inde. 
 > * En Inde, le verdissement est essentiellement dû à l'intensification de l'agriculture (à 82%), qui augmente la surface des terres cultivées, tandis qu'en Chine ce sont en grande partie (42%) les grands programmes d'afforestation et, dans une moindre mesure, l'agriculture (32%) qui sont responsables de ce phénomène.
 > * Depuis les années 80, la surface forestière de la Chine a augmenté de plus de 20% ! Parmi les projets de plantation les plus ambitieux (et les plus controversés) de la Chine, il y a la "la Grande muraille verte", une bande de forêt de 4500 km de long destinée à freiner la progression du désert de Gobi. Le projet a débuté en 1978 et sa mise en place devrait se terminer en 2074 ! Il s'agit de la plus grande forêt artificielle au monde.
+- 
+
+-  The Earth greening directly affects the surface energy budget through influencing various biophysical factors: (i) albedo (α), which controls the fraction of solar radiation absorbed by the surface; (ii) aerodynamic resistance (ra), which characterizes the efficiency of turbulent transfer of heat and water vapor; (iii) surface resistance (rs), which is the additional resistance to water vapor transport through the soil and the pores on leaves; and (iv) emissivity (ε), which is the effectiveness of a surface in emitting and absorbing longwave radiation. Changes in these biophysical factors can strongly affect the radiometric land surface temperature (LST).
 
 - Greener vegetation not only results from climatic and
 atmospheric changes but also feeds back to the climate
@@ -857,8 +860,6 @@ the hydrologic cycle by increasing the amount of water
 transpired by plants, alter the energy exchange between
 land and the atmosphere, and affect atmospheric
 circulation patterns18,19
-- Warming is the major cause of greening in boreal and Arctic biomes, but has negative
-effects on greening in the tropics.
 • Greening was found to mitigate global warming through enhanced land carbon
 uptake and evaporative cooling, but might also lead to decreased albedo that could
 potentially cause local warming.
@@ -866,23 +867,6 @@ potentially cause local warming.
 locally, but can either amplify or reduce runoff and soil moisture regionally through
 altering the pattern of precipitation.
 
-- The increase of
-vegetation greenness is especially strong in agricultural
-regions (for example, India13) and recently afforested
-areas (for example, China13,39); collectively, China and
-India alone contribute more than 30% of the total net
-increase in the global LAI13. leaf area
-index (LAI).
-- substantial uncertainties remain in the tropical
-vegetation greenness estimations due to the saturation
-effects of greenness indices in dense vegetation41 and contamination
-by clouds and aerosols4
-- Several factors are thought to impact vegetation greening,
-including rising atmospheric CO2 concentrations,
-climate change, nitrogen deposition and land- use
-changes. However, nonlinear impacts and interactions
-make it challenging to quantify the individual contribution
-of these factors to the observed greening trend.
 - As CO2 is the substrate for photosynthesis,
 rising atmospheric CO2 concentration can
 enhance photosynthesis66 by accelerating the rate of
@@ -892,19 +876,7 @@ can also enhance vegetation greenness by partially
 closing leaf stomata, leading to enhanced water- use
 efficiency67, which should relax water limitation to
 plant growth, particularly over semi- arid regions
-- climate
-change, such as anthropogenic warming and regional
-trends in precipitation, is a dominant driver of greenness
-changes over 28% of the global vegetated area11.
-The global contribution of climate change to increasing
-greenness is only 8% (Fig. 4a), however, because
-impacts of climate change on vegetation greenness vary
-between regions11. For example, warming could reduce
-vegetation growth in the tropics84, where ambient temperature
-is close to vegetation optimal temperature85,
-but warming significantly increases vegetation greenness
-in the boreal and Arctic regions86 by enhancing
-metabolism87 and extending the growing season59,88,89
+
 - However, this positive impact of anthropogenic
 warming on greenness appears to have weakened
 during the past four decades90,91, when the correlation
@@ -912,11 +884,6 @@ coefficient between temperature and greenness
 decreased by more than 50%90,91, suggesting a possible
 saturation of future greening in response to warmer
 temperature.
-- Like climate change, land-use change
-exerts a considerable but highly spatially variable
-influence on greenness changes11,13 (Fig. 4). Specifically,
-deforestation dominates the tropics101,102, while afforestation
-increases forest area over temperate regions
 
 - Greening increases the amount of photosynthetically
 active sunlight that is absorbed by vegetation and, thus,
@@ -933,20 +900,6 @@ balance residual of anthropogenic CO2 emissions, atmospheric
 CO2 growth rate and ocean CO2 budget), confirm
 the increasing magnitude of the global land carbon sink
 since the 1980s111
-- the trend in the land carbon sink has further
-accelerated since the late 1990s120,121. For example,
-the rate of update during 1998–2012 was three times
-that of 1980–1988 (0.17 PgC year−2 in comparison with
-0.05 PgC year−2)121, attributed to afforestation- induced
-greening in the temperate Northern Hemisphere13,121
-- Recent DGVM studies122,123
-have further confirmed that the carbon sink
-during the 2000s was partly driven by afforestation and
-forest regrowth in East Asia and Europe124. The extensive
-greening over croplands, however, has probably contributed
-less to the carbon sink, because only a minor portion
-of assimilated carbon by crops remain sequestered
-due to crop harvest.
 - Vegetation greening modulates
 water cycling. Land water losses to the atmosphere
 occur through ET, which includes transpiration (60–90%
@@ -1006,10 +959,8 @@ these processes are under- represented in ESMs.
 - The vegetation cooling effect is large from the energy dissipation perspective, but only about 10%-20% compared to the pace of global warming. The cooling effect from greening is less significant in tropical forests with high leaf areas.
 - “This is a warning sign about climate change. We should be cautious that the rainforests, which are at the forefront of the fight against global warming, are reaching the limits of their capacity to absorb carbon and cool the surface.” 
 - The beneficial impacts of carbon dioxide on plants may also be limited, said co-author Dr. Philippe Ciais, associate director of the Laboratory of Climate and Environmental Sciences, Gif-suv-Yvette, France. “Studies have shown that plants acclimatize, or adjust, to rising carbon dioxide concentration and the fertilization effect diminishes over time.”
--  Satellite records of leaf area index (LAI), a measure of the aboveground vegetation abundance, indicate widespread increasing trends since the 1980s (3), due to warming (4, 5), CO2 fertilization (6), and land management (7, 8). The Earth greening directly affects the surface energy budget through influencing various biophysical factors: (i) albedo (α), which controls the fraction of solar radiation absorbed by the surface; (ii) aerodynamic resistance (ra), which characterizes the efficiency of turbulent transfer of heat and water vapor; (iii) surface resistance (rs), which is the additional resistance to water vapor transport through the soil and the pores on leaves; and (iv) emissivity (ε), which is the effectiveness of a surface in emitting and absorbing longwave radiation. Changes in these biophysical factors can strongly affect the radiometric land surface temperature (LST).
 -  En 2020, Taking a closer look at 250 scientific studies, land-monitoring satellite data, climate and environmental models, and field observations, a team of Boston University researchers and international collaborators have illuminated several causes and consequences of a global increase in vegetation growth, an effect called greening. In a new study, published in Nature Reviews Earth & Environment, the researchers report that climate-altering carbon emissions and intensive land use have inadvertently greened half of the Earth's vegetated lands. And while that sounds like it may be a good thing, this phenomenal rate of greening, together with global warming, sea-level rise, and sea-ice decline, represents highly credible evidence that human industry and activity is dramatically impacting the Earth's climate
 -  And the chief cause of global greening we're experiencing? It seems to be that rising carbon dioxide emissions are providing more and more fertilizer for plants, the researchers say. As a result, the boom of global greening since the early 1980s may have slowed the rate of global warming, the researchers say, possibly by as much as 0.2 to 0.25 degrees Celsius. "It is ironic that the very same carbon emissions responsible for harmful changes to climate are also fertilizing plant growth, which in turn is somewhat moderating global warming
-- Over the last 40 years, carbon emissions from fossil fuel use and tropical deforestation have added 160 parts per million (ppm), a unit of measure for air pollutants, of CO2 to Earth's atmosphere. About 40 ppm of that has diffused passively into the oceans and another 50 ppm has been actively taken up by plants, the researchers say. But 70 ppm remains in the atmosphere, and together with other greenhouse gases, is responsible the land warming patterns that have been observed since the 1980s.
 - "Plants are actively defending against the dangers of carbon pollution by not only sequestering carbon on land but also by wetting the atmosphere through transpiration of ground water and evaporation of precipitation intercepted by their bodies,
 - The beneficial aspect of CO2 fertilization in promoting plant growth has been used by contrarians, notably Lord Ridley (hereditary peer in the U.K. House of Lords) and Mr. Rupert Murdoch (owner of several news outlets), to argue against cuts in carbon emissions to mitigate climate change, similar to those agreed at the 21st Conference of Parties (COP) meeting in Paris last year under the U.N. Framework on Climate Change (UNFCCC). “The fallacy of the contrarian argument is two-fold. First, the many negative aspects of climate change, namely global warming, rising sea levels, melting glaciers and sea ice, more severe tropical storms, etc. are not acknowledged. Second, studies have shown that plants acclimatize, or adjust, to rising CO2 concentration and the fertilization effect diminishes over time,” says coauthor Dr. Philippe Ciais
 - es chercheurs ont utilisé des données satellitaires relatives à la végétation : l'indice foliaire LAI (Leaf Area Index). En éliminant les contributions autres que celle de la végétation, ils sont parvenus à déterminer les flux de chaleur latente et de chaleur sensible pour une variation unitaire de LAI sur la période 1982-2016. Sans surprise, la végétation a un effet « humidificateur » avec un flux de chaleur latente de +3,66 ± 0,45, ainsi qu'un effet « rafraîchissant » avec un flux de chaleur sensible de -3,26 ± 0,41 W.m-2.
