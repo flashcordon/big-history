@@ -837,6 +837,10 @@ and bacteria.
 
 - Depuis l'avènement des données satellitaires, au début des années 80, les scientifiques ont constaté un "verdissement de la planète". Ce verdissement constitue l'un des indicateurs les plus notables du changement climatique d'origine anthropique, au même titre que le réchauffement planétaire ou la montée des eaux.
 > * Il est mesuré par l'indice foliaire, aussi appelé indice de surface foliaire (leaf area index, LAI), une grandeur sans dimension qui exprime la surface foliaire d’un arbre, d’un peuplement, d’un écosystème ou d’un biome par unité de surface de sol. Il est déterminé par le calcul de l'intégralité des surfaces des feuilles de la plante sur la surface de sol que couvre cette plante.
+
+*Verdissement de la Terre entre 1982 et 2015. Crédit: [Boston University/R. Myneni](https://svs.gsfc.nasa.gov/12222)*
+![VerdissementNASA](https://svs.gsfc.nasa.gov/vis/a010000/a012200/a012226/s2-1024.jpg)
+
 - Le moteur principal de ce verdissement à l'échelle globale est l'effet fertilisant du CO2 
 > Selon les modèles, l'accroissement du CO2 atmosphérique est responsable d'environ 70% du verdissement observé depuis les années 80.
 - Mais il y a aussi d'autres facteurs en jeu :
