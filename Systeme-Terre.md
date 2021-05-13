@@ -279,6 +279,7 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [Pourquoi le verdissement de la Terre n’est pas qu’une bonne nouvelle](https://www.lemonde.fr/les-decodeurs/article/2019/06/21/pourquoi-le-verdissement-de-la-terre-n-est-pas-qu-une-bonne-nouvelle_5479913_4355770.html) - Les Décodeurs (2019)
 - [L’indice foliaire des couverts forestiers : mesure, variabilité et rôle fonctionnel](http://documents.irevues.inist.fr/bitstream/handle/2042/5426/135_150.pdf?...) - Nathalie Bréda (1999)
 - [Great Green Wall (China)](https://en.wikipedia.org/wiki/Great_Green_Wall_(China)) - Wikipédia
+- [Climate mitigation from vegetation biophysical feedbacks during the past three decades](https://www.nature.com/articles/nclimate3299) - Zeng et al (2017)
 
 ---
 
@@ -845,7 +846,14 @@ and bacteria.
 - Entre 2000 et 2017, la surface foliaire a augmenté de près de 5,4 millions de km², une surface équivalente à l'intégralité de la forêt amazonienne. Cette tendance est particulièrement prononcée en Chine et en Inde. 
 > * En Inde, le verdissement est essentiellement dû à l'intensification de l'agriculture (à 82%), qui augmente la surface des terres cultivées, tandis qu'en Chine ce sont en grande partie (42%) les grands programmes d'afforestation et, dans une moindre mesure, l'agriculture (32%) qui sont responsables de ce phénomène.
 > * Depuis les années 80, la surface forestière de la Chine a augmenté de plus de 20% ! Parmi les projets de plantation les plus ambitieux (et les plus controversés) de la Chine, il y a la "la Grande muraille verte", une bande de forêt de 4500 km de long destinée à freiner la progression du désert de Gobi. Le projet a débuté en 1978 et sa mise en place devrait se terminer en 2074 ! Il s'agit de la plus grande forêt artificielle au monde.
-- Les conséquences positives de l'effet fertilisant du CO2 est utilisé par les inactivistes comme Rupert Murdoch comme un argument pour continuer d'émettre du CO2 dans l'atmosphère. Evidemment, ils ne prennent pas en compte les conséquences négatives du changement climatique, ni le fait que les plantes finissent par s'acclimater à l'augmentation de CO2 atmosphérique, ce qui diminue l'effet fertilisant au fil du temps.
+- Le verdissement de la végétation a des conséquences majeures sur la dynamique du système Terre
+> * Il a intensifié le cycle de l'eau
+> * Il a enhanced la séquestration du carbone
+> * Il contribue à refroidir les surfaces terrestres à l'échelle globale. Sans cette augmentation de la couverture végétale, les terres seraient environ 12% (± 3%) plus chaudes au cours des 3 dernières décennies. 
+
+- The vegetation cooling effect is large from the energy dissipation perspective, but only about 10%-20% compared to the pace of global warming. The cooling effect from greening is less significant in tropical forests with high leaf areas.
+
+- Les conséquences positives de l'effet fertilisant du CO2 est utilisé par les inactivistes comme Rupert Murdoch (un homme d'affaire australo-américain actionnaire majoritaire du plus grand et le plus influent groupe de médias au monde, News Corporation) comme un argument pour continuer d'émettre du CO2 dans l'atmosphère. Evidemment, ils ne prennent pas en compte les conséquences négatives du changement climatique, ni le fait que les plantes finissent par s'acclimater à l'augmentation de CO2 atmosphérique, ce qui diminue l'effet fertilisant au fil du temps.
 
 
 -  The Earth greening directly affects the surface energy budget through influencing various biophysical factors: (i) albedo (α), which controls the fraction of solar radiation absorbed by the surface; (ii) aerodynamic resistance (ra), which characterizes the efficiency of turbulent transfer of heat and water vapor; (iii) surface resistance (rs), which is the additional resistance to water vapor transport through the soil and the pores on leaves; and (iv) emissivity (ε), which is the effectiveness of a surface in emitting and absorbing longwave radiation. Changes in these biophysical factors can strongly affect the radiometric land surface temperature (LST).
@@ -932,16 +940,8 @@ many cases can be viewed as the balance between evaporative
 cooling and albedo warming152,153, which was
 estimated globally to be −0.9 W m−2 from evaporative
 cooling and +0.1 W m−2 from albedo warming
-- When all the aforementioned impacts of vegetation
-greening on near- surface air temperature were simulated
-in coupled ESMs driven by the satellite- based greening
-since the 1980s, the results suggested a net cooling trend
-by 12% ± 3% of the concurrent observed warming rate19
-- Widespread vegetation greening since the 1980s is one
-of the most notable characteristics of biosphere change
-in the Anthropocene. Greening has significantly enhanced
-the land carbon sink, intensified the hydrologic cycle
-and cooled the land surface at the global scale
+
+
 - Considerable uncertainties remain in ESM projections
 on if and where vegetation greening will occur.
 Recent studies have identified several processes causing
@@ -955,9 +955,6 @@ vegetation greenness relative to our current projections
 these processes are under- represented in ESMs.
 - About 85 percent of Earth’s ice-free lands is covered by vegetation. The area covered by all the green leaves on Earth is equal to, on average, 32 percent of Earth’s total surface area - oceans, lands and permanent ice sheets combined. 
 - increased vegetation growth during the recent decades, known as the “Greening Earth”, has a strong cooling effect on the land due to increased efficiency of heat and water vapor transfer to the atmosphere.
-- NASA satellites have been observing increased green cover on land, which is thought to be due to intensive agriculture to feed growing populations and ambitious tree-planting programs – for example, the so-called “Green Great Wall” in China.
-- the entire land surface would have been much warmer without the cooling effect of increased green cover during the recent decades. 
-- The vegetation cooling effect is large from the energy dissipation perspective, but only about 10%-20% compared to the pace of global warming. The cooling effect from greening is less significant in tropical forests with high leaf areas.
 - “This is a warning sign about climate change. We should be cautious that the rainforests, which are at the forefront of the fight against global warming, are reaching the limits of their capacity to absorb carbon and cool the surface.” 
 -  And the chief cause of global greening we're experiencing? It seems to be that rising carbon dioxide emissions are providing more and more fertilizer for plants, the researchers say. As a result, the boom of global greening since the early 1980s may have slowed the rate of global warming, the researchers say, possibly by as much as 0.2 to 0.25 degrees Celsius. "It is ironic that the very same carbon emissions responsible for harmful changes to climate are also fertilizing plant growth, which in turn is somewhat moderating global warming
 - "Plants are actively defending against the dangers of carbon pollution by not only sequestering carbon on land but also by wetting the atmosphere through transpiration of ground water and evaporation of precipitation intercepted by their bodies,
