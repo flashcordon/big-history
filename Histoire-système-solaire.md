@@ -568,6 +568,7 @@ and no doubt lives into its development
 - [Venus From 33 Years Ago, and Why We Need to Explore](https://www.planetary.org/articles/0305-venus-from-33-years-ago) - Ted Stryk, Planetary Society 
 > Images en couleur des sondes Vénéra (9, 10, 13, 14)
 - [Panoramique de Vénéra 14, processée par Jason Major](https://twitter.com/ThePlanetaryGuy/status/1235726097926545409/photo/1) - Twitter de Paul Byrne
+- [Venera 9 and Venera 10 Венера-9 и Венера-10](https://youtu.be/g_Bz6PzRk_A) - Soviet Space Program
 
 # Terre
 
