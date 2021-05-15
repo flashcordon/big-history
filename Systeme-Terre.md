@@ -853,30 +853,11 @@ and bacteria.
 > * En Inde, le verdissement est essentiellement dû à l'intensification de l'agriculture (à 82%), qui augmente la surface des terres cultivées, tandis qu'en Chine ce sont en grande partie (42%) les grands programmes d'afforestation et, dans une moindre mesure, l'agriculture (32%) qui sont responsables de ce phénomène.
 > * Depuis les années 80, la surface forestière de la Chine a augmenté de plus de 20% ! Parmi les projets de plantation les plus ambitieux (et les plus controversés) de la Chine, il y a la "la Grande muraille verte", une bande de forêt de 4500 km de long destinée à freiner la progression du désert de Gobi. Le projet a débuté en 1978 et sa mise en place devrait se terminer en 2074 ! Il s'agit de la plus grande forêt artificielle au monde.
 - Le verdissement de la végétation a des conséquences majeures sur la dynamique du système Terre
-> * Il a intensifié le cycle de l'eau
+> * Il a  accéléré le cycle de l'eau en augmentant la quantité d'eau transpirée par les plantes, en modifiant les échanges d'énergie entre le sol et l'atmosphère, et en altérant la circulation atmosphérique.
 > * Il a augmenté significativement la séquestration terrestre du carbone : le verdissement augmente la quantité d'énergie solaire absorbée par la végétation via la photosynthèse, et augmente ainsi la productivité primaire (c'est-à-dire le rythme de la synthèse de composés organiques à partir du CO2), ce qui a pour effet de ralentir le changement climatique d'origine anthropique (29% des émissions de CO2 anthropogéniques ont ainsi été séquestrées par les puits terrestres de carbone depuis les années 80)
 > * Il contribue à refroidir les surfaces terrestres à l'échelle globale. Sans cette augmentation de la couverture végétale au cours des 3 dernières décennies, les terres seraient en moyenne 0.09°C (±0.02) plus chaudes. Comme les surfaces terrestres se sont réchauffées de 0.89°C en moyenne sur cette période, l'effet mitigateur du verdissement terrestre sur l'augmentation des températures globales est estimé à environ 12%. 
+> * Il altère le bilan énergétique de la Terre, et donc la température de surface. D'une part, il augmente la surface d'évapotranspiration des végétaux, ce qui a un effet refroidissant à l'échelle globale (−0.9 W/m²). Et d'autre part, il diminue l'albédo terrestre, ce qui a un effet réchauffant (+0.1 W/m²). Les 2 effets se compensent dans la plupart des cas. Mais l'effet de la végétation sur les flux d'énergie dépend de la nature des plantes et des conditions climatiques, et comme ces effets sont mal décrits dans les modèles climatiques il y a une incertitude à ce niveau.
 - Les conséquences positives de l'effet fertilisant du CO2 est utilisé par les inactivistes comme Rupert Murdoch (un homme d'affaire australo-américain actionnaire majoritaire du plus grand et le plus influent groupe de médias au monde, News Corporation) comme un argument pour continuer d'émettre du CO2 dans l'atmosphère. Evidemment, ils ne prennent pas en compte les conséquences négatives du changement climatique, ni le fait que les plantes finissent par s'acclimater à l'augmentation de CO2 atmosphérique, ce qui diminue l'effet fertilisant au fil du temps.
-
--  The Earth greening directly affects the surface energy budget through influencing various biophysical factors: (i) albedo (α), which controls the fraction of solar radiation absorbed by the surface; (ii) aerodynamic resistance (ra), which characterizes the efficiency of turbulent transfer of heat and water vapor; (iii) surface resistance (rs), which is the additional resistance to water vapor transport through the soil and the pores on leaves; and (iv) emissivity (ε), which is the effectiveness of a surface in emitting and absorbing longwave radiation. Changes in these biophysical factors can strongly affect the radiometric land surface temperature (LST).
-
-- Greener vegetation not only results from climatic and
-atmospheric changes but also feeds back to the climate
-through biogeochemical and biogeophysical processes.
-These feedbacks are often studied with Earth system
-models (ESMs), in which vegetation is coupled with
-the atmosphere and the hydrologic cycle17. ESM- based
-studies have demonstrated that greening can accelerate
-the hydrologic cycle by increasing the amount of water
-transpired by plants, alter the energy exchange between
-land and the atmosphere, and affect atmospheric
-circulation patterns18,19
-• Greening was found to mitigate global warming through enhanced land carbon
-uptake and evaporative cooling, but might also lead to decreased albedo that could
-potentially cause local warming.
-• Greening enhances transpiration, a process that reduces soil moisture and runoff
-locally, but can either amplify or reduce runoff and soil moisture regionally through
-altering the pattern of precipitation.
 
 - As CO2 is the substrate for photosynthesis,
 rising atmospheric CO2 concentration can
@@ -896,46 +877,4 @@ decreased by more than 50%90,91, suggesting a possible
 saturation of future greening in response to warmer
 temperature.
 
-
-- Vegetation greening modulates
-water cycling. Land water losses to the atmosphere
-occur through ET, which includes transpiration (60–90%
-of the total land ET134–136) and evaporation. Greening
-increases water losses through an extended area of
-leaves performing transpiration137. A larger foliage area
-reduces the bare ground surface from which soil evaporation
-occurs, but increases the re- evaporation of rainfall
-intercepted by leaves138, so that greening can cause the
-net evaporation to either increase or decrease. Various
-remote- sensing-based ET estimates consistently point
-to a significant increase in global terrestrial ET over
-the past four decades, suggesting an intensified water
-exchange between the land and the atmosphere concurrent
-with the greening trend139. More than half of the
-global ET increase since the 1980s has been attributed
-to vegetation greening138,139
-- Greening impacts the
-exchange of energy between the land and the atmosphere,
-which ultimately leads to modifications in surface
-air temperature150. Greening increases ET, which
-cools the surface through evaporative cooling19,150, but
-greener canopies have a lower albedo than bare ground
-and absorb more sunlight, which can result in a larger
-sensible heat flux. This enhanced sensible heat warms
-the land surface, an effect called albedo warming151
-- The net effect of greening on surface air temperature in
-many cases can be viewed as the balance between evaporative
-cooling and albedo warming152,153, which was
-estimated globally to be −0.9 W m−2 from evaporative
-cooling and +0.1 W m−2 from albedo warming
-
-
-- About 85 percent of Earth’s ice-free lands is covered by vegetation. The area covered by all the green leaves on Earth is equal to, on average, 32 percent of Earth’s total surface area - oceans, lands and permanent ice sheets combined. 
-- increased vegetation growth during the recent decades, known as the “Greening Earth”, has a strong cooling effect on the land due to increased efficiency of heat and water vapor transfer to the atmosphere.
-- “This is a warning sign about climate change. We should be cautious that the rainforests, which are at the forefront of the fight against global warming, are reaching the limits of their capacity to absorb carbon and cool the surface.” 
--  And the chief cause of global greening we're experiencing? It seems to be that rising carbon dioxide emissions are providing more and more fertilizer for plants, the researchers say. As a result, the boom of global greening since the early 1980s may have slowed the rate of global warming, the researchers say, possibly by as much as 0.2 to 0.25 degrees Celsius. "It is ironic that the very same carbon emissions responsible for harmful changes to climate are also fertilizing plant growth, which in turn is somewhat moderating global warming
 - "Plants are actively defending against the dangers of carbon pollution by not only sequestering carbon on land but also by wetting the atmosphere through transpiration of ground water and evaporation of precipitation intercepted by their bodies,
-- es chercheurs ont utilisé des données satellitaires relatives à la végétation : l'indice foliaire LAI (Leaf Area Index). En éliminant les contributions autres que celle de la végétation, ils sont parvenus à déterminer les flux de chaleur latente et de chaleur sensible pour une variation unitaire de LAI sur la période 1982-2016. Sans surprise, la végétation a un effet « humidificateur » avec un flux de chaleur latente de +3,66 ± 0,45, ainsi qu'un effet « rafraîchissant » avec un flux de chaleur sensible de -3,26 ± 0,41 W.m-2.
-- Une analyse des données disponibles, couplée à des modèles climatiques (Land Surface Model, LSM), montre que la sensibilité des flux de chaleurs latente et sensible à l'indice foliaire augmente d'environ 20 % sur la période d'observation, surtout dans les régions où les ressources en eau sont limitées, probablement en raison d'une évapotranspiration plus élevée.
-- Le verdissement de la planète, imputable en partie à l'effet fertilisant du CO2 d'origine anthropique, a entraîné une diminution du rapport Bowen (chaleur sensible/chaleur latente) de -0,010 ± 0,002 par décennie, qui est attribuable à l'augmentation de la surface d'évapotranspiration des végétaux.
-- L'effet de la végétation sur les flux d'énergie varie cependant fortement suivant la nature des plantes et les conditions climatiques. Il reste mal décrit dans les modèles climatiques qui sous-estiment les réponses des végétaux à la baisse des ressources en eau.
