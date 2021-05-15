@@ -844,7 +844,8 @@ and bacteria.
 ![VerdissementNASA](https://svs.gsfc.nasa.gov/vis/a010000/a012200/a012226/s2-1024.jpg)
 
 - Le moteur principal de ce verdissement à l'échelle globale est l'effet fertilisant du CO2 
-> Selon les modèles, l'accroissement du CO2 atmosphérique est responsable d'environ 70% du verdissement observé depuis les années 80.
+> * Les plantes ont besoin pour leur croissance d'eau, de nutriments et de CO2, qu'ils absorbent via la photosynthèse. L'augmentation de la concentration de CO2 atmosphérique favorise et accélère le développement des plantes.
+> * Selon les modèles, l'accroissement du CO2 atmosphérique est responsable d'environ 70% du verdissement observé depuis les années 80.
 - Mais il y a aussi d'autres facteurs en jeu :
 > * Le réchauffement climatique (qui contribue au verdissement à environ 8%), qui crée des conditions climatiques plus douces aux hautes latitudes, notamment dans les régions arctiques et la zone boréale, ce qui favorise le verdissement de ces régions. Mais en contrepartie, le réchauffement global favorise l'aridification des terres dans les tropiques.
 > * L'afforestation, c'est à dire la plantation d'arbres sur des surfaces longtemps restées dépourvues d'arbre. Son effet est en partie contrebalancé par la déforestation.
@@ -858,23 +859,3 @@ and bacteria.
 > * Il contribue à refroidir les surfaces terrestres à l'échelle globale. Sans cette augmentation de la couverture végétale au cours des 3 dernières décennies, les terres seraient en moyenne 0.09°C (±0.02) plus chaudes. Comme les surfaces terrestres se sont réchauffées de 0.89°C en moyenne sur cette période, l'effet mitigateur du verdissement terrestre sur l'augmentation des températures globales est estimé à environ 12%. 
 > * Il altère le bilan énergétique de la Terre, et donc la température de surface. D'une part, il augmente la surface d'évapotranspiration des végétaux, ce qui a un effet refroidissant à l'échelle globale (−0.9 W/m²). Et d'autre part, il diminue l'albédo terrestre, ce qui a un effet réchauffant (+0.1 W/m²). Les 2 effets se compensent dans la plupart des cas. Mais l'effet de la végétation sur les flux d'énergie dépend de la nature des plantes et des conditions climatiques, et comme ces effets sont mal décrits dans les modèles climatiques il y a une incertitude à ce niveau.
 - Les conséquences positives de l'effet fertilisant du CO2 est utilisé par les inactivistes comme Rupert Murdoch (un homme d'affaire australo-américain actionnaire majoritaire du plus grand et le plus influent groupe de médias au monde, News Corporation) comme un argument pour continuer d'émettre du CO2 dans l'atmosphère. Evidemment, ils ne prennent pas en compte les conséquences négatives du changement climatique, ni le fait que les plantes finissent par s'acclimater à l'augmentation de CO2 atmosphérique, ce qui diminue l'effet fertilisant au fil du temps.
-
-- As CO2 is the substrate for photosynthesis,
-rising atmospheric CO2 concentration can
-enhance photosynthesis66 by accelerating the rate of
-carboxylation; this process is known as the ‘CO2 fertilization
-effect’. In addition, increased CO2 concentrations
-can also enhance vegetation greenness by partially
-closing leaf stomata, leading to enhanced water- use
-efficiency67, which should relax water limitation to
-plant growth, particularly over semi- arid regions
-
-- However, this positive impact of anthropogenic
-warming on greenness appears to have weakened
-during the past four decades90,91, when the correlation
-coefficient between temperature and greenness
-decreased by more than 50%90,91, suggesting a possible
-saturation of future greening in response to warmer
-temperature.
-
-- "Plants are actively defending against the dangers of carbon pollution by not only sequestering carbon on land but also by wetting the atmosphere through transpiration of ground water and evaporation of precipitation intercepted by their bodies,
