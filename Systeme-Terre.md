@@ -221,6 +221,8 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [Hausse du niveau des mers : comprendre et anticiper](https://www.ademe.fr/sites/default/files/assets/documents/changement_climatique_hausse_niveau_mers.pdf) - Réseau Action Climat
 - [Océan, changementsclimatiqueset migration humaine](http://www.ocean-climate.org/wp-content/uploads/2017/02/oc%C3%A9an-climat-migration_FichesScientifiques_Oct2016_BD_ppp-12.pdf) - Ocean Climate
 - [How much will sea levels rise in the 21st Century?](https://www.skepticalscience.com/sea-level-rise-predictions.htm) - Skeptical Science
+- [The role of water and vegetation in the distribution of solar energy and local climate: a review](https://www.jstor.org/stable/44983453?seq=1) - Huryna et Pokorný (2016)
+- [Exobiologie : la vie extraterrestre pourrait être pourpre](https://www.futura-sciences.com/sciences/actualites/exobiologie-exobiologie-vie-extraterrestre-pourrait-etre-pourpre-10679/) - Futura Science (2018)
 
 ---
 
@@ -943,17 +945,6 @@ estimated globally to be −0.9 W m−2 from evaporative
 cooling and +0.1 W m−2 from albedo warming
 
 
-- Considerable uncertainties remain in ESM projections
-on if and where vegetation greening will occur.
-Recent studies have identified several processes causing
-vegetation browning in some regions, including forest
-diebacks170, insect35 and disease outbreaks171, thermokarst
-development172, human mismanagement36,173, destructive
-logging174 and industrial development175. These
-emerging threats could lead to unexpected changes in
-vegetation greenness relative to our current projections
-(such as the projections shown in Figs 2e–h,5), since
-these processes are under- represented in ESMs.
 - About 85 percent of Earth’s ice-free lands is covered by vegetation. The area covered by all the green leaves on Earth is equal to, on average, 32 percent of Earth’s total surface area - oceans, lands and permanent ice sheets combined. 
 - increased vegetation growth during the recent decades, known as the “Greening Earth”, has a strong cooling effect on the land due to increased efficiency of heat and water vapor transfer to the atmosphere.
 - “This is a warning sign about climate change. We should be cautious that the rainforests, which are at the forefront of the fight against global warming, are reaching the limits of their capacity to absorb carbon and cool the surface.” 
