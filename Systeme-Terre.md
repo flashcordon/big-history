@@ -854,10 +854,9 @@ and bacteria.
 > * Depuis les années 80, la surface forestière de la Chine a augmenté de plus de 20% ! Parmi les projets de plantation les plus ambitieux (et les plus controversés) de la Chine, il y a la "la Grande muraille verte", une bande de forêt de 4500 km de long destinée à freiner la progression du désert de Gobi. Le projet a débuté en 1978 et sa mise en place devrait se terminer en 2074 ! Il s'agit de la plus grande forêt artificielle au monde.
 - Le verdissement de la végétation a des conséquences majeures sur la dynamique du système Terre
 > * Il a intensifié le cycle de l'eau
-> * Il a enhanced la séquestration du carbone
+> * Il a augmenté significativement la séquestration terrestre du carbone : le verdissement augmente la quantité d'énergie solaire absorbée par la végétation via la photosynthèse, et augmente ainsi la productivité primaire (c'est-à-dire le rythme de la synthèse de composés organiques à partir du CO2), ce qui a pour effet de ralentir le changement climatique d'origine anthropique (29% des émissions de CO2 anthropogéniques ont ainsi été séquestrées par les puits terrestres de carbone depuis les années 80)
 > * Il contribue à refroidir les surfaces terrestres à l'échelle globale. Sans cette augmentation de la couverture végétale au cours des 3 dernières décennies, les terres seraient en moyenne 0.09°C (±0.02) plus chaudes. Comme les surfaces terrestres se sont réchauffées de 0.89°C en moyenne sur cette période, l'effet mitigateur du verdissement terrestre sur l'augmentation des températures globales est estimé à environ 12%. 
 - Les conséquences positives de l'effet fertilisant du CO2 est utilisé par les inactivistes comme Rupert Murdoch (un homme d'affaire australo-américain actionnaire majoritaire du plus grand et le plus influent groupe de médias au monde, News Corporation) comme un argument pour continuer d'émettre du CO2 dans l'atmosphère. Evidemment, ils ne prennent pas en compte les conséquences négatives du changement climatique, ni le fait que les plantes finissent par s'acclimater à l'augmentation de CO2 atmosphérique, ce qui diminue l'effet fertilisant au fil du temps.
-
 
 -  The Earth greening directly affects the surface energy budget through influencing various biophysical factors: (i) albedo (α), which controls the fraction of solar radiation absorbed by the surface; (ii) aerodynamic resistance (ra), which characterizes the efficiency of turbulent transfer of heat and water vapor; (iii) surface resistance (rs), which is the additional resistance to water vapor transport through the soil and the pores on leaves; and (iv) emissivity (ε), which is the effectiveness of a surface in emitting and absorbing longwave radiation. Changes in these biophysical factors can strongly affect the radiometric land surface temperature (LST).
 
@@ -897,21 +896,7 @@ decreased by more than 50%90,91, suggesting a possible
 saturation of future greening in response to warmer
 temperature.
 
-- Greening increases the amount of photosynthetically
-active sunlight that is absorbed by vegetation and, thus,
-enhances productivity112,113
-- Enhanced vegetation productivity increases terrestrial
-carbon storage, slowing down anthropogenic
-climate warming117. For example, about 29% of anthropogenic
-CO2 emissions since the 1980s have been offset
-by the land carbon sink (2.5 ± 1.0 PgC year−1)111
-- Multiple lines of evidence,
-including analyses from DGVMs, atmospheric
-inversion models and the residual land sink (the mass
-balance residual of anthropogenic CO2 emissions, atmospheric
-CO2 growth rate and ocean CO2 budget), confirm
-the increasing magnitude of the global land carbon sink
-since the 1980s111
+
 - Vegetation greening modulates
 water cycling. Land water losses to the atmosphere
 occur through ET, which includes transpiration (60–90%
