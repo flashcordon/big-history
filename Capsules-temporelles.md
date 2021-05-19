@@ -8,5 +8,6 @@
 - [Long-time nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages) - Wikipédia
 - [Reducing the likelihood of future human activities that could affect geologic high-level waste repositories](https://www.osti.gov/biblio/6799619) - Rapport du département de l'énergie des US (1984)
 - [Pandora's Box: How and Why to Communicate 10,000 Years into the Future](https://www.mat.ucsb.edu/~g.legrady/academic/courses/01sp200a/students/enricaLovaglio/pandora/Pandora.html) - Thomas Seebok
+- Footprints: In Search of Future Fossils - David Farrier
 
 ---
