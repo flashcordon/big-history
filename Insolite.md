@@ -130,3 +130,17 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - Non, c'est pas une blague, et oui, ça marche très bien, parce qu'ils ont réussi à former des diamants en à peine quelques nanosecondes !
 - On pense aujourd'hui que ces diamants se forment en continu dans les profondeurs de l'atmosphère de Neptune, et qu'ils peuvent grossir jusqu'à atteindre 200 kg avant de tomber sur le noyau de la planète. 
 - Ce phénomène hallucinant fait de l'atmosphère de Neptune l'un des panoramas les plus exotiques du système solaire.
+
+## Le poème vivant
+
+*Sources*
+
+- [The Xenotext Works](https://www.poetryfoundation.org/harriet-books/2011/04/the-xenotext-works) - Christina Bok, Poetry Foundation (2011)
+
+---
+
+- Ce poème... Est vivant !
+- I have been striving to write a short verse about language and genetics, whereupon I use a “chemical alphabet” to translate this poem into a sequence of DNA for subsequent implantation into the genome of a bacterium (in this case, a microbe called Deinococcus radiodurans—an extremophile, capable of surviving, without mutation, in even the most hostile milieus, including the vacuum of outer space).
+- When translated into a gene and then integrated into the cell, my poem is going to constitute a set of instructions, all of which cause the organism to manufacture a viable, benign protein in response—a protein that, according to my original, chemical alphabet, is itself yet another text. I am, in effect, engineering a life-form so that it becomes not only a durable archive for storing a poem, but also an operant machine for writing a poem—one that can persist on the planet until the sun itself explodes….
+- Yesterday, I received confirmation from the laboratory at the University of Calgary that my poetic cipher, gene X-P13, has in fact caused E. coli to fluoresce red in our test-runs—meaning that, when implanted in the genome of this bacterium, my poem (which begins “any style of life/ is prim…”) does in fact cause the bacterium to write, in response, its own poem (which begins “the faery is rosy/ of glow…”). I have finally demonstrated the viability of the gene (which has taken me about a year to design).
+- 
