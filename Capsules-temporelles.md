@@ -11,3 +11,9 @@
 - Footprints: In Search of Future Fossils - David Farrier
 
 ---
+
+# Stocker de l'information dans de l'ADN
+
+*Sources*
+
+- [Organic data memory using the DNA approach](https://dl.acm.org/doi/10.1145/602421.602426) - Wong et al (2003)
