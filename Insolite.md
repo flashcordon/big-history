@@ -139,6 +139,8 @@ https://www.youtube.com/watch?v=Xsqe3utT6rs
 - [Xenotext de Christian Bök](https://lmoussakova.wordpress.com/2016/06/26/xenotext-de-christian-bok/) - blog Arts & Sciences
 - [A long-term viable way to store poetry](https://culturico.com/2018/11/18/a-long-term-viable-way-to-store-poetry/) - Culturico (2018)
 - [Xenotext : Une poésie bactériologique](https://actualitte.com/article/63441/reseaux-sociaux/xenotext-une-poesie-bacteriologique) - Actualitte (2012)
+- [Science and Culture: Could a bacterium successfully shepherd a message through the apocalypse?](https://www.pnas.org/content/114/9/2094) - Vaidyanathan (2017)
+- [The Making of a Xenotext](https://www.americanscientist.org/blog/science-culture/the-making-of-a-xenotext) - Scientific American (2016)
 
 ---
 
@@ -159,3 +161,26 @@ In essence, every alphabetical letter is assigned to a specific codon, which is 
 Therefore, the legendary musician Orpheus will be finally able to resurrect his wife Eurydice from the damnation of Hades, making eternal their unity.
 - Ce n'est pas la première fois que du texte est encodé dand de l'ADN de bactérie
 - Le vœu de Christian Bök va plus loin : en plus d'insérer un texte original, celui-ci « est aussi écrit de manière à ce que l'organisme où il est implanté puisse en faire une protéine, qui serait elle-même un autre poème complètement différent ». Un nouveau code se crée alors à l'intérieur de la bactérie, transformant le texte pour donner naissance à un nouveau qui ait du sens. L'organisme ne cessant de se multiplier, cela permettrait également de multiplier l'œuvre de manière exponentielle.
+- How and who would later decode those messages—first written in American Standard English and then translated into a DNA sequence, in Bök’s project—is a question we should certainly raise.
+-  the final section of Bök’s project proposal (or more aptly, manifesto). “I believe,” he writes, “that such a poem, stored inside the genome of a bacterium, might conceivably outlast terrestrial civilization itself, persisting like a secret message in a bottle flung at random into a giant ocean." At the same time, he observes, "I hope that my poem might urge readers to reconsider the aesthetic potential of science, causing them to recognize that, buried within the building blocks of life, there really does exist an innate beauty, if not a hidden poetry—a literal message that we might read, if only we deign to look for it.”
+-  Le jour précédant cette découverte, le 3 avril 2011, Bök avait déclaré « avoir reçu la confirmation du laboratoire de l'Université de Calgary que [son] code poétique, le gène X-P13, avait bel et bien causé un changement de couleur à la bactérie E. coli au rouge phosphorescent. Cela signifie qu'une fois implanté dans le génome de cette bactérie [son] poème (qui commence par ‘‘toute forme de vie / est première...’’) amène en effet la bactérie à écrire son propre poème (qui commence par ‘‘la fée est rose / de brillance...’’)9’10.»
+- Le projet s'est déroulé sur plus d'une décennie, coûtant plus de 110 000 $. 
+- Bök intends his poems to outlast human civilization, and indeed the planet itself. And his authorial palette is not typical either: rather than inscribing his poems on paper, he’s attempting to put them in a bacterium.
+- As a proof of concept, Wong and his colleagues inserted a tiny message—the lyrics of the song “It’s a small world after all”— encoded in DNA into the genome of this bacterium and allowed it to multiply for 100 generations. The embedded song survived without mutations, according to work published in 2003 (2). Although 100 generations isn’t many for showing genetic stability, Wong had offered up proof-of-principle that Deinococcus messages could persist unaltered.
+-  The Xenotext (4). When completed, it will be a book of poetry crafted not of paper and glue but of DNA and protein, bound within an extremophile. The organism’s genome would encipher a 14-line poem by Bök, named “Orpheus.” The bug’s replication machinery would read the DNA and assemble a protein. The sequence of amino acids would encipher another 14-line poem, called “Eurydice.” Hence, the bug would be both a storage vessel and a poem-generator. The protein would also make the bug fluoresce red via an mCherry red fluorophore tag.
+-  “Orpheus” begins with these lines:"Any style of life""is prim"
+
+To which the organism responds by building a protein that encodes “Eurydice”:"The faery is rosy""of glow"
+- It took Bök 4 years to write the poems, which are basic cryptograms. He had to write two poems simultaneously: the DNA spells out one poem and the amino acid the other. The two poems are ciphers of each other.
+
+Bök taught himself programming to build software that generated simple substitution ciphers, where each letter of the alphabet is paired with another letter. In his poems, “a,” for example, maps to “t,” “n” to “h,” and so on.
+
+Of 7 trillion cipher possibilities, Bök found one cipher that produced a lexicon that had enough useful words (about 120) that could be assembled into two poems that are also sensible and syntactical.
+
+He next translated the poems into the language of living things. Each letter of the cipher maps to a DNA codon, the triplet of DNA molecules that encode an amino acid. The bug would read the codon and build an amino acid, which in turn would map to the original’s letter-matching pair in the cipher.
+- on the final day of his grant, Bök received word from the Wyoming scientists: the bug had successfully incorporated “Orpheus” in its genome. It was also generating “Eurydice” in response. Still, their excitement was tempered; they only saw fragments of the protein poem during electrophoresis.
+- Bök has three benchmarks of success for The Xenotext: the gene has to be properly introduced into Deinococcus; it has to generate a protein that fluoresces red, matching the opening lines of “Eurydice”; and the protein has to be stable enough to be detected.
+
+The last criterion has not been met. 
+- The Xenotext, he emphasizes, is not an expression of hubris. It is an aesthetic exercise meant to get people thinking about human extinction and to prompt poets to use living beings as a mode of artistic expression, he says. After all, even with Deinococcus’ stellar DNA repair machinery, the “Orpheus” gene will likely mutate, given enough time, because of chance alone.
+- ök’sThe Xenotext: Book1, published in 2015, involved enciphering poetry into the genome of the bacteriumDeinococ-cus radiodurans. The organism’s cellular mechanisms“read”the encoded poem and produceda protein, the structure of which was then deciphered, resulting in another poem in response.
