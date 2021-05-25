@@ -191,3 +191,9 @@ The last criterion has not been met.
 - The Xenotext is my nine-year long attempt to create an example of “living poetry.” I have been striving to write a short verse about language and genetics, whereupon I use a “chemical alphabet” to translate this poem into a sequence of DNA for subsequent implantation into the genome of a bacterium (in this case, a microbe called Deinococcus radiodurans—an extremophile, capable of surviving, without mutation, in even the most hostile milieus, including the vacuum of outer space).
 When translated into a gene and then integrated into the cell, my poem is going to constitute a set of instructions, all of which cause the organism to manufacture a viable, benign protein in response - a protein that, according to my original, chemical alphabet, is itself yet another text. I am, in effect, engineering a life-form so that it becomes not only a durable archive for storing a poem, but also an operant machine for writing a poem - one that can persist on the planet until the sun itself explodes….
 Yesterday, I received confirmation from the laboratory at the University of Calgary that my poetic cipher, gene X-P13, has in fact caused E. coli to fluoresce red in our test-runs, meaning that, when implanted in the genome of this bacterium, my poem (which begins “any style of life/ is prim…”) does in fact cause the bacterium to write, in response, its own poem (which begins “the faery is rosy/ of glow…”). I have finally demonstrated the viability of the gene (which has taken me about a year to design)
+
+# Le furet nettoyeur d'accélérateur de particule
+
+*Sources*
+
+- [Why Physicists Tried to Put a Ferret in a Particle Accelerator](https://www.atlasobscura.com/articles/felicia-ferret-particle-accelerator-fermilab.amp?utm_source=reddit.com) - Atlas Obscura
