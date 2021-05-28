@@ -204,3 +204,10 @@ Yesterday, I received confirmation from the laboratory at the University of Calg
 
 - [Harbour seals (Phoca vitulina) can steer by the stars](https://link.springer.com/article/10.1007/s10071-008-0156-1) - Mauck et al (2008)
 - [HOW A HARBOR SEAL SEES THE NIGHT SKY](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-7692.2005.tb01257.x) - Mauck et al (2006)
+
+# Full Newton Alchemist
+
+- Vous connaissez tous Newton en tant que pionnier de la physique moderne, grâce à sa théorie de la gravitation universelle. La pomme, tout ça.
+- Mais est-ce que vous saviez qu'il était aussi l'un des derniers alchimistes ?
+- Pendant une bonne partie de sa carrière, il a tenté de concocter la fameuse pierre philosophale !
+- De nos jours, les manuscrits alchimiques de Newton ont été numérisés, et vous aussi vous pouvez 
