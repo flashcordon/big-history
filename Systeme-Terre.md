@@ -283,13 +283,34 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [Great Green Wall (China)](https://en.wikipedia.org/wiki/Great_Green_Wall_(China)) - Wikipédia
 - [Climate mitigation from vegetation biophysical feedbacks during the past three decades](https://www.nature.com/articles/nclimate3299) - Zeng et al (2017)
 - [La chlorophylle voit rouge | Web-série La nature des plantes](https://youtu.be/V4_h3taxZ60) - MNHN (2021)
+- [When Did Photosynthesis Emerge on Earth?](https://science.sciencemag.org/content/289/5485/1703.summary) - Des Marais (2000)
+- [Out of thin air](https://www.nature.com/articles/445610a?proof=t) - Allen et Martin (2007)
 
 ---
 
 ## Pour des raisons biochimiques
 
 
-![Irradiance solaire (Source : Cell Biology by the Numbers, Milo and Phillips (2016))](https://i.imgur.com/9IgGRnX.png)
+*Irradiance solaire (Source : Cell Biology by the Numbers, Milo and Phillips (2016))*
+![Irradiance solaire](https://i.imgur.com/9IgGRnX.png)
+
+- C'est le théologien anglais Joseph Priestley qui a découvert la photosynthèse, à la suite d'une série d'expériences réalisées en 1771. Ces expériences le conduisent notamment à isoler pour la première fois de l'oxygène sous forme gazeuse (même si le terme oxygène viendra plus tard, sous la plume d'Antoine Lavoisier)
+> En 1772, dans un article intitulé 'Observations on Different Kinds of Air', il écrit : “...I flatter myself that I have accidentally hit upon a method of restoring air which has been injured by the burning of candles, and that I have discovered at least one of the restoratives which nature employs for this purpose. It is vegetation. In what manner this process in nature operates, to produce so remarkable an effect, I do not pretend to have discovered; but a number of facts declare in favour of this hypothesis... [...] “One might have imagined that, since common air is necessary to vegetable, as well as to animal life, both plants and animal had affected it in the same manner, and I own that I had that expectation, when I first put a sprig of mint into a glass-jar, standing inverted in a vessel of water; but when it had continued growing there for some months, I found that the air would neither extinguish a candle, nor was it at all inconvenient to a mouse, which I put into it. [...] “...Accordingly, on the 17th of August 1771, I put a sprig of mint into a quantity of air, in which a wax candle had burned out, and found that, on the 27th of the same month, another candle burned perfectly well in it. This experiment I repeated, without least variation in the event, not less than eight or ten times in the remainder of the summer.”
+- La photosynthèse est apparue assez tôt dans l'histoire de la Terre.
+- Il y a plusieurs hypothèses concernant l'origine de la photosynthèse :
+> * Certains chercheurs pensent qu'elle a débuté en tant qu'adaptation fortuite à partir de pigments primitifs dans des bactéries se nourissant de l'énergie chimique des roches (chimiolithotrophie) dans les sources hydrothermales, qui a permis à ces bactéries d'être moins dépendantes de la chaleur des sources et a étendu leur habitat à des eaux moins profondes
+> * Elle a aussi pu émerger directement dans des eaux peu profondes
+
+Biologists agree that cyanobacteria invented the art of making oxygen2, but when and how this came about remain uncertain.
+
+Oxygenic photosynthesis involves about 100 proteins that are highly ordered within the photosynthetic membranes of the cell. The main players are two molecular machines, photosystem I and photosystem II, that act as electrochemical solar cells. With the help of chlorophyll (the pigment that makes plants green), they transform sunlight into electrical current (Fig. 1). Photosystem II generates an electrochemical potential of + 1.1 volts, enough to remove two electrons from each of two water molecules, making a molecule of O2 at a cost of four photons — one for each electron moved. Photosystem II performs this remarkable feat only when photosystem I is present to dispose of the electrons. Photosystem I grabs the four electrons and uses four more photons to deposit them, in two pairs, on an electron carrier called NADP+. NADP+ ultimately transfers the electrons to carbon dioxide, thereby providing the energy to make carbon-based sugars and the other molecules of life: light makes life and oxygen out of water and thin air.
+
+Oxygenic photosynthesis is the only significant source of O2 known, so indications for O2 in the geological record should date its origin. Geochemical evidence suggests that 2.3 billion years ago atmospheric oxygen had risen to more than 10−5 of its present concentration3. So this date should set a minimum age for cyanobacteria4. But might they be older? 
+
+Could cyanobacteria date back to 3.8 billion years ago, or even earlier? Not according to the geochemical data from a 3.4-billion-year-old sedimentary formation in South Africa called the Buck Reef Chert6. This massive formation shows evidence of having been deposited through carbon fixation by photosynthesizing organisms, but it contains none of the mineral traces expected from the production of O2. Thus, the simplest interpretation is that the deposit was laid down by anoxygenic photosynthesis for which the source of electrons was molecular hydrogen or other inorganic molecules4,6. If 3.4 billion years is taken as an upper boundary for the age of O2 synthesis, the origin of oxygenic photosynthesis would fall within the range of 3.4 billion to 2.3 billion years ago. This range is admittedly rather imprecise, but it is something. Of course, absence of evidence is not evidence of absence, and other authors suggest that O2 could have been produced as early as 4.0 billion years ago, but was rapidly consumed7,8.
+
+Some modern bacteria carry out anoxygenic photosynthesis, which is assumed to have been the precursor of the oxygen-producing reaction. 
+
 
 - The selective utilization of light energy results in
 two well-known spectral signatures exhibited in
@@ -328,28 +349,7 @@ a carbon source, and a reductant. The direct
 products are carbohydrates and can be oxygen,
 elemental sulfur, water, and other oxidized forms of the reductant. Soil nutrients are also necessary
 inputs,
-- Photosynthesis arose fairly early in the history
-of the Earth. One theory about the origin of
-photosynthesis is that it began as a fortuitous
-adaptation of primitive pigments for infrared
-thermotaxis of chemolithotrophic bacteria in hydrothermal
-ocean vents [early Archean, possibly
-3.8 Ga ago (Nisbet et al., 1995)]. Thus, with these
-organisms being less dependent on the heat of the
-hydrothermal vents, their habitats gradually expanded
-to shallower waters where solar light
-could be utilized (Nisbet and Fowler, 1999; Des
-Marais, 2000). It is also possible that photosynthesis
-arose first in shallow waters and, before
-there was oxygenic photosynthesis to provide an
-ozone shield, ultraviolet (UV) screening proteins
-led to the transfer of excitation energy to the porphyrin
-(Mulkidjanian and Junge, 1997). The evolution
-of ocean chemistry could have played a
-major role in the evolution of Chl
-- Allen and Martin
-(2007) provide a nice review of these ideas of
-the origins of oxygenic photosynthesis.
+
 - The fossil record seems to support that the
 early photosynthesizers were anoxygenic purple
 bacteria and green sulfur bacteria that used reducing
