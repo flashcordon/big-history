@@ -282,6 +282,7 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [L’indice foliaire des couverts forestiers : mesure, variabilité et rôle fonctionnel](http://documents.irevues.inist.fr/bitstream/handle/2042/5426/135_150.pdf?...) - Nathalie Bréda (1999)
 - [Great Green Wall (China)](https://en.wikipedia.org/wiki/Great_Green_Wall_(China)) - Wikipédia
 - [Climate mitigation from vegetation biophysical feedbacks during the past three decades](https://www.nature.com/articles/nclimate3299) - Zeng et al (2017)
+- [La chlorophylle voit rouge | Web-série La nature des plantes](https://youtu.be/V4_h3taxZ60) - MNHN (2021)
 
 ---
 
