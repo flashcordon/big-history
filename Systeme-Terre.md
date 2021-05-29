@@ -285,6 +285,7 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [La chlorophylle voit rouge | Web-série La nature des plantes](https://youtu.be/V4_h3taxZ60) - MNHN (2021)
 - [When Did Photosynthesis Emerge on Earth?](https://science.sciencemag.org/content/289/5485/1703.summary) - Des Marais (2000)
 - [Out of thin air](https://www.nature.com/articles/445610a?proof=t) - Allen et Martin (2007)
+- [On the Origin of Photosynthesis](https://science.sciencemag.org/content/323/5919/1286) - Leslie (2009)
 
 ---
 
@@ -294,6 +295,17 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 *Irradiance solaire (Source : Cell Biology by the Numbers, Milo and Phillips (2016))*
 ![Irradiance solaire](https://i.imgur.com/9IgGRnX.png)
 
+
+### L'origine de la photosynthèse
+
+- La photosynthèse est l'innovation métabolique la plus révolutionnaire de l'histoire de la Terre
+> * Oxygène dans l'atmosphère
+> * Couche d'ozone
+> * Nouveaux minéraux
+> * Créatures plus grosses et plus complexes
+> * C'est elle qui maintient la plupart de la vie sur Terre (productivité primaire)
+
+
 - C'est le théologien anglais Joseph Priestley qui a découvert la photosynthèse, à la suite d'une série d'expériences réalisées en 1771. Ces expériences le conduisent notamment à isoler pour la première fois de l'oxygène sous forme gazeuse , une substance qu'il appelle de "l'air déphlogistiqué" (le terme "oxygène" viendra plus tard, en 1776, sous la plume d'Antoine Lavoisier)
 > En 1772, dans un article intitulé 'Observations on Different Kinds of Air', il écrit : “...I flatter myself that I have accidentally hit upon a method of restoring air which has been injured by the burning of candles, and that I have discovered at least one of the restoratives which nature employs for this purpose. It is vegetation. In what manner this process in nature operates, to produce so remarkable an effect, I do not pretend to have discovered; but a number of facts declare in favour of this hypothesis... [...] “One might have imagined that, since common air is necessary to vegetable, as well as to animal life, both plants and animal had affected it in the same manner, and I own that I had that expectation, when I first put a sprig of mint into a glass-jar, standing inverted in a vessel of water; but when it had continued growing there for some months, I found that the air would neither extinguish a candle, nor was it at all inconvenient to a mouse, which I put into it. [...] “...Accordingly, on the 17th of August 1771, I put a sprig of mint into a quantity of air, in which a wax candle had burned out, and found that, on the 27th of the same month, another candle burned perfectly well in it. This experiment I repeated, without least variation in the event, not less than eight or ten times in the remainder of the summer.”
 - La photosynthèse est apparue assez tôt dans l'histoire de la Terre.
@@ -302,6 +314,59 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 > * Elle a aussi pu émerger directement dans des eaux peu profondes
 
 Biologists agree that cyanobacteria invented the art of making oxygen2, but when and how this came about remain uncertain.
+
+Over more than 200 years, researchers have
+ironed out most of the molecular details of
+how organisms turn carbon dioxide and
+water into food. Chlorophyll pigment and
+about 100 other proteins team up to put light
+to work. Plants, some protists, and cyanobacteria
+embed their chlorophyll in two
+large protein clusters, photosystem I and
+photosystem II. And they need both systems
+to use water as an electron source. Light
+jump-starts an electrical circuit in which
+electrons flow from the photosystems
+through protein chains that
+make the energy-rich molecules
+ATP and NADPH. These molecules
+then power the synthesis
+of the sugars that organisms
+depend on to grow and multiply.
+Photosystem II—the strongest
+naturally occurring oxidant—
+regains its lost electrons by
+swiping them from water, generating
+oxygen as a waste product
+
+However, some bacteria
+don’t rely on water as an electron
+source, using hydrogen sulfide
+or other alternatives. These
+nonconformists, which today
+live in habitats such as scalding hot springs,
+don’t generate oxygen. Their photosynthetic
+proteins huddle in relatively simple “reaction
+centers” that may have been the predecessors
+of the two photosystems.
+
+Most researchers accept that nonoxygenic
+photosynthesis arose first, probably shortly
+after life originated more than 3.8 billion
+years ago.
+
+The sharpest disputes revolve around
+when organisms shifted to oxygenic photosynthesis.
+At issue is how to interpret a
+watershed in the fossil record known as the
+great oxidation event (GOE). In rocks from
+about 2.4 billion years ago, geologists see
+the first unmistakable signs of significant,
+sustained levels of atmospheric oxygen.
+These signs include red beds, or layers
+tinged by oxidized iron, i.e., rust.
+
+
 
 Oxygenic photosynthesis involves about 100 proteins that are highly ordered within the photosynthetic membranes of the cell. The main players are two molecular machines, photosystem I and photosystem II, that act as electrochemical solar cells. With the help of chlorophyll (the pigment that makes plants green), they transform sunlight into electrical current (Fig. 1). Photosystem II generates an electrochemical potential of + 1.1 volts, enough to remove two electrons from each of two water molecules, making a molecule of O2 at a cost of four photons — one for each electron moved. Photosystem II performs this remarkable feat only when photosystem I is present to dispose of the electrons. Photosystem I grabs the four electrons and uses four more photons to deposit them, in two pairs, on an electron carrier called NADP+. NADP+ ultimately transfers the electrons to carbon dioxide, thereby providing the energy to make carbon-based sugars and the other molecules of life: light makes life and oxygen out of water and thin air.
 
