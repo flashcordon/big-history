@@ -926,3 +926,9 @@ Burcher
 - ***Nuages moléculaires*** : Les nuages moléculaires sont des nuages de gaz et de pousisère assez denses. À l'intérieur des nuages sombres, où la température est inférieure à 20K, les molécules sont protégées des rayons UV émis par les étoiles massives environnantes et des rayons cosmiques qui pourraient les casser. De la chimie complexe peut donc se produire ! Du coup, dans les nuages moléculaires, on trouve une grande variété de molécules complexes aux odeurs variées. Par exemple, à l’intérieur de Sagittarius B2, un vaste nuage de poussière à 300 années lumière du centre Galactique (taille : 150 années-lumière), des astronomes ont détecté des dizaines de molécules différentes. parmi elles, du formiate d'éthyle (C3H6O2), qui a le goût de la framboise et l’odeur du rhum. Mais on trouve aussi du sulfure d'hydrogène (H2S), qui sent l’oeuf pourri, et du cyanure d'hydrogène (HCN), un gaz mortel qui sent l’amande amère, et des PAH (de larges chaînes moléculaires constituées d’un assemblade de carbone et d’hydrogène en anneaux), qu’on retrouve sur Terre dans les toasts brûlés et dans les gaz d’échappement. Néanmoins (loul), la concentration de ces molécules esst 10000 fois trop faible pour être détectée par votre nez. L’astronome méxicain Daniel Tafoya a estimé que, pour sentir l’ammoniac contenu dans le nuage d’Orion KL, il nous faudrait un nez de 11,4 km !
 
 ***Conclusion :*** La plupart des odeurs agréables se trouvent sur Terre.
+
+# Notre voisinage cosmique
+
+*Les étoiles voisines à 10 parsecs (Source : @Galaxy_Map 2021)*
+
+![10 pc stars](https://i.imgur.com/95ssTJn.jpg)
