@@ -207,6 +207,13 @@ Yesterday, I received confirmation from the laboratory at the University of Calg
 
 # Full Newton Alchemist
 
+*Sources*
+
+- [Sold: Isaac Newton’s Notes on the Philosopher’s Stone](https://www.atlasobscura.com/articles/newton-studied-alchemy-philosophers-stone) - Atlas Obscura
+- [Isaac Newton’s Recipe for the Mythical ‘Philosopher’s Stone’ Is Being Digitized & Put Online (Along with His Other Alchemy Manuscripts)](https://www.openculture.com/2016/10/isaac-newtons-recipe-for-the-mythical-philosophers-stone-is-being-digitized.html) - Open Culture
+
+---
+
 - Tout le monde connait Isaac Newton le physicien. Mais peu de gens connaissent Isaac Newton... L'alchimiste.
 - Le pionnier de la révolution scientifique avait en effet un énorme penchant pour les sciences occultes, et notamment l'alchimie. 
 - Pendant une bonne partie de sa carrière, il a même tenté de concocter la fameuse pierre philosophale, qui est sensée changer le plomb en or ! Malheureusement, sans succès.
