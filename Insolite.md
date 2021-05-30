@@ -207,7 +207,10 @@ Yesterday, I received confirmation from the laboratory at the University of Calg
 
 # Full Newton Alchemist
 
-- Vous connaissez tous Newton en tant que pionnier de la physique moderne, grâce à sa théorie de la gravitation universelle. La pomme, tout ça.
-- Mais est-ce que vous saviez qu'il était aussi l'un des derniers alchimistes ?
-- Pendant une bonne partie de sa carrière, il a tenté de concocter la fameuse pierre philosophale !
-- De nos jours, les manuscrits alchimiques de Newton ont été numérisés, et vous aussi vous pouvez 
+- Tout le monde connait Isaac Newton le physicien. Mais peu de gens connaissent Isaac Newton... L'alchimiste.
+- Le pionnier de la révolution scientifique avait en effet un énorme penchant pour les sciences occultes, et notamment l'alchimie. 
+- Pendant une bonne partie de sa carrière, il a même tenté de concocter la fameuse pierre philosophale, qui est sensée changer le plomb en or ! Malheureusement, sans succès.
+- En fait, à l'époque de Newton, la chimie telle qu'on la connaît n'existait pas encore, et l'alchimie était vue comme une pratique tout à fait sérieuse.
+- En 1936, certains manuscrits alchimiques de Newton ont été retrouvés, et le moins que l'on puisse dire, c'est que leur contenu a beaucoup surpris les historiens de l'époque. 
+- De nos jours, ces manuscrits ont été numérisés, et vous pouvez notamment consulter ces pages, qui détaillent la recette de la pierre philosophale façon Newton.
+- Si vous en faites un tuto par ici, faites moi signe ;)
