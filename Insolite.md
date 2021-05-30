@@ -212,5 +212,6 @@ Yesterday, I received confirmation from the laboratory at the University of Calg
 - Pendant une bonne partie de sa carrière, il a même tenté de concocter la fameuse pierre philosophale, qui est sensée changer le plomb en or ! Malheureusement, sans succès.
 - En fait, à l'époque de Newton, la chimie telle qu'on la connaît n'existait pas encore, et l'alchimie était vue comme une pratique tout à fait sérieuse.
 - En 1936, certains manuscrits alchimiques de Newton ont été retrouvés, et le moins que l'on puisse dire, c'est que leur contenu a beaucoup surpris les historiens de l'époque. 
-- De nos jours, ces manuscrits ont été numérisés, et vous pouvez notamment consulter ces pages, qui détaillent la recette de la pierre philosophale façon Newton.
-- Si vous en faites un tuto par ici, faites moi signe ;)
+- De nos jours, ces manuscrits sont entreposés dans les archives de l'université de l'Illinois et ils ont été numérisés !
+- Vous pouvez notamment consulter ces pages, qui détaillent la recette de la pierre philosophale façon Newton.
+- Si vous en faites un tuto par ici, faites moi signe ! ;)
