@@ -134,6 +134,18 @@ March 11, 2001: Longest Spacewalk in History
 The International Space Station (ISS) is easily one of history’s great assembly projects, with 15 modules, some the size of a bus, snapped together in a dragonfly configuration. When one of those modules has to be relocated to another spot on the spacecraft, the work can be painstaking. That’s what astronauts Susan Helms and James Voss learned when they ventured outside the ISS to prep the Multi-Purpose Logistics Module for a move, and didn’t step back inside for 8 hours and 56 minutes—a record that still stands. That is 5.95 laps around the world—or 148,900 miles logged—and one very big job completed.
 
 
+# Systèmes de support vie
+
+*Sources*
+
+- [Next-generation life-support system heading to Space Station](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/Next-generation_life-support_system_heading_to_Space_Station) - ESA (2018)
+- [Melissa Foundation ](https://www.melissafoundation.org/) 
+- [Evolution and Development of Life Support Systems](https://link.springer.com/chapter/10.1007/978-3-030-52859-1_4) - Seedhouse et al (2020)
+- [ECLSS](https://www.nasa.gov/centers/marshall/history/eclss.html) - NASA
+- [The environment as a life support system: the case of Biosphere 2](https://www.tandfonline.com/doi/abs/10.1080/07341510903313048) - Hohler (2010)
+- [ISS ECLSS](https://en.wikipedia.org/wiki/ISS_ECLSS) - Wikipédia
+- [Advanced Life Support Systems](https://www.nap.edu/read/5826/chapter/4) -  Advanced Technology for Human Support in Space (1997) 
+- [Life Support Systems Sustaining Humans Beyond Earth](https://www.nasa.gov/content/life-support-systems) - NASA
 
 
 
