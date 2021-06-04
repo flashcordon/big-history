@@ -13,18 +13,17 @@
 
 ---
 
-Extra-vehicular activity, or EVA—working outside a spacecraft—changed the nature of human spaceflight. It made possible walking on the Moon, servicing the Hubble Space Telescope, and building the International Space Station.
-
-Since the first space walks of Aleksei Leonov and Edward White in 1965, more than 200 astronauts and cosmonauts have amassed over 1,000 hours of EVA experience.
-
-EVA : Extravehicular Activity
-Sortie extravéhiculaire 
+- Une sortie extravéhiculaire, ou activité extravéhiculaire, (désignée parfois par son sigle anglais EVA pour extra-vehicular activity) est une activité réalisée à l'extérieur d'un véhicule spatial par un astronaute revêtu d'une combinaison spatiale. 
+> Ce sont les EVA qui ont rendu possible la réparation du télescope spatial Hubble, la construction et la maintenance de l'ISS, ainsi que les marches lunaires des missions Apollo.
+- La première EVA a été effectuée par le cosmonaute Alexei Leonov en 1965
+> * [Vidéo de l'EVA d'Alexeï Leonov](https://youtu.be/c5ZtBhQQPjM)
+- Depuis, plus de 200 astronautes ont effecté des EVA, qui représente plus d'un millier d'heures cumulées passées dans l'espace.
 
 March 11, 2001: Susan Helms and James S. Voss set the record for longest EVA. They were in space for eight hours and 56 minutes.
 Russian cosmonaut Anatoly Solovyev has spent more than three days on EVA missions. time outside a spacecraft than any other human. He’s performed 16 spacewalks—more than any other human.
 Peggy Whitson has done more spacewalks than any woman—and most other astronauts. The 200th I.S.S. spacewalk was her ninth
 As Leonov left the spacecraft, his spacesuit ballooned in the vacuum of space. He had to vent some air from the suit to fit back through the airlock, a risky procedure. As soon as this and other problems arose, television and radio broadcasts of the event ended, which left most on Earth in the dark about Leonov's situation. The world would not learn until much later about the malfunctions that nearly killed him and mission commander Pavel Belyayev.
-Vidéo Alexey Leonov EVA https://youtu.be/c5ZtBhQQPjM
+
 Vidéo Ed White EVA https://youtu.be/AM7qh7fk2JU 
 Gene Cernan performed an arduous two-hour EVA during the Gemini IX-A mission in 1966. No one had yet realized the need for handholds and footholds to stabilize a spacewalking astronaut. The inability to gain leverage exhausted him. Without the stress of gravity, his heart rate became almost deadly—about 200 beats per minute.
 Cernan's EVA was fraught with problems, including an inadequate cooling system using air that caused his visor to fog up entirely. Sweat accumulated in the lower half of his spacesuit and amounted to 13 pounds of weight lost over the three-day mission. As a result, astronauts began wearing garments with interwoven tubes to circulate cool water close to their skin.
