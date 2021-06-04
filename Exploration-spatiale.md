@@ -18,7 +18,7 @@
 - La première EVA a été effectuée par le cosmonaute Alexei Leonov le 18 Mars 1965, lors de la mission Voskhod-2.
 > * L'EVA a duré 12 minutes (et 9 secondes). Tirer sur le cordon ombilical de plus de 15m qui le retenait à son vaisseau était le seul moyen pour Leonov de se déplacer dans l'espace. L'expérience n'a pas été agréable pour le cosmonaute : sa combinaison a tellement enflé dans le vide de l'espace qu'il a eu beaucoup de difficultés à bouger et à rentrer dans l'écoutille de son vaisseau pour revenir sur Terre, et sa température corporelle a tellement augmenté sous l'effort qu'elle l'a placé au bord de la crise cardiaque. Ces difficultés ont été dissimulées au grand public par l'Union Soviétique jusqu'à la fin de la Guerre froide.
 > * [Vidéo de l'EVA d'Alexeï Leonov](https://youtu.be/c5ZtBhQQPjM)
-- La 2e EVA a été américaine, et a été réalisée le 3 Juin 1965 par Ed White lors de la mission Gemini IV.
+- La 2e EVA a été américaine, et a été réalisée le 3 Juin 1965 (à peine plus de 2 mois après celle de Leonov), par Ed White lors de la mission Gemini IV.
 > * White était attaché à son vaisseau par un cordon ombilical de plus de 7m (7,6m). Il pouvait contrôler ses mouvements dans l'espace à l'aide d'un petit propulseur manuel, le "Hand-Held Maneuvering Unit", surnommé "zip gun" à cause de sa forme de pistolet, et qui pouvait propulser White pendant 20 secondes. L'EVA a duré une vingtaine de minutes. L'expérience a laissé White euphorique : "Je me sens comme un million de dollars". Et lorsqu'il a du rentrer dans sa capsule, il a affirmé que c'était "le moment le plus triste de sa vie".
 > * [Vidéo de l'EVA d'Ed White](https://youtu.be/AM7qh7fk2JU)
 However, a defect in the capsule's hatch latching mechanism caused difficulties opening and closing the hatch, which delayed the start of the EVA and put White and his crewmate at risk of not getting back to Earth alive.
@@ -38,6 +38,9 @@ On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work 
 
 - La plupart des EVA se font en équipe de 2, pour des raisons de sécurité.
 > Il n'y a eu qu'une seule EVA qui a été réalisée à 3. C'était le 13 Mai 1992, lors de la mission STS-49 qui signait le premier vol de la navette spatiale Endeavour. Elle a été réalisée par Pierre Thuot, Richard Hieb et Thomas Akers, dans le but de capturer et de réparer manuellement un satellite qui ne fonctionnait plus (Intelsat VI-F3).  
+- Pour réaliser une EVA, les astronautes de l'ISS doiven enfiler une combinaison spéciale appelée EMU, pour Extravehicular Mobile Unit.
+> Ces combinaisons fournissent une protection. Une telle protection nécessite 14 couches de matériaux (qui incluent le mylar, le néoprène, le nylon, le spandex et l’acier), ce qui permet pas une très grande mobilité en pratique.
+
 
 As Leonov left the spacecraft, his spacesuit ballooned in the vacuum of space. He had to vent some air from the suit to fit back through the airlock, a risky procedure. As soon as this and other problems arose, television and radio broadcasts of the event ended, which left most on Earth in the dark about Leonov's situation. The world would not learn until much later about the malfunctions that nearly killed him and mission commander Pavel Belyayev.
 
@@ -92,12 +95,6 @@ la combi offre une protection contre les micrométéorites (moins d’un gramme)
 
 Elle protège aussi contre les variations de températures de l’espace (-290 à 310 degrés Fahrenheit)
 
-les astronautes utilisent une combi spéciale pour les EVA : les Extravehicular Mobile Units
-Ces combis utilisent 14 couches de matériaux, qui incluent le mylar, le néoprène, le nylon, le spandex et l’acier
-Mais ces combis ne permettent pas une grande mobilité
-
-Left: Leonov during the world’s first EVA in March 1965.
-Right: White during the first American EVA in June 1965.
 
 Assembly of the International Space Station (ISS) would not have been possible without the skilled work of dozens of astronauts and cosmonauts performing intricate tasks in bulky spacesuits in the harsh environment of space. Spacewalks, or extravehicular activities (EVAs), were indispensable to the assembly of ISS and today remain important to the continued maintenance of the world class laboratory in low Earth orbit.
 On June 3, 1965, astronaut Edward H. White opened the hatch to the Gemini 4 capsule and, as he floated out of the cabin, became the first American to walk in space. A few weeks earlier, on March 18, Soviet cosmonaut Aleksei A. Leonov took the world’s first spacewalk as he floated out of an airlock attached to his Voskhod 2 spacecraft. Although White’s 36-minute EVA appeared effortless, later spacewalkers in the Gemini Program found accomplishing actual work quite challenging.
