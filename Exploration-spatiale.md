@@ -29,12 +29,8 @@
 > * White était attaché à son vaisseau par un cordon ombilical de plus de 7m (7,6m). Il pouvait contrôler ses mouvements dans l'espace à l'aide d'un petit propulseur manuel, le "Hand-Held Maneuvering Unit", surnommé "zip gun" à cause de sa forme de pistolet, et qui pouvait propulser White pendant 20 secondes. L'EVA a duré une vingtaine de minutes. L'expérience a laissé White euphorique : "Je me sens comme un million de dollars". Et lorsqu'il a du rentrer dans sa capsule, il a affirmé que c'était "le moment le plus triste de sa vie".
 > * [Vidéo de l'EVA d'Ed White](https://youtu.be/AM7qh7fk2JU)
 However, a defect in the capsule's hatch latching mechanism caused difficulties opening and closing the hatch, which delayed the start of the EVA and put White and his crewmate at risk of not getting back to Earth alive.
-- C'est l'astronaute Buzz Aldrin qui a démontré qu'il était possible de travailler dans l'espace, à l'occasion de la mission Gemini 12, le 13 Novembre 1966. 
+- C'est l'astronaute Buzz Aldrin qui a démontré qu'il était possible de travailler dans l'espace sur des longues durées sans s'épuiser complètement, à l'occasion de la mission Gemini 12, le 13 Novembre 1966. 
 > C'est à cette occasion qu'il a pris le ["premier selfie spatial de l'histoire"](https://fr.wikipedia.org/wiki/Selfie_spatial#/media/Fichier:Buzz_Aldrin_self-photograph_during_Gemini_12_EVA_(S66-62926).jpg).
-- 
-
-On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work in space without tiring during Gemini XII, the last Gemini mission. Aldrin worked outside the spacecraft for 2 hours and 6 minutes, in addition to two stand-up EVAs in the spacecraft hatch for an additional 3 hours and 24 minutes. Aldrin's interest in scuba diving inspired the use of underwater EVA training to simulate weightlessness, which has been used ever since to allow astronauts to practice techniques of avoiding wasted muscle energy. 
-
 - Dans les années 70, les EVA réalisées à bord des stations Skylab (l'ancètre américain de l'ISS) et Mir (son ancètre soviétique) ont démontré que les astronautes pouvaient s'occuper de la maintenance et de la réparation d'une station spatiale.
 > the EVA to free Skylab’s jammed solar array played a key role in saving the program. 
 - À l'époque de la navette spatiale, de nombreuses EVA ont été réalisées pour capturer, réparer et redéployer des satellites endommagés.
@@ -42,12 +38,15 @@ On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work 
 - Les EVA ont  aidé à solidifier la coopération international entre d'anciens états ennemis.
 > Dans les années 90, on a envoyé des astronautes américains sur la station Mir effectuer des EVA dans des combinaisons soviétiques (Orlan). Et inversement les américains ont invité des soviétiques dans la navette spatiale.
 - Depuis la sortie de Leonov, plus de 200 astronautes ont effecté des EVA, qui représente plus d'un millier d'heures cumulées passées dans l'espace.
+- De nos jours, les seules puissances à avoir envoyé des astronautes réaliser des EVA sont la Russie, les Etats-Unis, le Canada, l'Europe et la Chine.
 
 ## Autres premières
 
 - La ***première femme à avoir effectué une EVA*** est la soviétique Svetlana Savitskaya, en 1984 (soit près de 20 and après Leonov)
 > Elle a passé plus de 3 heures dans l'espace.
 - Elle a été suivie de près par Kathryn Sullivan, qui est devenue la ***première américaine à avoir effectué une EVA*** en Octobre 1984.
+- La ***première EVA réalisée par un non-américain et un non-soviétique*** a été réalisée par le français Jean-Loup Chrétien, le 9 Décembre 1988 à bord de la station Mir.
+- Le ***premier français à avoir réalisé une EVA sur l'ISS*** est Philippe Perrin, au cours de la mission STS-111 en Juin 2002.
 
 ## Records
 
@@ -55,7 +54,6 @@ On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work 
 > * Cette mission avait pour but de préparer l’installation du module logistique italien Leonardo sur l'ISS.
 > * Les 2 astronautes ont effectué près de 6 tours complets de la Terre durant cette EVA.
 - Le cosmonaute Anatoly Solovyev a effectué ***le plus grand nombre d'EVA*** (16). Il a passé plus de temps en dehors d'un vaisseau que n'importe quel autre humain (plus de 3 jours cumulés).
-- La ***première EVA réalisée par un non-américain et un non-soviétique*** a été réalisée par le français Jean-Loup Chrétien, le 9 Décembre 1988 à bord de la station Mir.
 
 ## Déroulement typique d'une EVA
 
@@ -103,8 +101,6 @@ On the last three Moon missions astronauts also performed deep-space EVAs on the
 pete worden?
 
 EVAs may be either tethered (the astronaut is connected to the spacecraft; oxygen and electrical power can be supplied through an umbilical cable; no propulsion is needed to return to the spacecraft), or untethered. Untethered spacewalks were only performed on three missions in 1984 using the Manned Maneuvering Unit (MMU), and on a flight test in 1994 of the Simplified Aid For EVA Rescue (SAFER), a safety device worn on tethered U.S. EVAs.
-The Soviet Union/Russia, the United States, Canada, the European Space Agency and China have conducted EVAs.
-
 
 
 Apollo 15 command module pilot Al Worden made an EVA on August 5, 1971, on the return trip from the Moon, to retrieve a film and data recording canister from the service module. 
@@ -146,7 +142,6 @@ During STS-96, the second assembly mission in May 1999, Tamara E. “Tammy” Je
 
 On March 10, 2001, Expedition 2 astronauts James S. Voss and Susan J. Helms conducted a spacewalk during STS-102 that at 8 hours and 56 minutes still stands as the longest EVA in history. 
 
-Philippe Perrin becoming the first astronaut from France to perform an EVA at ISS during the STS-111 mission in June 2002.
 
 Luca S. Parmitano, the first astronaut representing the Italian Space Agency to conduct an EVA at ISS, and his fellow Expedition 36 crewmember Christopher J. Cassidy began US EVA23, their second EVA together, on July 16, 2013, without incident. Forty-four minutes into the EVA, as the two crewmembers worked on their individual tasks at different locations on ISS, Parmitano reported feeling water at the back of his head. Mission Control advised them to halt their activities as they devised a plan of action. Cassidy came to Parmitano’s side to assess the situation, at first believing that a leaking drink bag inside the suit was the source of the water. But as Parmitano indicated that the amount of water was increasing, Mission Control advised them to terminate the EVA, directing Parmitano to head back to the airlock and Cassidy to clean up any tools and then follow his crewmate back to the airlock. As Parmitano began translating back toward the airlock, the water continued to increase, migrating from the back of his head, filling his ears so he had difficulty hearing communications and eventually obscuring his vision and interfering with breathing. He made his way back to the airlock mostly by memory and feel, and after Cassidy joined him inside they repressurized the module. Expedition 36 crewmates Karen L. Nyberg and Fyodor N. Yurchikhin helped Parmitano quickly remove his helmet and towel off the estimated 1 to 1.5 liters of water. Later investigation indicated that contamination on a filter caused blockage in the suit’s water separator. Although Parmitano faced a potentially life-threatening situation, his calm response along with quick decisions by the team in Mission Control resolved the crisis successfully. He later joked during an in-flight press conference that he “experience what it was like to be a goldfish in a fishbowl from the point of view of the goldfish.”
 
