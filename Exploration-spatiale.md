@@ -16,8 +16,8 @@
 
 - Une sortie extravéhiculaire, ou activité extravéhiculaire, (désignée parfois par son sigle anglais EVA pour extra-vehicular activity) est une activité réalisée à l'extérieur d'un véhicule spatial par un astronaute revêtu d'une combinaison spatiale. 
 > Ce sont les EVA qui ont rendu possible la réparation du télescope spatial Hubble, la construction et la maintenance de l'ISS, ainsi que les marches lunaires des missions Apollo.
-- La première EVA a été effectuée par le cosmonaute Alexei Leonov le 18 Mars 1965, lors de la mission Voskhod-2.
-> * L'EVA a duré 12 minutes (et 9 secondes). Tirer sur le cordon ombilical de plus de 15m qui le retenait à son vaisseau était le seul moyen pour Leonov de se déplacer dans l'espace. L'expérience n'a pas été agréable pour le cosmonaute : sa combinaison a tellement enflé dans le vide de l'espace qu'il a eu beaucoup de difficultés à bouger et à rentrer dans l'écoutille de son vaisseau pour revenir sur Terre, et sa température corporelle a tellement augmenté sous l'effort qu'elle l'a placé au bord de la crise cardiaque. Ces difficultés ont été dissimulées au grand public par l'Union Soviétique jusqu'à la fin de la Guerre froide.
+- La ***première EVA de l'Histoire*** a été effectuée par le cosmonaute Alexei Leonov le 18 Mars 1965, lors de la mission Voskhod-2.
+> * L'EVA a duré 12 minutes (et 9 secondes). Tirer sur le cordon ombilical de plus de 15m qui le retenait à son vaisseau était le seul moyen pour Leonov de se déplacer dans l'espace. L'expérience n'a pas été agréable pour le cosmonaute : sa combinaison a tellement enflé dans le vide de l'espace qu'il a eu beaucoup de difficultés à bouger et à rentrer dans l'écoutille de son vaisseau pour revenir sur Terre, et sa température corporelle a tellement augmenté sous l'effort qu'elle l'a placé au bord de la crise cardiaque. Ces difficultés ont été dissimulées au grand public par l'Union Soviétique jusqu'à la fin de la Guerre froide (le direct télé et radio a notamment été coupé).
 > * [Vidéo de l'EVA d'Alexeï Leonov](https://youtu.be/c5ZtBhQQPjM)
 - La 2e EVA a été américaine, et a été réalisée le 3 Juin 1965 (à peine plus de 2 mois après celle de Leonov), par Ed White lors de la mission Gemini IV.
 > * White était attaché à son vaisseau par un cordon ombilical de plus de 7m (7,6m). Il pouvait contrôler ses mouvements dans l'espace à l'aide d'un petit propulseur manuel, le "Hand-Held Maneuvering Unit", surnommé "zip gun" à cause de sa forme de pistolet, et qui pouvait propulser White pendant 20 secondes. L'EVA a duré une vingtaine de minutes. L'expérience a laissé White euphorique : "Je me sens comme un million de dollars". Et lorsqu'il a du rentrer dans sa capsule, il a affirmé que c'était "le moment le plus triste de sa vie".
@@ -30,6 +30,11 @@ On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work 
 
 - Depuis la sortie de Leonov, plus de 200 astronautes ont effecté des EVA, qui représente plus d'un millier d'heures cumulées passées dans l'espace.
 
+## Autres premières
+
+- La ***première femme à avoir effectué une EVA*** est la soviétique Svetlana Savitskaya, en 1984 (soit près de 20 and après Leonov)
+> Elle a passé plus de 3 heures dans l'espace.
+- Elle a été suivie de près par Kathryn Sullivan, qui est devenue la ***première américaine à avoir effectué une EVA*** en Octobre 1984.
 
 ## Records
 
@@ -44,9 +49,7 @@ On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work 
 > Il n'y a eu qu'une seule EVA qui a été réalisée à 3. C'était le 13 Mai 1992, lors de la mission STS-49 qui signait le premier vol de la navette spatiale Endeavour. Elle a été réalisée par Pierre Thuot, Richard Hieb et Thomas Akers, dans le but de capturer et de réparer manuellement un satellite qui ne fonctionnait plus (Intelsat VI-F3).  
 - Pour réaliser une EVA, les astronautes de l'ISS doiven enfiler une combinaison spéciale appelée EMU, pour Extravehicular Mobile Unit.
 > Ces combinaisons fournissent une protection. Une telle protection nécessite 14 couches de matériaux (qui incluent le mylar, le néoprène, le nylon, le spandex et l’acier), ce qui permet pas une très grande mobilité en pratique.
-
-
-As Leonov left the spacecraft, his spacesuit ballooned in the vacuum of space. He had to vent some air from the suit to fit back through the airlock, a risky procedure. As soon as this and other problems arose, television and radio broadcasts of the event ended, which left most on Earth in the dark about Leonov's situation. The world would not learn until much later about the malfunctions that nearly killed him and mission commander Pavel Belyayev.
+- Une EVA dure en général un peu plus de 6 heures, mais elles peuvent être étendues à plus de 8 heures si besoin.
 
 Gene Cernan performed an arduous two-hour EVA during the Gemini IX-A mission in 1966. No one had yet realized the need for handholds and footholds to stabilize a spacewalking astronaut. The inability to gain leverage exhausted him. Without the stress of gravity, his heart rate became almost deadly—about 200 beats per minute.
 Cernan's EVA was fraught with problems, including an inadequate cooling system using air that caused his visor to fog up entirely. Sweat accumulated in the lower half of his spacesuit and amounted to 13 pounds of weight lost over the three-day mission. As a result, astronauts began wearing garments with interwoven tubes to circulate cool water close to their skin.
@@ -84,9 +87,9 @@ But inside a spacesuit it's 4.3 psi, according to NASA, which is about the same 
 To perform spacewalks, astronauts don a bulky "Michelin Man" suit known as the Extravehicular Mobility Unit (EMU), which protects them from solar radiation, debris and extreme temperatures. While partaking in this high-altitude hike, the temperature of the surrounding environment can soar to as hot as 250 degrees Fahrenheit (120 degrees Celsius) in the sunlight and plummet to minus 250 F (minus 160 C) when the sun is out of sight.
 In case of emergency, such as an astronaut losing their tether to the spaceship, the spacesuit comes with a jet pack called SAFER (Simplified Aid for EVA Rescue), which the astronaut controls with a small joystick.
 Putting on the suit takes 45 minutes. The suit, which weighs 280 lbs. (130 kilograms) on Earth, is a marshmallowy ensemble of three major layers: The bladder that contains the oxygen, the restraint that provides the structure, and the thermal and micrometeoroid layer that provides protection from the environment. The suit also includes a Maximum Absorption Garment (MAG), which is essentially an adult diaper. After all, an EVA may take as long as 9 hours, and you never know when nature will call in the void of space.
-Spacewalks typically last around 6.5 hours but can be extended to 7 or 8 hours, if necessary. 
-Svetlana Savitskaya, a Soviet cosmonaut, was the first woman to spacewalk in 1984, nearly 20 years after Leonov floated in the vacuum of space. She and crewmate Vladimir Dzhanibekov spent more than 3 hours spacewalking.
-NASA astronaut Kathryn Sullivan became the first American woman to walk in space in October 1984. Sullivan fulfilled her dream of gazing down at planet Earth from the stillness of space: "Carl Sagan writes about the 'Pale Blue Dot' — not my experience," she told Space.com. "I did [see] the vivid blue beach ball."
+
+
+
 In February 1995, astronaut Bernard Harris became the first African American to perform a spacewalk. Harris dedicated his pioneering spacewalk "to all African-American achievements," the BBC reported. He also carried the flag of the Navajo Nation into space with him, to pay tribute to diverse cultures and highlight "their plight as the original Americans,"
 In 2019, NASA astronauts Christina Koch and Jessica Meir became the first pair of women to carry out a spacewalk together, replacing a failed power controller for the orbiting laboratory.
 Bruce McCandless made the first untethered spacewalk as he flew about 300 feet from the shuttle in the first test of the Manned Maneuvering Unit on Feb. 7, 1984. 
