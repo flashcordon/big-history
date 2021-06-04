@@ -51,6 +51,7 @@
 - La ***première EVA réalisée par un non-américain et un non-soviétique*** a été réalisée par le français Jean-Loup Chrétien, le 9 Décembre 1988 à bord de la station Mir.
 - Le ***premier afro-américain à effectuer une EVA*** est Bernard Harris, en Février 1995.
 - Le ***premier français à avoir réalisé une EVA sur l'ISS*** est Philippe Perrin, au cours de la mission STS-111 en Juin 2002.
+- Le ***premier chinois à effectuer une EVA*** est Zhai Zhigang, le 27 Septembre 2008.
 - La ***première EVA exclusivement réalisée par des femmes*** a été réalisée en 2019, par Christina Koch et Jessica Meir.
 
 ## Records
@@ -68,18 +69,20 @@
 > En terme de pression, c'est comme s'ils se trouvaient à 9 kilomètres d'altitude. 
 - Cette phase prend du temps afin d'éviter la "maladie de décompression" bien connue des plongeurs. 
 > Si cette phase de décompression est trop rapide, des bulles d'azote peuvent se former dans la circulation sanguine, et peuvent même la bloquer.
-- La plupart des EVA se font en équipe de 2, pour des raisons de sécurité.
+- La plupart des EVA se font en équipe de 2, pour des raisons de sécurité. L'un d'entre eux est le "lead spacewalker" : ce dernier est responsable de la sécurité et de l'accomplissement de la mission.
 > Il n'y a eu qu'une seule EVA qui a été réalisée à 3. C'était le 13 Mai 1992, lors de la mission STS-49 qui signait le premier vol de la navette spatiale Endeavour. Elle a été réalisée par Pierre Thuot, Richard Hieb et Thomas Akers, dans le but de capturer et de réparer manuellement un satellite qui ne fonctionnait plus (Intelsat VI-F3).  
 - Pour réaliser une EVA, les astronautes de l'ISS doiven enfiler une combinaison spéciale appelée EMU, pour Extravehicular Mobile Unit.
 > Ces combinaisons fournissent une protection contre les micrométéorites (des cailloux de moins d’un gramme) qui peuvent atteindre des vitesses de 10 km/s. Elle protège aussi contre les variations extrêmes de températures de l’espace (de -150°C à plus de 120°C lors d'une exposition directe à la lumière du Soleil). Une telle protection nécessite 14 couches de matériaux (qui incluent le mylar, le néoprène, le nylon, le spandex et l’acier), ce qui permet pas une très grande mobilité en pratique.
 - Une EVA dure en général un peu plus de 6 heures, mais elles peuvent être étendues à plus de 8 heures si besoin.
+- Au cours d'une EVA, un astronaute est attaché par un cordon ombilical qui lui apporte de l'oxygène et de la puissance électrique.
+> 3 missions se sont déroulées sans cordon ombilical, notamment pour tester des systèmes de propulsion autonomes, comme le Manned Maneuvering Unit (MMU) et sa version simplifiée, le Simplified Aid For EVA Rescue (SAFER). Mais le MMU a fini par être jugé trop dangereux, et il a été retiré de service.
 
 ## Entraînement
 
 - Pour s'entraîner aux tâches qu'ils vont réaliser dans l'espace, les astronautes s'entrainent dans une gigantesque piscine qu'on appelle une "installation de flottabilité neutre".
 > * L'installation principale de ce type est le Neutral Buoyancy Lab, qui se trouve au Johnson Space Center de Houston (Texas). Il s'agit d'une piscine de plus de 12m de profondeur qui contient une réplique à échelle 1:1 de l'ISS.
 > * Il y en a aussi une au centre d'entraînement des cosmonautes Youri-Gagarine, à la Cité des Etoiles en Russie (près de Moscou)
-> * 
+> * La 3e (la Neutral Buoyancy Facility) se trouve à Cologne en Allemagne, au Centre Européen des Astronautes (EAC)
 
 To simulate microgravity underwater, astronauts are weighted down to minimise the buoyant force that would otherwise have them bopping back up to the surface. They must also work very slowly to compensate for the drag caused by water. 
 - Pour chaque heure passée en EVA, les astronautes s'entraînent environ 7 heures.
@@ -90,8 +93,6 @@ Although it is not exactly the same as being weightless in space, astronauts and
 EAC created a so-called EVA pre-familiarisation training course, which is conducted at EAC's Neutral Buoyancy Facility (NBF). This programme teaches ESA astronauts basic EVA concepts and EVA skills such as tethering to the Station, use of special EVA tools, communication with an EVA crewmate as well as with the control room and how to keep full situational awareness in a complex and challenging environment.
 Neutral Buoyancy Facility at EAC in Cologne, Germany
 Astronauts get their first space-suited glimpse of the ISS not in the vacuum of space, but 40 feet (12 meters) underwater. Years before astronauts ever perform an EVA in space, they begin training in the Neutral Buoyancy Lab at NASA's Johnson Space Center in Houston — a 6 million gallon (22,700 metric tons) pool housing a submerged replica of the space station. 
-An astronaut trains for approximately 7 hours in the pool for every hour they might spend walking in space, according to NASA. Underwater, astronauts practice connecting electrical cables, removing broken equipment and everything else they'll be doing in space, all while learning how to work within the constricting suit.
-Most spacewalks are performed in pairs. (So far, there has been only one three-person EVA.) One astronaut is the lead spacewalker, responsible for keeping track of the cadence, safety and completion of the entire jaunt.
 
 ## La sortie de Thomas Pesquet (mission Alpha)
 
@@ -101,17 +102,6 @@ The event also forced NASA to reevaluate EVA training and operational procedures
 Bruce McCandless tested the Manned Maneuvering Unit during Space Shuttle mission STS 41-B in 1984. Although the unit had few operational uses, this photo of McCandless as the first human "satellite" became one of the most reproduced of the shuttle program.
 Assembly and maintenance of the International Space Station has required nearly 1,000 EVA hours so far. 
 An invaluable tool for EVA work is the Canadarm2 on the International Space Station, much like the Canadarms located on each Space Shuttle. 
-
-
-
-
-EVAs may be either tethered (the astronaut is connected to the spacecraft; oxygen and electrical power can be supplied through an umbilical cable; no propulsion is needed to return to the spacecraft), or untethered. Untethered spacewalks were only performed on three missions in 1984 using the Manned Maneuvering Unit (MMU), and on a flight test in 1994 of the Simplified Aid For EVA Rescue (SAFER), a safety device worn on tethered U.S. EVAs.
-
-China became the third country to independently carry out an EVA on September 27, 2008 during the Shenzhou 7 mission. Chinese astronaut Zhai Zhigang completed a spacewalk wearing the Chinese-developed Feitian space suit, with astronaut Liu Boming wearing the Russian-derived Orlan space suit to help him. Zhai completely exited the craft, while Liu stood by at the airlock, straddling the portal. 
-
-
-
-
 
 To perform spacewalks, astronauts don a bulky "Michelin Man" suit known as the Extravehicular Mobility Unit (EMU), which protects them from solar radiation, debris and extreme temperatures. While partaking in this high-altitude hike, the temperature of the surrounding environment can soar to as hot as 250 degrees Fahrenheit (120 degrees Celsius) in the sunlight and plummet to minus 250 F (minus 160 C) when the sun is out of sight.
 In case of emergency, such as an astronaut losing their tether to the spaceship, the spacesuit comes with a jet pack called SAFER (Simplified Aid for EVA Rescue), which the astronaut controls with a small joystick.
