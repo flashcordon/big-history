@@ -20,6 +20,7 @@
 - [Walking in the Void: 45 Years Since the Last Deep-Space EVA](https://www.americaspace.com/2017/12/17/walking-in-the-void-45-years-since-the-last-deep-space-eva/) - America in space
 - [Space to Ground 06/04/2021](https://twitter.com/Space_Station/status/1400814608793886720) - ISS Twitter (2021)
 - [Spacewalking cosmonauts will decommission an old space station module early Wednesday. Watch it live!](https://www.space.com/cosmonauts-space-station-spacewalk-expedition-65-webcast) - Space.com (2021)
+- [ISS Daily Summary Report – 6/03/2021](https://blogs.nasa.gov/stationreport/2021/06/03/iss-daily-summary-report-6-03-2021/) - ISS In-Orbit Status Report 
 
 ---
 
