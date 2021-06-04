@@ -11,6 +11,7 @@
 - [Extravehicular activity](https://en.wikipedia.org/wiki/Extravehicular_activity#First_spacewalk) - Wikipédia
 - [Steps in the Abyss: A History of Spacewalking (Infographic)](https://www.worldsciencefestival.com/infographics/steps-abyss-history-spacewalking-infographic/) - World Science Festival
 - [Sortie dans l'espace : record battu par Voss et Helms](https://www.sciencesetavenir.fr/espace/sortie-dans-l-espace-record-battu-par-voss-et-helms_31806) - Science et Avenir (2001)
+- [Facts About Spacesuits and Spacewalking](https://www.nasa.gov/audience/foreducators/spacesuits/facts/index.html) - NASA
 
 ---
 
@@ -48,7 +49,7 @@ On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work 
 - La plupart des EVA se font en équipe de 2, pour des raisons de sécurité.
 > Il n'y a eu qu'une seule EVA qui a été réalisée à 3. C'était le 13 Mai 1992, lors de la mission STS-49 qui signait le premier vol de la navette spatiale Endeavour. Elle a été réalisée par Pierre Thuot, Richard Hieb et Thomas Akers, dans le but de capturer et de réparer manuellement un satellite qui ne fonctionnait plus (Intelsat VI-F3).  
 - Pour réaliser une EVA, les astronautes de l'ISS doiven enfiler une combinaison spéciale appelée EMU, pour Extravehicular Mobile Unit.
-> Ces combinaisons fournissent une protection. Une telle protection nécessite 14 couches de matériaux (qui incluent le mylar, le néoprène, le nylon, le spandex et l’acier), ce qui permet pas une très grande mobilité en pratique.
+> Ces combinaisons fournissent une protection contre les micrométéorites (des cailloux de moins d’un gramme) qui peuvent atteindre des vitesses de 10 km/s. Elle protège aussi contre les variations extrêmes de températures de l’espace (de -150°C à plus de 120°C lors d'une exposition directe à la lumière du Soleil). Une telle protection nécessite 14 couches de matériaux (qui incluent le mylar, le néoprène, le nylon, le spandex et l’acier), ce qui permet pas une très grande mobilité en pratique.
 - Une EVA dure en général un peu plus de 6 heures, mais elles peuvent être étendues à plus de 8 heures si besoin.
 
 Gene Cernan performed an arduous two-hour EVA during the Gemini IX-A mission in 1966. No one had yet realized the need for handholds and footholds to stabilize a spacewalking astronaut. The inability to gain leverage exhausted him. Without the stress of gravity, his heart rate became almost deadly—about 200 beats per minute.
@@ -98,9 +99,6 @@ La première combi spatiale a été inventée il y a plus d’un siècle, en 191
 
 Alan Shepard est devenu le 2e humain à voyager dans l’espace (Mercury 7)
 
-la combi offre une protection contre les micrométéorites (moins d’un gramme) qui peuvent atteindre des vitesses de 10 km/s
-
-Elle protège aussi contre les variations de températures de l’espace (-290 à 310 degrés Fahrenheit)
 
 
 Assembly of the International Space Station (ISS) would not have been possible without the skilled work of dozens of astronauts and cosmonauts performing intricate tasks in bulky spacesuits in the harsh environment of space. Spacewalks, or extravehicular activities (EVAs), were indispensable to the assembly of ISS and today remain important to the continued maintenance of the world class laboratory in low Earth orbit.
