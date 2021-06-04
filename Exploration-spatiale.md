@@ -15,6 +15,7 @@
 - [Matthias Maurer EVA training](http://www.esa.int/ESA_Multimedia/Images/2019/04/Matthias_Maurer_EVA_training) - ESA
 - [Spacewalk training](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Spacewalk_training) - ESA
 - [Preparing for Space: EVA Training at the European Astronaut Centre](https://www.esa.int/esapub/bulletin/bulletin128/bul128e_bolender.pdf) - ESA
+- [Sortie dans l’espace de Thomas Pesquet : une activité qui n'est pas sans risque](https://www.futura-sciences.com/sciences/actualites/thomas-pesquet-sortie-espace-thomas-pesquet-activite-nest-pas-risque-65866/) - Futura Science (2017)
 
 ---
 
