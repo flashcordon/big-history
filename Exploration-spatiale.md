@@ -39,8 +39,9 @@ However, a defect in the capsule's hatch latching mechanism caused difficulties 
 > Une vingtaine d'entre elles ont été réalisées sur le télescope spatial Hubble.
 - Les EVA ont  aidé à solidifier la coopération international entre d'anciens états ennemis.
 > Dans les années 90, on a envoyé des astronautes américains sur la station Mir effectuer des EVA dans des combinaisons soviétiques (Orlan). Et inversement les américains ont invité des soviétiques dans la navette spatiale.
+- L'assemblage de l'ISS a nécessité X EVA et ces sorties sont indispensables à la maintenance de la station.
 - Depuis la sortie de Leonov, plus de 200 astronautes ont effecté des EVA, qui représente plus d'un millier d'heures cumulées passées dans l'espace.
-- De nos jours, les seules puissances à avoir envoyé des astronautes réaliser des EVA sont la Russie, les Etats-Unis, le Canada, l'Europe et la Chine.
+- À ce jour, les seules puissances à avoir envoyé des astronautes réaliser des EVA sont la Russie, les Etats-Unis, le Canada, l'Europe et la Chine.
 
 ## Autres premières
 
@@ -60,6 +61,7 @@ However, a defect in the capsule's hatch latching mechanism caused difficulties 
 
 ## Déroulement typique d'une EVA
 
+- Les EVA sont relativement rares, parce qu'elles coûtent cher et qu'elles sont dangereuses. En général pour s'occuper de la maintenance de l'ISS les astronautes manient un bras robotique à distance (le bras canadien Canadarm2). Mais certaines taches sont trop précises pour être réalisées à distance, et c'est pour ça qu'on envoie des humains.
 - Une EVA se prépare plusieurs jours à l'avance dans l'ISS. Plusieurs jours durant lesquels les astronautes vérifient leur équipement et l'intégrité de leur EMU.
 - Quelques heures avant l'EVA, les astronautes font de l'exercice intense sur un vélo de l'espace, pour éliminer l'azote plus rapidement de leurs tissus, puis ils se placent dans un sas de décompression, et se mettent à respirer de l'oxygène pur pendant plusieurs heures, à une pression diminuée par rapport à la pression atmosphérique, afin de s'habituer à la pression de la combinaison. 
 > En terme de pression, c'est comme s'ils se trouvaient à 9 kilomètres d'altitude. 
@@ -74,13 +76,12 @@ However, a defect in the capsule's hatch latching mechanism caused difficulties 
 ## Entraînement
 
 - Pour s'entraîner aux tâches qu'ils vont réaliser dans l'espace, les astronautes s'entrainent dans une gigantesque piscine qu'on appelle une "installation de flottabilité neutre".
-> L'installation principale de ce type est le Neutral Buoyancy Lab, qui se trouve au Johnson Space Center de Houston (Texas). Il s'agit d'une piscine de plus de 12m de profondeur qui contient une réplique à échelle 1:1 de l'ISS.
+> * L'installation principale de ce type est le Neutral Buoyancy Lab, qui se trouve au Johnson Space Center de Houston (Texas). Il s'agit d'une piscine de plus de 12m de profondeur qui contient une réplique à échelle 1:1 de l'ISS.
+> * Il y en a aussi une au centre d'entraînement des cosmonautes Youri-Gagarine, à la Cité des Etoiles en Russie (près de Moscou)
+> * 
 
 To simulate microgravity underwater, astronauts are weighted down to minimise the buoyant force that would otherwise have them bopping back up to the surface. They must also work very slowly to compensate for the drag caused by water. 
 - Pour chaque heure passée en EVA, les astronautes s'entraînent environ 7 heures.
-
-The full spacewalk, or Extra Vehicular Activity (EVA), training for the ISS is traditionally done at NASA’s Neutral Buoyancy Laboratory (NBL) at the Johnson Space Center, Houston, Texas, and at the Gagarin Cosmonaut Training Center, in Russia.
-
 - Ils y répetent non seulement ce qu'ils doivent faire dans l'espace, mais ils se préparent aussi à tous types de scénarios imprévus.
 
 The principle used to simulate weightlessness in a huge tank of water is called 'neutral buoyancy'. A neutrally buoyant object neither floats nor sinks. For an astronaut to be neutrally buoyant in the water, the natural tendency to float or sink is counteracted by weights or flotation devices.
@@ -90,6 +91,8 @@ Neutral Buoyancy Facility at EAC in Cologne, Germany
 Astronauts get their first space-suited glimpse of the ISS not in the vacuum of space, but 40 feet (12 meters) underwater. Years before astronauts ever perform an EVA in space, they begin training in the Neutral Buoyancy Lab at NASA's Johnson Space Center in Houston — a 6 million gallon (22,700 metric tons) pool housing a submerged replica of the space station. 
 An astronaut trains for approximately 7 hours in the pool for every hour they might spend walking in space, according to NASA. Underwater, astronauts practice connecting electrical cables, removing broken equipment and everything else they'll be doing in space, all while learning how to work within the constricting suit.
 Most spacewalks are performed in pairs. (So far, there has been only one three-person EVA.) One astronaut is the lead spacewalker, responsible for keeping track of the cadence, safety and completion of the entire jaunt.
+
+## La sortie de Thomas Pesquet (mission Alpha)
 
 Gene Cernan performed an arduous two-hour EVA during the Gemini IX-A mission in 1966. No one had yet realized the need for handholds and footholds to stabilize a spacewalking astronaut. The inability to gain leverage exhausted him. Without the stress of gravity, his heart rate became almost deadly—about 200 beats per minute.
 Cernan's EVA was fraught with problems, including an inadequate cooling system using air that caused his visor to fog up entirely. Sweat accumulated in the lower half of his spacesuit and amounted to 13 pounds of weight lost over the three-day mission. As a result, astronauts began wearing garments with interwoven tubes to circulate cool water close to their skin.
@@ -108,9 +111,6 @@ China became the third country to independently carry out an EVA on September 27
 
 
 
-Compared to how often an astronaut performs other tasks, spacewalks are relatively rare. They're expensive, time-consuming and most of all dangerous. Astronauts usually operate robotic arms like the Canadian-built robotic arm — known as Canadarm2 — to remotely work in the harsh thermal vacuum of space. Occasionally, though, when robotics just won't do the trick, specially trained astronauts must venture outside of the spaceship to complete the task with human finesse.
-
-
 
 To perform spacewalks, astronauts don a bulky "Michelin Man" suit known as the Extravehicular Mobility Unit (EMU), which protects them from solar radiation, debris and extreme temperatures. While partaking in this high-altitude hike, the temperature of the surrounding environment can soar to as hot as 250 degrees Fahrenheit (120 degrees Celsius) in the sunlight and plummet to minus 250 F (minus 160 C) when the sun is out of sight.
 In case of emergency, such as an astronaut losing their tether to the spaceship, the spacesuit comes with a jet pack called SAFER (Simplified Aid for EVA Rescue), which the astronaut controls with a small joystick.
@@ -125,12 +125,6 @@ Bruce McCandless made the first untethered spacewalk as he flew about 300 feet f
 La première combi spatiale a été inventée il y a plus d’un siècle, en 1918 par l’inventeur Fred Samples
 
 Alan Shepard est devenu le 2e humain à voyager dans l’espace (Mercury 7)
-
-
-
-Assembly of the International Space Station (ISS) would not have been possible without the skilled work of dozens of astronauts and cosmonauts performing intricate tasks in bulky spacesuits in the harsh environment of space. Spacewalks, or extravehicular activities (EVAs), were indispensable to the assembly of ISS and today remain important to the continued maintenance of the world class laboratory in low Earth orbit.
-On June 3, 1965, astronaut Edward H. White opened the hatch to the Gemini 4 capsule and, as he floated out of the cabin, became the first American to walk in space. A few weeks earlier, on March 18, Soviet cosmonaut Aleksei A. Leonov took the world’s first spacewalk as he floated out of an airlock attached to his Voskhod 2 spacecraft. Although White’s 36-minute EVA appeared effortless, later spacewalkers in the Gemini Program found accomplishing actual work quite challenging.
-
 
 23 years passed between Leonov’s first daring venture into open space and the first EVA at ISS, during which time 171 spacewalks were completed in low Earth orbit, on the Moon and in deep space.
 
