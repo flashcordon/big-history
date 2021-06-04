@@ -35,7 +35,7 @@
 > the EVA to free Skylab’s jammed solar array played a key role in saving the program. 
 - Des EVA ont aussi été réalisées dans l'espace profond au cours des missions Apollo, afin de récupérer les boîtes de pellicules qui se trouvaient sur la coque du module de service et de commande.
 - À l'époque de la navette spatiale, de nombreuses EVA ont été réalisées pour capturer, réparer et redéployer des satellites endommagés.
-> Une vingtaine d'entre elles ont été réalisées sur le télescope spatial Hubble.
+> Une vingtaine d'entre elles ont été réalisées sur le télescope spatial Hubble. En effet, lorsque le télescope a été envoyé dans l'espace, les astronomes se sont vite rendus compte que les images qu'il produisait étaient floues, à cause d'une aberration sphérique sur son miroir primaire ! Le télescope de plus de 2 milliards de dollars était myope. En 1993, une mission habitée a été envoyée pour le réparer, à bord de la navette spatiale Endeavour. La mission a nécessité 5 EVA étalés sur 5 jours, et a été couronnée de succès.
 - Les EVA ont  aidé à solidifier la coopération international entre d'anciens états ennemis.
 > Dans les années 90, on a envoyé des astronautes américains sur la station Mir effectuer des EVA dans des combinaisons soviétiques (Orlan). Et inversement les américains ont invité des soviétiques dans la navette spatiale.
 - L'assemblage de l'ISS a nécessité X EVA et ces sorties sont indispensables à la maintenance de la station.
@@ -147,8 +147,7 @@ Since Alexei Leonov first stepped outside, every EVA had included safety tethers
 
 The Soviets’ early-generation Salyut stations were workhorses of longstanding, but that meant they’d need maintenance if they were to keep on flying. In the summer of 1984, Svetlana Savitskaya and Vladimir Dzhanibekov tested one of the most important repair methods ever, welding and brazing metal samples in the vacuum of space. The experiment worked, the system was proven and Savitskaya, in the process, became the first woman to walk in space.
 
-Dec. 5, 1993: First Hubble Repair Mission
-Never was a simple exercise in equipment repair so closely watched as when the shuttle Endeavour made its service call on the nearsighted Hubble Space Telescope. The $2.5 billion orbiting observatory was launched with enormous hoopla and then badly underperformed—thanks to a warped mirror. But Endeavour arrived with a fix in hand, and astronauts Story Musgrave and Jeffrey Hoffman made a record-setting five spacewalks over five days to get the rehab work done. The EVAs were broadcast live to Earth and a global—if selective—audience watch the hypnotically slo-mo space surgery. The scenery was beautiful, the handiwork was delicate, and the payoff—more than 20 years of dazzling images—was well worth the effort.
+
 
 
 
