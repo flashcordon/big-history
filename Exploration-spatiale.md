@@ -16,6 +16,7 @@
 - [Spacewalk training](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Spacewalk_training) - ESA
 - [Preparing for Space: EVA Training at the European Astronaut Centre](https://www.esa.int/esapub/bulletin/bulletin128/bul128e_bolender.pdf) - ESA
 - [Sortie dans l’espace de Thomas Pesquet : une activité qui n'est pas sans risque](https://www.futura-sciences.com/sciences/actualites/thomas-pesquet-sortie-espace-thomas-pesquet-activite-nest-pas-risque-65866/) - Futura Science (2017)
+- [Skylab 2: First Repair Spacewalk](https://www.nasa.gov/feature/skylab-2-first-repair-spacewalk) - NASA
 
 ---
 
@@ -34,6 +35,15 @@ However, a defect in the capsule's hatch latching mechanism caused difficulties 
 
 On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work in space without tiring during Gemini XII, the last Gemini mission. Aldrin worked outside the spacecraft for 2 hours and 6 minutes, in addition to two stand-up EVAs in the spacecraft hatch for an additional 3 hours and 24 minutes. Aldrin's interest in scuba diving inspired the use of underwater EVA training to simulate weightlessness, which has been used ever since to allow astronauts to practice techniques of avoiding wasted muscle energy. 
 
+- Dans les années 70, les EVA réalisées à bord des stations Skylab (l'ancètre américain de l'ISS) et Mir (son anccètre soviétique) ont démontré que les astronautes pouvaient s'occuper de la maintenance et de la réparation d'une station spatiale.
+> the EVA to free Skylab’s jammed solar array played a key role in saving the program. 
+- À l'époque de la navette spatiale, de nombreuses EVA ont été réalisées pour capturer, réparer et redéployer des satellites endommagés.
+> Une vingtaine d'entre elles ont été réalisées sur le télescope spatial Hubble.
+
+Spacewalks during the Space Shuttle era demonstrated that astronauts during EVAs could capture, repair and redeploy satellites, test future refueling of spacecraft and evaluate assembly techniques. From the first EVA during STS-6 in 1983 to the last non-space station related Shuttle EVA during STS-125, the final Hubble Servicing Mission in 2009, astronauts completed 52 spacewalks, 23 of them dedicated to servicing the Hubble Space Telescope in the course of five missions. Cosmonauts aboard the Mir space station made extensive use of EVAs for construction, maintenance and scientific and technology research during 79 spacewalks over the facility’s 15-year orbital lifetime. Mir also hosted the first EVA by a non-Russian crewmember, Jean-Loup Chrétien from France in 1988.
+
+One of the stated objectives of the Shuttle-Mir Program, also known as Phase 1 of ISS, was for the United States and Russia to learn to work together as the two former adversaries prepared to jointly build and operate the space station. One arena where this was clearly demonstrated was in spacewalking. As Phase 1 progressed, astronauts living and working aboard Mir became more involved in the station’s operations, including conducting EVAs. On April 29, 1997, Jerry M. Linenger became the first American astronaut to perform an EVA in a Russian Orlan spacesuit with his Mir 23 commander Vasili V. Tsibliev. C. Michael Foale and David A. Wolfe added to that experience base with their Mir Orlan EVAs later that year. Foale became the first person to perform EVAs in both the US EMU and the Russian Orlan spacesuits. On Oct. 1, 1997, Scott E. Parazynski and Vladimir G. Titov performed the first joint US-Russian EMU EVA during STS-86 while Space Shuttle Atlantis was docked to Mir. Titov was also the first non-American to conduct a Shuttle-based EVA.
+
 - Depuis la sortie de Leonov, plus de 200 astronautes ont effecté des EVA, qui représente plus d'un millier d'heures cumulées passées dans l'espace.
 
 ## Autres premières
@@ -48,6 +58,7 @@ On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work 
 > * Cette mission avait pour but de préparer l’installation du module logistique italien Leonardo sur l'ISS.
 > * Les 2 astronautes ont effectué près de 6 tours complets de la Terre durant cette EVA.
 - Le cosmonaute Anatoly Solovyev a effectué ***le plus grand nombre d'EVA*** (16). Il a passé plus de temps en dehors d'un vaisseau que n'importe quel autre humain (plus de 3 jours cumulés).
+- La ***première EVA réalisée par un non-américain et un non-soviétique*** est le Jean-Loup Chrétien, le 9 Décembre 1988 à bord de la station Mir.
 
 ## Déroulement typique d'une EVA
 
@@ -104,7 +115,6 @@ Apollo 15 command module pilot Al Worden made an EVA on August 5, 1971, on the r
 China became the third country to independently carry out an EVA on September 27, 2008 during the Shenzhou 7 mission. Chinese astronaut Zhai Zhigang completed a spacewalk wearing the Chinese-developed Feitian space suit, with astronaut Liu Boming wearing the Russian-derived Orlan space suit to help him. Zhai completely exited the craft, while Liu stood by at the airlock, straddling the portal. 
 
 
-The first EVA by a non-Soviet, non-American was made on December 9, 1988, by Jean-Loup Chrétien of France during a three-week stay on the Mir space station.
 
 
 Compared to how often an astronaut performs other tasks, spacewalks are relatively rare. They're expensive, time-consuming and most of all dangerous. Astronauts usually operate robotic arms like the Canadian-built robotic arm — known as Canadarm2 — to remotely work in the harsh thermal vacuum of space. Occasionally, though, when robotics just won't do the trick, specially trained astronauts must venture outside of the spaceship to complete the task with human finesse.
@@ -130,11 +140,6 @@ Alan Shepard est devenu le 2e humain à voyager dans l’espace (Mercury 7)
 Assembly of the International Space Station (ISS) would not have been possible without the skilled work of dozens of astronauts and cosmonauts performing intricate tasks in bulky spacesuits in the harsh environment of space. Spacewalks, or extravehicular activities (EVAs), were indispensable to the assembly of ISS and today remain important to the continued maintenance of the world class laboratory in low Earth orbit.
 On June 3, 1965, astronaut Edward H. White opened the hatch to the Gemini 4 capsule and, as he floated out of the cabin, became the first American to walk in space. A few weeks earlier, on March 18, Soviet cosmonaut Aleksei A. Leonov took the world’s first spacewalk as he floated out of an airlock attached to his Voskhod 2 spacecraft. Although White’s 36-minute EVA appeared effortless, later spacewalkers in the Gemini Program found accomplishing actual work quite challenging.
 
-Spacewalks conducted aboard Skylab in the mid-1970s proved the value of spacesuited astronauts to carry out repairs and maintenance of the space station – indeed, the EVA to free Skylab’s jammed solar array played a key role in saving the program. 
-
-Spacewalks during the Space Shuttle era demonstrated that astronauts during EVAs could capture, repair and redeploy satellites, test future refueling of spacecraft and evaluate assembly techniques. From the first EVA during STS-6 in 1983 to the last non-space station related Shuttle EVA during STS-125, the final Hubble Servicing Mission in 2009, astronauts completed 52 spacewalks, 23 of them dedicated to servicing the Hubble Space Telescope in the course of five missions. Cosmonauts aboard the Mir space station made extensive use of EVAs for construction, maintenance and scientific and technology research during 79 spacewalks over the facility’s 15-year orbital lifetime. Mir also hosted the first EVA by a non-Russian crewmember, Jean-Loup Chrétien from France in 1988.
-
-One of the stated objectives of the Shuttle-Mir Program, also known as Phase 1 of ISS, was for the United States and Russia to learn to work together as the two former adversaries prepared to jointly build and operate the space station. One arena where this was clearly demonstrated was in spacewalking. As Phase 1 progressed, astronauts living and working aboard Mir became more involved in the station’s operations, including conducting EVAs. On April 29, 1997, Jerry M. Linenger became the first American astronaut to perform an EVA in a Russian Orlan spacesuit with his Mir 23 commander Vasili V. Tsibliev. C. Michael Foale and David A. Wolfe added to that experience base with their Mir Orlan EVAs later that year. Foale became the first person to perform EVAs in both the US EMU and the Russian Orlan spacesuits. On Oct. 1, 1997, Scott E. Parazynski and Vladimir G. Titov performed the first joint US-Russian EMU EVA during STS-86 while Space Shuttle Atlantis was docked to Mir. Titov was also the first non-American to conduct a Shuttle-based EVA.
 
 23 years passed between Leonov’s first daring venture into open space and the first EVA at ISS, during which time 171 spacewalks were completed in low Earth orbit, on the Moon and in deep space.
 
