@@ -29,8 +29,7 @@
 - La 2e EVA a été américaine, et a été réalisée le 3 Juin 1965 (à peine plus de 2 mois après celle de Leonov), par Ed White lors de la mission Gemini 4.
 > * White était attaché à son vaisseau par un cordon ombilical de plus de 7m (7,6m). Il pouvait contrôler ses mouvements dans l'espace à l'aide d'un petit propulseur manuel, le "Hand-Held Maneuvering Unit", surnommé "zip gun" à cause de sa forme de pistolet, et qui pouvait propulser White pendant 20 secondes. L'EVA a duré une vingtaine de minutes. L'expérience a laissé White euphorique : "Je me sens comme un million de dollars". Et lorsqu'il a du rentrer dans sa capsule, il a affirmé que c'était "le moment le plus triste de sa vie".
 > * [Vidéo de l'EVA d'Ed White](https://youtu.be/AM7qh7fk2JU)
-However, a defect in the capsule's hatch latching mechanism caused difficulties opening and closing the hatch, which delayed the start of the EVA and put White and his crewmate at risk of not getting back to Earth alive.
-- C'est l'astronaute Buzz Aldrin qui a démontré qu'il était possible de travailler dans l'espace sur des longues durées sans s'épuiser complètement, à l'occasion de la mission Gemini 12, le 13 Novembre 1966. 
+- L'astronaute Buzz Aldrin a démontré qu'il était possible de travailler dans l'espace sur des longues durées sans s'épuiser complètement, à l'occasion de la mission Gemini 12, le 13 Novembre 1966. 
 > C'est à cette occasion qu'il a pris le ["premier selfie spatial de l'histoire"](https://fr.wikipedia.org/wiki/Selfie_spatial#/media/Fichier:Buzz_Aldrin_self-photograph_during_Gemini_12_EVA_(S66-62926).jpg).
 - Dans les années 70, les EVA réalisées à bord des stations Skylab (l'ancètre américain de l'ISS) et Mir (son ancètre soviétique) ont démontré que les astronautes pouvaient s'occuper de la maintenance et de la réparation d'une station spatiale.
 > the EVA to free Skylab’s jammed solar array played a key role in saving the program. 
