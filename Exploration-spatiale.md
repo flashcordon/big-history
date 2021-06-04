@@ -10,6 +10,7 @@
 - [A brief history of spacewalks](https://www.popsci.com/brief-history-spacewalks) - Popular Science (2017)
 - [Extravehicular activity](https://en.wikipedia.org/wiki/Extravehicular_activity#First_spacewalk) - Wikipédia
 - [Steps in the Abyss: A History of Spacewalking (Infographic)](https://www.worldsciencefestival.com/infographics/steps-abyss-history-spacewalking-infographic/) - World Science Festival
+- [Sortie dans l'espace : record battu par Voss et Helms](https://www.sciencesetavenir.fr/espace/sortie-dans-l-espace-record-battu-par-voss-et-helms_31806) - Science et Avenir (2001)
 
 ---
 
@@ -22,7 +23,8 @@
 > * White était attaché à son vaisseau par un cordon ombilical de plus de 7m (7,6m). Il pouvait contrôler ses mouvements dans l'espace à l'aide d'un petit propulseur manuel, le "Hand-Held Maneuvering Unit", surnommé "zip gun" à cause de sa forme de pistolet, et qui pouvait propulser White pendant 20 secondes. L'EVA a duré une vingtaine de minutes. L'expérience a laissé White euphorique : "Je me sens comme un million de dollars". Et lorsqu'il a du rentrer dans sa capsule, il a affirmé que c'était "le moment le plus triste de sa vie".
 > * [Vidéo de l'EVA d'Ed White](https://youtu.be/AM7qh7fk2JU)
 However, a defect in the capsule's hatch latching mechanism caused difficulties opening and closing the hatch, which delayed the start of the EVA and put White and his crewmate at risk of not getting back to Earth alive.
-- C'est l'astronaute Buzz Aldrin qui a démontré qu'il était possible de travailler dans l'espace, à l'occasion de la mission Gemini XII, le 13 Novembre 1966. C'est à cette occasion qu'il a pris le "premier selfie spatial de l'histoire".
+- C'est l'astronaute Buzz Aldrin qui a démontré qu'il était possible de travailler dans l'espace, à l'occasion de la mission Gemini XII, le 13 Novembre 1966. 
+> C'est à cette occasion qu'il a pris le "premier selfie spatial de l'histoire".
 
 On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work in space without tiring during Gemini XII, the last Gemini mission. Aldrin worked outside the spacecraft for 2 hours and 6 minutes, in addition to two stand-up EVAs in the spacecraft hatch for an additional 3 hours and 24 minutes. Aldrin's interest in scuba diving inspired the use of underwater EVA training to simulate weightlessness, which has been used ever since to allow astronauts to practice techniques of avoiding wasted muscle energy. 
 
@@ -31,7 +33,9 @@ On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work 
 
 ## Records
 
-- Le record de ***la plus longue EVA*** est détenu par Susan Helms et James Voss, qui ont passé 8h56 dans l'espace le 11 Mars 2001.
+- Le record de ***la plus longue EVA*** de l'Histoire est détenu par Susan Helms et James Voss, qui ont passé 8h56 dans l'espace le 11 Mars 2001.
+> * Cette mission avait pour but de préparer l’installation du module logistique italien Leonardo sur l'ISS.
+> * Les 2 astronautes ont effectué près de 6 tours complets de la Terre durant cette EVA.
 - Le cosmonaute Anatoly Solovyev a effectué ***le plus grand nombre d'EVA*** (16). Il a passé plus de temps en dehors d'un vaisseau que n'importe quel autre humain (plus de 3 jours cumulés).
 
 ## Déroulement typique d'une EVA
@@ -131,8 +135,6 @@ The Soviets’ early-generation Salyut stations were workhorses of longstanding,
 Dec. 5, 1993: First Hubble Repair Mission
 Never was a simple exercise in equipment repair so closely watched as when the shuttle Endeavour made its service call on the nearsighted Hubble Space Telescope. The $2.5 billion orbiting observatory was launched with enormous hoopla and then badly underperformed—thanks to a warped mirror. But Endeavour arrived with a fix in hand, and astronauts Story Musgrave and Jeffrey Hoffman made a record-setting five spacewalks over five days to get the rehab work done. The EVAs were broadcast live to Earth and a global—if selective—audience watch the hypnotically slo-mo space surgery. The scenery was beautiful, the handiwork was delicate, and the payoff—more than 20 years of dazzling images—was well worth the effort.
 
-March 11, 2001: Longest Spacewalk in History
-The International Space Station (ISS) is easily one of history’s great assembly projects, with 15 modules, some the size of a bus, snapped together in a dragonfly configuration. When one of those modules has to be relocated to another spot on the spacecraft, the work can be painstaking. That’s what astronauts Susan Helms and James Voss learned when they ventured outside the ISS to prep the Multi-Purpose Logistics Module for a move, and didn’t step back inside for 8 hours and 56 minutes—a record that still stands. That is 5.95 laps around the world—or 148,900 miles logged—and one very big job completed.
 
 
 # Systèmes de support vie
