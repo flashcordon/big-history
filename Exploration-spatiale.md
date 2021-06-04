@@ -41,6 +41,7 @@
 - Les marches lunaires réalisées pendant les missions Apollo sont aussi des EVA.
 > Au cours de la mission Apollo 11, en Juilet 1969, Neil Armstrong et Buzz Aldrin ont passé 21h et 36 minutes sur la surface lunaire, dont moins de 2h et demi hors du module lunaire. 
 - Des EVA ont aussi été réalisées dans l'espace profond au cours des missions Apollo, afin de récupérer les boîtes de pellicules qui se trouvaient sur la coque du module de service et de commande.
+> [Vidéo de l'EVA de Ron Evans, de la mission Apollo 17](https://youtu.be/-mwfNAm4e9Y)
 - À l'époque de la navette spatiale, de nombreuses EVA ont été réalisées pour capturer, réparer et redéployer des satellites endommagés.
 > Une vingtaine d'entre elles ont été réalisées sur le télescope spatial Hubble. En effet, lorsque le télescope a été envoyé dans l'espace, les astronomes se sont vite rendus compte que les images qu'il produisait étaient floues, à cause d'une aberration sphérique sur son miroir primaire ! Le télescope de plus de 2 milliards de dollars était myope. En 1993, une mission habitée a été envoyée pour le réparer, à bord de la navette spatiale Endeavour. La mission a nécessité 5 EVA étalés sur 5 jours, et a été couronnée de succès.
 - Les EVA ont  aidé à solidifier la coopération international entre d'anciens états ennemis.
