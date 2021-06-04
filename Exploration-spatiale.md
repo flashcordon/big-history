@@ -18,6 +18,8 @@
 - [Sortie dans l’espace de Thomas Pesquet : une activité qui n'est pas sans risque](https://www.futura-sciences.com/sciences/actualites/thomas-pesquet-sortie-espace-thomas-pesquet-activite-nest-pas-risque-65866/) - Futura Science (2017)
 - [Skylab 2: First Repair Spacewalk](https://www.nasa.gov/feature/skylab-2-first-repair-spacewalk) - NASA
 - [Walking in the Void: 45 Years Since the Last Deep-Space EVA](https://www.americaspace.com/2017/12/17/walking-in-the-void-45-years-since-the-last-deep-space-eva/) - America in space
+- [Space to Ground 06/04/2021](https://twitter.com/Space_Station/status/1400814608793886720) - ISS Twitter (2021)
+- [Spacewalking cosmonauts will decommission an old space station module early Wednesday. Watch it live!](https://www.space.com/cosmonauts-space-station-spacewalk-expedition-65-webcast) - Space.com (2021)
 
 ---
 
@@ -103,7 +105,20 @@ Assembly and maintenance of the International Space Station has required nearly 
 
 ## La sortie de Thomas Pesquet (mission Alpha)
 
+Première mission dans l’espace entre le 17.11.2016 et le 02.06.2017 (196 jours) « Proxima » durant l’Expedition 50/51. Vaisseau Soyouz MS-03.
 
+2 sorties spatiales lors de la mission Proxima : EVA 39 (13.01.2017) et EVA 40 (24.03.2017) avec Shane Kimbrough
+
+The ISS 2B IROSA EVA is scheduled for Wednesday, June 16th.
+
+This week the first of three summer spacewalks took place
+Le 2 Juin 2021, Outside the International Space Station (ISS), Oleg Novitsky and Pyotr Dubrov have completed a near 7 hour extravehicular activity, or EVA/spacewalk, to finalize external preparations for the removal to the Pirs docking compartment that has served the Station for nearly 20 years.
+
+ils ont déconnecté tous les liens mécaniques externes entre le module et l'ISS
+Delivered in 2001, Pirs will be removed from the ISS no earlier than 17 July 2021 to make room for the new Nauka (le mot russe pour Science) science module on the Russian segment of the outpost.
+
+Dragon Ressuply mission 22
+a apporté le premier d'une paire de panneaux solaires qui seront placés sur l'ISS plus tard ce moins ci (quand ?)
 
 # Systèmes de support vie
 
