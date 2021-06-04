@@ -12,6 +12,9 @@
 - [Steps in the Abyss: A History of Spacewalking (Infographic)](https://www.worldsciencefestival.com/infographics/steps-abyss-history-spacewalking-infographic/) - World Science Festival
 - [Sortie dans l'espace : record battu par Voss et Helms](https://www.sciencesetavenir.fr/espace/sortie-dans-l-espace-record-battu-par-voss-et-helms_31806) - Science et Avenir (2001)
 - [Facts About Spacesuits and Spacewalking](https://www.nasa.gov/audience/foreducators/spacesuits/facts/index.html) - NASA
+- [Matthias Maurer EVA training](http://www.esa.int/ESA_Multimedia/Images/2019/04/Matthias_Maurer_EVA_training) - ESA
+- [Spacewalk training](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Spacewalk_training) - ESA
+- [Preparing for Space: EVA Training at the European Astronaut Centre](https://www.esa.int/esapub/bulletin/bulletin128/bul128e_bolender.pdf) - ESA
 
 ---
 
@@ -20,12 +23,13 @@
 - La ***première EVA de l'Histoire*** a été effectuée par le cosmonaute Alexei Leonov le 18 Mars 1965, lors de la mission Voskhod-2.
 > * L'EVA a duré 12 minutes (et 9 secondes). Tirer sur le cordon ombilical de plus de 15m qui le retenait à son vaisseau était le seul moyen pour Leonov de se déplacer dans l'espace. L'expérience n'a pas été agréable pour le cosmonaute : sa combinaison a tellement enflé dans le vide de l'espace qu'il a eu beaucoup de difficultés à bouger et à rentrer dans l'écoutille de son vaisseau pour revenir sur Terre, et sa température corporelle a tellement augmenté sous l'effort qu'elle l'a placé au bord de la crise cardiaque. Ces difficultés ont été dissimulées au grand public par l'Union Soviétique jusqu'à la fin de la Guerre froide (le direct télé et radio a notamment été coupé).
 > * [Vidéo de l'EVA d'Alexeï Leonov](https://youtu.be/c5ZtBhQQPjM)
-- La 2e EVA a été américaine, et a été réalisée le 3 Juin 1965 (à peine plus de 2 mois après celle de Leonov), par Ed White lors de la mission Gemini IV.
+- La 2e EVA a été américaine, et a été réalisée le 3 Juin 1965 (à peine plus de 2 mois après celle de Leonov), par Ed White lors de la mission Gemini 4.
 > * White était attaché à son vaisseau par un cordon ombilical de plus de 7m (7,6m). Il pouvait contrôler ses mouvements dans l'espace à l'aide d'un petit propulseur manuel, le "Hand-Held Maneuvering Unit", surnommé "zip gun" à cause de sa forme de pistolet, et qui pouvait propulser White pendant 20 secondes. L'EVA a duré une vingtaine de minutes. L'expérience a laissé White euphorique : "Je me sens comme un million de dollars". Et lorsqu'il a du rentrer dans sa capsule, il a affirmé que c'était "le moment le plus triste de sa vie".
 > * [Vidéo de l'EVA d'Ed White](https://youtu.be/AM7qh7fk2JU)
 However, a defect in the capsule's hatch latching mechanism caused difficulties opening and closing the hatch, which delayed the start of the EVA and put White and his crewmate at risk of not getting back to Earth alive.
-- C'est l'astronaute Buzz Aldrin qui a démontré qu'il était possible de travailler dans l'espace, à l'occasion de la mission Gemini XII, le 13 Novembre 1966. 
-> C'est à cette occasion qu'il a pris le "premier selfie spatial de l'histoire".
+- C'est l'astronaute Buzz Aldrin qui a démontré qu'il était possible de travailler dans l'espace, à l'occasion de la mission Gemini 12, le 13 Novembre 1966. 
+> C'est à cette occasion qu'il a pris le ["premier selfie spatial de l'histoire"](https://fr.wikipedia.org/wiki/Selfie_spatial#/media/Fichier:Buzz_Aldrin_self-photograph_during_Gemini_12_EVA_(S66-62926).jpg).
+- 
 
 On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work in space without tiring during Gemini XII, the last Gemini mission. Aldrin worked outside the spacecraft for 2 hours and 6 minutes, in addition to two stand-up EVAs in the spacecraft hatch for an additional 3 hours and 24 minutes. Aldrin's interest in scuba diving inspired the use of underwater EVA training to simulate weightlessness, which has been used ever since to allow astronauts to practice techniques of avoiding wasted muscle energy. 
 
@@ -51,6 +55,27 @@ On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work 
 - Pour réaliser une EVA, les astronautes de l'ISS doiven enfiler une combinaison spéciale appelée EMU, pour Extravehicular Mobile Unit.
 > Ces combinaisons fournissent une protection contre les micrométéorites (des cailloux de moins d’un gramme) qui peuvent atteindre des vitesses de 10 km/s. Elle protège aussi contre les variations extrêmes de températures de l’espace (de -150°C à plus de 120°C lors d'une exposition directe à la lumière du Soleil). Une telle protection nécessite 14 couches de matériaux (qui incluent le mylar, le néoprène, le nylon, le spandex et l’acier), ce qui permet pas une très grande mobilité en pratique.
 - Une EVA dure en général un peu plus de 6 heures, mais elles peuvent être étendues à plus de 8 heures si besoin.
+
+## Entraînement
+
+- Les astronautes s'entrainent aux EVA dans une gigantesque piscine.
+> Il y en a une à la NASA (le Neutral Buoyancy Lab au Johnson Space Center de Houston)
+> The giant pool is over 12 metres deep and features a full-scale mock-up of the International Space Station. It is used to train astronauts in the very precise and difficult task of making repairs or installing new equipment in the vacuum of space.
+
+To simulate microgravity underwater, astronauts are weighted down to minimise the buoyant force that would otherwise have them bopping back up to the surface. They must also work very slowly to compensate for the drag caused by water. 
+- Pour chaque heure passée en EVA, les astronautes s'entraînent environ 7 heures.
+
+The full spacewalk, or Extra Vehicular Activity (EVA), training for the ISS is traditionally done at NASA’s Neutral Buoyancy Laboratory (NBL) at the Johnson Space Center, Houston, Texas, and at the Gagarin Cosmonaut Training Center, in Russia.
+
+- Ils y répetent non seulement ce qu'ils doivent faire dans l'espace, mais ils se préparent aussi à tous types de scénarios imprévus.
+
+The principle used to simulate weightlessness in a huge tank of water is called 'neutral buoyancy'. A neutrally buoyant object neither floats nor sinks. For an astronaut to be neutrally buoyant in the water, the natural tendency to float or sink is counteracted by weights or flotation devices.
+Although it is not exactly the same as being weightless in space, astronauts and cosmonauts can practice in neutral buoyancy how to move large objects. You can still feel the pull of gravity while neutrally buoyant, and the drag of moving about through the water slows down your movements – but it is the closest you can get to microgravity on Earth.
+EAC created a so-called EVA pre-familiarisation training course, which is conducted at EAC's Neutral Buoyancy Facility (NBF). This programme teaches ESA astronauts basic EVA concepts and EVA skills such as tethering to the Station, use of special EVA tools, communication with an EVA crewmate as well as with the control room and how to keep full situational awareness in a complex and challenging environment.
+Neutral Buoyancy Facility at EAC in Cologne, Germany
+Astronauts get their first space-suited glimpse of the ISS not in the vacuum of space, but 40 feet (12 meters) underwater. Years before astronauts ever perform an EVA in space, they begin training in the Neutral Buoyancy Lab at NASA's Johnson Space Center in Houston — a 6 million gallon (22,700 metric tons) pool housing a submerged replica of the space station. 
+An astronaut trains for approximately 7 hours in the pool for every hour they might spend walking in space, according to NASA. Underwater, astronauts practice connecting electrical cables, removing broken equipment and everything else they'll be doing in space, all while learning how to work within the constricting suit.
+Most spacewalks are performed in pairs. (So far, there has been only one three-person EVA.) One astronaut is the lead spacewalker, responsible for keeping track of the cadence, safety and completion of the entire jaunt.
 
 Gene Cernan performed an arduous two-hour EVA during the Gemini IX-A mission in 1966. No one had yet realized the need for handholds and footholds to stabilize a spacewalking astronaut. The inability to gain leverage exhausted him. Without the stress of gravity, his heart rate became almost deadly—about 200 beats per minute.
 Cernan's EVA was fraught with problems, including an inadequate cooling system using air that caused his visor to fog up entirely. Sweat accumulated in the lower half of his spacesuit and amounted to 13 pounds of weight lost over the three-day mission. As a result, astronauts began wearing garments with interwoven tubes to circulate cool water close to their skin.
@@ -78,9 +103,6 @@ The first EVA by a non-Soviet, non-American was made on December 9, 1988, by Jea
 
 Compared to how often an astronaut performs other tasks, spacewalks are relatively rare. They're expensive, time-consuming and most of all dangerous. Astronauts usually operate robotic arms like the Canadian-built robotic arm — known as Canadarm2 — to remotely work in the harsh thermal vacuum of space. Occasionally, though, when robotics just won't do the trick, specially trained astronauts must venture outside of the spaceship to complete the task with human finesse.
 
-Astronauts get their first space-suited glimpse of the ISS not in the vacuum of space, but 40 feet (12 meters) underwater. Years before astronauts ever perform an EVA in space, they begin training in the Neutral Buoyancy Lab at NASA's Johnson Space Center in Houston — a 6 million gallon (22,700 metric tons) pool housing a submerged replica of the space station. 
-An astronaut trains for approximately 7 hours in the pool for every hour they might spend walking in space, according to NASA. Underwater, astronauts practice connecting electrical cables, removing broken equipment and everything else they'll be doing in space, all while learning how to work within the constricting suit.
-Most spacewalks are performed in pairs. (So far, there has been only one three-person EVA.) One astronaut is the lead spacewalker, responsible for keeping track of the cadence, safety and completion of the entire jaunt.
 
 Once in orbit, preparation for the spacewalk starts days before the space travelers go out into the void. Astronauts prepare for their ultimate home-improvement project by checking every part of their suit and their tools, making sure they're both assembled and tethered properly.
 About 24 hours before the spacewalk, astronauts undergo decompression, the same procedure divers follow when returning from the depths of the ocean to the surface of the water. Inside the space station, air is pressurized to the same degree as it is on Earth at sea level: 14.7 pounds per square inch, or 1 atmosphere. 
