@@ -19,6 +19,11 @@
 > * [Vidéo de l'EVA d'Alexeï Leonov](https://youtu.be/c5ZtBhQQPjM)
 - Depuis, plus de 200 astronautes ont effecté des EVA, qui représente plus d'un millier d'heures cumulées passées dans l'espace.
 
+## Déroulement typique d'une EVA
+
+- La plupart des EVA se font en équipe de 2, pour des raisons de sécurité.
+> Il n'y a eu qu'une seule EVA qui a été réalisée à 3. 
+
 March 11, 2001: Susan Helms and James S. Voss set the record for longest EVA. They were in space for eight hours and 56 minutes.
 Russian cosmonaut Anatoly Solovyev has spent more than three days on EVA missions. time outside a spacecraft than any other human. He’s performed 16 spacewalks—more than any other human.
 Peggy Whitson has done more spacewalks than any woman—and most other astronauts. The 200th I.S.S. spacewalk was her ninth
@@ -32,7 +37,6 @@ Bruce McCandless tested the Manned Maneuvering Unit during Space Shuttle mission
 Assembly and maintenance of the International Space Station has required nearly 1,000 EVA hours so far. 
 An invaluable tool for EVA work is the Canadarm2 on the International Space Station, much like the Canadarms located on each Space Shuttle. 
 
-For safety, astronauts always perform EVA work in pairs. 
 
 On the last three Moon missions astronauts also performed deep-space EVAs on the return to Earth, to retrieve film canisters from the outside of the spacecraft.
 pete worden?
