@@ -19,14 +19,16 @@
 > * [Vidéo de l'EVA d'Alexeï Leonov](https://youtu.be/c5ZtBhQQPjM)
 - Depuis, plus de 200 astronautes ont effecté des EVA, qui représente plus d'un millier d'heures cumulées passées dans l'espace.
 
+## Records
+
+- Le record de ***la plus longue EVA*** est détenu par Susan Helms et James Voss, qui ont passé 8h56 dans l'espace le 11 Mars 2001.
+- Le cosmonaute Anatoly Solovyev a effectué ***le plus grand nombre d'EVA*** (16). Il a passé plus de temps en dehors d'un vaisseau que n'importe quel autre humain (plus de 3 jours cumulés).
+
 ## Déroulement typique d'une EVA
 
 - La plupart des EVA se font en équipe de 2, pour des raisons de sécurité.
-> Il n'y a eu qu'une seule EVA qui a été réalisée à 3. 
+> Il n'y a eu qu'une seule EVA qui a été réalisée à 3. C'était le 13 Mai 1992, lors de la mission STS-49 qui signait le premier vol de la navette spatiale Endeavour. Elle a été réalisée par Pierre Thuot, Richard Hieb et Thomas Akers, dans le but de capturer et de réparer manuellement un satellite qui ne fonctionnait plus (Intelsat VI-F3).  
 
-March 11, 2001: Susan Helms and James S. Voss set the record for longest EVA. They were in space for eight hours and 56 minutes.
-Russian cosmonaut Anatoly Solovyev has spent more than three days on EVA missions. time outside a spacecraft than any other human. He’s performed 16 spacewalks—more than any other human.
-Peggy Whitson has done more spacewalks than any woman—and most other astronauts. The 200th I.S.S. spacewalk was her ninth
 As Leonov left the spacecraft, his spacesuit ballooned in the vacuum of space. He had to vent some air from the suit to fit back through the airlock, a risky procedure. As soon as this and other problems arose, television and radio broadcasts of the event ended, which left most on Earth in the dark about Leonov's situation. The world would not learn until much later about the malfunctions that nearly killed him and mission commander Pavel Belyayev.
 
 Vidéo Ed White EVA https://youtu.be/AM7qh7fk2JU 
@@ -52,9 +54,6 @@ On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work 
 Apollo 15 command module pilot Al Worden made an EVA on August 5, 1971, on the return trip from the Moon, to retrieve a film and data recording canister from the service module. 
 
 China became the third country to independently carry out an EVA on September 27, 2008 during the Shenzhou 7 mission. Chinese astronaut Zhai Zhigang completed a spacewalk wearing the Chinese-developed Feitian space suit, with astronaut Liu Boming wearing the Russian-derived Orlan space suit to help him. Zhai completely exited the craft, while Liu stood by at the airlock, straddling the portal. 
-
-The first three-person EVA was performed on May 13, 1992, as the third EVA of STS-49, the maiden flight of Endeavour.[11] Pierre Thuot, Richard Hieb, and Thomas Akers conducted the EVA to hand-capture and repair a non-functional Intelsat VI-F3 satellite. As of 2013 it was the only three-person EVA
-
 
 
 The first EVA by a non-Soviet, non-American was made on December 9, 1988, by Jean-Loup Chrétien of France during a three-week stay on the Mir space station.
