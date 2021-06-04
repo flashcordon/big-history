@@ -48,6 +48,7 @@
 > Elle a passé plus de 3 heures dans l'espace.
 - Elle a été suivie de près par Kathryn Sullivan, qui est devenue la ***première américaine à avoir effectué une EVA*** en Octobre 1984.
 - La ***première EVA réalisée par un non-américain et un non-soviétique*** a été réalisée par le français Jean-Loup Chrétien, le 9 Décembre 1988 à bord de la station Mir.
+- Le ***premier afro-américain à effectuer une EVA*** est Bernard Harris, en Février 1995.
 - Le ***premier français à avoir réalisé une EVA sur l'ISS*** est Philippe Perrin, au cours de la mission STS-111 en Juin 2002.
 - La ***première EVA exclusivement réalisée par des femmes*** a été réalisée en 2019, par Christina Koch et Jessica Meir.
 
@@ -114,10 +115,6 @@ China became the third country to independently carry out an EVA on September 27
 To perform spacewalks, astronauts don a bulky "Michelin Man" suit known as the Extravehicular Mobility Unit (EMU), which protects them from solar radiation, debris and extreme temperatures. While partaking in this high-altitude hike, the temperature of the surrounding environment can soar to as hot as 250 degrees Fahrenheit (120 degrees Celsius) in the sunlight and plummet to minus 250 F (minus 160 C) when the sun is out of sight.
 In case of emergency, such as an astronaut losing their tether to the spaceship, the spacesuit comes with a jet pack called SAFER (Simplified Aid for EVA Rescue), which the astronaut controls with a small joystick.
 Putting on the suit takes 45 minutes. The suit, which weighs 280 lbs. (130 kilograms) on Earth, is a marshmallowy ensemble of three major layers: The bladder that contains the oxygen, the restraint that provides the structure, and the thermal and micrometeoroid layer that provides protection from the environment. The suit also includes a Maximum Absorption Garment (MAG), which is essentially an adult diaper. After all, an EVA may take as long as 9 hours, and you never know when nature will call in the void of space.
-
-
-
-In February 1995, astronaut Bernard Harris became the first African American to perform a spacewalk. Harris dedicated his pioneering spacewalk "to all African-American achievements," the BBC reported. He also carried the flag of the Navajo Nation into space with him, to pay tribute to diverse cultures and highlight "their plight as the original Americans,"
 
 Bruce McCandless made the first untethered spacewalk as he flew about 300 feet from the shuttle in the first test of the Manned Maneuvering Unit on Feb. 7, 1984. 
 
