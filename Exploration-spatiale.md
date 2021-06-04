@@ -51,6 +51,11 @@ On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work 
 
 ## Déroulement typique d'une EVA
 
+- Une EVA se prépare plusieurs jours à l'avance dans l'ISS. Plusieurs jours durant lesquels les astronautes vérifient leur équipement et l'intégrité de leur EMU.
+- Quelques heures avant l'EVA, les astronautes font de l'exercice intense sur un vélo de l'espace, pour éliminer l'azote plus rapidement de leurs tissus, puis ils se placent dans un sas de décompression, et se mettent à respirer de l'oxygène pur pendant plusieurs heures, à une pression diminuée par rapport à la pression atmosphérique, afin de s'habituer à la pression de la combinaison. 
+> En terme de pression, c'est comme s'ils se trouvaient à 9 kilomètres d'altitude. 
+- Cette phase prend du temps afin d'éviter la "maladie de décompression" bien connue des plongeurs. 
+> Si cette phase de décompression est trop rapide, des bulles d'azote peuvent se former dans la circulation sanguine, et peuvent même la bloquer.
 - La plupart des EVA se font en équipe de 2, pour des raisons de sécurité.
 > Il n'y a eu qu'une seule EVA qui a été réalisée à 3. C'était le 13 Mai 1992, lors de la mission STS-49 qui signait le premier vol de la navette spatiale Endeavour. Elle a été réalisée par Pierre Thuot, Richard Hieb et Thomas Akers, dans le but de capturer et de réparer manuellement un satellite qui ne fonctionnait plus (Intelsat VI-F3).  
 - Pour réaliser une EVA, les astronautes de l'ISS doiven enfiler une combinaison spéciale appelée EMU, pour Extravehicular Mobile Unit.
@@ -104,8 +109,7 @@ The first EVA by a non-Soviet, non-American was made on December 9, 1988, by Jea
 
 Compared to how often an astronaut performs other tasks, spacewalks are relatively rare. They're expensive, time-consuming and most of all dangerous. Astronauts usually operate robotic arms like the Canadian-built robotic arm — known as Canadarm2 — to remotely work in the harsh thermal vacuum of space. Occasionally, though, when robotics just won't do the trick, specially trained astronauts must venture outside of the spaceship to complete the task with human finesse.
 
-- Une EVA se prépare plusieurs jours à l'avance dans l'ISS. Plusieurs jours durant lesquels les astronautes vérifient leur équipement et l'intégrité de leur EMU.
-- Quelques heures avant l'EVA, les astronautes font de l'exercice intense sur un vélo de l'espace, pour éliminer l'azote plus rapidement de leurs tissus, puis ils se placent dans un sas de décompression, et se mettent à respirer de l'oxygène pur pendant plusieurs heures, à une pression diminuée par rapport à la pression atmosphérique, afin de s'habituer à la pression de la combinaison. C'est comme s'ils se trouvaient à 9 kilomètres d'altitude. Cette phase prend du temps afin d'éviter la "maladie de décompression" bien connue des plongeurs. En effet, si cette phase de décompression est trop rapide, des bulles d'azote peuvent se former dans la circulation sanguine, et peuvent même la bloquer.
+
 
 To perform spacewalks, astronauts don a bulky "Michelin Man" suit known as the Extravehicular Mobility Unit (EMU), which protects them from solar radiation, debris and extreme temperatures. While partaking in this high-altitude hike, the temperature of the surrounding environment can soar to as hot as 250 degrees Fahrenheit (120 degrees Celsius) in the sunlight and plummet to minus 250 F (minus 160 C) when the sun is out of sight.
 In case of emergency, such as an astronaut losing their tether to the spaceship, the spacesuit comes with a jet pack called SAFER (Simplified Aid for EVA Rescue), which the astronaut controls with a small joystick.
