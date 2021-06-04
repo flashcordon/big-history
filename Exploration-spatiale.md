@@ -1,4 +1,4 @@
-# Une histoire des sorties extravéhiculaires
+# Les sorties extravéhiculaires
 
 *Sources*
 
@@ -17,6 +17,11 @@
 > Ce sont les EVA qui ont rendu possible la réparation du télescope spatial Hubble, la construction et la maintenance de l'ISS, ainsi que les marches lunaires des missions Apollo.
 - La première EVA a été effectuée par le cosmonaute Alexei Leonov en 1965
 > * [Vidéo de l'EVA d'Alexeï Leonov](https://youtu.be/c5ZtBhQQPjM)
+- La 2e EVA a été américaine, et a été réalisée le 3 Juin 1965 par Ed White lors de la mission Gemini IV.
+> * White était attaché à son vaisseau par un cordon ombilical de plus de 7m (7,6m). Il pouvait contrôler ses mouvements dans l'espace à l'aide d'un petit propulseur manuel, le "Hand-Held Maneuvering Unit", surnommé "zip gun" à cause de sa forme de pistolet, et qui pouvait propulser White pendant 20 secondes. L'EVA a duré 21 minutes.
+> * [Vidéo de l'EVA d'Ed White](https://youtu.be/AM7qh7fk2JU)
+However, a defect in the capsule's hatch latching mechanism caused difficulties opening and closing the hatch, which delayed the start of the EVA and put White and his crewmate at risk of not getting back to Earth alive.
+
 - Depuis, plus de 200 astronautes ont effecté des EVA, qui représente plus d'un millier d'heures cumulées passées dans l'espace.
 
 ## Records
@@ -31,7 +36,6 @@
 
 As Leonov left the spacecraft, his spacesuit ballooned in the vacuum of space. He had to vent some air from the suit to fit back through the airlock, a risky procedure. As soon as this and other problems arose, television and radio broadcasts of the event ended, which left most on Earth in the dark about Leonov's situation. The world would not learn until much later about the malfunctions that nearly killed him and mission commander Pavel Belyayev.
 
-Vidéo Ed White EVA https://youtu.be/AM7qh7fk2JU 
 Gene Cernan performed an arduous two-hour EVA during the Gemini IX-A mission in 1966. No one had yet realized the need for handholds and footholds to stabilize a spacewalking astronaut. The inability to gain leverage exhausted him. Without the stress of gravity, his heart rate became almost deadly—about 200 beats per minute.
 Cernan's EVA was fraught with problems, including an inadequate cooling system using air that caused his visor to fog up entirely. Sweat accumulated in the lower half of his spacesuit and amounted to 13 pounds of weight lost over the three-day mission. As a result, astronauts began wearing garments with interwoven tubes to circulate cool water close to their skin.
 The event also forced NASA to reevaluate EVA training and operational procedures to develop the knowledge and experience needed for the Apollo Moon landing program.
@@ -47,7 +51,6 @@ EVAs may be either tethered (the astronaut is connected to the spacecraft; oxyge
 The Soviet Union/Russia, the United States, Canada, the European Space Agency and China have conducted EVAs.
 The first EVA was performed on March 18, 1965, by Soviet cosmonaut Alexei Leonov, who spent 12 minutes and 9 seconds outside the Voskhod 2 spacecraft. Carrying a white metal backpack containing 45 minutes' worth of breathing and pressurization oxygen, Leonov had no means to control his motion other than pulling on his 15.35 m (50.4 ft) tether. After the flight, he claimed this was easy, but his space suit ballooned from its internal pressure against the vacuum of space, stiffening so much that he could not activate the shutter on his chest-mounted camera.[4]
 At the end of his space walk, the suit stiffening caused a more serious problem: Leonov had to re-enter the capsule through the inflatable cloth airlock, 1.2 m (3 ft 11 in) in diameter and 2.5 m (8 ft 2 in) long. He improperly entered the airlock head-first and got stuck sideways. He could not get back in without reducing the pressure in his suit, risking "the bends". This added another 12 minutes to his time in vacuum, and he was overheated by 1.8 °C (3.2 °F) from the exertion. It would be almost four years before the Soviets tried another EVA. They misrepresented to the press how difficult Leonov found it to work in weightlessness and concealed the problems encountered until after the end of the Cold War.[4][5]
-The first American spacewalk was performed on June 3, 1965, by Ed White from the second crewed Gemini flight, Gemini IV, for 21 minutes. White was tethered to the spacecraft, and his oxygen was supplied through a 25-foot (7.6 m) umbilical, which also carried communications and biomedical instrumentation. He was the first to control his motion in space with a Hand-Held Maneuvering Unit, which worked well but only carried enough propellant for 20 seconds. White found his tether useful for limiting his distance from the spacecraft but difficult to use for moving around, contrary to Leonov's claim.[4] However, a defect in the capsule's hatch latching mechanism caused difficulties opening and closing the hatch, which delayed the start of the EVA and put White and his crewmate at risk of not getting back to Earth alive.
 
 On November 13, 1966, Edwin "Buzz" Aldrin became the first to successfully work in space without tiring during Gemini XII, the last Gemini mission. Aldrin worked outside the spacecraft for 2 hours and 6 minutes, in addition to two stand-up EVAs in the spacecraft hatch for an additional 3 hours and 24 minutes. Aldrin's interest in scuba diving inspired the use of underwater EVA training to simulate weightlessness, which has been used ever since to allow astronauts to practice techniques of avoiding wasted muscle energy. 
 
@@ -95,8 +98,6 @@ Right: White during the first American EVA in June 1965.
 
 Assembly of the International Space Station (ISS) would not have been possible without the skilled work of dozens of astronauts and cosmonauts performing intricate tasks in bulky spacesuits in the harsh environment of space. Spacewalks, or extravehicular activities (EVAs), were indispensable to the assembly of ISS and today remain important to the continued maintenance of the world class laboratory in low Earth orbit.
 On June 3, 1965, astronaut Edward H. White opened the hatch to the Gemini 4 capsule and, as he floated out of the cabin, became the first American to walk in space. A few weeks earlier, on March 18, Soviet cosmonaut Aleksei A. Leonov took the world’s first spacewalk as he floated out of an airlock attached to his Voskhod 2 spacecraft. Although White’s 36-minute EVA appeared effortless, later spacewalkers in the Gemini Program found accomplishing actual work quite challenging.
-
-Les EVA incluent aussi les sorties sur la surface lunaire des astronautes des missions Apollo
 
 Spacewalks conducted aboard Skylab in the mid-1970s proved the value of spacesuited astronauts to carry out repairs and maintenance of the space station – indeed, the EVA to free Skylab’s jammed solar array played a key role in saving the program. 
 
