@@ -9,3 +9,4 @@
 
 - Y a t-il des dinosaures dans l'espace ? Selon des études récetes, c'est très probable.
 - Si la panspermie est une explication peu satisfaisante pour expliquer l'origine de la vie sur Terre, peut-elle être une hypothèse sérieuse pour considérer l'émergence de la vie ailleurs dans le système solaire ?
+- Se pourrait-il que l'on découvre un jour des ammonites sur la Lune ?
