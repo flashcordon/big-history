@@ -21,6 +21,7 @@
 - [Space to Ground 06/04/2021](https://twitter.com/Space_Station/status/1400814608793886720) - ISS Twitter (2021)
 - [Spacewalking cosmonauts will decommission an old space station module early Wednesday. Watch it live!](https://www.space.com/cosmonauts-space-station-spacewalk-expedition-65-webcast) - Space.com (2021)
 - [ISS Daily Summary Report – 6/03/2021](https://blogs.nasa.gov/stationreport/2021/06/03/iss-daily-summary-report-6-03-2021/) - ISS In-Orbit Status Report 
+- [Russian duo complete decommissioning of Pirs ahead of removal from Station](https://www.nasaspaceflight.com/2021/06/pirs-decommissioned-eva/) - NASA Spaceflight
 
 ---
 
@@ -120,6 +121,36 @@ Delivered in 2001, Pirs will be removed from the ISS no earlier than 17 July 202
 
 Dragon Ressuply mission 22
 a apporté le premier d'une paire de panneaux solaires qui seront placés sur l'ISS plus tard ce moins ci (quand ?)
+
+le module sera décommissionné par un cargo Progress plus tard dans l'année
+
+après le lancement de Nauka
+
+After the Nauka module arrives later this year, another spacewalk will reconnect the cables to Nauka’s rendezvous system to bring its docking port online.
+
+Work then continued with the cosmonaut duo removing a gap spanner between Pirs’ spacewalk ladder and Zvezda.  Once that task was complete, Pirs was considered “decommissioned” — the first ISS module to reach this status.
+
+With hatch closure, the two completed the sixth ISS EVA of the year at the International Space Station and the 238th spacewalk overall in support of the outpost.
+
+Spacewalk Elapsed Time of 7 hours 19 minutes.
+
+If all goes to plan, the module that will take Pirs’ docking place on the Station will launch no earlier than 15 July on a Proton rocket from the Baikonur Cosmodrome in Kazakhstan.  Once Nauka is safely in orbit and initial checkouts are performed and the health of the module is confirmed, Russian mission controllers will use the Progress MS-16 cargo craft to remove Pirs from the Station.
+
+The module’s removal will be a somewhat mirror of its arrival.  Launched with a modified Progress propulsion section, Pirs autonomously docked to the Zvezda service module’s nadir, or Earth-facing, port before the modified Progress propulsion unit undocked itself from Pirs and flew away.
+
+Now, the entire Progress MS-16 craft, which launched on 15 February 2021 and delivered thousands of kilograms of supplies to the Station, will be used to remove Pirs.  Instead of commanding the hooks connecting Progress to Pirs to retract, the docking hooks that have held Pirs to Zvezda for 20 years will be commanded to retract instead, and Progress will pull Pirs away from the Station as it leaves.
+
+In this way, Progress MS-16 will not undock from the Station, but rather Pirs will undock — with Progress MS-16 then maneuvering the still-mated pair away from the ISS before safely deorbiting the module for a destructive end-of-life plunge into Earth’s atmosphere.
+
+A few days later, Nauka will maneuver itself up to the ISS, rendezvous, and dock itself to the now-vacant port on Zvezda.
+
+Meanwhile, prior to Pirs’ departure and Nauka’s arrival, the seventh and eight EVAs of the year will occur later this month when European Space Agency astronaut Thomas Pesquet and NASA astronaut Shane Kimbrough conduct two spacewalks from the Quest airlock to install the first two IROSA, International Space Station Roll-Out Solar Arrays.
+
+The new arrays will boost the ISS’s power generation capability, which has naturally been decaying since the original set of eight solar array wings were delivered between December 2000 and March 2009 over the course of four Space Shuttle missions: STS-97/Endeavour, STS-115/Atlantis, STS-117/Atlantis, and STS-119/Discovery.
+
+In all, the six new arrays from Boeing, the first two sets of which are scheduled to launch no earlier than Thursday, 3 June on SpaceX’s CRS-22 mission of Cargo Dragon, will bring the ISS back to near-full power capacity and set the stage for a major scientific and physical expansion effort on the US-segment of the Station, which includes Japan, Europe, and Canada as well.
+
+The efforts on both sides of the Station mark the the most intense construction efforts on the outpost since initial US assembly of the ISS were completed by the STS-134/Endeavour crew exactly 10 years ago in June 2011 with the handoff of Endeavour’s Orbiter Boom Sensor System (OBSS) on the Orbiter’s 25th and final mission.
 
 # Systèmes de support vie
 
