@@ -22,6 +22,7 @@
 - [Spacewalking cosmonauts will decommission an old space station module early Wednesday. Watch it live!](https://www.space.com/cosmonauts-space-station-spacewalk-expedition-65-webcast) - Space.com (2021)
 - [ISS Daily Summary Report – 6/03/2021](https://blogs.nasa.gov/stationreport/2021/06/03/iss-daily-summary-report-6-03-2021/) - ISS In-Orbit Status Report 
 - [Russian duo complete decommissioning of Pirs ahead of removal from Station](https://www.nasaspaceflight.com/2021/06/pirs-decommissioned-eva/) - NASA Spaceflight
+- [Maladie de décompression](https://www.msdmanuals.com/fr/professional/blessures-empoisonnement/l%C3%A9sions-li%C3%A9es-%C3%A0-la-plong%C3%A9e-sous-marine-ou-au-travail-en-atmosph%C3%A8re-comprim%C3%A9e/maladie-de-d%C3%A9compression) - Le Manuel MSD 
 
 ---
 
@@ -37,7 +38,7 @@
 > * Durant les 2 EVA réalisées pendant sa mission (5h20 combinées), Aldrin a cartographié les étoiles autour de lui et a récupéré un collecteur de micrométéorites.
 > * C'est à cette occasion qu'il a pris le ["premier selfie spatial de l'histoire"](https://fr.wikipedia.org/wiki/Selfie_spatial#/media/Fichier:Buzz_Aldrin_self-photograph_during_Gemini_12_EVA_(S66-62926).jpg).
 - Dans les années 70, les EVA réalisées à bord des stations Skylab (l'ancètre américain de l'ISS) et Mir (son ancètre soviétique) ont démontré que les astronautes pouvaient s'occuper de la maintenance et de la réparation d'une station spatiale.
-> the EVA to free Skylab’s jammed solar array played a key role in saving the program. 
+> the EVA to free Skylab’s jammed solar array played a key role in saving the program. to save the station due to the loss of the micrometeoroid shield torn away during launch and the failure of the solar arrays to deploy. the micrometeoroid shield was missing as was one of the solar arrays while the other was only partly deployed, held down by debris from the torn shield. Conrad and Kerwin climbed back inside Skylab after 3 hours and 25 minutes, the longest spacewalk in Earth orbit to date.  The success of this repair EVA enabled NASA to plan with confidence the rest of the Skylab program that in terms of the amount and quality of research results obtained far exceeded preflight expectations. 
 - Les marches lunaires réalisées pendant les missions Apollo sont aussi des EVA.
 > Au cours de la mission Apollo 11, en Juilet 1969, Neil Armstrong et Buzz Aldrin ont passé 21h et 36 minutes sur la surface lunaire, dont moins de 2h et demi hors du module lunaire. 
 - Des EVA ont aussi été réalisées dans l'espace profond au cours des missions Apollo, afin de récupérer les boîtes de pellicules qui se trouvaient sur la coque du module de service et de commande.
@@ -77,8 +78,8 @@
 - Une EVA se prépare plusieurs jours à l'avance dans l'ISS. Plusieurs jours durant lesquels les astronautes vérifient leur équipement et l'intégrité de leur EMU.
 - Quelques heures avant l'EVA, les astronautes font de l'exercice intense sur un vélo de l'espace, pour éliminer l'azote plus rapidement de leurs tissus, puis ils se placent dans un sas de décompression, et se mettent à respirer de l'oxygène pur pendant plusieurs heures, à une pression diminuée par rapport à la pression atmosphérique, afin de s'habituer à la pression de la combinaison. 
 > En terme de pression, c'est comme s'ils se trouvaient à 9 kilomètres d'altitude. 
-- Cette phase prend du temps afin d'éviter la "maladie de décompression" bien connue des plongeurs. 
-> Si cette phase de décompression est trop rapide, des bulles d'azote peuvent se former dans la circulation sanguine, et peuvent même la bloquer.
+- Cette phase prend du temps afin d'éviter la "maladie de décompression" ("the bends") bien connue des plongeurs. 
+> Si cette phase de décompression est trop rapide, des bulles d'azote peuvent se former dans la circulation sanguine, et peuvent même la bloquer. Les symptômes typiques comprennent des douleurs croissantes dans les articulations et/ou des symptômes neurologiques. Les symptômes graves associent convulsions, troubles de l'élocution, perte visuelle, confusion et coma. La mort peut en résulter.
 - La plupart des EVA se font en équipe de 2, pour des raisons de sécurité. L'un d'entre eux est le "lead spacewalker" : ce dernier est responsable de la sécurité et de l'accomplissement de la mission.
 > Il n'y a eu qu'une seule EVA qui a été réalisée à 3. C'était le 13 Mai 1992, lors de la mission STS-49 qui signait le premier vol de la navette spatiale Endeavour. Elle a été réalisée par Pierre Thuot, Richard Hieb et Thomas Akers, dans le but de capturer et de réparer manuellement un satellite qui ne fonctionnait plus (Intelsat VI-F3).  
 - Pour réaliser une EVA, les astronautes de l'ISS doiven enfiler une combinaison spéciale de 130 kilos appelée EMU, pour "Extravehicular Mobile Unit".
