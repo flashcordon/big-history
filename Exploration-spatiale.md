@@ -30,9 +30,12 @@
 > * White était attaché à son vaisseau par un cordon ombilical de plus de 7m (7,6m). Il pouvait contrôler ses mouvements dans l'espace à l'aide d'un petit propulseur manuel, le "Hand-Held Maneuvering Unit", surnommé "zip gun" à cause de sa forme de pistolet, et qui pouvait propulser White pendant 20 secondes. L'EVA a duré une vingtaine de minutes. L'expérience a laissé White euphorique : "Je me sens comme un million de dollars". Et lorsqu'il a du rentrer dans sa capsule, il a affirmé que c'était "le moment le plus triste de sa vie".
 > * [Vidéo de l'EVA d'Ed White](https://youtu.be/AM7qh7fk2JU)
 - L'astronaute Buzz Aldrin a démontré qu'il était possible de travailler dans l'espace sur des longues durées sans s'épuiser complètement, à l'occasion de la mission Gemini 12, le 13 Novembre 1966. 
-> C'est à cette occasion qu'il a pris le ["premier selfie spatial de l'histoire"](https://fr.wikipedia.org/wiki/Selfie_spatial#/media/Fichier:Buzz_Aldrin_self-photograph_during_Gemini_12_EVA_(S66-62926).jpg).
+> * Durant les 2 EVA réalisées pendant sa mission (5h20 combinées), Aldrin a cartographié les étoiles autour de lui et a récupéré un collecteur de micrométéorites.
+> * C'est à cette occasion qu'il a pris le ["premier selfie spatial de l'histoire"](https://fr.wikipedia.org/wiki/Selfie_spatial#/media/Fichier:Buzz_Aldrin_self-photograph_during_Gemini_12_EVA_(S66-62926).jpg).
 - Dans les années 70, les EVA réalisées à bord des stations Skylab (l'ancètre américain de l'ISS) et Mir (son ancètre soviétique) ont démontré que les astronautes pouvaient s'occuper de la maintenance et de la réparation d'une station spatiale.
 > the EVA to free Skylab’s jammed solar array played a key role in saving the program. 
+- Les marches lunaires réalisées pendant les missions Apollo sont aussi des EVA.
+> Au cours de la mission Apollo 11, en Juilet 1969, Neil Armstrong et Buzz Aldrin ont passé 21h et 36 minutes sur la surface lunaire, dont moins de 2h et demi hors du module lunaire. 
 - Des EVA ont aussi été réalisées dans l'espace profond au cours des missions Apollo, afin de récupérer les boîtes de pellicules qui se trouvaient sur la coque du module de service et de commande.
 - À l'époque de la navette spatiale, de nombreuses EVA ont été réalisées pour capturer, réparer et redéployer des satellites endommagés.
 > Une vingtaine d'entre elles ont été réalisées sur le télescope spatial Hubble. En effet, lorsque le télescope a été envoyé dans l'espace, les astronomes se sont vite rendus compte que les images qu'il produisait étaient floues, à cause d'une aberration sphérique sur son miroir primaire ! Le télescope de plus de 2 milliards de dollars était myope. En 1993, une mission habitée a été envoyée pour le réparer, à bord de la navette spatiale Endeavour. La mission a nécessité 5 EVA étalés sur 5 jours, et a été couronnée de succès.
@@ -46,13 +49,15 @@
 ## Autres premières
 
 - La ***première femme à avoir effectué une EVA*** est la soviétique Svetlana Savitskaya, en 1984 (soit près de 20 and après Leonov)
-> Elle a passé plus de 3 heures dans l'espace.
+> Durant son EVA (qui a duré un peu plus de 3h), elle a démontré qu'il était possible de souder du métal dans l'espace.
 - Elle a été suivie de près par Kathryn Sullivan, qui est devenue la ***première américaine à avoir effectué une EVA*** en Octobre 1984.
 - La ***première EVA réalisée par un non-américain et un non-soviétique*** a été réalisée par le français Jean-Loup Chrétien, le 9 Décembre 1988 à bord de la station Mir.
 - Le ***premier afro-américain à effectuer une EVA*** est Bernard Harris, en Février 1995.
 - Le ***premier français à avoir réalisé une EVA sur l'ISS*** est Philippe Perrin, au cours de la mission STS-111 en Juin 2002.
 - Le ***premier chinois à effectuer une EVA*** est Zhai Zhigang, le 27 Septembre 2008.
 - La ***première EVA exclusivement réalisée par des femmes*** a été réalisée en 2019, par Christina Koch et Jessica Meir.
+- La ***première EVA réalisée sans être attaché à son vaisseau spatial*** a été réalisée le 7 Février 1984 par l'américain Bruce McCandless, qui au cours de la mission STS-41-B s'est éloigné dans le vide spatial, à près d'une centaine de mètres de la navette spatiale Challenger, à l'aide de son MMU. 
+> Il devient alors le "premier homme-satellite".
 
 ## Records
 
@@ -71,8 +76,8 @@
 > Si cette phase de décompression est trop rapide, des bulles d'azote peuvent se former dans la circulation sanguine, et peuvent même la bloquer.
 - La plupart des EVA se font en équipe de 2, pour des raisons de sécurité. L'un d'entre eux est le "lead spacewalker" : ce dernier est responsable de la sécurité et de l'accomplissement de la mission.
 > Il n'y a eu qu'une seule EVA qui a été réalisée à 3. C'était le 13 Mai 1992, lors de la mission STS-49 qui signait le premier vol de la navette spatiale Endeavour. Elle a été réalisée par Pierre Thuot, Richard Hieb et Thomas Akers, dans le but de capturer et de réparer manuellement un satellite qui ne fonctionnait plus (Intelsat VI-F3).  
-- Pour réaliser une EVA, les astronautes de l'ISS doiven enfiler une combinaison spéciale appelée EMU, pour Extravehicular Mobile Unit.
-> Ces combinaisons fournissent une protection contre les micrométéorites (des cailloux de moins d’un gramme) qui peuvent atteindre des vitesses de 10 km/s. Elle protège aussi contre les variations extrêmes de températures de l’espace (de -150°C à plus de 120°C lors d'une exposition directe à la lumière du Soleil). Une telle protection nécessite 14 couches de matériaux (qui incluent le mylar, le néoprène, le nylon, le spandex et l’acier), ce qui permet pas une très grande mobilité en pratique.
+- Pour réaliser une EVA, les astronautes de l'ISS doiven enfiler une combinaison spéciale de 130 kilos appelée EMU, pour "Extravehicular Mobile Unit".
+> Ces combinaisons fournissent une protection contre les rayonnements solaires, ainsi que les micrométéorites (des cailloux de moins d’un gramme) et autres débris spatiaux, qui peuvent atteindre des vitesses de 10 km/s. Elle protège aussi contre les variations extrêmes de températures de l’espace (de -150°C dans el noir à plus de 120°C lors d'une exposition directe à la lumière du Soleil). Une telle protection nécessite 14 couches de matériaux (qui incluent le mylar, le néoprène, le nylon, le spandex et l’acier), ce qui permet pas une très grande mobilité en pratique. Enfiler un EMU prend 45 minutes.
 - Une EVA dure en général un peu plus de 6 heures, mais elles peuvent être étendues à plus de 8 heures si besoin.
 - Au cours d'une EVA, un astronaute est attaché par un cordon ombilical qui lui apporte de l'oxygène et de la puissance électrique.
 > 3 missions se sont déroulées sans cordon ombilical, notamment pour tester des systèmes de propulsion autonomes, comme le Manned Maneuvering Unit (MMU) et sa version simplifiée, le Simplified Aid For EVA Rescue (SAFER). Mais le MMU a fini par être jugé trop dangereux, et il a été retiré de service.
@@ -101,35 +106,9 @@ Cernan's EVA was fraught with problems, including an inadequate cooling system u
 The event also forced NASA to reevaluate EVA training and operational procedures to develop the knowledge and experience needed for the Apollo Moon landing program.
 Bruce McCandless tested the Manned Maneuvering Unit during Space Shuttle mission STS 41-B in 1984. Although the unit had few operational uses, this photo of McCandless as the first human "satellite" became one of the most reproduced of the shuttle program.
 Assembly and maintenance of the International Space Station has required nearly 1,000 EVA hours so far. 
-An invaluable tool for EVA work is the Canadarm2 on the International Space Station, much like the Canadarms located on each Space Shuttle. 
-
-To perform spacewalks, astronauts don a bulky "Michelin Man" suit known as the Extravehicular Mobility Unit (EMU), which protects them from solar radiation, debris and extreme temperatures. While partaking in this high-altitude hike, the temperature of the surrounding environment can soar to as hot as 250 degrees Fahrenheit (120 degrees Celsius) in the sunlight and plummet to minus 250 F (minus 160 C) when the sun is out of sight.
-In case of emergency, such as an astronaut losing their tether to the spaceship, the spacesuit comes with a jet pack called SAFER (Simplified Aid for EVA Rescue), which the astronaut controls with a small joystick.
-Putting on the suit takes 45 minutes. The suit, which weighs 280 lbs. (130 kilograms) on Earth, is a marshmallowy ensemble of three major layers: The bladder that contains the oxygen, the restraint that provides the structure, and the thermal and micrometeoroid layer that provides protection from the environment. The suit also includes a Maximum Absorption Garment (MAG), which is essentially an adult diaper. After all, an EVA may take as long as 9 hours, and you never know when nature will call in the void of space.
-
-Bruce McCandless made the first untethered spacewalk as he flew about 300 feet from the shuttle in the first test of the Manned Maneuvering Unit on Feb. 7, 1984. 
-
-23 years passed between Leonov’s first daring venture into open space and the first EVA at ISS, during which time 171 spacewalks were completed in low Earth orbit, on the Moon and in deep space.
-
-During STS-96, the second assembly mission in May 1999, Tamara E. “Tammy” Jernigan became the first of many women to perform an EVA at ISS.
-
 
 
 Luca S. Parmitano, the first astronaut representing the Italian Space Agency to conduct an EVA at ISS, and his fellow Expedition 36 crewmember Christopher J. Cassidy began US EVA23, their second EVA together, on July 16, 2013, without incident. Forty-four minutes into the EVA, as the two crewmembers worked on their individual tasks at different locations on ISS, Parmitano reported feeling water at the back of his head. Mission Control advised them to halt their activities as they devised a plan of action. Cassidy came to Parmitano’s side to assess the situation, at first believing that a leaking drink bag inside the suit was the source of the water. But as Parmitano indicated that the amount of water was increasing, Mission Control advised them to terminate the EVA, directing Parmitano to head back to the airlock and Cassidy to clean up any tools and then follow his crewmate back to the airlock. As Parmitano began translating back toward the airlock, the water continued to increase, migrating from the back of his head, filling his ears so he had difficulty hearing communications and eventually obscuring his vision and interfering with breathing. He made his way back to the airlock mostly by memory and feel, and after Cassidy joined him inside they repressurized the module. Expedition 36 crewmates Karen L. Nyberg and Fyodor N. Yurchikhin helped Parmitano quickly remove his helmet and towel off the estimated 1 to 1.5 liters of water. Later investigation indicated that contamination on a filter caused blockage in the suit’s water separator. Although Parmitano faced a potentially life-threatening situation, his calm response along with quick decisions by the team in Mission Control resolved the crisis successfully. He later joked during an in-flight press conference that he “experience what it was like to be a goldfish in a fishbowl from the point of view of the goldfish.”
-
-
-
-The astronaut who was destined to become the second man on the moon made a smaller but no less relevant kind of history aboard Gemini 4, when he at last proved that spacewalking could be done efficiently and productively. Aldrin exited his spacecraft three times—twice for stand-up EVAs in which he remained partly inside—and once for more than two hours during a full, tethered walk. He took photographs, studied and mapped stars and picked up a micrometeorite sample collector. His combined 5 hours and 20 minutes of EVA blew the doors off of existing records.
-
-History forgets the paradoxical smallness of the first lunar landing. Neil Armstrong and Buzz Aldrin were on the lunar surface for just 21 hours and 36 minutes. Their moonwalk—a solid-ground EVA—lasted less than two and a half hours.
-
-February 7, 1984: First Untethered Spacewalk
-Since Alexei Leonov first stepped outside, every EVA had included safety tethers to keep the astronauts from floating away. But in 1984, astronaut Bruce McCandless eased himself away from the shuttle Challenger, steering about with the aid of a 300-lb. jetpack known in NASA-speak as the Manned Maneuvering Unit—or MMU. McCandless floated more than the equivalent of a football field away and if he felt any vertigo, he was entitled. Held aloft by nothing but physics, he could look down and see the Earth rolling by at four miles per second.
-
-The Soviets’ early-generation Salyut stations were workhorses of longstanding, but that meant they’d need maintenance if they were to keep on flying. In the summer of 1984, Svetlana Savitskaya and Vladimir Dzhanibekov tested one of the most important repair methods ever, welding and brazing metal samples in the vacuum of space. The experiment worked, the system was proven and Savitskaya, in the process, became the first woman to walk in space.
-
-
-
 
 
 # Systèmes de support vie
