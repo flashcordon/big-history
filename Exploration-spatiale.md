@@ -17,6 +17,7 @@
 - [Preparing for Space: EVA Training at the European Astronaut Centre](https://www.esa.int/esapub/bulletin/bulletin128/bul128e_bolender.pdf) - ESA
 - [Sortie dans l’espace de Thomas Pesquet : une activité qui n'est pas sans risque](https://www.futura-sciences.com/sciences/actualites/thomas-pesquet-sortie-espace-thomas-pesquet-activite-nest-pas-risque-65866/) - Futura Science (2017)
 - [Skylab 2: First Repair Spacewalk](https://www.nasa.gov/feature/skylab-2-first-repair-spacewalk) - NASA
+- [Walking in the Void: 45 Years Since the Last Deep-Space EVA](https://www.americaspace.com/2017/12/17/walking-in-the-void-45-years-since-the-last-deep-space-eva/) - America in space
 
 ---
 
@@ -33,6 +34,7 @@ However, a defect in the capsule's hatch latching mechanism caused difficulties 
 > C'est à cette occasion qu'il a pris le ["premier selfie spatial de l'histoire"](https://fr.wikipedia.org/wiki/Selfie_spatial#/media/Fichier:Buzz_Aldrin_self-photograph_during_Gemini_12_EVA_(S66-62926).jpg).
 - Dans les années 70, les EVA réalisées à bord des stations Skylab (l'ancètre américain de l'ISS) et Mir (son ancètre soviétique) ont démontré que les astronautes pouvaient s'occuper de la maintenance et de la réparation d'une station spatiale.
 > the EVA to free Skylab’s jammed solar array played a key role in saving the program. 
+- Des EVA ont aussi été réalisées dans l'espace profond au cours des missions Apollo, afin de récupérer les boîtes de pellicules qui se trouvaient sur la coque du module de service et de commande.
 - À l'époque de la navette spatiale, de nombreuses EVA ont été réalisées pour capturer, réparer et redéployer des satellites endommagés.
 > Une vingtaine d'entre elles ont été réalisées sur le télescope spatial Hubble.
 - Les EVA ont  aidé à solidifier la coopération international entre d'anciens états ennemis.
@@ -47,6 +49,7 @@ However, a defect in the capsule's hatch latching mechanism caused difficulties 
 - Elle a été suivie de près par Kathryn Sullivan, qui est devenue la ***première américaine à avoir effectué une EVA*** en Octobre 1984.
 - La ***première EVA réalisée par un non-américain et un non-soviétique*** a été réalisée par le français Jean-Loup Chrétien, le 9 Décembre 1988 à bord de la station Mir.
 - Le ***premier français à avoir réalisé une EVA sur l'ISS*** est Philippe Perrin, au cours de la mission STS-111 en Juin 2002.
+- La ***première EVA exclusivement réalisée par des femmes*** a été réalisée en 2019, par Christina Koch et Jessica Meir.
 
 ## Records
 
@@ -70,9 +73,8 @@ However, a defect in the capsule's hatch latching mechanism caused difficulties 
 
 ## Entraînement
 
-- Les astronautes s'entrainent aux EVA dans une gigantesque piscine.
-> Il y en a une à la NASA (le Neutral Buoyancy Lab au Johnson Space Center de Houston)
-> The giant pool is over 12 metres deep and features a full-scale mock-up of the International Space Station. It is used to train astronauts in the very precise and difficult task of making repairs or installing new equipment in the vacuum of space.
+- Pour s'entraîner aux tâches qu'ils vont réaliser dans l'espace, les astronautes s'entrainent dans une gigantesque piscine qu'on appelle une "installation de flottabilité neutre".
+> L'installation principale de ce type est le Neutral Buoyancy Lab, qui se trouve au Johnson Space Center de Houston (Texas). Il s'agit d'une piscine de plus de 12m de profondeur qui contient une réplique à échelle 1:1 de l'ISS.
 
 To simulate microgravity underwater, astronauts are weighted down to minimise the buoyant force that would otherwise have them bopping back up to the surface. They must also work very slowly to compensate for the drag caused by water. 
 - Pour chaque heure passée en EVA, les astronautes s'entraînent environ 7 heures.
@@ -97,13 +99,9 @@ Assembly and maintenance of the International Space Station has required nearly 
 An invaluable tool for EVA work is the Canadarm2 on the International Space Station, much like the Canadarms located on each Space Shuttle. 
 
 
-On the last three Moon missions astronauts also performed deep-space EVAs on the return to Earth, to retrieve film canisters from the outside of the spacecraft.
-pete worden?
+
 
 EVAs may be either tethered (the astronaut is connected to the spacecraft; oxygen and electrical power can be supplied through an umbilical cable; no propulsion is needed to return to the spacecraft), or untethered. Untethered spacewalks were only performed on three missions in 1984 using the Manned Maneuvering Unit (MMU), and on a flight test in 1994 of the Simplified Aid For EVA Rescue (SAFER), a safety device worn on tethered U.S. EVAs.
-
-
-Apollo 15 command module pilot Al Worden made an EVA on August 5, 1971, on the return trip from the Moon, to retrieve a film and data recording canister from the service module. 
 
 China became the third country to independently carry out an EVA on September 27, 2008 during the Shenzhou 7 mission. Chinese astronaut Zhai Zhigang completed a spacewalk wearing the Chinese-developed Feitian space suit, with astronaut Liu Boming wearing the Russian-derived Orlan space suit to help him. Zhai completely exited the craft, while Liu stood by at the airlock, straddling the portal. 
 
@@ -121,7 +119,7 @@ Putting on the suit takes 45 minutes. The suit, which weighs 280 lbs. (130 kilog
 
 
 In February 1995, astronaut Bernard Harris became the first African American to perform a spacewalk. Harris dedicated his pioneering spacewalk "to all African-American achievements," the BBC reported. He also carried the flag of the Navajo Nation into space with him, to pay tribute to diverse cultures and highlight "their plight as the original Americans,"
-In 2019, NASA astronauts Christina Koch and Jessica Meir became the first pair of women to carry out a spacewalk together, replacing a failed power controller for the orbiting laboratory.
+
 Bruce McCandless made the first untethered spacewalk as he flew about 300 feet from the shuttle in the first test of the Manned Maneuvering Unit on Feb. 7, 1984. 
 
 La première combi spatiale a été inventée il y a plus d’un siècle, en 1918 par l’inventeur Fred Samples
