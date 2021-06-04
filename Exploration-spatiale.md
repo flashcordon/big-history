@@ -39,6 +39,7 @@
 - Les EVA ont  aidé à solidifier la coopération international entre d'anciens états ennemis.
 > Dans les années 90, on a envoyé des astronautes américains sur la station Mir effectuer des EVA dans des combinaisons soviétiques (Orlan). Et inversement les américains ont invité des soviétiques dans la navette spatiale.
 - L'assemblage de l'ISS a nécessité X EVA et ces sorties sont indispensables à la maintenance de la station.
+> La première EVA d'assemblage de l'ISS a été réalisée le 7 Décembre 1988, au cours de la mission STS-88. Au cours de celle-ci, les astronautes Jerry Ross et James Newman ont connecté des cables électriques entre les 2 premiers modules de la station : Zarya et Unity.
 - Depuis la sortie de Leonov, plus de 200 astronautes ont effecté des EVA, qui représente plus d'un millier d'heures cumulées passées dans l'espace.
 - À ce jour, les seules puissances à avoir envoyé des astronautes réaliser des EVA sont la Russie, les Etats-Unis, le Canada, l'Europe et la Chine.
 
@@ -54,7 +55,7 @@
 
 ## Records
 
-- Le record de ***la plus longue EVA*** de l'Histoire est détenu par Susan Helms et James Voss, qui ont passé 8h56 dans l'espace le 11 Mars 2001.
+- Le record de ***la plus longue EVA*** de l'Histoire est détenu par Susan Helms et James Voss, qui ont passé 8h56 dans l'espace le 11 Mars 2001, au cours de la mission Expedition 2.
 > * Cette mission avait pour but de préparer l’installation du module logistique italien Leonardo sur l'ISS.
 > * Les 2 astronautes ont effectué près de 6 tours complets de la Terre durant cette EVA.
 - Le cosmonaute Anatoly Solovyev a effectué ***le plus grand nombre d'EVA*** (16). Il a passé plus de temps en dehors d'un vaisseau que n'importe quel autre humain (plus de 3 jours cumulés).
@@ -118,17 +119,10 @@ Putting on the suit takes 45 minutes. The suit, which weighs 280 lbs. (130 kilog
 
 Bruce McCandless made the first untethered spacewalk as he flew about 300 feet from the shuttle in the first test of the Manned Maneuvering Unit on Feb. 7, 1984. 
 
-La première combi spatiale a été inventée il y a plus d’un siècle, en 1918 par l’inventeur Fred Samples
-
-Alan Shepard est devenu le 2e humain à voyager dans l’espace (Mercury 7)
-
 23 years passed between Leonov’s first daring venture into open space and the first EVA at ISS, during which time 171 spacewalks were completed in low Earth orbit, on the Moon and in deep space.
-
-Astronauts Jerry L. Ross and James H. Newman conducted the first ISS EVA on Dec. 7, 1988, during the STS-88 mission to connect electrical and data cables between the station’s first two modules, Zarya and Unity. 
 
 During STS-96, the second assembly mission in May 1999, Tamara E. “Tammy” Jernigan became the first of many women to perform an EVA at ISS.
 
-On March 10, 2001, Expedition 2 astronauts James S. Voss and Susan J. Helms conducted a spacewalk during STS-102 that at 8 hours and 56 minutes still stands as the longest EVA in history. 
 
 
 Luca S. Parmitano, the first astronaut representing the Italian Space Agency to conduct an EVA at ISS, and his fellow Expedition 36 crewmember Christopher J. Cassidy began US EVA23, their second EVA together, on July 16, 2013, without incident. Forty-four minutes into the EVA, as the two crewmembers worked on their individual tasks at different locations on ISS, Parmitano reported feeling water at the back of his head. Mission Control advised them to halt their activities as they devised a plan of action. Cassidy came to Parmitano’s side to assess the situation, at first believing that a leaking drink bag inside the suit was the source of the water. But as Parmitano indicated that the amount of water was increasing, Mission Control advised them to terminate the EVA, directing Parmitano to head back to the airlock and Cassidy to clean up any tools and then follow his crewmate back to the airlock. As Parmitano began translating back toward the airlock, the water continued to increase, migrating from the back of his head, filling his ears so he had difficulty hearing communications and eventually obscuring his vision and interfering with breathing. He made his way back to the airlock mostly by memory and feel, and after Cassidy joined him inside they repressurized the module. Expedition 36 crewmates Karen L. Nyberg and Fyodor N. Yurchikhin helped Parmitano quickly remove his helmet and towel off the estimated 1 to 1.5 liters of water. Later investigation indicated that contamination on a filter caused blockage in the suit’s water separator. Although Parmitano faced a potentially life-threatening situation, his calm response along with quick decisions by the team in Mission Control resolved the crisis successfully. He later joked during an in-flight press conference that he “experience what it was like to be a goldfish in a fishbowl from the point of view of the goldfish.”
