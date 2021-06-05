@@ -222,3 +222,16 @@ Yesterday, I received confirmation from the laboratory at the University of Calg
 - De nos jours, ces manuscrits sont entreposés dans les archives de l'université de l'Illinois et ils ont été numérisés !
 - Vous pouvez notamment consulter ces pages, qui détaillent la recette de la pierre philosophale façon Newton.
 - Si vous en faites un tuto par ici, faites moi signe ! ;)
+
+# Les planétariums pour animaux
+
+*Sources*
+
+- [Ducks, Geese and Swans: General chapters, species accounts](https://books.google.fr/books?id=MfrdBcKd79wC&pg=PA130&lpg=PA130&dq=goose+planetarium+experiment&source=bl&ots=RX0Z7jlXkH&sig=ACfU3U3o3SphGR6Qh_5KQ3-r8qiqZkyYiA&hl=fr&sa=X&ved=2ahUKEwiq4aHDmIDxAhUEAWMBHYF2CLAQ6AEwGnoECBUQAw#v=onepage&q=goose%20planetarium%20experiment&f=false) 
+- [How animals follow the stars](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5805938/) 
+- [The Basics: How Birds Navigate When They Migrate](https://www.allaboutbirds.org/news/the-basics-migration-navigation/)
+- [How ducks navigate](https://www.ducks.org/conservation/waterfowl-research-science/how-ducks-navigate) - Tina Yerkes
+
+- phoques
+
+---
