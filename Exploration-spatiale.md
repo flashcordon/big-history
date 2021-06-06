@@ -175,15 +175,16 @@ The efforts on both sides of the Station mark the the most intense construction 
 - [Life Support Systems Sustaining Humans Beyond Earth](https://www.nasa.gov/content/life-support-systems) - NASA
 - [Comment SpaceX s’est fait une place dans l’aérospatiale](https://www.lemonde.fr/les-decodeurs/article/2018/02/07/comment-spacex-s-est-fait-une-place-dans-l-aerospatial_5253404_4355770.html) - Le Monde (2018)
 - [International Space Station](https://en.wikipedia.org/wiki/International_Space_Station) - Wikipedia
+- [Advanced Closed Loop System](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Advanced_Closed_Loop_System) - ESA
+- Life support systems for humans in space - Erik Seedhouse (2020)
 
 ---
 
-- Ravitailler une station spatiale depuis la Terre est coûteux (combien ?). D'où l'intérêt de rendre le système de suport vie de l'ISS le plus durable et le plus régénératf possible.
->  Envoyer un kilogramme de matériel dans l'espace à bord d'une Falcon 9 de Space X coûte à l'heure actuelle entre 4 700 à 12 600 dollars, et à bord d'une Ariane 5 d'Arianegroup cela représente entre 8 300 et 18 700 dollars.
-- Pour des missions de longue durée, comme celles qui sont prévues pour la Lunar Gateway ou des missions martiennes, il faudra des systèmes de support vie bien plus régénératifs que maintenant, parce que ces installations seront trop éloignées pour être ravitaillées souvent.
+- Un système de support de vie doit fournir aux astronautes un environnement viable avec de l'air, de l'eau et de la nourriture en qualité et en quantité suffisante, mais doit aussi assurer le maintien d'une température et d'une pression acceptable, apporter une protection suffisante contre les agressions extérieures tels les rayonnements spatiaux ou les micro-météorites, ainsi que la gestion et le recyclage des déchets. 
 - Le premier système de support vie était destiné à Laika, la chienne envoyée à bord de Spoutnik 2 le 3 Novembre 1957.
 > Malheureusement, un disfonctionnement du système de contrôle thermique a créé des conditions infernales pour Laika, qui est morte de chaud après 5 heures passées en orbite terrestre.
 - Depuis le début de l'ère spatiale et jusqu'aux missions des navettes spatiales, les premiers systèmes de support vie étaient très peu régénératifs et étaient destinés à être utilisés une seule fois ou pour des séjours de courte durée (84 jours maximum sur Skylab). Ce n'est que depuis la construction de l'ISS que les ingénieurs se sont mis à réfléchir à des moyens d'étendre la durabilité des systèmes de support vie, parce que la station était sensée durer au moins 2 décennies.
+- Pour des missions de longue durée, comme celles qui sont prévues pour la Lunar Gateway ou des missions martiennes, il faudra des systèmes de support vie bien plus régénératifs que maintenant, parce que ces installations seront trop éloignées pour être ravitaillées souvent.
 
 ## L'ECLSS
 
@@ -196,6 +197,8 @@ The efforts on both sides of the Station mark the the most intense construction 
 - En Septembre 2018, un démonstrateur technologique nommé ACS (Advanced Closed Loop System) a été installé dans le module Destiny de l'ISS, et il est utilisé en complément de l'OGS depuis. Cette grosse étagère transforme une partie du CO2 expiré par les astronautes en eau et en oxygène. Il représente une amélioration significative des capacités régénératives du système de support vie.
 > * La moitié du CO2 récupérée par l'ACLS peut produire l'intégralité des besoins en oxygène pour 3 personnes.
 > * L'ACLS permet à l'ISS d'économiser près de 400 L d'eau par an, 400 L qui ne devront pas être réapprovisionnées depuis la Terre.
+- Ravitailler une station spatiale depuis la Terre est coûteux. D'où l'intérêt de rendre le système de suport vie de l'ISS le plus durable et le plus régénératf possible.
+>  Envoyer un kilogramme de matériel dans l'espace à bord d'une Falcon 9 de Space X coûte à l'heure actuelle entre 4 700 à 12 600 dollars, et à bord d'une Ariane 5 d'Arianegroup cela représente entre 8 300 et 18 700 dollars.
 -  Cela fait plus de 20 ans que le système de support vie de l'ISS est graduellement amélioré pour "fermer la boucle" et augmenter ses capacités de régénération de ses sous-systèmes ainsi que leur durée de vie.
 - De nos jours, l'ECLSS est considéré comme fermé à près de 93%.
 > Pour un voyage vers Mars, il faudrait un système de support vie fermé à plus de 98%
