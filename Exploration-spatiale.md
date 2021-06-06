@@ -1,3 +1,9 @@
+# Configuration de l'ISS
+
+*(Source : [NASA / Wikipedia](https://en.wikipedia.org/wiki/International_Space_Station#/media/File:ISS_configuration_2019-08_en.svg))*
+
+![ISSconfig](https://i.imgur.com/f54z0MY.png) 
+
 # Les sorties extravéhiculaires
 
 *Sources*
