@@ -170,18 +170,13 @@ The efforts on both sides of the Station mark the the most intense construction 
 
 ---
 
-The Environmental Control and Life Support System (ECLSS) for the International
-Space Station (ISS) includes some subsystems that are regenerative and some that
-are non-regenerative. Since a primary goal is to close the loop on the ECLSS, the
-aim has always been to increase the regenerative capabilities of these subsystems.
-During the 20 plus years the ISS has been orbiting Earth, there has been a gradual
-and steady increase in the closure of these subsystems
+-  À bord de l'ISS, le système de support vie s'appelle l'ECLSS (Environmental Control and Life Support System). Il est composé de plusieurs sous-systèmes. Certains de ses sous-systèmes sont régénératifs, tandis que d'autres non.
+-  Cela fait plus de 20 ans que le système de support vie de l'ISS est graduellement amélioré pour "fermer la boucle" et augmenter ses capacités de régénération de ses sous-systèmes ainsi que leur durée de vie.
+- De nos jours, l'ECLSS est considéré comme fermé à près de 93%.
+> Pour un voyage vers Mars, il faudrait un système de support vie fermé à plus de 98%
 
-As of 2020, the ISS ECLSS is classified as a partially closed LSS with a closure of
-93 percent. According to NASA’s website, there is no question of embarking on a
-trip to Mars until that number is closer to 98 or 99 percent. But it’s not just a case
-of closing the loop. Engineers must also look at ways of enhancing LSS capability
-and extending the life of current subsystems.
+
+The Environmental Control and Life Support System (ECLSS) is a system of regenerative life support hardware that provides clean air and water to the International Space Station (ISS) crew and laboratory animals through artificial means. 
 
 The ISS International Partners provide various ECLSS components within their
 modules, but not every module is fitted with a complete suite of LSS subsystems.
@@ -213,7 +208,6 @@ significantly. The ISS would require at least 20 years of continuous operation,
 which meant engineers had to try to develop ways of increasing the closure of
 the ISS life support system.
 
-The Environmental Control and Life Support System (ECLSS) is a system of regenerative life support hardware that provides clean air and water to the International Space Station (ISS) crew and laboratory animals through artificial means. 
 
 The ECLSS consists of two key components, the Water Recovery System (WRS) and the Oxygen Generation System (OGS). The WRS provides clean water by recycling crewmember urine, cabin humidity condensate, and Extra Vehicular Activity (EVA) wastes. The reclaimed water must meet stringent purity standards before it can be utilized to support the crew, laboratory animals, EVA, and payload activities. The WRS consists of a Urine Processor Assembly (UPA) and a Water Processor Assembly (WPA). The system was delivered to ISS on STS-126 on November 14, 2008, with the UPA activated on November 20, 2008, and the WPA activated on November 22, 2008.
 
