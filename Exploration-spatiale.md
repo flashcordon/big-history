@@ -170,16 +170,13 @@ The efforts on both sides of the Station mark the the most intense construction 
 
 ---
 
--  À bord de l'ISS, le système de support vie s'appelle l'ECLSS (Environmental Control and Life Support System). Il est composé de plusieurs sous-systèmes. Certains de ses sous-systèmes sont régénératifs, tandis que d'autres non.
+-  À bord de l'ISS, le système de support vie s'appelle l'ECLSS (Environmental Control and Life Support System). Il fournit un air pur et de l'eau poptable à l'équipage de l'ISS. Il contrôle aussi la pression atmosphérique, gère le traitement des déchets et permet de détecter et d'éteindre des départs de feux.
+-  L'ECLSS est composé de plusieurs sous-systèmes. Certains de ses sous-systèmes sont régénératifs, tandis que d'autres non.
+> Ses composants principaux sont le Water Recovery System (WRS), qui transforme l'urine et la transpiration des astronautes ainsi que la condensation ambiante en eau potable et l'Oxygen Generation System (OGS), situé dans le module Destiny, qui produit de l'oxygène par électrolyse de l'eau et remplace l'oxygène perdu lors des expériences ou des dépressurisations de sas.
 -  Cela fait plus de 20 ans que le système de support vie de l'ISS est graduellement amélioré pour "fermer la boucle" et augmenter ses capacités de régénération de ses sous-systèmes ainsi que leur durée de vie.
 - De nos jours, l'ECLSS est considéré comme fermé à près de 93%.
 > Pour un voyage vers Mars, il faudrait un système de support vie fermé à plus de 98%
 
-
-The Environmental Control and Life Support System (ECLSS) is a system of regenerative life support hardware that provides clean air and water to the International Space Station (ISS) crew and laboratory animals through artificial means. 
-
-The ISS International Partners provide various ECLSS components within their
-modules, but not every module is fitted with a complete suite of LSS subsystems.
 
 The ACLS (. Fig. 5.14), which is currently operating as a technology test and
 demonstrator, represents a significant step forward in regenerative LSS. It can process
@@ -209,13 +206,9 @@ which meant engineers had to try to develop ways of increasing the closure of
 the ISS life support system.
 
 
-The ECLSS consists of two key components, the Water Recovery System (WRS) and the Oxygen Generation System (OGS). The WRS provides clean water by recycling crewmember urine, cabin humidity condensate, and Extra Vehicular Activity (EVA) wastes. The reclaimed water must meet stringent purity standards before it can be utilized to support the crew, laboratory animals, EVA, and payload activities. The WRS consists of a Urine Processor Assembly (UPA) and a Water Processor Assembly (WPA). The system was delivered to ISS on STS-126 on November 14, 2008, with the UPA activated on November 20, 2008, and the WPA activated on November 22, 2008.
-
-The OGS produces oxygen for breathing air, as well as replaces oxygen lost as a result of experiment use, airlock depressurization, module leakage, and carbon dioxide venting. 
 
 Prior to the ISS, the life support systems on the Mercury, Gemini, and Apollo spacecraft in the 1960s were designed to be used once and discarded. The U.S. had limited experience with long duration crewed flights with the exception of Skylab, a space station adapted from the third stage of a Saturn V rocket. Skylab consisted of three missions in 1973 and 1974 lasting twenty-eight, fifty-nine, and eighty-four days, respectively. The ECLSS on Skylab featured stored water and oxygen, a regenerable molecular sieve for carbon dioxide and humidity removal, and fire detectors using ultraviolet light detection. Unlike earlier spacecraft, the Space Shuttle was a reusable vehicle. Although it incorporated some advances in its life support system, it still relied heavily on the use of consumables. Systems that relied heavily on consumables limited the time crew could remain in space and required continual, expensive launches of fresh supplies of water, oxygen, and expendable life support equipment.
 
-The International Space Station Environmental Control and Life Support System (ECLSS) is a life support system that provides or controls atmospheric pressure, fire detection and suppression, oxygen levels, waste management and water supply. The highest priority for the ECLSS is the ISS atmosphere, but the system also collects, processes, and stores waste and water produced and used by the crew—a process that recycles fluid from the sink, shower, toilet, and condensation from the air.
 
 Other by-products of human metabolism, such as methane from flatulence and ammonia from sweat, are removed by activated charcoal filters or by the Trace Contaminant Control System (TCCS).
 
@@ -225,7 +218,6 @@ Several systems are currently used on board the ISS to maintain the spacecraft's
 
 Carbon dioxide and trace contaminants are removed by the Air Revitalization System. This is a NASA rack, placed in Tranquility, designed to provide a Carbon Dioxide Removal Assembly (CDRA), a Trace Contaminant Control Subassembly (TCCS) to remove hazardous trace contamination from the atmosphere and a Major Constituent Analyser (MCA) to monitor nitrogen, oxygen, carbon dioxide, methane, hydrogen, and water vapour.
 
-The Oxygen Generating System (OGS) is a NASA rack designed to electrolyse water from the Water Recovery System to produce oxygen and hydrogen. The oxygen is delivered to the cabin atmosphere. The unit is installed in the Destiny module. 
 
 The Advanced Closed Loop System (ACLS) is an ESA rack that converts carbon dioxide into oxygen and water. This is very different from the NASA oxygen-generating rack that is reliant on a steady supply of water from Earth in order to generate oxygen. This water-producing capability will save the need to launch an extra 400 liters of water in cargo resupply per year. 50% of the carbon dioxide that it processes can be converted to oxygen and by itself it can make enough oxygen full-time for 3 astronauts. The other 50% of carbon dioxide is jettisoned from the ISS along with the methane that is created. The ACLS is a great complement to the NASA oxygen-generating rack. The ACLS is a technology demonstrator but if it is successful it will be left onboard the ISS permanently. It was delivered on the Kounotori 7 launch in September 2018 and installed in the Destiny module
 
