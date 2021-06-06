@@ -170,88 +170,6 @@ The efforts on both sides of the Station mark the the most intense construction 
 
 ---
 
-The Environmental Control and Life Support System (ECLSS) is a system of regenerative life support hardware that provides clean air and water to the International Space Station (ISS) crew and laboratory animals through artificial means. 
-
-The ECLSS consists of two key components, the Water Recovery System (WRS) and the Oxygen Generation System (OGS). The WRS provides clean water by recycling crewmember urine, cabin humidity condensate, and Extra Vehicular Activity (EVA) wastes. The reclaimed water must meet stringent purity standards before it can be utilized to support the crew, laboratory animals, EVA, and payload activities. The WRS consists of a Urine Processor Assembly (UPA) and a Water Processor Assembly (WPA). The system was delivered to ISS on STS-126 on November 14, 2008, with the UPA activated on November 20, 2008, and the WPA activated on November 22, 2008.
-
-The OGS produces oxygen for breathing air, as well as replaces oxygen lost as a result of experiment use, airlock depressurization, module leakage, and carbon dioxide venting. 
-
-Prior to the ISS, the life support systems on the Mercury, Gemini, and Apollo spacecraft in the 1960s were designed to be used once and discarded. The U.S. had limited experience with long duration crewed flights with the exception of Skylab, a space station adapted from the third stage of a Saturn V rocket. Skylab consisted of three missions in 1973 and 1974 lasting twenty-eight, fifty-nine, and eighty-four days, respectively. The ECLSS on Skylab featured stored water and oxygen, a regenerable molecular sieve for carbon dioxide and humidity removal, and fire detectors using ultraviolet light detection. Unlike earlier spacecraft, the Space Shuttle was a reusable vehicle. Although it incorporated some advances in its life support system, it still relied heavily on the use of consumables. Systems that relied heavily on consumables limited the time crew could remain in space and required continual, expensive launches of fresh supplies of water, oxygen, and expendable life support equipment.
-
-The International Space Station Environmental Control and Life Support System (ECLSS) is a life support system that provides or controls atmospheric pressure, fire detection and suppression, oxygen levels, waste management and water supply. The highest priority for the ECLSS is the ISS atmosphere, but the system also collects, processes, and stores waste and water produced and used by the crew—a process that recycles fluid from the sink, shower, toilet, and condensation from the air.
-
-Other by-products of human metabolism, such as methane from flatulence and ammonia from sweat, are removed by activated charcoal filters or by the Trace Contaminant Control System (TCCS).
-
-The Urine Processor Assembly uses a low pressure vacuum distillation process that uses a centrifuge to compensate for the lack of gravity and thus aid in separating liquids and gasses.[6] The Urine Processor Assembly is designed to handle a load of 9 kg/day, corresponding to the needs of a 6-person crew.[3] Although the design called for recovery of 85% of the water content, subsequent experience with calcium sulfate precipitation[4] (in the free-fall conditions present on the ISS, calcium levels in urine are elevated due to bone density loss) has led to a revised operational level of recovering 70% of the water content. 
-
-Several systems are currently used on board the ISS to maintain the spacecraft's atmosphere, which is similar to the Earth's.[7] Normal air pressure on the ISS is 101.3 kPa (14.7 psi); the same as at sea level on Earth. 
-
-Carbon dioxide and trace contaminants are removed by the Air Revitalization System. This is a NASA rack, placed in Tranquility, designed to provide a Carbon Dioxide Removal Assembly (CDRA), a Trace Contaminant Control Subassembly (TCCS) to remove hazardous trace contamination from the atmosphere and a Major Constituent Analyser (MCA) to monitor nitrogen, oxygen, carbon dioxide, methane, hydrogen, and water vapour.
-
-The Oxygen Generating System (OGS) is a NASA rack designed to electrolyse water from the Water Recovery System to produce oxygen and hydrogen. The oxygen is delivered to the cabin atmosphere. The unit is installed in the Destiny module. 
-
-The Advanced Closed Loop System (ACLS) is an ESA rack that converts carbon dioxide into oxygen and water. This is very different from the NASA oxygen-generating rack that is reliant on a steady supply of water from Earth in order to generate oxygen. This water-producing capability will save the need to launch an extra 400 liters of water in cargo resupply per year. 50% of the carbon dioxide that it processes can be converted to oxygen and by itself it can make enough oxygen full-time for 3 astronauts. The other 50% of carbon dioxide is jettisoned from the ISS along with the methane that is created. The ACLS is a great complement to the NASA oxygen-generating rack. The ACLS is a technology demonstrator but if it is successful it will be left onboard the ISS permanently. It was delivered on the Kounotori 7 launch in September 2018 and installed in the Destiny module
-
-Elektron is a Russian Electrolytic Oxygen Generator, which was also used on Mir. It uses electrolysis to produce oxygen. This process splits water molecules reclaimed from other uses on board the station into oxygen and hydrogen via electrolysis. The oxygen is vented into the cabin and the hydrogen is vented into space. The three Russian Elektron oxygen generators on board the International Space Station have been plagued with problems, frequently forcing the crew to use backup sources 
-
-The 10-tonne spacecraft is carrying ESA’s new Advanced Closed Loop System that will recycle carbon dioxide on the Space Station into oxygen. Currently oxygen on the Space Station is extracted from water that has to be brought from Earth, a costly and limiting drawback. The new system promises to recycle half of the carbon dioxide thereby saving about 400 l of water sent to the Space Station each year.
-
-Sustainable life-support systems are needed for longer missions such as to the lunar gateway that is the next structure to be built by the partners of the International Space Station. The gateway will serve as a staging post for missions to the Moon and even Mars, destinations too far away for regular ferry supplies.                                              
-The Advanced Closed Loop System hardware is part of ESA’s goal to create a closed life-support system, including water recovery and food production, to support astronauts in space indefinitely without costly supplies from Earth.
-    
-## Le projet MELiSSA
-
-- MELiSSA, pour Micro-Ecological Life Support System Alternative, est un projet de l'ESA lancé en 1988 et toujours à l'étude. Il est porté par l'Université de Barcelone (Espagne)
- 
-»» We are creating an artificial ecosystem which uses micro-organisms to process the
-waste so that we can grow plants. At the bottom is sludge (raw waste) which undergoes
-anaerobic (without oxygen) fermentation in darkness. Higher up there’s light
-but no oxygen. Higher still there’s oxygen and it’s possible to transform ammonia to
-nitrate. At the surface, there’s carbon dioxide, oxygen and light. This is where higher
-plants can thrive.
-Christophe Lasseur, scientist of the MELiSSA Project team
-
-MELiSSA, aka the Micro-Ecological Life Support System Alternative, is a project of
-the European Space Agency (ESA) and is located at the University of Barcelona in
-Catalonia, Spain. The endeavor began in 1988 and has been active ever since [7, 8].
-The general model is based on the waste loop cycle of a natural lake ecosystem
-
-In such a system, each output is converted into a new input, thanks to the natural
-processes occurring in the lake. These processes take place, thanks to the interaction
-of organisms such as bacteria, fungi, and algae. These processes are
-replicated in the MELiSSA system
-
-One of the first goals of the endeavor was the identification of bacterial strains,
-because each compartment requires specific bacteria for the system to work effectively.
-It was a difficult task, as deploying the wrong bacteria could result in imbalances
-in the system. Another challenge was genetic evolution. Bear in mind that the
-planned LSS will be used for years. In that time, bacteria can evolve in a way that
-could change the stability of the system.
-
-Once scientists begin to resolve the problems of growing plants on the ground
-inside a terrestrial closed LSS, those experiments must be replicated in space. That
-is because, as discussed before, physicochemical and biological processes are
-affected in microgravity. Another reason these experiments must be flown in space
-is because of the radiation environment. Terrestrial plants are happy living in an
-environment that is exposed to just 2 mSv per year, but what happens when these
-plants and bacteria are exposed to 80 times that dose? [12] To answer these questions,
-the MELiSSA program flew the rotating wall vessel and random positioning
-machine on board the ISS.
-Ground and Space Demonstration
-Following promising results from those experiments, the BIORAT (a misnomer,
-because the experiment will fly mice, not rats!) experiment will be flown on ISS.
-
-The BIORAT is a testbed for the engineering principles that will be required for a
-full-scale closed LSS. Obviously it makes sense to test such a system on a small
-scale first, so the BIORAT will comprise a simple ecosystem that will house small
-test animals – mice in this case. The focus of BIORAT will be on two of the loops
-in the MELiSSA system: the photosynthetic reactor and the consumer compartment.
-In this test, carbon dioxide produced by the mice will be consumed by algae
-(Spirulina) in the photosynthetic process, thereby resulting in the production of
-oxygen. During the test, variables such as lighting, gas transfer, and oxygen production
-will be controlled and growth of Spirulina will be modified using different
-light intensities.
-
 The Environmental Control and Life Support System (ECLSS) for the International
 Space Station (ISS) includes some subsystems that are regenerative and some that
 are non-regenerative. Since a primary goal is to close the loop on the ECLSS, the
@@ -294,6 +212,47 @@ the advent of the International Space Station (ISS), design drivers changed
 significantly. The ISS would require at least 20 years of continuous operation,
 which meant engineers had to try to develop ways of increasing the closure of
 the ISS life support system.
+
+The Environmental Control and Life Support System (ECLSS) is a system of regenerative life support hardware that provides clean air and water to the International Space Station (ISS) crew and laboratory animals through artificial means. 
+
+The ECLSS consists of two key components, the Water Recovery System (WRS) and the Oxygen Generation System (OGS). The WRS provides clean water by recycling crewmember urine, cabin humidity condensate, and Extra Vehicular Activity (EVA) wastes. The reclaimed water must meet stringent purity standards before it can be utilized to support the crew, laboratory animals, EVA, and payload activities. The WRS consists of a Urine Processor Assembly (UPA) and a Water Processor Assembly (WPA). The system was delivered to ISS on STS-126 on November 14, 2008, with the UPA activated on November 20, 2008, and the WPA activated on November 22, 2008.
+
+The OGS produces oxygen for breathing air, as well as replaces oxygen lost as a result of experiment use, airlock depressurization, module leakage, and carbon dioxide venting. 
+
+Prior to the ISS, the life support systems on the Mercury, Gemini, and Apollo spacecraft in the 1960s were designed to be used once and discarded. The U.S. had limited experience with long duration crewed flights with the exception of Skylab, a space station adapted from the third stage of a Saturn V rocket. Skylab consisted of three missions in 1973 and 1974 lasting twenty-eight, fifty-nine, and eighty-four days, respectively. The ECLSS on Skylab featured stored water and oxygen, a regenerable molecular sieve for carbon dioxide and humidity removal, and fire detectors using ultraviolet light detection. Unlike earlier spacecraft, the Space Shuttle was a reusable vehicle. Although it incorporated some advances in its life support system, it still relied heavily on the use of consumables. Systems that relied heavily on consumables limited the time crew could remain in space and required continual, expensive launches of fresh supplies of water, oxygen, and expendable life support equipment.
+
+The International Space Station Environmental Control and Life Support System (ECLSS) is a life support system that provides or controls atmospheric pressure, fire detection and suppression, oxygen levels, waste management and water supply. The highest priority for the ECLSS is the ISS atmosphere, but the system also collects, processes, and stores waste and water produced and used by the crew—a process that recycles fluid from the sink, shower, toilet, and condensation from the air.
+
+Other by-products of human metabolism, such as methane from flatulence and ammonia from sweat, are removed by activated charcoal filters or by the Trace Contaminant Control System (TCCS).
+
+The Urine Processor Assembly uses a low pressure vacuum distillation process that uses a centrifuge to compensate for the lack of gravity and thus aid in separating liquids and gasses.[6] The Urine Processor Assembly is designed to handle a load of 9 kg/day, corresponding to the needs of a 6-person crew.[3] Although the design called for recovery of 85% of the water content, subsequent experience with calcium sulfate precipitation[4] (in the free-fall conditions present on the ISS, calcium levels in urine are elevated due to bone density loss) has led to a revised operational level of recovering 70% of the water content. 
+
+Several systems are currently used on board the ISS to maintain the spacecraft's atmosphere, which is similar to the Earth's.[7] Normal air pressure on the ISS is 101.3 kPa (14.7 psi); the same as at sea level on Earth. 
+
+Carbon dioxide and trace contaminants are removed by the Air Revitalization System. This is a NASA rack, placed in Tranquility, designed to provide a Carbon Dioxide Removal Assembly (CDRA), a Trace Contaminant Control Subassembly (TCCS) to remove hazardous trace contamination from the atmosphere and a Major Constituent Analyser (MCA) to monitor nitrogen, oxygen, carbon dioxide, methane, hydrogen, and water vapour.
+
+The Oxygen Generating System (OGS) is a NASA rack designed to electrolyse water from the Water Recovery System to produce oxygen and hydrogen. The oxygen is delivered to the cabin atmosphere. The unit is installed in the Destiny module. 
+
+The Advanced Closed Loop System (ACLS) is an ESA rack that converts carbon dioxide into oxygen and water. This is very different from the NASA oxygen-generating rack that is reliant on a steady supply of water from Earth in order to generate oxygen. This water-producing capability will save the need to launch an extra 400 liters of water in cargo resupply per year. 50% of the carbon dioxide that it processes can be converted to oxygen and by itself it can make enough oxygen full-time for 3 astronauts. The other 50% of carbon dioxide is jettisoned from the ISS along with the methane that is created. The ACLS is a great complement to the NASA oxygen-generating rack. The ACLS is a technology demonstrator but if it is successful it will be left onboard the ISS permanently. It was delivered on the Kounotori 7 launch in September 2018 and installed in the Destiny module
+
+Elektron is a Russian Electrolytic Oxygen Generator, which was also used on Mir. It uses electrolysis to produce oxygen. This process splits water molecules reclaimed from other uses on board the station into oxygen and hydrogen via electrolysis. The oxygen is vented into the cabin and the hydrogen is vented into space. The three Russian Elektron oxygen generators on board the International Space Station have been plagued with problems, frequently forcing the crew to use backup sources 
+
+The 10-tonne spacecraft is carrying ESA’s new Advanced Closed Loop System that will recycle carbon dioxide on the Space Station into oxygen. Currently oxygen on the Space Station is extracted from water that has to be brought from Earth, a costly and limiting drawback. The new system promises to recycle half of the carbon dioxide thereby saving about 400 l of water sent to the Space Station each year.
+
+Sustainable life-support systems are needed for longer missions such as to the lunar gateway that is the next structure to be built by the partners of the International Space Station. The gateway will serve as a staging post for missions to the Moon and even Mars, destinations too far away for regular ferry supplies.                                              
+The Advanced Closed Loop System hardware is part of ESA’s goal to create a closed life-support system, including water recovery and food production, to support astronauts in space indefinitely without costly supplies from Earth.
+    
+## Le projet MELiSSA
+
+- MELiSSA, pour Micro-Ecological Life Support System Alternative, est un projet de système de support vie régénératif de l'ESA lancé en 1988 et toujours à l'étude. Il est porté par l'Université de Barcelone (Espagne)
+- Le principe est de créer un écoystème clos artificiel à base de micro-organismes qui traitent les déchets d'un équipage et de plantes qui produisent de la nourriture et de l'oxygène, dans le contexte d'une mission spatiale habitée de longue durée, sur une base lunaire ou vers Mars par exemple.
+- Le système de recyclage de déchets que les chercheurs de MELiSSA tentent d'implémenter est basé sur le fonctionnement d'un écosystème lacustre
+- La première étape du projet a été d'identifier les lignées bactériennes adéquates pour enclencher des boucles de rétroaction qui stabilisent le système, le tout en prenant en compte l'évolution naturelle des bactéries, qui peut déstabiliser le système au fil du temps
+- Lorsque les scientifiques parviendront à faire pousser des plantes de manière durable dans un système de support vie fermé sur Terre, ces expériences devront être reproduites dans l'ISS, afin d'étudier les effets de l'impesanteur et des radiations (qui peuvent atteindre 80 fois les taux terrestres) sur les processus biologiques.
+- Une fois cette étude réalisée, une autre expérience nommée BIORAT sera envoyée sur l'ISS. Son but sera de tester quelques boucles de l'écosystème (le réacteur photosynthétique et le module de consommation) à petite échelle sur des souris, et d'étudier la résilience de l'écosystème en réponse à la modification de quelques variables comme l'éclairage.
+> Le CO2 produit par les souris sera consommé par de la spiruline, une algue photosynthétique, qui produira de l'oxygène en retour.
+
+
 
 
 
