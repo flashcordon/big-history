@@ -116,32 +116,19 @@ Assembly and maintenance of the International Space Station has required nearly 
 
 ## La sortie de Thomas Pesquet (mission Alpha)
 
-Première mission dans l’espace entre le 17.11.2016 et le 02.06.2017 (196 jours) « Proxima » durant l’Expedition 50/51. Vaisseau Soyouz MS-03.
-
-2 sorties spatiales lors de la mission Proxima : EVA 39 (13.01.2017) et EVA 40 (24.03.2017) avec Shane Kimbrough
+- Thomas Pesquet a déjà réalisé 2 sorties spatiales avec Shane Kimbrough (EVA 39 et 40) durant sa mission Proxima (entre 2016 et 2017)
+- Le 2 Juin 2021 a eu lieu la première d'une série de 3 EVA prévues cet été. Il s'agissait de la 6e EVA de l'année et de la 238e EVA de maintenance de la station.
+> Oleg Novitsky et Pyotr Dubrov ont passé 7 heures et 19 minutes hors de l'ISS afin de déconnecter tous les liens mécaniques externes entre le module Pirs et l'ISS. Ce dernier était attaché au segment russe de l'ISS depuis 2001, et va être décomissionné le 17 Juin 2021 par un cargo Progress le 17 Juin 2021 afin qu'il soit remplacé par le nouveau module scientifique Nauka (ce qui signifie Science en russe) 
+- L'EVA
 
 The ISS 2B IROSA EVA is scheduled for Wednesday, June 16th.
-
-This week the first of three summer spacewalks took place
-Le 2 Juin 2021, Outside the International Space Station (ISS), Oleg Novitsky and Pyotr Dubrov have completed a near 7 hour extravehicular activity, or EVA/spacewalk, to finalize external preparations for the removal to the Pirs docking compartment that has served the Station for nearly 20 years.
-
-ils ont déconnecté tous les liens mécaniques externes entre le module et l'ISS
-Delivered in 2001, Pirs will be removed from the ISS no earlier than 17 July 2021 to make room for the new Nauka (le mot russe pour Science) science module on the Russian segment of the outpost.
 
 Dragon Ressuply mission 22
 a apporté le premier d'une paire de panneaux solaires qui seront placés sur l'ISS plus tard ce moins ci (quand ?)
 
-le module sera décommissionné par un cargo Progress plus tard dans l'année
-
-après le lancement de Nauka
-
 After the Nauka module arrives later this year, another spacewalk will reconnect the cables to Nauka’s rendezvous system to bring its docking port online.
 
 Work then continued with the cosmonaut duo removing a gap spanner between Pirs’ spacewalk ladder and Zvezda.  Once that task was complete, Pirs was considered “decommissioned” — the first ISS module to reach this status.
-
-With hatch closure, the two completed the sixth ISS EVA of the year at the International Space Station and the 238th spacewalk overall in support of the outpost.
-
-Spacewalk Elapsed Time of 7 hours 19 minutes.
 
 If all goes to plan, the module that will take Pirs’ docking place on the Station will launch no earlier than 15 July on a Proton rocket from the Baikonur Cosmodrome in Kazakhstan.  Once Nauka is safely in orbit and initial checkouts are performed and the health of the module is confirmed, Russian mission controllers will use the Progress MS-16 cargo craft to remove Pirs from the Station.
 
