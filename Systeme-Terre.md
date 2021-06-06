@@ -247,6 +247,11 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - Mais cette montée ne s’arrêtera pas en 2100, et devrait se poursuivre dans les siècles à venir, à un niveau qui dépendra de la trajectoire que nous prendrons collectivement dans nos émissions de gaz à effets de serre.
 - Les zones les plus directement touchées par cette élévation seront les états insulaires, comme l’archipel des Maldives par exemple, dont la plupart des terres sont situées à moins d’un mètre au dessus du niveau de la mer
 
+# Les couleurs de la Terre
+
+- [NOAA View Global Data Explorer](https://www.nnvl.noaa.gov/view/globaldata.html#TRUE) - NOAA
+> Visualisateur de la Terre en vraies couleurs
+
 # Pourquoi l'Australie est rouge ?
 
 *Sources*
