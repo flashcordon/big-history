@@ -116,15 +116,18 @@ Assembly and maintenance of the International Space Station has required nearly 
 
 ## La sortie de Thomas Pesquet (mission Alpha)
 
-- Thomas Pesquet a déjà réalisé 2 sorties spatiales avec Shane Kimbrough (EVA 39 et 40) durant sa mission Proxima (entre 2016 et 2017)
 - Le 2 Juin 2021 a eu lieu la première d'une série de 3 EVA prévues cet été. Il s'agissait de la 6e EVA de l'année et de la 238e EVA de maintenance de la station.
-> Oleg Novitsky et Pyotr Dubrov ont passé 7 heures et 19 minutes hors de l'ISS afin de déconnecter tous les liens mécaniques externes entre le module Pirs et l'ISS. Ce dernier était attaché au segment russe de l'ISS depuis 2001, et va être décomissionné par le cargo Progress le 17 Juin 2021 afin qu'il soit remplacé par le nouveau module scientifique Nauka (ce qui signifie Science en russe). Pirs deviendra ainsi le premier module décommissionné de l'ISS.
-- L'EVA B IROSA aura lieu le 16 Juin 2021.
+> * Oleg Novitsky et Pyotr Dubrov ont passé 7 heures et 19 minutes hors de l'ISS afin de déconnecter tous les liens mécaniques externes entre le module Pirs et le module de service Zvezda de l'ISS. Pirs était attaché au segment russe de l'ISS depuis 2001, et va être décomissionné par le cargo Progress le 17 Juin 2021 afin qu'il soit remplacé par le nouveau module scientifique Nauka (ce qui signifie Science en russe). Pirs deviendra ainsi le premier module décommissionné de l'ISS.
+> * Lorsque le module Nauka arrivera, une autre EVA sera requise pour reconnecter tous les cables.
+- 2 autres EVA sont prévues avant le départ de Pirs et l'arrivée de Nauka. Elle seront assurée par Thomas Pesquet et Shane Kinbrough. Ce sera respectivement la 7e et la 8e EVA de l'année.
+> * La première, l'EVA B IROSA, aura lieu le 16 Juin 2021, et la 2e aura lieu XXX.
+> * Les 2 astronautes sortiront du module Quest, situé sur le segment américain de l'ISS, afin d'installer le premier des 2 nouveaux panneau solaire sur l'ISS, les panneaux IROSA (International Space Station Roll-Out Solar Arrays)
+> * Ces 2 panneaux fournis par la NASA sont arrivés le 3 Juin 2021 dans une capsule Dragon lors de la mission de ravitaillement CRS-22. Lorsqu'ils seront installés, l'ISS aura retrouvé la quasi-totalité de sa puissance électrique, et cette énergie supplémentaire sera nécessaire pour alimenter la future expansion du segment américain de l'ISS
+> * Thomas Pesquet a déjà réalisé 2 sorties spatiales avec Shane Kimbrough (EVA 39 et 40) durant sa mission Proxima (entre 2016 et 2017)
 
-Dragon Ressuply mission 22
-a apporté le premier d'une paire de panneaux solaires qui seront placés sur l'ISS plus tard ce moins ci (quand ?)
+Meanwhile, prior to Pirs’ departure and Nauka’s arrival, the seventh and eight EVAs of the year will occur later this month when European Space Agency astronaut Thomas Pesquet and NASA astronaut Shane Kimbrough conduct two spacewalks from the Quest airlock to install the first two IROSA, International Space Station Roll-Out Solar Arrays.
 
-After the Nauka module arrives later this year, another spacewalk will reconnect the cables to Nauka’s rendezvous system to bring its docking port online.
+The new arrays will boost the ISS’s power generation capability, which has naturally been decaying since the original set of eight solar array wings were delivered between December 2000 and March 2009 over the course of four Space Shuttle missions: STS-97/Endeavour, STS-115/Atlantis, STS-117/Atlantis, and STS-119/Discovery.
 
 If all goes to plan, the module that will take Pirs’ docking place on the Station will launch no earlier than 15 July on a Proton rocket from the Baikonur Cosmodrome in Kazakhstan.  Once Nauka is safely in orbit and initial checkouts are performed and the health of the module is confirmed, Russian mission controllers will use the Progress MS-16 cargo craft to remove Pirs from the Station.
 
@@ -135,12 +138,6 @@ Now, the entire Progress MS-16 craft, which launched on 15 February 2021 and del
 In this way, Progress MS-16 will not undock from the Station, but rather Pirs will undock — with Progress MS-16 then maneuvering the still-mated pair away from the ISS before safely deorbiting the module for a destructive end-of-life plunge into Earth’s atmosphere.
 
 A few days later, Nauka will maneuver itself up to the ISS, rendezvous, and dock itself to the now-vacant port on Zvezda.
-
-Meanwhile, prior to Pirs’ departure and Nauka’s arrival, the seventh and eight EVAs of the year will occur later this month when European Space Agency astronaut Thomas Pesquet and NASA astronaut Shane Kimbrough conduct two spacewalks from the Quest airlock to install the first two IROSA, International Space Station Roll-Out Solar Arrays.
-
-The new arrays will boost the ISS’s power generation capability, which has naturally been decaying since the original set of eight solar array wings were delivered between December 2000 and March 2009 over the course of four Space Shuttle missions: STS-97/Endeavour, STS-115/Atlantis, STS-117/Atlantis, and STS-119/Discovery.
-
-In all, the six new arrays from Boeing, the first two sets of which are scheduled to launch no earlier than Thursday, 3 June on SpaceX’s CRS-22 mission of Cargo Dragon, will bring the ISS back to near-full power capacity and set the stage for a major scientific and physical expansion effort on the US-segment of the Station, which includes Japan, Europe, and Canada as well.
 
 The efforts on both sides of the Station mark the the most intense construction efforts on the outpost since initial US assembly of the ISS were completed by the STS-134/Endeavour crew exactly 10 years ago in June 2011 with the handoff of Endeavour’s Orbiter Boom Sensor System (OBSS) on the Orbiter’s 25th and final mission.
 
