@@ -247,6 +247,19 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - Mais cette montée ne s’arrêtera pas en 2100, et devrait se poursuivre dans les siècles à venir, à un niveau qui dépendra de la trajectoire que nous prendrons collectivement dans nos émissions de gaz à effets de serre.
 - Les zones les plus directement touchées par cette élévation seront les états insulaires, comme l’archipel des Maldives par exemple, dont la plupart des terres sont situées à moins d’un mètre au dessus du niveau de la mer
 
+# Pourquoi l'Australie est rouge ?
+
+*Sources*
+
+- [Why Does Australia Look Red from Space?](https://www.nesdis.noaa.gov/content/why-does-australia-look-red-space) - NOAAA
+
+---
+
+- In areas with a generally cool climate, rock weathering (the breaking down of rocks and minerals on Earth's surface) is a physical process caused by freezing water, changes in temperature, plants and animals, and sometimes saltwater absorption. In warmer climates, like Australia, chemical weathering is more common. Chemical weathering occurs when conditions change the materials that make up the rock and soil.
+- Australia happens to have a perfect environment, hot and dry, for a particular form of chemical weathering called oxidation. This occurs in rocks that contain high amounts of iron. In this type of environment, these rocks actually begin to rust. As the rust expands, it weakens the rock and helps break it apart. The oxides produced through this process give the ground its reddish hue.
+- Another contributing factor is time. Australia hasn't "recently" (geologically speaking) been affected by ice ages. Unlike much of the Northern Hemisphere, Australian soils are very thick and millions of years old. The remnant iron oxides have been able to accumulate through millions of years of weathering. Unfortunately, although the red soil is beautiful, it is not of much use because it is very poor in nutrients.
+
+
 # Pourquoi le monde est-il vert ?
 
 *Sources*
