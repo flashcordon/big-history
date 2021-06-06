@@ -170,18 +170,22 @@ The efforts on both sides of the Station mark the the most intense construction 
 
 ---
 
--  À bord de l'ISS, le système de support vie s'appelle l'ECLSS (Environmental Control and Life Support System). Il fournit un air pur et de l'eau poptable à l'équipage de l'ISS. Il contrôle aussi la pression atmosphérique, gère le traitement des déchets et permet de détecter et d'éteindre des départs de feux.
+## L'ECLSS
+
+-  À bord de l'ISS, le système de support vie s'appelle l'ECLSS (Environmental Control and Life Support System). Il fournit un air pur et de l'eau poptable à l'équipage de l'ISS. Il contrôle aussi la pression atmosphérique (identique à celle du niveau de la mer, soit 101,3 kPa), gère le traitement des déchets et permet de détecter et d'éteindre des départs de feux.
 -  L'ECLSS est composé de plusieurs sous-systèmes. Certains de ses sous-systèmes sont régénératifs, tandis que d'autres non.
-> Ses composants principaux sont le Water Recovery System (WRS), qui transforme l'urine et la transpiration des astronautes ainsi que la condensation ambiante en eau potable et l'Oxygen Generation System (OGS), situé dans le module Destiny, qui produit de l'oxygène par électrolyse de l'eau et remplace l'oxygène perdu lors des expériences ou des dépressurisations de sas.
+> * Ses composants principaux sont le Water Recovery System (WRS), qui transforme l'urine des astronautes ainsi que la condensation ambiante en eau potable et l'Oxygen Generation System (OGS), situé dans le module Destiny, qui produit de l'oxygène par électrolyse de l'eau et remplace l'oxygène perdu lors des expériences ou des dépressurisations de sas.
+> * D'autres composants comme le Trace Contaminant Control System (TCCS) s'occupent d'évacuer certains composés issus du métabolisme humain, comme le méthane des flatulences et l'ammoniac de la sueur.
 -  Cela fait plus de 20 ans que le système de support vie de l'ISS est graduellement amélioré pour "fermer la boucle" et augmenter ses capacités de régénération de ses sous-systèmes ainsi que leur durée de vie.
 - De nos jours, l'ECLSS est considéré comme fermé à près de 93%.
 > Pour un voyage vers Mars, il faudrait un système de support vie fermé à plus de 98%
+- En XXX, a un démonstrateur technologique qui représente une amélioration significative des capacités régénératives du système de support vie.
+> L'ACLS peut traiter 40% de l'eau requise pour produire de l'oxygène à partir du CO2 expiré par l'équipage (can process 40 percent of the water required for producing oxygen from the carbon dioxide exhaled by the crew)
 
+The 10-tonne spacecraft is carrying ESA’s new Advanced Closed Loop System that will recycle carbon dioxide on the Space Station into oxygen. Currently oxygen on the Space Station is extracted from water that has to be brought from Earth, a costly and limiting drawback. The new system promises to recycle half of the carbon dioxide thereby saving about 400 l of water sent to the Space Station each year.
 
-The ACLS (. Fig. 5.14), which is currently operating as a technology test and
-demonstrator, represents a significant step forward in regenerative LSS. It can process
-40 percent of the water required for producing oxygen from the carbon dioxide
-exhaled by the crew
+Sustainable life-support systems are needed for longer missions such as to the lunar gateway that is the next structure to be built by the partners of the International Space Station. The gateway will serve as a staging post for missions to the Moon and even Mars, destinations too far away for regular ferry supplies.                                              
+The Advanced Closed Loop System hardware is part of ESA’s goal to create a closed life-support system, including water recovery and food production, to support astronauts in space indefinitely without costly supplies from Earth.
 
 The first life support system designed to support a cosmonaut was that flown on
 Yuri Gagarin’s Vostok spacecraft. But this wasn’t the first life support system to
@@ -210,11 +214,10 @@ the ISS life support system.
 Prior to the ISS, the life support systems on the Mercury, Gemini, and Apollo spacecraft in the 1960s were designed to be used once and discarded. The U.S. had limited experience with long duration crewed flights with the exception of Skylab, a space station adapted from the third stage of a Saturn V rocket. Skylab consisted of three missions in 1973 and 1974 lasting twenty-eight, fifty-nine, and eighty-four days, respectively. The ECLSS on Skylab featured stored water and oxygen, a regenerable molecular sieve for carbon dioxide and humidity removal, and fire detectors using ultraviolet light detection. Unlike earlier spacecraft, the Space Shuttle was a reusable vehicle. Although it incorporated some advances in its life support system, it still relied heavily on the use of consumables. Systems that relied heavily on consumables limited the time crew could remain in space and required continual, expensive launches of fresh supplies of water, oxygen, and expendable life support equipment.
 
 
-Other by-products of human metabolism, such as methane from flatulence and ammonia from sweat, are removed by activated charcoal filters or by the Trace Contaminant Control System (TCCS).
+
 
 The Urine Processor Assembly uses a low pressure vacuum distillation process that uses a centrifuge to compensate for the lack of gravity and thus aid in separating liquids and gasses.[6] The Urine Processor Assembly is designed to handle a load of 9 kg/day, corresponding to the needs of a 6-person crew.[3] Although the design called for recovery of 85% of the water content, subsequent experience with calcium sulfate precipitation[4] (in the free-fall conditions present on the ISS, calcium levels in urine are elevated due to bone density loss) has led to a revised operational level of recovering 70% of the water content. 
 
-Several systems are currently used on board the ISS to maintain the spacecraft's atmosphere, which is similar to the Earth's.[7] Normal air pressure on the ISS is 101.3 kPa (14.7 psi); the same as at sea level on Earth. 
 
 Carbon dioxide and trace contaminants are removed by the Air Revitalization System. This is a NASA rack, placed in Tranquility, designed to provide a Carbon Dioxide Removal Assembly (CDRA), a Trace Contaminant Control Subassembly (TCCS) to remove hazardous trace contamination from the atmosphere and a Major Constituent Analyser (MCA) to monitor nitrogen, oxygen, carbon dioxide, methane, hydrogen, and water vapour.
 
@@ -223,10 +226,7 @@ The Advanced Closed Loop System (ACLS) is an ESA rack that converts carbon dioxi
 
 Elektron is a Russian Electrolytic Oxygen Generator, which was also used on Mir. It uses electrolysis to produce oxygen. This process splits water molecules reclaimed from other uses on board the station into oxygen and hydrogen via electrolysis. The oxygen is vented into the cabin and the hydrogen is vented into space. The three Russian Elektron oxygen generators on board the International Space Station have been plagued with problems, frequently forcing the crew to use backup sources 
 
-The 10-tonne spacecraft is carrying ESA’s new Advanced Closed Loop System that will recycle carbon dioxide on the Space Station into oxygen. Currently oxygen on the Space Station is extracted from water that has to be brought from Earth, a costly and limiting drawback. The new system promises to recycle half of the carbon dioxide thereby saving about 400 l of water sent to the Space Station each year.
 
-Sustainable life-support systems are needed for longer missions such as to the lunar gateway that is the next structure to be built by the partners of the International Space Station. The gateway will serve as a staging post for missions to the Moon and even Mars, destinations too far away for regular ferry supplies.                                              
-The Advanced Closed Loop System hardware is part of ESA’s goal to create a closed life-support system, including water recovery and food production, to support astronauts in space indefinitely without costly supplies from Earth.
     
 ## Le projet MELiSSA
 
