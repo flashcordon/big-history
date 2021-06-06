@@ -170,6 +170,9 @@ The efforts on both sides of the Station mark the the most intense construction 
 
 ---
 
+- Ravitailler une station spatiale depuis la Terre est coûteux (combien ?). D'où l'intérêt de rendre le système de suport vie de l'ISS le plus durable et le plus régénératf possible.
+- Pour des missions de longue durée, comme celles qui sont prévues pour la Lunar Gateway ou des missions martiennes, il faudra des systèmes de support vie bien plus régénératifs que maintenant, parce que ces installations seront trop éloignées pour être ravitaillées souvent.
+
 ## L'ECLSS
 
 -  À bord de l'ISS, le système de support vie s'appelle l'ECLSS (Environmental Control and Life Support System). Il fournit un air pur et de l'eau poptable à l'équipage de l'ISS. Il contrôle aussi la pression atmosphérique (identique à celle du niveau de la mer, soit 101,3 kPa), gère le traitement des déchets et permet de détecter et d'éteindre des départs de feux.
@@ -179,12 +182,13 @@ The efforts on both sides of the Station mark the the most intense construction 
 -  Cela fait plus de 20 ans que le système de support vie de l'ISS est graduellement amélioré pour "fermer la boucle" et augmenter ses capacités de régénération de ses sous-systèmes ainsi que leur durée de vie.
 - De nos jours, l'ECLSS est considéré comme fermé à près de 93%.
 > Pour un voyage vers Mars, il faudrait un système de support vie fermé à plus de 98%
-- En XXX, a un démonstrateur technologique qui représente une amélioration significative des capacités régénératives du système de support vie.
-> L'ACLS peut traiter 40% de l'eau requise pour produire de l'oxygène à partir du CO2 expiré par l'équipage (can process 40 percent of the water required for producing oxygen from the carbon dioxide exhaled by the crew)
+- En Septembre 2018, un démonstrateur technologique nommé ACS (Advanced Closed Loop System) a été installé dans le module Destiny de l'ISS, et il est utilisé en complément de l'OGS depuis. Cette grosse étagère transforme une partie du CO2 expiré par les astronautes en eau et en oxygène. Il représente une amélioration significative des capacités régénératives du système de support vie.
+> * La moitié du CO2 récupérée par l'ACLS peut produire l'intégralité des besoins en oxygène pour 3 personnes.
+> * L'ACLS permet à l'ISS d'économiser près de 400 L d'eau par an, 400 L qui ne devront pas être réapprovisionnées depuis la Terre
+
 
 The 10-tonne spacecraft is carrying ESA’s new Advanced Closed Loop System that will recycle carbon dioxide on the Space Station into oxygen. Currently oxygen on the Space Station is extracted from water that has to be brought from Earth, a costly and limiting drawback. The new system promises to recycle half of the carbon dioxide thereby saving about 400 l of water sent to the Space Station each year.
 
-Sustainable life-support systems are needed for longer missions such as to the lunar gateway that is the next structure to be built by the partners of the International Space Station. The gateway will serve as a staging post for missions to the Moon and even Mars, destinations too far away for regular ferry supplies.                                              
 The Advanced Closed Loop System hardware is part of ESA’s goal to create a closed life-support system, including water recovery and food production, to support astronauts in space indefinitely without costly supplies from Earth.
 
 The first life support system designed to support a cosmonaut was that flown on
@@ -213,16 +217,12 @@ the ISS life support system.
 
 Prior to the ISS, the life support systems on the Mercury, Gemini, and Apollo spacecraft in the 1960s were designed to be used once and discarded. The U.S. had limited experience with long duration crewed flights with the exception of Skylab, a space station adapted from the third stage of a Saturn V rocket. Skylab consisted of three missions in 1973 and 1974 lasting twenty-eight, fifty-nine, and eighty-four days, respectively. The ECLSS on Skylab featured stored water and oxygen, a regenerable molecular sieve for carbon dioxide and humidity removal, and fire detectors using ultraviolet light detection. Unlike earlier spacecraft, the Space Shuttle was a reusable vehicle. Although it incorporated some advances in its life support system, it still relied heavily on the use of consumables. Systems that relied heavily on consumables limited the time crew could remain in space and required continual, expensive launches of fresh supplies of water, oxygen, and expendable life support equipment.
 
-
-
-
 The Urine Processor Assembly uses a low pressure vacuum distillation process that uses a centrifuge to compensate for the lack of gravity and thus aid in separating liquids and gasses.[6] The Urine Processor Assembly is designed to handle a load of 9 kg/day, corresponding to the needs of a 6-person crew.[3] Although the design called for recovery of 85% of the water content, subsequent experience with calcium sulfate precipitation[4] (in the free-fall conditions present on the ISS, calcium levels in urine are elevated due to bone density loss) has led to a revised operational level of recovering 70% of the water content. 
 
 
 Carbon dioxide and trace contaminants are removed by the Air Revitalization System. This is a NASA rack, placed in Tranquility, designed to provide a Carbon Dioxide Removal Assembly (CDRA), a Trace Contaminant Control Subassembly (TCCS) to remove hazardous trace contamination from the atmosphere and a Major Constituent Analyser (MCA) to monitor nitrogen, oxygen, carbon dioxide, methane, hydrogen, and water vapour.
 
 
-The Advanced Closed Loop System (ACLS) is an ESA rack that converts carbon dioxide into oxygen and water. This is very different from the NASA oxygen-generating rack that is reliant on a steady supply of water from Earth in order to generate oxygen. This water-producing capability will save the need to launch an extra 400 liters of water in cargo resupply per year. 50% of the carbon dioxide that it processes can be converted to oxygen and by itself it can make enough oxygen full-time for 3 astronauts. The other 50% of carbon dioxide is jettisoned from the ISS along with the methane that is created. The ACLS is a great complement to the NASA oxygen-generating rack. The ACLS is a technology demonstrator but if it is successful it will be left onboard the ISS permanently. It was delivered on the Kounotori 7 launch in September 2018 and installed in the Destiny module
 
 Elektron is a Russian Electrolytic Oxygen Generator, which was also used on Mir. It uses electrolysis to produce oxygen. This process splits water molecules reclaimed from other uses on board the station into oxygen and hydrogen via electrolysis. The oxygen is vented into the cabin and the hydrogen is vented into space. The three Russian Elektron oxygen generators on board the International Space Station have been plagued with problems, frequently forcing the crew to use backup sources 
 
