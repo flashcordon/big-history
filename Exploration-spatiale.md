@@ -199,7 +199,10 @@ The 10-tonne spacecraft is carrying ESA’s new Advanced Closed Loop System that
 Sustainable life-support systems are needed for longer missions such as to the lunar gateway that is the next structure to be built by the partners of the International Space Station. The gateway will serve as a staging post for missions to the Moon and even Mars, destinations too far away for regular ferry supplies.                                              
 The Advanced Closed Loop System hardware is part of ESA’s goal to create a closed life-support system, including water recovery and food production, to support astronauts in space indefinitely without costly supplies from Earth.
     
-MELiSSA
+## Le projet MELiSSA
+
+- MELiSSA, pour Micro-Ecological Life Support System Alternative, est un projet de l'ESA lancé en 1988 et toujours à l'étude. Il est porté par l'Université de Barcelone (Espagne)
+ 
 »» We are creating an artificial ecosystem which uses micro-organisms to process the
 waste so that we can grow plants. At the bottom is sludge (raw waste) which undergoes
 anaerobic (without oxygen) fermentation in darkness. Higher up there’s light
