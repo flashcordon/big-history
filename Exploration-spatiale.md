@@ -30,6 +30,7 @@
 - [Russian duo complete decommissioning of Pirs ahead of removal from Station](https://www.nasaspaceflight.com/2021/06/pirs-decommissioned-eva/) - NASA Spaceflight
 - [Maladie de décompression](https://www.msdmanuals.com/fr/professional/blessures-empoisonnement/l%C3%A9sions-li%C3%A9es-%C3%A0-la-plong%C3%A9e-sous-marine-ou-au-travail-en-atmosph%C3%A8re-comprim%C3%A9e/maladie-de-d%C3%A9compression) - Le Manuel MSD 
 - [Skylab](https://fr.wikipedia.org/wiki/Skylab#Sauvetage_de_la_station_spatiale) - Wikipédia
+- [Thomas Pesquet : 2 sorties en juin](https://www.cite-espace.com/actualites-spatiales/thomas-pesquet-2-sorties-en-juin/) - Cité de l'espace (2021)
 
 ---
 
@@ -121,8 +122,9 @@ Assembly and maintenance of the International Space Station has required nearly 
 > * Le module Nauka sera lancé le 15 Juillet depuis le cosmodrome de Baikonour au Kazakhstan, à bord d'un lanceur Proton. Lorsqu'il sera en orbite, le cargo Progress sera utilisé pour retirer le module Pirs de l'ISS. Ce dernier sera ensuite envoyé dans l'atmosphère terrestre pour y être désintégré.
 > * Lorsque le module Nauka sera connecté à Zvezda quelques jours plus tard, une autre EVA sera requise pour reconnecter tous les cables.
 - 2 autres EVA sont prévues avant le départ de Pirs et l'arrivée de Nauka. Elle seront assurée par Thomas Pesquet et Shane Kinbrough. Ce sera respectivement la 7e et la 8e EVA de l'année.
-> * La première, l'EVA B IROSA, aura lieu le 16 Juin 2021, et la 2e aura lieu XXX.
-> * Les 2 astronautes sortiront du module Quest, situé sur le segment américain de l'ISS, afin d'installer le premier des 2 nouveaux panneau solaire sur l'ISS, les panneaux IROSA (International Space Station Roll-Out Solar Arrays)
+> * La première, l'EVA B IROSA, aura lieu le 16 Juin 2021, et la 2e aura lieu le 20 Juin.
+> * Les 2 astronautes sortiront du module Quest, situé sur le segment américain de l'ISS, afin d'installer le premier des 2 nouveaux panneau solaire sur l'ISS, les panneaux IROSA (International Space Station Roll-Out Solar Arrays).
+> * Chaque EVA doit durer environ 6 heures et demi.
 > * Ces 2 panneaux fournis par la NASA sont arrivés le 3 Juin 2021 dans une capsule Dragon lors de la mission de ravitaillement CRS-22. Lorsqu'ils seront installés, l'ISS aura retrouvé la quasi-totalité de sa puissance électrique optimale (qui déclinait à cause du vieillissement des 8 panneaux solaires originels, installés entre 2000 et 2009), et cette énergie supplémentaire sera nécessaire pour alimenter la future expansion du segment américain de l'ISS
 > * Thomas Pesquet a déjà réalisé 2 sorties spatiales avec Shane Kimbrough (EVA 39 et 40) durant sa mission Proxima (entre 2016 et 2017). 
 - Cette série d'EVA constitue le plus intense effort de construction sur l'ISS depuis la fin de son assemblage initial en Juin 2011.
