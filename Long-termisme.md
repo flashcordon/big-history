@@ -30,5 +30,6 @@
 - [A Case Against Strong Longtermism](https://vmasrani.github.io/blog/2020/against_longtermism/) - Vaden Masrani (2020)
 - [Against Strong Longtermism: A Response to Greaves and MacAskill](https://medium.com/curious/against-strong-longtermism-a-response-to-greaves-and-macaskill-cb4bb9681982) - Ben Chugg (2020)
 - [Were the Great Tragedies of History “Mere Ripples”? The Case Against Longtermism](https://www.xriskology.com/mini-book) - Simon Beardand Phil Torres
+- [Penser comme une montagne: Almanach d'un comté des sables](http://www.clicetclicetphilogram.fr/Leopold/pensercommeunemontagne.htm) - Aldo Leopold
 
 ---
