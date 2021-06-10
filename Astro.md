@@ -932,3 +932,7 @@ Burcher
 *Les étoiles voisines à 10 parsecs (Source : @Galaxy_Map 2021)*
 
 ![10 pc stars](https://i.imgur.com/95ssTJn.jpg)
+
+*La vision d'artiste de la Voie Lactée la plus réaliste à ce jour (Source :  Mark Reid & Xing-Wu Zheng (2020))*
+
+[milkyway](https://astronomy.nju.edu.cn/xtzl/EN/index.html)
