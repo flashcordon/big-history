@@ -239,6 +239,7 @@ Yesterday, I received confirmation from the laboratory at the University of Calg
 # La lune s'éloigne
 
 - Chaque année, La lune s'éloigne de la Terre d'environ 4 cm ! Pourquoi ?
-- Comment on le sait ? Parce que les astronautes des missions Apollo ont déposé des réflecteurs sur la surface lunaire qui permettent aux astronomes de tirer des rayons lasers vers la Lune et de mesurer le temps que met la lumière à faire un aller-retour Terre-Lune.
+- Comment on le sait ? Et bien dans les années 60-70, les astronautes des missions Apollo ont déposé des réflecteurs sur la surface lunaire.
+- Ces réflecteurs permettent aux astronomes de tirer des rayons lasers vers notre satellite et de mesurer le temps que met la lumière à faire un aller-retour Terre-Lune.
 - Rassurez-vous, on ne risque pas de perdre la Lune de sitôt.
 - 
