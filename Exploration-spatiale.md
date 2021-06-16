@@ -31,6 +31,8 @@
 - [Maladie de décompression](https://www.msdmanuals.com/fr/professional/blessures-empoisonnement/l%C3%A9sions-li%C3%A9es-%C3%A0-la-plong%C3%A9e-sous-marine-ou-au-travail-en-atmosph%C3%A8re-comprim%C3%A9e/maladie-de-d%C3%A9compression) - Le Manuel MSD 
 - [Skylab](https://fr.wikipedia.org/wiki/Skylab#Sauvetage_de_la_station_spatiale) - Wikipédia
 - [Thomas Pesquet : 2 sorties en juin](https://www.cite-espace.com/actualites-spatiales/thomas-pesquet-2-sorties-en-juin/) - Cité de l'espace (2021)
+- [Space Station solar panels](http://www.esa.int/ESA_Multimedia/Images/2021/06/Space_Station_solar_panels) - ESA (2021)
+- [Watch Spacewalkers Install New Solar Arrays on Wednesday](https://blogs.nasa.gov/spacestation/2021/06/15/watch-spacewalkers-install-new-solar-arrays-on-wednesday/) - Blog NASA (2021)
 
 ---
 
@@ -117,12 +119,15 @@
 > * Oleg Novitsky et Pyotr Dubrov ont passé 7 heures et 19 minutes hors de l'ISS afin de déconnecter tous les liens mécaniques externes entre le module Pirs et le module de service Zvezda de l'ISS. Pirs était attaché au segment russe de l'ISS depuis 2001, et va être décomissionné par le cargo Progress le 17 Juin 2021 afin qu'il soit remplacé par le nouveau module scientifique Nauka (ce qui signifie Science en russe). Pirs deviendra ainsi le premier module décommissionné de l'ISS.
 > * Le module Nauka sera lancé le 15 Juillet depuis le cosmodrome de Baikonour au Kazakhstan, à bord d'un lanceur Proton. Lorsqu'il sera en orbite, le cargo Progress sera utilisé pour retirer le module Pirs de l'ISS. Ce dernier sera ensuite envoyé dans l'atmosphère terrestre pour y être désintégré.
 > * Lorsque le module Nauka sera connecté à Zvezda quelques jours plus tard, une autre EVA sera requise pour reconnecter tous les cables.
-- 2 autres EVA sont prévues avant le départ de Pirs et l'arrivée de Nauka. Elle seront assurée par Thomas Pesquet et Shane Kinbrough. Ce sera respectivement la 7e et la 8e EVA de l'année.
+- 2 autres EVA sont prévues avant le départ de Pirs et l'arrivée de Nauka. Elle seront assurée par Thomas Pesquet et Shane Kinbrough. Ce sera respectivement la 7e et la 8e EVA de l'année, ainsi que la 239e et 240e EVA de maintenance de l'ISS.
 > * La première, l'EVA B IROSA, aura lieu le 16 Juin 2021, et la 2e aura lieu le 20 Juin.
 > * Les 2 astronautes sortiront du module Quest, situé sur le segment américain de l'ISS, afin d'installer le premier des 2 nouveaux panneau solaire sur l'ISS, les panneaux IROSA (International Space Station Roll-Out Solar Arrays).
 > * Chaque EVA doit durer environ 6 heures et demi.
 > * Ces 2 panneaux fournis par la NASA sont arrivés le 3 Juin 2021 dans une capsule Dragon lors de la mission de ravitaillement CRS-22. Lorsqu'ils seront installés, l'ISS aura retrouvé la quasi-totalité de sa puissance électrique optimale (qui déclinait à cause du vieillissement des 8 panneaux solaires originels, installés entre 2000 et 2009), et cette énergie supplémentaire sera nécessaire pour alimenter la future expansion du segment américain de l'ISS
-> * Thomas Pesquet a déjà réalisé 2 sorties spatiales avec Shane Kimbrough (EVA 39 et 40) durant sa mission Proxima (entre 2016 et 2017). 
+> * Les deux astronautes vont être amenés sur leur lieu de travail par un bras robotique de 17m de long, Canadarm2, piloté de l'intérieur de l'ISS par Megan McArthur (et Mark Vande Hei en backup)
+> * Thomas Pesquet a déjà réalisé 2 sorties spatiales avec Shane Kimbrough (EVA 39 et 40) durant sa mission Proxima (entre 2016 et 2017). Quant à Kimbrough, il en a déjà réalisé 6. 
+- Les panneaux solaires actuels fonctionnent encore plutôt bien mais montrent des signes d'usure, dûs notamment à des impacts de micrométéorites. Prévus initialement pour durer 15 ans, ils sont toujours en activités depuis 2000.
+> Les panneaux IROSA ne vont pas remplacer les panneaux actuels : ils vont être posés par dessus 6 des panneaux initiaux. Et comme ils ont un meilleur rendement, ils vont pouvoir augmenter la puissance électrique utilisable de l'ISS, qui va passer de 160 kilowatts à 215 kilowatts. 
 - Cette série d'EVA constitue le plus intense effort de construction sur l'ISS depuis la fin de son assemblage initial en Juin 2011.
 
 # Systèmes de support vie
@@ -169,7 +174,7 @@
     
 ## Le projet MELiSSA
 
-- MELiSSA, pour Micro-Ecological Life Support System Alternative, est un projet de système de support vie régénératif de l'ESA lancé en 1988 et toujours à l'étude. Il est porté par l'Université de Barcelone (Espagne)
+- MELiSSA, pour Micro-Ecological Life Support System Alternative, est un projet de système de support vie régénératif de l'ESA lancé en 1988 et toujours à l'étude. Un démonstrateur technologique a été développé à l'Université de Barcelone (Espagne)
 - Le principe est de créer un écoystème clos artificiel à base de micro-organismes qui traitent les déchets d'un équipage et de plantes qui produisent de la nourriture et de l'oxygène, dans le contexte d'une mission spatiale habitée de longue durée, sur une base lunaire ou vers Mars par exemple.
 - Le système de recyclage de déchets que les chercheurs de MELiSSA tentent d'implémenter est basé sur le fonctionnement d'un écosystème lacustre
 - La première étape du projet a été d'identifier les lignées bactériennes adéquates pour enclencher des boucles de rétroaction qui stabilisent le système, le tout en prenant en compte l'évolution naturelle des bactéries, qui peut déstabiliser le système au fil du temps
