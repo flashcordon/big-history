@@ -183,6 +183,19 @@
 > Le CO2 produit par les souris sera consommé par de la spiruline, une algue photosynthétique, qui produira de l'oxygène en retour.
 
 
+## Le projet Biosphere 2
+
+*Sources*
+
+- [10 Lessons from Biosphere 2](https://www.wired.com/2004/12/biosphere/#previouspost) - WIRED (2004)
+
+---
+
+- Y avait bien eu quelques essais préhistoriques, comme le très médiatisé Biosphère 2 en 1991. Une belle expérience, Biosphère 2, le premier essai à grande échelle d'un écosystème clos, qui avait pour but de préparer la colonisation de Mars. L’idée, c’était de mettre une version miniature de la Terre en bouteille, au milieu du désert en Arizona, et de faire vivre 8 personnes enfermées à l’intérieur pendant 2 ans, en autonomie complète. 
+- Dans l’immense complexe totalement hermétique qui avait été construit, plusieurs types d’écosystèmes avaient été reproduits: une forêt tropicale, un océan et sa barrière de corail, un marais, une savane et un désert. Les scientifiques volontaires vivaient de leurs récoltes, et les plantes du complexe fournissaient leur oxygène. 
+- En pratique, les bionautes, comme on les a appelé, ont dû faire face à une fuite d’oxygène qui a mis leur vie en danger, à un écosystème mal équilibré et à pas mal de problèmes humains qui vont des publications scientifiques douteuses aux chercheurs qui pouvaient pas se saquer. Bref, le projet a été un semi-échec, et il a été pas mal ridiculisé en son temps. Faut dire que l’aura New Age autour du projet et de son financement n’a pas vraiment aidé non plus. 
+- Mais Biosphère 2 aura au moins servi à montrer UNE chose : maîtriser un écosystème, c’est pas simple. Du coup des approches simplifiées ont vues le jour, comme le projet MELISSA de l’agence spatiale européenne. 
+
 ## Expériences ISS CADMOS
 
 *Sources*
