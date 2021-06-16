@@ -233,7 +233,19 @@
 - étude d’un organisme unicellulaire étonnant
 - Le blob, ou Physarum polycephalum, n’est ni une plante, ni un animal, ni un champignon, et sa place dans l’arbre du vivant a longtemps été incertaine. Composé d’une seule et unique cellule et dépourvu d’un cerveau, il est pourtant capable de se déplacer à une vitesse de 3mm/h, de se nourrir, de s’organiser et même de transmettre ses apprentissages à un congénère. Généralement de couleur jaune, il vit dans les zones tempérées, humides et sombres telles que les sous-bois. Cet organisme étonnant fait l’objet de recherches dans le laboratoire d’Audrey Dussutour, directrice de recherche CNRS au Centre de recherches sur la cognition animale (CRCA ; CNRS/Université Toulouse III – Paul Sabatier). L’objectif de l’expérience éducative « Blob » est d’observer l’impact de la micropesanteur sur la nutrition, le comportement et la vitesse de déplacement de plusieurs blobs, placés dans des boîtes transparentes hermétiques dans l’ISS, et filmés pendant qu’ils se nourrissent et explorent leur environnement (Blob-ISS). En parallèle, les élèves de plus de 2000 établissements scolaires français sélectionnés sont invités à réaliser la même expérience sur Terre (Blob-Terre) et à comparer le comportement de leur blob avec celui des blobs spatiaux.
 
+## Lunar Gateway
 
+*Sources*
+
+- [Lunar Gateway](https://fr.wikipedia.org/wiki/Lunar_Gateway)
+
+---
+
+- ou LOP-G, anciennement Deep Space Gateway (« portail sur l'espace lointain »), est un projet de station orbitale en orbite lunaire proposé en 2017 par la NASA
+- Premier module en 2024 
+- Le 11 mars 2019, Jim Bridenstine, administrateur de la NASA, dévoile les grands axes du programme Explore Moon To Mars lors d'une conférence au centre spatial Kennedy6. Ce programme envisage l'envoi d'astronautes vers Mars à l'horizon 2030 après une décennie passée à l'étude des séjours longue durée dans l'espace, en orbite autour de la Lune, dans une station internationale
+- La station spatiale est placée sur une orbite autour de la Lune dite NRHO (Near Rectilinear Halo Orbit). C'est une orbite de halo dont la période orbitale est de 7 jours, le périsélène (le point le plus proche de la Lune) est de 3 000 km et l'aposélène de 70 000 km
+- La station spatiale lunaire Lunar Gateway sert de relais entre la Terre et la surface de la Lune. 
 
 
 
