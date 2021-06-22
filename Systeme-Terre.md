@@ -306,7 +306,7 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [When Did Photosynthesis Emerge on Earth?](https://science.sciencemag.org/content/289/5485/1703.summary) - Des Marais (2000)
 - [Out of thin air](https://www.nature.com/articles/445610a?proof=t) - Allen et Martin (2007)
 - [On the Origin of Photosynthesis](https://science.sciencemag.org/content/323/5919/1286) - Leslie (2009)
-- [The functional significance of black-pigmented leaves: photosynthesis, photoprotection and productivity in Ophiopogon planiscapus 'Nigrescens'](https://pubmed.ncbi.nlm.nih.gov/23826347/) - Hatier et al (2013)
+- [The functional significance of black-pigmented leaves: photosynthesis, photoprotection and productivity in Ophiopogon planiscapus 'Nigrescens'](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067850) - Hatier et al (2013)
 
 ---
 
@@ -348,6 +348,8 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 
 - La photosynthèse est à la base du fonctionnement global de la biosphère. Elle transforme la lumière du Soleil en énergie contenue dans les électrons et dans les liens chimiques des molécules organiques.
 
+- Fun fact : même si elles sont extrêmement rares dans la nature, il existe des plantes aux feuilles noires !
+> C'est le cas par exemple de l'Ophiopogon noir (Ophiopogon planiscapus Nakai ‘Nigrescens’), surnommée "barbe de serpent" par les horticulteurs.
 
 Biologists agree that cyanobacteria invented the art of making oxygen2, but when and how this came about remain uncertain.
 
