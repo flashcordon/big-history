@@ -332,18 +332,14 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - Il y a plusieurs hypothèses concernant l'origine de la photosynthèse :
 > * Certains chercheurs pensent qu'elle a débuté en tant qu'adaptation fortuite à partir de pigments primitifs dans des bactéries se nourissant de l'énergie chimique des roches (chimiolithotrophie) dans les sources hydrothermales, qui a permis à ces bactéries d'être moins dépendantes de la chaleur des sources et a étendu leur habitat à des eaux moins profondes
 > * Elle a aussi pu émerger directement dans des eaux peu profondes
-- La photosynthèse requiert un pigment, la chlorophylle, ainsi qu'une centaine de protéines pour transformer la lumière le CO2 en nourriture.
+- La photosynthèse requiert un pigment, la chlorophylle, ainsi qu'une centaine de protéines pour transformer la lumière et le CO2 de l'air en nourriture.
 > * ***Equation de la photosynthèse*** :  6CO2 + 6H2O → C6H12O6 (sucre) + 6O2
-> * Dans ce processus, l'eau joue le rôle de source d'électrons. L'énergie de la lumière sert à démarrer un circuit électrique à l'intérieur de 2 amas de protéines (appelés photosystème I et II) qui mène à la création de molécules qui encapsulent beaucoup d'énergie : l'ATP et le NADPH. Ces molécules servent à alimenter les réactions chimiques qui synthétisent les sucres dont l'organisme aura besoin. Ce processus génère de l'oxygène (O2) comme déchet.
+> * Dans ce processus, l'eau joue le rôle de source d'électrons. L'énergie de la lumière sert à démarrer un circuit électrique à l'intérieur de 2 amas de protéines (appelés photosystème I et II) qui mène à la création de molécules qui encapsulent beaucoup d'énergie : l'ATP et le NADPH. Ces molécules servent à alimenter les réactions chimiques qui synthétisent les sucres dont l'organisme aura besoin. Ce processus génère de l'oxygène (O2) comme déchet (le photosystème II génère un potentiel électrochimique de 1.1 Volts, qui lui permet de subtiliser 4 électrons présents dans 2 molécules d'eau, ce qui les découpe et génère une molécule d'O2).
 - Mais certaines bactéries vivant dans des sources chaudes utilisent une autre source d'électron que l'eau pour la photosynthèse, comme le sulfure d'hydrogène par exemple !
 > Ce type particulier de photosynthèse ne produit pas d'oxygène
+- La plupart des chercheurs pensent que la photosynthèse non-oxygénique est apparue avant la photosynthèse oxygénique (pourquoi ?)
 
 Biologists agree that cyanobacteria invented the art of making oxygen2, but when and how this came about remain uncertain.
-
-Most researchers accept that nonoxygenic
-photosynthesis arose first, probably shortly
-after life originated more than 3.8 billion
-years ago.
 
 The sharpest disputes revolve around
 when organisms shifted to oxygenic photosynthesis.
@@ -355,10 +351,6 @@ the first unmistakable signs of significant,
 sustained levels of atmospheric oxygen.
 These signs include red beds, or layers
 tinged by oxidized iron, i.e., rust.
-
-
-
-Oxygenic photosynthesis involves about 100 proteins that are highly ordered within the photosynthetic membranes of the cell. The main players are two molecular machines, photosystem I and photosystem II, that act as electrochemical solar cells. With the help of chlorophyll (the pigment that makes plants green), they transform sunlight into electrical current (Fig. 1). Photosystem II generates an electrochemical potential of + 1.1 volts, enough to remove two electrons from each of two water molecules, making a molecule of O2 at a cost of four photons — one for each electron moved. Photosystem II performs this remarkable feat only when photosystem I is present to dispose of the electrons. Photosystem I grabs the four electrons and uses four more photons to deposit them, in two pairs, on an electron carrier called NADP+. NADP+ ultimately transfers the electrons to carbon dioxide, thereby providing the energy to make carbon-based sugars and the other molecules of life: light makes life and oxygen out of water and thin air.
 
 Oxygenic photosynthesis is the only significant source of O2 known, so indications for O2 in the geological record should date its origin. Geochemical evidence suggests that 2.3 billion years ago atmospheric oxygen had risen to more than 10−5 of its present concentration3. So this date should set a minimum age for cyanobacteria4. But might they be older? 
 
