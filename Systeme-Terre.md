@@ -333,11 +333,12 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 > * Certains chercheurs pensent qu'elle a débuté en tant qu'adaptation fortuite à partir de pigments primitifs dans des bactéries se nourissant de l'énergie chimique des roches (chimiolithotrophie) dans les sources hydrothermales, qui a permis à ces bactéries d'être moins dépendantes de la chaleur des sources et a étendu leur habitat à des eaux moins profondes
 > * Elle a aussi pu émerger directement dans des eaux peu profondes
 - La photosynthèse requiert un pigment, la chlorophylle, ainsi qu'une centaine de protéines pour transformer la lumière et le CO2 de l'air en nourriture.
-> * ***Equation de la photosynthèse*** :  6CO2 + 6H2O → C6H12O6 (sucre) + 6O2
+> * ***Equation de la photosynthèse oxygénique*** :  6CO2 (dioxide de carbone) + 6H2O (eau) → C6H12O6 (sucre) + 6O2 (dioxygène)
 > * Dans ce processus, l'eau joue le rôle de source d'électrons. L'énergie de la lumière sert à démarrer un circuit électrique à l'intérieur de 2 amas de protéines (appelés photosystème I et II) qui mène à la création de molécules qui encapsulent beaucoup d'énergie : l'ATP et le NADPH. Ces molécules servent à alimenter les réactions chimiques qui synthétisent les sucres dont l'organisme aura besoin. Ce processus génère de l'oxygène (O2) comme déchet (le photosystème II génère un potentiel électrochimique de 1.1 Volts, qui lui permet de subtiliser 4 électrons présents dans 2 molécules d'eau, ce qui les découpe et génère une molécule d'O2).
-- Mais certaines bactéries vivant dans des sources chaudes utilisent une autre source d'électron que l'eau pour la photosynthèse, comme le sulfure d'hydrogène par exemple !
-> Ce type particulier de photosynthèse ne produit pas d'oxygène
-- La plupart des chercheurs pensent que la photosynthèse non-oxygénique est apparue avant la photosynthèse oxygénique (pourquoi ?)
+- Mais certaines bactéries (les bactéries pourpres sulfureuses vivant dans des sources chaudes) utilisent une autre source d'électron que l'eau pour la photosynthèse, comme le sulfure d'hydrogène par exemple !
+> * Ce type particulier de photosynthèse ne produit pas d'oxygène
+> * ***Equation de la photosynthèse anoxygénique:*** CO2 (dioxide de carbone) + 2H2S (sulfure d'hydrogène) → CH20 (glucide) + H2O + 2S (soufre)
+- La plupart des chercheurs pensent que la photosynthèse anoxygénique est apparue avant la photosynthèse oxygénique (pourquoi ?)
 
 Biologists agree that cyanobacteria invented the art of making oxygen2, but when and how this came about remain uncertain.
 
@@ -587,8 +588,6 @@ E = hν,
 -  photosynthesis.The  molecular  apparatus  of photosynthesis  isfinely  tunedto  use  the  energy  oftwophotons  arriving  in  rapid  succession  to splitonewater molecule (yielding oxygen as a waste byproduct) and obtaintwo protons.A single photon in the ultraviolet region of the spectrum couldprovide the required energy.However, the atmosphere  attenuates  such  radiation.  So  photosynthesis  uses  two  photons  in  the  visible spectrum  arriving  within  a  femtosecond  timescale.Capturing  all  incident  radiation  isn't  going  to make the process more efficient.
 -  black plants exist. Here's Black Mondo Grass (Osphiopogon planiscapus 'Nigrescens')
 
-
-- Fonctionnement de la photosynthèse et chlorophylle
 - Purple bacteria 
 - peut être sur d'autres exoplanètes ?
 - Mais sur Terre, chlorophylle responsable de 99,9% de la productivité des plantes (d'où vient le 0,01%?)
@@ -601,7 +600,7 @@ E = hν,
 - Instead, for a safe, steady energy output, the pigments of the photosystem had to be very finely tuned in a certain way. The pigments needed to absorb light at similar wavelengths to reduce the internal noise. But they also needed to absorb light at different rates to buffer against the external noise caused by swings in light intensity. The best light for the pigments to absorb, then, was in the steepest parts of the intensity curve for the solar spectrum — the red and blue parts of the spectrum.
 - The model’s predictions matched the absorption peaks of chlorophyll a and b, which green plants use to harvest red and blue light. It appears that the photosynthesis machinery evolved not for maximum efficiency but rather for an optimally smooth and reliable output.
 - Cogdell wasn’t fully convinced at first that this approach would hold up for other photosynthetic organisms, such as the purple bacteria and green sulfur bacteria that live underwater and are named for the colors their pigments reflect. Applying the model to the sunlight available where those bacteria live, the researchers predicted what the optimal absorption peaks should be. Once again, their predictions matched the activity of the cells’ pigments.
-- 
+
 
 ## Exobiologie
 
