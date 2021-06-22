@@ -334,11 +334,15 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 > * Elle a aussi pu émerger directement dans des eaux peu profondes
 - La photosynthèse requiert un pigment, la chlorophylle, ainsi qu'une centaine de protéines pour transformer la lumière et le CO2 de l'air en nourriture.
 > * ***Equation de la photosynthèse oxygénique*** :  6CO2 (dioxide de carbone) + 6H2O (eau) → C6H12O6 (sucre) + 6O2 (dioxygène)
-> * Dans ce processus, l'eau joue le rôle de source d'électrons. L'énergie de la lumière sert à démarrer un circuit électrique à l'intérieur de 2 amas de protéines (appelés photosystème I et II) qui mène à la création de molécules qui encapsulent beaucoup d'énergie : l'ATP et le NADPH. Ces molécules servent à alimenter les réactions chimiques qui synthétisent les sucres dont l'organisme aura besoin. Ce processus génère de l'oxygène (O2) comme déchet (le photosystème II génère un potentiel électrochimique de 1.1 Volts, qui lui permet de subtiliser 4 électrons présents dans 2 molécules d'eau, ce qui les découpe et génère une molécule d'O2).
+> * Chez les eucaryotes, la photosynthèse se produit dans un organite appelé chloroplaste délimité par une double membrane. À l'intérieur des 2 mombranes externes se trouvent les pigments chlorophylliens. Lorsque la lumière du Soleil atteint la chlorophylle, les électrons sont excités et sont éjectés des molécules du pigment. L'énergie de la lumière sert ainsi à démarrer un circuit électrique à l'intérieur de 2 amas de protéines (appelés photosystème I et II) qui mène à la création de molécules qui encapsulent beaucoup d'énergie : l'ATP et le NADPH. Ces molécules servent à alimenter les réactions chimiques qui synthétisent les sucres dont l'organisme aura besoin à partir du CO2 et de l'eau (un processus appelé cycle de Calvin). Ce processus génère de l'oxygène (O2) comme déchet (le photosystème II génère un potentiel électrochimique de 1.1 Volts, qui lui permet de subtiliser 4 électrons présents dans 2 molécules d'eau, ce qui les découpe et génère une molécule d'O2). Ces éectrons repartent ensuite dans les molécules de la chlorophylle. Dans la photosynthèse oxygénique,  l'eau joue donc le rôle de source d'électrons. 
 - Mais certaines bactéries (les bactéries pourpres sulfureuses vivant dans des sources chaudes) utilisent une autre source d'électron que l'eau pour la photosynthèse, comme le sulfure d'hydrogène par exemple !
 > * Ce type particulier de photosynthèse ne produit pas d'oxygène
 > * ***Equation de la photosynthèse anoxygénique:*** CO2 (dioxide de carbone) + 2H2S (sulfure d'hydrogène) → CH20 (glucide) + H2O + 2S (soufre)
 - La plupart des chercheurs pensent que la photosynthèse anoxygénique est apparue avant la photosynthèse oxygénique (pourquoi ?)
+
+- Le Soleil émet de l'énergie à toutes les longueurs d'ondes, mais certaines longueurs d'onde plus que d'autres. La courbe de son spectre d'émission correspond globalement à celle d'un corps noir rayonnant à 5500°C. 
+- Mais lorsque les photons du Soleil passent à travers l'atmosphère, certaines bandes de longueurs d'ondes sont absorbées par les molécules de l'atmosphère. Le spectre du Soleil observé depuis la surface terrestre est donc rempli de pics et de creux.
+
 
 Biologists agree that cyanobacteria invented the art of making oxygen2, but when and how this came about remain uncertain.
 
@@ -356,8 +360,6 @@ tinged by oxidized iron, i.e., rust.
 Oxygenic photosynthesis is the only significant source of O2 known, so indications for O2 in the geological record should date its origin. Geochemical evidence suggests that 2.3 billion years ago atmospheric oxygen had risen to more than 10−5 of its present concentration3. So this date should set a minimum age for cyanobacteria4. But might they be older? 
 
 Could cyanobacteria date back to 3.8 billion years ago, or even earlier? Not according to the geochemical data from a 3.4-billion-year-old sedimentary formation in South Africa called the Buck Reef Chert6. This massive formation shows evidence of having been deposited through carbon fixation by photosynthesizing organisms, but it contains none of the mineral traces expected from the production of O2. Thus, the simplest interpretation is that the deposit was laid down by anoxygenic photosynthesis for which the source of electrons was molecular hydrogen or other inorganic molecules4,6. If 3.4 billion years is taken as an upper boundary for the age of O2 synthesis, the origin of oxygenic photosynthesis would fall within the range of 3.4 billion to 2.3 billion years ago. This range is admittedly rather imprecise, but it is something. Of course, absence of evidence is not evidence of absence, and other authors suggest that O2 could have been produced as early as 4.0 billion years ago, but was rapidly consumed7,8.
-
-Some modern bacteria carry out anoxygenic photosynthesis, which is assumed to have been the precursor of the oxygen-producing reaction. 
 
 
 - The selective utilization of light energy results in
@@ -479,13 +481,8 @@ for life on land after the buildup of atmospheric
 O2, which shifted the surface spectral
 photon flux from a peak at 600 nm to 685 nm.
 
-- Photosynthesis is a series of chemical reactions that use sunlight and water
-to produce energy-carrier molecules that in turn are used to make sugars from
-carbon dioxide. The process releases oxygen gas into the environment.
-Photosynthesis occurs in two main steps: the first step captures light to
-produce energy carriers, generating oxygen as a by-product; the second
-step produces sugars from carbon dioxide and water, using energy carriers
-produced in the first step.
+- 
+
 - Producers carry out photosynthesis, but their cells also
 respire. Consumers and decomposers, on the other hand,
 only respire. Photosynthesis is an anabolic pathway
@@ -540,12 +537,8 @@ blue-violet light. Because these pigments do not absorb
 green light to any appreciable extent, green light bounces
 off photosynthetic tissues so they look green to us
 
-- The sun’s emission spectrum is thus that
-of a blackbody at ≈5500°C (Figure 3-7; BNID 110208, 110209). However, as
-a result of our own atmosphere, the photons reaching Earth’s surface do
-not reflect a perfect blackbody spectrum since several wavelength bands
-get absorbed, as shown in Figure 3-7, resulting in a spectrum full of peaks
-and troughs.
+
+
 - The overall process taking place in photosynthesis, which serves as the
 energetic basis for our biosphere, is depicted in Figure 3-8. To drive photosynthesis,
 a photon must be energetic enough to excite photosynthetic
