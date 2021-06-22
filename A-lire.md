@@ -6,3 +6,8 @@
 - [Interview du planétologue William Hartmann : « La thèse du grand bombardement tardif s’effondre »](https://www.cieletespace.fr/actualites/interview-du-planetologue-william-hartmann-la-these-du-grand-bombardement-tardif-s-effondre) - Ciel & Espace
 - [A diatribe on expanding space](https://arxiv.org/abs/0809.4573) - Peacock (2008)
 - [Expanding space: the Root of all Evil?](https://arxiv.org/abs/0707.0380) - Francis et al (2007)
+- [The Sun Will Turn Into a Giant Crystal Ball After It Dies](https://www.space.com/42949-sun-crystal-white-dwarf-stars-lifecycle.html) - Space (2019)
+- [Particles do not exist](https://ui.adsabs.harvard.edu/abs/1984qtg..book...66D/abstract) - Paul Davies
+- [In Search for a Planet Better than Earth: Top Contenders for a Superhabitable World](https://www.liebertpub.com/doi/10.1089/ast.2019.2161) - Schulze-Makuch et al (2020)
+- [The Origin of Elements from Carbon to Uranium](https://arxiv.org/abs/2008.04660) - Kobayashi et al (2020)
+- [Bashing holes in the tale of Earth's troubled youth](https://www.nature.com/articles/d41586-018-01074-6) - Nature (2018)
