@@ -348,8 +348,9 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 
 - La photosynthèse est à la base du fonctionnement global de la biosphère. Elle transforme la lumière du Soleil en énergie contenue dans les électrons et dans les liens chimiques des molécules organiques.
 
-- Fun fact : même si elles sont extrêmement rares dans la nature, il existe des plantes aux feuilles noires !
-> C'est le cas par exemple de l'Ophiopogon noir (Ophiopogon planiscapus Nakai ‘Nigrescens’), surnommée "barbe de serpent" par les horticulteurs.
+- Fun fact : même s'il n'existe pas de plantes vasculaires aux feuilles noires connues dans la nature, il existe des plantes à la pigmentation noire !
+> * C'est le cas de certaines mousses du genre Andreaea et Grimmia, et d'hépatiques comme Cephalomitrion, Isophyllaria et Marsupella.
+> * C'est aussi le cas de l'Ophiopogon noir (*Ophiopogon planiscapus Nakai ‘Nigrescens’*), surnommée "barbe de serpent" par les horticulteurs. Cet angiosperme aux feuilles noires est utilisé comme plante ornementale dans de nombreux jardins. Cependant, il est le fruit de la sélection artificielle.
 
 Biologists agree that cyanobacteria invented the art of making oxygen2, but when and how this came about remain uncertain.
 
