@@ -17,3 +17,4 @@
 - [Thresholds in Origins of life scenarios](https://www.cell.com/iscience/pdf/S2589-0042(20)30953-6.pdf) - Jeancolas et al (2021)
 - [Reductionism vs. emergence: Are you “nothing but” your atoms?](https://bigthink.com/13-8/reductionism-vs-emergence-science-philosophy) - Adam Frank (2021)
 - [Mon mémoire en 400 mots : Frédéric Genest](http://www.exoplanetes.umontreal.ca/mon-memoire-en-400-mots-frederic-genest/) - Irex
+- [Chemistry of the universe](https://chandra.si.edu/chemistry/?fbclid=IwAR2qhlmGbZMgfQjTLm-NnzdG1bxofKi_sgxtC2WXqwq2GH_df2e6NgN_ZGI) - Chandra
