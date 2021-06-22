@@ -18,3 +18,5 @@
 - [Reductionism vs. emergence: Are you “nothing but” your atoms?](https://bigthink.com/13-8/reductionism-vs-emergence-science-philosophy) - Adam Frank (2021)
 - [Mon mémoire en 400 mots : Frédéric Genest](http://www.exoplanetes.umontreal.ca/mon-memoire-en-400-mots-frederic-genest/) - Irex
 - [Chemistry of the universe](https://chandra.si.edu/chemistry/?fbclid=IwAR2qhlmGbZMgfQjTLm-NnzdG1bxofKi_sgxtC2WXqwq2GH_df2e6NgN_ZGI) - Chandra
+- [Memmler's The Human Body in Health and Disease, Enhanced Edition](https://books.google.fr/books?id=wZ7qDwAAQBAJ&pg=PA22&lpg=PA22&dq=body+chemical+composition+carbon+18.5&source=bl&ots=IiW60Sf25T&sig=ACfU3U1LCpxibClVOXJHglShZ1vkySeUHA&hl=fr&sa=X&ved=2ahUKEwjr0MPDz5HxAhVDZhQKHRCYA0cQ6AEwEXoECAgQAw#v=onepage&q=body%20chemical%20composition%20carbon%2018.5&f=false) 
+- [Knowledge Encyclopedia Human Body!](https://books.google.fr/books?id=z86pDwAAQBAJ&pg=PA8&lpg=PA8&dq=body+chemical+composition+carbon+18.5&source=bl&ots=j7PfV384ui&sig=ACfU3U2z1pChcpW2_uc0WGwd6KfloZWp_A&hl=fr&sa=X&ved=2ahUKEwjr0MPDz5HxAhVDZhQKHRCYA0cQ6AEwEnoECAcQAw#v=onepage&q=body%20chemical%20composition%20carbon%2018.5&f=false)
