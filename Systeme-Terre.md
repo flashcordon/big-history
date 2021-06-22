@@ -334,7 +334,7 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 > * Elle a aussi pu émerger directement dans des eaux peu profondes
 - La photosynthèse requiert un pigment, la chlorophylle, ainsi qu'une centaine de protéines pour transformer la lumière et le CO2 de l'air en nourriture.
 > * ***Equation de la photosynthèse oxygénique*** :  6CO2 (dioxide de carbone) + 6H2O (eau) → C6H12O6 (sucre) + 6O2 (dioxygène)
-> * Chez les eucaryotes, la photosynthèse se produit dans un organite appelé chloroplaste délimité par une double membrane. À l'intérieur des 2 mombranes externes se trouvent les pigments chlorophylliens. Lorsque la lumière du Soleil atteint la chlorophylle, les électrons sont excités et sont éjectés des molécules du pigment. L'énergie de la lumière sert ainsi à démarrer un circuit électrique à l'intérieur de 2 amas de protéines (appelés photosystème I et II) qui mène à la création de molécules qui encapsulent beaucoup d'énergie : l'ATP et le NADPH. Ces molécules servent à alimenter les réactions chimiques qui synthétisent les sucres dont l'organisme aura besoin à partir du CO2 et de l'eau (un processus appelé cycle de Calvin). Ce processus génère de l'oxygène (O2) comme déchet (le photosystème II génère un potentiel électrochimique de 1.1 Volts, qui lui permet de subtiliser 4 électrons présents dans 2 molécules d'eau, ce qui les découpe et génère une molécule d'O2). Ces éectrons repartent ensuite dans les molécules de la chlorophylle. Dans la photosynthèse oxygénique,  l'eau joue donc le rôle de source d'électrons. 
+> * Chez les eucaryotes, la photosynthèse se produit dans un organite appelé chloroplaste délimité par une double membrane. À l'intérieur des 2 mombranes externes se trouvent les pigments chlorophylliens. Lorsque la lumière du Soleil atteint la chlorophylle, les électrons sont excités et sont éjectés des molécules du pigment. L'énergie de la lumière sert ainsi à démarrer un circuit électrique à l'intérieur de 2 amas de protéines (appelés photosystème I et II) qui mène à la création de molécules qui encapsulent beaucoup d'énergie : l'ATP et le NADPH. Ces molécules servent à alimenter les réactions chimiques qui synthétisent les sucres dont l'organisme aura besoin à partir du CO2 et de l'eau (un processus appelé cycle de Calvin). Ce processus génère de l'oxygène (O2) comme déchet (le photosystème II génère un potentiel électrochimique de 1.1 Volts, qui lui permet de subtiliser 4 électrons présents dans 2 molécules d'eau, ce qui les découpe et génère une molécule d'O2). Ces électrons repartent ensuite combler les "trous" des molécules de la chlorophylle. Dans la photosynthèse oxygénique, l'eau joue donc le rôle de source d'électrons. 
 - Mais certaines bactéries (les bactéries pourpres sulfureuses vivant dans des sources chaudes) utilisent une autre source d'électron que l'eau pour la photosynthèse, comme le sulfure d'hydrogène par exemple !
 > * Ce type particulier de photosynthèse ne produit pas d'oxygène
 > * ***Equation de la photosynthèse anoxygénique:*** CO2 (dioxide de carbone) + 2H2S (sulfure d'hydrogène) → CH20 (glucide) + H2O + 2S (soufre)
@@ -342,6 +342,10 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 
 - Le Soleil émet de l'énergie à toutes les longueurs d'ondes, mais certaines longueurs d'onde plus que d'autres. La courbe de son spectre d'émission correspond globalement à celle d'un corps noir rayonnant à 5500°C. 
 - Mais lorsque les photons du Soleil passent à travers l'atmosphère, certaines bandes de longueurs d'ondes sont absorbées par les molécules de l'atmosphère. Le spectre du Soleil observé depuis la surface terrestre est donc rempli de pics et de creux.
+
+- La chlorophylle est ce qui donne aux plantes leur couleur verte. Elle absorbe essentiellement la lumière rouge-orange et bleue-violette du Soleil, mais pas la lumière verte, qui est donc réfléchie. 
+
+- La photosynthèse est à la base du fonctionnement global de la biosphère. Elle transforme la lumière du Soleil en énergie contenue dans les électrons et dans les liens chimiques des molécules organiques.
 
 
 Biologists agree that cyanobacteria invented the art of making oxygen2, but when and how this came about remain uncertain.
@@ -481,88 +485,13 @@ for life on land after the buildup of atmospheric
 O2, which shifted the surface spectral
 photon flux from a peak at 600 nm to 685 nm.
 
-- 
+
 
 - Producers carry out photosynthesis, but their cells also
 respire. Consumers and decomposers, on the other hand,
 only respire. Photosynthesis is an anabolic pathway
 and in eukaryotes it is conducted in organelles called
 chloroplasts, which are bounded by a double membrane.
-Pigments, especially the green pigment known
-as chlorophyll, are embedded in an internal system of
-membrane sacs inside the two outer membranes of the
-chloroplast. When sunlight strikes chlorophyll, electrons
-are energized and knocked out of the pigment molecules.
-The electrons are transferred, through a series of steps,
-to NADP+, which picks up hydrogen ions from its surrounding
-medium to become NADPH. The electron
-ejected from chlorophyll loses some of its energy as it
-is handed down a series of proteins and pigments, and
-some of that energy is harnessed in the phosphorylation
-of ADP to ATP. The energy carriers generated by
-these “light reactions” then fuel the reduction of carbon
-dioxide through a series of enzyme-catalyzed reactions,
-known as the Calvin cycle, to produce sugars (Figure
-8.2). What about the chlorophyll molecules that had
-electrons ripped out of them when they were struck by
-light? Enzymes associated with the membrane sacs help
-catalyze the breakdown of water molecules (H2O), which
-releases electrons, hydrogen ions, and molecular oxygen
-- (O2). The electrons “repair” the “holes” in the chlorophyll
-molecules, the hydrogen ions are used in the generation
-of energy carriers, such as NADPH, and as for the
-molecular oxygen . . . we’re inhaling it right now.
-- The process
-of photosynthesis, as we have seen, uses solar energy
-to generate energy carriers such as ATP and NADPH,
-which are then used to synthesize complex, energy-rich
-molecules such as sugars. The chemical reactions of
-photosynthesis also result in the splitting of water (H2O)
-and the release of oxygen gas (O2) into the environment
-- Together light reactions
-and the Calvin cycle form the foundation of life, not only
-for humans but also for virtually all other life forms on
-Earth, including plants themselves.
-- The capture of energy from sunlight is essential to
-photosynthesis and to life throughout the biosphere. In
-this process, solar energy is converted to the energy
-contained in the electrons and chemical bonds of organic
-molecules. Photosynthesis is carried out by specialized
-pigments, the most important being chlorophyll (from
-chloro, “greenish-yellow”; phyll, “leaf”), which accounts
-for the green color of most plant foliage. As rainbows
-reveal so dramatically, sunlight is composed of many
-colors. Plants absorb and use mostly red-orange and
-blue-violet light. Because these pigments do not absorb
-green light to any appreciable extent, green light bounces
-off photosynthetic tissues so they look green to us
-
-
-
-- The overall process taking place in photosynthesis, which serves as the
-energetic basis for our biosphere, is depicted in Figure 3-8. To drive photosynthesis,
-a photon must be energetic enough to excite photosynthetic
-pigments. In particular, this excitation refers to the fact that an electron
-in the pigment needs to get shifted from one molecular energy level
-to another. These pigments are coupled, in turn, to the photochemical
-machinery that converts electromagnetic energy into chemical energy by
-producing charge separation. This charge separation takes several forms.
-One contribution comes from an imbalance of protons across membranes,
-- which drive the ATP synthases—the molecular machines that synthesize
-ATP, resulting in an end product of ATP itself. The second form of charge
-separation manifests itself in the form of reducing power, the term for the
-transient storage of electrons in carriers such as NADPH, which are used
-later for stable energy storage in the form of sugars produced in the Calvin–
-Benson cycle. The redox reactions that drive the production of this
-reducing power are themselves driven by the light-induced excitation of
-pigments.
-The vast majority (>99.9%*) of these photochemical transformations are
-performed by the most familiar and important pigment of them all—
-namely, chlorophyll. In the chlorophyll molecule, an electron moves to an
-excited energy level as a result of the absorption of a photon with wavelength
-≤700 nm. To convert wavelength into energy, we exploit the Planck
-relation,
-E = hν,
 
 - Why  did  chlorophyl  evolve  to  be  green  as  opposed  to  black, which would absorb more energy?1. Firstly, getting energy from the sun is a great boon to life. Originally it probably came about by accident.  A  few  mutations  that  allowed  certain  chemicals  to  beproduced  that  produced  a secondary effect of energy gain. The particular chemicals that combined to form this could have been  any  color.  Nature  didn't  just  decide  on  a  color.  Evolution  has  no  goals.  It  is  a  series  of random  fluctuations  and  sometimes  thatrandom  new  trait  just  happens  to  allow  a  life  form  to outcompete  others  and  is  selectively  reinforced.  Once  you  have  something  that  works  it  works. What works is what stays. Plants work very well even with their green color.Plants  do  use  other colors  of light  than  just  the  ones  that  trigger chlorophyll.  Many  of  these  are through secondary processes or secondary dyes. Plants actually use almost 85% of the spectrum in some form or another. They just get most of their energy from Red and Blue.There are several scenarios that have been proposed. Any combination of these factors may be responsible.
 - Purple Earth.It is possible that the very first life form to process light may have been purple colored. This would mean it was reflecting red and blue light and absorbing green. In such a scenario this thing if it was the first to produce energy from light would have out competed against  everything  else.  It  would  have  had  a  population  explosion  and  possibly  covered much of the Earth or at least the oceans.Haloarchaeaare an example of a simple life form that  usesRetinalandBacteriorhodopsinto  produce  energy  though  far  less  efficiently  than photosynthesis.  Had  this  been  developed  prior  to  photosynthesis  it  may  have  let  it  spread very  far  even  though  it  is  a  less  efficient  energy  production  method.  A  2%  efficiency increase in a market no one has yet tapped is still a huge advantage.In  this  scenario  becuase  the  first  thing  to  use  light  was  using  green  light  it  left  a  niche  for another form of life to exploit. That niche would have been absorbtion of the Red and Blue spectrums.  Which  is  the  same  area  plants  absorb  today.  They  got  so  good  at  their  niche that they eventually were able to generate much more energy than the first life form did and eventually  out  competed  for  the  sun.  This  niche  has  worked  so  well  thatthey  never developed a full system for the other spectrums.
