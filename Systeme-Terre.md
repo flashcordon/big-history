@@ -332,43 +332,13 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - Il y a plusieurs hypothèses concernant l'origine de la photosynthèse :
 > * Certains chercheurs pensent qu'elle a débuté en tant qu'adaptation fortuite à partir de pigments primitifs dans des bactéries se nourissant de l'énergie chimique des roches (chimiolithotrophie) dans les sources hydrothermales, qui a permis à ces bactéries d'être moins dépendantes de la chaleur des sources et a étendu leur habitat à des eaux moins profondes
 > * Elle a aussi pu émerger directement dans des eaux peu profondes
+- La photosynthèse requiert un pigment, la chlorophylle, ainsi qu'une centaine de protéines pour transformer la lumière le CO2 en nourriture.
+> * ***Equation de la photosynthèse*** :  6CO2 + 6H2O → C6H12O6 (sucre) + 6O2
+> * Dans ce processus, l'eau joue le rôle de source d'électrons. L'énergie de la lumière sert à démarrer un circuit électrique à l'intérieur de 2 amas de protéines (appelés photosystème I et II) qui mène à la création de molécules qui encapsulent beaucoup d'énergie : l'ATP et le NADPH. Ces molécules servent à alimenter les réactions chimiques qui synthétisent les sucres dont l'organisme aura besoin. Ce processus génère de l'oxygène (O2) comme déchet.
+- Mais certaines bactéries vivant dans des sources chaudes utilisent une autre source d'électron que l'eau pour la photosynthèse, comme le sulfure d'hydrogène par exemple !
+> Ce type particulier de photosynthèse ne produit pas d'oxygène
 
 Biologists agree that cyanobacteria invented the art of making oxygen2, but when and how this came about remain uncertain.
-
-Over more than 200 years, researchers have
-ironed out most of the molecular details of
-how organisms turn carbon dioxide and
-water into food. Chlorophyll pigment and
-about 100 other proteins team up to put light
-to work. Plants, some protists, and cyanobacteria
-embed their chlorophyll in two
-large protein clusters, photosystem I and
-photosystem II. And they need both systems
-to use water as an electron source. Light
-jump-starts an electrical circuit in which
-electrons flow from the photosystems
-through protein chains that
-make the energy-rich molecules
-ATP and NADPH. These molecules
-then power the synthesis
-of the sugars that organisms
-depend on to grow and multiply.
-Photosystem II—the strongest
-naturally occurring oxidant—
-regains its lost electrons by
-swiping them from water, generating
-oxygen as a waste product
-
-However, some bacteria
-don’t rely on water as an electron
-source, using hydrogen sulfide
-or other alternatives. These
-nonconformists, which today
-live in habitats such as scalding hot springs,
-don’t generate oxygen. Their photosynthetic
-proteins huddle in relatively simple “reaction
-centers” that may have been the predecessors
-of the two photosystems.
 
 Most researchers accept that nonoxygenic
 photosynthesis arose first, probably shortly
