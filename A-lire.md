@@ -16,3 +16,4 @@
 - [If we used the Sun as a Gravitational Lens, This is what a planet at Proxima Centauri would look like](https://www.universetoday.com/149214/if-we-used-the-sun-as-a-gravitational-lens-telescope-this-is-what-a-planet-at-proxima-centauri-would-look-like/) - Universe Today (2020)
 - [Thresholds in Origins of life scenarios](https://www.cell.com/iscience/pdf/S2589-0042(20)30953-6.pdf) - Jeancolas et al (2021)
 - [Reductionism vs. emergence: Are you “nothing but” your atoms?](https://bigthink.com/13-8/reductionism-vs-emergence-science-philosophy) - Adam Frank (2021)
+- [Mon mémoire en 400 mots : Frédéric Genest](http://www.exoplanetes.umontreal.ca/mon-memoire-en-400-mots-frederic-genest/) - Irex
