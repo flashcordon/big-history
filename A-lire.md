@@ -11,3 +11,6 @@
 - [In Search for a Planet Better than Earth: Top Contenders for a Superhabitable World](https://www.liebertpub.com/doi/10.1089/ast.2019.2161) - Schulze-Makuch et al (2020)
 - [The Origin of Elements from Carbon to Uranium](https://arxiv.org/abs/2008.04660) - Kobayashi et al (2020)
 - [Bashing holes in the tale of Earth's troubled youth](https://www.nature.com/articles/d41586-018-01074-6) - Nature (2018)
+- [Searching high and low for the origins of life](https://knowablemagazine.org/article/physical-world/2020/searching-high-and-low-origins-life) - Knowable Magazine (2020)
+- [How the first life on Earth survived its biggest threat - water](https://www.nature.com/articles/d41586-020-03461-4) - Nature (2020)
+- [If we used the Sun as a Gravitational Lens, This is what a planet at Proxima Centauri would look like](https://www.universetoday.com/149214/if-we-used-the-sun-as-a-gravitational-lens-telescope-this-is-what-a-planet-at-proxima-centauri-would-look-like/) - Universe Today (2020)
