@@ -22,3 +22,5 @@
 - [Knowledge Encyclopedia Human Body!](https://books.google.fr/books?id=z86pDwAAQBAJ&pg=PA8&lpg=PA8&dq=body+chemical+composition+carbon+18.5&source=bl&ots=j7PfV384ui&sig=ACfU3U2z1pChcpW2_uc0WGwd6KfloZWp_A&hl=fr&sa=X&ved=2ahUKEwjr0MPDz5HxAhVDZhQKHRCYA0cQ6AEwEnoECAcQAw#v=onepage&q=body%20chemical%20composition%20carbon%2018.5&f=false)
 - [Life on Earth is hard to spot](https://journals.sagepub.com/doi/full/10.1177/2053019620918939) - Lenton et al (2020)
 - [Properties of galaxies reproduced by a hydrodynamic simulation](https://arxiv.org/abs/1405.1418) - Vogelsberger et al (2014)
+- [Observing the big bounce with tensor modes in the cosmic microwave background: Phenomenology and fundamental loop quantum cosmology parameters](https://ui.adsabs.harvard.edu/abs/2010PhRvD..82l3520G/abstract) - Grain et al (2010)
+- [The end of us](https://aeon.co/essays/to-imagine-our-own-extinction-is-to-be-able-to-answer-for-it?utm_source=Instagram&utm_medium=referral&utm_campaign=tile) -  Thomas Moynihan (2020)
