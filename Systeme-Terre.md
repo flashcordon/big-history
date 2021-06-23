@@ -309,6 +309,7 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [The functional significance of black-pigmented leaves: photosynthesis, photoprotection and productivity in Ophiopogon planiscapus 'Nigrescens'](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067850) - Hatier et al (2013)
 - [Green light drives leaf photosynthesis more efficiently than red light in strong white light: revisiting the enigmatic question of why leaves are green](https://pubmed.ncbi.nlm.nih.gov/19246458/) - Terashima et al (2009)
 - [Effect of green light wavelength and intensity on photomorphogenesis and photosynthesis in Lactuca sativa](https://www.plantgrower.org/uploads/6/5/5/4/65545169/1-s2.0-s0098847211001924-main.pdf) - Johkan et al (2012)
+- [Which regionsof the electromagnetic spectrum do plants useto drive photosynthesis?](http://www.esalq.usp.br/lepse/imgs/conteudo_thumb/Which-regions-of-the-electromagnetic-spectrum-do-plants-use-to-drive-photosynthesis.pdf) - Heliospectra
 
 ---
 
@@ -356,6 +357,27 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 
 - La chlorophylle absorbe environ 90% de la lumière bleue et rouge, mais seulement 70 à 80% de la lumière verte. Le reste de la lumière verte est réfléchie, ce qui donne aux plantes leurs couleur caractéristique.
 - On peut légitimement se demander pourquoi la chlorophylle est verte ? Après tout, si elle était noire, elle emmagasinerait plus d'énergie.
+
+Yes, plants do reflect green light but human vision sensitivity peaks in the green region at about 560 nm, which allows us to preferentially see green. 
+
+Visible lightranges from low blue to far-red light and is described as the wavelengths between 380nm and 750nm, although this varies between individuals. The region between 400nm and 700 nmis what plants use to drive photosynthesis and is typically referred to asPhotosynthetically Active Radiation (PAR)
+
+Plants use wavelengths outside of PAR for the phenomenon known as photomorphogenesis, which is light regulated changes in development, morphology, biochemistry and cell structure and function. The effects of different wavelengths on plant function and form arecomplex and areproving to be an interesting area of study for many plant scientists.
+
+Photosynthetic organisms contain an assortment of pigments thereby allowing absorption of a maximum number of wavelengths. All photosynthetic organisms contain chlorophyll aand this is the primary light harvesting pigment. Higher plantscontain accessory pigments that are also involved in light harvesting and photochemistry. These are chlorophyll band the carotenoids.
+
+Light absorption by photosynthetic pigments is extremely fast. It occurs withinfemtoseconds(10-15s) and causes a transition from the electronic ground state to an excited stateand within 10-13s the excited state decays by vibrational relaxation to the first excited singlet state.
+
+An absorption spectrum defines the wavelengths that areabsorbed. An action spectrum defines the wavelengths that are most effective for photosynthesis. In other words, it is the portion of the spectrum that does the work. This is what is most important in plant growth and metabolism.It is important to note that light absorption and light utilization are two different phenomena
+
+There is very little absorbance of green light (500-600 nm) in extracted chlorophyll molecules. However, as the integrity of the leaf increases we see more and more absorption in the green region. Therefore, plant leaves do absorb greenlight.In this case, about 70%.
+
+An action spectrum describes the efficiency with whichspecific wavelengths produce a photochemical reaction. Photosynthesis involves the harvesting of light (absorption spectrum) and the subsequent photochemical and biochemical reactions. Thus, an action spectrum describes the wavelengths that actually drive photosynthesis.The seminal paper describing the action spectra for 22 plant species was published by KJMcCree (1972).
+The results from thiswork indicated that PAR was between 400 nm and 700 nm and that all wavelengths within this region were used in photosynthesis. 
+
+Theareas of the spectrum thatdrive photosynthesis are highest inthe red end (600-700 nm), followedby the blue region (400-500 nm) andlastly, the green region (500-600 nm).These data show that between 50 and 75% of the green light is used inphotosynthesis.
+
+Typical absorption values of green light (550 nm) range from 50% in lettuce to 90% in evergreen broadleaf trees. As observedabove in the action spectra, the entire light spectrum is used to drive photosynthesis. It appears as though green light is not a safe light and that green light is required for optimum whole plant photosynthesis. Recent studies have determined that green light is more photosynthetically efficient than red or blue in the deeper layers of leaves. 
 
 Biologists agree that cyanobacteria invented the art of making oxygen2, but when and how this came about remain uncertain.
 
