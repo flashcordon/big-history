@@ -310,6 +310,8 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - [Green light drives leaf photosynthesis more efficiently than red light in strong white light: revisiting the enigmatic question of why leaves are green](https://pubmed.ncbi.nlm.nih.gov/19246458/) - Terashima et al (2009)
 - [Effect of green light wavelength and intensity on photomorphogenesis and photosynthesis in Lactuca sativa](https://www.plantgrower.org/uploads/6/5/5/4/65545169/1-s2.0-s0098847211001924-main.pdf) - Johkan et al (2012)
 - [Which regionsof the electromagnetic spectrum do plants useto drive photosynthesis?](http://www.esalq.usp.br/lepse/imgs/conteudo_thumb/Which-regions-of-the-electromagnetic-spectrum-do-plants-use-to-drive-photosynthesis.pdf) - Heliospectra
+- [Variation des biomarqueurs dans le spectre visible non résolu de la Terre](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/4968/Naud_Marie-Eve_2010_memoire.pdf?sequence=3&isAllowed=y) - Mémoire de Marie Eve Naud (2010)
+- [La couleur des plantes extraterrestres](https://www.pourlascience.fr/sd/botanique/la-couleur-des-plantes-extraterrestres-6991.php) - Pour la Science (2012)
 
 ---
 
@@ -336,7 +338,7 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - Il y a plusieurs hypothèses concernant l'origine de la photosynthèse :
 > * Certains chercheurs pensent qu'elle a débuté en tant qu'adaptation fortuite à partir de pigments primitifs dans des bactéries se nourissant de l'énergie chimique des roches (chimiolithotrophie) dans les sources hydrothermales, qui a permis à ces bactéries d'être moins dépendantes de la chaleur des sources et a étendu leur habitat à des eaux moins profondes
 > * Elle a aussi pu émerger directement dans des eaux peu profondes
-- La photosynthèse requiert un pigment, la chlorophylle, ainsi qu'une centaine de protéines pour transformer la lumière et le CO2 de l'air en nourriture.
+- La photosynthèse requiert plusieurs pigments, dont le principal est la chlorophylle, ainsi qu'une centaine de protéines pour transformer la lumière et le CO2 de l'air en nourriture.
 > * ***Equation de la photosynthèse oxygénique*** :  6CO2 (dioxide de carbone) + 6H2O (eau) → C6H12O6 (sucre) + 6O2 (dioxygène)
 > * Chez les eucaryotes, la photosynthèse se produit dans un organite appelé chloroplaste délimité par une double membrane. À l'intérieur des 2 mombranes externes se trouvent les pigments chlorophylliens. Lorsque la lumière du Soleil atteint la chlorophylle, les électrons sont excités et sont éjectés des molécules du pigment. L'énergie de la lumière sert ainsi à démarrer un circuit électrique à l'intérieur de 2 amas de protéines (appelés photosystème I et II) qui mène à la création de molécules qui encapsulent beaucoup d'énergie : l'ATP et le NADPH. Ces molécules servent à alimenter les réactions chimiques qui synthétisent les sucres dont l'organisme aura besoin à partir du CO2 et de l'eau (un processus appelé cycle de Calvin). Ce processus génère de l'oxygène (O2) comme déchet (le photosystème II génère un potentiel électrochimique de 1.1 Volts, qui lui permet de subtiliser 4 électrons présents dans 2 molécules d'eau, ce qui les découpe et génère une molécule d'O2). Ces électrons repartent ensuite combler les "trous" des molécules de la chlorophylle. Dans la photosynthèse oxygénique, l'eau joue donc le rôle de source d'électrons. 
 - Mais certaines bactéries (les bactéries pourpres sulfureuses vivant dans des sources chaudes) utilisent une autre source d'électron que l'eau pour la photosynthèse, comme le sulfure d'hydrogène par exemple !
@@ -354,15 +356,13 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 > * C'est aussi le cas de l'Ophiopogon noir (*Ophiopogon planiscapus Nakai ‘Nigrescens’*), surnommée "barbe de serpent" par les horticulteurs. Cet angiosperme aux feuilles noires est utilisé comme plante ornementale dans de nombreux jardins. Cependant, il est le fruit de la sélection artificielle.
 
 - La chlorophylle absorbe environ 90% de la lumière bleue et rouge, mais seulement 70 à 80% de la lumière verte. Le reste de la lumière verte est réfléchie, ce qui donne aux plantes leur couleur caractéristique.
-> C'est aussi aidé par le fait que l'oeil humain a son pic de sensibilité vers 560 nm, donc au niveau du vert.
+> Et comme l'oeil humain a son pic de sensibilité vers 560 nm, donc au niveau du vert, on va le détecter d'autant plus.
 - Mais attention, toute la lumière absorbée ne sert pas forcément à la photosynthèse !
 > * La lumière visible constitue une bande de longueurs d'ondes comprise entre 380 et 750 nm. Mais seule la bande entre 400 et 700 nm est utilisée pour la photosynthèse. On appelle cette région le rayonnement photosynthétiquement actif, ou PAR, pour *photosynthetically active radiation*) 
 > * Les plantes absorbent aussi de la lumière au-delà du PAR, mais elle est utilisée pour réguler leur développement, leur morphologie, leur biochimie et la structure de leurs cellules. Ce phénomène appelé photomorphogénèse est différent selon les plantes.
 - On peut légitimement se demander pourquoi la chlorophylle est verte ? Après tout, si elle était noire, elle emmagasinerait plus d'énergie.
 
-Photosynthetic organisms contain an assortment of pigments thereby allowing absorption of a maximum number of wavelengths. All photosynthetic organisms contain chlorophyll aand this is the primary light harvesting pigment. Higher plantscontain accessory pigments that are also involved in light harvesting and photochemistry. These are chlorophyll band the carotenoids.
-
-Light absorption by photosynthetic pigments is extremely fast. It occurs withinfemtoseconds(10-15s) and causes a transition from the electronic ground state to an excited stateand within 10-13s the excited state decays by vibrational relaxation to the first excited singlet state.
+- Tous les organismes photosynthétiques possèdent de la chlorophylle. Mais certaines plantes contiennent d'autres pigments, comme les caroténoïdes, qui donnent leur couleur jaune, orange ou rouge à certains fruits et légumes.
 
 An absorption spectrum defines the wavelengths that areabsorbed. An action spectrum defines the wavelengths that are most effective for photosynthesis. In other words, it is the portion of the spectrum that does the work. This is what is most important in plant growth and metabolism.It is important to note that light absorption and light utilization are two different phenomena
 
@@ -370,10 +370,6 @@ There is very little absorbance of green light (500-600 nm) in extracted chlorop
 
 An action spectrum describes the efficiency with whichspecific wavelengths produce a photochemical reaction. Photosynthesis involves the harvesting of light (absorption spectrum) and the subsequent photochemical and biochemical reactions. Thus, an action spectrum describes the wavelengths that actually drive photosynthesis.The seminal paper describing the action spectra for 22 plant species was published by KJMcCree (1972).
 The results from thiswork indicated that PAR was between 400 nm and 700 nm and that all wavelengths within this region were used in photosynthesis. 
-
-Theareas of the spectrum thatdrive photosynthesis are highest inthe red end (600-700 nm), followedby the blue region (400-500 nm) andlastly, the green region (500-600 nm).These data show that between 50 and 75% of the green light is used inphotosynthesis.
-
-Typical absorption values of green light (550 nm) range from 50% in lettuce to 90% in evergreen broadleaf trees. As observedabove in the action spectra, the entire light spectrum is used to drive photosynthesis. It appears as though green light is not a safe light and that green light is required for optimum whole plant photosynthesis. Recent studies have determined that green light is more photosynthetically efficient than red or blue in the deeper layers of leaves. 
 
 Biologists agree that cyanobacteria invented the art of making oxygen2, but when and how this came about remain uncertain.
 
@@ -392,6 +388,8 @@ Oxygenic photosynthesis is the only significant source of O2 known, so indicatio
 
 Could cyanobacteria date back to 3.8 billion years ago, or even earlier? Not according to the geochemical data from a 3.4-billion-year-old sedimentary formation in South Africa called the Buck Reef Chert6. This massive formation shows evidence of having been deposited through carbon fixation by photosynthesizing organisms, but it contains none of the mineral traces expected from the production of O2. Thus, the simplest interpretation is that the deposit was laid down by anoxygenic photosynthesis for which the source of electrons was molecular hydrogen or other inorganic molecules4,6. If 3.4 billion years is taken as an upper boundary for the age of O2 synthesis, the origin of oxygenic photosynthesis would fall within the range of 3.4 billion to 2.3 billion years ago. This range is admittedly rather imprecise, but it is something. Of course, absence of evidence is not evidence of absence, and other authors suggest that O2 could have been produced as early as 4.0 billion years ago, but was rapidly consumed7,8.
 
+- L'utilisation sélective de la lumière du Soleil par les plantes donne une signature spectrale particulière aux plantes, qui est détectable par des spectrographes depuis l'espace.
+> * La première de ces signatures est un 
 
 - The selective utilization of light energy results in
 two well-known spectral signatures exhibited in
