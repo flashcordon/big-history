@@ -390,7 +390,7 @@ Could cyanobacteria date back to 3.8 billion years ago, or even earlier? Not acc
 
 - L'utilisation sélective de la lumière du Soleil par les plantes donne une signature spectrale particulière aux plantes, qui est détectable par des spectrographes depuis l'espace.
 > * La première de ces signatures est une augmentation localisée de la réflectivité des organismes photosynthétiques autour de 550 nm, une signature appelée ***bosse de la chlorophylle*** (ou "green bump")
-> * La deuxième, beaucoup plus marquée, est une brusque augmentation de la réflectivité autour de 700 nm, soit au niveau du rouge. Cette augmentation, appelée en anglais ***Vegetation Red Edge (VRE)*** (qu'on peut traduire par "remontée brusque de la réflectivité de la végétation dans le rouge"), est aussi due à la chlorophylle.
+> * La deuxième, beaucoup plus marquée, est une brusque augmentation de la réflectivité autour de 700 nm, soit au niveau du rouge. Cette augmentation, appelée en anglais ***Vegetation Red Edge (VRE)*** (qu'on peut traduire par "remontée brusque de la réflectivité de la végétation dans le rouge"), est aussi due à la chlorophylle. Contrairement à la bosse de la chlorophylle, qui donne aux plantes leur couleur verte, la VRE est invisible pour l'oeil humain.
 
 *Courbe de réflectance de plusieurs plantes (Source : [Variation des biomarqueurs dans le spectre visible non résolu de la Terre - Naud 2010](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/4968/Naud_Marie-Eve_2010_memoire.pdf?sequence=3&isAllowed=y))*
 ![reflectance](https://i.imgur.com/9AgEtvi.png)
