@@ -347,22 +347,18 @@ Aspects of the Gaia theory do continue to cause great controversy. This has the 
 - Le Soleil émet de l'énergie à toutes les longueurs d'ondes, mais certaines longueurs d'onde plus que d'autres. La courbe de son spectre d'émission correspond globalement à celle d'un corps noir rayonnant à 5500°C. 
 - Mais lorsque les photons du Soleil passent à travers l'atmosphère, certaines bandes de longueurs d'ondes sont absorbées par les molécules de l'atmosphère. Le spectre du Soleil observé depuis la surface terrestre est donc rempli de pics et de creux.
 
-- La chlorophylle est ce qui donne aux plantes leur couleur verte. Elle absorbe essentiellement la lumière rouge-orange et bleue-violette du Soleil, mais pas la lumière verte, qui est donc réfléchie. 
-
 - La photosynthèse est à la base du fonctionnement global de la biosphère. Elle transforme la lumière du Soleil en énergie contenue dans les électrons et dans les liens chimiques des molécules organiques.
 
 - Fun fact : même s'il n'existe pas de plantes vasculaires aux feuilles noires connues dans la nature, il existe des plantes à la pigmentation noire !
 > * C'est le cas de certaines mousses du genre Andreaea et Grimmia, et d'hépatiques comme Cephalomitrion, Isophyllaria et Marsupella.
 > * C'est aussi le cas de l'Ophiopogon noir (*Ophiopogon planiscapus Nakai ‘Nigrescens’*), surnommée "barbe de serpent" par les horticulteurs. Cet angiosperme aux feuilles noires est utilisé comme plante ornementale dans de nombreux jardins. Cependant, il est le fruit de la sélection artificielle.
 
-- La chlorophylle absorbe environ 90% de la lumière bleue et rouge, mais seulement 70 à 80% de la lumière verte. Le reste de la lumière verte est réfléchie, ce qui donne aux plantes leurs couleur caractéristique.
+- La chlorophylle absorbe environ 90% de la lumière bleue et rouge, mais seulement 70 à 80% de la lumière verte. Le reste de la lumière verte est réfléchie, ce qui donne aux plantes leur couleur caractéristique.
+> C'est aussi aidé par le fait que l'oeil humain a son pic de sensibilité vers 560 nm, donc au niveau du vert.
+- Mais attention, toute la lumière absorbée ne sert pas forcément à la photosynthèse !
+> * La lumière visible constitue une bande de longueurs d'ondes comprise entre 380 et 750 nm. Mais seule la bande entre 400 et 700 nm est utilisée pour la photosynthèse. On appelle cette région le rayonnement photosynthétiquement actif, ou PAR, pour *photosynthetically active radiation*) 
+> * Les plantes absorbent aussi de la lumière au-delà du PAR, mais elle est utilisée pour réguler leur développement, leur morphologie, leur biochimie et la structure de leurs cellules. Ce phénomène appelé photomorphogénèse est différent selon les plantes.
 - On peut légitimement se demander pourquoi la chlorophylle est verte ? Après tout, si elle était noire, elle emmagasinerait plus d'énergie.
-
-Yes, plants do reflect green light but human vision sensitivity peaks in the green region at about 560 nm, which allows us to preferentially see green. 
-
-Visible lightranges from low blue to far-red light and is described as the wavelengths between 380nm and 750nm, although this varies between individuals. The region between 400nm and 700 nmis what plants use to drive photosynthesis and is typically referred to asPhotosynthetically Active Radiation (PAR)
-
-Plants use wavelengths outside of PAR for the phenomenon known as photomorphogenesis, which is light regulated changes in development, morphology, biochemistry and cell structure and function. The effects of different wavelengths on plant function and form arecomplex and areproving to be an interesting area of study for many plant scientists.
 
 Photosynthetic organisms contain an assortment of pigments thereby allowing absorption of a maximum number of wavelengths. All photosynthetic organisms contain chlorophyll aand this is the primary light harvesting pigment. Higher plantscontain accessory pigments that are also involved in light harvesting and photochemistry. These are chlorophyll band the carotenoids.
 
