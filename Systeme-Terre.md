@@ -567,7 +567,7 @@ chloroplasts, which are bounded by a double membrane.
 *Courbe de réflectance de plusieurs plantes (Source : [Variation des biomarqueurs dans le spectre visible non résolu de la Terre - Naud 2010](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/4968/Naud_Marie-Eve_2010_memoire.pdf?sequence=3&isAllowed=y))*
 ![reflectance](https://i.imgur.com/9AgEtvi.png)
 
-- La force et la forme du VRE dépend pas mal des organismes (le signal est particulièrement faible chez les lichens et les bactéries par exemple), mais il est présent chez tous les organismes photosynthétiques, à l'exception des bactéries sulfureuses pourpres
+- La position, la force et la forme du VRE dépend pas mal des organismes (le signal est particulièrement faible chez les lichens et les bactéries par exemple), mais il est présent chez tous les organismes photosynthétiques, à l'exception des bactéries sulfureuses pourpres
 
 - Figure 2c shows the typical reflectance signature
 of land plants, for which the significant features
