@@ -388,13 +388,6 @@ Oxygenic photosynthesis is the only significant source of O2 known, so indicatio
 
 Could cyanobacteria date back to 3.8 billion years ago, or even earlier? Not according to the geochemical data from a 3.4-billion-year-old sedimentary formation in South Africa called the Buck Reef Chert6. This massive formation shows evidence of having been deposited through carbon fixation by photosynthesizing organisms, but it contains none of the mineral traces expected from the production of O2. Thus, the simplest interpretation is that the deposit was laid down by anoxygenic photosynthesis for which the source of electrons was molecular hydrogen or other inorganic molecules4,6. If 3.4 billion years is taken as an upper boundary for the age of O2 synthesis, the origin of oxygenic photosynthesis would fall within the range of 3.4 billion to 2.3 billion years ago. This range is admittedly rather imprecise, but it is something. Of course, absence of evidence is not evidence of absence, and other authors suggest that O2 could have been produced as early as 4.0 billion years ago, but was rapidly consumed7,8.
 
-- L'utilisation sélective de la lumière du Soleil par les plantes donne une signature spectrale particulière aux plantes, qui est détectable par des spectrographes depuis l'espace.
-> * La première de ces signatures est une augmentation localisée de la réflectivité des organismes photosynthétiques autour de 550 nm, une signature appelée ***bosse de la chlorophylle*** (ou "green bump")
-> * La deuxième, beaucoup plus marquée, est une brusque augmentation de la réflectivité autour de 700 nm, soit au niveau du rouge. Cette augmentation, appelée en anglais ***Vegetation Red Edge (VRE)*** (qu'on peut traduire par "remontée brusque de la réflectivité de la végétation dans le rouge"), est aussi due à la chlorophylle. Contrairement à la bosse de la chlorophylle, qui donne aux plantes leur couleur verte, la VRE est invisible pour l'oeil humain.
-
-*Courbe de réflectance de plusieurs plantes (Source : [Variation des biomarqueurs dans le spectre visible non résolu de la Terre - Naud 2010](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/4968/Naud_Marie-Eve_2010_memoire.pdf?sequence=3&isAllowed=y))*
-![reflectance](https://i.imgur.com/9AgEtvi.png)
-
 - The selective utilization of light energy results in
 two well-known spectral signatures exhibited in
 land plants: the “green bump,” due to lower absorbance
@@ -567,6 +560,15 @@ chloroplasts, which are bounded by a double membrane.
 
 ## Exobiologie
 
+- L'utilisation sélective de la lumière du Soleil par les plantes donne une signature spectrale particulière à la végétation de surface, qui est détectable par des spectrographes depuis l'espace. Ces signatures pourraient constituer un biomarqueur de surface.
+> * La première de ces signatures est une augmentation localisée de la réflectivité des organismes photosynthétiques autour de 550 nm, une signature appelée ***bosse de la chlorophylle*** (ou "green bump")
+> * La deuxième, beaucoup plus marquée, est une brusque augmentation de la réflectivité autour de 700 nm, soit au niveau de l'infrarouge proche. Cette augmentation, appelée en anglais ***Vegetation Red Edge (VRE)*** (qu'on peut traduire par "remontée brusque de la réflectivité de la végétation dans le rouge"), est aussi due à la chlorophylle. Contrairement à la bosse de la chlorophylle, qui donne aux plantes leur couleur verte, la VRE est invisible pour l'oeil humain.
+
+*Courbe de réflectance de plusieurs plantes (Source : [Variation des biomarqueurs dans le spectre visible non résolu de la Terre - Naud 2010](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/4968/Naud_Marie-Eve_2010_memoire.pdf?sequence=3&isAllowed=y))*
+![reflectance](https://i.imgur.com/9AgEtvi.png)
+
+- La force et la forme du VRE dépend pas mal des organismes (le signal est particulièrement faible chez les lichens et les bactéries par exemple), mais il est présent chez tous les organismes photosynthétiques, à l'exception des bactéries sulfureuses pourpres
+
 - Figure 2c shows the typical reflectance signature
 of land plants, for which the significant features
 include the green bump in reflectance and
@@ -575,17 +577,7 @@ plant photosynthetic pigments absorb strongly in
 the visible or PAR, which strongly contrasts with
 high scattering in the NIR due to refraction between
 leaf mesophyll cell walls and air spaces inside
-the leaf. The wavelength of the “red edge”
-is more strictly defined as the inflection point in
-the slope of the reflectance between the red and
-NIR, and is sometimes referred to as the “red
-edge inflection point” or the “red edge position.”
-It falls generally around 700 nm, but the location
-and steepness may vary according to the organism’s
-abundance or thickness (if sensing over a
-large area) and physiological status; as shown
-later in this paper, there can be distinct differences
-between organism types.
+the leaf. 
 - The high reflection of land vegetation in the near-infrared, the vegetation red edge (VRE), is often cited as a
 spectral biosignature for surface vegetation on exoplanets. The VRE involves only a few percentage change in
 reflectivity for a disk-integrated observation of present-day Earth. Here we show that the strength of Earth’s
@@ -788,10 +780,7 @@ humid future Earth (or jungleworld) and a hot arid future Earth
 should be older Earth analogues, hot jungle worlds, and
 potentially, hot arid desert worlds, as well as exoplanets
 with low-cloud coverage
-- it appears that all photosynthesizers
-except the purple bacteria (Fig. 3d) have
-a “red edge,” albeit this edge is weak in lichens
-and bacteria.
+
 
 ## Pour des raisons de perception
 
