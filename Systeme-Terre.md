@@ -391,6 +391,9 @@ Could cyanobacteria date back to 3.8 billion years ago, or even earlier? Not acc
 - L'utilisation sélective de la lumière du Soleil par les plantes donne une signature spectrale particulière aux plantes, qui est détectable par des spectrographes depuis l'espace.
 > * La première de ces signatures est un 
 
+*Courbe de réflectance de plusieurs plantes (Source : [Variation des biomarqueurs dans le spectre visible non résolu de la Terre - Naud 2010](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/4968/Naud_Marie-Eve_2010_memoire.pdf?sequence=3&isAllowed=y)
+![reflectance](https://i.imgur.com/9AgEtvi.png)
+
 - The selective utilization of light energy results in
 two well-known spectral signatures exhibited in
 land plants: the “green bump,” due to lower absorbance
