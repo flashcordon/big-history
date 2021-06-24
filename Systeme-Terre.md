@@ -562,12 +562,16 @@ chloroplasts, which are bounded by a double membrane.
 
 - L'utilisation sélective de la lumière du Soleil par les plantes donne une signature spectrale particulière à la végétation de surface, qui est détectable par des spectrographes depuis l'espace. Ces signatures pourraient constituer un biomarqueur de surface.
 > * La première de ces signatures est une augmentation localisée de la réflectivité des organismes photosynthétiques autour de 550 nm, une signature appelée ***bosse de la chlorophylle*** (ou "green bump")
-> * La deuxième, beaucoup plus marquée, est une brusque augmentation de la réflectivité autour de 700 nm, soit au niveau de l'infrarouge proche. Cette augmentation, appelée en anglais ***Vegetation Red Edge (VRE)*** (qu'on peut traduire par "remontée brusque de la réflectivité de la végétation dans le rouge"), est aussi due à la chlorophylle. Contrairement à la bosse de la chlorophylle, qui donne aux plantes leur couleur verte, la VRE est invisible pour l'oeil humain.
+> * La deuxième, beaucoup plus marquée, est une brusque augmentation (de quelques %) de la réflectivité autour de 700 nm, soit au niveau de l'infrarouge proche. Cette augmentation, appelée en anglais ***Vegetation Red Edge (VRE)*** (qu'on peut traduire par "remontée brusque de la réflectivité de la végétation dans le rouge"), est aussi due à la chlorophylle. Contrairement à la bosse de la chlorophylle, qui donne aux plantes leur couleur verte, la VRE est invisible pour l'oeil humain.
 
 *Courbe de réflectance de plusieurs plantes (Source : [Variation des biomarqueurs dans le spectre visible non résolu de la Terre - Naud 2010](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/4968/Naud_Marie-Eve_2010_memoire.pdf?sequence=3&isAllowed=y))*
 ![reflectance](https://i.imgur.com/9AgEtvi.png)
 
-- La position, la force et la forme du VRE dépend pas mal des organismes (le signal est particulièrement faible chez les lichens et les bactéries par exemple), mais il est présent chez tous les organismes photosynthétiques, à l'exception des bactéries sulfureuses pourpres
+- La position, la force et la forme du VRE dépend pas mal des organismes (le signal est particulièrement faible chez les lichens et les bactéries par exemple), mais il est présent chez tous les organismes photosynthétiques, à l'exception des bactéries sulfureuses pourpres.
+- La force du signal de la VRE n'a pas été constante au cours de l'histoire de la Terre. Elle n'a fait qu'augmenter au cours des 500 millions d'années d'évolution des plantes terrestres
+> * Le signal de la VRE il y a 500-400 millions d'années n'était qu'à moitié aussi fort que celui d'aujourd'hui, car les terres d'alors étaientt essentiellement recouvertes par des mousses et des hépatiques.
+> * Elle pourrait même continuer à augmenter sur le long terme à mesure que la luminosité du Soleil s'accroît et que la planète se réchauffe. À moins que la couverture végétale diminue pour une raison ou une autre, ou que l'atmosphère devienne opaque à la lumière réfléchie par la surface.
+
 
 - Figure 2c shows the typical reflectance signature
 of land plants, for which the significant features
@@ -578,25 +582,11 @@ the visible or PAR, which strongly contrasts with
 high scattering in the NIR due to refraction between
 leaf mesophyll cell walls and air spaces inside
 the leaf. 
-- The high reflection of land vegetation in the near-infrared, the vegetation red edge (VRE), is often cited as a
-spectral biosignature for surface vegetation on exoplanets. The VRE involves only a few percentage change in
-reflectivity for a disk-integrated observation of present-day Earth. Here we show that the strength of Earth’s
-VRE has increased over the past *500 million years of land plant evolution and may continue to increase as
-solar luminosity increases and the planet warms, until either vegetation coverage is reduced, or the planet’s
-atmosphere becomes opaque to light reflected off the surface. Early plants such as mosses and liverworts, which
-dominated the land 500–400 million years ago, produce a weaker VRE, approximately half as strong as that of
-modern vegetation. We explore how the changes in land plants, as well as geological changes such as ice
-coverage during ice ages and interglacial periods, influence the detectability of the VRE through Earth’s
-geological past. Our results show that the VRE has varied through the evolutionary history of land plants on
-Earth and could continue to change into the future if hotter climate conditions became dominant, encouraging
-the spread of vegetation.
 - Remote direct detection of surface life in reflected light
 from exoplanets becomes possible when organisms modify
 the detectable reflectivity of the surface (e.g., by influencing
 surface colors). Land vegetation is commonly cited as such
-a surface biosignature. On Earth vegetation has a specific
-reflection spectrum, with a sharp edge *700 nm, called the
-vegetation red edge (VRE)
+a surface biosignature. 
 - Photosynthetic plants efficiently absorb visible light, but developed strong infrared reflectivity
 resulting in the steep change in reflectivity that
 defines the VRE. The advantages gained by reflecting this
@@ -629,12 +619,10 @@ effectively scattering away the rest. Chlorophyll pigments
 are almost transparent at wavelengths >700 nm, which results
 in the majority of the reflected/transmitted light being
 in the near-infrared (NIR)
-- The VRE is often suggested as a direct signature of life
-(Sagan et al., 1993; Seager et al., 2005) and is commonly
-modeled using deciduous vegetation. The concept of a VRE
-biosignature is based on the assumptions that (1) extraterrestrial
-photosynthesizers evolve on other worlds, and (2)
-these organisms also reflect strongly in the NIR.
+
+- L'utilisation de la VRE comme biosignature potentielle repose sur 2 hypothèses non encore prouvées : que la photosynthèse oxygénique a évolué sur d'autres planètes, et que les plantes qui s'y sont développées reflètent fortement les rayonnements dans le proche infrarouge.
+
+
 - A thorough
 analysis of the likelihood of oxygenic photosynthesis
 arising elsewhere is done by Wolstencroft and Raven (2002)
