@@ -582,6 +582,7 @@ chloroplasts, which are bounded by a double membrane.
 > C'est le cas de certains minéraux comme le  cinabre  (HgS) ou les cristaux de soufre. C'est aussi le cas des surfaces désertiques et de certains types de nuages comme les stratocumulus.
 - Le signal VRE de la Terre d'aujourd'hui est difficile à distinguer à distance à moins d'avoir des spectromètres ultra-précis. 
 > De ce que l'on sait actuellement, nos meilleurs candidats pour détecter un signal de VRE fort seraient des vieilles exoplanètes désertiques habitables, avec une couverture nuageuse faible et recouvertes par des organismes similaires à des cactus, ou bien des vieilles exoplanètes chaudes recouvertes par des jungles. Les exoplanètes sèches habitables (avec peu d'eau en surface) sont probablement plus communes que les exoplanètes similaires à la Terre, car la zone d'habitabilité pour les planètes sèches est plus large que pour les planètes similaires à la Terre.
+- La manière dont on obtient le spectre intégré de la Terre aujourd'hui est par une technique indirecte : on regarde la lumière cendrée (earthhshine)
 
 ## Pour des raisons de perception
 
