@@ -560,7 +560,7 @@ chloroplasts, which are bounded by a double membrane.
 
 ## Exobiologie
 
-- L'utilisation sélective de la lumière du Soleil par les plantes donne une signature spectrale particulière à la végétation de surface, qui est détectable par des spectrographes depuis l'espace. Ces signatures pourraient constituer un biomarqueur de surface.
+- L'utilisation sélective de la lumière du Soleil par les plantes donne une signature spectrale particulière à la végétation de surface, qui est détectable par des spectrographes depuis l'espace. Ces signatures pourraient constituer un biomarqueur de surface, car elles modifient la réflectivité de cette dernière.
 > * La première de ces signatures est une augmentation localisée de la réflectivité des organismes photosynthétiques autour de 550 nm, une signature appelée ***bosse de la chlorophylle*** (ou "green bump")
 > * La deuxième, beaucoup plus marquée, est une brusque augmentation (de quelques %) de la réflectivité autour de 700 nm, soit au niveau de l'infrarouge proche. Cette augmentation, appelée en anglais ***Vegetation Red Edge (VRE)*** (qu'on peut traduire par "remontée brusque de la réflectivité de la végétation dans le rouge"), est aussi due à la chlorophylle. Contrairement à la bosse de la chlorophylle, qui donne aux plantes leur couleur verte, la VRE est invisible pour l'oeil humain.
 
@@ -568,132 +568,22 @@ chloroplasts, which are bounded by a double membrane.
 ![reflectance](https://i.imgur.com/9AgEtvi.png)
 
 - La position, la force et la forme du VRE dépend pas mal des organismes (le signal est particulièrement faible chez les lichens et les bactéries par exemple), mais il est présent chez tous les organismes photosynthétiques, à l'exception des bactéries sulfureuses pourpres.
+- La VRE est causée par la structure des feuilles, qui les rend très efficaces à diffracter la lumière : elles sont composées de cellules remplies d'eau et séparées par de l'air. La lumière qui arrive sur la feuille est donc diffractée à l'intérieur de la feuille. Une partie de cette lumière (le PAR) est ensuite absorbée par la feuille, une autre est transmise au dessous de la feuille, et une autre est réfléchie.
+- L'utilisation de la VRE comme biosignature potentielle repose sur 2 hypothèses non encore prouvées : que la photosynthèse oxygénique a évolué sur d'autres planètes, et que les plantes qui s'y sont développées reflètent fortement les rayonnements dans le proche infrarouge.
 - La force du signal de la VRE n'a pas été constante au cours de l'histoire de la Terre. Elle n'a fait qu'augmenter au cours des 500 millions d'années d'évolution des plantes terrestres
-> * Le signal de la VRE il y a 500-400 millions d'années n'était qu'à moitié aussi fort que celui d'aujourd'hui, car les terres d'alors étaientt essentiellement recouvertes par des mousses et des hépatiques.
+> * Des organismes photosynthétiques étaient certainement présents sur la surface terrestre bien avant l'apparition des premières plantes terrestres. Des analyses des ratios isotopiques du carbone contenu dans certaines roches anciennes suggèrent e effet qu'il y avait de la vie microbienne photosynthétique il y a 1.2 milliards d'années. Si ces organismes formaient des tapis microbiens, ils auraient pu produire une VRE.
+> * L'analyse fossile ainsi que les horloges moléculaires nous apprennent que la végétation terrestre a émergé il y a entre 725 et 500 millions d'années. Au départ ce sont les mousses qui dominaient la surface de la planète. Les plantes à fleurs et les arbres ont commencé à dominer les paysages terrestres il y a seulement 130 millions d'années.
+> * Le signal de la VRE il y a 500-400 millions d'années n'était qu'à moitié aussi fort que celui d'aujourd'hui, car les terres d'alors étaient essentiellement recouvertes par des mousses et des hépatiques.
 > * Elle pourrait même continuer à augmenter sur le long terme à mesure que la luminosité du Soleil s'accroît et que la planète se réchauffe. À moins que la couverture végétale diminue pour une raison ou une autre, ou que l'atmosphère devienne opaque à la lumière réfléchie par la surface.
+- L'avantage sélectif qu'a donné cette réflectivité efficace du rayonnement infrarouge proche est encore débattu.
+> Certains pensent que ça permet d'éviter la surchauffe des plantes, mais il n'y a pas encore suffisamment de données pour confirmer cette idée.
 
-
-- Figure 2c shows the typical reflectance signature
-of land plants, for which the significant features
-include the green bump in reflectance and
-the “red edge.” The latter is so-called because
+- “red edge.” The latter is so-called because
 plant photosynthetic pigments absorb strongly in
 the visible or PAR, which strongly contrasts with
 high scattering in the NIR due to refraction between
 leaf mesophyll cell walls and air spaces inside
-the leaf. 
-- Remote direct detection of surface life in reflected light
-from exoplanets becomes possible when organisms modify
-the detectable reflectivity of the surface (e.g., by influencing
-surface colors). Land vegetation is commonly cited as such
-a surface biosignature. 
-- Photosynthetic plants efficiently absorb visible light, but developed strong infrared reflectivity
-resulting in the steep change in reflectivity that
-defines the VRE. The advantages gained by reflecting this
-radiation are still debated. Some studies have claimed that
-plants balance the absorption of sunlight for photosynthesis
-reactions with efficient reflectance at other wavelengths to
-avoid damage caused by overheating (Gates et al., 1965;
-Seager et al., 2005), but there are not yet enough data to
-determine consistent trends
-- The primary
-molecules that absorb energy from light and convert it
-to drive photosynthesis (H2O and CO2 into sugars and O2)
-are chlorophyll a (absorption peaks at 430 and 662 nm in
-diethyl ether) and b (absorption peaks at 453 and 642 nm in
-diethyl ether) (Seager et al., 2005). The VRE is caused by
-the structure of leaves, which makes them very efficient at
-scattering light. Leaves are composed of water-filled cells
-surrounded by air gaps. Some light reflects off the cell walls;
-some enters the cells. The structure of leaf cells causes light
-entering them to be internally scattered (a combined effect
-of the high index of refraction between water and air, and
-the size of internal components of the cells, which are of the
-order of the wavelength of light). The scattered light eventually
-exits as transmitted light (below leaf) or reflected
-light (above leaf). Similar reflectance properties are found in
-other photosynthetic organisms, such as algae, which also
-exhibit red edges. This process enables the light-harvesting
-cells to absorb the specific wavelengths they need while
-effectively scattering away the rest. Chlorophyll pigments
-are almost transparent at wavelengths >700 nm, which results
-in the majority of the reflected/transmitted light being
-in the near-infrared (NIR)
-
-- L'utilisation de la VRE comme biosignature potentielle repose sur 2 hypothèses non encore prouvées : que la photosynthèse oxygénique a évolué sur d'autres planètes, et que les plantes qui s'y sont développées reflètent fortement les rayonnements dans le proche infrarouge.
-
-
-- A thorough
-analysis of the likelihood of oxygenic photosynthesis
-arising elsewhere is done by Wolstencroft and Raven (2002)
-and Rothschild (2008).
-- The VRE signature for the present-day Earth is weak and
-very difficult to detect. Several groups (Arnold, 2008, and
-references therein) have measured the integrated Earth spectrum
-via the technique of Earthshine, using sunlight reflected
-from the nonilluminated side of the Moon.
-- The nature of NIR reflectance varies for different plant
-species. The magnitude of the increase in reflectivity and
-the wavelength at which the increase occurs both vary for different
-vegetation types. Deciduous vegetation on Earth causes
-- an increase in reflectance in the NIR from*5% to 50% when
-observed alone. For nonvascular plants such as mosses, this
-reflectance peak can be as lowas 20%,whereas for desert plants
-such as cacti it can be >80% (Fig. 2). Note however, when the
-effect is hemispherically averaged and overlying clouds and an
-atmosphere are taken into account, the observed change is reduced
-to a lower percentage (Figs. 3–6) as observed in presentday
-Earthshine spectra
-- When land vegetation first emerged between 725 and
-500 Myr ago, plants such as mosses dominated the planet’s
-surface, thus the spectral feature of deciduous vegetation
-would not have been present then. Modern flowering plants
-and trees have only dominated the surface for the past
-*130 Myr (Fig. 2). Stemming from an algal ancestor, the
-first land plants were simple and lacked a vascular system
-with which to transport water. However, these soon evolved
-into larger leafy plants. The dominant surface vegetation on
-Earth would have changed during this time, potentially altering
-the strength of the spectral red-edge signature.
-- Studies of carbon isotope ratios suggest that microbial
-photosynthetic life may have been present on land from as
-long as 1.2 billion years ago (Horodyski and Knauth, 1994;
-Raven, 1997; Knauth and Kennedy, 2009) long before the
-first land plants appeared
-- Mosses represent
-the main surface vegetation coverage for the earliest
-times when Earth hosted land vegetation, followed by ferns
-for later periods, deciduous vegetation for more recent periods
-and the present-day Earth. For a future hot, dry Earth
-we model cacti-dominated surface vegetation
-- this timeline only represents the time frame when
-land vegetation was widespread (starting <500 Mya based
-on widely accepted fossil evidence, although land plants
-- could potentially have emerged as early as 725 Mya; Magallo
-´n et al. (2013), Zimmer et al. 2007
-- While fossil evidence and molecular clock analyses indicate
-that embryophytes (the higher plants outlined in
-Fig. 2) have been present on land for possibly 725 Myr
-(Zimmer et al., 2007), with fossil evidence suggesting
-<500 Myr (Magallo´n et al., 2013), non-embryophytic photosynthesizers
-may have colonized the land as early as 0.85
-to 1.2 Gyr ago (Horodyski and Knauth, 1994; Raven, 1997;
-Knauth and Kennedy, 2009). This hypothesis is based on
-chemical analyses of ancient rocks, so there is no direct
-fossil evidence from which to determine the characteristics
-of this early terrestrial life. However, early land ecosystems
-may have been composed of lichens, microbial mats, or
-photosynthetic bacteria (Horodyski and Knauth, 1994; Raven,
-1997). Microbial mats would have incorporated photosynthetic
-microbes, producing an associated red-edge
-reflectance feature (Sanroma et al., 2013). Lichens are
-formed from a symbiotic relationship between fungi and
-algae or cyanobacteria, which means that they also have a
-red-edge feature that is comparable with terrestrial vegetation,
-especially mosses. Therefore, if ancient lichens were
-similar to modern equivalents, and if they were well distributed
-on Earth’s surface, the red-edge signature could be
-much older than previously thought.
+the leaf.  
 - Our knowledge of the reflectivity of different surface
 components on Earth—such as deserts, oceans, and ice—
 helps assigning the VRE of the Earthshine spectrum to
