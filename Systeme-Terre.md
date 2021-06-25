@@ -575,90 +575,13 @@ chloroplasts, which are bounded by a double membrane.
 > * L'analyse fossile ainsi que les horloges moléculaires nous apprennent que la végétation terrestre a émergé il y a entre 725 et 500 millions d'années. Au départ ce sont les mousses qui dominaient la surface de la planète. Les plantes à fleurs et les arbres ont commencé à dominer les paysages terrestres il y a seulement 130 millions d'années.
 > * Le signal de la VRE il y a 500-400 millions d'années n'était qu'à moitié aussi fort que celui d'aujourd'hui, car les terres d'alors étaient essentiellement recouvertes par des mousses et des hépatiques.
 > * Elle pourrait même continuer à augmenter sur le long terme à mesure que la luminosité du Soleil s'accroît et que la planète se réchauffe. À moins que la couverture végétale diminue pour une raison ou une autre, ou que l'atmosphère devienne opaque à la lumière réfléchie par la surface.
+> * On aura donc peut être plus de chance de trouver un signal fort de VRE sur des planètes relativement vieilles plutôt que sur des planètes relativement jeunes.
 - L'avantage sélectif qu'a donné cette réflectivité efficace du rayonnement infrarouge proche est encore débattu.
 > Certains pensent que ça permet d'éviter la surchauffe des plantes, mais il n'y a pas encore suffisamment de données pour confirmer cette idée.
-
-- “red edge.” The latter is so-called because
-plant photosynthetic pigments absorb strongly in
-the visible or PAR, which strongly contrasts with
-high scattering in the NIR due to refraction between
-leaf mesophyll cell walls and air spaces inside
-the leaf.  
-- Our knowledge of the reflectivity of different surface
-components on Earth—such as deserts, oceans, and ice—
-helps assigning the VRE of the Earthshine spectrum to
-terrestrial vegetation. Therefore, the detection of the VRE
-on exoplanets, however interesting, will not be unambiguous.
-For example, some minerals can exhibit a similar
-spectral shape to vegetation *750 nm (Seager et al.,
-2005). An open question is whether similar photosynthesis
-would evolve on a planet orbiting other host stars. If it
-does, the VRE could be shifted to different wavelengths
-- In our models we assumed an average cloud fraction of
-50%, based on observed cloud cover on the present-day
-Earth. However, changes in climate on Earth through geological
-time could have altered Earth’s average cloud fraction.
-Whether this would have increased or decreased during
-warmer and colder periods is still open to debate. For example,
-warmer climates could increase humidity, favoring
-increased cloud formation (Sellwood et al., 2000), but
-higher temperatures could also reduce nutrient cycling in the
-oceans, reducing the rate of biologically produced cloud
-- condensation nuclei, leading to optically thinner, shorter
-lived clouds (Kump and Pollard, 2008). Even if the overall
-cloud fraction remained approximately constant, cloud distributions
-could change
-- Generally, habitable dry exoplanets (desert worlds with
-limited surface water) could be more common than waterrich
-planets such as Earth, because the HZ for dry planets is
-wider than that for Earth-like planets (Abe et al., 2011).
-Low levels of atmospheric water vapor allow habitable
-temperatures to persist at closer distances to the host star
-without causing a runaway greenhouse, while further out
-from the star the lower levels of water allow the planet to
-resist freezing (Abe et al., 2011). The lack of water on desert
-worlds would also reduce cloud cover, making surface
-features like the VRE easier to detect. If desert worlds have
-surface vegetation that has evolved a high reflectivity to
-conserve water loss, such planets provide interesting targets
-for successfully detecting a VRE signal. Such desert exoplanets
-with cactus-like vegetation and low-cloud fractions
-would exhibit a strong VRE. Conversely, fast growing
-plants, which can complete their life cycles within a few
-weeks after a rare rainfall, could be the dominant form of
-vegetation on desert worlds. This type of vegetation would
-lead to a short-lived, temporary VRE signal, which would be
-challenging to observe at the right time.
-- If the development of life on other inhabited worlds follows
-a similar timeline to life on Earth, VRE biosignatures
-are only present for a fraction of a planet’s habitable lifetime
-once vegetation covers the surface (from *500Myr ago on
-Earth). A VRE biosignature similar to that on the present-day
-Earth would be difficult to detect without very high-precision
-instruments (Seager et al., 2005; Montan˜e´s-Rodrı´guez et al.,
-2006). However, our models show that the VRE signature
-increases with geological time, as well as with increasing
-vegetation surface fraction and decreasing cloud coverage.
-On Earth the VRE signature would have been weaker when
-the first land plants emerged *500Myr ago, such as mosses,
-liverworts, and hornworts, as a result of the spectral properties
-of the first land plants. Once vascular plants, such as ferns,
-emerged, plants had similar VRE strengths; however, the
-overall VRE signal increased due to globally increasing vegetation
-surface coverage. On Earth other geological surface
-feature changes, such as ice cover, modified the increasing
-VRE strength over time. The VRE signature generally increases
-through geological time, making older Earth-like
-planets better targets to find a vegetation surface feature
-- The far-future evolution of Earth’s climate is extremely
-hard to model. Two of the many possible scenarios, a warm
-humid future Earth (or jungleworld) and a hot arid future Earth
-(or desertworld), show an increasedVRE signal in ourmodel
-- the best exoplanet targets for VRE detections
-should be older Earth analogues, hot jungle worlds, and
-potentially, hot arid desert worlds, as well as exoplanets
-with low-cloud coverage
-
+- Mais le signal de la VRE n'est malheureusement pas sans ambiguité sur sa nature biologique. En effet, certains processus abiotiques produisent aussi une VRE.
+> C'est le cas de certains minéraux comme le  cinabre  (HgS) ou les cristaux de soufre. C'est aussi le cas des surfaces désertiques et de certains types de nuages comme les stratocumulus.
+- Le signal VRE de la Terre d'aujourd'hui est difficile à distinguer à distance à moins d'avoir des spectromètres ultra-précis. 
+> De ce que l'on sait actuellement, nos meilleurs candidats pour détecter un signal de VRE fort seraient des vieilles exoplanètes désertiques habitables, avec une couverture nuageuse faible et recouvertes par des organismes similaires à des cactus, ou bien des vieilles exoplanètes chaudes recouvertes par des jungles. Les exoplanètes sèches habitables (avec peu d'eau en surface) sont probablement plus communes que les exoplanètes similaires à la Terre, car la zone d'habitabilité pour les planètes sèches est plus large que pour les planètes similaires à la Terre.
 
 ## Pour des raisons de perception
 
