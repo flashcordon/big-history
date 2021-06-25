@@ -71,3 +71,5 @@ Land start. Some of the key evidence in favour of this idea emerged in 2009, whe
 - [Properties of galaxies reproduced by a hydrodynamic simulation](https://arxiv.org/abs/1405.1418) - Vogelsberger et al (2014)
 - [Observing the big bounce with tensor modes in the cosmic microwave background: Phenomenology and fundamental loop quantum cosmology parameters](https://ui.adsabs.harvard.edu/abs/2010PhRvD..82l3520G/abstract) - Grain et al (2010)
 - [The end of us](https://aeon.co/essays/to-imagine-our-own-extinction-is-to-be-able-to-answer-for-it?utm_source=Instagram&utm_medium=referral&utm_campaign=tile) -  Thomas Moynihan (2020)
+- [The inhabitance paradox: how habitability and inhabitancy are inseparable](https://arxiv.org/abs/1603.00950) - Goldblatt (2016)
+
