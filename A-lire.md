@@ -102,6 +102,41 @@ Land start. Some of the key evidence in favour of this idea emerged in 2009, whe
 > * Life massively alters its global environment. So much so that it becomes hard to separate Life’s boundaries from its environment, hence the name given to the complicated entity which results from these interactions: Gaia. Studying the physiological and ecological behaviour of this entity has been the central Gaia research programme: could Life maintain its own condition of existence? What are the general properties and behaviour of a global entity constituted by the interaction of Life and its environment?
 - [Properties of galaxies reproduced by a hydrodynamic simulation](https://arxiv.org/abs/1405.1418) - Vogelsberger et al (2014)
 - [Observing the big bounce with tensor modes in the cosmic microwave background: Phenomenology and fundamental loop quantum cosmology parameters](https://ui.adsabs.harvard.edu/abs/2010PhRvD..82l3520G/abstract) - Grain et al (2010)
+> Cosmological models where the standard big bang is replaced by a bounce have been studied
+for decades. The situation has, however, dramatically changed in the past years for two reasons:
+first, because new ways to probe the early Universe have emerged, in particular, thanks to the
+cosmic microwave background, and second, because some well grounded theories – especially loop
+quantum cosmology – unambiguously predict a bounce, at least for homogeneous models
+Solving the singularity by replacing the
+big bang by a big bounce is one of the main achieve-
+ment of loop quantum cosmology (LQC) [1] as a symme-
+try reduced version of the loop quantum gravity (LQG)
+scheme to nonperturbatively quantize general relativity
+in a background invariant way [2].
+Moreover, if the Universe is assumed to be filled with a
+scalar field described by a self-interaction potential well,
+the contracting phase – preceding the Big Bounce – can
+set the field in the appropriate conditions for a phase of
+slow-roll inflation to start just after the bounce. In the
+specific (and simple) case of a massive scalar field, and
+in the framework of an effective LQC universe, only a
+tiny amount of potential energy at the bounce is neces-
+sary for a long enough phase of inflation to be naturally
+generated [3–5]. In effective LQC, it is therefore possi-
+ble both to solve the big bang singularity and to gener-
+ate the specific conditions necessary for inflation to take
+place. Finally, and this is the keypoint addressed by this
+paper, such a model can, in principle, be tested. The
+quantum fluctuations leading to the cosmological pertur-
+bations observed in the cosmic microwave background
+(CMB) anisotropies, though still stretched to astronomi-
+cal size by inflation, experienced the influence of the con-
+traction phase and of the bounce. As a consequence, the
+statistical properties of cosmological perturbations are
+potentially distorted as compared to the standard infla-
+tionary prediction. This finally translates into distortions
+in the angular power spectra of CMB anisotropies.
+
 - [The end of us](https://aeon.co/essays/to-imagine-our-own-extinction-is-to-be-able-to-answer-for-it?utm_source=Instagram&utm_medium=referral&utm_campaign=tile) -  Thomas Moynihan (2020)
 - [The inhabitance paradox: how habitability and inhabitancy are inseparable](https://arxiv.org/abs/1603.00950) - Goldblatt (2016)
 > The  dominant  paradigm  in  assigning  “habitability”  toterrestrial planets is to define a circumstellar habitablezone:  the locus of orbital radii in which the planet isneither too hot nor too cold for life as we know it.  Onedimensional climate models have identified theoreticallyimpressive boundaries for this zone:  a runaway green-house or water loss at the inner edge (Venus), and low-latitude glaciation followed by formation ofCO2cloudsat the outer edge
