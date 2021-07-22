@@ -1,5 +1,6 @@
 # Articles à lire pour la V2 de l'Univers et Nous
 
+- [The long-term quest to build a 'galactic civilisation'](https://www.bbc.com/future/article/20210721-the-quest-for-a-galactic-civilisation-that-saves-humanity) - BBC Future
 - [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/) - Stanford Ecyclopaedia of philosophy
 - [What is a particle ?](https://www.quantamagazine.org/what-is-a-particle-20201112/) - Quanta Magazine
 - [The Cosmic Baryon Cycle and Galaxy Mass Assembly in the FIRE Simulations](https://arxiv.org/abs/1610.08523) - Anglés-Alcázar  et al (2016)
