@@ -12,6 +12,36 @@
 - [Particles do not exist](https://ui.adsabs.harvard.edu/abs/1984qtg..book...66D/abstract) - Paul Davies
 - [In Search for a Planet Better than Earth: Top Contenders for a Superhabitable World](https://www.liebertpub.com/doi/10.1089/ast.2019.2161) - Schulze-Makuch et al (2020)
 - [The Origin of Elements from Carbon to Uranium](https://arxiv.org/abs/2008.04660) - Kobayashi et al (2020)
+> Elements heavier than helium are synthesized
+inside and then ejected by dying stars. The next generation
+of stars form from gas clouds that include heavy elements
+from the previous stellar generations. Therefore, stars in the
+present-day galaxy are fossils that retain the information on
+the properties of stars from the past. From the elemental
+abundances of the present-day stars, it is possible to disen-
+tangle the star formation history of the host galaxy.
+H and most of He are produced in Big Bang nucle-
+osynthesis. The small green and blue areas also in-
+cludes the amounts returned to the ISM via stellar mass
+loss and some He newly synthesized in stars.
+49% of C, 51% of F, and 74% of N are produced by
+AGB stars
+α elements (O, Ne, Mg, Si, S, Ar, and Ca) are mainly
+produced by core-collapse supernovae, but 22% of Si,
+29% of S, 34% of Ar, and 39% of Ca are come from
+SNe Ia. 
+A large fraction of Cr, Mn, Fe, and Ni are produced by
+SNe Ia. In classical works, most of Fe was thought to
+be produced by SNe Ia, but the fraction is only 60%
+in our model, and the rest is mainly produced by HNe.
+Among neutron-capture elements, as predicted from
+nucleosynthesis yields, AGB stars are the main enrich-
+ment source for the s-process elements at the second
+(Ba) and third (Pb) peaks
+For the heavier neutron-capture elements contributions
+from both NS-NS/NS-BH mergers and MRSNe are
+necessary
+
 - [Bashing holes in the tale of Earth's troubled youth](https://www.nature.com/articles/d41586-018-01074-6) - Nature (2018)
 > the Late Heavy Bombardment (LHB), has been an integral part of Earth’s origin story for decades, ever since geologists did a systematic study of samples brought back from the Moon by NASA Apollo missions. But now, the once-popular theory has come under attack, and mounting evidence is causing many researchers to abandon it. A growing community of planetary scientists thinks that things quietened down relatively quickly, with a steadily decreasing rain of asteroids that ended a few hundred million years after Earth and the Moon formed. The first really new data arrived in 2000. Planetary scientist David Kring, cosmochemist Timothy Swindle and planetary scientist Barbara Cohen, all then at the University of Arizona in Tucson, collected lunar meteorites that had fallen to Earth after being blasted from the Moon’s surface by asteroid strikes. They hoped such rocks would provide a more random sample of the Moon’s crust than those from Apollo, which represent at most 4% of the lunar surface. But when the results came back, they showed a curious, and familiar, pattern.
 - [Searching high and low for the origins of life](https://knowablemagazine.org/article/physical-world/2020/searching-high-and-low-origins-life) - Knowable Magazine (2020)
