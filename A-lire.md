@@ -22,13 +22,18 @@
 - [The long-term quest to build a 'galactic civilisation'](https://www.bbc.com/future/article/20210721-the-quest-for-a-galactic-civilisation-that-saves-humanity) - BBC Future
 - [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/) - Stanford Ecyclopaedia of philosophy
 - [What is a particle ?](https://www.quantamagazine.org/what-is-a-particle-20201112/) - Quanta Magazine
-- [The Cosmic Baryon Cycle and Galaxy Mass Assembly in the FIRE Simulations](https://arxiv.org/abs/1610.08523) - Anglés-Alcázar  et al (2016)
-- [Intergalactic Transfer: A New Study on How Matter Moves Across the Universe, Led by CIERA Postdoc Daniel Anglés-Alcázar](https://ciera.northwestern.edu/2017/07/31/intergalactic-transfer-a-new-study-on-how-matter-moves-across-the-universe-led-by-ciera-postdoc-daniel-angles-alcazar/) - Northwestern University
 - [Interview du planétologue William Hartmann : « La thèse du grand bombardement tardif s’effondre »](https://www.cieletespace.fr/actualites/interview-du-planetologue-william-hartmann-la-these-du-grand-bombardement-tardif-s-effondre) - Ciel & Espace
 > La Terre s’est formée il y a 4,5 milliards d’années (4,5 Ga). Selon le scénario du grand bombardement tardif, notre planète aurait subi une faible quantité d’impacts de météorites pendant les 500 millions d’années qui ont suivi. Puis, après cette période de calme, la quantité d’astéroïdes et de comètes croisant notre route aurait subitement augmenté, résultant en un bombardement intense pendant à peine 170 millions d’années. Puis cette activité aurait de nouveau chuté. Représentez la courbe du nombre d’impacts au cours du temps, et vous obtenez un pic. Un épisode bref et intense qu’a également connu notre voisine, la Lune. Les grands bassins d’impact visibles à sa surface sont souvent associés à ce grand bombardement tardif.
 - [A diatribe on expanding space](https://arxiv.org/abs/0809.4573) - Peacock (2008)
 - [Expanding space: the Root of all Evil?](https://arxiv.org/abs/0707.0380) - Francis et al (2007)
 - [The Sun Will Turn Into a Giant Crystal Ball After It Dies](https://www.space.com/42949-sun-crystal-white-dwarf-stars-lifecycle.html) - Space (2019)
+> Half a century ago, theorists predicted that white dwarfs solidify into crystal over time — and the new research has found that this is indeed the case
+> "The sun itself will become a crystal white dwarf in about 10 billion years."
+> "This is the first direct evidence that white dwarfs crystallize, or transition from liquid to solid," Tremblay said. "It was predicted 50 years ago that we should observe a pileup in the number of white dwarfs at certain luminosities and colors due to crystallization, and only now this has been observed."
+White-dwarf crystallization is akin to water freezing from liquid to ice. But the material in this case is oxygen and carbon, and it's crystallizing at temperatures that aren't exactly chilly. The process really kicks into gear when a white-dwarf interior cools down to about 18 million degrees Fahrenheit (10 million degrees Celsius), the researchers said.
+The result is likely a core composed of crystallized oxygen and a mantle dominated by carbon.
+- [Core crystallization and pile-up in the cooling sequence of evolving white dwarfs](https://arxiv.org/abs/1908.00370) - Tremblay et al (2019)
+> ok
 - [Particles do not exist](https://ui.adsabs.harvard.edu/abs/1984qtg..book...66D/abstract) - Paul Davies
 - [In Search for a Planet Better than Earth: Top Contenders for a Superhabitable World](https://www.liebertpub.com/doi/10.1089/ast.2019.2161) - Schulze-Makuch et al (2020)
 >  we can distill a short list of 24 top contenders among the >4000 exoplanets known today that could be candidates for a superhabitable planet. In fact, we argue that, with regard to the search for extrasolar life, potentially superhabitable planets may deserve higher priority for follow-up observations than most Earth-like planets. 
