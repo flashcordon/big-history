@@ -12,6 +12,7 @@
 > La phrase de Fontenelle sera prophétique. Mais devra attendre le milieu du 20e siècle.
 > Au 18e e au 19e siècle, l'idée que l'univers est rempli de créatures fait l'unanimité, basé sur le principe de plénitude. Mais pas sur des bases empiriques !
 > Il faudra attendre 1995 (!) pour que les premières preuves observationnelles de l'existence d'autres systèmes planétaires.
+> L'invention de la radio a convaincu certains scientifiques que l'on pourrait communiquer à des distances interstellaires à l'aide de messages en ondes radio.
 - [The long-term quest to build a 'galactic civilisation'](https://www.bbc.com/future/article/20210721-the-quest-for-a-galactic-civilisation-that-saves-humanity) - BBC Future
 - [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/) - Stanford Ecyclopaedia of philosophy
 - [What is a particle ?](https://www.quantamagazine.org/what-is-a-particle-20201112/) - Quanta Magazine
