@@ -1,5 +1,6 @@
 # Articles à lire pour la V2 de l'Univers et Nous
 
+- [The Extraterrestrial Life Debate 1750-1900](https://books.google.fr/books?id=Ygc5AAAAIAAJ&pg=PA517&lpg=PA517&dq=19th+century+contest+first+to+detect+aliens+mars&source=bl&ots=i-l1H2c4Bn&sig=ACfU3U2gL1_8rLE2_NgyYLKe0BLdY9ZrDw&hl=fr&sa=X&ved=2ahUKEwiViMuW2_jxAhX2CWMBHcBeBJQQ6AEwB3oECAYQAw#v=onepage&q=19th%20century%20contest%20first%20to%20detect%20aliens%20mars&f=false) -  Michael J. Crowe (1988)
 - [A brief history of the extraterrestrial intelligence concept](http://adsabs.harvard.edu/full/1981QJRAS..22..133T) - Tipler (1981)
 > le mot "monde" /univers signifiait quelque chose de différent chez les grecs. Univers ptolémaique. La pluralité des mondes dans ce sens signifiait une pluralité d'univers ptolémaiques auto-contenus, avec une Terre centrale habitée.
 > les arguments en faveur d'un univers habité reposaient sur l'idée d'un univers infini et sur le principe de plénitude : l'univers contient toutes les formes possibles d'existence.
