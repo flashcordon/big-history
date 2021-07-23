@@ -1,5 +1,6 @@
 # Articles à lire pour la V2 de l'Univers et Nous
 
+- [A brief history of the extraterrestrial intelligence concept](http://adsabs.harvard.edu/full/1981QJRAS..22..133T) - Tipler (1981)
 - [The long-term quest to build a 'galactic civilisation'](https://www.bbc.com/future/article/20210721-the-quest-for-a-galactic-civilisation-that-saves-humanity) - BBC Future
 - [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/) - Stanford Ecyclopaedia of philosophy
 - [What is a particle ?](https://www.quantamagazine.org/what-is-a-particle-20201112/) - Quanta Magazine
