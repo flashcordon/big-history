@@ -20,6 +20,7 @@
 > Il faudra attendre 1995 (!) pour que les premières preuves observationnelles de l'existence d'autres systèmes planétaires.
 > L'invention de la radio a convaincu certains scientifiques que l'on pourrait communiquer à des distances interstellaires à l'aide de messages en ondes radio.
 - [The long-term quest to build a 'galactic civilisation'](https://www.bbc.com/future/article/20210721-the-quest-for-a-galactic-civilisation-that-saves-humanity) - BBC Future
+> Until the late 1800s and early 20th Century, scholars "felt the Universe was full of value and humanoids", says Thomas Moynihan, who studies intellectual history at the University of Oxford. As he wrote recently, if people imagined other worlds, they pictured other civilisations living there, rather than barren planets within a bleak, empty vacuum. The idea that the cosmos is almost certainly predominantly empty – a vast region that we could expand into – is therefore a relatively recent realisation in human history, says Moynihan. 
 - [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/) - Stanford Ecyclopaedia of philosophy
 - [What is a particle ?](https://www.quantamagazine.org/what-is-a-particle-20201112/) - Quanta Magazine
 - [Interview du planétologue William Hartmann : « La thèse du grand bombardement tardif s’effondre »](https://www.cieletespace.fr/actualites/interview-du-planetologue-william-hartmann-la-these-du-grand-bombardement-tardif-s-effondre) - Ciel & Espace
