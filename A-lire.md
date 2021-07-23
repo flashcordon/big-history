@@ -98,6 +98,38 @@ interference region of the solar gravitational lens (SGL), is capable of imaging
 exoplanet at a distance of up to 30 parsecs with a few 10 km-scale resolution on its 
 surface.
 - [Thresholds in Origins of life scenarios](https://www.cell.com/iscience/pdf/S2589-0042(20)30953-6.pdf) - Jeancolas et al (2021)
+> Thresholds are widespread in origin of life scenarios, from the emergence of
+chirality, to the appearance of vesicles, of autocatalysis, all the way up to Darwinian
+evolution. 
+> the
+most studied thresholds is Eigen’s ‘‘error threshold,’’ which constrains replication-based scenarios of early
+genetic polymers
+> A number of other prebiotic transi-
+tions invoke thresholds explicitly or implicitly: for instance, the appearance of homochirality (Budin and
+Szostak, 2010; Hawbaker and Blackmond, 2019), replication (Kauffman, 1986; Szathma ́ry, 2006), compart-
+mentalization (Hargreaves et al., 1977), or Darwinian evolution
+> The prebiotic synthesis of the building blocks of life (i.e., amino acids, nucleic acids, sugars, fatty acids) requires
+reactants to reach sufficient concentrations for the reactions to take place, hence the existence of concentration
+thresholds. Concentration thresholds can be overcome by acting on physical-chemical conditions resulting from
+enclosure into vesicles (Luisi et al., 2014), wet-dry cycles (Nelson et al., 2001), freeze-thaw cycles (Monnard et al.,
+2003; Trinks et al., 2005), adsorption on mineral surfaces (Lambert, 2008), or thermophoresis effects in hydrother-
+mal vents (Baaske et al., 2007)
+> The ‘‘progenote stage’’ has been described as a stage where genes heavily ex-
+change between dividing protocells via horizontal gene transfer (HGT) (Woese and Fox, 1977). The transi-
+tion from dominant HGT to lineages where genetic polymers and compartments are strongly correlated
+has been coined the ‘‘Darwinian threshold’’ (Woese, 2002)
+> In contrast, other authors posit the advent of Darwinian evolution before the appearance of proto-
+cells
+> So far, we have analyzed single threshold transitions. However, origin of life scenarios combine multiple transi-
+tions (Szathma ́ry, 2015; Sole ́, 2016 ). There are to date only a few attempts to assemble complete detailed sce-
+narios (Martin et al., 2003; Damer and Deamer, 2020).
+> Such threshold articulations in origin of life scenarios also make sense in light of the concept of lifeness (also
+referred to as aliveness or life index) proposed by several authors (Bruylants et al., 2010; Sutherland, 2017; Mala-
+terre and Chartier, 2019). Lifeness stands for a scale where so-called infrabiological systems (Szathma ́ry, 2005) are 
+positioned between a non-living state and a living state. It remains debated which quantities or measures best
+account for lifeness. For instance, Bedau (2012) proposes a discrete scale from 0 to 9 depending on the number
+of interactions between three subsystems: container, metabolism, and program, whereas Malaterre and Chartier
+(2019) propose a multidimensional gradual scale that integrates system and environment-related functions. 
 - [Reductionism vs. emergence: Are you “nothing but” your atoms?](https://bigthink.com/13-8/reductionism-vs-emergence-science-philosophy) - Adam Frank (2021)
 - [Mon mémoire en 400 mots : Frédéric Genest](http://www.exoplanetes.umontreal.ca/mon-memoire-en-400-mots-frederic-genest/) - Irex
 - [Chemistry of the universe](https://chandra.si.edu/chemistry/?fbclid=IwAR2qhlmGbZMgfQjTLm-NnzdG1bxofKi_sgxtC2WXqwq2GH_df2e6NgN_ZGI) - Chandra
