@@ -1,5 +1,79 @@
 # Articles à lire pour la V2 de l'Univers et Nous
 
+- [A HISTORY OF THE EXTRATERRESTRIAL LIFE DEBATE](https://notendur.hi.is/~einar/Heimsfraedi/CroweLife.pdf) - Crowe (1997)
+> Epicurus,
+for  example, stated: “There  are infinite worlds both like and unlike this
+world of ours. For the atoms being infinite in number . . . are borne far
+out into space” (Epicurus [c. 300] 1957, 5). The atoms being infinite in
+number form  an infinite  number  of  worlds.  It  would  be  easy to  misun- 
+derstand  this  position.  What  the  atomists  were  claiming  was  not  that
+inhabited planets orbit the sun or some other star but rather that some-
+where  in  space, probably beyond our  view, exist other  universes compa-
+rable to our own—with an inhabited world, like the earth, at the center.
+One  source  of  the  atomists’  view  of  other  worlds  was  their  adoption  of
+what  Arthur  Lovejoy  has  called the  “Principle  of Plenitude,”  a  principle
+that  Lovejoy  describes  as  the  doctrine  that  “no  genuine  potentiality  of
+being  can  remain  unfulfilled,  that  the  extent  and  abundance  of  the
+creation  must  be  as  great  as  the  possibility  of  existence  and  commensu-
+rate  with  the  productive  capacity  of  a  ‘perfect’  and  inexhaustible
+‘Source,’ and that the world is better, the more things it contains” (Love-
+joy [1936] 1960, 52). The Source for the Epicureans was the infinity of
+the atoms, whereas many later authors identified it with God.
+> Extraterrestrials  also  had  their  opponents  in  antiquity.  Among  the
+most influential of these were Plato (428–348 B.C.E.) and Aristotle (384–
+22  B.C.E.).  Plato,  for  example,  argued  that  the  uniqueness  of  the  creator
+implies  the  uniqueness  of  the  creation  and  that,  were  the  universe  a
+composite, it would be subject to decomposition. Aristotle also opposed
+the atomist position, basing some of his arguments on particular aspects
+of  the  sophisticated  cosmology  that  he  had  developed.
+> What  position  did  early  Christian  authors  take  on  the  idea  of  extra-
+terrestrial  life  or  the  idea  of  a  plurality  of  worlds  as  this  issue  has  been
+known throughout most of history? Those who discussed the issue were
+generally  opposed  to  extraterrestrials.  One  reason  for  this  is  that  early
+Christian  scholars  tended  to  favor  Platonic  and  Aristotelian  philosophy
+over  the  materialistic  philosophy  of  the  atomists. 
+> In  1686,  Bernard  le  Bovier  de
+Fontenelle (1657–1757) created a sensation by championing extraterres-
+trials in his Entretiens sur la pluralité des mondes. Whereas Rome deemed this  volume  dangerous,  placing  it  on  the  Index  in  1687,  the  public
+proclaimed it a delight. By 1800 the popularity of Fontenelle’s presenta-
+tion had  carried it through dozens of editions as well as translation into
+at least nine languages
+> Extraterrestrials  were  very  prominent  in  the  eighteenth  century,  or
+that  period  known  as  the  Enlightenment.  In  fact,  at  least  a  majority  of
+the  leading  Enlightenment  intellectuals  entered  the  extraterrestrial  life
+debate,  the  great  majority  favoring  the  idea  of  a  plurality  of  worlds.
+> William  Herschel  built  many  of  the  giant  telescopes  that  helped  him
+become the pioneer of galactic astronomy not to observe nebular objects
+but rather in hopes of confirming what he believed were observations of
+life on the moon.
+>  numerous religious thinkers  of the  nine-
+teenth century grappled with extraterrestrials.
+> The  degree  to  which  belief  in  extraterrestrial  life  had  permeated  the
+public in the first half of the nineteenth century is indicated by an event
+that  occurred  in  1835.  In  that  year,  Richard  Locke  (1800–1871),  a
+writer with the New York Sun newspaper, created a sensation by publish-
+ing  a  series  of  articles  reporting  that  intelligent  beings  had  been  tele-
+scopically observed on the moon. The noteworthy feature of this event is
+that  nearly  everyone  believed  Locke’s  report,  even  though  substantial
+> evidence  had  already  been  gathered  to  show  that  the  moon  lacks  an
+atmosphere. Locke’s articles won him a place in the history of journalism
+as  the  author  of  what  is  now  called  “the  Great  Moon  Hoax.”  From
+studying  that  period  I  have  located  evidence  that  indicates  that  Locke’s
+goal was not to perpetrate a hoax but rather that he was writing satire, a
+satire that misfired because of the gullibility of his readership.
+>  One  factor  contributing  to  the
+decline  of  belief  in  extraterrestrials  in  the  latter  half  of  the  nineteenth
+century  was  the  development  of  biological  science,  from  which  astrono-
+mers learned the delicacy of the conditions necessary for life
+> The pendulum swung again in the 1940s
+in the direction of favoring belief in extraterrestrials when nebular theo-
+ries  were  given  a  new  life.  At  the  same  time,  the  development  of  radio
+astronomy led to increased hopes of contact with extraterrestrials.
+> for  more  than
+three  centuries  some  people  have  marshalled  extraterrestrials  to  drive  be-
+lievers from churches, whereas others have enlisted extraterrestrials to sup-
+port their religious creeds
+> 
 - [The end of us](https://aeon.co/essays/to-imagine-our-own-extinction-is-to-be-able-to-answer-for-it?utm_source=Instagram&utm_medium=referral&utm_campaign=tile) - Mooynihan (2020)
 > In the 1930s, the American historian of ideas Arthur Lovejoy noticed an assumption, which he called the ‘Principle of Plenitude’, spanning Western philosophy from Aristotle to G W Leibniz. Put simply, the Principle holds that all legitimate possibilities must eventually be realised. Formulated slightly differently, there are no unjustifiable absences in existence. There are no things that could be, but simply just are not, without any justification. Accordingly, something as unjustifiable as an extinction (inasmuch as it is an unaccountable gap in nature’s space of realisations) was forbidden. This effectively made the extirpation of any species (whether human or nonhuman) meaningless and temporary, because it entails that the possibility of it returning will, inevitably and eventually, be fulfilled. Even if it is wiped out somewhere, each species will someday re-emerge. 
 > in 1686, the French scientist Bernard Le Bouyer de Fontenelle proclaimed with identical conviction that no species ‘can totally perish’ because, even if our planet is destroyed or our Sun dies, a new world will eventually be repopulated somewhere with the exact same species. 
@@ -230,3 +304,5 @@ in the angular power spectra of CMB anisotropies.
 > The  dominant  paradigm  in  assigning  “habitability”  toterrestrial planets is to define a circumstellar habitablezone:  the locus of orbital radii in which the planet isneither too hot nor too cold for life as we know it.  Onedimensional climate models have identified theoreticallyimpressive boundaries for this zone:  a runaway green-house or water loss at the inner edge (Venus), and low-latitude glaciation followed by formation ofCO2cloudsat the outer edge
 > sing the same class ofclimate model, I show that the different climate statescan overlap very substantially and that “snowball Earth”,moist temperate climate, hot moist climate and a post-runaway dry climate can all be stable under the samesolar flux.   The radial extent of the temperate climateband is very narrow for pure water atmospheres, but canbe widened with di-nitrogen and carbon dioxide.   Thewidth of the habitable zone is thus determined by the at-mospheric inventories of these gases. Yet Earth teachesus  that  these  abundances  are  very  heavily  influenced(perhaps even controlled) by biology.  This is paradox-ical:   the  habitable  zone  seeks  to  define  the  region  aplanet should be capable of harbouring life; yet whetherthe planet is inhabited will determine whether the cli-mate may be habitable at any given distance from thestar. This matters, because future life detection missionsmay use habitable zone boundaries in mission design
 
+
+-
