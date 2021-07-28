@@ -1480,6 +1480,8 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [JUICE](https://www.lpc2e.cnrs.fr/activites-scientifiques/plasmas-spatiaux/projets/missions-spatiales/juice/) - LPC2E
 - [Mission JUICE](https://juice.cnes.fr/fr/JUICE/Fr/GP_mission.htm) - CNES
 - [Jupiter Icy Moons Explorer](https://fr.wikipedia.org/wiki/Jupiter_Icy_Moons_Explorer) - Wikipédia
+- [Pioneer 11](https://solarsystem.nasa.gov/missions/pioneer-11/in-depth/) - NASA
+- [La sonde Pioneer 11 a été lancée il y a 40 ans](https://www.futura-sciences.com/sciences/actualites/astronomie-sonde-pioneer-11-ete-lancee-il-y-40-ans-45769/) - Futura sciences (2013)
 
 ---
 
@@ -1710,6 +1712,13 @@ Spot may someday vanish.
 ## Missions vers Jupiter
 
 ### Pioneer 10 et 11
+
+- Pioneer 10 est devenue la première sonde spatiale à visiter le système solaire externe, et la première sonde à visiter une géante gazeuse.
+- Lors de son survol de Jupiter (à 200 000 km de la planète au plus près), Pioneer 10 a bénéficié d'une assistance gravitationnelle de la planète afin de quitter définitivement le système solaire
+
+- Le 3 Décembre 1974, Pioneer 11 passe au plus près de Jupiter, à près de 42 500 km des nuages de la planètes.
+> * Elle devient la première sonde à photographier les régions polaires de Jupiter (où les électrons énergétiques sont moins nombreux que dans les régions équaoriales, et donc moins dangereux pour la sonde)
+> * Elle prend plus de 200 photos des lunes de Jupiter, puis est dirigée vers Saturne, par effet de fronde gravitationnelle avec Jupiter
 
 ### Voyager 1 et 2
 
