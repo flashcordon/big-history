@@ -1482,6 +1482,7 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Jupiter Icy Moons Explorer](https://fr.wikipedia.org/wiki/Jupiter_Icy_Moons_Explorer) - Wikipédia
 - [Pioneer 11](https://solarsystem.nasa.gov/missions/pioneer-11/in-depth/) - NASA
 - [La sonde Pioneer 11 a été lancée il y a 40 ans](https://www.futura-sciences.com/sciences/actualites/astronomie-sonde-pioneer-11-ete-lancee-il-y-40-ans-45769/) - Futura sciences (2013)
+- [Hubble Finds First Evidence of Water Vapor at Jupiter’s Moon Ganymede](https://www.nasa.gov/feature/goddard/2021/hubble-finds-first-evidence-of-water-vapor-at-jupiter-s-moon-ganymede) - NASA (2021)
 
 ---
 
@@ -1705,7 +1706,11 @@ Spot may someday vanish.
 
 ### Ganymède 
 
-- Ganymède est la seule lune du Système solaire à générer son propre champ magnétique
+- Avec ses 5200 km de diamètre, Ganymède est la plus grande lune du système solaire
+- Ganymède est la seule lune du Système solaire à générer son propre champ magnétique, même s'il est relativement faible
+> Cette caractéristique a été découverte en 1998 par le télescope spatial Hubble qui a réalisé la première image en UV de Ganymède, ce qui a révélé des rubans de plasma nommés "bandes aurorales", qui trahissent la présence d'un champ magnétique
+- En 2021, une équipe d'astronomes a découvert des traces de vapeur d'eau dans l'atmosphère de Ganymède, en revisitant des données du télescope spatial Hubble récoltées entre 1998 et 2018.
+> Cette vapeur d'eau provient de la sublimation de la glace de surface.
 
 ### Callisto
 
