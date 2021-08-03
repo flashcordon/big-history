@@ -889,11 +889,20 @@ Burcher
 - [Laboratory Simulations of Titan's Surface Composition and its Relation to Atmospheric Haze Layers ](https://ui.adsabs.harvard.edu/abs/2014isms.confEFE02S/abstract) - Sebree et al (2014)
 - [Space smells life](https://www.aromatom.org/welcome) - AromAtom
 - [Detection of hydrogen sulfide above the clouds in Uranus’s atmosphere](https://www.nature.com/articles/s41550-018-0432-1) - Irwin et al (2018)
+- [Taste & Smell: Crash Course A&P #16](https://youtu.be/mFm3yA1nslE) - Crash Course (2015)
+- [Olfaction : quand le cortex redistribue les cartes](https://www.medecinesciences.org/en/articles/medsci/full_html/2011/07/medsci2011278-9p687/medsci2011278-9p687.html) - Lepousez et Gheusi (2011)
 
 ---
 
 - La quasi-totalité des informations qui nous parviennent de l'univers sont sous forme lumineuses. On les contemple donc avec nos yeux, que ça soit directement ou à travers les prothèses oculaires mécaniques que sont nos télescopes, et qui étendent la portée de notre vue. Mais l'univers peut aussi s'expérimenter d'autre manières ! Après tout, nous avons bien d'autre sens que la vue.
 - Aujourd'hui j'aimerais me concentrer sur un sens que l'on utilise trop peu : l'odorat. En effet, le cosmos regorge d'odeurs diverses et mystérieuses, que personne n'a senti jusqu'à présent. On va donc embarquer dans un voyage en odorama à la découverte des effluves les plus étranges du cosmos. Mais avant de partir très loin, on peut s'intéresser à notre voisinage cosmique. Parce que pour le coup, on a des témoignages de première main. En effet, si on demande aux rares humains qui ont eu la chance de partir dans l'espace, ces derniers ont fait l'expérience d'une collection d'odeurs plutôt insolites.
+
+### Comment marche l'odorat ?
+
+- On possède des chimiorécepteurs, des cellules spécialisées qui permettent de traduire (on dit transduire) des informations chimiques en signal que notre système nerveux peut comprendre
+- Lorsque vous inspirez, vous aspirez des molécules volatiles contenues dans l'air ambiant. La plupart (95%) de ces molécules sont arrêtées par les poils à l'intérieur de votre cavité nasale, mais certaines finissent par atteindre le sommet de la cavité nasale. À cet endroit se trouve l'épithélium olfactif, une muqueuse jaunatre qui contient des millions de neurones récepteurs. Les molécules sont piégées dans une couche de mucus, se dissolvent et se fixent à ces neurones récepteurs, et à ce moment là les neurones s'activent et envoient un signal à notre cerveau (vers le cortex olfactif). Chaque neurone récepteur est spécialisé pour reconnaître une substance chimique volatile particulière. Le système olfactif agit donc comme un piano capable de produire des millions d'accords.
+> Chacun d'entre nous possède plus de 5 millions de neurones olfactifs qui nous permettent d'identifier près de 10 000 odeurs différentes. 
+- Le signal de l'odeur passe dans le cortex frontal, où elle est consciemment identifiée, mais aussi dans le système limbique, qui est immpliqué dans les émotions et la mémoire.
 
 ### Les expériences directes
 
