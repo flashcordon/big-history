@@ -714,6 +714,7 @@ and no doubt lives into its development
 - [Your Guide to NASA’s Odyssey Mission](https://www.planetary.org/space-missions/odyssey) - Planetary Society
 - [20 years around the Red Planet](https://astronomy.com/magazine/news/2020/12/20-years-around-the-red-planet) - Space.com
 - [Morphology and Composition of the Surface of Mars: Mars Odyssey THEMIS Results](https://science.sciencemag.org/content/300/5628/2056) - Christensen et al (2003)
+- [Voyage au centre de Mars](https://www.larecherche.fr/astronomie-plan%C3%A9tologie/voyage-au-centre-de-mars) - La Recherche (2021)
 
 ---
 
