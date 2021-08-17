@@ -1,5 +1,112 @@
 # Articles à lire pour la V2 de l'Univers et Nous
 
+- [Opinion: Studies on the origin of life — the end of the beginning](https://www.nature.com/articles/s41570-016-0012) - Sutherland (2017)
+> The latest list of genes thought to
+be present in LUCA is a long one. The
+presence of membranes, proteins, RNA and
+DNA, the ability to perform replication,
+transcription and translation, as well as
+harbouring an extensive metabolism driven
+by energy harvested from ion gradients
+using ATP synthase2, reveal that there must
+have been a vast amount of evolutionary
+innovation between the origin of life and
+the appearance of LUCA. Clearly, it is not
+possible to deduce the precise environment
+that LUCA inhabited from such a low
+resolution and incomplete picture, but it
+is tempting to speculate and assume from
+its reliance on hydrogen as a reductant —
+through the action of NiFe hydrogenase
+— that it lived in a place where hydrogen was
+plentiful
+- it is impossible
+to say whether the predecessors of LUCA
+inhabited the same environment from day
+one, or whether life started elsewhere, spread
+and adapted to the conditions at various
+locations, and was then killed off everywhere
+except at LUCA’s chosen abode by, for
+example, a giant impact
+- High
+energy, non-selective chemistry might
+appear appealing at first, because many
+(proto-)biomolecules can be produced in
+one step8 — especially if one is prepared
+to analyse down to the parts per million
+level9 — but myriad by-products makes their
+subsequent separation or selective utilization
+seem impossibly difficult. More plausibly,
+certain inherently favoured reactions or
+sequences of reactions might selectively
+produce key molecules destined for
+biology.
+- early
+Earth carbon feedstocks were most likely
+one-carbon compounds, and yet most
+biomolecules have multiple contiguous
+carbon atoms. Joining two molecules of
+the same one-carbon compound together
+through C–C bond formation is difficult
+- Remarkably, when these few
+reduction reactions are combined with
+several addition reactions and a dry-state
+phosphorylation (conditions for which
+were discovered nearly half a century
+ago15,16 but are still being rediscovered17), a
+reaction network leading from hydrogen
+cyanide 2 (and a few of its derivatives) to the
+pyrimidine nucleotides, and to precursors to
+a dozen amino acids and glycerol phosphate
+lipids, can be defined18. The reactions are all
+high yielding and lead to little else besides
+biomolecules or their precursors. It is not
+definitive proof that the building blocks of
+biology arose in this way, but it is compelling
+and indicates that the requirements for
+these reactions to take place should be used
+to constrain geochemical scenarios on the
+early Earth. A requirement for ultraviolet
+irradiation to generate hydrated electrons
+would rule out deep sea environments.
+This, along with strong bioenergetic and
+structural arguments19, suggests that the
+idea that life originated at vents20 should,
+like the vents themselves, remain ‘In the
+deep bosom of the ocean buried’.
+- In a way,
+life can be thought of as an energized
+assemblage of building blocks; therefore,
+any synthesis of these building blocks,
+however all-encompassing, is only a step
+towards demonstrating, or recapitulating,
+the origin of life. More synthesis is needed,
+this time the synthesis of macromolecules
+and assemblies. Dehydration reactions
+will be needed to produce biopolymers
+from the corresponding monomers, and
+there will be a need for energy sources
+to drive this. The chemistry can even be
+energetically wasteful as long as there are
+abundant sources of energy, and this might
+even be preferable because it could give rise
+to another of biology’s addictions: energy
+dissipation.
+- The transition of a system from the inanimate
+state to the animate is envisioned as an increase in ‘aliveness’ over time. We (and others29) prefer to
+consider this transition as a series of steps, rather than a single step, following the prelude of prebiotic
+chemistry1. Equilibrium is death, which means some sort of coupling of energy dissipation to maintain
+the system continuously out of equilibrium throughout the transition is envisaged
+- if the tape were to be replayed,
+a biology ostensibly similar to ours might
+emerge with proteins and RNA assembled
+from (mostly) the same monomers
+performing similar functions because
+of chemical necessity, but a closer look
+would reveal sequences radically different
+to those used in our biology because of
+chemical contingency.
+- 
 - [What is Quantum Field Theory, and What Did We Think It Is?](https://arxiv.org/abs/hep-th/9702027) - Weinberg (1997)
 - [Principle of Plenitude](http://jins362.pbworks.com/w/page/7451282/Ideas%20about%20The%20Principle%20of%20Plentitude) - ???
 > The most common definition of the Principle of Plenitude is that if the universe is to be as perfect as possible, it must be as full as possible. Another version of the principle refers to probabilities of events rather than kinds of objects as implied above. It says that there can be no possibilities that remain possibilities but are unrealized throughout eternity. More plainly this version states: given enough chances for the event to take place, it will take place given a long enough time span. In relation to extraterrestrial life, the Principle of Plenitude has more relation to the latter version in meaning: the universe is so big and so full that there must be other “Earths” out there.  According to Arthur Lovejoy in Great Chain, "...no genuine potentiality of being can remain unfulfilled, that the extent and the abundance of the creation must be as great as the possibility of existence and commensurate with the productive capacity of a 'perfect' and inexhaustible Source, and that the world is better, the more things it contains."[1] Expanding Lovejoy's idea about the Earth out to the universe and we get the Principle of Plenitude as defined in this course. This is due to the infinity of the universe, in space and in time, so theoretically anything that possibly can happen, eventually will.
