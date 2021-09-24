@@ -108,11 +108,13 @@ A quick review of the various concepts will immediatelyshow that many of those s
 
 ## le projet Orion
 
-The idea of using nuclear pulse propulsion was ﬁrst proposed by Stanislaw Ulam in 1947 andsubsequently resulted in an engineering study led by Ted Taylor[10]. This was to employ nuclearpulse technology to propel a vehicle by capturing the blast products of a nuclear explosion onthe rear of a giant pusher plate, transferring momentum to the spacecraft and its occupants,cushioned from the blast by several shock absorbers. This eventually led to the Project Orionengineering study with around $11 million being spent over a period of 7 years. The design wasfor a mission which would take only
-approx
-140 years to reach Alpha Centauri with 1 ‘unit of propellant’ being exploded every 3 seconds to push the spacecraft at 1g acceleration to
-≈
-3% of light speed [11]. However, with the arrival of various test ban treaties external nuclear pulse wasshelved to the archives. Despite this, Project Orion remains the ﬁrst comprehensive interstellarspacecraft design which was credible.
+- Le concept de la propulsion nucléaire pulsée a été initié par Stanislaw Ulam en 1946, et a été étudié plus en détail par Ted Taylor en 1958.
+- Taylor, accompagné par le physicien Freeman Dyson, ont initié le projet Orion dans les années 50-60. Il s'agit de la première proposition crédible de sonde interstellaire de l'Histoire.
+> Le projet a coûté 11 millions de dollars et s'est étalé sur 7 ans.
+- Le design de sonde interstellaire proposé par le projet Orion suggère un voyage de 140 ans vers Alpha du Centaure, en faisant exploser une "unité de propulsion" (bombe nucléaire) toutes les 3 secondes jusqu'à atteindre 3% de la vitesse de la lumière
+- Le traité de 1963 interdisant les essais nucléaires a eu raison du projet Orion.
+ 
+The idea of using nuclear pulse propulsion was ﬁrst proposed by Stanislaw Ulam in 1947 andsubsequently resulted in an engineering study led by Ted Taylor[10]. This was to employ nuclearpulse technology to propel a vehicle by capturing the blast products of a nuclear explosion onthe rear of a giant pusher plate, transferring momentum to the spacecraft and its occupants,cushioned from the blast by several shock absorbers. 
 
 ## Le projet Daedalus
 
