@@ -116,6 +116,14 @@ approx
 
 ## Le projet Daedalus
 
+- Dans les années 70, un groupe de réflexion bénévole constitué de membres de la British Interplanetary Society s'est réunis pour discuter de la faisabilité théorique d'une mission interstellaire.
+- Le résultat de leurs réflexions a été publié dans un rapport intitulé "Project Daedalus" en 1978. Ce rapport constitue l'une des études les plus exhaustives à ce jour sur ce thème  
+- Dans le scénario développé par les membres de la BIS, une sonde interstellaire est envoyée vers l'étoile de Barnard
+> * La sonde est propulsée par fusion nucléaire, alimentée par une mixture de deutérium et d'hélium 3.
+- Pour récolter son carburant, les auteurs du rapport ont imaginé que la sonde irait collecter du deutérium et de l'hélium 3 dans l'atmosphère des planètes géantes du système solaire
+> * En pratique cela pose problème, parce que ces planètes constituent des puits gravitationnels très profonds du fait de leur masse, ce qui fait qu'il est extrêmement difficile de s'extraire de leur attraction.
+> * La vitesse de libération d'Uranus est de 21,3 km/s, celle de Neptune 23,5 km/s, celle de Saturne 35,5 km/s et celle de Jupiter 59,5 km/s. En comparaison, celle de la Terre n'est que de 11,2 km/s. 
+ 
 During the 1970s members of the British Interplanetary Society embarked on a landmark the-oretical engineering design study to send a probe to Barnard’s star. Project Daedalus was atwo-stage vehicle employing electron beam driven inertial conﬁnement fusion engines to reachits target destination.
 
 Then inJanuary 1973 members of the BIS ﬁrst met to discuss the challenges of interstellar propulsionand the idea of Project Daedalus was born. Led by Alan Bond, Tony Martin and Bob Parkinson,members came together to create what has become one of the most comprehensive interstellarengineering studies ever undertaken. Project Daedalus had three stated guidelines:1. The spacecraft must use current or near future technology.2. The spacecraft must reach its destination within a human lifetime.3. The spacecraft must be designed to allow for a variety of target stars.The members of the Daedalus study group were all volunteers but with a solid knowledgeof engineering and science. The ﬁnal design was published in 1978 [13]and was a two-stagespacecraft nearly 200m in length powered by electron driven D/He
@@ -123,27 +131,6 @@ Then inJanuary 1973 members of the BIS ﬁrst met to discuss the challenges of i
 fusion reactions, eventuallyaccelerating up to 12% of light speed to arrive at its target destination Barnards star 5.9 lightyears away in under 50 years. 
 
 The second stage carried a 450 tonnescientiﬁc payload with 18 probes to be used to study the target solar system planets.
-
-the choice of fuel which for Daedalus was D/He3
-
-A source of fuel other than the gas giant Jupiter (the choiceof the Daedalus designers) should be considered. 
-There are two basic problems with gas giant mining however. The ﬁrst is overcomingthe huge gravity wells. The escape velocities for the various gas giants are 21
-.
-3km
-/
-s (Uranus),23
-.
-5km
-/
-s (Neptune), 35
-.
-5km
-/
-s (Saturn) and 59
-.
-5km
-/
-s (Jupiter)
 
 
 ## Le projet Icarus
