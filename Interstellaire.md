@@ -100,18 +100,79 @@ At solar distances closer than about 6 Rs the external shield surface temperat
 
 - Dans les 15 années lumière à la ronde (la portée maximum du projet Icarus), on recense environ 56 étoiles situées dans 38 systèmes stellaires différents.
 > Une étoile de type spectral A (Sirius), une de type F (Procyon), 2 de type G (α Centauri A et τ Ceti), 5 étoiles de type K, 41 étoiles de types M (naines rouges), 3 naines blanches et 3 naines brunes potentielles
+- L'étoile la plus proche se trouve à 272 000 unités astronomiques (4,3 années lumière)
 
+## Problème de la propulsion chimique
 
+A quick review of the various concepts will immediatelyshow that many of those schemes are ruled out. This includes chemical, electric and nuclearﬁssion [4]. This is largely due to either a lack of speciﬁc impulse or a lack of thrust to givehigh exhaust velocity. A high exhaust velocity would be necessary to reach the speeds that arerequired to travel to another star within the time span of a human lifetime
 
 ## le projet Orion
 
+The idea of using nuclear pulse propulsion was ﬁrst proposed by Stanislaw Ulam in 1947 andsubsequently resulted in an engineering study led by Ted Taylor[10]. This was to employ nuclearpulse technology to propel a vehicle by capturing the blast products of a nuclear explosion onthe rear of a giant pusher plate, transferring momentum to the spacecraft and its occupants,cushioned from the blast by several shock absorbers. This eventually led to the Project Orionengineering study with around $11 million being spent over a period of 7 years. The design wasfor a mission which would take only
+approx
+140 years to reach Alpha Centauri with 1 ‘unit of propellant’ being exploded every 3 seconds to push the spacecraft at 1g acceleration to
+≈
+3% of light speed [11]. However, with the arrival of various test ban treaties external nuclear pulse wasshelved to the archives. Despite this, Project Orion remains the ﬁrst comprehensive interstellarspacecraft design which was credible.
+
 ## Le projet Daedalus
+
+During the 1970s members of the British Interplanetary Society embarked on a landmark the-oretical engineering design study to send a probe to Barnard’s star. Project Daedalus was atwo-stage vehicle employing electron beam driven inertial conﬁnement fusion engines to reachits target destination.
+
+Then inJanuary 1973 members of the BIS ﬁrst met to discuss the challenges of interstellar propulsionand the idea of Project Daedalus was born. Led by Alan Bond, Tony Martin and Bob Parkinson,members came together to create what has become one of the most comprehensive interstellarengineering studies ever undertaken. Project Daedalus had three stated guidelines:1. The spacecraft must use current or near future technology.2. The spacecraft must reach its destination within a human lifetime.3. The spacecraft must be designed to allow for a variety of target stars.The members of the Daedalus study group were all volunteers but with a solid knowledgeof engineering and science. The ﬁnal design was published in 1978 [13]and was a two-stagespacecraft nearly 200m in length powered by electron driven D/He
+3
+fusion reactions, eventuallyaccelerating up to 12% of light speed to arrive at its target destination Barnards star 5.9 lightyears away in under 50 years. 
+
+The second stage carried a 450 tonnescientiﬁc payload with 18 probes to be used to study the target solar system planets.
+
+the choice of fuel which for Daedalus was D/He3
+
+A source of fuel other than the gas giant Jupiter (the choiceof the Daedalus designers) should be considered. 
+There are two basic problems with gas giant mining however. The ﬁrst is overcomingthe huge gravity wells. The escape velocities for the various gas giants are 21
+.
+3km
+/
+s (Uranus),23
+.
+5km
+/
+s (Neptune), 35
+.
+5km
+/
+s (Saturn) and 59
+.
+5km
+/
+s (Jupiter)
+
 
 ## Le projet Icarus
 
+This is an attempt to redesign the Daedalus vehicle with similar termsof reference. The aim of this study is to evolve an improved engineering design and move uscloser to achieving interstellar exploration. 
 
+Project Icarus: son of Daedalus - ﬂying closer to another star. This is the vision of this theoret-ical design study to re-examine the engineering solution and fundamental assumptions behindProject Daedalus. Like Daedalus, the intention is for Icarus to use fusion based engines and toquote Alan Bond from the recent BIS symposium “now we are addressing the universe on itsown terms”. This was in reference to the utility of using fusion power to visit the stars - whichare themselves fusion powered
+
+Project Icarus is a Tau Zero Foundation initiative in collaboration with The British Inter-planetary Society and so represents a true collaboration of international volunteers all sharingin the vision of a human presence in space in the coming centuries.
+
+The purpose of Project Icarus is as follows:1. To design a credible interstellar probe that is a concept design for a potential mission inthe coming centuries.2. To allow a direct technology comparison with Daedalus and provide an assessment of thematurity of fusion based space propulsion for future precursor missions.3. To generate greater interest in the real term prospects for interstellar precursor missionsthat are based on credible science.4. To motivate a new generation of scientists to be interested in designing space missionsthat go beyond our solar system.
+
+One of the biggest assumptions of Project Daedalus was the use of a ﬂyby probe. ProjectIcarus will re-examine this assumption, and the terms of reference for the study stipulate thatdeceleration of the spacecraft at the target destination is a mission requirement. One optioncould be the use of mini-probes which are separated from the main bus to be decelerated intothe target system whilst the main spacecraft carries on in its trajectory. Another option couldbe achieved by using a magnetic sail otherwise known as a MagSail. This uses a magnetic ﬁeldto deﬂect charged particles contained within the solar wind emitted from the destination star,which decelerates the spacecraft.
+
+
+
+## Le projet Longshot
+
+Another study in the 1980’s was Project Longshot[16] whichproposed using D/He
+3
+reactions driven by either laser or electron beams to accelerate a missionto Alpha Centauri within a century by reaching a speed of 5% of light and by having a speciﬁcimpulse of 10
+6
+s. 
 
 ## Le projet Breakthrough Starshot
 
+## Vaisseau à antimatière
 
+## Propulsion Alcubierre
+
+Although there are exotic concepts for interstellar travel such as warp drive and wormholes,these are currently considered to be purely speculative [6,7]. Concepts such as antimatter have been investigated but the technology is currently too immature to harness for a spacecraft
 
