@@ -117,6 +117,7 @@ approx
 ## Le projet Daedalus
 
 - Dans les années 70, un groupe de réflexion bénévole constitué de membres de la British Interplanetary Society s'est réunis pour discuter de la faisabilité théorique d'une mission interstellaire.
+> La première réunion a eu lieu en Janvier 1973. le groupe de réflexion a été initié par Alan Bond, Tony Martin et Bob Parkinson
 - Le résultat de leurs réflexions a été publié dans un rapport intitulé "Project Daedalus" en 1978. Ce rapport constitue l'une des études les plus exhaustives à ce jour sur ce thème  
 - Dans le scénario développé par les membres de la BIS, une sonde interstellaire est envoyée vers l'étoile de Barnard
 > * La sonde est propulsée par fusion nucléaire, alimentée par une mixture de deutérium et d'hélium 3.
