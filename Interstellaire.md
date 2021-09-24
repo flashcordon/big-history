@@ -5,6 +5,7 @@
 - [Near-term interstellar probe: First step](https://doi.org/10.1016/j.actaastro.2019.06.013) - McNutt et al (2019)
 - [Interstellar Probe: The First Explicit Step in to the Galaxy](https://ui.adsabs.harvard.edu/abs/2019EPSC...13..826B/abstract) - Brandt et al (2019)
 - [Interstellar Boundary Explorer](https://fr.wikipedia.org/wiki/Interstellar_Boundary_Explorer) - Wikipédia
+- [Project Icarus - Son of Daedalus - Flying Closer to Another Star](https://www.academia.edu/4156584/PROJECT_ICARUS_Son_of_Daedalus_Flying_Closer_to_Another_Star) - Long et al (2009)
 
 ---
 
@@ -67,6 +68,9 @@ While the distribution of the asteroids and KBOs is relatively well known, the d
 - Alternative speculations, with an equally long history and also tracing back to Goddard's [8] and Tsander's [9] papers, looked to “slow” “world ships,” which would make the very distant trip to other stars in centuries or millennia.
 - With the maturing space age, and especially the launches of Pioneers 10 and 11 to the outer solar system and beyond, the science case for in situ exploration of the nearby interstellar medium and the boundary of the heliosphere (“… the region of interplanetary space where the solar wind is flowing supersonically.” [26]) became more focused on the nearby interstellar medium [27]. Such “precursor” (to true interstellar travel) missions became the scientific spacecraft focus [[5], [6], [7],28]. While such mission concepts are typically referred to as an “Interstellar Probe", but with varying distances from the Sun, e.g. Refs. [2,29], they all (typically) refer to the very local interstellar medium (VLISM) out to 0.01 parsecs or ∼2000 AU
 - The New Horizons spacecraft was launched to the Pluto system in January 2006
+- In the 1970s (1978) members of The British Interplanetary 
+Society  (BIS)  designed  an  interstellar  flyby  spacecraft 
+called  Daedalus 
 
 
 # Technologies de propulsion
@@ -91,6 +95,13 @@ The question is whether such a maneuver can be better exploited. Rough estimates
 
 At solar distances closer than about 6 Rs the external shield surface temperatures exceed 2000 °C and by 3 Rs they are around 3000 °C. There are more than 300 materials with melting temperatures above 2000 °C, but only 15 above 3000 °C 
 
+## le projet Orion
+
+## Le projet Daedalus
+
+## Le projet Icarus
+
+## Le projet Breakthrough Starshot
 
 
 
