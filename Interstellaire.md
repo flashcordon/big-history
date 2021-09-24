@@ -6,6 +6,7 @@
 - [Interstellar Probe: The First Explicit Step in to the Galaxy](https://ui.adsabs.harvard.edu/abs/2019EPSC...13..826B/abstract) - Brandt et al (2019)
 - [Interstellar Boundary Explorer](https://fr.wikipedia.org/wiki/Interstellar_Boundary_Explorer) - Wikipédia
 - [Project Icarus - Son of Daedalus - Flying Closer to Another Star](https://www.academia.edu/4156584/PROJECT_ICARUS_Son_of_Daedalus_Flying_Closer_to_Another_Star) - Long et al (2009)
+- [Project  Icarus:  Astronomical  Considerations  Relating  to  the Choice of Target Star](https://arxiv.org/ftp/arxiv/papers/1106/1106.0850.pdf) - Ian Crawford 
 
 ---
 
@@ -95,11 +96,20 @@ The question is whether such a maneuver can be better exploited. Rough estimates
 
 At solar distances closer than about 6 Rs the external shield surface temperatures exceed 2000 °C and by 3 Rs they are around 3000 °C. There are more than 300 materials with melting temperatures above 2000 °C, but only 15 above 3000 °C 
 
+## Où aller 
+
+- Dans les 15 années lumière à la ronde (la portée maximum du projet Icarus), on recense environ 56 étoiles situées dans 38 systèmes stellaires différents.
+> Une étoile de type spectral A (Sirius), une de type F (Procyon), 2 de type G (α Centauri A et τ Ceti), 5 étoiles de type K, 41 étoiles de types M (naines rouges), 3 naines blanches et 3 naines brunes potentielles
+
+
+
 ## le projet Orion
 
 ## Le projet Daedalus
 
 ## Le projet Icarus
+
+
 
 ## Le projet Breakthrough Starshot
 
