@@ -18,11 +18,17 @@
 
 # Quelle science réaliser avec une sonde interstellaire 
 
+- Il y a actuellement 5 sondes qui se trouvent sur une trajectoire d'échappement du système solaire, et qui nous donnent des renseignements de première main sur la structure externe et la composition de l'héliosphère
+> * Pioneer 10 et 11
+> * Voyager 1 et 2
+> * New Horizons
+- Il y a encore plein de choses que l'on ignore sur les frontières du système solaire
+- Une sonde interstellaire qui explorerait le milieu interstellaire très local (VLSIM, qui correspond à environ 2000 AU, ou 10 jours-lumière)
 - An Interstellar Probe escaping beyond the solar-system boundaries with new observational techniques would be a bold move in space exploration, enabling detailed, new understanding of the global heliosphere in the context of other astrospheres, further discoveries of unexplored Kuiper Belt Objects, and the first observations of our circumsolar dust disk. These would offer insight into the evolution of the solar system and our understanding of exoplanetary systems. 
 - Interstellar Boundary Explorer (en français « Explorateur de la frontière interstellaire »), plus connu sous son acronyme IBEX, est un petit satellite scientifique de la NASA chargé de cartographier l'héliopause c'est-à-dire la frontière séparant l'héliosphère (région de l'espace sous l'influence du Soleil) du milieu interstellaire.
 - Le satellite lancé le 19 octobre 2008 par un lanceur aéroporté Pegasus XL circule sur une orbite haute autour de la Terre. La durée nominale de la mission est de deux ans mais IBEX est toujours opérationnel en 2019. 
 - La mission d'IBEX est de cartographier la frontière délimitant le Système solaire, où se rencontrent le vent solaire et les rayons galactiques du milieu interstellaire. Ainsi, les mesures d'IBEX vont compléter les données envoyées par les sondes spatiales Voyager 1 et Voyager 2, qui ont traversé cette frontière respectivement en 2004 et 2007. Cette frontière, l'héliosphère, est importante car, si les rayons galactiques n'étaient pas arrêtés dans cette zone, ils rendraient les vols spatiaux habités bien plus dangereux pour l'Homme. 
-- - Nominally an “Interstellar Probe” is a mission through the outer heliosphere and to the nearby “Very Local” interstellar medium or VLISM (0.01 parsecs = ∼2000 AU = ∼10 light days). As with the study of other systems in space, exploration is something that occurs stepwise, as both technology, and more importantly, the science answers and questions evolve with new information. While Pioneer 10 and 11, Voyager 1 and 2, and New Horizons, all on solar-system escape trajectories have and continue to contribute to our knowledge of the outer heliosphere and, especially for Voyager 1, the regions beyond, none of these missions was designed with the science of the interstellar medium per se as a primary science driver.
+
 - The science objectives can be organized into four topics or targets [45]:
 
 Target 1: Interstellar Medium and Heliosphere.
