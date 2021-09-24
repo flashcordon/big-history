@@ -47,6 +47,18 @@ Target 4: Large Trans-Neptunian Planets.
 4.
 
     How did matter in the solar system and interstellar medium originate and evolve?
+    
+While the distribution of the asteroids and KBOs is relatively well known, the dust production and evolution in the Kuiper Belt remains unclear. 
+
+ the large-scale dust distribution beyond the zodiacal cloud is largely unknown because the observational vantage points in infrared are all within this cloud. 
+ 
+ From a vantage point outside the solar system Interstellar Probe provides a unique platform to observe the entire extent of the zodiacal cloud and to resolve, if there, a second Kuiper belt dust cloud isolated by the outer planets, as predicted by Stark and Kuchner
+ 
+ At 40–50 AU, conveniently lining up with the nose direction of the heliosphere and the mysterious so-called “Ribbon” of energetic neutral atoms [54] lies the dwarf planet Quaoar [59,60], which may be in the last stages of losing a methane atmosphere [61]. Lying between volatile-dominated and volatile-poor objects, Quaoar offers a unique object for exploration. Surprisingly, crystalline ice has been detected on the surface implying cryo-volcanism active in the past or even still active [62]. Quaoar therefore represents one of the possible targets that could unveil yet another unexpectedly exotic world of a KBO with critical implications for planetary formation. Quaoar also harbors its own moonlet (Weywot). Investigating this pair would provide further data on the birth and evolution of KBOs.
+ 
+ Distant orbits of objects in the scattered-disk populations of the Kuiper Belt exhibit apparent clustering in the arguments of their perihelia. Batygin and Brown [63] have shown that this distribution could be explained by a distant planet of up to ten times the mass of Earth in an orbit with eccentricity of 0.6 and a semi-major axis of 700 AU, corresponding to a periapsis of 280 AU and apoapsis of 1120 AU. In addition, the newly discovered 2015 BP519 may be the first member of a high-inclination population purely induced by a large trans-Neptunian planet [64]. Other hypotheses exist, which may explain the KBO clustering [65]. However, if observationally confirmed, a large trans-Neptunian planet would be an extremely intriguing flyby target for an Interstellar Probe.
+ 
+ 
 
 # Historique
 
@@ -54,6 +66,31 @@ Target 4: Large Trans-Neptunian Planets.
 - the early discussions focused on schemes of relativistic space flight [[10], [11], [12]] as a requirement for “exploratory”, and, hence, “fast” trips. The problem of driving any mechanical assembly to such high speeds led to an immediate focus on “photon propulsion” based upon tapping into the energy theoretically accessible via matter – anti-matter annihilation [13,14]. Other schemes were also proposed such as the “fusion ramjet” [15], even though then, as now, establishment of controlled fusion power was itself elusive, without the additional complexity of adopting it for space travel
 - Alternative speculations, with an equally long history and also tracing back to Goddard's [8] and Tsander's [9] papers, looked to “slow” “world ships,” which would make the very distant trip to other stars in centuries or millennia.
 - With the maturing space age, and especially the launches of Pioneers 10 and 11 to the outer solar system and beyond, the science case for in situ exploration of the nearby interstellar medium and the boundary of the heliosphere (“… the region of interplanetary space where the solar wind is flowing supersonically.” [26]) became more focused on the nearby interstellar medium [27]. Such “precursor” (to true interstellar travel) missions became the scientific spacecraft focus [[5], [6], [7],28]. While such mission concepts are typically referred to as an “Interstellar Probe", but with varying distances from the Sun, e.g. Refs. [2,29], they all (typically) refer to the very local interstellar medium (VLISM) out to 0.01 parsecs or ∼2000 AU
+- The New Horizons spacecraft was launched to the Pluto system in January 2006
+
+
+# Technologies de propulsion
+
+There are no currently available low-thrust technologies that can apply to Interstellar Probe, which have been demonstrated. Solar electric propulsion (SEP), although demonstrated on the Deep Space-1 [76] and Dawn [77] missions can provide no long-term acceleration beyond the asteroid belt due to the increasing distance from the Sun. 
+
+
+# Logistique
+
+## La manoeuvre d'Oberth
+
+To consider option 3, the Oberth maneuver, we first need to take up the subject of thermal shields – the thermal protection system (TPS) – and the reality of taking a spacecraft very, very close to the Sun.
+
+Oberth pointed out in 1929 that the most rapid escape from the solar system could be effected by a powered spacecraft maneuver deep in the Sun's gravity well by a spacecraft that falls toward the Sun from a large distance 
+
+To maximize the effect of the burn, it must be applied as close to perihelion as possible and at high thrust over a short (preferably minutes) period of time to minimize gravitational losses.
+
+After many years of research and development, materials and concepts were developed [83] to enable the Parker Solar Probe (PSP) to approach a perihelion distance (from the center of the Sun) of 9.86 Rs. Given the specific impulse (Isp) [84] of solid rocket fuel, a simple, solid kick stage might provide ∼3 km/s for
+. At the eventual perihelion of PSP, this would provide , about twice the current escape speed of Voyager 1, the fastest object ever to leave the solar system.
+
+The question is whether such a maneuver can be better exploited. Rough estimates suggest that for such a maneuver to be efficacious, the spacecraft perihelion must at least be as small as 5 Rs
+
+At solar distances closer than about 6 Rs the external shield surface temperatures exceed 2000 °C and by 3 Rs they are around 3000 °C. There are more than 300 materials with melting temperatures above 2000 °C, but only 15 above 3000 °C 
+
 
 
 
