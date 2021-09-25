@@ -11,6 +11,7 @@
 - [Our SpaceFlight Heritage: Project Orion, a nuclear bomb and rocket – all in one](www.spaceflightinsider.com/space-flight-history/project-orion-nuclear-bomb-rocket/) - Spaceflight Insider
 - [A Lab Experiment to Test Spacetime Distortion](https://www.centauri-dreams.org/2012/09/18/a-lab-experiment-to-test-spacetime-distortion/comment-page-1/) - Centauri Dreams (2012)
 - [Hypothetical Spacecraft and Interstellar Travel](https://books.google.fr/books?id=u5B0CQAAQBAJ&pg=PA47&lpg=PA47&dq=voyager+kg+warp+drive+alcubierre&source=bl&ots=hQf41lcE7i&sig=O6FHBnq23bgAzuLgL-P29II9NHI&hl=fr&sa=X&ved=0ahUKEwjrj_Xnj5naAhXBXBQKHfzbDLU4ChDoAQhSMAU#v=onepage&q=voyager%20kg%20warp%20drive%20alcubierre&f=false) - Ezekiel Nygren 
+- [The warp drive: hyper-fast travel within general relativity](https://arxiv.org/abs/gr-qc/0009013) - Alcubierre (1994)
 
 ---
 
