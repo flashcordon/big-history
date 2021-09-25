@@ -12,6 +12,8 @@
 - [A Lab Experiment to Test Spacetime Distortion](https://www.centauri-dreams.org/2012/09/18/a-lab-experiment-to-test-spacetime-distortion/comment-page-1/) - Centauri Dreams (2012)
 - [Hypothetical Spacecraft and Interstellar Travel](https://books.google.fr/books?id=u5B0CQAAQBAJ&pg=PA47&lpg=PA47&dq=voyager+kg+warp+drive+alcubierre&source=bl&ots=hQf41lcE7i&sig=O6FHBnq23bgAzuLgL-P29II9NHI&hl=fr&sa=X&ved=0ahUKEwjrj_Xnj5naAhXBXBQKHfzbDLU4ChDoAQhSMAU#v=onepage&q=voyager%20kg%20warp%20drive%20alcubierre&f=false) - Ezekiel Nygren 
 - [The warp drive: hyper-fast travel within general relativity](https://arxiv.org/abs/gr-qc/0009013) - Alcubierre (1994)
+- [Warp Drive : dernières nouvelles des recherches sur la propulsion transluminique](https://www.futura-sciences.com/sciences/actualites/physique-warp-drive-dernieres-nouvelles-recherches-propulsion-transluminique-54088/) - Futura sciences (2021)
+- [Breaking the Warp Barrier: Hyper-Fast Solitons in Einstein-Maxwell-Plasma Theory](https://arxiv.org/abs/2006.07125) - Lentz (2021)
 
 ---
 
@@ -201,11 +203,13 @@ quelques mètres de côté, qui fait de lui un véritable voilier interstellaire
 - En partant de ces infos, Alcubierre a imaginé un vaisseau qui génère autour de lui ce qu’on appelle une bulle de distorsion. A l’extérieur de la bulle, l’espace temps à l’avant du vaisseau est contracté, comme si on lui appliquait une pichenette, et à l’arrière du vaisseau, l’espace-temps est dilaté.
 > Pour ça, il s’est servi des équations d’Einstein, qui prédisent comment l’espace-temps est déformé si on met une certaine distribution de matière ou d’énergie quelque part. Il est parti du problème inverse. Il s’est dit : je veux contracter l’espace-temps devant mon vaisseau, et le dilater à l’arrière, et il a demandé aux équations d’Einstein quelle genre de matière ou d’énergie il faudrait pour générer cette déformation.
 - Avec ce principe, le vaisseau surfe sur une espèce de tapis roulant d’espace-temps qui peut aller à n’importe quelle vitesse, tout en respectant les lois de la physique, puisqu’à l’intérieur de la bulle de distorsion, le vaisseau bouge moins vite que la lumière. Il ne bouge pas à travers l’espace, mais avec l’espace.
-- Pour créer une telle bulle de distorsion, les équations demandent d’encercler le vaisseau avec un anneau de “matière exotique”, c’est à dire une forme de matière dont la masse serait négative.  
+- Pour créer une telle bulle de distorsion, les équations demandent d’encercler le vaisseau avec un anneau de “matière exotique”, c’est à dire une forme de matière dont la masse/l'énergie serait négative.  
 > À ce jour, on ne connaît rien dans l’univers qui possède une masse négative. Bon après il n’y a aucune loi physique qui interdit l’existence d’une telle forme de matière. Peut être qu’on ne l’a juste pas encore découverte. 
 - Non seulement on a besoin de cette fameuse matière exotique, mais on doit en avoir une énorme quantité ! 
 > A peine quelques années après l’article d’Alcubierre, des chercheurs ont calculé que pour créer une bulle de distorsion de 100m de diamètre, il faudrait une masse négative plus importante que la totalité de la masse de l’univers ! C’est mal parti.
 - Des calculs plus récents ont montré qu’en jouant sur l’épaisseur de la paroi de la bulle de distorsion et sur le volume à l’intérieur de la bulle, on pourrait théoriquement diminuer l’énergie nécessaire pour la créer. 
 > Certaines estimations prédisent qu’il faudrait une masse négative équivalente à la masse de Jupiter pour propulser une sonde pas plus grosse qu’une voiture à 2 fois la vitesse de la lumière. D’autres ont réduit la masse nécessaire à celle de la Lune. Et les calculs les plus optimistes estiment qu’une masse équivalente aux sondes Voyager, c’est à dire quelques centaines de kg, serait suffisante.
+- En 2021, l'astrophysicien Erik Lentz a publié une nouvelle solution des équations d'Eisntein qui se passe du besoin d'énergie négative.
+> Mais sa solution requiert néanmoins l'énergie équivalente à plusieurs centaines de fois la masse de Jupiter pour propulser un vaisseau de 100 m de long
 - Des écarts aussi grands dans ce genre d’estimation devraient nous interpeller. Ca nous montre qu’on ne sait pas encore grand chose sur la faisabilité, physique et technologique, d’un tel concept. 
 
