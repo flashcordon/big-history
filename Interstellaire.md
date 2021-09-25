@@ -8,6 +8,7 @@
 - [Project Icarus - Son of Daedalus - Flying Closer to Another Star](https://www.academia.edu/4156584/PROJECT_ICARUS_Son_of_Daedalus_Flying_Closer_to_Another_Star) - Long et al (2009)
 - [Project  Icarus:  Astronomical  Considerations  Relating  to  the Choice of Target Star](https://arxiv.org/ftp/arxiv/papers/1106/1106.0850.pdf) - Ian Crawford 
 - [A Roadmap to Interstellar Flight](https://arxiv.org/abs/1604.01356) - Philip Lubin (2016)
+- [Our SpaceFlight Heritage: Project Orion, a nuclear bomb and rocket – all in one](www.spaceflightinsider.com/space-flight-history/project-orion-nuclear-bomb-rocket/) - Spaceflight Insider
 
 ---
 
@@ -118,7 +119,7 @@ A quick review of the various concepts will immediatelyshow that many of those s
 - Le concept de la propulsion nucléaire pulsée a été initié par Stanislaw Ulam en 1946, et a été étudié plus en détail par Ted Taylor en 1958.
 - Taylor, accompagné par le physicien Freeman Dyson, ont initié le projet Orion dans les années 50-60. Il s'agit de la première proposition crédible de sonde interstellaire de l'Histoire.
 > Le projet a coûté 11 millions de dollars et s'est étalé sur 7 ans.
-- Le design de sonde interstellaire proposé par le projet Orion suggère un voyage de 140 ans vers Alpha du Centaure, en faisant exploser une "unité de propulsion" (bombe nucléaire) toutes les 3 secondes jusqu'à atteindre 3% de la vitesse de la lumière
+- Le design de sonde interstellaire proposé par le projet Orion suggère un voyage de 140 ans vers Alpha du Centaure, en faisant exploser une "unité de propulsion" (bombe nucléaire d 1 tonne, 50 fois plus puissante que la bombe d'Hiroshima) toutes les 3 secondes jusqu'à atteindre 3% de la vitesse de la lumière
 - Le traité de 1963 interdisant les essais nucléaires a eu raison du projet Orion.
  
 The idea of using nuclear pulse propulsion was ﬁrst proposed by Stanislaw Ulam in 1947 andsubsequently resulted in an engineering study led by Ted Taylor[10]. This was to employ nuclearpulse technology to propel a vehicle by capturing the blast products of a nuclear explosion onthe rear of a giant pusher plate, transferring momentum to the spacecraft and its occupants,cushioned from the blast by several shock absorbers. 
