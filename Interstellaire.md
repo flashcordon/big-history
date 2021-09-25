@@ -209,7 +209,7 @@ quelques mètres de côté, qui fait de lui un véritable voilier interstellaire
 > A peine quelques années après l’article d’Alcubierre, des chercheurs ont calculé que pour créer une bulle de distorsion de 100m de diamètre, il faudrait une masse négative plus importante que la totalité de la masse de l’univers ! C’est mal parti.
 - Des calculs plus récents ont montré qu’en jouant sur l’épaisseur de la paroi de la bulle de distorsion et sur le volume à l’intérieur de la bulle, on pourrait théoriquement diminuer l’énergie nécessaire pour la créer. 
 > Certaines estimations prédisent qu’il faudrait une masse négative équivalente à la masse de Jupiter pour propulser une sonde pas plus grosse qu’une voiture à 2 fois la vitesse de la lumière. D’autres ont réduit la masse nécessaire à celle de la Lune. Et les calculs les plus optimistes estiment qu’une masse équivalente aux sondes Voyager, c’est à dire quelques centaines de kg, serait suffisante.
-- En 2021, l'astrophysicien Erik Lentz a publié une nouvelle solution des équations d'Eisntein qui se passe du besoin d'énergie négative.
-> Mais sa solution requiert néanmoins l'énergie équivalente à plusieurs centaines de fois la masse de Jupiter pour propulser un vaisseau de 100 m de long
+- En 2021, l'astrophysicien Erik Lentz a publié une nouvelle solution des équations d'Eisntein qui se passe du besoin d'énergie négative. C'est la première solution de ce type.
+> Mais sa solution requiert néanmoins l'énergie équivalente à plusieurs centaines de fois la masse de Jupiter pour propulser un vaisseau dans une bulle de 100 m de rayon et 1 m d'épaisseur
 - Des écarts aussi grands dans ce genre d’estimation devraient nous interpeller. Ca nous montre qu’on ne sait pas encore grand chose sur la faisabilité, physique et technologique, d’un tel concept. 
 
