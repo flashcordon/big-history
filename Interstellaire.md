@@ -7,6 +7,7 @@
 - [Interstellar Boundary Explorer](https://fr.wikipedia.org/wiki/Interstellar_Boundary_Explorer) - Wikipédia
 - [Project Icarus - Son of Daedalus - Flying Closer to Another Star](https://www.academia.edu/4156584/PROJECT_ICARUS_Son_of_Daedalus_Flying_Closer_to_Another_Star) - Long et al (2009)
 - [Project  Icarus:  Astronomical  Considerations  Relating  to  the Choice of Target Star](https://arxiv.org/ftp/arxiv/papers/1106/1106.0850.pdf) - Ian Crawford 
+- [A Roadmap to Interstellar Flight](https://arxiv.org/abs/1604.01356) - Philip Lubin (2016)
 
 ---
 
@@ -165,6 +166,20 @@ reactions driven by either laser or electron beams to accelerate a missionto Alp
 s. 
 
 ## Le projet Breakthrough Starshot
+
+- Biberonné à l’exploration spatiale depuis son enfance (ses parents l’ayant nommé Iouri en référence à Iouri Gagarine, le premier humain à avoir voyagé dans l’espace), le milliardaire russe Iouri Milner a un rêve de longue date : celui de lancer un essaim de minuscules vaisseaux en direction du système d’Alpha du Centaure, à près de 4 années-lumière d’ici, et ce avant la fin du siècle. 
+- En 2016, Milner a annoncé dédier une fraction de sa fortune (100 millions de dollars américains) à un programme de recherche nommé Breakthrough Starshot dans ce but précis. 
+- Pour éviter les difficultés colossales liées à la propulsion d’une sonde massive, les ingénieurs du programme ont imaginé un scénario qui
+semble tout droit sorti d’un film de science-fiction. 
+> Depuis l’orbite haute terrestre, un vaisseau-mère déploie une véritable armada de sondes spatiales. Ces dernières se comptent en
+milliers. Chacune d’entre elles n’est pas plus lourde qu’un timbre-poste, mais concentre à sa surface une minuscule caméra ainsi qu’une collection d’instruments scientifiques et de communication. Le dernier cri en matière de nanotechnologie. 
+- L’originalité des sondes Starshot se trouve dans son système de propulsion : chaque « nanovaisseau » est équipé d’une toile réfléchissante ultralégère de
+quelques mètres de côté, qui fait de lui un véritable voilier interstellaire. Dans le vide de l’espace, cette flotte de voiliers n’est pas propulsée par le vent, mais par un faisceau laser surpuissant tiré depuis la Terre. 
+> Les photons n’ont pas de masse, mais ils possèdent néanmoins une propriété appelée quantité de mouvement, une sorte d’élan qu’ils peuvent transmettre à des objets. Lorsque les photons du laser frappent la voile, ils transmettent à cette dernière leur quantité de mouvement, ce qui propulse la sonde dans l’espace.
+- Un tel concentré d’énergie pourrait théoriquement accélérer chacune des sondes à près de 20 % de la vitesse de la lumière. Une vitesse formidable, qui permettrait aux voiliers de rattraper les sondes Voyager en à peine 4 jours de voyage, et qui réduirait le temps de trajet vers Alpha du Centaure à « seulement » 20 ans.
+- Le programme Breakthrough Starshot constitue à ce jour notre meilleure chance d’obtenir les premiers clichés rapprochés d’une exoplanète. 
+- Dans le scénario le plus optimiste imaginé par Iouri Milner, qui repose essentiellement sur les progrès de la miniaturisation, de telles sondes pourraient être lancées d’ici une vingtaine d’années, et devraient nous faire parvenir d’ici un demi-siècle un portrait à haute résolution de Proxima b, une exoplanète rocheuse située dans la zone d’habitabilité de Proxima du Centaure. 
+- Mais si Milner s’est entouré d’une petite armée d’experts de renom pour légitimer son projet, la faisabilité technologique et économique d’une flotte de voiliers propulsés par laser reste encore à prouver.
 
 ## Vaisseau à antimatière
 
