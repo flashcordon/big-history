@@ -117,13 +117,13 @@ A quick review of the various concepts will immediatelyshow that many of those s
 ## le projet Orion
 
 - Le concept de la propulsion nucléaire pulsée a été initié par Stanislaw Ulam en 1946, et a été étudié plus en détail par Ted Taylor en 1958.
+> Le principe, c’est de lancer une série de bombes atomiques derrière soi et de surfer sur l’onde de choc. Pour éviter que le vaisseau soit désintégré par les explosions, on place au dessous du vaisseau une plaque qui peut résister à de grandes chaleurs et qui amortit les chocs. 
 - Taylor, accompagné par le physicien Freeman Dyson, ont initié le projet Orion dans les années 50-60. Il s'agit de la première proposition crédible de sonde interstellaire de l'Histoire.
 > Le projet a coûté 11 millions de dollars et s'est étalé sur 7 ans.
+- Les premiers concepts étaient super ambitieux, et prévoyaient d’envoyer un équipage de 150 personnes dans un aller-retour vers Mars en moins d’un an
 - Le design de sonde interstellaire proposé par le projet Orion suggère un voyage de 140 ans vers Alpha du Centaure, en faisant exploser une "unité de propulsion" (bombe nucléaire d 1 tonne, 50 fois plus puissante que la bombe d'Hiroshima) toutes les 3 secondes jusqu'à atteindre 3% de la vitesse de la lumière
 - Le traité de 1963 interdisant les essais nucléaires a eu raison du projet Orion.
  
-The idea of using nuclear pulse propulsion was ﬁrst proposed by Stanislaw Ulam in 1947 andsubsequently resulted in an engineering study led by Ted Taylor[10]. This was to employ nuclearpulse technology to propel a vehicle by capturing the blast products of a nuclear explosion onthe rear of a giant pusher plate, transferring momentum to the spacecraft and its occupants,cushioned from the blast by several shock absorbers. 
-
 ## Le projet Daedalus
 
 - Dans les années 70, un groupe de réflexion bénévole constitué de membres de la British Interplanetary Society s'est réunis pour discuter de la faisabilité théorique d'une mission interstellaire.
