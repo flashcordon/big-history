@@ -9,6 +9,8 @@
 - [Project  Icarus:  Astronomical  Considerations  Relating  to  the Choice of Target Star](https://arxiv.org/ftp/arxiv/papers/1106/1106.0850.pdf) - Ian Crawford 
 - [A Roadmap to Interstellar Flight](https://arxiv.org/abs/1604.01356) - Philip Lubin (2016)
 - [Our SpaceFlight Heritage: Project Orion, a nuclear bomb and rocket – all in one](www.spaceflightinsider.com/space-flight-history/project-orion-nuclear-bomb-rocket/) - Spaceflight Insider
+- [A Lab Experiment to Test Spacetime Distortion](https://www.centauri-dreams.org/2012/09/18/a-lab-experiment-to-test-spacetime-distortion/comment-page-1/) - Centauri Dreams (2012)
+- [Hypothetical Spacecraft and Interstellar Travel](https://books.google.fr/books?id=u5B0CQAAQBAJ&pg=PA47&lpg=PA47&dq=voyager+kg+warp+drive+alcubierre&source=bl&ots=hQf41lcE7i&sig=O6FHBnq23bgAzuLgL-P29II9NHI&hl=fr&sa=X&ved=0ahUKEwjrj_Xnj5naAhXBXBQKHfzbDLU4ChDoAQhSMAU#v=onepage&q=voyager%20kg%20warp%20drive%20alcubierre&f=false) - Ezekiel Nygren 
 
 ---
 
@@ -180,11 +182,29 @@ quelques mètres de côté, qui fait de lui un véritable voilier interstellaire
 - Un tel concentré d’énergie pourrait théoriquement accélérer chacune des sondes à près de 20 % de la vitesse de la lumière. Une vitesse formidable, qui permettrait aux voiliers de rattraper les sondes Voyager en à peine 4 jours de voyage, et qui réduirait le temps de trajet vers Alpha du Centaure à « seulement » 20 ans.
 - Le programme Breakthrough Starshot constitue à ce jour notre meilleure chance d’obtenir les premiers clichés rapprochés d’une exoplanète. 
 - Dans le scénario le plus optimiste imaginé par Iouri Milner, qui repose essentiellement sur les progrès de la miniaturisation, de telles sondes pourraient être lancées d’ici une vingtaine d’années, et devraient nous faire parvenir d’ici un demi-siècle un portrait à haute résolution de Proxima b, une exoplanète rocheuse située dans la zone d’habitabilité de Proxima du Centaure. 
-- Mais si Milner s’est entouré d’une petite armée d’experts de renom pour légitimer son projet, la faisabilité technologique et économique d’une flotte de voiliers propulsés par laser reste encore à prouver.
+- Mais si Milner s’est entouré d’une petite armée d’experts de renom pour légitimer son projet (Stephen Hawking, Avi Loeb, Philip Lubin...), la faisabilité technologique et économique d’une flotte de voiliers propulsés par laser reste encore à prouver.
 
 ## Vaisseau à antimatière
 
+## Collecteur Bussard
+
+
+
 ## Propulsion Alcubierre
 
-Although there are exotic concepts for interstellar travel such as warp drive and wormholes,these are currently considered to be purely speculative [6,7]. Concepts such as antimatter have been investigated but the technology is currently too immature to harness for a spacecraft
+- Miguel Alcubierre est un physicien théoricien mexicain et un grand fan de Star Trek. Depuis les années 90, il a une obsession en tête, c’est de créer dans la vraie vie un vaisseau basé sur le warp drive, la propulsion de l’USS Enterprise dans la série.
+- En 1994 il publie un article qui pose les bases de ce qu’on appellera plus tard la propulsion Alcubierre. Mais que lui appelle warp drive. 
+- La propulsion Alcubierre se base sur les notions de la relativité générale d’Einstein, qui décrit comment la gravité fonctionne. 
+> La relativité générale nous dit que l’espace et le temps sont indissociables, ils peuvent être décrits par un même objet mathématique, l’espace-temps. Et cet espace-temps n’est pas fixe, il peut être déformé et distordu, un peu comme une éponge sur laquelle on appuie. Il y a 2 choses qui peuvent déformer l’espace-temps. De la masse, ou de l’énergie. Plus vous mettez de masse ou d’énergie en un point, plus l’espace-temps autour est déformé.
+- L’autre chose à savoir pour comprendre la propulsion Alcubierre, c’est que contrairement à ce qu’on vous a toujours dit, il y a quelque chose qui peut aller plus vite que la lumière. Et cette chose, c’est l’espace-temps lui-même ! L’espace-temps il peut se contracter ou s’étendre à la vitesse qu’il veut, il n’y a aucune limite à ce niveau. 
+- En partant de ces infos, Alcubierre a imaginé un vaisseau qui génère autour de lui ce qu’on appelle une bulle de distorsion. A l’extérieur de la bulle, l’espace temps à l’avant du vaisseau est contracté, comme si on lui appliquait une pichenette, et à l’arrière du vaisseau, l’espace-temps est dilaté.
+> Pour ça, il s’est servi des équations d’Einstein, qui prédisent comment l’espace-temps est déformé si on met une certaine distribution de matière ou d’énergie quelque part. Il est parti du problème inverse. Il s’est dit : je veux contracter l’espace-temps devant mon vaisseau, et le dilater à l’arrière, et il a demandé aux équations d’Einstein quelle genre de matière ou d’énergie il faudrait pour générer cette déformation.
+- Avec ce principe, le vaisseau surfe sur une espèce de tapis roulant d’espace-temps qui peut aller à n’importe quelle vitesse, tout en respectant les lois de la physique, puisqu’à l’intérieur de la bulle de distorsion, le vaisseau bouge moins vite que la lumière. Il ne bouge pas à travers l’espace, mais avec l’espace.
+- Pour créer une telle bulle de distorsion, les équations demandent d’encercler le vaisseau avec un anneau de “matière exotique”, c’est à dire une forme de matière dont la masse serait négative.  
+> À ce jour, on ne connaît rien dans l’univers qui possède une masse négative. Bon après il n’y a aucune loi physique qui interdit l’existence d’une telle forme de matière. Peut être qu’on ne l’a juste pas encore découverte. 
+- Non seulement on a besoin de cette fameuse matière exotique, mais on doit en avoir une énorme quantité ! 
+> A peine quelques années après l’article d’Alcubierre, des chercheurs ont calculé que pour créer une bulle de distorsion de 100m de diamètre, il faudrait une masse négative plus importante que la totalité de la masse de l’univers ! C’est mal parti.
+- Des calculs plus récents ont montré qu’en jouant sur l’épaisseur de la paroi de la bulle de distorsion et sur le volume à l’intérieur de la bulle, on pourrait théoriquement diminuer l’énergie nécessaire pour la créer. 
+> Certaines estimations prédisent qu’il faudrait une masse négative équivalente à la masse de Jupiter pour propulser une sonde pas plus grosse qu’une voiture à 2 fois la vitesse de la lumière. D’autres ont réduit la masse nécessaire à celle de la Lune. Et les calculs les plus optimistes estiment qu’une masse équivalente aux sondes Voyager, c’est à dire quelques centaines de kg, serait suffisante.
+- Des écarts aussi grands dans ce genre d’estimation devraient nous interpeller. Ca nous montre qu’on ne sait pas encore grand chose sur la faisabilité, physique et technologique, d’un tel concept. 
 
