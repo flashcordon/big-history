@@ -23,6 +23,12 @@
 *Le nuage interstellaire local (Source : [NASA/Goddard/Adler/U. Chicago/Wesleyan](https://www.nasa.gov/mission_pages/sunearth/news/gallery/solar-journey.html))*
 ![local-interstellar-cloud](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Local_Interstellar_Clouds_with_motion_arrows.jpg/800px-Local_Interstellar_Clouds_with_motion_arrows.jpg)
 
+# Raisons pour le voyage interstellaire
+
+- Ne pas mettre ses oeufs dans le même panier (mais alors le système solaire suffit)
+- Une "destinée cosmique" dans l'imaginaire américain, qui est très présent dans le cosmisme russe
+> La terre est le berceau de l'Humanité, mais on ne passe pas sa vie dans un berceau. - Constantin Tsiolkovski, père de l'astronautique soviétique
+
 # Quelle science réaliser avec une sonde interstellaire 
 
 - Il y a actuellement 5 sondes qui se trouvent sur une trajectoire d'échappement du système solaire, et qui nous donnent des renseignements de première main sur la structure externe et la composition de l'héliosphère
