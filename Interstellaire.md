@@ -195,6 +195,24 @@ quelques mètres de côté, qui fait de lui un véritable voilier interstellaire
 
 ## Vaisseau à antimatière
 
+- L’antimatière est constitué d’antiparticules, qui ont la même masse que les particules mais une charge électrique opposée. Et lorsqu’une particule rencontre son antiparticule, elles s’annihilent dans un grand flash, et l’intégralité de leur masse est convertie en énergie pure. BEAUCOUP d’énergie. Du genre 1 gramme d’antimatière dégage autant d’énergie que 20 000 tonnes de combustible chimique.
+- Reste à convertir cette énergie en poussée. Pour ça il faut s’intéresser plus en détail à ce qui se passe lors de la réaction. Lorsqu’un proton frappe un antiproton, la collision donne naissance à des particules subatomiques instables, comme des pions et des muons, qui vivent le temps d’un instant avant de se désintégrer en énergie, sous forme de rayons gamma. Si on arrive à diriger ces pions et ces muons dans une tuyère d’échappement avec un champ magnétique, jackpot ! On a un vaisseau capable d’aller à la moitié de la vitesse de la lumière et d’atteindre Proxima du Centaure en 10 ans. 
+- De nos jours, on ne produit que quelques nanogrammes d'antimatière dans d’énormes accélérateurs de particules, mais en produire à peine 1 gramme de cette manière aurait coûté des millions de milliards d’euros ! 
+- Et c’est pas tout ! Parce que les antiparticules, faut aussi les stocker ! Et ça, ça requiert des champs magnétiques ultra puissants pour les piéger et éviter qu’elles touchent ne serait-ce qu’un atome de la paroi du vaisseau. Vous imaginez la catastrophe sinon ? Et comme les antiparticules de même charge ont tendance à se repousser, il faut des énergies démentielles pour pouvoir les maintenir en place. 
+- The charged pions travel multiple meters before decaying muons and muon neutrinos
+- Robert Frisbee's antimatter ships is a proposal for a 700km long interstellar starship using antimatter
+- Producing antimatter is extremely inefficient, Robert l. Forward estimated that a dedicated antimatter factory could produce antimatter at 0.01% efficiency.
+- Even if we covered the entire moon, or mercury, or some equivalent solar satellite, with solar panels it would still take centuries to get enough antimatter for a single manned relativistic rocket, which requires hundreds to thousands of tons of antimatter.
+- By the early 1980s, Robert Forward had realized that superconducting coils could be used to channel such charged pions, producing the kind of directed exhaust stream that so frustrated Sänger. Forward described the ‘magnetic nozzle’ in his book Mirror Matter (Wiley, 1988), but his first paper on the subject appeared in 1982, along with other papers on antimatter propulsion from Brice Cassenti and David Morgan, all of these in the fecund pages of the Journal of the British Interplanetary Society. 
+- The Forward paper cited above is “Antimatter Propulsion,” JBIS 35 (1982), pp. 391-395. Brice Cassenti’s paper on antimatter is “Design Considerations for Relativistic Antimatter Rockets,” JBIS 35 (1982), pp. 396-404. David Morgan’s paper is “Concepts for the Design of an Antimatter Annihilation Rocket,” JBIS 35 (1982), pp. 405-413. Richard Obousy’s paper on VARIES is “Vacuum to Antimatter Rocket Interstellar Explorer System,” JBIS 64 (2012), pp. 378–386. 
+-  the first rocket scientist to propose an engineering solution to how light might be directly harnessed to rocket propulsion, rather than just pushing solar-sails, was Eugen Sänger 
+-  Frisbee’s conceptual designs are literally the size of planets, thousands of kilometres long, but merely metres wide. This minimises the gamma-radiation exposure of heat-sensitive components and maximises the exposure of radiators to the cosmic heat-sink. To achieve 0.5c, using known materials, results in vehicles massing millions of tonnes [3].
+-  A deltaV of 42% of the speed of light would only require a mass ratio of 2.85. That’s 1.83 kg of antimatter/matter mix for each 1 kg of rocket dry mass. We might even be able to go much faster with high mass ratios; travel times to the stars in single-digit years seems possible.
+- http://toughsf.blogspot.com/2020/11/nuclear-photon-rockets-flashlights-to.html
+
+https://mobile.twitter.com/kerr_laserpope/status/1029419449596694528
+https://www.centauri-dreams.org/2012/04/02/re-thinking-the-antimatter-rocket/
+
 ## Collecteur Bussard
 
 
@@ -237,3 +255,10 @@ quelques mètres de côté, qui fait de lui un véritable voilier interstellaire
 - in one test at Germany’s Dresden University, it didn’t produce any thrust at all. 2021
 - Mike McCulloch, a lecturer in geomatics at the University of Plymouth, U.K., and leader behind DARPA’s EmDrive project, told Pop Mech last year. “We can also get an unmanned probe to Proxima Centauri in a (long) human lifetime, 90 years.”
 - physicists at the Dresden University of Technology (TU Dresden) are saying those promising results showing thrust were all false positives that are explained by outside forces.
+
+## Trous de ver
+
+- In 1985, when Carl Sagan was writing the novel Contact, he needed to quickly transport his protagonist Dr. Ellie Arroway from Earth to the star Vega. He had her enter a black hole and exit light-years away, but he didn’t know if this made any sense. The Cornell University astrophysicist and television star consulted his friend Kip Thorne, a black hole expert at the California Institute of Technology (who won a Nobel Prize earlier this month). Thorne knew that Arroway couldn’t get to Vega via a black hole, which is thought to trap and destroy anything that falls in. But it occurred to him that she might make use of another kind of hole consistent with Albert Einstein’s general theory of relativity: a tunnel or “wormhole” connecting distant locations in space-time.
+- Thorne wondered whether it might be possible for an “infinitely advanced” sci-fi civilization to stabilize a wormhole long enough for something or someone to traverse it. He figured out that such a civilization could in fact line the throat of a wormhole with “exotic material” that counteracts its tendency to collapse. The material would possess negative energy, which would deflect radiation and repulse space-time apart from itself.
+- decades later, a new species of traversable wormhole has emerged, free of exotic material and full of potential for helping physicists resolve a baffling paradox about black holes. 
+- En 2016, according to Ping Gao and Daniel Jafferis of Harvard University and Aron Wall of Stanford University, the repulsive negative energy in the wormhole’s throat can be generated from the outside by a special quantum connection between the pair of black holes that form the wormhole’s two mouths. When the black holes are connected in the right way, something tossed into one will shimmy along the wormhole and, following certain events in the outside universe, exit the second. 
