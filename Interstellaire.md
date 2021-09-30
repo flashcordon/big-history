@@ -92,6 +92,10 @@ While the distribution of the asteroids and KBOs is relatively well known, the d
 Society  (BIS)  designed  an  interstellar  flyby  spacecraft 
 called  Daedalus 
 
+# Problèmes de la propulsion chimique
+
+- Les sondes Voyager , qui flirtent actuellement avec les limites du système solaire, filent vers l’espace interstellaire à plus de 60 000 km/h (soit moins de 0,006% de la vitesse de la lumière), et font partie des artefacts les plus ra pides jamais envoyés par l’Humanité. Pourtant, si l’une d’entre
+> Si elles étaient pointées vers une étoile, elles mettraient 76 000 ans à arriver à destination
 
 # Technologies de propulsion
 
