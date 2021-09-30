@@ -155,6 +155,7 @@ A quick review of the various concepts will immediatelyshow that many of those s
 > * Le vaisseau doit être designé pour permettre de visiter
 - Dans le scénario développé par les membres de la BIS, une sonde interstellaire est envoyée vers l'étoile de Barnard, située à 5,9 années-lumière d'ici
 > * La sonde de 200m de long (pour comparaison, la Saturn V fait 111 m) et de 50 000 tonnes (construit dans l'espace) est propulsée par fusion nucléaire, alimentée par une mixture de deutérium et d'hélium 3.
+> * Le vaisseau imaginé par le projet Daedalus aurait remplacé les grosses charges thermonucléaires du projet Orion par des millions (50) de petites pastilles de combustible nucléaire, composées d’un mélange de deutérium et d’hélium 3. Les pastilles sont injectées une par une dans le moteur et sont chauffées par de puissants lasers au point où les atomes à l’intérieur fusionnent pour donner des atomes plus lourds. Ca dégage une énergie phénoménale, et ça permet d’accélérer une sonde. 
 > * Elle pourrait ainsi être accélérée à près de 12% de la vitesse de la lumière, et arriverait à destination en moins de 50 ans.
 > * Il s'agit d'une sonde à 2 étages : un étage dédié à la propulsion et un étage de 450 tonnes dédié à la charge scientifique (avec 18 sondes qui se détachent du vaisseau mère pour explorer des systèmes planétaires)
 - Pour récolter son carburant, les auteurs du rapport ont imaginé que la sonde irait collecter du deutérium et de l'hélium 3 dans l'atmosphère des planètes géantes du système solaire
