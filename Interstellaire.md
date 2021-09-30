@@ -129,6 +129,11 @@ At solar distances closer than about 6 Rs the external shield surface temperat
 
 A quick review of the various concepts will immediatelyshow that many of those schemes are ruled out. This includes chemical, electric and nuclearﬁssion [4]. This is largely due to either a lack of speciﬁc impulse or a lack of thrust to givehigh exhaust velocity. A high exhaust velocity would be necessary to reach the speeds that arerequired to travel to another star within the time span of a human lifetime
 
+- les fusées à propulsion chimique ça éjecte du gaz à grande vitesse, et par principe d’action réaction ça pousse la fusée dans la direction opposée. 
+- Le drame des fusées, c’est l’équation de Tsiolkovski, qu’on doit au père de l’astronautique moderne. Cette équation nous dit que la vitesse maximale d’une fusée elle dépend que de la vitesse d’éjection des gaz, de la masse du vaisseau et de la masse de carburant. Donc si vous voulez aller vite, il vous faut soit plus de carburant, soit de plus grandes vitesses d’éjection. 
+- Le truc, c’est que les fusées chimiques sont terriblement inefficaces à convertir leur masse de carburant en poussée. Du coup leur vitesse d’éjection est tellement ridicule que si on voulait atteindre Proxima b en un peu moins de 1000 ans, l’équation de Tsiolkowsky nous dit qu’il y aurait pas assez de masse DANS L’UNIVERS TOUT ENTIER pour alimenter la fusée en carburant chimique ! 
+- Donc les fusées classiques, on oublie. 
+
 ## le projet Orion
 
 - Le concept de la propulsion nucléaire pulsée a été initié par Stanislaw Ulam en 1946, et a été étudié plus en détail par Ted Taylor en 1958.
