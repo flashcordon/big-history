@@ -149,12 +149,13 @@ A quick review of the various concepts will immediatelyshow that many of those s
 > * Le vaisseau doit atteindre sa destination en moins d'une vie humaine
 > * Le vaisseau doit être designé pour permettre de visiter
 - Dans le scénario développé par les membres de la BIS, une sonde interstellaire est envoyée vers l'étoile de Barnard, située à 5,9 années-lumière d'ici
-> * La sonde de 200m de long est propulsée par fusion nucléaire, alimentée par une mixture de deutérium et d'hélium 3.
+> * La sonde de 200m de long (pour comparaison, la Saturn V fait 111 m) et de 50 000 tonnes (construit dans l'espace) est propulsée par fusion nucléaire, alimentée par une mixture de deutérium et d'hélium 3.
 > * Elle pourrait ainsi être accélérée à près de 12% de la vitesse de la lumière, et arriverait à destination en moins de 50 ans.
 > * Il s'agit d'une sonde à 2 étages : un étage dédié à la propulsion et un étage de 450 tonnes dédié à la charge scientifique (avec 18 sondes qui se détachent du vaisseau mère pour explorer des systèmes planétaires)
 - Pour récolter son carburant, les auteurs du rapport ont imaginé que la sonde irait collecter du deutérium et de l'hélium 3 dans l'atmosphère des planètes géantes du système solaire
 > * En pratique cela pose problème, parce que ces planètes constituent des puits gravitationnels très profonds du fait de leur masse, ce qui fait qu'il est extrêmement difficile de s'extraire de leur attraction.
 > * La vitesse de libération d'Uranus est de 21,3 km/s, celle de Neptune 23,5 km/s, celle de Saturne 35,5 km/s et celle de Jupiter 59,5 km/s. En comparaison, celle de la Terre n'est que de 11,2 km/s. 
+- Sans compter qu'on ne maitrise pas encore la fusion nucléaire
 
 ## Le projet Icarus
 
@@ -216,7 +217,10 @@ https://www.centauri-dreams.org/2012/04/02/re-thinking-the-antimatter-rocket/
 
 ## Collecteur Bussard
 
-
+- Mais de tous les concepts de vaisseaux interstellaire, le plus fou était de loin le Ramjet. En 1960, le physicien Robert Bussard avait imaginé un vaisseau qui collecte son carburant en cours de route. Parce que l’espace n’est pas complètement vide ! Il est rempli de noyaux d’hydrogène qui flottent entre les étoiles, typiquement un noyau en moyenne dans un cube d’un centimètre de côté. Et grâce à un immense entonnoir de plusieurs centaines de km de diamètre, le Ramjet capture cet hydrogène dans son moteur à fusion nucléaire et utilise l’énergie produite pour accélérer les produits de la combustion. 
+- Plus le Ramjet va vite, plus il capture d’hydrogène en un temps donné. Et plus il capture de l’hydrogène, plus il va vite. Avec ce principe, le vaisseau pourrait accélérer continuellement aussi longtemps qu’il rencontrerait de l’hydrogène sur son passage. Avec une vitesse initiale de 10km/s, il pourrait théoriquement atteindre 90% de la vitesse de la lumière en un an et se rapprocher toujours un peu plus de la limite de vitesse universelle: 99%, 99.9%, 99.9999% etc etc… 
+- Evidemment, vous pouvez jamais l’atteindre, cette vitesse de la lumière, parce que ce bon vieil Einstein nous a montré qu’il faudrait pour ça une énergie infinie. Mais c’est déjà plus que pas mal ! Avec un tel vaisseau, vous atteignez Proxima du Centaure en 3 ans, le centre de la galaxie en 20 ans, la galaxie d’Andromède en 30 ans, et vous faites le tour de l’univers observable en 50 ans… Enfin, de votre point de vue de passager. Parce qu’il se trouve que voyager à des vitesses proches de la lumière désynchronise le temps que vous percevez dans votre vaisseau et le temps que perçoivent les gens restés sur Terre
+> Et donc au moment où vous arriverez au centre de la Galaxie, 26000 ans se seront écoulés sur Terre. Au moment où vous arriverez à Andromède, vous prenez un coup de vieux de 2.5 millions d’années. Et lorsque vous reviendrez de votre tour de l’univers, vous arriverez des centaines de milliards d’années dans le futur, et votre planète d’origine aura disparu depuis bien longtemps. 
 
 ## Propulsion Alcubierre
 
