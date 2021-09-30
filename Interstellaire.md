@@ -295,3 +295,49 @@ https://www.centauri-dreams.org/2012/04/02/re-thinking-the-antimatter-rocket/
 *Les rayons cosmiques*
 - l’autre grand danger du voyage, c’est les rayons cosmiques, ces particules chargées qui se baladent à travers la galaxie à des vitesses proches de celle de la lumière. C’est ultra pervers les rayons cosmiques, ça affecte non seulement l’ADN des gens, mais ça bousille aussi l’électronique ! 
 - les Terriens ont la chance d’avoir une atmosphère et un champ magnétique pour s'en protéger. Dans le vide interstellaire, on a que dalle. Enfin si, on a bien ce bouclier en plomb d’1 m d’épaisseur qui entoure le vaisseau et qui réduit notre exposition à des doses acceptables. 
+
+## Vaisseaux-mondes
+
+- World ships are hypothetical large, self-
+contained, self-sufficient crewed spacecraft
+for interstellar travel. Large, artificial habitats
+appeared in the literature as early as 1929 in
+Bernal’s ”The World, the Flesh and the Devil”
+[13]. However, the notion was extensively dis-
+cussed for the first time in a special issue of
+the Journal of the British Interplanetary So-
+ciety (BIS) in 1984. 
+- Un vaisseau-monde contient typiquement au moins plus de 100 000 personnes
+- moving at a fraction of a per cent of the
+speed of light and taking millennia to com-
+plete a journey between stars.”
+- The special issue’s articles conclude that
+there is no fundamental technical, economical,
+or social reason which would prohibit the con-
+struction of world ships. However, due to their
+mass on the order of billions of tons, their con-
+struction is estimated to take place several cen-
+turies in the future [56], when humanity would
+have control over solar system resources
+
+- More recently, a team
+lead by Marin presented a further analysis of
+population size, in which much smaller popu-
+lation sizes than Smith are again obtained
+
+In 2017 astrophysicist Fr ́ed ́eric Marin pub-
+lished the first in a series of papers (ongo-
+ing) revealing results of his HERITAGE agent-
+based program titled “HERITAGE: A Monte
+Carlo Code to Evaluate the Viability of In-
+terstellar Travels Using a Multigenerational
+Crew” [53]. 
+
+- réduit à quelques centaines, voire quelques milliers
+
+
+
+*Génétique*
+- Un anthropologue américain, Cameron Smith, a fait le calcul : pour avoir une chance d’arriver en bonne santé à destination, l’équipage initial devait compter entre 10 000 et 40 000 personnes, histoire d’avoir une diversité génétique assez vaste pour parer aux catastrophes qui pouvaient survenir. Parce que personne ne voulait voir une population de consanguins débarquer sur Proxima b. Et encore moins se faire décimer par une épidémie de grippe
+
+https://hal.archives-ouvertes.fr/hal-02561266/document
