@@ -140,20 +140,17 @@ A quick review of the various concepts will immediatelyshow that many of those s
 - Dans les années 70, un groupe de réflexion bénévole constitué de membres de la British Interplanetary Society s'est réunis pour discuter de la faisabilité théorique d'une mission interstellaire.
 > La première réunion a eu lieu en Janvier 1973. le groupe de réflexion a été initié par Alan Bond, Tony Martin et Bob Parkinson
 - Le résultat de leurs réflexions a été publié dans un rapport intitulé "Project Daedalus" en 1978. Ce rapport constitue l'une des études les plus exhaustives à ce jour sur ce thème  
-- Dans le scénario développé par les membres de la BIS, une sonde interstellaire est envoyée vers l'étoile de Barnard
-> * La sonde est propulsée par fusion nucléaire, alimentée par une mixture de deutérium et d'hélium 3.
+- Le projet Daedalus a 3 guidelines :
+> * Le vaisseau doit être construit avec des technologies actuelles ou disponibles dans un futur proche
+> * Le vaisseau doit atteindre sa destination en moins d'une vie humaine
+> * Le vaisseau doit être designé pour permettre de visiter
+- Dans le scénario développé par les membres de la BIS, une sonde interstellaire est envoyée vers l'étoile de Barnard, située à 5,9 années-lumière d'ici
+> * La sonde de 200m de long est propulsée par fusion nucléaire, alimentée par une mixture de deutérium et d'hélium 3.
+> * Elle pourrait ainsi être accélérée à près de 12% de la vitesse de la lumière, et arriverait à destination en moins de 50 ans.
+> * Il s'agit d'une sonde à 2 étages : un étage dédié à la propulsion et un étage de 450 tonnes dédié à la charge scientifique (avec 18 sondes qui se détachent du vaisseau mère pour explorer des systèmes planétaires)
 - Pour récolter son carburant, les auteurs du rapport ont imaginé que la sonde irait collecter du deutérium et de l'hélium 3 dans l'atmosphère des planètes géantes du système solaire
 > * En pratique cela pose problème, parce que ces planètes constituent des puits gravitationnels très profonds du fait de leur masse, ce qui fait qu'il est extrêmement difficile de s'extraire de leur attraction.
 > * La vitesse de libération d'Uranus est de 21,3 km/s, celle de Neptune 23,5 km/s, celle de Saturne 35,5 km/s et celle de Jupiter 59,5 km/s. En comparaison, celle de la Terre n'est que de 11,2 km/s. 
- 
-During the 1970s members of the British Interplanetary Society embarked on a landmark the-oretical engineering design study to send a probe to Barnard’s star. Project Daedalus was atwo-stage vehicle employing electron beam driven inertial conﬁnement fusion engines to reachits target destination.
-
-Then inJanuary 1973 members of the BIS ﬁrst met to discuss the challenges of interstellar propulsionand the idea of Project Daedalus was born. Led by Alan Bond, Tony Martin and Bob Parkinson,members came together to create what has become one of the most comprehensive interstellarengineering studies ever undertaken. Project Daedalus had three stated guidelines:1. The spacecraft must use current or near future technology.2. The spacecraft must reach its destination within a human lifetime.3. The spacecraft must be designed to allow for a variety of target stars.The members of the Daedalus study group were all volunteers but with a solid knowledgeof engineering and science. The ﬁnal design was published in 1978 [13]and was a two-stagespacecraft nearly 200m in length powered by electron driven D/He
-3
-fusion reactions, eventuallyaccelerating up to 12% of light speed to arrive at its target destination Barnards star 5.9 lightyears away in under 50 years. 
-
-The second stage carried a 450 tonnescientiﬁc payload with 18 probes to be used to study the target solar system planets.
-
 
 ## Le projet Icarus
 
@@ -262,3 +259,8 @@ https://www.centauri-dreams.org/2012/04/02/re-thinking-the-antimatter-rocket/
 - Thorne wondered whether it might be possible for an “infinitely advanced” sci-fi civilization to stabilize a wormhole long enough for something or someone to traverse it. He figured out that such a civilization could in fact line the throat of a wormhole with “exotic material” that counteracts its tendency to collapse. The material would possess negative energy, which would deflect radiation and repulse space-time apart from itself.
 - decades later, a new species of traversable wormhole has emerged, free of exotic material and full of potential for helping physicists resolve a baffling paradox about black holes. 
 - En 2016, according to Ping Gao and Daniel Jafferis of Harvard University and Aron Wall of Stanford University, the repulsive negative energy in the wormhole’s throat can be generated from the outside by a special quantum connection between the pair of black holes that form the wormhole’s two mouths. When the black holes are connected in the right way, something tossed into one will shimmy along the wormhole and, following certain events in the outside universe, exit the second. 
+
+## Paradoxe de Fermi
+
+- Pas un paradoxe au sens logique du terme
+- I
