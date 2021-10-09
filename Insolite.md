@@ -238,8 +238,10 @@ Yesterday, I received confirmation from the laboratory at the University of Calg
 
 # La lune s'éloigne
 
-- Chaque année, La lune s'éloigne de la Terre d'environ 4 cm ! 
-- Comment on le sait ? Et bien à l'époque des missions Apollo, les astronautes ont déposé des réflecteurs sur la surface lunaire.
-- Ces réflecteurs permettent aux astronomes de tirer des rayons lasers vers notre satellite et de mesurer le temps que met la lumière à faire un aller-retour Terre-Lune.
-- Rassurez-vous, on ne risque pas de perdre la Lune de sitôt.
-- 
+- La lune s'éloigne de la Terre !
+- Si vous regardez la lune ce soir, et si vous regardez la lune dans un an, elle se sera éloignée de la Terre d'environ 4 cm. 
+- La lune s'éloigne de la Terre une vitesse de 4 cm par an ! 
+- Comment on le sait ? Et bien à l'époque des missions Apollo, dans les années 70, les astronautes ont déposé des réflecteurs laser sur la surface lunaire.
+- Ces réflecteurs permettent aux astronomes sur Terre de tirer des rayons lasers vers notre satellite et de mesurer le temps que met la lumière à faire un aller-retour Terre-Lune.
+- Cet éloignement, il est du aux forces de marées entre la Terre et la Lune, qui crée des échanges d'énergie.
+- Rassurez-vous, on ne risque pas de perdre la Lune de sitôt. Elle va rester liée à la Terre jusqu'à la fin du monde. par contre, à ce rythme d'éloignement, on peut calculer que la dernière éclipse totale de Soleil aura lieu... Dans 600 millions d'années !
