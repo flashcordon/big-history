@@ -23,7 +23,7 @@
 
 - [Bâtonnets et cônes de l'oeil humain](https://askabiologist.asu.edu/batonnets-et-cones) - Ask a Biologist
 - [Diverse eyes](https://evolution.berkeley.edu/evolibrary/article/0_0_0/eyes_02) - Understanding Evolution
-- [The evolution of vertebrate eyes](https://books.google.fr/books?id=dTEtZTg_fi4C&pg=PA400&lpg=PA400&dq=kinds+of+eyes+animal+compound+camera&source=bl&ots=7B540iRBLh&sig=ACfU3U207kOugdyX2oehQMhm7jx-NYeWQw&hl=fr&sa=X&ved=2ahUKEwiAmqqjyov0AhUixYUKHZAEB3Y4ChDoAXoECCMQAw#v=onepage&q=kinds%20of%20eyes%20animal%20compound%20camera&f=false) - Evolutionary Neuroscience, Jon H. Kaas
+- [The evolution of vertebrate eyes](https://books.google.fr/books?id=dTEtZTg_fi4C&pg=PA400&lpg=PA400&dq=kinds+of+eyes+animal+compound+camera&source=bl&ots=7B540iRBLh&sig=ACfU3U207kOugdyX2oehQMhm7jx-NYeWQw&hl=fr&sa=X&ved=2ahUKEwiAmqqjyov0AhUixYUKHZAEB3Y4ChDoAXoECCMQAw#v=onepage&q=kinds%20of%20eyes%20animal%20compound%20camera&f=false) - Evolutionary Neuroscience, R D Fernald
 
 ---
 
@@ -37,6 +37,17 @@
 - Les bâtonnets contiennent de la rhodopsine, et les cônes contiennent des opsines.
 - Quand nos trois sortes de cônes sont stimulés ensemble de la même manière, notre cerveau interprète cela comme étant la couleur blanche. On perçoit aussi la couleur blanche quand nos bâtonnets sont stimulés. 
 - Le segment externe des batônnets contient un empilement de 1000 disques photorécepteurs
+- Il existe une grande variété d'yeux possibles dans le monde animal, qui reflettent de nombreuses stratégies adaptatives à différents habitats
+- Les insectes et certaines espèces d'oiseaux ont des récepteurs spécifiques aux UV
+- Y a plusieurs types de structures d'yeux aussi, différents systèmes optiques. Dans les textbooks, on les classe généralement en 2 catégories (mais en pratique il y en a bien plus)
+> Il y a l'oeil caméra (camera eye)
+> Mais aussi l'oeil composé (compound eye)
+> Certains yeux, commes ceux des nautiles, n'ont même pas de pupille et de lentille !
+- On connaît bien la fonction de réponse de la rhodopsine
+- Dans les années 70 (1977), Salvini-Plawen et Ernst Mayr ont comparé plein de morphologies d'yeux différents et sont arrivés à la conclusion que les yeux ont évolué indépendamment au moins 40 fois dans l'histoire de l'évolution. Mais cette hypothèse a été vivement critiquée suite notamment à de nouvelles données moléculaires 
+> Notamment la découverte du gène Pax6 qui est présent dans plein d'espèces et qui est corrélé à la formation des yeux, ce qui a mené certains auteurs à conclure que les yeux proviennent d'une unique lignée (monophylétique)
+- Le débat penche aujourd'hui en faveur d'une origine polyphylétique des yeux
+- 
 
 ## Qu'est ce que la vie 
 
