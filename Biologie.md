@@ -22,6 +22,8 @@
 *Sources*
 
 - [Bâtonnets et cônes de l'oeil humain](https://askabiologist.asu.edu/batonnets-et-cones) - Ask a Biologist
+- [Diverse eyes](https://evolution.berkeley.edu/evolibrary/article/0_0_0/eyes_02) - Understanding Evolution
+- [The evolution of vertebrate eyes](https://books.google.fr/books?id=dTEtZTg_fi4C&pg=PA400&lpg=PA400&dq=kinds+of+eyes+animal+compound+camera&source=bl&ots=7B540iRBLh&sig=ACfU3U207kOugdyX2oehQMhm7jx-NYeWQw&hl=fr&sa=X&ved=2ahUKEwiAmqqjyov0AhUixYUKHZAEB3Y4ChDoAXoECCMQAw#v=onepage&q=kinds%20of%20eyes%20animal%20compound%20camera&f=false) - Evolutionary Neuroscience, Jon H. Kaas
 
 ---
 
@@ -34,6 +36,7 @@
 - Les animaux n'ont pas tous la même quantité de bâtonnets ou de cônes dans leurs yeux. Les animaux qui sont actifs quand il fait sombre ont beaucoup plus de bâtonnets que les êtres humains.
 - Les bâtonnets contiennent de la rhodopsine, et les cônes contiennent des opsines.
 - Quand nos trois sortes de cônes sont stimulés ensemble de la même manière, notre cerveau interprète cela comme étant la couleur blanche. On perçoit aussi la couleur blanche quand nos bâtonnets sont stimulés. 
+- Le segment externe des batônnets contient un empilement de 1000 disques photorécepteurs
 
 ## Qu'est ce que la vie 
 
