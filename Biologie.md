@@ -25,6 +25,9 @@
 - [Diverse eyes](https://evolution.berkeley.edu/evolibrary/article/0_0_0/eyes_02) - Understanding Evolution
 - [The evolution of vertebrate eyes](https://books.google.fr/books?id=dTEtZTg_fi4C&pg=PA400&lpg=PA400&dq=kinds+of+eyes+animal+compound+camera&source=bl&ots=7B540iRBLh&sig=ACfU3U207kOugdyX2oehQMhm7jx-NYeWQw&hl=fr&sa=X&ved=2ahUKEwiAmqqjyov0AhUixYUKHZAEB3Y4ChDoAXoECCMQAw#v=onepage&q=kinds%20of%20eyes%20animal%20compound%20camera&f=false) - Evolutionary Neuroscience, R D Fernald
 - [Evolution of Sight in the Animal Kingdom](https://webvision.med.utah.edu/2014/07/evolution-of-sight-in-the-animal-kingdom/) - Bryan William Jones (2014)
+- [COMPU-EYE: a high resolution computational compound eye](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-24-3-2013&id=335802) - Woong-Bi Lee et al (2016)
+- [VISUAL ACUITY IN INSECTS](https://www.annualreviews.org/doi/10.1146/annurev.ento.42.1.147) - Michael Land (1997)
+- [Insect behaviour](https://books.google.fr/books?id=HVz2Wztita8C&pg=PA273&lpg=PA273&dq=diffraction+limit+insect+vision+blurry&source=bl&ots=6wlXURJTG0&sig=ACfU3U39omvzL2H409eR5A3alWDqOT53mg&hl=fr&sa=X&ved=2ahUKEwj0t7zJ0Yv0AhVKXhoKHQHFD-wQ6AF6BAgPEAM#v=onepage&q=diffraction%20limit%20insect%20vision%20blurry&f=false) - Robert W. Matthews, Janice R. Matthews
 
 ---
 
@@ -54,6 +57,49 @@
 Compound eyes are found among the arthropods and are composed of many simple facets which, depending on the details of anatomy, may give either a single pixelated image or multiple images, per eye. 
 - Trilobites, which are now extinct, had unique compound eyes. They used clear calcite crystals to form the lenses of their eyes. In this, they differ from most other arthropods, which have soft eyes. The number of lenses in such an eye varied, however: some trilobites had only one, and some had thousands of lenses in one eye.
 - Some of the simplest eyes, called ocelli, can be found in animals like some of the snails, which cannot actually “see” in the normal sense. They do have photosensitive cells, but no lens and no other means of projecting an image onto these cells. They can distinguish between light and dark, but no more. This enables snails to keep out of direct sunlight.
+-  The resolution of a diffraction-limited imaging system is proportional to the size of its lens and inversely proportional to the wavelength of the observed light. 
+-  For a compound eye to achieve a resolution similar to that of a human eye, it requires a radius of about 6 m and millions of ommatidia with facet lenses as large as a pupil
+-  The acuity of compound eyes is determined by interommatidial angles, optical
+quality, and rhabdom dimensions. It is also affected by light levels and speed
+of movement. In insects, interommatidial angles vary from tens of degrees in
+Apterygota, to as little as 0:24 in dragonflies. Resolution better than this is not
+attainable in compound eyes of realistic size.
+- The problem for compound eyes is that each ommatidium, the
+receptor unit that samples the image of the surroundings, has its own lens;
+because there must be a large number of these lenses, they are necessarily
+small. Mallock realized that the resolution of these tiny lenses is limited by
+diffraction—a consequence of the wave nature of light that also limits the
+resolving power of microscopes and telescopes—to about 1, giving an acuity
+roughly one hundredth that of the human eye, with its much larger aperture.
+To give a compound eye the same (about 1 arc-minute) resolution as our eyes
+would require millions of lenses each as large as a human lens. Such an eye
+would, he calculated, have a radius of 19 feet (6 m), the size of a large house
+- A white card in bright sunlight emits about
+1020 photons m−2 sr−1 s−1, about 1017 in room light, 1014 in moonlight, and
+1010 in starlight—the absolute threshold for human vision (36). When using
+the eye dimensions for a diurnal insect (D D 25m; d D 2m; f D 60m),
+Equation 11 yields photon numbers per receptor per second of 4:107 for sunlight,
+4:104 for roomlight, 40 for moonlight, and 0.004 (1 every 4 minutes) in starlight.
+These reduce by perhaps another 2 log units when the receptor integration time
+[10–50 milliseconds (ms), Ref. 25], transmission losses, and the quantum
+efficiency of transduction (56) are taken into account. It is then clear that
+resolution will be always compromised in illumination conditions dimmer than
+roomlight. Diurnal insects do not fly in light levels lower than this.
+- Many insects are crepuscular. Moths and beetles
+particularly, but some dragonflies [Zyxomma obtusum (23)], butterflies
+[Melanitis sp. leda (43)] and many Diptera fly at light levels between those of
+roomlight and moonlight. The kinds of adaptations (other than dark adaptation
+at the receptor level) that make flight possible under these conditions follow
+from Equation 11. In apposition eyes, wider facets .D/ and wider rhabdoms
+.d/ can increase sensitivity by 1–2 log units (88). Receptor integration time
+may increase up to fivefold in the dark (25). The optical arrangements in moths
+and some beetles (optical superposition) and in Dipteran flies (neural superposition)
+are also specializations that increase the available photon numbers in
+dim light (
+- the largest insect eyes, those of dragonflies
+- The eye of a dragonfly is made of tens of thousands of individual segments 
+- 180 artificial ommatidia, about the same number as in the eyes of a fire ant (Solenopsis fugax) or a bark beetle (Hylastes nigrinus) — insects that don’t see very well
+- 
 
 ## Qu'est ce que la vie 
 
