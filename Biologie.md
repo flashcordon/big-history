@@ -24,6 +24,7 @@
 - [Bâtonnets et cônes de l'oeil humain](https://askabiologist.asu.edu/batonnets-et-cones) - Ask a Biologist
 - [Diverse eyes](https://evolution.berkeley.edu/evolibrary/article/0_0_0/eyes_02) - Understanding Evolution
 - [The evolution of vertebrate eyes](https://books.google.fr/books?id=dTEtZTg_fi4C&pg=PA400&lpg=PA400&dq=kinds+of+eyes+animal+compound+camera&source=bl&ots=7B540iRBLh&sig=ACfU3U207kOugdyX2oehQMhm7jx-NYeWQw&hl=fr&sa=X&ved=2ahUKEwiAmqqjyov0AhUixYUKHZAEB3Y4ChDoAXoECCMQAw#v=onepage&q=kinds%20of%20eyes%20animal%20compound%20camera&f=false) - Evolutionary Neuroscience, R D Fernald
+- [Evolution of Sight in the Animal Kingdom](https://webvision.med.utah.edu/2014/07/evolution-of-sight-in-the-animal-kingdom/) - Bryan William Jones (2014)
 
 ---
 
@@ -47,7 +48,12 @@
 - Dans les années 70 (1977), Salvini-Plawen et Ernst Mayr ont comparé plein de morphologies d'yeux différents et sont arrivés à la conclusion que les yeux ont évolué indépendamment au moins 40 fois dans l'histoire de l'évolution. Mais cette hypothèse a été vivement critiquée suite notamment à de nouvelles données moléculaires 
 > Notamment la découverte du gène Pax6 qui est présent dans plein d'espèces et qui est corrélé à la formation des yeux, ce qui a mené certains auteurs à conclure que les yeux proviennent d'une unique lignée (monophylétique)
 - Le débat penche aujourd'hui en faveur d'une origine polyphylétique des yeux
-- 
+- The first proto-eyes evolved among animals 600 million years ago about the time of the Cambrian explosion. 
+- The eyes of most cephalopods, fish, amphibians and snakes have fixed lens shapes, and focusing vision is achieved by telescoping the lens—similar to how a camera focuses.
+
+Compound eyes are found among the arthropods and are composed of many simple facets which, depending on the details of anatomy, may give either a single pixelated image or multiple images, per eye. 
+- Trilobites, which are now extinct, had unique compound eyes. They used clear calcite crystals to form the lenses of their eyes. In this, they differ from most other arthropods, which have soft eyes. The number of lenses in such an eye varied, however: some trilobites had only one, and some had thousands of lenses in one eye.
+- Some of the simplest eyes, called ocelli, can be found in animals like some of the snails, which cannot actually “see” in the normal sense. They do have photosensitive cells, but no lens and no other means of projecting an image onto these cells. They can distinguish between light and dark, but no more. This enables snails to keep out of direct sunlight.
 
 ## Qu'est ce que la vie 
 
