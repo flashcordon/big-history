@@ -17,6 +17,24 @@
 
 ---
 
+## Les yeux dans le vivant
+
+*Sources*
+
+- [Bâtonnets et cônes de l'oeil humain](https://askabiologist.asu.edu/batonnets-et-cones) - Ask a Biologist
+
+---
+
+- La vision humaine est comprise entre 400 et 700 nm
+- Il y a deux types de photorécepteurs impliqués dans la vision: les bâtonnets et les cônes, qui tapissent la rétine.
+- La rétine de notre oeil est tapissé entre autres de plusieurs millions de petites cellules sensibles à la lumière: les cônes… Parce qu’elles ressemblent à des cônes. Il en existe de 3 sortes, et chacune d’entre elles est principalement sensible à une couleur parmi le rouge, le vert ou le bleu. Notre cerveau combine ensuite ces différents signaux et interprète le résultat comme différentes nuances de couleurs, selon le degré de stimulation de chaque type de cône.
+> Par exemple, la couleur jaune résulte de la stimulation des cônes verts et des rouges, tandis que les bleus ne sont pas stimulés.
+- Les bâtonnets fonctionnent en présence de très peu de lumière. On les utilise pour la vision nocturne car il ne faut que très peu de particules de lumière (photons) pour les activer. Les bâtonnets ne détectent pas les couleurs, c'est pourquoi la nuit on voit seulement en tons de l'échelle des gris. Il y a plus de 100 millions de bâtonnets dans l'œil humain.
+- L'œil humain ne contient qu'environ 6 millions de cônes
+- Les animaux n'ont pas tous la même quantité de bâtonnets ou de cônes dans leurs yeux. Les animaux qui sont actifs quand il fait sombre ont beaucoup plus de bâtonnets que les êtres humains.
+- Les bâtonnets contiennent de la rhodopsine, et les cônes contiennent des opsines.
+- Quand nos trois sortes de cônes sont stimulés ensemble de la même manière, notre cerveau interprète cela comme étant la couleur blanche. On perçoit aussi la couleur blanche quand nos bâtonnets sont stimulés. 
+
 ## Qu'est ce que la vie 
 
 *Sources*
