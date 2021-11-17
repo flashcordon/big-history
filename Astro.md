@@ -1004,5 +1004,31 @@ the binary is well constrained from photometric light curves
 provided by OGLE (Optical Gravitational Lensing Experi-
 ment, Udalski et al. 1992), given an assumed configuration
 for the system.
-- 
+- Binary stars in GCs are expected to be in tight orbits in
+order to survive in such dense environments. This means
+that even in high spatial resolution images (e.g. HST), the
+two components should not be resolved. One possibility to
+detect these compact sources is via a systematic search for
+radial velocity variations, reflecting the precise orbital mo-
+tion of one star around the other. 
+-  we can firmly state that the primary
+star is a dark compact object, specifically a BH, the first
+directly dynamically detected in a young massive cluster to
+date, and we call it NGC 1850 BH1
+- hen a BH is in a binary sys-
+tem, intense X-ray emission can arise from the accretion disk
+and the corona
+- the X-ray emission from compact objects accreting material
+from their companions can thus shed important light on the
+accretion process, the outflow, and all the physical processes
+occurring in the system
+- In this paper we exploit MUSE radial velocities and OGLE-
+IV light curves to report the detection of a short period
+(P = 5.04 d) binary system in NGC 1850, made-up by a
+∼4.9 M  MSTO star and a ∼11 M  BH (NGC 1850 BH1),
+under the assumption of a semi-detached configuration.
+- The analysis of
+Chandra X-ray data revealed a faint but marginally reliable
+source at the location of the binary system, which would be
+consistent with the presence of a BH in a quiescent state
 
