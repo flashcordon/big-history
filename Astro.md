@@ -945,3 +945,64 @@ Burcher
 *La vision d'artiste de la Voie Lactée la plus réaliste à ce jour (Source :  Mark Reid & Xing-Wu Zheng (2020))*
 
 [milkyway](https://astronomy.nju.edu.cn/xtzl/EN/index.html)
+
+# Un trou noir détecté hors de notre galaxie
+
+*Sources*
+
+- [A black hole detected in the young massive LMC cluster NGC 1850](https://watermark.silverchair.com/stab3159.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAuIwggLeBgkqhkiG9w0BBwagggLPMIICywIBADCCAsQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMvX5lYiKuFQuxXybTAgEQgIIClTQ_NzAbNuHq9RT5vk0-8ZWwEqsjBsMzAJ2smwSmwNj4I5seBlg07O03ZagCAyed5MTJ9gMHSTx4CDWdfpntAUOUVqUh3ZcDPa5qZ_OBueUiVJoLl5km3-w9hCj0AI8X1rgNccYjkIf2TfjvxS0FkXVJwb1VDxRtxPm9O5PiQn6MIPAh1wyfofOBrt9yH_Awjn7ejhX7Kli2YNZthr_ym1UO1l_sJ8n79bAiNk3WkvgbIy4vXk5b3LtP5nrs_3ofjWCaP3LKYMro9-Otzh0x53_-0quHKINi72_FQc_iWltls1yvl89E-z4wtOwOF35UaDaL43XSt_AJy6XRRwhQQ4XKC5tlxem5f5t9Tlj0KUI4GbLr3h4op-loJbISqTI9S9sr8z4_yPaaC04S4GOkLYZDgqWzz9MkxkRlh0vfouAigKQNxb_u9OvLEOlps-RkPVxyLkkZDk7mAhzOAebFHjhURi15ID8eGJ5PxKTuCaSx3C1Q7wu--6ucer46ntmTyP118wl9HLPnUaezyq-L4DdvQ5mgQK9qv5o6Qz_H_32s_SnJbskJgHcclR2YctJtIZg62XRmy-Mo0CnP_NbyM_LEWQq-M7CbiTgTyF2o5rvzcAyWFLN2eFnjnjZEkpBZf-kEqJ2KnuDGMLxJST5O_3riknpJt3bOH3iX0A8kfEHB7KsdTa6RESkGciw736szwyEHJyxz7OeKH37sM67Q2HnrZxo7iWr9dT1kfRaXj44FE4kQu575b0xJqUr-zHzc2O5g0xMdLWZJxKdZVr85HSd1CW8B4krk1mpXcQCH1ZJKIfGXTbXvbl9gGJ-8Xk8GGXw8TIiDaegcbnj8no0FuNNSh_FToJIXr7d4lNV08e6Jyx59DAE) - Saracino et al (2021)
+
+---
+
+- We report the detection of a black hole (NGC 1850 BH1) in the ∼100 Myr-old massive cluster
+NGC 1850 in the Large Magellanic Cloud. It is in a binary system with a main-sequence turn-off
+star (4.9 ±0.4 M ), which is starting to fill its Roche Lobe and becoming distorted. Using 17 epochs
+of VLT/MUSE observations we detected radial velocity variations exceeding 300 km/s associated
+to the target star, linked to the ellipsoidal variations measured by OGLE-IV in the optical bands.
+- This represents the first direct dynamical detection of a black
+hole in a young massive cluster, opening up the possibility of studying the initial mass function and
+the early dynamical evolution of such compact objects in high-density environments.
+- The tremendous number (50 in GWTC-2) of gravitational
+waves (GWs) detected by LIGO since 2015 
+-  the recent discovery of a ∼150 M 
+BH (the first secure detection of an intermediate-mass black
+hole, Abbott et al. 2020a,b) as the coalescence product of
+two very massive BHs (60 M  and 85 M , respectively) has
+challenged our understanding of stellar evolution in massive
+stars (Vink et al. 2021), moving the focus to high-density en-
+vironments like massive stellar clusters, where merger cascades are most likely to happen 
+- BHs, however, are elusive objects,
+and apart from GW emission of coalescing binary BHs, we
+have only two ways to detect them: indirectly, via the ra-
+dio, X-ray or gamma ray emissions of matter accreting onto
+them, or directly, by studying the orbital motion of a visi-
+ble companion orbiting around it in a binary system. 
+- Over
+the past decades, there have been numerous indirect detec-
+tions of BHs as members of binaries with luminous com-
+panions, and many of these binary candidates have been
+identified through X-ray and radio observations of accret-
+ing systems (see Cowley 1992 as an example). The first
+BHs in old globular clusters (GCs) were also detected in
+this way (e.g. Maccarone et al. 2007;
+- A few direct dynamical detections of
+non-interacting BHs have been made so far in star clus-
+ters (in the ∼12 Gyr old NGC 3201, Giesers et al. 2018
+- We are currently conducting a systematic search for
+stellar-mass BHs in two young massive stellar clusters in the
+Large Magellanic Cloud by exploiting multi-epoch MUSE
+(Multi Unit Spectroscopic Explorer, Bacon et al. 2010) ob-
+servations taken at the ESO Very Large Telescope, through
+the monitoring of radial velocity variations. This approach
+is highly sensitive to the detection of stellar companions of
+massive objects. Here we present the first outcome of the
+survey: the discovery of the first BH in NGC 1850, a mas-
+sive (M ∼105M , McLaughlin & van der Marel 2005) ∼100
+Myr-old cluster. This is also one of the rare cases where
+the true BH mass can be estimated, as the inclination of
+the binary is well constrained from photometric light curves
+provided by OGLE (Optical Gravitational Lensing Experi-
+ment, Udalski et al. 1992), given an assumed configuration
+for the system.
+- 
+
