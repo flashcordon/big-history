@@ -3,9 +3,24 @@
 *Sources*
 
 - [United States Space Surveillance Network](https://en.wikipedia.org/wiki/United_States_Space_Surveillance_Network) - Wikipédia
+- [Russian anti-satellite missile test endangers space station crew - NASA](https://www.reuters.com/world/us-military-reports-debris-generating-event-outer-space-2021-11-15/) - Reuters (2021)
 
 ---
 
+- The seven-member space station crew - four U.S. astronauts, a German astronaut and two Russian cosmonauts - were directed to take shelter in their docked spaceship capsules for two hours after the test as a precaution to allow for a quick getaway had it been necessary
+- The research lab, orbiting about 250 miles (402 km) above Earth, continued to pass through or near the debris cluster every 90 minutes, but NASA specialists determined it was safe for the crew to return to the station's interior after the third pass, the agency said.
+- The crew was also ordered to seal off hatches to several modules of the International Space Station (ISS) for the time being, according to NASA.
+-  A message posted on Twitter by the Russian space agency Roscosmos downplayed the danger.
+
+"The orbit of the object, which forced the crew today to move into spacecraft according to standard procedures, has moved away from the ISS orbit," Roscosmos tweeted. "The station is in the green zone."
+- The direct-ascent anti-satellite missile fired by Russia into one of its own satellites generated more than 1,500 pieces of "trackable orbital debris" and would likely spawn hundreds of thousands of smaller fragments, the U.S. Space Command said in a statement.
+- The debris from the missile test "will continue to pose a threat to activities in outer space for years to come, putting satellites and space missions at risk, as well as forcing more collision avoidance maneuvers
+- "It is unthinkable that Russia would endanger not only the American and international partner astronauts on the ISS, but also their own cosmonauts," Nelson said. He said the cloud of debris also posed a threat to a separate Chinese space station under construction and the three-member crew of "taikonauts" aboard that outpost.
+- The incident came just four days after the latest group of four space station astronauts - Americans Raja Chair, Tom Marshburn and Kayla Barron of NASA and European Space Agency crewmate Matthias Maurer of Germany - arrived at the orbiting platform to begin a six-month science mission. read more
+- They were welcomed by three space station crew members already on board - U.S. astronaut Mark Vande Hei and Russian cosmonauts Anton Shkaplerov and Pyotr Dubrov.
+- The space station, spanning the size of an American football field end to end, has been continuously occupied since November 2000, operated by an international partnership of five space agencies from 15 countries, including Russia's Roscosmos.
+- In April Russia carried out another test of an anti-satellite missile as officials have said that space will increasingly become an important domain for warfare.
+- In 2019, India shot down one of its own satellites in low-Earth orbit with a ground-to-space missile.
 - The United States Space Surveillance Network detects, tracks, catalogs and identifies artificial objects orbiting Earth, e.g. active/inactive satellites, spent rocket bodies, or fragmentation debris. The system is the responsibility of United States Space Command and operated by the United States Space Force. 
 - Space Surveillance Network (SSN) of U.S. Army, Navy and Space Force operated, 30+ ground-based radars and optical telescopes worldwide, plus 6 satellites in orbit.
 - the catalog built using SSN data listed 50 000 objects including X satellites launched into orbit since 1957.
