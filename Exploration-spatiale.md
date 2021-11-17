@@ -1,4 +1,17 @@
-# le syndrome de Kessler
+# Débris spatiaux
+
+*Sources*
+
+- [United States Space Surveillance Network](https://en.wikipedia.org/wiki/United_States_Space_Surveillance_Network) - Wikipédia
+
+---
+
+- The United States Space Surveillance Network detects, tracks, catalogs and identifies artificial objects orbiting Earth, e.g. active/inactive satellites, spent rocket bodies, or fragmentation debris. The system is the responsibility of United States Space Command and operated by the United States Space Force. 
+- Space Surveillance Network (SSN) of U.S. Army, Navy and Space Force operated, 30+ ground-based radars and optical telescopes worldwide, plus 6 satellites in orbit.
+- the catalog built using SSN data listed 50 000 objects including 8,558 satellites launched into orbit since 1957.
+- 10 centimeter diameter or "softball size" is the typical minimum size object that current sensors can track and 18 SPCS maintains in the catalog.
+
+## le syndrome de Kessler
 
 *Sources*
 - [THE KESSLER SYNDROME:  IMPLICATIONS TO FUTURE SPACE OPERATIONS](https://aquarid.physics.uwo.ca/kessler/Kessler%20Syndrome-AAS%20Paper.pdf) - Kessler et al (2016)
