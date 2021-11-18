@@ -954,13 +954,17 @@ Burcher
 - [Black hole found hiding in star cluster outside our galaxy](https://www.sciencedaily.com/releases/2021/11/211111080358.htm) - ESO (2021)
 
 ---
-- Des astronomes ont annoncé la première détection de l'histoire d'un trou noir situé dans un amas d'étoiles jeune et massif hors de notre galaxie.
+- Des astronomes ont annoncé la première détection directe de l'histoire d'un trou noir situé dans un amas d'étoiles jeune et massif hors de notre galaxie.
 - Cet amas d'étoile nommé NGC 1850 est situé dans le grand nuage de Magellan, une galaxie naine de notre voisinage galactique.
 > Il s'agit d'un amas d'étoile contenant des milliers d'étoiles et relativement jeune puisqu'il existe depuis moins de 100 millions d'années (comment on sait ça ?)
 - Le trou noir fait partie d'un système binaire, c'est à dire qu'il autour d'un centre de gravité commun
 > Cette étoile fait environ 5 fois la masse du Soleil et commence à être distordue (par quoi ?)
-- Pour détecté ce trou noir, les astronomes ont utilisé l'instrument MUSE, situé sur le Very Large Telescope au Chili
-
+- Pour détecter ce trou noir, les astronomes ont utilisé l'instrument MUSE, situé sur le Very Large Telescope au Chili
+> Cet instrument est un X
+- Jusqu'à présent on avait essentiellement 3 méthodes pour détecter des trous noirs
+> * L'émission des ondes gravitationnelles, c'est à dire les tremblements d'espace-temps qu'ils émettent lorsque deux trous noirs fusionnent. Depuis 2015, LIGO en a détecté une cinquantaine (combien exactement ?)
+> * la détection des rayonnements ultraénergétiques (rayons X et gamma) qu'ils émettent lorsqu'ils sont entouré d'un disque de matière chauffé à des millions de degrés
+> * l'analyse de la trajectoire des étoiles qui orbitent autour de lui
 It is in a binary system with a main-sequence turn-off
 star (4.9 ±0.4 M ), which is starting to fill its Roche Lobe and becoming distorted. Using 17 epochs
 of VLT/MUSE observations we detected radial velocity variations exceeding 300 km/s associated
@@ -968,8 +972,7 @@ to the target star, linked to the ellipsoidal variations measured by OGLE-IV in 
 - This represents the first direct dynamical detection of a black
 hole in a young massive cluster, opening up the possibility of studying the initial mass function and
 the early dynamical evolution of such compact objects in high-density environments.
-- The tremendous number (50 in GWTC-2) of gravitational
-waves (GWs) detected by LIGO since 2015 
+
 -  the recent discovery of a ∼150 M 
 BH (the first secure detection of an intermediate-mass black
 hole, Abbott et al. 2020a,b) as the coalescence product of
@@ -977,12 +980,7 @@ two very massive BHs (60 M  and 85 M , respectively) has
 challenged our understanding of stellar evolution in massive
 stars (Vink et al. 2021), moving the focus to high-density en-
 vironments like massive stellar clusters, where merger cascades are most likely to happen 
-- BHs, however, are elusive objects,
-and apart from GW emission of coalescing binary BHs, we
-have only two ways to detect them: indirectly, via the ra-
-dio, X-ray or gamma ray emissions of matter accreting onto
-them, or directly, by studying the orbital motion of a visi-
-ble companion orbiting around it in a binary system. 
+
 - Over
 the past decades, there have been numerous indirect detec-
 tions of BHs as members of binaries with luminous com-
