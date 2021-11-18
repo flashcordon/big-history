@@ -11,9 +11,12 @@
 
 ---
 
+- Le 15 Novembre dernier, la Russie a détruit un de ses vieux satellites à l'aide d'un missile anti-satellite (qu'on appelle armes anti-satellites à ascension directe (DA-ASAT) dans le milieu)
+> Ce genre de missiles est tiré soit depuis le sol soit depuis un avion de chasse
+> L'impact a généré des milliers de débris
 - Le traité de l'espace de 1967 interdit la mise sur orbite d'armes nucléaires. Mais il n'interdit pas les armes conventionnelles.
-- On Nov. 15, 2021, U.S. officials announced that they had detected a dangerous new debris field in orbit near Earth. Later in the day, it was confirmed that Russia had destroyed one of its old satellites in a test of an anti-satellite weapon
-- Anti-satellite weapons, commonly referred to as ASATs, are any weapon that can temporarily impair or permanently destroy an orbiting satellite. The one that Russia just tested is known as a direct ascent kinetic anti-satellite weapon. These are usually launched from the ground or from the wings of an airplane and destroy satellites by running into them at high speeds.
+
+
 - Space agencies have been developing and testing anti-satellite weapons since the 1960s. To date, the U.S., Russia, China and India have demonstrated the ability to attack satellites in orbit that support services like GPS, communications and weather forecasting.
 - Larger pieces are easier to track and avoid but it’s difficult to track pieces smaller than 4 inches (10 centimeters). Even small debris can still pose a major threat though. Space debris is often traveling faster than 17,000 mph around the Earth. At that speed, pieces of debris could destroy any spacecraft or satellite it collided with. In the 1980s, a Soviet satellite broke up as a result of a suspected debris strike.
 
