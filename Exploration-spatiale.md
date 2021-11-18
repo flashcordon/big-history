@@ -14,6 +14,7 @@
 - Le 15 Novembre dernier, la Russie a détruit un de ses vieux satellites à l'aide d'un missile anti-satellite (qu'on appelle armes anti-satellites à ascension directe (DA-ASAT) dans le milieu)
 > Ce genre de missiles est tiré soit depuis le sol soit depuis un avion de chasse
 > L'impact a généré des milliers de débris
+> * On a ordonné aux 7 astronautes à bord de l'ISS (4 américains, un allemand et 2 russes) de se réfugier dans les capsules Dragon pendant 2h pour assurer un retour rapide sur Terre si nécessaire, et de sceller certains modules de la station pendant un moment.
 - De nos jours on peut traquer la trajectoire d'objets d'une taille de 10 cm minimum. La NASA en recense lus de 27 000. Mais il y a de nombreux débris en dessous de cette taille !
 - Et les petits débris peuvent quand même faire de gros dégats, parce qu'ils se baladent à près de 28 000 km/h et ont donc une énergie cinétique considérable.
 > L'ISS en a fait les frais en Juillet dernier, lorsqu'un minuscule débris a fait un trou d'un demi cm dans l'un des bras robotiques de la station. Et ils ont eu beaucoup de chance à ce moment là, parce que si ce débris avait touché certains points vitaux de la station, elle serait irréparable.
@@ -26,9 +27,7 @@
 The U.S. government and commercial companies are tracking the new debris, and the crew on the International Space Station have been ordered to keep certain modules closed off as they continue to pass through the debris cloud. As the new debris spreads out and the pieces are tracked, station controllers will have a better understanding of the danger posed to the crew.
 -  Technology to remove debris has not yet been fully developed, but even still, its deployment is a sensitive subject. The same technology that might be used to remove a piece of space junk could also be used for attacking a satellite. This dual-use technology poses challenges, as it can raise suspicions that countries are testing anti-satellite weapons under the cover of debris removal. 
 -  Despite the difficulties, there is growing international recognition that space debris is a dangerous problem. A consortium of private companies recently created the Net Zero Space charter to reduce debris, and the U.S. Space Force is looking for ways to combat the problem as well. While the world still does not yet have a full understanding of Russia’s actions, this event is a wake-up call on the importance of efforts to reduce pollution in Earth’s orbit.
-- The seven-member space station crew - four U.S. astronauts, a German astronaut and two Russian cosmonauts - were directed to take shelter in their docked spaceship capsules for two hours after the test as a precaution to allow for a quick getaway had it been necessary
 - The research lab, orbiting about 250 miles (402 km) above Earth, continued to pass through or near the debris cluster every 90 minutes, but NASA specialists determined it was safe for the crew to return to the station's interior after the third pass, the agency said.
-- The crew was also ordered to seal off hatches to several modules of the International Space Station (ISS) for the time being, according to NASA.
 -  A message posted on Twitter by the Russian space agency Roscosmos downplayed the danger.
 
 "The orbit of the object, which forced the crew today to move into spacecraft according to standard procedures, has moved away from the ISS orbit," Roscosmos tweeted. "The station is in the green zone."
