@@ -954,12 +954,13 @@ Burcher
 - [Black hole found hiding in star cluster outside our galaxy](https://www.sciencedaily.com/releases/2021/11/211111080358.htm) - ESO (2021)
 
 ---
+
 - Des astronomes ont annoncé la première détection directe de l'histoire d'un trou noir (NGC 1850 BH1) situé dans un amas d'étoiles jeune et massif hors de notre galaxie.
 - Cet amas d'étoile nommé NGC 1850 est situé à 160 000 années-lumière d'ici, dans le grand nuage de Magellan, une galaxie naine de notre voisinage galactique.
 > Il s'agit d'un amas d'étoile contenant des milliers d'étoiles et relativement jeune puisqu'il existe depuis moins de 100 millions d'années (comment on sait ça ?)
 - Le trou noir fait environ 11 fois la masse du Soleil, et il fait partie d'un système binaire, c'est à dire qu'il autour d'un centre de gravité commun
 > Cette étoile fait environ 5 fois la masse du Soleil et commence à être distordue (par quoi ?)
-- Pour détecter ce trou noir, les astronomes ont utilisé l'instrument MUSE, situé sur le Very Large Telescope au Chili
+- Pour détecter ce trou noir, les astronomes ont utilisé l'instrument MUSE (Multi Unit Spectroscopic Explorer), situé sur le Very Large Telescope au Chili (dans le désert d'Atacama)
 > Cet instrument est un X
 - Jusqu'à présent on avait essentiellement 3 méthodes pour détecter des trous noirs
 > * L'émission des ondes gravitationnelles, c'est à dire les tremblements d'espace-temps qu'ils émettent lorsque deux trous noirs fusionnent. Depuis 2015, LIGO en a détecté une cinquantaine (combien exactement ?)
@@ -972,8 +973,12 @@ Burcher
 - Mais du coup les systèmes binaires sont si compacts qu'on ne peut pas résoudre les astres individuels qui composent ces systèmes avec les instruments actuels
 - Du coup pour détecter ce trou noir les astronomes ont eu recours à une méhode un peu particulière : les vitesses radiales
 > Cette méthode consiste à . on eut ainsi deviner la présence d'un trou noir par les mouvements orbitaux de son étoile compagnon
+> Les deux astres mettent environ 5 jours à compléter une orbite
+Pour confirmer leur détection ils ont utilisé les données du télescope spatial Chandra, qui observe l'univers dans le domaine des rayons X, et ils ont effectivement observé une faible émission de rayons X à l'endroit où devrait se trouver le trou noir, ce qui augmente encore le degré de confiance dans cette détection.
+- Les astronomes ont utilisé les données de l'expérience OGLE (Optical Gravitational Lensing Experiment) et du télescope spatial Hubble pour mesurer la masse du trou noir (11 masses solaires)
 - C'est la première fois qu'on découvre un tel objet avec cette méthode dans un amas globulaire jeune et massif.
 - Cette méthode de détection de trous noirs par vitesse radiales a désormais fait ses preuves, et devrait conduire à la détection de beaucoup d'autres trous noirs à l'avenir, ce qui serait précieux pour révéler les mystères qui planent encore sur ces monstres cosmiques et les amas d'étoiles qui les abritent.
+- l'ELT, l'extremely large telescope, au Chili, dont la première lumière est prévue pour 2024, devrait révolutionner la recherche des trous noirs dans des amas d'étoiles, et devrait nous permettre de sonder des amas d'étoiles bien plus distants que ceux qu'on observe à l'heure actuelle.
 
 It is in a binary system with a main-sequence turn-off
 star (4.9 ±0.4 M ), which is starting to fill its Roche Lobe and becoming distorted. Using 17 epochs
@@ -1008,7 +1013,6 @@ provided by OGLE (Optical Gravitational Lensing Experi-
 ment, Udalski et al. 1992), given an assumed configuration
 for the system.
 
-Puor confirmer leur détection ils ont utilisé les données du télescope spatial Chandra, qui observe l'univers dans le domaine des rayons X, et ils ont effectivement observé une faible émission de rayons X à l'endroit où devrait se trouver le trou noir, ce qui augmente encore le degré de confiance dans cette détection.
 
 - hen a BH is in a binary sys-
 tem, intense X-ray emission can arise from the accretion disk
@@ -1023,9 +1027,9 @@ IV light curves to report the detection of a short period
 ∼4.9 M  MSTO star and a ∼11 M  BH (NGC 1850 BH1),
 under the assumption of a semi-detached configuration.
 
-
+ 
+ l'étoile gigote de manière périodique, et ce gigotement caractéristique trahit la présence d'un trou noir proche de l'étoile.
+ 
 - Using the European Southern Observatory's Very Large Telescope (ESO's VLT), astronomers have discovered a small black hole outside the Milky Way by looking at how it influences the motion of a star in its close vicinity. This is the first time this detection method has been used to reveal the presence of a black hole outside of our galaxy. 
-- This dynamical method used by Saracino and her team could allow astronomers to find many more black holes and help unlock their mysteries. "Every single detection we make will be important for our future understanding of stellar clusters and the black holes in them
 - The detection in NGC 1850 marks the first time a black hole has been found in a young cluster of stars (the cluster is only around 100 million years old, a blink of an eye on astronomical scales). Using their dynamical method in similar star clusters could unveil even more young black holes and shed new light on how they evolve. By comparing them with larger, more mature black holes in older clusters, astronomers would be able to understand how these objects grow by feeding on stars or merging with other black holes. Furthermore, charting the demographics of black holes in star clusters improves our understanding of the origin of gravitational wave sources.
-- the team used data collected over two years with the Multi Unit Spectroscopic Explorer (MUSE) mounted at ESO's VLT, located in the Chilean Atacama Desert. "MUSE allowed us to observe very crowded areas, like the innermost regions of stellar clusters, analysing the light of every single star in the vicinity. The net result is information about thousands of stars in one shot, at least 10 times more than with any other instrument," says co-author Sebastian Kamann, a long-time MUSE expert based at Liverpool's Astrophysics Research Institute. This allowed the team to spot the odd star out whose peculiar motion signalled the presence of the black hole. Data from the University of Warsaw's Optical Gravitational Lensing Experiment and from the NASA/ESA Hubble Space Telescope enabled them to measure the mass of the black hole and confirm their findings.
-- ESO's Extremely Large Telescope in Chile, set to start operating later this decade, will allow astronomers to find even more hidden black holes. "The ELT will definitely revolutionise this field," says Saracino. "It will allow us to observe stars considerably fainter in the same field of view, as well as to look for black holes in globular clusters located at much greater distances."
+
