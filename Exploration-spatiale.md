@@ -4,9 +4,24 @@
 
 - [United States Space Surveillance Network](https://en.wikipedia.org/wiki/United_States_Space_Surveillance_Network) - Wikipédia
 - [Russian anti-satellite missile test endangers space station crew - NASA](https://www.reuters.com/world/us-military-reports-debris-generating-event-outer-space-2021-11-15/) - Reuters (2021)
+- [ARMES ANTI-SATELLITES - Un DANGER pour TOUS ? 4K](https://youtu.be/hm4AOfayPXo) - Hugo Lisoir (2021)
+- [Russian anti-satellite weapon test: What happened and what are the risks?](https://theconversation.com/russian-anti-satellite-weapon-test-what-happened-and-what-are-the-risks-172016) - The Conversation (2021)
+
 
 ---
 
+- On Nov. 15, 2021, U.S. officials announced that they had detected a dangerous new debris field in orbit near Earth. Later in the day, it was confirmed that Russia had destroyed one of its old satellites in a test of an anti-satellite weapon
+- Anti-satellite weapons, commonly referred to as ASATs, are any weapon that can temporarily impair or permanently destroy an orbiting satellite. The one that Russia just tested is known as a direct ascent kinetic anti-satellite weapon. These are usually launched from the ground or from the wings of an airplane and destroy satellites by running into them at high speeds.
+- Space agencies have been developing and testing anti-satellite weapons since the 1960s. To date, the U.S., Russia, China and India have demonstrated the ability to attack satellites in orbit that support services like GPS, communications and weather forecasting.
+- Larger pieces are easier to track and avoid but it’s difficult to track pieces smaller than 4 inches (10 centimeters). Even small debris can still pose a major threat though. Space debris is often traveling faster than 17,000 mph around the Earth. At that speed, pieces of debris could destroy any spacecraft or satellite it collided with. In the 1980s, a Soviet satellite broke up as a result of a suspected debris strike.
+
+More worrisome is the danger debris poses to crewed space missions. In July 2021, one of the International Space Station’s robotic arms was struck by a piece of debris that put a 0.2-inch (0.5 cm) hole clean through a part of the arm. While the damage did not need to be fixed, officials characterized it as a lucky strike – if it had struck a different part of the station, the situation could have been a lot worse.
+- Space debris is also a significant threat to people on Earth. Satellites play a vital role in the global economy through GPS, communications and weather data. If services such as these were disrupted, there would be significant economic cost. One study found that a GPS outage could cost the U.S. up to $1 billion a day.
+- 
+
+The U.S. government and commercial companies are tracking the new debris, and the crew on the International Space Station have been ordered to keep certain modules closed off as they continue to pass through the debris cloud. As the new debris spreads out and the pieces are tracked, station controllers will have a better understanding of the danger posed to the crew.
+-  Technology to remove debris has not yet been fully developed, but even still, its deployment is a sensitive subject. The same technology that might be used to remove a piece of space junk could also be used for attacking a satellite. This dual-use technology poses challenges, as it can raise suspicions that countries are testing anti-satellite weapons under the cover of debris removal. 
+-  Despite the difficulties, there is growing international recognition that space debris is a dangerous problem. A consortium of private companies recently created the Net Zero Space charter to reduce debris, and the U.S. Space Force is looking for ways to combat the problem as well. While the world still does not yet have a full understanding of Russia’s actions, this event is a wake-up call on the importance of efforts to reduce pollution in Earth’s orbit.
 - The seven-member space station crew - four U.S. astronauts, a German astronaut and two Russian cosmonauts - were directed to take shelter in their docked spaceship capsules for two hours after the test as a precaution to allow for a quick getaway had it been necessary
 - The research lab, orbiting about 250 miles (402 km) above Earth, continued to pass through or near the debris cluster every 90 minutes, but NASA specialists determined it was safe for the crew to return to the station's interior after the third pass, the agency said.
 - The crew was also ordered to seal off hatches to several modules of the International Space Station (ISS) for the time being, according to NASA.
