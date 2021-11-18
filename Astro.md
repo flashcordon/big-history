@@ -965,6 +965,9 @@ Burcher
 > * L'émission des ondes gravitationnelles, c'est à dire les tremblements d'espace-temps qu'ils émettent lorsque deux trous noirs fusionnent. Depuis 2015, LIGO en a détecté une cinquantaine (combien exactement ?)
 > * la détection des rayonnements ultraénergétiques (rayons X et gamma) qu'ils émettent lorsqu'ils sont entouré d'un disque de matière chauffé à des millions de degrés
 > * l'analyse de la trajectoire des étoiles qui orbitent autour de lui
+- On a déjà détecté de nombreux trous noirs qui font partie de systèmes binaires
+- On a aussi déjà détecté des trous noirs dans de vieux amas globulaires, dans notre galaxie
+> Il y a une centaine d'amas globulaires recensés dans la Voie Lacée
 It is in a binary system with a main-sequence turn-off
 star (4.9 ±0.4 M ), which is starting to fill its Roche Lobe and becoming distorted. Using 17 epochs
 of VLT/MUSE observations we detected radial velocity variations exceeding 300 km/s associated
@@ -981,17 +984,6 @@ challenged our understanding of stellar evolution in massive
 stars (Vink et al. 2021), moving the focus to high-density en-
 vironments like massive stellar clusters, where merger cascades are most likely to happen 
 
-- Over
-the past decades, there have been numerous indirect detec-
-tions of BHs as members of binaries with luminous com-
-panions, and many of these binary candidates have been
-identified through X-ray and radio observations of accret-
-ing systems (see Cowley 1992 as an example). The first
-BHs in old globular clusters (GCs) were also detected in
-this way (e.g. Maccarone et al. 2007;
-- A few direct dynamical detections of
-non-interacting BHs have been made so far in star clus-
-ters (in the ∼12 Gyr old NGC 3201, Giesers et al. 2018
 - We are currently conducting a systematic search for
 stellar-mass BHs in two young massive stellar clusters in the
 Large Magellanic Cloud by exploiting multi-epoch MUSE
