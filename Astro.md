@@ -954,10 +954,10 @@ Burcher
 - [Black hole found hiding in star cluster outside our galaxy](https://www.sciencedaily.com/releases/2021/11/211111080358.htm) - ESO (2021)
 
 ---
-- Des astronomes ont annoncé la première détection directe de l'histoire d'un trou noir situé dans un amas d'étoiles jeune et massif hors de notre galaxie.
+- Des astronomes ont annoncé la première détection directe de l'histoire d'un trou noir (NGC 1850 BH1) situé dans un amas d'étoiles jeune et massif hors de notre galaxie.
 - Cet amas d'étoile nommé NGC 1850 est situé dans le grand nuage de Magellan, une galaxie naine de notre voisinage galactique.
 > Il s'agit d'un amas d'étoile contenant des milliers d'étoiles et relativement jeune puisqu'il existe depuis moins de 100 millions d'années (comment on sait ça ?)
-- Le trou noir fait partie d'un système binaire, c'est à dire qu'il autour d'un centre de gravité commun
+- Le trou noir fait environ 11 fois la masse du Soleil, et il fait partie d'un système binaire, c'est à dire qu'il autour d'un centre de gravité commun
 > Cette étoile fait environ 5 fois la masse du Soleil et commence à être distordue (par quoi ?)
 - Pour détecter ce trou noir, les astronomes ont utilisé l'instrument MUSE, situé sur le Very Large Telescope au Chili
 > Cet instrument est un X
@@ -1000,17 +1000,16 @@ the binary is well constrained from photometric light curves
 provided by OGLE (Optical Gravitational Lensing Experi-
 ment, Udalski et al. 1992), given an assumed configuration
 for the system.
-- Binary stars in GCs are expected to be in tight orbits in
-order to survive in such dense environments. This means
-that even in high spatial resolution images (e.g. HST), the
-two components should not be resolved. One possibility to
-detect these compact sources is via a systematic search for
-radial velocity variations, reflecting the precise orbital mo-
-tion of one star around the other. 
--  we can firmly state that the primary
-star is a dark compact object, specifically a BH, the first
-directly dynamically detected in a young massive cluster to
-date, and we call it NGC 1850 BH1
+
+- Dans un amas globulaire, les étoiles en système binaire sont très rapprochés (sinon leur union ne survit pas à cause de la gravité des étoiles environnants)
+- Mais du coup les systèmes binaires sont si compacts qu'on ne peut pas résoudre les astres individuels qui composent ces systèmes avec les instruments actuels
+- Du coup pour détecter ce trou noir les astronomes ont eu recours à une méhode un peu particulière : les vitesses radiales
+> Cette méthode consiste à . on eut ainsi deviner la présence d'un trou noir par les mouvements orbitaux de son étoile compagnon
+- C'est la première fois qu'on découvre un tel objet avec cette méthode dans un amas globulaire jeune et massif.
+- 
+
+Puor confirmer leur détection ils ont utilisé les données du télescope spatial Chandra, qui observe l'univers dans le domaine des rayons X, et ils ont effectivement observé une faible émission de rayons X à l'endroit où devrait se trouver le trou noir, ce qui augmente encore le degré de confiance dans cette détection.
+
 - hen a BH is in a binary sys-
 tem, intense X-ray emission can arise from the accretion disk
 and the corona
@@ -1023,10 +1022,7 @@ IV light curves to report the detection of a short period
 (P = 5.04 d) binary system in NGC 1850, made-up by a
 ∼4.9 M  MSTO star and a ∼11 M  BH (NGC 1850 BH1),
 under the assumption of a semi-detached configuration.
-- The analysis of
-Chandra X-ray data revealed a faint but marginally reliable
-source at the location of the binary system, which would be
-consistent with the presence of a BH in a quiescent state
+
 - Using the European Southern Observatory's Very Large Telescope (ESO's VLT), astronomers have discovered a small black hole outside the Milky Way by looking at how it influences the motion of a star in its close vicinity. This is the first time this detection method has been used to reveal the presence of a black hole outside of our galaxy. 
 - NGC 1850, a cluster of thousands of stars roughly 160,000 light-years away in the Large Magellanic Cloud, a neighbour galaxy of the Milky Way.
 - This dynamical method used by Saracino and her team could allow astronomers to find many more black holes and help unlock their mysteries. "Every single detection we make will be important for our future understanding of stellar clusters and the black holes in them
