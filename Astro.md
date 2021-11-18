@@ -978,6 +978,7 @@ Pour confirmer leur détection ils ont utilisé les données du télescope spati
 - Les astronomes ont utilisé les données de l'expérience OGLE (Optical Gravitational Lensing Experiment) et du télescope spatial Hubble pour mesurer la masse du trou noir (11 masses solaires)
 - C'est la première fois qu'on découvre un tel objet avec cette méthode dans un amas globulaire jeune et massif.
 - Cette méthode de détection de trous noirs par vitesse radiales a désormais fait ses preuves, et devrait conduire à la détection de beaucoup d'autres trous noirs à l'avenir, ce qui serait précieux pour révéler les mystères qui planent encore sur ces monstres cosmiques et les amas d'étoiles qui les abritent.
+> Comment ils grandissent, comment ils accumulent de la matière (fusion de trous noirs vs en se nourrissant des étoiles alentours)
 - l'ELT, l'extremely large telescope, au Chili, dont la première lumière est prévue pour 2024, devrait révolutionner la recherche des trous noirs dans des amas d'étoiles, et devrait nous permettre de sonder des amas d'étoiles bien plus distants que ceux qu'on observe à l'heure actuelle.
 
 It is in a binary system with a main-sequence turn-off
@@ -1014,22 +1015,7 @@ ment, Udalski et al. 1992), given an assumed configuration
 for the system.
 
 
-- hen a BH is in a binary sys-
-tem, intense X-ray emission can arise from the accretion disk
-and the corona
-- the X-ray emission from compact objects accreting material
-from their companions can thus shed important light on the
-accretion process, the outflow, and all the physical processes
-occurring in the system
-- In this paper we exploit MUSE radial velocities and OGLE-
-IV light curves to report the detection of a short period
-(P = 5.04 d) binary system in NGC 1850, made-up by a
-∼4.9 M  MSTO star and a ∼11 M  BH (NGC 1850 BH1),
-under the assumption of a semi-detached configuration.
-
+ C'est la première fois qu'une telle méthode est employée pour détecter un trou noir hors de notre galaxie
  
  l'étoile gigote de manière périodique, et ce gigotement caractéristique trahit la présence d'un trou noir proche de l'étoile.
- 
-- Using the European Southern Observatory's Very Large Telescope (ESO's VLT), astronomers have discovered a small black hole outside the Milky Way by looking at how it influences the motion of a star in its close vicinity. This is the first time this detection method has been used to reveal the presence of a black hole outside of our galaxy. 
-- The detection in NGC 1850 marks the first time a black hole has been found in a young cluster of stars (the cluster is only around 100 million years old, a blink of an eye on astronomical scales). Using their dynamical method in similar star clusters could unveil even more young black holes and shed new light on how they evolve. By comparing them with larger, more mature black holes in older clusters, astronomers would be able to understand how these objects grow by feeding on stars or merging with other black holes. Furthermore, charting the demographics of black holes in star clusters improves our understanding of the origin of gravitational wave sources.
 
