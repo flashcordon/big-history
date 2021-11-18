@@ -954,9 +954,14 @@ Burcher
 - [Black hole found hiding in star cluster outside our galaxy](https://www.sciencedaily.com/releases/2021/11/211111080358.htm) - ESO (2021)
 
 ---
+- Des astronomes ont annoncé la première détection de l'histoire d'un trou noir situé dans un amas d'étoiles jeune et massif hors de notre galaxie.
+- Cet amas d'étoile nommé NGC 1850 est situé dans le grand nuage de Magellan, une galaxie naine de notre voisinage galactique.
+> Il s'agit d'un amas d'étoile contenant des milliers d'étoiles et relativement jeune puisqu'il existe depuis moins de 100 millions d'années (comment on sait ça ?)
+- Le trou noir fait partie d'un système binaire, c'est à dire qu'il autour d'un centre de gravité commun
+> Cette étoile fait environ 5 fois la masse du Soleil et commence à être distordue (par quoi ?)
+- Pour détecté ce trou noir, les astronomes ont utilisé l'instrument MUSE, situé sur le Very Large Telescope au Chili
 
-- We report the detection of a black hole (NGC 1850 BH1) in the ∼100 Myr-old massive cluster
-NGC 1850 in the Large Magellanic Cloud. It is in a binary system with a main-sequence turn-off
+It is in a binary system with a main-sequence turn-off
 star (4.9 ±0.4 M ), which is starting to fill its Roche Lobe and becoming distorted. Using 17 epochs
 of VLT/MUSE observations we detected radial velocity variations exceeding 300 km/s associated
 to the target star, linked to the ellipsoidal variations measured by OGLE-IV in the optical bands.
