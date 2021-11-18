@@ -14,10 +14,11 @@
 - Le 15 Novembre dernier, la Russie a détruit un de ses vieux satellites à l'aide d'un missile anti-satellite (qu'on appelle armes anti-satellites à ascension directe (DA-ASAT) dans le milieu)
 > Ce genre de missiles est tiré soit depuis le sol soit depuis un avion de chasse
 > L'impact a généré des milliers de débris
+- De nos jours on peut traquer la trajectoire d'objets d'une taille de 10 cm minimum. Mais il y a de nombreux débris en dessous de cette taille !
 - Le traité de l'espace de 1967 interdit la mise sur orbite d'armes nucléaires. Mais il n'interdit pas les armes conventionnelles.
+- Cela fait depuis les années 60 que des technologies de destruction de satellites sont testés. Et la Russie n'est pas la seule puissance à le faire. Les Etats Unis, la Chine et l'Inde ont aussi démontré leur capacité d'attaquer des satellites en orbite.
 
 
-- Space agencies have been developing and testing anti-satellite weapons since the 1960s. To date, the U.S., Russia, China and India have demonstrated the ability to attack satellites in orbit that support services like GPS, communications and weather forecasting.
 - Larger pieces are easier to track and avoid but it’s difficult to track pieces smaller than 4 inches (10 centimeters). Even small debris can still pose a major threat though. Space debris is often traveling faster than 17,000 mph around the Earth. At that speed, pieces of debris could destroy any spacecraft or satellite it collided with. In the 1980s, a Soviet satellite broke up as a result of a suspected debris strike.
 
 More worrisome is the danger debris poses to crewed space missions. In July 2021, one of the International Space Station’s robotic arms was struck by a piece of debris that put a 0.2-inch (0.5 cm) hole clean through a part of the arm. While the damage did not need to be fixed, officials characterized it as a lucky strike – if it had struck a different part of the station, the situation could have been a lot worse.
@@ -44,7 +45,6 @@ The U.S. government and commercial companies are tracking the new debris, and th
 - The United States Space Surveillance Network detects, tracks, catalogs and identifies artificial objects orbiting Earth, e.g. active/inactive satellites, spent rocket bodies, or fragmentation debris. The system is the responsibility of United States Space Command and operated by the United States Space Force. 
 - Space Surveillance Network (SSN) of U.S. Army, Navy and Space Force operated, 30+ ground-based radars and optical telescopes worldwide, plus 6 satellites in orbit.
 - the catalog built using SSN data listed 50 000 objects including X satellites launched into orbit since 1957.
-- 10 centimeter diameter or "softball size" is the typical minimum size object that current sensors can track and 18 SPCS maintains in the catalog.
 
 ## le syndrome de Kessler
 
