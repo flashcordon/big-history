@@ -14,14 +14,15 @@
 - Le 15 Novembre dernier, la Russie a détruit un de ses vieux satellites à l'aide d'un missile anti-satellite (qu'on appelle armes anti-satellites à ascension directe (DA-ASAT) dans le milieu)
 > Ce genre de missiles est tiré soit depuis le sol soit depuis un avion de chasse
 > L'impact a généré des milliers de débris
-- De nos jours on peut traquer la trajectoire d'objets d'une taille de 10 cm minimum. Mais il y a de nombreux débris en dessous de cette taille !
+- De nos jours on peut traquer la trajectoire d'objets d'une taille de 10 cm minimum. La NASA en recense lus de 27 000. Mais il y a de nombreux débris en dessous de cette taille !
+- Et les petits débris peuvent quand même faire de gros dégats, parce qu'ils se baladent à près de 28 000 km/h et ont donc une énergie cinétique considérable.
+> L'ISS en a fait les frais en Juillet dernier, lorsqu'un minuscule débris a fait un trou d'un demi cm dans l'un des bras robotiques de la station. Et ils ont eu beaucoup de chance à ce moment là, parce que si ce débris avait touché certains points vitaux de la station, elle serait irréparable.
 - Le traité de l'espace de 1967 interdit la mise sur orbite d'armes nucléaires. Mais il n'interdit pas les armes conventionnelles.
 - Cela fait depuis les années 60 que des technologies de destruction de satellites sont testés. Et la Russie n'est pas la seule puissance à le faire. Les Etats Unis, la Chine et l'Inde ont aussi démontré leur capacité d'attaquer des satellites en orbite.
 
 
 - Larger pieces are easier to track and avoid but it’s difficult to track pieces smaller than 4 inches (10 centimeters). Even small debris can still pose a major threat though. Space debris is often traveling faster than 17,000 mph around the Earth. At that speed, pieces of debris could destroy any spacecraft or satellite it collided with. In the 1980s, a Soviet satellite broke up as a result of a suspected debris strike.
 
-More worrisome is the danger debris poses to crewed space missions. In July 2021, one of the International Space Station’s robotic arms was struck by a piece of debris that put a 0.2-inch (0.5 cm) hole clean through a part of the arm. While the damage did not need to be fixed, officials characterized it as a lucky strike – if it had struck a different part of the station, the situation could have been a lot worse.
 - Space debris is also a significant threat to people on Earth. Satellites play a vital role in the global economy through GPS, communications and weather data. If services such as these were disrupted, there would be significant economic cost. One study found that a GPS outage could cost the U.S. up to $1 billion a day.
 - 
 
