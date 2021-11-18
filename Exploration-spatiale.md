@@ -6,10 +6,12 @@
 - [Russian anti-satellite missile test endangers space station crew - NASA](https://www.reuters.com/world/us-military-reports-debris-generating-event-outer-space-2021-11-15/) - Reuters (2021)
 - [ARMES ANTI-SATELLITES - Un DANGER pour TOUS ? 4K](https://youtu.be/hm4AOfayPXo) - Hugo Lisoir (2021)
 - [Russian anti-satellite weapon test: What happened and what are the risks?](https://theconversation.com/russian-anti-satellite-weapon-test-what-happened-and-what-are-the-risks-172016) - The Conversation (2021)
+- [Traité de l'espace](https://fr.wikipedia.org/wiki/Trait%C3%A9_de_l%27espace) - Wikipédia
 
 
 ---
 
+- Le traité de l'espace de 1967 interdit la mise sur orbite d'armes nucléaires. Mais il n'interdit pas les armes conventionnelles.
 - On Nov. 15, 2021, U.S. officials announced that they had detected a dangerous new debris field in orbit near Earth. Later in the day, it was confirmed that Russia had destroyed one of its old satellites in a test of an anti-satellite weapon
 - Anti-satellite weapons, commonly referred to as ASATs, are any weapon that can temporarily impair or permanently destroy an orbiting satellite. The one that Russia just tested is known as a direct ascent kinetic anti-satellite weapon. These are usually launched from the ground or from the wings of an airplane and destroy satellites by running into them at high speeds.
 - Space agencies have been developing and testing anti-satellite weapons since the 1960s. To date, the U.S., Russia, China and India have demonstrated the ability to attack satellites in orbit that support services like GPS, communications and weather forecasting.
