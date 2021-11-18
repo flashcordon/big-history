@@ -979,43 +979,8 @@ Pour confirmer leur détection ils ont utilisé les données du télescope spati
 - C'est la première fois qu'on découvre un tel objet avec cette méthode dans un amas globulaire jeune et massif.
 - Cette méthode de détection de trous noirs par vitesse radiales a désormais fait ses preuves, et devrait conduire à la détection de beaucoup d'autres trous noirs à l'avenir, ce qui serait précieux pour révéler les mystères qui planent encore sur ces monstres cosmiques et les amas d'étoiles qui les abritent.
 > Comment ils grandissent, comment ils accumulent de la matière (fusion de trous noirs vs en se nourrissant des étoiles alentours)
-- l'ELT, l'extremely large telescope, au Chili, dont la première lumière est prévue pour 2024, devrait révolutionner la recherche des trous noirs dans des amas d'étoiles, et devrait nous permettre de sonder des amas d'étoiles bien plus distants que ceux qu'on observe à l'heure actuelle.
-
-It is in a binary system with a main-sequence turn-off
-star (4.9 ±0.4 M ), which is starting to fill its Roche Lobe and becoming distorted. Using 17 epochs
-of VLT/MUSE observations we detected radial velocity variations exceeding 300 km/s associated
-to the target star, linked to the ellipsoidal variations measured by OGLE-IV in the optical bands.
-- This represents the first direct dynamical detection of a black
-hole in a young massive cluster, opening up the possibility of studying the initial mass function and
-the early dynamical evolution of such compact objects in high-density environments.
-
--  the recent discovery of a ∼150 M 
-BH (the first secure detection of an intermediate-mass black
-hole, Abbott et al. 2020a,b) as the coalescence product of
-two very massive BHs (60 M  and 85 M , respectively) has
-challenged our understanding of stellar evolution in massive
-stars (Vink et al. 2021), moving the focus to high-density en-
-vironments like massive stellar clusters, where merger cascades are most likely to happen 
-
-- We are currently conducting a systematic search for
-stellar-mass BHs in two young massive stellar clusters in the
-Large Magellanic Cloud by exploiting multi-epoch MUSE
-(Multi Unit Spectroscopic Explorer, Bacon et al. 2010) ob-
-servations taken at the ESO Very Large Telescope, through
-the monitoring of radial velocity variations. This approach
-is highly sensitive to the detection of stellar companions of
-massive objects. Here we present the first outcome of the
-survey: the discovery of the first BH in NGC 1850, a mas-
-sive (M ∼105M , McLaughlin & van der Marel 2005) ∼100
-Myr-old cluster. This is also one of the rare cases where
-the true BH mass can be estimated, as the inclination of
-the binary is well constrained from photometric light curves
-provided by OGLE (Optical Gravitational Lensing Experi-
-ment, Udalski et al. 1992), given an assumed configuration
-for the system.
-
-
- C'est la première fois qu'une telle méthode est employée pour détecter un trou noir hors de notre galaxie
- 
- l'étoile gigote de manière périodique, et ce gigotement caractéristique trahit la présence d'un trou noir proche de l'étoile.
+- l'ELT, l'extremely large telescope, au Chili, dont la première lumière est prévue pour 2024, devrait révolutionner la recherche des trous noirs dans l'environnement dense des amas d'étoiles, et devrait nous permettre de sonder des amas d'étoiles bien plus distants que ceux qu'on observe à l'heure actuelle.
+- Cette découverte est le résultat d'une recherche systématique de trous noirs stellaires réalisée dans deux amas d'étoiles situés dans le grand nuage de Magellan à l'aide de l'instrument MUSE du VLT.
+ - C'est la première fois qu'une telle méthode est employée pour détecter un trou noir hors de notre galaxie
+ - l'étoile gigote de manière périodique, et ce gigotement caractéristique trahit la présence d'un trou noir proche de l'étoile.
 
