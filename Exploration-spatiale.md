@@ -12,33 +12,24 @@
 ---
 
 - Le 15 Novembre dernier, la Russie a détruit un de ses vieux satellites à l'aide d'un missile anti-satellite (qu'on appelle armes anti-satellites à ascension directe (DA-ASAT) dans le milieu)
-> Ce genre de missiles est tiré soit depuis le sol soit depuis un avion de chasse
-> L'impact a généré plus de 1500 débris recensés, et probablement des centaines de milliers de débris plus petits.
-> * On a ordonné aux 7 astronautes à bord de l'ISS (4 américains, un allemand et 2 russes) de se réfugier dans les capsules Dragon pendant 2h pour assurer un retour rapide sur Terre si nécessaire, et de sceller certains modules de la station pendant un moment.
+> * Ce genre de missiles est tiré soit depuis le sol soit depuis un avion de chasse
+> * L'impact a généré plus de 1500 débris recensés, et probablement des centaines de milliers de débris plus petits.
+> * Les débris ont traversé l'orbite de l'ISS à plusieurs reprise (l'ISS fait un tour complet du globe toutes les 90 minutes)
+> * On a ordonné aux 7 astronautes à bord de l'ISS (4 américains, un allemand et 2 russes) de se réfugier dans les capsules Dragon pendant 2h pour assurer un retour rapide sur Terre si nécessaire, et de sceller certains modules de la station pendant un moment. Ils ont pu revenir dans la station après le 3e passage de l'ISS près du nuage de débris.
 - De nos jours on peut traquer la trajectoire d'objets d'une taille de 10 cm minimum. La NASA en recense lus de 27 000. Mais il y a de nombreux débris en dessous de cette taille !
+> Les Etats Unis disposent d'un réseau de surveillance de l'espace qui détecte, recense et traque la trajctoire des objets artificiels qui orbitent la Terre à l'aide d'une trentaine de radars, de télescopes et de satellites à travers le globe. Il est opéré par l'armée américaine, la Navy et la Space Force.
 - Et les petits débris peuvent quand même faire de gros dégats, parce qu'ils se baladent à près de 28 000 km/h et ont donc une énergie cinétique considérable.
 > L'ISS en a fait les frais en Juillet dernier, lorsqu'un minuscule débris a fait un trou d'un demi cm dans l'un des bras robotiques de la station. Et ils ont eu beaucoup de chance à ce moment là, parce que si ce débris avait touché certains points vitaux de la station, elle serait irréparable.
+- L'agence spatiale Russe a publiquement nié le danger qu'a causé le missile, ce qui a généré pas mal de tension du côté des Etats Unis. La Chine, quant à elle, ne s'est pas encore prononcé sur la question, même si sa propre station spatiale actuellement en construction est aussi dans une zone à risque, et est actuellement habitée par 3 astronautes chinois. 
 - Le traité de l'espace de 1967 interdit la mise sur orbite d'armes nucléaires. Mais il n'interdit pas les armes conventionnelles.
 - Cela fait depuis les années 60 que des technologies de destruction de satellites sont testés. Et la Russie n'est pas la seule puissance à le faire. Les Etats Unis, la Chine et l'Inde ont aussi démontré leur capacité d'attaquer des satellites en orbite.
+> * En 2019, l'Inde a abattu un de ses propres satellite situé en orbite basse
+> * En Avril 2021, un autre test de missile anti-satellite a été conduit par la Russie.
 - Ces débris présentent aussi de sérieuses menaces sur l'économie s'ils touchent des satellites de communication ou de GPS
 > Une étude comissionnée par le département du commerce américain a même montré qu'une panne de GPS d'une durée d'un mois pourrait coûter aux Etats Unis jusqu'à 1 milliard de dollars par JOUR.
 - Un consortium de compagnies privées et d'établissements publics a créé à peine quelques jours avant l'incident une charte qui les engage à réduire activement le nombre de déchets spatiaux, la charte Net Zero Space.
 > Elle a été signée à l'occasion du Paris Peace Forum entre le 11 et le 13 Novembre 2021.
-- Les Etats Unis disposent d'un réseau de surveillance de l'espace qui détecte, recense et traque la trajctoire des objets artificiels qui orbitent la Terre à l'aide d'une trentaine de radars, de télescopes et de satellites à travers le globe. Il est opéré par l'armée américaine, la Navy et la Space Force.
 
-The U.S. government and commercial companies are tracking the new debris, and the crew on the International Space Station have been ordered to keep certain modules closed off as they continue to pass through the debris cloud. As the new debris spreads out and the pieces are tracked, station controllers will have a better understanding of the danger posed to the crew.
--  While the world still does not yet have a full understanding of Russia’s actions, this event is a wake-up call on the importance of efforts to reduce pollution in Earth’s orbit.
-- The research lab, orbiting about 250 miles (402 km) above Earth, continued to pass through or near the debris cluster every 90 minutes, but NASA specialists determined it was safe for the crew to return to the station's interior after the third pass, the agency said.
--  A message posted on Twitter by the Russian space agency Roscosmos downplayed the danger.
-
-"The orbit of the object, which forced the crew today to move into spacecraft according to standard procedures, has moved away from the ISS orbit," Roscosmos tweeted. "The station is in the green zone."
-- The direct-ascent anti-satellite missile fired by Russia into one of its own satellites generated more than 1,500 pieces of "trackable orbital debris" and would likely spawn hundreds of thousands of smaller fragments, the U.S. Space Command said in a statement.
-- The debris from the missile test "will continue to pose a threat to activities in outer space for years to come, putting satellites and space missions at risk, as well as forcing more collision avoidance maneuvers
-- "It is unthinkable that Russia would endanger not only the American and international partner astronauts on the ISS, but also their own cosmonauts," Nelson said. He said the cloud of debris also posed a threat to a separate Chinese space station under construction and the three-member crew of "taikonauts" aboard that outpost.
-
-- The space station, spanning the size of an American football field end to end, has been continuously occupied since November 2000, operated by an international partnership of five space agencies from 15 countries, including Russia's Roscosmos.
-- In April Russia carried out another test of an anti-satellite missile as officials have said that space will increasingly become an important domain for warfare.
-- In 2019, India shot down one of its own satellites in low-Earth orbit with a ground-to-space missile.
 
 ## le syndrome de Kessler
 
