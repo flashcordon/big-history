@@ -19,12 +19,9 @@
 > L'ISS en a fait les frais en Juillet dernier, lorsqu'un minuscule débris a fait un trou d'un demi cm dans l'un des bras robotiques de la station. Et ils ont eu beaucoup de chance à ce moment là, parce que si ce débris avait touché certains points vitaux de la station, elle serait irréparable.
 - Le traité de l'espace de 1967 interdit la mise sur orbite d'armes nucléaires. Mais il n'interdit pas les armes conventionnelles.
 - Cela fait depuis les années 60 que des technologies de destruction de satellites sont testés. Et la Russie n'est pas la seule puissance à le faire. Les Etats Unis, la Chine et l'Inde ont aussi démontré leur capacité d'attaquer des satellites en orbite.
+- Ces débris présentent aussi de sérieuses menaces sur l'économie s'ils touchent des satellites de communication ou de GPS
+> Une étude comissionnée par le département du commerce américain a même montré qu'une panne de GPS d'une durée d'un mois pourrait coûter aux Etats Unis jusqu'à 1 milliard de dollars par JOUR.
 
-
-- Larger pieces are easier to track and avoid but it’s difficult to track pieces smaller than 4 inches (10 centimeters). Even small debris can still pose a major threat though. Space debris is often traveling faster than 17,000 mph around the Earth. At that speed, pieces of debris could destroy any spacecraft or satellite it collided with. In the 1980s, a Soviet satellite broke up as a result of a suspected debris strike.
-
-- Space debris is also a significant threat to people on Earth. Satellites play a vital role in the global economy through GPS, communications and weather data. If services such as these were disrupted, there would be significant economic cost. One study found that a GPS outage could cost the U.S. up to $1 billion a day.
-- 
 
 The U.S. government and commercial companies are tracking the new debris, and the crew on the International Space Station have been ordered to keep certain modules closed off as they continue to pass through the debris cloud. As the new debris spreads out and the pieces are tracked, station controllers will have a better understanding of the danger posed to the crew.
 -  Technology to remove debris has not yet been fully developed, but even still, its deployment is a sensitive subject. The same technology that might be used to remove a piece of space junk could also be used for attacking a satellite. This dual-use technology poses challenges, as it can raise suspicions that countries are testing anti-satellite weapons under the cover of debris removal. 
