@@ -44,17 +44,20 @@
 
 - Les débris spatiaux peuvent aussi causer un risque sur le long terme, qu'on appelle communément le syndrome de Kessler, du nom de l'astrophysicien américain Donald Kessler, qui a écrit un article là dessus en 1978.
 > Le terme "syndrome de Kessler" vient d'un collègue de Kessler nommé John Gabbard, qui bossait au NORAD (North American Aerospace Defense Command), à l'occasion d'une interview donnée au magazine Popular Science
-- Contrairement à ce qu'on pourrait penser, le syndrome de Kessler est un processus lent, à l'opposé de ce qu'on peut observer dans le film Gravity par exemple.
+- Contrairement à ce qu'on pourrait penser, le syndrome de Kessler est un processus lent, qui se joue sur des décennies, à l'opposé de ce qu'on peut observer dans le film Gravity par exemple.
 > * Y a pas de risque non plus de développer un anneau de débris stable autour de la Terre, parce que l'atmosphère résiduelle va finir par déstabiliser les orites des débris à un moment ou un autre.
 > * Par contre, les frottements atmosphériques font retomber les fragments à un rythme plus lent que le rythme de création des débris, ce qui fait qu'il y a de plus en plus de débris dans l'espace. Si on ne fait rien pour l'empêcher (en retirant activement la population d'objets intacts par exemple), certaines orbites devraient donc devenir de plus en plus difficiles et risquées d'accès.
 - Dans un article récent, Kessler a même affirmé que nous entrons à présent dans une ère où les futurs débris spatiaux seront de plus en plus créés par des collisions accidentelles
 - La NASA estime à plus de 27 000 les débris de plus de 10 cm, et à plus de 100 millions de plus d'1 mm. Et il y a encore plus de débris de taille micrométrique, comme des éclats de peinture, qui peuvent aussi être dangereux pour les satellites
 > Ce sont les débris de taille milimétrique qui représentent le plus fort taux de risque pour les sondes robotiques qui évoluent en orbite basse terrestre
-
 - Par le passé il y a eu 5 exemples recensés de collisions accidentelles majeures
 > * La première a eu lieu en Décembre 1991, lorsqu'un satellite de navigation russe (Cosmos 1934) a percuté un morceau de débris d'un autre satellite de navigation (Cosmos 926)
 > * La plus importante a eu lieu février 2009, lorsque le satellite militaire russe Kosmos-2251 s’est écrasé sur Iridium 33, un satellite de communication opérationnel. La collision a produit plus de 1800 débris traçables.
 > * La plus récente a eu lieu en Mars 2021 lorsque le satellite chinois Yunhai 1-02, qui était alors en activité, a été endommagé par un débris de fusée russe Zenit-2 qui avait été envoyé en 1996.
+- Au cours des 10 dernières années, la communauté internationale s'est engagée à ne lancer que des objets qui retombent sur Terre après 25 ans maximum après leur durée de vie opérationnelle. Donc soit qui disposent d'un système de propulsion soit d'un mécanisme passif qui permet de les désorbiter facilement.
+> Le problème c'est que la majorité des objets actuellement dans l'espace ne disposent pas de telles technologies. Donc ça ne va pas suffire à empêcher le nombre de débris d'augmenter dans les années à venir
+- Donc il faut réfléchir dès aujourd'hui à des technologies qui retirent activement les satellites obsolètes de l'orbite terrestre (active debris removal).
+
 
 - The term “Kessler Syndrome” is an orbital debris term that has become popular 
 outside  the  professional  orbital  debris  community  without  ever  having  a  strict 
@@ -73,25 +76,6 @@ quickly produce a hazard that exceeds the  hazard from natural meteoroids, and o
 riod of time the growth in small debris would become exponential, even if a zero net input rate in 
 the  catalogue  is  maintained.
 
-- n  general, collisional 
-cascading is a slow process, but very much depends on the population density and size of the ob-
-jects in orbit.  Current population densities would require decades to produce a significant change 
-in the small debris environment, and much longer to approach a condition where the Earth might 
-be  “completely  cut  off  from  space”.  
-
-- in  1976  there  were 
-about 5000 objects in Earth orbit that could have been catalogued, but a large number of them had 
-not yet been tracked and  entered into the catalogue.  Similarly, the 15,000 objects shown in Fig-
-ure 1 to currently be in orbit is incomplete and can be expected to grow in number with time. 
-- Thirty  years  ago,  there  was  little  data  on  the  consequences  of  collisions  between  large  man-
-made orbiting objects.  The existing hypervelocity data were mainly the results of tests conducted 
-to improve spacecraft protection from meteoroids, or to understand the fragmentation of rocks on 
-the lunar surface or in the asteroid belt.  Early models drew from that data.  However, in the past 
-30 years, ground tests have been conducted to understand both the resulting size distribution from 
-collisions  in  orbit,  as  well  as  to  determine  the  threshold  for  catastrophic  breakup.    In  addition, 
-military tests involving an intentional collision in orbit have provided additional data.  The results 
-of these tests  generally  confirmed the  early  models, but also improved them and  offered  new  in-
-sight on both the mass of the fragments and the orbits into which these fragments are ejected. 
 - The final fragment population depends only 
 on the intact population at a particular altitude.  A reduction of the number, sizes, or orbital incli-
 nations  of  the  intact  population  will  result  in  a  reduction  in  the  number  of  fragments  that  would 
@@ -103,22 +87,11 @@ because it would require replacing an infinite number of intact objects after ev
 der to maintain a constant intact population.  Nevertheless, this instability must be taken seriously 
 since it means that there is a practical limit to the number of objects that can be maintained in or-
 bit without increasing the small debris population.  
+
 - There  are  only  two  ways  for  an  intact  object  in  Earth  orbit  to  avoid  an  eventual  catastrophic 
 collision:  Either be removed from  orbit  or get  out of the  way  of an approaching  object  while  in 
-orbit.  Both techniques may be necessary to control the growth in LEO debris.
-- Over the  last decade, the  international community has  slowly adopted the  voluntary policy  of 
-Post  Mission  Disposal  (PMD).    The  PMD  guidelines  require  a  payload  or  upper  stage  to  be  re-
-moved from orbit within 25 years after its operational life.  This can be fairly easily accomplished 
-on a new payload or upper stage by utilizing existing propulsion systems or by installing a device 
-13
-to lower its orbit sufficiently so that it reenters within 25 years.  However, few objects already in 
-orbit have that capability. 
-- Consequently, since the current environment is already above a critical 
-density,  even  100%  compliance  with  these  guidelines  would  not  prevent  the  debris  environment 
-from  increasing.  Therefore, some  Active Debris Removal (ADR) of  objects currently in  orbit  is 
-required  to  control  the  growth  in  LEO  debris.    The  issue  now  becomes  one  of  minimizing  the 
-number of objects required to be removed in order to prevent the environment from exceeding an 
-acceptable level.   
+orbit. 
+  
 - As  with  PMD,  Active  Collision  Avoidance  (ACA)  is  not  a  total  solution  to  controlling  the 
 growth  of future  debris, since  most  of the current population  does  not  have the capability to  ma-
 neuver.    In  addition,  tracking  and  position  prediction  has  not  been  optimized  for  this  purpose.  
