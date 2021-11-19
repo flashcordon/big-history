@@ -11,10 +11,10 @@
 
 ---
 
-- Le 15 Novembre dernier, la Russie a détruit un de ses vieux satellites à l'aide d'un missile anti-satellite (qu'on appelle armes anti-satellites à ascension directe (DA-ASAT) dans le milieu)
+- Le 15 Novembre dernier, la Russie a détruit un de ses vieux satellites (COSMOS 1408) à l'aide d'un missile anti-satellite (qu'on appelle armes anti-satellites à ascension directe (DA-ASAT) dans le milieu)
 > * Ce genre de missiles est tiré soit depuis le sol soit depuis un avion de chasse
-> * L'impact a généré plus de 1500 débris recensés, et probablement des centaines de milliers de débris plus petits.
-> * Les débris ont traversé l'orbite de l'ISS à plusieurs reprise (l'ISS fait un tour complet du globe toutes les 90 minutes)
+> * L'impact a généré plus de 1500 débris recensés, et probablement des centaines de milliers de débris plus petits. Le nuage de débris évolue entre 440 et 520 km d'altitude. Ces débris devraient mettre entre quelques années et quelques décennies avant d'être désorbités par les frottements de l'atmosphère
+> * Les débris ont traversé l'orbite de l'ISS à plusieurs reprise (l'ISS fait un tour complet du globe toutes les 90 minutes et est situé à environ  400 km d'altitude)
 > * On a ordonné aux 7 astronautes à bord de l'ISS (4 américains, un allemand et 2 russes) de se réfugier dans les capsules Dragon pendant 2h pour assurer un retour rapide sur Terre si nécessaire, et de sceller certains modules de la station pendant un moment. Ils ont pu revenir dans la station après le 3e passage de l'ISS près du nuage de débris.
 - De nos jours on peut traquer la trajectoire d'objets d'une taille de 10 cm minimum. La NASA en recense lus de 27 000. Mais il y a de nombreux débris en dessous de cette taille !
 > Les Etats Unis disposent d'un réseau de surveillance de l'espace qui détecte, recense et traque la trajctoire des objets artificiels qui orbitent la Terre à l'aide d'une trentaine de radars, de télescopes et de satellites à travers le globe. Il est opéré par l'armée américaine, la Navy et la Space Force.
@@ -22,9 +22,11 @@
 > L'ISS en a fait les frais en Juillet dernier, lorsqu'un minuscule débris a fait un trou d'un demi cm dans l'un des bras robotiques de la station. Et ils ont eu beaucoup de chance à ce moment là, parce que si ce débris avait touché certains points vitaux de la station, elle serait irréparable.
 - L'agence spatiale Russe a publiquement nié le danger qu'a causé le missile, ce qui a généré pas mal de tension du côté des Etats Unis. La Chine, quant à elle, ne s'est pas encore prononcé sur la question, même si sa propre station spatiale actuellement en construction est aussi dans une zone à risque, et est actuellement habitée par 3 astronautes chinois. 
 - Le traité de l'espace de 1967 interdit la mise sur orbite d'armes nucléaires. Mais il n'interdit pas les armes conventionnelles.
-- Cela fait depuis les années 60 que des technologies de destruction de satellites sont testés. Et la Russie n'est pas la seule puissance à le faire. Les Etats Unis, la Chine et l'Inde ont aussi démontré leur capacité d'attaquer des satellites en orbite.
+- Cela fait depuis la fin des années 50 que des technologies de destruction de satellites sont testés. Et la Russie n'est pas la seule puissance à le faire. Les Etats Unis, la Chine et l'Inde ont aussi démontré leur capacité d'attaquer des satellites en orbite.
+> * En 1985, les Etats Unis ont envoyé un missile depuis un avion pour détruire un observatoire solaire vieillissant nommé Solwind. Ca avait généré plusieurs centaines de débris, et ça a conduit à la première polémique sur les dangers des débris spatiaux.
+> La Chine a emboîté le pas en 2007 et l'Inde en 2019 pour tester leur propre technologie anti-satellite
 > * En 2019, l'Inde a abattu un de ses propres satellite situé en orbite basse
-> * En Avril 2021, un autre test de missile anti-satellite a été conduit par la Russie.
+> * En Avril 2021, un autre test de missile anti-satellite a été conduit par la Russie mais il semble ne pas avoir conduit à une destruction de satellite
 - Ces débris présentent aussi de sérieuses menaces sur l'économie s'ils touchent des satellites de communication ou de GPS
 > Une étude comissionnée par le département du commerce américain a même montré qu'une panne de GPS d'une durée d'un mois pourrait coûter aux Etats Unis jusqu'à 1 milliard de dollars par JOUR.
 - Un consortium de compagnies privées et d'établissements publics a créé à peine quelques jours avant l'incident une charte qui les engage à réduire activement le nombre de déchets spatiaux, la charte Net Zero Space.
@@ -40,6 +42,7 @@
 
 ---
 
+- Les débris spatiaux peuvent aussi causer un risque sur le long terme
 - As of 26 May 2021, according to NASA, there are about 23,000 pieces of debris “larger than a softball” (greater than 10cm) orbiting the Earth, travelling at speeds over 28,000km/h – “fast enough for a relatively small piece of orbital debris to damage a satellite or a spacecraft”.
 - NASA estimates there are half a million pieces of debris the size of a marble or larger (up to one cm), and approximately 100 million pieces of debris about one mm and larger. There is even more micrometre-sized debris.
 - even tiny paint flecks can damage a spacecraft when travelling at these velocities
