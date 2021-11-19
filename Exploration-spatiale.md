@@ -57,6 +57,7 @@
 - Au cours des 10 dernières années, la communauté internationale s'est engagée à ne lancer que des objets qui retombent sur Terre après 25 ans maximum après leur durée de vie opérationnelle. Donc soit qui disposent d'un système de propulsion soit d'un mécanisme passif qui permet de les désorbiter facilement.
 > Le problème c'est que la majorité des objets actuellement dans l'espace ne disposent pas de telles technologies. Donc ça ne va pas suffire à empêcher le nombre de débris d'augmenter dans les années à venir
 - Donc il faut réfléchir dès aujourd'hui à des technologies qui retirent activement les satellites obsolètes de l'orbite terrestre (active debris removal).
+> EN 2018, le satellite RemoveDebris de l'Agence Spatiale européenne a été lancé à 300 km d'altitude et a démontré qu'il était capable de capturer des débris à l'aide d'un énorme filet. On a donc un démonstrateur technologique fonctionnel, dont les successeurs pourraient nous aider à nettoyer l'orbite basse dans les années à venir.
 
 - The term “Kessler Syndrome” is an orbital debris term that has become popular 
 outside  the  professional  orbital  debris  community  without  ever  having  a  strict 
@@ -74,28 +75,7 @@ fragments  from  random  collisions  between  cataloged  objects.    This  new  
 quickly produce a hazard that exceeds the  hazard from natural meteoroids, and over a longer pe-
 riod of time the growth in small debris would become exponential, even if a zero net input rate in 
 the  catalogue  is  maintained.
-  
-- As  with  PMD,  Active  Collision  Avoidance  (ACA)  is  not  a  total  solution  to  controlling  the 
-growth  of future  debris, since  most  of the current population  does  not  have the capability to  ma-
-neuver.    In  addition,  tracking  and  position  prediction  has  not  been  optimized  for  this  purpose.  
-However,  if  given  sufficient  resources,  it  could  be  a  partial  solution  for  future  operational  pay-
-loads.  To become a realistic option, prediction accuracy  must be  improved  in  order to  minimize 
-the  number  of  false  maneuvers  and  gain  the  confidence  of  the  payload  operators.    Just as  debris 
-removal concentrates on the more probable future debris sources, ACA could also concentrate on 
-the more probable sources, reducing the burden of both PMD and ADR.
-- There is little doubt that the result of the so-called “Kessler Syndrome” is a significant source 
-of future debris, as predicted over 30 years ago.  Although new operational procedures have been 
-developed  over  this  period  that  have  slowed  the  growth  in  orbital  debris,  these  procedures  have 
-not been adequate to prevent growth in the debris population from random collisions.  In order to 
-prevent  this  growth,  we  are  at a  point  where  we  must  obtain  near  100%  compliance  with  guide-
-lines established over 10 years ago and, in addition, we must retrieve a number of objects that are 
-already  in  orbit.  Fortunately,  by  selectively  retrieving  the  most  likely  future  debris  sources,  the 
-rate of retrieval  may be  manageable, as long as at least 90% of future launches adhere to current 
-debris  mitigation  guidelines....a  percentage  that  has  not  been  met  in  the  past.    A  more  focused 
-collision avoidance capability may help, but without adherence to current guidelines and an active 
-debris removal program, future spacecraft operators will face an increasing orbital debris popula-
-tion that will increasingly limit spacecraft lifetimes. 
-- In 2018 a British satellite was launched 300 km above the Earth and successfully demonstrated its plan to capture debris. RemoveDebris, a project lead by the University of Surrey and assisted by other organisations including Airbus, captured a shoebox-sized object by smothering it in a huge net.
+ 
 
 # Configuration de l'ISS
 
