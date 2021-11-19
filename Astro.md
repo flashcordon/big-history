@@ -961,35 +961,28 @@ Burcher
 - On dispose désormais d'une nouvelle technique pour détecter des trous noirs, et cette technique a fait ses preuves très récemment.
 - Dans une étude publiée le 11 Novembre dernier dans la revue "Monthly Notices of the Royal Astronomical Society", une équipe internationale d'astronomes a annoncé la première détection directe d'un trou noir (NGC 1850 BH1) situé dans un amas d'étoiles hors de notre galaxie.
 - Ce trou noir se trouve dans un amas (ouvert) d'étoile nommé NGC 1850 situé à 160 000 années-lumière d'ici, dans le grand nuage de Magellan, une galaxie naine de notre voisinage galactique.
-> Il s'agit d'un amas d'étoile contenant des milliers d'étoiles et contient essentiellement de jeunes étoiles qui ont moins de 100 millions d'années 
-- Le trou noir fait environ 11 fois la masse du Soleil, et il fait partie d'un système binaire, c'est à dire qu'il autour d'un centre de gravité commun
-> Cette étoile fait environ 5 fois la masse du Soleil et commence à être distordue (par quoi ?)
-> Les astrophysiciens estiment le demi grand-axe de l'orbite, qui est quasi circulaire, donc on pourrait dire le rayon, à 31,2 rayons solaires, qu'on peut même exprimer en kilomètres : 21,726 millions de kilomètres., ou si on préfère 6,9 fois moins que la distance Terre-Soleil, ou encore, 2 fois moins que la distance Soleil-Mercure!  L'étoile compagne est si proche du trou noir qu'elle commence à remplir son lobe de Roche et à se déformer sous l'action de la gravitation.
-- Pour détecter ce trou noir, les astronomes ont utilisé l'instrument MUSE (Multi Unit Spectroscopic Explorer), situé sur le Very Large Telescope au Chili (dans le désert d'Atacama)
-> Cet instrument est un spectrographe à intégrale de champ. Chaque pixel du détecteur, on peut décomposer la lumière 
-> Les chercheurs ont utilisé l'instrument Muse (Multi Unit Spectroscopic Explorer) du Very Large Telescope de l'ESO au Chili pour analyser les spectres de milliers d'étoiles de l'amas en même temps.
+> Il s'agit d'un amas contenant des milliers d'étoiles essentiellement jeunes puisque la plupart d'entre elles ont moins de 100 millions d'années 
+- Pour détecter ce trou noir, les astronomes ont eu recours à une méthode qui est d'ordinaire utilisée pour détecter des exoplanètes : la méthode des vitesses radiales.
+> * En gros, lorsque vous avez deux astres qui sont gravitationnellement liés, qui sont en couple donc (on appelle ça un système binaire), la lumière qui nous parvient de ces astres peut être décalée vers le bleu ou le rouge selon qu'elle s'éloigne ou qu'elle se rapproche de l'observateur. Quand on observe un système binaire, on s'atttend donc à voir des oscillations périodiques de la lumière des astres en couple
+- Dans le cas qui nous intéresse, les astronomes ont observé l'amas d'étoiles avec l'instrument MUSE du Very Large Telescope au Chili, et ils ont observé une étoile qui présentait ces oscillations caractéristiques. Sauf qu'elle était dans un système binaire avec un compagnon invisible. Et bien ce compagnon invisible, c'est un trou noir
+- Par définition, un trou noir n'émet pas de lumière.
 - Jusqu'à présent on avait essentiellement 3 méthodes pour détecter des trous noirs
 > * L'émission des ondes gravitationnelles, c'est à dire les tremblements d'espace-temps qu'ils émettent lorsque deux trous noirs fusionnent. Depuis 2015, LIGO en a détecté une cinquantaine (combien exactement ?)
 > * la détection des rayonnements ultraénergétiques (rayons X et gamma) qu'ils émettent lorsqu'ils sont entouré d'un disque de matière chauffé à des millions de degrés
 > * l'analyse de la trajectoire des étoiles qui orbitent autour de lui
-- Eh bien maintenant on a une nouvelle méthode, la méthode des vitesses radiales, qui sert aussi à détecter des exoplanètes
-> c'est un avatar de la méthode des vitesses radiales utilisée pour découvrir des exoplanètes. Sauf qu'ici c'est un trou noir qui est responsable des oscillations du mouvement de l'étoile hôte, oscillations qui se manifestent sous la forme d'un décalage Doppler périodique. examinant comment il influence le mouvement d'une étoile à proximité immédiate.
+- Eh bien maintenant on a une nouvelle méthode, la méthode des vitesses radiales, qui va nous permettre de détecter plein de nouveaux trous noirs à partir des mouvements orbitaux qu'elles génèrent sur leur étoile compagnon lorsque celle-ci est très rapprochée.
+> * Cette étoile fait environ 5 fois la masse du Soleil et elle est 2 fois plus proche du trou noir que la distance Soleil Mercure. Elle commence même à être distordue par les forces gravitationnelles du trou noir. On pense qu'elle devrait finir à terme par se faire vampiriser les couches de gaz externes par le trou noir. 
+- Pour détecter ce trou noir, les astronomes ont utilisé l'instrument MUSE (Multi Unit Spectroscopic Explorer), situé sur le Very Large Telescope au Chili (dans le désert d'Atacama)
+> * Cet instrument est un spectrographe à intégrale de champ. C'est un instrument qui réalise non seulement une image très détaillée d'une collection d'étoiles, mais chaque pixel du détecteur peut aussi décomposer la lumière qu'elle reçoit en ses couleurs élémentaires, donner son spectre donc. Et on peut ainsi mesurer très finement le décalage vers le bleu ou le rouge des astres que l'on observe.
+> * Les chercheurs ont utilisé l'instrument Muse (Multi Unit Spectroscopic Explorer) du Very Large Telescope de l'ESO au Chili pour analyser les spectres de milliers d'étoiles de l'amas en même temps
 - On a déjà détecté de nombreux trous noirs qui font partie de systèmes binaires
 - On a aussi déjà détecté des trous noirs dans de vieux amas globulaires, dans notre galaxie
 > Il y a une centaine d'amas globulaires recensés dans la Voie Lacée
-- Dans un amas d'étoiles, les étoiles en système binaire sont très rapprochés (sinon leur union ne survit pas à cause de la gravité des étoiles environnants)
-- Mais du coup les systèmes binaires sont si compacts qu'on ne peut pas résoudre les astres individuels qui composent ces systèmes avec les instruments actuels
-- Du coup pour détecter ce trou noir les astronomes ont eu recours à une méhode un peu particulière : les vitesses radiales
-> Cette méthode consiste à . on eut ainsi deviner la présence d'un trou noir par les mouvements orbitaux de son étoile compagnon
-> Les deux astres mettent environ 5 jours à compléter une orbite
-Pour confirmer leur détection ils ont utilisé les données du télescope spatial Chandra, qui observe l'univers dans le domaine des rayons X, et ils ont effectivement observé une faible émission de rayons X à l'endroit où devrait se trouver le trou noir, ce qui augmente encore le degré de confiance dans cette détection.
-- Les astronomes ont utilisé les données de l'expérience OGLE (Optical Gravitational Lensing Experiment) et du télescope spatial Hubble pour mesurer la masse du trou noir (11 masses solaires)
->  ont d'abord repéré une étoile de 5 masses solaires dont le mouvement particulier semblait signaler la présence du trou noir stellaire. Cela a été confirmé par la combinaison des données de l'Optical Gravitational Lensing Experiment de l'université de Varsovie et du télescope spatial Hubble, combinaison qui a livré pour l'objet non lumineux responsable du mouvement de l'étoile une estimation de sa masse qui est de l'ordre de 11 masses solaires. 
-- C'est la première fois qu'on découvre un tel objet avec cette méthode dans un amas globulaire jeune et massif.
+- Pour confirmer leur détection, les astronomes ont utilisé les données du télescope spatial Chandra, qui observe l'univers dans le domaine des rayons X, et ils ont effectivement observé une faible émission de rayons X à l'endroit où devrait se trouver le trou noir, ce qui augmente encore le degré de confiance dans leur résultat.
+- Les astronomes ont même pu mesurer la masse du trou noir à partir des données du télescope spatial Hubble et d'une expérience appelée OGLE (Optical Gravitational Lensing Experiment) 
+> Celui-ci fait environ 11 fois la masse du Soleil
+- C'est la première fois qu'on découvre un tel objet avec cette méthode dans un jeune amas d'étoiles massif.
 - Cette méthode de détection de trous noirs par vitesse radiales a désormais fait ses preuves, et devrait conduire à la détection de beaucoup d'autres trous noirs à l'avenir, ce qui serait précieux pour révéler les mystères qui planent encore sur ces monstres cosmiques et les amas d'étoiles qui les abritent.
-> Comment ils grandissent, comment ils accumulent de la matière (fusion de trous noirs vs en se nourrissant des étoiles alentours)
+> Quelle est la distribution de masse des trous noirs à leur naissance, comment ils grandissent, comment ils accumulent de la matière (fusion de trous noirs vs en se nourrissant des étoiles alentours)
 - l'ELT, l'extremely large telescope, au Chili, dont la première lumière est prévue pour 2024, devrait révolutionner la recherche des trous noirs dans l'environnement dense des amas d'étoiles, et devrait nous permettre de sonder des amas d'étoiles bien plus distants que ceux qu'on observe à l'heure actuelle.
-- Cette découverte est le résultat d'une recherche systématique de trous noirs stellaires réalisée dans deux amas d'étoiles situés dans le grand nuage de Magellan à l'aide de l'instrument MUSE du VLT.
- - C'est la première fois qu'une telle méthode est employée pour détecter un trou noir hors de notre galaxie
- - l'étoile gigote de manière périodique, et ce gigotement caractéristique trahit la présence d'un trou noir proche de l'étoile.
 
