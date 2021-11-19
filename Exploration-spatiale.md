@@ -45,13 +45,12 @@
 - Les débris spatiaux peuvent aussi causer un risque sur le long terme, qu'on appelle communément le syndrome de Kessler, du nom de l'astrophysicien américain Donald Kessler, qui a écrit un article là dessus en 1978.
 > Le terme "syndrome de Kessler" vient d'un collègue de Kessler nommé John Gabbard, qui bossait au NORAD (North American Aerospace Defense Command), à l'occasion d'une interview donnée au magazine Popular Science
 - La NASA estime à plus de 27 000 les débris de plus de 10 cm, et à plus de 100 millions de plus d'1 mm. Et il y a encore plus de débris de taille micrométrique, comme des éclats de peinture, qui peuvent aussi être dangereux pour les satellites
-- A number of space shuttle windows were replaced because of damage caused by material that was analysed and shown to be paint flecks. In fact, millimetre-sized orbital debris represents the highest mission-ending risk to most robotic spacecraft operating in low-Earth orbit
+> Ce sont les débris de taille milimétrique qui représentent le plus fort taux de risque pour les sondes robotiques qui évoluent en orbite basse terrestre
 
-- Par le passé il y a eu quelques exemples de collisions accidentelles majeures
-> * La première a eu lieu février 2009, lorsque le satellite militaire russe Kosmos-2251 s’est écrasé sur Iridium 33, un satellite de communication opérationnel. La collision a produit plus de 1800 débris traçables.
+- Par le passé il y a eu 5 exemples recensés de collisions accidentelles majeures
+> * La première a eu lieu en Décembre 1991, lorsqu'un satellite de navigation russe (Cosmos 1934) a percuté un morceau de débris d'un autre satellite de navigation (Cosmos 926)
+> * La plus importante a eu lieu février 2009, lorsque le satellite militaire russe Kosmos-2251 s’est écrasé sur Iridium 33, un satellite de communication opérationnel. La collision a produit plus de 1800 débris traçables.
 > * La plus récente a eu lieu en Mars 2021 lorsque le satellite chinois Yunhai 1-02, qui était alors en activité, a été endommagé par un débris de fusée russe Zenit-2 qui avait été envoyé en 1996.
-
-In 1996, NASA reported that a French satellite was hit and damaged by debris from a French rocket that had exploded a decade earlier. And on 10 February 2009, a defunct Russian satellite collided with and destroyed a functioning US communications satellite.
 
 - The term “Kessler Syndrome” is an orbital debris term that has become popular 
 outside  the  professional  orbital  debris  community  without  ever  having  a  strict 
@@ -95,16 +94,6 @@ sion  fragments  that  will  not  stop  until  the  intact  population  is  redu
 about 5000 objects in Earth orbit that could have been catalogued, but a large number of them had 
 not yet been tracked and  entered into the catalogue.  Similarly, the 15,000 objects shown in Fig-
 ure 1 to currently be in orbit is incomplete and can be expected to grow in number with time. 
-- To-date, there have 
-been four known accidental hypervelocity collisions between catalogued objects
-23 Dec 1991 Cosmos 1934 
-Debris from Cosmos 926 980 km 2 
-24 July 1996 Cerise spacecraft 
-1986 Ariane explosion fragment 685 km 1 
-17 Jan 2005 Thor-Burner 2A rocket 
-2000 Chinese explosion fragment 885 km 4 
-10 Feb 2009 Iridium 33 
-Cosmos 2251 790 km >1500
 - Thirty  years  ago,  there  was  little  data  on  the  consequences  of  collisions  between  large  man-
 made orbiting objects.  The existing hypervelocity data were mainly the results of tests conducted 
 to improve spacecraft protection from meteoroids, or to understand the fragmentation of rocks on 
