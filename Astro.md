@@ -954,10 +954,12 @@ Burcher
 - [Black hole found hiding in star cluster outside our galaxy](https://www.sciencedaily.com/releases/2021/11/211111080358.htm) - ESO (2021)
 - [Une méthode de détection des exoplanètes marche aussi pour les trous noirs extragalactiques](https://www.futura-sciences.com/sciences/actualites/trou-noir-methode-detection-exoplanetes-marche-aussi-trous-noirs-extragalactiques-86108/) - Futura Sciences (2021)
 - [Découverte d'un trou noir stellaire dans un jeune amas d'étoiles du Grand Nuage de Magellan](https://www.ca-se-passe-la-haut.fr/2021/11/decouverte-dun-trou-noir-stellaire-dans.html) - Ca se passe là haut (2021)
+- [https://www.franceculture.fr/emissions/le-journal-des-sciences/le-journal-des-sciences-du-jeudi-11-novembre-2021) - Le journal des sciences (2021)
 
 ---
 
-- Des astronomes ont annoncé la première détection directe de l'histoire d'un trou noir (NGC 1850 BH1) situé dans un amas d'étoiles jeune et massif hors de notre galaxie.
+- On dispose d'une nouvelle technique pour détecter des trous noirs, et cette technique a fait ses preuves
+- Dans une étude publiée le 11 Novembre dans la revue "Monthly Notices of the Royal Astronomical Society", une équipe internationale d'astronomes a annoncé la première détection directe de l'histoire d'un trou noir (NGC 1850 BH1) situé dans un amas d'étoiles jeune et massif hors de notre galaxie.
 - Cet amas ouvert d'étoile nommé NGC 1850 est situé à 160 000 années-lumière d'ici, dans le grand nuage de Magellan, une galaxie naine de notre voisinage galactique.
 > Il s'agit d'un amas d'étoile contenant des milliers d'étoiles et relativement jeune puisqu'il existe depuis moins de 100 millions d'années (comment on sait ça ?) 
 > Contrairement aux amas globulaires, comme Messier 9, qui sont âgés de plus de dix milliards d'années, ces amas contiennent de jeunes étoiles, de 100 à 1.000 environ. Elles sont nées dans de gigantesques nuages moléculaires situés dans le disque de notre Voie lactée. Mais, comme beaucoup de ces étoiles jeunes sont faiblement liées gravitationnellement, elles se dispersent rapidement, de sorte que la moitié des amas ont un âge inférieur à 200 millions d'années. Certains mettent plus de temps à se dissiper et on estime que moins de 1 % d'entre eux survivent pendant deux milliards d'années.
@@ -965,7 +967,7 @@ Burcher
 > Cette étoile fait environ 5 fois la masse du Soleil et commence à être distordue (par quoi ?)
 > Les astrophysiciens estiment le demi grand-axe de l'orbite, qui est quasi circulaire, donc on pourrait dire le rayon, à 31,2 rayons solaires, qu'on peut même exprimer en kilomètres : 21,726 millions de kilomètres., ou si on préfère 6,9 fois moins que la distance Terre-Soleil, ou encore, 2 fois moins que la distance Soleil-Mercure!  L'étoile compagne est si proche du trou noir qu'elle commence à remplir son lobe de Roche et à se déformer sous l'action de la gravitation.
 - Pour détecter ce trou noir, les astronomes ont utilisé l'instrument MUSE (Multi Unit Spectroscopic Explorer), situé sur le Very Large Telescope au Chili (dans le désert d'Atacama)
-> Cet instrument est un X
+> Cet instrument est un spectrographe à intégrale de champ. Chaque pixel du détecteur, on peut décomposer la lumière 
 > Les chercheurs ont utilisé l'instrument Muse (Multi Unit Spectroscopic Explorer) du Very Large Telescope de l'ESO au Chili pour analyser les spectres de milliers d'étoiles de l'amas en même temps.
 - Jusqu'à présent on avait essentiellement 3 méthodes pour détecter des trous noirs
 > * L'émission des ondes gravitationnelles, c'est à dire les tremblements d'espace-temps qu'ils émettent lorsque deux trous noirs fusionnent. Depuis 2015, LIGO en a détecté une cinquantaine (combien exactement ?)
