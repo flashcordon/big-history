@@ -39,11 +39,13 @@
 - [THE KESSLER SYNDROME:  IMPLICATIONS TO FUTURE SPACE OPERATIONS](https://aquarid.physics.uwo.ca/kessler/Kessler%20Syndrome-AAS%20Paper.pdf) - Kessler et al (2016)
 - [The Kessler syndrome](https://cosmosmagazine.com/space/astronomy/donald-kessler-predicts-space-junk/) Cosmos Magazine (2021)
 - [The Kessler syndrome](https://spacecentre.co.uk/blog-post/the-kessler-syndrome/) - National Space Center
+- [Le syndrome de Kessler](https://www.futura-sciences.com/sciences/definitions/debris-spatiaux-syndrome-kessler-16593/) - Futura Science
 
 ---
 
 - Les débris spatiaux peuvent aussi causer un risque sur le long terme, qu'on appelle communément le syndrome de Kessler, du nom de l'astrophysicien américain Donald Kessler, qui a écrit un article là dessus en 1978.
 > Le terme "syndrome de Kessler" vient d'un collègue de Kessler nommé John Gabbard, qui bossait au NORAD (North American Aerospace Defense Command), à l'occasion d'une interview donnée au magazine Popular Science
+-  C'est un scénario théorique qui prédit que les collisions des débris entre eux auto-entretient la population de débris à un rythme plus élevé que celui de leur élimination naturelle. En gros, même si demain on arrêtait d'envoyer quoi que ce soit dans l'espace, le nombre de débris continuerait à augmenter de façon exponentielle, ce qui rendrait certaines orbites impraticables à long terme.
 - Contrairement à ce qu'on pourrait penser, le syndrome de Kessler est un processus lent, qui se joue sur des décennies, à l'opposé de ce qu'on peut observer dans le film Gravity par exemple.
 > * Y a pas de risque non plus de développer un anneau de débris stable autour de la Terre, parce que l'atmosphère résiduelle va finir par déstabiliser les orites des débris à un moment ou un autre.
 > * Par contre, les frottements atmosphériques font retomber les fragments à un rythme plus lent que le rythme de création des débris, ce qui fait qu'il y a de plus en plus de débris dans l'espace. Si on ne fait rien pour l'empêcher (en retirant activement la population d'objets intacts par exemple), certaines orbites devraient donc devenir de plus en plus difficiles et risquées d'accès.
@@ -58,25 +60,7 @@
 > Le problème c'est que la majorité des objets actuellement dans l'espace ne disposent pas de telles technologies. Donc ça ne va pas suffire à empêcher le nombre de débris d'augmenter dans les années à venir
 - Donc il faut réfléchir dès aujourd'hui à des technologies qui retirent activement les satellites obsolètes de l'orbite terrestre (active debris removal).
 > EN 2018, le satellite RemoveDebris de l'Agence Spatiale européenne a été lancé à 300 km d'altitude et a démontré qu'il était capable de capturer des débris à l'aide d'un énorme filet. On a donc un démonstrateur technologique fonctionnel, dont les successeurs pourraient nous aider à nettoyer l'orbite basse dans les années à venir.
-
-- The term “Kessler Syndrome” is an orbital debris term that has become popular 
-outside  the  professional  orbital  debris  community  without  ever  having  a  strict 
-definition. The intended definition grew out of a 1978 JGR paper predicting that 
-fragments from random collisions between catalogued objects in low Earth orbit 
-would  become  an  important  source  of  small  debris  beginning  in about  the  year 
-2000,  and  that  afterwards,  “...the  debris  flux  will  increase  exponentially  with 
-time, even though a zero net input may be maintained”.  
-
-- In 1978, Kessler and Cour-Palais 
-published  the  paper  Collision  Frequency  of  Artificial  Satellites:  The  Creation  of  a  Debris  Belt.1  
-The  paper  concluded  that  if  the  past  growth  rate  in  the  catalogued  population  continued,  around 
-the  year  2000  a  more  hazardous  population  of  small  debris  would  be  generated  as  a  result  of 
-fragments  from  random  collisions  between  cataloged  objects.    This  new  source  of  debris  would 
-quickly produce a hazard that exceeds the  hazard from natural meteoroids, and over a longer pe-
-riod of time the growth in small debris would become exponential, even if a zero net input rate in 
-the  catalogue  is  maintained.
  
-
 # Configuration de l'ISS
 
 *(Source : [NASA / Wikipedia](https://en.wikipedia.org/wiki/International_Space_Station#/media/File:ISS_configuration_2019-08_en.svg))*
