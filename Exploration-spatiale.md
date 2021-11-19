@@ -44,6 +44,7 @@
 
 - Les débris spatiaux peuvent aussi causer un risque sur le long terme, qu'on appelle communément le syndrome de Kessler, du nom de l'astrophysicien américain Donald Kessler, qui a écrit un article là dessus en 1978.
 > Le terme "syndrome de Kessler" vient d'un collègue de Kessler nommé John Gabbard, qui bossait au NORAD (North American Aerospace Defense Command), à l'occasion d'une interview donnée au magazine Popular Science
+- Dans un article récent, Kessler a même affirmé que nous entrons à présent dans une ère où les futurs débris spatiaux seront de plus en plus créés par des collisions accidentelles
 - La NASA estime à plus de 27 000 les débris de plus de 10 cm, et à plus de 100 millions de plus d'1 mm. Et il y a encore plus de débris de taille micrométrique, comme des éclats de peinture, qui peuvent aussi être dangereux pour les satellites
 > Ce sont les débris de taille milimétrique qui représentent le plus fort taux de risque pour les sondes robotiques qui évoluent en orbite basse terrestre
 
@@ -59,14 +60,7 @@ fragments from random collisions between catalogued objects in low Earth orbit
 would  become  an  important  source  of  small  debris  beginning  in about  the  year 
 2000,  and  that  afterwards,  “...the  debris  flux  will  increase  exponentially  with 
 time, even though a zero net input may be maintained”.  
-- while popular use of the term may have  exaggerated 
-and distorted the conclusions of the 1978 paper, the result of all research to date 
-confirms  that  we  are  now  entering  a  time  when  the  orbital  debris  environment 
-will increasingly be controlled by random collisions. Without adequate collision 
-avoidance  capabilities,  control  of  the  future  environment requires  that  we  fully 
-implement  current  mitigation  guidelines  by  not  leaving  future  payloads  and 
-rocket  bodies  in  orbit  after  their  useful  life.    In  addition,  we  will  likely  be  re-
-quired to return some objects already in orbit.
+
 - In 1978, Kessler and Cour-Palais 
 published  the  paper  Collision  Frequency  of  Artificial  Satellites:  The  Creation  of  a  Debris  Belt.1  
 The  paper  concluded  that  if  the  past  growth  rate  in  the  catalogued  population  continued,  around 
@@ -151,7 +145,6 @@ collision avoidance capability may help, but without adherence to current guidel
 debris removal program, future spacecraft operators will face an increasing orbital debris popula-
 tion that will increasingly limit spacecraft lifetimes. 
 - In 2018 a British satellite was launched 300 km above the Earth and successfully demonstrated its plan to capture debris. RemoveDebris, a project lead by the University of Surrey and assisted by other organisations including Airbus, captured a shoebox-sized object by smothering it in a huge net.
-- 
 
 # Configuration de l'ISS
 
