@@ -43,15 +43,16 @@
 ---
 
 - Les débris spatiaux peuvent aussi causer un risque sur le long terme
-- As of 26 May 2021, according to NASA, there are about 23,000 pieces of debris “larger than a softball” (greater than 10cm) orbiting the Earth, travelling at speeds over 28,000km/h – “fast enough for a relatively small piece of orbital debris to damage a satellite or a spacecraft”.
-- NASA estimates there are half a million pieces of debris the size of a marble or larger (up to one cm), and approximately 100 million pieces of debris about one mm and larger. There is even more micrometre-sized debris.
-- even tiny paint flecks can damage a spacecraft when travelling at these velocities
+- Ce risque a été 
+- La NASA estime à plus de 27 000 les débris de plus de 10 cm, et à plus de 100 millions de plus d'1 mm. Et il y a encore plus de débris de taille micrométrique, comme des éclats de peinture, qui peuvent aussi être dangereux pour les satellites
 - A number of space shuttle windows were replaced because of damage caused by material that was analysed and shown to be paint flecks. In fact, millimetre-sized orbital debris represents the highest mission-ending risk to most robotic spacecraft operating in low-Earth orbit
-- 
+
+- Par le passé il y a eu quelques exemples de collisions accidentelles majeures
+> * La première a eu lieu février 2009, lorsque le satellite militaire russe Kosmos-2251 s’est écrasé sur Iridium 33, un satellite de communication opérationnel. La collision a produit plus de 1800 débris traçables.
+> * La plus récente a eu lieu en Mars 2021 lorsque le satellite chinois Yunhai 1-02, qui était alors en activité, a été endommagé par un débris de fusée russe Zenit-2 qui avait été envoyé en 1996.
 
 In 1996, NASA reported that a French satellite was hit and damaged by debris from a French rocket that had exploded a decade earlier. And on 10 February 2009, a defunct Russian satellite collided with and destroyed a functioning US communications satellite.
 
-The BBC recently reported an incident that occurred in March 2021 in which a Chinese military satellite, the Yunhai 1-02, launched in September 2019, was crippled after colliding with “a small piece of space junk – probably a piece of debris between 10-50cm wide – from the Zenit-2 rocket that launched the Russian spy satellite Tselina-2 in September 1996”
 - The term “Kessler Syndrome” is an orbital debris term that has become popular 
 outside  the  professional  orbital  debris  community  without  ever  having  a  strict 
 definition. The intended definition grew out of a 1978 JGR paper predicting that 
