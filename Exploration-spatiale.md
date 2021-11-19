@@ -42,8 +42,8 @@
 
 ---
 
-- Les débris spatiaux peuvent aussi causer un risque sur le long terme
-- Ce risque a été 
+- Les débris spatiaux peuvent aussi causer un risque sur le long terme, qu'on appelle communément le syndrome de Kessler, du nom de l'astrophysicien américain Donald Kessler, qui a écrit un article là dessus en 1978.
+> Le terme "syndrome de Kessler" vient d'un collègue de Kessler nommé John Gabbard, qui bossait au NORAD (North American Aerospace Defense Command), à l'occasion d'une interview donnée au magazine Popular Science
 - La NASA estime à plus de 27 000 les débris de plus de 10 cm, et à plus de 100 millions de plus d'1 mm. Et il y a encore plus de débris de taille micrométrique, comme des éclats de peinture, qui peuvent aussi être dangereux pour les satellites
 - A number of space shuttle windows were replaced because of damage caused by material that was analysed and shown to be paint flecks. In fact, millimetre-sized orbital debris represents the highest mission-ending risk to most robotic spacecraft operating in low-Earth orbit
 
@@ -60,9 +60,6 @@ fragments from random collisions between catalogued objects in low Earth orbit
 would  become  an  important  source  of  small  debris  beginning  in about  the  year 
 2000,  and  that  afterwards,  “...the  debris  flux  will  increase  exponentially  with 
 time, even though a zero net input may be maintained”.  
-- Donald Kessler en 1978 astrophysicien américain
--  the term originated with a colleague, John Gabbard, who worked for North American Aerospace Defense Command (NORAD)
--  Gabbard may have come up with the name in an interview with Popular Science magazine
 - while popular use of the term may have  exaggerated 
 and distorted the conclusions of the 1978 paper, the result of all research to date 
 confirms  that  we  are  now  entering  a  time  when  the  orbital  debris  environment 
