@@ -20,16 +20,14 @@
 > *  Mais ça peut se transformer en risque majeur à court terme en cas d'éruption solaire par exemple.
 - ***La gravité*** : nous avons évolué sous la gravité terrestre. C'est une force contre laquelle doivent résister nos muscles et nos os en permanence. Mais si on reste suffisamment longtemps en micropesanteur, le corps humain peut se modifier assez drastiquement.
 > * ***mal de l'espace*** : On appelle ça le "mal de l'espace".
-> * ***perte de densité osseuse*** : les os perdent environ 1 à 2% de leur densité minérale par mois passé en micropesanteur (parce que leurs pieds ne touchent plus le sol plusieurs milliers de fois par jour). Lors du retour sur Terre, cette perte peut ne pas être compensée intégralement.
+> * ***perte de densité osseuse*** : les os perdent environ 1 à 2% de leur densité minérale par mois passé en micropesanteur (parce que leurs pieds ne touchent plus le sol plusieurs milliers de fois par jour). Faire de l'exercice n'y change pas grand chose. Lors du retour sur Terre, cette perte s'arrête mais on ne sait pas encore si la densité osseuse peut se régénérer complètement après coup. Des expériences à bord de l'ISS (lesquelles ?) tentent de comprendre ce phénomène, ce qui pourrait accessoirement nous permettre de mieux traiter l'ostéoporose chez les personnes agées sur Terre.
+> * ***calculs rénaux*** : 
 > * ***rétrécissement du coeur*** : le coeur rétrécit dans l'espace, puisqu'il a moins d'effort à faire pour pomper le sang jusqu'aux parties hautes du corps. Après 340 jours dans l'ISS, l'astronaute Scott Kelly avait un coeur 27% plus petit qu'avant sa mission.
 - ***La distance*** :
 
 without the compressive force of gravity, your spinal column expands and you grow taller, usually by between 5 and 8 cm. Unfortunately, the extra height can bring complications, which may include backache and nerve problems. More worrying than height gain, though, is the loss of bone and muscle tissue that becomes apparent from the first few days of a space mission.
 A side-effect of added height, besides shorter pants, is back aches, which scientists believe are caused by the relaxation of back muscles and ligaments. 
 Bone is a living, dynamic tissue. In normal life, new bone cells are constantly being made while worn bone is destroyed and its materials recycled. Bone regeneration is governed by a complex system, regulated by hormones and vitamins as well as physical stress on various parts of the skeleton. In microgravity, the body has no need to maintain its skeletal structure to Earth-bound standards. So bone tissue is absorbed and not replaced: The missing bone shows up as high calcium levels elsewhere in the body, which itself can lead to health problems - kidney stones, for example.
-
-Microgravity bone loss stops soon after astronauts return to Earth, but so far, no one is sure whether the lost bone fully regenerates. The life science experiments planned for the ISS should help scientists learn much more precisely how bone loss comes about, and perhaps how to cure it. Since the problem is very similar to osteoporosis, a bone-wasting disease especially common among elderly women on Earth, astronauts will not be the only people to benefit from the research.
-Exercise seems to have little effect on bone loss, but it does reduce muscle shrinkage and generally improves an astronaut's sense of well-being.
 
 
 
