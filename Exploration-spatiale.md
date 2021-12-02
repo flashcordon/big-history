@@ -21,16 +21,14 @@
 - ***La gravité*** : nous avons évolué sous la gravité terrestre. C'est une force contre laquelle doivent résister nos muscles et nos os en permanence. Mais si on reste suffisamment longtemps en micropesanteur, le corps humain peut se modifier assez drastiquement.
 > * ***maux de dos*** : dans l'ISS, on est plus grand de 5 à 8 cm parce que la colonne vertébrale s'étire. La contrepartie, c'est que de nombreux astronautes souffrent de maux de dos, à cause de la relaxation des muscles du dos et des ligaments
 > * ***mal de l'espace*** : On appelle ça le "mal de l'espace".
-> * ***perte de densité osseuse*** : les os perdent environ 1 à 2% de leur densité minérale par mois passé en micropesanteur (parce que leurs pieds ne touchent plus le sol plusieurs milliers de fois par jour). Faire de l'exercice n'y change pas grand chose. Lors du retour sur Terre, cette perte s'arrête mais on ne sait pas encore si la densité osseuse peut se régénérer complètement après coup. Des expériences à bord de l'ISS (lesquelles ?) tentent de comprendre ce phénomène, ce qui pourrait accessoirement nous permettre de mieux traiter l'ostéoporose chez les personnes agées sur Terre.
+> * ***perte de densité osseuse*** : en impesanteur, le corps excrète du calcium et du phosphore via les urines et les fécès. Du coup les os perdent environ 1 à 2% de leur densité minérale par mois passé en micropesanteur (parce que leurs pieds ne touchent plus le sol plusieurs milliers de fois par jour). Ca peut conduire à des calculs urinaires (douloureux) et des fractures. Faire de l'exercice n'y change pas grand chose. Lors du retour sur Terre, cette perte s'arrête mais on ne sait pas encore si la densité osseuse peut se régénérer complètement après coup. Des expériences à bord de l'ISS (lesquelles ?) tentent de comprendre ce phénomène, ce qui pourrait accessoirement nous permettre de mieux traiter l'ostéoporose chez les personnes agées sur Terre. Pour limiter la vitesse de la perte osseuse, il faut faire beaucoup d'exercice (mais ça ne l'annule pas). Pour des missions de long terme, il faudrait peut être songer à de la gravité artificielle.
 > * ***perte de tissus musculaire*** :
-> * ***calculs rénaux*** : 
+> * ***calculs rénaux*** :  
 > * ***rétrécissement du coeur*** : le coeur rétrécit dans l'espace, puisqu'il a moins d'effort à faire pour pomper le sang jusqu'aux parties hautes du corps. Après 340 jours dans l'ISS, l'astronaute Scott Kelly avait un coeur 27% plus petit qu'avant sa mission.
 - ***La distance*** :
 
-without the compressive force of gravity, your spinal column expands and you grow taller, usually by between 5 and 8 cm. Unfortunately, the extra height can bring complications, which may include backache and nerve problems. More worrying than height gain, though, is the loss of bone and muscle tissue that becomes apparent from the first few days of a space mission.
+
 Bone is a living, dynamic tissue. In normal life, new bone cells are constantly being made while worn bone is destroyed and its materials recycled. Bone regeneration is governed by a complex system, regulated by hormones and vitamins as well as physical stress on various parts of the skeleton. In microgravity, the body has no need to maintain its skeletal structure to Earth-bound standards. So bone tissue is absorbed and not replaced: The missing bone shows up as high calcium levels elsewhere in the body, which itself can lead to health problems - kidney stones, for example.
-
-
 
 # Débris spatiaux
 
