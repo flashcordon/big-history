@@ -14,6 +14,9 @@
 - 
 - La NASA a listé 30 risques pour la santé liés aux voyages spatiaux.
 
+- ***Les radiations*** : Sur Terre, notre atmosphère et le champ magnétique terrestre forment un bouclier qui nous protège des particules de hautes énergies qui viennent de l'espace, et qu'on appelle "rayons cosmiques".
+> * La plupart des risques liés aux radiations dans l'ISS sont mineurs et à long terme : les doses de radiations que se prennent les astronautes augmentent légèrement les risques de cancer plus tard dans leur vie.
+> *  Mais ça peut se transformer en risque majeur à court terme en cas d'éruption solaire par exemple.
 - ***La gravité*** : 
 > * les os perdent environ 1 à 2% de leur densité minérale par mois passé en micropesanteur (parce que leurs pieds ne touchent plus le sol plusieurs milliers de fois par jour). Lors du retour sur Terre, cette perte peut ne pas être compensée intégralement.
 > * le coeur rétrécit dans l'espace, puisqu'il a moins d'effort à faire pour pomper le sang jusqu'aux parties hautes du corps. Après 340 jours dans l'ISS, l'astronaute Scott Kelly avait un coeur 27% plus petit qu'avant sa mission.
