@@ -7,11 +7,12 @@
 - [Known effects of long-term space flights on the human body        ](https://racetomars.ca/mars/article_effects.jsp) - Race to Mars
 - [The final frontier: health in space](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01644-5/fulltext) - Burki (2021)
 - [Effects of Space on the Human Body](https://www.lpi.usra.edu/education/explore/space_health/background/) - LPI Education 
+- [List of space travelers by name](https://en.wikipedia.org/wiki/List_of_space_travelers_by_name) - WIikpédia
 
 ---
 
-- A ce jour, plus de 570 humains sont allés dans l'espace. La plupart ne sont pas allés plus loin que l'ISS.
-- 
+- A ce jour, plus de 570 humains sont allés dans l'espace. Seuls 24 sont allés plus loin que l'ISS, et 12 ont marché sur la Lune.
+> Ils représentent 41 pays en tout.
 - La NASA a listé 30 risques pour la santé liés aux voyages spatiaux.
 
 - ***Les radiations*** : Sur Terre, notre atmosphère et le champ magnétique terrestre forment un bouclier qui nous protège des particules de hautes énergies qui viennent de l'espace. Ces particules viennent de plusieurs endroits : certaines viennent du Soleil, d'autres sont des particules piégées par le champ magnétique terrestre dans la ceinture de Van Halen, et d'autres encore viennent de la Galaxie.
