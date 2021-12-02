@@ -10,7 +10,10 @@
 
 ---
 
-
+- ***La gravité*** : 
+> * les os perdent environ 1 à 2% de leur densité minérale par mois passé en micropesanteur (parce que leurs pieds ne touchent plus le sol plusieurs milliers de fois par jour). Lors du retour sur Terre, cette perte peut ne pas être compensée intégralement.
+> * le coeur ne
+> 
 
 # Débris spatiaux
 
