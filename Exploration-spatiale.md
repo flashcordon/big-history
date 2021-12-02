@@ -10,7 +10,7 @@
 
 ---
 
-- A ce jour, près de 560 humains sont allés dans l'espace. La plupart ne sont pas allés plus loin que l'ISS.
+- A ce jour, plus de 570 humains sont allés dans l'espace. La plupart ne sont pas allés plus loin que l'ISS.
 - 
 - La NASA a listé 30 risques pour la santé liés aux voyages spatiaux.
 
@@ -20,7 +20,7 @@
 - ***La gravité*** : 
 > * les os perdent environ 1 à 2% de leur densité minérale par mois passé en micropesanteur (parce que leurs pieds ne touchent plus le sol plusieurs milliers de fois par jour). Lors du retour sur Terre, cette perte peut ne pas être compensée intégralement.
 > * le coeur rétrécit dans l'espace, puisqu'il a moins d'effort à faire pour pomper le sang jusqu'aux parties hautes du corps. Après 340 jours dans l'ISS, l'astronaute Scott Kelly avait un coeur 27% plus petit qu'avant sa mission.
-> 
+- ***La distance*** :
 
 
 # Débris spatiaux
