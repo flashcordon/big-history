@@ -18,7 +18,8 @@
 - ***Les radiations*** : Sur Terre, notre atmosphère et le champ magnétique terrestre forment un bouclier qui nous protège des particules de hautes énergies qui viennent de l'espace. Ces particules viennent de plusieurs endroits : certaines viennent du Soleil, d'autres sont des particules piégées par le champ magnétique terrestre dans la ceinture de Van Halen, et d'autres encore viennent de la Galaxie.
 > * La plupart des risques liés aux radiations dans l'ISS sont mineurs et à long terme : les doses de radiations que se prennent les astronautes augmentent légèrement les risques de cancer ou de maladies dégénératives comme la cataracte ou des problèmes de coeur plus tard dans leur vie.
 > *  Mais ça peut se transformer en risque majeur à court terme en cas d'éruption solaire par exemple.
-- ***La gravité*** : 
+- ***La gravité*** : nous avons évolué sous la gravité terrestre. C'est une force contre laquelle doivent résister nos muscles et nos os en permanence. Mais si on reste suffisamment longtemps en micropesanteur, le corps humain peut se modifier assez drastiquement.
+> * On appelle ça le "mal de l'espace".
 > * les os perdent environ 1 à 2% de leur densité minérale par mois passé en micropesanteur (parce que leurs pieds ne touchent plus le sol plusieurs milliers de fois par jour). Lors du retour sur Terre, cette perte peut ne pas être compensée intégralement.
 > * le coeur rétrécit dans l'espace, puisqu'il a moins d'effort à faire pour pomper le sang jusqu'aux parties hautes du corps. Après 340 jours dans l'ISS, l'astronaute Scott Kelly avait un coeur 27% plus petit qu'avant sa mission.
 - ***La distance*** :
@@ -33,7 +34,6 @@
 - [ARMES ANTI-SATELLITES - Un DANGER pour TOUS ? 4K](https://youtu.be/hm4AOfayPXo) - Hugo Lisoir (2021)
 - [Russian anti-satellite weapon test: What happened and what are the risks?](https://theconversation.com/russian-anti-satellite-weapon-test-what-happened-and-what-are-the-risks-172016) - The Conversation (2021)
 - [Traité de l'espace](https://fr.wikipedia.org/wiki/Trait%C3%A9_de_l%27espace) - Wikipédia
-
 
 ---
 
