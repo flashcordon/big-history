@@ -8,6 +8,9 @@
 - [The final frontier: health in space](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01644-5/fulltext) - Burki (2021)
 - [Effects of Space on the Human Body](https://www.lpi.usra.edu/education/explore/space_health/background/) - LPI Education 
 - [List of space travelers by name](https://en.wikipedia.org/wiki/List_of_space_travelers_by_name) - WIikpédia
+- [Comment le vivant s’adapte dans l’espace](https://theconversation.com/comment-le-vivant-sadapte-dans-lespace-157741) - The Conversation (2021)
+
+
 
 ---
 
@@ -23,7 +26,6 @@
 > * ***mal de l'espace*** : On appelle ça le "mal de l'espace".
 > * ***perte de densité osseuse*** : en impesanteur, le corps excrète du calcium et du phosphore via les urines et les fécès. Du coup les os perdent environ 1 à 2% de leur densité minérale par mois passé en micropesanteur (parce que leurs pieds ne touchent plus le sol plusieurs milliers de fois par jour). Ca peut conduire à des calculs urinaires (douloureux) et des fractures. Faire de l'exercice n'y change pas grand chose. Lors du retour sur Terre, cette perte s'arrête mais on ne sait pas encore si la densité osseuse peut se régénérer complètement après coup. Des expériences à bord de l'ISS (lesquelles ?) tentent de comprendre ce phénomène, ce qui pourrait accessoirement nous permettre de mieux traiter l'ostéoporose chez les personnes agées sur Terre. Pour limiter la vitesse de la perte osseuse, il faut faire beaucoup d'exercice (mais ça ne l'annule pas). Pour des missions de long terme, il faudrait peut être songer à de la gravité artificielle.
 > * ***perte de tissus musculaire*** :
-> * ***calculs rénaux*** :  
 > * ***rétrécissement du coeur*** : le coeur rétrécit dans l'espace, puisqu'il a moins d'effort à faire pour pomper le sang jusqu'aux parties hautes du corps. Après 340 jours dans l'ISS, l'astronaute Scott Kelly avait un coeur 27% plus petit qu'avant sa mission.
 - ***La distance*** :
 
