@@ -14,7 +14,7 @@
 - 
 - La NASA a listé 30 risques pour la santé liés aux voyages spatiaux.
 
-- ***Les radiations*** : Sur Terre, notre atmosphère et le champ magnétique terrestre forment un bouclier qui nous protège des particules de hautes énergies qui viennent de l'espace, et qu'on appelle "rayons cosmiques".
+- ***Les radiations*** : Sur Terre, notre atmosphère et le champ magnétique terrestre forment un bouclier qui nous protège des particules de hautes énergies qui viennent de l'espace. Ces particules viennent de plusieurs endroits : certaines viennent du Soleil, d'autres sont des particules piégées par le champ magnétique terrestre dans la ceinture de Van Halen, et d'autres encore viennent de la Galaxie.
 > * La plupart des risques liés aux radiations dans l'ISS sont mineurs et à long terme : les doses de radiations que se prennent les astronautes augmentent légèrement les risques de cancer plus tard dans leur vie.
 > *  Mais ça peut se transformer en risque majeur à court terme en cas d'éruption solaire par exemple.
 - ***La gravité*** : 
