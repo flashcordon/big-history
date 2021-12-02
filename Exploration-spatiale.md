@@ -4,12 +4,13 @@
 
 - [The Human Body in Space](https://www.nasa.gov/hrp/bodyinspace) - NASA (2021)
 - [Living in space](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Living_in_space) - ESA
-- [Known effects of long-term space flights on the human body        ](https://racetomars.ca/mars/article_effects.jsp) - Race to Mars
+- [Known effects of long-term space flights on the human body](https://racetomars.ca/mars/article_effects.jsp) - Race to Mars
 - [The final frontier: health in space](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01644-5/fulltext) - Burki (2021)
 - [Effects of Space on the Human Body](https://www.lpi.usra.edu/education/explore/space_health/background/) - LPI Education 
 - [List of space travelers by name](https://en.wikipedia.org/wiki/List_of_space_travelers_by_name) - WIikpédia
 - [Comment le vivant s’adapte dans l’espace](https://theconversation.com/comment-le-vivant-sadapte-dans-lespace-157741) - The Conversation (2021)
-
+- [Allô docteur ? Mon corps passe en micropesanteur](https://jeunes.cnes.fr/fr/allo-docteur-mon-corps-passe-en-micropesanteur) - CNES (2016)
+- [Les effets de l'espace sur le corps humain](https://www.asc-csa.gc.ca/fra/astronautes/medecine-spatiale/preoccup.asp) - ASC
 
 
 ---
@@ -29,6 +30,7 @@
 > * ***rétrécissement du coeur*** : le coeur rétrécit dans l'espace, puisqu'il a moins d'effort à faire pour pomper le sang jusqu'aux parties hautes du corps. Après 340 jours dans l'ISS, l'astronaute Scott Kelly avait un coeur 27% plus petit qu'avant sa mission.
 - ***La distance*** :
 
+- Pour l'exercice physique régulière, l'ISS est dotée de 3 exerciseurs : une sorte de vélo stationnaire, un tapis roulant, et une machine de musculation appelée ARED qui imite les poids et les haltères sur Terre avec des dispositifs consitués de cylindres sous vide.
 
 Bone is a living, dynamic tissue. In normal life, new bone cells are constantly being made while worn bone is destroyed and its materials recycled. Bone regeneration is governed by a complex system, regulated by hormones and vitamins as well as physical stress on various parts of the skeleton. In microgravity, the body has no need to maintain its skeletal structure to Earth-bound standards. So bone tissue is absorbed and not replaced: The missing bone shows up as high calcium levels elsewhere in the body, which itself can lead to health problems - kidney stones, for example.
 
