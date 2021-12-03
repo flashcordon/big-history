@@ -52,8 +52,9 @@
 > * ***anémie*** : En micropesanteur, la moelle osseuse produit moins de cellules sanguines, en particulier le plasma et les globules rouges. Ça peut causer une anémie temporaire chez les astronautes et le rendre plus vulnérables aux infections.
 - ***L'isolation et le confinement*** : Les astronautes russes qui ont réalisé des séjours de longue durée dans la station Mir ont fourni de précieuses données sur l’état psychologique des astronautes pour de longs séjours dans l’espace. Les psychologues ont observé 3 phases : une première phase d’adaptation, qui dure environ 2 mois, et qui se passe en général très bien. Une 2e phase, où ils commencent à montrer des signes de fatigue et une perte de motivation. Et une 3e phase où ils finissent par devenir nerveux et irritables, une sorte de fatigue physique qui reste même après le repos (asthénie). C’est en partie à cause de ces données que les missions à bord de l’ISS sont limitées à 6 mois maximum.
 
-- ***La distance*** :
+### L'exercice physique dans l'ISS
 
+- Les astronautes doivent faire 2h30 d'exercice par jour pour compenser la perte musculaire et ralentir la perte osseuse.
 - Pour l'exercice physique régulière, l'ISS est dotée de 3 exerciseurs : une sorte de vélo stationnaire, un tapis roulant, et une machine de musculation appelée ARED qui imite les poids et les haltères sur Terre avec des dispositifs consitués de cylindres sous vide.
 
 # Débris spatiaux
