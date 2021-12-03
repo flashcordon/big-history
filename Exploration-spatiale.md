@@ -12,6 +12,7 @@
 - [Allô docteur ? Mon corps passe en micropesanteur](https://jeunes.cnes.fr/fr/allo-docteur-mon-corps-passe-en-micropesanteur) - CNES (2016)
 - [Les effets de l'espace sur le corps humain](https://www.asc-csa.gc.ca/fra/astronautes/medecine-spatiale/preoccup.asp) - ASC
 - [Foire aux questions sur les astronautes](https://www.asc-csa.gc.ca/fra/astronautes/faq.asp#vivre) - ASC
+- [Les voyages dans l’espace font mal au dos](https://www.futura-sciences.com/sante/actualites/medecine-voyages-espace-font-mal-dos-64971/) - Futura Sciences (2016)
 
 
 ---
