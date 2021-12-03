@@ -15,6 +15,7 @@
 - [Les voyages dans l’espace font mal au dos](https://www.futura-sciences.com/sante/actualites/medecine-voyages-espace-font-mal-dos-64971/) - Futura Sciences (2016)
 - [International Space Station Research Keeps an Eye on Vision Changes in Space](https://www.nasa.gov/mission_pages/station/research/news/iss-20-evolution-of-vision-research) - NASA (2020)
 - [L’étrange syndrome qui affecte la vision des astronautes](http://www.slate.fr/story/121039/syndrome-vision-astronautes) - Slate (2016)
+- [Espace : pas de sommeil sans somnifères](https://www.sciencesetavenir.fr/sante/espace-pas-de-sommeil-sans-somniferes_18801) - Science et Avenir (2014)
 
 ---
 
@@ -33,6 +34,7 @@
 > * ***atrophie musculaire*** : plus de la moitié de nos muscles (60%) sont ce qu’on appelle des muscles antigravifiques, c’est à dire qu'on les utilise en permanence pour contrer les effets de la pesanteur terrestre. C’est le cas des muscles des mollets, des quadriceps, et des muscles du cou et du dos. En micropesanteur, ces muscles sont beaucoup moins sollicités, et du coup ils s’atrophient. En à peine 11 jours dans l’espace, les astronautes peuvent perdre près de 20% de leur masse musculaire. Et donc de leur force ! La seule manière d’atténuer cet effet est de faire du sport intensif tous les jours. (2h et demi par jour minimum)
 > * ***rétrécissement du coeur*** : le coeur est un muscle comme les autres. Et dans l'espace, il rétrécit, puisqu'il a moins d'effort à faire pour pomper le sang jusqu'aux parties hautes du corps. Après 340 jours dans l'ISS, l'astronaute Scott Kelly avait un coeur 27% plus petit qu'avant sa mission.
 > * ***Problèmes de vue*** : Plus de 70% des astronautes souffrent de troubles visuels. Il y a une grande variabilité dans l’amplitude de ces troubles, mais il y a des symptômes caractéristiques : ils voient flou, leur globe oculaire s'aplatit, et leurs nerfs optiques sont enflammés. On appelle ça le syndrôme neuro-oculaire associé au vol spatial. Sa cause exacte est encore un mystère, mais les scientifiques pensent que c’est lié en partie à l’augmentation de la pression sanguine à l’intérieur du crâne lorsque les astronautes sont en impesanteur. Il y a probablement d’autres facteurs en jeu, comme le niveau élevé de dioxyde de carbone ou encore les radiations.
+> * ***Troubles du sommeil*** : La NASA recommande des sommeils de 8h30 par jour, mais en pratique les astronautes de l’ISS dorment en moyenne 6h par nuit, et les trois quart d’entre eux utilisent régulièrement des somnifères pour dormir. A terme ça conduit à une réduction des performances. Mais c’est pas facile d’avoir un cycle circadien normal lorsqu’on assiste à 16 levers et couchers de Soleil par jour (l’ISS réalise une orbite autour de la Terre toutes les 90 minutes). Sans compter que l’ISS peut être relativement bruyante, donc les astronautes ont recours à des bouchons d’oreilles. La charge importante de travail, les conditions de confinement dans un espace réduit et l’impesanteur n’aident pas non plus.
 
 - ***La distance*** :
 
