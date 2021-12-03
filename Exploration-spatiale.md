@@ -16,6 +16,7 @@
 - [International Space Station Research Keeps an Eye on Vision Changes in Space](https://www.nasa.gov/mission_pages/station/research/news/iss-20-evolution-of-vision-research) - NASA (2020)
 - [L’étrange syndrome qui affecte la vision des astronautes](http://www.slate.fr/story/121039/syndrome-vision-astronautes) - Slate (2016)
 - [Espace : pas de sommeil sans somnifères](https://www.sciencesetavenir.fr/sante/espace-pas-de-sommeil-sans-somniferes_18801) - Science et Avenir (2014)
+- [Cephalad Fluid Shift](https://sites.google.com/site/effectsofspaceflight/short-course/cephalad-fluid-shift) - Effects of Spaceflight on the Human Cardiovascular System
 
 ---
 
