@@ -29,7 +29,7 @@
 ### Records
 
 - Le record du plus long séjour dans l’espace est détenu à ce jour par l’astronaute russe Valeri Polyakov, qui a séjourné 438 jours d’affilée dans la station Mir en 1995.
-- Le record féminin du plus long séjour est détenu par l'astronaute Christina Koch de la NASA, (328 jours)
+- Le record féminin du plus long séjour est détenu par l'astronaute Christina Koch de la NASA, (328 jours entre 2019 et 2020)
 
 ### Risques 
 
