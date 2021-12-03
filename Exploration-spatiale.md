@@ -14,6 +14,7 @@
 - [Foire aux questions sur les astronautes](https://www.asc-csa.gc.ca/fra/astronautes/faq.asp#vivre) - ASC
 - [Les voyages dans l’espace font mal au dos](https://www.futura-sciences.com/sante/actualites/medecine-voyages-espace-font-mal-dos-64971/) - Futura Sciences (2016)
 - [International Space Station Research Keeps an Eye on Vision Changes in Space](https://www.nasa.gov/mission_pages/station/research/news/iss-20-evolution-of-vision-research) - NASA (2020)
+- [L’étrange syndrome qui affecte la vision des astronautes](http://www.slate.fr/story/121039/syndrome-vision-astronautes) - Slate (2016)
 
 ---
 
