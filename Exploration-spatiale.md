@@ -55,9 +55,6 @@
 
 - Pour l'exercice physique régulière, l'ISS est dotée de 3 exerciseurs : une sorte de vélo stationnaire, un tapis roulant, et une machine de musculation appelée ARED qui imite les poids et les haltères sur Terre avec des dispositifs consitués de cylindres sous vide.
 
-
-Bone is a living, dynamic tissue. In normal life, new bone cells are constantly being made while worn bone is destroyed and its materials recycled. Bone regeneration is governed by a complex system, regulated by hormones and vitamins as well as physical stress on various parts of the skeleton. In microgravity, the body has no need to maintain its skeletal structure to Earth-bound standards. So bone tissue is absorbed and not replaced: The missing bone shows up as high calcium levels elsewhere in the body, which itself can lead to health problems - kidney stones, for example.
-
 # Débris spatiaux
 
 *Sources*
