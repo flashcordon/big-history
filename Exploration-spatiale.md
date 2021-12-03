@@ -18,13 +18,21 @@
 - [Espace : pas de sommeil sans somnifères](https://www.sciencesetavenir.fr/sante/espace-pas-de-sommeil-sans-somniferes_18801) - Science et Avenir (2014)
 - [Cephalad Fluid Shift](https://sites.google.com/site/effectsofspaceflight/short-course/cephalad-fluid-shift) - Effects of Spaceflight on the Human Cardiovascular System
 - [Comment l’espace affecte-t-il le corps humain?](https://asc-csa.gc.ca/fra/multimedia/recherche/image/regarder/8056) - ASC
+- [List of spaceflight records](https://en.wikipedia.org/wiki/List_of_spaceflight_records#Ten_longest_human_spaceflights) - Wikipédia
 
 ---
 
 - L’ISS est en orbite autour de la Terre à une distance de 350 à 400 km. Dans l’espace, à l'ombre, il fait -120 degrés Celsius. Au soleil, il fait 150 degrés Celsius.
 - A ce jour, plus de 570 humains sont allés dans l'espace. Seuls 24 sont allés plus loin que l'ISS, et 12 ont marché sur la Lune.
 > Ils représentent 41 pays en tout.
+
+### Records
+
 - Le record du plus long séjour dans l’espace est détenu à ce jour par l’astronaute russe Valeri Polyakov, qui a séjourné 438 jours d’affilée dans la station Mir en 1995.
+- Le record féminin du plus long séjour est détenu par l'astronaute Christina Koch de la NASA, (328 jours)
+
+### Risques 
+
 - La NASA a listé 30 risques pour la santé liés aux voyages spatiaux. La plupart de ces risques sont réversibles lorsque les astronautes rentrent sur Terre (le corps s'adapte remarquablement bien à l'espace), mais certains effets sur le corps sont irréversibles.
 - ***Les radiations*** : Sur Terre, notre atmosphère et le champ magnétique terrestre forment un bouclier qui nous protège des particules de hautes énergies qui viennent de l'espace. Ces particules viennent de plusieurs endroits : certaines viennent du Soleil, d'autres sont des particules piégées par le champ magnétique terrestre, et d'autres encore viennent d'un peu partout dans la Galaxie (rayons cosmiques galactiques). Ces rayonnements peuvent détruire des molécules d'ADN et donc endommager ou tuer des cellules.
 > * La plupart des risques liés aux radiations dans l'ISS sont mineurs et à long terme : les doses de radiations que se prennent les astronautes augmentent légèrement les risques de cancer ou de maladies dégénératives comme la cataracte ou des problèmes de coeur plus tard dans leur vie.
