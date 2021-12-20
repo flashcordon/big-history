@@ -8,7 +8,8 @@
 
 ---
 
-- 
+-  abrite la plus grande collection au monde de cellules animales pour les animaux vertébrés. 
+-  Ouverte en 1972
 
 ## La "boîte noire" climatique (Tasmanie, Australie)
 
