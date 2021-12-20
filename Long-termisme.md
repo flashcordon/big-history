@@ -1,6 +1,16 @@
 # Messages à destination du futur
 
-## La "boîte noire" climatique (Tasmanie)
+## Le zoo glacé (San Diego, Californie)
+
+*Sources*
+
+- [The Frozen Zoo : visite d’une arche de Noé à –196°C](https://usbeketrica.com/fr/article/frozen-zoo-arche-noe) - Usbek et Rica (2019)
+
+---
+
+- 
+
+## La "boîte noire" climatique (Tasmanie, Australie)
 
 *Sources*
 
