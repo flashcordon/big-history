@@ -1,5 +1,18 @@
 # Messages à destination du futur
 
+## 
+
+*Sources*
+
+- [Entrée historique de l'encodage sur ADN aux Archives nationales](https://www.franceculture.fr/emissions/journal-de-7-h/journal-de-07h00-catherine-duthu-du-mercredi-24-novembre-2021) - France Culture (2021)
+- [Stocker pour 50 000 ans : des textes historiques sur ADN entrent aux Archives nationales](https://www.franceculture.fr/sciences/stocker-pour-50-000-ans-des-textes-historiques-sur-ADN-entrent-aux-archives-nationales) - France Culture (2021)
+
+---
+
+- 23 Novembre 2021, L'encodage sur ADN fait une entrée historique aux Archives nationales : sur deux minuscules capsules contenant des brins d'ADN de synthèse ont été stockées la Déclaration des droits de l'homme et du citoyen de 1789 et la Déclaration des droits de la femme et de la citoyenne, rédigée par Olympe de Gouges en 1791. 
+- numérisé en mode binaire, avec des 0 et des 1, puis converti en mode quaternaire, avec les lettres A C G T, qui constituent la base azotée de l'ADN. Il s'agit d'un stockage à l'échelle moléculaire : les documents encodés sur ADN de synthèse ont été placés, à l'abri de l'air et de la lumière, dans des capsules métalliques de 10 x 5 millimètres, pour être conservés jusqu'à 50.000 ans, sans aucun apport d'énergie.
+- mise au point par des équipes du CNRS et de Sorbonne Université
+
 ## Le zoo glacé (Zoo de San Diego, Californie)
 
 *Sources*
