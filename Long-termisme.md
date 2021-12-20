@@ -1,6 +1,6 @@
 # Messages à destination du futur
 
-## Le zoo glacé (San Diego, Californie)
+## Le zoo glacé (Zoo de San Diego, Californie)
 
 *Sources*
 
@@ -9,7 +9,19 @@
 ---
 
 -  abrite la plus grande collection au monde de cellules animales pour les animaux vertébrés. 
--  Ouverte en 1972
+-  Ouverte en 1972 par le généticien Kurt Benirschke
+-   développe aussi un programme de « dé-extinction » d’espèces comme le rhinocéros blanc du Nord
+-    10 000 animaux de 1 000 espèces différentes sont conservés dans une pièce éclairée au néon, d’à peine 20 mètres carrés. Non pas en cage, mais dans de toutes petites fioles aux capuchons colorés, soigneusement rangées dans des cuves d’azote liquide maintenu à très basse température. Il y a ici des lions, des paresseux à deux doigts, des flamants roses des Caraïbes, des baleines, et même des tortues à tête de serpent venues de l’île de Roti, en Indonésie. Beaucoup d’espèces sont en danger et quelques-unes ne peuvent plus être observées qu’en captivité
+- dans le but de préserver la biogiversité génétique animale
+- imitée par plusieurs initiatives similaires, notamment au Royaume-Uni et en Australie. 
+- À chaque échantillon correspond un doublon, et la collection de sauvegarde est entreposée dans un second laboratoire, dont la localisation est gardée secrète.
+- on y trouve des cellules reproductrices (gamètes), c’est-à-dire des spermatozoïdes et des ovocytes, mais aussi quelques embryons et une immense collection de fibroblastes, les cellules les plus répandues du tissu conjonctif chez l’animal, qui assurent notamment la structure et la souplesse de la peau
+- le plus souvent, les équipes récupèrent les corps des animaux morts.
+- Ils rêvent d’établir un « réseau mondial de zoos gelés » qui rassemblerait une nuée de laboratoires situés aux « points chauds de la biodiversité ».
+- Les cellules sont conservées dans de l’azote liquide à –196 °C
+- L’opération « rhinocéros blanc du Nord » est le projet phare du zoo gelé, qui ne vise rien de moins que sa dé-extinction : les chercheurs comptent faire renaître un troupeau qui sera indépendant et fertile de génération en génération. 
+> Pour cela, ils prévoient d’effectuer des inséminations artificielles d’embryons de rhinocéros blancs du Nord, dont la gestation serait assurée par des rhinocéros blancs du Sud.
+- Nola, la dernière rhinocéros blanc du Nord, a vécu au zoo avant de mourir en 2015
 
 ## La "boîte noire" climatique (Tasmanie, Australie)
 
