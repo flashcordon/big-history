@@ -1,3 +1,26 @@
+# Messages à destination du futur
+
+## La "boîte noire" climatique (Tasmanie)
+
+*Sources*
+
+- [Earth Is Getting a ‘Black Box’ to Hold Humans Accountable for Climate Change](https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html) - New York Times (2021)
+
+---
+
+- Dans un coin reculé de Tasmanie
+- De la taille d'un bus (a 33-foot-long box made of three-inch thick steel), ce coffre en acier 
+- l'idée est d'avoir une boîte noire similaire à celle dans les avions
+- Un groupe d'artistes, d'architectes et de chercheurs de l'université de Tasmanie
+- projet conçu au sein d'une boîte de pub australienne
+- Jim Curtis
+- The box’s creators say it will record leaders’ actions (or inaction) by scraping the internet for keywords relating to climate change from newspapers, social media and peer-reviewed journals. It will collect daily metrics, including average oceanic and land temperatures, atmospheric carbon dioxide concentration and biodiversity loss.
+- La boîte sera complétée vers mi-2022
+- the data will be stored on a giant, automated, solar-powered hard drive with a capacity to collect information for about 50 years. 
+- Tasmania was chosen for its relative geopolitical and environmental safety, and the monolith will be designed to be resilient against threats including cyclones, earthquakes and, with its sloped walls, attacks by vandals.
+- How will future visitors retrieve the contents of the box? The creators say they are working on it. One option is to encode the contents in various formats, such as in script or binary code that would be unraveled. The creators say that if the planet is nearing cataclysm, instructions for opening the box would be etched on its exterior. The message can’t be included beforehand, they say, because of the risk that vandals would attempt to crack it open.
+
+
 # Philosophie du long-termisme
 
 *Sources*
