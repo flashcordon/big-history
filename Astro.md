@@ -1020,7 +1020,7 @@ Burcher
 ## Lancement
 
 - Le 11 Décembre dernier le télescope a été placé à l'intérieur de la coiffe d'un lanceur Ariane 5
-- Le JWST a été lancé le 24 Décembre 2021 depuis le Centre Spatial Guyanais à Kourou.
+- Le JWST a été lancé le 25 Décembre 2021 depuis le Centre Spatial Guyanais à Kourou.
 > Il n'y a que 27 minutes entre le décollage et la séparation du télescope
 
 ## Now what
