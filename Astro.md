@@ -23,6 +23,7 @@
 - [Les exoplanètes](#Les-exoplanètes)
 - [Planétologie comparée](#Planétologie-comparée)
 - [Les odeurs de l'univers](#Les-odeurs-de-lunivers)
+- [Le James Webb Space Telescope](#le-james-webb-space-telescope)
 
 *Sources*
 
@@ -986,3 +987,14 @@ Burcher
 > Quelle est la distribution de masse des trous noirs à leur naissance, comment ils grandissent, comment ils accumulent de la matière (fusion de trous noirs vs en se nourrissant des étoiles alentours)
 - l'ELT, l'extremely large telescope, au Chili, dont la première lumière est prévue pour 2024, devrait révolutionner la recherche des trous noirs dans l'environnement dense des amas d'étoiles, et devrait nous permettre de sonder des amas d'étoiles bien plus distants que ceux qu'on observe à l'heure actuelle.
 
+# Le James Webb Space Telescope
+
+*Sources*
+
+- [Why the World’s Astronomers Are Very, Very Anxious Right Now](https://www.nytimes.com/2021/12/14/science/james-webb-telescope-launch.html) - New York Times (2021)
+- [James Webb Space Telescope: le compte à rebours est lancé](https://www.cea.fr/multimedia/Documents/publications/les-defis-du-cea/les-defis-du-CEA-221.pdf.pdf) - Défis du CEA ()
+- [Le télescope James Webb à la découverte de l’Univers ancien](https://lejournal.cnrs.fr/articles/le-telescope-james-webb-a-la-decouverte-de-lunivers-ancien) - Journal du CNRS (2021)
+- [Que pourra voir le télescope spatial James Webb que ne peut pas observer Hubble ?](https://www.futura-sciences.com/sciences/actualites/telescope-spatial-james-webb-pourra-voir-telescope-spatial-james-webb-ne-peut-pas-observer-hubble-94465/) - Futura Sciences (2021) 
+- [The Webb Space Telescope Will Rewrite Cosmic History. If It Works.](https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/) - Quanta Magazine (2021) 
+
+---
