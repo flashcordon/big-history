@@ -1000,4 +1000,14 @@ Burcher
 ---
 
 - Le JWST est un télescope spatial développé par la NASA en coopération avec l'Agence Spatiale Européenne (ESA) et l'Agence Spatiale Canadienne (ASC)
+- Son miroir primaire de 6,5 mètres de diamètre en fait le plus grand télescope jamais envoyé dans l'espace
+> Celui de Hubble ne faisait que 2,4 mètres. 
+- Ce miroir primaire est constitué de 18 miroirs hexagonaux qui forment une sorte de nid d'abeille
+> Chaque miroir est composé de beryllium et est recouvert d'une fine couche d'or, qui est un matériau qui réfléchit particulièrement bien la lumière infrarouge
+- À son bord se trouvent 4 instruments scientifiques :
+> * Miri :
+> * Nircam :
+> * Nirspec : 
+> * Niriss : 
+- La durée nominale de sa mission est fixée à 5 ans (2027), mais elle pourrait être prolongée jusqu'à 5 années supplémentaires (2032) si le télescope fonctionne encore bien d'ici là
 - 
