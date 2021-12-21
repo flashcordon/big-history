@@ -1009,6 +1009,17 @@ Burcher
 > * Nircam :
 > * Nirspec : 
 > * Niriss : 
-- Le JWST a été lancé le 24 Décembre 2021 à bord d'une fusée Ariane 5, depuis le Centre Spatial Guyanais à Kourou.
+- Le 11 Décembre dernier le télescope a été placé à l'intérieur de la coiffe d'un lanceur Ariane 5
+- Le JWST a été lancé le 24 Décembre 2021 depuis le Centre Spatial Guyanais à Kourou.
 - La durée nominale de sa mission est fixée à 5 ans (2027), mais elle pourrait être prolongée jusqu'à 5 années supplémentaires (2032) si le télescope fonctionne encore bien d'ici là
-- 
+
+
+## Problèmes et contretemps
+
+- Le planning initial prévoyait un lancement en 2008. 
+> En un sens, le télescope a donc 13 ans de retard.
+
+## Now what
+
+- le JWST mettra 29 jours à atteindre le point de Lagrange L2. 
+
