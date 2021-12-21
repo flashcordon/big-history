@@ -996,6 +996,7 @@ Burcher
 - [Le télescope James Webb à la découverte de l’Univers ancien](https://lejournal.cnrs.fr/articles/le-telescope-james-webb-a-la-decouverte-de-lunivers-ancien) - Journal du CNRS (2021)
 - [Que pourra voir le télescope spatial James Webb que ne peut pas observer Hubble ?](https://www.futura-sciences.com/sciences/actualites/telescope-spatial-james-webb-pourra-voir-telescope-spatial-james-webb-ne-peut-pas-observer-hubble-94465/) - Futura Sciences (2021) 
 - [The Webb Space Telescope Will Rewrite Cosmic History. If It Works.](https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/) - Quanta Magazine (2021) 
+- [En photos : le télescope spatial Webb suspendu à un fil et installé sur Ariane 5](https://www.futura-sciences.com/sciences/actualites/james-webb-space-telescope-photos-telescope-spatial-webb-suspendu-fil-installe-ariane-5-95564/) - Futura Sciences (2021)
 
 ---
 
@@ -1009,15 +1010,18 @@ Burcher
 > * Nircam :
 > * Nirspec : 
 > * Niriss : 
-- Le 11 Décembre dernier le télescope a été placé à l'intérieur de la coiffe d'un lanceur Ariane 5
-- Le JWST a été lancé le 24 Décembre 2021 depuis le Centre Spatial Guyanais à Kourou.
 - La durée nominale de sa mission est fixée à 5 ans (2027), mais elle pourrait être prolongée jusqu'à 5 années supplémentaires (2032) si le télescope fonctionne encore bien d'ici là
-
 
 ## Problèmes et contretemps
 
 - Le planning initial prévoyait un lancement en 2008. 
 > En un sens, le télescope a donc 13 ans de retard.
+
+## Lancement
+
+- Le 11 Décembre dernier le télescope a été placé à l'intérieur de la coiffe d'un lanceur Ariane 5
+- Le JWST a été lancé le 24 Décembre 2021 depuis le Centre Spatial Guyanais à Kourou.
+> Il n'y a que 27 minutes entre le décollage et la séparation du télescope
 
 ## Now what
 
