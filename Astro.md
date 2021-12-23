@@ -1013,7 +1013,8 @@ Burcher
 > * Nircam :
 > * Nirspec : 
 > * Niriss : 
-- 
+- Il est aussi doté de 5 boucliers de protection qui forment un pare-soleil dont la surface est aussi grande qu'un terrain de tennis.
+> Ces boucliers sont constitués d'une très fine couche d'un matériau plastique particulier appelé klapton. Ils sont nécessaire pour maintenir au frais les instruments du James Webb (-258°C).
 
 - La durée nominale de sa mission est fixée à 5 ans (2027), mais elle pourrait être prolongée jusqu'à 5 années supplémentaires (2032) si le télescope fonctionne encore bien d'ici là
 > L'élément déterminant pour la durée de la mission est le réservoir d'hydrazine qui sert à manouvrer le télescope. Une fois vidé, on ne peut pas (encore) le ravitailler, même si des ingénieurs réfléchissent déjà à cette éventualité en interne.
