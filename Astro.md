@@ -1001,6 +1001,9 @@ Burcher
 ---
 
 - Le JWST est un télescope spatial développé par la NASA en coopération avec l'Agence Spatiale Européenne (ESA) et l'Agence Spatiale Canadienne (ASC)
+
+## Caractéristiques
+
 - Son miroir primaire de 6,5 mètres de diamètre en fait le plus grand télescope jamais envoyé dans l'espace
 > Celui de Hubble ne faisait que 2,4 mètres. 
 - Ce miroir primaire est constitué de 18 miroirs hexagonaux qui forment une sorte de nid d'abeille
@@ -1011,11 +1014,19 @@ Burcher
 > * Nirspec : 
 > * Niriss : 
 - La durée nominale de sa mission est fixée à 5 ans (2027), mais elle pourrait être prolongée jusqu'à 5 années supplémentaires (2032) si le télescope fonctionne encore bien d'ici là
+> L'élément déterminant pour la durée de la mission est le réservoir d'hydrazine qui sert à manouvrer le télescope. Une fois vidé, on ne peut pas (encore) le ravitailler, même si des ingénieurs réfléchissent déjà à cette éventualité en interne.
+
+## Placement
+
+- Le JWST sera placé sur une orbite parallèle à la Terre située à 1,5 million de km de notre planète (environ 4 fois la distance Terre-Lune). Un point qu'on appelle le point de Lagrange L2.
+> 
 
 ## Problèmes et contretemps
 
 - Le planning initial prévoyait un lancement en 2008. 
 > En un sens, le télescope a donc 13 ans de retard.
+- La construction du télescope a coûté 10 milliards de dollars, soit 20 fois plus que l'estimation initiale.
+> Mais ça reste 2 ou 3 milliards moins cher qu'un porte-avion américain dernier cri
 
 ## Lancement
 
