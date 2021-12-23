@@ -1013,6 +1013,8 @@ Burcher
 > * Nircam :
 > * Nirspec : 
 > * Niriss : 
+- 
+
 - La durée nominale de sa mission est fixée à 5 ans (2027), mais elle pourrait être prolongée jusqu'à 5 années supplémentaires (2032) si le télescope fonctionne encore bien d'ici là
 > L'élément déterminant pour la durée de la mission est le réservoir d'hydrazine qui sert à manouvrer le télescope. Une fois vidé, on ne peut pas (encore) le ravitailler, même si des ingénieurs réfléchissent déjà à cette éventualité en interne.
 
@@ -1037,4 +1039,5 @@ Burcher
 ## Now what
 
 - le JWST mettra 29 jours à atteindre le point de Lagrange L2. 
-
+- Au cours de son voyage, il va se déployer. Et le processus de déploiement implique plusieurs centaines d'étapes. Et si une seule de ces étapes elle ne se passe pas bien, cela pourrait mettre en péril la mission dans son intégralité
+> La NASA estime à 344 le nombre de points de défaillance potentielles dans le processus de déploiement.
