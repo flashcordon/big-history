@@ -1009,10 +1009,10 @@ Burcher
 - Ce miroir primaire est constitué de 18 miroirs hexagonaux qui forment une sorte de nid d'abeille
 > Chaque miroir est composé de beryllium et est recouvert d'une fine couche d'or, qui est un matériau qui réfléchit particulièrement bien la lumière infrarouge
 - À son bord se trouvent 4 instruments scientifiques :
-> * Miri :
-> * Nircam :
-> * Nirspec : 
-> * Niriss : 
+> * Miri : une caméra couplée à un spectromètre agissant dans l'infrarouge moyen (5 à 28 micromètres de longueur d'onde)
+> * NIRcam : une caméra infrarouge
+> * NIRspec : un spectromètre multi-objet
+> * Niriss : un spectromètre grand champ spécialisé dans le proche infrarouge
 - Il est aussi doté de 5 boucliers de protection qui forment un pare-soleil dont la surface est aussi grande qu'un terrain de tennis.
 > Ces boucliers sont constitués d'une très fine couche d'un matériau plastique particulier appelé klapton. Ils sont nécessaire pour maintenir au frais les instruments du James Webb (-258°C).
 
@@ -1023,7 +1023,9 @@ Burcher
 ## Différences avec Hubble
 
 - Contrairement à Hubble, qui observe essentiellement dans le domaine du visible et de l'ultraviolet, le James Webb peut observer dans l'infrarouge moyen
+> Ce sont des longueurs d'ondes qui sont largement inaccessible au sol, parce qu'elles sont majoritairement absorbées par les molécules de l'atmosphère, et les rares grains de lumière infrarouge qui nous parviennent sont parasitées par des sources terrestres naturelles et artificielles.
 - Hubble se trouve relativement près de la Terre, à 570 km de distance. Ca a notamment permis à des astronautes de réparer le télescope défectueux entre 1993 et 2009. Mais le JWST se trouve à 1,5 millions de km, c'est-à-dire bien au delà de nos capacités à y envoyer des humains, donc on n'a donc aucun moyen de le réparer en cas de problème.
+
 
 ## Placement
 
