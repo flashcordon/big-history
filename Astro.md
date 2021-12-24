@@ -1081,4 +1081,12 @@ Burcher
 
 # Parker Solar Probe
 
+*Sources*
+
+- [VIDEO. La sonde Parker Solar a tourné ce film au plus près de la couronne du Soleil, et c'est stupéfiant](https://www.sciencesetavenir.fr/espace/la-sonde-parker-solar-a-tourne-ce-film-stupefiant-au-plus-pres-de-la-couronne-du-soleil_159874) - Sciences et Avenir (2021)
+
+---
+
+- 
+
 - 
