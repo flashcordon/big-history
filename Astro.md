@@ -1018,23 +1018,36 @@ Burcher
 
 - La durée nominale de sa mission est fixée à 5 ans (2027), mais elle pourrait être prolongée jusqu'à 5 années supplémentaires (2032) si le télescope fonctionne encore bien d'ici là
 > L'élément déterminant pour la durée de la mission est le réservoir d'hydrazine qui sert à manouvrer le télescope. Une fois vidé, on ne peut pas (encore) le ravitailler, même si des ingénieurs réfléchissent déjà à cette éventualité en interne.
+- La résolution angulaire du JWST est 7 fois plus élevée que le télescope spatial Spitzer, qui est le plus puissant observatoire spatial infrarouge actuellement en service, - Il est aussi 50 fois plus sensible que Spitzer, ce qui lui permet d'observer des objets de très faible luminosité (?)
+
+## Différences avec Hubble
+
+- Contrairement à Hubble, qui observe essentiellement dans le domaine du visible et de l'ultraviolet, le James Webb peut observer dans l'infrarouge moyen
+- Hubble se trouve relativement près de la Terre, à 570 km de distance. Ca a notamment permis à des astronautes de réparer le télescope défectueux entre 1993 et 2009. Mais le JWST se trouve à 1,5 millions de km, c'est-à-dire bien au delà de nos capacités à y envoyer des humains, donc on n'a donc aucun moyen de le réparer en cas de problème.
 
 ## Placement
 
 - Le JWST sera placé sur une orbite parallèle à la Terre située à 1,5 million de km de notre planète (environ 4 fois la distance Terre-Lune). Un point qu'on appelle le point de Lagrange L2.
 > 
 
-## Problèmes et contretemps
 
+
+## Historique
+
+- Le télescope a été imaginé initialement en 1989.
+- Le projet a ensuite été modifié suite au prolongement de la durée de vie de Hubble, et relancé à nouveau en 1995 à la demande de l'administrateur de la NASA de l'époque Dan Golding.
+> Des études de faisabilité ont été conduites entre 1997 et 2001
 - Le planning initial prévoyait un lancement en 2008. 
 > En un sens, le télescope a donc 13 ans de retard.
 - La construction du télescope a coûté 10 milliards de dollars, soit 20 fois plus que l'estimation initiale.
 > Mais ça reste 2 ou 3 milliards moins cher qu'un porte-avion américain dernier cri
+- En 2011, le Congrès américain a même songé à arrêté le projet à cause de l'augmentation toujours croissante des dépenses
+
 
 ## Lancement
 
 - Le 11 Décembre dernier le télescope a été placé à l'intérieur de la coiffe d'un lanceur Ariane 5
-- Le JWST a été lancé le 25 Décembre 2021 depuis le Centre Spatial Guyanais à Kourou.
+- Le JWST a été lancé le 25 Décembre 2021 à 13h20 heure de Paris depuis le Centre Spatial Guyanais à Kourou.
 > Il n'y a que 27 minutes entre le décollage et la séparation du télescope
 
 ## Now what
