@@ -1004,6 +1004,7 @@ Burcher
 
 ## Caractéristiques
 
+- Le JWST est une sonde de 6,2 tonnes, et dont l'envergure une fois déployée est comparable à celle d'un terrain de tennis (22 m de long, 14 de large).
 - Son miroir primaire de 6,5 mètres de diamètre en fait le plus grand télescope jamais envoyé dans l'espace 
 > * Le miroir est si grand qu'il a fallu déployer des trésors d'ingéniérie pour le faire tenir dans la coiffe de la fusée Ariane 5 qui le transporte.
 > * Il est donc constitué de 18 petits miroirs hexagonaux ( ?) qui forment une sorte de nid d'abeille, et l'ensemble est plié en 3 pour rentrer dans le coiffe du lanceur.
@@ -1021,7 +1022,7 @@ Burcher
 
 ## Différences avec Hubble
 
-- Le miroir du JWST fait 6,5 m de diamètre, tandis que celui de Hubble ne fait que 2,4 mètres.
+- Le miroir du JWST fait 6,5 m de diamètre, tandis que celui de Hubble ne fait que 2,4 m.
 - Contrairement à Hubble, qui observe essentiellement dans le domaine du visible et de l'ultraviolet (et s'aventure aussi dans l'infrarouge proche), le James Webb peut observer dans l'infrarouge moyen
 > * Ce sont des longueurs d'ondes qui sont largement inaccessible au sol, parce qu'elles sont majoritairement absorbées par les molécules de l'atmosphère, et les rares grains de lumière infrarouge qui nous parviennent sont parasitées par des sources terrestres naturelles et artificielles.
 > * Ces longueurs d'onde sont cruciales pour observer des objets relativement froids, comme de la poussière ou du gaz interstellaire, mais aussi des galaxies très très lointaines dont la lumière a été décalée dans le domaine des infrarouges du fait de l'expansion de l'univers.
