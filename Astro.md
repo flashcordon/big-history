@@ -1004,10 +1004,10 @@ Burcher
 
 ## Caractéristiques
 
-- Son miroir primaire de 6,5 mètres de diamètre en fait le plus grand télescope jamais envoyé dans l'espace
-> Celui de Hubble ne faisait que 2,4 mètres. 
-- Ce miroir primaire est constitué de 18 miroirs hexagonaux qui forment une sorte de nid d'abeille
-> Chaque miroir est composé de beryllium et est recouvert d'une fine couche d'or, qui est un matériau qui réfléchit particulièrement bien la lumière infrarouge
+- Son miroir primaire de 6,5 mètres de diamètre en fait le plus grand télescope jamais envoyé dans l'espace 
+> * Le miroir est si grand qu'il a fallu déployer des trésors d'ingéniérie pour le faire tenir dans la coiffe de la fusée Ariane 5 qui le transporte.
+> * Ce miroir primaire est donc constitué de 18 miroirs hexagonaux qui forment une sorte de nid d'abeille, et l'ensemble est plié en 3 pour rentrer dans le coiffe du lanceur.
+> * Chaque miroir est composé de beryllium et est recouvert d'une fine couche d'or, qui est un matériau qui réfléchit particulièrement bien la lumière infrarouge
 - À son bord se trouvent 4 instruments scientifiques :
 > * Miri : une caméra couplée à un spectromètre agissant dans l'infrarouge moyen (5 à 28 micromètres de longueur d'onde)
 > * NIRcam : une caméra infrarouge
@@ -1015,24 +1015,21 @@ Burcher
 > * Niriss : un spectromètre grand champ spécialisé dans le proche infrarouge
 - Il est aussi doté de 5 boucliers de protection qui forment un pare-soleil dont la surface est aussi grande qu'un terrain de tennis.
 > Ces boucliers sont constitués d'une très fine couche d'un matériau plastique particulier appelé klapton. Ils sont nécessaire pour maintenir au frais les instruments du James Webb (-258°C).
-
 - La durée nominale de sa mission est fixée à 5 ans (2027), mais elle pourrait être prolongée jusqu'à 5 années supplémentaires (2032) si le télescope fonctionne encore bien d'ici là
 > L'élément déterminant pour la durée de la mission est le réservoir d'hydrazine qui sert à manouvrer le télescope. Une fois vidé, on ne peut pas (encore) le ravitailler, même si des ingénieurs réfléchissent déjà à cette éventualité en interne.
 - La résolution angulaire du JWST est 7 fois plus élevée que le télescope spatial Spitzer, qui est le plus puissant observatoire spatial infrarouge actuellement en service, - Il est aussi 50 fois plus sensible que Spitzer, ce qui lui permet d'observer des objets de très faible luminosité (?)
 
 ## Différences avec Hubble
 
-- Contrairement à Hubble, qui observe essentiellement dans le domaine du visible et de l'ultraviolet, le James Webb peut observer dans l'infrarouge moyen
+- Le miroir du JWST fait 6,5 m de diamètre, tandis que celui de Hubble ne fait que 2,4 mètres.
+- Contrairement à Hubble, qui observe essentiellement dans le domaine du visible et de l'ultraviolet (et s'aventure aussi dans l'infrarouge proche), le James Webb peut observer dans l'infrarouge moyen
 > Ce sont des longueurs d'ondes qui sont largement inaccessible au sol, parce qu'elles sont majoritairement absorbées par les molécules de l'atmosphère, et les rares grains de lumière infrarouge qui nous parviennent sont parasitées par des sources terrestres naturelles et artificielles.
 - Hubble se trouve relativement près de la Terre, à 570 km de distance. Ca a notamment permis à des astronautes de réparer le télescope défectueux entre 1993 et 2009. Mais le JWST se trouve à 1,5 millions de km, c'est-à-dire bien au delà de nos capacités à y envoyer des humains, donc on n'a donc aucun moyen de le réparer en cas de problème.
-
 
 ## Placement
 
 - Le JWST sera placé sur une orbite parallèle à la Terre située à 1,5 million de km de notre planète (environ 4 fois la distance Terre-Lune). Un point qu'on appelle le point de Lagrange L2.
 > 
-
-
 
 ## Historique
 
@@ -1044,7 +1041,6 @@ Burcher
 - La construction du télescope a coûté 10 milliards de dollars, soit 20 fois plus que l'estimation initiale.
 > Mais ça reste 2 ou 3 milliards moins cher qu'un porte-avion américain dernier cri
 - En 2011, le Congrès américain a même songé à arrêté le projet à cause de l'augmentation toujours croissante des dépenses
-
 
 ## Lancement
 
