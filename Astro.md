@@ -1004,18 +1004,18 @@ Burcher
 
 ## Caractéristiques
 
-- Le JWST est une sonde de 6,2 tonnes, et dont l'envergure une fois déployée est comparable à celle d'un terrain de tennis (22 m de long, 14 de large).
+- Le JWST est une sonde de 6,2 tonnes, et dont l'envergure une fois déployée est comparable à celle d'un terrain de tennis (22 m de long, 12 de large).
 - Son miroir primaire de 6,5 mètres de diamètre en fait le plus grand télescope jamais envoyé dans l'espace 
 > * Le miroir est si grand qu'il a fallu déployer des trésors d'ingéniérie pour le faire tenir dans la coiffe de la fusée Ariane 5 qui le transporte.
 > * Il est donc constitué de 18 petits miroirs hexagonaux ( ?) qui forment une sorte de nid d'abeille, et l'ensemble est plié en 3 pour rentrer dans le coiffe du lanceur.
 > * Chaque miroir est composé de beryllium et est recouvert d'une fine couche d'or, qui est un matériau qui réfléchit particulièrement bien la lumière infrarouge
 - À son bord se trouvent 4 instruments scientifiques :
-> * Miri : une caméra couplée à un spectromètre agissant dans l'infrarouge moyen (5 à 28 micromètres de longueur d'onde)
+> * Miri : un spectro-imageur (ie une caméra couplée à un spectromètre) agissant dans l'infrarouge moyen (0,6 à 28 micromètres de longueur d'onde)
 > * NIRcam : une caméra infrarouge
 > * NIRspec : un spectromètre multi-objet
 > * Niriss : un spectromètre grand champ spécialisé dans le proche infrarouge
-- Il est aussi doté de 5 boucliers de protection qui forment un pare-soleil dont la surface est aussi grande qu'un terrain de tennis.
-> Ces boucliers sont constitués d'une très fine couche d'un matériau plastique particulier appelé klapton. Ils sont nécessaire pour maintenir au frais les instruments du James Webb (-258°C).
+- Comme le JWST observe dans le domaine des infrarouges, il doit être refroidit en permanence à une température inférieure à -223°C, sinon la chaleur dégagée par les instruments pourrait perturber les mesures. Il est donc doté de 5 boucliers de protection pliables qui forment un pare-soleil dont la surface est aussi grande qu'un terrain de tennis une fois déployé.
+> Ces boucliers sont constitués d'une très fine couche d'un matériau plastique particulier appelé klapton. 
 - La durée nominale de sa mission est fixée à 5 ans (2027), mais elle pourrait être prolongée jusqu'à 5 années supplémentaires (2032) si le télescope fonctionne encore bien d'ici là
 > L'élément déterminant pour la durée de la mission est le réservoir d'hydrazine qui sert à manouvrer le télescope. Une fois vidé, on ne peut pas (encore) le ravitailler, même si des ingénieurs réfléchissent déjà à cette éventualité en interne.
 - La résolution angulaire du JWST est 7 fois plus élevée que le télescope spatial Spitzer, qui est le plus puissant observatoire spatial infrarouge actuellement en service, - Il est aussi 50 fois plus sensible que Spitzer, ce qui lui permet d'observer des objets de très faible luminosité (?)
