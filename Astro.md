@@ -24,6 +24,7 @@
 - [Planétologie comparée](#Planétologie-comparée)
 - [Les odeurs de l'univers](#Les-odeurs-de-lunivers)
 - [Le James Webb Space Telescope](#le-james-webb-space-telescope)
+- [Parker Solar Probe](#Parker-solar-probe)
 
 *Sources*
 
@@ -1033,6 +1034,7 @@ Burcher
 > * Il va notamment mettre en lumière une époque encore relativement mystérieuse de l'histoire de l'univers, qu'on appelle l'époque de la réionisation, qui a eu lieu au cours du premier milliard d'années de l'histoire du cosmos et au cours de laquelle la lumière des premières étoiles a éjecté une grande partie des électrons de l'univers de leurs atomes
 > * Il va aussi permettre aux astronomes de mieux comprendre la formation des structures à grande échelles de l'univers, c'est-à-dire les galaxies, les amas de galaxies, et les filaments de la toile cosmique, qui correspond à la distribution à grande échelle de la matière dans l'univers.
 > * En particulier, il va nous aider à comprendre pourquoi les galaxies formaient des étoiles à un rythme 10 fois plus élevé que maintenant il y a 10 milliards d'années.
+> * Les longueurs d’onde observées par le JWST permettront de sonder des phénomènes invisibles dans le domaine optique, comme la formation des étoiles qui se produit derrière d’épais nuages de poussière.
 > * Grâce à lui, on pourra mieux comprendre la chimie et la structure des disques protoplanétaires
 > * On pourra aussi sonder pour la première fois la composition chimique de l'atmosphère d'exoplanètes rocheuses dans des longueurs d'ondes pertinentes pour y déceler des signatures potentielles de vie (eau, ozone, méthane...). L'une dess cibles prioritaires à ce titre est le système Trappist-1, découvert en 2015 et qui compte 7 planètes de tailles similaires à la Terre dont 3 se trouvent dans la zone habitable.
 
@@ -1047,7 +1049,6 @@ Burcher
 ## Placement
 
 - Le JWST sera placé sur une orbite parallèle à la Terre située à 1,5 million de km de notre planète (environ 4 fois la distance Terre-Lune). Un point qu'on appelle le point de Lagrange L2.
-> 
 
 ## Historique
 
@@ -1077,3 +1078,7 @@ Burcher
 - Au cours de son voyage, il va se déployer. Et le processus de déploiement implique plusieurs centaines d'étapes. Et si une seule de ces étapes elle ne se passe pas bien, cela pourrait mettre en péril la mission dans son intégralité
 > La NASA estime à 344 le nombre de points de défaillance potentielles dans le processus de déploiement.
 - Après quelques mois de tests de fonctionnement de ses miroirs et instruments, le JWST devrait commencer ses premières observations scientifiques à partir de fin juin-début juillet prochain.
+
+# Parker Solar Probe
+
+- 
