@@ -1001,6 +1001,7 @@ Burcher
 - [Le télescope spatial James Webb et l'instrument MIRI](https://youtu.be/vxR357rRBOI) - CNRS (2021)
 - [What are the differences between the Webb and Hubble space telescopes?](https://youtu.be/Mf1487Tu7x4) - Canadian Space Agency (2021)
 - [Visite de l'IRFU pour voir MIRI](https://twitter.com/FlashCordon/status/1452232401149644803) - Thread de @Flashcordon (2021)
+- [Webb’s Golden Mirror Wings Open One Last Time on Earth](https://www.nasa.gov/feature/goddard/2021/webb-s-golden-mirror-wings-open-one-last-time-on-earth) - NASA (2021)
 
 ---
 
@@ -1011,12 +1012,13 @@ Burcher
 - Le JWST est une sonde de 6,2 tonnes, et dont l'envergure une fois déployée est comparable à celle d'un terrain de tennis (22 m de long, 12 de large).
 - Son miroir primaire de 6,5 mètres de diamètre en fait le plus grand télescope jamais envoyé dans l'espace 
 > * Le miroir est si grand qu'il a fallu déployer des trésors d'ingéniérie pour le faire tenir dans la coiffe de la fusée Ariane 5 qui le transporte.
-> * Il est donc constitué de 18 petits miroirs hexagonaux (?) qui forment une sorte de nid d'abeille, et l'ensemble est plié en 3 pour rentrer dans le coiffe du lanceur.
+> * Il est donc constitué de 18 "segments", 18 petits miroirs hexagonaux qui forment une sorte de nid d'abeille, et l'ensemble est plié en 3 pour rentrer dans le coiffe du lanceur.
 > * Chaque miroir est composé de beryllium et est recouvert d'une fine couche d'or, qui est un matériau qui réfléchit particulièrement bien la lumière infrarouge
+> * Tous les hexagones doivent être parfaitement alignés pour que le télescope fonctionne. C'est pourquoi les segments sont montés sur des petits moteurs (actionneurs) extrêmement précis (il y en a 132 en tout) qui peuvent modifier leur orientation à la dizaine de nanomètres près (1 dix-millième de l'épaisseur d'un cheveu).
 - À son bord se trouvent 4 instruments scientifiques qui lui permettent de réaliser des images du ciel en infrarouge et d'analyser la composition chimique des objets qui s'y trouvent :
 > * Miri : un spectro-imageur (ie une caméra couplée à un spectromètre) agissant dans l'infrarouge moyen (0,6 à 28 micromètres de longueur d'onde). Contrairement au reste des instruments, Miri est refroidi activement par un cryogénérateur à 7 degrés au dessus du zéro absolu (-266°C).
 > * NIRcam : une caméra infrarouge
-> * NIRspec : un spectromètre multi-objet
+> * NIRspec : un spectromètre multi-objets
 > * Niriss : un spectromètre grand champ spécialisé dans le proche infrarouge
 - Comme le JWST observe dans le domaine des infrarouges, il doit être refroidit en permanence à une température inférieure à -223°C (50 degrés au dessus du zéro absolu), sinon la chaleur dégagée par les instruments pourrait perturber les mesures. Il est donc doté de 5 boucliers de protection pliables qui forment un pare-soleil dont la surface est aussi grande qu'un terrain de tennis une fois déployé.
 > Ces boucliers sont des feuillets très fins (aussi fin qu'un cheveu ?) constitués d'un polymère appelé klapton. Visuellement ça ressemble un peu à l'intérieur d'un paquet de chips. 
@@ -1029,6 +1031,7 @@ Burcher
 - Le JWST a de nombreux objectifs scientifiques ambitieux : observer les premières étoiles et les premières galaxies de l’univers, voir naître des systèmes stellaires et planétaires et même chercher des traces de vie dans la composition atmosphérique des exoplanètes !
 > * Il va notamment mettre en lumière une époque encore relativement mystérieuse de l'histoire de l'univers, qu'on appelle l'époque de la réionisation, qui a eu lieu au cours du premier milliard d'années de l'histoire du cosmos et au cours de laquelle la lumière des premières étoiles a éjecté une grande partie des électrons de l'univers de leurs atomes
 > * Il va aussi permettre aux astronomes de mieux comprendre la formation des structures à grande échelles de l'univers, c'est-à-dire les galaxies, les amas de galaxies, et les filaments de la toile cosmique, qui correspond à la distribution à grande échelle de la matière dans l'univers.
+> * En particulier, il va nous aider à comprendre pourquoi les galaxies formaient des étoiles à un rythme 10 fois plus élevé que maintenant il y a 10 milliards d'années.
 > * Grâce à lui, on pourra mieux comprendre la chimie et la structure des disques protoplanétaires
 > * On pourra aussi sonder pour la première fois la composition chimique de l'atmosphère d'exoplanètes rocheuses dans des longueurs d'ondes pertinentes pour y déceler des signatures potentielles de vie (eau, ozone, méthane...). L'une dess cibles prioritaires à ce titre est le système Trappist-1, découvert en 2015 et qui compte 7 planètes de tailles similaires à la Terre dont 3 se trouvent dans la zone habitable.
 
