@@ -1046,6 +1046,8 @@ Burcher
 > * Ces longueurs d'onde sont cruciales pour observer des objets relativement froids, comme de la poussière ou du gaz interstellaire, mais aussi des galaxies très très lointaines dont la lumière a été décalée dans le domaine des infrarouges du fait de l'expansion de l'univers.
 - Hubble se trouve relativement près de la Terre, à 570 km de distance. Ca a notamment permis à des astronautes de réparer le télescope défectueux entre 1993 et 2009. Mais le JWST se trouve à 1,5 millions de km, c'est-à-dire bien au delà de nos capacités à y envoyer des humains, donc on n'a donc aucun moyen de le réparer en cas de problème.
 
+![hubblevsjwst](https://i.imgur.com/FodKRBw.jpg)
+
 ## Placement
 
 - Le JWST sera placé sur une orbite parallèle à la Terre située à 1,5 million de km de notre planète (environ 4 fois la distance Terre-Lune). Un point qu'on appelle le point de Lagrange L2.
@@ -1078,6 +1080,10 @@ Burcher
 - Au cours de son voyage, il va se déployer. Et le processus de déploiement implique plusieurs centaines d'étapes. Et si une seule de ces étapes elle ne se passe pas bien, cela pourrait mettre en péril la mission dans son intégralité
 > La NASA estime à 344 le nombre de points de défaillance potentielles dans le processus de déploiement.
 - Après quelques mois de tests de fonctionnement de ses miroirs et instruments, le JWST devrait commencer ses premières observations scientifiques à partir de fin juin-début juillet prochain.
+
+![deploiement](https://i.imgur.com/H3ufIYc.jpg)
+![l2](https://i.imgur.com/YCl6IQo.jpg)
+
 
 # Parker Solar Probe
 
