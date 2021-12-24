@@ -1023,6 +1023,8 @@ Burcher
 ## Science
 
 - Le JWST a de nombreux objectifs scientifiques ambitieux : observer les premières étoiles et les premières galaxies de l’univers, voir naître des systèmes stellaires et planétaires et même chercher des traces de vie dans la composition atmosphérique des exoplanètes !
+> * Grâce à lui, on pourra mieux comprendre la chimie et la structure des disques protoplanétaires seront mieux appréhen-
+> * On pourra aussi sonder pour la première fois la composition chimique de l'atmosphère d'exoplanètes rocheuses dans des longueurs d'ondes pertinentes pour y déceler des signatures potentielles de vie (eau, ozone, méthane...). L'une dess cibles prioritaires à ce titre est le système Trappist-1, découvert en 2015 et qui compte 7 planètes de tailles similaires à la Terre dont 3 se trouvent dans la zone habitable.
 
 ## Différences avec Hubble
 
