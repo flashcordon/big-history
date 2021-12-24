@@ -997,6 +997,10 @@ Burcher
 - [Que pourra voir le télescope spatial James Webb que ne peut pas observer Hubble ?](https://www.futura-sciences.com/sciences/actualites/telescope-spatial-james-webb-pourra-voir-telescope-spatial-james-webb-ne-peut-pas-observer-hubble-94465/) - Futura Sciences (2021) 
 - [The Webb Space Telescope Will Rewrite Cosmic History. If It Works.](https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/) - Quanta Magazine (2021) 
 - [En photos : le télescope spatial Webb suspendu à un fil et installé sur Ariane 5](https://www.futura-sciences.com/sciences/actualites/james-webb-space-telescope-photos-telescope-spatial-webb-suspendu-fil-installe-ariane-5-95564/) - Futura Sciences (2021)
+- [The Insane Engineering of James Webb Telescope](https://youtu.be/aICaAEXDJQQ) - Real Engineering (2021)
+- [Le télescope spatial James Webb et l'instrument MIRI](https://youtu.be/vxR357rRBOI) - CNRS (2021)
+- [What are the differences between the Webb and Hubble space telescopes?](https://youtu.be/Mf1487Tu7x4) - Canadian Space Agency (2021)
+- [Visite de l'IRFU pour voir MIRI](https://twitter.com/FlashCordon/status/1452232401149644803) - Thread de @Flashcordon (2021)
 
 ---
 
