@@ -1027,7 +1027,9 @@ Burcher
 ## Science
 
 - Le JWST a de nombreux objectifs scientifiques ambitieux : observer les premières étoiles et les premières galaxies de l’univers, voir naître des systèmes stellaires et planétaires et même chercher des traces de vie dans la composition atmosphérique des exoplanètes !
-> * Grâce à lui, on pourra mieux comprendre la chimie et la structure des disques protoplanétaires seront mieux appréhen-
+> * Il va notamment mettre en lumière une époque encore relativement mystérieuse de l'histoire de l'univers, qu'on appelle l'époque de la réionisation, qui a eu lieu au cours du premier milliard d'années de l'histoire du cosmos et au cours de laquelle la lumière des premières étoiles a éjecté une grande partie des électrons de l'univers de leurs atomes
+> * Il va aussi permettre aux astronomes de mieux comprendre la formation des structures à grande échelles de l'univers, c'est-à-dire les galaxies, les amas de galaxies, et les filaments de la toile cosmique, qui correspond à la distribution à grande échelle de la matière dans l'univers.
+> * Grâce à lui, on pourra mieux comprendre la chimie et la structure des disques protoplanétaires
 > * On pourra aussi sonder pour la première fois la composition chimique de l'atmosphère d'exoplanètes rocheuses dans des longueurs d'ondes pertinentes pour y déceler des signatures potentielles de vie (eau, ozone, méthane...). L'une dess cibles prioritaires à ce titre est le système Trappist-1, découvert en 2015 et qui compte 7 planètes de tailles similaires à la Terre dont 3 se trouvent dans la zone habitable.
 
 ## Différences avec Hubble
@@ -1051,7 +1053,7 @@ Burcher
 - Le planning initial prévoyait un lancement en 2007. 
 > En un sens, le télescope a donc 14 ans de retard.
 - La construction du télescope a coûté 10 milliards de dollars, soit 20 fois plus que l'estimation initiale qui était beaucoup trop optimiste (0,5 milliard de dollars).
-> Mais ça reste 2 ou 3 milliards moins cher qu'un porte-avion américain dernier cri
+> Mais ça reste 2 ou 3 milliards moins cher qu'un porte-avion américain dernier cri, et ça sert aussi à payer les salaires des 10 000 ingénieurs, techniciens et chercheurs ont participé au projet
 - En 2011, le Congrès américain a même songé à arrêté le projet à cause de l'augmentation toujours croissante des dépenses
 
 ## Polémiques
