@@ -1007,22 +1007,22 @@ Burcher
 - Le JWST est une sonde de 6,2 tonnes, et dont l'envergure une fois déployée est comparable à celle d'un terrain de tennis (22 m de long, 12 de large).
 - Son miroir primaire de 6,5 mètres de diamètre en fait le plus grand télescope jamais envoyé dans l'espace 
 > * Le miroir est si grand qu'il a fallu déployer des trésors d'ingéniérie pour le faire tenir dans la coiffe de la fusée Ariane 5 qui le transporte.
-> * Il est donc constitué de 18 petits miroirs hexagonaux ( ?) qui forment une sorte de nid d'abeille, et l'ensemble est plié en 3 pour rentrer dans le coiffe du lanceur.
+> * Il est donc constitué de 18 petits miroirs hexagonaux (?) qui forment une sorte de nid d'abeille, et l'ensemble est plié en 3 pour rentrer dans le coiffe du lanceur.
 > * Chaque miroir est composé de beryllium et est recouvert d'une fine couche d'or, qui est un matériau qui réfléchit particulièrement bien la lumière infrarouge
-- À son bord se trouvent 4 instruments scientifiques :
-> * Miri : un spectro-imageur (ie une caméra couplée à un spectromètre) agissant dans l'infrarouge moyen (0,6 à 28 micromètres de longueur d'onde)
+- À son bord se trouvent 4 instruments scientifiques qui lui permettent de réaliser des images du ciel en infrarouge et d'analyser la composition chimique des objets qui s'y trouvent :
+> * Miri : un spectro-imageur (ie une caméra couplée à un spectromètre) agissant dans l'infrarouge moyen (0,6 à 28 micromètres de longueur d'onde). Contrairement au reste des instruments, Miri est refroidi activement par un cryogénérateur à 7 degrés au dessus du zéro absolu (-266°C).
 > * NIRcam : une caméra infrarouge
 > * NIRspec : un spectromètre multi-objet
 > * Niriss : un spectromètre grand champ spécialisé dans le proche infrarouge
-- Comme le JWST observe dans le domaine des infrarouges, il doit être refroidit en permanence à une température inférieure à -223°C, sinon la chaleur dégagée par les instruments pourrait perturber les mesures. Il est donc doté de 5 boucliers de protection pliables qui forment un pare-soleil dont la surface est aussi grande qu'un terrain de tennis une fois déployé.
-> Ces boucliers sont des feuillets très fins (aussi fin qu'un cheveu ?) constitués d'un polymère appelé klapton. 
+- Comme le JWST observe dans le domaine des infrarouges, il doit être refroidit en permanence à une température inférieure à -223°C (50 degrés au dessus du zéro absolu), sinon la chaleur dégagée par les instruments pourrait perturber les mesures. Il est donc doté de 5 boucliers de protection pliables qui forment un pare-soleil dont la surface est aussi grande qu'un terrain de tennis une fois déployé.
+> Ces boucliers sont des feuillets très fins (aussi fin qu'un cheveu ?) constitués d'un polymère appelé klapton. Visuellement ça ressemble un peu à l'intérieur d'un paquet de chips. 
 - La durée nominale de sa mission est fixée à 5 ans (2027), mais elle pourrait être prolongée jusqu'à 5 années supplémentaires (2032) si le télescope fonctionne encore bien d'ici là
 > L'élément déterminant pour la durée de la mission est le réservoir d'hydrazine qui sert à manouvrer le télescope. Une fois vidé, on ne peut pas (encore) le ravitailler, même si des ingénieurs réfléchissent déjà à cette éventualité en interne.
 - La résolution angulaire du JWST est 7 fois plus élevée que le télescope spatial Spitzer, qui est le plus puissant observatoire spatial infrarouge actuellement en service, - Il est aussi 50 fois plus sensible que Spitzer, ce qui lui permet d'observer des objets de très faible luminosité (?)
 
 ## Science
 
-- 
+- Le JWST a de nombreux objectifs scientifiques ambitieux : observer les premières étoiles et les premières galaxies de l’univers, voir naître des systèmes stellaires et planétaires et même chercher des traces de vie dans la composition atmosphérique des exoplanètes !
 
 ## Différences avec Hubble
 
@@ -1042,11 +1042,15 @@ Burcher
 - Le télescope a été imaginé initialement en 1989.
 - Le projet a ensuite été modifié suite au prolongement de la durée de vie de Hubble, et relancé à nouveau en 1995 à la demande de l'administrateur de la NASA de l'époque Dan Golding.
 > Des études de faisabilité ont été conduites entre 1997 et 2001
-- Le planning initial prévoyait un lancement en 2008. 
-> En un sens, le télescope a donc plus de 13 ans de retard.
-- La construction du télescope a coûté 10 milliards de dollars, soit 20 fois plus que l'estimation initiale qui était beaucoup trop optimiste.
+- Le planning initial prévoyait un lancement en 2007. 
+> En un sens, le télescope a donc 14 ans de retard.
+- La construction du télescope a coûté 10 milliards de dollars, soit 20 fois plus que l'estimation initiale qui était beaucoup trop optimiste (0,5 milliard de dollars).
 > Mais ça reste 2 ou 3 milliards moins cher qu'un porte-avion américain dernier cri
 - En 2011, le Congrès américain a même songé à arrêté le projet à cause de l'augmentation toujours croissante des dépenses
+
+## Polémiques
+
+- Le JWST 
 
 ## Lancement
 
@@ -1059,3 +1063,4 @@ Burcher
 - le JWST mettra 29 jours à atteindre le point de Lagrange L2. 
 - Au cours de son voyage, il va se déployer. Et le processus de déploiement implique plusieurs centaines d'étapes. Et si une seule de ces étapes elle ne se passe pas bien, cela pourrait mettre en péril la mission dans son intégralité
 > La NASA estime à 344 le nombre de points de défaillance potentielles dans le processus de déploiement.
+- Après quelques mois de tests de fonctionnement de ses miroirs et instruments, le JWST devrait commencer ses premières observations scientifiques à partir de fin juin-début juillet prochain.
