@@ -1057,7 +1057,8 @@ Burcher
 > En un sens, le télescope a donc 14 ans de retard.
 - La construction du télescope a coûté 10 milliards de dollars, soit 20 fois plus que l'estimation initiale qui était beaucoup trop optimiste (0,5 milliard de dollars).
 > Mais ça reste 2 ou 3 milliards moins cher qu'un porte-avion américain dernier cri, et ça sert aussi à payer les salaires des 10 000 ingénieurs, techniciens et chercheurs ont participé au projet
-- En 2011, le Congrès américain a même songé à arrêté le projet à cause de l'augmentation toujours croissante des dépenses
+- En 2011, le Congrès américain a même songé à arrêté le projet à cause de l'augmentation toujours croissante des dépenses. 
+> Il finit par être sauvé suite à la mobilisation du public et des scientifiques
 
 ## Polémiques
 
