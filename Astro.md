@@ -1024,7 +1024,8 @@ Burcher
 > Ces boucliers sont des feuillets très fins (aussi fin qu'un cheveu ?) constitués d'un polymère appelé klapton. Visuellement ça ressemble un peu à l'intérieur d'un paquet de chips. 
 - La durée nominale de sa mission est fixée à 5 ans (2027), mais elle pourrait être prolongée jusqu'à 5 années supplémentaires (2032) si le télescope fonctionne encore bien d'ici là
 > L'élément déterminant pour la durée de la mission est le réservoir d'hydrazine qui sert à manouvrer le télescope. Une fois vidé, on ne peut pas (encore) le ravitailler, même si des ingénieurs réfléchissent déjà à cette éventualité en interne.
-- La résolution angulaire du JWST est 7 fois plus élevée que le télescope spatial Spitzer, qui est le plus puissant observatoire spatial infrarouge actuellement en service, - Il est aussi 50 fois plus sensible que Spitzer, ce qui lui permet d'observer des objets de très faible luminosité (?)
+- La résolution angulaire du JWST (sa capacité à distinguer des détails fins) est 7 fois plus élevée que le télescope spatial Spitzer, qui est le plus puissant observatoire spatial infrarouge actuellement en service
+- Il est aussi 50 fois plus sensible que Spitzer, ce qui lui permet d'observer des objets de très faible luminosité dans ces longueurs d'onde
 
 ## Science
 
