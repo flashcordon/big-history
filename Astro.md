@@ -1006,7 +1006,7 @@ Burcher
 
 - Son miroir primaire de 6,5 mètres de diamètre en fait le plus grand télescope jamais envoyé dans l'espace 
 > * Le miroir est si grand qu'il a fallu déployer des trésors d'ingéniérie pour le faire tenir dans la coiffe de la fusée Ariane 5 qui le transporte.
-> * Ce miroir primaire est donc constitué de 18 miroirs hexagonaux qui forment une sorte de nid d'abeille, et l'ensemble est plié en 3 pour rentrer dans le coiffe du lanceur.
+> * Il est donc constitué de 18 petits miroirs hexagonaux ( ?) qui forment une sorte de nid d'abeille, et l'ensemble est plié en 3 pour rentrer dans le coiffe du lanceur.
 > * Chaque miroir est composé de beryllium et est recouvert d'une fine couche d'or, qui est un matériau qui réfléchit particulièrement bien la lumière infrarouge
 - À son bord se trouvent 4 instruments scientifiques :
 > * Miri : une caméra couplée à un spectromètre agissant dans l'infrarouge moyen (5 à 28 micromètres de longueur d'onde)
@@ -1023,7 +1023,8 @@ Burcher
 
 - Le miroir du JWST fait 6,5 m de diamètre, tandis que celui de Hubble ne fait que 2,4 mètres.
 - Contrairement à Hubble, qui observe essentiellement dans le domaine du visible et de l'ultraviolet (et s'aventure aussi dans l'infrarouge proche), le James Webb peut observer dans l'infrarouge moyen
-> Ce sont des longueurs d'ondes qui sont largement inaccessible au sol, parce qu'elles sont majoritairement absorbées par les molécules de l'atmosphère, et les rares grains de lumière infrarouge qui nous parviennent sont parasitées par des sources terrestres naturelles et artificielles.
+> * Ce sont des longueurs d'ondes qui sont largement inaccessible au sol, parce qu'elles sont majoritairement absorbées par les molécules de l'atmosphère, et les rares grains de lumière infrarouge qui nous parviennent sont parasitées par des sources terrestres naturelles et artificielles.
+> * Ces longueurs d'onde sont cruciales pour observer des objets relativement froids, comme de la poussière ou du gaz interstellaire, mais aussi des galaxies très très lointaines dont la lumière a été décalée dans le domaine des infrarouges du fait de l'expansion de l'univers.
 - Hubble se trouve relativement près de la Terre, à 570 km de distance. Ca a notamment permis à des astronautes de réparer le télescope défectueux entre 1993 et 2009. Mais le JWST se trouve à 1,5 millions de km, c'est-à-dire bien au delà de nos capacités à y envoyer des humains, donc on n'a donc aucun moyen de le réparer en cas de problème.
 
 ## Placement
