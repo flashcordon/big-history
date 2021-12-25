@@ -1003,6 +1003,8 @@ Burcher
 - [What are the differences between the Webb and Hubble space telescopes?](https://youtu.be/Mf1487Tu7x4) - Canadian Space Agency (2021)
 - [Visite de l'IRFU pour voir MIRI](https://twitter.com/FlashCordon/status/1452232401149644803) - Thread de @Flashcordon (2021)
 - [Webb’s Golden Mirror Wings Open One Last Time on Earth](https://www.nasa.gov/feature/goddard/2021/webb-s-golden-mirror-wings-open-one-last-time-on-earth) - NASA (2021)
+- [Les points de Lagrange](https://www.astronomes.com/histoire-astronomie/les-points-de-lagrange/) - Astronomes
+- [Le James Webb Space Telescope expliqué par ceux qui l’ont fait](https://theconversation.com/le-james-webb-space-telescope-explique-par-ceux-qui-lont-fait-171017) - The Conversation (2021)
 
 ---
 
@@ -1051,6 +1053,8 @@ Burcher
 ## Placement
 
 - Le JWST sera placé sur une orbite parallèle à la Terre située à 1,5 million de km de notre planète (environ 4 fois la distance Terre-Lune). Un point qu'on appelle le point de Lagrange L2.
+> * Le point de Lagrange L2 se trouve sur la ligne Terre-Soleil, mais au-delà de la Terre.
+> * C’est depuis ce point que les satellites WMAP et Planck ont étudié le rayonnement fossile et l’observatoire Herschel l’Univers infrarouge. C’est de ce point que l’observatoire Gaia crée un catalogue d’un milliard d’étoiles 
 
 ## Historique
 
