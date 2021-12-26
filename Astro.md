@@ -1097,6 +1097,13 @@ Burcher
 
 ---
 
-- 
-
-- 
+- La NASA a annoncé dans un communiqué de presse paru le 14 Décembre dernier qu’on avait touché le Soleil.
+- Derrière cette affirmation un peu sensationnaliste, il y a une véritable avancée importante dans notre compréhension de notre étoile
+- Le 28 Avril dernier, la sonde solaire Parker, de la NASA, a pénétré pour la première fois de l’histoire à l’intérieur de la couronne solaire, une zone qu’on peut voir comme l’atmosphère de notre étoile et qu’on peut notamment observer depuis la Terre lors des éclipses solaires. La sonde a réalisé 3 entrées dans cette région, dont une qui a duré près de 5h. 
+- Si on en entend parler que maintenant de cette nouvelle, c’est qu’il a fallu plusieurs mois de traitement des données de la sonde pour confirmer qu’elle avait bien traversé la limite qui marque le bord de l’atmosphère solaire, qu’on appelle la surface d'Alfvén
+- Au cours de ce voyage, la sonde Parker a mesuré que la surface d’Alfven n’était pas une bulle toute lisse, mais qu’elle présentait des protubérances, des pics et des vallées
+- Pour couronner le tout, la caméra de la sonde (WISPR) a filmé son entrée dans le couronne, ce qui a donné une vidéo assez magnifique que l’on peut retrouver facilement sur Youtube et qui montre des flux de particules chargées qui se baladent à toutes vitesse dans la direction du champ magnétique solaire, le tout sur fond de Voie Lactée. 
+- Cette traversée de la couronne solaire c’est un résultat très important parce qu’il permet aux astronomes de mieux comprendre les phénomènes physiques qui se passent à l’intérieur de cette région.
+- Il faut savoir que la sonde Parker a été envoyée en 2018 pour répondre à un mystère de longue date : le problème du chauffage de la couronne solaire. La température à la surface du Soleil s'élève à 6000 degrés maximum alors qu'elle peut atteindre jusqu’à 2 million de degrés dans sa couronne. Et on ne sait pas encore comment c’est possible.
+- En Avril dernier, la sonde Parker s’est approchée du Soleil jusqu’à atteindre une distance de 8 millions de kilomètres, ce qui lui a permis au passage de confirmer son titre d’objet humain envoyé le plus proche de notre étoile.
+- En ce moment, la sonde se trouve à environ 13 millions de kilomètres de la surface du Soleil. Elle devrait encore réaliser de nombreux passages à travers la couronne solaire, le prochain étant prévu en Janvier 2022, et elle devrait continuer de se rapprocher progressivement de notre étoile au fil de ses orbites jusqu'à atteindre environ 7 millions de kilomètres en 2025.
