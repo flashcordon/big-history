@@ -1054,6 +1054,7 @@ Burcher
 
 - Le JWST sera placé sur une orbite parallèle à la Terre située à 1,5 million de km de notre planète (environ 4 fois la distance Terre-Lune). Un point qu'on appelle le point de Lagrange L2.
 > * Le point de Lagrange L2 se trouve sur la ligne Terre-Soleil, mais au-delà de la Terre.
+> * Ce point il est assez spécial parce qu'il permet au James Webb de rester sur la ligne Terre-Soleil au fil de son orbite, ce qui permet au pare Soleil du télescope de protéger ses instruments à la fois de la lumière et de la chaleur du Soleil, mais aussi de la Terre et de la Lune.
 > * C’est depuis ce point que les satellites WMAP et Planck ont étudié le rayonnement fossile et l’observatoire Herschel l’Univers infrarouge. C’est de ce point que l’observatoire Gaia crée un catalogue d’un milliard d’étoiles 
 
 ## Historique
@@ -1081,6 +1082,7 @@ Burcher
 ## Now what
 
 - le JWST mettra 29 jours à atteindre le point de Lagrange L2. 
+- En ce moment il est en train de faire quelques corrections mineures de trajectoire pour atteindre sa destination.
 - Au cours de son voyage, il va se déployer. Et le processus de déploiement implique plusieurs centaines d'étapes. Et si une seule de ces étapes elle ne se passe pas bien, cela pourrait mettre en péril la mission dans son intégralité
 > La NASA estime à 344 le nombre de points de défaillance potentielles dans le processus de déploiement.
 - Après quelques mois de tests de fonctionnement de ses miroirs et instruments, le JWST devrait commencer ses premières observations scientifiques à partir de fin juin-début juillet prochain.
