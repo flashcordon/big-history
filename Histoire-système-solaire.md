@@ -1484,6 +1484,9 @@ gas in these reservoirs is not accessible and thus cannot be readily mobilized
 - [Pioneer 11](https://solarsystem.nasa.gov/missions/pioneer-11/in-depth/) - NASA
 - [La sonde Pioneer 11 a été lancée il y a 40 ans](https://www.futura-sciences.com/sciences/actualites/astronomie-sonde-pioneer-11-ete-lancee-il-y-40-ans-45769/) - Futura sciences (2013)
 - [Hubble Finds First Evidence of Water Vapor at Jupiter’s Moon Ganymede](https://www.nasa.gov/feature/goddard/2021/hubble-finds-first-evidence-of-water-vapor-at-jupiter-s-moon-ganymede) - NASA (2021)
+- [The Interiors of Jupiter and Saturn](https://oxfordre.com/planetaryscience/view/10.1093/acrefore/9780190647926.001.0001/acrefore-9780190647926-e-175) -  Helled (2019)
+- [Understanding Jupiter's interior](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JE005080) - Mellitzer et al (2016)
+
 
 ---
 
@@ -1697,6 +1700,37 @@ before witnessed the appearance of a new red spot.
 The development of such storms is unpredictable,
 and most eventually disappear. Even the Great Red
 Spot may someday vanish.
+
+## Comment connaît-on l'intérieur de Jupiter
+
+- Les modèles d’intérieur de Jupiter sont basés sur les équations que l’on a sur le comportement de l’hydrogène, de l’hélium et de mixtures de ces gaz et de quelques autres lorsqu’on fait varier les conditions de pression et de températures (on appelle ça des équations d’état). Mais ces modèles sont contraints par des observations variées :
+- Par exemple en 2016 la sonde Juno a mesuré très précisément la forme du champ gravitationnel de Jupiter, ce qui pose des contraintes assez fortes sur sa masse et sa composition interne.
+- Une autre contrainte forte a été fournie par la sonde Galileo en 1995, lorsque la NASA l’a faite plonger dans l’atmosphère de Jupiter pour mesurer la composition chimique et son profil de température et de pression. 
+- On sait aussi que Jupiter possède un fort champ magnétique, et ça c’est un indice de la présence d’hydrogène métallique qui produit des courants de particule chargées à l’intérieur de Jupiter.
+- Sur Terre on a aussi des expériences de laboratoire qui étudient l’hydrogène et l’hélium à haute pression (en créant des ondes de choc), et des simulations numériques aussi.
+- Evidemment le modèle que tu m’a envoyé n’est pas le seul possible, il existe quelques hypothèses de structures internes alternatives qui correspondent aux données observationnelles qu’on a aujourd’hui (avec différents nombres de couches, différentes tailles des couches individuelles et  différentes compositions du noyau). 
+
+Because Jupiter has a strong, dipolar magnetic field, we know conducting metallic hydrogen must be present in its interior.
+
+measurements from past space missions that provided constraints for the interior structure of Jupiter. We discuss typical three-layer interior models that consist of a dense central core and an inner metallic and an outer molecular hydrogen-helium layer. These models rely heavily on experiments, analytical theory, and first-principles computer simulations of hydrogen and helium to understand their behavior up to the extreme pressures ∼10 Mbar and temperatures ∼10,000 K.
+
+In July 2016 the Juno spacecraft entered orbit around Jupiter, promising high-precision measurements of the gravitational field that will allow us to test our understanding of gas giant interiors better than ever before.
+
+All giant planet interior models rely on an equation of state that describes how materials behave under the extreme pressure (∼10 Mbar) and temperature (∼10,000 K) conditions in planetary interiors.
+
+Over the past 43 years Jupiter has been visited by nine spacecraft.
+
+Pioneers 10 and 11 were the first spacecraft to reach the vicinity of Jupiter, in December 1973 and December 1974.
+Galileo's most significant contribution to the understanding of Jupiter's interior was deploying an entry probe that measured the structure and composition of Jupiter's near-equatorial atmosphere to a maximum pressure of 22 bar
+
+Significant progress has been made with high-pressure laboratory experiments since the reverberating shock wave measurements by Weir et al. [1996] first produced hot, metallic hydrogen in the laboratory.
+Shock wave experiments are the preferred laboratory technique [Zeldovich and Raizer, 1968] to determine the equation of state at high pressure and temperature. During such experiments, a driving force is utilized to propel a pusher at constant velocity Up into a material at predetermined initial conditions (ρ0=m/V0,P0,T0). The impact generates a planar shock wave
+Helium has also been studied with first-principles computer simulations and high-pressure experiments, although to a lesser extent than hydrogen and deuterium. Early on, diamond anvil cells have been used to explore the solid phases of helium and its melting curve.
+One key constraint on Jupiter's atmosphere are the temperature-pressure measurements by the Galileo entry probe
+Furthermore, models for Jupiter's interior are constrained by the total mass of the planet, along with the measured gravitational moments J2 and J4
+The planetary internal structure is inferred from theoretical models that fit the available observational constraints by using theoretical equations of states (EOSs) for hydrogen, helium, their mixtures, and heavier elements (typically rocks and/or ices).
+However, there is no unique solution for determining the planetary structure and the results depend on the used EOSs as well as the model assumptions imposed by the modeler.
+Major model assumptions that can affect the derived internal structure include the number of layers, the heat transport mechanism within the planet (and its entropy), the nature of the core (compact vs. diluted), and the location (pressure) of separation between the two envelopes. 
 
 
 ## Lunes de Jupiter
