@@ -13,5 +13,6 @@
 - [A solarpunk panifesto](https://www.re-des.org/a-solarpunk-manifesto/)
 - [Le Solarpunk, une cure de Soleil contre la fin du monde](https://www.arte.tv/fr/articles/tracks-solarpunk-ecologie-sf) - Tracks, ARTE
 - [Solarpunk humanism: How we dream bigger than despair](https://onlysky.media/mclark/solarpunk-humanism-how-we-dream-bigger-than-despair/) - OnlySky
+- [SOLARPUNK: A REFERENCE GUIDE](https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965) - Jay Springett
 
 ***
