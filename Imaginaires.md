@@ -9,5 +9,8 @@
 - The fires these times
 - [« La science-fiction expérimente les conditions de la vie en commun »](https://usbeketrica.com/fr/article/la-science-fiction-experimente-les-conditions-de-la-vie-en-commun) - Yannick Rumpala, Usbek et Rica
 - [Sci-Fi Doesn't Have to Be Depressing: Welcome to Solarpunk](https://www.ozy.com/the-new-and-the-next/sci-fi-doesnt-have-to-be-depressing-welcome-to-solarpunk/82586/) - Ozy
+- [Un manifeste Solarpunk](http://www.re-des.org/un-manifest-solarpunk-francais/)
+- [A solarpunk panifesto](https://www.re-des.org/a-solarpunk-manifesto/)
+- [Le Solarpunk, une cure de Soleil contre la fin du monde](https://www.arte.tv/fr/articles/tracks-solarpunk-ecologie-sf) - Tracks, ARTE
 
 ***
