@@ -12,5 +12,6 @@
 - [Un manifeste Solarpunk](http://www.re-des.org/un-manifest-solarpunk-francais/)
 - [A solarpunk panifesto](https://www.re-des.org/a-solarpunk-manifesto/)
 - [Le Solarpunk, une cure de Soleil contre la fin du monde](https://www.arte.tv/fr/articles/tracks-solarpunk-ecologie-sf) - Tracks, ARTE
+- [Solarpunk humanism: How we dream bigger than despair](https://onlysky.media/mclark/solarpunk-humanism-how-we-dream-bigger-than-despair/) - OnlySky
 
 ***
