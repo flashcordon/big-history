@@ -5,6 +5,7 @@
 - [Physical Models of Galaxy Formation in a Cosmological Framework](https://arxiv.org/abs/1412.2712) - Sommerville & Davé (2014)
 - [A History of Dark Matter](https://arxiv.org/pdf/1605.04909.pdf) - Berton et Hooper (2016)
 - [Dark matter and cosmic structure](https://arxiv.org/abs/1210.0544) - Frenk and White (2012)
+- [Spiral Structures in Disc Galaxies](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5AAD9BB4EC87A557728FB2428444814F/S1323358014000319a.pdf/dawes_review_4_spiral_structures_in_disc_galaxies.pdf) - Dobbs and Baba (2014)
 
 ## Nucléosynthèse
 
