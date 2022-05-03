@@ -940,7 +940,7 @@ Burcher
 
 # Notre voisinage cosmique
 
-*Les étoiles voisines à 10 parsecs (Source : @Galaxy_Map 2021)*
+*Les étoiles voisines à 10 parsecs (Source : @Galaxy_Map 2021. Voir aussi [les cartes updatées ici](https://gruze.org/10pc/resources/))*
 
 ![10 pc stars](https://i.imgur.com/95ssTJn.jpg)
 
