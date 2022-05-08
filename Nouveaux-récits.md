@@ -26,6 +26,6 @@
 - Afrofuturism 2.0: The Rise of Astro-Blackness - édité par Reynaldo Anderson et Charles E. Jones
 - [AstroBlackness Vibes & The Age OF Ascension Tings!](https://medium.com/@qvercetty/astroblackness-vibes-the-age-of-ascension-tings-49f207a4b6f5) - Quentin VerCetty 
 
-# Concepts métissés
+# Concepts métissés / cosmopolitiques
 
-- buen vivir (Equateur), mir (communes russes), ubuntu (sud de l'Afrique), Zion (Rastafari) 
+- buen vivir (Equateur), mir (communes russes), ubuntu (sud de l'Afrique), Zion (Rastafari), Tout-Monde (Edouard Glissant), Pachamama (Andes)
