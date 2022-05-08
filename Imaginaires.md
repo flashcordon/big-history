@@ -24,3 +24,4 @@
 
 - [Exploring the Future of Astro-Blackness](https://www.vice.com/en/article/d3yaaq/exploring-the-future-of-astro-blackness) - Vice
 - Afrofuturism 2.0: The Rise of Astro-Blackness - édité par Reynaldo Anderson et Charles E. Jones
+- [AstroBlackness Vibes & The Age OF Ascension Tings!](https://medium.com/@qvercetty/astroblackness-vibes-the-age-of-ascension-tings-49f207a4b6f5) - Quentin VerCetty 
