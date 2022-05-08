@@ -1,4 +1,4 @@
-# L'essor du solarpunk
+# Solarpunk
 
 *Sources*
 
@@ -17,3 +17,10 @@
 - [SOLARPUNK: A REFERENCE GUIDE](https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965) - Jay Springett
 
 ***
+
+# Afro-futurisme
+
+## Astro-blackness
+
+- [Exploring the Future of Astro-Blackness](https://www.vice.com/en/article/d3yaaq/exploring-the-future-of-astro-blackness) - Vice
+- Afrofuturism 2.0: The Rise of Astro-Blackness - édité par Reynaldo Anderson et Charles E. Jones
