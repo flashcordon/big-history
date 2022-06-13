@@ -39,5 +39,10 @@
 *Sources*
 
 - [TAPISSERIE DE BAYEUX(repères chronologiques)](https://www.universalis.fr/encyclopedie/bayeux-reperes-chronologiques/) - Encyclopedia Universalis
+- [La comète de Halley : Les passages de 451 à 1145](https://www.cosmovisions.com/comHalleyChrono02.htm) - Cosmovisions
+
+---
 
 - À partir de février 1066 et jusqu'en avril, la comète de Halley, signe de mauvais augure pour le nouveau roi, est visible dans le ciel d'Angleterre. La comète figure sur la tapisserie, placée entre la scène du couronnement d'Harold et l'annonce qui lui est faite d'une menace d'invasion par la flotte normande.
+- Elle y est mise en rapport avec la mort du roi Harold II, tué dans une bataille peu après l'apparition de la comète, et avec l'accession au pouvoir, qui s'ensuivit, de Guillaume le Conquérant. 
+- 
