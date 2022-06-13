@@ -33,3 +33,11 @@
 - The find was sold and over the following years fell into the hands of various fences and dealers in stolen goods. In February 2002, the Basel police, in close cooperation with the State Office of Criminal Investigation, the Ministry of Education and Cultural Affairs and the State Office for Heritage Management and the Archaeology of Saxony-Anhalt, secured the find. Ever since, the originals belong to the treasury of the State Museum of Prehistory in Halle. The Sky Disc has been on show in the State Museum’s permanent exhibition since May 23rd, 2008.
 - les chercheurs sont arrivés à la conclusion que cette carte céleste représentait le ciel à partir d’un certain point de vue, à une certaine période de l’année. « Si l’on pose le disque à plat, à l’endroit où il a été trouvé, on a des angles de visée qui permettent d’avoir des points de repères à l’horizon correspondant au solstice d’été et au solstice d’hiver » affirme le chercheur. D’autres dates peuvent également être repérées. En effet, ce n’est pas à n’importe quel moment de l’année que l’on peut voir la pleine Lune avec la constellation des pléiades à proximité, et ce de manière très claire.
 - Cela n’arrive en réalité que dans deux cas précis ; en mars, au moment des premiers ensemencements et en automne, autre date importante des travaux agricole puisqu’elle correspond aux dernières moissons. Cette carte céleste a donc pu servir, c’est l’hypothèse la plus probable à ce jour, de calendrier agricole.
+
+## La comète de Halley dans la tapisserie de Bayeux
+
+*Sources*
+
+- [TAPISSERIE DE BAYEUX(repères chronologiques)](https://www.universalis.fr/encyclopedie/bayeux-reperes-chronologiques/) - Encyclopedia Universalis
+
+- À partir de février 1066 et jusqu'en avril, la comète de Halley, signe de mauvais augure pour le nouveau roi, est visible dans le ciel d'Angleterre. La comète figure sur la tapisserie, placée entre la scène du couronnement d'Harold et l'annonce qui lui est faite d'une menace d'invasion par la flotte normande.
