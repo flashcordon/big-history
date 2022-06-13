@@ -45,4 +45,7 @@
 
 - À partir de février 1066 et jusqu'en avril, la comète de Halley, signe de mauvais augure pour le nouveau roi, est visible dans le ciel d'Angleterre. La comète figure sur la tapisserie, placée entre la scène du couronnement d'Harold et l'annonce qui lui est faite d'une menace d'invasion par la flotte normande.
 - Elle y est mise en rapport avec la mort du roi Harold II, tué dans une bataille peu après l'apparition de la comète, et avec l'accession au pouvoir, qui s'ensuivit, de Guillaume le Conquérant. 
-- 
+- La tapisserie de Bayeux est une broderie (anciennement « tapisserie aux points d'aiguille ») du XIe siècle inscrite depuis 2007 au registre international Mémoire du monde par l'Unesco.
+- Œuvre d'art textile effectuée à l'aiguille sur une toile de lin 
+- Elle décrit des faits allant de la fin du règne du roi d'Angleterre Édouard le Confesseur en 1064 à la bataille d'Hastings en 1066, dont l'enjeu était le trône d'Angleterre, contesté à Harold Godwinson par Guillaume, duc de Normandie. 
+- Depuis 1983, elle est présentée au public au centre Guillaume-le-Conquérant à Bayeux, qui lui est entièrement dédié.  
