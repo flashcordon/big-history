@@ -40,15 +40,18 @@
 
 - [TAPISSERIE DE BAYEUX(repères chronologiques)](https://www.universalis.fr/encyclopedie/bayeux-reperes-chronologiques/) - Encyclopedia Universalis
 - [La comète de Halley : Les passages de 451 à 1145](https://www.cosmovisions.com/comHalleyChrono02.htm) - Cosmovisions
+- [Tapisserie de Bayeux](https://fr.wikipedia.org/wiki/Tapisserie_de_Bayeux) - Wikipédia
+- [Les comètes dans l'art](http://cometes.obspm.fr/fr/cometes-dans-lart.html) - Observatoire de Paris
 
 ---
 
 - À partir de février 1066 et jusqu'en avril, la comète de Halley, signe de mauvais augure pour le nouveau roi, est visible dans le ciel d'Angleterre. La comète figure sur la tapisserie, placée entre la scène du couronnement d'Harold et l'annonce qui lui est faite d'une menace d'invasion par la flotte normande.
 - Elle y est mise en rapport avec la mort du roi Harold II, tué dans une bataille peu après l'apparition de la comète, et avec l'accession au pouvoir, qui s'ensuivit, de Guillaume le Conquérant. 
 - La tapisserie de Bayeux est une broderie (anciennement « tapisserie aux points d'aiguille ») du XIe siècle inscrite depuis 2007 au registre international Mémoire du monde par l'Unesco.
-- Œuvre d'art textile effectuée à l'aiguille sur une toile de lin 
+- Œuvre d'art textile effectuée à l'aiguille sur une toile de lin, longue de 70 mètres
 - Elle décrit des faits allant de la fin du règne du roi d'Angleterre Édouard le Confesseur en 1064 à la bataille d'Hastings en 1066, dont l'enjeu était le trône d'Angleterre, contesté à Harold Godwinson par Guillaume, duc de Normandie. 
 - Depuis 1983, elle est présentée au public au centre Guillaume-le-Conquérant à Bayeux, qui lui est entièrement dédié.  
 - La comète de Halley, vue du 24 avril au 1er mai 1066 – soit quatre mois après l'avènement d'Harold – figurant sur la Tapisserie de Bayeux – scène 32.
 L'inscription, ISTI MIRANT STELLÃ, signifie Ceux-ci admirent l'étoile : on voit un groupe de six anglais à l'extérieur du palais royal ; cinq ont le nez en l'air et l'index désignant la comète.
+- En dépit de la description de l’observation, l’utilisation du motif de la comète dans cette œuvre célèbre cherche aussi à lui donner du sens, à la constituer en présage, ici heureux : la comète de la tapisserie, appelée plus tard «comète de Halley», est en effet un signe annonciateur de la victoire de Guillaume sur Harold et de la mort de ce dernier.
 
