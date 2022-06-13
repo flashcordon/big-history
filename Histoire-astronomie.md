@@ -49,3 +49,6 @@
 - Œuvre d'art textile effectuée à l'aiguille sur une toile de lin 
 - Elle décrit des faits allant de la fin du règne du roi d'Angleterre Édouard le Confesseur en 1064 à la bataille d'Hastings en 1066, dont l'enjeu était le trône d'Angleterre, contesté à Harold Godwinson par Guillaume, duc de Normandie. 
 - Depuis 1983, elle est présentée au public au centre Guillaume-le-Conquérant à Bayeux, qui lui est entièrement dédié.  
+- La comète de Halley, vue du 24 avril au 1er mai 1066 – soit quatre mois après l'avènement d'Harold – figurant sur la Tapisserie de Bayeux – scène 32.
+L'inscription, ISTI MIRANT STELLÃ, signifie Ceux-ci admirent l'étoile : on voit un groupe de six anglais à l'extérieur du palais royal ; cinq ont le nez en l'air et l'index désignant la comète.
+
