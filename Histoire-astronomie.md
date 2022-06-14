@@ -34,6 +34,19 @@
 - les chercheurs sont arrivés à la conclusion que cette carte céleste représentait le ciel à partir d’un certain point de vue, à une certaine période de l’année. « Si l’on pose le disque à plat, à l’endroit où il a été trouvé, on a des angles de visée qui permettent d’avoir des points de repères à l’horizon correspondant au solstice d’été et au solstice d’hiver » affirme le chercheur. D’autres dates peuvent également être repérées. En effet, ce n’est pas à n’importe quel moment de l’année que l’on peut voir la pleine Lune avec la constellation des pléiades à proximité, et ce de manière très claire.
 - Cela n’arrive en réalité que dans deux cas précis ; en mars, au moment des premiers ensemencements et en automne, autre date importante des travaux agricole puisqu’elle correspond aux dernières moissons. Cette carte céleste a donc pu servir, c’est l’hypothèse la plus probable à ce jour, de calendrier agricole.
 
+## Mars : des canaux aux images
+
+- Au milieu des années 60, on ne sait rien de l'atmosphère de Mars : ni sa densité, ni sa composition.
+- Les attentes sont immenses, et les représentations des canaux martiens sont encore bien ancrées dans la culture populaire. Y aurait-il de l'eau liquide à la surface ? Des plantes ? Des civilisations ?
+- Depuis la Terre, les observations au télescope semblaient montrer des "vagues d'assombrissement" saisonnières, que certains astronomes interprètent comme la présence de végétation
+- Mariner 4 est lancée le 28 novembre 1964 depuis Cap Canaveral via un lanceur Atlas-Agena D. Au bout d'un voyage de 8 mois, la sonde (un engin octogonal de 1,3m de diagonale, de 46 cm de haut et de 260 kg) réalise le premier survol de la planète rouge de l'Histoire les 14 et 15 Juillet 1965, et renvoie les premières images rapprochée d'une autre planète.
+- Mariner 4 est la 7e tentative d'envoi d'une sonde vers Mars.
+- Son principal objectif est de réaliser des images de la planète rouge, et d'analyser plusieurs paramètres du voisinage de Mars et de l'espace interplanétaire
+- La durée de l'enregistrement des images dure à peine une heure. Mais la transmission des images à la Terre est beaucoup plus lente, à cause d'un système encore rudimentaire. En effet, pour la transmission, la bande magnétique doit passer entre la tête de lecture d'un magnétoscope qui lit les informations enregistrées sur le fin ruban pour les diriger vers l'antenne grand gain. 
+- La sonde envoie les images à la Terre sous forme d'une succession de nombres représentant 64 niveaux de gris (la luminosité d'un pixel). Le processus informatique de conversion des nombres en image était si long que les ingénieurs, impatients d'avoir accès à la première image de Mars, ont imprimé les nombres reçus en direct sur des bandelettes de papier, et les ont colorié à la main, à l'aide de crayons de couleurs, comme dans un jeu de peinture à numéros pour enfants ! L'image finale, coloriée en fausses couleurs, montre une partie du limbe de Mars. Le système d'acquisition d'image fonctionnait donc bien
+- Les images par Mariner 4 montrent une planète hostile, sans eau, désertique et couverte de cratères, comme la Lune. Impropre à la vie. C'est une immense déception pour beaucoup de gens, et notamment pour le Congrès Américain qui, déjà agacé par les coûts du programme Apollo et de la guerre du Vietnam, supprime en 1967 30 millions de dollars au programme de mission d'atterrissage martien de la NASA. Heureusement, le programme survivra à cet obstacle et la mission Viking sera finalement envoyée en 1975.
+- Les missions suivantes ont montré que ces paysages cratérisés n'étaient en fait pas représentatifs de Mars. Mariner 4 a surtout survolé les terrains fortement cratérisés (donc très anciens) des hauts plateaux de l'hémisphère sud.
+
 ## La comète de Halley dans la tapisserie de Bayeux
 
 *Sources*
