@@ -251,3 +251,13 @@ structure. This would help deduce the shape if:
 - En 1995, le télescope spatial hubble a été pointé vers une minuscule zone du ciel pas loin de la grande ourse. Une région toute sombre, sans étoiles brillantes, et pas plus grosse qu’une tête d’épingle portée à bout de bras. Hubble a ensuite ouvert son capteur pendant 10 jours consécutifs
 - La photographie du champ ultra profond est le résultat d'une accumulation de données recueillies par le télescope spatial Hubble entre le 24 septembre 2003 et le 16 janvier 2004 et totalisant près de 1 million de secondes de temps d'exposition réparties en séquences typiques de 1 200 secondes
 - Il y a plusieurs milliers de galaxies sur cette image.
+
+## selfie de la Terre par Cassini
+
+- Le jour où la Terre a souri (en anglais : The Day the Earth Smiled) est une appellation du 19 juillet 2013, date à laquelle la sonde spatiale Cassini s'est tournée vers Saturne pour prendre une image de la majorité de son système d'anneaux et de la Terre, lors d'une éclipse du Soleil
+- The Day the Earth Smiled comprend la Terre, Mars, Vénus et de nombreuses lunes saturniennes
+
+## Un point bleu pâle
+
+- Un point bleu pâle (en anglais : Pale Blue Dot) est une photographie de la planète Terre, prise le 14 février 1990 par la sonde Voyager 1 à une distance de plus de 6 milliards de kilomètres.
+- Elle a été la photographie de la Terre la plus lointaine jamais prise pendant 27 ans, jusqu'à ce que New Horizons prenne une photo plus éloignée en décembre 2017
