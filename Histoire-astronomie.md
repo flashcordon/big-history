@@ -101,6 +101,18 @@ enclins à confirmer leurs attentes.
 - Les images par Mariner 4 montrent une planète hostile, sans eau, désertique et couverte de cratères, comme la Lune. Impropre à la vie. C'est une immense déception pour beaucoup de gens, et notamment pour le Congrès Américain qui, déjà agacé par les coûts du programme Apollo et de la guerre du Vietnam, supprime en 1967 30 millions de dollars au programme de mission d'atterrissage martien de la NASA. Heureusement, le programme survivra à cet obstacle et la mission Viking sera finalement envoyée en 1975.
 - Les missions suivantes ont montré que ces paysages cratérisés n'étaient en fait pas représentatifs de Mars. Mariner 4 a surtout survolé les terrains fortement cratérisés (donc très anciens) des hauts plateaux de l'hémisphère sud.
 
+### Perseverance
+
+- Perseverance est un rover de la taille d'une voiture
+- Il s'est posé sur Mars le 18 Février 2021 dans le cratère Jezero, un bassin d'impact de 45 km de diamètre
+> Ce cratère, situé juste au nord de l'équateur martien (dans la région d'Isidis Planitia), est très intéressant exobiologiquement parlant, car il abrite un ancien delta de rivière qui débouchait, il y a plus de 3,5 milliards d'années, dans un lac. Il y a donc des chances de trouver des traces de vie passée sous forme fossiles, dans les carbonates notamment. On sait que ce cratère a abrité de l'eau par le passé parce qu'il contient des argiles, qui ne se forment qu'en présence d'eau.
+- Perseverance a 4 objectifs scientifiques à remplir :
+
+> * étudier la géologie de son site d'atterrissage pour dévoiler l'histoire de la région
+> * déterminer si la région a été un jour proprice à l'apparition de la vie, et en détecter des traces éventuelles
+> * collecter des échantillons de roches et de sol martien qui seront rapportés sur Terre lors de futures missions prévues d'ici une dizaine d'années (Mars Sample Return)
+> * tester des technologies qui assisteront les futurs humains sur Mars
+
 ## La comète de Halley dans la tapisserie de Bayeux
 
 *Sources*
