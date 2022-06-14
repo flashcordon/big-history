@@ -245,3 +245,9 @@ structure. This would help deduce the shape if:
 - Later astronomers, most famously Jacobus Kapteyn (1851--1922), who advanced on Herschel method also failed to get the true shape of the Milky Way and our location in it. The essential was reason obscuring interstellar dust. Only with the advent of radio astronomy 1940s did the structure of the Milky Way become observable. Interstellar dust is transparent in the  radio band or at least part of it.
 - We now know that Herschel was right about the shape of our system, but wrong about where the Sun lies within the disk. As we saw in Between the Stars: Gas and Dust in Space, we live in a dusty Galaxy. Because interstellar dust absorbs the light from stars, Herschel could see only those stars within about 6000 light-years of the Sun. Today we know that this is a very small section of the entire 100,000-light-year-diameter disk of stars that makes up the Galaxy.
 - Until the early 1900s, astronomers generally accepted Herschel’s conclusion that the Sun is near the center of the Galaxy. 
+
+## Le champ profond de Hubble
+
+- En 1995, le télescope spatial hubble a été pointé vers une minuscule zone du ciel pas loin de la grande ourse. Une région toute sombre, sans étoiles brillantes, et pas plus grosse qu’une tête d’épingle portée à bout de bras. Hubble a ensuite ouvert son capteur pendant 10 jours consécutifs
+- La photographie du champ ultra profond est le résultat d'une accumulation de données recueillies par le télescope spatial Hubble entre le 24 septembre 2003 et le 16 janvier 2004 et totalisant près de 1 million de secondes de temps d'exposition réparties en séquences typiques de 1 200 secondes
+- Il y a plusieurs milliers de galaxies sur cette image.
