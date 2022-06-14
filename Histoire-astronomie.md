@@ -55,3 +55,76 @@
 L'inscription, ISTI MIRANT STELLÃ, signifie Ceux-ci admirent l'étoile : on voit un groupe de six anglais à l'extérieur du palais royal ; cinq ont le nez en l'air et l'index désignant la comète.
 - En dépit de la description de l’observation, l’utilisation du motif de la comète dans cette œuvre célèbre cherche aussi à lui donner du sens, à la constituer en présage, ici heureux : la comète de la tapisserie, appelée plus tard «comète de Halley», est en effet un signe annonciateur de la victoire de Guillaume sur Harold et de la mort de ce dernier.
 
+## Les comètes dans la Chine antique
+
+*Sources*
+
+- [L'exploration cométaire: De l'antiquité à Rosetta](https://books.google.fr/books?id=FdnIDwAAQBAJ&pg=PA13&lpg=PA13&dq=livre+de+soie+hunan&source=bl&ots=u8i5HX5rIK&sig=ACfU3U04iwXAOWcsFjZUOxze5RChzZvLfg&hl=fr&sa=X&ved=2ahUKEwizw_-Am6z4AhVMzoUKHU3PCpAQ6AF6BAgQEAM#v=onepage&q=livre%20de%20soie%20hunan&f=false) – Janet Borg
+- [Livres et documents de la Chine ancienne](https://amis-musee-cernuschi.org/livres-et-documents-de-la-chine-ancienne/) - Amis du musée Cernuschi 
+- [History of Astronomy in China](http://idp.bl.uk/4DCGI/education/astronomy/history.html)
+- [A Brief History of Comets I (until 1950)](https://www.eso.org/public/events/astro-evt/hale-bopp/comet-history-1/) - ESO
+- [Historical comet observations in China](https://en.wikipedia.org/wiki/Historical_comet_observations_in_China) - Wikipédia
+
+---
+
+- les manuscrits découverts à Mawangdui, dans la province du Hunan. Ce sont plus d'une dizaine de fragments d'ouvrages sur soie (et sur bambou) 
+- Ces manuscrits ont été retrouvés en 1973 dans une tombe daté du 2e siècle avant notre ère (dynastie des Han), dans une malle en bois laqué
+> Les conditions particulières de l’ensevelissement ont permis une conservation exceptionnelle des objets en matières organiques. 
+- On y trouve les plus anciennes représentations connues des comètes
+> 29 comètes sont dessinées, et classifiées selon leur forme et leur orientation. The descriptions often include the comet's name, notes about its apparition, and its associated portent, usually military 
+- Dans la Chine antique, on appelle certaines de ces comètes des « étoiles balais » à cause de leur forme particulière
+- Dans la Chine antique, les comètes étaient utilisées à des fins divinatoires et astrologiques. Elles étaient systématiquement vues comme des présages funestes
+> As tradition dictated that the rulers of China, first kings and later emperors, should receive their political mandate from the sky, astronomy soon became a dominant science in China. The main responsibility of political power was to keep the Earth in total harmony with the sky. This obligation was called the ‘Mandate of Heaven’ and the emperor himself was called Tian Zi 天子, the Son of Heaven. The stars themselves were bestowed with astrological meaning, both enabling predictions that influenced daily life as well as major political strategies, and thus astronomy swiftly became a powerful political tool. One very positive consequence of the Mandate of Heaven on Chinese history was the appointment of a special group of imperial officers who included astronomers, astrologers and meteorologists. These officials were ordered by the emperor to monitor the sky, looking for astrological omens and astronomical phenomena. Unlike any other country, China is the only place where astronomical observations took place uninterrupted for 4000 years and this surveillance led to many important astronomical discoveries. Special care was taken in China to record the appearance of unexpected events in the sky, such as eclipses, comets or star explosions. 
+- Ils sont désormais exposés au musée provincial de Hunan
+
+## La comète de Halley
+
+*Sources*
+
+- [1P/Halley](https://fr.wikipedia.org/wiki/1P/Halley) – Wikipédia
+
+---
+
+- Edmond Halley (1705) computed the orbits of a dozen well-observed comets and demonstrated the periodical nature of the bright comet of 1682. `Halley's Comet', as it was from now on called, was telescopically recovered in December 1758 by Johann Palitzsch; this proved conclusively the validity of Newton's law of gravity out to the distance of the aphelion at 35 AU, more than three times the distance of Saturn, the outermost planet known at that time. 
+- La comète de Halley (désignation officielle 1P/Halley) est la plus connue de toutes les comètes 
+- En 1705, Edmond Halley publia un livre avançant que les comètes qui étaient apparues dans le ciel en 1531, 1607 et 1682 étaient en fait une seule et même comète. Expliquant que la comète voyage sur une orbite elliptique, et prend 76 ans pour faire une révolution complète autour du Soleil, Halley prédit qu'elle reviendrait en 1758. 
+- Il s'agit d'une comète à courte période, qui passe près du Soleil tous les 76 ans environ
+
+
+## Nout, déesse égyptienne du ciel
+
+*Sources*
+
+- [Nout](https://fr.wikipedia.org/wiki/Nout) – Wikipédia
+- [Nout, la divinité du ciel omniprésente dans l’Égypte antique](https://blogs.futura-sciences.com/feldmann/2020/03/16/nout-la-divinite-du-ciel-omnipresente-dans-legypte-antique/) - Jean-Baptiste Feldmann
+
+---
+
+
+- Elle est la fille de Shou dieu de l'air, de Tefnout déesse de l'humidité et la sœur jumelle et épouse de Geb, dieu de la terre. 
+- Elle incarne le ciel ; sa colère est le tonnerre, ses larmes la pluie ; son corps symbolise la voûte céleste et sépare la terre du déluge qui l'entourait. Selon les traditions, le corps de Nout se déploya au-dessus de la terre pour la protéger ; ses membres qui devaient toucher le sol symbolisent les quatre points cardinaux. Elle fait de plus figure de mère des astres. 
+- Certains égyptologues estiment que la déesse Nout pourrait avoir symbolisé le ruban de la voie lactée. La formule 176 du livre des morts évoque le ruban astral en relation avec la déesse. 
+> Ce livre sacré, qui a été découvert à Louxor en 1887,  se présente sous la forme d’un papyrus long de 23 mètres. 
+- elle avale le soleil chaque soir pour le remettre au monde le matin. 
+- Elle a le plus souvent la forme d’une femme nue couverte d’étoiles. Ses membres prennent appui aux quatre coins de la Terre. Ils symbolisent les quatre points cardinaux. 
+
+## La Voie Lactée dans la grèce antique
+
+- la Voie lactée doit son nom à
+une légende qui remonte à la Grèce antique et qui commence
+avec la naissance d’Héraclès, l’un des héros les
+plus célèbres de notre civilisation. Héraclès est un
+demi-dieu, fruit de l’union illégitime entre Zeus, le roi
+des dieux, et Alcmène, l’une de ses nombreuses maîtresses
+humaines. En conséquence, s’il est doté d’une
+force surhumaine à la naissance, Héraclès n’en reste
+pas moins mortel. Seul le lait divin d’Héra, l’épouse de
+Zeus, pourrait changer cet état de fait. Mais Héra souffre
+de l’infidélité de Zeus, et Héraclès ne lui inspire rien
+d’autre qu’une haine maladive. S’il veut rendre son fils
+immortel, Zeus doit donc ruser. Un soir, il fait déposer
+le bébé sur le sein de sa femme endormie, mais Héraclès
+tète si goulûment qu’il réveille Héra en sursaut.
+Furieuse, elle repousse violemment l’enfant. Un jet de
+lait jaillit alors de son sein, et se répand dans le ciel, en
+formant une traînée blanche caractéristique.
