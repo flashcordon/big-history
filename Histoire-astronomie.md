@@ -252,6 +252,12 @@ structure. This would help deduce the shape if:
 - La photographie du champ ultra profond est le résultat d'une accumulation de données recueillies par le télescope spatial Hubble entre le 24 septembre 2003 et le 16 janvier 2004 et totalisant près de 1 million de secondes de temps d'exposition réparties en séquences typiques de 1 200 secondes
 - Il y a plusieurs milliers de galaxies sur cette image.
 
+## première photo du disque de la Terre
+
+- Applications Technology Satellite 3, or ATS-3, was a long-lived American experimental geostationary weather and communications satellite, operated by NASA from 1967 to 2001
+- On November 10, 1967, ATS-3 took NASA's first color photo (digital image mosaic) of the full-disk Earth, which was subsequently used on the cover of the first Whole Earth Catalog. 
+> The Whole Earth Catalog (WEC) was an American counterculture magazine and product catalog published by Stewart Brand several times a year between 1968 and 1972, and occasionally thereafter, until 1998. The magazine featured essays and articles, but was primarily focused on product reviews. The editorial focus was on self-sufficiency, ecology, alternative education, "do it yourself" (DIY), and holism
+
 ## selfie de la Terre par Cassini
 
 - Le jour où la Terre a souri (en anglais : The Day the Earth Smiled) est une appellation du 19 juillet 2013, date à laquelle la sonde spatiale Cassini s'est tournée vers Saturne pour prendre une image de la majorité de son système d'anneaux et de la Terre, lors d'une éclipse du Soleil
