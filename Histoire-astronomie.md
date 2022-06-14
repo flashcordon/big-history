@@ -36,6 +36,60 @@
 
 ## Mars : des canaux aux images
 
+### Percival Lowell
+
+*Sources*
+
+- [Percival Lowell (1855-1916)](https://pg-astro.fr/grands-astronomes/l-ere-moderne/percival-lowell.html)
+
+--- 
+
+- Il est issu d’une famille de riches aristocrates.
+-  fait fortune dans l’industrie textile
+-  Son intérêt pour l’astronomie réapparait lorsqu’il lit un ouvrage de Camille Flammarion sur la planète Mars et qu’il prend connaissance des travaux de Giovanni Schiapparelli. En 1893, il retourne aux États-Unis et use de son influence pour fonder, l’année suivante, l’observatoire de Flagstaff en Arizona, dont il finance personnellement la construction et l’équipement. 
+-  Durant les quinze années qui suivirent, Lowell se consacra à l’étude de Mars. Il publia une carte de la planète sur laquelle il répertoriait avec précision un grand nombre de canaux qu’il considérait comme un immense réseau d’irrigation artificiel, que les martiens avaient bâti pour faire face à d’importantes sécheresses menaçant leur planète. 
+-  Lowell a publié trois ouvrages: Mars en 1895, Mars et ses Canaux  en 1906 et Mars, la demeure de la Vie en 1908. La théorie de Lowell est très populaire. En 1898, parait La guerre des mondes, de HG. Wells, inspiré par les travaux de Lowell. On y retrouve des martiens qui abandonnent leur planète mourante pour partir à la conquête de la Terre.
+-  - En 1877, Giovanni Schiaparelli observe lui aussi la planète
+Mars et croit y déceler des formations rectilignes marbrant la surface. Il les
+nomme «canali», terme qui sera improprement traduit par «canaux» plutôt
+que «chenaux», deux termes différents dont le premier laisse supposer
+une structure artificielle tandis que le second laisse penser à une structure
+naturelle. Il n’en faut pas plus pour enflammer les esprits sur la pluralité
+des mondes, dont Mars catalysera le débat durant près d’un siècle !
+- À la fin du xixe siècle, un riche homme d’affaires
+américain du nom de Percival Lowell a développé une
+passion dévorante pour la planète Mars. Envoûté par les
+cartes de l’Italien Giovanni Schiaparelli, qui semblaient
+montrer l’existence d’un réseau de structures rectilignes déployées sur toute la surface de la planète rouge, il
+est convaincu que ce monde abrite des sociétés extraterrestres.
+Pour en avoir le coeur net, il dédie une fraction
+de sa fortune à la construction d’un observatoire
+privé à Flagstaff, en Arizona. À travers l'oculaire de son
+télescope, Lowell dénombre ainsi des centaines de
+« canaux martiens », qu’il imagine construits par une
+civilisation technologiquement supérieure dans le but
+de transporter l'eau de fonte des calottes polaires vers
+les régions arides de la planète. Ses observations ont
+beau être hautement controversées au sein de la communauté
+scientifique, son talent de communicateur lui
+fait néanmoins gagner les faveurs du grand public. Jusqu’au
+milieu du xxe siècle, sa vision se diffuse dans la
+culture populaire à travers des oeuvres de science-fiction
+comme La Guerre des mondes, d’H. G. Wells, ou encore
+Le Cycle de Mars, d’Edgar Rice Burroughs. Mais,
+lorsque la sonde Mariner 4 réalise le premier survol
+rapproché de la planète rouge en 1965, les 22 clichés
+qu’elle envoie à la Terre font l’effet d’une douche
+froide : ils révèlent une surface désolée et recouverte de
+cratères. Ces images suffisent à enterrer définitivement
+tout espoir d’y trouver des civilisations extraterrestres.
+Le public réalise alors avec amertume que les canaux
+martiens n’étaient en fait qu’un leurre, une illusion
+d’optique qui avait dupé certains astronomes trop
+enclins à confirmer leurs attentes.
+
+### Mariner 4
+
 - Au milieu des années 60, on ne sait rien de l'atmosphère de Mars : ni sa densité, ni sa composition.
 - Les attentes sont immenses, et les représentations des canaux martiens sont encore bien ancrées dans la culture populaire. Y aurait-il de l'eau liquide à la surface ? Des plantes ? Des civilisations ?
 - Depuis la Terre, les observations au télescope semblaient montrer des "vagues d'assombrissement" saisonnières, que certains astronomes interprètent comme la présence de végétation
