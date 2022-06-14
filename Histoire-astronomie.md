@@ -129,11 +129,11 @@ Furieuse, elle repousse violemment l’enfant. Un jet de
 lait jaillit alors de son sein, et se répand dans le ciel, en
 formant une traînée blanche caractéristique.
 
-## ## La carte de la Voie Lactée de William Herschel
+## La carte de la Voie Lactée de William et Caroline Herschel
 
 *Sources*
 
-- [Mapping the Milky Way: William Herschel’s Star-­‐Gages][https://arxiv.org/pdf/1112.3635.pdf) – Todd Timberlake
+- [Mapping the Milky Way: William Herschel’s Star‐Gages](https://arxiv.org/pdf/1112.3635.pdf) – Todd Timberlake
 - [Milky way William Herschel](https://www.physics.unlv.edu/~jeffery/astro/galaxies/milky_way_william_herschel.html)
 - [Mapping the Milky Way](http://www.physics.sfsu.edu/~chris/astro300/lectures/lect19.pdf)
 - [The architecture of the Galaxy](https://opentextbc.ca/astronomyopenstax/chapter/the-architecture-of-the-galaxy/) - OpenStax Textbook
