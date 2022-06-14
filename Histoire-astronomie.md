@@ -128,3 +128,41 @@ tète si goulûment qu’il réveille Héra en sursaut.
 Furieuse, elle repousse violemment l’enfant. Un jet de
 lait jaillit alors de son sein, et se répand dans le ciel, en
 formant une traînée blanche caractéristique.
+
+## ## La carte de la Voie Lactée de William Herschel
+
+*Sources*
+
+- [Mapping the Milky Way: William Herschel’s Star-­‐Gages][https://arxiv.org/pdf/1112.3635.pdf) – Todd Timberlake
+- [Milky way William Herschel](https://www.physics.unlv.edu/~jeffery/astro/galaxies/milky_way_william_herschel.html)
+- [Mapping the Milky Way](http://www.physics.sfsu.edu/~chris/astro300/lectures/lect19.pdf)
+- [The architecture of the Galaxy](https://opentextbc.ca/astronomyopenstax/chapter/the-architecture-of-the-galaxy/) - OpenStax Textbook
+
+---
+
+- In 1785 astronomer William Herschel mapped out the shape of the Milky
+Way star system using measurements he called "star-­‐gages."
+- il est surtout connu pour avoir découvert la planète Uranus
+- From 1784 to 1785,
+ably assisted by his sister Caroline, Herschel attempted to map out the shape of the
+Milky Way star system. 
+- Herschel’s star-­‐gages are summarized in the diagram shown in Figure 2. The cross-­‐
+section of the Milky Way is roughly elliptical in shape, much more extended along
+the galactic plane (to the left and right in the diagram) than toward the poles (the
+galactic North pole is toward the top of the diagram)
+- W.&C. Herschel
+(c.1800) counted
+stars in 683
+regions
+- William and Caroline Herschel concluded that the Milky Way has a flattened structure centered on the Sun and solar system 
+- astronomers counted stars in various directions to deduce its
+structure. This would help deduce the shape if:
+- All stars are the same magnitude
+- The view to the edge is not obscured 
+- The crude map is believed to have been intended to show the Milky Way in cross section (Timberlake 2011). 
+- With this interpretation, the map is remarkably suggestive. It shows something like a very oblate spheroid structure with complicated small features and with the Solar System near the center. 
+- Herschel in later years recognized that lack of light-gathering power and other problems had defeated the main goal of his survey to map the Milky Way (Timberlake 2011). It's NOT clear if he considered interstellar dust and other interstellar medium (ISM) as obscuring his sight. 
+- Herschel's project to map the Milky Way was a brilliant pioneering effort in cosmology and statistics as applied to astronomy, but doomed to failure in its main aim given the limited astronomical techniques and astrophysical knowledge of his time.
+- Later astronomers, most famously Jacobus Kapteyn (1851--1922), who advanced on Herschel method also failed to get the true shape of the Milky Way and our location in it. The essential was reason obscuring interstellar dust. Only with the advent of radio astronomy 1940s did the structure of the Milky Way become observable. Interstellar dust is transparent in the  radio band or at least part of it.
+- We now know that Herschel was right about the shape of our system, but wrong about where the Sun lies within the disk. As we saw in Between the Stars: Gas and Dust in Space, we live in a dusty Galaxy. Because interstellar dust absorbs the light from stars, Herschel could see only those stars within about 6000 light-years of the Sun. Today we know that this is a very small section of the entire 100,000-light-year-diameter disk of stars that makes up the Galaxy.
+- Until the early 1900s, astronomers generally accepted Herschel’s conclusion that the Sun is near the center of the Galaxy. 
