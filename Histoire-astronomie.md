@@ -258,6 +258,13 @@ structure. This would help deduce the shape if:
 - On November 10, 1967, ATS-3 took NASA's first color photo (digital image mosaic) of the full-disk Earth, which was subsequently used on the cover of the first Whole Earth Catalog. 
 > The Whole Earth Catalog (WEC) was an American counterculture magazine and product catalog published by Stewart Brand several times a year between 1968 and 1972, and occasionally thereafter, until 1998. The magazine featured essays and articles, but was primarily focused on product reviews. The editorial focus was on self-sufficiency, ecology, alternative education, "do it yourself" (DIY), and holism
 
+## Lever de Terre
+
+- Nous avons fait tout ce chemin pour explorer la Lune, 
+et la chose la plus importante, 
+c'est que nous avons découvert la Terre.1
+Bill Anders, Apollo 8
+
 ## selfie de la Terre par Cassini
 
 - Le jour où la Terre a souri (en anglais : The Day the Earth Smiled) est une appellation du 19 juillet 2013, date à laquelle la sonde spatiale Cassini s'est tournée vers Saturne pour prendre une image de la majorité de son système d'anneaux et de la Terre, lors d'une éclipse du Soleil
