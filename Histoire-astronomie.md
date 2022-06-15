@@ -169,6 +169,11 @@ L'inscription, ISTI MIRANT STELLÃ, signifie Ceux-ci admirent l'étoile : on voi
 - En 1705, Edmond Halley publia un livre avançant que les comètes qui étaient apparues dans le ciel en 1531, 1607 et 1682 étaient en fait une seule et même comète. Expliquant que la comète voyage sur une orbite elliptique, et prend 76 ans pour faire une révolution complète autour du Soleil, Halley prédit qu'elle reviendrait en 1758. 
 - Il s'agit d'une comète à courte période, qui passe près du Soleil tous les 76 ans environ
 
+## Rosetta
+
+- La sonde spatiale, d'une masse de trois tonnes, s'est placée en orbite autour de la comète puis, après une période d'observation de plusieurs mois, a envoyé, le 12 novembre 2014, un petit atterrisseur, Philae, se poser sur sa surface pour analyser, in situ, la composition de son sol et sa structure. Philae recueille des données pendant 3 jours
+- Rosetta part pour une extraordinaire aventure : un voyage de sept milliards de kilomètres. 
+- En raison de la défaillance du propulseur qui devait plaquer Philae au sol qui ne s'est pas déclenché, et de celle des deux harpons qui devaient l'ancrer au sol qui ne se sont pas déployés, le robot a rebondi deux fois avant de se stabiliser à environ un kilomètre du site initialement prévu, en position quasi verticale. 
 
 ## Nout, déesse égyptienne du ciel
 
