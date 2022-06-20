@@ -6,6 +6,14 @@
 - [Les couleurs de la Terre](#Les-couleurs-de-la-Terre)
 - [Pourquoi le monde est-il vert ?](#Pourquoi-le-monde-est-il-vert-)
 
+# Les variations naturelles du climat
+
+*Sources*
+
+- [How Earth’s Climate Changes Naturally (and Why Things Are Different Now)](https://www.quantamagazine.org/how-earths-climate-changes-naturally-and-why-things-are-different-now-20200721/) - Howard Lee, Quanta (2020)
+
+---
+
 # L'hypothèse Gaia
 
 *Sources*
