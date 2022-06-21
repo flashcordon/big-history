@@ -13,6 +13,7 @@
 
 - [How Earth’s Climate Changes Naturally (and Why Things Are Different Now)](https://www.quantamagazine.org/how-earths-climate-changes-naturally-and-why-things-are-different-now-20200721/) - Howard Lee, Quanta (2020)
 - [Mapped: How ‘proxy’ data reveals the climate of the Earth’s distant past](https://interactive.carbonbrief.org/how-proxy-data-reveals-climate-of-earths-distant-past/) - Carbon Brief
+- [Interactive : Satellites and climate change](https://www.carbonbrief.org/interactive-satellites-used-monitor-climate-change/) - Carbon Brief
 
 ---
 
