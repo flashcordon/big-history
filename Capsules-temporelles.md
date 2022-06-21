@@ -35,3 +35,28 @@
 *Crédit : Карл Саган - Popular Science №7, 1976*
 ![lageosplaque](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/LAGEOS-FILE.jpg/800px-LAGEOS-FILE.jpg)
 
+# Le disque d'or de Voyager
+
+*Sources*
+
+- [Scientists' predictions for the long-term future of the Voyager Golden Records will blow your mind](https://www.space.com/predicting-voyager-golden-records-distant-future) - Space.com
+
+---
+
+- Nick Oberg, a doctoral candidate at the Kapteyn Astronomical Institute in the Netherlands, and a colleague wanted to calculate which (if any) stars the two Voyager spacecraft may encounter in the long future of our galaxy.
+- Not until about 20,000 years from now will the Voyagers pass through the Oort cloud — the shell of comets and icy rubble that orbits the sun at a distance of up to 100,000 astronomical units
+- "At that point for the first time the craft will begin to feel the gravitational pull of other stars more strongly than that of our own sun," Oberg said.
+- It's another 10,000 years before the spacecraft actually come near an alien star, specifically a red dwarf star called Ross 248. That flyby will occur about 30,000 years from now
+- By 500 million years from now, the solar system and the Voyagers alike will complete a full orbit through the Milky Way.
+- Throughout this galactic orbit, the Voyager spacecraft will oscillate up and down, with Voyager 1 doing so more dramatically than its twin. 
+- The records were designed to last, meant to survive perhaps a billion years in space: beneath the golden sheen is a protective aluminum casing and, below that, the engraved copper disks themselves. But to truly understand how long these objects may survive, you have to know what conditions they'll experience, and that means knowing where they will be.
+-  the Milky Way's vast clouds of interstellar dust, which he called "one of the few phenomena that could actually act to damage the spacecraft." It's a grim scenario, dust pounding into the Voyagers at a speed of a few miles or kilometers per second. "The grains will act as a steady rain that slowly chips away at the skin of the spacecraft," Oberg said. "A dust grain only one-thousandth of a millimeter across will still leave a small vaporized crater when it impacts."
+- Both Golden Records have good odds of remaining legible, since their engraved sides are tucked away against the spacecraft bodies. The outer surface of Voyager 1's record is more likely to erode away, but the information on Voyager 2's record is more likely to become illegible, Oberg said.
+- "The main reason for this is because the orbit that Voyager 2 is flung into is more chaotic, and it's significantly more difficult to predict with any certainty of exactly what sort of environment it's going to be flying through," he said.
+- But despite the onslaught and potential detours, "Both Golden Records are highly likely to survive at least partially intact for a span of over 5 billion years," Oberg said.
+- While neither Voyager is likely to get particularly close to any star before the galaxies collide, the craft are likely to at least pass through the outskirts of some [star] system," Oberg said. "The very strange part is that that actually might be a system that does not yet exist, of a star that has yet to be born
+- From here, the Voyagers' fate depends on the conditions of the galactic merger, Oberg said.
+- The collision itself might kick a spacecraft out of the newly monstrous galaxy — a one in five chance
+- Inside the combined galaxy, the Voyagers' fate would depend on how much dust is left behind by the merger; Oberg said that may well be minimal as star formation and explosion both slow, reducing the amount of dust flung into the galaxy.
+- Depending on their luck with this dust, the Voyagers may be able to ride out trillions of trillions of trillions of years, long enough to cruise through a truly alien cosmos
+- "Such a distant time is far beyond the point where stars have exhausted their fuel and star formation has ceased in its entirety in the universe," he said. "The Voyagers will be drifting through what would be, to us, a completely unrecognizable galaxy, free of so-called main-sequence stars, populated almost exclusively by black holes and stellar remnants such as a white dwarfs and neutron stars."
