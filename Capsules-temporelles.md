@@ -19,3 +19,14 @@
 *Sources*
 
 - [Organic data memory using the DNA approach](https://dl.acm.org/doi/10.1145/602421.602426) - Wong et al (2003)
+
+# Les satellites LAGEOS
+
+*Sources*
+
+- [LAGEOS](https://en.wikipedia.org/wiki/LAGEOS) - Wikipédia
+
+---
+
+- Il existe aujourd'hui 2 boules disco en orbite terrestre: les satellites LAGEOS. Ils n'ont pas d'électronique embarquée mais leur surface est couverte de réflecteurs! Les scientifiques tirent dessus avec des lasers pour mesurer la forme précise de la Terre
+- Ces deux satellites sont prévus pour rester en orbite pendant 8,4 millions d'années avant de retomber sur Terre ! C'est pourquoi l'un des deux contient une plaque concue par Carl Sagan et destinée aux humains du futur qui illustre l'évolution de la position des continents sur cette période
