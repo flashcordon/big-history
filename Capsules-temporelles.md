@@ -25,10 +25,11 @@
 *Sources*
 
 - [LAGEOS](https://en.wikipedia.org/wiki/LAGEOS) - Wikipédia
+- [Satellites and climate change](https://www.carbonbrief.org/interactive-satellites-used-monitor-climate-change/) - Carbon Brief
 
 ---
 
-- Il existe aujourd'hui 2 boules disco en orbite terrestre: les satellites LAGEOS. Ils n'ont pas d'électronique embarquée mais leur surface est couverte de réflecteurs! Les scientifiques tirent dessus avec des lasers pour mesurer la forme précise de la Terre
+- Il existe aujourd'hui 2 boules disco en orbite terrestre: les satellites LAGEOS, lancées respectivement en 1976 et 1992. Ils n'ont pas d'électronique embarquée mais leur surface est couverte de réflecteurs! Les scientifiques tirent dessus avec des lasers pour mesurer la forme précise de la Terre
 - Ces deux satellites sont prévus pour rester en orbite pendant 8,4 millions d'années avant de retomber sur Terre ! C'est pourquoi l'un des deux contient une plaque concue par Carl Sagan et destinée aux humains du futur qui illustre l'évolution de la position des continents sur cette période
 
 *Crédit : Карл Саган - Popular Science №7, 1976*
