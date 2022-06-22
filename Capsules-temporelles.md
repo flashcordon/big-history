@@ -60,3 +60,10 @@
 - Inside the combined galaxy, the Voyagers' fate would depend on how much dust is left behind by the merger; Oberg said that may well be minimal as star formation and explosion both slow, reducing the amount of dust flung into the galaxy.
 - Depending on their luck with this dust, the Voyagers may be able to ride out trillions of trillions of trillions of years, long enough to cruise through a truly alien cosmos
 - "Such a distant time is far beyond the point where stars have exhausted their fuel and star formation has ceased in its entirety in the universe," he said. "The Voyagers will be drifting through what would be, to us, a completely unrecognizable galaxy, free of so-called main-sequence stars, populated almost exclusively by black holes and stellar remnants such as a white dwarfs and neutron stars."
+
+# Préserver les plus anciennes traces d'homininés : les empreintes de Laetoli
+
+*Sources*
+
+- [Preserving the Laetoli Footprint](https://www.academia.edu/22101544/Preserving_the_Laetoli_Footprints) - Neville Agnew, Scientific American (1998)
+- [Conservation of the Laetoli Footprints: What Went Wrong?](https://www.youtube.com/watch?v=S31Ejprjsoo) - Conférence de Charles Musiba (2021)
