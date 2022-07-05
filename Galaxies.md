@@ -11,6 +11,7 @@
 - [Extragalactic Deep Legacy Fields](http://www.iap.fr/jwst-edls/fields.html) - IAP
 - [How To See Webb’s First Images!](https://blogs.nasa.gov/webb/) - NASA 
 - [General Observer Programs in Cycle 1](https://www.stsci.edu/jwst/science-execution/approved-programs/cycle-1-go) - Stsci
+- [Director’s Discretionary Early Release Science Programs](https://www.stsci.edu/jwst/science-execution/approved-ers-programs) - Stsci
 
 ---
 
