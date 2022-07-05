@@ -59,6 +59,12 @@
 
 # Director’s Discretionary Early Release Science Programs
 
+*Source*
+
+- [Director’s Discretionary Early Release Science Programs](https://www.stsci.edu/jwst/science-execution/approved-ers-programs)
+
+---
+
 - ***Galaxies et milieu interstellaire***
 > * observation de l'amas de galaxies Abell 2744 ([image Hubble](https://fr.wikipedia.org/wiki/Abell_2744#/media/Fichier:Heic1401a-Abell2744-20140107.jpg)) à la recherche de galaxies à faible luminosité remontant jusqu'à l'époque de la réionisation. Instruments : NIRCam, NIRISS, NIRSpec.
 > * observation des régions proches (~150-300 années-lumière) des trous noirs centraux de galaxies relativement proches et très lumineuses en infrarouge (LIRGs: Luminous Infrared Galaxies). Cibles visées : NGC 3256 ([image Hubble](https://fr.wikipedia.org/wiki/NGC_3256#/media/Fichier:Peculiar_galaxy_NGC_3256.jpg)), NGC 7469 ([image Hubble](https://fr.wikipedia.org/wiki/NGC_7469#/media/Fichier:Arp298_-_HST_-_Potw2208a.jpg)), IC 1623 ([image Hubble](https://hubblesite.org/contents/media/images/2008/16/2282-Image.html?news=true)), IRAS 08572+3915 ([image IRAS](http://prc.nao.ac.jp/extra/uos/en/no20/)). Instruments : NIRSPEC, NIRCAM et MIRI.
