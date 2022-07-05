@@ -7,8 +7,14 @@
 - [JADES will go deeper than the Hubble Deep Fields](https://earthsky.org/space/jades-deep-field-surveys-epoch-of-1st-galaxies/) - EarthSky
 - [Extragalactic Deep Legacy Fields](http://www.iap.fr/jwst-edls/fields.html) - IAP
 - [How To See Webb’s First Images!](https://blogs.nasa.gov/webb/) - NASA 
+- [General Observer Programs in Cycle 1](https://www.stsci.edu/jwst/science-execution/approved-programs/cycle-1-go) - Stsci
 
 ---
+
+- ***PRIMER: Public Release IMaging for Extragalactic Research***
+
+
+-  CEERS
 
 - ***Next Generation Deep Extragalactic Exploratory Public (NGDEEP) Survey***
 - telescopes have helped us capture light from galaxies that formed as far back as 400 million years after the big bang – incredibly early in the context of the universe’s 13.8-billion-year history
