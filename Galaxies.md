@@ -11,6 +11,9 @@
 
 ---
 
+- Among the first images will be ‘the deepest image of our universe that has ever been taken,’ according to NASA administrator Bill Nelson
+- 
+
 - ***PRIMER: Public Release IMaging for Extragalactic Research***
 
 
@@ -41,3 +44,7 @@
 - This was done again in 1998 with the Hubble telescope pointed to the southern sky (Hubble Deep Field South), and the result was the same. Thus we learned that the universe is uniform over large scales.
 - Next was the installation of a new, powerful camera on Hubble (the Advanced Camera for Surveys) in 2002. The incredible Hubble Ultra Deep Field was acquired in 2004, in a similarly small patch of sky near the constellation Orion, about 1/10 of a full moon diameter (2.4 x 3.4 arc minutes, in contrast to the original Hubble Deep Fields north and south, which were 2.6 x 2.6 arc minutes). And so our reach was extended even deeper into space, and even further back in time, showing light from 10 thousand galaxies along a 13-billion-light-years-long tunnel of space. If you’ll remember that the universe is about 13.77 billion years old, you’ll see this is getting us really close to the beginning!
 - The Hubble Ultra Deep Field was the most sensitive astronomical image ever made at wavelengths of visible (optical) light until 2012, when an even more refined version was released, called the Hubble eXtreme Deep Field, which reached even farther: 13.2 billion years back in time. 
+
+# Un spectre d'exoplanète avec le JWST
+
+- https://twitter.com/exoZafar/status/1520037875164667904
