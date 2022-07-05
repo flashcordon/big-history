@@ -56,3 +56,8 @@
 - [The JWST Early Release Science Program for the Direct Imaging & Spectroscopy of Exoplanetary Systems](https://arxiv.org/pdf/2205.12972.pdf) - Hinkley et al. (2022)
 
 ---
+
+# Director’s Discretionary Early Release Science Programs
+
+- Galaxies et milieu interstellaire
+> * observation de l'amas de galaxies Abell 2744 ([image Hubble](https://fr.wikipedia.org/wiki/Abell_2744#/media/Fichier:Heic1401a-Abell2744-20140107.jpg)) à la recherche de galaxies à faible luminosité remontant jusqu'à l'époque de la réionisation
