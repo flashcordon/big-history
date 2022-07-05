@@ -52,3 +52,6 @@
 
 - https://twitter.com/exoZafar/status/1520037875164667904
 - [How the Webb telescope will show us planets like never before](https://www.inverse.com/science/what-will-planets-will-look-like-through-jwst) - Inverse
+- [The JWST Early Release Science Program for the Direct Imaging & Spectroscopy of Exoplanetary Systems](https://arxiv.org/pdf/2205.12972.pdf) - Hinkley et al. (2022)
+
+---
