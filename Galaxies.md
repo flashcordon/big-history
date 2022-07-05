@@ -76,5 +76,6 @@
 > * observation des régions de gaz et de poussière cosmique chauffées par les rayons UV émis par des étoiles massives
 > * observation et spectres d'un coeur pré-stellaire, d'une proto-étoile et d'un disque protoplanétaire
 > * observation et spectre de l'étoile de Wolf-Rayet WR 140 (10 masses solaires, faisant partie d'un système binaire) pour mieux comprendre les mécanismes de production de poussière cosmique
-> 
 
+- ***populations stellaires***
+> * observations de l'amas globulaire M92 ([image Hubble](https://fr.wikipedia.org/wiki/M92_(amas_globulaire)#/media/Fichier:All_that_glitters_HST.jpg)), de la galaxie naine (ou de l'amas d'étoiles) Draco II, et de la galaxie naine de Wolf-Lundmark-Melotte (abrégée en galaxie WLM. [image VLT](https://fr.wikipedia.org/wiki/Galaxie_de_Wolf-Lundmark-Melotte#/media/Fichier:The_WLM_galaxy_on_the_edge_of_the_Local_Group.jpg))
