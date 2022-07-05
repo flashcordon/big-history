@@ -1,3 +1,6 @@
+- JWST has enough fuel for 20 years of science lifetime"! (3/x)
+- NASA Deputy Administrator Pam Melroy
+
 # Etudier les galaxies avec le JWST
 
 *Sources*
@@ -48,3 +51,4 @@
 # Un spectre d'exoplanète avec le JWST
 
 - https://twitter.com/exoZafar/status/1520037875164667904
+- [How the Webb telescope will show us planets like never before](https://www.inverse.com/science/what-will-planets-will-look-like-through-jwst) - Inverse
