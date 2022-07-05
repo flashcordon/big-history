@@ -67,3 +67,4 @@
 
 - ***Exoplanètes et formation des planètes***
 > * observation d'un compagnon d'exoplanète récemment découvert (suspicion : [exolune autour de l'exoplanète PDS 70c, observée par ALMA en 2021 ??](https://www.sciencenews.org/article/tiny-dot-exomoon-evidence-exoplanet-moon-stars-astronomy)), et d'un disque de débris autour d'une jeune étoile, et spectre de l'exoplanète.
+> * Une sélections de courbes de transits d'exoplanètes sélectionnées (mini-éclipses devant leur étoile). Selon [Hinkley et al. (2022)](https://arxiv.org/pdf/2205.12972.pdf), les cibles prioritaires sont HIP 65426b, VHS 1256 b et HD 141569A.
