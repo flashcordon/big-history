@@ -68,3 +68,9 @@
 - ***Exoplanètes et formation des planètes***
 > * observation d'un compagnon d'exoplanète récemment découvert (suspicion 1 : [exolune autour de l'exoplanète PDS 70c, observée par ALMA en 2021](https://www.sciencenews.org/article/tiny-dot-exomoon-evidence-exoplanet-moon-stars-astronomy). Suspicion 2 : VHS 1256b, une naine brune découverte en 2015 (~20 fois la masse de Jupiter) faisant partie d'un système binaire avec une naine rouge - [vue d'artiste](https://youtu.be/wj2YzPFXoYU)), et d'un disque de débris autour d'une jeune étoile, et spectre de l'exoplanète.
 > * Une sélections de courbes de transits d'exoplanètes sélectionnées (mini-éclipses devant leur étoile). Selon [Hinkley et al. (2022)](https://arxiv.org/pdf/2205.12972.pdf), les cibles prioritaires sont HIP 65426b, VHS 1256 b et HD 141569A.
+
+- ***Système solaire***
+> * observation de Jupiter et cartographie de la surface et de l'atmosphère de deux de ses lunes, Io et Ganymède ([image Hubble de Jupiter](https://cu.m.wikipedia.org/wiki/%D0%94%D1%A3%D0%BB%D0%BE:Jupiter,_image_taken_by_NASA%27s_Hubble_Space_Telescope,_June_2019_-_Edited.jpg))
+
+- ***physique stellaire***
+> * observation des régions de gaz et de poussière cosmique chauffées par les rayons UV émis par des étoiles massives
