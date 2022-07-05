@@ -67,7 +67,7 @@
 
 - ***Exoplanètes et formation des planètes***
 > * observation d'un compagnon d'exoplanète récemment découvert (suspicion 1 : [exolune autour de l'exoplanète PDS 70c, observée par ALMA en 2021](https://www.sciencenews.org/article/tiny-dot-exomoon-evidence-exoplanet-moon-stars-astronomy). Suspicion 2 : VHS 1256b, une naine brune découverte en 2015 (~20 fois la masse de Jupiter) faisant partie d'un système binaire avec une naine rouge - [vue d'artiste](https://youtu.be/wj2YzPFXoYU)), et d'un disque de débris autour d'une jeune étoile, et spectre de l'exoplanète.
-> * Une sélections de courbes de transits d'exoplanètes sélectionnées (mini-éclipses devant leur étoile). Selon [Hinkley et al. (2022)](https://arxiv.org/pdf/2205.12972.pdf), les cibles prioritaires sont HIP 65426b, VHS 1256 b et HD 141569A.
+> * Une sélections de courbes de transits d'exoplanètes sélectionnées (mini-éclipses devant leur étoile). Selon [Hinkley et al. (2022)](https://arxiv.org/pdf/2205.12972.pdf), les cibles prioritaires sont HIP 65426b ([image SPHERE](https://en.wikipedia.org/wiki/HIP_65426_b#/media/File:The_unusual_exoplanet_HIP_65426b_%E2%80%94_SPHERE's_first.jpg), VHS 1256 b et HD 141569A (étoile blanche située à ~360 années-lumière faisant partie d'un système triple avec 2 naines rouges, et entourée d'un disque protoplanétaire [image Hubble](https://fr.wikipedia.org/wiki/HD_141569#/media/Fichier:HD_141569_Hubble_WikiSky.jpg)).
 
 - ***Système solaire***
 > * observation de Jupiter et cartographie de la surface et de l'atmosphère de deux de ses lunes, Io et Ganymède ([image Hubble de Jupiter](https://cu.m.wikipedia.org/wiki/%D0%94%D1%A3%D0%BB%D0%BE:Jupiter,_image_taken_by_NASA%27s_Hubble_Space_Telescope,_June_2019_-_Edited.jpg))
