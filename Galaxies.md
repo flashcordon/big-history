@@ -5,7 +5,8 @@
 - [NASA’s Webb to Uncover Riches of the Early Universe](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-to-uncover-riches-of-the-early-universe) - NASA 
 - [James Webb Space Telescope Advanced Deep Extragalactic Survey (JADES)](https://pweb.cfa.harvard.edu/research/james-webb-space-telescope-advanced-deep-extragalactic-survey-jades) - Harvard Center for Astrophysics
 - [JADES will go deeper than the Hubble Deep Fields](https://earthsky.org/space/jades-deep-field-surveys-epoch-of-1st-galaxies/) - EarthSky
-- [http://www.iap.fr/jwst-edls/fields.html](http://www.iap.fr/jwst-edls/fields.html) 
+- [Extragalactic Deep Legacy Fields](http://www.iap.fr/jwst-edls/fields.html) - IAP
+- [How To See Webb’s First Images!](https://blogs.nasa.gov/webb/) - NASA 
 
 ---
 
