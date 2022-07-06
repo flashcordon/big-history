@@ -16,7 +16,8 @@
 ---
 
 - Among the first images will be ‘the deepest image of our universe that has ever been taken,’ according to NASA administrator Bill Nelson
-- 
+- -   If you look really deep, you will also look back in time, and the farther back in time you look, the more redshifted the galaxies are (the farther away they are, the faster they move away from us, and the more their light has been shifted towards the red part of the spectrum). This means that the light we want to observe, originally in the optical (visible) part of the electromagnetic spectrum, might not even show much in the optical part anymore. Instead, it’s been shifted to longer wavelengths, into the infrared regime. In other words, the use of infrared cameras is necessary to be able to see the light from the first generation of galaxies. 
+- - JWST pourra observer une région plus lointaine du domaine de l'infrarouge qu'Hubble. C'est ça qui lui permet d'observer plus loin.
 
 - ***PRIMER: Public Release IMaging for Extragalactic Research***
 
@@ -32,14 +33,11 @@
 > On devrait découvrir des galaxies beaucoup plus lointaines, mais aussi beaucoup plus petites et moins lumineuses que celles détectées par Hubble.
 - Les spectres vont permettre d'obtenir le contenu en métaux (éléments chimiques plus lourds que l'hydrogène et l'hélium) des galaxies primordiales et des galaxies plus proches, afin d'étudier l'évolution chimique de l'univers et de mieux contraindre les modèles d'évolution de galaxies. 
 
-- ***James Webb Space Telescope Advanced Deep Extragalactic Survey (JADES)***
-- JADES will use guaranteed time in James Webb Space Telescope (JWST) cycle 1 to produce infrared imaging and spectroscopy of unprecedented depth in the two premier extragalactic deep fields, GOODS-South (CDF-S) and GOODS-North (HDF)
-- JADES expects to collect data on about 100,000 galaxies, adding to the extensive legacy of these well-studied fields.
-- JADES is a collaboration of the JWST Near-Infrared Camera (NIRCam) and Near-Infrared Spectrograph (NIRSpec) instrument teams and will comprise about 800 hours of observing time
-- The survey will be like the Hubble Deep Fields, but deeper still. Its main goal is to see far away in space – and thus far back into the very young universe – and image it just at the end of the so-called Cosmic Dark Ages, that is, at the time when gas in the universe went from being opaque to transparent. This is also the time when the very first stars were forming – very large, massive and bright stars – in a veritable firestorm of star birth when the young universe was less than 5% of its current age.
-- the Webb telescope will be staring at a small point of space for nearly 800 hours (approximately 33 days) to be able to see fainter objects than those ever seen before and thus to find the first generation of galaxies. 
--  It is the formal successor to the Hubble Space Telescope, but is equipped with instrumentation able to image further into the infrared part of the electromagnetic spectrum than Hubble could. 
--   If you look really deep, you will also look back in time, and the farther back in time you look, the more redshifted the galaxies are (the farther away they are, the faster they move away from us, and the more their light has been shifted towards the red part of the spectrum). This means that the light we want to observe, originally in the optical (visible) part of the electromagnetic spectrum, might not even show much in the optical part anymore. Instead, it’s been shifted to longer wavelengths, into the infrared regime. In other words, the use of infrared cameras is necessary to be able to see the light from the first generation of galaxies. 
+## James Webb Space Telescope Advanced Deep Extragalactic Survey (JADES)
+
+- Dans le cadre du relevé de galaxies JADES, le JWST va observer deux régions du ciel déjà observées par le télescope Hubble, correspondant aux relevés GOODS-South (CDF-S) et GOODS-North (centré sur le HDF)
+- Ce relevé obserera 100 000 galaxies pendant environ 800 heures (33 jours) à l'aide de la caméra infrarouge NIRCam et du spectrographe NIRSpec
+- Vu qu'il observera l'univers en infrarouge, JADES sera un relevé plus profond que le HDF, et pourra remonter à l'époque des premières étoiles et des premières galaxies de l'univers
 
 # Le Hubble Deep Field et ses héritiers
 
