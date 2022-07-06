@@ -52,15 +52,15 @@
 
 ---
 
-## Le champ profond de Hubble (HDF)
+## Le champ profond de Hubble (HDF, 1995)
 
-- Le champ profond de Hubble a été photographié en décembre 1995, dans une région du ciel située au niveau de la grande Ourse quasiment vide d'étoiles de la Voie Lactée ou de galaxies proches. 
+- Le champ profond de Hubble a été photographié en décembre 1995, dans une région du ciel située au niveau de la grande Ourse quasiment vide d'étoiles de la Voie Lactée ou de galaxies proches, pendant 10 jours consécutifs. 
 > Cette photo totalise un temps d'exposition d'environ 100 heures, réparti en 342 clichés. Les temps d'exposition typiques pour un cliché de Hubble se comptent en heures.
 - Sur cette photo, la plupart des astres observés sont des galaxies. On en compte près de 3000.
 > Les galaxies les plus lointaines du HDF montrent des morphologies beaucoup plus irrégulières que les galaxies proches, ce qui a permis aux astronomes d'inférrer que les galaxies d'aujourd'hui sont nées à la suite de la fusion de galaxies plus petites et plus irrégulières au cours du premier milliard d'années arès le Big Bang.
-- En 1996, un autre champ profond a été observé dans une autre région du ciel (HDF-S) pour s'assurer que le champ profond initial (HDF-N) était bien représentatif de l'univers profond.
+- En 1998, un autre champ profond a été observé dans une autre région du ciel (HDF-S) pour s'assurer que le champ profond initial (HDF-N) était bien représentatif de l'univers profond (ce qui était le cas ! Conclusion : l'univers est uniforme à très grande échelle).
 
-## Le champ ultra-profond de Hubble (HUDF)
+## Le champ ultra-profond de Hubble (HUDF, 2004)
 
 - En 2002, le télescope spatial Hubble bénéficie d'une mise à jour, et notamment d'une nouvelle caméra, ACS (Advanced Camera for Surveys), qui lui permet de réaliser de meilleures images du ciel profond.
 - Entre Septembre 2003 et Janvier 2004, Hubble photographie une nouvelle région du ciel dans la constellation du Fourneau (constellation de l'hémisphère sud) : il s'agit du champ ultra-profond de Hubble (HUDF).
@@ -69,6 +69,10 @@
 > Les plus petites et les plus rouges de ces galaxies font partie des plus lointaines connues et ont émis leur lumière lorsque l'univers n'était agé que de 800 millions d'années, alors que le cosmos émergeait à peine de ses âges sombres. Quant aux plus proches, on les voit avec un décalage d'un milliard d'années environ, et elles présentent des morphologies mieux définies (spirales, elliptiques etc).
 - Il s'agit de l'image la plus profonde du ciel qu'il est possible de réaliser dans le domaine du visible.
 
+## Le champ eXtrêmement profond de Hubble (HXDF, 2012)
+
+## Le champ frontière de Hubble
+
 - For very distant objects, their light is shifted so far that they drop out of the visible spectrum altogether, and can only be seen in infrared light. This means that the Hubble Ultra Deep Field cannot be improved on by building a more sensitive optical telescope — Hubble has reached the limit of what is possible in visible light.
 - The next breakthrough came after the 2009 servicing mission in which astronauts installed a new instrument capable of making greatly improved infrared observations. The resulting image, covering most of the field of view of the 2004 Ultra Deep Field observations, is the deepest ever made of the cosmos. It is unlikely to be surpassed until the NASA/ESA/CSA James Webb Space Telescope is operational, later this decade.
 - Published in 2012, the Hubble eXtreme Deep Field is not a new set of observations, but rather a combination of many existing exposures (over 2000 of them) into one image. Combining the Hubble Ultra Deep Field, the Hubble Ultra Deep Field – Infrared, and many other images of the same small spot of sky taken over almost 10 years, the Hubble eXtreme Deep Field pushes the limit even further. It is made up of a total of 22 days of exposure time (and 50 days of observing time, as the telescope can only observe the deep field for around half of every orbit.)
@@ -76,8 +80,6 @@
 - Galaxy clusters are so massive that their gravity deflects light passing through them, magnifying, brightening, and distorting light. Frontier Fields astronomers are exploiting this gravitational lensing by using six separate clusters to magnify the light of very distant galaxies that otherwise would be too faint to see. Astronomers hope to learn not only what is inside the clusters but also what is beyond them. By unleashing the telescopes' full potential, they are uncovering galaxies that are as much as 100 times fainter than what the three Great Observatories typically can detect. 
 - The first cluster to be completed was Abell 2744, also known as Pandora's Cluster. Located in the constellation Sculptor, the giant galaxy cluster is about 4 million light-years across and has the mass of 4 trillion suns. It appears to be the result of a simultaneous pile-up of at least four separate, smaller galaxy clusters that took place over a span of 350 million years. If you look carefully at the Hubble image of Abell 2744, you will see a few galaxies that look like duplicates of each other, in a smooth arc. These are actually the same galaxy, revealed in multiple, bent-light paths by the
 gravitational lens.
-- in 1995, Robert Williams, then the director of the Space Telescope Science Institute (STSci), which administrates the Hubble telescope, decided to use his “director’s discretionary time” to point the Hubble toward a very small and absolutely empty-looking part of the sky in the direction of the constellation Ursa Major the Great Bear. There were no stars visible from our Milky Way (or extremely few), no nearby galaxies visible in the field, and no visible gas clouds. Hubble collected photons for 10 consecutive days, and the result, the Hubble Deep Field, was a success and a paradigm changer: A patch of sky about as small as the eye of George Washington on an American quarter (25-cent coin) held out at arm’s length, showed a 10 billion-light-years-long tunnel back in time with a plethora of galaxies – around 3,000 of them – at different evolutionary stages along the way. The field of observational cosmology was born.
-- This was done again in 1998 with the Hubble telescope pointed to the southern sky (Hubble Deep Field South), and the result was the same. Thus we learned that the universe is uniform over large scales.
 - Next was the installation of a new, powerful camera on Hubble (the Advanced Camera for Surveys) in 2002. The incredible Hubble Ultra Deep Field was acquired in 2004, in a similarly small patch of sky near the constellation Orion, about 1/10 of a full moon diameter (2.4 x 3.4 arc minutes, in contrast to the original Hubble Deep Fields north and south, which were 2.6 x 2.6 arc minutes). And so our reach was extended even deeper into space, and even further back in time, showing light from 10 thousand galaxies along a 13-billion-light-years-long tunnel of space. If you’ll remember that the universe is about 13.77 billion years old, you’ll see this is getting us really close to the beginning!
 - The Hubble Ultra Deep Field was the most sensitive astronomical image ever made at wavelengths of visible (optical) light until 2012, when an even more refined version was released, called the Hubble eXtreme Deep Field, which reached even farther: 13.2 billion years back in time. 
 
