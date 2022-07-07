@@ -24,6 +24,8 @@
 - [About Frontier Fields](https://frontierfields.org/about/) - Frontier Fields
 - [The Hubble Space Telescope Frontier Fields](https://archive.stsci.edu/prepds/frontier/) - Barbara Mikulsi Archives
 - [Redshift Changes How We Do Astronomy](https://ecuip.lib.uchicago.edu/multiwavelength-astronomy/ultraviolet/impact/08.html) - Université de Chicago
+- [Qu'est ce qu'une lentille gravitationnelle ?](http://public.planck.fr/outils/physique/effet-lentille-gravitationnelle) - Planck
+- [Les amas sont des lentilles gravitationnelles : observations](https://media4.obspm.fr/public/ressources_lu/pages_structures/lentilles-th.html) - Observatoire de Paris
 
 ---
 
