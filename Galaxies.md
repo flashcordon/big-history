@@ -8,7 +8,7 @@
 - -   If you look really deep, you will also look back in time, and the farther back in time you look, the more redshifted the galaxies are (the farther away they are, the faster they move away from us, and the more their light has been shifted towards the red part of the spectrum). This means that the light we want to observe, originally in the optical (visible) part of the electromagnetic spectrum, might not even show much in the optical part anymore. Instead, it’s been shifted to longer wavelengths, into the infrared regime. In other words, the use of infrared cameras is necessary to be able to see the light from the first generation of galaxies. 
 - - JWST pourra observer une région plus lointaine du domaine de l'infrarouge qu'Hubble. C'est ça qui lui permet d'observer plus loin.
 
-# Une histoire illustrée des images les plus profondes du ciel
+# Toujours plus loin, toujours plus haut, toujours plus fort : une histoire illustrée des images les plus profondes du ciel
 
 *Sources*
 
