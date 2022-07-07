@@ -8,10 +8,6 @@
 - -   If you look really deep, you will also look back in time, and the farther back in time you look, the more redshifted the galaxies are (the farther away they are, the faster they move away from us, and the more their light has been shifted towards the red part of the spectrum). This means that the light we want to observe, originally in the optical (visible) part of the electromagnetic spectrum, might not even show much in the optical part anymore. Instead, it’s been shifted to longer wavelengths, into the infrared regime. In other words, the use of infrared cameras is necessary to be able to see the light from the first generation of galaxies. 
 - - JWST pourra observer une région plus lointaine du domaine de l'infrarouge qu'Hubble. C'est ça qui lui permet d'observer plus loin.
 
-- ***PRIMER: Public Release IMaging for Extragalactic Research***
-
--  CEERS
-
 # Une histoire illustrée des images les plus profondes du ciel
 
 *Sources*
@@ -140,6 +136,7 @@ Why infrared? Because the Universe is expanding; therefore the farther back we l
 - [Studying the growth of galaxies with JWST](https://era.ed.ac.uk/handle/1842/36236) - Thèse de T. W. Kemp (2019)
 - [SAZERAC 2021 | 1B | James Dunlop](https://youtu.be/h9UON04fsEM) - SAZERAC
 - [PRIMER: Public Release IMaging for Extragalactic Research](https://ui.adsabs.harvard.edu/abs/2021jwst.prop.1837D/abstract) - Dunlop et al. (2021)
+- [The Cosmic Evolution Early Release Science Survey (CEERS)](https://cor.gsfc.nasa.gov/copag/AAS_Jan2021/presentations/CEERS.pdf) - Présentation de Finkelstein (2021)
 
 ---
 
