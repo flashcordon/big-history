@@ -1,31 +1,6 @@
 - JWST has enough fuel for 20 years of science lifetime"! (3/x)
 - NASA Deputy Administrator Pam Melroy
 
-# Les galaxies les plus lointaines découvertes à ce jour
-
-*Sources*
-
-- [Most distant galaxy yet discovered](https://earthsky.org/space/most-distant-galaxy-discovered-hd1/) - EarthSky
-- [Un sursaut gamma détecté aux confins de l'Univers dans la galaxie la plus lointaine connue ?](https://www.futura-sciences.com/sciences/actualites/cosmologie-sursaut-gamma-detecte-confins-univers-galaxie-plus-lointaine-connue-61915/) - Laurent Sacco, Futura Sciences
-- [Farthest](https://asd.gsfc.nasa.gov/blueshift/index.php/2012/12/18/maggies-blog-farthest/) - Maggie Masetti, NASAA Blueshift
-- [Hubble Sees Tribe of Galaxies at the Dawn of the Universe](https://slate.com/technology/2012/12/hubble-sees-distant-galaxies-group-of-seven-galaxies-at-the-edge-of-the-universe.html) - Phil Plait (2012)
-
----
-
-- En 2021, une équipe internationale d'astronomes a découvert une galaxie nommée HD1 qui bat des records de distance.
-> Pour cela, ils ont utilisé les données en infrarouge des télescopes Subaru, VISTA, UKIRT et Spitzer, qui ont observé la même région du ciel pendant un temps combiné de 1200 heures.
-- Son redshift de 13,3 en fait la galaxie la plus lointaine jamais découverte (dont la distance a été confirmée par des observations indépendantes utilisant le réseau d'antennes ALMA).
-> Sa lumière a été émise environ 300 millions d'années après le Big Bang et a voyagé pendant 13,5 milliards d'années avant de parvenir à nos télescopes.
-- La raison pour laquelle nous pouvons l'observer est qu'elle est intrinsèquement très brillante dans le domaine des UV (mais les astronomes l'observent dans l'infrarouge parce que les longueurs d'ondes de la galaxie ont été étirées au fil de l'expansion de l'univers).
-> Cette forte brillance peut s'expliquer par un taux de formation d'étoiles particulièrement élevé (plus de 100 étoiles par an), car les jeunes étoiles et les étoiles très chaudes émettent beaucoup de rayons UV, mais aussi parce que les premières générations d'étoiles (de population III dans le jargon) étaient beaucoup plus massives (de l'ordre de plusieurs centaines de fois la masse du Soleil) et plus chaudes que les étoiles qui se forment actuellement. Mais la présence d'un trou noir supermassif de 100 millions de masses solaires peut aussi expliquer cette luminosité particulièrement élevée (mais comment s'est-il formé ? Mystère).
-- Avant HD1, c'est la galaxie GN-z11 (découverte en 2016) et son redshift de 11 qui était détentrice du record de distance.
-> * Elle a été découverte en 2016 (dans la région de la constellation de la grande Ourse) dans les données des télescopes spatiaux Hubble et Spitzer dans le cadre du relevé GOODS-Nord (Great Observatories Origins Deep Survey-Nord)
-> * Elle est 25 fois plus petite que la notre et 100 fois moins massive, mais forme des étoiles à un rythme 20 fois plus élevé que la Voie Lactée.
-> * Sa lumière a été émise environ 400 millions d'années après le Big Bang
-
-*GN-z11 et HD1 : les galaxies les plus lointaines confirmées à ce jour (crédit : RAS)*
-
-![HD1](https://ras.ac.uk/sites/default/files/2022-04/Timeline.jpg)
 
 # Etudier les galaxies avec le JWST
 
@@ -35,10 +10,7 @@
 
 - ***PRIMER: Public Release IMaging for Extragalactic Research***
 
-
 -  CEERS
-
-
 
 # Une histoire illustrée des images les plus profondes du ciel
 
@@ -124,6 +96,33 @@ Why infrared? Because the Universe is expanding; therefore the farther back we l
 > Dans certains cas, l'image de la galaxie en arrière plan sera dédoublée, ou déformée. Et sous certaines conditions, la lumière de la galaxie lointaine va être amplifiée et focalisée par cet effet.
 - Les amas de galaxies jouent donc le rôle de lunettes astronomiques naturels qui nous permettent d'observer certaines des galaxies les plus lointaines qui soient.
 - Les déformations des images de galaxies en arrière plan d'un amas nous renseignent aussi sur la distribution de matière au sein de l'amas, et notamment sa distribution de matière noire. On utilise ainsi les images déformées des galaxies pour cartographier la matière noire au sein des amas de galaxies, ce qui permet aux astronomes de contraindre les propriétés de cette mystérieuse matière. [Illustration : distribution de matière noire dans l'amas Abell 1689](https://hubblesite.org/contents/media/images/2010/26/2756-Image.html) (Crédit : NASA, ESA, E. Jullo (Jet Propulsion Laboratory), P. Natarajan (Yale University), and J.-P. Kneib (Laboratoire d'Astrophysique de Marseille, CNRS, France); Acknowledgment: H. Ford and N. Benetiz (Johns Hopkins University), and T. Broadhurst (Tel Aviv University))
+
+# Les galaxies les plus lointaines découvertes à ce jour
+
+*Sources*
+
+- [Most distant galaxy yet discovered](https://earthsky.org/space/most-distant-galaxy-discovered-hd1/) - EarthSky
+- [Un sursaut gamma détecté aux confins de l'Univers dans la galaxie la plus lointaine connue ?](https://www.futura-sciences.com/sciences/actualites/cosmologie-sursaut-gamma-detecte-confins-univers-galaxie-plus-lointaine-connue-61915/) - Laurent Sacco, Futura Sciences
+- [Farthest](https://asd.gsfc.nasa.gov/blueshift/index.php/2012/12/18/maggies-blog-farthest/) - Maggie Masetti, NASAA Blueshift
+- [Hubble Sees Tribe of Galaxies at the Dawn of the Universe](https://slate.com/technology/2012/12/hubble-sees-distant-galaxies-group-of-seven-galaxies-at-the-edge-of-the-universe.html) - Phil Plait (2012)
+
+---
+
+- En 2021, une équipe internationale d'astronomes a découvert une galaxie nommée HD1 qui bat des records de distance.
+> Pour cela, ils ont utilisé les données en infrarouge des télescopes Subaru, VISTA, UKIRT et Spitzer, qui ont observé la même région du ciel pendant un temps combiné de 1200 heures.
+- Son redshift de 13,3 en fait la galaxie la plus lointaine jamais découverte (dont la distance a été confirmée par des observations indépendantes utilisant le réseau d'antennes ALMA).
+> Sa lumière a été émise environ 300 millions d'années après le Big Bang et a voyagé pendant 13,5 milliards d'années avant de parvenir à nos télescopes.
+- La raison pour laquelle nous pouvons l'observer est qu'elle est intrinsèquement très brillante dans le domaine des UV (mais les astronomes l'observent dans l'infrarouge parce que les longueurs d'ondes de la galaxie ont été étirées au fil de l'expansion de l'univers).
+> Cette forte brillance peut s'expliquer par un taux de formation d'étoiles particulièrement élevé (plus de 100 étoiles par an), car les jeunes étoiles et les étoiles très chaudes émettent beaucoup de rayons UV, mais aussi parce que les premières générations d'étoiles (de population III dans le jargon) étaient beaucoup plus massives (de l'ordre de plusieurs centaines de fois la masse du Soleil) et plus chaudes que les étoiles qui se forment actuellement. Mais la présence d'un trou noir supermassif de 100 millions de masses solaires peut aussi expliquer cette luminosité particulièrement élevée (mais comment s'est-il formé ? Mystère).
+- Avant HD1, c'est la galaxie GN-z11 (découverte en 2016) et son redshift de 11 qui était détentrice du record de distance.
+> * Elle a été découverte en 2016 (dans la région de la constellation de la grande Ourse) dans les données des télescopes spatiaux Hubble et Spitzer dans le cadre du relevé GOODS-Nord (Great Observatories Origins Deep Survey-Nord)
+> * Elle est 25 fois plus petite que la notre et 100 fois moins massive, mais forme des étoiles à un rythme 20 fois plus élevé que la Voie Lactée.
+> * Sa lumière a été émise environ 400 millions d'années après le Big Bang
+
+*GN-z11 et HD1 : les galaxies les plus lointaines confirmées à ce jour (crédit : RAS)*
+
+![HD1](https://ras.ac.uk/sites/default/files/2022-04/Timeline.jpg)
+
 
 # Le futur des relevés profonds avec le JWST
 
