@@ -12,11 +12,11 @@
 
 ---
 
-- on April 7, 2022, that they’ve discovered the farthest astronomical object yet observed. They believe this object is a galaxy, and, if so, it’s the most distant one currently known. The object carries the label HD1. It lies 13.5 billion light-years
-- we’re looking at this object as it existed in the distant past, just 300 million years after the Big Bang in which our universe was born.
-- The scientists published their study of this new object, HD1, in the peer-reviewed journal Monthly Notices of the Royal Astronomical Society Letters on January 3, 2022, and the peer-reviewed Astrophysical Journal on December 16, 2021.
-- An international team of astronomers used an array of telescopes to spot this distant object. The Subaru Telescope, VISTA Telescope, UK Infrared Telescope and Spitzer Space Telescope all stared at the same spot in space for a combined total of 1,200 hours.
-- Once they spotted the dim red object seen in the image above, they made followup observations with the Atacama Large Millimetre/submillimetre Array (ALMA) to confirm the distance. 
+- En 2021, une équipe internationale d'astronomes a découvert une galaxie nommée HD1 qui bat des records de distance.
+> Pour cela, ils ont utilisé les données en infrarouge des télescopes Subaru, VISTA, UKIRT et Spitzer, qui ont observé la même région du ciel pendant un temps combiné de 1200 heures.
+- Son redshift de 13,3 en fait la galaxie la plus lointaine jamais découverte (dont la distance a été confirmée par des observations indépendantes utilisant le réseau d'antennes ALMA).
+> Sa lumière a été émise environ 300 millions d'années après le Big Bang et a voyagé pendant 13,5 milliards d'années avant de parvenir à nos télescopes.
+- La raison pour laquelle nous 
 -  We can see the object because it’s extremely bright in ultraviolet (UV) wavelengths. Why is it so bright in ultraviolet light? 
 -  First, the galaxy may be forming stars at furious rate. These could be some of the universe’s very first stars. Astronomers would categorize these early stars as Population III stars. Population III stars are a hypothetical category because they’ve never been observed existing so far back in time. They would have been extremely massive, hot, luminous stars that first created chemical elements heavier than hydrogen. Scientists estimate that HD1 is forming more than 100 stars every single year. This rate is at least 10 times higher than a normal starburst galaxy. This is one of the reasons they think the galaxy is not forming “normal” stars. The very first population of stars that formed in the universe were more massive, more luminous and hotter than modern stars. If we assume the stars produced in HD1 are these first, or Population III, stars, then its properties could be explained more easily. In fact, Population III stars are capable of producing more UV light than normal stars, which could clarify the extreme ultraviolet luminosity of HD1.
 - Second, the galaxy may be home to a supermassive black hole. It would have to be about 100 million times the mass of our sun. 
