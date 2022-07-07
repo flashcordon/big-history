@@ -211,7 +211,10 @@ obscured star-formation and supermassive black hole growth at z~1-3.
 We propose an efficient public Treasury program that immediately establishes a NIRCam imaging deep field and ultra-deep low-resolution NIRSpec/PRISM follow-up spectroscopy in the gravitational lensing cluster Frontier Field Abell 2744. 
 Such depths are essential to achieve two core science goals of JWST: finding First Light galaxies during the Dark Ages at z>10 and studying the ultra-low luminosity galaxies at later times that were responsible for reionization. Offering the community early access to deep imaging of 4000 z>6 galaxies and spectroscopy of 500 galaxies 
  these data will support a broad array of legacy science including stellar mass complete studies to z=10, the role of dust obscuration at high redshift, and the various pathways of quenching star formation.
+ 
+## The First Reionization Epoch Spectroscopic COmplete Survey (FRESCO)
 
+- champs GOODS-N et GOODS-S
 
 # Un spectre d'exoplanète avec le JWST
 
