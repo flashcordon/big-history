@@ -46,6 +46,7 @@
 - [Gaia hypothesis](https://courses.seas.harvard.edu/climate/eli/Courses/EPS281r/Sources/Gaia/Gaia-hypothesis-wikipedia.pdf)
 - [Rethinking Gaia: Stengers, Latour, Margulis](https://journals.sagepub.com/doi/10.1177/0263276416686844) - Clarke (2017)
 - The Gaia Hypothesis – Science on a Pagan Planet - Michael Ruse (2013)
+- [La biosphère, un acteur géologique majeur](https://planet-terre.ens-lyon.fr/ressource/biosphere-acteur-geologique.xml) - Pierre Thomas (2016)
 
 ---
 
