@@ -7,6 +7,8 @@
 
 - [Most distant galaxy yet discovered](https://earthsky.org/space/most-distant-galaxy-discovered-hd1/) - EarthSky
 - [Un sursaut gamma détecté aux confins de l'Univers dans la galaxie la plus lointaine connue ?](https://www.futura-sciences.com/sciences/actualites/cosmologie-sursaut-gamma-detecte-confins-univers-galaxie-plus-lointaine-connue-61915/) - Laurent Sacco, Futura Sciences
+- [Farthest](https://asd.gsfc.nasa.gov/blueshift/index.php/2012/12/18/maggies-blog-farthest/) - Maggie Masetti, NASAA Blueshift
+- [Hubble Sees Tribe of Galaxies at the Dawn of the Universe](https://slate.com/technology/2012/12/hubble-sees-distant-galaxies-group-of-seven-galaxies-at-the-edge-of-the-universe.html) - Phil Plait (2012)
 
 ---
 
