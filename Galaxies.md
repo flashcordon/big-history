@@ -138,6 +138,7 @@ Why infrared? Because the Universe is expanding; therefore the farther back we l
 - [PRIMER: Public Release IMaging for Extragalactic Research](https://ui.adsabs.harvard.edu/abs/2021jwst.prop.1837D/abstract) - Dunlop et al. (2021)
 - [The Cosmic Evolution Early Release Science Survey (CEERS)](https://cor.gsfc.nasa.gov/copag/AAS_Jan2021/presentations/CEERS.pdf) - Présentation de Finkelstein (2021)
 - [UNCOVER: Ultra-deep NIRCam and NIRSpec Observations Before the Epoch of Reionization](https://ui.adsabs.harvard.edu/abs/2021jwst.prop.2561L/abstract) - Labbe (2021)
+- [FRESCO: The First Reionization Epoch Spectroscopic COmplete Survey](https://ui.adsabs.harvard.edu/abs/2021jwst.prop.1895O/abstract) - Oesch et al. (2021)
 
 ---
 
@@ -215,6 +216,8 @@ Such depths are essential to achieve two core science goals of JWST: finding Fir
 ## The First Reionization Epoch Spectroscopic COmplete Survey (FRESCO)
 
 - champs GOODS-N et GOODS-S
+- The highly-incomplete spectroscopic information at z>6 means that we lack physical understanding of the processes driving early galaxy assembly. To date, less than 1% of known galaxies in the epoch of reionization at z>6 have confirmed redshifts
+- FRESCO exploits JWST's remarkable new spectroscopic capabilities to remedy this situation in a maximally-efficient way. By obtaining 2 hr deep NIRCam/grism observations with just the F444W filter, FRESCO will yield redshifts over a wide redshift range for a complete sample of ~330 z~7-9 galaxies, as well as ~1200 z~5-6.5 galaxies, in the Deep CANDELS areas of the GOODS-S and GOODS-N fields. 
 
 # Un spectre d'exoplanète avec le JWST
 
