@@ -1,13 +1,3 @@
-- JWST has enough fuel for 20 years of science lifetime"! (3/x)
-- NASA Deputy Administrator Pam Melroy
-
-
-# Etudier les galaxies avec le JWST
-
-- Among the first images will be ‘the deepest image of our universe that has ever been taken,’ according to NASA administrator Bill Nelson
-- -   If you look really deep, you will also look back in time, and the farther back in time you look, the more redshifted the galaxies are (the farther away they are, the faster they move away from us, and the more their light has been shifted towards the red part of the spectrum). This means that the light we want to observe, originally in the optical (visible) part of the electromagnetic spectrum, might not even show much in the optical part anymore. Instead, it’s been shifted to longer wavelengths, into the infrared regime. In other words, the use of infrared cameras is necessary to be able to see the light from the first generation of galaxies. 
-- - JWST pourra observer une région plus lointaine du domaine de l'infrarouge qu'Hubble. C'est ça qui lui permet d'observer plus loin.
-
 # Toujours plus loin, toujours plus haut, toujours plus fort : une histoire illustrée des images les plus profondes du ciel
 
 *Sources*
@@ -24,6 +14,10 @@
 - [Les amas sont des lentilles gravitationnelles : observations](https://media4.obspm.fr/public/ressources_lu/pages_structures/lentilles-th.html) - Observatoire de Paris
 
 ---
+
+- En astronomie, plus on regarde loin, plus on regarde dans le passé, à cause de la vitesse finie de la lumière
+- Photographier les galaxies les plus lointaines du ciel est donc une manière pour les scientifiques de remonter des milliards d'années dans le temps, et d'observer des instantanés de l'univers à différentes étapes de son évolution
+- De nos jours, les astronomes cherchent à réaliser des images des premières galaxies qui ont émergé du brouillard d'hydrogène et d'hélium dans lequel se trouvait l'univers, au cours des premières centaines de millions d'années après le Big Bang, pour mieux comprendre la formation et l'évolution des galaxies, et reconstruire de manière quantitative quelques chapitres essentiels de l'évolution du cosmos (deux en particuliers, qu'on appelle communément les "âges sombres" et "l'époque de la réionisation").
 
 ## Le champ profond de Hubble (HDF, 1995)
 
