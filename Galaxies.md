@@ -137,6 +137,7 @@ Why infrared? Because the Universe is expanding; therefore the farther back we l
 - [SAZERAC 2021 | 1B | James Dunlop](https://youtu.be/h9UON04fsEM) - SAZERAC
 - [PRIMER: Public Release IMaging for Extragalactic Research](https://ui.adsabs.harvard.edu/abs/2021jwst.prop.1837D/abstract) - Dunlop et al. (2021)
 - [The Cosmic Evolution Early Release Science Survey (CEERS)](https://cor.gsfc.nasa.gov/copag/AAS_Jan2021/presentations/CEERS.pdf) - Présentation de Finkelstein (2021)
+- [UNCOVER: Ultra-deep NIRCam and NIRSpec Observations Before the Epoch of Reionization](https://ui.adsabs.harvard.edu/abs/2021jwst.prop.2561L/abstract) - Labbe (2021)
 
 ---
 
@@ -204,6 +205,13 @@ obscured star-formation and supermassive black hole growth at z~1-3.
 - Dans le cadre du relevé de galaxies JADES, le JWST va observer deux régions du ciel déjà observées par le télescope Hubble, correspondant aux relevés GOODS-South (CDF-S) et GOODS-North (centré sur le HDF)
 - Ce relevé obserera 100 000 galaxies pendant environ 800 heures (33 jours) à l'aide de la caméra infrarouge NIRCam et du spectrographe NIRSpec
 - Vu qu'il observera l'univers en infrarouge, JADES sera un relevé plus profond que le HDF, et pourra remonter à l'époque des premières étoiles et des premières galaxies de l'univers
+
+## Ultra-deep NIRCam and NIRSpec Observations Before the Epoch of Reionization (UNCOVER)
+
+We propose an efficient public Treasury program that immediately establishes a NIRCam imaging deep field and ultra-deep low-resolution NIRSpec/PRISM follow-up spectroscopy in the gravitational lensing cluster Frontier Field Abell 2744. 
+Such depths are essential to achieve two core science goals of JWST: finding First Light galaxies during the Dark Ages at z>10 and studying the ultra-low luminosity galaxies at later times that were responsible for reionization. Offering the community early access to deep imaging of 4000 z>6 galaxies and spectroscopy of 500 galaxies 
+ these data will support a broad array of legacy science including stellar mass complete studies to z=10, the role of dust obscuration at high redshift, and the various pathways of quenching star formation.
+
 
 # Un spectre d'exoplanète avec le JWST
 
