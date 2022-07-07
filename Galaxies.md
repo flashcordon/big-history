@@ -162,8 +162,6 @@ Why infrared? Because the Universe is expanding; therefore the farther back we l
 - Les amas de galaxies jouent donc le rôle de lunettes astronomiques naturels qui nous permettent d'observer certaines des galaxies les plus lointaines qui soient.
 - Les déformations des images de galaxies en arrière plan d'un amas nous renseignent aussi sur la distribution de matière au sein de l'amas, et notamment sa distribution de matière noire. On utilise ainsi les images déformées des galaxies pour cartographier la matière noire au sein des amas de galaxies, ce qui permet aux astronomes de contraindre les propriétés de cette mystérieuse matière.
 
-- [Abell 2744 Y1](https://fr.wikipedia.org/wiki/Abell_2744_Y1#/media/Fichier:Distant_galaxy_in_Hubble_Frontier_Field_Abell_2744.jpg) (z ~ 8)
-
 # Un spectre d'exoplanète avec le JWST
 
 - https://twitter.com/exoZafar/status/1520037875164667904
