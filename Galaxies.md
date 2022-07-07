@@ -152,6 +152,30 @@ Why infrared? Because the Universe is expanding; therefore the farther back we l
 - 10 filtres différents, en utilisant les instruments NIRCam et MIRI
 - dans les deux champs  the two key equatorial HST CANDELS Legacy Fields (COSMOS and UDS)
 - Selon les simulations informatiques, PRIMER devrait photographier environ 120 000 galaxies jusqu'au redshift 12, dont plus des deux tiers n'ont pas encore été détectées avant
+- enables the detection and redshift determinations of galaxies beyond z > 10, with
+an improved angular resolution, breaking through existing confusion limits and
+enabling spatially resolved studies out to the highest redshifts.
+- This work is fully motivated by that fact
+that, beyond z ' 9 (where only ' 10 galaxies are currently confirmed: Ellis
+et al. 2013; Oesch et al. 2014, 2016; McLeod et al. 2016; Ishigaki et al. 2018) the
+prevalence and/or evolution of galaxies is essentially unknown. Theoretical and
+observational constraints on reionisation suggest that galaxy evolution extends
+to z > 15
+- Of the ' 700 z > 7
+galaxies we expect to uncover in the imaging, we predict that ' 400 will be
+detected at the 10-σ level, which will result in approximately 5% accuracy in
+the β measurement for individual galaxies. A programme like PRIMER would
+revolutionise our knowledge of the SEDs and hence the physical properties of
+galaxies in the reionisation era, and is therefore capable of revealing the first
+genuinely primaeval galaxies
+- t the highest redshifts, deep
+JWST imaging, as proposed through PRIMER, will provide the first insight into
+the spatial distribution of stellar mass in galaxies, where our current completely
+UV-biased view can even leave ambiguity over what constitutes an individual
+galaxy
+- he approximately ×3 improvement in spatial resolution over HST WFC3/IR
+imaging offered by the NIRCam SW channel will enable the rest-frame UV
+sizes/structures of high-z galaxies to be traced out to z ' 11 − 12
 
 ## Next Generation Deep Extragalactic Exploratory Public (NGDEEP) Survey
 
