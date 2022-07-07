@@ -177,6 +177,21 @@ galaxy
 imaging offered by the NIRCam SW channel will enable the rest-frame UV
 sizes/structures of high-z galaxies to be traced out to z ' 11 − 12
 
+##  The Cosmic Evolution Early Release Science Survey (CEERS)
+
+CEERS will also address key JWST science goals, including:
+
+    constraining the abundance and physical nature of galaxies at z~9-13;
+    constraining the physical conditions of star-formation and black hole growth via line diagnostics of galaxies at z>3;
+    quantifying the first bulge and disk structures at z>3; and
+    characterizing galaxy mid-IR emission to study dust-obscured star-formation and supermassive black hole growth at z~1-3
+CEERS enables immediate community science into both extragalactic JWST science drivers “First Light and Reionization” and “The Assembly of
+Galaxies”, including: 1) The discovery of 20-80 galaxies at z~9-13, constraining their abundance and physical nature; 2) Deep spectra of >400
+galaxies at z>3, including 40 known candidates at 6<z<9, enabling redshifts and constraints on physical conditions of star-formation and black hole
+growth via line diagnostics; 3) Quantifying the first bulge and disk structures at z>3; and 4) Characterizing galaxy mid-IR emission to study dust-
+obscured star-formation and supermassive black hole growth at z~1-3.
+
+
 ## Next Generation Deep Extragalactic Exploratory Public (NGDEEP) Survey
 
 - Jusqu'à présent, les télescopes ont permis de capturer de la lumière de galaxies qui se sont formées environ 300 millions (HD1) et 400 millions d'années (GN-z11) après le Big Bang, ie il y a entre 13,4 et 13,5 milliards d'années.
