@@ -187,7 +187,8 @@ Galaxies”, including: 1) The discovery of 20-80 galaxies at z~9-13, constraini
 galaxies at z>3, including 40 known candidates at 6<z<9, enabling redshifts and constraints on physical conditions of star-formation and black hole
 growth via line diagnostics; 3) Quantifying the first bulge and disk structures at z>3; and 4) Characterizing galaxy mid-IR emission to study dust-
 obscured star-formation and supermassive black hole growth at z~1-3.
-
+- What are the limits on the epoch of first galaxy formation? The goals are to push the search for primordial star-formation into the first 400 Myr after the Big Bang. To provide insightful JWST tests of reionization-era galaxy-formation models via robust number counts of z>10 candidates and robust stellar mass estimates at z>4. To advance our understanding of the end of reionization 
+- Between z~7 and today, galaxies underwent dramatic transformations. They formed stars from their ISM, continuously building their stellar populations, reaching peak activity at z~1–3 (Madau & Dickinson 2014), and enhancing their metal and dust content. Their central supermassive black holes (SMBHs) grew, leading to a relationship between SMBH and stellar mass. This growth was accompanied by changes in the physical structures of galaxies as they grew their disks and became increasingly bulge-dominated. Galaxies also grew through mergers, further enhancing star formation and black hole growth, while driving morphological changes. CEERS has been designed to enable a wide range of studies into these interrelated processes of galaxy assembly. Here we describe some avenues of research, which will lead to understanding the key evolutionary pathways that have built-up today’s galaxies. 
 
 ## Next Generation Deep Extragalactic Exploratory Public (NGDEEP) Survey
 
