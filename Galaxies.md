@@ -107,6 +107,8 @@
 
 ## Le champ eXtrêmement profond de Hubble (XDF, 2012)
 
+- [Comparaison du XDF avec la taille de la Lune dans le ciel](https://esahubble.org/images/heic1214d/) (Crédit : NASA, ESA, Z. Levay (STScI), T. Rector, I. Dell'Antonio/NOAO/AURA/NSF, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University) and the HUDF09 Team)
+
 ## Le champ frontière de Hubble
  
 - Published in 2012, the Hubble eXtreme Deep Field is not a new set of observations, but rather a combination of many existing exposures (over 2000 of them) into one image. Combining the Hubble Ultra Deep Field, the Hubble Ultra Deep Field – Infrared, and many other images of the same small spot of sky taken over almost 10 years, the Hubble eXtreme Deep Field pushes the limit even further. It is made up of a total of 22 days of exposure time (and 50 days of observing time, as the telescope can only observe the deep field for around half of every orbit.)
