@@ -109,6 +109,11 @@
 
 - [Image](https://hubblesite.org/contents/media/images/2012/37/3098-Image.html) (Crédit : NASA, ESA, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University), and the HUDF09 Team)
 - [Comparaison du XDF avec la taille de la Lune dans le ciel](https://esahubble.org/images/heic1214d/) (Crédit : NASA, ESA, Z. Levay (STScI), T. Rector, I. Dell'Antonio/NOAO/AURA/NSF, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University) and the HUDF09 Team)
+- The eXtreme Deep Field, or XDF, was assembled by combining 10 years of NASA Hubble Space Telescope photographs taken of a patch of sky at the center of the original Hubble Ultra Deep Field. The XDF is a small fraction of the angular diameter of the full Moon.
+- The XDF contains about 5,500 galaxies even within its smaller field of view. The faintest galaxies are one ten-billionth the brightness of what the human eye can see.
+> Cette photo totalise un temps d'exposition d'environ 2 millions de secondes, réparties sur plus de 2000 clichés.
+-  the XDF reveals galaxies that span back 13.2 billion years in time.
+-  The youngest galaxy found in the XDF existed just 450 million years after the universe's birth in the big bang. 
 
 ## Le champ frontière de Hubble
  
