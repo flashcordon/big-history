@@ -31,13 +31,11 @@
 - Comment GN-z11 s'est créée reste un mystère pour l'instant. Probablement voyons-nous les premières générations d'étoiles se former autour des trous noirs ? 
 - 
 
-*Les galaxies les plus lointaines connues à ce jour (crédit : RAS)*
+*GN-z11 et HD1 : les galaxies les plus lointaines confirmées à ce jour (crédit : RAS)*
 
 ![HD1](https://ras.ac.uk/sites/default/files/2022-04/Timeline.jpg)
 
 # Etudier les galaxies avec le JWST
-
-
 
 - Among the first images will be ‘the deepest image of our universe that has ever been taken,’ according to NASA administrator Bill Nelson
 - -   If you look really deep, you will also look back in time, and the farther back in time you look, the more redshifted the galaxies are (the farther away they are, the faster they move away from us, and the more their light has been shifted towards the red part of the spectrum). This means that the light we want to observe, originally in the optical (visible) part of the electromagnetic spectrum, might not even show much in the optical part anymore. Instead, it’s been shifted to longer wavelengths, into the infrared regime. In other words, the use of infrared cameras is necessary to be able to see the light from the first generation of galaxies. 
@@ -50,7 +48,7 @@
 
 
 
-# Une histoire des images les plus profondes du ciel
+# Une histoire illustrée des images les plus profondes du ciel
 
 *Sources*
 
@@ -84,6 +82,8 @@
 - Sur cette photo, on recense environ 10 000 galaxies.
 > [Les plus petites et les plus rouges de ces galaxies](https://hubblesite.org/contents/media/images/2004/28/1579-Image.html) font partie des plus lointaines connues et ont émis leur lumière lorsque l'univers n'était agé que de 800 millions d'années, alors que le cosmos émergeait à peine de ses âges sombres. Quant aux plus proches, on les voit avec un décalage d'un milliard d'années environ, et elles présentent des morphologies mieux définies (spirales, elliptiques etc).
 - À l'époque de sa sortie, le HUDF est l'image la plus profonde du ciel qu'il est possible de réaliser dans le domaine du visible. Ce qui veut dire qu'on ne détectera pas plus de galaxies dans ce champ avec un télescope optique plus sensible.
+- Pour observer des galaxies plus lointaines, il faut donc observer en infrarouge.
+> ***Pouquoi en infrarouge ?*** À cause de l'expansion de l'univers. Il se trouve que la plupart des galaxies s'éloignent les unes des autres au fil de l'histoire de l'univers.
 
 ## Le champ ultra-profond infrarouge de Hubble (HUDF WFC3/IR, 2009)
 
