@@ -87,6 +87,7 @@
 - [The Story Behind the XDF](https://xdf.ucolick.org/Making-the-XDF_the-Hubble-eXtreme-Deep-Field.pdf) - Garth Illingworth, Dan Magee, Pascal Oesch, Rychard Bouwens and the XDF Team
 - [About Frontier Fields](https://frontierfields.org/about/) - Frontier Fields
 - [The Hubble Space Telescope Frontier Fields](https://archive.stsci.edu/prepds/frontier/) - Barbara Mikulsi Archives
+- [Redshift Changes How We Do Astronomy](https://ecuip.lib.uchicago.edu/multiwavelength-astronomy/ultraviolet/impact/08.html) - Université de Chicago
 
 ---
 
@@ -116,6 +117,18 @@
 - En mai 2009, une nouvelle caméra est installée sur le télescope spatial Hubble : la Wide Field Camera 3 (WFC3), qui permet de réaliser des images en plus haute résolution dans le domaine du visible, des UV et du proche infrarouge.
 - À l'aide de ce nouvel instrument, Hubble va réaliser une nouvelle image du ciel profond dans la même région du ciel qu'en 2004.
 - Il s'agit à ce jour de l'image la plus profonde du ciel jamais acquise. Elle ne pourra être surpassée que par les instruments du JWST.
+
+## Le champ ultra profond de Hubble version 2012 (HUDF 2012)
+
+- [Image](https://esahubble.org/images/heic1219b/) (Crédit : NASA, ESA, R. Ellis (Caltech), and the HUDF 2012 Team) 
+- This image shows the Hubble Ultra Deep Field 2012, an improved version of the Hubble Ultra Deep Field image featuring additional observation time. The new data have revealed for the first time a population of distant galaxies at redshifts between 9 and 12, including the most distant object observed to date.
+- The image is a result of 100 hours of Hubble staring at one spot in the sky. They chose the location of the previously-observed Hubble Ultra Deep Field (HUDF), a region of the sky where Hubble had already taken a very long look, taking a census of thousands of galaxies at all different distances. This new observation, though, looked in the infrared, where we expect the most distant galaxies to shine most brightly.
+- Hubble’s Ultra Deep Field, with the extremely distant galaxies marked. The most distant is 13.3 billion light years away. HUDF-JD12. This image shows the Hubble Ultra Deep Field 2012, an improved version of the Hubble Ultra Deep Field image featuring additional observation time. The new data have revealed for the first time a population of distant galaxies at redshifts between 9 and 12, including the most distant object observed to date. These galaxies are shown at the top of the picture, and their locations are pinpointed in the main image. These galaxies will require confirmation using spectroscopy by the forthcoming NASA/ESA/CSA James Webb Space Telescope before they are considered to be fully confirmed.
+- This is an improved version of the Hubble Ultra Deep Field (2004) featuring additional observation time. The new data reveals a possible population of distant galaxies at redshifts between 9 and 12, including a candidate for the most distant object observed from Earth to date. 
+- https://hubblesite.org/contents/media/images/2005/28/1765-Image.html
+- population de galaxies avec z de 9 à 12 https://esahubble.org/images/heic1219a/
+
+ Consider a galaxy with hot stars that is near the Earth. The stars will be predominantly blue in color. If the Universe were not expanding, the same kinds of objects seen very far away from us would still appear to be blue. On the other hand, the Universe is expanding and all light from distant objects will be perceived to be redder than when it left the source. Light from intrinsically hot, blue stars in distant galaxies will look redder than when it left the source. Wavelengths will be stretched by factors of 2, 4, 6, or even more as objects are further and further away from us.
 
 ## Le champ eXtrêmement profond de Hubble (XDF, 2012)
 
