@@ -47,6 +47,7 @@
 ---
 
 - [Comparaison d'une image du champ ultra-profond de Hubble et d'une image simulée d'un champ similaire observé à l'aide du JWST](https://www.space.com/james-webb-space-telescope-science-overview) (Crédit : ESA/NASA/STSCI)
+- [Illustration : plus on regarde loin, plus on regarde dans le passé](https://blogs.nasa.gov/webb/wp-content/uploads/sites/326/2022/02/Yung-et-al-Simulated-Universe.png) (Crédit : Yung et al. / NASA) 
 
 - Among the first images will be ‘the deepest image of our universe that has ever been taken,’ according to NASA administrator Bill Nelson
 - -   If you look really deep, you will also look back in time, and the farther back in time you look, the more redshifted the galaxies are (the farther away they are, the faster they move away from us, and the more their light has been shifted towards the red part of the spectrum). This means that the light we want to observe, originally in the optical (visible) part of the electromagnetic spectrum, might not even show much in the optical part anymore. Instead, it’s been shifted to longer wavelengths, into the infrared regime. In other words, the use of infrared cameras is necessary to be able to see the light from the first generation of galaxies. 
