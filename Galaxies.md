@@ -149,7 +149,7 @@ Why infrared? Because the Universe is expanding; therefore the farther back we l
 - [Images](https://hubblesite.org/contents/media/images/2017/20/4026-Image.html?news=true) (Crédit : NASA, ESA, STScI and the HFF team) 
 - L'idée du programme des champs Frontière est d'utiliser tout le potentiel de Hubble pour créer les images les plus profondes de l'univers à ce jour
 - Pour cela, Hubble a observé des amas de galaxies très massifs et en utilisant l'effet de lentille gravitationnelle créé par ces amas pour observer des galaxies en arrière plan qui seraient trop peu lumineuses pour être détectées d'ordinaire.
-> Grâce à l'effet de lentille gravitationnelle, Hubble a pu observer des galaxies qui seraient 100 fois trop peu lumineuses pour être détectées dans un champ profond typique.
+> Grâce à l'effet de lentille gravitationnelle, Hubble a pu observer des galaxies qui seraient 100 fois trop peu lumineuses pour être détectées dans un champ profond typique. [Illustration : découverte d'une galaxie de redshift 10 en arrière plan de l'amas de Pandore (2014)](https://www.nasa.gov/press/2014/october/nasa-s-hubble-finds-extremely-distant-galaxy-through-cosmic-magnifying-glass) (Crédit : NASA, J. Lotz, (STScI))
 - Le programme Frontiers a observé 6 amas de galaxies différents sur une période de 3 ans, ainsi que 6 régions du ciel juste à côté de ces amas (les champs "parallèles")
 
 ***L'effet de lentille gravitationnelle***
@@ -158,14 +158,11 @@ Why infrared? Because the Universe is expanding; therefore the farther back we l
 - Dans le cas qui nous intéresse, un amas de galaxies est une concentration de matière extrêmement massif.
 > Par exemple, la masse de l'amas Abell 2744 (surnommé l'amas de Pandore) est estimée à 4 milliers de milliards de Soleils.
 - Ainsi, si on observe une galaxie très lointaine qui se trouve derrière un amas de galaxies, le trajet de la lumière de cette galaxie va être courbé par la masse de l'amas, et cet amas va agir en pratique comme la lentille d'une loupe. 
-> Dans certains cas, l'image de la galaxie en arrière plan sera dédoublée, ou déformée. Et sous certaines conditions, la lumière de la galaxie lointaine va être amplifiée par cet effet.
-- Les amas de galaxies jouent donc le rôle de télescopes naturels qui nous permettent d'observer certaines des galaxies les plus lointaines qui soient.
+> Dans certains cas, l'image de la galaxie en arrière plan sera dédoublée, ou déformée. Et sous certaines conditions, la lumière de la galaxie lointaine va être amplifiée et focalisée par cet effet.
+- Les amas de galaxies jouent donc le rôle de lunettes astronomiques naturels qui nous permettent d'observer certaines des galaxies les plus lointaines qui soient.
 - Les déformations des images de galaxies en arrière plan d'un amas nous renseignent aussi sur la distribution de matière au sein de l'amas, et notamment sa distribution de matière noire. On utilise ainsi les images déformées des galaxies pour cartographier la matière noire au sein des amas de galaxies, ce qui permet aux astronomes de contraindre les propriétés de cette mystérieuse matière.
 
-- The Hubble Frontier Fields is a three-year, 840-orbit programme which created the deepest views of the Universe to date, combining the power of Hubble with the gravitational amplification of light around six different galaxy clusters to explore more distant regions of space than could otherwise be seen. These observations are helping astronomers understand how stars and galaxies emerged out of the dark ages of the Universe, when space was dark, opaque, and filled with hydrogen. In analysing how the light of more distant galaxies is bent by the cluster astronomers also learn about the distribution of normal matter and dark matter within such clusters.
-- These images will produce the deepest observations of galaxy clusters and the “lensed” or magnified galaxies behind them ever taken. They will help us understand how galaxies evolved during the time period when a dark, opaque, hydrogen-filled universe was slowly becoming reionized and transparent to light. They will help trace the history of star formation and the growth of stars. They will provide previously unknown measurements of the mysterious material known as dark matter within massive galaxy clusters. And they will give us an early glimpse of the work that will be accomplished by the James Webb Space Telescope upon its launch in 2018.
 - [Abell 2744 Y1](https://fr.wikipedia.org/wiki/Abell_2744_Y1#/media/Fichier:Distant_galaxy_in_Hubble_Frontier_Field_Abell_2744.jpg) (z ~ 8)
-
 
 # Un spectre d'exoplanète avec le JWST
 
