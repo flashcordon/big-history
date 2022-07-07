@@ -77,6 +77,7 @@
 - [The Hubble Deep Fields](https://esahubble.org/science/deep_fields/) - ESA
 - [Abell 2744 Frontier Field](https://hubblesite.org/contents/media/images/3868-Image) - Hubblesite
 - [Hubble sees galaxies galore](https://esahubble.org/images/heic0406a/) - ESA
+- [WIDE FIELD CAMERA 3](https://www.stsci.edu/hst/instrumentation/wfc3) - Stsci
 
 ---
 
@@ -90,19 +91,24 @@
 
 ## Le champ ultra-profond de Hubble (HUDF, 2004)
 
-- En 2002, le télescope spatial Hubble bénéficie d'une mise à jour, et notamment d'une nouvelle caméra, ACS (Advanced Camera for Surveys), qui lui permet de réaliser de meilleures images du ciel profond.
+- En 2002, le télescope spatial Hubble bénéficie d'une mise à jour, et notamment d'une nouvelle caméra, l'Advanced Camera for Surveys (ACS), qui lui permet de réaliser de meilleures images du ciel profond.
 - Entre Septembre 2003 et Janvier 2004, Hubble photographie une nouvelle région du ciel dans la constellation du Fourneau (constellation de l'hémisphère sud) : il s'agit du champ ultra-profond de Hubble (HUDF).
 > Cette photo totalise un temps d'exposition d'environ 11,3 jours, répartis en 800 clichés.
 - Sur cette photo, on recense environ 10 000 galaxies.
 > Les plus petites et les plus rouges de ces galaxies font partie des plus lointaines connues et ont émis leur lumière lorsque l'univers n'était agé que de 800 millions d'années, alors que le cosmos émergeait à peine de ses âges sombres. Quant aux plus proches, on les voit avec un décalage d'un milliard d'années environ, et elles présentent des morphologies mieux définies (spirales, elliptiques etc).
-- Il s'agit de l'image la plus profonde du ciel qu'il est possible de réaliser dans le domaine du visible.
+- Il s'agit de l'image la plus profonde du ciel qu'il est possible de réaliser dans le domaine du visible. Ce qui veut dire qu'on ne détectera pas plus de galaxies dans ce champ avec un télescope optique plus sensible.
 
-## Le champ eXtrêmement profond de Hubble (HXDF, 2012)
+## Le champ ultra-profond infrarouge de Hubble (HUDF WFC3/IR, 2009)
+
+- [Image](https://hubblesite.org/contents/media/images/2010/02/2673-Image.html)
+- En mai 2009, une nouvelle caméra est installée sur le télescope spatial Hubble : la Wide Field Camera 3 (WFC3), qui permet de réaliser des images en plus haute résolution dans le domaine du visible, des UV et du proche infrarouge.
+- À l'aide de ce nouvel instrument, Hubble va réaliser une nouvelle image du ciel profond dans la même région du ciel qu'en 2004.
+- Il s'agit à ce jour de l'image la plus profonde du ciel jamais réalisée. Elle ne pourra être surpassée que par les instruments du JWST.
+
+## Le champ eXtrêmement profond de Hubble (XDF, 2012)
 
 ## Le champ frontière de Hubble
-
-- For very distant objects, their light is shifted so far that they drop out of the visible spectrum altogether, and can only be seen in infrared light. This means that the Hubble Ultra Deep Field cannot be improved on by building a more sensitive optical telescope — Hubble has reached the limit of what is possible in visible light.
-- The next breakthrough came after the 2009 servicing mission in which astronauts installed a new instrument capable of making greatly improved infrared observations. The resulting image, covering most of the field of view of the 2004 Ultra Deep Field observations, is the deepest ever made of the cosmos. It is unlikely to be surpassed until the NASA/ESA/CSA James Webb Space Telescope is operational, later this decade.
+ 
 - Published in 2012, the Hubble eXtreme Deep Field is not a new set of observations, but rather a combination of many existing exposures (over 2000 of them) into one image. Combining the Hubble Ultra Deep Field, the Hubble Ultra Deep Field – Infrared, and many other images of the same small spot of sky taken over almost 10 years, the Hubble eXtreme Deep Field pushes the limit even further. It is made up of a total of 22 days of exposure time (and 50 days of observing time, as the telescope can only observe the deep field for around half of every orbit.)
 - The Hubble Frontier Fields is a three-year, 840-orbit programme which created the deepest views of the Universe to date, combining the power of Hubble with the gravitational amplification of light around six different galaxy clusters to explore more distant regions of space than could otherwise be seen. These observations are helping astronomers understand how stars and galaxies emerged out of the dark ages of the Universe, when space was dark, opaque, and filled with hydrogen. In analysing how the light of more distant galaxies is bent by the cluster astronomers also learn about the distribution of normal matter and dark matter within such clusters.
 - Galaxy clusters are so massive that their gravity deflects light passing through them, magnifying, brightening, and distorting light. Frontier Fields astronomers are exploiting this gravitational lensing by using six separate clusters to magnify the light of very distant galaxies that otherwise would be too faint to see. Astronomers hope to learn not only what is inside the clusters but also what is beyond them. By unleashing the telescopes' full potential, they are uncovering galaxies that are as much as 100 times fainter than what the three Great Observatories typically can detect. 
