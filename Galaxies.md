@@ -149,7 +149,7 @@ Why infrared? Because the Universe is expanding; therefore the farther back we l
 - [Images](https://hubblesite.org/contents/media/images/2017/20/4026-Image.html?news=true) (Crédit : NASA, ESA, STScI and the HFF team) 
 - L'idée du programme des champs Frontière est d'utiliser tout le potentiel de Hubble pour créer les images les plus profondes de l'univers à ce jour
 - Pour cela, Hubble a observé des amas de galaxies très massifs et en utilisant l'effet de lentille gravitationnelle créé par ces amas pour observer des galaxies en arrière plan qui seraient trop peu lumineuses pour être détectées d'ordinaire.
-> Grâce à l'effet de lentille gravitationnelle, Hubble a pu observer des galaxies qui seraient 100 fois trop peu lumineuses pour être détectées dans un champ profond typique. [Illustration : découverte d'une galaxie de redshift 10 en arrière plan de l'amas de Pandore (2014)](https://www.nasa.gov/press/2014/october/nasa-s-hubble-finds-extremely-distant-galaxy-through-cosmic-magnifying-glass) (Crédit : NASA, J. Lotz, (STScI))
+> Grâce à l'effet de lentille gravitationnelle, Hubble a pu observer des galaxies qui seraient 100 fois trop peu lumineuses pour être détectées dans un champ profond typique. [Illustration : découverte d'une galaxie de redshift 10 (~ 480 millions d'années après le Big Bang) en arrière plan de l'amas de Pandore (2014)](https://www.nasa.gov/press/2014/october/nasa-s-hubble-finds-extremely-distant-galaxy-through-cosmic-magnifying-glass) (Crédit : NASA, J. Lotz, (STScI))
 - Le programme Frontiers a observé 6 amas de galaxies différents sur une période de 3 ans, ainsi que 6 régions du ciel juste à côté de ces amas (les champs "parallèles")
 
 ***L'effet de lentille gravitationnelle***
