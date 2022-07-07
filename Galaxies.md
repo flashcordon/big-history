@@ -103,7 +103,7 @@
 
 ## Le champ ultra-profond infrarouge de Hubble (HUDF WFC3/IR, 2009)
 
-- [Image](https://hubblesite.org/contents/media/images/2010/02/2673-Image.html)
+- [Image](https://hubblesite.org/contents/media/images/2010/02/2673-Image.html) (Crédit : NASA, ESA, G. Illingworth and R. Bouwens (University of California, Santa Cruz), and the HUDF09 Team)
 - En mai 2009, une nouvelle caméra est installée sur le télescope spatial Hubble : la Wide Field Camera 3 (WFC3), qui permet de réaliser des images en plus haute résolution dans le domaine du visible, des UV et du proche infrarouge.
 - À l'aide de ce nouvel instrument, Hubble va réaliser une nouvelle image du ciel profond dans la même région du ciel qu'en 2004.
 - Il s'agit à ce jour de l'image la plus profonde du ciel jamais acquise. Elle ne pourra être surpassée que par les instruments du JWST.
@@ -114,7 +114,7 @@
 - [Comparaison du XDF avec la taille de la Lune dans le ciel](https://esahubble.org/images/heic1214d/) (Crédit : NASA, ESA, Z. Levay (STScI), T. Rector, I. Dell'Antonio/NOAO/AURA/NSF, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University) and the HUDF09 Team)
 - En 2012, une équipe d'astronomes recombine plus de 2000 clichés qui couvrent le centre de la région du HUDF qui ont été acquis par Hubble au cours de la dernière décennie, afin d'en faire une image encore plus profonde : le champ eXtrêmement profond de Hubble (XDF).
 - Sur cette photo, on recense environ 5500 galaxies, dont certains sont 10 milliards de fois moins brillantes que l'objet le moins lumineux observable à l'oeil nu.
-> Cette photo totalise un temps d'exposition d'environ 2 millions de secondes (22 jours), réparties sur plus de 2000 clichés.
+> Cette photo totalise un temps d'exposition d'environ 2 millions de secondes (23 jours), réparties sur plus de 2000 clichés.
 -  Les plus lointaines galaxies du XDF ont émis leur lumière lorsque l'univers n'avait que 500 millions d'années environ (la plus lointaine : UDFj-39546284, avec un redshift de 10,3).
 
 ## Le champ frontière de Hubble
