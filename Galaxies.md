@@ -107,6 +107,7 @@
 
 ## Le champ eXtrêmement profond de Hubble (XDF, 2012)
 
+- [Image](https://hubblesite.org/contents/media/images/2012/37/3098-Image.html) (Crédit : NASA, ESA, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University), and the HUDF09 Team)
 - [Comparaison du XDF avec la taille de la Lune dans le ciel](https://esahubble.org/images/heic1214d/) (Crédit : NASA, ESA, Z. Levay (STScI), T. Rector, I. Dell'Antonio/NOAO/AURA/NSF, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University) and the HUDF09 Team)
 
 ## Le champ frontière de Hubble
