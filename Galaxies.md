@@ -37,20 +37,7 @@
 
 # Etudier les galaxies avec le JWST
 
-*Sources*
 
-- [NASA’s Webb to Uncover Riches of the Early Universe](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-to-uncover-riches-of-the-early-universe) - NASA 
-- [James Webb Space Telescope Advanced Deep Extragalactic Survey (JADES)](https://pweb.cfa.harvard.edu/research/james-webb-space-telescope-advanced-deep-extragalactic-survey-jades) - Harvard Center for Astrophysics
-- [JADES will go deeper than the Hubble Deep Fields](https://earthsky.org/space/jades-deep-field-surveys-epoch-of-1st-galaxies/) - EarthSky
-- [Extragalactic Deep Legacy Fields](http://www.iap.fr/jwst-edls/fields.html) - IAP
-- [How To See Webb’s First Images!](https://blogs.nasa.gov/webb/) - NASA 
-- [General Observer Programs in Cycle 1](https://www.stsci.edu/jwst/science-execution/approved-programs/cycle-1-go) - Stsci
-- [Director’s Discretionary Early Release Science Programs](https://www.stsci.edu/jwst/science-execution/approved-ers-programs) - Stsci
-
----
-
-- [Comparaison d'une image du champ ultra-profond de Hubble et d'une image simulée d'un champ similaire observé à l'aide du JWST](https://www.space.com/james-webb-space-telescope-science-overview) (Crédit : ESA/NASA/STSCI)
-- [Illustration : plus on regarde loin, plus on regarde dans le passé](https://blogs.nasa.gov/webb/wp-content/uploads/sites/326/2022/02/Yung-et-al-Simulated-Universe.png) (Crédit : Yung et al. / NASA) 
 
 - Among the first images will be ‘the deepest image of our universe that has ever been taken,’ according to NASA administrator Bill Nelson
 - -   If you look really deep, you will also look back in time, and the farther back in time you look, the more redshifted the galaxies are (the farther away they are, the faster they move away from us, and the more their light has been shifted towards the red part of the spectrum). This means that the light we want to observe, originally in the optical (visible) part of the electromagnetic spectrum, might not even show much in the optical part anymore. Instead, it’s been shifted to longer wavelengths, into the infrared regime. In other words, the use of infrared cameras is necessary to be able to see the light from the first generation of galaxies. 
@@ -61,22 +48,9 @@
 
 -  CEERS
 
-## Next Generation Deep Extragalactic Exploratory Public (NGDEEP) Survey
 
-- Jusqu'à présent, les télescopes ont permis de capturer de la lumière de galaxies qui se sont formées environ 300 millions (HD1) et 400 millions d'années (GN-z11) après le Big Bang, ie il y a entre 13,4 et 13,5 milliards d'années.
-> Notre univers est âgé d'environ 13,8 milliards d'années
-- Le JWST sera capable de photographier des galaxies qui existaient pendant les premières centaines de millions d'années après le Big Bang, et d'obtenir leur spectre (ce qui nous renseignera pour la première fois sur la composition chimique des premières galaxies).
-- Dans le cadre du relevé de galaxies NGDEEP, le JWST observera les deux régions du ciel qui constituent le HUDF, dans la constellation du Fourneau, pendant environ 125 heures à l'aide de l'instrument infrarouge NIRCam (environ 1/3 du temps d'exposition de Hubble sur la même image).
-> On devrait découvrir des galaxies beaucoup plus lointaines, mais aussi beaucoup plus petites et moins lumineuses que celles détectées par Hubble.
-- Les spectres vont permettre d'obtenir le contenu en métaux (éléments chimiques plus lourds que l'hydrogène et l'hélium) des galaxies primordiales et des galaxies plus proches, afin d'étudier l'évolution chimique de l'univers et de mieux contraindre les modèles d'évolution de galaxies. 
 
-## James Webb Space Telescope Advanced Deep Extragalactic Survey (JADES)
-
-- Dans le cadre du relevé de galaxies JADES, le JWST va observer deux régions du ciel déjà observées par le télescope Hubble, correspondant aux relevés GOODS-South (CDF-S) et GOODS-North (centré sur le HDF)
-- Ce relevé obserera 100 000 galaxies pendant environ 800 heures (33 jours) à l'aide de la caméra infrarouge NIRCam et du spectrographe NIRSpec
-- Vu qu'il observera l'univers en infrarouge, JADES sera un relevé plus profond que le HDF, et pourra remonter à l'époque des premières étoiles et des premières galaxies de l'univers
-
-# Le Hubble Deep Field et ses héritiers
+# Une histoire des images les plus profondes du ciel
 
 *Sources*
 
@@ -158,6 +132,38 @@ Why infrared? Because the Universe is expanding; therefore the farther back we l
 > Dans certains cas, l'image de la galaxie en arrière plan sera dédoublée, ou déformée. Et sous certaines conditions, la lumière de la galaxie lointaine va être amplifiée et focalisée par cet effet.
 - Les amas de galaxies jouent donc le rôle de lunettes astronomiques naturels qui nous permettent d'observer certaines des galaxies les plus lointaines qui soient.
 - Les déformations des images de galaxies en arrière plan d'un amas nous renseignent aussi sur la distribution de matière au sein de l'amas, et notamment sa distribution de matière noire. On utilise ainsi les images déformées des galaxies pour cartographier la matière noire au sein des amas de galaxies, ce qui permet aux astronomes de contraindre les propriétés de cette mystérieuse matière. [Illustration : distribution de matière noire dans l'amas Abell 1689](https://hubblesite.org/contents/media/images/2010/26/2756-Image.html) (Crédit : NASA, ESA, E. Jullo (Jet Propulsion Laboratory), P. Natarajan (Yale University), and J.-P. Kneib (Laboratoire d'Astrophysique de Marseille, CNRS, France); Acknowledgment: H. Ford and N. Benetiz (Johns Hopkins University), and T. Broadhurst (Tel Aviv University))
+
+# Le futur des relevés profonds avec le JWST
+
+*Sources*
+
+- [NASA’s Webb to Uncover Riches of the Early Universe](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-to-uncover-riches-of-the-early-universe) - NASA 
+- [James Webb Space Telescope Advanced Deep Extragalactic Survey (JADES)](https://pweb.cfa.harvard.edu/research/james-webb-space-telescope-advanced-deep-extragalactic-survey-jades) - Harvard Center for Astrophysics
+- [JADES will go deeper than the Hubble Deep Fields](https://earthsky.org/space/jades-deep-field-surveys-epoch-of-1st-galaxies/) - EarthSky
+- [Extragalactic Deep Legacy Fields](http://www.iap.fr/jwst-edls/fields.html) - IAP
+- [How To See Webb’s First Images!](https://blogs.nasa.gov/webb/) - NASA 
+- [General Observer Programs in Cycle 1](https://www.stsci.edu/jwst/science-execution/approved-programs/cycle-1-go) - Stsci
+- [Director’s Discretionary Early Release Science Programs](https://www.stsci.edu/jwst/science-execution/approved-ers-programs) - Stsci
+
+---
+
+- [Comparaison d'une image du champ ultra-profond de Hubble et d'une image simulée d'un champ similaire observé à l'aide du JWST](https://www.space.com/james-webb-space-telescope-science-overview) (Crédit : ESA/NASA/STSCI)
+- [Illustration : plus on regarde loin, plus on regarde dans le passé](https://blogs.nasa.gov/webb/wp-content/uploads/sites/326/2022/02/Yung-et-al-Simulated-Universe.png) (Crédit : Yung et al. / NASA) 
+
+## Next Generation Deep Extragalactic Exploratory Public (NGDEEP) Survey
+
+- Jusqu'à présent, les télescopes ont permis de capturer de la lumière de galaxies qui se sont formées environ 300 millions (HD1) et 400 millions d'années (GN-z11) après le Big Bang, ie il y a entre 13,4 et 13,5 milliards d'années.
+> Notre univers est âgé d'environ 13,8 milliards d'années
+- Le JWST sera capable de photographier des galaxies qui existaient pendant les premières centaines de millions d'années après le Big Bang, et d'obtenir leur spectre (ce qui nous renseignera pour la première fois sur la composition chimique des premières galaxies).
+- Dans le cadre du relevé de galaxies NGDEEP, le JWST observera les deux régions du ciel qui constituent le HUDF, dans la constellation du Fourneau, pendant environ 125 heures à l'aide de l'instrument infrarouge NIRCam (environ 1/3 du temps d'exposition de Hubble sur la même image).
+> On devrait découvrir des galaxies beaucoup plus lointaines, mais aussi beaucoup plus petites et moins lumineuses que celles détectées par Hubble.
+- Les spectres vont permettre d'obtenir le contenu en métaux (éléments chimiques plus lourds que l'hydrogène et l'hélium) des galaxies primordiales et des galaxies plus proches, afin d'étudier l'évolution chimique de l'univers et de mieux contraindre les modèles d'évolution de galaxies. 
+
+## James Webb Space Telescope Advanced Deep Extragalactic Survey (JADES)
+
+- Dans le cadre du relevé de galaxies JADES, le JWST va observer deux régions du ciel déjà observées par le télescope Hubble, correspondant aux relevés GOODS-South (CDF-S) et GOODS-North (centré sur le HDF)
+- Ce relevé obserera 100 000 galaxies pendant environ 800 heures (33 jours) à l'aide de la caméra infrarouge NIRCam et du spectrographe NIRSpec
+- Vu qu'il observera l'univers en infrarouge, JADES sera un relevé plus profond que le HDF, et pourra remonter à l'époque des premières étoiles et des premières galaxies de l'univers
 
 # Un spectre d'exoplanète avec le JWST
 
