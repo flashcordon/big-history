@@ -78,6 +78,7 @@
 - [Abell 2744 Frontier Field](https://hubblesite.org/contents/media/images/3868-Image) - Hubblesite
 - [Hubble sees galaxies galore](https://esahubble.org/images/heic0406a/) - ESA
 - [WIDE FIELD CAMERA 3](https://www.stsci.edu/hst/instrumentation/wfc3) - Stsci
+- [The Story Behind the XDF](https://xdf.ucolick.org/Making-the-XDF_the-Hubble-eXtreme-Deep-Field.pdf) - Garth Illingworth, Dan Magee, Pascal Oesch, Rychard Bouwens and the XDF Team
 
 ---
 
@@ -113,7 +114,7 @@
 - [Image](https://hubblesite.org/contents/media/images/2012/37/3098-Image.html) (Crédit : NASA, ESA, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University), and the HUDF09 Team)
 - [Comparaison du XDF avec la taille de la Lune dans le ciel](https://esahubble.org/images/heic1214d/) (Crédit : NASA, ESA, Z. Levay (STScI), T. Rector, I. Dell'Antonio/NOAO/AURA/NSF, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University) and the HUDF09 Team)
 - En 2012, une équipe d'astronomes recombine plus de 2000 clichés qui couvrent le centre de la région du HUDF qui ont été acquis par Hubble au cours de la dernière décennie, afin d'en faire une image encore plus profonde : le champ eXtrêmement profond de Hubble (XDF).
-- Sur cette photo, on recense environ 5500 galaxies, dont certains sont 10 milliards de fois moins brillantes que l'objet le moins lumineux observable à l'oeil nu.
+- Sur cette photo, on recense plus de 7000 galaxies ([Illingworth et al. 2013](https://arxiv.org/pdf/1305.1931.pdf)), dont certains sont 10 milliards de fois moins brillantes que l'objet le moins lumineux observable à l'oeil nu.
 > Cette photo totalise un temps d'exposition d'environ 2 millions de secondes (23 jours), réparties sur plus de 2000 clichés.
 -  Les plus lointaines galaxies du XDF ont émis leur lumière lorsque l'univers n'avait que 500 millions d'années environ (la plus lointaine : UDFj-39546284, avec un redshift de 10,3).
 
