@@ -29,6 +29,7 @@
 - Ce qui semble certain aujourd'hui, c'est que la galaxie GN-z11 (dont la découverte avait été annoncée en 2016 à la suite des observations du télescope Hubble) est bien la plus ancienne connue à ce jour et que des instruments -- comme ceux équipant les télescopes Keck I et Subaru sur le Mauna Kea, à Hawaii -- nous la montrent, très partiellement il est vrai, telle qu'elle était il y a environ 13,4 milliards d'années.
 - Nous voyons GN-z11 à un moment où l'Univers n'avait seulement que 3 % de son âge actuel ».
 - Comment GN-z11 s'est créée reste un mystère pour l'instant. Probablement voyons-nous les premières générations d'étoiles se former autour des trous noirs ? 
+- 
 
 *Les galaxies les plus lointaines connues à ce jour (crédit : RAS)*
 
@@ -106,7 +107,7 @@
 > Cette photo totalise un temps d'exposition d'environ 11,3 jours, répartis en 800 clichés.
 - La vue couvre une zone équivalente à celle observée à travers le chas d'une aiguille maintenue à bout de bras (1/10e du diamètre apparent de la Lune)
 - Sur cette photo, on recense environ 10 000 galaxies.
-> Les plus petites et les plus rouges de ces galaxies font partie des plus lointaines connues et ont émis leur lumière lorsque l'univers n'était agé que de 800 millions d'années, alors que le cosmos émergeait à peine de ses âges sombres. Quant aux plus proches, on les voit avec un décalage d'un milliard d'années environ, et elles présentent des morphologies mieux définies (spirales, elliptiques etc).
+> [Les plus petites et les plus rouges de ces galaxies](https://hubblesite.org/contents/media/images/2004/28/1579-Image.html) font partie des plus lointaines connues et ont émis leur lumière lorsque l'univers n'était agé que de 800 millions d'années, alors que le cosmos émergeait à peine de ses âges sombres. Quant aux plus proches, on les voit avec un décalage d'un milliard d'années environ, et elles présentent des morphologies mieux définies (spirales, elliptiques etc).
 - Il s'agit de l'image la plus profonde du ciel qu'il est possible de réaliser dans le domaine du visible. Ce qui veut dire qu'on ne détectera pas plus de galaxies dans ce champ avec un télescope optique plus sensible.
 
 ## Le champ ultra-profond infrarouge de Hubble (HUDF WFC3/IR, 2009)
