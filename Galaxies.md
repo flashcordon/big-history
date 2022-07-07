@@ -137,11 +137,21 @@ Why infrared? Because the Universe is expanding; therefore the farther back we l
 - [How To See Webb’s First Images!](https://blogs.nasa.gov/webb/) - NASA 
 - [General Observer Programs in Cycle 1](https://www.stsci.edu/jwst/science-execution/approved-programs/cycle-1-go) - Stsci
 - [Director’s Discretionary Early Release Science Programs](https://www.stsci.edu/jwst/science-execution/approved-ers-programs) - Stsci
+- [Studying the growth of galaxies with JWST](https://era.ed.ac.uk/handle/1842/36236) - Thèse de T. W. Kemp (2019)
+- [SAZERAC 2021 | 1B | James Dunlop](https://youtu.be/h9UON04fsEM) - SAZERAC
+- [PRIMER: Public Release IMaging for Extragalactic Research](https://ui.adsabs.harvard.edu/abs/2021jwst.prop.1837D/abstract) - Dunlop et al. (2021)
 
 ---
 
 - [Comparaison d'une image du champ ultra-profond de Hubble et d'une image simulée d'un champ similaire observé à l'aide du JWST](https://www.space.com/james-webb-space-telescope-science-overview) (Crédit : ESA/NASA/STSCI)
 - [Illustration : plus on regarde loin, plus on regarde dans le passé](https://blogs.nasa.gov/webb/wp-content/uploads/sites/326/2022/02/Yung-et-al-Simulated-Universe.png) (Crédit : Yung et al. / NASA) 
+
+## Public Release IMaging for Extragalactic Research (PRIMER)
+
+- 187 heures
+- 10 filtres différents, en utilisant les instruments NIRCam et MIRI
+- dans les deux champs  the two key equatorial HST CANDELS Legacy Fields (COSMOS and UDS)
+- Selon les simulations informatiques, PRIMER devrait photographier environ 120 000 galaxies jusqu'au redshift 12, dont plus des deux tiers n'ont pas encore été détectées avant
 
 ## Next Generation Deep Extragalactic Exploratory Public (NGDEEP) Survey
 
