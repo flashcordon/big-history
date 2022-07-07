@@ -83,14 +83,16 @@
 
 ## Le champ profond de Hubble (HDF, 1995)
 
+- [Image](https://commons.wikimedia.org/wiki/File:Hubble_deep_field.jpg) (Crédit : R. Williams (STScI), the Hubble Deep Field Team and NASA)
 - Le champ profond de Hubble a été photographié en décembre 1995, dans une région du ciel située au niveau de la grande Ourse quasiment vide d'étoiles de la Voie Lactée ou de galaxies proches, pendant 10 jours consécutifs. 
 > Cette photo totalise un temps d'exposition d'environ 100 heures, réparti en 342 clichés. Les temps d'exposition typiques pour un cliché de Hubble se comptent en heures.
 - Sur cette photo, la plupart des astres observés sont des galaxies. On en compte près de 3000.
 > Les galaxies les plus lointaines du HDF montrent des morphologies beaucoup plus irrégulières que les galaxies proches, ce qui a permis aux astronomes d'inférrer que les galaxies d'aujourd'hui sont nées à la suite de la fusion de galaxies plus petites et plus irrégulières au cours du premier milliard d'années arès le Big Bang.
-- En 1998, un autre champ profond a été observé dans une autre région du ciel (HDF-S) pour s'assurer que le champ profond initial (HDF-N) était bien représentatif de l'univers profond (ce qui était le cas ! Conclusion : l'univers est uniforme à très grande échelle).
+- En 1998, un autre champ profond a été observé dans une autre région du ciel (HDF-S) pour s'assurer que le champ profond initial (HDF-N) était bien représentatif de l'univers profond (ce qui était le cas ! Conclusion : l'univers est uniforme à très grande échelle). [Image]([https://en.wikipedia.org/wiki/Hubble_Deep_Field_South#/media/File:Hubble_Deep_Field_South_full_mosaic.jpg](https://esahubble.org/images/opo9841e/) (Crédit : R. Williams (STScI), the HDF-S Team, and NASA/ESA)
 
 ## Le champ ultra-profond de Hubble (HUDF, 2004)
 
+- [Image](https://svs.gsfc.nasa.gov/30946) (Crédit : NASA, ESA, S. Beckwith (STScI) and the HUDF Team)
 - En 2002, le télescope spatial Hubble bénéficie d'une mise à jour, et notamment d'une nouvelle caméra, l'Advanced Camera for Surveys (ACS), qui lui permet de réaliser de meilleures images du ciel profond.
 - Entre Septembre 2003 et Janvier 2004, Hubble photographie une nouvelle région du ciel dans la constellation du Fourneau (constellation de l'hémisphère sud) : il s'agit du champ ultra-profond de Hubble (HUDF).
 > Cette photo totalise un temps d'exposition d'environ 11,3 jours, répartis en 800 clichés.
