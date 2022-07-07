@@ -109,7 +109,7 @@
 - La vue couvre une zone équivalente à celle observée à travers le chas d'une aiguille maintenue à bout de bras (1/10e du diamètre apparent de la Lune)
 - Sur cette photo, on recense environ 10 000 galaxies.
 > [Les plus petites et les plus rouges de ces galaxies](https://hubblesite.org/contents/media/images/2004/28/1579-Image.html) font partie des plus lointaines connues et ont émis leur lumière lorsque l'univers n'était agé que de 800 millions d'années, alors que le cosmos émergeait à peine de ses âges sombres. Quant aux plus proches, on les voit avec un décalage d'un milliard d'années environ, et elles présentent des morphologies mieux définies (spirales, elliptiques etc).
-- Il s'agit de l'image la plus profonde du ciel qu'il est possible de réaliser dans le domaine du visible. Ce qui veut dire qu'on ne détectera pas plus de galaxies dans ce champ avec un télescope optique plus sensible.
+- À l'époque de sa sortie, le HUDF est l'image la plus profonde du ciel qu'il est possible de réaliser dans le domaine du visible. Ce qui veut dire qu'on ne détectera pas plus de galaxies dans ce champ avec un télescope optique plus sensible.
 
 ## Le champ ultra-profond infrarouge de Hubble (HUDF WFC3/IR, 2009)
 
@@ -118,7 +118,7 @@
 - À l'aide de ce nouvel instrument, Hubble va réaliser une nouvelle image du ciel profond dans la même région du ciel qu'en 2004.
 - Il s'agit à ce jour de l'image la plus profonde du ciel jamais acquise. Elle ne pourra être surpassée que par les instruments du JWST.
 
-## Le champ ultra profond de Hubble version 2012 (HUDF 2012)
+## Le champ ultra profond de Hubble version 2012 (UDF12, 2012)
 
 - [Image](https://esahubble.org/images/heic1219b/) (Crédit : NASA, ESA, R. Ellis (Caltech), and the HUDF 2012 Team) 
 - This image shows the Hubble Ultra Deep Field 2012, an improved version of the Hubble Ultra Deep Field image featuring additional observation time. The new data have revealed for the first time a population of distant galaxies at redshifts between 9 and 12, including the most distant object observed to date.
@@ -129,6 +129,11 @@
 - population de galaxies avec z de 9 à 12 https://esahubble.org/images/heic1219a/
 
  Consider a galaxy with hot stars that is near the Earth. The stars will be predominantly blue in color. If the Universe were not expanding, the same kinds of objects seen very far away from us would still appear to be blue. On the other hand, the Universe is expanding and all light from distant objects will be perceived to be redder than when it left the source. Light from intrinsically hot, blue stars in distant galaxies will look redder than when it left the source. Wavelengths will be stretched by factors of 2, 4, 6, or even more as objects are further and further away from us.
+ - This survey, called UDF12, used Hubble’s Wide Field Camera 3 to peer deeper into space in near-infrared light than any previous Hubble observation.
+
+Why infrared? Because the Universe is expanding; therefore the farther back we look, the faster objects are moving away from us, which shifts their light towards the red. (The opposite of the our namesake effect, blueshift!) Redshift means that light that is emitted as ultraviolet or visible light is shifted more and more to redder wavelengths. Spectral features from galaxies that we normally see in UV or visible are likewise shifted into infrared, particularly for the most distant things. 
+- The extreme distance of these newly discovered galaxies means their light has been traveling to us for more than 13 billion years, from a time when the Universe was less than 4% of its current age
+- As of this writing it seems that one of the galaxies in the recent Hubble discovery I mentioned may be a distance record breaker. The redshift of the light observed from this galaxy (with a value of 11.9) tells us that the light was emitted about 380 million years after the Big Bang. This means the light from this galaxy (pictured below) left 13.3+ billion light years ago.
 
 ## Le champ eXtrêmement profond de Hubble (XDF, 2012)
 
