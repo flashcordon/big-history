@@ -89,7 +89,7 @@ Why infrared? Because the Universe is expanding; therefore the farther back we l
 - Einstein a montré qu'un objet doté d'une masse a tendance à courber l'espace autour de lui. Plus un objet est massif, plus il courbe l'espace.
 - Cette courbure de l'espace agit en particulier sur le trajet de la lumière. 
 - Dans le cas qui nous intéresse, un amas de galaxies est une concentration de matière extrêmement massif.
-> Par exemple, la masse de l'amas Abell 2744 (surnommé l'amas de Pandore) est estimée à 4 milliers de milliards de Soleils.
+> Par exemple, la masse de l'amas [Abell 2744](https://hubblesite.org/contents/media/images/3868-Image) (surnommé l'amas de Pandore) est estimée à 4 milliers de milliards de Soleils.
 - Ainsi, si on observe une galaxie très lointaine qui se trouve derrière un amas de galaxies, le trajet de la lumière de cette galaxie va être courbé par la masse de l'amas, et cet amas va agir en pratique comme la lentille d'une loupe. 
 > Dans certains cas, l'image de la galaxie en arrière plan sera dédoublée, ou déformée. Et sous certaines conditions, la lumière de la galaxie lointaine va être amplifiée et focalisée par cet effet.
 - Les amas de galaxies jouent donc le rôle de lunettes astronomiques naturels qui nous permettent d'observer certaines des galaxies les plus lointaines qui soient.
