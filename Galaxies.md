@@ -94,6 +94,7 @@
 - En 2002, le télescope spatial Hubble bénéficie d'une mise à jour, et notamment d'une nouvelle caméra, l'Advanced Camera for Surveys (ACS), qui lui permet de réaliser de meilleures images du ciel profond.
 - Entre Septembre 2003 et Janvier 2004, Hubble photographie une nouvelle région du ciel dans la constellation du Fourneau (constellation de l'hémisphère sud) : il s'agit du champ ultra-profond de Hubble (HUDF).
 > Cette photo totalise un temps d'exposition d'environ 11,3 jours, répartis en 800 clichés.
+- La vue couvre une zone équivalente à celle observée à travers le chas d'une aiguille maintenue à bout de bras (1/10e du diamètre apparent de la Lune)
 - Sur cette photo, on recense environ 10 000 galaxies.
 > Les plus petites et les plus rouges de ces galaxies font partie des plus lointaines connues et ont émis leur lumière lorsque l'univers n'était agé que de 800 millions d'années, alors que le cosmos émergeait à peine de ses âges sombres. Quant aux plus proches, on les voit avec un décalage d'un milliard d'années environ, et elles présentent des morphologies mieux définies (spirales, elliptiques etc).
 - Il s'agit de l'image la plus profonde du ciel qu'il est possible de réaliser dans le domaine du visible. Ce qui veut dire qu'on ne détectera pas plus de galaxies dans ce champ avec un télescope optique plus sensible.
@@ -109,7 +110,6 @@
 
 - [Image](https://hubblesite.org/contents/media/images/2012/37/3098-Image.html) (Crédit : NASA, ESA, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University), and the HUDF09 Team)
 - [Comparaison du XDF avec la taille de la Lune dans le ciel](https://esahubble.org/images/heic1214d/) (Crédit : NASA, ESA, Z. Levay (STScI), T. Rector, I. Dell'Antonio/NOAO/AURA/NSF, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University) and the HUDF09 Team)
-- The eXtreme Deep Field, or XDF, was assembled by combining 10 years of NASA Hubble Space Telescope photographs taken of a patch of sky at the center of the original Hubble Ultra Deep Field. The XDF is a small fraction of the angular diameter of the full Moon.
 - En 2012, une équipe d'astronomes recombine plus de 2000 clichés qui couvrent le centre de la région du HUDF qui ont été acquis par Hubble au cours de la dernière décennie, afin d'en faire une image encore plus profonde : le champ eXtrêmement profond de Hubble (XDF).
 - Sur cette photo, on recense environ 5500 galaxies, dont certains sont 10 milliards de fois moins brillantes que l'objet le moins lumineux observable à l'oeil nu.
 > Cette photo totalise un temps d'exposition d'environ 2 millions de secondes (22 jours), réparties sur plus de 2000 clichés.
@@ -121,7 +121,6 @@
 - Galaxy clusters are so massive that their gravity deflects light passing through them, magnifying, brightening, and distorting light. Frontier Fields astronomers are exploiting this gravitational lensing by using six separate clusters to magnify the light of very distant galaxies that otherwise would be too faint to see. Astronomers hope to learn not only what is inside the clusters but also what is beyond them. By unleashing the telescopes' full potential, they are uncovering galaxies that are as much as 100 times fainter than what the three Great Observatories typically can detect. 
 - The first cluster to be completed was Abell 2744, also known as Pandora's Cluster. Located in the constellation Sculptor, the giant galaxy cluster is about 4 million light-years across and has the mass of 4 trillion suns. It appears to be the result of a simultaneous pile-up of at least four separate, smaller galaxy clusters that took place over a span of 350 million years. If you look carefully at the Hubble image of Abell 2744, you will see a few galaxies that look like duplicates of each other, in a smooth arc. These are actually the same galaxy, revealed in multiple, bent-light paths by the
 gravitational lens.
-- Next was the installation of a new, powerful camera on Hubble (the Advanced Camera for Surveys) in 2002. The incredible Hubble Ultra Deep Field was acquired in 2004, in a similarly small patch of sky near the constellation Orion, about 1/10 of a full moon diameter (2.4 x 3.4 arc minutes, in contrast to the original Hubble Deep Fields north and south, which were 2.6 x 2.6 arc minutes). And so our reach was extended even deeper into space, and even further back in time, showing light from 10 thousand galaxies along a 13-billion-light-years-long tunnel of space. If you’ll remember that the universe is about 13.77 billion years old, you’ll see this is getting us really close to the beginning! 
 
 # Un spectre d'exoplanète avec le JWST
 
