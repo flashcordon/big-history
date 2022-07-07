@@ -88,7 +88,7 @@
 > Cette photo totalise un temps d'exposition d'environ 100 heures, réparti en 342 clichés. Les temps d'exposition typiques pour un cliché de Hubble se comptent en heures.
 - Sur cette photo, la plupart des astres observés sont des galaxies. On en compte près de 3000.
 > Les galaxies les plus lointaines du HDF montrent des morphologies beaucoup plus irrégulières que les galaxies proches, ce qui a permis aux astronomes d'inférrer que les galaxies d'aujourd'hui sont nées à la suite de la fusion de galaxies plus petites et plus irrégulières au cours du premier milliard d'années arès le Big Bang.
-- En 1998, un autre champ profond a été observé dans une autre région du ciel (HDF-S) pour s'assurer que le champ profond initial (HDF-N) était bien représentatif de l'univers profond (ce qui était le cas ! Conclusion : l'univers est uniforme à très grande échelle). [Image]([https://en.wikipedia.org/wiki/Hubble_Deep_Field_South#/media/File:Hubble_Deep_Field_South_full_mosaic.jpg](https://esahubble.org/images/opo9841e/) (Crédit : R. Williams (STScI), the HDF-S Team, and NASA/ESA)
+- En 1998, un autre champ profond a été observé dans une autre région du ciel (HDF-S) pour s'assurer que le champ profond initial (HDF-N) était bien représentatif de l'univers profond (ce qui était le cas ! Conclusion : l'univers est uniforme à très grande échelle). [Image HDF-S](https://esahubble.org/images/opo9841e/) (Crédit : R. Williams (STScI), the HDF-S Team, and NASA/ESA)
 
 ## Le champ ultra-profond de Hubble (HUDF, 2004)
 
