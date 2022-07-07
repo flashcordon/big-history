@@ -130,14 +130,19 @@
 - Pour cela, Hubble a observé des amas de galaxies très massifs et en utilisant l'effet de lentille gravitationnelle créé par ces amas pour observer des galaxies en arrière plan qui seraient trop peu lumineuses pour être détectées d'ordinaire.
 > Grâce à l'effet de lentille gravitationnelle, Hubble a pu observer des galaxies qui seraient 100 fois trop peu lumineuses pour être détectées dans un champ profond typique.
 - Le programme Frontiers a observé 6 amas de galaxies différents sur une période de 3 ans, ainsi que 6 régions du ciel juste à côté de ces amas (les champs "parallèles")
+
+***L'effet de lentille gravitationnelle***
+- Ainsi, une grosse concentration de matière comme un amas de galaxie peut agir en pratique comme la lentille d'une loupe, 
+
 - The Hubble Frontier Fields is a three-year, 840-orbit programme which created the deepest views of the Universe to date, combining the power of Hubble with the gravitational amplification of light around six different galaxy clusters to explore more distant regions of space than could otherwise be seen. These observations are helping astronomers understand how stars and galaxies emerged out of the dark ages of the Universe, when space was dark, opaque, and filled with hydrogen. In analysing how the light of more distant galaxies is bent by the cluster astronomers also learn about the distribution of normal matter and dark matter within such clusters.
 - Galaxy clusters are so massive that their gravity deflects light passing through them, magnifying, brightening, and distorting light. 
 - The first cluster to be completed was Abell 2744, also known as Pandora's Cluster. Located in the constellation Sculptor, the giant galaxy cluster is about 4 million light-years across and has the mass of 4 trillion suns. It appears to be the result of a simultaneous pile-up of at least four separate, smaller galaxy clusters that took place over a span of 350 million years. If you look carefully at the Hubble image of Abell 2744, you will see a few galaxies that look like duplicates of each other, in a smooth arc. These are actually the same galaxy, revealed in multiple, bent-light paths by the
 gravitational lens.
-- Frontier Fields program, a new initiative of six deep fields centered on strong lensing galaxy clusters in parallel with six deep "blank fields" adjacent to these clusters.
 - The Hubble Space Telescope has pushed humanity’s view of the universe back to within 435 million years of the Big Bang, bringing us views of the earliest objects in the cosmos. And now it intends to extend its reach even farther, beyond its technical capabilities into regions of the universe never before witnessed. We call this effort Frontier Fields.
 - The immense gravity of massive clusters of galaxies warps the light from even-more-distant galaxies beyond, distorting and magnifying the light until those galaxies — too faint to be seen by Hubble directly — become visible. Frontier Fields combines the power of Hubble with the power of these “natural telescopes” to reveal galaxies 10 to 100 times fainter than any previously observed.
 - These images will produce the deepest observations of galaxy clusters and the “lensed” or magnified galaxies behind them ever taken. They will help us understand how galaxies evolved during the time period when a dark, opaque, hydrogen-filled universe was slowly becoming reionized and transparent to light. They will help trace the history of star formation and the growth of stars. They will provide previously unknown measurements of the mysterious material known as dark matter within massive galaxy clusters. And they will give us an early glimpse of the work that will be accomplished by the James Webb Space Telescope upon its launch in 2018.
+- [Abell 2744 Y1](https://fr.wikipedia.org/wiki/Abell_2744_Y1#/media/Fichier:Distant_galaxy_in_Hubble_Frontier_Field_Abell_2744.jpg) (z ~ 8)
+
 
 # Un spectre d'exoplanète avec le JWST
 
