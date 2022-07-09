@@ -333,8 +333,19 @@ density, how many galaxies beyond z ∼ 10 will be newly revealed
 
 # Liste des objets montrés le 12
 
+*Sources*
+
+- [WASP-96b: an exoplanet free of clouds](https://wasp-planets.net/2018/05/07/wasp-96b-an-exoplanet-free-of-clouds/) - WASP Planets
+- [Evidence of a Clear Atmosphere for WASP-62b: The Only Known Transiting Gas Giant in the JWST Continuous Viewing Zone](https://iopscience.iop.org/article/10.3847/2041-8213/abd18e) - Alam et al. (2021)
+- [From Hot gas giants to cooler exo-Earths
+A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsiebenm/FTP/FORS/nikolov_eso_v3.pdf) - Nikolay Nikolov
+- [NASA Shares List of Cosmic Targets for Webb Telescope’s First Images](https://www.nasa.gov/feature/goddard/2022/nasa-shares-list-of-cosmic-targets-for-webb-telescope-s-first-images) - NASA
+
+--- 
+
 - Carina Nebula. The Carina Nebula is one of the largest and brightest nebulae in the sky, located approximately 7,600 light-years away in the southern constellation Carina. Nebulae are stellar nurseries where stars form. The Carina Nebula is home to many massive stars, several times larger than the Sun.
 - WASP-96 b (spectrum). WASP-96 b is a giant planet outside our solar system, composed mainly of gas. The planet, located nearly 1,150 light-years from Earth, orbits its star every 3.4 days. It has about half the mass of Jupiter, and its discovery was announced in 2014.
+> Scientists have detected an exoplanet atmosphere that is free of clouds. Using Europe’s 8.2m Very Large Telescope in Chile, the team studied the atmosphere of WASP-96b when the planet passed in front of (“transited”) its host-star (Figure 1). This enabled the team to see the starlight shining through the planet’s atmosphere, and so determine its composition. The spectrum of WASP-96b shows the complete fingerprint of sodium, which can only be observed for an atmosphere free of clouds. WASP-96b is a gas giant similar to Saturn in mass and exceeding the size of Jupiter by 20%. The planet periodically transits a sun-like star 980 light years away in the southern constellation Phoenix. Sodium is the seventh most common element in the Universe. The team aims to look at the signature of other atmospheric species, such as water, carbon monoxide and carbon dioxide with the Hubble and James Webb Space Telescopes. VLT/FORS2 transmission spectrum (purple points) of WASP-96b. 
 - Southern Ring Nebula. The Southern Ring, or “Eight-Burst” nebula, is a planetary nebula – an expanding cloud of gas, surrounding a dying star. It is nearly half a light-year in diameter and is located approximately 2,000 light years away from Earth.
 - Stephan’s Quintet: About 290 million light-years away, Stephan’s Quintet is located in the constellation Pegasus. It is notable for being the first compact galaxy group ever discovered in 1877. Four of the five galaxies within the quintet are locked in a cosmic dance of repeated close encounters. 
 - SMACS 0723: Massive foreground galaxy clusters magnify and distort the light of objects behind them, permitting a deep field view into both the extremely distant and intrinsically faint galaxy populations.
