@@ -343,6 +343,7 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 - [An absolute sodium abundance for a cloud-free ‘hot Saturn’ exoplanet](https://www.nature.com/articles/s41586-018-0101-7) - Nikolov et al. (2018)
 - [Exoplanet Atmosphere Measurements from Transmission Spectroscopy and other Planet-Star Combined Light Observations](https://arxiv.org/abs/1709.05941) - Kreidberg (2017)
 - [Observing Planetary and Pre-Planetary Nebulae with the James Webb Space Telescope](https://www.mdpi.com/2075-4434/8/3/61/htm#) - Raghvendra Sahai (2020)
+- [Galactic wreckage in Stephan's Quintet](https://esahubble.org/images/heic0910i/) - ESA Hubble
 
 --- 
 
@@ -385,4 +386,8 @@ searches for low-mass binary companions to, and/or disks around, the central sta
 and post-AGB stars, the imaging of faint and/or obscured circumstellar structures in post-AGB objects,
 and studies of the composition and evolution of dust in galaxies.
 - Stephan’s Quintet: About 290 million light-years away, Stephan’s Quintet is located in the constellation Pegasus. It is notable for being the first compact galaxy group ever discovered in 1877. Four of the five galaxies within the quintet are locked in a cosmic dance of repeated close encounters. 
+> Stephan's Quintet, as the name implies, is a group of five galaxies. The name, however, is a bit of a misnomer. Studies have shown that group member NGC 7320, at upper left, is actually a foreground galaxy that is about seven times closer to Earth than the rest of the group. Three of the galaxies have distorted shapes, elongated spiral arms, and long, gaseous tidal tails containing myriad star clusters, proof of their close encounters. These interactions have sparked a frenzy of star birth in the central pair of galaxies.  the next galaxy appears to have two cores, but it is actually two galaxies, NGC 7318A and NGC 7318B. Encircling the galaxies are young, bright blue star clusters and pinkish clouds of glowing hydrogen where infant stars are being born. These stars are less than 10 million years old and have not yet blown away their natal cloud. Far away from the galaxies, at right, is a patch of intergalactic space where many star clusters are forming.
+NGC 7317, at bottom left, is a normal-looking elliptical galaxy that is less affected by the interactions. Sharply contrasting with these galaxies is the dwarf galaxy NGC 7320 at upper left. Bursts of star formation are occurring in the galaxy's disc, as seen by the blue and pink dots. In this galaxy, Hubble can resolve individual stars, evidence that NGC 7320 is closer to Earth. NGC 7320 is 40 million light-years from Earth. The other members of the Quintet reside about 300 million light-years away in the constellation Pegasus. 
+Spied by Edouard M. Stephan in 1877, Stephan's Quintet is the first compact group ever discovered.
+WFC3 observed the Quintet in July and August 2009.
 - SMACS 0723: Massive foreground galaxy clusters magnify and distort the light of objects behind them, permitting a deep field view into both the extremely distant and intrinsically faint galaxy populations.
