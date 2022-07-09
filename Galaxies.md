@@ -251,7 +251,14 @@ Such depths are essential to achieve two core science goals of JWST: finding Fir
 *Sources*
 
 - [Galaxy Formation and Reionization: Key Unknowns and Expected Breakthroughs by the James Webb Space Telescope](https://arxiv.org/abs/2110.13160) - Robertson (2021)
+- [Webb's Science Themes](https://webb.nasa.gov/content/science/index.html) - NASA
 
+---
+
+- Another change occurred after the first stars started to form. Theory predicts that the first stars were 30 to 300 times as massive as our Sun and millions of times as bright, burning for only a few million years before exploding as supernovae. The energetic ultraviolet light from these first stars was capable of splitting hydrogen atoms back into electrons and protons (or ionizing them). This era, from the end of the dark ages to when the universe was around a billion years old, is known as "the epoch of reionization." It refers to the point when most of the neutral hydrogen was reionized by the increasing radiation from the first massive stars. Reionization is an important phenomenon in our universe's history as it presents one of the few means by which we can (indirectly) study these earliest stars. But scientists do not know exactly when the first stars formed and when this reionization process started to occur.
+- The emergence of these first stars marks the end of the "Dark Ages" in cosmic history, a period characterized by the absence of discrete sources of light. Understanding these first sources is critical, since they greatly influenced the formation of later objects such as galaxies. The first sources of light act as seeds for the later formation of larger objects.
+
+Additionally, the first stars that exploded as supernovae might have collapsed further to form black holes. The black holes started to swallow gas and other stars to become objects known as "mini-quasars," which grew and merged to become the huge black holes now found at the centers of nearly all massive galaxies.
 - the era of “Cosmic Reionization” when hydrogen in the
 intergalactic medium transitioned from neutral to ionized, and reach well past its conclusion
 at redshift z ∼ 6 about 1 billion years after the Big Bang.
@@ -298,6 +305,11 @@ density, how many galaxies beyond z ∼ 10 will be newly revealed
 
 ## La formation et l'évolution des galaxies
 
+- When we look at very distant galaxies, we see a completely different picture. Many of these galaxies tend to be small and clumpy, often with a lot of star formation occurring in the massive knots. The question of how these clumpy galaxies evolve and develop structure over time is a big open question in astronomy, and JWST will help astronomers to learn more.
+- We now know that extremely large black holes live at the centers of most galaxies but what is the nature of the relationship between the black holes and the galaxy that hosts them? There is also more to understand about the mechanisms that cause star formation-- whether it happens internal to a galaxy or because of an interaction with another galaxy or merger.
+-  By studying some of the earliest galaxies and comparing them to today's galaxies we may be able to understand their growth and evolution. Webb will also allow scientists to gather data on the types of stars that existed in these very early galaxies. Follow-up observations using spectroscopy of hundreds or thousands of galaxies will help researchers understand how elements heavier than hydrogen were formed and built up as galaxy formation proceeded through the ages. These studies will also reveal details about merging galaxies and shed light on the process of galaxy formation itself.
+-  Computer models that scientists have made to understand galaxy formation indicate that galaxies are created when dark matter merges and clumps together. Dark matter is an invisible form of matter whose total mass in the universe is roughly five times that of "normal" matter (i.e., atoms). It can be thought of as the scaffolding of the universe. The visible matter we see collects inside this scaffolding in the form of stars and galaxies. The way dark matter "clumps" together is that small objects form first, and are drawn together to form larger ones.
+
 ## La naissance des étoiles et des disques protoplanétaires
 
 - The JWST Birth of Stars and Protoplanetary Systems theme goal is to unravel the birth and early evolution of stars, from infall on to dust-enshrouded protostars, to the genesis of planetary systems. JWST is uniquely primed to solve these mysteries given the combination of its high resolution observing modes, imaging, spectroscopy, and coronographic capabilities, and superb near and mid-IR sensitivity.
@@ -305,6 +317,24 @@ density, how many galaxies beyond z ∼ 10 will be newly revealed
 -  there are actually stars that Hubble can't see inside those pillars of dust. And that's because the visible light emitted by those stars is being obscured by the dust. 
 -  infrared light is essentially heat. And that while your eyes may not be able to pick up the warmth of your arm underneath the cooler plastic of the bag, an infrared camera can. 
 -  And this is how the infrared telescope works as well. It sees the heat or infrared light being emitted by the stars within the cooler dust clouds. 
--  
+-  To unravel the birth and early evolution of stars and planets, we need to be able to peer into the hearts of dense and dusty cloud cores where star formation begins. These regions cannot be observed at visible light wavelengths as the dust would make such regions opaque and must be observed at infrared wavelengths.
+-   The details of how they evolve and release the heavy elements they produce back into space for recycling into new generations of stars and planets remains to be determined through a combination of observation and theory.
 
 ## Les systèmes planétaires et les origines de la vie
+
+- The first solar system found outside our own did not involve a main sequence star like our own, but a pulsar. Unexpected to say the least.
+- Webb will also carry coronagraphs to enable direct imaging of exoplanets near bright stars. The image of an exoplanet would just be a spot, not a grand panorama, but by studying that spot, we can learn a great deal about it. 
+- The benefit of making infrared observations is that it is at infrared wavelengths that molecules in the atmospheres of exoplanets have the largest number of spectral features.
+- In addition to studying planets outside our solar system, scientists want to learn more about our own home. 
+- Webb will be powerful enough to identify and characterize comets and other icy bodies in the outermost reaches of our solar system (like objects in the Kuiper Belt and comets), which might contain clues to our origins on Earth.
+- Webb will help us to understand the trace organics in Mars' atmosphere, and be used to do studies that verify the findings of the Mars rovers and landers. In the outer solar system, Webb's observations of the outer solar system will be used with Cassini's Saturn observations to give us a better picture of the seasonal weather on our giant gas planets. As for asteroids and other small bodies in our solar system - there are some features in the spectra of these objects that Earth-based observatories are blind to, but that Webb will be able to see. Webb will help us learn more about the mineralogy of these rocky objects.
+- To trace the origins of the Earth and life in the Universe, scientists need to study planet formation and evolution, including the material around stars where planets form. A key issue is to understand how the building blocks of planets are assembled. Scientists do not know if all planets in a planetary system form in place or travel inwards after forming in the outer reaches of the system. It is also not known how planets reach their ultimate orbits, or how large planets affect the smaller ones in solar systems like our own.
+- . The sensitive instruments on the James Webb Space Telescope will be able to obtain infrared images of giant planets and planetary systems and characterize their ages and masses by measuring their spectra. Webb will also be able to measure spectra of the disks around other stars to determine the constituents of such disks that give rise to planetary systems.
+
+# Liste des objets montrés le 12
+
+- Carina Nebula. The Carina Nebula is one of the largest and brightest nebulae in the sky, located approximately 7,600 light-years away in the southern constellation Carina. Nebulae are stellar nurseries where stars form. The Carina Nebula is home to many massive stars, several times larger than the Sun.
+- WASP-96 b (spectrum). WASP-96 b is a giant planet outside our solar system, composed mainly of gas. The planet, located nearly 1,150 light-years from Earth, orbits its star every 3.4 days. It has about half the mass of Jupiter, and its discovery was announced in 2014.
+- Southern Ring Nebula. The Southern Ring, or “Eight-Burst” nebula, is a planetary nebula – an expanding cloud of gas, surrounding a dying star. It is nearly half a light-year in diameter and is located approximately 2,000 light years away from Earth.
+- Stephan’s Quintet: About 290 million light-years away, Stephan’s Quintet is located in the constellation Pegasus. It is notable for being the first compact galaxy group ever discovered in 1877. Four of the five galaxies within the quintet are locked in a cosmic dance of repeated close encounters. 
+- SMACS 0723: Massive foreground galaxy clusters magnify and distort the light of objects behind them, permitting a deep field view into both the extremely distant and intrinsically faint galaxy populations.
