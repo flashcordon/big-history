@@ -300,4 +300,11 @@ density, how many galaxies beyond z ∼ 10 will be newly revealed
 
 ## La naissance des étoiles et des disques protoplanétaires
 
+- The JWST Birth of Stars and Protoplanetary Systems theme goal is to unravel the birth and early evolution of stars, from infall on to dust-enshrouded protostars, to the genesis of planetary systems. JWST is uniquely primed to solve these mysteries given the combination of its high resolution observing modes, imaging, spectroscopy, and coronographic capabilities, and superb near and mid-IR sensitivity.
+- Observations show that most stars are formed in multiple star systems and that many have planets. However, there is little agreement about how this occurs, and the discovery of large numbers of massive planets in very close orbits around their stars was very surprising. We also know that planets are common around late-type stars (cooler and less massive than the Sun), and that debris disks might signal their presence.
+-  there are actually stars that Hubble can't see inside those pillars of dust. And that's because the visible light emitted by those stars is being obscured by the dust. 
+-  infrared light is essentially heat. And that while your eyes may not be able to pick up the warmth of your arm underneath the cooler plastic of the bag, an infrared camera can. 
+-  And this is how the infrared telescope works as well. It sees the heat or infrared light being emitted by the stars within the cooler dust clouds. 
+-  
+
 ## Les systèmes planétaires et les origines de la vie
