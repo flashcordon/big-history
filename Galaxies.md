@@ -359,6 +359,30 @@ measure these variations, the light curve is binned in wavelength into spectroph
 model. The measured transit depths as a function of wavelength constitute the transmission spectrum, so named because the variation arises from the transmission of
 stellar flux through the planet’s atmosphere. [Illustration spectre de transmission d'une exoplanète](https://webbtelescope.org/contents/media/images/01FEE26XVSM851DHPVCE1KB4S2?Tag=Spectroscopy)
 - Southern Ring Nebula. The Southern Ring, or “Eight-Burst” nebula, is a planetary nebula – an expanding cloud of gas, surrounding a dying star. It is nearly half a light-year in diameter and is located approximately 2,000 light years away from Earth.
->  The evolution from the AGB phase to the PN phases remains poorly understood, especially the dramatic transformation that occurs in the morphology of the mass-ejecta as AGB stars and their round circumstellar envelopes evolve into mostly PNe, the majority of which deviate strongly from spherical symmetry.
+>  The evolution from the AGB phase to the PN phases remains poorly understood, especially the dramatic transformation that occurs in the morphology of the mass-ejecta as AGB stars and their round circumstellar envelopes evolve into mostly PNe, the majority of which deviate strongly from spherical symmetry. The late evolution and deaths of a very significant percentage (60–80%) of stars in the Universe
+are likely to be fundamentally affected by strong binary interactions1. Binary interactions in particular
+affect our understanding of stars in general, since such interactions affect important diagnostic
+observables of stars and stellar populations (e.g., mass-loss and evolutionary time-scales). A striking
+example of the effect of binary interactions on stellar evolution are planetary nebulae (PNe). the majority (i.e., 80%) of PNe,
+unlike the generally roughly round circumstellar envelopes around most AGB stars2, display a
+spectacular array of morphologies and geometrical complexities. These include elliptical, bipolar
+and multipolar shapes, nested geometrical structures (e.g., hourglass within hourglass structures),
+equatorial density enhancements (including rotating disks, torii), low-latitude jets, and central stars
+offset from the geometrical centers of the nebulae. JWST’s major strengths for PNe and PPNe research are its ability to provide precise mid-IR
+imaging (due to its stable point-spread-function or PSF) with very high sensitivities. Although mid-IR
+observations can be done from the ground, the ambient thermal emission is a huge limiting factor,
+even at the short end of the mid-IR range. Summarized below are several representative projects to study PNe and PPNe that exploit JWST’s
+unique capabilities.
+(a) Photometric and spectroscopic search for binary companions to, and/or disks around, the
+central stars of PNe (CSPNe), post-AGB, and post-RGB9 stars.
+(b) Imaging faint and obscured circumstellar structures in PNe and post-AGB objects.
+Studying the physics and chemistry of UV-irradiated molecular clumps in PNe.
+Most stars in the Universe that leave the main sequence in a Hubble time will end their lives
+evolving through the Planetary Nebula (PN) evolutionary phase, and the accompanying heavy mass
+loss during their death throes is important across astrophysics—however the evolution from the
+red giant to the PN phase remains poorly understood. epresentative investigations that exploit JWST’s unique capabilities include
+searches for low-mass binary companions to, and/or disks around, the central stars of PNe, post-RGB
+and post-AGB stars, the imaging of faint and/or obscured circumstellar structures in post-AGB objects,
+and studies of the composition and evolution of dust in galaxies.
 - Stephan’s Quintet: About 290 million light-years away, Stephan’s Quintet is located in the constellation Pegasus. It is notable for being the first compact galaxy group ever discovered in 1877. Four of the five galaxies within the quintet are locked in a cosmic dance of repeated close encounters. 
 - SMACS 0723: Massive foreground galaxy clusters magnify and distort the light of objects behind them, permitting a deep field view into both the extremely distant and intrinsically faint galaxy populations.
