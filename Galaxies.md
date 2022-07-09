@@ -246,7 +246,7 @@ Such depths are essential to achieve two core science goals of JWST: finding Fir
 
 # La science avec le JWST
 
-## La réionisation
+## Les premières étoiles et l'époque de la réionisation
 
 *Sources*
 
@@ -295,3 +295,9 @@ reality of star-forming systems less than 500Myr after the Big Bang
 - JWST can discover and potentially confirm galaxies out to extraordinarily high
 redshifts, but it remains unclear, given the decline of the high-redshift luminosity
 density, how many galaxies beyond z ∼ 10 will be newly revealed
+
+## La formation et l'évolution des galaxies
+
+## La naissance des étoiles et des disques protoplanétaires
+
+## Les systèmes planétaires et les origines de la vie
