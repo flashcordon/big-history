@@ -356,7 +356,7 @@ area of the star. The key idea behind transmission spectroscopy is that the plan
 wavelength-dependent. At wavelengths where the atmosphere is more opaque due. to absorption by atoms or molecules, the planet blocks slightly more stellar flux. To
 measure these variations, the light curve is binned in wavelength into spectrophotometric channels, and the light curve from each channel is fit separately with a transit
 model. The measured transit depths as a function of wavelength constitute the transmission spectrum, so named because the variation arises from the transmission of
-stellar flux through the planet’s atmosphere. 
+stellar flux through the planet’s atmosphere. [Illustration spectre de transmission d'une exoplanète](https://webbtelescope.org/contents/media/images/01FEE26XVSM851DHPVCE1KB4S2?Tag=Spectroscopy)
 - Southern Ring Nebula. The Southern Ring, or “Eight-Burst” nebula, is a planetary nebula – an expanding cloud of gas, surrounding a dying star. It is nearly half a light-year in diameter and is located approximately 2,000 light years away from Earth.
 - Stephan’s Quintet: About 290 million light-years away, Stephan’s Quintet is located in the constellation Pegasus. It is notable for being the first compact galaxy group ever discovered in 1877. Four of the five galaxies within the quintet are locked in a cosmic dance of repeated close encounters. 
 - SMACS 0723: Massive foreground galaxy clusters magnify and distort the light of objects behind them, permitting a deep field view into both the extremely distant and intrinsically faint galaxy populations.
