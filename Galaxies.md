@@ -246,29 +246,28 @@ Such depths are essential to achieve two core science goals of JWST: finding Fir
 
 # La science avec le JWST
 
-## Les premières étoiles et l'époque de la réionisation
-
 *Sources*
 
 - [Galaxy Formation and Reionization: Key Unknowns and Expected Breakthroughs by the James Webb Space Telescope](https://arxiv.org/abs/2110.13160) - Robertson (2021)
 - [Webb's Science Themes](https://webb.nasa.gov/content/science/index.html) - NASA
 
----
+## Les premières étoiles et l'époque de la réionisation
 
 - En astronomie, plus on regarde loin, plus on regarde dans le passé. Et si on regarde suffisamment loin on peut même observer des événements qui se sont produits il ya plusieurs milliards d'années.
 - Et dans les 13,8 milliards d'années de l'histoire de l'univers, il y a une période très importante qui resiste encore à nos observations. Cette période, c'est l'époque de la réionisation
 > * Cette période commence quelques centaines de millions d'années après le Big Bang, juste après la formation des premières étoiles de l'univers. À cette époque, l'univers est essentiellement constitué d'un gaz d'atomes d'hydrogène, et ces atomes sont électriquement neutres. Mais la première génération d'étoiles était beaucoup plus massive que les étoiles que l'on trouve aujourd'hui dans le cosmos (entre 30 et 300 fois plus massives que notre Solei). Elles étaient aussi très chaudes et émettaient énormément de rayonnements ultraviolets autour d'elles. Ces rayonnements étaient si énergétiques qu'ils avaient tendance à éjecter les électrons des atomes du gaz d'hydrogène de leur environnement. Ces atomes n'étaient donc plus neutres. On dit qu'ils ont été ionisés. Les premières étoiles ont donc créé autour d'elles des sortes de bulles de matière ionisée de plus en plus grandes, qui finissent par percoler, et au bout du premier milliard d'années après le Big Bang (z ~ 6), la quasi totalité de l'hydrogène du cosmos est ionisée. C'est ce processus qui caractérise l'époque de la réionisation. 
 - Cette époque est très importante pour les astronomes parce que l'observation des bulles de gaz ionisé leur permet d'en savoir plus sur les propriétés des premières étoiles de l'univers et sur leur date précise d'apparition.
 - Elle est aussi entourée de mystère à l'heure actuelle. Notamment, on ignore encore quelle a été la contribution des premiers gros trous noirs au processus de réionisation. Ces trous noirs peuvent être entourés d'un disque de matière surchauffée, et cette matière peut aussi émettre des quantités phénoménales de rayons UV qui peuvent participer à la réionisation de l'hydrogène du cosmos. On pense aujourd'hui que la contribution des trous noirs à la réionisation a été mineure, mais on manque encore d'observations de cette époque pour en être certain. On ignore aussi pas mal de choses sur les processus qui donnent naissance à ces premiers gros trous noirs.
-- Le JWST sera capable d'observer les premières galaxies de l'histoire de l'univers, ce qui permettra aux astronomes d'étudier comment elles ont pu affecter le milieu intergalactique pendant l'époque de la réionisation.
-- The emergence of these first stars marks the end of the "Dark Ages" in cosmic history, a period characterized by the absence of discrete sources of light. Understanding these first sources is critical, since they greatly influenced the formation of later objects such as galaxies. The first sources of light act as seeds for the later formation of larger objects.
+- Le JWST sera capable d'observer les premières galaxies de l'histoire de l'univers, ce qui permettra aux astronomes d'étudier comment leurs étoiles et leur trou noir ont pu affecter le milieu intergalactique pendant l'époque de la réionisation.
 
 ## La formation et l'évolution des galaxies
 
-- When we look at very distant galaxies, we see a completely different picture. Many of these galaxies tend to be small and clumpy, often with a lot of star formation occurring in the massive knots. The question of how these clumpy galaxies evolve and develop structure over time is a big open question in astronomy, and JWST will help astronomers to learn more.
-- We now know that extremely large black holes live at the centers of most galaxies but what is the nature of the relationship between the black holes and the galaxy that hosts them? There is also more to understand about the mechanisms that cause star formation-- whether it happens internal to a galaxy or because of an interaction with another galaxy or merger.
--  By studying some of the earliest galaxies and comparing them to today's galaxies we may be able to understand their growth and evolution. Webb will also allow scientists to gather data on the types of stars that existed in these very early galaxies. Follow-up observations using spectroscopy of hundreds or thousands of galaxies will help researchers understand how elements heavier than hydrogen were formed and built up as galaxy formation proceeded through the ages. These studies will also reveal details about merging galaxies and shed light on the process of galaxy formation itself.
--  Computer models that scientists have made to understand galaxy formation indicate that galaxies are created when dark matter merges and clumps together. Dark matter is an invisible form of matter whose total mass in the universe is roughly five times that of "normal" matter (i.e., atoms). It can be thought of as the scaffolding of the universe. The visible matter we see collects inside this scaffolding in the form of stars and galaxies. The way dark matter "clumps" together is that small objects form first, and are drawn together to form larger ones.
+- La portion de l'univers accessible à nos télescopes contient des milliers de milliards de galaxies, aux formes, aux tailles et aux couleurs variées.
+> Il y a des galaxies spirales, qui ressemblent à des cyclones, des galaxies elliptiques qui ressemblent à des ballons de rugby, mais aussi d'autres galaxies aux formes plus irrégulières.
+- Mais quand on observe l'univers profond, c'est-à-dire l'univers dans ses premiers milliards d'années, on observe beaucoup plus de petites galaxies irrégulières par rapport à d'autres formes de galaxies. Et ces galaxies formaient des étoiles à un rythme beaucoup plus élevé que les galaxies d'aujourd'hui. Aujourd'hui, la grande question des astronomes, c'est de savoir comment ces petites galaxies aux formes chaotiques ont grandi au fil des milliards d'années pour donner naissance à la variété de galaxies qu'on observe dans l'univers proche.
+- Une autre question ouverte, c'est le lien entre la croissance des galaxies et la croissance de leur trou noir central. On sait que la masse d'une galaxie est corrélée à la masse de son trou noir, mais on est encore loin de savoir comment ces trous noirs dits supermassifs se sont formés en premier lieu.
+- La dernière question, et pas des moindres, concerne la nature de la mystérieuse matière noire, une matière invisible qui forme la majorité de la masse des galaxies et affecte les mouvements des étoiles et des galaxies. 
+- En observant un échantillon représentatif des premières galaxies, en analysant leur composition et en les comparant aux populations de galaxies actuelles, le JWST va apporter une source de données précieuses qui va nous aider à résoudre une partie de ces ménigmes.
 
 ## Le cycle de vie des étoiles et des disques protoplanétaires
 
@@ -276,7 +275,6 @@ Such depths are essential to achieve two core science goals of JWST: finding Fir
 > * Les proto-étoiles naissent en pratique dans des cocons de gaz et de poussière très froids et opaques à la lumière visible (illustration : [globule de Bok dans la nébuleuse de la Carène](https://fr.m.wikipedia.org/wiki/Fichier:%22Finger_of_God%22_Bok_globule_in_the_Carina_Nebula.jpg)), autrement dit on ne peut pas voir à travers avec un télescope optique. Par contre ces cocons sont transparents à la lumière infrarouge, et donc avec le JWST on va avoir des images en haute résolution de ce qui se passe à l'intérieur, grâce à la chaleur rayonnée par les proto-étoiles.
 > * Il y a aussi un phénomène qu'on arrive pas encore très bien à expliquer, c'est pourquoi plus de la moitié des étoiles de l'univers naissent dans des systèmes de 2, 3 étoiles ou plus. Notre Soleil est célibataire, mais sa situation ne représente pas la norme dans la Galaxie.
 > * Le JWST va aussi pouvoir réaliser des images relativement détaillées de disques protoplanétaires et voir naitre des mondes autour d'autres étoiles, ce qui va nous permettre d'en savoir plus sur la naissance des planètes et la manière dont elles acquièrent leurs orbites finales. 
--   The details of how they evolve and release the heavy elements they produce back into space for recycling into new generations of stars and planets remains to be determined through a combination of observation and theory.
 
 ## Les systèmes planétaires et les origines de la vie
 
