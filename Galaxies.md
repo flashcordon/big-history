@@ -320,8 +320,16 @@ density, how many galaxies beyond z ∼ 10 will be newly revealed
 
 ## Les systèmes planétaires et les origines de la vie
 
-- The first solar system found outside our own did not involve a main sequence star like our own, but a pulsar. Unexpected to say the least.
-- Webb will also carry coronagraphs to enable direct imaging of exoplanets near bright stars. The image of an exoplanet would just be a spot, not a grand panorama, but by studying that spot, we can learn a great deal about it. 
+- Pile 30 ans après la découverte de la première planète au-delà du système solaire, on recense aujourd'hui plus de 5000 exoplanètes. Et ces mondes sont d'une diversité absolument surprenante
+> On a trouvé des exoplanètes qui orbitent autour de cadavres stellaires, des planètes similaires à Jupiter qui orbitent extrêmement proches de leur étoile, des planètes en orbite autour de systèmes multiples d'étoiles, des planètes sans étoiles etc etc.
+- La plupart de ces planètes ont été détectées indirectement, grâce aux mini-éclipses qu'elles génèrent lorsqu'elles passent devant leur étoile
+- Mais certaines ont aussi été imagées directement, ce qui implique d'utiliser un instrument appelé coronographe pour masquer la lumière de l'étoile centrale et empêcher la planète qui orbite autour d'être noyée dans la lumière de son étoile
+> Ces images d'exoplanètes ne montrent que des pixels, mais on peut apprendre pas mal de choses sur les caractéristiques physiques et le climat d'une exoplanète en étudiant précisément ces pixels
+- Il se trouve que le JWST est aussi doté d'un coronographe, donc il va lui aussi pouvoir réaliser des images d'exoplanètes
+- Mais il va aussi nous permettre d'analyser la composition chimique de l'atmosphère de certaines exoplanètes !
+
+- Le JWST va aussi s'intéresser à notre propre système solaire
+> * Il va 
 - The benefit of making infrared observations is that it is at infrared wavelengths that molecules in the atmospheres of exoplanets have the largest number of spectral features.
 - In addition to studying planets outside our solar system, scientists want to learn more about our own home. 
 - Webb will be powerful enough to identify and characterize comets and other icy bodies in the outermost reaches of our solar system (like objects in the Kuiper Belt and comets), which might contain clues to our origins on Earth.
