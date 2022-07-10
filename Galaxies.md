@@ -257,55 +257,11 @@ Such depths are essential to achieve two core science goals of JWST: finding Fir
 
 - En astronomie, plus on regarde loin, plus on regarde dans le passé. Et si on regarde suffisamment loin on peut même observer des événements qui se sont produits il ya plusieurs milliards d'années.
 - Et dans les 13,8 milliards d'années de l'histoire de l'univers, il y a une période très importante qui resiste encore à nos observations. Cette période, c'est l'époque de la réionisation
-> * Cette période commence quelques centaines de millions d'années après le Big Bang, juste après la formation des premières étoiles de l'univers. À cette époque, l'univers est essentiellement constitué d'un gaz d'atomes d'hydrogène, et ces atomes sont électriquement neutres. Mais la première génération d'étoiles était beaucoup plus massive que les étoiles que l'on trouve aujourd'hui dans le cosmos (entre 30 et 300 fois plus massives que notre Solei). Elles étaient aussi très chaudes et émettaient énormément de rayonnements ultraviolets autour d'elles. Ces rayonnements étaient si énergétiques qu'ils avaient tendance à éjecter les électrons des atomes du gaz d'hydrogène de leur environnement. Ces atomes n'étaient donc plus neutres. On dit qu'ils ont été ionisés. Les premières étoiles ont donc créé autour d'elles des sortes de bulles de matière ionisée de plus en plus grandes, qui finissent par percoler, et au bout du premier milliard d'années après le Big Bang, la quasi totalité de la matière du cosmos est ionisée. C'est ce processus qui caractérise l'époque de la réionisation. 
+> * Cette période commence quelques centaines de millions d'années après le Big Bang, juste après la formation des premières étoiles de l'univers. À cette époque, l'univers est essentiellement constitué d'un gaz d'atomes d'hydrogène, et ces atomes sont électriquement neutres. Mais la première génération d'étoiles était beaucoup plus massive que les étoiles que l'on trouve aujourd'hui dans le cosmos (entre 30 et 300 fois plus massives que notre Solei). Elles étaient aussi très chaudes et émettaient énormément de rayonnements ultraviolets autour d'elles. Ces rayonnements étaient si énergétiques qu'ils avaient tendance à éjecter les électrons des atomes du gaz d'hydrogène de leur environnement. Ces atomes n'étaient donc plus neutres. On dit qu'ils ont été ionisés. Les premières étoiles ont donc créé autour d'elles des sortes de bulles de matière ionisée de plus en plus grandes, qui finissent par percoler, et au bout du premier milliard d'années après le Big Bang (z ~ 6), la quasi totalité de l'hydrogène du cosmos est ionisée. C'est ce processus qui caractérise l'époque de la réionisation. 
 - Cette époque est très importante pour les astronomes parce que l'observation des bulles de gaz ionisé leur permet d'en savoir plus sur les propriétés des premières étoiles de l'univers et sur leur date précise d'apparition.
 - Elle est aussi entourée de mystère à l'heure actuelle. Notamment, on ignore encore quelle a été la contribution des premiers gros trous noirs au processus de réionisation. Ces trous noirs peuvent être entourés d'un disque de matière surchauffée, et cette matière peut aussi émettre des quantités phénoménales de rayons UV qui peuvent participer à la réionisation de l'hydrogène du cosmos. On pense aujourd'hui que la contribution des trous noirs à la réionisation a été mineure, mais on manque encore d'observations de cette époque pour en être certain. On ignore aussi pas mal de choses sur les processus qui donnent naissance à ces premiers gros trous noirs.
+- Le JWST sera capable d'observer les premières galaxies de l'histoire de l'univers, ce qui permettra aux astronomes d'étudier comment elles ont pu affecter le milieu intergalactique pendant l'époque de la réionisation.
 - The emergence of these first stars marks the end of the "Dark Ages" in cosmic history, a period characterized by the absence of discrete sources of light. Understanding these first sources is critical, since they greatly influenced the formation of later objects such as galaxies. The first sources of light act as seeds for the later formation of larger objects.
-
-Additionally, the first stars that exploded as supernovae might have collapsed further to form black holes. The black holes started to swallow gas and other stars to become objects known as "mini-quasars," which grew and merged to become the huge black holes now found at the centers of nearly all massive galaxies.
-- the era of “Cosmic Reionization” when hydrogen in the
-intergalactic medium transitioned from neutral to ionized, and reach well past its conclusion
-at redshift z ∼ 6 about 1 billion years after the Big Bang.
-- By discovering galaxies in the
-first few hundred million years of cosmic time and measuring their properties, we can study
-the connection between galaxy formation and Cosmic Reionization
--  JWST that will
-transform our understanding of how early galaxies form and affect intergalactic hydrogen.
-- The most
-distant galaxies with spectroscopically confirmed redshifts lie at redshifts z ∼ 9 − 10
-- fter the Big Bang (t = 0),
-the universe expanded and cooled until electrons could recombine with protons to form neutral
-hydrogen (z ≈ 1090 at t ≈ 372, 000 yrs). During the subsequent Dark Ages, the universe remained
-dim and neutral until the first stars formed at Cosmic Dawn, with substantial galaxies forming
-likely after z ∼ 20 (t ≈ 180 Myr) and perhaps as late as z ∼ 15. Once galaxies grew in abundance
-and luminosity, such that their escaping Lyman continuum radiation could begin to ionize the
-surrounding intergalactic medium (IGM), the process of Cosmic Reionization commenced. Over
-the period of redshifts 12 . z . 6, corresponding to times 0.35 . t . 1 Gyr, hydrogen in the bulk
-IGM transitioned from a nearly completely neutral to a nearly completely ionized state. Th
-- fterward Cosmic Reionization, star light and radiation from active
-galactic nuclei maintained the ionization of the IGM through the peak of cosmic star formation at
-Cosmic Noon (z ∼ 2 and t ≈ 3.3 Gyr) to the Present (z = 0 at t = 13.786 Gyr). 
-- The term reionization encapsulates the complex process of transitioning intergalactic hy-
-drogen gas from a mostly neutral to a nearly fully ionized state. 
-- An assessment of the contribution of AGN to Cosmic Reionization
-requires reviewing important results over the last ∼5 years, which have in total led to the
-current near-consensus that AGN are a subdominant source of hydrogen ionizing photons
-during the reionization era. 
-- With the
-coming of JWST , which will find more and fainter galaxies during reionization and measure
-their rest-frame optical spectra, we will begin to understand the physics behind the role
-galaxies play in Cosmic Reionization. Instead of wondering whether galaxies dominated
-Cosmic Reionization, research questions will focus on the physical mechanisms by which
-galaxies produce and release Lyman continuum radiation and the properties of the galaxy
-population.
-- Deep, near-infrared surveys have now established that galaxies primarily reionized
-the universe, and radiation from accretion onto supermassive black holes in AGN
-plays a less dominant role
-- Redshift confirmation of distant galaxies at redshifts z ∼ 8 − 10 has established the
-reality of star-forming systems less than 500Myr after the Big Bang
-- JWST can discover and potentially confirm galaxies out to extraordinarily high
-redshifts, but it remains unclear, given the decline of the high-redshift luminosity
-density, how many galaxies beyond z ∼ 10 will be newly revealed
 
 ## La formation et l'évolution des galaxies
 
