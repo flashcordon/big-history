@@ -22,6 +22,7 @@
 ## Le champ profond de Hubble (HDF, 1995)
 
 - [Image](https://ned.ipac.caltech.edu/level5/Deep_Fields/mirror/hdfn/index.html) (Crédit : R. Williams (STScI), the Hubble Deep Field Team and NASA)
+- Jusqu'à 10% du temps d'observation du HST est laissé à la discrétion du directeur. Après avoir vu que l'optique de correction de Hubble ont bien fonctionné, l'astronome Robert Williams, alors directeur de Space Telescope Science Institute, a décidé de dédier une fraction substantielle de son temps à l'étude des galaxies lointaines. 
 - Le champ profond de Hubble a été photographié en décembre 1995, dans une région du ciel située au niveau de la grande Ourse quasiment vide d'étoiles de la Voie Lactée ou de galaxies proches, pendant 10 jours consécutifs. 
 > Cette photo totalise un temps d'exposition d'environ 100 heures, réparti en 342 clichés. Les temps d'exposition typiques pour un cliché de Hubble se comptent en heures.
 - Sur cette photo, la plupart des astres observés sont des galaxies. On en compte près de 3000.
