@@ -358,8 +358,34 @@ WFC3 observed the Quintet in July and August 2009.
 *Sources*
 
 - [NASA’s Webb Detects Carbon Dioxide in Exoplanet Atmosphere](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere) - NASA
+- [Thread du LESIA sur l'image de Jupiter du JWST](https://twitter.com/LesiaAstro/status/1561693524705394689?s=20&t=j87tXJkgVJLt50B_LM1XnQ) - @LesiaAstro
+- [Nous n’avons jamais vu Jupiter comme ça ! » : des images inédites prises par le télescope James-Webb](https://www.futura-sciences.com/sciences/actualites/james-webb-space-telescope-nous-navons-jamais-vu-jupiter-comme-ca-images-inedites-prises-telescope-james-webb-99686/) - Futura Sciences
 
 ---
+
+* 22 août : Jupiter de passer à la loupe de l'instrument NIRCAM.
+permet d’identifier les emissions aurorales au-dessus des pôles, les brumes de hautes altitudes et la réflexion des nuages plus profonds.
+L'image grand champ, composite à deux longueurs d'ondes, révèle également les anneaux ténus autour de la planète et les lunes Amalthea et Adrastea (diamètres ~200km et ~20km).
+Ces résultats sont le fruit d’une collaboration codirigée par un planétologue du
+@LesiaAstro
+@Obs_Paris
+@Sorbonne_Univ_
+et
+@UCBerkeley
+@upvehu
+. D'autres observations sont attendues d'ici la fin de l'année pour étudier la dynamique et la chimie de l'atmosphère de Jupiter.
+
+
+
+
+
+
+
+Bien que nous ayons déjà observé plusieurs des caractéristiques de Jupiter, l'accès à l'infrarouge offert par JWST nous ouvre une nouvelle perspective. La combinaison d'images et de spectres aux longueurs d'onde du proche et du moyen infrarouge nous permettra d'étudier l'interaction entre la dynamique de l'atmosphère, la composition chimique et la structure verticale en température dans et au-dessus de la grande tache rouge et dans les régions aurorales. 
+
+Elle révèle les vagues, les tourbillons et les vortex brillants de l'atmosphère de Jupiter et fournit une image simultanément du système d'anneaux sombres, un million de fois moins lumineux que la planète, ainsi que les lunes Amalthea et Adrastea, qui mesurent respectivement environ 200 et 20 kilomètres de diamètre. 
+
+
 
 * ***25 août 2022 :*** annonce de la première détection historique de CO2 dans l’atmosphère d’une exoplanète nommée WASP-39 b.
 > * WASP-39 b est une exoplanète de la masse de Saturne et aussi grosse que 1,3 Jupiter qui orbite en un peu plus de 4 jours autour de son étoile. Elle est située à près de 700 années-lumière d’ici. Elle est 8 fois plus proche de son étoile que la distance Soleil-Mercure. Elle a été découverte en 2011 par la méthode des transits.
