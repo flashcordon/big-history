@@ -355,6 +355,12 @@ WFC3 observed the Quintet in July and August 2009.
 
 # Images plus récentes du JWST
 
+*Sources*
+
+- [NASA’s Webb Detects Carbon Dioxide in Exoplanet Atmosphere](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere) - NASA
+
+---
+
 * ***25 août 2022 :*** annonce de la première détection historique de CO2 dans l’atmosphère d’une exoplanète nommée WASP-39 b.
 > * WASP-39 b est une exoplanète de la masse de Saturne et aussi grosse que 1,3 Jupiter qui orbite en un peu plus de 4 jours autour de son étoile. Elle est située à près de 700 années-lumière d’ici. Elle est 8 fois plus proche de son étoile que la distance Soleil-Mercure. Elle a été découverte en 2011 par la méthode des transits.
 > * La détection de CO2 a été réalisée à l'aide de l'instrument européen NIRSPEC. L'observation a été faite en mesurant la variation d'intensité de l'étoile dans différentes longueurs d'onde lorsque la planète passe devant. Cela revient à mesurer des variations de son rayon liés aux absorptions moléculaires. La présence de CO2 crée une variation d'intensité minuscule, de l'ordre de 2%, mais les instruments du JWST sont suffisamment précis pour mesurer ça.
