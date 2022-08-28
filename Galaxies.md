@@ -365,9 +365,9 @@ WFC3 observed the Quintet in July and August 2009.
 
 ---
 
-* ***2 août :*** une nouvelle image composite de la galaxie de la roue de chariot vue par les instruments MIRI et NIRCam
-> La galaxie de la roue de chariot est une galaxie située à environ 500 millions d'années-lumière d'ici. Elle est le résultat d'une collision galactique qui a eu lieu il y a plusieurs centaines de millions d'années. Avant la collision, cette galaxie ressemblait probablement à une spirale, comme notre Voie Lactée. Mais la collision a altéré sa morphologie, en créant 2 anneaux de matière qui s'étendent dans l'espace à la manière des vaguelettes générées lorsqu'on lance un caillou dans un étang. Lorsque ces anneaux rencontrent du gaz interstellaire, le gaz est comprimé, et ça donne naissance à de nouvelles étoiles. 
-> En observant la galaxie de la roue de chariot dans les infrarouges, le JWST a pu mettre en évidence des ponts de poussière qui relient les 2 anneaux et qui donnent à la galaxie une forme de roue à rayon, d'où son surnom. 
+* ***2 août :*** une nouvelle image composite de la galaxie de la roue de chariot vue par les instruments MIRI et NIRCam.
+> * La galaxie de la roue de chariot est une galaxie située à environ 500 millions d'années-lumière d'ici. Elle est le résultat d'une collision galactique qui a eu lieu il y a plusieurs centaines de millions d'années. Avant la collision, cette galaxie ressemblait probablement à une spirale, comme notre Voie Lactée. Mais la collision a altéré sa morphologie, en créant 2 anneaux de matière qui s'étendent dans l'espace à la manière des vaguelettes générées lorsqu'on lance un caillou dans un étang. Lorsque ces anneaux rencontrent du gaz interstellaire, le gaz est comprimé, et ça donne naissance à de nouvelles étoiles. 
+> * En observant la galaxie de la roue de chariot dans les infrarouges, le JWST a pu mettre en évidence des ponts de poussière qui relient les 2 anneaux et qui donnent à la galaxie la forme de roue à rayon d'où elle tire son surnom. 
 
 * ***22 août 2022 :*** une nouvelle image de Jupiter vue par l'instrument NIRCAM.
 > * Sur cette image infrarouge, on peut apercevoir les aurores polaires de Jupiter, les brumes de hautes altitudes et la réflexion des nuages plus profonds.
