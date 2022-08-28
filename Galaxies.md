@@ -290,7 +290,7 @@ Such depths are essential to achieve two core science goals of JWST: finding Fir
 - Le JWST va aussi s'intéresser à notre propre système solaire :
 > Il va notamment observer les planètes géantes du système solaire en infrarouge, et analyser la composition minéralogique des petits corps glacés qui se trouvent au-delà de l'orbite de Neptune (et qui constituent la ceinture de Kuiper). Ces blocs de roches sont en effet des reliques de la formation du système solaire, et préservent une partie de son histoire dans leur composition.
 
-# Liste des objets montrés le 12
+# Les premières images du JWST
 
 *Sources*
 
@@ -305,6 +305,8 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 - [Galactic wreckage in Stephan's Quintet](https://esahubble.org/images/heic0910i/) - ESA Hubble
 
 --- 
+
+- Le 12 Juillet 2022, les premières images et données officielles du JWST ont été révélées au grand public.
 
 - Carina Nebula. The Carina Nebula is one of the largest and brightest nebulae in the sky, located approximately 7,600 light-years away in the southern constellation Carina. Nebulae are stellar nurseries where stars form. The Carina Nebula is home to many massive stars, several times larger than the Sun.
 - WASP-96 b (spectrum). WASP-96 b is a giant planet outside our solar system, composed mainly of gas. The planet, located nearly 1,150 light-years from Earth, orbits its star every 3.4 days. It has about half the mass of Jupiter, and its discovery was announced in 2014.
@@ -350,3 +352,21 @@ NGC 7317, at bottom left, is a normal-looking elliptical galaxy that is less aff
 Spied by Edouard M. Stephan in 1877, Stephan's Quintet is the first compact group ever discovered.
 WFC3 observed the Quintet in July and August 2009.
 - SMACS 0723: Massive foreground galaxy clusters magnify and distort the light of objects behind them, permitting a deep field view into both the extremely distant and intrinsically faint galaxy populations.
+
+# Images plus récentes du JWST
+
+* ***25 août 2022 :*** annonce de la première détection historique de CO2 dans l’atmosphère d’une exoplanète nommée WASP-39 b
+> WASP-39 b est une planète de la masse de Saturne qui orbite en un peu plus de 4 jours autour de son étoile. Elle est située à près de 700 années-lumière d’ici.
+avec l'instrument européen #NIRSPEC
+ L'observation a été faite lors d'un transit de la planète devant son étoile en mesurant pour différentes longueurs d'ondes la variation d'intensité de l'étoile.
+Cela revient à mesurer des variations de son rayon liés aux absorptions moléculaires. Le CO2 représente une toute petite variation de l'absorption entre 2.15% et 2.25%. C'est grace à la précision photométrique du
+@NASAWebb
+que cette mesure est possible.
+On attend avec impatience les prochaines observations d'exoplanètes géantes, et tout particulièrement en imagerie directe avec le système coronographique
+
+The finding, accepted for publication in Nature, offers evidence that in the future Webb may be able to detect and measure carbon dioxide in the thinner atmospheres of smaller rocky planets.
+
+WASP-39 b is a hot gas giant with a mass roughly one-quarter that of Jupiter (about the same as Saturn) and a diameter 1.3 times greater than Jupiter. Its extreme puffiness is related in part to its high temperature (about 1,600 degrees Fahrenheit or 900 degrees Celsius). Unlike the cooler, more compact gas giants in our solar system, WASP-39 b orbits very close to its star – only about one-eighth the distance between the Sun and Mercury – completing one circuit in just over four Earth-days. The planet’s discovery, reported in 2011, was made based on ground-based detections of the subtle, periodic dimming of light from its host star as the planet transits, or passes in front of the star.
+
+
+
