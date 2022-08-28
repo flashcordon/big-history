@@ -355,18 +355,9 @@ WFC3 observed the Quintet in July and August 2009.
 
 # Images plus récentes du JWST
 
-* ***25 août 2022 :*** annonce de la première détection historique de CO2 dans l’atmosphère d’une exoplanète nommée WASP-39 b
-> WASP-39 b est une planète de la masse de Saturne qui orbite en un peu plus de 4 jours autour de son étoile. Elle est située à près de 700 années-lumière d’ici.
-avec l'instrument européen #NIRSPEC
- L'observation a été faite lors d'un transit de la planète devant son étoile en mesurant pour différentes longueurs d'ondes la variation d'intensité de l'étoile.
-Cela revient à mesurer des variations de son rayon liés aux absorptions moléculaires. Le CO2 représente une toute petite variation de l'absorption entre 2.15% et 2.25%. C'est grace à la précision photométrique du
-@NASAWebb
-que cette mesure est possible.
-On attend avec impatience les prochaines observations d'exoplanètes géantes, et tout particulièrement en imagerie directe avec le système coronographique
-
-The finding, accepted for publication in Nature, offers evidence that in the future Webb may be able to detect and measure carbon dioxide in the thinner atmospheres of smaller rocky planets.
-
-WASP-39 b is a hot gas giant with a mass roughly one-quarter that of Jupiter (about the same as Saturn) and a diameter 1.3 times greater than Jupiter. Its extreme puffiness is related in part to its high temperature (about 1,600 degrees Fahrenheit or 900 degrees Celsius). Unlike the cooler, more compact gas giants in our solar system, WASP-39 b orbits very close to its star – only about one-eighth the distance between the Sun and Mercury – completing one circuit in just over four Earth-days. The planet’s discovery, reported in 2011, was made based on ground-based detections of the subtle, periodic dimming of light from its host star as the planet transits, or passes in front of the star.
+* ***25 août 2022 :*** annonce de la première détection historique de CO2 dans l’atmosphère d’une exoplanète nommée WASP-39 b.
+> * WASP-39 b est une exoplanète de la masse de Saturne et aussi grosse que 1,3 Jupiter qui orbite en un peu plus de 4 jours autour de son étoile. Elle est située à près de 700 années-lumière d’ici. Elle est 8 fois plus proche de son étoile que la distance Soleil-Mercure. Elle a été découverte en 2011 par la méthode des transits.
+> * La détection de CO2 a été réalisée à l'aide de l'instrument européen NIRSPEC. L'observation a été faite en mesurant la variation d'intensité de l'étoile dans différentes longueurs d'onde lorsque la planète passe devant. Cela revient à mesurer des variations de son rayon liés aux absorptions moléculaires. La présence de CO2 crée une variation d'intensité minuscule, de l'ordre de 2%, mais les instruments du JWST sont suffisamment précis pour mesurer ça.
 
 
 
