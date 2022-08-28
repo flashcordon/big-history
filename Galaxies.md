@@ -370,22 +370,10 @@ WFC3 observed the Quintet in July and August 2009.
 > * En observant la galaxie de la roue de chariot dans les infrarouges, le JWST a pu mettre en évidence des ponts de poussière qui relient les 2 anneaux et qui donnent à la galaxie la forme de roue à rayon d'où elle tire son surnom. 
 
 * ***22 août 2022 :*** une nouvelle image de Jupiter vue par l'instrument NIRCAM.
-> * Sur cette image infrarouge, on peut apercevoir les aurores polaires de Jupiter, les brumes de hautes altitudes et la réflexion des nuages plus profonds.
-L'image grand champ, composite à deux longueurs d'ondes, révèle également les anneaux ténus autour de la planète et les lunes Amalthea et Adrastea (diamètres ~200km et ~20km).
-Ces résultats sont le fruit d’une collaboration codirigée par un planétologue du
-@LesiaAstro
-@Obs_Paris
-@Sorbonne_Univ_
-et
-@UCBerkeley
-@upvehu
-. D'autres observations sont attendues d'ici la fin de l'année pour étudier la dynamique et la chimie de l'atmosphère de Jupiter.
+> * Sur cette image infrarouge, on peut apercevoir des tempètes et des vagues dans l'atmosphère de Jupiter, mais aussi des aurores polaires, un système d'anneaux un million de fois moins lumineux que la planète, et quelques lunes minuscules, comme Amalthea et Adrastea (respectivement 200 et 20 kilomètres de diamètre)
+> * Ce genre d'images dans ces longueurs d'ondes particulières nous permettront d'en savoir plus sur la dynamique de l'atmosphère de Jupiter, ainsi que sur sa composition chimique et sa tructure verticale en température.
 
-Bien que nous ayons déjà observé plusieurs des caractéristiques de Jupiter, l'accès à l'infrarouge offert par JWST nous ouvre une nouvelle perspective. La combinaison d'images et de spectres aux longueurs d'onde du proche et du moyen infrarouge nous permettra d'étudier l'interaction entre la dynamique de l'atmosphère, la composition chimique et la structure verticale en température dans et au-dessus de la grande tache rouge et dans les régions aurorales. 
-
-Elle révèle les vagues, les tourbillons et les vortex brillants de l'atmosphère de Jupiter et fournit une image simultanément du système d'anneaux sombres, un million de fois moins lumineux que la planète, ainsi que les lunes Amalthea et Adrastea, qui mesurent respectivement environ 200 et 20 kilomètres de diamètre. 
-
-* ***25 août 2022 :*** annonce de la première détection historique de CO2 dans l’atmosphère d’une exoplanète nommée WASP-39 b.
+* ***25 août 2022 :*** la première détection historique de CO2 dans l’atmosphère d’une exoplanète nommée WASP-39 b.
 > * WASP-39 b est une exoplanète de la masse de Saturne et aussi grosse que 1,3 Jupiter qui orbite en un peu plus de 4 jours autour de son étoile. Elle est située à près de 700 années-lumière d’ici. Elle est 8 fois plus proche de son étoile que la distance Soleil-Mercure. Elle a été découverte en 2011 par la méthode des transits.
 > * La détection de CO2 a été réalisée à l'aide de l'instrument européen NIRSPEC. L'observation a été faite en mesurant la variation d'intensité de l'étoile dans différentes longueurs d'onde lorsque la planète passe devant. Cela revient à mesurer des variations de son rayon liés aux absorptions moléculaires. La présence de CO2 crée une variation d'intensité minuscule, de l'ordre de 2%, mais les instruments du JWST sont suffisamment précis pour mesurer ça.
 
