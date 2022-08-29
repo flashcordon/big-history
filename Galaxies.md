@@ -437,3 +437,24 @@ Two cameras aboard Webb captured the latest image of this planetary nebula, cata
 
 - WFIRST doit permettre d'effectuer une étude systématique et détaillée (images et spectre électromagnétique) des sources d'infrarouge proche situées dans la Voie lactée 
 
+# Le LUVOIR
+
+# SLS
+
+*Sources*
+
+- [« Nous sommes prêts ! » La Nasa repart pour la Lune lundi 29 août !](https://www.futura-sciences.com/sciences/actualites/exploration-humaine-nous-sommes-prets-nasa-repart-lune-lundi-29-aout-98706/) - Futura Sciences
+
+- ATTENTION RECOPIAGE
+- vol de test sans équipage qui va servir à qualifier le lanceur SLS et le véhicule Orion. Ce vol a donc pour but de pousser dans ses retranchements le module de service d'Orion (ESM), fourni par l'Agence spatiale européenne et sous maîtrise d'œuvre d'Airbus Défense et Espace, afin de voir s'il est capable de réaliser toutes les manœuvres prévues.
+- ce « système de propulsion ne compte pas moins de... 33 moteurs ».
+- Le lancement d'Artemis I a donc été confirmé pour le 29 août. Le décollage du SLS est prévu dès que possible à l'intérieur d'une fenêtre de tir de deux heures qui s'ouvrira à 14 h 33, heure de Paris (08 h 33, heure locale).
+- À proprement parler, le but de ce vol, ce n'est évidemment pas de pousser le véhicule à sa limite structurelle mais de le « tester à l'intérieur de son enveloppe de vol et voir dans quelles conditions et comment il peut fonctionner dans des configurations de vol très variées »
+- L'objectif de cette mission de 42 jours est de tester Orion et son module de service au-delà de ce qu'il va devoir faire pour les missions suivantes. Il faut savoir qu'Orion n'est pas un véhicule à usage unique, son module d'équipage est réutilisable et conçu pour une multitude de missions différentes.
+- ce « module a été défini il y a 10 ans, à une époque ou Orion était destiné à des missions vers des astéroïdes »
+- Orion va servir de remorqueur pour arrimer le module I-HAB (International-Habitat, construit par Thales Alenia Space) au Gateway. Il est donc « nécessaire d'analyser ce scénario car le module de service n'a pas été développé pour cela. C'est tout l'intérêt d'Artemis I dont le vol de 42 jours permet de vérifier et tester ce type de phase de vol et de manœuvre 
+- L'autre point fort de ce vol et principal point de vigilance de la mission concerne le bouclier thermique de la capsule. La vitesse de rentrée dans l'atmosphère d'une mission de retour de la Lune étant bien supérieure à une mission de retour d'orbite, onze kilomètres par seconde contre « seulement » sept kilomètres par seconde, la Nasa veut s'assurer de son bon comportement lors de la phase de rentrée atmosphérique. Ce bouclier sera l'unique protection des astronautes durant cette phase cruciale.
+- Les panneaux solaires sont aussi un sujet de préoccupation majeur. Ces panneaux sont orientables autour de leur axe et peuvent s'incliner vers l'avant et l'arrière pour des raisons structurelles et thermiques. Il faut savoir que la poussée du moteur principal est telle que si les panneaux restaient déployés à 90 degrés, ils n'y résisteraient pas, d'où la nécessité de les incliner. Autre point de vigilance, et non des moindres, les panneaux ont une certaine fréquence de résonance. Or, les moteurs de l'ESM sont pulsés à une certaine fréquence pour pouvoir contrôler la direction et l'attitude. Airbus souhaite « vérifier ces interférences de fréquences afin de vérifier que les panneaux n'entrent pas en résonance, ce qui pourrait les amener à se disloquer », précise Antoine Alouani.
+- 
+- 
+
