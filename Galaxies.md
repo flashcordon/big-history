@@ -319,7 +319,7 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 - La nébuleuse de la Carène est l'une des nébuleuses les plus brillantes et les plus étendues du ciel nocturne. Il s'agit d'un nuage de gaz et de poussière à l'intérieur duquel se forment des étoiles. Certaines sont beaucoup plus massives que le Soleil, mais la plupart d'entre elles sont bien moins massives.
 > Elle a été découverte par l'astronome James Dunlop en 1826 et n'est visible que dans l'hémisphère sud.
 - Sur cette image, on peut apercevoir des structures poussiéreuses sculptées et érodées par les intenses rayonnements ultraviolets émis par des jeunes étoiles très massives.
-- Grâce à l'imagerie infrarouge, on peut apercevoir pour la première fois dans cette région des étoiles individuelles peu massives et dans les premières phases de leur évolution qui étaient auparavant cachées par les nuages de poussière
+- Grâce à l'imagerie infrarouge, on peut apercevoir pour la première fois dans cette région des étoiles individuelles dans les premières phases de leur évolution qui étaient auparavant cachées derrière des nuages de poussière opaque.
 
 ## Le spectre de transmission de WASP-96 b 
 
@@ -331,7 +331,7 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 > Ce n'est pas la première fois qu'on détecte de l'eau dans l'atmosphère d'une exoplanète. Hubble avait fait une découverte similaire en 2013 dans l'atmosphère de 5 exoplanètes : WASP-17b, HD209458b, WASP-12b, WASP-19b et XO-1b
 - Contrairement aux observations du VLT, la forme du spectre de WASP-96 b révélée par NIRISS laisse penser que la planète possède finalement une couverture nuageuse.
 
-## La nébuleuse de l'anneau austral
+## La nébuleuse de l'anneau austral (NGC 3132)
 
 - The Southern Ring, or “Eight-Burst” nebula, is a planetary nebula – an expanding cloud of gas, surrounding a dying star. It is nearly half a light-year in diameter and is located approximately 2,000 light years away from Earth.
 >  The evolution from the AGB phase to the PN phases remains poorly understood, especially the dramatic transformation that occurs in the morphology of the mass-ejecta as AGB stars and their round circumstellar envelopes evolve into mostly PNe, the majority of which deviate strongly from spherical symmetry. The late evolution and deaths of a very significant percentage (60–80%) of stars in the Universe
@@ -364,8 +364,6 @@ The dimmer star at the center of this scene has been sending out rings of gas an
 
 Two cameras aboard Webb captured the latest image of this planetary nebula, cataloged as NGC 3132, and known informally as the Southern Ring Nebula. It is approximately 2,500 light-years away.
 
-
-
 ## Le Quintette de Stephan
 
 - Il s'agit d'un groupe visuel de 5 galaxies situé dans la constellation de Pégase. 
@@ -389,7 +387,7 @@ Two cameras aboard Webb captured the latest image of this planetary nebula, cata
 
 ---
 
-* ***2 août :*** une nouvelle image composite de la galaxie de la roue de chariot vue par les instruments MIRI et NIRCam.
+* ***2 août 2022 :*** une nouvelle image composite de la galaxie de la roue de chariot vue par les instruments MIRI et NIRCam.
 > * La galaxie de la roue de chariot est une galaxie située à environ 500 millions d'années-lumière d'ici. Elle est le résultat d'une collision galactique qui a eu lieu il y a plusieurs centaines de millions d'années. Avant la collision, cette galaxie ressemblait probablement à une spirale, comme notre Voie Lactée. Mais la collision a altéré sa morphologie, en créant 2 anneaux de matière qui s'étendent dans l'espace à la manière des vaguelettes générées lorsqu'on lance un caillou dans un étang. Lorsque ces anneaux rencontrent du gaz interstellaire, le gaz est comprimé, et ça donne naissance à de nouvelles étoiles. 
 > * En observant la galaxie de la roue de chariot dans les infrarouges, le JWST a pu mettre en évidence des ponts de poussière qui relient les 2 anneaux et qui donnent à la galaxie la forme de roue à rayon d'où elle tire son surnom. 
 
