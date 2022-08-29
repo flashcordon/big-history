@@ -379,8 +379,29 @@ WFC3 observed the Quintet in July and August 2009.
 
 # Le Nancy-Grace Roman Space Telescope
 
-- Le Nancy-Grace-Roman (en anglais Nancy Grace Roman Space Telescope) est un télescope spatial infrarouge développé par l'agence spatiale américaine, la NASA.
-- Lancement 	Mai 2027
-- Durée 	5 ans (mission primaire)
-- 
+- Le Nancy-Grace-Roman (en anglais Nancy Grace Roman Space Telescope), aussi appelé télescope spatial Roman, est un télescope spatial infrarouge développé par l'agence spatiale américaine, la NASA.
+- Initialement attendu pour 2025, il doit être lancé en 2027 et placé en orbite autour du point de Lagrange L2 du système Terre-Soleil. Sa mission primaire a une durée de 5 ans et il emporte des consommables (ergols) garantissant son fonctionnement durant 10 ans. 
+- Le développement de WFIRST par l'agence spatiale a pour origine le rapport décennal de 2010 du Conseil national de la recherche des États-Unis qui donne la plus haute priorité à la réalisation d'un observatoire spatial chargé d'étudier l'énergie noire. 
+> Les priorités dans le domaine de l'astronomie et de l'astrophysique sont définies tous les dix ans dans un rapport publié par le Conseil national de la recherche des États-Unis et rédigé par la communauté scientifique. Le rapport publié en 2010 et baptisé New Worlds, New Horizons (« Nouveaux mondes, nouveaux horizons »), fixe les priorités pour la décennie 2015-2025. 
+- WFIRST a également pour objectif d'effectuer un recensement statistique (masse et distance de leur étoile) des exoplanètes situées dans le bulbe galactique par l'observation des microlentilles gravitationnelles et d'identifier et de caractériser celles situées à proximité du système solaire à l'aide d'un coronographe. Le troisième objectif est de cartographier l'ensemble du ciel dans l'infrarouge. 
+- Le télescope spatial WFIRST dispose d'un miroir primaire de 2,4 mètres cédé par la NRO (National Reconnaissance Office, l'une des agences de renseignements des US) et est équipé de deux instruments : un imageur/spectrographe et un coronographe. Les observations sont effectuées en lumière visible et dans le proche infrarouge (0,48 à 2 micromètres).
+- Ses instruments lui permettent de produire des images de la qualité du télescope Hubble en couvrant environ 100 fois plus de surface
+
+## Détermination de la nature de l'énergie sombre
+
+- L'objectif principal de WFIRST est de tenter de répondre aux principales interrogations soulevées par l'énergie sombre : est ce que celle-ci varie dans le temps ? est ce qu'elle nécessite une modification de la théorie de la relativité générale d'Einstein ou s'agit-il effectivement d'un nouveau type d'énergie ? Pour y répondre le télescope spatial va utiliser trois techniques pour déterminer le taux d'expansion de l'Univers à travers les âges et le taux d'accroissement des grandes structures (galaxies, groupes de galaxies)
+> * la spectrométrie d'une très grande quantité de galaxies situées aux latitudes célestes hautes est utilisée pour déterminer les changements dans le temps de la distribution des galaxies ce qui permet d'en déduire l'évolution de l'énergie sombre avec le temps. Ce recensement doit permettre de mesurer la croissance des grandes structures de l'Univers et ainsi tester la théorie de la relativité générale d'Einstein ;
+> * la mesure des distances des supernovae de type Ia qui servent de chandelles standard pour la détermination des distances absolues. Des portions de ciel seront surveillées pour découvrir de nouvelles supernovæ de ce type et mesurer les courbes de lumière et les spectres fournissant ainsi à la fois leur distance et leur décalage vers le rouge. Ces données en retour permettent de mesurer l'évolution dans le temps de l'énergie sombre et de recouper les résultats fournis par méthode précédente ;
+> * la détermination des formes et des distances d'un très grand nombre de galaxies et groupes de galaxies. La déformation de l'image des galaxies les plus lointaines permet de détecter les concentrations de masse situées entre l'instrument et les galaxies photographiées. En retour celles-ci permettent de déterminer la distribution dans les trois dimensions des masses de l'Univers. Ces données doivent permettre de mesurer l'évolution de la matière sombre dans le temps et fournir une mesurer indépendante de la croissance des grandes structures de l'Univers.
+
+## Recensement d'exoplanètes
+
+- Le programme d'observation prévoit la surveillance de sept régions du bulbe galactique 
+- Chaque région sera ainsi photographiée 2 800 fois par mois. Selon les modèles utilisés pour prédire le nombre de planètes, ce programme devrait permettre de découvrir chaque mois en moyenne 100 planètes tournant autour de leur étoile et 16 planètes vagabondes expulsées de leur système d'origine.
+- Les observations effectuées devraient également permettre de détecter de l'ordre de 70 000 planètes par la méthode des transits
+- Le coronographe de WFIRST doit permettre d'obtenir une image directe et un spectre électromagnétique des planètes gravitant autour d'étoiles proches de notre système solaire. 
+
+## Cartographie des sources infrarouge situées dans la voie lactée
+
+- WFIRST doit permettre d'effectuer une étude systématique et détaillée (images et spectre électromagnétique) des sources d'infrarouge proche situées dans la Voie lactée 
 
