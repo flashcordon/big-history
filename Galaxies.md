@@ -379,6 +379,15 @@ WFC3 observed the Quintet in July and August 2009.
 
 # Le Nancy-Grace Roman Space Telescope
 
+*Sources*
+
+- [Nancy-Grace-Roman (télescope spatial)](https://fr.wikipedia.org/wiki/Nancy-Grace-Roman_(t%C3%A9lescope_spatial)#cite_note-26) - Wikipédia
+- [Nancy Roman](https://fr.wikipedia.org/wiki/Nancy_Roman) - Wikipédia
+
+---
+
+- ATTENTION RECOPIAGE
+
 - Le Nancy-Grace-Roman (en anglais Nancy Grace Roman Space Telescope), aussi appelé télescope spatial Roman, est un télescope spatial infrarouge développé par l'agence spatiale américaine, la NASA.
 - Initialement attendu pour 2025, il doit être lancé en 2027 et placé en orbite autour du point de Lagrange L2 du système Terre-Soleil. Sa mission primaire a une durée de 5 ans et il emporte des consommables (ergols) garantissant son fonctionnement durant 10 ans. 
 - Le développement de WFIRST par l'agence spatiale a pour origine le rapport décennal de 2010 du Conseil national de la recherche des États-Unis qui donne la plus haute priorité à la réalisation d'un observatoire spatial chargé d'étudier l'énergie noire. 
