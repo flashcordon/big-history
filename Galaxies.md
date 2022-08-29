@@ -303,23 +303,25 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 - [Exoplanet Atmosphere Measurements from Transmission Spectroscopy and other Planet-Star Combined Light Observations](https://arxiv.org/abs/1709.05941) - Kreidberg (2017)
 - [Observing Planetary and Pre-Planetary Nebulae with the James Webb Space Telescope](https://www.mdpi.com/2075-4434/8/3/61/htm#) - Raghvendra Sahai (2020)
 - [Galactic wreckage in Stephan's Quintet](https://esahubble.org/images/heic0910i/) - ESA Hubble
+- [NASA’s Webb Reveals Steamy Atmosphere of Distant Planet in Detail](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-reveals-steamy-atmosphere-of-distant-planet-in-detail) - NASA
+- [Exoplanet WASP-96 b – NIRISS transmission spectrum](https://www.esa.int/ESA_Multimedia/Images/2022/07/Exoplanet_WASP-96_b_NIRISS_transmission_spectrum) - ESA
 
 --- 
 
 - Le 12 Juillet 2022, les premières images et données officielles du JWST ont été révélées au grand public.
 
 - Carina Nebula. The Carina Nebula is one of the largest and brightest nebulae in the sky, located approximately 7,600 light-years away in the southern constellation Carina. Nebulae are stellar nurseries where stars form. The Carina Nebula is home to many massive stars, several times larger than the Sun.
-- WASP-96 b (spectrum). WASP-96 b is a giant planet outside our solar system, composed mainly of gas. The planet, located nearly 1,150 light-years from Earth, orbits its star every 3.4 days. It has about half the mass of Jupiter, and its discovery was announced in 2014.
-> Scientists have detected an exoplanet atmosphere that is free of clouds. Using Europe’s 8.2m Very Large Telescope in Chile, the team studied the atmosphere of WASP-96b when the planet passed in front of (“transited”) its host-star (Figure 1). This enabled the team to see the starlight shining through the planet’s atmosphere, and so determine its composition. The spectrum of WASP-96b shows the complete fingerprint of sodium, which can only be observed for an atmosphere free of clouds. WASP-96b is a gas giant similar to Saturn in mass and exceeding the size of Jupiter by 20%. The planet periodically transits a sun-like star 980 light years away in the southern constellation Phoenix. Sodium is the seventh most common element in the Universe. The team aims to look at the signature of other atmospheric species, such as water, carbon monoxide and carbon dioxide with the Hubble and James Webb Space Telescopes. VLT/FORS2 transmission spectrum (purple points) of WASP-96b. Broad absorption signatures from alkali metals, such as the sodium (Na I) and potassium (K I) resonance doublets, have long been predicted in the optical atmospheric spectra of cloud-free irradiated gas giant exoplanets. Cloud and haze opacity at the day–night planetary terminator are considered to be responsible for obscuring the absorption-line wings, which hinders constraints on absolute atmospheric abundances7,8,9. Here we report an optical transmission spectrum for the ‘hot Saturn’ exoplanet WASP-96b obtained with the Very Large Telescope.  transmission spectroscopy. For
-this method, the planet is observed in transit as it passes in front of its host star, as
-illustrated in Figure 1. The measurement of total brightness (star plus planet) over
-time is known as the transit light curve. During the transit, the planet blocks a small
-fraction of the stellar flux equal to the sky-projected area of the planet relative to the
-area of the star. The key idea behind transmission spectroscopy is that the planet’s transit depth is
-wavelength-dependent. At wavelengths where the atmosphere is more opaque due. to absorption by atoms or molecules, the planet blocks slightly more stellar flux. To
-measure these variations, the light curve is binned in wavelength into spectrophotometric channels, and the light curve from each channel is fit separately with a transit
-model. The measured transit depths as a function of wavelength constitute the transmission spectrum, so named because the variation arises from the transmission of
-stellar flux through the planet’s atmosphere. [Illustration spectre de transmission d'une exoplanète](https://webbtelescope.org/contents/media/images/01FEE26XVSM851DHPVCE1KB4S2?Tag=Spectroscopy)
+
+## Le spectre de transmission de WASP-96 b 
+
+- WASP-96 b est une "Saturne chaude", une géante gazeuse située à environ 1150 années-lumière d'ici qui orbite autour de son étoile (de type solaire) en à peine 3 jours et demi (3,4). 
+- Elle est 20% plus grosse que Jupiter, similaire en masse à Saturne, et elle est 9 fois plus proche de son étoile que Mercure ne l'est du Soleil. Sa température atmosphérique est de 725°C.
+- Sa découverte a été annoncée en 2014.
+- En 2018, une équipe d'astronomes a analysé l'atmosphère de WASP-96 b à l'aide du VLT au Chili, et y a détecté la signature chimique du sodium, un composé que l'on ne peut observer d'ordinaire que sur une planète qui ne possède pas de couverture nuageuse. 
+- Le 12 Juillet 2022, la NASA a annoncé que des observations réalisées avec le JWST (6 heures et demi d'observation de transit avec l'instrument NIRISS) ont révélé la détection de traces non-ambigues de vapeur d'eau dans l'atmosphère de la planète. Au moment de l'annonce de la NASA, il s'agit du spectre d'exoplanète le plus résolu de l'Histoire.
+> Ce n'est pas la première fois qu'on détecte de l'eau dans l'atmosphère d'une exoplanète. Hubble avait fait une découverte similaire en 2013.
+- Contrairement aux observations du VLT, la forme du spectre de WASP-96 b révélée par NIRISS laisse penser que la planète possède finalement une couverture nuageuse.
+
 - Southern Ring Nebula. The Southern Ring, or “Eight-Burst” nebula, is a planetary nebula – an expanding cloud of gas, surrounding a dying star. It is nearly half a light-year in diameter and is located approximately 2,000 light years away from Earth.
 >  The evolution from the AGB phase to the PN phases remains poorly understood, especially the dramatic transformation that occurs in the morphology of the mass-ejecta as AGB stars and their round circumstellar envelopes evolve into mostly PNe, the majority of which deviate strongly from spherical symmetry. The late evolution and deaths of a very significant percentage (60–80%) of stars in the Universe
 are likely to be fundamentally affected by strong binary interactions1. Binary interactions in particular
@@ -346,7 +348,7 @@ red giant to the PN phase remains poorly understood. epresentative investigation
 searches for low-mass binary companions to, and/or disks around, the central stars of PNe, post-RGB
 and post-AGB stars, the imaging of faint and/or obscured circumstellar structures in post-AGB objects,
 and studies of the composition and evolution of dust in galaxies.
-- Stephan’s Quintet: About 290 million light-years away, Stephan’s Quintet is located in the constellation Pegasus. It is notable for being the first compact galaxy group ever discovered in 1877. Four of the five galaxies within the quintet are locked in a cosmic dance of repeated close encounters. 
+
 ## Le Quintette de Stephan
 
 - Il s'agit d'un groupe visuel de 5 galaxies situé dans la constellation de Pégase. 
