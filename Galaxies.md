@@ -307,6 +307,7 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 - [Exoplanet WASP-96 b – NIRISS transmission spectrum](https://www.esa.int/ESA_Multimedia/Images/2022/07/Exoplanet_WASP-96_b_NIRISS_transmission_spectrum) - ESA
 - [Signs of Water Found on 5 Alien Planets by Hubble Telescope](https://www.space.com/23814-alien-planets-water-hubble-telescope.html) - Space.com
 - [NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-reveals-cosmic-cliffs-glittering-landscape-of-star-birth) - NASA
+- [NASA’s Webb Captures Dying Star’s Final ‘Performance’ in Fine Detail](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-captures-dying-star-s-final-performance-in-fine-detail) - NASA
 
 --- 
 
@@ -358,6 +359,12 @@ red giant to the PN phase remains poorly understood. epresentative investigation
 searches for low-mass binary companions to, and/or disks around, the central stars of PNe, post-RGB
 and post-AGB stars, the imaging of faint and/or obscured circumstellar structures in post-AGB objects,
 and studies of the composition and evolution of dust in galaxies.
+
+The dimmer star at the center of this scene has been sending out rings of gas and dust for thousands of years in all directions, and NASA’s James Webb Space Telescope has revealed for the first time that this star is cloaked in dust.
+
+Two cameras aboard Webb captured the latest image of this planetary nebula, cataloged as NGC 3132, and known informally as the Southern Ring Nebula. It is approximately 2,500 light-years away.
+
+
 
 ## Le Quintette de Stephan
 
