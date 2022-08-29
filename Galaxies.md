@@ -305,6 +305,7 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 - [Galactic wreckage in Stephan's Quintet](https://esahubble.org/images/heic0910i/) - ESA Hubble
 - [NASA’s Webb Reveals Steamy Atmosphere of Distant Planet in Detail](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-reveals-steamy-atmosphere-of-distant-planet-in-detail) - NASA
 - [Exoplanet WASP-96 b – NIRISS transmission spectrum](https://www.esa.int/ESA_Multimedia/Images/2022/07/Exoplanet_WASP-96_b_NIRISS_transmission_spectrum) - ESA
+- [Signs of Water Found on 5 Alien Planets by Hubble Telescope](https://www.space.com/23814-alien-planets-water-hubble-telescope.html) - Space.com
 
 --- 
 
@@ -319,7 +320,7 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 - Sa découverte a été annoncée en 2014.
 - En 2018, une équipe d'astronomes a analysé l'atmosphère de WASP-96 b à l'aide du VLT au Chili, et y a détecté la signature chimique du sodium, un composé que l'on ne peut observer d'ordinaire que sur une planète qui ne possède pas de couverture nuageuse. 
 - Le 12 Juillet 2022, la NASA a annoncé que des observations réalisées avec le JWST (6 heures et demi d'observation de transit avec l'instrument NIRISS) ont révélé la détection de traces non-ambigues de vapeur d'eau dans l'atmosphère de la planète. Au moment de l'annonce de la NASA, il s'agit du spectre d'exoplanète le plus résolu de l'Histoire.
-> Ce n'est pas la première fois qu'on détecte de l'eau dans l'atmosphère d'une exoplanète. Hubble avait fait une découverte similaire en 2013.
+> Ce n'est pas la première fois qu'on détecte de l'eau dans l'atmosphère d'une exoplanète. Hubble avait fait une découverte similaire en 2013 dans l'atmosphère de 5 exoplanètes : WASP-17b, HD209458b, WASP-12b, WASP-19b et XO-1b
 - Contrairement aux observations du VLT, la forme du spectre de WASP-96 b révélée par NIRISS laisse penser que la planète possède finalement une couverture nuageuse.
 
 - Southern Ring Nebula. The Southern Ring, or “Eight-Burst” nebula, is a planetary nebula – an expanding cloud of gas, surrounding a dying star. It is nearly half a light-year in diameter and is located approximately 2,000 light years away from Earth.
