@@ -1075,7 +1075,13 @@ Burcher
 
 ## Polémiques
 
-- Le JWST est aussi entouré de polémiques autour de son nom. En général, les télescopes spatiaux ont tendance à être nommés d'après des scientifiques. Mais en 2002, l'administrateur de la NASA Sean O'Keefe a décidé de nommer le successeur de Hubble James Webb, du nom de l'administrateur de la NASA à la tête de l'agence à l'époque des missions Apollo. La décision a été très impopulaire chez les astronomes, parce que James Webb aurait participé à une vague de persécution des homosexuels dans les années 50 qui a mené à un licenciement massif d'employés gay de la NASA. L'année dernière, une pétition a été lancée par 1200 astronomes à travers le globe pour renommer le télescope spatial... Sans succès. 
+*Sources*
+
+- [Exclusive: Documents reveal NASA’s internal struggles over renaming Webb telescope](https://www.nature.com/articles/d41586-022-00845-6) - Nature
+
+---
+
+- Le JWST est aussi entouré de polémiques autour de son nom. En général, les télescopes spatiaux ont tendance à être nommés d'après des scientifiques. Mais en 2002, l'administrateur de la NASA Sean O'Keefe a décidé de nommer le successeur de Hubble James Webb, du nom de l'administrateur de la NASA à la tête de l'agence à l'époque des missions Apollo. La décision a été très impopulaire chez les astronomes, parce que James Webb aurait participé à une vague de persécution des homosexuels dans les années 50 et 60 (la peur violette) qui a mené à un licenciement massif d'employés gay et lesbiennes de la NASA. L'année dernière, une pétition a été lancée par 1200 astronomes à travers le globe pour renommer le télescope spatial... Sans succès. La NASA a lancé une investigation en interne, et a conclu publiquement qu'il n'y avait aucune preuve pour soutenir cette allégation, mais l'enquête elle-même est controversée à cause de son manque de transparence sur ses méthodes et ses conclusions.
 
 ## Lancement
 
