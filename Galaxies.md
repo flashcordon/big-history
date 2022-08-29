@@ -311,7 +311,9 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 
 - Le 12 Juillet 2022, les premières images et données officielles du JWST ont été révélées au grand public.
 
-- Carina Nebula. The Carina Nebula is one of the largest and brightest nebulae in the sky, located approximately 7,600 light-years away in the southern constellation Carina. Nebulae are stellar nurseries where stars form. The Carina Nebula is home to many massive stars, several times larger than the Sun.
+## La nébuleuse de la Carène
+
+- The Carina Nebula is one of the largest and brightest nebulae in the sky, located approximately 7,600 light-years away in the southern constellation Carina. Nebulae are stellar nurseries where stars form. The Carina Nebula is home to many massive stars, several times larger than the Sun.
 
 ## Le spectre de transmission de WASP-96 b 
 
@@ -323,7 +325,9 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 > Ce n'est pas la première fois qu'on détecte de l'eau dans l'atmosphère d'une exoplanète. Hubble avait fait une découverte similaire en 2013 dans l'atmosphère de 5 exoplanètes : WASP-17b, HD209458b, WASP-12b, WASP-19b et XO-1b
 - Contrairement aux observations du VLT, la forme du spectre de WASP-96 b révélée par NIRISS laisse penser que la planète possède finalement une couverture nuageuse.
 
-- Southern Ring Nebula. The Southern Ring, or “Eight-Burst” nebula, is a planetary nebula – an expanding cloud of gas, surrounding a dying star. It is nearly half a light-year in diameter and is located approximately 2,000 light years away from Earth.
+## La nébuleuse de l'anneau austral
+
+- The Southern Ring, or “Eight-Burst” nebula, is a planetary nebula – an expanding cloud of gas, surrounding a dying star. It is nearly half a light-year in diameter and is located approximately 2,000 light years away from Earth.
 >  The evolution from the AGB phase to the PN phases remains poorly understood, especially the dramatic transformation that occurs in the morphology of the mass-ejecta as AGB stars and their round circumstellar envelopes evolve into mostly PNe, the majority of which deviate strongly from spherical symmetry. The late evolution and deaths of a very significant percentage (60–80%) of stars in the Universe
 are likely to be fundamentally affected by strong binary interactions1. Binary interactions in particular
 affect our understanding of stars in general, since such interactions affect important diagnostic
