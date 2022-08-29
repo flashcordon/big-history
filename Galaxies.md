@@ -309,6 +309,7 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 - [NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-reveals-cosmic-cliffs-glittering-landscape-of-star-birth) - NASA
 - [NASA’s Webb Captures Dying Star’s Final ‘Performance’ in Fine Detail](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-captures-dying-star-s-final-performance-in-fine-detail) - NASA
 - [NASA’s Webb Captures Dying Star’s Final ‘Performance’ in Fine Detail](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-captures-dying-star-s-final-performance-in-fine-detail) - NASA
+- [NASA’s Webb Delivers Deepest Infrared Image of Universe Yet](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet) - NASA
 
 --- 
 
@@ -351,7 +352,13 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 
 ## L'amas de galaxies SMACS 0723
 
-- Massive foreground galaxy clusters magnify and distort the light of objects behind them, permitting a deep field view into both the extremely distant and intrinsically faint galaxy populations.
+- Cette image est la première à avoir été annoncée, le 11 Juillet 2022, par le président Joe Biden en personne.
+- L'image représente une minuscule région du ciel, dont la surface est équivalente à cette sous tendue par un grain de sable tenue à bout de bras. Dans cette région, on trouve des milliers de galaxies rassemblées par leur attraction gravitationnelle dans une structure qu'on appelle un amas.
+- Nous voyons cet amas tel qu'il était il y a environ 4,6 milliards d'années, à cause du temps de trajet de la lumière.
+- Elle a été réalisée à l'aide de l'instrument NIRCam, et a nécessité 12,5 heures de temps de pose. Il s'agit du premier "champ profond du JWST"
+> Pour atteindre une profondeur de champ équivalente, il fallait des semaines de temps de pose avec le télescope Hubble.
+- On peut voir à la fois les galaxies de l'amas, mais aussi des images distordues de galaxies en arrière plan. Certaines de ces galaxies font parties des plus lointaines jamais observées. Leur lumière a mis plus de 13 milliards d'années à parcourir l'espac avant d'atteindre les détecteurs de NIRCam.
+- La NASA a aussi publié les spectres de 48 galaxies de l'amas. Ces spectres contiennent de précieuses infos sur la composition chimique des galaxies et leurs propriétés physiques.
 
 # Images plus récentes du JWST
 
