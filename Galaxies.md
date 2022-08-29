@@ -308,6 +308,7 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 - [Signs of Water Found on 5 Alien Planets by Hubble Telescope](https://www.space.com/23814-alien-planets-water-hubble-telescope.html) - Space.com
 - [NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-reveals-cosmic-cliffs-glittering-landscape-of-star-birth) - NASA
 - [NASA’s Webb Captures Dying Star’s Final ‘Performance’ in Fine Detail](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-captures-dying-star-s-final-performance-in-fine-detail) - NASA
+- [NASA’s Webb Captures Dying Star’s Final ‘Performance’ in Fine Detail](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-captures-dying-star-s-final-performance-in-fine-detail) - NASA
 
 --- 
 
@@ -333,36 +334,13 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 
 ## La nébuleuse de l'anneau austral (NGC 3132)
 
-- The Southern Ring, or “Eight-Burst” nebula, is a planetary nebula – an expanding cloud of gas, surrounding a dying star. It is nearly half a light-year in diameter and is located approximately 2,000 light years away from Earth.
->  The evolution from the AGB phase to the PN phases remains poorly understood, especially the dramatic transformation that occurs in the morphology of the mass-ejecta as AGB stars and their round circumstellar envelopes evolve into mostly PNe, the majority of which deviate strongly from spherical symmetry. The late evolution and deaths of a very significant percentage (60–80%) of stars in the Universe
-are likely to be fundamentally affected by strong binary interactions1. Binary interactions in particular
-affect our understanding of stars in general, since such interactions affect important diagnostic
-observables of stars and stellar populations (e.g., mass-loss and evolutionary time-scales). A striking
-example of the effect of binary interactions on stellar evolution are planetary nebulae (PNe). the majority (i.e., 80%) of PNe,
-unlike the generally roughly round circumstellar envelopes around most AGB stars2, display a
-spectacular array of morphologies and geometrical complexities. These include elliptical, bipolar
-and multipolar shapes, nested geometrical structures (e.g., hourglass within hourglass structures),
-equatorial density enhancements (including rotating disks, torii), low-latitude jets, and central stars
-offset from the geometrical centers of the nebulae. JWST’s major strengths for PNe and PPNe research are its ability to provide precise mid-IR
-imaging (due to its stable point-spread-function or PSF) with very high sensitivities. Although mid-IR
-observations can be done from the ground, the ambient thermal emission is a huge limiting factor,
-even at the short end of the mid-IR range. Summarized below are several representative projects to study PNe and PPNe that exploit JWST’s
-unique capabilities.
-(a) Photometric and spectroscopic search for binary companions to, and/or disks around, the
-central stars of PNe (CSPNe), post-AGB, and post-RGB9 stars.
-(b) Imaging faint and obscured circumstellar structures in PNe and post-AGB objects.
-Studying the physics and chemistry of UV-irradiated molecular clumps in PNe.
-Most stars in the Universe that leave the main sequence in a Hubble time will end their lives
-evolving through the Planetary Nebula (PN) evolutionary phase, and the accompanying heavy mass
-loss during their death throes is important across astrophysics—however the evolution from the
-red giant to the PN phase remains poorly understood. epresentative investigations that exploit JWST’s unique capabilities include
-searches for low-mass binary companions to, and/or disks around, the central stars of PNe, post-RGB
-and post-AGB stars, the imaging of faint and/or obscured circumstellar structures in post-AGB objects,
-and studies of the composition and evolution of dust in galaxies.
-
-The dimmer star at the center of this scene has been sending out rings of gas and dust for thousands of years in all directions, and NASA’s James Webb Space Telescope has revealed for the first time that this star is cloaked in dust.
-
-Two cameras aboard Webb captured the latest image of this planetary nebula, cataloged as NGC 3132, and known informally as the Southern Ring Nebula. It is approximately 2,500 light-years away.
+- Ils 'agit d'une nébuleuse planétaire, un nuage de gaz et de poussière multicolore créé lors de l'éjection des couches de gaz externe d'une étoile en fin de vie.
+- Elle est située à environ 2500 années-lumière de la Terre et s'étale sur environ une demi-année-lumière de diamètre.
+- Elle a été photographiée par MIRI et NIRCam
+- Les images montrent que l'étoile centrale est en fait un couple stellaire en orbites rapprochées, dont une des deux (la moins lumineuse) est entourée d'un voile de poussière
+- C'est l'étoile la moins lumineuse qui a produit cette nébuleuse planétaire. Cette dernière s'étend dans l'espace interstellaire depuis des milliers d'années.
+- L'étoile plus brillante a une influence sur la forme de la nébuleuse, et génère des motifs complexes.
+- On comprend encore mal les premières phases de la naissance des nébuleuses planétaires et les mécanismes qui sont responsables de la grande diversité de formes de ces astres. Les images à haute résolution des régions centrales des nébuleuses planétaires réalisées par le JWST seront précieuses pour cet objectif.
 
 ## Le Quintette de Stephan
 
