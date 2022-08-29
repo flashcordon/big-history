@@ -312,22 +312,13 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 
 - Le 12 Juillet 2022, les premières images et données officielles du JWST ont été révélées au grand public.
 
-## NGC 3372 (nébuleuse de la Carène)
+## Les falaises cosmiques de NGC 3372 (nébuleuse de la Carène)
 
-- L'une des images les plus spectaculaires de cette fournée est une petite région appelée NGC 3372 située en bordure de la nébuleuse de la Carène, à 7600 années-lumière d'ici, réalisée par les instruments NIRCam et MIRI.
+- L'une des images les plus spectaculaires de cette fournée représente une région au nom équivoque, les "falaises cosmiques", située en bordure de la nébuleuse de la Carène, à 7600 années-lumière d'ici, réalisée par les instruments NIRCam et MIRI.
 - La nébuleuse de la Carène est l'une des nébuleuses les plus brillantes et les plus étendues du ciel nocturne. Il s'agit d'un nuage de gaz et de poussière à l'intérieur duquel se forment des étoiles. Certaines sont beaucoup plus massives que le Soleil, mais la plupart d'entre elles sont bien moins massives.
 > Elle a été découverte par l'astronome James Dunlop en 1826 et n'est visible que dans l'hémisphère sud.
-- 
-- the edge of a nearby, young, star-forming region called NGC 3324 in the Carina Nebula. Called the Cosmic Cliffs. The cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located in the center of the bubble
--     NASA’s James Webb Space Telescope reveals emerging stellar nurseries and individual stars in the Carina Nebula that were previously obscured
-    Images of “Cosmic Cliffs” showcase Webb’s cameras’ capabilities to peer through cosmic dust, shedding new light on how stars form
-    Objects in the earliest, rapid phases of star formation are difficult to capture, but Webb’s extreme sensitivity, spatial resolution, and imaging capability can chronicle these elusive events
-- This landscape of “mountains” and “valleys” speckled with glittering stars is actually the edge of a nearby, young, star-forming region called NGC 3324 in the Carina Nebula.
-- 
-
-The blistering, ultraviolet radiation from the young stars is sculpting the nebula’s wall by slowly eroding it away. 
- Star birth propagates over time, triggered by the expansion of the eroding cavity. As the bright, ionized rim moves into the nebula, it slowly pushes into the gas and dust. If the rim encounters any unstable material, the increased pressure will trigger the material to collapse and form new stars.
- Conversely, this type of disturbance may also prevent star formation as the star-making material is eroded away. This is a very delicate balance between sparking star formation and stopping it. Webb will address some of the great, open questions of modern astrophysics: What determines the number of stars that form in a certain region? Why do stars form with a certain mass?
+- Sur cette image, on peut apercevoir des structures poussiéreuses sculptées et érodées par les intenses rayonnements ultraviolets émis par des jeunes étoiles très massives.
+- Grâce à l'imagerie infrarouge, on peut apercevoir pour la première fois dans cette région des étoiles individuelles peu massives et dans les premières phases de leur évolution qui étaient auparavant cachées par les nuages de poussière
 
 ## Le spectre de transmission de WASP-96 b 
 
