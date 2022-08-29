@@ -424,6 +424,26 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 
 # Le LUVOIR
 
+*Sources*
+
+- [Large UV/Optical/Infrared Surveyor](https://fr.wikipedia.org/wiki/Large_UV/Optical/Infrared_Surveyor) - Wikipédia
+
+---
+
+- LUVOIR (acronyme de Large UV/Optical/Infrared Surveyor, « Grand arpenteur dans l'UV, l'optique et l'infrarouge ») est une des quatre propositions d'observatoires spatiaux que l'agence spatiale américaine, la NASA envisage de développer au cours de la décennie 2025-2035. 
+>  la NASA a financé l'étude de quatre projets d'observatoire spatial par des équipes comprenant des membres de l'agence spatiale, des chercheurs extérieurs et de représentants de l'industrie. Ces projets sont : LUVOIR, HabEx (Habitable Exoplanet Imager), Lynx et OST (Origins Space Telescope)
+- LUVOIR reprend les principales caractéristiques du télescope Hubble en observant les mêmes longueurs d'onde : ultraviolet, visible et proche infrarouge. Deux architectures sont envisagées : l'une avec un miroir segmenté de 8 mètres l'autre avec un miroir de 15 mètres. Les deux versions reprendraient l'architecture du télescope JWST avec un miroir segmenté stocké pour le lancement en position repliée et un grand bouclier thermique. Si ce projet très coûteux (8 à 16 milliards US$) était retenu, le télescope serait lancé vers 2039 et placé en orbite autour du point de Lagrange L2. 
+- La durée de la mission primaire est de 5 ans et le volume des consommables (ergols) garantit un fonctionnement durant 10 ans. Le télescope est conçu pour permettre sa maintenance en cours de vie. Les pièces non remplaçables ont une durée de vie de 25 ans
+- La sonde embarquerait 3 à 4 instruments, dont des caméras et des spectrographes
+
+## Objectifs scientifiques de LUVOIR
+
+- Étude de l'époque de réionisation,
+- Formation et évolution des galaxies,
+- Formation stellaire et planétaire,
+- Télédétection dans le système solaire
+- Caractérisation d'exoplanètes, y compris leur habitabilité et la présence de formes de vie
+
 # SLS
 
 *Sources*
@@ -440,6 +460,4 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 - Orion va servir de remorqueur pour arrimer le module I-HAB (International-Habitat, construit par Thales Alenia Space) au Gateway. Il est donc « nécessaire d'analyser ce scénario car le module de service n'a pas été développé pour cela. C'est tout l'intérêt d'Artemis I dont le vol de 42 jours permet de vérifier et tester ce type de phase de vol et de manœuvre 
 - L'autre point fort de ce vol et principal point de vigilance de la mission concerne le bouclier thermique de la capsule. La vitesse de rentrée dans l'atmosphère d'une mission de retour de la Lune étant bien supérieure à une mission de retour d'orbite, onze kilomètres par seconde contre « seulement » sept kilomètres par seconde, la Nasa veut s'assurer de son bon comportement lors de la phase de rentrée atmosphérique. Ce bouclier sera l'unique protection des astronautes durant cette phase cruciale.
 - Les panneaux solaires sont aussi un sujet de préoccupation majeur. Ces panneaux sont orientables autour de leur axe et peuvent s'incliner vers l'avant et l'arrière pour des raisons structurelles et thermiques. Il faut savoir que la poussée du moteur principal est telle que si les panneaux restaient déployés à 90 degrés, ils n'y résisteraient pas, d'où la nécessité de les incliner. Autre point de vigilance, et non des moindres, les panneaux ont une certaine fréquence de résonance. Or, les moteurs de l'ESM sont pulsés à une certaine fréquence pour pouvoir contrôler la direction et l'attitude. Airbus souhaite « vérifier ces interférences de fréquences afin de vérifier que les panneaux n'entrent pas en résonance, ce qui pourrait les amener à se disloquer », précise Antoine Alouani.
-- 
-- 
 
