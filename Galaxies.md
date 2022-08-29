@@ -306,6 +306,7 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 - [NASA’s Webb Reveals Steamy Atmosphere of Distant Planet in Detail](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-reveals-steamy-atmosphere-of-distant-planet-in-detail) - NASA
 - [Exoplanet WASP-96 b – NIRISS transmission spectrum](https://www.esa.int/ESA_Multimedia/Images/2022/07/Exoplanet_WASP-96_b_NIRISS_transmission_spectrum) - ESA
 - [Signs of Water Found on 5 Alien Planets by Hubble Telescope](https://www.space.com/23814-alien-planets-water-hubble-telescope.html) - Space.com
+- [NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-reveals-cosmic-cliffs-glittering-landscape-of-star-birth) - NASA
 
 --- 
 
@@ -314,6 +315,18 @@ A pioneering spectral survey of exoplanet atmospheres](http://www.eso.org/~rsieb
 ## La nébuleuse de la Carène
 
 - The Carina Nebula is one of the largest and brightest nebulae in the sky, located approximately 7,600 light-years away in the southern constellation Carina. Nebulae are stellar nurseries where stars form. The Carina Nebula is home to many massive stars, several times larger than the Sun.
+- the edge of a nearby, young, star-forming region called NGC 3324 in the Carina Nebula. Called the Cosmic Cliffs. The cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located in the center of the bubble
+-     NASA’s James Webb Space Telescope reveals emerging stellar nurseries and individual stars in the Carina Nebula that were previously obscured
+    Images of “Cosmic Cliffs” showcase Webb’s cameras’ capabilities to peer through cosmic dust, shedding new light on how stars form
+    Objects in the earliest, rapid phases of star formation are difficult to capture, but Webb’s extreme sensitivity, spatial resolution, and imaging capability can chronicle these elusive events
+- This landscape of “mountains” and “valleys” speckled with glittering stars is actually the edge of a nearby, young, star-forming region called NGC 3324 in the Carina Nebula.
+- 
+
+The blistering, ultraviolet radiation from the young stars is sculpting the nebula’s wall by slowly eroding it away. 
+ Star birth propagates over time, triggered by the expansion of the eroding cavity. As the bright, ionized rim moves into the nebula, it slowly pushes into the gas and dust. If the rim encounters any unstable material, the increased pressure will trigger the material to collapse and form new stars.
+ Conversely, this type of disturbance may also prevent star formation as the star-making material is eroded away. This is a very delicate balance between sparking star formation and stopping it. Webb will address some of the great, open questions of modern astrophysics: What determines the number of stars that form in a certain region? Why do stars form with a certain mass?
+ Located roughly 7,600 light-years away, NGC 3324 was imaged by Webb’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI).
+ NGC 3324 was first catalogued by James Dunlop in 1826. Visible from the Southern Hemisphere, it is located at the northwest corner of the Carina Nebula (NGC 3372), which resides in the constellation Carina. 
 
 ## Le spectre de transmission de WASP-96 b 
 
