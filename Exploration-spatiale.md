@@ -64,6 +64,14 @@ So why aren't they in the Apollo pictures? Pretend for a moment you are an astro
 So the picture you take is set for bright objects. Stars are faint objects! In the fast exposure, they simply do not have time to register on the film. It has nothing to do with the sky being black or the lack of air, it's just a matter of exposure time. If you were to go outside here on Earth on the darkest night imaginable and take a picture with the exact same camera settings the astronauts used, you won't see any stars! 
 - Un faux documentaire46, Opération Lune, de William Karel tourné en 2001 et sorti en 2002 s'est moqué de cette théorie à l'aide d'acteurs et de petits trucages en mettant en lumière combien les images sont « simples » à manipuler pour un cinéaste accompli et comme il est « facile » de faire dire aux images ce que l'on veut. William Karel se plaît notamment à appeler ce genre de documentaire « documenteur » en référence à François Truffaut. Tout au long de son film, Karel s'est amusé à glisser des clins d'œil au cinéma et à Hollywood, en particulier. Paradoxalement, certains ont utilisé le film Opération Lune pour défendre la théorie du complot donnant, malgré eux, raison à Karel.
 
+*Le site d'atterrissage d'Apollo 11 photographié par la sonde LRO (2012)*
+
+![LROApollo11](https://upload.wikimedia.org/wikipedia/commons/1/19/Apollo11-LRO-March2012.jpg)
+
+*Le site d'atterrissage d'Apollo 17 photographié par la sonde LRO (2011)*
+
+![LROApollo17](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Apollo_17_landing_site%2C_labeled.jpg/800px-Apollo_17_landing_site%2C_labeled.jpg)
+
 
 # Le corps humain dans l’espace
 
