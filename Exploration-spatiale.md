@@ -73,6 +73,10 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ![LROApollo17](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Apollo_17_landing_site%2C_labeled.jpg/800px-Apollo_17_landing_site%2C_labeled.jpg)
 
+*Réflecteur lunaire posé par la mission Apollo 11*
+
+![lunarreflector](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Apollo_11_Lunar_Laser_Ranging_Experiment.jpg/1069px-Apollo_11_Lunar_Laser_Ranging_Experiment.jpg)
+
 
 # Le corps humain dans l’espace
 
