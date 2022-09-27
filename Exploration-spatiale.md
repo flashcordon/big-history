@@ -14,6 +14,7 @@
 - https://rationalwiki.org/wiki/Moon_hoax_(fran%C3%A7ais)
 - https://www.washingtonpost.com/national/health-science/50-years-after-apollo-conspiracy-theorists-are-still-howling-at-the-moon-hoax/2019/05/23/ca5b4a3a-700e-11e9-9f06-5fc2ee80027a_story.html
 - https://www.nasa.gov/mission_pages/LRO/news/apollo-sites.html
+- https://en.wikipedia.org/wiki/Lunar_Laser_Ranging_experiment
 
 ---
 
@@ -65,6 +66,10 @@ So why aren't they in the Apollo pictures? Pretend for a moment you are an astro
 So the picture you take is set for bright objects. Stars are faint objects! In the fast exposure, they simply do not have time to register on the film. It has nothing to do with the sky being black or the lack of air, it's just a matter of exposure time. If you were to go outside here on Earth on the darkest night imaginable and take a picture with the exact same camera settings the astronauts used, you won't see any stars! 
 - Un faux documentaire46, Opération Lune, de William Karel tourné en 2001 et sorti en 2002 s'est moqué de cette théorie à l'aide d'acteurs et de petits trucages en mettant en lumière combien les images sont « simples » à manipuler pour un cinéaste accompli et comme il est « facile » de faire dire aux images ce que l'on veut. William Karel se plaît notamment à appeler ce genre de documentaire « documenteur » en référence à François Truffaut. Tout au long de son film, Karel s'est amusé à glisser des clins d'œil au cinéma et à Hollywood, en particulier. Paradoxalement, certains ont utilisé le film Opération Lune pour défendre la théorie du complot donnant, malgré eux, raison à Karel.
 
+## Lunar Laser Ranging experiment
+
+- Lunar Laser Ranging (LLR) is the practice of measuring the distance between the surfaces of the Earth and the Moon using laser ranging. The distance can be calculated from the round-trip time of laser light pulses travelling at the speed of light, which are reflected back to Earth by the Moon's surface or by one of five retroreflectors installed on the Moon during the Apollo program (11, 14, and 15) and Lunokhod 1 and 2 missions
+
 *Le site d'atterrissage d'Apollo 11 photographié par la sonde LRO (2012)*
 
 ![LROApollo11](https://upload.wikimedia.org/wikipedia/commons/1/19/Apollo11-LRO-March2012.jpg)
@@ -76,6 +81,10 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 *Réflecteur lunaire posé par la mission Apollo 11*
 
 ![lunarreflector](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Apollo_11_Lunar_Laser_Ranging_Experiment.jpg/1069px-Apollo_11_Lunar_Laser_Ranging_Experiment.jpg)
+
+*Goddard's Laser Ranging Facility*
+
+![observatoirelune](https://live.staticflickr.com/2513/3951835405_ed6065ea5e_b.jpg)
 
 
 # Le corps humain dans l’espace
