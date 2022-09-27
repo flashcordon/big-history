@@ -82,7 +82,7 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ![lunarreflector](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Apollo_11_Lunar_Laser_Ranging_Experiment.jpg/1069px-Apollo_11_Lunar_Laser_Ranging_Experiment.jpg)
 
-*Goddard's Laser Ranging Facility*
+*Goddard's Laser Ranging Facility ([Source](https://www.flickr.com/photos/gsfc/3951835405))*
 
 ![observatoirelune](https://live.staticflickr.com/2513/3951835405_ed6065ea5e_b.jpg)
 
