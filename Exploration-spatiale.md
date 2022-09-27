@@ -10,11 +10,18 @@
 - https://fr.wikipedia.org/wiki/Th%C3%A9ories_conspirationnistes_sur_le_programme_Apollo
 - https://www.space.com/apollo-11-moon-landing-hoax-believers.html
 - http://www.badastronomy.com/bad/tv/foxapollo.html
+- https://www.scienceandmediamuseum.org.uk/objects-and-stories/moon-to-living-room-apollo-11-broadcast
+- https://rationalwiki.org/wiki/Moon_hoax_(fran%C3%A7ais)
+- https://www.washingtonpost.com/national/health-science/50-years-after-apollo-conspiracy-theorists-are-still-howling-at-the-moon-hoax/2019/05/23/ca5b4a3a-700e-11e9-9f06-5fc2ee80027a_story.html
 
 ---
 
+- Between 1969 and 1972, six Apollo missions took teams of three astronauts across over 250 miles (400 kilometers) of space to the moon, set two of them down on its surface, and brought them all home safely again. A seventh mission, Apollo 13 (opens in new tab), famously failed to land on the moon, but the astronauts survived a flight around the moon. Today, those daring missions are as fascinating as ever.
+- The Moon landing was one of the biggest television events in history, reaching an estimated 650 million viewers.
+- President John F. Kennedy committed the USA to getting a man on the Moon by 1970. In a famous 1962 speech given at Rice Stadium in Texas, he portrayed space as a new frontier for exploration, appealed to the US’s patriotic pioneering legacy, and emphasised the historical urgency. The nation got behind him: over the next 10 years, billions of dollars were poured into the Apollo Program.
 - Les images de l'homme sur la Lune auraient été réalisées dans une base militaire secrète, installée dans le désert du Nevada, avec des effets spéciaux d'Hollywood, comme ceux du film 2001 : l'Odyssée de l'espace, de Stanley Kubrick - d'ailleurs soupçonné d'avoir collaboré avec la NASA. 
 - It took 400,000 Nasa employees and contractors to put Neil Armstrong and Buzz Aldrin on the moon in 1969 – but only one man to spread the idea that it was all a hoax. His name was Bill Kaysing.
+- Ces théories naquirent dans le livre "We Never Went to the Moon: America's Thirty Billion Dollar Swindle (Nous ne sommes jamais allé sur la Lune: l'escroquerie de trente milliards de dollars de l'Amérique), écrit par le libertaire Bill Kaysing.
 - It began as “a hunch, an intuition”, before turning into “a true conviction” – that the US lacked the technical prowess to make it to the moon (or, at least, to the moon and back). Kaysing had actually contributed to the US space programme, albeit tenuously: between 1956 and 1963, he was an employee of Rocketdyne, a company that helped to design the Saturn V rocket engines. In 1976, he self-published a pamphlet called We Never Went to the Moon: America’s Thirty Billion Dollar Swindle, which sought evidence for his conviction by means of grainy photocopies and ludicrous theories. Yet somehow he established a few perennials that are kept alive to this day in Hollywood movies and Fox News documentaries, Reddit forums and YouTube channels.
 - there are those who think the landings were a hoax. They claim the US government faked Apollo 11 and later missions either to deal a crucial blow to the USSR in the Space Race, or to boost Nasa funding or to divert attention away from the Vietnam war.
 - The X-Files" brought all sorts of space conspiracies into the public consciousness in the 1990s and 2000s, and the rebooted version of the show addressed the moon landing in a 2018 episode. The conspiracy was also addressed in many other fictional TV shows, from "Futurama" to "Friends.
@@ -55,6 +62,8 @@ On the Moon, the lack of air means that the sky is dark. Even when the Sun is hi
 So why aren't they in the Apollo pictures? Pretend for a moment you are an astronaut on the surface of the Moon. You want to take a picture of your fellow space traveler. The Sun is low off the horizon, since all the lunar landings were done at local morning. How do you set your camera? The lunar landscape is brightly lit by the Sun, of course, and your friend is wearing a white spacesuit also brilliantly lit by the Sun. To take a picture of a bright object with a bright background, you need to set the exposure time to be fast, and close down the aperture setting too; that's like the pupil in your eye constricting to let less light in when you walk outside on a sunny day.
 
 So the picture you take is set for bright objects. Stars are faint objects! In the fast exposure, they simply do not have time to register on the film. It has nothing to do with the sky being black or the lack of air, it's just a matter of exposure time. If you were to go outside here on Earth on the darkest night imaginable and take a picture with the exact same camera settings the astronauts used, you won't see any stars! 
+- Un faux documentaire46, Opération Lune, de William Karel tourné en 2001 et sorti en 2002 s'est moqué de cette théorie à l'aide d'acteurs et de petits trucages en mettant en lumière combien les images sont « simples » à manipuler pour un cinéaste accompli et comme il est « facile » de faire dire aux images ce que l'on veut. William Karel se plaît notamment à appeler ce genre de documentaire « documenteur » en référence à François Truffaut. Tout au long de son film, Karel s'est amusé à glisser des clins d'œil au cinéma et à Hollywood, en particulier. Paradoxalement, certains ont utilisé le film Opération Lune pour défendre la théorie du complot donnant, malgré eux, raison à Karel.
+
 
 # Le corps humain dans l’espace
 
