@@ -2,19 +2,19 @@
 
 *Sources*
 
-- https://www.slate.fr/story/179604/theorie-complot-lune-moon-hoax-apollo-11-defiance-nixon-divertissement
-- https://sservi.nasa.gov/articles/the-moon-hoax-hoax/
-- https://www.theguardian.com/science/2019/jul/10/one-giant-lie-why-so-many-people-still-think-the-moon-landings-were-faked
-- https://www.lemonde.fr/planete/article/2009/07/20/ils-n-ont-jamais-marche-sur-la-lune_1219430_3244.html
-- https://homepages.wmich.edu/~korista/moonhoax2.html
-- https://fr.wikipedia.org/wiki/Th%C3%A9ories_conspirationnistes_sur_le_programme_Apollo
-- https://www.space.com/apollo-11-moon-landing-hoax-believers.html
-- http://www.badastronomy.com/bad/tv/foxapollo.html
-- https://www.scienceandmediamuseum.org.uk/objects-and-stories/moon-to-living-room-apollo-11-broadcast
-- https://rationalwiki.org/wiki/Moon_hoax_(fran%C3%A7ais)
-- https://www.washingtonpost.com/national/health-science/50-years-after-apollo-conspiracy-theorists-are-still-howling-at-the-moon-hoax/2019/05/23/ca5b4a3a-700e-11e9-9f06-5fc2ee80027a_story.html
-- https://www.nasa.gov/mission_pages/LRO/news/apollo-sites.html
-- https://en.wikipedia.org/wiki/Lunar_Laser_Ranging_experiment
+- [Pourquoi tant de monde pense que l'on n'a jamais marché sur la Lune?](https://www.slate.fr/story/179604/theorie-complot-lune-moon-hoax-apollo-11-defiance-nixon-divertissement) - Slate
+- [The Moon Hoax Hoax](https://sservi.nasa.gov/articles/the-moon-hoax-hoax/) - NASA
+- [One giant ... lie? Why so many people still think the moon landings were faked](https://www.theguardian.com/science/2019/jul/10/one-giant-lie-why-so-many-people-still-think-the-moon-landings-were-faked) - The Guardian
+- [Ils n'ont jamais marché sur la Lune](https://www.lemonde.fr/planete/article/2009/07/20/ils-n-ont-jamais-marche-sur-la-lune_1219430_3244.html) - Le Monde
+- [FOX GOES TO THE MOON, BUT NASA NEVER DID THE NO-MOONIES CULT STRIKES](https://homepages.wmich.edu/~korista/moonhoax2.html) - Michael Schermer
+- [Théories conspirationnistes sur le programme Apollo](https://fr.wikipedia.org/wiki/Th%C3%A9ories_conspirationnistes_sur_le_programme_Apollo) - Wikipédia
+- [Moon-landing hoax still lives on. But why?](https://www.space.com/apollo-11-moon-landing-hoax-believers.html) - Space.com
+- [Fox TV and the Apollo Moon Hoax](http://www.badastronomy.com/bad/tv/foxapollo.html) - Bad Astronomy
+- [From the Moon to your living room: the Apollo 11 broadcast](https://www.scienceandmediamuseum.org.uk/objects-and-stories/moon-to-living-room-apollo-11-broadcast) - Science and Media Museum
+- [Moon Hoax](https://rationalwiki.org/wiki/Moon_hoax_(fran%C3%A7ais)) - Rational Wiki
+- [50 years after Apollo, conspiracy theorists are still howling at the ‘moon hoax’](https://www.washingtonpost.com/national/health-science/50-years-after-apollo-conspiracy-theorists-are-still-howling-at-the-moon-hoax/2019/05/23/ca5b4a3a-700e-11e9-9f06-5fc2ee80027a_story.html) - Washington Post
+- [NASA Spacecraft Images Offer Sharper Views of Apollo Landing Sites](https://www.nasa.gov/mission_pages/LRO/news/apollo-sites.html) - NASA
+- [Lunar Laser Ranging experiment](https://en.wikipedia.org/wiki/Lunar_Laser_Ranging_experiment) - Wikipédia
 
 ---
 
