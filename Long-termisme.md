@@ -2,6 +2,12 @@
 
 ## La Tripitaka Koreana
 
+*Sources*
+
+- [Thread de Incunabula](https://twitter.com/incunabula/status/1574546784365445136) 
+
+---
+
 - carved on 81258 woodblocks in the 13th century - is the most successful large data transfer over time yet achieved by humankind. 52 million characters of information, transmitted over nearly 8 centuries with zero data loss - an unequalled achievement.
 - stored in Haeinsa, a Buddhist temple in Gayasan National Park, South Korea, is the most comprehensive and oldest version of the Buddhist canon, with no known errors in its 52 330 152 characters which are organized in over 1496 titles and 6568 volumes
 - Each wood block measures 24 centimeters in height and 70 centimeters in length. The thickness of the blocks ranges from 2.6 to 4 centimeters and each weighs about three to four kilograms.  The woodblocks are in pristine condition despite being created more than 750 years ago
