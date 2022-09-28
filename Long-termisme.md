@@ -1,5 +1,31 @@
 # Bibliothèques du passé
 
+## La Tripitaka Koreana
+
+- carved on 81258 woodblocks in the 13th century - is the most successful large data transfer over time yet achieved by humankind. 52 million characters of information, transmitted over nearly 8 centuries with zero data loss - an unequalled achievement.
+- stored in Haeinsa, a Buddhist temple in Gayasan National Park, South Korea, is the most comprehensive and oldest version of the Buddhist canon, with no known errors in its 52 330 152 characters which are organized in over 1496 titles and 6568 volumes
+- Each wood block measures 24 centimeters in height and 70 centimeters in length. The thickness of the blocks ranges from 2.6 to 4 centimeters and each weighs about three to four kilograms.  The woodblocks are in pristine condition despite being created more than 750 years ago
+- Each block was made of birch wood from the southern islands of Korea and treated to prevent the decay of the wood. The blocks were soaked in sea water for three years, then cut and then boiled in salt water
+- Next, the blocks were placed in the shade and exposed to the wind for three years, at which point they were finally ready to be carved. After each block was carved, it was covered in a poisonous lacquer to keep insects away and then framed with metal to prevent warping. 
+- The woodblocks would form a pile 2.74 km high if stacked, measure 60 km long when lined up, and weigh 280 tons in total. 
+- There's no fixed way to calculate this, but 52 million carved Chinese characters is around two gigabytes of information. So the Tripitaka Koreana has transmitted two gigabytes of data over nearly 8 centuries with no corruption or loss: nothing else created by man comes close. 
+- Not only does the Tripitaka Koreana preserve gigabytes of data, it allows this data to be freely retrieved as needed: by reading from the blocks directly, or by printing from them.
+- Work on the first Tripiṭaka Koreana began in 1011 during the Goryeo–Khitan War and was completed in 1087. The act of carving the 6000 woodblocks was considered to be a way of bringing about a change in fortune by invoking the Buddha's help.
+- This original set of woodblocks was destroyed by fire during the Mongol invasions of Korea in 1232, although scattered volumes printed from these blocks still remain
+- To once again implore divine assistance with combating the Mongol threat, King Gojong ordered the revision and re-creation of the Tripiṭaka. The carving began in 1237 and was completed in 12 years, involving monks from both the Seon and Gyo schools.
+- This second version is usually what is meant by the Tripiṭaka Koreana today. In 1398, it was moved to the Buddhist temple at Haeinsa on Mount Gaya, South Gyeongsang Province, South Korea, where it has remained housed to the present day in four purpose built buildings.
+- The production of the Tripiṭaka Koreana was an enormous national commitment of money and manpower, perhaps comparable to the US missions to the Moon in the 1960s. Thousands of scholars and craftsmen were employed in this massive project
+- The quality of the wood blocks is attributed to Sugi, the Buddhist monk in charge of the project, who carefully checked the Korean version for errors. Upon completing the Tripiṭaka Koreana, Sugi published 30 volumes of Additional Records which recorded errors, and omissions. 
+- Because of the supreme accuracy of the Tripiṭaka Koreana, the Japanese, Chinese, and Taiwanese versions of the Tripiṭaka are ALL based on this Korean version
+- The Tripiṭaka Koreana was designated a National Treasure of South Korea in 1962, and inscribed in the UNESCO Memory of the World Register in 2007.
+- In the 1960s, Korea's President Park Jung-hee ordered a new state of the art concrete storage facility to be constructed in the hills near Haeinsa Temple. The intention was to transfer the woodblocks to this new location in order to protect them from the danger of fire.
+- However, when a small portion of the Tripitaka was moved to this new storage building for a trial period, mould  - for the first time in 8 centuries - began to form on the woodblocks. The plan to preserve the Tripitaka woodblocks by more 'scientific' methods was abandoned.
+- This highlights the importance not just of the woodblocks themselves, but the meticulous design and construction of the two wooden halls in which they are kept, which have ensured perfect ventilation, appropriate humidity levels, and an ideal temperature for 800 years.
+- Beneath the mud floors of the depository chambers, are successive layers of charcoal, then salt and finally limestone. These layers absorb excess moisture during the monsoon season, and release it during the dry winter when humidity levels fall
+- The shelves on which the blocks are stored were made of thick, squared lumber. Woodblocks are placed on the shelves like books, but in two layers, one on top of another
+- Since the end pieces of the woodblocks are thicker than the woodblocks themselves, the flow of air is naturally assisted when they are stored vertically, again helping to control humidity and temperature.  
+- Since the founding of Haeinsa temple, there have been 7 fires, but the buildings housing the Tripitaka Koreana have never been burned or damaged. Devout Koreans believe that this was through the grace of heaven, moved by the tireless, unceasing devotion of their ancestors. 
+
 ## La bibliothèque d'Assurbanipal
 
 # Messages à destination du futur
