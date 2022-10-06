@@ -94,14 +94,10 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 ## Les preuves qu'on est allé sur la Lune
 
 - Les archives des missions Apollo, c'est plus de 20000 photos prises par les astronautes, des milliers d'heures de vidéo, 19000 heures d'enregistrements audio publiquement accessibles rien que pour Apollo 11, 382 kilos de roches lunaires dont la provenance a été vérifiée par des laboratoires du monde entier, et des équipements laissés sur place dont il est possible d'attester la présence.
-- En 2011 et 2012, la sonde LRO de la NASA qui se trouve en orbite basse autour de la Lune a pris des clichés de très haute résolution de la surface lunaire. On y voit les traces des sites d'aterrissage des missions Apollo, et même les traces des empreintes de pas et de roues des astronautes. Et si ça ne vous convient pas, des sondes spatiales indiennes, chinoises et japonaises ont réalisé des clichés similaires indépendamment.
-
-- If this is not enough to convince the most-hardened sceptic, Nasa’s Lunar Reconnaissance Orbiter (LRO) might sway them. Today, LRO takes high resolution pictures of the lunar surface from a low orbit. During its mission, it has captured the landing sites and the abandoned descent modules and rovers from the Apollo missions. And its resolution is so good it has picked up the dark squiggly paths that the astronaut’s footprints made. Spacecraft from China, India and Japan have also spotted these landing sites, providing further independent verification of the landings.
-- A final nail in the coffin of the Moon hoax theories is a simple instrument installed 50 years ago by Apollo 11. During their day on the Moon, Armstrong and Aldrin planted a lunar laser ranging retroreflector array on the surface. It’s still operational today, and allows us to reflect lasers off of it and measure the distance to the Moon down to the centimetre. We simply couldn’t do this if we hadn’t visited the Moon.
-- 
-Lunar Laser Ranging experiment
-
-- Lunar Laser Ranging (LLR) is the practice of measuring the distance between the surfaces of the Earth and the Moon using laser ranging. The distance can be calculated from the round-trip time of laser light pulses travelling at the speed of light, which are reflected back to Earth by the Moon's surface or by one of five retroreflectors installed on the Moon during the Apollo program (11, 14, and 15) and Lunokhod 1 and 2 missions
+- En 2011 et 2012, la sonde LRO de la NASA qui se trouve en orbite basse autour de la Lune a pris des clichés de très haute résolution de la surface lunaire. On y voit les traces des sites d'aterrissage des missions Apollo, et même les traces des empreintes de pas et de roues des astronautes. Et si ça ne vous convient pas, des sondes spatiales indiennes, chinoises et japonaises ont réalisé des clichés similaires de manière indépendante.
+- Enfin, les missions Apollo 11, 14 et 15 ont laissé sur la surface lunaire 3 instruments appelés rétroréflecteurs dans le cadre de l'expérience Lunar Laser Ranging. Ces réflecteurs, qui servent à mesurer très précisément la distance Terre-Lune, sont encore opérationnels aujourd'hui. 
+> * Pour cela, on tire un rayon laser vers la Lune depuis un observatoire terrestre, et on calcule le temps d'aller-retour du rayon. Comme on connaît la vitesse de la lumière, on peut en déduire la distance Terre-Lune.
+> * À noter que les sondes soviétiques Lunokhod 1 et 2 qui ont été envoyées sur la surface lunaire au début des années 70 disposent elles aussi de leur propre rétroréflecteur.
 
 *Le site d'atterrissage d'Apollo 11 photographié par la sonde LRO (2012)*
 
@@ -111,7 +107,7 @@ Lunar Laser Ranging experiment
 
 ![LROApollo17](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Apollo_17_landing_site%2C_labeled.jpg/800px-Apollo_17_landing_site%2C_labeled.jpg)
 
-*Le site d'Apollo 11 vu par Chandrayaan-2 (2022). © Organisation indienne de recherche spatiale (Isro)*
+*Le site d'Apollo 11 vu par Chandrayaan-2 (2021). © Organisation indienne de recherche spatiale (Isro)*
 
 ![Chandrayaan2Apollo11](https://cdn.futura-sciences.com/cdn-cgi/image/width=1520,quality=60,format=auto/sources/images/lune%20%20apollo%2011%20Chandrayaan-2_Indian%20Space%20Research%20Organisation.jpeg)
 
