@@ -35,10 +35,10 @@
 - On estime que le programme Apollo a mobilisé en tout plus de 400 000 personnes (employés de la NASA + entrepreneurs) et a coûté plus de 150 milliards de dollars (en valeur actuelle corrigée par l'inflation)
 - L'atterrissage de la mission Apollo 11, qui a vu les premiers pas de Neil Armstrong et de Buzz Aldrin sur la Lune, a été l'un des moments les plus marquants de l'Histoire de la télévision, puisqu'il a été vu par plus de 650 millions de personnes en direct.
 
-# D'où vient la rumeur du Moon Hoax ?
+## D'où vient la rumeur du Moon Hoax ?
 
 - L'initiateur de l'hypothèse d'un complot lunaire est Bill Kaysing, un écrivain américain qui a notamment travaillé en tant que rédacteur technique à l'entreprise Rocketdyne, qui concevait les moteurs de la fusée Saturn V à l'époque des missions Apollo. Il n'a aucune formation scientifique ou d'ingénierie, mais il corrige les fautes d'orthographe et de grammaire des publications techniques de la boîte.
-- Dans les années 70, Kaysing raconte avoir une intuition que les Etats Unis n'ont pas la capacité technique d'envoyer des hommes sur la Lune et de les faire revenir vivant. Il finit par s'auto-convaincre de cette idée au point de publier un livre sur le sujet en 1974 (2 ans après Apollo 17) : "Nous ne sommes jamais allé sur la Lune: l'escroquerie américaine de trente milliards de dollars", dans lequel il affirme que les images des missions Apollo ont été tournées en studio, sur Terre.
+- Dans les années 70, Kaysing raconte avoir une intuition que les Etats Unis n'ont pas la capacité technique d'envoyer des hommes sur la Lune et de les faire revenir vivant. Il finit par s'auto-convaincre de cette idée au point de publier un livre sur le sujet en 1974 (2 ans après Apollo 17) : "Nous ne sommes jamais allé sur la Lune: l'escroquerie américaine de trente milliards de dollars", dans lequel il affirme que les images des missions Apollo ont été tournées en studio, dans une base militaire secrète du Nevada, probablement avec l'aide de Stanley Kubrick, le réalisateur visionnaire de "2001 l'odyssée de l'espace".
 - Comme il a déjà sa conclusion, Kaysing va se mettre à chercher des indices qui vont dans le sens de son intuition : il remarque qu'il n'y a pas d'étoiles sur les photos des missions lunaires, que le drapeau américain semble flotter alors qu'il n'y a pas d'air sur la Lune, etc etc. 
 - Les années 70 sont une époque particulière, caractérisée par une grande défiance du public américain envers le gouvernement. 
 > * Dans les années 60-70 les Etats Unis sont empêtrés dans la guerre du Vietnam, une guerre très impopulaire dans l'opinion publique américaine. Le gouvernement américain s'est alors lancé dans une vaste entreprise de propagande à grande échelle pour montrer le conflit au Vietnam sous un jour positif et financer massivement des films de guerre. Elle se termine en 1973 par le retrait des troupes américaines à la suite des accords de paix de Paris. 
@@ -51,20 +51,7 @@
 > * En France, en 2002, le documentariste William Karel diffuse sur ARTE un faux documentaire (un documenteur dans le jargon) intitulé "Opération Lune", qui a pour but de montrer qu'on peut facilement manipuler une audience grâce à une musique anxiogène, des images et des extraits d'interviews sortis de leur contexte. Sauf que le film est diffusé quelques mois à peine après les attentats du 11 Septembre, alors que de nombreuses personnes remetent déjà en compte les thèses officielles. Le film a aussi profité d'un sursaut d'audience sur le Web, car largement diffusé sur les sites de vidéo comme Dailymotion et plus tard Youtube. Sauf que comme il était sorti de son contexte, de nombreuses personnes n'ont pas compris que c'était un canular, cet ça a contribué à la popularité du Moon Hoax en France.
 
 
-Another one of Kaysing’s claims was that acclaimed director Stanley Kubrick was probably involved in faking the Moon landings. Kubrick’s 1968 movie 2001: A Space Odyssey included some of the most impressive special effects work that had been done to date and it helped create the theory that Kubrick had actually directed the footage we know today as the Apollo landings.
-
-“While ‘2001’ was being filmed, Kubrick and his crew consulted with nearly 70 industrial and aerospace corporations, universities, observatories, weather bureaus, laboratories and other institutions to ensure that the film would be technically accurate,” Kaysing wrote. “Had this been done for ASP without the cover of ‘2001’, much suspicion would have been directed towards those making the inquires.”
-
-What’s ASP? According to Kaysing, that stands for the “Apollo Simulation Project.” In fact, Kaysing even points to the ballooning budget of the film as more evidence that Kubrick was in on the moon hoax, insinuating that the director was paid by NASA to stage a cover-up.
-
-Another piece of “evidence” that Kaysing spends considerable time on throughout the book is the fact that the practice sessions that astronauts conducted look like a fake Moon landing. Admittedly, I made the same joke back in 2014 before I had even heard of Kaysing’s book.
-
-And the photos really do look like prep for a fake landing. But they’re not. They’re just training. Obviously these photos have stuck around and are used on the internet as “evidence” even today.
-
-- Les images de l'homme sur la Lune auraient été réalisées dans une base militaire secrète, installée dans le désert du Nevada, avec des effets spéciaux d'Hollywood, comme ceux du film 2001 : l'Odyssée de l'espace, de Stanley Kubrick - d'ailleurs soupçonné d'avoir collaboré avec la NASA. 
-
 - there are those who think the landings were a hoax. They claim the US government faked Apollo 11 and later missions either to deal a crucial blow to the USSR in the Space Race, or to boost Nasa funding or to divert attention away from the Vietnam war.
-- A recent YouGov poll found that one in six British people agreed with the statement: “The moon landings were staged.” Four per cent believed the hoax theory was “definitely true”, 12% that it was “probably true”, with a further 9% registering as don’t knows. Moon hoaxism was more prevalent among the young: 21 % of 24- to 35-year-olds agreed that the moon landings were staged, compared with 13% of over-55s.
 
 - "Les échantillons lunaires sont absolument uniques, très différents des roches terrestres, explique-t-il. En effet, ils sont criblés de petits cratères causés par des impacts de météorites. Cela ne peut arriver qu'à des pierres provenant d'une planète avec peu ou pas d'atmosphère, comme la Lune."
 
@@ -119,7 +106,6 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 *Goddard's Laser Ranging Facility ([Source](https://www.flickr.com/photos/gsfc/3951835405))*
 
 ![observatoirelune](https://live.staticflickr.com/2513/3951835405_ed6065ea5e_b.jpg)
-
 
 # Le corps humain dans l’espace
 
