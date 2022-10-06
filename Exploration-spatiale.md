@@ -28,6 +28,9 @@
 - On estime que le programme Apollo a mobilisé en tout plus de 400 000 personnes (employés de la NASA + entrepreneurs) et a coûté plus de 150 milliards de dollars (en valeur actuelle corrigée par l'inflation)
 - L'atterrissage de la mission Apollo 11, qui a vu les premiers pas de Neil Armstrong et de Buzz Aldrin sur la Lune, a été l'un des moments les plus marquants de l'Histoire de la télévision, puisqu'il a été vu par plus de 650 millions de personnes en direct.
 
+# D'où vient la rumeur du Moon Hoax ?
+
+- L'initiateur de l'hypothèse d'un complot lunaire est Bill Kaysing, un écrivain américain qui a notamment travaillé en tant que rédacteur technique à l'entreprise Rocketdyne, qui concevait les moteurs de la fusée Saturn V à l'époque des missions Apollo. Il n'a aucune formation scientifique ou d'ingénierie, mais il corrige les fautes d'orthographe et de grammaire des publications techniques de Rocketdyne.
 
 - Les images de l'homme sur la Lune auraient été réalisées dans une base militaire secrète, installée dans le désert du Nevada, avec des effets spéciaux d'Hollywood, comme ceux du film 2001 : l'Odyssée de l'espace, de Stanley Kubrick - d'ailleurs soupçonné d'avoir collaboré avec la NASA. 
 - It took 400,000 Nasa employees and contractors to put Neil Armstrong and Buzz Aldrin on the moon in 1969 – but only one man to spread the idea that it was all a hoax. His name was Bill Kaysing.
