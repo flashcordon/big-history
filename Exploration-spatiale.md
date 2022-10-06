@@ -20,6 +20,7 @@
 - [17 juin 1972 : le jour où le scandale du Watergate a éclaté](https://www.francetvinfo.fr/culture/patrimoine/histoire/17-juin-1972-le-jour-ou-le-scandale-du-watergate-a-eclate_4011319.html) - France Info
 - [« Opération Lune » : le film devenu (malgré lui) un argument conspirationniste](https://cultea.fr/operation-lune-le-film-devenu-malgre-lui-un-argument-conspirationniste.html) - Cultea
 - [NASA releases 19,000 hours of audio from historic Apollo 11 mission](https://www.nbcnews.com/mach/science/nasa-releases-19-000-hours-audio-historic-apollo-11-mission-ncna903721) - NBC News
+- [Apollo Mission Flight Photographs](https://apollospace.com/images/) - Apollo Space
 
 ---
 
@@ -91,8 +92,8 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ## Les preuves qu'on est allé sur la Lune
 
-- Les archives des missions Apollo, c'est plus de 8400 photos, des milliers d'heures de vidéo, 19000 heures d'enregistrements audio publiquement accessibles rien que pour Apollo 11, 382 kilos de roches lunaires dont la provenance a été vérifiée par des laboratoires du monde entier, et des équipements laissés sur place et dont il est possible d'attester la présence.
-
+- Les archives des missions Apollo, c'est plus de 20000 photos prises par les astronautes, des milliers d'heures de vidéo, 19000 heures d'enregistrements audio publiquement accessibles rien que pour Apollo 11, 382 kilos de roches lunaires dont la provenance a été vérifiée par des laboratoires du monde entier, et des équipements laissés sur place dont il est possible d'attester la présence.
+- En 2011 et 2012, la sonde LRO de la NASA qui se trouve en orbite basse autour de la Lune a pris des clichés de très haute résolution de la surface lunaire. On y voit les traces des sites d'aterrissage des missions Apollo, et même les traces des empreintes de pas et de roues des astronautes. Et si ça ne vous convient pas, des sondes spatiales indiennes, chinoises et japonaises ont réalisé des clichés similaires indépendamment.
 
 - If this is not enough to convince the most-hardened sceptic, Nasa’s Lunar Reconnaissance Orbiter (LRO) might sway them. Today, LRO takes high resolution pictures of the lunar surface from a low orbit. During its mission, it has captured the landing sites and the abandoned descent modules and rovers from the Apollo missions. And its resolution is so good it has picked up the dark squiggly paths that the astronaut’s footprints made. Spacecraft from China, India and Japan have also spotted these landing sites, providing further independent verification of the landings.
 - A final nail in the coffin of the Moon hoax theories is a simple instrument installed 50 years ago by Apollo 11. During their day on the Moon, Armstrong and Aldrin planted a lunar laser ranging retroreflector array on the surface. It’s still operational today, and allows us to reflect lasers off of it and measure the distance to the Moon down to the centimetre. We simply couldn’t do this if we hadn’t visited the Moon.
