@@ -110,6 +110,10 @@ Lunar Laser Ranging experiment
 
 ![LROApollo17](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Apollo_17_landing_site%2C_labeled.jpg/800px-Apollo_17_landing_site%2C_labeled.jpg)
 
+*Le site d'Apollo 11 vu par Chandrayaan-2. © Organisation indienne de recherche spatiale (Isro)*
+
+![Chandrayaan2Apollo11](https://cdn.futura-sciences.com/cdn-cgi/image/width=1520,quality=60,format=auto/sources/images/lune%20%20apollo%2011%20Chandrayaan-2_Indian%20Space%20Research%20Organisation.jpeg)
+
 *Réflecteur lunaire posé par la mission Apollo 11*
 
 ![lunarreflector](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Apollo_11_Lunar_Laser_Ranging_Experiment.jpg/1069px-Apollo_11_Lunar_Laser_Ranging_Experiment.jpg)
