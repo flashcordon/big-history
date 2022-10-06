@@ -17,6 +17,7 @@
 - [Lunar Laser Ranging experiment](https://en.wikipedia.org/wiki/Lunar_Laser_Ranging_experiment) - Wikipédia
 - [Programme Apollo](https://fr.wikipedia.org/wiki/Programme_Apollo) - Wikipédia
 - [How Moon Landing Conspiracy Theories Spread Before the Internet](https://gizmodo.com/how-moon-landing-conspiracy-theories-spread-before-the-1835483705) - Gizmodo
+- [17 juin 1972 : le jour où le scandale du Watergate a éclaté](https://www.francetvinfo.fr/culture/patrimoine/histoire/17-juin-1972-le-jour-ou-le-scandale-du-watergate-a-eclate_4011319.html) - France Info
 
 ---
 
@@ -35,7 +36,8 @@
 - Dans les années 70, Kaysing raconte avoir une intuition que les Etats Unis n'ont pas la capacité technique d'envoyer des hommes sur la Lune et de les faire revenir vivant. Il finit par s'auto-convaincre de cette idée au point de publier un livre sur le sujet en 1974 (2 ans après Apollo 17) : "Nous ne sommes jamais allé sur la Lune: l'escroquerie américaine de trente milliards de dollars", dans lequel il affirme que les images des missions Apollo ont été tournées en studio, sur Terre.
 - Comme il a déjà sa conclusion, Kaysing va se mettre à chercher des indices qui vont dans le sens de son intuition : il remarque qu'il n'y a pas d'étoiles sur les photos des missions lunaires, que le drapeau américain semble flotter alors qu'il n'y a pas d'air sur la Lune, etc etc. 
 - Les années 70 sont une époque particulière. Du coup le public américain est particulièrement réceptif à ce genre de messages.
-> * En 1972, le scandale du Watergate éclate : il s'agit du plus gros scancale politique du 20e siècle. C'est une histoire qui commence avec l'arrestation de quelques cambrioleurs dans l'immeuble du Watergate à Washington. Sauf que ce n'est pas un cambriolage comme les autres : les 5 hommes arrêtés étaient en train de chercher des documents compromettants et de placer des équipements d'espionnage dans les locaux du parti démocrate, sur les ordres de Richard Nixon, qui était le président des Etats-Unis d'alors. C'était une pratique illégale et contraire à la constitution des Etats-Unis, et la révélation de cette affaire a conduit à la démission de Nixon en 1974.
+> * Dans les années 60-70 les Etats Unis sont empêtrés dans la guerre du Vietnam, une guerre très impopulaire dans l'opinion publique américaine. Elle se termine en 1973 par le retrait des troupes américaines à la suite des accors de paix de Paris. 
+> * En 1972, le scandale du Watergate éclate : il s'agit du plus gros scancale politique du 20e siècle. C'est une histoire qui commence avec l'arrestation de quelques cambrioleurs dans l'immeuble du Watergate à Washington. Sauf que ce n'est pas un cambriolage comme les autres : les 5 hommes arrêtés étaient en train de chercher des documents compromettants et de placer des équipements d'espionnage dans les locaux du parti démocrate, sur les ordres de Richard Nixon, qui était le président des Etats-Unis d'alors. C'était une pratique d'espionnage parfaitement illégale et contraire à la constitution des Etats-Unis, et la révélation de cette affaire a conduit à la démission de Nixon en 1974.
 
 
 
