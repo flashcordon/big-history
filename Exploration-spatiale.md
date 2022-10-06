@@ -41,7 +41,8 @@
 - Ce contexte de défiance envers le gouvernement a rendu le public américain particulièrement réceptif à ce genre de messages complotistes
 > En 1976, un sondage de l'entreprise Gallup révèle que 28% des américains pensent que les Etats-Unis ont mis en scène l'atterrissage lunaire.
 - Dans les années 90, l'imaginaire américain des théories du complot est largement diffusé dans la culture populaire grâce à des séries télé comme X-Files et à des films hollywoodiens comme Capricorn One (Peter Hyams, 1978), dans lequel le gouvernement américain met en scène une fausse mission vers Mars dans un studio.
-- 
+- Dans les années 2000, l'idée du Moon Hoax revient sur le devant de la scène
+> * En 2001, aux Etats-Unis, la chaîne à large audience Fox News diffuse un documentaire sensationnaliste intitulé "Théorie du complot : a-t-on atterri sur la LUne ?" Le documentaire est présenté par Mitch Pileggi, un célèbre acteur qui joue notamment dans... X-Files. Le documentaire conclut que les missions lunaires ont été tourné dans le désert du Nevada, dans la célèbre Zone 51.
 
 
 Another one of Kaysing’s claims was that acclaimed director Stanley Kubrick was probably involved in faking the Moon landings. Kubrick’s 1968 movie 2001: A Space Odyssey included some of the most impressive special effects work that had been done to date and it helped create the theory that Kubrick had actually directed the footage we know today as the Apollo landings.
@@ -59,10 +60,7 @@ And the photos really do look like prep for a fake landing. But they’re not. T
 - there are those who think the landings were a hoax. They claim the US government faked Apollo 11 and later missions either to deal a crucial blow to the USSR in the Space Race, or to boost Nasa funding or to divert attention away from the Vietnam war.
 - The X-Files" brought all sorts of space conspiracies into the public consciousness in the 1990s and 2000s, and the rebooted version of the show addressed the moon landing in a 2018 episode. The conspiracy was also addressed in many other fictional TV shows, from "Futurama" to "Friends.
 - A recent YouGov poll found that one in six British people agreed with the statement: “The moon landings were staged.” Four per cent believed the hoax theory was “definitely true”, 12% that it was “probably true”, with a further 9% registering as don’t knows. Moon hoaxism was more prevalent among the young: 21 % of 24- to 35-year-olds agreed that the moon landings were staged, compared with 13% of over-55s.
-- the moon-hoax theory entered the modern era in 2001, when Fox News broadcast a documentary called Did We Land on the Moon? Hosted by the X-Files actor Mitch Pileggi, it repackaged Kaysing’s arguments for a new audience. 
-- On Thursday, February 15th 2001 (and replayed on March 19), the Fox TV network aired a program called ``Conspiracy Theory: Did We Land on the Moon?'', hosted by X-Files actor Mitch Pileggi. The program's conclusion was that the whole thing was faked in the Nevada desert (in Area 51, of course!). According to them, NASA did not have the technical capability of going to the Moon, but pressure due to the Cold War with the Soviet Union forced them to fake it. 
 
-- Le moon hoax surgit en plein âge d'or des théories du complot ; dans les années 1970, avec le scandale du Watergate, on se défie volontiers du gouvernement américain.
 - Certains, comme William Karel, allument des contre-feux. En 2002, le documentariste français monte un "vrai-faux documentaire", Opération Lune, qui prend à contre-pied les spectateurs en feignant dans un premier temps d'épouser la thèse du complot avant de montrer à quel point la manipulation des faits par l'image est aisée... 
 - "Les échantillons lunaires sont absolument uniques, très différents des roches terrestres, explique-t-il. En effet, ils sont criblés de petits cratères causés par des impacts de météorites. Cela ne peut arriver qu'à des pierres provenant d'une planète avec peu ou pas d'atmosphère, comme la Lune."
 
