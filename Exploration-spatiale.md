@@ -18,6 +18,7 @@
 - [Programme Apollo](https://fr.wikipedia.org/wiki/Programme_Apollo) - Wikipédia
 - [How Moon Landing Conspiracy Theories Spread Before the Internet](https://gizmodo.com/how-moon-landing-conspiracy-theories-spread-before-the-1835483705) - Gizmodo
 - [17 juin 1972 : le jour où le scandale du Watergate a éclaté](https://www.francetvinfo.fr/culture/patrimoine/histoire/17-juin-1972-le-jour-ou-le-scandale-du-watergate-a-eclate_4011319.html) - France Info
+- [« Opération Lune » : le film devenu (malgré lui) un argument conspirationniste](https://cultea.fr/operation-lune-le-film-devenu-malgre-lui-un-argument-conspirationniste.html) - Cultea
 
 ---
 
