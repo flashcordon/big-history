@@ -19,12 +19,15 @@
 ---
 
 - Entre 1969 et 1972, 6 missions Apollo ont emporté des astronautes américains vers la Lune.
-> Ils étaient envoyés par groupe de 3 par mission : un restait dans un module en orbite lunaire et les deux autres allaient gambader à la surface de la Lune.
+> * Ils étaient envoyés par groupe de 3 par mission : un restait dans un module en orbite lunaire et les deux autres allaient gambader à la surface de la Lune.
+> * En tout, 12 hommes ont foulé du pied le sol lunaire jusqu'à présent.
 - Il y a eu une 7e mission, Apollo 13, qui a échoué à atterrir sur la Lune à cause de problèmes techniques, mais l'équipage est quand même revenu sain et sauf sur Terre après un voyage autour de notre satellite.
+- Le programme Apollo a été initié par le président John F. Kennedy au début des années 60, pas dans un but scientifique mais dans un but patriotique, afin de redorer l'image des Etats-Unis, qui était alors en guerre froide contre l'Union soviétique et qui était en retard dans la course à l'espace.
+> Dans un discours célèbre, qu'il donne à l'université Rice, à Houston en 1962, il déclare : "nous avons choisi d'aller sur la Lune au cours de cette décennie et d'accomplir d'autres choses encore, non pas parce que c'est facile, mais justement parce que c'est difficile".
+- On estime que le programme Apollo a mobilisé en tout plus de 400 000 personnes et a coûté plus de 150 milliards de dollars (en valeur actuelle corrigée par l'inflation)
 - L'atterrissage de la mission Apollo 11, qui a vu les premiers pas de Neil Armstrong et de Buzz Aldrin sur la Lune, a été l'un des moments les plus marquants de l'Histoire de la télévision, puisqu'il a été vu par plus de 650 millions de personnes en direct.
 
 
-- President John F. Kennedy committed the USA to getting a man on the Moon by 1970. In a famous 1962 speech given at Rice Stadium in Texas, he portrayed space as a new frontier for exploration, appealed to the US’s patriotic pioneering legacy, and emphasised the historical urgency. The nation got behind him: over the next 10 years, billions of dollars were poured into the Apollo Program.
 - Les images de l'homme sur la Lune auraient été réalisées dans une base militaire secrète, installée dans le désert du Nevada, avec des effets spéciaux d'Hollywood, comme ceux du film 2001 : l'Odyssée de l'espace, de Stanley Kubrick - d'ailleurs soupçonné d'avoir collaboré avec la NASA. 
 - It took 400,000 Nasa employees and contractors to put Neil Armstrong and Buzz Aldrin on the moon in 1969 – but only one man to spread the idea that it was all a hoax. His name was Bill Kaysing.
 - Ces théories naquirent dans le livre "We Never Went to the Moon: America's Thirty Billion Dollar Swindle (Nous ne sommes jamais allé sur la Lune: l'escroquerie de trente milliards de dollars de l'Amérique), écrit par le libertaire Bill Kaysing.
