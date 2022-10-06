@@ -107,7 +107,25 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ![observatoirelune](https://live.staticflickr.com/2513/3951835405_ed6065ea5e_b.jpg)
 
-# QUESTION : Thomas Pesquet a pourtant dit qu’on n’était jamais allés sur la Lune dans une ITW, alors c’est bien une preuve !
+## QUESTION 1 : Pourquoi ont-ils décidé d’aller sur la Lune ? 
+
+## QUESTION 2 : Comment les hommes sont-ils parvenus à aller sur la Lune ? 
+
+## QUESTION 3 : Pourquoi certains disent qu’on n’est pas allés sur la Lune ?
+
+## QUESTION 4 : Et pourtant y’en a qui disent que le drapeau ne peut flotter sur la Lune puisqu’il n’y a pas d’air !
+
+## QUESTION 5 : On a de gros télescope sur Terre, alors pourquoi on ne voit pas le drapeau ?
+
+## QUESTION 6 : J’ai lu que l’empreinte des astronautes est trop nette comme si on marchait sur du sable mouillé. Sauf qu’il n’y a pas d’eau sur la Lune
+
+## QUESTION 7 : Il y a des radiations mortelles (Ceinture de Van Allen) dans l’espace, aucun astronaute ne peut les franchir sans mourir. Comment ils ont pu y aller alors qu’il y a des radiations mortelles dans l’espace
+
+## QUESTION 8 : Les astronautes ont capté des sons autour de la Lune, est-ce que ça veut dire qu’il y a des extraterrestres sur la Lune ?
+
+## QUESTION 9 : Thomas Pesquet a pourtant dit qu’on n’était jamais allés sur la Lune dans une ITW, alors c’est bien une preuve !
+
+## QUESTION 10 : Est-ce que toi, tu es souvent confronté à des gens qui ne croient pas que nous sommes allés sur la Lune ? C’est une minorité ? 
 
 *Sources*
 
