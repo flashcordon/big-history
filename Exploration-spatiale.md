@@ -15,16 +15,17 @@
 - [50 years after Apollo, conspiracy theorists are still howling at the ‘moon hoax’](https://www.washingtonpost.com/national/health-science/50-years-after-apollo-conspiracy-theorists-are-still-howling-at-the-moon-hoax/2019/05/23/ca5b4a3a-700e-11e9-9f06-5fc2ee80027a_story.html) - Washington Post
 - [NASA Spacecraft Images Offer Sharper Views of Apollo Landing Sites](https://www.nasa.gov/mission_pages/LRO/news/apollo-sites.html) - NASA
 - [Lunar Laser Ranging experiment](https://en.wikipedia.org/wiki/Lunar_Laser_Ranging_experiment) - Wikipédia
+- [Programme Apollo](https://fr.wikipedia.org/wiki/Programme_Apollo) - Wikipédia
 
 ---
 
 - Entre 1969 et 1972, 6 missions Apollo ont emporté des astronautes américains vers la Lune.
 > * Ils étaient envoyés par groupe de 3 par mission : un restait dans un module en orbite lunaire et les deux autres allaient gambader à la surface de la Lune.
-> * En tout, 12 hommes ont foulé du pied le sol lunaire jusqu'à présent.
+> * En tout, 12 hommes ont foulé du pied le sol lunaire jusqu'à présent. Les premiers : Neil ARmstrong et Buzz Aldrin (Apollo 11). Les derniers : Harrison Schmitt (le seul scientifique de toutes les missions Apollo) et Gene Cernan (Apollo 17).
 - Il y a eu une 7e mission, Apollo 13, qui a échoué à atterrir sur la Lune à cause de problèmes techniques, mais l'équipage est quand même revenu sain et sauf sur Terre après un voyage autour de notre satellite.
 - Le programme Apollo a été initié par le président John F. Kennedy au début des années 60, pas dans un but scientifique mais dans un but patriotique, afin de redorer l'image des Etats-Unis, qui était alors en guerre froide contre l'Union soviétique et qui était en retard dans la course à l'espace.
 > Dans un discours célèbre, qu'il donne à l'université Rice, à Houston en 1962, il déclare : "nous avons choisi d'aller sur la Lune au cours de cette décennie et d'accomplir d'autres choses encore, non pas parce que c'est facile, mais justement parce que c'est difficile".
-- On estime que le programme Apollo a mobilisé en tout plus de 400 000 personnes et a coûté plus de 150 milliards de dollars (en valeur actuelle corrigée par l'inflation)
+- On estime que le programme Apollo a mobilisé en tout plus de 400 000 personnes (employés de la NASA + entrepreneurs) et a coûté plus de 150 milliards de dollars (en valeur actuelle corrigée par l'inflation)
 - L'atterrissage de la mission Apollo 11, qui a vu les premiers pas de Neil Armstrong et de Buzz Aldrin sur la Lune, a été l'un des moments les plus marquants de l'Histoire de la télévision, puisqu'il a été vu par plus de 650 millions de personnes en direct.
 
 
