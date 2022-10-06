@@ -36,6 +36,22 @@
 - Comme il a déjà sa conclusion, Kaysing va se mettre à chercher des indices qui vont dans le sens de son intuition : il remarque qu'il n'y a pas d'étoiles sur les photos des missions lunaires, que le drapeau américain semble flotter alors qu'il n'y a pas d'air sur la Lune, etc etc. 
 - Les années 70 sont une époque particulière. Du coup le public américain est particulièrement réceptif à ce genre de messages.
 
+
+
+Americans of the late 1960s and early 1970s were already living through one of the most disheartening eras of the 20th century, with everything from the Vietnam War to the corruption of Watergate leading the average person to distrust anything their government might be telling them.
+
+The Knight newspaper company in found that a whopping 30 percent of Americans believed the Moon landing had been faked. And a Gallup poll in 1976 found that 28 percent of Americans believed that the Moon landing had been staged by the U.S. government—pretty consistent findings throughout the 1970s.
+
+Another one of Kaysing’s claims was that acclaimed director Stanley Kubrick was probably involved in faking the Moon landings. Kubrick’s 1968 movie 2001: A Space Odyssey included some of the most impressive special effects work that had been done to date and it helped create the theory that Kubrick had actually directed the footage we know today as the Apollo landings.
+
+“While ‘2001’ was being filmed, Kubrick and his crew consulted with nearly 70 industrial and aerospace corporations, universities, observatories, weather bureaus, laboratories and other institutions to ensure that the film would be technically accurate,” Kaysing wrote. “Had this been done for ASP without the cover of ‘2001’, much suspicion would have been directed towards those making the inquires.”
+
+What’s ASP? According to Kaysing, that stands for the “Apollo Simulation Project.” In fact, Kaysing even points to the ballooning budget of the film as more evidence that Kubrick was in on the moon hoax, insinuating that the director was paid by NASA to stage a cover-up.
+
+Another piece of “evidence” that Kaysing spends considerable time on throughout the book is the fact that the practice sessions that astronauts conducted look like a fake Moon landing. Admittedly, I made the same joke back in 2014 before I had even heard of Kaysing’s book.
+
+And the photos really do look like prep for a fake landing. But they’re not. They’re just training. Obviously these photos have stuck around and are used on the internet as “evidence” even today.
+
 - Les images de l'homme sur la Lune auraient été réalisées dans une base militaire secrète, installée dans le désert du Nevada, avec des effets spéciaux d'Hollywood, comme ceux du film 2001 : l'Odyssée de l'espace, de Stanley Kubrick - d'ailleurs soupçonné d'avoir collaboré avec la NASA. 
 
 - there are those who think the landings were a hoax. They claim the US government faked Apollo 11 and later missions either to deal a crucial blow to the USSR in the Space Race, or to boost Nasa funding or to divert attention away from the Vietnam war.
