@@ -107,6 +107,17 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ![observatoirelune](https://live.staticflickr.com/2513/3951835405_ed6065ea5e_b.jpg)
 
+# QUESTION : Thomas Pesquet a pourtant dit qu’on n’était jamais allés sur la Lune dans une ITW, alors c’est bien une preuve !
+
+*Sources*
+
+- [Thomas Pesquet et complot lunaire - Désintox - ARTE](https://youtu.be/6n0HmoYE-wc) - ARTE
+- [Tweets de Thomas Pesquet à propos de l'interview](https://twitter.com/Thom_astro/status/1564977547028451335)
+
+---
+
+- 
+
 # Le corps humain dans l’espace
 
 *Sources* 
