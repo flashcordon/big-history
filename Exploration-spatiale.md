@@ -21,6 +21,7 @@
 - [« Opération Lune » : le film devenu (malgré lui) un argument conspirationniste](https://cultea.fr/operation-lune-le-film-devenu-malgre-lui-un-argument-conspirationniste.html) - Cultea
 - [NASA releases 19,000 hours of audio from historic Apollo 11 mission](https://www.nbcnews.com/mach/science/nasa-releases-19-000-hours-audio-historic-apollo-11-mission-ncna903721) - NBC News
 - [Apollo Mission Flight Photographs](https://apollospace.com/images/) - Apollo Space
+- [Third-party evidence for Apollo Moon landings](https://en.wikipedia.org/wiki/Third-party_evidence_for_Apollo_Moon_landings) - Wikipédia
 
 ---
 
