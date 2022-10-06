@@ -144,8 +144,6 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ## QUESTION 9 : Thomas Pesquet a pourtant dit qu’on n’était jamais allés sur la Lune dans une ITW, alors c’est bien une preuve !
 
-## QUESTION 10 : Est-ce que toi, tu es souvent confronté à des gens qui ne croient pas que nous sommes allés sur la Lune ? C’est une minorité ? 
-
 *Sources*
 
 - [Thomas Pesquet et complot lunaire - Désintox - ARTE](https://youtu.be/6n0HmoYE-wc) - ARTE
@@ -154,6 +152,9 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 ---
 
 - 
+
+## QUESTION 10 : Est-ce que toi, tu es souvent confronté à des gens qui ne croient pas que nous sommes allés sur la Lune ? C’est une minorité ? 
+
 
 # Le corps humain dans l’espace
 
