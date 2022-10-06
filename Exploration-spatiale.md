@@ -119,6 +119,12 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ## QUESTION 6 : J’ai lu que l’empreinte des astronautes est trop nette comme si on marchait sur du sable mouillé. Sauf qu’il n’y a pas d’eau sur la Lune
 
+*Sources *
+
+- [Mythbusters Moon Hoax Footprint](https://youtu.be/eTYCz4ft8yw) - Mythbusters
+
+--- 
+
 ## QUESTION 7 : Il y a des radiations mortelles (Ceinture de Van Allen) dans l’espace, aucun astronaute ne peut les franchir sans mourir. Comment ils ont pu y aller alors qu’il y a des radiations mortelles dans l’espace
 
 ## QUESTION 8 : Les astronautes ont capté des sons autour de la Lune, est-ce que ça veut dire qu’il y a des extraterrestres sur la Lune ?
