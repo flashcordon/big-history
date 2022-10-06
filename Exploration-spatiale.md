@@ -62,14 +62,12 @@
 
 - CLAIM The moon landing was faked on a movie set. Proof there are clearly two sources of light in the movies and stills taken on the moon. Since there is only one source of light in the sky (the sun) how can we explain the fact that even in shadows there is obvious "fill" light that illuminates various objects that, back lit from the sun, should be in near total darkness. 
 - ANSWER Even granting that NASA's rocket scientists were too dumb to have thought of this and thus tipped their conspiracy hand to the no-moonies who, apparently, are smarter than rocket scientists, there were actually three sources of light on the moon the sun, the earth that reflects the sun's light, and the moon itself, also reflecting light. The albedo (reflectivity) of the earth is quite high because of the amount of clouds, so the sun acted as the light filler via the earth. And the moon was, to say the least, rather close, and also reflected light. The lunar dust has a peculiar property: it tends to reflect light back in the direction from where it came. So if you were to stand on the Moon and shine a flashlight at the surface, you would see a very bright spot where the light hits the ground, but, oddly, someone standing a bit to the side would hardly see it at all. The light is preferentially reflected back toward the flashlight (and therefore you), and not the person on the side.  Now think about the sunlight. Let's say the sun is off to the right in a picture. It is illuminating the right side of the lander, and the left is in shadow. However, the sunlight falling beyond the lander on the left is being reflected back toward the Sun. That light hits the surface and reflects to the right and up, directly onto the shadowed part of the lander. In other words, the lunar surface is so bright that it easily lights up the shadows of vertical surfaces This effect is called heiligenschein (the German word for halo). You can find some neat images of it at here, for example. This also explains another HB claim, that many times the astronauts appear to be standing in a spotlight. This is a natural effect of heiligenschein. You can reproduce this effect yourself; wet grass on a cool morning will do it. Face away from the Sun and look at the shadow of your head. There will be a halo around it. The effect is also very strong in fine, disturbed dust like that in a baseball diamond infield. Or, of course, on the Moon. 
-- CLAIM The American flag was "waving" in the allegedly airless environment of the moon. How can this be? Proof film footage showing the astronauts planting the flag, with the flag clearly waving.
-- ANSWER Of course the flag was "waving" while the astronaut was fiddling with it back and forth as he jammed it into the hole. But the moment he let go of the flag, it mysteriously stopped waving. 
+
 - CLAIM There was no blast crater beneath the LEM lander. Proof photographs of the LEM with no blast crater and a NASA painting made before the first landing, showing what a NASA artist thought might happen when the LEM landed (big blast crater).
 - ANSWER (1) The LEM engine was variable--the astronauts could control the thrust and, of course, as they eased their way down to the surface they throttled back on the engine. (2) There was only a couple of inches of moon dust on the surface, beneath which was a solid surface that would not be effected by the blast of the LEM engine.
 - CLAIM : There are no stars in the moon sky, yet when you look up at night from earth you see lots of stars. 
 - ANSWER : since it is very bright on the moon (no air to scatter the sunlight) and the astronauts were wearing white space suits, the camera F-stop would have been set way down, and the shutter speed quite fast. Stars are too faint to appear on the film emulsion. 
-- CLAIM The Van Allen radiation belts surrounding the Earth would have fried the astronauts with a lethal dose of radiation.
-- ANSWER Wrong. If you blast right through the Van Allen belts it is no problem, which is what the Apollo astronauts did. X-rays would be lethal too, if you sat there soaking in them long enough. A very real problem, however, are cosmic rays. They are not a problem on a short flight like to the moon, but in long flights that might last years, like to Mars, they could be a serious problem. 
+
 - why are there no stars in the sky in Apollo pictures of the lunar surface? (The reason is the cameras had fast exposure times and the stars were too faint to show.
 -  The Moon's surface is airless. On Earth, our thick atmosphere scatters sunlight, spreading it out over the whole sky. That's why the sky is bright during the day. Without sunlight, the air is dark at night, allowing us to see stars.
 
@@ -115,6 +113,9 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ## QUESTION 4 : Et pourtant y’en a qui disent que le drapeau ne peut flotter sur la Lune puisqu’il n’y a pas d’air !
 
+- CLAIM The American flag was "waving" in the allegedly airless environment of the moon. How can this be? Proof film footage showing the astronauts planting the flag, with the flag clearly waving.
+- ANSWER Of course the flag was "waving" while the astronaut was fiddling with it back and forth as he jammed it into the hole. But the moment he let go of the flag, it mysteriously stopped waving. 
+
 ## QUESTION 5 : On a de gros télescope sur Terre, alors pourquoi on ne voit pas le drapeau ?
 
 ## QUESTION 6 : J’ai lu que l’empreinte des astronautes est trop nette comme si on marchait sur du sable mouillé. Sauf qu’il n’y a pas d’eau sur la Lune
@@ -127,7 +128,19 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ## QUESTION 7 : Il y a des radiations mortelles (Ceinture de Van Allen) dans l’espace, aucun astronaute ne peut les franchir sans mourir. Comment ils ont pu y aller alors qu’il y a des radiations mortelles dans l’espace
 
+- CLAIM The Van Allen radiation belts surrounding the Earth would have fried the astronauts with a lethal dose of radiation.
+- ANSWER Wrong. If you blast right through the Van Allen belts it is no problem, which is what the Apollo astronauts did. X-rays would be lethal too, if you sat there soaking in them long enough. A very real problem, however, are cosmic rays. They are not a problem on a short flight like to the moon, but in long flights that might last years, like to Mars, they could be a serious problem. 
+
 ## QUESTION 8 : Les astronautes ont capté des sons autour de la Lune, est-ce que ça veut dire qu’il y a des extraterrestres sur la Lune ?
+
+*Sources*
+
+- [NASA releases strange 'music' heard by 1969 astronauts](https://phys.org/news/2016-02-nasa-strange-music-heard-astronauts.html) - Physorg
+
+---
+
+#Apollo10 audio & transcripts were not classified, just no way to get them to the public before the internet. 
+
 
 ## QUESTION 9 : Thomas Pesquet a pourtant dit qu’on n’était jamais allés sur la Lune dans une ITW, alors c’est bien une preuve !
 
