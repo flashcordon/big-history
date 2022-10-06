@@ -38,9 +38,9 @@
 - Les années 70 sont une époque particulière, caractérisée par une grande défiance du public américain envers le gouvernement. 
 > * Dans les années 60-70 les Etats Unis sont empêtrés dans la guerre du Vietnam, une guerre très impopulaire dans l'opinion publique américaine. Le gouvernement américain s'est alors lancé dans une vaste entreprise de propagande à grande échelle pour montrer le conflit au Vietnam sous un jour positif et financer massivement des films de guerre. Elle se termine en 1973 par le retrait des troupes américaines à la suite des accords de paix de Paris. 
 > * En 1972, le scandale du Watergate éclate : il s'agit du plus gros scancale politique du 20e siècle. C'est une histoire qui commence avec l'arrestation de quelques cambrioleurs dans l'immeuble du Watergate à Washington. Sauf que ce n'est pas un cambriolage comme les autres : les 5 hommes arrêtés étaient en train de chercher des documents compromettants et de placer des équipements d'espionnage dans les locaux du parti démocrate, sur les ordres de Richard Nixon, qui était le président des Etats-Unis d'alors. C'était une pratique d'espionnage parfaitement illégale et contraire à la constitution des Etats-Unis, et la révélation de cette affaire a conduit à la démission de Nixon en 1974.
-- Ce contexte de défiance a rendu le public américain particulièrement réceptif à ce genre de messages complotistes
+- Ce contexte de défiance envers le gouvernement a rendu le public américain particulièrement réceptif à ce genre de messages complotistes
 > En 1976, un sondage de l'entreprise Gallup révèle que 28% des américains pensent que les Etats-Unis ont mis en scène l'atterrissage lunaire.
-
+- 
 
 Another one of Kaysing’s claims was that acclaimed director Stanley Kubrick was probably involved in faking the Moon landings. Kubrick’s 1968 movie 2001: A Space Odyssey included some of the most impressive special effects work that had been done to date and it helped create the theory that Kubrick had actually directed the footage we know today as the Apollo landings.
 
