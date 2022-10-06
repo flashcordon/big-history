@@ -16,6 +16,7 @@
 - [NASA Spacecraft Images Offer Sharper Views of Apollo Landing Sites](https://www.nasa.gov/mission_pages/LRO/news/apollo-sites.html) - NASA
 - [Lunar Laser Ranging experiment](https://en.wikipedia.org/wiki/Lunar_Laser_Ranging_experiment) - Wikipédia
 - [Programme Apollo](https://fr.wikipedia.org/wiki/Programme_Apollo) - Wikipédia
+- [How Moon Landing Conspiracy Theories Spread Before the Internet](https://gizmodo.com/how-moon-landing-conspiracy-theories-spread-before-the-1835483705) - Gizmodo
 
 ---
 
