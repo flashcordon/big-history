@@ -24,6 +24,10 @@
 - [Third-party evidence for Apollo Moon landings](https://en.wikipedia.org/wiki/Third-party_evidence_for_Apollo_Moon_landings) - Wikipédia
 - [List of retroreflectors on the Moon](https://en.wikipedia.org/wiki/List_of_retroreflectors_on_the_Moon) - Wikipédia
 - [On n'a pas dansé sur la Lune](https://youtu.be/BrEtgFHVvkY) - Defakator
+- https://www.rmg.co.uk/stories/topics/moon-landing-conspiracy-theories-debunked
+- https://www.forbes.com/sites/kionasmith/2019/07/20/how-apollo-11-raised-the-flag-on-the-moon-and-what-it-means-today/?sh=a965d946f9ec
+- https://earthsky.org/space/planting-flag-on-moon-apollo11/
+- https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/flag/flag.htm
 
 ---
 
@@ -116,6 +120,26 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 - CLAIM The American flag was "waving" in the allegedly airless environment of the moon. How can this be? Proof film footage showing the astronauts planting the flag, with the flag clearly waving.
 - ANSWER Of course the flag was "waving" while the astronaut was fiddling with it back and forth as he jammed it into the hole. But the moment he let go of the flag, it mysteriously stopped waving. 
+
+The American flag that Neil Armstrong and “Buzz” Aldrin planted on the moon in 1969 appeared to be blowing in the wind. Conspiracy theorists claim this is proof that the whole thing was staged — because there’s no wind on the moon.
+
+The real story? A horizontal rod had been inserted through a hem at the top of the flag, but the astronauts had trouble pulling the telescoping rod all the way out, leading to that rippling effect. In other words, it was an engineering blunder.
+
+Look again at the image, and in particular along the top edge of the flag, and you will find the answer. A telescopic pole has been extended along the top in order to make the flag fly proudly (yes, NASA really did think of everything).
+
+"Because it’s been set up like this, it appears to be waving in the wind," Ojha explains. "All the wrinkles are there because it’s literally been screwed up for four days en route to the Moon."
+
+The flagpole in those iconic pictures is a clever piece of last-minute engineering, designed to solve two important lunar flag-display problems. First, Apollo 11 (like every other spacecraft in human history) had very little room to spare, and very little available mass to allocate to frivolous things like flagpoles, so the flagpole had to be light and compact. Second, the flag had to look good on camera; with no wind to make it wave, engineers worried that the flag would just droop unimpressively. By the time NASA decided that it wanted Armstrong and Aldrin to plant an American flag on the Moon, NASA engineer Jack Kinzler had just three months to design and build a flagpole that would solve those problems.
+
+To make sure to the flag was properly photogenic and not disappointingly droopy, Kinzler decided to hang its top edge from a horizontal crossbar, which folded out from the top of the flagpole and locked into place. He hemmed the top edge of the flag into a sleeve that would slide over the crossbar, exactly the way a curtain slides onto a curtain rod. The lower corner of the flag would also connect to the flagpole.
+
+For one thing, the flag had just spent the last three days packed tightly in an insulated steel tube attached to the lunar module's ladder, so it arrived at Tranquility Base looking pretty wrinkled. And somehow nobody thought to bring an ironing board to the Moon. "It was kind of a last-minute add-on, and I think that's why they picked that location," said Platoff. The insulated steel case had to protect the flag from the heat of the lunar module's engines, whose exhaust gases could burn as hot as 2,000°F (1,093°C) during landing.
+
+And if the astronauts didn't get the crossbar fully extended (not as easy as it sounds, for people wearing spacesuits and heavy gloves), the flag wouldn't hang perfectly straight, causing the fabric to bunch up in places and heighten the illusion of rippling in a nonexistent lunar breeze.
+
+Maquette avec paille
+
+And the remaining three to five American flags on the Moon may or may not still be recognizable as the Stars and Stripes. The government-issue nylon flags weren't made to stand up to unfiltered UV radiation, micrometeorites, and other "space weathering," and many scientists and engineers over the years have speculated the flags, if they're not tattered to shreds from regolith and micrometeors, are probably bleached white or gray by now. The same is likely true of the Soviet flag on the other side of the Moon.
 
 ## QUESTION 5 : On a de gros télescope sur Terre, alors pourquoi on ne voit pas le drapeau ?
 
