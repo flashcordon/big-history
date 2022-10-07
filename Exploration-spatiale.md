@@ -34,6 +34,8 @@
 - https://www.askamathematician.com/2015/12/q-why-cant-we-see-the-lunar-landers-from-the-apollo-missions-with-the-hubble-or-any-other-telescope/ 
 - http://curious.astro.cornell.edu/about-us/45-our-solar-system/the-moon/the-moon-landings/122-are-there-telescopes-that-can-see-the-flag-and-lunar-rover-on-the-moon-beginner
 - https://www.discovermagazine.com/the-sciences/moon-hoax-why-not-use-telescopes-to-look-at-the-landers
+- https://qz.com/621972/listen-to-the-declassified-creepy-space-music-nasa-astronauts-heard-orbiting-the-far-side-of-the-moon/
+- http://edition.cnn.com/2016/02/21/world/far-side-moon-music/
 
 ---
 
@@ -270,6 +272,25 @@ We were indeed lucky that the August 1972 event happened between the last two Ap
 
 #Apollo10 audio & transcripts were not classified, just no way to get them to the public before the internet. 
 
+“Boy, that sure is weird music.”
+
+“We’re going to have to find out about that. Nobody will believe us.”
+
+“Yes. It’s a whistling, you know, like an outer-space-type thing.”
+
+In 1969, the Apollo 10 astronauts orbited the moon as a test-run for the Apollo 11 moon landing two months later. While they flew around the far side of the moon—which put them out of radio contact with Earth for roughly an hour—they heard some strange sounds that they could not immediately identify.
+
+The entire transcript of their conversation was released from NASA’s archives in 2008, but the actual recording of the noise was kept under wraps—until now.
+
+ Two months after Apollo 10 heard the sounds, Michael Collins, the Apollo 11 astronaut who stayed in the moon’s orbit while Neil Armstrong and Buzz Aldrin touched down on its surface, heard them too. In his book Carrying the Fire: An Astronauts Journeys, he writes that NASA radio technicians told him beforehand the sounds were the result of interference between the radio in the Lunar Module and the one in the Command Module.
+ 
+ A NASA technician on the TV show supports Cernan’s assessment that the “radios in the two spacecraft [the lunar module and the command module] were interfering with each other.” 
+ 
+ radio technicians (rather than the UFO fans) had a ready explanation for it: it was interference between the LM’s and Command Module’s VHF radios.” 
+ 
+ Collins explained that the noise began when the radios in the two vehicles were both turned on and in close proximity to each other. 
+ 
+ Unlike Apollo 10, the Apollo 11 lunar module did land on the moon’s service, after which the “woo-woo” noises stopped. 
 
 ## QUESTION 9 : Thomas Pesquet a pourtant dit qu’on n’était jamais allés sur la Lune dans une ITW, alors c’est bien une preuve !
 
