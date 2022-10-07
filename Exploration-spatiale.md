@@ -141,7 +141,15 @@ Maquette avec paille
 
 And the remaining three to five American flags on the Moon may or may not still be recognizable as the Stars and Stripes. The government-issue nylon flags weren't made to stand up to unfiltered UV radiation, micrometeorites, and other "space weathering," and many scientists and engineers over the years have speculated the flags, if they're not tattered to shreds from regolith and micrometeors, are probably bleached white or gray by now. The same is likely true of the Soviet flag on the other side of the Moon.
 
+This flag-raising was strictly a symbolic activity, as the United Nations Treaty on Outer Space precluded any territorial claim. Nevertheless, there were domestic and international debates over the appropriateness of the event. 
+
+They designed a flagpole with a horizontal bar allowing the flag to "fly" without the benefit of wind to overcome the effects of the moon's lack of an atmosphere. O
+
+
+
 ## QUESTION 5 : On a de gros télescope sur Terre, alors pourquoi on ne voit pas le drapeau ?
+
+- Sur Terre, nos télescopes sont limités en précision par les mouvements d'air de l'atmosphère, ça floute un peu les images
 
 ## QUESTION 6 : J’ai lu que l’empreinte des astronautes est trop nette comme si on marchait sur du sable mouillé. Sauf qu’il n’y a pas d’eau sur la Lune
 
