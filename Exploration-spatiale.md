@@ -28,6 +28,7 @@
 - https://www.forbes.com/sites/kionasmith/2019/07/20/how-apollo-11-raised-the-flag-on-the-moon-and-what-it-means-today/?sh=a965d946f9ec
 - https://earthsky.org/space/planting-flag-on-moon-apollo11/
 - https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/flag/flag.htm
+- https://www.nasa.gov/sites/default/files/files/SMIII_Problem7.pdf
 
 ---
 
@@ -145,7 +146,9 @@ This flag-raising was strictly a symbolic activity, as the United Nations Treaty
 
 They designed a flagpole with a horizontal bar allowing the flag to "fly" without the benefit of wind to overcome the effects of the moon's lack of an atmosphere. O
 
+    A lunar flagpole has three parts. There are two vertical sections, and then the horizontal crossbar that’s hinged at the top of the upper vertical section. To deploy the flag, one astronaut used a sampling hammer to pound the lower vertical section into the ground. The other astronaut extended the telescoping crossbar and raised it to a 90-degree angle with the vertical section to click it into place. Then the two astronauts slid the upper part of the pole into the lower one.
 
+    Once they got the flag up, several factors made it look as though it was flying. First there were wrinkles in it because of how tightly it was packed. And these add to the illusion that the flag is waving. Also, the astronauts didn’t always get the horizontal crossbar extended all the way – they were working in pressurized spacesuits and really cumbersome gloves, after all – which caused the flag to bunch up in places. That also made it look like it’s waving.
 
 ## QUESTION 5 : On a de gros télescope sur Terre, alors pourquoi on ne voit pas le drapeau ?
 
@@ -163,6 +166,52 @@ They designed a flagpole with a horizontal bar allowing the flag to "fly" withou
 
 - CLAIM The Van Allen radiation belts surrounding the Earth would have fried the astronauts with a lethal dose of radiation.
 - ANSWER Wrong. If you blast right through the Van Allen belts it is no problem, which is what the Apollo astronauts did. X-rays would be lethal too, if you sat there soaking in them long enough. A very real problem, however, are cosmic rays. They are not a problem on a short flight like to the moon, but in long flights that might last years, like to Mars, they could be a serious problem. 
+
+"These are regions surrounding the Earth in our magnetic field where high energy trapped particles from the Sun tend to get confined," Prof Ojha says. "What that means is if you are going into these regions, there are extremely high radiation concerns."
+
+"If you’ve ever done firewalking, you’ll know the one thing you don’t do is linger around in the middle of the firepit. You cross as quickly as you can. From a science point of view, as long as you walk across quite quickly, looking at the thermal conductivity of your feet, you are not going to have enough thermal energy going into the soles of your feet to burn you. You’re absolutely fine. Just don’t hang around in the middle!
+
+"In a similar way, the transit time through the Van Allen radiation belt right at the beginning of the Apollo voyages was incredibly short. Travelling through the Van Allen radiation belt if you are going fast enough – which you need to be if you’re going to the Moon – is no problem whatsoever."
+
+In 1958, Dr. James Van Allen discovered a collection of
+high-energy particle clouds within 40,000 km of Earth.
+Arranged like two nested donuts, the inner belt is
+mainly energetic protons, while the outer belts contain
+both protons and electrons. These belts have long
+been known as 'bad news' for satellites and astronauts,
+with potentially deadly consequences if you spend too
+much time within them. 
+
+The
+Inner van Allen Belt is located at about 1.6
+Re. The Outer van Allen Belt is located at
+about 4.0 Re. At a distance of 2.2 Re,
+there is a 'gap' region in between these
+belts. Satellites such as the Global
+Positioning System (GPS) orbit in this gap
+region where radiation effects are
+minimum.
+
+According to the US Occupation Safety and Health Agency
+(OSHA) a lethal radiation dosage is 300 Rads in one hour. 
+
+The total dosage for the trip is only 16 Rads in 68.1 minutes. Because 68.1 minutes is equal to 1.13
+hours, his is equal to a dosage of 16 Rads / 1.13 hours = 14.0 Rads in one hour, which is well below
+the 300 Rads in one hour that is considered to be lethal. Also, this radiation exposure would be for an
+astronaut outside the spacecraft during the transit through the belts. The radiation shielding inside the
+spacecraft cuts down the 14 Rads/hour exposure so that it is completely harmless.
+
+These belts are the result of Earth’s magnetic field working like a magnetic trap – or an accelerator – confining the particles of the solar (mostly) wind, and sometimes accelerating them on their orbits within the belts to nearly the speed of light.
+
+These belts are shaped like two nested doughnuts. Their sizes change depending on solar activity and, sometimes, on how we model them. The inner belt starts at an altitude of 600-1,600 km, according to different sources, and extends till 9,600-13,000 km. The range of the outer belt varies similarly: from 13,500-19,000 km to about 40,000 km.
+
+There is a gap between these belts called the slot region, which is generally devoid of energetic particles. Sometimes, a third, transient appears in this region. Geosynchronous communications satellites orbit just inside the outer edge of the outer radiation belt, and the low-Earth orbit (LEO), where the International Space Station and the Hubble space telescope are, is just below the inner edge of the inner belt.
+
+The electrons in the outer belt can move into the slot region only when the Sun produces a strong solar storm or a coronal mass ejection. When they do that, the third belt appears.
+
+*La trajectoire translunaire d'Apollo 11*
+
+![valallen](https://cdn.thewire.in/wp-content/uploads/2019/06/08203442/Apollo-11_flight-path.gif)
 
 ## QUESTION 8 : Les astronautes ont capté des sons autour de la Lune, est-ce que ça veut dire qu’il y a des extraterrestres sur la Lune ?
 
