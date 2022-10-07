@@ -31,6 +31,9 @@
 - https://www.nasa.gov/sites/default/files/files/SMIII_Problem7.pdf
 - https://science.thewire.in/the-sciences/apollo-11-van-allen-radiation-belts-translunar-injection/
 - https://youtu.be/bLtgS2_qxJk
+- https://www.askamathematician.com/2015/12/q-why-cant-we-see-the-lunar-landers-from-the-apollo-missions-with-the-hubble-or-any-other-telescope/ 
+- http://curious.astro.cornell.edu/about-us/45-our-solar-system/the-moon/the-moon-landings/122-are-there-telescopes-that-can-see-the-flag-and-lunar-rover-on-the-moon-beginner
+- https://www.discovermagazine.com/the-sciences/moon-hoax-why-not-use-telescopes-to-look-at-the-landers
 
 ---
 
@@ -155,6 +158,24 @@ They designed a flagpole with a horizontal bar allowing the flag to "fly" withou
 ## QUESTION 5 : On a de gros télescope sur Terre, alors pourquoi on ne voit pas le drapeau ?
 
 - Sur Terre, nos télescopes sont limités en précision par les mouvements d'air de l'atmosphère, ça floute un peu les images
+
+Hubble’s resolution on the Moon is about 200 meters! In other words, even a football stadium on the Moon would look like a dot to Hubble.
+
+The lunar landers are each about 4 meters across and about 384,400,000 meters away, which makes them about as hard to see as a single coin from a thousand miles away. 
+
+The “resolving power” of a telescope, is described in terms of whether or not you can tell the difference between a pair of adjacent points.  If the two points are too close together, then you’ll see them blurred together as one point and they are “not resolved”.  If they’re far enough apart, then you see both points independently.
+
+The lunar landers are a little over 4 meters across (seen from above) and are about 384,403,000 meters away.  That means that the landers subtend an angle of about 0.002 arcseconds.  In order to see this from Earth, we’d need a telescope that is, at absolute minimum, about 200 meters across.  If we wanted the image to be a more than a single pixel, then we’d need a mirror that’s a few miles across.
+
+ The flag is 125 cm (4 feet) long, and you would need an optical wavelength telescope around 200 meters (~650 feet) in diameter to see it. The largest optical wavelength telescope that we have now is the Keck Telescope in Hawaii which is 10 meters in diameter. The Hubble Space Telescope is only 2.4 meters in diameter - much too small!
+ 
+  If you look at this HST image of the Moon you can see that they say "Hubble can resolve features as small as 280 feet across." I think they used 500 nm as their wavelength instead of 600 nm, but it's the same order of magnitude as what we got here. So there's no way HST can see anything humans left behind. 
+  
+But in 2009 NASA launched the Lunar Reconnaissance Orbiter (LRO) probe to orbit the Moon, study the landscape in detail, and characterize the environment (mostly focused on checking for radiation, with which future astronauts would have to contend).
+
+In addition to carrying out this scientific mission, LRO was able to take images of the Apollo landing sites (for the Apollo 11, 12, 14, 15, 16, and 17 missions) and could identify the flags and other equipment.
+
+the Lunar Reconnaissance Orbiter to the Moon, and it will be able to resolve objects as small as 0.5 meters across (it’s far smaller than Hubble, but it’ll be a lot closer to the Moon). It will easily resolve the landers, and even the rovers.
 
 ## QUESTION 6 : J’ai lu que l’empreinte des astronautes est trop nette comme si on marchait sur du sable mouillé. Sauf qu’il n’y a pas d’eau sur la Lune
 
