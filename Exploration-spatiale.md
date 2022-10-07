@@ -23,6 +23,7 @@
 - [Apollo Mission Flight Photographs](https://apollospace.com/images/) - Apollo Space
 - [Third-party evidence for Apollo Moon landings](https://en.wikipedia.org/wiki/Third-party_evidence_for_Apollo_Moon_landings) - Wikipédia
 - [List of retroreflectors on the Moon](https://en.wikipedia.org/wiki/List_of_retroreflectors_on_the_Moon) - Wikipédia
+- [On n'a pas dansé sur la Lune](https://youtu.be/BrEtgFHVvkY) - Defakator
 
 ---
 
