@@ -29,6 +29,8 @@
 - https://earthsky.org/space/planting-flag-on-moon-apollo11/
 - https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/flag/flag.htm
 - https://www.nasa.gov/sites/default/files/files/SMIII_Problem7.pdf
+- https://science.thewire.in/the-sciences/apollo-11-van-allen-radiation-belts-translunar-injection/
+- https://youtu.be/bLtgS2_qxJk
 
 ---
 
@@ -208,6 +210,24 @@ These belts are shaped like two nested doughnuts. Their sizes change depending o
 There is a gap between these belts called the slot region, which is generally devoid of energetic particles. Sometimes, a third, transient appears in this region. Geosynchronous communications satellites orbit just inside the outer edge of the outer radiation belt, and the low-Earth orbit (LEO), where the International Space Station and the Hubble space telescope are, is just below the inner edge of the inner belt.
 
 The electrons in the outer belt can move into the slot region only when the Sun produces a strong solar storm or a coronal mass ejection. When they do that, the third belt appears.
+
+Selon des tests effectués par la NASA à la suite du retour des équipages les ayant traversées, quelques heures à l’intérieur équivaut à près d’un dixième de l’exposition annuelle tolérée pour les employés des centrales nucléaires.
+
+Apollo 11 bypassed the inner belt and only passed through the weaker part of the outer belt
+
+Apollo 11’s flight path avoided areas with the highest flux. The Earth parking orbit is under the inner radiation belt; it traversed the inner zone of the outer belt in about 30 minutes and through the most energetic region in about 10 minutes. On its way back, its trajectory was optimised such that Apollo 11 would steer clear of the belts as much as possible. It approached Earth from the south and was travelling at an even greater inclination and velocity than it had been on its way to the Moon. The astronauts were inside the fringes of the radiation belts for only about 60 minutes.
+
+Based on data from the twin Van Allen Probes NASA launched in 2012, scientists found that the inner belt is made up typically of high-energy protons and low-energy electrons. They also found that the radiation here was much weaker than what they’d assumed it to be. The most dangerous highly relativistic electrons (with energies of 0.7-1.5 MeV) couldn’t penetrate the slot region. Rather, they could but only rarely, such as when they were helped along by two severe solar storms in 2015.
+
+NASA currently admits it overestimated the level of danger in the low and medium Earth orbits
+
+It remains possible for astronauts to be affected by solar storms. For example, if any of them had been travelling to the Moon during the solar event of August 1972, they would have been exposed to life-threatening amounts of radiation.
+
+The Apollo 11 crew had received 0.18 rem each on average (‘rem’ stands for ‘roentgen equivalent man’). To compare, one CT scan delivers about 1 rem. To kill an adult human, you’d have to deliver 300 rem or more in a very short span of time, but if it is spread over weeks or even days, there will be few effects. About 50 rem delivered at once will cause radiation sickness.
+
+Even if there had been a solar storm when Neil Armstrong and Edwin “Buzz” Aldrin, Jr. were on the Moon, they could have been protected by the Apollo command module: it was built to attenuate 400 rem on the outside to less than 35 rem on the inside.
+
+We were indeed lucky that the August 1972 event happened between the last two Apollo flights: Apollo 16 had returned in April and Apollo 17 set off to the Moon in December. No major solar particle events have occurred during the Apollo 8 or 11 missions.
 
 *La trajectoire translunaire d'Apollo 11*
 
