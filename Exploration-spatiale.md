@@ -229,9 +229,13 @@ Even if there had been a solar storm when Neil Armstrong and Edwin “Buzz” Al
 
 We were indeed lucky that the August 1972 event happened between the last two Apollo flights: Apollo 16 had returned in April and Apollo 17 set off to the Moon in December. No major solar particle events have occurred during the Apollo 8 or 11 missions.
 
+*Ceinture(s) de Van Allen (Crédit : NASA's Goddard Space Flight Center/John’s Hopkins University, Applied Physics Laboratory )*
+
+![vanallen](https://svs.gsfc.nasa.gov/vis/a030000/a030400/a030470/van_allen_probes_discov_new_rad_belt_cal_print.jpg)
+
 *La trajectoire translunaire d'Apollo 11*
 
-![valallen](https://cdn.thewire.in/wp-content/uploads/2019/06/08203442/Apollo-11_flight-path.gif)
+![valallenapoollo11](https://cdn.thewire.in/wp-content/uploads/2019/06/08203442/Apollo-11_flight-path.gif)
 
 ## QUESTION 8 : Les astronautes ont capté des sons autour de la Lune, est-ce que ça veut dire qu’il y a des extraterrestres sur la Lune ?
 
