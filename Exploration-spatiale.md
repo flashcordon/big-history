@@ -231,8 +231,9 @@ These differences, therefore, allow lunar regolith to form far sharper prints th
 - Si vous voulez avoir une idée d'à quoi ressemble cette fameuse ceinture, vous pouvez imaginer que la Terre se trouve au centre d'un énorme beignet invisible.
 - Et si vous voulez avoir une image encore plus précise, vous pouvez imaginer 2 beignets invisibles imbriqués l'un dans l'autre. On a appelé le petit beignet on les a nommé ceinture interne de Van Allen (altitude : entre 600 et 13 000 km) et le grand beignet ceinture externe (entre 13 500 et 40 000 km). On peut donc parler des ceintures de Van Allen au pluriel, parce qu'il y en a toujours au moins 2.
 > Lors de certaines tempêtes solaires, il peut y avoir une forte augmentation du vent solaire et même des éjections de masse coronale, et à ce moment là une troisième ceinture peut apparaître.
-- Et effectivement, si vous vous trouvez à l'intérieur des ceintures de Van Allen pendant suffisamment longtemps, vous allez être exposé à des douches de particules chargées très énergétiques et ça ne sera pas très bon pour votre santé et pour l'électronique de votre vaisseau. 
+- Et effectivement, si vous vous trouvez à l'intérieur des ceintures de Van Allen pendant suffisamment longtemps, vous allez être exposé à des douches de particules chargées très énergétiques et ça ne sera pas très bon pour votre santé et pour l'électronique de votre vaisseau. L'idée, c'est que plus vous restez exposé à la radioactivité longtemps, plus vous risquez votre vie.
 > C'est pour ça que la plupart des satellites qui nous fournissent le système GPS par exemple sont situés dans la région entre les 2 ceintures (slot region), où il y a très peu de particules énergétiques, donc très peu de radiations. Et c'est aussi pour la même raison que la station spatiale internationale est située à une altitude bien en dessous de la limite de la ceinture interne. Comme ça on ne met pas trop en danger la vie des astronautes.
+- À l'époque des missions Apollo, on connaissait bien les dangers que pouvaient représenter la ceinture de Van Allen, et ça inquétait pas mal les scientifiques de l'époque. Du coup, pour limiter l'exposition des astronautes, ils ont calculé une trajectoire spéciale pour les modules lunaires qui limite autant que possible le temps qu'ils passent à l'intérieur des ceintures.
 
 - ANSWER Wrong. If you blast right through the Van Allen belts it is no problem, which is what the Apollo astronauts did. X-rays would be lethal too, if you sat there soaking in them long enough. A very real problem, however, are cosmic rays. They are not a problem on a short flight like to the moon, but in long flights that might last years, like to Mars, they could be a serious problem. 
 
@@ -241,15 +242,6 @@ These differences, therefore, allow lunar regolith to form far sharper prints th
 "If you’ve ever done firewalking, you’ll know the one thing you don’t do is linger around in the middle of the firepit. You cross as quickly as you can. From a science point of view, as long as you walk across quite quickly, looking at the thermal conductivity of your feet, you are not going to have enough thermal energy going into the soles of your feet to burn you. You’re absolutely fine. Just don’t hang around in the middle!
 
 "In a similar way, the transit time through the Van Allen radiation belt right at the beginning of the Apollo voyages was incredibly short. Travelling through the Van Allen radiation belt if you are going fast enough – which you need to be if you’re going to the Moon – is no problem whatsoever."
-
-In 1958, Dr. James Van Allen discovered a collection of
-high-energy particle clouds within 40,000 km of Earth.
-Arranged like two nested donuts, the inner belt is
-mainly energetic protons, while the outer belts contain
-both protons and electrons. These belts have long
-been known as 'bad news' for satellites and astronauts,
-with potentially deadly consequences if you spend too
-much time within them. 
 
 The
 Inner van Allen Belt is located at about 1.6
@@ -272,8 +264,6 @@ spacecraft cuts down the 14 Rads/hour exposure so that it is completely harmless
 
 These belts are the result of Earth’s magnetic field working like a magnetic trap – or an accelerator – confining the particles of the solar (mostly) wind, and sometimes accelerating them on their orbits within the belts to nearly the speed of light.
 
-
-
 The electrons in the outer belt can move into the slot region only when the Sun produces a strong solar storm or a coronal mass ejection. When they do that, the third belt appears.
 
 Selon des tests effectués par la NASA à la suite du retour des équipages les ayant traversées, quelques heures à l’intérieur équivaut à près d’un dixième de l’exposition annuelle tolérée pour les employés des centrales nucléaires.
@@ -294,7 +284,7 @@ Even if there had been a solar storm when Neil Armstrong and Edwin “Buzz” Al
 
 We were indeed lucky that the August 1972 event happened between the last two Apollo flights: Apollo 16 had returned in April and Apollo 17 set off to the Moon in December. No major solar particle events have occurred during the Apollo 8 or 11 missions.
 
-- Perhaps the most convincing argument that the landings were faked has to do with something called the Van Allen belts. These are two giant doughnut-shaped belts surrounding the Earth. They are made of highly energetic charged particles from the solar wind. Some people believe humans couldn’t have passed through these belts without being exposed to lethal doses of radiation. This was a genuine concern before the Apollo missions. And it is the reason scientists behind Apollo 11 made sure they protected the astronauts as best they could. They insulated the spacecraft from radiation with an aluminium shell. And they chose a trajectory from the Earth to the Moon which minimised the amount of time spent in the Van Allen belts. Readings from the nine Apollo missions that reached the Moon showed the astronauts’ average radiation exposure was 0.46 radiation-absorbed dose (rad). This proved Nasa was right to shield the astronauts from radiation. Though it’s less than that experienced by some nuclear energy workers, 0.46 rad is around 10 times more than the radiation exposure of medical professionals who routinely work with x-ray and radiotherapy machines.
+This was a genuine concern before the Apollo missions. And it is the reason scientists behind Apollo 11 made sure they protected the astronauts as best they could. They insulated the spacecraft from radiation with an aluminium shell. And they chose a trajectory from the Earth to the Moon which minimised the amount of time spent in the Van Allen belts. Readings from the nine Apollo missions that reached the Moon showed the astronauts’ average radiation exposure was 0.46 radiation-absorbed dose (rad). This proved Nasa was right to shield the astronauts from radiation. Though it’s less than that experienced by some nuclear energy workers, 0.46 rad is around 10 times more than the radiation exposure of medical professionals who routinely work with x-ray and radiotherapy machines.
 
 *Ceinture(s) de Van Allen (Crédit : NASA's Goddard Space Flight Center/John’s Hopkins University, Applied Physics Laboratory )*
 
