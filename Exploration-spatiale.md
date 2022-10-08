@@ -233,10 +233,10 @@ These differences, therefore, allow lunar regolith to form far sharper prints th
 > Lors de certaines tempêtes solaires, il peut y avoir une forte augmentation du vent solaire et même des éjections de masse coronale, et à ce moment là une troisième ceinture peut apparaître.
 - Et effectivement, si vous vous trouvez à l'intérieur des ceintures de Van Allen pendant suffisamment longtemps, vous allez être exposé à des douches de particules chargées très énergétiques et ça ne sera pas très bon pour votre santé et pour l'électronique de votre vaisseau. L'idée, c'est que plus vous restez exposé à la radioactivité longtemps, plus vous risquez votre vie.
 > C'est pour ça que la plupart des satellites qui nous fournissent le système GPS par exemple sont situés dans la région entre les 2 ceintures (slot region), où il y a très peu de particules énergétiques, donc très peu de radiations. Et c'est aussi pour la même raison que la station spatiale internationale est située à une altitude bien en dessous de la limite de la ceinture interne. Comme ça on ne met pas trop en danger la vie des astronautes.
-- À l'époque des missions Apollo, on connaissait bien les dangers que pouvaient représenter la ceinture de Van Allen, et ça inquétait pas mal les scientifiques de l'époque. Du coup, pour limiter l'exposition des astronautes, ils ont calculé une trajectoire spéciale pour les modules lunaires qui limite autant que possible le temps qu'ils passent à l'intérieur des ceintures et qui évite les régions où la radioactivité est la plus forte. 
-- Sans compter que les parois du module lunaire protégeaient aussi en partie les astronautes des radiations.
-- Pendant tout leur voyage, les astronautes avaient des appareils (dosimètres) qui mesurent leur taux d'exposition aux radiations, et grâce à ces appareil 
-> On peut mesurer l'exposition aux radiations en Rads. La dose mortelle de radiation est estimée à 300 Rads en une heure.
+- À l'époque des missions Apollo, on connaissait bien les dangers que pouvaient représenter la ceinture de Van Allen, et ça inquétait pas mal les scientifiques. Du coup, pour limiter l'exposition des astronautes, ils ont calculé une trajectoire spéciale pour les modules lunaires qui limite autant que possible le temps qu'ils passent à l'intérieur des ceintures et qui évite les régions où la radioactivité est la plus forte. 
+- En pratique les astronautes n'ont pas passé plus d'une heure environ dans les ceintures de Van Allen. Sans compter que les parois du module lunaire étaient recouvertes d'une couche d'aluminium, qui les protégeait aussi en partie des radiations.
+- Et pour vous donner un ordre de grandeur, pendant tout leur voyage, les astronautes étaient équipés d'appareils (dosimètres) qui mesurent leur taux d'exposition aux radiations, et grâce à ces appareil on a pu estimer que la dose de radiations qu'ils aveient reçu était bien plus faible que la dose mortelle.
+> On mesure l'exposition aux radiations dans une unité un peu spéciale qu'on appelle le Rad. On estime que la dose mortelle de radiation est d'environ 300 Rads en une heure (source : US Occupation Safety and Health Agency). Et en moyenne les astronautes d'Apollo ont reçu une dose de 0,46 Rad au cours de leur voyage, ce qui est à peu près équivalent à ce que vous recevez lorsque vous faites un scanner à rayons X à l'hopital, et beaucoup moins que les doses reçues par certains employés de centrale nucléaires.
 
 - ANSWER Wrong. If you blast right through the Van Allen belts it is no problem, which is what the Apollo astronauts did. X-rays would be lethal too, if you sat there soaking in them long enough. A very real problem, however, are cosmic rays. They are not a problem on a short flight like to the moon, but in long flights that might last years, like to Mars, they could be a serious problem. 
 
@@ -244,40 +244,11 @@ These differences, therefore, allow lunar regolith to form far sharper prints th
 
 "If you’ve ever done firewalking, you’ll know the one thing you don’t do is linger around in the middle of the firepit. You cross as quickly as you can. From a science point of view, as long as you walk across quite quickly, looking at the thermal conductivity of your feet, you are not going to have enough thermal energy going into the soles of your feet to burn you. You’re absolutely fine. Just don’t hang around in the middle!
 
-"In a similar way, the transit time through the Van Allen radiation belt right at the beginning of the Apollo voyages was incredibly short. Travelling through the Van Allen radiation belt if you are going fast enough – which you need to be if you’re going to the Moon – is no problem whatsoever."
-
-According to the US Occupation Safety and Health Agency
-(OSHA) a lethal radiation dosage is 300 Rads in one hour. 
-
-The total dosage for the trip is only 16 Rads in 68.1 minutes. Because 68.1 minutes is equal to 1.13
-hours, his is equal to a dosage of 16 Rads / 1.13 hours = 14.0 Rads in one hour, which is well below
-the 300 Rads in one hour that is considered to be lethal. Also, this radiation exposure would be for an
-astronaut outside the spacecraft during the transit through the belts. The radiation shielding inside the
-spacecraft cuts down the 14 Rads/hour exposure so that it is completely harmless.
-
 These belts are the result of Earth’s magnetic field working like a magnetic trap – or an accelerator – confining the particles of the solar (mostly) wind, and sometimes accelerating them on their orbits within the belts to nearly the speed of light.
-
-The electrons in the outer belt can move into the slot region only when the Sun produces a strong solar storm or a coronal mass ejection. When they do that, the third belt appears.
-
-Selon des tests effectués par la NASA à la suite du retour des équipages les ayant traversées, quelques heures à l’intérieur équivaut à près d’un dixième de l’exposition annuelle tolérée pour les employés des centrales nucléaires.
-
-Apollo 11 bypassed the inner belt and only passed through the weaker part of the outer belt
-
-Apollo 11’s flight path avoided areas with the highest flux. The Earth parking orbit is under the inner radiation belt; it traversed the inner zone of the outer belt in about 30 minutes and through the most energetic region in about 10 minutes. On its way back, its trajectory was optimised such that Apollo 11 would steer clear of the belts as much as possible. It approached Earth from the south and was travelling at an even greater inclination and velocity than it had been on its way to the Moon. The astronauts were inside the fringes of the radiation belts for only about 60 minutes.
-
-Based on data from the twin Van Allen Probes NASA launched in 2012, scientists found that the inner belt is made up typically of high-energy protons and low-energy electrons. They also found that the radiation here was much weaker than what they’d assumed it to be. The most dangerous highly relativistic electrons (with energies of 0.7-1.5 MeV) couldn’t penetrate the slot region. Rather, they could but only rarely, such as when they were helped along by two severe solar storms in 2015.
-
-NASA currently admits it overestimated the level of danger in the low and medium Earth orbits
 
 It remains possible for astronauts to be affected by solar storms. For example, if any of them had been travelling to the Moon during the solar event of August 1972, they would have been exposed to life-threatening amounts of radiation.
 
-The Apollo 11 crew had received 0.18 rem each on average (‘rem’ stands for ‘roentgen equivalent man’). To compare, one CT scan delivers about 1 rem. To kill an adult human, you’d have to deliver 300 rem or more in a very short span of time, but if it is spread over weeks or even days, there will be few effects. About 50 rem delivered at once will cause radiation sickness.
-
-Even if there had been a solar storm when Neil Armstrong and Edwin “Buzz” Aldrin, Jr. were on the Moon, they could have been protected by the Apollo command module: it was built to attenuate 400 rem on the outside to less than 35 rem on the inside.
-
 We were indeed lucky that the August 1972 event happened between the last two Apollo flights: Apollo 16 had returned in April and Apollo 17 set off to the Moon in December. No major solar particle events have occurred during the Apollo 8 or 11 missions.
-
-This was a genuine concern before the Apollo missions. And it is the reason scientists behind Apollo 11 made sure they protected the astronauts as best they could. They insulated the spacecraft from radiation with an aluminium shell. And they chose a trajectory from the Earth to the Moon which minimised the amount of time spent in the Van Allen belts. Readings from the nine Apollo missions that reached the Moon showed the astronauts’ average radiation exposure was 0.46 radiation-absorbed dose (rad). This proved Nasa was right to shield the astronauts from radiation. Though it’s less than that experienced by some nuclear energy workers, 0.46 rad is around 10 times more than the radiation exposure of medical professionals who routinely work with x-ray and radiotherapy machines.
 
 *Ceinture(s) de Van Allen (Crédit : NASA's Goddard Space Flight Center/John’s Hopkins University, Applied Physics Laboratory )*
 
