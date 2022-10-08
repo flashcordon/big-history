@@ -233,7 +233,10 @@ These differences, therefore, allow lunar regolith to form far sharper prints th
 > Lors de certaines tempêtes solaires, il peut y avoir une forte augmentation du vent solaire et même des éjections de masse coronale, et à ce moment là une troisième ceinture peut apparaître.
 - Et effectivement, si vous vous trouvez à l'intérieur des ceintures de Van Allen pendant suffisamment longtemps, vous allez être exposé à des douches de particules chargées très énergétiques et ça ne sera pas très bon pour votre santé et pour l'électronique de votre vaisseau. L'idée, c'est que plus vous restez exposé à la radioactivité longtemps, plus vous risquez votre vie.
 > C'est pour ça que la plupart des satellites qui nous fournissent le système GPS par exemple sont situés dans la région entre les 2 ceintures (slot region), où il y a très peu de particules énergétiques, donc très peu de radiations. Et c'est aussi pour la même raison que la station spatiale internationale est située à une altitude bien en dessous de la limite de la ceinture interne. Comme ça on ne met pas trop en danger la vie des astronautes.
-- À l'époque des missions Apollo, on connaissait bien les dangers que pouvaient représenter la ceinture de Van Allen, et ça inquétait pas mal les scientifiques de l'époque. Du coup, pour limiter l'exposition des astronautes, ils ont calculé une trajectoire spéciale pour les modules lunaires qui limite autant que possible le temps qu'ils passent à l'intérieur des ceintures.
+- À l'époque des missions Apollo, on connaissait bien les dangers que pouvaient représenter la ceinture de Van Allen, et ça inquétait pas mal les scientifiques de l'époque. Du coup, pour limiter l'exposition des astronautes, ils ont calculé une trajectoire spéciale pour les modules lunaires qui limite autant que possible le temps qu'ils passent à l'intérieur des ceintures et qui évite les régions où la radioactivité est la plus forte. 
+- Sans compter que les parois du module lunaire protégeaient aussi en partie les astronautes des radiations.
+- Pendant tout leur voyage, les astronautes avaient des appareils (dosimètres) qui mesurent leur taux d'exposition aux radiations, et grâce à ces appareil 
+> On peut mesurer l'exposition aux radiations en Rads. La dose mortelle de radiation est estimée à 300 Rads en une heure.
 
 - ANSWER Wrong. If you blast right through the Van Allen belts it is no problem, which is what the Apollo astronauts did. X-rays would be lethal too, if you sat there soaking in them long enough. A very real problem, however, are cosmic rays. They are not a problem on a short flight like to the moon, but in long flights that might last years, like to Mars, they could be a serious problem. 
 
@@ -242,16 +245,6 @@ These differences, therefore, allow lunar regolith to form far sharper prints th
 "If you’ve ever done firewalking, you’ll know the one thing you don’t do is linger around in the middle of the firepit. You cross as quickly as you can. From a science point of view, as long as you walk across quite quickly, looking at the thermal conductivity of your feet, you are not going to have enough thermal energy going into the soles of your feet to burn you. You’re absolutely fine. Just don’t hang around in the middle!
 
 "In a similar way, the transit time through the Van Allen radiation belt right at the beginning of the Apollo voyages was incredibly short. Travelling through the Van Allen radiation belt if you are going fast enough – which you need to be if you’re going to the Moon – is no problem whatsoever."
-
-The
-Inner van Allen Belt is located at about 1.6
-Re. The Outer van Allen Belt is located at
-about 4.0 Re. At a distance of 2.2 Re,
-there is a 'gap' region in between these
-belts. Satellites such as the Global
-Positioning System (GPS) orbit in this gap
-region where radiation effects are
-minimum.
 
 According to the US Occupation Safety and Health Agency
 (OSHA) a lethal radiation dosage is 300 Rads in one hour. 
