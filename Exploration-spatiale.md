@@ -225,14 +225,16 @@ These differences, therefore, allow lunar regolith to form far sharper prints th
 
 ## QUESTION 7 : Il y a des radiations mortelles (Ceinture de Van Allen) dans l’espace, aucun astronaute ne peut les franchir sans mourir. Comment ils ont pu y aller alors qu’il y a des radiations mortelles dans l’espace
 
-- Alors oui, il y a bien une ceinture de radiations mortelles autour de la Terre, et oui les astronautes des missions Apollo l'a bien franchie. Alors comment est-ce possible ?
-- Le Soleil envoie en permanence une grande quantité de particules chargées (essentiellement des électrons et des protons) dans l'espace. On appelle ça le vent solaire
-- On l'appelle ceinture de Van Allen parce qu'elle a été découverte à la fin des années 50 (1958) par le scientifique américain James van Allen (rien à voir avec le groupe de hard rock)
-- Si vous voule avoir une idée d'à quoi ressemble cette ceinture, vous pouvez imaginer que la Terre se trouve au centre d'un énorme beignet invisible.
-> Et si vous voulez avoir une image encore plus précise vous pouvez imaginer 2 beignets invisibles imbriqués l'un dans l'autre. On a appelé le petit beignet on les a nommé ceinture interne de Van Allen et le grand beignet ceinture externe. On peut donc parler des ceintures de Van Allen au pluriel, parce qu'il y en a au moins 2.
+- Alors oui, il y a bien une ceinture de radiations mortelles autour de la Terre, et oui les astronautes des missions Apollo sont bien passés à travers. Alors comment est-ce qu'ils ont survécu ? Pour le savoir, il va falloir revenir un moment sur ce que c'est, que cette fameuse ceinture de Van Allen.
+- Tout commence avec le Soleil, notre étoile. Le Soleil envoie en permanence une grande quantité de particules chargées (essentiellement des électrons et des protons) dans l'espace. On appelle ça le vent solaire.
+- Pourquoi on l'appelle ceinture de Van Allen p? Parce qu'elle a été découverte à la fin des années 50 (1958) par le scientifique américain James van Allen (rien à voir avec le groupe de hard rock).
+- Si vous voulez avoir une idée d'à quoi ressemble cette fameuse ceinture, vous pouvez imaginer que la Terre se trouve au centre d'un énorme beignet invisible.
+- Et si vous voulez avoir une image encore plus précise, vous pouvez imaginer 2 beignets invisibles imbriqués l'un dans l'autre. On a appelé le petit beignet on les a nommé ceinture interne de Van Allen et le grand beignet ceinture externe. On peut donc parler des ceintures de Van Allen au pluriel, parce qu'il y en a toujours au moins 2.
+> Lors des tempêtes solaires, y a une forte augmentation du vent solaire, et à ce moment là une troisième ceinture peut apparaître.
 - Et effectivement, si vous vous trouvez à l'intérieur des ceintures de Van Allen pendant suffisamment longtemps, vous allez être exposé à des douches de particules chargées très énergétiques et ça ne sera pas très bon pour votre santé et pour l'électronique de votre vaisseau. 
-> C'est pour ça que la plupart des satellites autour de la Terre 
+> C'est pour ça que la plupart des satellites qui nous fournissent le système GPS par exemple sont situés dans la région entre les 2 ceintures (slot region), où il y a très peu de particules énergétiques. Et c'est aussi pour ça que la station spatiale internationale est située à une altitude bien en dessous de la limite de la ceinture interne.
 
+These belts are shaped like two nested doughnuts. Their sizes change depending on solar activity and, sometimes, on how we model them. The inner belt starts at an altitude of 600-1,600 km, according to different sources, and extends till 9,600-13,000 km. The range of the outer belt varies similarly: from 13,500-19,000 km to about 40,000 km.
 
 - CLAIM The Van Allen radiation belts surrounding the Earth would have fried the astronauts with a lethal dose of radiation.
 - ANSWER Wrong. If you blast right through the Van Allen belts it is no problem, which is what the Apollo astronauts did. X-rays would be lethal too, if you sat there soaking in them long enough. A very real problem, however, are cosmic rays. They are not a problem on a short flight like to the moon, but in long flights that might last years, like to Mars, they could be a serious problem. 
@@ -273,9 +275,7 @@ spacecraft cuts down the 14 Rads/hour exposure so that it is completely harmless
 
 These belts are the result of Earth’s magnetic field working like a magnetic trap – or an accelerator – confining the particles of the solar (mostly) wind, and sometimes accelerating them on their orbits within the belts to nearly the speed of light.
 
-These belts are shaped like two nested doughnuts. Their sizes change depending on solar activity and, sometimes, on how we model them. The inner belt starts at an altitude of 600-1,600 km, according to different sources, and extends till 9,600-13,000 km. The range of the outer belt varies similarly: from 13,500-19,000 km to about 40,000 km.
 
-There is a gap between these belts called the slot region, which is generally devoid of energetic particles. Sometimes, a third, transient appears in this region. Geosynchronous communications satellites orbit just inside the outer edge of the outer radiation belt, and the low-Earth orbit (LEO), where the International Space Station and the Hubble space telescope are, is just below the inner edge of the inner belt.
 
 The electrons in the outer belt can move into the slot region only when the Sun produces a strong solar storm or a coronal mass ejection. When they do that, the third belt appears.
 
