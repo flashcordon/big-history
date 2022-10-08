@@ -225,6 +225,15 @@ These differences, therefore, allow lunar regolith to form far sharper prints th
 
 ## QUESTION 7 : Il y a des radiations mortelles (Ceinture de Van Allen) dans l’espace, aucun astronaute ne peut les franchir sans mourir. Comment ils ont pu y aller alors qu’il y a des radiations mortelles dans l’espace
 
+- Alors oui, il y a bien une ceinture de radiations mortelles autour de la Terre, et oui les astronautes des missions Apollo l'a bien franchie. Alors comment est-ce possible ?
+- Le Soleil envoie en permanence une grande quantité de particules chargées (essentiellement des électrons et des protons) dans l'espace. On appelle ça le vent solaire
+- On l'appelle ceinture de Van Allen parce qu'elle a été découverte à la fin des années 50 (1958) par le scientifique américain James van Allen (rien à voir avec le groupe de hard rock)
+- Si vous voule avoir une idée d'à quoi ressemble cette ceinture, vous pouvez imaginer que la Terre se trouve au centre d'un énorme beignet invisible.
+> Et si vous voulez avoir une image encore plus précise vous pouvez imaginer 2 beignets invisibles imbriqués l'un dans l'autre. On a appelé le petit beignet on les a nommé ceinture interne de Van Allen et le grand beignet ceinture externe. On peut donc parler des ceintures de Van Allen au pluriel, parce qu'il y en a au moins 2.
+- Et effectivement, si vous vous trouvez à l'intérieur des ceintures de Van Allen pendant suffisamment longtemps, vous allez être exposé à des douches de particules chargées très énergétiques et ça ne sera pas très bon pour votre santé et pour l'électronique de votre vaisseau. 
+> C'est pour ça que la plupart des satellites autour de la Terre 
+
+
 - CLAIM The Van Allen radiation belts surrounding the Earth would have fried the astronauts with a lethal dose of radiation.
 - ANSWER Wrong. If you blast right through the Van Allen belts it is no problem, which is what the Apollo astronauts did. X-rays would be lethal too, if you sat there soaking in them long enough. A very real problem, however, are cosmic rays. They are not a problem on a short flight like to the moon, but in long flights that might last years, like to Mars, they could be a serious problem. 
 
