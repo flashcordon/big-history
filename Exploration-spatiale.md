@@ -232,30 +232,18 @@ the Lunar Reconnaissance Orbiter to the Moon, and it will be able to resolve obj
 *Sources*
 
 - [NASA releases strange 'music' heard by 1969 astronauts](https://phys.org/news/2016-02-nasa-strange-music-heard-astronauts.html) - Physorg
+- https://www.openculture.com/2016/02/hear-the-declassified-eerie-space-music-heard-during-the-apollo-10-mission-1969.html
+- https://archive.org/details/Apollo10
 
 ---
 
-#Apollo10 audio & transcripts were not classified, just no way to get them to the public before the internet. 
-
-“Boy, that sure is weird music.”
-
-“We’re going to have to find out about that. Nobody will believe us.”
-
-“Yes. It’s a whistling, you know, like an outer-space-type thing.”
-
-In 1969, the Apollo 10 astronauts orbited the moon as a test-run for the Apollo 11 moon landing two months later. While they flew around the far side of the moon—which put them out of radio contact with Earth for roughly an hour—they heard some strange sounds that they could not immediately identify.
-
-The entire transcript of their conversation was released from NASA’s archives in 2008, but the actual recording of the noise was kept under wraps—until now.
-
- Two months after Apollo 10 heard the sounds, Michael Collins, the Apollo 11 astronaut who stayed in the moon’s orbit while Neil Armstrong and Buzz Aldrin touched down on its surface, heard them too. In his book Carrying the Fire: An Astronauts Journeys, he writes that NASA radio technicians told him beforehand the sounds were the result of interference between the radio in the Lunar Module and the one in the Command Module.
- 
- A NASA technician on the TV show supports Cernan’s assessment that the “radios in the two spacecraft [the lunar module and the command module] were interfering with each other.” 
- 
- radio technicians (rather than the UFO fans) had a ready explanation for it: it was interference between the LM’s and Command Module’s VHF radios.” 
- 
- Collins explained that the noise began when the radios in the two vehicles were both turned on and in close proximity to each other. 
- 
- Unlike Apollo 10, the Apollo 11 lunar module did land on the moon’s service, after which the “woo-woo” noises stopped. 
+- Alors j’aurais bien aimé que ça soit des aliens mais malheureusement non.
+- Cette histoire de son de l’espace est véridique, elle nous vient de la mission Apollo 10, qui était la mission qui précédait celle qui allait envoyer Neil Armstrong et Buzz Aldrin faire les premiers pas sur la Lune.
+- La mission Apollo 10 avait pour but de faire le tour de la Lune et de revenir sur Terre. Et donc au cours de leur voyage, ils doivent passer par la face cachée de la lune. À ce moment là, tout contact radio avec la Terre est coupée, donc les 3 astronautes sont livrés à eux même pendant environ une heure. Sauf qu’au même moment, ils se mettent à entendre un étrange sifflement qui résonne un peu partout dans la cabine.
+- Dans les enregistrements audio de la mission, que vous pouvez trouver assez facilement [sur le site des archives d’internet](https://archive.org/details/Apollo10) depuis 2008, on entend très distinctement ce bruit étrange, et on voit bien que les astronautes semblent un peu perturbés. On en entend un qui dit « wow, voilà une musique bien étrange » et un autre qui lui répond « on va devoir trouver l’origine de ce truc, personne va nous croire ». Et en fait, sur le moment, ils sont tellement perplexes qu’ils choisissent de ne pas en parler autour d’eux, pour ne pas qu’on les prenne pour des fous.
+- Sauf que 2 mois plus tard à peine, au cours de la mission Apollo 11, l’astronaute Michael Collins va se mettre à entendre la même chose au niveau de la face cachée de la Lune. Le même sifflement un peu étrange. Sauf que contrairement aux astronautes précédents, lui va directement demander aux techniciens de la NASA ce qui s’est passé, et ils vont tout de suite lui donner une explication. Cette explication est beaucoup plus simple qu’un groupe de musique aliens : en fait c’était juste des interférences entre la radio du module lunaire et celle du module de commande.
+> Le module lunaire c’est l’appareil qui atterrit sur la Lune et le module de commande c’est le vaisseau qui reste en orbite lunaire.
+- Lorsque les 2 vaisseaux étaient à proximité, les 2 radios faisaient des interférences, et lorsqu’ils étaient suffisamment éloignés, le sifflement bizarre s’arrêtait. Donc voilà, affaire résolue !
 
 ## QUESTION 9 : Thomas Pesquet a pourtant dit qu’on n’était jamais allés sur la Lune dans une ITW, alors c’est bien une preuve !
 
