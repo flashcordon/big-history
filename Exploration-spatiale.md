@@ -192,6 +192,8 @@ the Lunar Reconnaissance Orbiter to the Moon, and it will be able to resolve obj
 
 --- 
 
+- C'est vrai que sur Terre, quand vous marche sur du sable sec, vos empreintes ont tendance à être
+- Le sol lunaire est recouvert d'une couche de poussière très fine, qui fait quelques mètres d'épaisseur et qu'on appelle du régolithe. Ce régolithe, il provient des bombardements de micrométéorites et d'autres particules en provenance de l'espace qui ont concassé la roche lunaire au fil des milliards d'années et l'a transformé en une sorte de poudre.
 when you step in the desert where there’s no moisture in the sand, all you see is a circle. But in the photographs of the footprint on the moon, you see an absolute impression of the, uh, footprint indicating that there is moisture in the soil which means they’re not on the moon.”
 
 the surface material of the moon has been created over the last ~4.5 billion years by meteorite and micrometeorite bombardment. It’s been pulverized. But, it has not been smoothed out due to normal processes of erosion on Earth, such as by wind or water.
