@@ -135,27 +135,14 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ## QUESTION 5 : On a de gros télescope sur Terre, alors pourquoi on ne voit pas le drapeau ?
 
-- Grand Télescope des îles Canaries »), appelé quelquefois GranTeCan, est un télescope de 10,4 mètres de diamètre 
-- Dans l'espace le plus grand télescope qui existe actuellement c'est le JWST, le James Webb Space Telescope, et son miroir principal ne fait que 6,5 m de diamètre !
-- Sur Terre, nos télescopes sont limités en précision par les mouvements d'air de l'atmosphère, ça floute un peu les images
-
-Hubble’s resolution on the Moon is about 200 meters! In other words, even a football stadium on the Moon would look like a dot to Hubble.
-
-The lunar landers are each about 4 meters across and about 384,400,000 meters away, which makes them about as hard to see as a single coin from a thousand miles away. 
-
-The “resolving power” of a telescope, is described in terms of whether or not you can tell the difference between a pair of adjacent points.  If the two points are too close together, then you’ll see them blurred together as one point and they are “not resolved”.  If they’re far enough apart, then you see both points independently.
-
-The lunar landers are a little over 4 meters across (seen from above) and are about 384,403,000 meters away.  That means that the landers subtend an angle of about 0.002 arcseconds.  In order to see this from Earth, we’d need a telescope that is, at absolute minimum, about 200 meters across.  If we wanted the image to be a more than a single pixel, then we’d need a mirror that’s a few miles across.
-
- The flag is 125 cm (4 feet) long, and you would need an optical wavelength telescope around 200 meters (~650 feet) in diameter to see it. The largest optical wavelength telescope that we have now is the Keck Telescope in Hawaii which is 10 meters in diameter. The Hubble Space Telescope is only 2.4 meters in diameter - much too small!
- 
-  If you look at this HST image of the Moon you can see that they say "Hubble can resolve features as small as 280 feet across." I think they used 500 nm as their wavelength instead of 600 nm, but it's the same order of magnitude as what we got here. So there's no way HST can see anything humans left behind. 
-  
-But in 2009 NASA launched the Lunar Reconnaissance Orbiter (LRO) probe to orbit the Moon, study the landscape in detail, and characterize the environment (mostly focused on checking for radiation, with which future astronauts would have to contend).
-
-In addition to carrying out this scientific mission, LRO was able to take images of the Apollo landing sites (for the Apollo 11, 12, 14, 15, 16, and 17 missions) and could identify the flags and other equipment.
-
-the Lunar Reconnaissance Orbiter to the Moon, and it will be able to resolve objects as small as 0.5 meters across (it’s far smaller than Hubble, but it’ll be a lot closer to the Moon). It will easily resolve the landers, and even the rovers.
+- Alors la réponse courte, c’est qu’on a des gros télescopes sur Terre, mais ils sont pas suffisamment gros pour faire des image d’un truc aussi petit qu’un drapeau. 
+- Faut bien se rendre compte que la Lune, c’est un objet qui est très très loin. Elle se trouve à 384 000 km de la Terre. Et le drapeau américain de la mission Apollo 11 il ne fait qu’1m50 de hauteur. Donc en pratique, faire une photo du drapeau depuis la Terre c’est aussi difficile que de faire une photo d’une pièce d’un euro à plusieurs milliers de km de distance. Théoriquement c’est pas impossible, mais ça demande un instrument capable de faire des clichés de très très haute résolution.
+- Un télescope, c’est un grand miroir qui va collecter la lumière des astres et qui va la focaliser sur un détecteur, qui peut être votre œil ou une caméra.
+- La capacité d’un télescope à distinguer des détails fins, ce qu’on appelle dans le jargon son pouvoir de résolution, elle ne dépend que de 2 facteurs : la couleur de la lumière que vous allez observer, et la taille du miroir principal du télescope. Pour simplifier, si vous observez la Lune avec un télescope et que vous l’observez dans une seule couleur, par exemple le rouge, eh bien la netteté de votre image va dépendre uniquement du diamètre de votre miroir. Plus votre miroir sera grand, plus votre télescope pourra faire des images détaillées de la Lune. Et à l’inverse, plus votre miroir sera petit, plus vos images seront floues.
+- Et donc on peut faire un petit calcul, pour savoir quelle taille de miroir est nécessaire pour observer un drapeau d’1m50 à la surface de la Lune dans le domaine du visible, c’est assez simple, et ce calcul il nous dit qu’il nous faudrait pour ça un miroir d’environ 200 mètres de diamètre.
+- C’est immense 200 m de diamètre. De nos jours, le plus grand télescope optique du monde c’est le Grand Télescope des îles Canaries, et son miroir il ne fait que 10,4 m de diamètre.
+- Et on a aussi des télescopes dans l’espace, comme le télescope Hubble, et son miroir à lui fait un peu moins de 2m et demi de diamètre. Si on pointait Hubble vers la Lune, le même petit calcul nous montre que les structures les plus petites qu’on pourrait observer sont de l’ordre de 200 m. 200 m c’est la taille d’un terrain de football ! Du coup si on imagine qu’il y a un terrain de foot sur la Lune, ce terrain n’apparaîtrait que comme un pixel sur l’image d’Hubble.
+- Donc tout ça a l’air fort décourageant, mais rassurez-vous ! En fait, on n’a pas besoin d’observer les restes des missions lunaires depuis la Terre, puisqu’on a déjà des sondes spatiales qu’on a envoyées en orbite rapprochée autour de la Lune pour la cartographier et qui ont réalisé des clichés des sites d’Apollo ! C’est ce qu’a fait en 2011 la sonde LRO de la NASA par exemple, mais on a aussi d’autres sondes indiennes, chinoises et japonaises qui ont aussi fait un travail similaire de leur côté. Donc les preuves photographiques sont déjà là, il faut juste ne pas nier leur existence.
 
 ## QUESTION 6 : J’ai lu que l’empreinte des astronautes est trop nette comme si on marchait sur du sable mouillé. Sauf qu’il n’y a pas d’eau sur la Lune
 
