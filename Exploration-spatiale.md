@@ -189,41 +189,17 @@ the Lunar Reconnaissance Orbiter to the Moon, and it will be able to resolve obj
 - https://www.space.com/14740-footprints-moon.html
 - https://www.quora.com/How-is-a-footprint-left-in-lunar-dust-which-clearly-shows-the-fine-details-of-the-bottom-of-the-astronauts-boot-in-dust-that-has-never-had-water-on-it
 - http://www.moonhoaxdebunked.com/2017/07/813-how-can-astronauts-footprints-be-so.html
+- https://www.futura-sciences.com/sciences/definitions/planetes-regolithe-13527/
 
 --- 
 
-- C'est vrai que sur Terre, quand vous marche sur du sable sec, vos empreintes ont tendance à être
-- Le sol lunaire est recouvert d'une couche de poussière très fine, qui fait quelques mètres d'épaisseur et qu'on appelle du régolithe. Ce régolithe, il provient des bombardements de micrométéorites et d'autres particules en provenance de l'espace qui ont concassé la roche lunaire au fil des milliards d'années et l'a transformé en une sorte de poudre.
-when you step in the desert where there’s no moisture in the sand, all you see is a circle. But in the photographs of the footprint on the moon, you see an absolute impression of the, uh, footprint indicating that there is moisture in the soil which means they’re not on the moon.”
-
-the surface material of the moon has been created over the last ~4.5 billion years by meteorite and micrometeorite bombardment. It’s been pulverized. But, it has not been smoothed out due to normal processes of erosion on Earth, such as by wind or water.
-
-Consequently, the lunar regolith is made of, effectively, shards of rock. And microscopic shards of rock are going to be able to interlock just as in the second method I described above. You don’t need moisture to make impressions when you have particles that can interlock.
-
-The first footprints put on the moon will probably be there a long, long time — maybe almost as long as the moon itself lasts.
-
-Unlike on Earth, there is no erosion by wind or water on the moon because it has no atmosphere and all the water on the surface is frozen as ice. Also, there is no volcanic activity on the moon to change the lunar surface features. Nothing gets washed away, and nothing gets folded back inside.
-
-However, the Moon is exposed to bombardment by meteorites, which change the surface. One little spacerock could easily wipe out a footprint on the moon. And since the Moon has no atmosphere, it is exposed to the solar wind, a stream of charged particles coming from the sun, and over time this acts almost like weather on Earth to scour surfaces on the moon, but the process is very, very slow.
-
-    There is no air/wind whatsoever to disturb the detailed impressions made by the bottoms of astronauts’ feet in the dust on the Moon.
-    In addition, bombardment from the solar wind has give moon dust electrical charges which tend to hold it together.
-    Over millennia, bombardment from micro-meteoroids will degrade the foot prints and other features on the Moon, by the same processes which made the dust originally. Do not wait up for this.
-
-IN A NUTSHELL: They’re as sharp as they should be in dry, jagged, electrostatically charged moondust in a low-gravity vacuum, which behaves quite differently than weathered sand in Earth’s atmosphere and gravity.
-
- In NASA Mooned America!, Ralph Rene claims that “clear tracks in deep dust require moisture; otherwise they form only indistinct depressions [...] There can be no moisture on the Moon [...] And yet, every picture allegedly taken on the Moon shows clear footprints” (page 7). In other words, sharply outlined bootprints such as the famous one shown in Figure 8.15-1 are said to be impossible on the Moon.
- 
- Proponents of this claim, however, fail to consider that sand on Earth is exposed to very different conditions than dust on the Moon.
-
-First of all, on Earth, the wind, the flow of water and other natural phenomena constantly move and churn the grains of sand against each other, smoothing their surfaces and reducing their friction. On the Moon this smoothing doesn’t occur, and therefore the grains of lunar “sand” (termed regolith in geological jargon) are sharp-edged and uneven. Accordingly, they tend to lock together and stick to each other far more than Earth sand, much like a stack of smooth river stones will collapse easily while a similar pile of jagged rocks will keep its shape. This leads to higher cohesion and sharper footprints.
-
-Then there’s gravity, which is one sixth of the Earth’s. Stacked moondust particles are pulled down by weaker forces than on our planet and therefore the edges of footprints, for example, hold their shape more easily.
-
-Finally, there’s electrostatic attraction. Lunar regolith has a considerable electrostatic charge and therefore its grains tend to cling to each other more than ordinary Earth sand, in the same way that dust clings to an electrostatically charged glass surface
-
-These differences, therefore, allow lunar regolith to form far sharper prints than sand on Earth.
-
+- C'est vrai que sur Terre, quand vous marchez sur du sable sec, vous avez tendance à faire de gros trous circulaires plutôt que de belles empreintes. Ça c’est dû à la forme des grains de sables. Si vous regardez des grains de sable au microscope vous verrez qu’ils sont en général assez ronds et assez lisses, à cause de l’action de l’eau et du vent qui ont érodé progressivement la surface de ces grains. Du coup ils ont tendance à rouler les uns sur les autres plutôt qu’à se coller entre eux.
+- Mais du coup si vous voulez faire de belles empreintes bien nettes, sur Terre il vous faut du sable mouillé, parce que les molécules d’eau vont agir un peu comme une colle qui va lier les grains de sables entre eux.
+- Mais sur la Lune, il n’y a pas d’eau liquide. Du coup on peut légitiment se demander ce qui peut bien rendre les empreintes de bottes des astronautes aussi nettes.
+- Pour comprendre ça, il faut savoir que les propriétés du sol lunaire sont très différentes des propriétés du sable sur Terre.
+- Le sol lunaire est recouvert d'une couche de poussière très fine, qui fait quelques mètres d'épaisseur et qu'on appelle du régolithe. Ce régolithe, il est issu des bombardements de micrométéorites et d'autres particules en provenance de l'espace qui ont concassé la roche lunaire au fil des milliards d'années et l'a transformé en une sorte de poudre avec des propriétés un peu particulières. D'une part les particules de poussière lunaire sont des débris de roches très tranchants, ce qui fait que leur forme leur permet de s’accrocher les uns aux autres assez facilement. Et d'autre part ces débris sont chargées électriquement, du coup y a une force électrostatique qui peut les aider à se coller entre eux. 
+> C’est un peu comme lorsque vous frottez un ballon de baudruche sur vos cheveux, à ce moment là vous chargez électriquement la surface du ballon, et une fois que vous avez fait ça vous pouvez ensuite attirer des petits bouts de papier qui vont se coller sur le ballon.
+- Et du coup ces propriétés de la poussière lunaire font qu’elle va avoir tendance à garder intacte la forme d’une empreinte de pas. Sans compter qu’il n’y a pas d’air ou de vent sur la Lune, du coup ces empreintes devraient rester inchangées pendant des milliards d’années si on n’y touche pas.
 
 ## QUESTION 7 : Il y a des radiations mortelles (Ceinture de Van Allen) dans l’espace, aucun astronaute ne peut les franchir sans mourir. Comment ils ont pu y aller alors qu’il y a des radiations mortelles dans l’espace
 
