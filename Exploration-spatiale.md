@@ -125,38 +125,13 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ## QUESTION 4 : Et pourtant y’en a qui disent que le drapeau ne peut flotter sur la Lune puisqu’il n’y a pas d’air !
 
-- A well-known example is the American flag that Neil Armstrong and Buzz Aldrin placed on the Moon. It appears to flutter in the wind in some photos. How could this happen when the Moon has no wind? In fact, it isn’t fluttering at all. A horizontal rod at the top of the pole holds the flag unfurled. This makes it look like the wind is stopping it from hanging down. And there is a fluttering effect because the weak gravity on the Moon is not strong enough to uncrumple the flag. After a little waving while the astronauts planted the flags into the Moon’s surface, they have remained still ever since.
-
-- CLAIM The American flag was "waving" in the allegedly airless environment of the moon. How can this be? Proof film footage showing the astronauts planting the flag, with the flag clearly waving.
-- ANSWER Of course the flag was "waving" while the astronaut was fiddling with it back and forth as he jammed it into the hole. But the moment he let go of the flag, it mysteriously stopped waving. 
-
-The American flag that Neil Armstrong and “Buzz” Aldrin planted on the moon in 1969 appeared to be blowing in the wind. Conspiracy theorists claim this is proof that the whole thing was staged — because there’s no wind on the moon.
-
-The real story? A horizontal rod had been inserted through a hem at the top of the flag, but the astronauts had trouble pulling the telescoping rod all the way out, leading to that rippling effect. In other words, it was an engineering blunder.
-
-Look again at the image, and in particular along the top edge of the flag, and you will find the answer. A telescopic pole has been extended along the top in order to make the flag fly proudly (yes, NASA really did think of everything).
-
-"Because it’s been set up like this, it appears to be waving in the wind," Ojha explains. "All the wrinkles are there because it’s literally been screwed up for four days en route to the Moon."
-
-The flagpole in those iconic pictures is a clever piece of last-minute engineering, designed to solve two important lunar flag-display problems. First, Apollo 11 (like every other spacecraft in human history) had very little room to spare, and very little available mass to allocate to frivolous things like flagpoles, so the flagpole had to be light and compact. Second, the flag had to look good on camera; with no wind to make it wave, engineers worried that the flag would just droop unimpressively. By the time NASA decided that it wanted Armstrong and Aldrin to plant an American flag on the Moon, NASA engineer Jack Kinzler had just three months to design and build a flagpole that would solve those problems.
-
-To make sure to the flag was properly photogenic and not disappointingly droopy, Kinzler decided to hang its top edge from a horizontal crossbar, which folded out from the top of the flagpole and locked into place. He hemmed the top edge of the flag into a sleeve that would slide over the crossbar, exactly the way a curtain slides onto a curtain rod. The lower corner of the flag would also connect to the flagpole.
-
-For one thing, the flag had just spent the last three days packed tightly in an insulated steel tube attached to the lunar module's ladder, so it arrived at Tranquility Base looking pretty wrinkled. And somehow nobody thought to bring an ironing board to the Moon. "It was kind of a last-minute add-on, and I think that's why they picked that location," said Platoff. The insulated steel case had to protect the flag from the heat of the lunar module's engines, whose exhaust gases could burn as hot as 2,000°F (1,093°C) during landing.
-
-And if the astronauts didn't get the crossbar fully extended (not as easy as it sounds, for people wearing spacesuits and heavy gloves), the flag wouldn't hang perfectly straight, causing the fabric to bunch up in places and heighten the illusion of rippling in a nonexistent lunar breeze.
-
-Maquette avec paille
-
-And the remaining three to five American flags on the Moon may or may not still be recognizable as the Stars and Stripes. The government-issue nylon flags weren't made to stand up to unfiltered UV radiation, micrometeorites, and other "space weathering," and many scientists and engineers over the years have speculated the flags, if they're not tattered to shreds from regolith and micrometeors, are probably bleached white or gray by now. The same is likely true of the Soviet flag on the other side of the Moon.
-
-This flag-raising was strictly a symbolic activity, as the United Nations Treaty on Outer Space precluded any territorial claim. Nevertheless, there were domestic and international debates over the appropriateness of the event. 
-
-They designed a flagpole with a horizontal bar allowing the flag to "fly" without the benefit of wind to overcome the effects of the moon's lack of an atmosphere. O
-
-    A lunar flagpole has three parts. There are two vertical sections, and then the horizontal crossbar that’s hinged at the top of the upper vertical section. To deploy the flag, one astronaut used a sampling hammer to pound the lower vertical section into the ground. The other astronaut extended the telescoping crossbar and raised it to a 90-degree angle with the vertical section to click it into place. Then the two astronauts slid the upper part of the pole into the lower one.
-
-    Once they got the flag up, several factors made it look as though it was flying. First there were wrinkles in it because of how tightly it was packed. And these add to the illusion that the flag is waving. Also, the astronauts didn’t always get the horizontal crossbar extended all the way – they were working in pressurized spacesuits and really cumbersome gloves, after all – which caused the flag to bunch up in places. That also made it look like it’s waving.
+- Ah cette question là c’est un classique, c’est un peu l’argument qui revient le plus souvent chez les personnes qui croient que les missions Apollo ont été mises en scène.
+- Et effectivement, quand on regarde les films et les photos de la mission Apollo 11, on a bien l’impression que le drapeau est en train de flotter. Mais en fait, si on regarde attentivement, c’est pas du tout le cas.
+- Comme vous l’avez très justement fait remarquer, il n’y a pas d’air sur la lune, donc rien qui puisse faire flotter le drapeau. Et pour le coup, les ingénieurs de la NASA étaient très au courant de ça. On leur avait demandé de faire en sorte que le drapeau soit le plus photogénique possible, et le truc c’est que si vous avez un drapeau qui retombe mollement dès qu’on le plante, symboliquement ça serait quand même assez décevant.
+- Du coup, les ingénieurs ont du innover en dernière minute. Du coup, ils ont conçu une petite tige télescopique horizontale qui se déployait sur le haut du drapeau, et qui permettait au drapeau américain d’être bien visible tout le temps devant les caméras sans qu’on ait besoin de le tenir. Et ça, sur les photos, ça donne l’illusion que le drapeau flotte. 
+- Un autre truc qui peut ajouter à l’illusion, c’est que le drapeau était un peu froissé lorsqu’il est arrivé sur la lune, et évidemment personne sur place n’avait de fer à repasser pour le rendre plus présentable. Sans compter que Neil Armstrong et Buzz Aldrin ont pas mal galéré à déployer la tige télescopique jusqu’au bout avec leurs gros gants pas du tout pratiques, du coup ça a créé d’autres boursouflures dans le tissu du drapeau.
+- Donc voilà, une tige télescopique, rien de plus. Il faut avouer que c’était assez malin comme solution, mais les ingénieurs de la NASA de l’époque n’avaient pas pensé que ça ferait jaser les conspirationnistes des décennies plus tard.
+- Pour la petite anecdote, il y a aujourd’hui 6 drapeaux américains à la surface de la Lune, et ils sont tous complètement délavés par des décennies d’exposition aux rayonnements ultraviolets du Soleil. Autrement dit, de nos jours ces drapeaux sont tout blanc ! Et je trouve ça très ironique que ces symboles de la guerre froide aient fini par devenir malgré eux des symboles de paix.
 
 ## QUESTION 5 : On a de gros télescope sur Terre, alors pourquoi on ne voit pas le drapeau ?
 
