@@ -136,6 +136,7 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 ## QUESTION 5 : On a de gros télescope sur Terre, alors pourquoi on ne voit pas le drapeau ?
 
 - Grand Télescope des îles Canaries »), appelé quelquefois GranTeCan, est un télescope de 10,4 mètres de diamètre 
+- Dans l'espace le plus grand télescope qui existe actuellement c'est le JWST, le James Webb Space Telescope, et son miroir principal ne fait que 6,5 m de diamètre !
 - Sur Terre, nos télescopes sont limités en précision par les mouvements d'air de l'atmosphère, ça floute un peu les images
 
 Hubble’s resolution on the Moon is about 200 meters! In other words, even a football stadium on the Moon would look like a dot to Hubble.
