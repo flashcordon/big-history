@@ -36,6 +36,15 @@
 - [Moon hoax: why not use telescopes to look at the landers?](https://www.discovermagazine.com/the-sciences/moon-hoax-why-not-use-telescopes-to-look-at-the-landers) - Discover Magazine
 - [Listen to the declassified, creepy space “music” NASA astronauts heard orbiting the far side of the moon](https://qz.com/621972/listen-to-the-declassified-creepy-space-music-nasa-astronauts-heard-orbiting-the-far-side-of-the-moon/) - Quartz
 - [NASA releases recording of ‘outer-space type music’ from far side of the moon](http://edition.cnn.com/2016/02/21/world/far-side-moon-music/) - CNN
+- [Mythbusters Moon Hoax Footprint](https://youtu.be/eTYCz4ft8yw) - Mythbusters
+- [The Apollo Moon Hoax: Footprints Need Water to Form, Right? And How Hoaxers Argue](https://pseudoastro.wordpress.com/2009/07/16/the-apollo-moon-hoax-footprints-need-water-to-form-right-and-how-hoaxers-argue/) - Exposing PseudoAstronomy
+- [How Long Do Footprints Last on the Moon?](https://www.space.com/14740-footprints-moon.html) - Space.com
+- [How is a footprint left in lunar dust which clearly shows the fine details of the bottom of the astronaut's boot in dust that has never had water on it?](https://www.quora.com/How-is-a-footprint-left-in-lunar-dust-which-clearly-shows-the-fine-details-of-the-bottom-of-the-astronauts-boot-in-dust-that-has-never-had-water-on-it) - Quora
+- [How can the astronauts’ footprints be so sharp?](http://www.moonhoaxdebunked.com/2017/07/813-how-can-astronauts-footprints-be-so.html) - MOON HOAX: DEBUNKED!
+- [Régolithe : qu'est-ce que c'est ?](https://www.futura-sciences.com/sciences/definitions/planetes-regolithe-13527/) - Futura Sciences
+- [NASA releases strange 'music' heard by 1969 astronauts](https://phys.org/news/2016-02-nasa-strange-music-heard-astronauts.html) - Physorg
+- [Hear the Declassified, Eerie “Space Music” Heard During the Apollo 10 Mission (1969)](https://www.openculture.com/2016/02/hear-the-declassified-eerie-space-music-heard-during-the-apollo-10-mission-1969.html) - Open Culture
+- [Apollo 10](https://archive.org/details/Apollo10) - Internet archive
 
 ---
 
@@ -145,17 +154,6 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ## QUESTION 6 : J’ai lu que l’empreinte des astronautes est trop nette comme si on marchait sur du sable mouillé. Sauf qu’il n’y a pas d’eau sur la Lune
 
-*Sources *
-
-- [Mythbusters Moon Hoax Footprint](https://youtu.be/eTYCz4ft8yw) - Mythbusters
-- [The Apollo Moon Hoax: Footprints Need Water to Form, Right? And How Hoaxers Argue](https://pseudoastro.wordpress.com/2009/07/16/the-apollo-moon-hoax-footprints-need-water-to-form-right-and-how-hoaxers-argue/) - Exposing PseudoAstronomy
-- [How Long Do Footprints Last on the Moon?](https://www.space.com/14740-footprints-moon.html) - Space.com
-- [How is a footprint left in lunar dust which clearly shows the fine details of the bottom of the astronaut's boot in dust that has never had water on it?](https://www.quora.com/How-is-a-footprint-left-in-lunar-dust-which-clearly-shows-the-fine-details-of-the-bottom-of-the-astronauts-boot-in-dust-that-has-never-had-water-on-it) - Quora
-- [How can the astronauts’ footprints be so sharp?](http://www.moonhoaxdebunked.com/2017/07/813-how-can-astronauts-footprints-be-so.html) - MOON HOAX: DEBUNKED!
-- [Régolithe : qu'est-ce que c'est ?](https://www.futura-sciences.com/sciences/definitions/planetes-regolithe-13527/) - Futura Sciences
-
---- 
-
 - C'est vrai que sur Terre, quand vous marchez sur du sable sec, vous avez tendance à faire de gros trous circulaires plutôt que de belles empreintes. Ça c’est dû à la forme des grains de sables. Si vous regardez des grains de sable au microscope vous verrez qu’ils sont en général assez ronds et assez lisses, à cause de l’action de l’eau et du vent qui ont érodé progressivement la surface de ces grains. Du coup ils ont tendance à rouler les uns sur les autres plutôt qu’à se coller entre eux.
 - Mais du coup si vous voulez faire de belles empreintes bien nettes, sur Terre il vous faut du sable mouillé, parce que les molécules d’eau vont agir un peu comme une colle qui va lier les grains de sables entre eux.
 - Mais sur la Lune, il n’y a pas d’eau liquide. Du coup on peut légitiment se demander ce qui peut bien rendre les empreintes de bottes des astronautes aussi nettes.
@@ -191,14 +189,6 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 ![valallenapoollo11](https://cdn.thewire.in/wp-content/uploads/2019/06/08203442/Apollo-11_flight-path.gif)
 
 ## QUESTION 8 : Les astronautes ont capté des sons autour de la Lune, est-ce que ça veut dire qu’il y a des extraterrestres sur la Lune ?
-
-*Sources*
-
-- [NASA releases strange 'music' heard by 1969 astronauts](https://phys.org/news/2016-02-nasa-strange-music-heard-astronauts.html) - Physorg
-- [Hear the Declassified, Eerie “Space Music” Heard During the Apollo 10 Mission (1969)](https://www.openculture.com/2016/02/hear-the-declassified-eerie-space-music-heard-during-the-apollo-10-mission-1969.html) - Open Culture
-- [Apollo 10](https://archive.org/details/Apollo10) - Internet archive
-
----
 
 - Alors j’aurais bien aimé que ça soit des aliens mais malheureusement non.
 - Cette histoire de son de l’espace est véridique, elle nous vient de la mission Apollo 10, qui était la mission qui précédait celle qui allait envoyer Neil Armstrong et Buzz Aldrin faire les premiers pas sur la Lune.
