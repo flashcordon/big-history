@@ -127,6 +127,15 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 
 ## QUESTION 1 : Pourquoi ont-ils décidé d’aller sur la Lune ? 
 
+- Il faut se remettre dans le contexte de l’époque. À la fin de la seconde guerre mondiale, y a deux superpuissances qui émergent : d’un côté les États Unis, et de l’autre l’union soviétique. Ces deux superpuissances sont pour des organisations de société et des modes de vie radicalement différents.
+- Et comme ces deux superpuissances veulent montrer au monde entier qu’elles sont la plus forte, elles vont se mettre à développer des armes de plus en plus massives et de plus en plus destructrices, mais sans se faire la guerre de manière frontale.
+- Ça donne lieu à une période qu’on appelle la Guerre froide qui va être caractérisée par une double course entre les 2 superpuissances : une course aux armements d’un côté (on va chercher à développer des missiles nucléaires capables d’atteindre les pays ennemis), et puis une course à l’espace de l’autre (on va chercher à développer des fusées et des sondes pour explorer l’espace et prouver qu’on a la supériorité technologique). 
+- Les premières étapes de cette course à l’espace vont être largement gagnées par les soviétiques. C’est eux qui envoient Sputnik, le premier satellite autour de la Terre, c’est aussi eux qui envoient le premier homme et la première femme dans l’espace, Yuri Gagarine et Valentina Tereshkova.
+- Du coup les américains sont un peu traumatisés par tout ça, et à la fin des années 50 ils décident de se lancer un défi extrêmement ambitieux, qui est d’envoyer les premiers humains (américains) marcher sur la Lune, et ça dans un délai extrêmement court de 10 ans à peine. Et c’est comme ça qu’est né le programme Apollo.
+- Dans ce contexte y a un discours politique qui est entré dans l’Histoire, qui a été donné par le président John F Kennedy dans une université américaine, en 1962, et dans lequel il a déclaré : "nous avons choisi d'aller sur la Lune au cours de cette décennie et d'accomplir d'autres choses encore, non pas parce que c'est facile, mais justement parce que c'est difficile". Donc à travers ces mots on voit bien que le but des missions Apollo il est essentiellement patriotique : il s’agit de redorer le blason des États Unis, c’est une question de prestige international.
+- Et comme vous le savez certainement, la promesse de Kennedy a été tenue, et ce sont bien des américains qui ont posé le pied sur la Lune pour la première fois de l’histoire,en 1969, à l’occasion de la mission Apollo 11.
+- On a tendance à ne retenir que celle-là, mais des missions Apollo, y en a eu en tout 17, et 6 d’entre elles ont emporté une douzaine d’humains à la surface de la Lune. Et depuis la fin du programme Apollo on y est toujours pas retourné depuis.
+
 ## QUESTION 2 : Comment les hommes sont-ils parvenus à aller sur la Lune ? 
 
 ## QUESTION 3 : Pourquoi certains disent qu’on n’est pas allés sur la Lune ?
