@@ -24,19 +24,18 @@
 - [Third-party evidence for Apollo Moon landings](https://en.wikipedia.org/wiki/Third-party_evidence_for_Apollo_Moon_landings) - Wikipédia
 - [List of retroreflectors on the Moon](https://en.wikipedia.org/wiki/List_of_retroreflectors_on_the_Moon) - Wikipédia
 - [On n'a pas dansé sur la Lune](https://youtu.be/BrEtgFHVvkY) - Defakator
-- https://www.rmg.co.uk/stories/topics/moon-landing-conspiracy-theories-debunked
-- https://www.forbes.com/sites/kionasmith/2019/07/20/how-apollo-11-raised-the-flag-on-the-moon-and-what-it-means-today/?sh=a965d946f9ec
-- https://earthsky.org/space/planting-flag-on-moon-apollo11/
-- https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/flag/flag.htm
-- https://www.nasa.gov/sites/default/files/files/SMIII_Problem7.pdf
-- https://science.thewire.in/the-sciences/apollo-11-van-allen-radiation-belts-translunar-injection/
-- https://youtu.be/bLtgS2_qxJk
-- https://www.askamathematician.com/2015/12/q-why-cant-we-see-the-lunar-landers-from-the-apollo-missions-with-the-hubble-or-any-other-telescope/ 
-- http://curious.astro.cornell.edu/about-us/45-our-solar-system/the-moon/the-moon-landings/122-are-there-telescopes-that-can-see-the-flag-and-lunar-rover-on-the-moon-beginner
-- https://www.discovermagazine.com/the-sciences/moon-hoax-why-not-use-telescopes-to-look-at-the-landers
-- https://qz.com/621972/listen-to-the-declassified-creepy-space-music-nasa-astronauts-heard-orbiting-the-far-side-of-the-moon/
-- http://edition.cnn.com/2016/02/21/world/far-side-moon-music/
-- https://youtu.be/bLtgS2_qxJk
+- [Moon landing conspiracy theories, debunked](https://www.rmg.co.uk/stories/topics/moon-landing-conspiracy-theories-debunked) - Royal Museums Greenwich
+- [How Apollo 11 Raised The Flag On The Moon, And What It Means Today](https://www.forbes.com/sites/kionasmith/2019/07/20/how-apollo-11-raised-the-flag-on-the-moon-and-what-it-means-today/?sh=a965d946f9ec) - Forbes
+- [Planting a flag on the moon](https://earthsky.org/space/planting-flag-on-moon-apollo11/) - EarthSky
+- [Where No Flag Has Gone Before: Political and Technical Aspects of Placing a Flag on the Moon](https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/flag/flag.htm) - NASA
+- [The Deadly Van Allen Belts?](https://www.nasa.gov/sites/default/files/files/SMIII_Problem7.pdf) - NASA
+- [How NASA Worked Around Earth’s Radiation Belts to Land Apollo 11 on the Moon](https://science.thewire.in/the-sciences/apollo-11-van-allen-radiation-belts-translunar-injection/) - The Wire
+- [Yes, Apollo Flew Through the Van Allen Belts Going to the Moon](https://youtu.be/bLtgS2_qxJk) - Vintage Space
+- [Why can’t we see the lunar landers from the Apollo missions with the Hubble (or any other) telescope?](https://www.askamathematician.com/2015/12/q-why-cant-we-see-the-lunar-landers-from-the-apollo-missions-with-the-hubble-or-any-other-telescope/) - Ask a mathematician
+- [Are there telescopes that can see the flag and lunar rover on the Moon? (Beginner)](http://curious.astro.cornell.edu/about-us/45-our-solar-system/the-moon/the-moon-landings/122-are-there-telescopes-that-can-see-the-flag-and-lunar-rover-on-the-moon-beginner) - Ask an astronomer
+- [Moon hoax: why not use telescopes to look at the landers?](https://www.discovermagazine.com/the-sciences/moon-hoax-why-not-use-telescopes-to-look-at-the-landers) - Discover Magazine
+- [Listen to the declassified, creepy space “music” NASA astronauts heard orbiting the far side of the moon](https://qz.com/621972/listen-to-the-declassified-creepy-space-music-nasa-astronauts-heard-orbiting-the-far-side-of-the-moon/) - Quartz
+- [NASA releases recording of ‘outer-space type music’ from far side of the moon](http://edition.cnn.com/2016/02/21/world/far-side-moon-music/) - CNN
 
 ---
 
