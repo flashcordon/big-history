@@ -148,11 +148,11 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 *Sources *
 
 - [Mythbusters Moon Hoax Footprint](https://youtu.be/eTYCz4ft8yw) - Mythbusters
-- https://pseudoastro.wordpress.com/2009/07/16/the-apollo-moon-hoax-footprints-need-water-to-form-right-and-how-hoaxers-argue/
-- https://www.space.com/14740-footprints-moon.html
-- https://www.quora.com/How-is-a-footprint-left-in-lunar-dust-which-clearly-shows-the-fine-details-of-the-bottom-of-the-astronauts-boot-in-dust-that-has-never-had-water-on-it
-- http://www.moonhoaxdebunked.com/2017/07/813-how-can-astronauts-footprints-be-so.html
-- https://www.futura-sciences.com/sciences/definitions/planetes-regolithe-13527/
+- [The Apollo Moon Hoax: Footprints Need Water to Form, Right? And How Hoaxers Argue](https://pseudoastro.wordpress.com/2009/07/16/the-apollo-moon-hoax-footprints-need-water-to-form-right-and-how-hoaxers-argue/) - Exposing PseudoAstronomy
+- [How Long Do Footprints Last on the Moon?](https://www.space.com/14740-footprints-moon.html) - Space.com
+- [How is a footprint left in lunar dust which clearly shows the fine details of the bottom of the astronaut's boot in dust that has never had water on it?](https://www.quora.com/How-is-a-footprint-left-in-lunar-dust-which-clearly-shows-the-fine-details-of-the-bottom-of-the-astronauts-boot-in-dust-that-has-never-had-water-on-it) - Quora
+- [How can the astronauts’ footprints be so sharp?](http://www.moonhoaxdebunked.com/2017/07/813-how-can-astronauts-footprints-be-so.html) - MOON HOAX: DEBUNKED!
+- [Régolithe : qu'est-ce que c'est ?](https://www.futura-sciences.com/sciences/definitions/planetes-regolithe-13527/) - Futura Sciences
 
 --- 
 
@@ -195,8 +195,8 @@ So the picture you take is set for bright objects. Stars are faint objects! In t
 *Sources*
 
 - [NASA releases strange 'music' heard by 1969 astronauts](https://phys.org/news/2016-02-nasa-strange-music-heard-astronauts.html) - Physorg
-- https://www.openculture.com/2016/02/hear-the-declassified-eerie-space-music-heard-during-the-apollo-10-mission-1969.html
-- https://archive.org/details/Apollo10
+- [Hear the Declassified, Eerie “Space Music” Heard During the Apollo 10 Mission (1969)](https://www.openculture.com/2016/02/hear-the-declassified-eerie-space-music-heard-during-the-apollo-10-mission-1969.html) - Open Culture
+- [Apollo 10](https://archive.org/details/Apollo10) - Internet archive
 
 ---
 
