@@ -207,9 +207,6 @@ cf plus haut
 - Du coup, deux jours après sa fameuse interview, Pesquet a écrit un long message à chaud sur Twitter, c’est un petit coup de gueule que je vous recommande d’aller lire, je vous ai sélectionné un petit extrait qui dit : « Mais pourquoi doit-on perdre un temps précieux avec ça une fois de plus : bien sûr que oui, l’humain est allé sur la lune pendant les missions Apollo. Et on va y retourner. ». « En vrai ca me saoule d’écrire tout ça. Je devrais être plus patient, mais c’est rageant. Les mecs qui vous disent « on vous ment, regardez, la vérité est ici, moi je ne vous mens pas, bien sûr », ça ne paraît pas un peu facile ? Ils ont tout à y gagner. Et surtout ça nie tout le (vrai) boulot incroyable que des milliers de gens font dans le monde pour les missions spatiales (entre autres). Ils/elles méritent mieux que ça. Et on ne parle même pas des gens qui ont en plus risqué leur vie pour ces missions… »  Et le fil Twitter se conclut par le message suivant: « Si vous êtes pris là-dedans de bonne foi, ça arrive : sortez de Twitter et essayez par exemple de trouver l’info dans les livres. C’est plus sûr. » Et personnellement je suis plutôt d’accord avec ça.
 - Donc voilà, il faut faire très attention lorsque vous voyez ce genre de courtes vidéos virales passer sur les réseaux sociaux. Souvent ce sont des extraits qui sont sortis de leur contexte, et ils sont souvent utilisés par des gens mal intentionnés ou par des gens avec une intention politique plus ou moins cachée pour manipuler un grand nombre de personnes. C’est extrêmement facile à produire ce genre de vidéo, et c’est extrêmement facile de se faire avoir, donc soyez prudents.
 
-## QUESTION 10 : Est-ce que toi, tu es souvent confronté à des gens qui ne croient pas que nous sommes allés sur la Lune ? C’est une minorité ? 
-
-
 # Le corps humain dans l’espace
 
 *Sources* 
