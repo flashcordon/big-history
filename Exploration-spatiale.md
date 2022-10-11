@@ -45,6 +45,7 @@
 - [NASA releases strange 'music' heard by 1969 astronauts](https://phys.org/news/2016-02-nasa-strange-music-heard-astronauts.html) - Physorg
 - [Hear the Declassified, Eerie “Space Music” Heard During the Apollo 10 Mission (1969)](https://www.openculture.com/2016/02/hear-the-declassified-eerie-space-music-heard-during-the-apollo-10-mission-1969.html) - Open Culture
 - [Apollo 10](https://archive.org/details/Apollo10) - Internet archive
+- https://www.liberation.fr/checknews/non-thomas-pesquet-na-pas-admis-dans-une-interview-que-lhomme-nest-jamais-alle-sur-la-lune-20220831_24KNJ67DZBH5ZEV7XNZE6BDTH4/ 
 
 ---
 
