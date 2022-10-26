@@ -20,6 +20,10 @@
 - [Populating the periodic table: Nucleosynthesis of the elements](https://science.sciencemag.org/content/363/6426/474) - Johnson (2019)
 - [The Primordial Lithium Problem](https://www.annualreviews.org/doi/10.1146/annurev-nucl-102010-130445) - Fields (2011)
 
+## Physique des particules
+
+- [A Pedagogical Review of Electroweak Symmetry Breaking Scenarios](https://arxiv.org/abs/0910.5095) - Bhattacharyya (2009)
+
 ## Sciences du système Terre
 
 - [Mineral Evolution](https://hazen.carnegiescience.edu/sites/hazen.gl.ciw.edu/files/242-Hazen-AmMin-2008.pdf) - Hazen (2008)
