@@ -573,6 +573,12 @@ chloroplasts, which are bounded by a double membrane.
 
 ## Exobiologie
 
+*Sources*
+
+- [Exobiologie : la vie extraterrestre pourrait être pourpre ](https://www.futura-sciences.com/sciences/actualites/exobiologie-exobiologie-vie-extraterrestre-pourrait-etre-pourpre-10679/) - Futura Sciences (2018)
+
+---
+
 - L'utilisation sélective de la lumière du Soleil par les plantes donne une signature spectrale particulière à la végétation de surface, qui est détectable par des spectrographes depuis l'espace. Ces signatures pourraient constituer un biomarqueur de surface, car elles modifient la réflectivité de cette dernière.
 > * La première de ces signatures est une augmentation localisée de la réflectivité des organismes photosynthétiques autour de 550 nm, une signature appelée ***bosse de la chlorophylle*** (ou "green bump")
 > * La deuxième, beaucoup plus marquée, est une brusque augmentation (de quelques %) de la réflectivité autour de 700 nm, soit au niveau de l'infrarouge proche. Cette augmentation, appelée en anglais ***Vegetation Red Edge (VRE)*** (qu'on peut traduire par "remontée brusque de la réflectivité de la végétation dans le rouge"), est aussi due à la chlorophylle. Contrairement à la bosse de la chlorophylle, qui donne aux plantes leur couleur verte, la VRE est invisible pour l'oeil humain.
