@@ -9,7 +9,9 @@
 - [Naturalness after the Higgs](https://cerncourier.com/a/naturalness-after-the-higgs/) - CERN
 - [A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/) - Quanta Magazine
 - [The Dawn of the Post-Naturalness Era](https://arxiv.org/abs/1710.07663) - Giudice (2017)
-
+- [A Lecture on the Hierarchy Problem and Gravity](https://cds.cern.ch/record/2120792/files/CERN-2013-003-p145.pdf) - Dvali (2013) 
+- [The Higgs & the Hierarchy Problem](https://www.youtube.com/watch?v=iywSF7BGhyU) - Anna Barth
+- [Big Mysteries: The Higgs Mass](https://www.youtube.com/watch?v=IjCypYnBYwQ) - Fermilab
 
 ---
 
