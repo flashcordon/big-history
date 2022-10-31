@@ -80,6 +80,7 @@
 # L'univers est-il isotrope ?
 
 - [Probing cosmic isotropy with a new X-ray galaxy cluster sample through the LX–T scaling relation](https://www.aanda.org/articles/aa/full_html/2020/04/aa36602-19/aa36602-19.html) - Migkas et al (2020)
+- [Observation d'une anisotropie de l'Univers !](https://www.ca-se-passe-la-haut.fr/2020/04/observation-dune-anisotropie-de-lunivers.html) - Ca se passe là-haut
 
 ---
 
