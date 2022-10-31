@@ -8,6 +8,7 @@
 - [The Mystery of the Higgs Boson's Mass](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTYyNjEzLnJzcw/episode/QnV6enNwcm91dC04OTE4NTUw) - Why this universe
 - [Naturalness after the Higgs](https://cerncourier.com/a/naturalness-after-the-higgs/) - CERN
 - [A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/) - Quanta Magazine
+- [The Dawn of the Post-Naturalness Era](https://arxiv.org/abs/1710.07663) - Giudice (2017)
 
 
 ---
