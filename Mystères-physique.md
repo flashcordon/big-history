@@ -77,5 +77,10 @@
 
 # Le problème du lithium
 
-# L'univers est-il anisotrope ?
+# L'univers est-il isotrope ?
 
+- [Probing cosmic isotropy with a new X-ray galaxy cluster sample through the LX–T scaling relation](https://www.aanda.org/articles/aa/full_html/2020/04/aa36602-19/aa36602-19.html) - Migkas et al (2020)
+
+---
+
+- The isotropy of the late Universe and consequently of the X-ray galaxy cluster scaling relations is an assumption greatly used in astronomy. However, within the last decade, many studies have reported deviations from isotropy when using various cosmological probes; a definitive conclusion has yet to be made. New, effective and independent methods to robustly test the cosmic isotropy are of crucial importance.
