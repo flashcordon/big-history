@@ -6,6 +6,9 @@
 - [The Hierarchy Problem](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-hierarchy-problem/) - Matt Strassler 
 - [The Higgs, The Hierarchy Problem, and the LHC](https://www2.physics.ox.ac.uk/sites/default/files/2014-11-24/higgs_lhc_jmr_nov14_pdf_93873.pdf) - John March-Russell
 - [The Mystery of the Higgs Boson's Mass](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTYyNjEzLnJzcw/episode/QnV6enNwcm91dC04OTE4NTUw) - Why this universe
+- [Naturalness after the Higgs](https://cerncourier.com/a/naturalness-after-the-higgs/) - CERN
+- [A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/) - Quanta Magazine
+
 
 ---
 
@@ -31,6 +34,7 @@
 - Many theoretical physicists have devoted significant fractions of their careers to trying to solve this problem. Some have argued that new particles and new forces are needed (and their theories go by names such as supersymmetry, technicolor , little Higgs, etc.) Some have argued that our understanding of gravity is mistaken and that there are new unknown dimensions (“extra dimensions”) of space that will become apparent to our experiments at the Large Hadron collider in the near future. Others have argued that there is nothing to explain, because of a selection effect: the universe is far larger and far more diverse than the part that we can see, and we live in an apparently unnatural part of the universe mainly because the rest of it is uninhabitable — much the way that although rocky planets are rare in the universe, we live on one because it’s the only place we could have evolved and survived. There may be other solutions to this problem that have not yet been invented.
 - Many of these solutions — certainly all the ones with new particles and forces or with new dimensions — predict that new phenomena should be visible at the Large Hadron Collider. 
 - By the way, you will often read the hierarchy problem stated as a problem with the Higgs particle mass.  This is incorrect.  The problem is with how big the non-zero Higgs field is.  (For experts — quantum mechanics corrects not the Higgs particle mass but the Higgs mass-squared parameter, changing the Higgs field potential energy and thus the field’s value, making it zero or immense.  That’s a disaster because the W and Z masses are known.  The Higgs mass is unknown, and therefore it could be very large — if the W and Z masses were very large too.  So it is the W and Z masses — and the size of the non-zero Higgs field — that are the problem, both logically and scientifically.)
+- 
 
 # Le problème du lithium
 
