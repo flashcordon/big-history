@@ -12,10 +12,14 @@
 - [A Lecture on the Hierarchy Problem and Gravity](https://cds.cern.ch/record/2120792/files/CERN-2013-003-p145.pdf) - Dvali (2013) 
 - [The Higgs & the Hierarchy Problem](https://www.youtube.com/watch?v=iywSF7BGhyU) - Anna Barth
 - [Big Mysteries: The Higgs Mass](https://www.youtube.com/watch?v=IjCypYnBYwQ) - Fermilab
+- [Naturally Speaking: The Naturalness Criterion and Physics at the LHC](https://arxiv.org/abs/0801.2562) - Giudice (2008)
 
 ---
 
-- En une phrase : la masse observée du boson de Higgs est de 125 GeV. Pourtant, des corrections quantiques issues des interactions avec d'autres particules du modèle standard prédisent une masse 17 ordres de grandeur plus grande (au niveau de la masse de Planck). C'est le problème de la hiérarchie électrofaible.
+- Un des problèmes les plus importants de la physique contemporaine
+- coincidence spectaculaire
+- Boson de Higgs prédit en 1954
+- En une phrase : la masse observée du boson de Higgs est de 125 GeV (125 fois la masse du proton ?). Pourtant, des corrections quantiques issues des interactions avec d'autres particules du modèle standard prédisent une masse 17 ordres de grandeur plus grande (au niveau de la masse de Planck). C'est le problème de la hiérarchie électrofaible.
 - The Higgs boson plays a key role in the Standard Model: it is related to the unification of the electromagnetic and weak forces, explains the origin of elementary particle masses
 - Higgs—the last piece of the Standard Model
 - Hierarchy problem. This is often ‘explained’ by saying that quantum corrections want to make the Higgs much heavier than we need it to be… say, 125-ish GeV. 
