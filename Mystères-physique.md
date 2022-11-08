@@ -22,7 +22,7 @@
 - Le boson de Higgs brise la symétrie électrofaible et donne sa masse aux bosons et aux fermions
 - Les particules interagissent avec le champ de Higgs (qui remplit tout l'espace-temps), ce qui réduit leur vitesse. Et plus elles interagissent fortement, plus leur masse est grande (c'est proportionnel).
 - Découvert par le LHC, un accélérateur de particules de 27km de circonférence
-- le higgs est "le seul scalaire fondamental (tous les autres scalaires sont des états composites)"
+- Dans le modèle standard, le higgs est "le seul scalaire fondamental (tous les autres scalaires sont des états composites)"
 - Un des problèmes les plus importants de la physique contemporaine
 - coincidence spectaculaire
 - Boson de Higgs prédit en 1954
