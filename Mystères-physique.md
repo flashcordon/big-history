@@ -15,6 +15,7 @@
 - [Naturally Speaking: The Naturalness Criterion and Physics at the LHC](https://arxiv.org/abs/0801.2562) - Giudice (2008)
 - [Histoire de la cosmologie](https://cosmology.education/booklet/booklet.pdf) - Lucas Gautheron
 - [Naturalness: A Snowmass White Paper](https://arxiv.org/abs/2205.05708) - Craig (2022)
+- ["Particle Physics: The Higgs Boson and Beyond" by Andreas Hoecker (CERN)](https://youtu.be/XX4pL7pwl7w) - SLAC (2012)
 
 ---
 
