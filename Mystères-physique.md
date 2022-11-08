@@ -82,6 +82,15 @@
 
 # Le problème du lithium
 
+*Sources*
+
+
+- [Populating the periodic table: Nucleosynthesis of the elements](https://science.sciencemag.org/content/363/6426/474) - Johnson (2019)
+- [The Primordial Lithium Problem](https://www.annualreviews.org/doi/10.1146/annurev-nucl-102010-130445) - Fields (2011)
+- [The Cosmological Lithium Problem Revisited](https://arxiv.org/abs/1603.03864) - Bertulani et al (2016)
+
+---
+
 # L'univers est-il isotrope ?
 
 - [Probing cosmic isotropy with a new X-ray galaxy cluster sample through the LX–T scaling relation](https://www.aanda.org/articles/aa/full_html/2020/04/aa36602-19/aa36602-19.html) - Migkas et al (2020)
