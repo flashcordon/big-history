@@ -18,6 +18,7 @@
 
 ---
 
+- Le boson de Higgs brise la symétrie électrofaible et donne sa masse aux bosons et aux fermions
 - Un des problèmes les plus importants de la physique contemporaine
 - coincidence spectaculaire
 - Boson de Higgs prédit en 1954
