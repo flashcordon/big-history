@@ -19,6 +19,7 @@
 ---
 
 - Le boson de Higgs brise la symétrie électrofaible et donne sa masse aux bosons et aux fermions
+- Les particules interagissent avec le champ de Higgs (qui remplit tout l'espace-temps), ce qui réduit leur vitesse. Et plus elles interagissent fortement, plus leur masse est grande (c'est proportionnel).
 - Un des problèmes les plus importants de la physique contemporaine
 - coincidence spectaculaire
 - Boson de Higgs prédit en 1954
