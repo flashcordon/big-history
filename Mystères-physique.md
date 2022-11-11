@@ -95,6 +95,68 @@
 
 ---
 
+- Big bang nucleosynthesis (BBN) theory, together with the precise WMAP
+cosmic baryon density, makes tight predictions for the abundances of the
+lightest elements. Deuterium and 4 He measurements agree well with ex-
+pectations, but 7 Li observations lie below the BBN+WMAP prediction by a
+factor of three to four. This 4–5-σ mismatch constitutes the so-called cosmic
+lithium problem;
+- disparate solutions are possible. First, astrophysical system-
+atics in the observations could exist but are increasingly constrained. Second,
+nuclear physics experiments provide a wealth of well-measured cross-section
+data, but 7 Be destruction could be enhanced by unknown or poorly measured
+resonances. Third, physics beyond the Standard Model could alter the 7 Li
+abundance, although deuterium and 4 He must remain unperturbed.
+- Big bang nucleosynthesis (BBN) describes the production of the lightest nuclides—deuterium,
+3 He, 4 He, and 7 Li—at times ranging from ∼1 s to ∼3 min after the big bang. Theoretical predic-
+tions of the light-element abundances are well understood and rest on the secure microphysics of
+nuclear cross sections and Standard Model weak and electromagnetic interactions (1, 2). These pre-
+dictions are in broad quantitative agreement with measured primordial light-element abundances
+derived from observations of the local and high-redshift universe. This concordance represents
+a great success of the hot big bang cosmology and makes BBN our earliest reliable probe of the
+universe.
+- CMB data now
+measure the cosmic baryon density, independently of BBN and with high precision. The CMB
+results cast BBN in a new light: A comparison between these two measurements of cosmic baryons
+provides a strong new test of the basic hot big bang framework (9). Moreover, this test can now
+be performed in a new way, namely through the use of the CMB baryon density as an input to
+the BBN calculation, which outputs predictions for each light-element abundance. Each of these
+predictions can then be directly compared with light-element observations (10). The result is
+that deuterium shows spectacular agreement between BBN+CMB predictions and high-redshift
+observations, and 4 He shows good agreement. However, on the basis of the first-year WMAP
+- data, 7 Li shows a discrepancy of a factor of two to three, which represents a 2–3-σ disagreement
+between observations and theory (11–14). This disagreement has worsened over time; it now
+stands at a factor of three to four in abundance, or 4–5 σ . This disagreement is known as the
+lithium problem.
+- The cosmic production of light nuclides is the result of weak and nuclear reactions in the context
+of an expanding, cooling universe. So-called standard BBN refers to the scenario for light-element
+production, which marries the Standard Model of particle physics with the CDM (standard cold
+dark matter) cosmology, which provides for
+1. gravity governed by general relativity,
+2. a homogeneous and isotropic universe (cosmological principle),
+3. the microphysics of the Standard Model of particle physics, and
+4. the particle content of the Standard Model, supplemented by dark matter and dark energy.
+- Measuring the primordial abundance of any light element remains challenging. The BBN levels
+set at z ∼ 1010 are reliably accessible only in sites at z ≤ 3 and often z ∼ 0. Other nucleosynthesis
+processes have intervened, as evidenced by the nonzero metallicity of all known astrophysical
+systems. Thus, one seeks to measure light elements in the most metal-poor systems, then to
+obtain primordial abundances requires extrapolation to zero metallicity. 
+- Deuterium can be measured directly at high redshift. It is
+present in distant neutral hydrogen gas clouds, which are observed in absorption along sight
+lines to distant quasars. At present, there are seven systems with robust deuterium measurements
+(33–38). These lie around redshift z ∼ 3 and have a metallicity that is ∼10−2 that of solar system
+material; thus, deuterium should be essentially primordial.
+- 4 He can be measured in emission from nearby metal-poor galaxies (extragalactic H II regions).
+- 3 He is at present accessible only in our Galaxy’s interstellar medium (44). This unfortunately
+means it cannot be measured at low metallicity, and so its primordial abundance cannot be deter-
+mined reliably (45); we do not use 3 He to constrain BBN.
+- Lithium is measured in the atmospheres of metal-poor stars in the stellar halo (Pop-
+ulation II) of our Galaxy. Due to convective motions, surface material can be dragged to the hot
+stellar interior, where lithium is burned readily; this effect is evidenced by low lithium abundances
+in cool halo stars.
+- lithium has now been observed in stars in an accreted metal-poor dwarf galaxy
+- 
+
 # L'univers est-il isotrope ?
 
 - [Probing cosmic isotropy with a new X-ray galaxy cluster sample through the LX–T scaling relation](https://www.aanda.org/articles/aa/full_html/2020/04/aa36602-19/aa36602-19.html) - Migkas et al (2020)
