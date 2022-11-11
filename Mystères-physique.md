@@ -16,12 +16,16 @@
 - [Histoire de la cosmologie](https://cosmology.education/booklet/booklet.pdf) - Lucas Gautheron
 - [Naturalness: A Snowmass White Paper](https://arxiv.org/abs/2205.05708) - Craig (2022)
 - ["Particle Physics: The Higgs Boson and Beyond" by Andreas Hoecker (CERN)](https://youtu.be/XX4pL7pwl7w) - SLAC (2012)
+- ["The Once and Future Higgs" by Prof. Nathaniel Craig (University of California, Santa Barbara)](https://youtu.be/GduJt1V2eNk) - TIFR (2021)
 
 ---
 
+- Le modèle standard est constitué de 24 particules fondamentales.
+- Le boson de Higgs joue un rôle fondamental dans le modèle standard
 - Le boson de Higgs brise la symétrie électrofaible et donne sa masse aux bosons et aux fermions
 - Les particules interagissent avec le champ de Higgs (qui remplit tout l'espace-temps), ce qui réduit leur vitesse. Et plus elles interagissent fortement, plus leur masse est grande (c'est proportionnel).
 - Découvert par le LHC, un accélérateur de particules de 27km de circonférence
+- On peut sonder la composition de la matière de plus en plus profondément à mesure que l'on fait des collisions de plus en plus énergétiques
 - Dans le modèle standard, le higgs est "le seul scalaire fondamental (tous les autres scalaires sont des états composites)"
 - Un des problèmes les plus importants de la physique contemporaine
 - coincidence spectaculaire
