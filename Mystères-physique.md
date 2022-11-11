@@ -155,7 +155,61 @@ ulation II) of our Galaxy. Due to convective motions, surface material can be dr
 stellar interior, where lithium is burned readily; this effect is evidenced by low lithium abundances
 in cool halo stars.
 - lithium has now been observed in stars in an accreted metal-poor dwarf galaxy
-- 
+- Prior to WMAP, BBN was the premier means of determining the cosmic baryon density.
+Standard BBN has one free parameter, η, but three light elements—deuterium, 4 He, and 7 Li—have
+well-measured primordial abundances. Thus, the problem is overdetermined: Each element ideally
+selects a given value of η but, allowing for uncertainties, actually selects a range of η. If the different
+ranges are concordant, then BBN and cosmology are judged successful, and the cosmic baryon den-
+sity is measured. This method typically specifies η to within a factor of approximately two 
+- deuterium observations are in spectacular agreement with predictions—the
+likelihoods literally fall on top of one another. This concordance links z ∼ 3 abundance measure-
+ments with z ∼ 1010 theory and z ∼ 1,000 CMB data, in a quantitative convergence that represents
+a triumph of the hot big bang cosmology. Also, the 4 He predictions are in good agreement with
+observations, and as noted in Section 2.2, no reliable primordial 3 He measurements exist.
+Turning to 7 Li, the BBN+WMAP predictions and the measured primordial abundance
+completely disagree: The predictions are substantially higher than the observations. 
+-  The measured primordial 7 Li
+abundance falls persistently and significantly below BBN+WMAP predictions. Moreover, there
+are controversial hints of a primordial 6 Li abundance that is orders of magnitude above the standard
+prediction
+- The lithium problem was brought into sharp relief with the advent of the WMAP era and has
+become increasingly acute since then. Possible solutions can be categorized into three groups,
+according to which part of the preceding analysis is called into question:
+1. Astrophysical solutions revise the measured primordial lithium abundance.
+2. Nuclear physics solutions alter the reaction flow into and out of mass-7.
+3. Solutions beyond the Standard Model invoke new particle physics or nonstandard cosmo-
+logical physics.
+- Astrophysical Solutions
+First, we consider the possibility that BBN predictions are sound, that is, that standard cosmology
+and particle physics are correct, and the nuclear physics of mass-7 production is properly calculated.
+If so, then the measured value of the primordial lithium abundance must be in error. In particular,
+the true value must be higher by a factor of three to four.
+As described in Section 2.2, lithium abundances are measured via absorption lines in the pho-
+tospheres of primitive, low-metallicity stars. For each star, the lithium line strength is used to infer
+the Li/H abundance. Lithium abundances are nearly insensitive to metallicity (Figure 3)—this
+Spite plateau implies that lithium is independent of Galactic nucleosynthesis and is primordial, and
+the plateau level is taken as the primordial abundance. If missteps exist in this chain of reasoning,
+the lithium problem could be alleviated.
+-  there are disparate explanations for the lithium problem(s). Fortunately,
+most of them will become testable in the near future. These potential explanations include the
+following.
+1. Astronomical observations. Recent indications of lithium depletion in extremely metal-poor
+halo stars are tantalizing. In the coming era of large, deep sky surveys such as LSST, we may
+expect that many more such stars will be identified and that the lithium trends will be explored
+in large statistical samples, which will require careful comparison with theory. Observations
+of 6 Li remain challenging, and it remains unclear what trends exist with metallicity. Great
+insight would result from alternative measures of primordial lithium, for instance, in the
+interstellar medium of metal-poor galaxies nearby or at high redshift.
+2. Nuclear experiments. The enormous effort of the nuclear community has empirically pinned
+down nearly all nuclear inputs to BBN. Remaining are a few known or proposed resonances
+that would amplify 7 Be destruction. These resonances are within the reach of present facil-
+ities, so the nuclear physics of standard BBN can and will be fully tested.
+3. Collider and dark matter experiments. The LHC is operational, and much of minimal
+supersymmetry lies within its reach. The discovery of supersymmetry would revolutionize
+particle physics and cosmology and would transform decaying particle BBN scenarios into
+canonical early universe cosmology. Alternatively, if the LHC fails to find supersymmetry
+and/or finds surprises of some other kind, it will represent a paradigm shift for particle
+physics and particle cosmology, and BBN will lie at the heart of this transformation.
 
 # L'univers est-il isotrope ?
 
