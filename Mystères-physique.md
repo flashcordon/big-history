@@ -104,6 +104,7 @@
 
 - Les abondances en hélium-3 sont mesurées dans le milieu interstellaire dans la Voie Lactée, faute de pouvoir les mesurer dans des galaxies lointaines. Comme notre galaxie est riche en éléments lourds, on ne peut pas utiliser pour le moment les abondances en hélium-3 pour contraindre la période de nucléosynthèse primordiale.
 - Les abondances en hélium-4 sont mesurées dans des régions de formation d'étoiles (régions HII) de galaxies voisines pauvres en éléments lourds (metal-poor)
+- Les abondances en lithium sont principalement mesurées dans l'atmosphère de vieilles étoiles pauvres en éléments lourds (des étoiles de population II) présentes dans le halo stellaire de notre Galaxie. Les abondances observées sont relativement faibles, notamment parce que le lithium de l'atmosphère de ces étoiles est en permanence emporté dans les profondeurs par les mouvements convectifs de leur enveloppe, où il est détruit par la chaleur intense.
 
 - Big bang nucleosynthesis (BBN) theory, together with the precise WMAP
 cosmic baryon density, makes tight predictions for the abundances of the
@@ -158,11 +159,6 @@ lines to distant quasars. At present, there are seven systems with robust deuter
 (33–38). These lie around redshift z ∼ 3 and have a metallicity that is ∼10−2 that of solar system
 material; thus, deuterium should be essentially primordial.
 
-- Lithium is measured in the atmospheres of metal-poor stars in the stellar halo (Pop-
-ulation II) of our Galaxy. Due to convective motions, surface material can be dragged to the hot
-stellar interior, where lithium is burned readily; this effect is evidenced by low lithium abundances
-in cool halo stars.
-- lithium has now been observed in stars in an accreted metal-poor dwarf galaxy
 - Prior to WMAP, BBN was the premier means of determining the cosmic baryon density.
 Standard BBN has one free parameter, η, but three light elements—deuterium, 4 He, and 7 Li—have
 well-measured primordial abundances. Thus, the problem is overdetermined: Each element ideally
