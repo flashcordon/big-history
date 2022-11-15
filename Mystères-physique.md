@@ -100,6 +100,11 @@
 - Le ***problème du lithium cosmique*** désigne l'énorme différence entre nos théories et nos observations concernant l'abondance de lithium 7 dans l'univers.
 > On observe 3 à 4 fois moins de lithium 7 dans l'univers que ce qui est préidt par la théorie. Par contre, les abondances d'hélium et de deutérium sont reproduits avec beaucoup de succès.
 
+### Comment mesure t-on les abondances des éléments légers dans l'univers ?
+
+- Les abondances en hélium-3 sont mesurées dans le milieu interstellaire dans la Voie Lactée, faute de pouvoir les mesurer dans des galaxies lointaines. Comme notre galaxie est riche en éléments lourds, on ne peut pas utiliser pour le moment les abondances en hélium-3 pour contraindre la période de nucléosynthèse primordiale.
+- Les abondances en hélium-4 sont mesurées dans des régions de formation d'étoiles (régions HII) de galaxies voisines pauvres en éléments lourds (metal-poor)
+
 - Big bang nucleosynthesis (BBN) theory, together with the precise WMAP
 cosmic baryon density, makes tight predictions for the abundances of the
 lightest elements. Deuterium and 4 He measurements agree well with ex-
@@ -140,20 +145,19 @@ dark matter) cosmology, which provides for
 2. a homogeneous and isotropic universe (cosmological principle),
 3. the microphysics of the Standard Model of particle physics, and
 4. the particle content of the Standard Model, supplemented by dark matter and dark energy.
+
 - Measuring the primordial abundance of any light element remains challenging. The BBN levels
 set at z ∼ 1010 are reliably accessible only in sites at z ≤ 3 and often z ∼ 0. Other nucleosynthesis
 processes have intervened, as evidenced by the nonzero metallicity of all known astrophysical
 systems. Thus, one seeks to measure light elements in the most metal-poor systems, then to
 obtain primordial abundances requires extrapolation to zero metallicity. 
+
 - Deuterium can be measured directly at high redshift. It is
 present in distant neutral hydrogen gas clouds, which are observed in absorption along sight
 lines to distant quasars. At present, there are seven systems with robust deuterium measurements
 (33–38). These lie around redshift z ∼ 3 and have a metallicity that is ∼10−2 that of solar system
 material; thus, deuterium should be essentially primordial.
-- 4 He can be measured in emission from nearby metal-poor galaxies (extragalactic H II regions).
-- 3 He is at present accessible only in our Galaxy’s interstellar medium (44). This unfortunately
-means it cannot be measured at low metallicity, and so its primordial abundance cannot be deter-
-mined reliably (45); we do not use 3 He to constrain BBN.
+
 - Lithium is measured in the atmospheres of metal-poor stars in the stellar halo (Pop-
 ulation II) of our Galaxy. Due to convective motions, surface material can be dragged to the hot
 stellar interior, where lithium is burned readily; this effect is evidenced by low lithium abundances
