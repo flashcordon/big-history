@@ -95,6 +95,11 @@
 
 ---
 
+- La ***nucléosynthèse primordiale*** désigne le processus de formation des noyaux les plus légers dans les conditions ardentes de l'univers primordial, entre 1 s et 3 minutes environ après le Big Bang.
+> À la fin de la période de nucléosynthèse primordiale, l'univers est composé de noyaux d'hydrogène, mais aussi de noyaux d'hélium 3, d'hélium 4 et de lithium 7
+- Le ***problème du lithium cosmique*** désigne l'énorme différence entre nos théories et nos observations concernant l'abondance de lithium 7 dans l'univers.
+> On observe 3 à 4 fois moins de lithium 7 dans l'univers que ce qui est préidt par la théorie. Par contre, les abondances d'hélium et de deutérium sont reproduits avec beaucoup de succès.
+
 - Big bang nucleosynthesis (BBN) theory, together with the precise WMAP
 cosmic baryon density, makes tight predictions for the abundances of the
 lightest elements. Deuterium and 4 He measurements agree well with ex-
@@ -107,8 +112,7 @@ nuclear physics experiments provide a wealth of well-measured cross-section
 data, but 7 Be destruction could be enhanced by unknown or poorly measured
 resonances. Third, physics beyond the Standard Model could alter the 7 Li
 abundance, although deuterium and 4 He must remain unperturbed.
-- Big bang nucleosynthesis (BBN) describes the production of the lightest nuclides—deuterium,
-3 He, 4 He, and 7 Li—at times ranging from ∼1 s to ∼3 min after the big bang. Theoretical predic-
+- Theoretical predic-
 tions of the light-element abundances are well understood and rest on the secure microphysics of
 nuclear cross sections and Standard Model weak and electromagnetic interactions (1, 2). These pre-
 dictions are in broad quantitative agreement with measured primordial light-element abundances
