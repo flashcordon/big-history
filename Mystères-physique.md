@@ -104,7 +104,9 @@
 
 - Les abondances en hélium-3 sont mesurées dans le milieu interstellaire dans la Voie Lactée, faute de pouvoir les mesurer dans des galaxies lointaines. Comme notre galaxie est riche en éléments lourds, on ne peut pas utiliser pour le moment les abondances en hélium-3 pour contraindre la période de nucléosynthèse primordiale.
 - Les abondances en hélium-4 sont mesurées dans des régions de formation d'étoiles (régions HII) de galaxies voisines pauvres en éléments lourds (metal-poor)
-- Les abondances en lithium sont principalement mesurées dans l'atmosphère de vieilles étoiles pauvres en éléments lourds (des étoiles de population II) présentes dans le halo stellaire de notre Galaxie. Les abondances observées sont relativement faibles, notamment parce que le lithium de l'atmosphère de ces étoiles est en permanence emporté dans les profondeurs par les mouvements convectifs de leur enveloppe, où il est détruit par la chaleur intense.
+- Les abondances en lithium sont principalement mesurées dans l'atmosphère de très vieilles étoiles (âgées de 11 à 13,5 milliards d'années) pauvres en éléments lourds présentes dans le halo stellaire de notre Galaxie. On connaît environ une centaine de ces étoiles dites de population II. Les abondances observées sont relativement faibles, notamment parce que le lithium de l'atmosphère de ces étoiles est en permanence emporté dans les profondeurs par les mouvements convectifs de leur enveloppe, où il est détruit par la chaleur intense.
+
+---
 
 - Big bang nucleosynthesis (BBN) theory, together with the precise WMAP
 cosmic baryon density, makes tight predictions for the abundances of the
