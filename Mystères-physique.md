@@ -92,6 +92,7 @@
 - [Populating the periodic table: Nucleosynthesis of the elements](https://science.sciencemag.org/content/363/6426/474) - Johnson (2019)
 - [The Primordial Lithium Problem](https://www.annualreviews.org/doi/10.1146/annurev-nucl-102010-130445) - Fields (2011)
 - [The Cosmological Lithium Problem Revisited](https://arxiv.org/abs/1603.03864) - Bertulani et al (2016)
+- [Etoile de population II](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_II) - WIkipédia
 
 ---
 
