@@ -102,7 +102,7 @@
 > On observe 3 à 4 fois moins de lithium-7 dans l'univers que ce qui est prédit par la théorie. 
 - Par contre, les abondances d'hélium et de deutérium sont reproduites avec beaucoup de succès
 > Ces abondances constituent même l'un des quatre piliers observationnels du modèle du Big Bang chaud.
-- Le problème du lithium est apparu lorsque les astronomes ont commencé à étudier les propriétés du rayonnement de fond diffus cosmologique à l'aide du satellite WMAP.
+- Le problème du lithium est apparu lorsque les astronomes ont commencé à étudier les propriétés du rayonnement de fond diffus cosmologique à l'aide du satellite WMAP, et le désaccord entre théorie et observation est devenu de plus en plus plus important au fil des nouvelles observations (à l'époque de la première fournée de données de WMAP, il n'y avait qu'un facteur 2-3).
 
 ### Comment mesure t-on les abondances des éléments légers dans l'univers ?
 
@@ -118,6 +118,7 @@
 - Soit nos prédictions théoriques (cosmologie+physique des particules) sont correctes, mais ce sont les observations astrophysiques qui sont incomplètes
 > Grâce au LSST, on aura bientôt accès à une population bien plus grande d'étoiles pauvres en éléments lourds qui permettra d'avoir des statistiques plus fiables sur les abondances de lithium.
 - Il pourrait aussi exister des processus encore mal compris au niveau de la physique nucléaire qui pourrait altérer nos prédictions sur les abondances du lithium
+> Ces processus pourraient en particulier détruire plus efficacement le béryllium-7
 - Il pourrait enfin exister des solutions au-delà du modèle standard qui pourrait impliquer de nouveaux processus au niveau cosmologique ou de la physique des particules
 
 
@@ -147,12 +148,6 @@ lightest elements. Deuterium and 4 He measurements agree well with ex-
 pectations, but 7 Li observations lie below the BBN+WMAP prediction by a
 factor of three to four. This 4–5-σ mismatch constitutes the so-called cosmic
 lithium problem;
-- disparate solutions are possible. First, astrophysical system-
-atics in the observations could exist but are increasingly constrained. Second,
-nuclear physics experiments provide a wealth of well-measured cross-section
-data, but 7 Be destruction could be enhanced by unknown or poorly measured
-resonances. Third, physics beyond the Standard Model could alter the 7 Li
-abundance, although deuterium and 4 He must remain unperturbed.
 
 - CMB data now
 measure the cosmic baryon density, independently of BBN and with high precision. The CMB
@@ -160,13 +155,7 @@ results cast BBN in a new light: A comparison between these two measurements of 
 provides a strong new test of the basic hot big bang framework (9). Moreover, this test can now
 be performed in a new way, namely through the use of the CMB baryon density as an input to
 the BBN calculation, which outputs predictions for each light-element abundance. Each of these
-predictions can then be directly compared with light-element observations (10). The result is
-that deuterium shows spectacular agreement between BBN+CMB predictions and high-redshift
-observations, and 4 He shows good agreement. However, on the basis of the first-year WMAP
-- data, 7 Li shows a discrepancy of a factor of two to three, which represents a 2–3-σ disagreement
-between observations and theory (11–14). This disagreement has worsened over time; it now
-stands at a factor of three to four in abundance, or 4–5 σ . This disagreement is known as the
-lithium problem.
+predictions can then be directly compared with light-element observations (10). 
 - The cosmic production of light nuclides is the result of weak and nuclear reactions in the context
 of an expanding, cooling universe. So-called standard BBN refers to the scenario for light-element
 production, which marries the Standard Model of particle physics with the CDM (standard cold
