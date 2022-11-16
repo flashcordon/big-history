@@ -99,13 +99,42 @@
 - La ***nucléosynthèse primordiale*** désigne le processus de formation des noyaux les plus légers dans les conditions ardentes de l'univers primordial, entre 1 s et 3 minutes environ après le Big Bang.
 > À la fin de la période de nucléosynthèse primordiale, l'univers est composé de noyaux d'hydrogène, mais aussi de noyaux d'hélium 3, d'hélium 4 et de lithium 7
 - Le ***problème du lithium cosmique*** désigne l'énorme différence entre nos théories et nos observations concernant l'abondance de lithium 7 dans l'univers.
-> On observe 3 à 4 fois moins de lithium 7 dans l'univers que ce qui est préidt par la théorie. Par contre, les abondances d'hélium et de deutérium sont reproduits avec beaucoup de succès.
+> On observe 3 à 4 fois moins de lithium 7 dans l'univers que ce qui est prédit par la théorie. Par contre, les abondances d'hélium et de deutérium sont reproduits avec beaucoup de succès.
+- Le problème du lithium est apparu lorsque les astronomes ont commencé à étudier les propriétés du rayonnement de fond diffus cosmologique à l'aide du satellite WMAP.
 
 ### Comment mesure t-on les abondances des éléments légers dans l'univers ?
 
 - Les abondances en hélium-3 sont mesurées dans le milieu interstellaire dans la Voie Lactée, faute de pouvoir les mesurer dans des galaxies lointaines. Comme notre galaxie est riche en éléments lourds, on ne peut pas utiliser pour le moment les abondances en hélium-3 pour contraindre la période de nucléosynthèse primordiale.
 - Les abondances en hélium-4 sont mesurées dans des régions de formation d'étoiles (régions HII) de galaxies voisines pauvres en éléments lourds (metal-poor)
 - Les abondances en lithium sont principalement mesurées dans l'atmosphère de très vieilles étoiles (âgées de 11 à 13,5 milliards d'années) pauvres en éléments lourds présentes dans le halo stellaire de notre Galaxie. On connaît environ une centaine de ces étoiles dites de population II. Les abondances observées sont relativement faibles, notamment parce que le lithium de l'atmosphère de ces étoiles est en permanence emporté dans les profondeurs par les mouvements convectifs de leur enveloppe, où il est détruit par la chaleur intense.
+
+### Quelles sont les explications possibles au problème du lithium cosmique ?
+
+- Nos observations astrophysiques peuvent être incomplètes, et ne pas être représentatives des véritables abondances du lithium
+> Grâce au LSST, on aura accès à une population bien plus grande d'étoiles pauvres en éléments lourds qui permettra d'avoir des statistiques plus fiables sur les abondances de lithium.
+- Il pourrait exister des processus encore mal compris au niveau de la physique nucléaire qui pourrait altérer nos prédictions sur les abondances du lithium
+- Il pourrait exister des solutions au-delà du modèle standard qui pourrait impliquer de nouveaux processus au niveau cosmologique ou de la physique des particules
+
+-  there are disparate explanations for the lithium problem(s). Fortunately,
+most of them will become testable in the near future. These potential explanations include the
+following.
+1. Astronomical observations. Recent indications of lithium depletion in extremely metal-poor
+halo stars are tantalizing. In the coming era of large, deep sky surveys such as LSST, we may
+expect that many more such stars will be identified and that the lithium trends will be explored
+in large statistical samples, which will require careful comparison with theory. Observations
+of 6 Li remain challenging, and it remains unclear what trends exist with metallicity. Great
+insight would result from alternative measures of primordial lithium, for instance, in the
+interstellar medium of metal-poor galaxies nearby or at high redshift.
+2. Nuclear experiments. The enormous effort of the nuclear community has empirically pinned
+down nearly all nuclear inputs to BBN. Remaining are a few known or proposed resonances
+that would amplify 7 Be destruction. These resonances are within the reach of present facil-
+ities, so the nuclear physics of standard BBN can and will be fully tested.
+3. Collider and dark matter experiments. The LHC is operational, and much of minimal
+supersymmetry lies within its reach. The discovery of supersymmetry would revolutionize
+particle physics and cosmology and would transform decaying particle BBN scenarios into
+canonical early universe cosmology. Alternatively, if the LHC fails to find supersymmetry
+and/or finds surprises of some other kind, it will represent a paradigm shift for particle
+physics and particle cosmology, and BBN will lie at the heart of this transformation.
 
 ---
 
@@ -179,13 +208,7 @@ completely disagree: The predictions are substantially higher than the observati
 abundance falls persistently and significantly below BBN+WMAP predictions. Moreover, there
 are controversial hints of a primordial 6 Li abundance that is orders of magnitude above the standard
 prediction
-- The lithium problem was brought into sharp relief with the advent of the WMAP era and has
-become increasingly acute since then. Possible solutions can be categorized into three groups,
-according to which part of the preceding analysis is called into question:
-1. Astrophysical solutions revise the measured primordial lithium abundance.
-2. Nuclear physics solutions alter the reaction flow into and out of mass-7.
-3. Solutions beyond the Standard Model invoke new particle physics or nonstandard cosmo-
-logical physics.
+
 - Astrophysical Solutions
 First, we consider the possibility that BBN predictions are sound, that is, that standard cosmology
 and particle physics are correct, and the nuclear physics of mass-7 production is properly calculated.
@@ -197,26 +220,7 @@ the Li/H abundance. Lithium abundances are nearly insensitive to metallicity (Fi
 Spite plateau implies that lithium is independent of Galactic nucleosynthesis and is primordial, and
 the plateau level is taken as the primordial abundance. If missteps exist in this chain of reasoning,
 the lithium problem could be alleviated.
--  there are disparate explanations for the lithium problem(s). Fortunately,
-most of them will become testable in the near future. These potential explanations include the
-following.
-1. Astronomical observations. Recent indications of lithium depletion in extremely metal-poor
-halo stars are tantalizing. In the coming era of large, deep sky surveys such as LSST, we may
-expect that many more such stars will be identified and that the lithium trends will be explored
-in large statistical samples, which will require careful comparison with theory. Observations
-of 6 Li remain challenging, and it remains unclear what trends exist with metallicity. Great
-insight would result from alternative measures of primordial lithium, for instance, in the
-interstellar medium of metal-poor galaxies nearby or at high redshift.
-2. Nuclear experiments. The enormous effort of the nuclear community has empirically pinned
-down nearly all nuclear inputs to BBN. Remaining are a few known or proposed resonances
-that would amplify 7 Be destruction. These resonances are within the reach of present facil-
-ities, so the nuclear physics of standard BBN can and will be fully tested.
-3. Collider and dark matter experiments. The LHC is operational, and much of minimal
-supersymmetry lies within its reach. The discovery of supersymmetry would revolutionize
-particle physics and cosmology and would transform decaying particle BBN scenarios into
-canonical early universe cosmology. Alternatively, if the LHC fails to find supersymmetry
-and/or finds surprises of some other kind, it will represent a paradigm shift for particle
-physics and particle cosmology, and BBN will lie at the heart of this transformation.
+
 
 # L'univers est-il isotrope ?
 
