@@ -4,6 +4,14 @@
 
 # Energie sombre
 
+*Sources*
+
+- [Dark Energy: A Short Review](https://arxiv.org/abs/1401.0046) - Mortonson et al (2013)
+- [Dark Energy Versus Modified Gravity](https://www.annualreviews.org/doi/abs/10.1146/annurev-nucl-102115-044553) - Joyce et al (2016)
+- [Dark energy: A brief review](https://link.springer.com/article/10.1007/s11467-013-0300-5) - Li et al (2013)
+
+---
+
 # Inflation cosmique
 
 # Le problème de la hiérarchie
