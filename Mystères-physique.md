@@ -116,29 +116,11 @@
 ### Quelles sont les explications possibles au problème du lithium cosmique ?
 
 - Soit nos prédictions théoriques (cosmologie+physique des particules) sont correctes, mais ce sont les observations astrophysiques qui sont incomplètes
-> Grâce au LSST, on aura bientôt accès à une population bien plus grande d'étoiles pauvres en éléments lourds qui permettra d'avoir des statistiques plus fiables sur les abondances de lithium.
-- Il pourrait aussi exister des processus encore mal compris au niveau de la physique nucléaire qui pourrait altérer nos prédictions sur les abondances du lithium
-> Ces processus pourraient en particulier détruire plus efficacement le béryllium-7
-- Il pourrait enfin exister des solutions au-delà du modèle standard qui pourrait impliquer de nouveaux processus au niveau cosmologique ou de la physique des particules
-
-
-1. Astronomical observations. Recent indications of lithium depletion in extremely metal-poor
-halo stars are tantalizing. In the coming era of large, deep sky surveys such as LSST, we may
-expect that many more such stars will be identified and that the lithium trends will be explored
-in large statistical samples, which will require careful comparison with theory. Observations
-of 6 Li remain challenging, and it remains unclear what trends exist with metallicity. Great
-insight would result from alternative measures of primordial lithium, for instance, in the
-interstellar medium of metal-poor galaxies nearby or at high redshift.
-2. Nuclear experiments. The enormous effort of the nuclear community has empirically pinned
-down nearly all nuclear inputs to BBN. Remaining are a few known or proposed resonances
-that would amplify 7 Be destruction. These resonances are within the reach of present facil-
-ities, so the nuclear physics of standard BBN can and will be fully tested.
-3. Collider and dark matter experiments. The LHC is operational, and much of minimal
-supersymmetry lies within its reach. The discovery of supersymmetry would revolutionize
-particle physics and cosmology and would transform decaying particle BBN scenarios into
-canonical early universe cosmology. Alternatively, if the LHC fails to find supersymmetry
-and/or finds surprises of some other kind, it will represent a paradigm shift for particle
-physics and particle cosmology, and BBN will lie at the heart of this transformation.
+> Grâce au LSST, on aura bientôt accès à une population bien plus grande d'étoiles pauvres en éléments lourds dans des galaxies proches et lointaines qui permettra d'avoir des statistiques plus fiables sur les abondances de lithium.
+- Il pourrait aussi exister des processus encore inconnus au niveau de la physique nucléaire qui pourrait altérer nos prédictions sur les abondances du lithium
+> Ces processus pourraient en particulier amplifier la destruction du béryllium-7. On peut vérifier cette hypothèse à l'aide d'expériences de physique nucléaire comme ???.
+- Il pourrait enfin exister des solutions au-delà du modèle standard (comme la supersymmétrie par exemple) qui pourrait impliquer de nouveaux processus au niveau cosmologique ou de la physique des particules
+> Ces solutions sont testées dans les accélérateurs de particules comme le LHC et du côté des expériences de détection de matière noire.
 
 ---
 
@@ -171,11 +153,6 @@ well-measured primordial abundances. Thus, the problem is overdetermined: Each e
 selects a given value of η but, allowing for uncertainties, actually selects a range of η. If the different
 ranges are concordant, then BBN and cosmology are judged successful, and the cosmic baryon den-
 sity is measured. This method typically specifies η to within a factor of approximately two 
-
--  The measured primordial 7 Li
-abundance falls persistently and significantly below BBN+WMAP predictions. Moreover, there
-are controversial hints of a primordial 6 Li abundance that is orders of magnitude above the standard
-prediction
 
 # L'univers est-il isotrope ?
 
