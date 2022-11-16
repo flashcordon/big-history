@@ -12,6 +12,38 @@
 
 ---
 
+- In the first modern cosmological model, Einstein [1] modified his field equation of
+General Relativity (GR), introducing a “cosmological term” that enabled a solution with
+time-independent, spatially homogeneous matter density ρm and constant positive space
+curvature. Although Einstein did not frame it this way, one can view the “cosmological
+constant” Λ as representing a constant energy density of the vacuum [2], whose repulsive
+gravitational effect balances the attractive gravity of matter and thereby allows a static
+solution. After the development of dynamic cosmological models [3,4] and the discovery
+of cosmic expansion [5], the cosmological term appeared unnecessary, and Einstein and
+de Sitter [6] advocated adopting an expanding, homogeneous and isotropic, spatially flat,
+matter-dominated universe as the default cosmology until observations dictated otherwise.
+- By the mid-1990s, Big Bang cosmology was convincingly established, but the
+Einstein-de Sitter model was showing numerous cracks, under the combined onslaught
+of data from the cosmic microwave background (CMB), large scale galaxy clustering,
+and direct estimates of the matter density, the expansion rate (H0), and the age of the
+Universe. Introducing a cosmological constant offered a potential resolution of many of
+these tensions. In the late 1990s, supernova surveys by two independent teams provided
+direct evidence for accelerating cosmic expansion [8,9], establishing the cosmological
+constant model (with Ωm ≈ 0.3, ΩΛ ≈ 0.7) as the preferred alternative to the Ωm = 1
+scenario. Shortly thereafter, CMB evidence for a spatially flat universe [10,11], and
+thus for Ωtot ≈ 1, cemented the case for cosmic acceleration by firmly eliminating the
+free-expansion alternative with Ωm ≪ 1 and ΩΛ = 0. Today, the accelerating universe is
+well established by multiple lines of independent evidence from a tight web of precise
+cosmological measurements.
+-  acceleration could arise from a more general form of “dark
+energy” that has negative pressure, typically specified in terms of the equation-of-state-
+parameter w = p/ρ (= −1 for a cosmological constant). Furthermore, the conclusion that
+acceleration requires a new energy component beyond matter and radiation relies on the
+assumption that GR is the correct description of gravity on cosmological scales. The title
+of this article follows the common but inexact usage of “dark energy” as a catch-all term
+for the origin of cosmic acceleration, regardless of whether it arises from a new form of
+energy or a modification of GR. 
+
 # Inflation cosmique
 
 # Le problème de la hiérarchie
