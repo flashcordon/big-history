@@ -101,12 +101,13 @@
 - Le ***problème du lithium cosmique*** désigne l'énorme différence entre nos théories et nos observations concernant l'abondance de lithium 7 dans l'univers.
 > On observe 3 à 4 fois moins de lithium-7 dans l'univers que ce qui est prédit par la théorie. 
 - Par contre, les abondances d'hélium et de deutérium sont reproduites avec beaucoup de succès
-> Ces abondances constituent même un des quatre piliers observationnels du modèle du Big Bang chaud.
+> Ces abondances constituent même l'un des quatre piliers observationnels du modèle du Big Bang chaud.
 - Le problème du lithium est apparu lorsque les astronomes ont commencé à étudier les propriétés du rayonnement de fond diffus cosmologique à l'aide du satellite WMAP.
 
 ### Comment mesure t-on les abondances des éléments légers dans l'univers ?
 
 - Les abondance en deutérium (un isotope de l'hydrogène constitué d'1 proton et 1 neutron) sont mesurées dans des nuages d'hydrogène très lointains (z~3) et très pauvres en éléments lourds qui sont observés sur la ligne de visée de quasars encore plus lointains.
+> À l'heure actuelle, ce sont les abondances qui sont (de loin) les mieux reproduites par la théorie.
 - Les abondances en hélium-3 sont mesurées dans le milieu interstellaire dans la Voie Lactée, faute de pouvoir les mesurer dans des galaxies lointaines. Comme notre galaxie est riche en éléments lourds, on ne peut pas utiliser pour le moment les abondances en hélium-3 pour contraindre la période de nucléosynthèse primordiale.
 - Les abondances en hélium-4 sont mesurées dans des régions de formation d'étoiles (régions HII) de galaxies voisines pauvres en éléments lourds (metal-poor)
 - Les abondances en lithium sont principalement mesurées dans l'atmosphère (photosphère) de très vieilles étoiles (âgées de 11 à 13,5 milliards d'années) pauvres en éléments lourds présentes dans le halo stellaire de notre Galaxie. On connaît environ une centaine de ces étoiles dites de population II. Les abondances observées sont relativement faibles, notamment parce que le lithium de l'atmosphère de ces étoiles est en permanence emporté dans les profondeurs par les mouvements convectifs de leur enveloppe, où il est détruit par la chaleur intense.
@@ -116,12 +117,10 @@
 
 - Soit nos prédictions théoriques (cosmologie+physique des particules) sont correctes, mais ce sont les observations astrophysiques qui sont incomplètes
 > Grâce au LSST, on aura bientôt accès à une population bien plus grande d'étoiles pauvres en éléments lourds qui permettra d'avoir des statistiques plus fiables sur les abondances de lithium.
-- Il pourrait exister des processus encore mal compris au niveau de la physique nucléaire qui pourrait altérer nos prédictions sur les abondances du lithium
-- Il pourrait exister des solutions au-delà du modèle standard qui pourrait impliquer de nouveaux processus au niveau cosmologique ou de la physique des particules
+- Il pourrait aussi exister des processus encore mal compris au niveau de la physique nucléaire qui pourrait altérer nos prédictions sur les abondances du lithium
+- Il pourrait enfin exister des solutions au-delà du modèle standard qui pourrait impliquer de nouveaux processus au niveau cosmologique ou de la physique des particules
 
--  there are disparate explanations for the lithium problem(s). Fortunately,
-most of them will become testable in the near future. These potential explanations include the
-following.
+
 1. Astronomical observations. Recent indications of lithium depletion in extremely metal-poor
 halo stars are tantalizing. In the coming era of large, deep sky surveys such as LSST, we may
 expect that many more such stars will be identified and that the lithium trends will be explored
@@ -177,13 +176,6 @@ dark matter) cosmology, which provides for
 3. the microphysics of the Standard Model of particle physics, and
 4. the particle content of the Standard Model, supplemented by dark matter and dark energy.
 
-- Measuring the primordial abundance of any light element remains challenging. The BBN levels
-set at z ∼ 1010 are reliably accessible only in sites at z ≤ 3 and often z ∼ 0. Other nucleosynthesis
-processes have intervened, as evidenced by the nonzero metallicity of all known astrophysical
-systems. Thus, one seeks to measure light elements in the most metal-poor systems, then to
-obtain primordial abundances requires extrapolation to zero metallicity. 
-
-
 - Prior to WMAP, BBN was the premier means of determining the cosmic baryon density.
 Standard BBN has one free parameter, η, but three light elements—deuterium, 4 He, and 7 Li—have
 well-measured primordial abundances. Thus, the problem is overdetermined: Each element ideally
@@ -191,21 +183,10 @@ selects a given value of η but, allowing for uncertainties, actually selects a 
 ranges are concordant, then BBN and cosmology are judged successful, and the cosmic baryon den-
 sity is measured. This method typically specifies η to within a factor of approximately two 
 
-- deuterium observations are in spectacular agreement with predictions—the
-likelihoods literally fall on top of one another. This concordance links z ∼ 3 abundance measure-
-ments with z ∼ 1010 theory and z ∼ 1,000 CMB data, in a quantitative convergence that represents
-a triumph of the hot big bang cosmology. Also, the 4 He predictions are in good agreement with
-observations, and as noted in Section 2.2, no reliable primordial 3 He measurements exist.
-
-Turning to 7 Li, the BBN+WMAP predictions and the measured primordial abundance
-completely disagree: The predictions are substantially higher than the observations. 
-
 -  The measured primordial 7 Li
 abundance falls persistently and significantly below BBN+WMAP predictions. Moreover, there
 are controversial hints of a primordial 6 Li abundance that is orders of magnitude above the standard
 prediction
-
-
 
 # L'univers est-il isotrope ?
 
