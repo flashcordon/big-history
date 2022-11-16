@@ -99,7 +99,7 @@
 - La ***nucléosynthèse primordiale*** désigne le processus de formation des noyaux les plus légers dans les conditions ardentes de l'univers primordial, entre 1 s et 3 minutes environ après le Big Bang.
 > À la fin de la période de nucléosynthèse primordiale, l'univers est composé de noyaux d'hydrogène, mais aussi de noyaux d'hélium 3, d'hélium 4 et de lithium 7
 - Le ***problème du lithium cosmique*** désigne l'énorme différence entre nos théories et nos observations concernant l'abondance de lithium 7 dans l'univers.
-> On observe 3 à 4 fois moins de lithium 7 dans l'univers que ce qui est prédit par la théorie. Par contre, les abondances d'hélium et de deutérium sont reproduits avec beaucoup de succès.
+> On observe 3 à 4 fois moins de lithium 7 dans l'univers que ce qui est prédit par la théorie. Par contre, les abondances d'hélium et de deutérium sont reproduites avec beaucoup de succès : ces abondances constituent même un des quatre piliers observationnels du modèle du Big Bang chaud.
 - Le problème du lithium est apparu lorsque les astronomes ont commencé à étudier les propriétés du rayonnement de fond diffus cosmologique à l'aide du satellite WMAP.
 
 ### Comment mesure t-on les abondances des éléments légers dans l'univers ?
@@ -151,13 +151,7 @@ nuclear physics experiments provide a wealth of well-measured cross-section
 data, but 7 Be destruction could be enhanced by unknown or poorly measured
 resonances. Third, physics beyond the Standard Model could alter the 7 Li
 abundance, although deuterium and 4 He must remain unperturbed.
-- Theoretical predic-
-tions of the light-element abundances are well understood and rest on the secure microphysics of
-nuclear cross sections and Standard Model weak and electromagnetic interactions (1, 2). These pre-
-dictions are in broad quantitative agreement with measured primordial light-element abundances
-derived from observations of the local and high-redshift universe. This concordance represents
-a great success of the hot big bang cosmology and makes BBN our earliest reliable probe of the
-universe.
+
 - CMB data now
 measure the cosmic baryon density, independently of BBN and with high precision. The CMB
 results cast BBN in a new light: A comparison between these two measurements of cosmic baryons
