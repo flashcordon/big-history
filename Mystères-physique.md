@@ -10,6 +10,7 @@
 - [Dark Energy Versus Modified Gravity](https://www.annualreviews.org/doi/abs/10.1146/annurev-nucl-102115-044553) - Joyce et al (2016)
 - [Dark energy: A brief review](https://link.springer.com/article/10.1007/s11467-013-0300-5) - Li et al (2013)
 - [Changement de rythme dans l’expansion de l’Univers : Un premier rôle pour le côté obscur]() - Palanque Delabrouille (2016)
+- [L'histoire de l'expansion de l'Univers dévoilée](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2022/01/refdp202271p22.pdf) - Burtin (2022)
 
 ---
 
