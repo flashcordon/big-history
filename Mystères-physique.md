@@ -203,9 +203,12 @@ energy or a modification of GR.
 
 - [Probing cosmic isotropy with a new X-ray galaxy cluster sample through the LX–T scaling relation](https://www.aanda.org/articles/aa/full_html/2020/04/aa36602-19/aa36602-19.html) - Migkas et al (2020)
 - [Observation d'une anisotropie de l'Univers !](https://www.ca-se-passe-la-haut.fr/2020/04/observation-dune-anisotropie-de-lunivers.html) - Ca se passe là-haut
+- [The CMB Dipole: Eppur Si Muove](https://arxiv.org/abs/2111.12186) - Sullivan et Scott (2021)
 
 ---
 
-- L'homogénéité et l'isotropie de l'univers est à la base du modèle standard de la cosmologie.
-> Principe cosmologique
+- L'homogénéité (à grande échelle) et l'isotropie (statistiquement parlant) de l'univers est à la base du modèle standard de la cosmologie. Autrement dit, il n'y a pas d'observateur privilégié ou de direction privilégiée dans l'univers. Où que l'on soit dans l'univers, et quelque soit la direction où l'on regarde, on devrait observer la même chose à grande échelle. C'est le ***principe cosmologique***.
+- Lorsque l'on cartographie le fond diffus cosmologique, on remarque qu'il n'est pas directement isotrope. La plus grande anisotropie de température qu'il présente est un dipole (CMB dipole).
+> DT/T~10-3.
+- On interprète ce dipôle comme le résultat du mouvement du Groupe Local vers un ***grand attracteur*** dans le référentiel du CMB.
 - The isotropy of the late Universe and consequently of the X-ray galaxy cluster scaling relations is an assumption greatly used in astronomy. However, within the last decade, many studies have reported deviations from isotropy when using various cosmological probes; a definitive conclusion has yet to be made. New, effective and independent methods to robustly test the cosmic isotropy are of crucial importance.
