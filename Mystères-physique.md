@@ -213,6 +213,7 @@ energy or a modification of GR.
 - Lorsque l'on cartographie le fond diffus cosmologique, on remarque qu'il n'est pas directement isotrope. La plus grande anisotropie de température qu'il présente est un dipole (CMB dipole). L'amplitude de ce dipole (ΔT/T\~10-3) est plus grande que les autres fluctuations de température (ΔT/T\~10-5).
 - On interprète généralement ce dipôle comme le résultat du mouvement du Groupe Local vers un ***grand attracteur*** dans le référentiel du CMB (modèle proposé par Lynden Bell et al en 1988), qui génère un ***effet Doppler***.
 > * Notre Galaxie se déplace à environ 620 km/s par rapport au CMB dans la direction de la constellation du Centaure, où se trouve le grand attracteur
-> * On sait aujourd'hui que ce grand attracteur est au coeur du super-amas Laniakea
+> * On sait aujourd'hui que ce grand attracteur se trouve au coeur du super-amas Laniakea
+> * Le grand attracteur est difficile à observer dans le domaine du visible parce qu'il est situé directement derrière le plan Galactique.
 - Lorsque ce mouvement global est corrigé, le CMB est remarquablement isotrope.
 - The isotropy of the late Universe and consequently of the X-ray galaxy cluster scaling relations is an assumption greatly used in astronomy. However, within the last decade, many studies have reported deviations from isotropy when using various cosmological probes; a definitive conclusion has yet to be made. New, effective and independent methods to robustly test the cosmic isotropy are of crucial importance.
