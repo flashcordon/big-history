@@ -93,7 +93,7 @@
 - [The Primordial Lithium Problem](https://www.annualreviews.org/doi/10.1146/annurev-nucl-102010-130445) - Fields (2011)
 - [The Cosmological Lithium Problem Revisited](https://arxiv.org/abs/1603.03864) - Bertulani et al (2016)
 - [Etoile de population II](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_II) - WIkipédia
-- [Big-Bang Nucleosynthesis and the Baryon Density of the Universe](https://www.science.org/doi/10.1126/science.7809624) - Copi et al (1995)
+- [Big-Bang Nucleosynthesis and the Baryon Density of the Universe](https://arxiv.org/pdf/astro-ph/9407006.pdf) - Copi et al (1995)
 
 ---
 
