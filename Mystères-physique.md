@@ -93,6 +93,7 @@
 - [The Primordial Lithium Problem](https://www.annualreviews.org/doi/10.1146/annurev-nucl-102010-130445) - Fields (2011)
 - [The Cosmological Lithium Problem Revisited](https://arxiv.org/abs/1603.03864) - Bertulani et al (2016)
 - [Etoile de population II](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_II) - WIkipédia
+- [Big-Bang Nucleosynthesis and the Baryon Density of the Universe](https://www.science.org/doi/10.1126/science.7809624) - Copi et al (1995)
 
 ---
 
@@ -153,6 +154,8 @@ well-measured primordial abundances. Thus, the problem is overdetermined: Each e
 selects a given value of η but, allowing for uncertainties, actually selects a range of η. If the different
 ranges are concordant, then BBN and cosmology are judged successful, and the cosmic baryon den-
 sity is measured. This method typically specifies η to within a factor of approximately two 
+
+- Dans la théorie de la nucléosynthèse primordiale standard (Big Bang Nucleosynthesis), les abondances des éléments légers sont encapsulées dans un unique paramètre, la densité de baryons cosmique (noté η).
 
 # L'univers est-il isotrope ?
 
