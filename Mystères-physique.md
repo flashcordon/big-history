@@ -95,13 +95,17 @@
 - [Etoile de population II](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_II) - WIkipédia
 - [Big-Bang Nucleosynthesis and the Baryon Density of the Universe](https://arxiv.org/pdf/astro-ph/9407006.pdf) - Copi et al (1995)
 - [Big Bang Nucleosynthesis](https://pdg.lbl.gov/2019/reviews/rpp2019-rev-bbang-nucleosynthesis.pdf)  - Fields (2019)
+- [Big Bang Nucleosynthesis (BBN)](https://www.astronomy.ohio-state.edu/weinberg.21/A5682/notes8.pdf) - Weinberg
 
 ---
 
 - La ***nucléosynthèse primordiale*** désigne le processus de formation des noyaux les plus légers dans les conditions ardentes de l'univers primordial, entre 1 s et 3 minutes (~180 s) environ après le Big Bang.
 > À partir de 1 seconde après le Big Bang, la température du cosmos passe sous la barre des 10 milliards de degrés. Une séquence d'événements est alors initiée, qui mène à la synthèse de quelques éléments légers, comme le deutérium, l'hélium-3, l'hélium-4 et le lithium-7.
-- Dans la théorie de la nucléosynthèse primordiale standard (Big Bang Nucleosynthesis), les abondances des éléments légers sont encapsulées dans un unique paramètre, la ***densité de baryons cosmique***, noté η (les baryons dans ce contexte sont les protons et les neutrons), qui est normalisée par rapport à la densité de photons du fond diffus cosmologique (baryon-photon ratio). Ce rapport est de l'ordre de 10^-9, ce qui veut dire que pour chaque baryon de l'univers, il y a environ 1 milliard de photons du CMB.
+- La théorie de la nucléosynthèse primordiale standard (Big Bang Nucleosynthesis) repose sur le modèle standard de la physique des particules ainsi que du modèle standard de la cosmologie (ΛCDM), qui modélise un univershomogène et isotrope en expansion selon les règles de la relativité générale contenant de la matière noire et de l'énergie sombre.
+- Dans la théorie de la nucléosynthèse primordiale standard, les abondances des éléments légers sont encapsulées dans un unique paramètre, la ***densité de baryons cosmique***, noté η (les baryons dans ce contexte sont les protons et les neutrons), qui est normalisée par rapport à la densité de photons du fond diffus cosmologique (baryon-photon ratio). Ce rapport est de l'ordre de 10^-9, ce qui veut dire que pour chaque baryon de l'univers, il y a environ 1 milliard de photons du CMB.
 > La densité de photon du CMB est de 413 photons/cm3.
+- En analysant la carte du fond diffus cosmologique, on peut prédire la densité de baryons cosmiques avec une grande précision et ainsi tester la théorie de la nucléosynthèse primordiale.
+> Les récentes données du satellite Planck donnent une prédiction de η = 6x10^-10, qui est en très bon accord avec les abondances observées de deutérium et d'hélium-4 de z~1000 à z~0.
 - Le ***problème du lithium cosmique*** désigne l'énorme différence entre nos théories et nos observations concernant l'abondance de lithium 7 dans l'univers.
 > On observe 3 à 4 fois moins de lithium-7 dans l'univers que ce qui est prédit par la théorie. 
 - Par contre, les abondances d'hélium et de deutérium sont reproduites avec beaucoup de succès
@@ -125,31 +129,6 @@
 > Ces processus pourraient en particulier amplifier la destruction du béryllium-7. On peut vérifier cette hypothèse à l'aide d'expériences de physique nucléaire comme ???.
 - Il pourrait enfin exister des solutions au-delà du modèle standard (comme la supersymmétrie par exemple) qui pourrait impliquer de nouveaux processus au niveau cosmologique ou de la physique des particules
 > Ces solutions sont testées dans les accélérateurs de particules comme le LHC et du côté des expériences de détection de matière noire.
-
----
-
-- Big bang nucleosynthesis (BBN) theory, together with the precise WMAP
-cosmic baryon density, makes tight predictions for the abundances of the
-lightest elements. Deuterium and 4 He measurements agree well with ex-
-pectations, but 7 Li observations lie below the BBN+WMAP prediction by a
-factor of three to four. This 4–5-σ mismatch constitutes the so-called cosmic
-lithium problem;
-
-- CMB data now
-measure the cosmic baryon density, independently of BBN and with high precision. The CMB
-results cast BBN in a new light: A comparison between these two measurements of cosmic baryons
-provides a strong new test of the basic hot big bang framework (9). Moreover, this test can now
-be performed in a new way, namely through the use of the CMB baryon density as an input to
-the BBN calculation, which outputs predictions for each light-element abundance. Each of these
-predictions can then be directly compared with light-element observations (10). 
-- The cosmic production of light nuclides is the result of weak and nuclear reactions in the context
-of an expanding, cooling universe. So-called standard BBN refers to the scenario for light-element
-production, which marries the Standard Model of particle physics with the CDM (standard cold
-dark matter) cosmology, which provides for
-1. gravity governed by general relativity,
-2. a homogeneous and isotropic universe (cosmological principle),
-3. the microphysics of the Standard Model of particle physics, and
-4. the particle content of the Standard Model, supplemented by dark matter and dark energy.
 
 # L'univers est-il isotrope ?
 
