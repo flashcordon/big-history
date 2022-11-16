@@ -96,6 +96,7 @@
 - [Big-Bang Nucleosynthesis and the Baryon Density of the Universe](https://arxiv.org/pdf/astro-ph/9407006.pdf) - Copi et al (1995)
 - [Big Bang Nucleosynthesis](https://pdg.lbl.gov/2019/reviews/rpp2019-rev-bbang-nucleosynthesis.pdf)  - Fields (2019)
 - [Big Bang Nucleosynthesis (BBN)](https://www.astronomy.ohio-state.edu/weinberg.21/A5682/notes8.pdf) - Weinberg
+- [The cosmological lithium problem](https://www.sciencedaily.com/releases/2018/10/181009102501.htm) - Science Daily (2018)
 
 ---
 
@@ -126,7 +127,7 @@
 - Soit nos prédictions théoriques (cosmologie+physique des particules) sont correctes, mais ce sont les observations astrophysiques qui sont incomplètes
 > Grâce au LSST, on aura bientôt accès à une population bien plus grande d'étoiles pauvres en éléments lourds dans des galaxies proches et lointaines qui permettra d'avoir des statistiques plus fiables sur les abondances de lithium.
 - Il pourrait aussi exister des processus encore inconnus au niveau de la physique nucléaire qui pourrait altérer nos prédictions sur les abondances du lithium
-> Ces processus pourraient en particulier amplifier la destruction du béryllium-7. On peut vérifier cette hypothèse à l'aide d'expériences de physique nucléaire comme ???.
+> Ces processus pourraient en particulier amplifier la destruction du béryllium-7. On peut vérifier cette hypothèse à l'aide d'expériences de physique nucléaire comme celles menées par la collaboration n_TOF (neutron-Time Of Flight) au CERN depuis 2018.
 - Il pourrait enfin exister des solutions au-delà du modèle standard (comme la supersymmétrie par exemple) qui pourrait impliquer de nouveaux processus au niveau cosmologique ou de la physique des particules
 > Ces solutions sont testées dans les accélérateurs de particules comme le LHC et du côté des expériences de détection de matière noire.
 
