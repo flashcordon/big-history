@@ -2,6 +2,13 @@
 
 # Matière noire
 
+*Sources*
+
+- [A History of Dark Matter](https://arxiv.org/pdf/1605.04909.pdf) - Berton et Hooper (2016)
+- [Dark matter and cosmic structure](https://arxiv.org/abs/1210.0544) - Frenk and White (2012)
+
+---
+
 # Energie sombre
 
 *Sources*
