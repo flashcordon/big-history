@@ -6,6 +6,7 @@
 
 - [A History of Dark Matter](https://arxiv.org/pdf/1605.04909.pdf) - Berton et Hooper (2016)
 - [Dark matter and cosmic structure](https://arxiv.org/abs/1210.0544) - Frenk and White (2012)
+- [La matière noire, une sombre affaire](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2016/04/refdp201651p4.pdf) - Combes (2016)
 
 ---
 
@@ -18,6 +19,8 @@
 - [Dark energy: A brief review](https://link.springer.com/article/10.1007/s11467-013-0300-5) - Li et al (2013)
 - [Changement de rythme dans l’expansion de l’Univers : Un premier rôle pour le côté obscur]() - Palanque Delabrouille (2016)
 - [L'histoire de l'expansion de l'Univers dévoilée](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2022/01/refdp202271p22.pdf) - Burtin (2022)
+- [Avancées de la recherche Cisaillement gravitationnel et sondage de l’Univers](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2006/01/refdp20061p5.pdf) - Mellier (2006)
+- [La constante cosmologique : la plus grande erreur d’Einstein](https://books.openedition.org/cdf/9443?lang=fr) - Combes
 
 ---
 
