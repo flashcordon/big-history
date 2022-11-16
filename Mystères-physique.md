@@ -94,11 +94,12 @@
 - [The Cosmological Lithium Problem Revisited](https://arxiv.org/abs/1603.03864) - Bertulani et al (2016)
 - [Etoile de population II](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_II) - WIkipédia
 - [Big-Bang Nucleosynthesis and the Baryon Density of the Universe](https://arxiv.org/pdf/astro-ph/9407006.pdf) - Copi et al (1995)
+- [Big Bang Nucleosynthesis](https://pdg.lbl.gov/2019/reviews/rpp2019-rev-bbang-nucleosynthesis.pdf)  - Fields (2019)
 
 ---
 
-- La ***nucléosynthèse primordiale*** désigne le processus de formation des noyaux les plus légers dans les conditions ardentes de l'univers primordial, entre 1 s et 3 minutes environ après le Big Bang.
-> À la fin de la période de nucléosynthèse primordiale, l'univers est composé de noyaux d'hydrogène, mais aussi de noyaux d'hélium 3, d'hélium 4 et de lithium 7
+- La ***nucléosynthèse primordiale*** désigne le processus de formation des noyaux les plus légers dans les conditions ardentes de l'univers primordial, entre 1 s et 3 minutes (~180 s) environ après le Big Bang.
+> À partir de 1 seconde après le Big Bang, la température du cosmos passe sous la barre des 10 milliards de degrés. Une séquence d'événements est alors initiée, qui mène à la synthèse de quelques éléments légers, comme le deutérium, l'hélium-3, l'hélium-4 et le lithium-7.
 - Le ***problème du lithium cosmique*** désigne l'énorme différence entre nos théories et nos observations concernant l'abondance de lithium 7 dans l'univers.
 > On observe 3 à 4 fois moins de lithium-7 dans l'univers que ce qui est prédit par la théorie. 
 - Par contre, les abondances d'hélium et de deutérium sont reproduites avec beaucoup de succès
@@ -155,7 +156,7 @@ selects a given value of η but, allowing for uncertainties, actually selects a 
 ranges are concordant, then BBN and cosmology are judged successful, and the cosmic baryon den-
 sity is measured. This method typically specifies η to within a factor of approximately two 
 
-- Dans la théorie de la nucléosynthèse primordiale standard (Big Bang Nucleosynthesis), les abondances des éléments légers sont encapsulées dans un unique paramètre, la densité de baryons cosmique (noté η).
+- Dans la théorie de la nucléosynthèse primordiale standard (Big Bang Nucleosynthesis), les abondances des éléments légers sont encapsulées dans un unique paramètre, la densité de baryons cosmique, noté η (les baryons dans ce contexte sont les protons et les neutrons), qui est normalisée par rapport à la densité de photons du fond diffus cosmologique.
 
 # L'univers est-il isotrope ?
 
