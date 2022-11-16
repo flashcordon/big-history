@@ -206,6 +206,7 @@ energy or a modification of GR.
 - [The CMB Dipole: Eppur Si Muove](https://arxiv.org/abs/2111.12186) - Sullivan et Scott (2021)
 - [Cosmic Microwave Background Dipole](https://astronomy.swin.edu.au/cosmos/c/Cosmic+Microwave+Background+Dipole) - SAO Encyclopedia of astronomy
 - [The Motion of the Local Group with Respect to the 15,000 Kilometer per Second Abell Cluster Inertial Frame](https://adsabs.harvard.edu/full/1994ApJ...425..418L) - Lauer et Postman (1994)
+- [Testing the Cosmological Principle in the radio sky](https://arxiv.org/pdf/1905.12378.pdf) - Bengaly et al (2021)
 
 ---
 
@@ -217,3 +218,19 @@ energy or a modification of GR.
 > * Le grand attracteur est difficile à observer dans le domaine du visible parce qu'il est situé directement derrière le plan Galactique.
 - Lorsque ce mouvement global est corrigé, le CMB est remarquablement isotrope.
 - The isotropy of the late Universe and consequently of the X-ray galaxy cluster scaling relations is an assumption greatly used in astronomy. However, within the last decade, many studies have reported deviations from isotropy when using various cosmological probes; a definitive conclusion has yet to be made. New, effective and independent methods to robustly test the cosmic isotropy are of crucial importance.
+- The CMB delivers the most precise tests of isotropy, with its all-sky coverage and
+exquisite data. It is isotropic at a ∼ 10−5 level, after the ∼ 10−3 dipole, due to our mo-
+tion relative to the CMB frame, is removed. However, near-isotropy of the CMB does not in
+itself imply near-isotropy of the Universe [3]. We also need independent probes of anisotropy
+in the matter distribution. These probes constitute a critical consistency test of statistical
+isotropy.
+Previous work has shown no statistically significant violation of isotropy in the obser-
+vational data of Type Ia Supernova distances [4, 5, 6] and of gamma-ray bursts [7, 8, 9].
+More stringent tests require the far higher number densities delivered by large galaxy sur-
+veys. The simplest way to test consistency with the CMB is to measure the dipole of a
+(sufficiently wide) galaxy survey, which should be aligned with the direction of the CMB
+dipole [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]. For currently available data sets,
+the matter dipole direction is not inconsistent with the CMB, but the amplitude is too large,
+probably arising from the quality of current data sets. Forecasts predict that future all-sky
+radio continuum surveys with the SKA should achieve the accuracy necessary to make a
+stringent test of consistency with the CMB dipole [23, 24]
