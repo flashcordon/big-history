@@ -105,8 +105,6 @@
 - La théorie de la nucléosynthèse primordiale standard (Big Bang Nucleosynthesis) repose sur le modèle standard de la physique des particules ainsi que du modèle standard de la cosmologie (ΛCDM), qui modélise un univershomogène et isotrope en expansion selon les règles de la relativité générale contenant de la matière noire et de l'énergie sombre.
 - Dans la théorie de la nucléosynthèse primordiale standard, les abondances des éléments légers sont encapsulées dans un unique paramètre, la ***densité de baryons cosmique***, noté η (les baryons dans ce contexte sont les protons et les neutrons), qui est normalisée par rapport à la densité de photons du fond diffus cosmologique (baryon-photon ratio). Ce rapport est de l'ordre de 10^-9, ce qui veut dire que pour chaque baryon de l'univers, il y a environ 1 milliard de photons du CMB.
 > La densité de photon du CMB est de 413 photons/cm3.
-- En analysant la carte du fond diffus cosmologique, on peut prédire la densité de baryons cosmiques avec une grande précision et ainsi tester la théorie de la nucléosynthèse primordiale.
-> Les récentes données du satellite Planck donnent une prédiction de η = 6x10^-10, qui est en très bon accord avec les abondances observées de deutérium et d'hélium-4 de z=1000 à z=0.
 - Le ***problème du lithium cosmique*** désigne l'énorme différence entre nos théories et nos observations concernant l'abondance de lithium 7 dans l'univers.
 > On observe 3 à 4 fois moins de lithium-7 dans l'univers que ce qui est prédit par la théorie. 
 - Par contre, les abondances d'hélium et de deutérium sont reproduites avec beaucoup de succès
@@ -115,6 +113,8 @@
 
 ### Comment mesure t-on les abondances des éléments légers dans l'univers ?
 
+- En analysant la carte du fond diffus cosmologique, on peut prédire la densité de baryons cosmiques avec une grande précision et ainsi tester la théorie de la nucléosynthèse primordiale.
+> Les récentes données du satellite Planck donnent une prédiction de η = 6x10^-10, qui est en très bon accord avec les abondances observées de deutérium et d'hélium-4 de z=1000 à z=0.
 - Les abondance en deutérium (un isotope de l'hydrogène constitué d'1 proton et 1 neutron) sont mesurées dans des nuages d'hydrogène très lointains (z~3) et très pauvres en éléments lourds qui sont observés sur la ligne de visée de quasars encore plus lointains. On ne peut pas mesurer les abondances en deutérium dans les étoiles, car il est entièrement détruit dans ces systèmes.
 > À l'heure actuelle, ce sont les abondances qui sont (de loin) les mieux reproduites par la théorie.
 - Les abondances en hélium-3 sont mesurées dans le milieu interstellaire dans la Voie Lactée, faute de pouvoir les mesurer dans des galaxies lointaines. Comme notre galaxie est riche en éléments lourds, on ne peut pas utiliser pour le moment les abondances en hélium-3 pour contraindre la période de nucléosynthèse primordiale.
@@ -122,7 +122,7 @@
 - Les abondances en lithium sont principalement mesurées dans l'atmosphère (photosphère) de très vieilles étoiles (âgées de 11 à 13,5 milliards d'années) pauvres en éléments lourds présentes dans le halo stellaire de notre Galaxie. On connaît environ une centaine de ces étoiles dites de population II. Les abondances observées sont relativement faibles, notamment parce que le lithium de l'atmosphère de ces étoiles est en permanence emporté dans les profondeurs par les mouvements convectifs de leur enveloppe, où il est détruit par la chaleur intense.
 > Ce qu'on mesure en pratique ce sont les raies d'absorption dans le spectre de ces étoiles qui correspondent à la signature du lithium
 
-### Quelles sont les explications possibles au problème du lithium cosmique ?
+### Quelles sont les solutions possibles au problème du lithium cosmique ?
 
 - Soit nos prédictions théoriques (cosmologie+physique des particules) sont correctes, mais ce sont les observations astrophysiques qui sont incomplètes
 > Grâce au LSST, on aura bientôt accès à une population bien plus grande d'étoiles pauvres en éléments lourds dans des galaxies proches et lointaines qui permettra d'avoir des statistiques plus fiables sur les abondances de lithium.
