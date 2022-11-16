@@ -205,7 +205,7 @@ energy or a modification of GR.
 - [Observation d'une anisotropie de l'Univers !](https://www.ca-se-passe-la-haut.fr/2020/04/observation-dune-anisotropie-de-lunivers.html) - Ca se passe là-haut
 - [The CMB Dipole: Eppur Si Muove](https://arxiv.org/abs/2111.12186) - Sullivan et Scott (2021)
 - [Cosmic Microwave Background Dipole](https://astronomy.swin.edu.au/cosmos/c/Cosmic+Microwave+Background+Dipole) - SAO Encyclopedia of astronomy
-- [https://adsabs.harvard.edu/full/1994ApJ...425..418L) - (1994)
+- [The Motion of the Local Group with Respect to the 15,000 Kilometer per Second Abell Cluster Inertial Frame](https://adsabs.harvard.edu/full/1994ApJ...425..418L) - Lauer et Postman (1994)
 
 ---
 
