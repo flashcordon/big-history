@@ -146,4 +146,6 @@
 
 ---
 
+- L'homogénéité et l'isotropie de l'univers est à la base du modèle standard de la cosmologie.
+> Principe cosmologique
 - The isotropy of the late Universe and consequently of the X-ray galaxy cluster scaling relations is an assumption greatly used in astronomy. However, within the last decade, many studies have reported deviations from isotropy when using various cosmological probes; a definitive conclusion has yet to be made. New, effective and independent methods to robustly test the cosmic isotropy are of crucial importance.
