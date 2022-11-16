@@ -100,6 +100,8 @@
 
 - La ***nucléosynthèse primordiale*** désigne le processus de formation des noyaux les plus légers dans les conditions ardentes de l'univers primordial, entre 1 s et 3 minutes (~180 s) environ après le Big Bang.
 > À partir de 1 seconde après le Big Bang, la température du cosmos passe sous la barre des 10 milliards de degrés. Une séquence d'événements est alors initiée, qui mène à la synthèse de quelques éléments légers, comme le deutérium, l'hélium-3, l'hélium-4 et le lithium-7.
+- Dans la théorie de la nucléosynthèse primordiale standard (Big Bang Nucleosynthesis), les abondances des éléments légers sont encapsulées dans un unique paramètre, la ***densité de baryons cosmique***, noté η (les baryons dans ce contexte sont les protons et les neutrons), qui est normalisée par rapport à la densité de photons du fond diffus cosmologique (baryon-photon ratio). Ce rapport est de l'ordre de 10^-9, ce qui veut dire qu'il y a un milliards de fois plus de photons du CMB dans l'univers que de baryons.
+> La densité de photon du CMB est de 413 photons/cm3.
 - Le ***problème du lithium cosmique*** désigne l'énorme différence entre nos théories et nos observations concernant l'abondance de lithium 7 dans l'univers.
 > On observe 3 à 4 fois moins de lithium-7 dans l'univers que ce qui est prédit par la théorie. 
 - Par contre, les abondances d'hélium et de deutérium sont reproduites avec beaucoup de succès
@@ -108,7 +110,7 @@
 
 ### Comment mesure t-on les abondances des éléments légers dans l'univers ?
 
-- Les abondance en deutérium (un isotope de l'hydrogène constitué d'1 proton et 1 neutron) sont mesurées dans des nuages d'hydrogène très lointains (z~3) et très pauvres en éléments lourds qui sont observés sur la ligne de visée de quasars encore plus lointains.
+- Les abondance en deutérium (un isotope de l'hydrogène constitué d'1 proton et 1 neutron) sont mesurées dans des nuages d'hydrogène très lointains (z~3) et très pauvres en éléments lourds qui sont observés sur la ligne de visée de quasars encore plus lointains. On ne peut pas mesurer les abondances en deutérium dans les étoiles, car il est entièrement détruit dans ces systèmes.
 > À l'heure actuelle, ce sont les abondances qui sont (de loin) les mieux reproduites par la théorie.
 - Les abondances en hélium-3 sont mesurées dans le milieu interstellaire dans la Voie Lactée, faute de pouvoir les mesurer dans des galaxies lointaines. Comme notre galaxie est riche en éléments lourds, on ne peut pas utiliser pour le moment les abondances en hélium-3 pour contraindre la période de nucléosynthèse primordiale.
 - Les abondances en hélium-4 sont mesurées dans des régions de formation d'étoiles (régions HII) de galaxies voisines pauvres en éléments lourds (metal-poor)
@@ -148,15 +150,6 @@ dark matter) cosmology, which provides for
 2. a homogeneous and isotropic universe (cosmological principle),
 3. the microphysics of the Standard Model of particle physics, and
 4. the particle content of the Standard Model, supplemented by dark matter and dark energy.
-
-- Prior to WMAP, BBN was the premier means of determining the cosmic baryon density.
-Standard BBN has one free parameter, η, but three light elements—deuterium, 4 He, and 7 Li—have
-well-measured primordial abundances. Thus, the problem is overdetermined: Each element ideally
-selects a given value of η but, allowing for uncertainties, actually selects a range of η. If the different
-ranges are concordant, then BBN and cosmology are judged successful, and the cosmic baryon den-
-sity is measured. This method typically specifies η to within a factor of approximately two 
-
-- Dans la théorie de la nucléosynthèse primordiale standard (Big Bang Nucleosynthesis), les abondances des éléments légers sont encapsulées dans un unique paramètre, la densité de baryons cosmique, noté η (les baryons dans ce contexte sont les protons et les neutrons), qui est normalisée par rapport à la densité de photons du fond diffus cosmologique.
 
 # L'univers est-il isotrope ?
 
