@@ -106,12 +106,13 @@
 
 - Les abondances en hélium-3 sont mesurées dans le milieu interstellaire dans la Voie Lactée, faute de pouvoir les mesurer dans des galaxies lointaines. Comme notre galaxie est riche en éléments lourds, on ne peut pas utiliser pour le moment les abondances en hélium-3 pour contraindre la période de nucléosynthèse primordiale.
 - Les abondances en hélium-4 sont mesurées dans des régions de formation d'étoiles (régions HII) de galaxies voisines pauvres en éléments lourds (metal-poor)
-- Les abondances en lithium sont principalement mesurées dans l'atmosphère de très vieilles étoiles (âgées de 11 à 13,5 milliards d'années) pauvres en éléments lourds présentes dans le halo stellaire de notre Galaxie. On connaît environ une centaine de ces étoiles dites de population II. Les abondances observées sont relativement faibles, notamment parce que le lithium de l'atmosphère de ces étoiles est en permanence emporté dans les profondeurs par les mouvements convectifs de leur enveloppe, où il est détruit par la chaleur intense.
+- Les abondances en lithium sont principalement mesurées dans l'atmosphère (photosphère) de très vieilles étoiles (âgées de 11 à 13,5 milliards d'années) pauvres en éléments lourds présentes dans le halo stellaire de notre Galaxie. On connaît environ une centaine de ces étoiles dites de population II. Les abondances observées sont relativement faibles, notamment parce que le lithium de l'atmosphère de ces étoiles est en permanence emporté dans les profondeurs par les mouvements convectifs de leur enveloppe, où il est détruit par la chaleur intense.
+> Ce qu'on mesure en pratique ce sont les raies d'absorption dans le spectre de ces étoiles qui correspondent à la signature du lithium
 
 ### Quelles sont les explications possibles au problème du lithium cosmique ?
 
-- Nos observations astrophysiques peuvent être incomplètes, et ne pas être représentatives des véritables abondances du lithium
-> Grâce au LSST, on aura accès à une population bien plus grande d'étoiles pauvres en éléments lourds qui permettra d'avoir des statistiques plus fiables sur les abondances de lithium.
+- Soit nos prédictions théoriques (cosmologie+physique des particules) sont correctes, mais ce sont les observations astrophysiques qui sont incomplètes
+> Grâce au LSST, on aura bientôt accès à une population bien plus grande d'étoiles pauvres en éléments lourds qui permettra d'avoir des statistiques plus fiables sur les abondances de lithium.
 - Il pourrait exister des processus encore mal compris au niveau de la physique nucléaire qui pourrait altérer nos prédictions sur les abondances du lithium
 - Il pourrait exister des solutions au-delà du modèle standard qui pourrait impliquer de nouveaux processus au niveau cosmologique ou de la physique des particules
 
@@ -209,17 +210,6 @@ abundance falls persistently and significantly below BBN+WMAP predictions. Moreo
 are controversial hints of a primordial 6 Li abundance that is orders of magnitude above the standard
 prediction
 
-- Astrophysical Solutions
-First, we consider the possibility that BBN predictions are sound, that is, that standard cosmology
-and particle physics are correct, and the nuclear physics of mass-7 production is properly calculated.
-If so, then the measured value of the primordial lithium abundance must be in error. In particular,
-the true value must be higher by a factor of three to four.
-As described in Section 2.2, lithium abundances are measured via absorption lines in the pho-
-tospheres of primitive, low-metallicity stars. For each star, the lithium line strength is used to infer
-the Li/H abundance. Lithium abundances are nearly insensitive to metallicity (Figure 3)—this
-Spite plateau implies that lithium is independent of Galactic nucleosynthesis and is primordial, and
-the plateau level is taken as the primordial abundance. If missteps exist in this chain of reasoning,
-the lithium problem could be alleviated.
 
 
 # L'univers est-il isotrope ?
