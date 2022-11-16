@@ -105,7 +105,7 @@
 - Dans la théorie de la nucléosynthèse primordiale standard, les abondances des éléments légers sont encapsulées dans un unique paramètre, la ***densité de baryons cosmique***, noté η (les baryons dans ce contexte sont les protons et les neutrons), qui est normalisée par rapport à la densité de photons du fond diffus cosmologique (baryon-photon ratio). Ce rapport est de l'ordre de 10^-9, ce qui veut dire que pour chaque baryon de l'univers, il y a environ 1 milliard de photons du CMB.
 > La densité de photon du CMB est de 413 photons/cm3.
 - En analysant la carte du fond diffus cosmologique, on peut prédire la densité de baryons cosmiques avec une grande précision et ainsi tester la théorie de la nucléosynthèse primordiale.
-> Les récentes données du satellite Planck donnent une prédiction de η = 6x10^-10, qui est en très bon accord avec les abondances observées de deutérium et d'hélium-4 de z~1000 à z~0.
+> Les récentes données du satellite Planck donnent une prédiction de η = 6x10^-10, qui est en très bon accord avec les abondances observées de deutérium et d'hélium-4 de z=1000 à z=0.
 - Le ***problème du lithium cosmique*** désigne l'énorme différence entre nos théories et nos observations concernant l'abondance de lithium 7 dans l'univers.
 > On observe 3 à 4 fois moins de lithium-7 dans l'univers que ce qui est prédit par la théorie. 
 - Par contre, les abondances d'hélium et de deutérium sont reproduites avec beaucoup de succès
