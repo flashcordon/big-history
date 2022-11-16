@@ -84,7 +84,7 @@
 - In hindsight, the two naturalness problems seem more like symptoms of a deeper issue. “It’s useful to think about how these problems come about,” said Garcia Garcia in a Zoom call from Santa Barbara this winter. “The hierarchy problem and the cosmological constant problem are problems that arise in part because of the tools we’re using to try to answer questions — the way we’re trying to understand certain features of our universe.”
 - 
 
-# Le problème du lithium
+# Le problème du lithium cosmique
 
 *Sources*
 
@@ -99,11 +99,14 @@
 - La ***nucléosynthèse primordiale*** désigne le processus de formation des noyaux les plus légers dans les conditions ardentes de l'univers primordial, entre 1 s et 3 minutes environ après le Big Bang.
 > À la fin de la période de nucléosynthèse primordiale, l'univers est composé de noyaux d'hydrogène, mais aussi de noyaux d'hélium 3, d'hélium 4 et de lithium 7
 - Le ***problème du lithium cosmique*** désigne l'énorme différence entre nos théories et nos observations concernant l'abondance de lithium 7 dans l'univers.
-> On observe 3 à 4 fois moins de lithium 7 dans l'univers que ce qui est prédit par la théorie. Par contre, les abondances d'hélium et de deutérium sont reproduites avec beaucoup de succès : ces abondances constituent même un des quatre piliers observationnels du modèle du Big Bang chaud.
+> On observe 3 à 4 fois moins de lithium-7 dans l'univers que ce qui est prédit par la théorie. 
+- Par contre, les abondances d'hélium et de deutérium sont reproduites avec beaucoup de succès
+> Ces abondances constituent même un des quatre piliers observationnels du modèle du Big Bang chaud.
 - Le problème du lithium est apparu lorsque les astronomes ont commencé à étudier les propriétés du rayonnement de fond diffus cosmologique à l'aide du satellite WMAP.
 
 ### Comment mesure t-on les abondances des éléments légers dans l'univers ?
 
+- Les abondance en deutérium (un isotope de l'hydrogène constitué d'1 proton et 1 neutron) sont mesurées dans des nuages d'hydrogène très lointains (z~3) et très pauvres en éléments lourds qui sont observés sur la ligne de visée de quasars encore plus lointains.
 - Les abondances en hélium-3 sont mesurées dans le milieu interstellaire dans la Voie Lactée, faute de pouvoir les mesurer dans des galaxies lointaines. Comme notre galaxie est riche en éléments lourds, on ne peut pas utiliser pour le moment les abondances en hélium-3 pour contraindre la période de nucléosynthèse primordiale.
 - Les abondances en hélium-4 sont mesurées dans des régions de formation d'étoiles (régions HII) de galaxies voisines pauvres en éléments lourds (metal-poor)
 - Les abondances en lithium sont principalement mesurées dans l'atmosphère (photosphère) de très vieilles étoiles (âgées de 11 à 13,5 milliards d'années) pauvres en éléments lourds présentes dans le halo stellaire de notre Galaxie. On connaît environ une centaine de ces étoiles dites de population II. Les abondances observées sont relativement faibles, notamment parce que le lithium de l'atmosphère de ces étoiles est en permanence emporté dans les profondeurs par les mouvements convectifs de leur enveloppe, où il est détruit par la chaleur intense.
@@ -180,11 +183,6 @@ processes have intervened, as evidenced by the nonzero metallicity of all known 
 systems. Thus, one seeks to measure light elements in the most metal-poor systems, then to
 obtain primordial abundances requires extrapolation to zero metallicity. 
 
-- Deuterium can be measured directly at high redshift. It is
-present in distant neutral hydrogen gas clouds, which are observed in absorption along sight
-lines to distant quasars. At present, there are seven systems with robust deuterium measurements
-(33–38). These lie around redshift z ∼ 3 and have a metallicity that is ∼10−2 that of solar system
-material; thus, deuterium should be essentially primordial.
 
 - Prior to WMAP, BBN was the premier means of determining the cosmic baryon density.
 Standard BBN has one free parameter, η, but three light elements—deuterium, 4 He, and 7 Li—have
@@ -192,13 +190,16 @@ well-measured primordial abundances. Thus, the problem is overdetermined: Each e
 selects a given value of η but, allowing for uncertainties, actually selects a range of η. If the different
 ranges are concordant, then BBN and cosmology are judged successful, and the cosmic baryon den-
 sity is measured. This method typically specifies η to within a factor of approximately two 
+
 - deuterium observations are in spectacular agreement with predictions—the
 likelihoods literally fall on top of one another. This concordance links z ∼ 3 abundance measure-
 ments with z ∼ 1010 theory and z ∼ 1,000 CMB data, in a quantitative convergence that represents
 a triumph of the hot big bang cosmology. Also, the 4 He predictions are in good agreement with
 observations, and as noted in Section 2.2, no reliable primordial 3 He measurements exist.
+
 Turning to 7 Li, the BBN+WMAP predictions and the measured primordial abundance
 completely disagree: The predictions are substantially higher than the observations. 
+
 -  The measured primordial 7 Li
 abundance falls persistently and significantly below BBN+WMAP predictions. Moreover, there
 are controversial hints of a primordial 6 Li abundance that is orders of magnitude above the standard
