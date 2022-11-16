@@ -207,6 +207,7 @@ energy or a modification of GR.
 - [Cosmic Microwave Background Dipole](https://astronomy.swin.edu.au/cosmos/c/Cosmic+Microwave+Background+Dipole) - SAO Encyclopedia of astronomy
 - [The Motion of the Local Group with Respect to the 15,000 Kilometer per Second Abell Cluster Inertial Frame](https://adsabs.harvard.edu/full/1994ApJ...425..418L) - Lauer et Postman (1994)
 - [Testing the Cosmological Principle in the radio sky](https://arxiv.org/pdf/1905.12378.pdf) - Bengaly et al (2021)
+- [Is the Observable Universe Consistent with the Cosmological Principle?](https://arxiv.org/abs/2207.05765) - Aluri et al (2022)
 
 ---
 
@@ -234,3 +235,32 @@ the matter dipole direction is not inconsistent with the CMB, but the amplitude 
 probably arising from the quality of current data sets. Forecasts predict that future all-sky
 radio continuum surveys with the SKA should achieve the accuracy necessary to make a
 stringent test of consistency with the CMB dipole [23, 24]
+- ensions
+have emerged within the ΛCDM model, most notably a statistically significant discrepancy in the
+value of the Hubble constant, H0. Since the notion of cosmic expansion determined by a single
+parameter is intimately tied to the CP, implications of the H0 tension may extend beyond ΛCDM
+to the CP itself. This review surveys current observational hints for deviations from the expecta-
+tions of the CP, highlighting synergies and disagreements that warrant further study. Setting aside
+the debate about individual large structures, potential deviations from the CP include variations of
+cosmological parameters on the sky, discrepancies in the cosmic dipoles, and mysterious alignments
+in quasar polarizations and galaxy spins.
+-  Simply put,
+there exists a length scale beyond the reach of the rich structures that we observe in the local Universe,
+namely stars, galaxies and galaxy clusters, where the Universe should look the same in all directions. In
+other words, the Universe is isotropic. Moreover, this statement must hold true for all observers; if observer
+A erects a telescope somewhere else in the cosmos, she is expected to recover a universe that looks the
+same as observer B’s universe at an expected scale. Given enough observers seeing isotropic universes, it
+is once again intuitive that this guarantees there is no special place in the Universe, or alternatively that the
+Universe is homogeneous
+- in order to have computable and predictive cosmological modeling, it
+is natural to start with the CP as the working assumption. Yet, since the CP is not a fundamental physical
+symmetry, but rather an assumption imposed when we interpret observations, there is nothing that prevents
+it being violated at a higher precision and/or when one does not assume the same behavior for a physical
+observable over the celestial sphere, i. e. not averaging over the sky. The results highlighted in this review
+suggest that we have already reached the level of precision where violations of the CP may show in re-
+sults. Systematics may be at play across a host of observables, but as the number of observations grow, this
+possibility seems less likely. If the Universe is not FLRW, but we view it through the prism of FLRW, cos-
+mological tensions are inevitable. Interestingly, a host of fascinating observational tensions exist, including
+the H0 tension [45, 51–58], the S8 tension [178–181], potentially a curvature tension [119, 296], and an
+AISW tension 
+- 
