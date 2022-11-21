@@ -209,6 +209,7 @@ energy or a modification of GR.
 - [Testing the Cosmological Principle in the radio sky](https://arxiv.org/pdf/1905.12378.pdf) - Bengaly et al (2021)
 - [Is the Observable Universe Consistent with the Cosmological Principle?](https://arxiv.org/abs/2207.05765) - Aluri et al (2022)
 - [Cosmologists Parry Attacks on the Vaunted Cosmological Principle](https://www.quantamagazine.org/giant-arc-of-galaxies-puts-basic-cosmology-under-scrutiny-20211213/) - Quanta (2021)
+- [Un intrigant anneau géant fait de sursauts gamma](https://www.futura-sciences.com/sciences/actualites/sursaut-gamma-intrigant-anneau-geant-fait-sursauts-gamma-59317/) - Futura Sciences (2015)
 
 ---
 
@@ -229,11 +230,12 @@ anisotropies in the μK range.
 
 ### Des structures plus grandes que l'échelle d'homogénéité
 
-- Les relevés astronomiques ont révélé l'existence d'une poignée de grandes structures dont la taille dépasse l'échelle maximale à laquelle l'univers est sensé être homogène
-> * Le ***grand mur de Sloan*** est une structure mesurant plus d'1,37 milliards d'années-lumière (1/60e du diamètre de l'univers observable), découverte en 2003 dans les données du SDSS
-> * Le ***Clowes–Campusano Large Quasar Group*** (CCLQG) est un amas de quasars constitué de 34 quasars et mesurant environ 2 milliards d’années-lumière de diamètre, découvert en 1991.
+- Les relevés astronomiques ont révélé l'existence d'une poignée de grandes structures dont la taille dépasse l'échelle maximale à partir de laquelle l'univers est sensé être homogène. L'estimation haute de cette échelle d'homogénéité est de ~370 Mpc (1,2 milliards d'années-lumière).
+> * Le ***grand mur de Sloan*** est une structure mesurant plus d'1,37 milliards d'années-lumière, découverte en 2003 dans les données du SDSS
+> * Le ***Clowes–Campusano Large Quasar Group*** (CCLQG) est un amas de quasars constitué de 34 quasars et mesurant environ 2 milliards d’années-lumière de diamètre (~630 Mpc), découvert en 1991.
 > * ***L'arc géant*** est une structure mesurant 3,3 milliards d'années-lumière (1/28e du diamètre de l'univers observable), découverte en 2021 dans les données du SDSS. Sa taille apparente dans le ciel est aussi étendue que 20 pleines lunes.
-> * Le ***Huge-LQG*** (Huge Large Quasar Group, « Immense grand amas de quasars ») est un amas composé de 73 quasars mesurant environ 4 milliards d'années-lumière de diamètre, découvert en 2013 dans les données du SDSS
+> * Le ***Huge-LQG*** (Huge Large Quasar Group, « Immense grand amas de quasars ») est un amas composé de 73 quasars mesurant environ 4 milliards d'années-lumière de diamètre (~1240 Mpc), découvert en 2013 dans les données du SDSS
+> * ***L'anneau géant de sursauts gamma*** (Giant GRB ring) est un grand anneau constitué par 9 sursauts gamma (hypernovae ou collisions entre étoiles à neutrons) qui s'étalerait sur environ 5,6 milliards d'années-lumière. Il a été découvert en 2015. Son diamètre apparent dans le ciel est équivalent à 70 pleines lunes.
 > * Le ***Grand Mur d'Hercule-Couronne boréale*** est un filament cosmique mesurant 10 milliards d'années-lumière, découvert en 2013 dans les données d'un relevé de sursauts gamma. Il s'agit de la plus vaste et la plus massive structure cosmique connue de l'univers observable. Mais certaines études mettent en doute son existence.
 
 - The isotropy of the late Universe and consequently of the X-ray galaxy cluster scaling relations is an assumption greatly used in astronomy. However, within the last decade, many studies have reported deviations from isotropy when using various cosmological probes; a definitive conclusion has yet to be made. New, effective and independent methods to robustly test the cosmic isotropy are of crucial importance.
@@ -303,7 +305,3 @@ logical in origin.
 icant departures from uniformity. The first LQG was found in 1982, the second in [467], and the third in
 [168] (CCLQG). Many more examples have been found since, mostly in data from SDSS, with the most
 extreme example currently being that of [30] (Huge-LQG).
-- In 1991, the CCLQG was the largest structure known in the Universe; its long dimension is ∼ 630 Mpc.
-In 2013, the Huge-LQG was the largest structure known in the Universe; its long dimension is ∼ 1240 Mpc.
-The sizes given are proper sizes for the present epoch. Both greatly exceed the scale of homogeneity as
-established in [26], which is ∼ 370 Mpc. A
