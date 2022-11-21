@@ -226,6 +226,15 @@ anisotropies in the μK range.
 > * On sait aujourd'hui que ce grand attracteur se trouve au coeur du super-amas Laniakea
 > * Le grand attracteur est difficile à observer dans le domaine du visible parce qu'il est situé directement derrière le plan Galactique.
 - Lorsque ce mouvement global est corrigé, le CMB est remarquablement isotrope.
+
+### Des structures plus grandes que l'échelle d'homogénéité
+
+- Les relevés astronomiques ont révélé l'existence d'une poignée de grandes structures dont la taille dépasse l'échelle maximale à laquelle l'univers est sensé être homogène
+> * Le ***grand mur de Sloan*** est une structure mesurant plus d'1,37 milliards d'années-lumière (1/60e du diamètre de l'univers observable), découverte en 2003 dans les données du SDSS
+> * ***L'arc géant*** est une structure mesurant 3,3 milliards d'années-lumière (1/28e du diamètre de l'univers observable), découverte en 2021 dans les données du SDSS. Sa taille apparente dans le ciel est aussi étendue que 20 pleines lunes.
+> * Le ***Huge-LQG*** (Huge Large Quasar Group, « Immense grand amas de quasars ») est un amas composé de 73 quasars mesurant environ 4 milliards d'années-lumière de diamètre, découvert en 2013 dans les données du SDSS
+> * Le ***Grand Mur d'Hercule-Couronne boréale*** est un filament cosmique mesurant 10 milliards d'années-lumière, découvert en 2013 dans les données d'un relevé de sursauts gamma. Il s'agit de la plus vaste et la plus massive structure cosmique connue de l'univers observable. Mais certaines études mettent en doute son existence.
+
 - The isotropy of the late Universe and consequently of the X-ray galaxy cluster scaling relations is an assumption greatly used in astronomy. However, within the last decade, many studies have reported deviations from isotropy when using various cosmological probes; a definitive conclusion has yet to be made. New, effective and independent methods to robustly test the cosmic isotropy are of crucial importance.
 -  CMB has
 ushered in a golden era of precision cosmology, allowing us to start to question even the most fundamental
