@@ -251,17 +251,17 @@ Cosmologists lean on the cosmological principle to restrict their focus to a uni
 > * Le ***Huge-LQG*** (Huge Large Quasar Group, « Immense grand amas de quasars ») est un amas composé de 73 quasars mesurant environ 4 milliards d'années-lumière de diamètre (~1240 Mpc), découvert en 2013 dans les données du SDSS
 > * ***L'anneau géant de sursauts gamma*** (Giant GRB ring) est un grand anneau constitué par 9 sursauts gamma (hypernovae ou collisions entre étoiles à neutrons) qui s'étalerait sur environ 5,6 milliards d'années-lumière. Il a été découvert en 2015. Son diamètre apparent dans le ciel est équivalent à 70 pleines lunes.
 > * Le ***Grand Mur d'Hercule-Couronne boréale*** est un filament cosmique mesurant 10 milliards d'années-lumière, découvert en 2013 dans les données d'un relevé de sursauts gamma. Il s'agit de la plus vaste et la plus massive structure cosmique connue de l'univers observable. Mais certaines études mettent en doute son existence.
+- Le modèle standard de la cosmologie n'interdit pas complètement l'existence de telles structures, mais il les rend extrêmement rares.
+
+## Conclusion
+
+- Avec les données actuelles, on ne peut pas encore conclure que le principe cosmologique n'est pas valide. Mais dans les décennies à venir, 
 
 - The isotropy of the late Universe and consequently of the X-ray galaxy cluster scaling relations is an assumption greatly used in astronomy. However, within the last decade, many studies have reported deviations from isotropy when using various cosmological probes; a definitive conclusion has yet to be made. New, effective and independent methods to robustly test the cosmic isotropy are of crucial importance.
--  CMB has
-ushered in a golden era of precision cosmology, allowing us to start to question even the most fundamental
-assumptions.
+
 referred axes noted in other astronomical surveys spanning the
 electromagnetic spectrum were also found to be aligned with the CMB kinematic dipole, pointing towards
 the Virgo cluster [73, 182]. The standard narrative says that these are coincidences
--  Galaxy surveys have found that any patch of space larger than hundreds of millions of light-years across includes roughly the same amount of matter. So structures like the Giant Arc, which spans billions of light years, are as unexpected as a thick clot of air in an otherwise ordinary balloon.
--  One of the first of these structures was identified in 2013: a putative grouping of brilliant galaxy cores known as quasars distributed across 4 billion light-years that, its discoverers wrote, “challenges the assumption of the cosmological principle.”
--  Nadathur’s work suggested that the cosmological principle has plenty of room for the quasar group, the Giant Arc and others of their ilk. Huge structures will be rare, he said, but the standard model “doesn’t say the probability is zero at any scale.”
 -  
 Previous work has shown no statistically significant violation of isotropy in the obser-
 vational data of Type Ia Supernova distances [4, 5, 6] and of gamma-ray bursts [7, 8, 9].
@@ -282,14 +282,7 @@ tions of the CP, highlighting synergies and disagreements that warrant further s
 the debate about individual large structures, potential deviations from the CP include variations of
 cosmological parameters on the sky, discrepancies in the cosmic dipoles, and mysterious alignments
 in quasar polarizations and galaxy spins.
-- in order to have computable and predictive cosmological modeling, it
-is natural to start with the CP as the working assumption. Yet, since the CP is not a fundamental physical
-symmetry, but rather an assumption imposed when we interpret observations, there is nothing that prevents
-it being violated at a higher precision and/or when one does not assume the same behavior for a physical
-observable over the celestial sphere, i. e. not averaging over the sky. The results highlighted in this review
-suggest that we have already reached the level of precision where violations of the CP may show in re-
-sults. Systematics may be at play across a host of observables, but as the number of observations grow, this
-possibility seems less likely. If the Universe is not FLRW, but we view it through the prism of FLRW, cos-
+- If the Universe is not FLRW, but we view it through the prism of FLRW, cos-
 mological tensions are inevitable. Interestingly, a host of fascinating observational tensions exist, including
 the H0 tension [45, 51–58], the S8 tension [178–181], potentially a curvature tension [119, 296], and an
 AISW tension 
