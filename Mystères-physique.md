@@ -223,7 +223,7 @@ Cosmologists lean on the cosmological principle to restrict their focus to a uni
 
 ### Le dipôle cosmologique
 
-- Lorsque l'on cartographie le fond diffus cosmologique, on remarque qu'il n'est pas directement isotrope. La plus grande anisotropie de température qu'il présente est un dipole. On l'appelle le dipôle cosmologique (CMB dipole). Son amplitude (ΔT/T\~10-3) est plus grande que les autres fluctuations de température (ΔT/T\~10-5). 
+- Lorsque l'on cartographie le fond diffus cosmologique, on remarque qu'il n'est pas directement isotrope. La plus grande anisotropie de température qu'il présente est un dipole. On l'appelle le ***dipôle cosmologique*** (CMB dipole). Son amplitude (ΔT/T\~10-3) est plus grande que les autres fluctuations de température (ΔT/T\~10-5). 
 > Afin d'étudier les anisotropies de l'ordre de 10-5, on doit donc soustraire la contribution du dipôle cosmologique.
 - Son existence a été révélée pour la première fois par les mesures du satellite COBE dans les années 90.
 - On interprète généralement ce dipôle comme le résultat du mouvement du Groupe Local vers un ***grand attracteur*** dans le référentiel du CMB (modèle proposé par Lynden Bell et al en 1988), qui génère un ***effet Doppler***.
