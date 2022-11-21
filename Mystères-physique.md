@@ -297,3 +297,16 @@ geneous and isotropic universe. One curious aspect of some of these alignments i
 large – potentially gigaparsecs – scales and axes that overlap with the CMB dipole direction. If not due to
 experimental systematics or interstellar physics, one exciting possibility is that these features are cosmo-
 logical in origin. 
+
+## La tension de Hubble
+
+*Sources*
+
+- [La crise cosmique de la constante de Hubble](https://www.pourlascience.fr/sd/cosmologie/la-crise-cosmique-de-la-constante-de-hubble-19032.php) - Pour la Science (2020)
+- [Exploring the Hubble tension](https://cerncourier.com/a/exploring-the-hubble-tension/) - CERN Courrier (2021)
+- [La tension de Hubble : la cosmologie en crise ?](https://scienceetonnante.com/2022/02/04/la-tension-de-hubble/) - Science Etonnante (2022)
+- [Tensions dans le modèle cosmologique : l’espoir d’une nouvelle génération de télescopes](https://www.pourlascience.fr/sd/cosmologie/tensions-dans-le-modele-cosmologique-l-espoir-d-une-nouvelle-generation-de-telescopes-23923.php) - Pour  la Science (2022)
+
+---
+
+
