@@ -237,16 +237,17 @@ Cosmologists lean on the cosmological principle to restrict their focus to a uni
 ![dipole-repeller](https://user-images.githubusercontent.com/4954089/203095826-6f110b58-2853-4938-80f3-af813e76cfe7.png)
 
 - Lorsque ce mouvement global est corrigé, le CMB est remarquablement isotrope.
+- Cependant, l'isotropie du CMB (à l'échelle de 10-5) n'implique pas forcément l'isotropie de l'univers. Pour tester l'isotropie de l'univers, on a besoin d'autres mesures indépendantes, par exemple en étudiant la distribution statistique de matière dans l'univers. 
 
 ### Des structures plus grandes que l'échelle d'homogénéité
 
-- Les relevés astronomiques ont révélé l'existence d'une poignée de grandes structures dont la taille dépasse l'échelle maximale à partir de laquelle l'univers est sensé être homogène. L'estimation haute de cette échelle d'homogénéité est de ~370 Mpc (1,2 milliards d'années-lumière).
+- Depuis les années 80, des relevés astronomiques révèlent l'existence d'une liste croissante de grandes structures dont la taille dépasse l'échelle maximale à partir de laquelle l'univers est sensé être homogène. L'estimation haute de cette échelle d'homogénéité est de ~370 Mpc (1,2 milliards d'années-lumière).
 - La plupart de ces structures sont des ***amas de quasars*** (en anglais : large quasar group ou LQG). Ces collections de quasars font partie des plus grandes structures cosmiques connues. On pense qu'ils pourraient être les précurseurs des filaments galactiques que l'on observe dans l'univers proche.
 - ***Liste des plus grandes structures cosmiques par ordre croissant de taille :***
 > * Le ***grand mur de Sloan*** est une structure mesurant plus d'1,37 milliards d'années-lumière, découverte en 2003 dans les données du SDSS
 > * Le ***Clowes–Campusano Large Quasar Group*** (CCLQG) est un amas de quasars constitué de 34 quasars et mesurant environ 2 milliards d’années-lumière de diamètre (~630 Mpc), découvert en 1991.
 > * ***L'amas de quasars U1.11*** est une collection de 38 quasars dont le diamètre est estimé à 2,5 milliards d'années-lumière (~780 Mpc). Il a été découvert en 2011 à proximité du CCLQG dans les données du SDSS.
-> * ***L'arc géant*** est une structure mesurant 3,3 milliards d'années-lumière (1/28e du diamètre de l'univers observable), découverte en 2021 dans les données du SDSS. Sa taille apparente dans le ciel est aussi étendue que 20 pleines lunes.
+> * ***L'arc géant*** est une structure en forme de sourire mesurant 3,3 milliards d'années-lumière (1/28e du diamètre de l'univers observable), découverte en 2021 dans les données du SDSS. Sa taille apparente dans le ciel est aussi étendue que 20 pleines lunes. Elle se trouve à 9,2 milliards d'années-lumière d'ici (z~0.8).
 > * Le ***Huge-LQG*** (Huge Large Quasar Group, « Immense grand amas de quasars ») est un amas composé de 73 quasars mesurant environ 4 milliards d'années-lumière de diamètre (~1240 Mpc), découvert en 2013 dans les données du SDSS
 > * ***L'anneau géant de sursauts gamma*** (Giant GRB ring) est un grand anneau constitué par 9 sursauts gamma (hypernovae ou collisions entre étoiles à neutrons) qui s'étalerait sur environ 5,6 milliards d'années-lumière. Il a été découvert en 2015. Son diamètre apparent dans le ciel est équivalent à 70 pleines lunes.
 > * Le ***Grand Mur d'Hercule-Couronne boréale*** est un filament cosmique mesurant 10 milliards d'années-lumière, découvert en 2013 dans les données d'un relevé de sursauts gamma. Il s'agit de la plus vaste et la plus massive structure cosmique connue de l'univers observable. Mais certaines études mettent en doute son existence.
@@ -258,18 +259,10 @@ assumptions.
 referred axes noted in other astronomical surveys spanning the
 electromagnetic spectrum were also found to be aligned with the CMB kinematic dipole, pointing towards
 the Virgo cluster [73, 182]. The standard narrative says that these are coincidences
-- the Giant Arc is a discovery of an intriguing, almost symmetrical, ∼ 1 Gpc structure found
-at a redshift of z ∼ 0.8. 9,2 milliards d'années-lumière d'ici
--  The arc of distant galaxies, which Alexia Lopez presented at the American Astronomical Society’s meeting in June, sprawls so far across the sky that it would take 20 full moons to hide it. Spanning an estimated 3.3 billion light-years of space, the smile-shaped structure joined a controversial club: unexpectedly big things. It’s so big that it’s hard to explain with our current beliefs 
 -  Galaxy surveys have found that any patch of space larger than hundreds of millions of light-years across includes roughly the same amount of matter. So structures like the Giant Arc, which spans billions of light years, are as unexpected as a thick clot of air in an otherwise ordinary balloon.
 -  One of the first of these structures was identified in 2013: a putative grouping of brilliant galaxy cores known as quasars distributed across 4 billion light-years that, its discoverers wrote, “challenges the assumption of the cosmological principle.”
 -  Nadathur’s work suggested that the cosmological principle has plenty of room for the quasar group, the Giant Arc and others of their ilk. Huge structures will be rare, he said, but the standard model “doesn’t say the probability is zero at any scale.”
-- The CMB delivers the most precise tests of isotropy, with its all-sky coverage and
-exquisite data. It is isotropic at a ∼ 10−5 level, after the ∼ 10−3 dipole, due to our mo-
-tion relative to the CMB frame, is removed. However, near-isotropy of the CMB does not in
-itself imply near-isotropy of the Universe [3]. We also need independent probes of anisotropy
-in the matter distribution. These probes constitute a critical consistency test of statistical
-isotropy.
+-  
 Previous work has shown no statistically significant violation of isotropy in the obser-
 vational data of Type Ia Supernova distances [4, 5, 6] and of gamma-ray bursts [7, 8, 9].
 More stringent tests require the far higher number densities delivered by large galaxy sur-
@@ -289,14 +282,6 @@ tions of the CP, highlighting synergies and disagreements that warrant further s
 the debate about individual large structures, potential deviations from the CP include variations of
 cosmological parameters on the sky, discrepancies in the cosmic dipoles, and mysterious alignments
 in quasar polarizations and galaxy spins.
--  Simply put,
-there exists a length scale beyond the reach of the rich structures that we observe in the local Universe,
-namely stars, galaxies and galaxy clusters, where the Universe should look the same in all directions. In
-other words, the Universe is isotropic. Moreover, this statement must hold true for all observers; if observer
-A erects a telescope somewhere else in the cosmos, she is expected to recover a universe that looks the
-same as observer B’s universe at an expected scale. Given enough observers seeing isotropic universes, it
-is once again intuitive that this guarantees there is no special place in the Universe, or alternatively that the
-Universe is homogeneous
 - in order to have computable and predictive cosmological modeling, it
 is natural to start with the CP as the working assumption. Yet, since the CP is not a fundamental physical
 symmetry, but rather an assumption imposed when we interpret observations, there is nothing that prevents
@@ -314,7 +299,3 @@ geneous and isotropic universe. One curious aspect of some of these alignments i
 large – potentially gigaparsecs – scales and axes that overlap with the CMB dipole direction. If not due to
 experimental systematics or interstellar physics, one exciting possibility is that these features are cosmo-
 logical in origin. 
-- LQGs (large Quasar Group alignments) (see also section II) are large-scale agglomerations of QSOs that appear to be statistically signif-
-icant departures from uniformity. The first LQG was found in 1982, the second in [467], and the third in
-[168] (CCLQG). Many more examples have been found since, mostly in data from SDSS, with the most
-extreme example currently being that of [30] (Huge-LQG).
