@@ -231,6 +231,7 @@ anisotropies in the μK range.
 
 - Les relevés astronomiques ont révélé l'existence d'une poignée de grandes structures dont la taille dépasse l'échelle maximale à laquelle l'univers est sensé être homogène
 > * Le ***grand mur de Sloan*** est une structure mesurant plus d'1,37 milliards d'années-lumière (1/60e du diamètre de l'univers observable), découverte en 2003 dans les données du SDSS
+> * Le ***Clowes–Campusano Large Quasar Group*** (CCLQG) est un amas de quasars constitué de 34 quasars et mesurant environ 2 milliards d’années-lumière de diamètre, découvert en 1991.
 > * ***L'arc géant*** est une structure mesurant 3,3 milliards d'années-lumière (1/28e du diamètre de l'univers observable), découverte en 2021 dans les données du SDSS. Sa taille apparente dans le ciel est aussi étendue que 20 pleines lunes.
 > * Le ***Huge-LQG*** (Huge Large Quasar Group, « Immense grand amas de quasars ») est un amas composé de 73 quasars mesurant environ 4 milliards d'années-lumière de diamètre, découvert en 2013 dans les données du SDSS
 > * Le ***Grand Mur d'Hercule-Couronne boréale*** est un filament cosmique mesurant 10 milliards d'années-lumière, découvert en 2013 dans les données d'un relevé de sursauts gamma. Il s'agit de la plus vaste et la plus massive structure cosmique connue de l'univers observable. Mais certaines études mettent en doute son existence.
