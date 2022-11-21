@@ -284,3 +284,16 @@ mological tensions are inevitable. Interestingly, a host of fascinating observat
 the H0 tension [45, 51–58], the S8 tension [178–181], potentially a curvature tension [119, 296], and an
 AISW tension 
 - But our peculiar velocity might not fully explain the perceived lopsidedness of the CMB; the distortion could also include the effect of the whole universe drifting. If this is the case, gauging our motion against distant galaxies will give a different result than if we measure our speed against the CMB, since those galaxies will be moving too. 
+-  we document a series of intriguing alignments that are surprising in a statistically homo-
+geneous and isotropic universe. One curious aspect of some of these alignments is their observation over
+large – potentially gigaparsecs – scales and axes that overlap with the CMB dipole direction. If not due to
+experimental systematics or interstellar physics, one exciting possibility is that these features are cosmo-
+logical in origin. 
+- LQGs (large Quasar Group alignments) (see also section II) are large-scale agglomerations of QSOs that appear to be statistically signif-
+icant departures from uniformity. The first LQG was found in 1982, the second in [467], and the third in
+[168] (CCLQG). Many more examples have been found since, mostly in data from SDSS, with the most
+extreme example currently being that of [30] (Huge-LQG).
+- In 1991, the CCLQG was the largest structure known in the Universe; its long dimension is ∼ 630 Mpc.
+In 2013, the Huge-LQG was the largest structure known in the Universe; its long dimension is ∼ 1240 Mpc.
+The sizes given are proper sizes for the present epoch. Both greatly exceed the scale of homogeneity as
+established in [26], which is ∼ 370 Mpc. A
