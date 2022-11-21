@@ -231,6 +231,10 @@ Cosmologists lean on the cosmological principle to restrict their focus to a uni
 > * On sait aujourd'hui que ce grand attracteur se trouve au coeur du super-amas Laniakea
 > *  We show here that repulsion from an underdensity is important and that the dominant influences causing the observed flow are a single attractor — associated with the Shapley concentration — and a single previously unidentified repeller, which contribute roughly equally to the CMB dipole. 
 > * Le grand attracteur est difficile à observer dans le domaine du visible parce qu'il est situé directement derrière le plan Galactique.
+
+*Le grand attracteur et le répulseur du dipôle (Source : Hoffman et al 2017)
+![dipole-repeller](https://user-images.githubusercontent.com/4954089/203095826-6f110b58-2853-4938-80f3-af813e76cfe7.png)
+
 - Lorsque ce mouvement global est corrigé, le CMB est remarquablement isotrope.
 
 ### Des structures plus grandes que l'échelle d'homogénéité
