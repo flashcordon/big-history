@@ -232,6 +232,7 @@ anisotropies in the μK range.
 
 - Les relevés astronomiques ont révélé l'existence d'une poignée de grandes structures dont la taille dépasse l'échelle maximale à partir de laquelle l'univers est sensé être homogène. L'estimation haute de cette échelle d'homogénéité est de ~370 Mpc (1,2 milliards d'années-lumière).
 - La plupart de ces structures sont des ***amas de quasars*** (en anglais : large quasar group ou LQG). Ces collections de quasars font partie des plus grandes structures cosmiques connues. On pense qu'ils pourraient être les précurseurs des filaments galactiques que l'on observe dans l'univers proche.
+- ***Liste des plus grandes structures cosmiques par ordre croissant de taille :***
 > * Le ***grand mur de Sloan*** est une structure mesurant plus d'1,37 milliards d'années-lumière, découverte en 2003 dans les données du SDSS
 > * Le ***Clowes–Campusano Large Quasar Group*** (CCLQG) est un amas de quasars constitué de 34 quasars et mesurant environ 2 milliards d’années-lumière de diamètre (~630 Mpc), découvert en 1991.
 > * ***L'amas de quasars U1.11*** est une collection de 38 quasars dont le diamètre est estimé à 2,5 milliards d'années-lumière (~780 Mpc). Il a été découvert en 2011 à proximité du CCLQG dans les données du SDSS.
