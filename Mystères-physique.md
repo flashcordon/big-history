@@ -2,6 +2,12 @@
 
 - [La cosmologie quantique](#La-cosmologie-quantique)
 - [Matière noire](#Matière-noire)
+- [Energie sombre](#Energie-sombre)
+- [L'inflation cosmique](#Linflation-cosmique)
+- [Le problème de la hiérarchie](#Le-problème-de-la-hiérarchie)
+- [Le problème du lithium cosmique](#Le-problème-du-lithium-cosmique)
+- [Le principe cosmologique](#Le-principe-cosmologique)
+- [La tension de Hubble](#La-tension-de-Hubble)
 
 # La cosmologie quantique
 
@@ -204,7 +210,7 @@ energy or a modification of GR.
 - Il pourrait enfin exister des solutions au-delà du modèle standard (comme la supersymmétrie par exemple) qui pourrait impliquer de nouveaux processus au niveau cosmologique ou de la physique des particules
 > Ces solutions sont testées dans les accélérateurs de particules comme le LHC et du côté des expériences de détection de matière noire.
 
-# L'univers est-il homogène et isotrope ?
+# Le principe cosmologique
 
 - [Probing cosmic isotropy with a new X-ray galaxy cluster sample through the LX–T scaling relation](https://www.aanda.org/articles/aa/full_html/2020/04/aa36602-19/aa36602-19.html) - Migkas et al (2020)
 - [Observation d'une anisotropie de l'Univers !](https://www.ca-se-passe-la-haut.fr/2020/04/observation-dune-anisotropie-de-lunivers.html) - Ca se passe là-haut
@@ -303,7 +309,7 @@ large – potentially gigaparsecs – scales and axes that overlap with the CMB 
 experimental systematics or interstellar physics, one exciting possibility is that these features are cosmo-
 logical in origin. 
 
-## La tension de Hubble
+# La tension de Hubble
 
 *Sources*
 
