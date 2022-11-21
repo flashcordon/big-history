@@ -231,10 +231,12 @@ anisotropies in the μK range.
 ### Des structures plus grandes que l'échelle d'homogénéité
 
 - Les relevés astronomiques ont révélé l'existence d'une poignée de grandes structures dont la taille dépasse l'échelle maximale à partir de laquelle l'univers est sensé être homogène. L'estimation haute de cette échelle d'homogénéité est de ~370 Mpc (1,2 milliards d'années-lumière).
+- La plupart de ces structures sont des ***amas de quasars*** (en anglais : large quasar group ou LQG). Ces collections de quasars font partie des plus grandes structures cosmiques connues. On pense qu'ils pourraient être les précurseurs des filaments galactiques que l'on observe dans l'univers proche.
 > * Le ***grand mur de Sloan*** est une structure mesurant plus d'1,37 milliards d'années-lumière, découverte en 2003 dans les données du SDSS
 > * Le ***Clowes–Campusano Large Quasar Group*** (CCLQG) est un amas de quasars constitué de 34 quasars et mesurant environ 2 milliards d’années-lumière de diamètre (~630 Mpc), découvert en 1991.
 > * ***L'arc géant*** est une structure mesurant 3,3 milliards d'années-lumière (1/28e du diamètre de l'univers observable), découverte en 2021 dans les données du SDSS. Sa taille apparente dans le ciel est aussi étendue que 20 pleines lunes.
 > * Le ***Huge-LQG*** (Huge Large Quasar Group, « Immense grand amas de quasars ») est un amas composé de 73 quasars mesurant environ 4 milliards d'années-lumière de diamètre (~1240 Mpc), découvert en 2013 dans les données du SDSS
+> * ***L'amas de quasars U1.11*** est une collection de 38 quasars dont le diamètre est estimé à 2,5 milliards d'années-lumière (~780 Mpc). Il a été découvert en 2011 à proximité du CCLQG dans les données du SDSS.
 > * ***L'anneau géant de sursauts gamma*** (Giant GRB ring) est un grand anneau constitué par 9 sursauts gamma (hypernovae ou collisions entre étoiles à neutrons) qui s'étalerait sur environ 5,6 milliards d'années-lumière. Il a été découvert en 2015. Son diamètre apparent dans le ciel est équivalent à 70 pleines lunes.
 > * Le ***Grand Mur d'Hercule-Couronne boréale*** est un filament cosmique mesurant 10 milliards d'années-lumière, découvert en 2013 dans les données d'un relevé de sursauts gamma. Il s'agit de la plus vaste et la plus massive structure cosmique connue de l'univers observable. Mais certaines études mettent en doute son existence.
 
