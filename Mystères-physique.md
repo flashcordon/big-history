@@ -210,6 +210,7 @@ energy or a modification of GR.
 - [Is the Observable Universe Consistent with the Cosmological Principle?](https://arxiv.org/abs/2207.05765) - Aluri et al (2022)
 - [Cosmologists Parry Attacks on the Vaunted Cosmological Principle](https://www.quantamagazine.org/giant-arc-of-galaxies-puts-basic-cosmology-under-scrutiny-20211213/) - Quanta (2021)
 - [Un intrigant anneau géant fait de sursauts gamma](https://www.futura-sciences.com/sciences/actualites/sursaut-gamma-intrigant-anneau-geant-fait-sursauts-gamma-59317/) - Futura Sciences (2015)
+- [The dipole repeller](https://www.nature.com/articles/s41550-016-0036) - Hoffman et al (2017)
 
 ---
 
@@ -226,8 +227,9 @@ Cosmologists lean on the cosmological principle to restrict their focus to a uni
 > Afin d'étudier les anisotropies de l'ordre de 10-5, on doit donc soustraire la contribution du dipôle cosmologique.
 - Son existence a été révélée pour la première fois par les mesures du satellite COBE dans les années 90.
 - On interprète généralement ce dipôle comme le résultat du mouvement du Groupe Local vers un ***grand attracteur*** dans le référentiel du CMB (modèle proposé par Lynden Bell et al en 1988), qui génère un ***effet Doppler***.
-> * Notre Galaxie se déplace à environ 620 km/s par rapport au CMB dans la direction de la constellation du Centaure, où se trouve le grand attracteur
+> * Notre Galaxie se déplace à environ 630 (+-20) km/s par rapport au CMB dans la direction de la constellation du Centaure, où se trouve le grand attracteur
 > * On sait aujourd'hui que ce grand attracteur se trouve au coeur du super-amas Laniakea
+> *  We show here that repulsion from an underdensity is important and that the dominant influences causing the observed flow are a single attractor — associated with the Shapley concentration — and a single previously unidentified repeller, which contribute roughly equally to the CMB dipole. 
 > * Le grand attracteur est difficile à observer dans le domaine du visible parce qu'il est situé directement derrière le plan Galactique.
 - Lorsque ce mouvement global est corrigé, le CMB est remarquablement isotrope.
 
