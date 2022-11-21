@@ -218,7 +218,7 @@ energy or a modification of GR.
 - Theorists reconstruct the cosmos’s past and predict its future using a standard theoretical model based largely on general relativity, Albert Einstein’s theory of gravity. Einstein’s theory describes the interplay between matter and space-time — the bendy fabric of the universe. But Einstein’s treatment involves 10 interlinked equations and 20 variables, a system of equations that is generally too complicated to solve.
 
 Cosmologists lean on the cosmological principle to restrict their focus to a universe acting as a smooth and symmetric fluid. By ignoring bumps of matter like galaxies and requiring the universe to expand in the same way along all three axes, the cosmological principle deletes parts of the equations and links some of the variables, dramatically simplifying the system of equations. Theorists can then predict the velocity and acceleration of the cosmos’s expansion with just two equations — the Friedmann equations, derived from Einstein’s by Alexander Friedmann, a Russian cosmologist, in 1922. It’s a bit like computing the volume of the Earth: You could fret over every mountain and ravine, or you could assume the planet is a sphere and call it a day.
-- Lorsque l'on cartographie le fond diffus cosmologique, on remarque qu'il n'est pas directement isotrope. La plus grande anisotropie de température qu'il présente est un dipole (CMB dipole). L'amplitude de ce dipole (ΔT/T\~10-3) est plus grande que les autres fluctuations de température (ΔT/T\~10-5).
+- Lorsque l'on cartographie le fond diffus cosmologique, on remarque qu'il n'est pas directement isotrope. La plus grande anisotropie de température qu'il présente est un dipole (CMB dipole). L'amplitude de ce dipole (ΔT/T\~10-3) est plus grande que les autres fluctuations de température (ΔT/T\~10-5). Ce dipôle a été révélé pour la première fois par les mesures du satellite COBE dans les années 90.
 >  has to be subtracted to process the smaller temperature
 anisotropies in the μK range. 
 - On interprète généralement ce dipôle comme le résultat du mouvement du Groupe Local vers un ***grand attracteur*** dans le référentiel du CMB (modèle proposé par Lynden Bell et al en 1988), qui génère un ***effet Doppler***.
@@ -283,4 +283,4 @@ possibility seems less likely. If the Universe is not FLRW, but we view it throu
 mological tensions are inevitable. Interestingly, a host of fascinating observational tensions exist, including
 the H0 tension [45, 51–58], the S8 tension [178–181], potentially a curvature tension [119, 296], and an
 AISW tension 
-- 
+- But our peculiar velocity might not fully explain the perceived lopsidedness of the CMB; the distortion could also include the effect of the whole universe drifting. If this is the case, gauging our motion against distant galaxies will give a different result than if we measure our speed against the CMB, since those galaxies will be moving too. 
