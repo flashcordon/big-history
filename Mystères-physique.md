@@ -208,17 +208,37 @@ energy or a modification of GR.
 - [The Motion of the Local Group with Respect to the 15,000 Kilometer per Second Abell Cluster Inertial Frame](https://adsabs.harvard.edu/full/1994ApJ...425..418L) - Lauer et Postman (1994)
 - [Testing the Cosmological Principle in the radio sky](https://arxiv.org/pdf/1905.12378.pdf) - Bengaly et al (2021)
 - [Is the Observable Universe Consistent with the Cosmological Principle?](https://arxiv.org/abs/2207.05765) - Aluri et al (2022)
+- [Cosmologists Parry Attacks on the Vaunted Cosmological Principle](https://www.quantamagazine.org/giant-arc-of-galaxies-puts-basic-cosmology-under-scrutiny-20211213/) - Quanta (2021)
 
 ---
 
-- L'homogénéité (à grande échelle) et l'isotropie (statistiquement parlant) de l'univers est à la base du modèle standard de la cosmologie. Autrement dit, il n'y a pas d'observateur privilégié ou de direction privilégiée dans l'univers. Où que l'on soit dans l'univers, et quelque soit la direction où l'on regarde, on devrait observer la même chose à grande échelle. Cette idée constitue le ***principe cosmologique***.
+- L'homogénéité (à grande échelle, ie au-delà de 70 h-1 Mpc) et l'isotropie (statistiquement parlant) de l'univers est à la base du modèle standard de la cosmologie. Autrement dit, il n'y a pas d'observateur privilégié ou de direction privilégiée dans l'univers. Où que l'on soit dans l'univers, et quelque soit la direction où l'on regarde, on devrait observer la même chose à grande échelle. Cette idée constitue le ***principe cosmologique***.
+> The cosmological principle grew out of the Copernican principle, Nicolaus Copernicus’ 1543 realization that Earth is not the fixed center of creation. Not only is Earth not special, but nothing anywhere is special. 
+- The universe is clearly not homogeneous on the human scale. Teleport a person one light-year from here and you’ll ruin their day. But drop the Hubble Space Telescope halfway across the universe, and it will return familiar-looking galaxy-filled images. 
+- Theorists reconstruct the cosmos’s past and predict its future using a standard theoretical model based largely on general relativity, Albert Einstein’s theory of gravity. Einstein’s theory describes the interplay between matter and space-time — the bendy fabric of the universe. But Einstein’s treatment involves 10 interlinked equations and 20 variables, a system of equations that is generally too complicated to solve.
+
+Cosmologists lean on the cosmological principle to restrict their focus to a universe acting as a smooth and symmetric fluid. By ignoring bumps of matter like galaxies and requiring the universe to expand in the same way along all three axes, the cosmological principle deletes parts of the equations and links some of the variables, dramatically simplifying the system of equations. Theorists can then predict the velocity and acceleration of the cosmos’s expansion with just two equations — the Friedmann equations, derived from Einstein’s by Alexander Friedmann, a Russian cosmologist, in 1922. It’s a bit like computing the volume of the Earth: You could fret over every mountain and ravine, or you could assume the planet is a sphere and call it a day.
 - Lorsque l'on cartographie le fond diffus cosmologique, on remarque qu'il n'est pas directement isotrope. La plus grande anisotropie de température qu'il présente est un dipole (CMB dipole). L'amplitude de ce dipole (ΔT/T\~10-3) est plus grande que les autres fluctuations de température (ΔT/T\~10-5).
+>  has to be subtracted to process the smaller temperature
+anisotropies in the μK range. 
 - On interprète généralement ce dipôle comme le résultat du mouvement du Groupe Local vers un ***grand attracteur*** dans le référentiel du CMB (modèle proposé par Lynden Bell et al en 1988), qui génère un ***effet Doppler***.
 > * Notre Galaxie se déplace à environ 620 km/s par rapport au CMB dans la direction de la constellation du Centaure, où se trouve le grand attracteur
 > * On sait aujourd'hui que ce grand attracteur se trouve au coeur du super-amas Laniakea
 > * Le grand attracteur est difficile à observer dans le domaine du visible parce qu'il est situé directement derrière le plan Galactique.
 - Lorsque ce mouvement global est corrigé, le CMB est remarquablement isotrope.
 - The isotropy of the late Universe and consequently of the X-ray galaxy cluster scaling relations is an assumption greatly used in astronomy. However, within the last decade, many studies have reported deviations from isotropy when using various cosmological probes; a definitive conclusion has yet to be made. New, effective and independent methods to robustly test the cosmic isotropy are of crucial importance.
+-  CMB has
+ushered in a golden era of precision cosmology, allowing us to start to question even the most fundamental
+assumptions.
+referred axes noted in other astronomical surveys spanning the
+electromagnetic spectrum were also found to be aligned with the CMB kinematic dipole, pointing towards
+the Virgo cluster [73, 182]. The standard narrative says that these are coincidences
+- the Giant Arc is a discovery of an intriguing, almost symmetrical, ∼ 1 Gpc structure found
+at a redshift of z ∼ 0.8. 9,2 milliards d'années-lumière d'ici
+-  The arc of distant galaxies, which Alexia Lopez presented at the American Astronomical Society’s meeting in June, sprawls so far across the sky that it would take 20 full moons to hide it. Spanning an estimated 3.3 billion light-years of space, the smile-shaped structure joined a controversial club: unexpectedly big things. It’s so big that it’s hard to explain with our current beliefs 
+-  Galaxy surveys have found that any patch of space larger than hundreds of millions of light-years across includes roughly the same amount of matter. So structures like the Giant Arc, which spans billions of light years, are as unexpected as a thick clot of air in an otherwise ordinary balloon.
+-  One of the first of these structures was identified in 2013: a putative grouping of brilliant galaxy cores known as quasars distributed across 4 billion light-years that, its discoverers wrote, “challenges the assumption of the cosmological principle.”
+-  Nadathur’s work suggested that the cosmological principle has plenty of room for the quasar group, the Giant Arc and others of their ilk. Huge structures will be rare, he said, but the standard model “doesn’t say the probability is zero at any scale.”
 - The CMB delivers the most precise tests of isotropy, with its all-sky coverage and
 exquisite data. It is isotropic at a ∼ 10−5 level, after the ∼ 10−3 dipole, due to our mo-
 tion relative to the CMB frame, is removed. However, near-isotropy of the CMB does not in
