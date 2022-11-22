@@ -75,6 +75,166 @@ of this article follows the common but inexact usage of “dark energy” as a c
 for the origin of cosmic acceleration, regardless of whether it arises from a new form of
 energy or a modification of GR. 
 
+A cosmological constant is the mathematically simplest, and perhaps the physically
+simplest, theoretical explanation for the accelerating universe. The problem is explaining
+its unnaturally small magnitude,
+
+An alternative
+(which still requires finding a way to make the cosmological constant zero or at least
+negligibly small) is that the accelerating cosmic expansion is driven by a new form of
+energy such as a scalar field [13] with potential V (φ). The energy density and pressure of
+the field φ(x) take the same forms as for inflationary scalar fields, given in Eq. (19.52) of
+the Big Bang Cosmology article. In the limit that 1
+2 ̇φ2 ≪ |V (φ)|, the scalar field acts like
+a cosmological constant, with pφ ≈ −ρφ. In this scenario, today’s cosmic acceleration is
+closely akin to the epoch of inflation, but with radically different energy and timescale.
+
+Instead of introducing a new energy component, one can attempt to modify gravity
+in a way that leads to accelerated expansion [14]. One option is to replace the Ricci
+scalar R with a function R + f (R) in the gravitational action [15]. Other changes can
+be more radical, such as introducing extra dimensions and allowing gravitons to “leak”
+off the brane that represents the observable universe (the “DGP” model [16]) . The DGP
+example has inspired a more general class of “galileon” and massive gravity models.
+Constructing viable modified gravity models is challenging, in part because it is easy to
+introduce theoretical inconsistencies (such as “ghost” fields with negative kinetic energy)
+but above all because GR is a theory with many high-precision empirical successes on
+solar system scales
+
+one can search for signatures of modified gravity by comparing the
+history of cosmic structure growth to the history of cosmic expansion. Within GR, these
+two are linked by a consistency relation, as described below (Eq. (1.2)). Modifying
+gravity can change the predicted rate of structure growth, and it can make the growth
+rate dependent on scale or environment. In some circumstances, modifying gravity alters
+the combinations of potentials responsible for gravitational lensing and the dynamics of
+non-relativistic tracers (such as galaxies or stars) in different ways (see Sec. 19.4.7 in this
+Review), leading to order unity mismatches between the masses of objects inferred from
+lensing and those inferred from dynamics in unscreened environments.
+At present there are no fully realized and empirically viable modified gravity theories
+that explain the observed level of cosmic acceleration.
+
+The DGP model is empirically ruled out by
+several tests, including the expansion history, the integrated Sachs-Wolfe effect, and
+redshift-space distortion measurements of the structure growth rate [19]. The elimination
+of these models should be considered an important success of the program to empirically
+test theories of cosmic acceleration. However, it is worth recalling that there was no
+fully realized gravitational explanation for the precession of Mercury’s orbit prior to the
+completion of GR in 1915, and the fact that no complete and viable modified gravity
+theory exists today does not mean that one will not arise in the future.
+
+The main line of empirical attack on dark energy is to measure the history of cosmic
+expansion and the history of matter clustering with the greatest achievable precision
+over a wide range of redshift. Within GR, the expansion rate H(z) is governed by
+the Friedmann equation
+
+In modified gravity models the growth rate of gravitational clustering may differ from
+the GR prediction. A general strategy to test modified gravity, therefore, is to measure
+both the expansion history and the growth history to see whether they yield consistent
+results for H(z) or w(z)
+
+The underlying goal of empirical studies of cosmic acceleration is to
+address two physically profound questions:
+1. Does acceleration arise from a breakdown of GR on cosmological scales or from a
+new energy component that exerts repulsive gravity within GR?
+2. If acceleration is caused by a new energy component, is its energy density constant
+in space and time, as expected for a fundamental vacuum energy, or does it show
+variations that indicate a dynamical field?
+Substantial progress towards answering these questions, in particular any definitive
+rejection of the cosmological constant “null hypothesis,” would be a major breakthrough
+in cosmology and fundamental physics.
+
+Observational Probes
+
+Cosmic Microwave Background Anisotropies: Although CMB anisotropies provide limited
+information about dark energy on their own, CMB constraints on the geometry, matter
+content, and radiation content of the Universe play a critical role in dark energy studies
+when combined with low redshift probes. In particular, CMB data supply measurements
+of θs = rs/DA,c(zrec), the angular size of the sound horizon at recombination, from the
+angular location of the acoustic peaks, measurements of Ωmh2 and Ωbh2 from the heights
+of the peaks, and normalization of the amplitude of matter fluctuations at zrec from the
+amplitude of the CMB fluctuations themselves.
+
+Secondary anisotropies, including the
+Integrated Sachs-Wolfe effect, the Sunyaev-Zel’dovich (SZ, [23]) effect, and gravitational
+lensing of primary anisotropies, provide additional information about dark energy by
+constraining low-redshift structure growth.
+
+Type Ia Supernovae: Type Ia supernovae, produced by the thermonuclear explosions of
+white dwarfs, exhibit 10-15% scatter in peak luminosity after correction for light curve
+duration (the time to rise and fall) and color (which is a diagnostic of dust extinction).
+Since the peak luminosity is not known a priori, supernova surveys constrain ratios of
+luminosity distances at different redshifts. If one is comparing a high redshift sample to
+a local calibrator sample measured with much higher precision (and distances inferred
+from Hubble’s law), then one essentially measures the luminosity distance in h−1Mpc,
+constraining the combination hDL(z).
+
+Baryon Acoustic Oscillations (BAO): Pressure waves that propagate in the pre-
+recombination photo-baryon fluid imprint a characteristic scale in the clustering of matter
+and galaxies, which appears in the galaxy correlation function as a localized peak at the
+sound horizon scale rs, or in the power spectrum as a series of oscillations. Since observed
+galaxy coordinates consist of angles and redshifts, measuring this “standard ruler” scale
+in a galaxy redshift survey determines the angular diameter distance DA(z) and the
+expansion rate H(z), which convert coordinate separations to comoving distances
+BAO can also be measured in the Lyman-α forest of intergalactic hydrogen
+absorption towards background quasars, where the best measured parameter combination
+is more heavily weighted towards H(z) because of strong redshift-space distortions that
+enhance clustering along the line of sight. BAO distance measurements complement SN
+distance measurements by providing absolute rather than relative distances (with precise
+calibration of rs from the CMB) and by achieving greater precision at high redshift thanks
+to the increasing comoving volume available.
+
+Weak Gravitational Lensing: Gravitational light bending by a clustered distribution
+of matter shears the shapes of higher redshift background galaxies in a spatially
+coherent manner, producing a correlated pattern of apparent ellipticities. By studying
+the weak lensing signal for source galaxies binned by photometric redshift (estimated
+from broad-band colors), one can probe the history of structure growth.
+
+Clusters of Galaxies: Like weak lensing, the abundance of massive dark matter halos
+probes structure growth by constraining σ8Ωα
+m, where α ≈ 0.3–0.5. These halos can be
+identified as dense concentrations of galaxies or through the signatures of hot (107–108 K)
+gas in X-ray emission or SZ distortion of the CMB.
+
+Direct Determination of H0: The value of H0 sets the current value of the critical density
+ρc = 3H2
+0 /8πGN, and combination with CMB measurements provides a long lever arm
+for constraining the evolution of dark energy. The challenge in direct H0 measurements is
+establishing distances to galaxies that are far enough away that their peculiar velocities
+are small compared to the expansion velocity v = H0d. This can be done by building
+a ladder of distance indicators tied to stellar parallax on its lowest rung, or by using
+gravitational lens time delays or geometrical measurements of maser data to circumvent
+this ladder
+
+A still more ambitious period begins late in this decade and continues through the
+2020s, with experiments that include the Dark Energy Spectroscopic Instrument (DESI),
+the Subaru Prime Focus Spectrograph (PFS), the Large Synoptic Survey Telescope
+(LSST), and the space missions Euclid and WFIRST (Wide Field Infrared Survey
+Telescope). DESI and PFS both aim for major improvements in the precision of BAO,
+RSD, and other measurements of galaxy clustering in the redshift range 0.8 < z < 2,
+where large comoving volume allows much smaller cosmic variance errors than low
+redshift surveys like BOSS. LSST will be the ultimate ground-based optical weak lensing
+experiment, measuring several billion galaxy shapes over 20,000 deg2 of the southern
+hemisphere sky, and it will detect and monitor many thousands of SNe per year. Euclid
+and WFIRST also have weak lensing as a primary science goal, taking advantage of the
+high angular resolution and extremely stable image quality achievable from space. Both
+missions plan large spectroscopic galaxy surveys, which will provide better sampling at
+high redshifts than DESI or PFS because of the lower infrared sky background above
+the atmosphere. WFIRST is also designed to carry out what should be the ultimate
+supernova cosmology experiment, with deep, high resolution, near-IR observations and
+the stable calibration achievable with a space platform.
+
+Performance forecasts necessarily become more uncertain the further ahead we
+look, but collectively these experiments are likely to achieve 1–2 order of magnitude
+improvements over the precision of current expansion and growth measurements, while
+simultaneously extending their redshift range, improving control of systematics, and
+enabling much tighter cross-checks of results from entirely independent methods. The
+critical clue to the origin of cosmic acceleration could also come from a surprising
+direction, such as laboratory or solar system tests that challenge GR, time variation
+of fundamental “constants,” or anomalous behavior of gravity in some astronomical
+environments. Experimental advances along these multiple axes could confirm today’s
+relatively simple, but frustratingly incomplete, “standard model” of cosmology, or they
+could force yet another radical revision in our understanding of energy, or gravity, or the
+spacetime structure of the Universe.
+
 # L'inflation cosmique
 
 # Le problème de la hiérarchie
