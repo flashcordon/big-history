@@ -48,6 +48,7 @@
 - [What are baryonic acoustic oscillations?](https://sci.esa.int/web/euclid/-/what-are-baryonic-acoustic-oscillations-) - ESA
 - [What the hell are Baryon Acoustic Oscillations?](https://medium.com/starts-with-a-bang/what-the-hell-are-baryon-acoustic-oscillations-cfee6d726538) - Ethan Siegel
 - [Dark Energy Spectroscopic Instrument (DESI) Creates Largest 3-D Map of the Cosmos](https://www.ifae.es/news/2022/01/13/dark-energy-spectroscopic-instrument-desi-creates-largest-3-d-map-of-the-cosmos/) - IFAE (2022)
+- [Listening to the sound of the universe](https://web.physics.ucsb.edu/~jatila/CMB-sounds/CMB/) - Jatila van der Veen
 
 ---
 
