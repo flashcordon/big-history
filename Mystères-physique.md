@@ -266,6 +266,8 @@ The BAO signature was detected for the first time in 2005. Two teams of astronom
 
 These surveys showed that the size of the BAO signal in the modern Universe is approximately 150 million parsecs. 
 
+Sous l’influence de la gravité, cette matière baryonique et les photons ont été attirés par les régions de surdensités de matière noire. Mais leur accumulation au centre de ces surdensités a créé une pression des photons qui s’est opposée à la gravité, et a entraîné la matière ordinaire et les photons en dehors de ces zones, qui se sont propagés sous forme d’ondes acoustiques (comme le son dans l’air ou les ondes sismiques à travers le manteau terrestre).
+
 *(Illustration des BAO. Crédit: Gabriela Secara, Institut Périmètre [Source](https://insidetheperimeter.ca/fr/desi-launches-five-year-quest-to-understand-the-universe/))*
 
 ![BAO](https://insidetheperimeter.ca/wp-content/uploads/2021/05/test-DESI_Baryon_Acoustic_Oscillation.png)
