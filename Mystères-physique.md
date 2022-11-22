@@ -47,6 +47,7 @@
 - [La distribution des galaxies, une fenêtre sur l'Univers primordial](https://www.pourlascience.fr/sd/cosmologie/la-distribution-des-galaxies-une-fenetre-sur-l-univers-primordial-11827.php) - Pour la Science (2014)
 - [What are baryonic acoustic oscillations?](https://sci.esa.int/web/euclid/-/what-are-baryonic-acoustic-oscillations-) - ESA
 - [What the hell are Baryon Acoustic Oscillations?](https://medium.com/starts-with-a-bang/what-the-hell-are-baryon-acoustic-oscillations-cfee6d726538) - Ethan Siegel
+- [Dark Energy Spectroscopic Instrument (DESI) Creates Largest 3-D Map of the Cosmos](https://www.ifae.es/news/2022/01/13/dark-energy-spectroscopic-instrument-desi-creates-largest-3-d-map-of-the-cosmos/) - IFAE (2022)
 
 ---
 
@@ -185,7 +186,7 @@ constraining the combination hDL(z).
 - La signature des BAO dans la répartition des galaxies a été mise en évidence pour la première fois en 2005 par deux équipes indépendantes d'astronomes associés aux relevés SDSS (Sloan Digital Sky Survey, au Nouveau mexique) et 2dFGRS (2dF Galaxy Redshift Survey, en Australie).
 > Ils ont montré que les anneaux ont une taille caractéristique de 500 millions d'années-lumière (150 Mpc) dans l'univers actuel
 - Un instrument fondamental pour détecter la signature des BAO dans les années à venir est DESI (Dark Energy Spectroscopic Instrument, "instrument spectroscopique pour l'énergie noire"), installé sur le télescope Mayall de 4 mètres de l'Observatoire National de Kitt Peak (Arizona)
-> En 2021, une collaboration internationale de 50 institutions dirigée par le Berkeley Lab a débuté un programme d'observation de 5 ans avec DESI qui devrait l'amener à cartographier la position et la vitesse de plus de 30 millions de galaxies dans le ciel de l'hémisphère Nord. Il pourra atteindre des profondeurs que BOSS ne pouvait pas atteindre, et permettra l'étude la plus fine de l'histoire de l'expansion cosmique.
+> En 2021, une collaboration internationale de 50 institutions dirigée par le Berkeley Lab a débuté un programme d'observation de 5 ans avec DESI qui devrait l'amener à cartographier la position et la vitesse de plus de 30 millions de galaxies dans le ciel de l'hémisphère Nord, dont près de 2,4 millions de quasars. Il pourra atteindre des profondeurs que BOSS ne pouvait pas atteindre, et permettra l'étude la plus fine de l'histoire de l'expansion cosmique.
 
 Baryon Acoustic Oscillations (BAO): Pressure waves that propagate in the pre-
 recombination photo-baryon fluid imprint a characteristic scale in the clustering of matter
