@@ -40,6 +40,9 @@
 - [L'histoire de l'expansion de l'Univers dévoilée](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2022/01/refdp202271p22.pdf) - Burtin (2022)
 - [Avancées de la recherche Cisaillement gravitationnel et sondage de l’Univers](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2006/01/refdp20061p5.pdf) - Mellier (2006)
 - [La constante cosmologique : la plus grande erreur d’Einstein](https://books.openedition.org/cdf/9443?lang=fr) - Combes
+- [Listening for the Size of the Universe](https://astro.ucla.edu/~wright/BAO-cosmology.html) - Edward Wright (2014)
+- [Astronomy Jargon 101: Baryon Acoustic Oscillations](https://www.universetoday.com/153273/astronomy-jargon-101-baryon-acoustic-oscillations/) - Paul Sutter
+- [BOSS Measures the Universe to One-Percent Accuracy](https://newscenter.lbl.gov/2014/01/08/boss-one-percent/) - Berkeley Lab (2014)
 
 ---
 
@@ -187,6 +190,42 @@ enhance clustering along the line of sight. BAO distance measurements complement
 distance measurements by providing absolute rather than relative distances (with precise
 calibration of rs from the CMB) and by achieving greater precision at high redshift thanks
 to the increasing comoving volume available.
+
+The baryon acoustic oscillations that produce the peaks and troughs in the CMB angular power spectrum can also be seen in the distribution of galaxies in space. Before the electrons and protons combine to form hydrogen, a transparent gas, the free electrons strongly scattered the photons of the CMB. The photons form a high pressure fluid, and if there is a pressure gradient, the electrons will be pushed down the pressure gradient. But if the electrons move, the protons must follow or else a large electric field will be set up, which then pulls the protons along to follow the electrons. Thus the normal matter ("baryons ") and the CMB photons are tied together to make a "baryon-photon" fluid. This fluid has a high sound speed since the photons provide most of the density and almost all of the pressure. As a result the sound speed in the baryon-photon fluid is about 170,000 km/sec. In a region with high initial density, there will be a high pressure in the baryon-photon fluid which will propagate as an expanding spherical sound wave. The animation at right shows a cross-section of this process. In this figure dark matter is blue, baryons are green, and photons are red. Both recombination the baryon-photon fluid is red plus green which is yellow. After recombination the photons go off at the speed of light and baryons are left sitting in a spherical shell around the initial excess density of dark matter. The sound wave travels for about 400,000 years before recombination, at a large fraction of the speed of light, and the distances covered before recombination expand along with the Universe, so at recombination the shell has a radius of about 450,000 light years. This expands after recombination to a current size of 500 million light years. Thus we expect to see an enhanced number of galaxy pairs separated by 500 million light years.
+
+This effect was first detected in Eisenstein et al. (2005). The latest results from BOSS, the Baryon Oscillation Spectroscopic Survey, which is working to get redshifts for 1.5 million Luminous Red Galaxies out to redshift z = 0.7, are detailed in a paper by Anderson et al.. They have a strong 10σ detection of the BAO signal and measurements of the acoustic scale length in two redshift bins centered at z = 0.32 and 0.57. 
+
+The spheres show the current size of the "baryon acoustic oscillations" (BAOs) from the early universe, which have helped to set the distribution of galaxies that we see in the universe today. Galaxies have a slight tendency to align along the edges of the spheres — the alignment has been greatly exaggerated in this illustration. BAOs can be used as a "standard ruler" (white line) to measure the distances to all the galaxies in the universe.
+
+The early universe was a pretty intense place. So intense that it was a plasma, which is a fancy physics word for a high-energy soup of particles and radiation. And like any other soup, high-energy or otherwise, there can be sound waves.
+
+Sound waves are just waves of pressure traveling from one place to another, and the early universe was a thunderous cacophony. Sound waves of all sorts of different strengths and intensities crashed everywhere. And then one day, the music stopped.
+
+When our universe was about 380,000 years old, the plasma cooled enough to…well, stop being a plasma. Atoms formed, the radiation went free, and honestly the universe was never really all that interesting ever since. At that moment, the sound waves bouncing around got stuck, frozen in place.
+
+Since sound waves are just waves of pressure and density, that meant that there were some regions of the universe with slightly higher density than average, and some places with slightly lower density than average. These differences weren’t very big, but fast forward a few billion years and something interesting shows up.
+
+Something called baryon acoustic oscillations.
+
+“Acoustic oscillation” is just another way to say “sound wave”, and the “baryon” part refers to the normal matter in the universe. Those early sound waves left a fingerprint in the arrangements of galaxies in the present-day universe, something that galaxy surveys are able to detect.
+
+If you start at any random galaxy and build a map of how many galaxies are at a given distance, you’ll find something strange at the distance of about 150 megaparsecs. There are more galaxies at that distance than there should be. That’s the relic, the fingerprint, of those early sound waves, still alive and rocking even today (just not as loud).
+
+The Baryon Oscillation Spectroscopic Survey (BOSS), the largest component of the third Sloan Digital Sky Survey, has measured the clustering of nearly 1.3 million galaxies spectroscopically to determine the “standard ruler” of the universe’s large-scale structure to within one percent. This is the most precise such measurement ever made and is likely to establish the standard for years to come. 
+
+BOSS is the largest program in the third Sloan Digital Sky Survey (SDSS-III). Since 2009, BOSS has used the Sloan Foundation Telescope at the Apache Point Observatory in New Mexico to record high-precision spectra of well over a million galaxies with redshifts from 0.2 to 0.7, looking back over six billion years into the universe’s past.
+
+Periodic ripples of density in visible matter (“baryons,” for short) pervade the universe like raindrops on the surface of a pond. Regular galaxy clustering is the direct descendant of pressure waves that moved through the hot plasma of the early universe, which was so hot and dense that particles of light (photons) and particles of matter, including protons and electrons, were tightly coupled together. Invisible dark matter was also part of the mix.
+
+By 380,000 years after the big bang, however, the temperature of the expanding mixture had cooled enough for light to escape, suffusing the newly transparent universe with intense radiation, which in the 13.4 billion years since has continued to cool to today’s faint but pervasive cosmic microwave background.
+
+Minute variations in the temperature of the CMB record periodicity in the original density ripples, of which the European Space Agency’s Planck satellite has made the most recent and most accurate measures. The same periodicity is preserved in the clustering of the BOSS galaxies, a BAO signal which also mirrors the distribution of underlying dark matter.
+
+Regular clustering at different eras, starting with the CMB, establishes the expansion history of the universe.
+
+BOSS has now provided the most accurate calibration ever of BAO’s standard ruler. The universe’s expansion history has been measured with unprecedented accuracy during the very stretch of ancient time, over six billion years in the past, when expansion had stopped slowing and acceleration began. But accurate as they are, the new BOSS results are just the beginning. Greater coverage and better resolution in scale are essential to understanding dark energy itself.
+
+The proposed Dark Energy Spectroscopic Instrument (DESI), based on an international partnership of nearly 50 institutions led by Berkeley Lab, would enable the Mayall Telescope on Kitt Peak in Arizona to map over 20 million galaxies, plus over three million quasars, in 14,000 square degrees of the northern sky. By filling in the missing eons that BOSS can’t reach, DESI could sharpen and extend coverage of the expansion history of the universe from the first appearance of the cosmic background radiation to the present day.
 
 *(Illustration des BAO. Crédit: Zosia Rostomian, Lawrence Berkeley National Laboratory [Source]())*
 
