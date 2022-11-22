@@ -171,7 +171,7 @@ a local calibrator sample measured with much higher precision (and distances inf
 from Hubble’s law), then one essentially measures the luminosity distance in h−1Mpc,
 constraining the combination hDL(z).
 
-### Les oscillations acoustiques baryoniques
+### Les oscillations acoustiques des baryons
 
 Baryon Acoustic Oscillations (BAO): Pressure waves that propagate in the pre-
 recombination photo-baryon fluid imprint a characteristic scale in the clustering of matter
