@@ -46,6 +46,7 @@
 - [DESI lance un programme de 5 ans pour mieux comprendre l’univers](https://insidetheperimeter.ca/fr/desi-launches-five-year-quest-to-understand-the-universe/) - PI (2021)
 - [La distribution des galaxies, une fenêtre sur l'Univers primordial](https://www.pourlascience.fr/sd/cosmologie/la-distribution-des-galaxies-une-fenetre-sur-l-univers-primordial-11827.php) - Pour la Science (2014)
 - [What are baryonic acoustic oscillations?](https://sci.esa.int/web/euclid/-/what-are-baryonic-acoustic-oscillations-) - ESA
+- [What the hell are Baryon Acoustic Oscillations?](https://medium.com/starts-with-a-bang/what-the-hell-are-baryon-acoustic-oscillations-cfee6d726538) - Ethan Siegel
 
 ---
 
@@ -267,6 +268,16 @@ The BAO signature was detected for the first time in 2005. Two teams of astronom
 These surveys showed that the size of the BAO signal in the modern Universe is approximately 150 million parsecs. 
 
 Sous l’influence de la gravité, cette matière baryonique et les photons ont été attirés par les régions de surdensités de matière noire. Mais leur accumulation au centre de ces surdensités a créé une pression des photons qui s’est opposée à la gravité, et a entraîné la matière ordinaire et les photons en dehors de ces zones, qui se sont propagés sous forme d’ondes acoustiques (comme le son dans l’air ou les ondes sismiques à travers le manteau terrestre).
+
+if you know how intrinsically big something is, then you can measure how big it appears to be (its angular size), and since you know how size scales with distance (and redshift) in the expanding Universe, you can learn how the Universe has evolved that way. Using the physical size of something like this is called a standard ruler, but until relatively recently, the only objects whose sizes were “standardized” were things like individual stars: too small to resolve outside of our galaxy. Whereas galaxies — that could be resolved — simply didn’t come in a standard size.
+
+ as time goes on, that first, big peak translates into a scale at which you’re more likely to see two galaxies a certain distance apart. Today, that distance corresponds to about 500 million light years, meaning that if you pick a galaxy in the Universe, you’re more likely to find a second galaxy at a distance of 500 million light years than you are to find a second galaxy at either 400 or 600 million light years.
+ 
+ This distance scale — the scales at which galaxies are correlated — is known as the acoustic scale, because it’s the baryons (things like protons) that are oscillating in-and-out of these overdense regions. The phenomenon that causes this distance correlation is called baryon acoustic oscillations (BAO), and we can use this at all redshifts to measure how the Universe’s expansion rate has changed over time.
+
+So what the hell are baryon acoustic oscillations? The fact that the Universe started with fluctuations, that gravity pulls on normal matter and dark matter both, but only normal matter gets pushed out by interacting electromagnetically gives rise to this “special scale” in the Universe. Today, we can see that special scale by noticing that you’re slightly more likely to have galaxies separated by a certain distance, and that distance has evolved over time as the Universe has expanded.
+
+Measure that preferred scale not just today, but at all the distance scales you can measure as far back as you can, and you’ll learn the entire expansion history of the Universe.
 
 *(Illustration des BAO. Crédit: Gabriela Secara, Institut Périmètre [Source](https://insidetheperimeter.ca/fr/desi-launches-five-year-quest-to-understand-the-universe/))*
 
