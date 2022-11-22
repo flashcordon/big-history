@@ -45,6 +45,7 @@
 - [BOSS Measures the Universe to One-Percent Accuracy](https://newscenter.lbl.gov/2014/01/08/boss-one-percent/) - Berkeley Lab (2014)
 - [DESI lance un programme de 5 ans pour mieux comprendre l’univers](https://insidetheperimeter.ca/fr/desi-launches-five-year-quest-to-understand-the-universe/) - PI (2021)
 - [La distribution des galaxies, une fenêtre sur l'Univers primordial](https://www.pourlascience.fr/sd/cosmologie/la-distribution-des-galaxies-une-fenetre-sur-l-univers-primordial-11827.php) - Pour la Science (2014)
+- [What are baryonic acoustic oscillations?](https://sci.esa.int/web/euclid/-/what-are-baryonic-acoustic-oscillations-) - ESA
 
 ---
 
@@ -254,6 +255,16 @@ Les scientifiques chercheront le motif de cercles et d’anneaux en divers point
  L’Univers primordial était rempli d’un plasma chaud où les photons, les protons et les électrons interagissaient sans cesse, et de matière noire, une composante de l'Univers dont la nature reste inconnue et qui interagit avec la matière ordinaire essentiellement par le biais de la gravité. Les régions les plus denses en matière noire attiraient ainsi la matière ordinaire par effet gravitationnel, tandis qu'à l'inverse, le rayonnement qui baignait le plasma s'opposait à cette accumulation. Ces deux phénomènes antagonistes ont engendré des mouvements oscillants et donc la propagation d’ondes de pression (ou ondes acoustiques) au sein du plasma, ce qui a entraîné la formation de régions plus ou moins denses. Vers 380 000 ans, l’Univers est devenu assez froid pour que les photons s’échappent. Cette première lumière est aujourd’hui visible sous la forme du rayonnement de fond diffus cosmologique. Les oscillations acoustiques du plasma primordial ont été en quelque sorte imprimées dans le fond diffus lors de son émission, si bien que l'analyse statistique des fluctuations de température de ce rayonnement permet aujourd'hui de remonter aux oscillations acoustique du plasma primordial.
 
 Qu’en est-il de la matière baryonique (la matière ordinaire) présente dans le plasma primordial ? Des régions de surdensité  se sont formées, germes des futures galaxies. Ainsi, l'étude de la distribution spatiale des galaxies est un moyen de remonter aux oscillations baryoniques de l'Univers primordial. Il y a une vingtaine d’années, l’incertitude sur l'échelle caractéristiques de ces oscillations était de 50 pour cent ; elle était de 5 pour cent il y a cinq ans, et de 2 pour cent l’année dernière. Avec BOSS, cette incertitude est maintenant de un pour cent.
+
+This was not an easy process because the matter heated up as gravity pulled it together. This created an outward pressure that pushed the matter apart again. As it expanded, however, it cooled and gravity started to pull it back together again. This interplay of gravity and pressure set up an oscillation that created the equivalent of sound waves. These spread outward in bubbles, carrying along some matter with them.
+
+When the Universe reached the age of around 380 000 years, atoms formed for the first time. This allowed the matter to cool more efficiently, and gravity started to dominate. With little now to resist it, large scale structures started to form and imprinted on these structures were the bubbles of matter created by the acoustic waves. These bubbles are the wrinkles visible today as the baryon acoustic oscillations.
+
+In addition to this, the cosmic microwave background radiation was also released as atoms formed for the first time. The temperature variations that ESA's Planck mission measured in that radiation are produced by the different densities of matter in the early Universe and on certain size scales can be directly relatable to the baryon acoustic oscillations.
+
+The BAO signature was detected for the first time in 2005. Two teams of astronomers working independently found the signal in their surveys of relatively nearby galaxies. The Sloan Digital Sky Survey in New Mexico, America, and the 2dF Galaxy Redshift Survey, in Australia, made the discovery.
+
+These surveys showed that the size of the BAO signal in the modern Universe is approximately 150 million parsecs. 
 
 *(Illustration des BAO. Crédit: Gabriela Secara, Institut Périmètre [Source](https://insidetheperimeter.ca/fr/desi-launches-five-year-quest-to-understand-the-universe/))*
 
