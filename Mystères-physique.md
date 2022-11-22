@@ -180,6 +180,11 @@ constraining the combination hDL(z).
 
 ### Les oscillations acoustiques des baryons
 
+- La méthode la plus précise actuellement utilisée pour mesurer l'histoire de l'expanion de l'univers fait appel à d'étranges motifs en forme d'anneaux que l'on retrouve dans le ciel.
+- Les ***oscillations acoustiques des baryons*** (ou BAO, pour Baryonic Acoustic Oscillations)
+- La signature des BAO dans la répartition des galaxies a été mise en évidence pour la première fois en 2005 par deux équipes indépendantes d'astronomes associés aux relevés SDSS (Sloan Digital Sky Survey, au Nouveau mexique) et 2dFGRS (2dF Galaxy Redshift Survey, en Australie).
+> Ils ont montré que les anneaux ont une taille caractéristique de 500 millions d'années-lumière (150 Mpc) dans l'univers actuel
+
 Baryon Acoustic Oscillations (BAO): Pressure waves that propagate in the pre-
 recombination photo-baryon fluid imprint a characteristic scale in the clustering of matter
 and galaxies, which appears in the galaxy correlation function as a localized peak at the
@@ -263,9 +268,7 @@ When the Universe reached the age of around 380 000 years, atoms formed for the 
 
 In addition to this, the cosmic microwave background radiation was also released as atoms formed for the first time. The temperature variations that ESA's Planck mission measured in that radiation are produced by the different densities of matter in the early Universe and on certain size scales can be directly relatable to the baryon acoustic oscillations.
 
-The BAO signature was detected for the first time in 2005. Two teams of astronomers working independently found the signal in their surveys of relatively nearby galaxies. The Sloan Digital Sky Survey in New Mexico, America, and the 2dF Galaxy Redshift Survey, in Australia, made the discovery.
 
-These surveys showed that the size of the BAO signal in the modern Universe is approximately 150 million parsecs. 
 
 Sous l’influence de la gravité, cette matière baryonique et les photons ont été attirés par les régions de surdensités de matière noire. Mais leur accumulation au centre de ces surdensités a créé une pression des photons qui s’est opposée à la gravité, et a entraîné la matière ordinaire et les photons en dehors de ces zones, qui se sont propagés sous forme d’ondes acoustiques (comme le son dans l’air ou les ondes sismiques à travers le manteau terrestre).
 
