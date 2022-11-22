@@ -185,7 +185,7 @@ constraining the combination hDL(z).
 - Les ***oscillations acoustiques des baryons*** (ou BAO, pour Baryonic Acoustic Oscillations)
 - La signature des BAO dans la répartition des galaxies a été mise en évidence pour la première fois en 2005 par deux équipes indépendantes d'astronomes associés aux relevés SDSS (Sloan Digital Sky Survey, au Nouveau mexique) et 2dFGRS (2dF Galaxy Redshift Survey, en Australie).
 > Ils ont montré que les anneaux ont une taille caractéristique de 500 millions d'années-lumière (150 Mpc) dans l'univers actuel
-- Un instrument fondamental pour détecter la signature des BAO dans les années à venir est DESI (Dark Energy Spectroscopic Instrument, "instrument spectroscopique pour l'énergie noire"), installé sur le télescope Mayall de 4 mètres de l'Observatoire National de Kitt Peak (Arizona)
+- Un instrument fondamental pour détecter la signature des BAO dans les années à venir est DESI (Dark Energy Spectroscopic Instrument, "instrument spectroscopique pour l'énergie noire"), installé sur le télescope Mayall de 4 mètres de l'Observatoire National de Kitt Peak (Arizona) et capable de mesurer 5000 spectres de galaxies simultanément
 > En 2021, une collaboration internationale de 50 institutions dirigée par le Berkeley Lab a débuté un programme d'observation de 5 ans avec DESI qui devrait l'amener à cartographier la position et la vitesse de plus de 30 millions de galaxies dans le ciel de l'hémisphère Nord, dont près de 2,4 millions de quasars. Il pourra atteindre des profondeurs que BOSS ne pouvait pas atteindre, et permettra l'étude la plus fine de l'histoire de l'expansion cosmique.
 
 Baryon Acoustic Oscillations (BAO): Pressure waves that propagate in the pre-
