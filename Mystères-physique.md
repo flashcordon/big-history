@@ -43,6 +43,8 @@
 - [Listening for the Size of the Universe](https://astro.ucla.edu/~wright/BAO-cosmology.html) - Edward Wright (2014)
 - [Astronomy Jargon 101: Baryon Acoustic Oscillations](https://www.universetoday.com/153273/astronomy-jargon-101-baryon-acoustic-oscillations/) - Paul Sutter
 - [BOSS Measures the Universe to One-Percent Accuracy](https://newscenter.lbl.gov/2014/01/08/boss-one-percent/) - Berkeley Lab (2014)
+- [DESI lance un programme de 5 ans pour mieux comprendre l’univers](https://insidetheperimeter.ca/fr/desi-launches-five-year-quest-to-understand-the-universe/) - PI (2021)
+- [La distribution des galaxies, une fenêtre sur l'Univers primordial](https://www.pourlascience.fr/sd/cosmologie/la-distribution-des-galaxies-une-fenetre-sur-l-univers-primordial-11827.php) - Pour la Science (2014)
 
 ---
 
@@ -227,9 +229,35 @@ BOSS has now provided the most accurate calibration ever of BAO’s standard rul
 
 The proposed Dark Energy Spectroscopic Instrument (DESI), based on an international partnership of nearly 50 institutions led by Berkeley Lab, would enable the Mayall Telescope on Kitt Peak in Arizona to map over 20 million galaxies, plus over three million quasars, in 14,000 square degrees of the northern sky. By filling in the missing eons that BOSS can’t reach, DESI could sharpen and extend coverage of the expansion history of the universe from the first appearance of the cosmic background radiation to the present day.
 
-*(Illustration des BAO. Crédit: Zosia Rostomian, Lawrence Berkeley National Laboratory [Source]())*
+Il y a un motif imprimé sur le tissu de l’espace-temps.
 
-![BAO](https://newscenter.lbl.gov/wp-content/uploads/BOSS-BAO.jpg)
+En 2 dimensions, chaque élément de ce motif ressemble à un petit cercle entouré d’un anneau — comme si une main cosmique avait jeté des cailloux dans l’étang dense de l’univers primitif, produisant des points d’impact et des ondulations, et que l’étang avait ensuite soudainement gelé.
+
+Ce motif n’est pas facile à détecter. Les cercles et les anneaux sont subtils et se chevauchent de manière complexe. Mais, ce qui est crucial, ils sont tous de la même taille. La raison en est que le « gel de l’étang » — le changement d’état survenu lorsque l’univers primitif est passé d’un plasma de particules chargées à une soupe neutre contenant surtout de l’hydrogène — est survenu partout au même moment. La lumière appelée rayonnement fossile ou fonds diffus cosmologique a été émise à ce moment-là, et sans lumière pour le brouiller, le motif de cercle et d’anneau de masse s’est figé sur place.
+
+Depuis lors, le motif de cercles et d’anneaux s’est agrandi, parce que l’espace-temps lui-même prend de l’expansion — tout comme un motif imprimé sur un ballon s’étend à mesure que l’on gonfle le ballon.
+
+Ce motif porte le nom d’oscillations baryoniques acoustiques. Un nouveau projet vise à le cartographier, et du même coup à créer un nouvel outil puissant pour comprendre l’expansion de l’espace-temps et la mystérieuse énergie sombre
+
+DESI recueillera des données pendant 5 ans. « Nous visons l’observation de quelque 30 millions de galaxies »
+
+Le projet vise aussi environ 2,5 millions de quasars 
+
+L’étude des quasars permettra à DESI de prendre un instantané de l’univers tel qu’il était il y a 11 milliards d’années.
+
+L’ensemble des données sur les galaxies et les quasars, avec le décalage vers le rouge correspondant à chaque objet, permettra aux chercheurs de découper le ciel en couches, chacune représentant un moment différent de l’histoire de l’univers.
+
+Les oscillations baryoniques acoustiques ont une taille caractéristique, qui change uniquement à cause de l’expansion de l’espace-temps lui-même. En étudiant ce motif à différents moments de l’histoire de l’univers, les chercheurs cartographient l’expansion de l’espace-temps. Cette expansion s’accélère sous l’action de la force mystérieuse appelée énergie sombre. 
+
+Les scientifiques chercheront le motif de cercles et d’anneaux en divers points de l’évolution de l’univers, de 11 milliards d’années dans le passé jusqu’à tout récemment. Ils prédisent qu’ils verront ce motif s’étendre à mesure que l’espace-temps lui-même prend de l’expansion, encore une fois comme un motif imprimé sur un ballon que l’on gonfle.
+
+ L’Univers primordial était rempli d’un plasma chaud où les photons, les protons et les électrons interagissaient sans cesse, et de matière noire, une composante de l'Univers dont la nature reste inconnue et qui interagit avec la matière ordinaire essentiellement par le biais de la gravité. Les régions les plus denses en matière noire attiraient ainsi la matière ordinaire par effet gravitationnel, tandis qu'à l'inverse, le rayonnement qui baignait le plasma s'opposait à cette accumulation. Ces deux phénomènes antagonistes ont engendré des mouvements oscillants et donc la propagation d’ondes de pression (ou ondes acoustiques) au sein du plasma, ce qui a entraîné la formation de régions plus ou moins denses. Vers 380 000 ans, l’Univers est devenu assez froid pour que les photons s’échappent. Cette première lumière est aujourd’hui visible sous la forme du rayonnement de fond diffus cosmologique. Les oscillations acoustiques du plasma primordial ont été en quelque sorte imprimées dans le fond diffus lors de son émission, si bien que l'analyse statistique des fluctuations de température de ce rayonnement permet aujourd'hui de remonter aux oscillations acoustique du plasma primordial.
+
+Qu’en est-il de la matière baryonique (la matière ordinaire) présente dans le plasma primordial ? Des régions de surdensité  se sont formées, germes des futures galaxies. Ainsi, l'étude de la distribution spatiale des galaxies est un moyen de remonter aux oscillations baryoniques de l'Univers primordial. Il y a une vingtaine d’années, l’incertitude sur l'échelle caractéristiques de ces oscillations était de 50 pour cent ; elle était de 5 pour cent il y a cinq ans, et de 2 pour cent l’année dernière. Avec BOSS, cette incertitude est maintenant de un pour cent.
+
+*(Illustration des BAO. Crédit: Gabriela Secara, Institut Périmètre [Source](https://insidetheperimeter.ca/fr/desi-launches-five-year-quest-to-understand-the-universe/))*
+
+![BAO](https://insidetheperimeter.ca/wp-content/uploads/2021/05/test-DESI_Baryon_Acoustic_Oscillation.png)
 
 ### Le cisaillement gravitationnel
 
