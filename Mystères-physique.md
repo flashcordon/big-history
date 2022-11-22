@@ -344,6 +344,406 @@ complet de densité. Une fois recomposé, il est
 alors comparé aux prédictions théoriques
 d'une panoplie de scenarii cosmologiques.
 
+Si l’on exclut Einstein qui avait en son
+temps suggéré l’hypothèse d’une constante
+cosmologique pour de mauvaises raisons
+(il cherchait à rendre l’Univers statique),
+les chercheurs se sont longtemps accordés
+à dire que les observations de notre cosmos
+pouvaient toutes être interprétées en ne
+faisant appel qu’à de la matière et à une
+faible quantité de rayonnement. L’expansion
+de notre Univers était connue depuis 1929,
+lorsque l’astronome Edwin Hubble constata
+que les galaxies s’éloignent toutes les unes
+des autres. Sous l’effet attractif de la gravité,
+cette expansion de l’espace semblait ne
+pouvoir que ralentir. Cette conviction est
+brusquement ébranlée en 1998, quand
+deux équipes indépendantes étudient des
+supernovae lointaines précisément dans le
+but de mesurer ce ralentissement et
+démontrent, sans ambiguïté, que l’expansion
+de notre Univers allait au contraire en
+s’accélérant.
+
+Tentons de comprendre ce dont il s’agit.
+Les supernovae thermonucléaires ou SNIa
+(par opposition aux supernovae gravita-
+tionnelles ou SNII, plus fréquentes, issues
+d’étoiles massives s’effondrant sur elles-
+mêmes), trouvent leurs précurseurs dans
+les systèmes stellaires constitués d’une
+étoile peu dense, telle une géante rouge,
+et d’une naine blanche, petit astre ayant
+achevé sa phase de combustion nucléaire.
+La supernova résulte de l’explosion cata-
+clysmique de la naine blanche lorsque sa
+masse devient trop importante, suite à
+l’accrétion de la matière provenant de
+l’étoile compagnon, pour que l’équilibre
+gravité-pression soit maintenu. L’explosion
+se produisant à une masse prédéfinie de
+1,4 fois la masse du Soleil, la luminosité
+émise est rigoureusement déterminée et la
+mesure de la luminosité observée est donc
+un indicateur direct de la distance de l’objet
+(d’après la loi de décroissance du flux
+comme l’inverse du carré de la distance).
+Par ailleurs, des observations spectrosco-
+piques permettent de déterminer le
+décalage spectral z = (λreçu - λémis)/λémis
+entre les longueurs d’onde λ reçue et
+émise, communément appelé “redshift”
+de la supernova. En effet, conséquence
+directe de l’expansion de l’Univers, les raies
+d’absorption caractéristiques des éléments
+chimiques qui composent étoiles et galaxies
+apparaissent à des longueurs d’onde décalées
+vers le rouge par rapport à celles qu’on leur
+connaît en laboratoire, de façon analogue
+à l’effet Doppler pour le son lors du
+déplacement relatif entre émetteur et
+récepteur. Pour les supernovae les plus
+proches, on retrouve la fameuse loi de
+Hubble, relation linéaire entre redshift et
+distance d d’un astre, z = H0 d/c, où H0
+est la constante de Hubble et c la vitesse de
+la lumière. Par conséquent, plus un objet est
+éloigné de nous, plus son redshift est grand
+et plus la lumière qui nous en parvient a
+été émise tôt dans l’histoire de l’Univers.
+À plus grande distance, cette relation n’est
+plus linéaire, et l’écart à la linéarité est dicté
+par le contenu énergétique de l’Univers
+(matière, rayonnement...). Le paramètre H(z)
+qui décrit le taux d’expansion de l’Univers
+n’est plus constant mais dépend du redshift ;
+H0 ≃ 70 km/s/Mpc est la valeur qu’il prend
+aujourd’hui. Conformément à l’intuition,
+un Univers composé exclusivement de
+matière, freiné par la gravitation, verrait son
+taux d’expansion décroître avec le temps.
+Contre toute attente, les observations de
+supernovae ont toutefois indiqué une
+accélération et non une décélération de cette
+expansion, impliquant une révision en pro-
+fondeur de notre compréhension du cosmos.
+
+En cosmologie, c’est la révolution, et
+trois prix Nobel (Brian Schmidt et Adam
+Riess pour le projet High-z Supernova
+Search Team, et Saul Perlmutter pour le
+Supernova Cosmology Project [1]) viennent
+immédiatement couronner cette surprenante
+découverte. Mais tout reste encore à com-
+prendre. Faut-il développer une nouvelle
+théorie de la gravité qui ne se réduirait à la
+relativité générale que dans certaines
+limites particulières, ou considérer une forme
+d’énergie nouvelle, baptisée « énergie noire »,
+de pression négative et agissant sur l’espace
+comme on pourrait imaginer que le ferait
+une gravité répulsive ? Cette énergie noire
+est-elle de densité constante pendant toute
+l’histoire de l’Univers, à l’instar de la
+constante cosmologique qu’Einstein avait
+introduite dans ses équations, ou est-ce une
+forme plus complexe d’énergie ?
+
+À elle seule,
+l’énergie noire est aujourd’hui invoquée pour
+représenter 73% du contenu énergétique
+de notre Univers
+
+L’information cosmologique la plus
+précise se trouverait dans l’étude de la
+répartition de la matière noire, puisque
+celle-ci est bien plus abondante que la
+matière baryonique. Étant cependant, par
+définition, non lumineuse (c’est bien pour
+cela qu’elle est ainsi dénommée), on ne peut
+la cartographier directement. Une approche
+indirecte consiste à reconstruire les contours
+de densité de la matière noire à partir des
+déformations gravitationnelles qu’elle
+engendre sur des galaxies en arrière-plan :
+c’est le principe des lentilles gravitation-
+nelles
+
+Une autre approche est de se focaliser sur
+les astres visibles. Comme le confirment
+es simulations numériques de notre
+Univers, matière baryonique et matière noire
+sont distribuées de façon comparable. On
+peut donc étudier l’une pour comprendre
+l’autre.
+
+Les chercheurs choisirent dans un
+premier temps de se concentrer sur des
+galaxies anciennes, rouges et particulièrement
+lumineuses, les LRG (pour “luminous red
+galaxies”). Ces LRG se trouvent au cœur
+des amas de galaxies et présentent l’intérêt
+d’être de bons marqueurs de la densité de
+matière. Leur redshift, indicateur de distance
+comme nous l’avons vu plus haut, est
+déterminé à partir de leur spectre lumineux.
+
+La carte en 3D
+peut ainsi être dressée au fil des observations.
+En 2005, lors des premiers pas dans cette
+quête, la carte obtenue à partir de cinquante
+mille galaxies a conduit à la première indi-
+cation d’une distance de séparation privilégiée
+de l’ordre de 150 megaparsecs (1 parsec,
+ou pc, équivaut à 3,3 années-lumière)
+dans la répartition des galaxies
+D’où vient cette
+distance privilégiée ? Pourquoi les galaxies
+ne se forment-elles pas aléatoirement dans
+l’Univers ? Que nous apprend ce résultat
+sur la matière et l’énergie noires ?
+
+Des ondes sonores qui font vibrer
+les baryons (ou BAO, pour Baryon Acoustic Oscillations)
+Dans le plasma chaud et dense de l’Univers
+primordial, l’attraction gravitationnelle des
+régions les plus denses est compensée par
+la pression radiative du gaz ionisé. Cette
+pression est si importante que les pics
+de surdensité, que l’on pense issus de
+fluctuations quantiques dans les premières
+secondes de l’Univers, se propagent en
+oscillant telles des ondes sonores au lieu de
+croître sous l’effet de la gravité. En raison
+de son expansion, l’Univers se refroidit au
+fil du temps et à l’âge de 380 000 ans, sa
+température chute en dessous du seuil
+minimal pour le maintenir à l’état de plasma
+ionisé : les électrons s’associent aux protons
+pour former des atomes d’hydrogène, et le
+plasma initial se mue brutalement en un
+milieu neutre. La lumière qui diffusait
+inlassablement sur les électrons est à
+présent libre de se propager. Détectée par
+le satellite Planck, elle nous apporte
+
+l’image des fluctuations de température que
+les oscillations du plasma ont engendrées.
+La distance sur laquelle les ondes acoustiques
+ont eu le temps de s’étendre avant de se
+retrouver figées est déterminée par le pro-
+duit de la vitesse du son dans le plasma
+(vitesse de la lumière divisée par racine
+carrée de 3) par l’âge de l’Univers à ce
+moment-là (380 000 ans), soit une distance
+d’environ 150 Mpc aujourd’hui, compte
+tenu de l’expansion de l’Univers. Ainsi,
+autour de chaque pic initial de surdensité
+essentiellement composé de matière noire,
+donc qui ne se propage pas, se trouve un
+petit excès concentrique causé par l’onde
+de photons et de matière baryonique qui
+en est issue. Par la suite, chacune de ces
+surdensités est plus à même d’attirer
+gravitationnellement la matière environ-
+nante, si bien qu’aujourd’hui ces régions
+sont celles dans lesquelles il est plus
+probable de trouver des galaxies (fig. 3).
+L’effet des oscillations du plasma, ou BAO,
+est donc aujourd’hui observable dans la
+distribution des structures de l’Univers.
+C’est pourquoi les physiciens recherchaient
+son empreinte dans la distribution des LRG
+notamment. Pour la repérer, ils ont réper-
+torié la distance séparant chaque galaxie de
+toutes les autres. Dans l’histogramme ainsi
+obtenu, une séparation privilégiée, à la posi-
+tion attendue de 150 Mpc, est clairement
+visible (fig. 2a), avec une signification
+statistique excédant 7σ.
+
+À l’instar d’un motif
+imprimé sur un tissu extensible, la mesure
+de cette distance étalon à différentes
+époques est un marqueur de l’étirement
+subi par le tissu, autrement dit de l’expan-
+sion de l’Univers, dont le taux dépend de
+la quantité et de la nature de ses diverses
+composantes et notamment de la part
+relative de matière et d’énergie noire.
+Pour les LRG, par exemple, 10% d’énergie
+noire en plus diminuerait de 6% le taux
+d’expansion de l’Univers H(z) au redshift
+de 0,57 où ces galaxies sont observées, et
+augmenterait de 4% la taille de la distance
+BAO. Obtenue aujourd’hui avec une
+précision de l’ordre du pourcent, la mesure
+des BAO permet de contraindre fortement
+la quantité d’énergie noire dans l’Univers.
+
+Les chercheurs ont décidé de mesurer
+l’évolution du cosmos, non seulement
+dans la répartition de galaxies rouges et
+vieilles, mais également dans celle de
+galaxies jeunes en pleine activité stellaire,
+de quasars ultra-lumineux, voire même dans
+la répartition des nuages ténus d’hydrogène
+
+L’histoire de l’expansion de l’Univers ne
+se résume pas à l’accélération récente
+découverte grâce aux supernovae et aux
+mesures des ondes baryoniques acoustiques.
+La phase d’accélération ne remonte en effet
+qu’aux six derniers milliards d’années
+environ, alors que durant les premiers huit
+milliards d’années ou presque, l’expansion,
+
+freinée par la gravitation, devait ralentir
+comme prévu dans un Univers alors
+majoritairement composé de matière. La
+mesure précise de l’évolution de l’expansion
+de l’Univers avec le temps étant un formi-
+dable outil pour traquer la contribution de
+l’énergie noire et déterminer l’époque à
+laquelle elle devient dominante, le SDSS
+étudie les BAO à diverses époques. Bien
+que très brillantes, les LRG ne sont toute-
+fois visibles que sur les derniers six milliards
+d’années-lumière environ. Quels astres
+vont nous permettre d’explorer l’Univers
+plus jeune ?
+Une avancée considérable a été accomplie
+en faisant appel à des quasars, objets parmi
+les plus lumineux de l’Univers : il s’agit de
+galaxies abritant en leur cœur un trou noir
+de plusieurs millions, voire plusieurs
+milliards de fois la masse du Soleil. Le
+disque d’accrétion qui gravite autour du trou
+noir central est chauffé à des températures
+telles que la lumière émise, excédant celles
+des galaxies les plus brillantes, est visible à
+travers tout l’Univers. Le flux perçu en
+provenance du quasar est encore détectable
+par SDSS, même après s’être répandu dans
+l’Univers pendant plus de douze milliards
+d’années. À cette époque reculée, les quasars
+sont insuffisamment nombreux pour être
+utilisés en tant que marqueurs de la matière,
+comme cela avait été fait pour les LRG.
+Cependant, jouant le rôle de puissants
+phares cosmiques, les quasars vont illuminer
+le milieu intergalactique, et notamment
+les nuages ténus d’hydrogène gazeux qui
+s’y trouvent. De densité extrêmement
+faible, typiquement un million de fois plus
+petite que celle d’une galaxie (on trouve
+environ 0,25 atome d’hydrogène par mètre
+cube aujourd’hui, ce qui, l’Univers étant plus
+dense par le passé, correspond à quelques
+atomes par mètre cube à l’époque ici
+concernée), ce brouillard d’hydrogène n’en
+est pas moins la forme la plus fréquente
+sous laquelle se trouve la matière baryonique.
+Porte-t-il lui aussi l’empreinte des ondes
+acoustiques de l’Univers primitif, ou ce signe
+distinctif est-il réservé aux structures les
+plus massives ?
+Ce sont de nouveau les spectres mesurés
+par SDSS qui vont nous apporter la
+réponse. La lumière émise par le quasar est
+plus ou moins absorbée selon la densité
+d’hydrogène neutre intergalactique qui se
+trouve sur sa trajectoire. L’absorption se
+produit localement à la longueur d’onde λ
+caractéristique de la transition électronique
+la plus courante de l’hydrogène (appelée
+transition Lyman-α, pour laquelle
+λ = 121,6 nm), mais le redshift associé au
+site où cette absorption a lieu imprime le
+spectre à une longueur d’onde d’autant
+plus grande que le nuage est lointain. Le
+spectre du quasar, quand il est finalement
+observé sur Terre, comporte ainsi une
+succession de pics d’absorption, nommée
+« forêt Lyman-α » qui retrace les variations
+de densité rencontrées sur la ligne de visée
+
+Le projet SDSS a mesuré les spectres
+de plus de 170 000 quasars. L’analyse de
+ces absorptions a permis de réaliser une
+carte 3D de l’hydrogène dans l’Univers tel
+qu’il était un à trois milliards d’années après
+le Big Bang. Malgré la faiblesse du signal
+dans cet Univers si jeune et dans un milieu
+aussi dilué que le milieu intergalactique,
+une équipe internationale, emmenée par
+des chercheurs français du CEA (Saclay) et
+du CNRS, a réussi à mettre en évidence
+dans cette carte la même empreinte de la
+règle étalon (fig. 2b) que celle identifiée
+avec les LRG [4]. Comme illustré sur la
+figure 5, les résultats confirment pour la
+première fois que l’Univers a bien d’abord
+connu une époque de décélération, lorsque
+la matière était bien plus abondante que
+l’énergie noire, suivie de la phase d’accé-
+lération récente.
+
+Pour pro-
+gresser sur le dossier de l’énergie noire, il
+va falloir faire appel à une autre génération
+de projets, au sol (avec DESI ou LSST) ou
+dans l’espace (avec Euclid).
+Doté cette fois d’un télescope de 4 m de
+diamètre installé au Kitt Peak, en Arizona
+aux USA, et d’un tout nouveau spectro-
+graphe capable de mesurer simultanément
+les spectres de 5000 objets, le projet DESI
+est l’ultime traque de l’énergie noire
+depuis un observatoire terrestre. Équipé
+de plus d’un robot pour positionner
+automatiquement les fibres optiques au
+plan focal du télescope, DESI peut obtenir
+une nouvelle série de spectres toutes les
+20 minutes. Les premières observations
+débuteront au cours de l’année 2019. Et
+c’est au total plus de vingt millions de
+galaxies et de quasars que les chercheurs
+auront à leur disposition après cinq années
+de fonctionnement, pour retracer l’histoire
+de l’énergie noire et de la matière au cours
+des douze derniers milliards d’années de
+l’Univers. Pour la première fois, l’époque
+à laquelle l’énergie noire prend le dessus
+sur la matière, lorsque l’Univers était âgé
+d’environ sept milliards d’années, pourra
+être étudiée avec précision (fig. 5).
+Depuis l’espace, le spectrographe infra-
+rouge du satellite Euclid (programme de
+l’agence spatiale européenne ESA), dont
+le lancement est prévu en 2020, poussera
+encore plus loin les limites des grands
+relevés 3D de galaxies. Euclid observera
+plus de 30 millions de galaxies, jusqu’à la
+lisière où les forêts Lyman-α des quasars
+observés par DESI prendront la relève.
+Enfin, le LSST, un nouveau télescope de
+8 m de diamètre, installé sur le Cerro Pachòn
+au Chili, sera pleinement opérationnel à
+partir de 2022. Il étudiera les oscillations
+baryoniques par une méthode différente.
+Le redshift sera obtenu à partir du flux de
+lumière mesuré dans six filtres allant de
+l’UV à l’infrarouge proche. La moins
+bonne détermination du redshift par cette
+approche est compensée par un bien plus
+grand nombre de galaxies observées, soit
+plusieurs dizaines de milliards à la fin du
+projet.
+
+
 
 
 
