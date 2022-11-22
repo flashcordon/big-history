@@ -184,6 +184,8 @@ constraining the combination hDL(z).
 - Les ***oscillations acoustiques des baryons*** (ou BAO, pour Baryonic Acoustic Oscillations)
 - La signature des BAO dans la répartition des galaxies a été mise en évidence pour la première fois en 2005 par deux équipes indépendantes d'astronomes associés aux relevés SDSS (Sloan Digital Sky Survey, au Nouveau mexique) et 2dFGRS (2dF Galaxy Redshift Survey, en Australie).
 > Ils ont montré que les anneaux ont une taille caractéristique de 500 millions d'années-lumière (150 Mpc) dans l'univers actuel
+- Un instrument fondamental pour détecter la signature des BAO dans les années à venir est DESI (Dark Energy Spectroscopic Instrument, "instrument spectroscopique pour l'énergie noire"), installé sur le télescope Mayall de 4 mètres de l'Observatoire National de Kitt Peak (Arizona)
+> En 2021, une collaboration internationale de 50 institutions dirigée par le Berkeley Lab a débuté un programme d'observation de 5 ans avec DESI qui devrait l'amener à cartographier la position et la vitesse de plus de 30 millions de galaxies dans le ciel de l'hémisphère Nord. Il pourra atteindre des profondeurs que BOSS ne pouvait pas atteindre, et permettra l'étude la plus fine de l'histoire de l'expansion cosmique.
 
 Baryon Acoustic Oscillations (BAO): Pressure waves that propagate in the pre-
 recombination photo-baryon fluid imprint a characteristic scale in the clustering of matter
@@ -234,7 +236,7 @@ Regular clustering at different eras, starting with the CMB, establishes the exp
 
 BOSS has now provided the most accurate calibration ever of BAO’s standard ruler. The universe’s expansion history has been measured with unprecedented accuracy during the very stretch of ancient time, over six billion years in the past, when expansion had stopped slowing and acceleration began. But accurate as they are, the new BOSS results are just the beginning. Greater coverage and better resolution in scale are essential to understanding dark energy itself.
 
-The proposed Dark Energy Spectroscopic Instrument (DESI), based on an international partnership of nearly 50 institutions led by Berkeley Lab, would enable the Mayall Telescope on Kitt Peak in Arizona to map over 20 million galaxies, plus over three million quasars, in 14,000 square degrees of the northern sky. By filling in the missing eons that BOSS can’t reach, DESI could sharpen and extend coverage of the expansion history of the universe from the first appearance of the cosmic background radiation to the present day.
+
 
 Il y a un motif imprimé sur le tissu de l’espace-temps.
 
@@ -245,8 +247,6 @@ Ce motif n’est pas facile à détecter. Les cercles et les anneaux sont subtil
 Depuis lors, le motif de cercles et d’anneaux s’est agrandi, parce que l’espace-temps lui-même prend de l’expansion — tout comme un motif imprimé sur un ballon s’étend à mesure que l’on gonfle le ballon.
 
 Ce motif porte le nom d’oscillations baryoniques acoustiques. Un nouveau projet vise à le cartographier, et du même coup à créer un nouvel outil puissant pour comprendre l’expansion de l’espace-temps et la mystérieuse énergie sombre
-
-DESI recueillera des données pendant 5 ans. « Nous visons l’observation de quelque 30 millions de galaxies »
 
 Le projet vise aussi environ 2,5 millions de quasars 
 
