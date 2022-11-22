@@ -188,6 +188,10 @@ distance measurements by providing absolute rather than relative distances (with
 calibration of rs from the CMB) and by achieving greater precision at high redshift thanks
 to the increasing comoving volume available.
 
+*(Illustration des BAO. Crédit: Zosia Rostomian, Lawrence Berkeley National Laboratory [Source]())*
+
+![BAO](https://newscenter.lbl.gov/wp-content/uploads/BOSS-BAO.jpg)
+
 ### Le cisaillement gravitationnel
 
 Weak Gravitational Lensing: Gravitational light bending by a clustered distribution
