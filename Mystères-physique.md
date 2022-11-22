@@ -142,7 +142,9 @@ Substantial progress towards answering these questions, in particular any defini
 rejection of the cosmological constant “null hypothesis,” would be a major breakthrough
 in cosmology and fundamental physics.
 
-Observational Probes
+## Comment sonder les propriétés de l'énergie noire à l'aide de nos observations
+
+### Les anisotropies du CMB
 
 Cosmic Microwave Background Anisotropies: Although CMB anisotropies provide limited
 information about dark energy on their own, CMB constraints on the geometry, matter
@@ -158,6 +160,8 @@ Integrated Sachs-Wolfe effect, the Sunyaev-Zel’dovich (SZ, [23]) effect, and g
 lensing of primary anisotropies, provide additional information about dark energy by
 constraining low-redshift structure growth.
 
+### Les supernovae thermonucléaires
+
 Type Ia Supernovae: Type Ia supernovae, produced by the thermonuclear explosions of
 white dwarfs, exhibit 10-15% scatter in peak luminosity after correction for light curve
 duration (the time to rise and fall) and color (which is a diagnostic of dust extinction).
@@ -166,6 +170,8 @@ luminosity distances at different redshifts. If one is comparing a high redshift
 a local calibrator sample measured with much higher precision (and distances inferred
 from Hubble’s law), then one essentially measures the luminosity distance in h−1Mpc,
 constraining the combination hDL(z).
+
+### Les oscillations acoustiques baryoniques
 
 Baryon Acoustic Oscillations (BAO): Pressure waves that propagate in the pre-
 recombination photo-baryon fluid imprint a characteristic scale in the clustering of matter
@@ -181,6 +187,8 @@ enhance clustering along the line of sight. BAO distance measurements complement
 distance measurements by providing absolute rather than relative distances (with precise
 calibration of rs from the CMB) and by achieving greater precision at high redshift thanks
 to the increasing comoving volume available.
+
+### Le cisaillement gravitationnel
 
 Weak Gravitational Lensing: Gravitational light bending by a clustered distribution
 of matter shears the shapes of higher redshift background galaxies in a spatially
