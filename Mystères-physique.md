@@ -284,6 +284,27 @@ So what the hell are baryon acoustic oscillations? The fact that the Universe st
 
 Measure that preferred scale not just today, but at all the distance scales you can measure as far back as you can, and you’ll learn the entire expansion history of the Universe.
 
+As the universe cooled and expanded, the dark matter began to 
+      	collect into clumps, while the photons and baryons (protons, electrons, and a few helium nuclei) were tightly bound in a plasma. 
+      	This action created pressure waves in the plasma of the baby universe, like rocks dropped into water set up waves. 
+      	These pressure waves in the young universe were just like sound waves, except with 	extremely long wavelengths of hundreds of 
+      	thousands to 1 million light years! 
+      	
+ When the universe cooled down to around 3,000 Kelvin, it was cool enough for Hydrogen atoms to form.  With the electrons tucked 
+     away in the atoms, the    
+     light could then begin to travel freely Some of that light headed our way and is observable today as the cosmic 
+     microwave background.   That light allows us to see the patterns that resulted from the oscillations of the sound waves.  
+     
+The graph below is the Temperature Power Spectrum of the CMB.  Certain wavelengths of sound got amplified by the acoustic oscillations 
+      more than others, as indicated by the series of peaks in the power spectrum.  The sound waves contributing to the first peak have 
+      wavelengths of about 1 million light years, making them about 48 octaves below the lowest note on the piano!
+
+      	      	
+ We have translated the sounds of the primordial universe, as we see them today, into the range of human hearing.  High frequency 
+      sounds correspond to small-scale structures on the map, and low-frequency sounds correspond to larger-scale features in the map, 
+      just like high frequency sounds correspond to shorter wavelengths of sound that we hear in air at sea level, while low frequency 
+      sound corresponds to longer wavelengths of sound that we hear in air at sea level. 
+
 *(Illustration des BAO. Crédit: Gabriela Secara, Institut Périmètre [Source](https://insidetheperimeter.ca/fr/desi-launches-five-year-quest-to-understand-the-universe/))*
 
 ![BAO](https://insidetheperimeter.ca/wp-content/uploads/2021/05/test-DESI_Baryon_Acoustic_Oscillation.png)
