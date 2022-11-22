@@ -235,6 +235,118 @@ relatively simple, but frustratingly incomplete, “standard model” of cosmolo
 could force yet another radical revision in our understanding of energy, or gravity, or the
 spacetime structure of the Universe.
 
+Lentilles gravitationnelles
+
+La relativité générale proposée par Einstein
+en 1915 est une théorie de la gravitation dont
+la validité est aujourd’hui confortée par l’accord
+entre ses prédictions et tous les tests expéri-
+mentaux. La gravitation étant une interaction à
+longue portée, elle constitue la clef de voûte de
+notre description de l'Univers à grande échelle
+et sert de cadre général à l'interprétation des
+observations astronomiques. Une de ses pré-
+dictions les plus remarquables est la déflexion
+des rayons lumineux lorsqu'ils croisent des
+concentrations de matière au cours de leur
+propagation. Ce phénomène de “lentille
+gravitationnelle” illustre qu'en relativité générale
+les photons suivent des géodésiques d'un
+espace-temps courbe dont les déformations
+sont localement déterminées par les concentra-
+tions de matière. En modifiant la propagation
+des photons, les objets astronomiques nous
+apparaissent déplacés sur le ciel par rapport à
+leur position réelle, en l’absence de déflexion
+gravitationnelle (voir figure 1). La mesure de
+la déflexion de rayons lumineux des étoiles
+observées près du bord du Soleil lors de
+l'éclipsede1919compteparmilessuccèshistoriques
+des prédictions d'Einstein.
+
+Comme l'avait perçu
+l'astronome Fritz Zwicky dès les années 1930,
+c'est ici que se trouve l'intérêt astrophysique
+des lentilles gravitationnelles : elles peuvent
+nous servir de véritable balance cosmique, une
+sonde à distance permettant de mesurer la
+masse contenue dans les condensations de
+matière distribuées dans l'univers. Ce qui est
+remarquable, c'est que pour mesurer les masses
+il suffit de connaître les distances de la source
+et de la lentille ainsi que leurs positions apparentes
+sur le ciel. À aucun moment, l'état dynamique
+de la lentille ou les propriétés thermodynamiques
+des gaz la constituant n'interviennent. C'est un
+effet très pur, qui est parfaitement décrit par les
+équations de la relativité générale.
+L'intuition de Fritz Zwicky fut confirmée
+au cours des trente dernières années, après la
+découverte du premier quasar à image multiple
+(1979), puis du premier arc gravitationnel
+(1987). Dans ces deux cas, les astronomes ont
+découvert des configurations spécifiques de len-
+tilles gravitationnelles reflétant certaines de leurs
+remarquables propriétés : amplification de la
+lumière de la source, démultiplication de ses
+images, altération de sa forme apparente.
+
+grâce aux défor-
+mations gravitationnelles des galaxies lointaines,
+il devient désormais possible de reconstruire la
+distribution de masse d’objets astronomiques
+aussi complexes que les amas de galaxies.
+
+Une analyse
+statistique permet ainsi de reconstruire le profil
+de la distribution de masse du déflecteur, en
+produisant une cartographie des « distorsions
+gravitationnelles » qui répond à celle de la
+distribution de la matière noire. Cette matière
+noire peut donc être « vue », comme la limaille
+de fer sur une feuille de papier « voit » le champ
+magnétique d'un aimant placé au-dessous.
+
+Une des options possibles pour caractériser
+l'énergie noire est d'adopter une attitude mini-
+maliste, même si elle est incomplète, en supposant
+que cette composante se comporte comme un
+fluide parfait. Comme tout indique que notre
+univers est homogène et isotrope à très grande
+échelle, cette hypothèse est somme toute plutôt
+raisonnable. Dans ce cas, l’équation d'état
+reliant sa pression P à sa densité d’énergie ρ
+peut s'écrire sous la forme P = w ρ, comme
+celle de la matière noire ordinaire (w = 0) ou
+celle des photons (w = 1/3). Pour l'énergie
+noire, l'éventail des valeurs de ce paramètre est
+assez vaste et il pourrait même évoluer au
+cours du temps. S'il s'agit cependant d'une
+constante cosmologique, alors w vaut -1 et est
+constant.S'il s'agissait par contre d'une composante
+de type cordes cosmiques, alors on aurait
+w = -1/3. Dans tous les cas, la distribution des
+fluctuations de densité, caractérisée par le
+champ de distorsion gravitationnelle, sera
+différente suivant la valeur de w.
+Tout comme la matière noire, certaines de
+ces propriétés peuvent donc être décryptées
+au travers du spectre de fluctuations tracé
+directement par les effets de distorsion gravita-
+tionnelle. Mais contrairement à l'étude d'un
+amas de galaxies, il faut cette fois analyser les
+déformations gravitationnelles accumulées par
+toutes les structures traversées le long d'une
+ligne de visée, puis conduire l'analyse sur une très
+vaste partie du ciel pour explorer les fluctuations
+à chaque échelle et reconstruire le spectre
+complet de densité. Une fois recomposé, il est
+alors comparé aux prédictions théoriques
+d'une panoplie de scenarii cosmologiques.
+
+
+
+
 # L'inflation cosmique
 
 # Le problème de la hiérarchie
