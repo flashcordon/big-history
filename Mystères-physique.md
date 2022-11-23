@@ -182,12 +182,14 @@ constraining the combination hDL(z).
 
 ### Les oscillations acoustiques des baryons
 
-- La méthode la plus précise actuellement utilisée pour mesurer l'histoire de l'expanion de l'univers fait appel à d'étranges motifs imprimés dans le ciel que l'on peut détecter quand on observe la distribution des galaxies dans l'univers. Quand on les projette sur la sphère céleste, ces motifs ressemblent à des petits cercles entourés d'immenses anneaux, similaires à ceux créés par un caillou jeté dans un étang. Ces anneaux sont difficiles à détecter et se chevauchent, mais le plus surprenant c'est qu'ils ont tous la même taille caractéristique.
+- La méthode la plus précise actuellement utilisée pour mesurer l'histoire de l'expanion de l'univers fait appel à d'étranges motifs imprimés dans le ciel que l'on peut détecter quand on observe la distribution des galaxies dans l'univers avec une grande précision. Quand on les projette sur la sphère céleste, ces motifs ressemblent à des petits cercles entourés d'immenses anneaux, similaires à ceux créés par un caillou jeté dans un étang. Ces anneaux sont difficiles à détecter et se chevauchent, mais le plus surprenant c'est qu'ils ont tous la même taille caractéristique.
 - Les ***oscillations acoustiques des baryons*** (ou BAO, pour Baryonic Acoustic Oscillations)
 - La signature des BAO dans la répartition des galaxies a été mise en évidence pour la première fois en 2005 par deux équipes indépendantes d'astronomes associés aux relevés SDSS (Sloan Digital Sky Survey, au Nouveau mexique) et 2dFGRS (2dF Galaxy Redshift Survey, en Australie).
 > Ils ont montré que les anneaux ont une taille caractéristique de 500 millions d'années-lumière (150 Mpc) dans l'univers actuel
 - Pour comprendre l'origine de ces motifs, il faut revenir aux conditions de l'univers primordial
-> Pendant les premières centaines de milliers d'années qui ont suivi le Big Bang, l'univers était un plasma chaud composé de photons, de protons, d'électrons et de matière noire qui interagissaient sans cesse. Ce plasma avait beau être extrêmement homogène, de petites surdensités de matière noire apparaissaient quand même en permanence. Attirée par la gravité de ces petits amas de matière noire, la matière ordinaire (dite "baryonique") tentait de s'accumuler, mais le rayonnement ambiant avait tendace à s'opposer à cette accumulation. Ces deux processus antagonistes ont généré des ondes de pressions qui se déplacent à la vitesse du son (170 000 km/s) dans ce plasma ultradense. Ces ondes de pression sont littéralement des ondes sonores de différentes intensités qui se déplacent dans toutes les directions. Dans cette cacoponie, certaines longueurs d'onde sont plus amplifiées que d'autres. La "note" la plus amplifiée possède une longueur d'onde d'un million d'années-lumière environ, ce qui représente une fréquence 48 octaves plus basses que la note la plus grave sur un piano !
+> Pendant les premières centaines de milliers d'années qui ont suivi le Big Bang, l'univers était un plasma chaud composé de photons, de protons, d'électrons et de matière noire qui interagissaient sans cesse. Ce plasma avait beau être extrêmement homogène, de petites surdensités de matière noire apparaissaient quand même en permanence. Attirée par la gravité de ces petits amas de matière noire, la matière ordinaire (dite "baryonique") tentait de s'accumuler, mais le rayonnement ambiant avait tendace à s'opposer à cette accumulation (à noter que la matière noire n'intéragit pas avec la lumière, donc elle peut former des amas sans problème). Ces deux processus antagonistes ont généré des ondes de pressions qui se déplacent à la vitesse du son (170 000 km/s) dans ce plasma ultradense. Ces ondes de pression sont littéralement des ondes sonores de différentes intensités qui se déplacent dans toutes les directions. Dans cette cacoponie, certaines longueurs d'onde sont plus amplifiées que d'autres. La "note" la plus amplifiée possède une longueur d'onde d'un million d'années-lumière environ, ce qui représente une fréquence 48 octaves plus basses que la note la plus grave sur un piano ! Mais alors que l'univers s'étend et se refoidit.
+- Le phénomène des BAO lie de manière quantitative les anisotropies observées dans le CMB et les motifs d'anneaux observés dans la distribution des galaxies
+> En effet, les BAO sont responsables des pics observés dans le ***spectre de puissance*** (à définir) du CMB. Ce derniers correspondent aux longueurs d'onde sonores les plus amplifiées dans le plasma primmordial.
 - Un instrument fondamental pour détecter la signature des BAO dans les années à venir est DESI (Dark Energy Spectroscopic Instrument, "instrument spectroscopique pour l'énergie noire"), installé sur le télescope Mayall de 4 mètres de l'Observatoire National de Kitt Peak (Arizona) et capable de mesurer 5000 spectres de galaxies simultanément
 > En 2021, une collaboration internationale de 50 institutions dirigée par le Berkeley Lab a débuté un programme d'observation de 5 ans avec DESI qui devrait l'amener à cartographier la position et la vitesse de plus de 30 millions de galaxies dans le ciel de l'hémisphère Nord, dont près de 2,4 millions de quasars. Il pourra atteindre des profondeurs que BOSS ne pouvait pas atteindre, et permettra l'étude la plus fine de l'histoire de l'expansion cosmique.
 
@@ -245,10 +247,6 @@ Ce motif n’est pas facile à détecter. Les cercles et les anneaux sont subtil
 
 Depuis lors, le motif de cercles et d’anneaux s’est agrandi, parce que l’espace-temps lui-même prend de l’expansion — tout comme un motif imprimé sur un ballon s’étend à mesure que l’on gonfle le ballon.
 
-Ce motif porte le nom d’oscillations baryoniques acoustiques. Un nouveau projet vise à le cartographier, et du même coup à créer un nouvel outil puissant pour comprendre l’expansion de l’espace-temps et la mystérieuse énergie sombre
-
-Le projet vise aussi environ 2,5 millions de quasars 
-
 L’étude des quasars permettra à DESI de prendre un instantané de l’univers tel qu’il était il y a 11 milliards d’années.
 
 L’ensemble des données sur les galaxies et les quasars, avec le décalage vers le rouge correspondant à chaque objet, permettra aux chercheurs de découper le ciel en couches, chacune représentant un moment différent de l’histoire de l’univers.
@@ -257,7 +255,6 @@ Les oscillations baryoniques acoustiques ont une taille caractéristique, qui ch
 
 Les scientifiques chercheront le motif de cercles et d’anneaux en divers points de l’évolution de l’univers, de 11 milliards d’années dans le passé jusqu’à tout récemment. Ils prédisent qu’ils verront ce motif s’étendre à mesure que l’espace-temps lui-même prend de l’expansion, encore une fois comme un motif imprimé sur un ballon que l’on gonfle.
 
-
 Qu’en est-il de la matière baryonique (la matière ordinaire) présente dans le plasma primordial ? Des régions de surdensité  se sont formées, germes des futures galaxies. Ainsi, l'étude de la distribution spatiale des galaxies est un moyen de remonter aux oscillations baryoniques de l'Univers primordial. Il y a une vingtaine d’années, l’incertitude sur l'échelle caractéristiques de ces oscillations était de 50 pour cent ; elle était de 5 pour cent il y a cinq ans, et de 2 pour cent l’année dernière. Avec BOSS, cette incertitude est maintenant de un pour cent.
 
 This was not an easy process because the matter heated up as gravity pulled it together. This created an outward pressure that pushed the matter apart again. As it expanded, however, it cooled and gravity started to pull it back together again. This interplay of gravity and pressure set up an oscillation that created the equivalent of sound waves. These spread outward in bubbles, carrying along some matter with them.
@@ -265,8 +262,6 @@ This was not an easy process because the matter heated up as gravity pulled it t
 When the Universe reached the age of around 380 000 years, atoms formed for the first time. This allowed the matter to cool more efficiently, and gravity started to dominate. With little now to resist it, large scale structures started to form and imprinted on these structures were the bubbles of matter created by the acoustic waves. These bubbles are the wrinkles visible today as the baryon acoustic oscillations.
 
 In addition to this, the cosmic microwave background radiation was also released as atoms formed for the first time. The temperature variations that ESA's Planck mission measured in that radiation are produced by the different densities of matter in the early Universe and on certain size scales can be directly relatable to the baryon acoustic oscillations.
-
-
 
 Sous l’influence de la gravité, cette matière baryonique et les photons ont été attirés par les régions de surdensités de matière noire. Mais leur accumulation au centre de ces surdensités a créé une pression des photons qui s’est opposée à la gravité, et a entraîné la matière ordinaire et les photons en dehors de ces zones, qui se sont propagés sous forme d’ondes acoustiques (comme le son dans l’air ou les ondes sismiques à travers le manteau terrestre).
 
@@ -292,12 +287,6 @@ As the universe cooled and expanded, the dark matter began to
      away in the atoms, the    
      light could then begin to travel freely Some of that light headed our way and is observable today as the cosmic 
      microwave background.   That light allows us to see the patterns that resulted from the oscillations of the sound waves.  
-     
-The graph below is the Temperature Power Spectrum of the CMB.  Certain wavelengths of sound got amplified by the acoustic oscillations 
-      more than others, as indicated by the series of peaks in the power spectrum.  The sound waves contributing to the first peak have 
-      wavelengths of about 1 million light years, making them about 48 octaves below the lowest note on the piano!
-
-
       	      	
  We have translated the sounds of the primordial universe, as we see them today, into the range of human hearing.  High frequency 
       sounds correspond to small-scale structures on the map, and low-frequency sounds correspond to larger-scale features in the map, 
