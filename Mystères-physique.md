@@ -182,7 +182,7 @@ constraining the combination hDL(z).
 
 ### Les oscillations acoustiques des baryons
 
-- La méthode la plus précise actuellement utilisée pour mesurer l'histoire de l'expanion de l'univers fait appel à d'étranges motifs en forme d'anneaux que l'on retrouve dans le ciel.
+- La méthode la plus précise actuellement utilisée pour mesurer l'histoire de l'expanion de l'univers fait appel à d'étranges motifs imprimés dans le ciel que l'on peut détecter quand on observe la distribution des galaxies dans l'univers. Quand on les projette sur la sphère céleste, ces motifs ressemblent à des petits cercles entourés d'immenses anneaux, similaires à ceux créés par un caillou jeté dans un étang. Ces anneaux sont difficiles à détecter et se chevauchent, mais le plus surprenant c'est qu'ils ont tous la même taille caractéristique.
 - Les ***oscillations acoustiques des baryons*** (ou BAO, pour Baryonic Acoustic Oscillations)
 - La signature des BAO dans la répartition des galaxies a été mise en évidence pour la première fois en 2005 par deux équipes indépendantes d'astronomes associés aux relevés SDSS (Sloan Digital Sky Survey, au Nouveau mexique) et 2dFGRS (2dF Galaxy Redshift Survey, en Australie).
 > Ils ont montré que les anneaux ont une taille caractéristique de 500 millions d'années-lumière (150 Mpc) dans l'univers actuel
@@ -238,10 +238,6 @@ Minute variations in the temperature of the CMB record periodicity in the origin
 Regular clustering at different eras, starting with the CMB, establishes the expansion history of the universe.
 
 BOSS has now provided the most accurate calibration ever of BAO’s standard ruler. The universe’s expansion history has been measured with unprecedented accuracy during the very stretch of ancient time, over six billion years in the past, when expansion had stopped slowing and acceleration began. But accurate as they are, the new BOSS results are just the beginning. Greater coverage and better resolution in scale are essential to understanding dark energy itself.
-
-
-
-Il y a un motif imprimé sur le tissu de l’espace-temps.
 
 En 2 dimensions, chaque élément de ce motif ressemble à un petit cercle entouré d’un anneau — comme si une main cosmique avait jeté des cailloux dans l’étang dense de l’univers primitif, produisant des points d’impact et des ondulations, et que l’étang avait ensuite soudainement gelé.
 
