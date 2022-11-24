@@ -242,13 +242,8 @@ de matière dans les amas
 ### Les amas de galaxies
 
 - Les amas de galaxies sont les plus grandes structures liées par gravité dans l'Univers.
-> Ils ont des tailles de l'ordre du million d'années-lumière et des masses de l'ordre du million de milliards de masses solaires
-- La grande majorité de la masse des amas de galaxies est constituée de matière noire
-
-
-On observe le ciel en rayons X grâce à des
-satellites, car les rayons X sont absorbés par
-l’atmosphère terrestre et ne parviennent pas au sol
+> Ils ont des tailles de l'ordre du million d'années-lumière (Mpc) et des masses de l'ordre du million de milliards de masses solaires (10^15 Msol)
+- On ne peut pas observer les rayons X depuis des observatoires au sol, puisque ces longueurs d'onde sont absorbées par l'atmosphère terrestre. On doit donc avoir recours à des observatoires spatiaux comme Chandra ou XMM-Newton pour ce genre d'études.
 
 Les amas de galaxies en X apparaissent comme des sources
 diffuses et étendues
@@ -258,6 +253,13 @@ degrés) et très peu dense
 Les amas ne sont pas souvent des structures
 lisses et homogènes (amas dits « relaxés »)
 
+Expected differential redshift evolution of
+the galaxy cluster abundance for two mass
+thresholds (1014M☼/1013M☼) in a
+concordance comology for different Dark
+Energy scenarios
+
+This series of stills shows the technique used to make distance measurements to galaxy clusters. Chandra's observations are used to determine the ratio of the mass of the hot gas and the mass of the dark matter in different galaxy clusters. This "gas fraction" depends on the assumed distances to the clusters, which in turn depends on the amount of matter and dark energy in the Universe. Because galaxy clusters are extremely large, the gas fraction should be the same for every cluster, and so the distances to the clusters are adjusted to satisfy this requirement. Each of the 3 illustrations shows Chandra in the top left, observing a galaxy cluster, shown in the top right (in red). The relative amounts of hot gas (in red) and dark matter (in blue) are shown at the bottom, with the green marker giving the expected, correct amount. The first illustration shows a gas fraction that is too small, implying that the distance to the cluster is too small, the second shows the correct gas fraction and distance, and the third illustration shows a gas fraction and distance that are too large.
 
 Most baryons in clusters (like Universe) are in form of gas, not stars (6x more).
 In clusters, gravity squeezes gas, heating it to X-ray temperatures (10 7 -10 8 K)
