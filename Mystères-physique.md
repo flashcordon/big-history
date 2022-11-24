@@ -244,26 +244,20 @@ de matière dans les amas
 
 - Les amas de galaxies sont les plus grandes structures liées par gravité dans l'Univers.
 > Ils ont des tailles de l'ordre du million d'années-lumière (Mpc) et des masses de l'ordre du million de milliards de masses solaires (10^15 Msol)
-- On ne peut pas observer les rayons X depuis des observatoires au sol, puisque ces longueurs d'onde sont absorbées par l'atmosphère terrestre. On doit donc avoir recours à des observatoires spatiaux comme Chandra ou XMM-Newton pour ce genre d'études.
-
-Les amas de galaxies en X apparaissent comme des sources
-diffuses et étendues
-• L’émission X est due à du gaz très chaud (dix à cent millions de
-degrés) et très peu dense
+- Les étoiles ne constituent qu'une minuscule fraction de la masse totale d'un amas. Ces galaxies baignent en effet dans un gaz très chaud (comprimé à 10-100 millions de degrés sous l'action de la gravité) et très peu dense, et ce gaz représente 80-90% de la masse baryonique d'un amas.
+- Quand on observe les amas de galaxies en rayons X, ceux-ci apparaissent comme des sources diffuses et étendues. Ce qu'on voit dans ces longueurs d'onde, c'est la contribution du gaz intergalactique surchauffé.
+> On ne peut pas observer les rayons X depuis des observatoires au sol, puisque ces longueurs d'onde sont absorbées par l'atmosphère terrestre. On doit donc avoir recours à des observatoires spatiaux comme Chandra ou XMM-Newton pour ce genre d'études.
+- La formation des amas de galaxies dépend à la fois de la composition de l'univers (et donc des propriétés de la matière noire), et de l'histoire de l'expansion de l'univers (et donc des propriétés de l'énergie sombre)
+> En faisant des relevés d'amas de galaxies, on peut comparer les abondances observées en fonction de leur distance (redshift) et les abondances prédites par différents scénarios d'évolution et de composition cosmique (issues de simulations cosmologiques), et ainsi inférer les propriétés de l'énergie sombre qui collent le mieux aux observations
+- La détermination de la ***fraction de gaz*** des amas (notée f_gas(z)), définie comme le rapport de la masse de gaz (mesurée via l'émission de rayons X) sur la masse totale de l'amas (gaz + étoiles + matière noire), permet de contraindre les propriétés de la matière noire et de l'énergie sombre
+- On peut contraindre les propriétés de l'énergie sombre à l'aide de l'observation en rayons X des amas de galaxies de deux manières :
+> * 
+- Les données actuelles issues de l'observation des amas de galaxies fournissent une confirmation indépendante que l'expansion de l'univers est bien accélérée, et elles montrent que les propriétés de l'énergie sombre sont très proches d'une constante cosmologique
 
 Les amas ne sont pas souvent des structures
 lisses et homogènes (amas dits « relaxés »)
 
-Expected differential redshift evolution of
-the galaxy cluster abundance for two mass
-thresholds (1014M☼/1013M☼) in a
-concordance comology for different Dark
-Energy scenarios
-
 This series of stills shows the technique used to make distance measurements to galaxy clusters. Chandra's observations are used to determine the ratio of the mass of the hot gas and the mass of the dark matter in different galaxy clusters. This "gas fraction" depends on the assumed distances to the clusters, which in turn depends on the amount of matter and dark energy in the Universe. Because galaxy clusters are extremely large, the gas fraction should be the same for every cluster, and so the distances to the clusters are adjusted to satisfy this requirement. Each of the 3 illustrations shows Chandra in the top left, observing a galaxy cluster, shown in the top right (in red). The relative amounts of hot gas (in red) and dark matter (in blue) are shown at the bottom, with the green marker giving the expected, correct amount. The first illustration shows a gas fraction that is too small, implying that the distance to the cluster is too small, the second shows the correct gas fraction and distance, and the third illustration shows a gas fraction and distance that are too large.
-
-Most baryons in clusters (like Universe) are in form of gas, not stars (6x more).
-In clusters, gravity squeezes gas, heating it to X-ray temperatures (10 7 -10 8 K)
 
 Primary X-ray observables (density, temperature) relate directly to total (dark
 plus luminous) mass in a way that’s well understood (hydrostatic equilibrium)
@@ -286,9 +280,6 @@ clusters (absolute distance measurements).
 Constraints on the mean matter density Ωm, the amplitude of matter
 fluctuations σ8, and dark energy (Ωde,w), from the evolution of the
 number density of X-ray luminous clusters (growth of cosmic structure)
-
-Chandra and (XMM-Newton) provided first opportunity to carry out
-detailed spatially-resolved X-ray spectroscopy of galaxy clusters
 
 Researchers used a novel technique that takes advantage of the observation that the outer reaches of galaxy clusters, the largest structures in the universe held together by gravity, show similarity in their X-ray emission profiles and sizes. That is, more massive clusters are simply scaled up versions of less massive ones, similar to Russian dolls that nest inside one another.
 
@@ -318,9 +309,6 @@ The hot gas in clusters also Compton scatters CMB photons as they pass through, 
 
 X-ray or SZE measurements also enable measurements of the baryonic gas mass in clusters; in combination with the virial mass estimates described above, this enables estimates of the baryon gas fraction, fgas propto MB / Mtot. The ratio inferred from X-ray/SZE measurements depends upon cosmological distance because the inferred baryon mass, MB propto dL5/2 (X-ray) or propto dL2 (SZE), and the inferred total mass from X-ray measurements Mtot propto dL. If clusters are representative samples of matter, then fgas(z) propto dL3/2  or  1 should be independent of redshift and approx OmegaB / OmegaM; this will only be true for the correct cosmology
 
-The X-ray gas mass fraction, fgas(z) experiment constrains dark matter and dark energy
-
-- La mesure de la fraction massique de gaz, définie comme le rapport de la masse de gaz (mesurée via l'émission de rayons X) sur la masse totale de l'amas)
 
 A partir du profil de densité et de température du gaz X, on peut calculer la masse totale de gaz en fonction du rayon, et par intégration la masse totale du gaz X.
 
@@ -344,12 +332,10 @@ The object-to-object scatter is now low and the trends in the fgas(z) data arisi
 
 Evolution of the cluster mass function traces (with exponential magnification) the growth of linear density perturbations. Growth of structure and the distance-redshift relation are similarly sensitive to properties of dark energy, and also are mutually highly complementary sources of cosmological information
 
-Cluster data independently confirm the accelerated expansion of the universe; show that the empirical properties of dark energy are very close to those of cosmological constant
+
 
 clusters only shine in X-rays if they really are massive, X-ray observations
 produce remarkably clean cluster catalogues, vital for cosmology
-
-La formation des amas de galaxies depend a la fois de l'histoire de l'expansion de l'univers, de l'effondrement gravitationnel au-dela de la theorie lineaire et de la composition de l'univers. 
 
 Clusters, as discussed in the introductory chapters, have had an important role in
 the establishment of the standard model of cosmology. Currently, clusters provide
