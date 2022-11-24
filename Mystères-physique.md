@@ -178,6 +178,55 @@ in cosmology and fundamental physics.
 
 - L'énergie sombre représente 68% du contenu en masse et en énergie de l'univers (source : Planck ?)
 
+## Que sait-on de l'énergie sombre aujourd'hui ?
+
+ In summary, there are a few important
+things to know about dark energy:
+• Dark energy has negative pressure. It can
+be described by its present-day energy density
+relative to critical Ωde and equation of state
+w ≡ pde/ρde. For a cosmological constant,
+corresponding to vacuum energy, w = −1 precisely
+and at all times. More general explanations for
+dark energy typically lead to a time-dependent
+equation of state.
+• Current observational data constrain the equation
+of state to be w ≈ −1 to within about 5%.
+Measuring w and any time dependence — as
+well as searching for hints of any other, as yet
+unseen, properties of dark energy — will help us
+understand the physical nature of this mysterious
+component, a key goal of modern cosmology.
+• Dark energy is spatially smooth. It quenches the
+gravitational collapse of large-scale structures and
+suppresses the growth of density perturbations;
+whenever dark energy dominates, structures do
+not grow.
+• Only relatively recently (z . 0.5) has dark
+energy come to dominate the energy budget of
+the universe. At earlier epochs, the dark energy
+density is small relative to that of matter and
+radiation, although a ∼1% contribution by dark
+energy at early times is still allowed by the data.
+• Dark energy affects both the geometry (distances
+in the universe) and the growth of structure
+(clustering and abundance of galaxies and galaxy
+clusters). Separately measuring geometry and
+growth is an excellent way, not only to measure
+dark energy parameters, but also to differentiate
+between separate classes of dark energy models.
+• Dark energy can be studied using a variety of
+cosmological probes that span a wide range of
+spatial and temporal scales and involve a wide
+variety of observable quantities. Control of
+systematic errors in these individual cosmological
+probes is key to their ability to discriminate
+testable predictions of theoretical models. The
+worldwide effort in theoretically modeling and
+observationally measuring dark energy reflects a
+vibrant field with many fruitful avenues that still
+remain to be explored
+
 ## Comment sonder les propriétés de l'énergie noire à l'aide de nos observations
 
 - There are two main observable manifestations of dark energy: The first is its effect on the expansion rate of the Universe as a whole, which can be probed through the distance-redshift relation using “standard candles” such as type Ia supernovae, or standard rulers such as baryonic acoustic oscillations in the large-scale distribution of galaxies (4). This broad class of cosmological observations is often referred to as “geometric” methods. The second effect is the impact of dark energy on the rate of growth of large-scale structures. As the Universe enters the accelerated expansion phase around z ≈ 0.8, it is expected that the rate of structure growth slows down.
