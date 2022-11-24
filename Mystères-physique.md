@@ -256,6 +256,8 @@ de matière dans les amas
 
 - La détermination de la ***fraction de gaz*** des amas (notée f_gas(z)), définie comme le rapport de la masse de gaz (mesurée via l'émission de rayons X) sur la masse totale de l'amas (gaz + étoiles + matière noire), permet de contraindre les propriétés de la matière noire et de l'énergie sombre
 
+- Les amas de galaxies sont des objets si vastes et si massifs que l'on estime que leur composition matérielle est assez représentative de la composition matérielle de l'univers tout entier.
+
 - Les données actuelles issues de l'observation des amas de galaxies fournissent une confirmation indépendante que l'expansion de l'univers est bien accélérée, et elles montrent que les propriétés de l'énergie sombre sont très proches d'une constante cosmologique
 - Le télescope spatial Euclid de l'ESA, qui sera lancé en 2023, a pour mission de produire dans les années à venir l'un des catalogues d'amas de galaxies les plus fournis et les plus profonds de tous les temps, ce qui permettra aux astronomes de mieux contraindre les propriétés de l'énergie sombre.  
 
