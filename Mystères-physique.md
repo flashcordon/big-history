@@ -70,6 +70,8 @@ matter (CDM) paradigm
 - [PROBES OF COSMIC ACCELERATION](https://ned.ipac.caltech.edu/level5/March08/Frieman/Frieman7.html) - Frieman (2008)
 - [Probing Dark Energy with Galaxy Clusters](https://www.nasa.gov/mission_pages/chandra/probing-dark-energy-with-galaxy-clusters.html) - NASA (2016)
 - [Probing dark energy via galaxy cluster outskirts](https://academic.oup.com/mnras/article/457/3/3266/2588928) - Morandi et Sun (2016)
+- [La masse des amas déduite des rayons X](https://media4.obspm.fr/public/ressources_lu/pages_structures/massesx.html) - Observatoire de Paris
+- [LES AMAS DE GALAXIES EN LUMIERE VISIBLE ET EN RAYONS X](http://www.astrosurf.com/thizy/rochelle2009/doc/2009oct27E%20Amas%20de%20Galaxies%20(Florence%20Durret).pdf) - Florence Durret (2009)
 
 ---
 
@@ -231,9 +233,31 @@ coherent manner, producing a correlated pattern of apparent ellipticities. By st
 the weak lensing signal for source galaxies binned by photometric redshift (estimated
 from broad-band colors), one can probe the history of structure growth.
 
+L’effet de lentille gravitationnelle FAIBLE permet, par
+l’analyse des déformations de très nombreuses galaxies,
+de déterminer le cisaillement (« shear ») dû à l’effet
+gravitationnel de l’amas, et de reconstituer la distribution
+de matière dans les amas
+
 ### Les amas de galaxies
 
+- Les amas de galaxies sont les plus grandes structures liées par gravité dans l'Univers.
+> Ils ont des tailles de l'ordre du million d'années-lumière et des masses de l'ordre du million de milliards de masses solaires
 - La grande majorité de la masse des amas de galaxies est constituée de matière noire
+
+
+On observe le ciel en rayons X grâce à des
+satellites, car les rayons X sont absorbés par
+l’atmosphère terrestre et ne parviennent pas au sol
+
+Les amas de galaxies en X apparaissent comme des sources
+diffuses et étendues
+• L’émission X est due à du gaz très chaud (dix à cent millions de
+degrés) et très peu dense
+
+Les amas ne sont pas souvent des structures
+lisses et homogènes (amas dits « relaxés »)
+
 
 Most baryons in clusters (like Universe) are in form of gas, not stars (6x more).
 In clusters, gravity squeezes gas, heating it to X-ray temperatures (10 7 -10 8 K)
@@ -290,6 +314,23 @@ Most of the cluster baryons reside in hot, X-ray emitting gas in approximate dyn
 The hot gas in clusters also Compton scatters CMB photons as they pass through, leading to the Sunyaev-Zel'dovich effect (SZE; [Sunyaev & Zeldovich 1970]), a measurable distortion of the blackbody CMB spectrum. It can be detected for clusters out to high redshift (e.g., [Carlstrom, Holder & Reese 2002]). Since the SZE flux decrement is linear in the gas density, it should be less sensitive to gas dynamics
 
 X-ray or SZE measurements also enable measurements of the baryonic gas mass in clusters; in combination with the virial mass estimates described above, this enables estimates of the baryon gas fraction, fgas propto MB / Mtot. The ratio inferred from X-ray/SZE measurements depends upon cosmological distance because the inferred baryon mass, MB propto dL5/2 (X-ray) or propto dL2 (SZE), and the inferred total mass from X-ray measurements Mtot propto dL. If clusters are representative samples of matter, then fgas(z) propto dL3/2  or  1 should be independent of redshift and approx OmegaB / OmegaM; this will only be true for the correct cosmology
+
+The X-ray gas mass fraction, fgas(z) experiment constrains dark matter and dark energy
+
+- La mesure de la fraction massique de gaz, définie comme le rapport de la masse de gaz (mesurée via l'émission de rayons X) sur la masse totale de l'amas)
+
+A partir du profil de densité et de température du gaz X, on peut calculer la masse totale de gaz en fonction du rayon, et par intégration la masse totale du gaz X.
+
+Si l'on suppose que le gaz X est en équilibre hydrostatique dans le puits de potentiel de l'amas, on peut alors calculer la masse totale de l'amas en fonction du rayon, puis par intégration la masse totale de l'amas.
+
+On constate que le gaz représente environ 15% de la masse totale, et les galaxies quelques %. Le reste de la masse des amas est constitué de matière noire, que l'on ne détecte pas directement, mais dont on déduit l'existence par ses effets gravitationnels.
+
+Il est intéressant de constater que pour les amas sans sous-structure, où la condition d'équilibre hydrostatique a des chances d'être vérifiée, la masse totale de l'amas ainsi calculée est en accord avec celle déduite du phénomène de lentille gravitationnelle.
+
+En revanche, il est clair que cette méthode (la seule dont nous disposions hélas!) ne peut pas être appliquée aux amas en fusion, comme par exemple Abell 3376 (voir page précédente).
+
+In terms of direct distance measurements the X-ray method provides similar accuray to SNIa and BAO studies 
+
 
 *Emission de rayons X du gaz chaud de 4 amas de galaxies, photographiée par le télescope spatial Chandra. Crédit : X-ray: NASA/CXC/Univ. of Alabama/A. Morandi et al; Optical: SDSS, NASA/STScI. [Source](https://www.nasa.gov/mission_pages/chandra/probing-dark-energy-with-galaxy-clusters.html)*
 
