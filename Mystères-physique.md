@@ -72,6 +72,7 @@ matter (CDM) paradigm
 - [Probing dark energy via galaxy cluster outskirts](https://academic.oup.com/mnras/article/457/3/3266/2588928) - Morandi et Sun (2016)
 - [La masse des amas déduite des rayons X](https://media4.obspm.fr/public/ressources_lu/pages_structures/massesx.html) - Observatoire de Paris
 - [LES AMAS DE GALAXIES EN LUMIERE VISIBLE ET EN RAYONS X](http://www.astrosurf.com/thizy/rochelle2009/doc/2009oct27E%20Amas%20de%20Galaxies%20(Florence%20Durret).pdf) - Florence Durret (2009)
+- [Studies of dark energy with x-ray observatories](https://www.pnas.org/doi/10.1073/pnas.0914905107) - Vikhlinin (2010)
 
 ---
 
@@ -332,6 +333,30 @@ Il est intéressant de constater que pour les amas sans sous-structure, où la c
 En revanche, il est clair que cette méthode (la seule dont nous disposions hélas!) ne peut pas être appliquée aux amas en fusion, comme par exemple Abell 3376 (voir page précédente).
 
 In terms of direct distance measurements the X-ray method provides similar accuray to SNIa and BAO studies 
+
+There are two main observable manifestations of dark energy: The first is its effect on the expansion rate of the Universe as a whole, which can be probed through the distance-redshift relation using “standard candles” such as type Ia supernovae, or standard rulers such as baryonic acoustic oscillations in the large-scale distribution of galaxies (4). This broad class of cosmological observations is often referred to as “geometric” methods. The second effect is the impact of dark energy on the rate of growth of large-scale structures. As the Universe enters the accelerated expansion phase around z ≈ 0.8, it is expected that the rate of structure growth slows down.
+
+Cluster observations provide both the geometric and growth of structure cosmological tests. The distance-redshift relation can be measured either through the Sunyaev-Zel’dovich (8) effect, or using the expected universality of the intracluster gas mass fraction, fgas = Mgas/Mtot (9 and 10). Both methods can be also used to determine the absolute value of the Hubble constant through observations of low-z clusters *. The mass function of galaxy clusters is exponentially sensitive to the underlying amplitude of linear density perturbations and therefore can be used to implement the growth of structure test
+
+Galaxy clusters are expected to have a nearly cosmic mix of baryonic and dark matter, fb = Mb/Mtot ≈ Ωb/ΩM, because their mass is orders of magnitude higher than the Jeans mass scale and hence baryons and dark matter are not separated as the clusters grow from large-scale structures (35). The universality of the baryon fraction in cluster was originally used as a method for measuring ΩM, but in the mid-1990’s it was realized that it can be also used as an independent distance indicator (9 and 10). The mass of the intracluster gas (contributing 80%–90% to the total baryonic mass in massive clusters (36)) derived from the x-ray image is proportional to d5/2 where d is the distance to the cluster†, while dynamically derived total mass scales as d1. Therefore, the apparent baryon mass fraction is proportional to d3/2 and is constant as a function of z only if we use the correct distance-redshift relation.
+
+The object-to-object scatter is now low and the trends in the fgas(z) data arising from assuming a “wrong” cosmological model are clearly detectable. In particular, the expected absence of redshift trends in the fgas measurements is observed only for the range of parameters corresponding to the “concordant” cosmological models, while strong trends in fgas(z) are found if, e.g., one assumes an ΩM = 1 model without a cosmological constant (38).
+
+Evolution of the cluster mass function traces (with exponential magnification) the growth of linear density perturbations. Growth of structure and the distance-redshift relation are similarly sensitive to properties of dark energy, and also are mutually highly complementary sources of cosmological information
+
+Cluster data independently confirm the accelerated expansion of the universe; show that the empirical properties of dark energy are very close to those of cosmological constant
+
+clusters only shine in X-rays if they really are massive, X-ray observations
+produce remarkably clean cluster catalogues, vital for cosmology
+
+La formation des amas de galaxies depend a la fois de l'histoire de l'expansion de l'univers, de l'effondrement gravitationnel au-dela de la theorie lineaire et de la composition de l'univers. 
+
+Clusters, as discussed in the introductory chapters, have had an important role in
+the establishment of the standard model of cosmology. Currently, clusters provide
+crucial information on the S8 tension
+) and
+the nature of dark matter through observation of the relation between optical, X-ray,
+SZ and projected mass profiles of clusters with gravitational lensing
 
 
 *Emission de rayons X du gaz chaud de 4 amas de galaxies, photographiée par le télescope spatial Chandra. Crédit : X-ray: NASA/CXC/Univ. of Alabama/A. Morandi et al; Optical: SDSS, NASA/STScI. [Source](https://www.nasa.gov/mission_pages/chandra/probing-dark-energy-with-galaxy-clusters.html)*
