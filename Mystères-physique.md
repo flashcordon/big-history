@@ -29,6 +29,23 @@
 
 ---
 
+### L'amas de la balle (Bullet cluster)
+
+The combination of X-ray and gravitational lensing data for the`bullet cluster’
+1E0657-56 (a merger of two large clusters) confirms that dark matter is very
+different in nature from the bulk of normal, baryonic matter (X-ray emitting gas)
+
+X-ray emitting gas
+feels ram pressure
+whereas dark matter
+(and galaxies) pass
+through (at least
+relatively) unhindered.
+
+Consistent with weakly
+interacting, cold dark
+matter (CDM) paradigm
+
 # Energie sombre
 
 *Sources*
@@ -49,6 +66,10 @@
 - [What the hell are Baryon Acoustic Oscillations?](https://medium.com/starts-with-a-bang/what-the-hell-are-baryon-acoustic-oscillations-cfee6d726538) - Ethan Siegel
 - [Dark Energy Spectroscopic Instrument (DESI) Creates Largest 3-D Map of the Cosmos](https://www.ifae.es/news/2022/01/13/dark-energy-spectroscopic-instrument-desi-creates-largest-3-d-map-of-the-cosmos/) - IFAE (2022)
 - [Listening to the sound of the universe](https://web.physics.ucsb.edu/~jatila/CMB-sounds/CMB/) - Jatila van der Veen
+- [Dark matter in galaxy clusters](https://www.slac.stanford.edu/econf/C070730/talks/allen_080607.pdf) - Steve Allen
+- [PROBES OF COSMIC ACCELERATION](https://ned.ipac.caltech.edu/level5/March08/Frieman/Frieman7.html) - Frieman (2008)
+- [Probing Dark Energy with Galaxy Clusters](https://www.nasa.gov/mission_pages/chandra/probing-dark-energy-with-galaxy-clusters.html) - NASA (2016)
+- [Probing dark energy via galaxy cluster outskirts](https://academic.oup.com/mnras/article/457/3/3266/2588928) - Morandi et Sun (2016)
 
 ---
 
@@ -213,6 +234,34 @@ from broad-band colors), one can probe the history of structure growth.
 ### Les amas de galaxies
 
 - La grande majorité de la masse des amas de galaxies est constituée de matière noire
+
+Most baryons in clusters (like Universe) are in form of gas, not stars (6x more).
+In clusters, gravity squeezes gas, heating it to X-ray temperatures (10 7 -10 8 K)
+
+Primary X-ray observables (density, temperature) relate directly to total (dark
+plus luminous) mass in a way that’s well understood (hydrostatic equilibrium)
+and can be well modelled by hydro. simulations.
+
+X-ray studies of relaxed clusters allow
+precise, robust measurements of the
+distributions of both baryonic and dark
+matter → crucial for cosmology
+
+ Testing the cold dark matter (CDM) paradigm in relaxed clusters
+Compare the observed mass profiles and concentration-mass relation
+for the largest, relaxed X-ray luminous galaxy clusters with the
+predictions from CDM cosmological simulations.
+
+Constraints on cosmology from X-ray studies of galaxy clusters
+Constraints on the mean matter density Ωm and dark energy (Ωde,w)
+from measurements of the baryonic mass fraction in the largest relaxed
+clusters (absolute distance measurements).
+Constraints on the mean matter density Ωm, the amplitude of matter
+fluctuations σ8, and dark energy (Ωde,w), from the evolution of the
+number density of X-ray luminous clusters (growth of cosmic structure)
+
+Chandra and (XMM-Newton) provided first opportunity to carry out
+detailed spatially-resolved X-ray spectroscopy of galaxy clusters
 
 Researchers used a novel technique that takes advantage of the observation that the outer reaches of galaxy clusters, the largest structures in the universe held together by gravity, show similarity in their X-ray emission profiles and sizes. That is, more massive clusters are simply scaled up versions of less massive ones, similar to Russian dolls that nest inside one another.
 
