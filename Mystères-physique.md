@@ -251,10 +251,11 @@ de matière dans les amas
 > Les amas relaxés constituent une minorité dans la population des amas de galaxies. 
 - La formation des amas de galaxies dépend à la fois de la composition de l'univers (et donc des propriétés de la matière noire : Ω_m), de l'histoire de la formation des structures cosmiques (encapsulé dans σ8, l'amplitude des fluctuations de matière) de l'histoire de l'expansion de l'univers (et donc des propriétés de l'énergie sombre : Ω_Λ, ω)
 > En recensant les gros amas de galaxies "relaxés" dans l'univers, on peut comparer les abondances observées en fonction de leur distance (redshift) et les abondances prédites par différents scénarios d'évolution et de composition cosmique (issues de simulations cosmologiques), et ainsi inférer les propriétés de l'énergie sombre qui collent le mieux aux observations (Ω_Λ, ω) 
-- À partir de l'observation d'un amas en rayons X, on peut calculer sa masse baryonique (car la luminosité X est proportionnelle au carré de la densité de gaz qui émet ces rayons X), 
-> Supposition : le gaz est en équilibre hydrostatique dans le puits de potentiel de l'amas, ie l'amas ne présente pas de sous-structure et n'est pas en train de fusionner avec d'autres amas.
-
-- La détermination de la ***fraction de gaz*** des amas (notée f_gas(z)), définie comme le rapport de la masse de gaz (mesurée via l'émission de rayons X) sur la masse totale de l'amas (gaz + étoiles + matière noire), permet de contraindre les propriétés de la matière noire et de l'énergie sombre
+- À partir de l'observation d'un amas en rayons X, on peut calculer sa masse baryonique (car la luminosité X est proportionnelle au carré de la densité de gaz qui émet ces rayons X) et sa température. Et à partir d'un profil de densité théorique, si l'on fait l'hypothèse que le gaz est en équilibre hydrostatique dans le puits de potentiel de l'amas (ie l'amas ne présente pas de sous-structure et n'est pas en train de fusionner avec d'autres amas), alors on peut calculer la masse totale de l'amas en fonction du rayon, puis en intégrant sur le profil la masse totale de l'amas. On peut alors obtenir la ***fraction de gaz*** des amas (notée f_gas(z)), définie comme le rapport de la masse de gaz (mesurée via l'émission de rayons X) sur la masse totale de l'amas (galaxies + gaz intergalactique + matière noire)
+> Cette fraction de gaz est d'environ 15%.
+> * Une autre manière d'obtenir la masse totale d'un amas est d'utiliser l'effet de lentilles gravitationnelle.
+- Cette fraction permet de contraindre les propriétés de la matière noire et de l'énergie sombre
+- Au milieu des années 90, les astronomes se sont rendus compte 
 
 - Les amas de galaxies sont des objets si vastes et si massifs que l'on estime que leur composition matérielle est assez représentative de la composition matérielle de l'univers tout entier.
 
@@ -267,45 +268,14 @@ Primary X-ray observables (density, temperature) relate directly to total (dark
 plus luminous) mass in a way that’s well understood (hydrostatic equilibrium)
 and can be well modelled by hydro. simulations.
 
-X-ray studies of relaxed clusters allow
-precise, robust measurements of the
-distributions of both baryonic and dark
-matter → crucial for cosmology
-
  Testing the cold dark matter (CDM) paradigm in relaxed clusters
 Compare the observed mass profiles and concentration-mass relation
 for the largest, relaxed X-ray luminous galaxy clusters with the
 predictions from CDM cosmological simulations.
 
-Researchers used a novel technique that takes advantage of the observation that the outer reaches of galaxy clusters, the largest structures in the universe held together by gravity, show similarity in their X-ray emission profiles and sizes. That is, more massive clusters are simply scaled up versions of less massive ones, similar to Russian dolls that nest inside one another.
-
 The amount of matter in the Universe, which is dominated by the unseen substance called dark matter, and the properties of dark energy (what astronomers call cosmological parameters) affect the rate of expansion of the Universe and, therefore, how the distances to objects changes with time. If the cosmological parameters used are incorrect and a cluster is inferred to be traveling away faster than the correct value, then a cluster will appear to be larger and fainter due to this “Russian doll” property. If the cluster is inferred to be traveling away more slowly than the correct value, the cluster will be smaller and brighter than a cluster according to theory.
 
-Clusters of Galaxies: Like weak lensing, the abundance of massive dark matter halos
-probes structure growth by constraining σ8Ωα
-m, where α ≈ 0.3–0.5. These halos can be
-identified as dense concentrations of galaxies or through the signatures of hot (107–108 K)
-gas in X-ray emission or SZ distortion of the CMB.
-
-One cosmological test via galaxy clusters which has been previously proposed (e.g. Arnaud, Aghanim & Neumann 2002) hinges on the self-similarity. Indeed, for an assumed cosmology, similarity of shape in cluster radial quantities has been recently shown in X-ray observations (Arnaud et al. 2002, 2010; Eckert et al. 2012; Morandi et al. 2015), with weak lensing (Postman et al. 2012) and SZ (Plagge et al. 2010; Planck Collaboration V 2013). These homogeneous physical properties of the intracluster medium (ICM) are theoretically expected since the scale-free DM collapse drives the evolution of halo concentration and the physical properties of the baryons across cosmic time (Limousin et al. 2013). The ensuing similarity yields both a universal DM distribution and simple global scaling relations between the observables (Kaiser 1986; Voit 2005; Arnaud et al. 2010), retaining the fingerprints of the underlying cosmology, gravity but also astrophysics that govern their formation and evolution
-
-On large scales, the majority of the baryonic component is in the form of X-ray emitting ICM and is expected to follow the distribution of the gravitationally dominant DM. The self-similar model (see e.g. Kaiser 1986) predicts that cluster gas profiles for a given mass (or peak height) appear universal when they are scaled according to a certain radius (e.g. R200) with respect to the reference background density of the Universe (see e.g. Voit 2005). The underlying idea is that gravity is the only responsible for the observed values of the physical properties of clusters and the ICM is heated only by the shocks associated with the collapse. Hence, clusters are identical objects when scaled by their mass or temperature and power-law scaling relations are expected between the observables. Baryonic physics such as radiative cooling, star formation and feedback might break self-similarity, but their effects are mostly confined within the cluster core.
-
-The utility of this probe hinges on the ability to robustly associate cluster observables such as X-ray luminosity or temperature, cluster galaxy richness, Sunyaev-Zel'dovich effect flux decrement, or weak lensing shear, with cluster mass
-
-The hot gas in clusters also Compton scatters CMB photons as they pass through, leading to the Sunyaev-Zel'dovich effect (SZE; [Sunyaev & Zeldovich 1970]), a measurable distortion of the blackbody CMB spectrum. It can be detected for clusters out to high redshift (e.g., [Carlstrom, Holder & Reese 2002]). Since the SZE flux decrement is linear in the gas density, it should be less sensitive to gas dynamics
-
 X-ray or SZE measurements also enable measurements of the baryonic gas mass in clusters; in combination with the virial mass estimates described above, this enables estimates of the baryon gas fraction, fgas propto MB / Mtot. The ratio inferred from X-ray/SZE measurements depends upon cosmological distance because the inferred baryon mass, MB propto dL5/2 (X-ray) or propto dL2 (SZE), and the inferred total mass from X-ray measurements Mtot propto dL. If clusters are representative samples of matter, then fgas(z) propto dL3/2  or  1 should be independent of redshift and approx OmegaB / OmegaM; this will only be true for the correct cosmology
-
-
-
-Si l'on suppose que le gaz X est en équilibre hydrostatique dans le puits de potentiel de l'amas, on peut alors calculer la masse totale de l'amas en fonction du rayon, puis par intégration la masse totale de l'amas.
-
-On constate que le gaz représente environ 15% de la masse totale, et les galaxies quelques %. Le reste de la masse des amas est constitué de matière noire, que l'on ne détecte pas directement, mais dont on déduit l'existence par ses effets gravitationnels.
-
-Il est intéressant de constater que pour les amas sans sous-structure, où la condition d'équilibre hydrostatique a des chances d'être vérifiée, la masse totale de l'amas ainsi calculée est en accord avec celle déduite du phénomène de lentille gravitationnelle.
-
-In terms of direct distance measurements the X-ray method provides similar accuray to SNIa and BAO studies 
 
 There are two main observable manifestations of dark energy: The first is its effect on the expansion rate of the Universe as a whole, which can be probed through the distance-redshift relation using “standard candles” such as type Ia supernovae, or standard rulers such as baryonic acoustic oscillations in the large-scale distribution of galaxies (4). This broad class of cosmological observations is often referred to as “geometric” methods. The second effect is the impact of dark energy on the rate of growth of large-scale structures. As the Universe enters the accelerated expansion phase around z ≈ 0.8, it is expected that the rate of structure growth slows down.
 
@@ -314,8 +284,6 @@ Cluster observations provide both the geometric and growth of structure cosmolog
 Galaxy clusters are expected to have a nearly cosmic mix of baryonic and dark matter, fb = Mb/Mtot ≈ Ωb/ΩM, because their mass is orders of magnitude higher than the Jeans mass scale and hence baryons and dark matter are not separated as the clusters grow from large-scale structures (35). The universality of the baryon fraction in cluster was originally used as a method for measuring ΩM, but in the mid-1990’s it was realized that it can be also used as an independent distance indicator (9 and 10). The mass of the intracluster gas (contributing 80%–90% to the total baryonic mass in massive clusters (36)) derived from the x-ray image is proportional to d5/2 where d is the distance to the cluster†, while dynamically derived total mass scales as d1. Therefore, the apparent baryon mass fraction is proportional to d3/2 and is constant as a function of z only if we use the correct distance-redshift relation.
 
 The object-to-object scatter is now low and the trends in the fgas(z) data arising from assuming a “wrong” cosmological model are clearly detectable. In particular, the expected absence of redshift trends in the fgas measurements is observed only for the range of parameters corresponding to the “concordant” cosmological models, while strong trends in fgas(z) are found if, e.g., one assumes an ΩM = 1 model without a cosmological constant (38).
-
-Evolution of the cluster mass function traces (with exponential magnification) the growth of linear density perturbations. Growth of structure and the distance-redshift relation are similarly sensitive to properties of dark energy, and also are mutually highly complementary sources of cosmological information
 
 *Emission de rayons X du gaz chaud de 4 amas de galaxies, photographiée par le télescope spatial Chandra. Crédit : X-ray: NASA/CXC/Univ. of Alabama/A. Morandi et al; Optical: SDSS, NASA/STScI. [Source](https://www.nasa.gov/mission_pages/chandra/probing-dark-energy-with-galaxy-clusters.html)*
 
