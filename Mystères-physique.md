@@ -151,6 +151,8 @@ Substantial progress towards answering these questions, in particular any defini
 rejection of the cosmological constant “null hypothesis,” would be a major breakthrough
 in cosmology and fundamental physics.
 
+- L'énergie sombre représente 68% du contenu en masse et en énergie de l'univers (source : Planck ?)
+
 ## Comment sonder les propriétés de l'énergie noire à l'aide de nos observations
 
 ### Les anisotropies du CMB
@@ -208,11 +210,43 @@ coherent manner, producing a correlated pattern of apparent ellipticities. By st
 the weak lensing signal for source galaxies binned by photometric redshift (estimated
 from broad-band colors), one can probe the history of structure growth.
 
+### Les amas de galaxies
+
+- La grande majorité de la masse des amas de galaxies est constituée de matière noire
+
+Researchers used a novel technique that takes advantage of the observation that the outer reaches of galaxy clusters, the largest structures in the universe held together by gravity, show similarity in their X-ray emission profiles and sizes. That is, more massive clusters are simply scaled up versions of less massive ones, similar to Russian dolls that nest inside one another.
+
+The amount of matter in the Universe, which is dominated by the unseen substance called dark matter, and the properties of dark energy (what astronomers call cosmological parameters) affect the rate of expansion of the Universe and, therefore, how the distances to objects changes with time. If the cosmological parameters used are incorrect and a cluster is inferred to be traveling away faster than the correct value, then a cluster will appear to be larger and fainter due to this “Russian doll” property. If the cluster is inferred to be traveling away more slowly than the correct value, the cluster will be smaller and brighter than a cluster according to theory.
+
+These latest results confirm earlier studies that the amount of dark energy has not changed over billions of years. They also support the idea that dark energy is best explained by the “cosmological constant,” which Einstein first proposed and is equivalent to the energy of empty space.
+
+Galaxy cluster abundance is a powerful observational probe because cluster formation is highly sensitive to the presence of either dark energy or the effects of modified gravity. It is one of the central observational probes employed by Euclid, ESA’s mission dedicated to understanding the origin of the accelerated expansion and scheduled for launch in 2022.  Euclid will produce one of the largest and deepest galaxy cluster catalogs ever for probing dark energy and modified gravity
+
 Clusters of Galaxies: Like weak lensing, the abundance of massive dark matter halos
 probes structure growth by constraining σ8Ωα
 m, where α ≈ 0.3–0.5. These halos can be
 identified as dense concentrations of galaxies or through the signatures of hot (107–108 K)
 gas in X-ray emission or SZ distortion of the CMB.
+
+One cosmological test via galaxy clusters which has been previously proposed (e.g. Arnaud, Aghanim & Neumann 2002) hinges on the self-similarity. Indeed, for an assumed cosmology, similarity of shape in cluster radial quantities has been recently shown in X-ray observations (Arnaud et al. 2002, 2010; Eckert et al. 2012; Morandi et al. 2015), with weak lensing (Postman et al. 2012) and SZ (Plagge et al. 2010; Planck Collaboration V 2013). These homogeneous physical properties of the intracluster medium (ICM) are theoretically expected since the scale-free DM collapse drives the evolution of halo concentration and the physical properties of the baryons across cosmic time (Limousin et al. 2013). The ensuing similarity yields both a universal DM distribution and simple global scaling relations between the observables (Kaiser 1986; Voit 2005; Arnaud et al. 2010), retaining the fingerprints of the underlying cosmology, gravity but also astrophysics that govern their formation and evolution
+
+On large scales, the majority of the baryonic component is in the form of X-ray emitting ICM and is expected to follow the distribution of the gravitationally dominant DM. The self-similar model (see e.g. Kaiser 1986) predicts that cluster gas profiles for a given mass (or peak height) appear universal when they are scaled according to a certain radius (e.g. R200) with respect to the reference background density of the Universe (see e.g. Voit 2005). The underlying idea is that gravity is the only responsible for the observed values of the physical properties of clusters and the ICM is heated only by the shocks associated with the collapse. Hence, clusters are identical objects when scaled by their mass or temperature and power-law scaling relations are expected between the observables. Baryonic physics such as radiative cooling, star formation and feedback might break self-similarity, but their effects are mostly confined within the cluster core.
+
+The utility of this probe hinges on the ability to robustly associate cluster observables such as X-ray luminosity or temperature, cluster galaxy richness, Sunyaev-Zel'dovich effect flux decrement, or weak lensing shear, with cluster mass
+
+The sensitivity of cluster counts to dark energy arises from two factors: geometry, the term multiplying the integral in Eq. (30) is the comoving volume element; and growth of structure, dn(z)/dM depends on the evolution of density perturbations, cf. Eq. 15. The cluster mass function is also determined by the primordial spectrum of density perturbations; its near-exponential dependence upon mass is the root of the power of clusters to probe dark energy. 
+
+Most of the cluster baryons reside in hot, X-ray emitting gas in approximate dynamical equilibrium in the dark matter potential well. Since X-ray luminosity is proportional to the square of the gas density, X-ray clusters are high-contrast objects, for which the selection function is generally well-determined. Empirically, X-ray luminosity and temperature are both found to correlate more tightly than optical richness with virial mass [Arnaud 2005, Stanek et al. 2006].
+
+The hot gas in clusters also Compton scatters CMB photons as they pass through, leading to the Sunyaev-Zel'dovich effect (SZE; [Sunyaev & Zeldovich 1970]), a measurable distortion of the blackbody CMB spectrum. It can be detected for clusters out to high redshift (e.g., [Carlstrom, Holder & Reese 2002]). Since the SZE flux decrement is linear in the gas density, it should be less sensitive to gas dynamics
+
+X-ray or SZE measurements also enable measurements of the baryonic gas mass in clusters; in combination with the virial mass estimates described above, this enables estimates of the baryon gas fraction, fgas propto MB / Mtot. The ratio inferred from X-ray/SZE measurements depends upon cosmological distance because the inferred baryon mass, MB propto dL5/2 (X-ray) or propto dL2 (SZE), and the inferred total mass from X-ray measurements Mtot propto dL. If clusters are representative samples of matter, then fgas(z) propto dL3/2  or  1 should be independent of redshift and approx OmegaB / OmegaM; this will only be true for the correct cosmology
+
+*Emission de rayons X du gaz chaud de 4 amas de galaxies, photographiée par le télescope spatial Chandra. Crédit : X-ray: NASA/CXC/Univ. of Alabama/A. Morandi et al; Optical: SDSS, NASA/STScI. [Source](https://www.nasa.gov/mission_pages/chandra/probing-dark-energy-with-galaxy-clusters.html)*
+
+![xraychandra](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/clusters.jpg)
+
+### La détermination directe du taux d'expansion cosmique
 
 Direct Determination of H0: The value of H0 sets the current value of the critical density
 ρc = 3H2
@@ -470,11 +504,6 @@ l’histoire de l’Univers, à l’instar de la
 constante cosmologique qu’Einstein avait
 introduite dans ses équations, ou est-ce une
 forme plus complexe d’énergie ?
-
-À elle seule,
-l’énergie noire est aujourd’hui invoquée pour
-représenter 73% du contenu énergétique
-de notre Univers
 
 L’information cosmologique la plus
 précise se trouverait dans l’étude de la
