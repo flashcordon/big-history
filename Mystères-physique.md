@@ -249,74 +249,15 @@ constraining low-redshift structure growth.
 
 ### Les supernovae thermonucléaires
 
-- Les ***supernovae thermonucléaires*** (aussi appelées ***supernovae de type Ia***) sont des phénomènes résultant de l’explosion de naines blanches situées dans des couples stellaires.
+- Les ***supernovae thermonucléaires*** (aussi appelées ***supernovae de type Ia***, ou SNIa) sont des phénomènes résultant de l’explosion de naines blanches situées dans des couples stellaires.
 > Dans de tels systèmes, la naine blanche (constituée majoritairement de carbone et d’oxygène) accumule de la matière provenant de sa partenaire à sa surface. Cette accumulation a lieu jusqu’à ce que la naine blanche atteigne une masse critique de 1,4 masse solaire (la ***masse de Chandrasekhar***). À ce moment-là, on pense que des réactions de fusion du carbone se déclenchent dans son cœur et s’emballent en quelques secondes à peine, provoquant une explosion thermonucléaire qui oblitère complètement cette dernière.
 - La durée de ce type d’explosion est de l’ordre d’un mois, durée pendant laquelle la luminosité de la SNIa augmente puis diminue jusqu’à disparaitre dans la nuit. À son pic de luminosité, une SNIa peut être aussi brillante qu’une galaxie tout entière.
-
-Type Ia Supernovae: Type Ia supernovae, produced by the thermonuclear explosions of
-white dwarfs, exhibit 10-15% scatter in peak luminosity after correction for light curve
-duration (the time to rise and fall) and color (which is a diagnostic of dust extinction).
-Since the peak luminosity is not known a priori, supernova surveys constrain ratios of
-luminosity distances at different redshifts. If one is comparing a high redshift sample to
-a local calibrator sample measured with much higher precision (and distances inferred
-from Hubble’s law), then one essentially measures the luminosity distance in h−1Mpc,
-constraining the combination hDL(z).
-
-Type Ia supernovae (SNe Ia) are very bright standard
-candles (sometimes called standardizable candles)
-useful for measuring cosmological distances.
-
-Distances in astronomy are
-often notoriously difficult to measure. It is relatively
-straightforward to measure the angular location of
-an object in the sky, and we can often obtain a
-precise measurement of an object’s redshift z from
-its spectrum by observing the shift of known spectral
-lines due to the expansion of the universe (1 + z ≡
-λobs/λemit). For a specified cosmological model, the
-distance-redshift relation (i.e. (8)) would then indicate
-the distance
-however, since our goal is typically to
-infer the cosmological model, we need an independent
-distance measurement. Methods of independently
-measuring distance in astronomy typically involve
-uncertain empirical relationships.
-Standard candles are idealized objects that have a
-fixed intrinsic luminosity or absolute magnitude
-Having standard candles would be very useful; they
-would allow us to infer distances to those objects
-using only the inverse square law for flux
-
-For a true standard candle, the
-absolute magnitude M is the same for each object.
-Therefore, for each object, a measurement of the
-apparent magnitude provides direct information about
-the luminosity distance and therefore some information
-about the cosmological model.
-a type Ia supernova is
-thought to occur when a slowly rotating carbon-
-oxygen white dwarf accretes matter from a companion
-star, eventually exceeds the Chandrasekhar mass limit
-(∼1.4M ), and subsequently collapses and explodes
-The flux of light
-from SNe Ia increases and then fades over a period
-of about a month; at its peak flux, a SN can be as
-luminous as the entire galaxy in which it resides.
-The fact that SNe Ia can potentially be used as
-standard candles had been realized long ago, at least
-since the 1970s [158, 159]. However, developing an
-observing strategy to detect SNe Ia before they reached
-peak flux was a major challenge. If we were to
-point a telescope at a single galaxy and wait for a
-SN to occur, we would have to wait ∼100 years, on
-average.
-Today, after many dedicated
-observational programs, thousands of SNe Ia have been
-observed, and nearly one thousand have been analyzed
-simultaneously for cosmological inference.
-SNe Ia are not perfect standard candles;
-their peak magnitudes exhibit a scatter of ∼ 0.3 mag,
-limiting their usefulness as distance indicators.
+- Les SNIa sont très utiles pour les cosmologistes puisqu’elles constituent des ***chandelles standards***, c’est-à-dire des objets (idéaux) dont la luminosité intrinsèque est toujours la même, et qui servent donc à estimer les distances dans l’univers.
+> Si on connaît la luminosité intrinsèque d’un objet, il suffit de mesurer sa luminosité apparente pour en déduire la distance (de luminosité) grâce à la ***loi en carré inverse***. 
+- Une fois que l’on a mesuré la distance de luminosité d’une SNIa, on peut obtenir son redshift pour un modèle cosmologique donné à l’aide de la ***relation distance-redshift***. Observer la luminosité apparente d’un échantillon de SNIa permet donc d’obtenir des informations sur l’histoire de l’expansion de l’univers.
+- En pratique, les SNIa ne sont pas des chandelles standard parfaites : à leur pic, la luminosité d’un échantillon de ces explosions présente des différences de l’ordre de 10-15% (après correction de la durée de l’explosion et de sa couleur). Ces différences limitent la précision à laquelle les distances cosmiques sont inférées. 
+- On recense aujourd’hui des milliers de SNIa, dont près d’un millier sont utilisées à des fins cosmologiques.
+> Ce sont des événements relativement rares. En moyenne, dans une galaxie typique, il se produit une SNIa tous les 100 ans environs.
 
 *Courbe de luminosité d'un échantillon de SN Ia. Crédit : Huterer et Schafer (2018). [Source](https://astrobites.org/2019/02/18/type-ia-supernovae-could-use-some-more-color/)*
 
