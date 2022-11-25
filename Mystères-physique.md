@@ -258,6 +258,63 @@ a local calibrator sample measured with much higher precision (and distances inf
 from Hubble’s law), then one essentially measures the luminosity distance in h−1Mpc,
 constraining the combination hDL(z).
 
+Type Ia supernovae (SNe Ia) are very bright standard
+candles (sometimes called standardizable candles)
+useful for measuring cosmological distances.
+
+Distances in astronomy are
+often notoriously difficult to measure. It is relatively
+straightforward to measure the angular location of
+an object in the sky, and we can often obtain a
+precise measurement of an object’s redshift z from
+its spectrum by observing the shift of known spectral
+lines due to the expansion of the universe (1 + z ≡
+λobs/λemit). For a specified cosmological model, the
+distance-redshift relation (i.e. (8)) would then indicate
+the distance
+however, since our goal is typically to
+infer the cosmological model, we need an independent
+distance measurement. Methods of independently
+measuring distance in astronomy typically involve
+uncertain empirical relationships.
+Standard candles are idealized objects that have a
+fixed intrinsic luminosity or absolute magnitude
+Having standard candles would be very useful; they
+would allow us to infer distances to those objects
+using only the inverse square law for flux
+
+For a true standard candle, the
+absolute magnitude M is the same for each object.
+Therefore, for each object, a measurement of the
+apparent magnitude provides direct information about
+the luminosity distance and therefore some information
+about the cosmological model.
+a type Ia supernova is
+thought to occur when a slowly rotating carbon-
+oxygen white dwarf accretes matter from a companion
+star, eventually exceeds the Chandrasekhar mass limit
+(∼1.4M ), and subsequently collapses and explodes
+The flux of light
+from SNe Ia increases and then fades over a period
+of about a month; at its peak flux, a SN can be as
+luminous as the entire galaxy in which it resides.
+The fact that SNe Ia can potentially be used as
+standard candles had been realized long ago, at least
+since the 1970s [158, 159]. However, developing an
+observing strategy to detect SNe Ia before they reached
+peak flux was a major challenge. If we were to
+point a telescope at a single galaxy and wait for a
+SN to occur, we would have to wait ∼100 years, on
+average.
+Today, after many dedicated
+observational programs, thousands of SNe Ia have been
+observed, and nearly one thousand have been analyzed
+simultaneously for cosmological inference.
+SNe Ia are not perfect standard candles;
+their peak magnitudes exhibit a scatter of ∼ 0.3 mag,
+limiting their usefulness as distance indicators.
+
+
 ### Les oscillations acoustiques des baryons
 
 - La méthode la plus précise actuellement utilisée pour mesurer l'histoire de l'expansion de l'univers fait appel à d'étranges motifs imprimés dans le ciel que l'on peut détecter quand on observe la distribution des galaxies dans l'univers avec une grande précision. Quand on les projette sur la sphère céleste, ces motifs ressemblent à des petits cercles entourés d'immenses anneaux, similaires à ceux créés par un caillou jeté dans un étang. Ces anneaux sont difficiles à détecter et se chevauchent, mais le plus surprenant c'est qu'ils ont tous la même taille caractéristique (que les astronomes appellent ***échelle acoustique***).
