@@ -249,6 +249,10 @@ constraining low-redshift structure growth.
 
 ### Les supernovae thermonucléaires
 
+- Les ***supernovae thermonucléaires*** (aussi appelées ***supernovae de type Ia***) sont des phénomènes résultant de l’explosion de naines blanches situées dans des couples stellaires.
+> Dans de tels systèmes, la naine blanche (constituée majoritairement de carbone et d’oxygène) accumule de la matière provenant de sa partenaire à sa surface. Cette accumulation a lieu jusqu’à ce que la naine blanche atteigne une masse critique de 1,4 masse solaire (la ***masse de Chandrasekhar***). À ce moment-là, on pense que des réactions de fusion du carbone se déclenchent dans son cœur et s’emballent en quelques secondes à peine, provoquant une explosion thermonucléaire qui oblitère complètement cette dernière.
+- La durée de ce type d’explosion est de l’ordre d’un mois, durée pendant laquelle la luminosité de la SNIa augmente puis diminue jusqu’à disparaitre dans la nuit. À son pic de luminosité, une SNIa peut être aussi brillante qu’une galaxie tout entière.
+
 Type Ia Supernovae: Type Ia supernovae, produced by the thermonuclear explosions of
 white dwarfs, exhibit 10-15% scatter in peak luminosity after correction for light curve
 duration (the time to rise and fall) and color (which is a diagnostic of dust extinction).
