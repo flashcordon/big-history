@@ -75,6 +75,8 @@ matter (CDM) paradigm
 - [Studies of dark energy with x-ray observatories](https://www.pnas.org/doi/10.1073/pnas.0914905107) - Vikhlinin (2010)
 - [Dark energy two decades after: Observables, probes, consistency tests](https://arxiv.org/abs/1709.01091) - Huterer et Chafer (2017)
 - [Découverte de l'accélération de l'expansion de l'Univers](https://cosmology.education/decouverte-acceleration-expansion/distance-luminosite/#!) - Lucas Gautheron
+- [Cosmology with cosmic shear observations: a review]( https://iopscience.iop.org/article/10.1088/0034-4885/78/8/086901) – Kilbinger (2015)
+[Cisaillement cosmique](https://www.college-de-france.fr/agenda/seminaire/amas-de-galaxies-et-grandes-structures-de-univers/cisaillement-cosmique) – Collège de France
 
 ---
 
@@ -284,7 +286,7 @@ constraining low-redshift structure growth.
 
 ![BAO](https://insidetheperimeter.ca/wp-content/uploads/2021/05/test-DESI_Baryon_Acoustic_Oscillation.png)
 
-### Le cisaillement gravitationnel
+### L'effet de lentille gravitationnelle faible
 
 Weak Gravitational Lensing: Gravitational light bending by a clustered distribution
 of matter shears the shapes of higher redshift background galaxies in a spatially
@@ -297,6 +299,53 @@ l’analyse des déformations de très nombreuses galaxies,
 de déterminer le cisaillement (« shear ») dû à l’effet
 gravitationnel de l’amas, et de reconstituer la distribution
 de matière dans les amas
+
+Weak gravitational lensing is bending of light by
+structures in the Universe; it leads to distorted or
+sheared images of distant galaxies
+This distortion allows the distribution
+of dark matter and its evolution with time to be
+measured, thereby probing the influence of dark energy
+on the growth of structure
+Gravitational lensing produces distortions of
+images of background galaxies
+The statistical signal due to gravitational lensing
+by large-scale structure is termed “cosmic shear.” To
+estimate the cosmic shear field at a given point in the
+sky, we locally average the shapes of large numbers
+of distant galaxies. The principal statistical measure
+of cosmic shear is the shear angular power spectrum,
+which chiefly depends on the source galaxy redshift
+zs, and additional information can be obtained by
+measuring the correlations between shears at different
+redshifts or with foreground lensing galaxies, as well
+as the three-point correlation function of cosmic shear
+Additional information is obtained by measuring the
+shear correlations between objects in different redshift
+bins; this is referred to as weak lensing tomography
+[229] and contains further useful information about the
+evolution of the growth of structure.
+The dark energy sensitivity of the shear angular
+power spectrum comes from two factors:
+• geometry — the Hubble parameter, the angular
+diameter distance, and the weight function W (z);
+and
+• growth of structure — via the redshift evolution
+of the matter power spectrum P (k) (more
+Current surveys cover more modest hundreds
+of deg2, although KIDS (450, and soon to be up to
+1,500 deg2 [237]), Dark Energy Survey (about 1,500
+and soon to be 5,000 deg2 [251]) and Hyper Suprime-
+Cam (HSC; expected to be 1,500 deg2 [252]) are aiming
+to bring weak lensing to the forefront of dark energy
+constraints.
+Cisaillement ?
+– Détecté au début des années 90 autour des amas.
+– Cisaillement cosmique détecté en 2000 (équipe de
+l'IAP + autres
+L'effet de cisaillement cosmique, qui a été mesuré pour la première fois en 2000, se manifeste par des déformations des images des galaxies sous l'effet de la gravitation des amas de matière. Il permet notamment de cartographier la matière noire mais également de déterminer comment l'énergie sombre affecte la toile cosmique.
+
+
 
 ### Les amas de galaxies
 
