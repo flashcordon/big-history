@@ -314,6 +314,9 @@ SNe Ia are not perfect standard candles;
 their peak magnitudes exhibit a scatter of ∼ 0.3 mag,
 limiting their usefulness as distance indicators.
 
+*Courbe de luminosité d'un échantillon de SN Ia. Crédit : Huterer et Schafer (2018). [Source](https://astrobites.org/2019/02/18/type-ia-supernovae-could-use-some-more-color/)*
+
+![SNIa](https://astrobites.org/wp-content/uploads/2020/01/Screen-Shot-2020-01-03-at-3.30.49-PM-1080x469.png)
 
 ### Les oscillations acoustiques des baryons
 
