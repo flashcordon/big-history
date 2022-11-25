@@ -74,6 +74,7 @@ matter (CDM) paradigm
 - [LES AMAS DE GALAXIES EN LUMIERE VISIBLE ET EN RAYONS X](http://www.astrosurf.com/thizy/rochelle2009/doc/2009oct27E%20Amas%20de%20Galaxies%20(Florence%20Durret).pdf) - Florence Durret (2009)
 - [Studies of dark energy with x-ray observatories](https://www.pnas.org/doi/10.1073/pnas.0914905107) - Vikhlinin (2010)
 - [Dark energy two decades after: Observables, probes, consistency tests](https://arxiv.org/abs/1709.01091) - Huterer et Chafer (2017)
+- [Découverte de l'accélération de l'expansion de l'Univers](https://cosmology.education/decouverte-acceleration-expansion/distance-luminosite/#!) - Lucas Gautheron
 
 ---
 
