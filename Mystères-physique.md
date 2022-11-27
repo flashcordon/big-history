@@ -77,6 +77,9 @@ matter (CDM) paradigm
 - [Découverte de l'accélération de l'expansion de l'Univers](https://cosmology.education/decouverte-acceleration-expansion/distance-luminosite/#!) - Lucas Gautheron
 - [Cosmology with cosmic shear observations: a review]( https://iopscience.iop.org/article/10.1088/0034-4885/78/8/086901) – Kilbinger (2015)
 [Cisaillement cosmique](https://www.college-de-france.fr/agenda/seminaire/amas-de-galaxies-et-grandes-structures-de-univers/cisaillement-cosmique) – Collège de France
+- [How Does DARK ENERGY Change the CMB Temperature? | The Integrated Sachs-Wolfe Effect](https://youtu.be/F3XOz1dR9YA) - Chris Pattison
+- [Faster walk on the dark side](https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/2006/faster.html) - NASA
+- [L’effet Sachs-Wolfe intégré ou la traversée des grandes structures](http://public.planck.fr/outils/astrophysique/effet-sachs-wolfe-integre-isw) - Planck HFI
 
 ---
 
@@ -180,6 +183,7 @@ rejection of the cosmological constant “null hypothesis,” would be a major b
 in cosmology and fundamental physics.
 
 - L'énergie sombre représente 68% du contenu en masse et en énergie de l'univers (source : Planck ?)
+- La découverte de ce phénomène a d'ailleurs valu le prix Nobel de physique en 2011 à trois chercheurs : Saul Perlmutter, Brian P. Schmidt et Adam G. Riess.
 
 ## Que sait-on de l'énergie sombre aujourd'hui ?
 
@@ -236,6 +240,76 @@ remain to be explored
 
 ### Les anisotropies du CMB
 
+-  the physics of the CMB takes place
+in the early universe, well before dark energy becomes
+important. 
+
+Dark energy two decades after 19
+Figure 9. Constraints on cosmological parameters from our analysis of current data from three principal probes: SN Ia (JLA [203];
+blue), BAO (BOSS DR12 [30]; green), and CMB (Planck 2015 [74]; red). We show constraints on Ωm and constant w (left panel)
+and on w0 and wa in the parametrization from (17), marginalized over Ωm (right panel). The contours contain 68.3%, 95.4%, and
+99.7% of the likelihood, and we assume a flat universe in both cases.
+crowave background at first appears disappointingly
+insensitive to dark energy. This na ̈ıve expectation is
+borne out because the physics of the CMB takes place
+in the early universe, well before dark energy becomes
+important. There, baryons and photons are coupled
+due to the Coulomb coupling between protons and elec-
+trons and the Thomson scattering between electrons
+and photons. This coupling leads to coherent oscilla-
+tions, which in turn manifest themselves as wiggles in
+the observed power in the distribution of the hot and
+cold spots on the microwave sky. The angular power
+spectrum that describes the statistical distribution of
+the temperature anisotropies (see the lower left panel
+in figure 5) therefore has rich structure that can be
+fully predicted as a function of cosmological parame-
+ters to sub-percent-level accuracy. The angular power
+spectrum is a superb source of information about, not
+only the inflationary parameters, but also dark matter
+and even, as we discuss here, dark energy.
+Dark energy affects the distance to the epoch
+of recombination, and therefore the angular scale
+at which the CMB fluctuations are observed.
+
+Given that the physics of the CMB
+takes place at the redshift of recombination when
+dark energy is presumably completely negligible, the
+physical structure of CMB fluctuations is unaffected
+by dark energy
+
+dark energy affects the angle at which the features are
+observed — that is, the horizontal location of the CMB
+angular power spectrum peaks.
+
+ the CMB essentially constrains the comoving
+distance to recombination with the physical matter
+density ΩmH2
+0 fixed
+
+Another, much weaker, effect of dark energy on
+the CMB power spectrum is through the late-time
+Integrated Sachs Wolfe (ISW) effect [220, 221]. The
+ISW is due to the change in the depth of the potential
+wells when the universe is not matter dominated.
+One such epoch — the early-time ISW effect —
+occurs around recombination when radiation is not
+yet completely negligible. The late-time ISW effect
+occurs when dark energy becomes important at z . 1.
+The late-time ISW produces additional power in the
+CMB power spectrum at very large angular scales —
+multipoles . 20, corresponding to scales larger than
+about 10 degrees on the sky
+
+effet Sachs-Wolfe intégré (uo ISW, pour Integrated Sachs-Wolf)
+L'énergie sombre “applatit” les potentiels gravitationnels
+→ Les photons du FDC sont afectés
+
+gravitational interaction of CMB photons with time-varying potentials
+• sensitive to the growth of structures
+
+Ce nom est inspiré de celui de l'effet Sachs-Wolfe, qui donne la valeur des fluctuations de température observées depuis une zone en tenant compte des effets de décalage vers le rouge dus à celle-ci (une zone plus chaude est souvent plus dense, et les photons perdent de l'énergie en s'échappant de celle-ci, ce qui dans certains cas contrebalance leur excès d'énergie). 
+
 Cosmic Microwave Background Anisotropies: Although CMB anisotropies provide limited
 information about dark energy on their own, CMB constraints on the geometry, matter
 content, and radiation content of the Universe play a critical role in dark energy studies
@@ -249,6 +323,28 @@ Secondary anisotropies, including the
 Integrated Sachs-Wolfe effect, the Sunyaev-Zel’dovich (SZ, [23]) effect, and gravitational
 lensing of primary anisotropies, provide additional information about dark energy by
 constraining low-redshift structure growth.
+
+For the largest structures in the Universe (such as a supercluster of galaxies), dark energy will have a noticeable effect on the energy of a CMB photon crossing through its gravitational well. The photon gets a boost in energy when entering the gravitational well. Normally, the photon would lose that extra energy as it climbs back out of the well. However, dark energy stretches, and slightly squashes, the gravitational well over the time it takes the photon to travel across large structures. It takes less energy for the photon to escape the well than it received on the way into the well. So the exiting photon keeps a portion of that extra energy.
+
+This illustration shows how the Sachs-Wolfe effect works. As a photon from the cosmic microwave background enters the potential well of a supercluster of galaxies, it starts with a certain energy. As it travels through the supercluster, the photon gains energy until it is at the bottom of the potential well. In the absence of dark energy, the photon would lose all of its gained energy on its trip out of the potential well of the supercluster. However, dark energy will cause the supercluster to expand, slightly shrinking the potential well. The exiting photon will retain some of the energy it gained on its trip through the supercluster. (Image credit: NASA's Cosmic Times)
+
+When astronomers look across the sky, the spectrum of the CMB will be slightly different in regions where those photons have crossed gravitational wells that have been shrinking.
+
+Qu’est-ce l’effet ISW ?
+
+C’est un effet à grande échelle qui a dû déformer la plus ancienne image de l’univers. Cet effet est en effet théoriquement détectable dans le rayonnement fossile qui traverse, avant de nous parvenir, un certain nombre de grandes structures de l'Univers (galaxies et amas de galaxies, mais aussi des énormes vides). Du fait de leur masse, chacune de ces grandes structures génèrent un "potentiel gravitationnel" susceptible d'exercer une influence sur tout autre corps présent à proximité. En particulier, les photons du rayonnement fossile gagnent de l'énergie en tombant dans ces puits gravitationnels, et en perdent lorsqu'ils s'en extraient.
+
+Dans un univers sans énergie sombre, ces deux actions se compensent de telle sorte que l'énergie d'un photon reste inchangée après traversée d'une grande structure. Par contre, l'accélération de l'expansion (et donc l'énergie sombre) a pour effet d'étirer et d'"aplatir" ces potentiels pendant le passage des photons. En effet, même pour de la lumière, il faut des centaines de millions d’années pour les traverser, et donc l’expansion de l’univers a le temps de se fait sentir, du moins un petit peu… Ainsi les photons vont gagner plus d’énergie en tombant dans le puits de potentiel qu’ils ne vont en dépenser pour en sortir. Cela a pour conséquence de fournir une certaine énergie supplémentaire à ces photons du rayonnement fossile, qui va dépendre des caractéristiques de l'énergie sombre : c'est l'effet ISW.
+
+
+
+Il laisse donc une trace dans la température du rayonnement fossile, mais celle-ci est trop tenue pour être détectée dans la carte directement. Heureusement, cette signature est fortement corrélée avec la distribution de la matière dans l'Univers, dont les potentiels gravitationnels sont justement responsables de l'effet ISW.
+
+Il suffit alors de posséder une carte de cette distribution, même juste une partie du ciel (par exemple : un relevé de plusieurs milliers de galaxies), et de réaliser une "corrélation croisée" avec le rayonnement fossile pour mettre en évidence les similitudes entre ces deux cartes. Les caractéristiques de cette corrélation nous renseignent sur la nature et les propriétés de l'énergie sombre, et peuvent même être utilisées pour discriminer les différents modèles envisagés pour celle-ci.
+
+*Illustration de l'effet Sachs-Wolfe intégré. Crédit : NASA's Cosmic Times [Source](https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/2006/faster.html)*
+
+![ISW](https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/2006/images/sachs_wolfe_illustration.gif)
 
 ### Les supernovae thermonucléaires
 
