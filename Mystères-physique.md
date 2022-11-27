@@ -250,6 +250,7 @@ Figure 9. Constraints on cosmological parameters from our analysis of current da
 blue), BAO (BOSS DR12 [30]; green), and CMB (Planck 2015 [74]; red). We show constraints on Ωm and constant w (left panel)
 and on w0 and wa in the parametrization from (17), marginalized over Ωm (right panel). The contours contain 68.3%, 95.4%, and
 99.7% of the likelihood, and we assume a flat universe in both cases.
+
 crowave background at first appears disappointingly
 insensitive to dark energy. This na ̈ıve expectation is
 borne out because the physics of the CMB takes place
@@ -288,29 +289,6 @@ distance to recombination with the physical matter
 density ΩmH2
 0 fixed
 
-Another, much weaker, effect of dark energy on
-the CMB power spectrum is through the late-time
-Integrated Sachs Wolfe (ISW) effect [220, 221]. The
-ISW is due to the change in the depth of the potential
-wells when the universe is not matter dominated.
-One such epoch — the early-time ISW effect —
-occurs around recombination when radiation is not
-yet completely negligible. The late-time ISW effect
-occurs when dark energy becomes important at z . 1.
-The late-time ISW produces additional power in the
-CMB power spectrum at very large angular scales —
-multipoles . 20, corresponding to scales larger than
-about 10 degrees on the sky
-
-effet Sachs-Wolfe intégré (uo ISW, pour Integrated Sachs-Wolf)
-L'énergie sombre “applatit” les potentiels gravitationnels
-→ Les photons du FDC sont afectés
-
-gravitational interaction of CMB photons with time-varying potentials
-• sensitive to the growth of structures
-
-Ce nom est inspiré de celui de l'effet Sachs-Wolfe, qui donne la valeur des fluctuations de température observées depuis une zone en tenant compte des effets de décalage vers le rouge dus à celle-ci (une zone plus chaude est souvent plus dense, et les photons perdent de l'énergie en s'échappant de celle-ci, ce qui dans certains cas contrebalance leur excès d'énergie). 
-
 Cosmic Microwave Background Anisotropies: Although CMB anisotropies provide limited
 information about dark energy on their own, CMB constraints on the geometry, matter
 content, and radiation content of the Universe play a critical role in dark energy studies
@@ -320,22 +298,11 @@ angular location of the acoustic peaks, measurements of Ωmh2 and Ωbh2 from t
 of the peaks, and normalization of the amplitude of matter fluctuations at zrec from the
 amplitude of the CMB fluctuations themselves.
 
-Secondary anisotropies, including the
-Integrated Sachs-Wolfe effect, the Sunyaev-Zel’dovich (SZ, [23]) effect, and gravitational
-lensing of primary anisotropies, provide additional information about dark energy by
-constraining low-redshift structure growth.
-
-For the largest structures in the Universe (such as a supercluster of galaxies), dark energy will have a noticeable effect on the energy of a CMB photon crossing through its gravitational well. The photon gets a boost in energy when entering the gravitational well. Normally, the photon would lose that extra energy as it climbs back out of the well. However, dark energy stretches, and slightly squashes, the gravitational well over the time it takes the photon to travel across large structures. It takes less energy for the photon to escape the well than it received on the way into the well. So the exiting photon keeps a portion of that extra energy.
-
-This illustration shows how the Sachs-Wolfe effect works. As a photon from the cosmic microwave background enters the potential well of a supercluster of galaxies, it starts with a certain energy. As it travels through the supercluster, the photon gains energy until it is at the bottom of the potential well. In the absence of dark energy, the photon would lose all of its gained energy on its trip out of the potential well of the supercluster. However, dark energy will cause the supercluster to expand, slightly shrinking the potential well. The exiting photon will retain some of the energy it gained on its trip through the supercluster. (Image credit: NASA's Cosmic Times)
-
-When astronomers look across the sky, the spectrum of the CMB will be slightly different in regions where those photons have crossed gravitational wells that have been shrinking.
-
 - L'énergie sombre laisse une autre trace, plus subtile, dans les anisotropies de température du CMB.
 - Cette trace est générée au cours du voyage des photons du CMB depuis leur source jusqu'à nous.
-> * Les grandes structures cosmiques comme les amas de galaxies courbent l'espace-temps autour d'eux et génèrent des puits de potentiel gravitationnel. Lorsqu'un photon du CMB traverse un amas de galaxies, il tombe dans le puits de potentiel. Et à la manière d'une bille qui est accélérée lorsqu'elle roule dans une cuvette, le photon gagne de l'énergie. Autrement dit, il bleuit (sa longueur d'onde est décalée vers le bleu). Et parce qu'émerger du puits gravitationnel est coûteux en énergie, le photon perd de l'énergie lorsqu'il quitte l'amas de galaxies. Autrement dit, il rougit. En règle générale, comme l’énergie se conserve, les deux effets se compensent, et le photon à la sortie de l’amas possède la même longueur d’onde qu’avant son arrivée. Ce phénomène a été théorisé en 1967 par les astronomes Rainer Kurt Sachs et Arthur Michael Wolfe et porte aujourd'hui le nom d'***effet Sachs-Wolfe***. Dans un univers dominé par l'énergie sombre, la situation est légèrement différente. Lorsque le photon pénètre dans l’amas de galaxies, il rougit comme avant. Cependant, la structure est si vaste (il faut des centaines de millions d’années à un photon pour la traverser) qu’elle subit les effets de l’accélération de l’expansion cosmique. Ces effets se traduisent par une inflation de l’amas de galaxies, et donc par un « aplatissement » du puits de potentiel gravitationnel. Autrement dit, la forme de la cuvette évolue dans le temps. Elle est moins profonde qu’avant. Dans ce cas de figure, le photon bleui qui émerge de l’amas est moins rougi que dans la situation précédente. Lorsqu’il arrive dans nos détecteurs, le photon sera donc légèrement décalé vers le bleu par rapport à sa longueur d’onde de départ. On appelle ce phénomène l’***effet Sachs-Wolfe intégré*** (ou effet ISW, pour Integrated Sachs-Wolfe).
+> * Les grandes structures cosmiques comme les amas de galaxies courbent l'espace-temps autour d'eux et génèrent des puits de potentiel gravitationnel. Lorsqu'un photon du CMB traverse un amas de galaxies, il tombe dans le puits de potentiel. Et à la manière d'une bille qui est accélérée lorsqu'elle roule dans une cuvette, le photon gagne de l'énergie. Autrement dit, il bleuit (sa longueur d'onde est décalée vers le bleu). Et parce qu'émerger du puits gravitationnel est coûteux en énergie, le photon perd de l'énergie lorsqu'il quitte l'amas de galaxies. Autrement dit, il rougit. En règle générale, comme l’énergie se conserve, les deux effets se compensent, et le photon à la sortie de l’amas possède la même longueur d’onde qu’avant son arrivée. Ce phénomène a été théorisé en 1967 par les astronomes Rainer Kurt Sachs et Arthur Michael Wolfe et porte aujourd'hui le nom d'***effet Sachs-Wolfe***. Dans un univers dominé par l'énergie sombre (z < 1), la situation est légèrement différente. Lorsque le photon pénètre dans l’amas de galaxies, il rougit comme avant. Cependant, la structure est si vaste (il faut des centaines de millions d’années à un photon pour la traverser) qu’elle subit les effets de l’accélération de l’expansion cosmique. Ces effets se traduisent par une inflation de l’amas de galaxies, et donc par un « aplatissement » du puits de potentiel gravitationnel. Autrement dit, la forme de la cuvette évolue dans le temps. Elle est moins profonde qu’avant. Dans ce cas de figure, le photon bleui qui émerge de l’amas est moins rougi que dans la situation précédente. Lorsqu’il arrive dans nos détecteurs, le photon sera donc légèrement décalé vers le bleu par rapport à sa longueur d’onde de départ. On appelle ce phénomène l’***effet Sachs-Wolfe intégré*** (ou effet ISW, pour Integrated Sachs-Wolfe).
 > * À noter que la traversée d’un vide cosmique produit aussi un effet Sachs-Wolfe intégré, mais qu’il fonctionne dans l’autre sens. Le photon rougit en arrivant dans le vide, et bleuit à sa sortie.
-- Lorsqu’on cartographie la distribution de la matière dans une région du ciel et qu’on corrèle cette carte avec la carte des anisotropies du CMB dans la même direction du ciel (on fait ce qu’on appelle une ***corrélation croisée***), on peut donc en tirer des indices sur la nature et les propriétés de l’énergie sombre.
+- Lorsqu’on cartographie la distribution de la matière dans une région du ciel et qu’on corrèle cette carte avec la carte des anisotropies du CMB dans la même direction du ciel (on fait ce qu’on appelle une ***corrélation croisée***), on peut donc en tirer des indices sur la nature et les propriétés de l’énergie sombre (à travers son effet sur la croissance des grands structures).
 
 *Illustration de l'effet Sachs-Wolfe intégré. Crédit : NASA's Cosmic Times [Source](https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/2006/faster.html)*
 
