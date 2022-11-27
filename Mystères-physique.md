@@ -241,65 +241,9 @@ remain to be explored
 
 ### Les anisotropies du CMB
 
--  the physics of the CMB takes place
-in the early universe, well before dark energy becomes
-important. 
-
-Dark energy two decades after 19
-Figure 9. Constraints on cosmological parameters from our analysis of current data from three principal probes: SN Ia (JLA [203];
-blue), BAO (BOSS DR12 [30]; green), and CMB (Planck 2015 [74]; red). We show constraints on Ωm and constant w (left panel)
-and on w0 and wa in the parametrization from (17), marginalized over Ωm (right panel). The contours contain 68.3%, 95.4%, and
-99.7% of the likelihood, and we assume a flat universe in both cases.
-
-crowave background at first appears disappointingly
-insensitive to dark energy. This na ̈ıve expectation is
-borne out because the physics of the CMB takes place
-in the early universe, well before dark energy becomes
-important. There, baryons and photons are coupled
-due to the Coulomb coupling between protons and elec-
-trons and the Thomson scattering between electrons
-and photons. This coupling leads to coherent oscilla-
-tions, which in turn manifest themselves as wiggles in
-the observed power in the distribution of the hot and
-cold spots on the microwave sky. The angular power
-spectrum that describes the statistical distribution of
-the temperature anisotropies (see the lower left panel
-in figure 5) therefore has rich structure that can be
-fully predicted as a function of cosmological parame-
-ters to sub-percent-level accuracy. The angular power
-spectrum is a superb source of information about, not
-only the inflationary parameters, but also dark matter
-and even, as we discuss here, dark energy.
-Dark energy affects the distance to the epoch
-of recombination, and therefore the angular scale
-at which the CMB fluctuations are observed.
-
-Given that the physics of the CMB
-takes place at the redshift of recombination when
-dark energy is presumably completely negligible, the
-physical structure of CMB fluctuations is unaffected
-by dark energy
-
-dark energy affects the angle at which the features are
-observed — that is, the horizontal location of the CMB
-angular power spectrum peaks.
-
- the CMB essentially constrains the comoving
-distance to recombination with the physical matter
-density ΩmH2
-0 fixed
-
-Cosmic Microwave Background Anisotropies: Although CMB anisotropies provide limited
-information about dark energy on their own, CMB constraints on the geometry, matter
-content, and radiation content of the Universe play a critical role in dark energy studies
-when combined with low redshift probes. In particular, CMB data supply measurements
-of θs = rs/DA,c(zrec), the angular size of the sound horizon at recombination, from the
-angular location of the acoustic peaks, measurements of Ωmh2 and Ωbh2 from the heights
-of the peaks, and normalization of the amplitude of matter fluctuations at zrec from the
-amplitude of the CMB fluctuations themselves.
-
-- L'énergie sombre laisse une autre trace, plus subtile, dans les anisotropies de température du CMB.
-- Cette trace est générée au cours du voyage des photons du CMB depuis leur source jusqu'à nous.
+-	Le CMB a été émis à une époque où la contribution de l’énergie sombre dans l’évolution cosmique était négligeable.
+-	Par contre, l’analyse statistique des anisotropies de température du CMB (à travers son spectre de puissance) permet de contraindre les paramètres du modèle standard de la cosmologie avec une précision inférieure au pourcent. En effet, l’énergie sombre affecte la distance (comobile) qui nous sépare de l’époque de la recombinaison, et donc les échelles angulaires auxquelles les fluctuations de températures du CMB sont observées. Ces échelles se traduisent dans la position horizontale des pics dans le spectre de puissance.
+- L'énergie sombre laisse une autre trace, plus subtile, dans les anisotropies de température du CMB, générée cette fois-ci au cours du voyage des photons du CMB depuis leur source jusqu'à nous.
 > * Les grandes structures cosmiques comme les amas de galaxies courbent l'espace-temps autour d'eux et génèrent des puits de potentiel gravitationnel. Lorsqu'un photon du CMB traverse un amas de galaxies, il tombe dans le puits de potentiel. Et à la manière d'une bille qui est accélérée lorsqu'elle roule dans une cuvette, le photon gagne de l'énergie. Autrement dit, il bleuit (sa longueur d'onde est décalée vers le bleu). Et parce qu'émerger du puits gravitationnel est coûteux en énergie, le photon perd de l'énergie lorsqu'il quitte l'amas de galaxies. Autrement dit, il rougit. En règle générale, comme l’énergie se conserve, les deux effets se compensent, et le photon à la sortie de l’amas possède la même longueur d’onde qu’avant son arrivée. Ce phénomène a été théorisé en 1967 par les astronomes Rainer Kurt Sachs et Arthur Michael Wolfe et porte aujourd'hui le nom d'***effet Sachs-Wolfe***. Dans un univers dominé par l'énergie sombre (z < 1), la situation est légèrement différente. Lorsque le photon pénètre dans l’amas de galaxies, il rougit comme avant. Cependant, la structure est si vaste (il faut des centaines de millions d’années à un photon pour la traverser) qu’elle subit les effets de l’accélération de l’expansion cosmique. Ces effets se traduisent par une inflation de l’amas de galaxies, et donc par un « aplatissement » du puits de potentiel gravitationnel. Autrement dit, la forme de la cuvette évolue dans le temps. Elle est moins profonde qu’avant. Dans ce cas de figure, le photon bleui qui émerge de l’amas est moins rougi que dans la situation précédente. Lorsqu’il arrive dans nos détecteurs, le photon sera donc légèrement décalé vers le bleu par rapport à sa longueur d’onde de départ. On appelle ce phénomène l’***effet Sachs-Wolfe intégré*** (ou effet ISW, pour Integrated Sachs-Wolfe).
 > * À noter que la traversée d’un vide cosmique produit aussi un effet Sachs-Wolfe intégré, mais qu’il fonctionne dans l’autre sens. Le photon rougit en arrivant dans le vide, et bleuit à sa sortie.
 - Lorsqu’on cartographie la distribution de la matière dans une région du ciel et qu’on corrèle cette carte avec la carte des anisotropies du CMB dans la même direction du ciel (on fait ce qu’on appelle une ***corrélation croisée***), on peut donc en tirer des indices sur la nature et les propriétés de l’énergie sombre (à travers son effet sur la croissance des grands structures).
