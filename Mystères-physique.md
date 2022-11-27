@@ -80,6 +80,7 @@ matter (CDM) paradigm
 - [How Does DARK ENERGY Change the CMB Temperature? | The Integrated Sachs-Wolfe Effect](https://youtu.be/F3XOz1dR9YA) - Chris Pattison
 - [Faster walk on the dark side](https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/2006/faster.html) - NASA
 - [L’effet Sachs-Wolfe intégré ou la traversée des grandes structures](http://public.planck.fr/outils/astrophysique/effet-sachs-wolfe-integre-isw) - Planck HFI
+- [RayGal : une nouvelle simulation du cosmos pour percer les secrets de l'énergie noire](https://www.futura-sciences.com/sciences/actualites/cosmologie-raygal-nouvelle-simulation-cosmos-percer-secrets-energie-noire-94917/) - Futura Sciences (2022)
 
 ---
 
@@ -341,6 +342,14 @@ Dans un univers sans énergie sombre, ces deux actions se compensent de telle so
 Il laisse donc une trace dans la température du rayonnement fossile, mais celle-ci est trop tenue pour être détectée dans la carte directement. Heureusement, cette signature est fortement corrélée avec la distribution de la matière dans l'Univers, dont les potentiels gravitationnels sont justement responsables de l'effet ISW.
 
 Il suffit alors de posséder une carte de cette distribution, même juste une partie du ciel (par exemple : un relevé de plusieurs milliers de galaxies), et de réaliser une "corrélation croisée" avec le rayonnement fossile pour mettre en évidence les similitudes entre ces deux cartes. Les caractéristiques de cette corrélation nous renseignent sur la nature et les propriétés de l'énergie sombre, et peuvent même être utilisées pour discriminer les différents modèles envisagés pour celle-ci.
+
+au niveau des amas de galaxies et des vides cosmiques, c'est une autre histoire. Nous savons que l'expansion impacte leur formation et leur dynamique et que cela donne un phénomène observable dans le rayonnement fossile, appelé effet Sachs-Wolfe intégré en l'honneur de Rainer Kurt Sachs et Arthur Michael Wolfe qui l'ont découvert théoriquement en 1967.
+
+Lorsqu'un photon traverse une zone où règne un champ de gravitation lié à une distribution masse particulière, par exemple un amas de galaxies (galaxy cluster, en anglais, comme le montre la vidéo ci-dessous), il tombe en quelque sorte dans une cuvette d'énergie potentielle. Sa longueur d'onde est décalée vers le bleu car il gagne de l'énergie au fur et à mesure qu'il chute vers le centre de la cuvette. Inversement, lorsqu'il remonte la cuvette, sa longueur d'onde est décalée vers le rouge car il perd de l'énergie. La situation est identique à celle d'une bille gagnant de l'énergie cinétique aux dépens de l'énergie potentielle lorsqu'elle chute dans une cuvette, et en perdant lorsqu'elle en remonte la paroi.
+
+Normalement, la conservation de l'énergie fait qu'en sortant de la cuvette de potentiel, le photon sortant a les mêmes caractéristiques que le photon entrant. Tout change dans un Univers en expansion, et surtout en expansion accélérée lorsqu'on considère un photon traversant un amas de galaxies.
+
+À ce niveau, de l'énergie noire peut contrecarrer l'effondrement d'un amas ou simplement ralentir la formation de celui-ci. Dans tous les cas, la cuvette évolue au cours du temps. Elle se creuse ou au contraire devient moins profonde. Ce faisant, l'énergie d'un photon sortant ne sera pas la même que lorsqu'il est entré dans la cuvette. Lorsqu'une structure s'effondre, le photon y perd de l'énergie et émerge donc décalé vers le rouge. Inversement, si la structure est en expansion, la cuvette devient moins profonde et le photon émerge décalé vers le bleu.
 
 *Illustration de l'effet Sachs-Wolfe intégré. Crédit : NASA's Cosmic Times [Source](https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/2006/faster.html)*
 
