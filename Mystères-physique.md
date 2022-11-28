@@ -117,34 +117,10 @@ matter (CDM) paradigm
 
 ## Que sait-on de l'énergie sombre aujourd'hui ?
 
- In summary, there are a few important
-things to know about dark energy:
-• Dark energy has negative pressure. It can
-be described by its present-day energy density
-relative to critical Ωde and equation of state
-w ≡ pde/ρde. For a cosmological constant,
-corresponding to vacuum energy, w = −1 precisely
-and at all times. More general explanations for
-dark energy typically lead to a time-dependent
-equation of state.
-• Current observational data constrain the equation
-of state to be w ≈ −1 to within about 5%.
-Measuring w and any time dependence — as
-well as searching for hints of any other, as yet
-unseen, properties of dark energy — will help us
-understand the physical nature of this mysterious
-component, a key goal of modern cosmology.
-• Dark energy is spatially smooth. It quenches the
-gravitational collapse of large-scale structures and
-suppresses the growth of density perturbations;
-whenever dark energy dominates, structures do
-not grow.
-• Only relatively recently (z . 0.5) has dark
-energy come to dominate the energy budget of
-the universe. At earlier epochs, the dark energy
-density is small relative to that of matter and
-radiation, although a ∼1% contribution by dark
-energy at early times is still allowed by the data.
+- Les différentes contraintes observationnelles actuelles tendent vers w ~ -1 (à 5% près).
+- Les prochains relevés astronomiques vont permettre d'étudier la variation temporelle (hypothétique) de la contribution de l'énergie sombre
+- L'énergie sombre ne domine le contenu énergétique de l'univers que depuis relativement récemment (z ~ 0.5)
+
 • Dark energy affects both the geometry (distances
 in the universe) and the growth of structure
 (clustering and abundance of galaxies and galaxy
@@ -164,87 +140,6 @@ observationally measuring dark energy reflects a
 vibrant field with many fruitful avenues that still
 remain to be explored
 
-
-Une des options possibles pour caractériser
-l'énergie noire est d'adopter une attitude mini-
-maliste, même si elle est incomplète, en supposant
-que cette composante se comporte comme un
-fluide parfait. Comme tout indique que notre
-univers est homogène et isotrope à très grande
-échelle, cette hypothèse est somme toute plutôt
-raisonnable. Dans ce cas, l’équation d'état
-reliant sa pression P à sa densité d’énergie ρ
-peut s'écrire sous la forme P = w ρ, comme
-celle de la matière noire ordinaire (w = 0) ou
-celle des photons (w = 1/3). Pour l'énergie
-noire, l'éventail des valeurs de ce paramètre est
-assez vaste et il pourrait même évoluer au
-cours du temps. S'il s'agit cependant d'une
-constante cosmologique, alors w vaut -1 et est
-constant.S'il s'agissait par contre d'une composante
-de type cordes cosmiques, alors on aurait
-w = -1/3. 
-
-Si l’on exclut Einstein qui avait en son
-temps suggéré l’hypothèse d’une constante
-cosmologique pour de mauvaises raisons
-(il cherchait à rendre l’Univers statique),
-les chercheurs se sont longtemps accordés
-à dire que les observations de notre cosmos
-pouvaient toutes être interprétées en ne
-faisant appel qu’à de la matière et à une
-faible quantité de rayonnement. L’expansion
-de notre Univers était connue depuis 1929,
-lorsque l’astronome Edwin Hubble constata
-que les galaxies s’éloignent toutes les unes
-des autres. Sous l’effet attractif de la gravité,
-cette expansion de l’espace semblait ne
-pouvoir que ralentir. Cette conviction est
-brusquement ébranlée en 1998, quand
-deux équipes indépendantes étudient des
-supernovae lointaines précisément dans le
-but de mesurer ce ralentissement et
-démontrent, sans ambiguïté, que l’expansion
-de notre Univers allait au contraire en
-s’accélérant.
-
-Tentons de comprendre ce dont il s’agit.
-Les supernovae thermonucléaires ou SNIa
-(par opposition aux supernovae gravita-
-tionnelles ou SNII, plus fréquentes, issues
-d’étoiles massives s’effondrant sur elles-
-mêmes), trouvent leurs précurseurs dans
-les systèmes stellaires constitués d’une
-étoile peu dense, telle une géante rouge,
-et d’une naine blanche, petit astre ayant
-achevé sa phase de combustion nucléaire.
-La supernova résulte de l’explosion cata-
-clysmique de la naine blanche lorsque sa
-masse devient trop importante, suite à
-l’accrétion de la matière provenant de
-l’étoile compagnon, pour que l’équilibre
-gravité-pression soit maintenu. L’explosion
-se produisant à une masse prédéfinie de
-1,4 fois la masse du Soleil, la luminosité
-émise est rigoureusement déterminée et la
-mesure de la luminosité observée est donc
-un indicateur direct de la distance de l’objet
-(d’après la loi de décroissance du flux
-comme l’inverse du carré de la distance).
-Par ailleurs, des observations spectrosco-
-piques permettent de déterminer le
-décalage spectral z = (λreçu - λémis)/λémis
-entre les longueurs d’onde λ reçue et
-émise, communément appelé “redshift”
-de la supernova. En effet, conséquence
-directe de l’expansion de l’Univers, les raies
-d’absorption caractéristiques des éléments
-chimiques qui composent étoiles et galaxies
-apparaissent à des longueurs d’onde décalées
-vers le rouge par rapport à celles qu’on leur
-connaît en laboratoire, de façon analogue
-à l’effet Doppler pour le son lors du
-déplacement relatif entre émetteur et
 récepteur. Pour les supernovae les plus
 proches, on retrouve la fameuse loi de
 Hubble, relation linéaire entre redshift et
@@ -270,27 +165,6 @@ supernovae ont toutefois indiqué une
 accélération et non une décélération de cette
 expansion, impliquant une révision en pro-
 fondeur de notre compréhension du cosmos.
-
-En cosmologie, c’est la révolution, et
-trois prix Nobel (Brian Schmidt et Adam
-Riess pour le projet High-z Supernova
-Search Team, et Saul Perlmutter pour le
-Supernova Cosmology Project [1]) viennent
-immédiatement couronner cette surprenante
-découverte. Mais tout reste encore à com-
-prendre. Faut-il développer une nouvelle
-théorie de la gravité qui ne se réduirait à la
-relativité générale que dans certaines
-limites particulières, ou considérer une forme
-d’énergie nouvelle, baptisée « énergie noire »,
-de pression négative et agissant sur l’espace
-comme on pourrait imaginer que le ferait
-une gravité répulsive ? Cette énergie noire
-est-elle de densité constante pendant toute
-l’histoire de l’Univers, à l’instar de la
-constante cosmologique qu’Einstein avait
-introduite dans ses équations, ou est-ce une
-forme plus complexe d’énergie ?
 
 L’information cosmologique la plus
 précise se trouverait dans l’étude de la
