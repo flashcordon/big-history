@@ -235,268 +235,6 @@ observationally measuring dark energy reflects a
 vibrant field with many fruitful avenues that still
 remain to be explored
 
-## Comment sonder les propriétés de l'énergie noire à l'aide de nos observations
-
-- There are two main observable manifestations of dark energy: The first is its effect on the expansion rate of the Universe as a whole, which can be probed through the distance-redshift relation using “standard candles” such as type Ia supernovae, or standard rulers such as baryonic acoustic oscillations in the large-scale distribution of galaxies (4). This broad class of cosmological observations is often referred to as “geometric” methods. The second effect is the impact of dark energy on the rate of growth of large-scale structures. As the Universe enters the accelerated expansion phase around z ≈ 0.8, it is expected that the rate of structure growth slows down.
-
-### Les anisotropies du CMB
-
--	Le CMB a été émis à une époque où la contribution de l’énergie sombre dans l’évolution cosmique était négligeable.
--	Par contre, l’analyse statistique des anisotropies de température du CMB (à travers son spectre de puissance) permet de contraindre les paramètres du modèle standard de la cosmologie avec une précision inférieure au pourcent. En effet, l’énergie sombre affecte la distance (comobile) qui nous sépare de l’époque de la recombinaison, et donc les échelles angulaires auxquelles les fluctuations de températures du CMB sont observées. Ces échelles se traduisent dans la position horizontale des pics dans le spectre de puissance.
-- L'énergie sombre laisse une autre trace, plus subtile, dans les anisotropies de température du CMB, générée cette fois-ci au cours du voyage des photons du CMB depuis leur source jusqu'à nous.
-> * Les grandes structures cosmiques comme les amas de galaxies courbent l'espace-temps autour d'eux et génèrent des puits de potentiel gravitationnel. Lorsqu'un photon du CMB traverse un amas de galaxies, il tombe dans le puits de potentiel. Et à la manière d'une bille qui est accélérée lorsqu'elle roule dans une cuvette, le photon gagne de l'énergie. Autrement dit, il bleuit (sa longueur d'onde est décalée vers le bleu). Et parce qu'émerger du puits gravitationnel est coûteux en énergie, le photon perd de l'énergie lorsqu'il quitte l'amas de galaxies. Autrement dit, il rougit. En règle générale, comme l’énergie se conserve, les deux effets se compensent, et le photon à la sortie de l’amas possède la même longueur d’onde qu’avant son arrivée. Ce phénomène a été théorisé en 1967 par les astronomes Rainer Kurt Sachs et Arthur Michael Wolfe et porte aujourd'hui le nom d'***effet Sachs-Wolfe***. Dans un univers dominé par l'énergie sombre (z < 1), la situation est légèrement différente. Lorsque le photon pénètre dans l’amas de galaxies, il rougit comme avant. Cependant, la structure est si vaste (il faut des centaines de millions d’années à un photon pour la traverser) qu’elle subit les effets de l’accélération de l’expansion cosmique. Ces effets se traduisent par une inflation de l’amas de galaxies, et donc par un « aplatissement » du puits de potentiel gravitationnel. Autrement dit, la forme de la cuvette évolue dans le temps. Elle est moins profonde qu’avant. Dans ce cas de figure, le photon bleui qui émerge de l’amas est moins rougi que dans la situation précédente. Lorsqu’il arrive dans nos détecteurs, le photon sera donc légèrement décalé vers le bleu par rapport à sa longueur d’onde de départ. On appelle ce phénomène l’***effet Sachs-Wolfe intégré*** (ou effet ISW, pour Integrated Sachs-Wolfe).
-> * À noter que la traversée d’un vide cosmique produit aussi un effet Sachs-Wolfe intégré, mais qu’il fonctionne dans l’autre sens. Le photon rougit en arrivant dans le vide, et bleuit à sa sortie.
-- Lorsqu’on cartographie la distribution de la matière dans une région du ciel et qu’on corrèle cette carte avec la carte des anisotropies du CMB dans la même direction du ciel (on fait ce qu’on appelle une ***corrélation croisée***), on peut donc en tirer des indices sur la nature et les propriétés de l’énergie sombre (à travers son effet sur la croissance des grands structures).
-
-*Illustration de l'effet Sachs-Wolfe intégré. Crédit : NASA's Cosmic Times [Source](https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/2006/faster.html)*
-
-![ISW](https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/2006/images/sachs_wolfe_illustration.gif)
-
-### Les supernovae thermonucléaires
-
-- Les ***supernovae thermonucléaires*** (aussi appelées ***supernovae de type Ia***, ou SNIa) sont des phénomènes résultant de l’explosion de naines blanches situées dans des couples stellaires.
-> Dans de tels systèmes, la naine blanche (constituée majoritairement de carbone et d’oxygène) accumule de la matière provenant de sa partenaire à sa surface. Cette accumulation a lieu jusqu’à ce que la naine blanche atteigne une masse critique de 1,4 masse solaire (la ***masse de Chandrasekhar***). À ce moment-là, on pense que des réactions de fusion du carbone se déclenchent dans son cœur et s’emballent en quelques secondes à peine, provoquant une explosion thermonucléaire qui oblitère complètement cette dernière.
-- La durée de ce type d’explosion est de l’ordre d’un mois, durée pendant laquelle la luminosité de la SNIa augmente puis diminue jusqu’à disparaitre dans la nuit. À son pic de luminosité, une SNIa peut être aussi brillante qu’une galaxie tout entière.
-- Les SNIa sont très utiles pour les cosmologistes puisqu’elles constituent des ***chandelles standards***, c’est-à-dire des objets (idéaux) dont la luminosité intrinsèque est toujours la même, et qui servent donc à estimer les distances dans l’univers.
-> Si on connaît la luminosité intrinsèque d’un objet, il suffit de mesurer sa luminosité apparente pour en déduire la distance (de luminosité) grâce à la ***loi en carré inverse***. 
-- Une fois que l’on a mesuré la distance de luminosité d’une SNIa, on peut obtenir son redshift pour un modèle cosmologique donné à l’aide de la ***relation distance-redshift***. Observer la luminosité apparente d’un échantillon de SNIa permet donc d’obtenir des informations sur l’histoire de l’expansion de l’univers.
-- En pratique, les SNIa ne sont pas des chandelles standard parfaites : à leur pic, la luminosité d’un échantillon de ces explosions présente des différences de l’ordre de 10-15% (après correction de la durée de l’explosion et de sa couleur). Ces différences limitent la précision à laquelle les distances cosmiques sont inférées. 
-- On recense aujourd’hui des milliers de SNIa, dont près d’un millier sont utilisées à des fins cosmologiques.
-> Ce sont des événements relativement rares. En moyenne, dans une galaxie typique, il se produit une SNIa tous les 100 ans environs.
-
-*Courbe de luminosité d'un échantillon de SN Ia. Crédit : Huterer et Schafer (2018). [Source](https://astrobites.org/2019/02/18/type-ia-supernovae-could-use-some-more-color/)*
-
-![SNIa](https://astrobites.org/wp-content/uploads/2020/01/Screen-Shot-2020-01-03-at-3.30.49-PM-1080x469.png)
-
-### Les oscillations acoustiques des baryons
-
-- La méthode la plus précise actuellement utilisée pour mesurer l'histoire de l'expansion de l'univers fait appel à d'étranges motifs imprimés dans le ciel que l'on peut détecter quand on observe la distribution des galaxies dans l'univers avec une grande précision. Quand on les projette sur la sphère céleste, ces motifs ressemblent à des petits cercles entourés d'immenses anneaux, similaires à ceux créés par un caillou jeté dans un étang. Ces anneaux sont difficiles à détecter et se chevauchent, mais le plus surprenant c'est qu'ils ont tous la même taille caractéristique (que les astronomes appellent ***échelle acoustique***).
-- Ces motifs sont dus à un phénomène physique assez insolite : les  ***oscillations acoustiques des baryons*** (ou BAO, pour Baryonic Acoustic Oscillations)
-- La signature des BAO dans la répartition des galaxies a été mise en évidence pour la première fois en 2005 par deux équipes indépendantes d'astronomes associés aux relevés SDSS (Sloan Digital Sky Survey, au Nouveau Mexique) et 2dFGRS (2dF Galaxy Redshift Survey, en Australie).
-> Ils ont montré que les anneaux ont une taille caractéristique de 500 millions d'années-lumière (150 Mpc) dans l'univers actuel. Autrement dit, si on observe une galaxie quelque part dans l’univers, on a (un peu) plus de chance de trouver une autre galaxie située à 500 millions d’années-lumière d’elle qu’une galaxie à 400 ou à 600 millions d’années-lumière. 
-- Pour comprendre l'origine de ces motifs, il faut revenir aux conditions de l'univers primordial.
-> Pendant les premières centaines de milliers d'années qui ont suivi le Big Bang, l'univers était un plasma chaud composé de photons, de protons, d'électrons et de matière noire qui interagissaient sans cesse. Ce plasma avait beau être extrêmement homogène, de petites surdensités de matière noire apparaissaient quand même en permanence. Attirée par la gravité de ces petits amas de matière noire, la matière ordinaire (dite "baryonique") tentait de s'accumuler, mais le rayonnement ambiant avait tendance à s'opposer à cette accumulation (à noter que la matière noire n'interagit pas avec la lumière, donc elle peut former des amas sans problème). Ces deux processus antagonistes ont généré des ondes de pressions qui se déplacent à la vitesse du son (170 000 km/s) dans ce plasma ultra-dense. Ces ondes de pression sont littéralement des ondes sonores de différentes intensités qui se déplacent dans toutes les directions. Dans cette cacophonie, certaines longueurs d'onde sont plus amplifiées que d'autres. La "note" la plus amplifiée possède une longueur d'onde d'un million d'années-lumière environ, ce qui représente une fréquence 48 octaves plus basses que la note la plus grave sur un piano ! Mais lorsque le cosmos atteint l’âge de 380 000 ans, la température du rayonnement primordial passe sous la barre des 3000 K (2700°C environ), et les électrons peuvent enfin se lier aux protons pour former les premiers atomes. Le plasma primordial est devenu un gaz d’atomes électriquement neutres. La lumière cesse alors d’interagir avec la matière et peut se balader dans l’espace à l’infini. Le cosmos, initialement opaque, devient alors transparent. C’est ***l’époque de la recombinaison***. À ce moment, la cacophonie s’arrête. Les ondes sonores sont soudainement figées à une certaine distance caractéristique des surdensités de matière noire. C’est comme si on avait soudainement gelé la surface de l’étang. Ces surdensités sont les graines à partir desquelles se formeront les premières galaxies et autres grandes structures de l’univers. Les empreintes des ondes sonores en forme de coquilles sphériques, quant à elles, vont se mettre à enfler au fil de l’expansion cosmique, à la matière d’un cercle dessiné à la surface d’un ballon de baudruche que l’on gonfle. 13,8 milliards d’années plus tard, on pourra les observer sous la forme d’un léger surnombre de galaxies au niveau  de ces coquilles, et d’une très légère tendance de ces galaxies à être alignées le long de leur surface.
-- Le phénomène des BAO lie de manière quantitative les anisotropies observées dans le CMB et les motifs d'anneaux observés dans la distribution spatiale des galaxies
-> En effet, les BAO sont responsables des pics observés dans le ***spectre de puissance*** (à définir) du CMB. Ces derniers correspondent aux longueurs d'onde sonores les plus amplifiées dans le plasma primordial.
-- En mesurant la taille de ces anneaux à différentes époques de l’univers, à l’aide de relevés astronomiques très fins, et en liant ces anneaux aux conditions initiales fournies par les anisotropies du CMB, on peut donc reconstruire l’histoire de l’expansion cosmique avec une grande précision.
-- L'empreinte des BAO sert de ***règle standard*** aux astronomes, c’est-à-dire que ces anneaux sont des objets dont on connaît la taille réelle. Quand on mesure leur diamètre apparent dans le ciel, comme on connaît leur taille on peut donc déterminer leur distance.
-- Le grand relevé astronomique BOSS (Baryon Oscillation Spectroscopic Survey), qui fait partie du 3e relevé SDSS, et dont les données ont été acquises entre 2009 et 2014, constitue à ce jour la mesure la plus précise des anneaux produits par les BAO. À travers l’étude spectroscopique de plus d’un million de galaxies, les astronomes ont pu mesurer ces « règles standard » avec une précision d’1% sur une période qui couvre les 6 derniers milliards d’années de l’évolution cosmique (il y a une vingtaine d’années à peine, cette précision n’était que de 50% !).
-- Un instrument fondamental pour détecter la signature des BAO dans les années à venir est DESI (Dark Energy Spectroscopic Instrument, "instrument spectroscopique pour l'énergie noire"), installé sur le télescope Mayall de 4 mètres de l'Observatoire National de Kitt Peak (Arizona) et capable de mesurer 5000 spectres de galaxies simultanément
-> En 2021, une collaboration internationale de 50 institutions dirigée par le Berkeley Lab a débuté un programme d'observation de 5 ans avec DESI qui devrait l'amener à cartographier la position de plus de 30 millions de galaxies dans le ciel de l'hémisphère Nord, dont près de 2,4 millions de quasars. Couvrant les 11 derniers milliards d’années de l’histoire de l’univers, il pourra atteindre des profondeurs que BOSS ne pouvait pas atteindre, et permettra l'étude la plus fine de l'histoire de l'expansion cosmique jamais produite.      	      	      
-
-*(Illustration des BAO. Crédit: Gabriela Secara, Institut Périmètre [Source](https://insidetheperimeter.ca/fr/desi-launches-five-year-quest-to-understand-the-universe/))*
-
-![BAO](https://insidetheperimeter.ca/wp-content/uploads/2021/05/test-DESI_Baryon_Acoustic_Oscillation.png)
-
-### L'effet de lentille gravitationnelle faible
-
--	Lorsque des rayons de lumière provenant de galaxies très lointaines traversent l’espace-temps déformé aux abords d’une grosse concentration de matière (un amas de galaxies) située entre les sources et l’observateur, on observe des images distordues des galaxies lointaines, comme si ces dernières étaient vues à travers la lentille d’une loupe. Ce phénomène est dû à l’***effet de lentille gravitationnelle***.
--	L’effet de lentille gravitationnelle peut même produire de multiples images de la source en arrière-plan. On parle alors de ***lentillage fort***. Celui-ci requiert un alignement particulier entre la source, la concentration de matière et l’observateur, ainsi que des distances relatives particulières. 
-	Les lentilles gravitationnelles fortes peuvent générer d’étranges mirages gravitationnels, tels que les croix ou les anneaux d’Einstein.
--	***cisaillement*** (shear)
--	***cisaillement cosmique*** (cosmic shear). Pour l’estimer, on mesure la forme d’un grand échantillon de galaxies lointaines dans une région du ciel donné, et on calcule la déformation moyenne de ces galaxies produite par l’effet de lentilles gravitationnelles.
-	Le cisaillement cosmique a été mesuré pour la première fois en 2000 par une équipe internationale d’astronomes incluant des chercheurs de l’IAP, grâce à l’étude des données du Canada France Hawaii Telescope (CFHT).
--	L’effet de lentilles gravitationnelles faible permet de reconstruire la distribution de matière noire dans les amas de galaxies et de suivre l’évolution de ces structures dans le temps (en observant le lentillage faible de ces galaxies lointaines à différents redshifts), ce qui permet de sonder l’influence de l’énergie sombre sur le taux de croissance des structures cosmiques.
--	De nombreux relevés astronomiques font de la mesure du cisaillement cosmique une priorité dans les années à venir. C’est notamment le cas du Dark Energy Survey (DES) et du Hyper Suprime-Cam Subaru Strategic Program (HSC-SSP)
-
-Weak Gravitational Lensing: Gravitational light bending by a clustered distribution
-of matter shears the shapes of higher redshift background galaxies in a spatially
-coherent manner, producing a correlated pattern of apparent ellipticities. By studying
-the weak lensing signal for source galaxies binned by photometric redshift (estimated
-from broad-band colors), one can probe the history of structure growth.
-
-L’effet de lentille gravitationnelle FAIBLE permet, par
-l’analyse des déformations de très nombreuses galaxies,
-de déterminer le cisaillement (« shear ») dû à l’effet
-gravitationnel de l’amas, et de reconstituer la distribution
-de matière dans les amas
-
-Weak gravitational lensing is bending of light by
-structures in the Universe; it leads to distorted or
-sheared images of distant galaxies
-This distortion allows the distribution
-of dark matter and its evolution with time to be
-measured, thereby probing the influence of dark energy
-on the growth of structure
-Gravitational lensing produces distortions of
-images of background galaxies
-The statistical signal due to gravitational lensing
-by large-scale structure is termed “cosmic shear.” To
-estimate the cosmic shear field at a given point in the
-sky, we locally average the shapes of large numbers
-of distant galaxies. The principal statistical measure
-of cosmic shear is the shear angular power spectrum,
-which chiefly depends on the source galaxy redshift
-zs, and additional information can be obtained by
-measuring the correlations between shears at different
-redshifts or with foreground lensing galaxies, as well
-as the three-point correlation function of cosmic shear
-Additional information is obtained by measuring the
-shear correlations between objects in different redshift
-bins; this is referred to as weak lensing tomography
-[229] and contains further useful information about the
-evolution of the growth of structure.
-The dark energy sensitivity of the shear angular
-power spectrum comes from two factors:
-• geometry — the Hubble parameter, the angular
-diameter distance, and the weight function W (z);
-and
-• growth of structure — via the redshift evolution
-of the matter power spectrum P (k) (more
-Current surveys cover more modest hundreds
-of deg2, although KIDS (450, and soon to be up to
-1,500 deg2 [237]), Dark Energy Survey (about 1,500
-and soon to be 5,000 deg2 [251]) and Hyper Suprime-
-Cam (HSC; expected to be 1,500 deg2 [252]) are aiming
-to bring weak lensing to the forefront of dark energy
-constraints.
-Cisaillement ?
-– Détecté au début des années 90 autour des amas.
-– Cisaillement cosmique détecté en 2000 (équipe de
-l'IAP + autres
-L'effet de cisaillement cosmique, qui a été mesuré pour la première fois en 2000, se manifeste par des déformations des images des galaxies sous l'effet de la gravitation des amas de matière. Il permet notamment de cartographier la matière noire mais également de déterminer comment l'énergie sombre affecte la toile cosmique.
-
-*Illustration de l'effet de lentilles gravitationnelles faible. Crédit : Michael Sachs. [Source](https://en.wikipedia.org/wiki/Weak_gravitational_lensing#/media/File:Gravitational-lensing-3d.png)*
-
-![weak-lensing](https://upload.wikimedia.org/wikipedia/commons/b/b9/Gravitational-lensing-3d.png)
-
-### Les amas de galaxies
-
-- Les amas de galaxies sont les plus grandes structures liées par gravité dans l'Univers.
-> Ils ont des tailles de l'ordre du million d'années-lumière (Mpc) et des masses de l'ordre du million de milliards de masses solaires (10^15 Msol)
-- Les galaxies ne constituent que quelques pourcents de la masse totale d'un amas. Celles-ci baignent en effet dans un gaz très chaud (comprimé à 10-100 millions de degrés sous l'action de la gravité) et très peu dense, et ce gaz représente 80-90% de la masse baryonique d'un amas. De plus, la masse totale de l'amas est largement dominée par la matière noire qui la compose (combien ?)
-- Quand on observe les amas de galaxies en rayons X, ceux-ci apparaissent comme des sources diffuses et étendues. Ce qu'on voit dans ces longueurs d'onde, c'est la contribution du gaz intergalactique surchauffé. 
-> On ne peut pas observer les rayons X depuis des observatoires au sol, puisque ces longueurs d'onde sont absorbées par l'atmosphère terrestre. On doit donc avoir recours à des observatoires spatiaux comme Chandra ou XMM-Newton pour ce genre d'études.
-- Pour les amas dits "relaxés" (ie en équilibre dynamique), la distribution spatiale de ce gaz est très fortement corrélée avec la distribution de la matière noire qui compose en grande partie
-> Les amas relaxés constituent une minorité dans la population des amas de galaxies. 
-- La formation des amas de galaxies dépend à la fois de la composition de l'univers (et donc des propriétés de la matière noire : Ω_m), de l'histoire de la formation des structures cosmiques (encapsulé dans σ8, l'amplitude des fluctuations de matière) et de l'histoire de l'expansion de l'univers (et donc des propriétés de l'énergie sombre : Ω_Λ, ω)
-> En recensant les gros amas de galaxies "relaxés" dans l'univers, on peut comparer les nombres d'amas observés en fonction de leur distance (redshift) et les abondances prédites par différents scénarios d'évolution et de composition cosmique (issues de simulations cosmologiques), et ainsi inférer les propriétés de l'énergie sombre qui collent le mieux aux observations (Ω_Λ, ω) 
-- À partir de l'observation d'un amas en rayons X, on peut calculer sa masse baryonique (car la luminosité X est proportionnelle au carré de la densité de gaz qui émet ces rayons X) et sa température. Et à partir d'un profil de densité théorique, si l'on fait l'hypothèse que le gaz est en équilibre hydrostatique dans le puits de potentiel de l'amas (ie l'amas ne présente pas de sous-structure et n'est pas en train de fusionner avec d'autres amas), alors on peut calculer la masse totale de l'amas en fonction du rayon, puis en intégrant sur le profil la masse totale de l'amas. On peut alors obtenir la ***fraction de gaz*** des amas (notée f_gas(z)), définie comme le rapport de la masse de gaz (mesurée via l'émission de rayons X) sur la masse totale de l'amas (galaxies + gaz intergalactique + matière noire)
-> * Une autre manière d'obtenir la masse totale d'un amas est d'utiliser l'effet de lentilles gravitationnelle.
-- Au milieu des années 90, les astronomes se sont rendus compte qu'ils pouvaientaussi utiliser les observations en rayons X des amas comme indicateurs de distance de ces amas, ce qui leur ont permis de tester les prédictions du modèle ΛCDM et en particulier de contraindre les propriétés de l'énergie sombre
-> * Il faut pour cela supposer que les amas de galaxies sont des objets si vastes et si massifs que leur composition matérielle, notamment le rapport entre matière baryonique et matière noire est représentative de la composition matérielle de l'univers tout entier.
-> * La fraction de gaz est corrélée avec la distance de l'amas, et cette distance dépend elle-même de la quantité de matière noire et d'énergie sombre dans l'univers. Comme la fraction de gaz doit être à peu près la même sur tous les amas de galaxies, en mesurant la fraction de gaz dans plein d'amas on doit pouvoir trouver les paramètres cosmologiques qui donnent les distances d'amas "correctes".
-- Les données actuelles issues de l'observation des amas de galaxies fournissent une confirmation indépendante que l'expansion de l'univers est bien accélérée, et elles montrent que les propriétés de l'énergie sombre sont très proches d'une constante cosmologique
-- Le télescope spatial Euclid de l'ESA, qui sera lancé en 2023, a pour mission de produire dans les années à venir l'un des catalogues d'amas de galaxies les plus fournis et les plus profonds de tous les temps, ce qui permettra aux astronomes de mieux contraindre les propriétés de l'énergie sombre.  
-
-*Emission de rayons X du gaz chaud de 4 amas de galaxies, photographiée par le télescope spatial Chandra. Crédit : X-ray: NASA/CXC/Univ. of Alabama/A. Morandi et al; Optical: SDSS, NASA/STScI. [Source](https://www.nasa.gov/mission_pages/chandra/probing-dark-energy-with-galaxy-clusters.html)*
-
-![xraychandra](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/clusters.jpg)
-
-### La détermination directe du taux d'expansion cosmique
-
-Direct Determination of H0: The value of H0 sets the current value of the critical density
-ρc = 3H2
-0 /8πGN, and combination with CMB measurements provides a long lever arm
-for constraining the evolution of dark energy. The challenge in direct H0 measurements is
-establishing distances to galaxies that are far enough away that their peculiar velocities
-are small compared to the expansion velocity v = H0d. This can be done by building
-a ladder of distance indicators tied to stellar parallax on its lowest rung, or by using
-gravitational lens time delays or geometrical measurements of maser data to circumvent
-this ladder
-
-A still more ambitious period begins late in this decade and continues through the
-2020s, with experiments that include the Dark Energy Spectroscopic Instrument (DESI),
-the Subaru Prime Focus Spectrograph (PFS), the Large Synoptic Survey Telescope
-(LSST), and the space missions Euclid and WFIRST (Wide Field Infrared Survey
-Telescope). DESI and PFS both aim for major improvements in the precision of BAO,
-RSD, and other measurements of galaxy clustering in the redshift range 0.8 < z < 2,
-where large comoving volume allows much smaller cosmic variance errors than low
-redshift surveys like BOSS. LSST will be the ultimate ground-based optical weak lensing
-experiment, measuring several billion galaxy shapes over 20,000 deg2 of the southern
-hemisphere sky, and it will detect and monitor many thousands of SNe per year. Euclid
-and WFIRST also have weak lensing as a primary science goal, taking advantage of the
-high angular resolution and extremely stable image quality achievable from space. Both
-missions plan large spectroscopic galaxy surveys, which will provide better sampling at
-high redshifts than DESI or PFS because of the lower infrared sky background above
-the atmosphere. WFIRST is also designed to carry out what should be the ultimate
-supernova cosmology experiment, with deep, high resolution, near-IR observations and
-the stable calibration achievable with a space platform.
-
-Performance forecasts necessarily become more uncertain the further ahead we
-look, but collectively these experiments are likely to achieve 1–2 order of magnitude
-improvements over the precision of current expansion and growth measurements, while
-simultaneously extending their redshift range, improving control of systematics, and
-enabling much tighter cross-checks of results from entirely independent methods. The
-critical clue to the origin of cosmic acceleration could also come from a surprising
-direction, such as laboratory or solar system tests that challenge GR, time variation
-of fundamental “constants,” or anomalous behavior of gravity in some astronomical
-environments. Experimental advances along these multiple axes could confirm today’s
-relatively simple, but frustratingly incomplete, “standard model” of cosmology, or they
-could force yet another radical revision in our understanding of energy, or gravity, or the
-spacetime structure of the Universe.
-
-Lentilles gravitationnelles
-
-La relativité générale proposée par Einstein
-en 1915 est une théorie de la gravitation dont
-la validité est aujourd’hui confortée par l’accord
-entre ses prédictions et tous les tests expéri-
-mentaux. La gravitation étant une interaction à
-longue portée, elle constitue la clef de voûte de
-notre description de l'Univers à grande échelle
-et sert de cadre général à l'interprétation des
-observations astronomiques. Une de ses pré-
-dictions les plus remarquables est la déflexion
-des rayons lumineux lorsqu'ils croisent des
-concentrations de matière au cours de leur
-propagation. Ce phénomène de “lentille
-gravitationnelle” illustre qu'en relativité générale
-les photons suivent des géodésiques d'un
-espace-temps courbe dont les déformations
-sont localement déterminées par les concentra-
-tions de matière. En modifiant la propagation
-des photons, les objets astronomiques nous
-apparaissent déplacés sur le ciel par rapport à
-leur position réelle, en l’absence de déflexion
-gravitationnelle (voir figure 1). La mesure de
-la déflexion de rayons lumineux des étoiles
-observées près du bord du Soleil lors de
-l'éclipsede1919compteparmilessuccèshistoriques
-des prédictions d'Einstein.
-
-Comme l'avait perçu
-l'astronome Fritz Zwicky dès les années 1930,
-c'est ici que se trouve l'intérêt astrophysique
-des lentilles gravitationnelles : elles peuvent
-nous servir de véritable balance cosmique, une
-sonde à distance permettant de mesurer la
-masse contenue dans les condensations de
-matière distribuées dans l'univers. Ce qui est
-remarquable, c'est que pour mesurer les masses
-il suffit de connaître les distances de la source
-et de la lentille ainsi que leurs positions apparentes
-sur le ciel. À aucun moment, l'état dynamique
-de la lentille ou les propriétés thermodynamiques
-des gaz la constituant n'interviennent. C'est un
-effet très pur, qui est parfaitement décrit par les
-équations de la relativité générale.
-L'intuition de Fritz Zwicky fut confirmée
-au cours des trente dernières années, après la
-découverte du premier quasar à image multiple
-(1979), puis du premier arc gravitationnel
-(1987). Dans ces deux cas, les astronomes ont
-découvert des configurations spécifiques de len-
-tilles gravitationnelles reflétant certaines de leurs
-remarquables propriétés : amplification de la
-lumière de la source, démultiplication de ses
-images, altération de sa forme apparente.
-
-grâce aux défor-
-mations gravitationnelles des galaxies lointaines,
-il devient désormais possible de reconstruire la
-distribution de masse d’objets astronomiques
-aussi complexes que les amas de galaxies.
-
-Une analyse
-statistique permet ainsi de reconstruire le profil
-de la distribution de masse du déflecteur, en
-produisant une cartographie des « distorsions
-gravitationnelles » qui répond à celle de la
-distribution de la matière noire. Cette matière
-noire peut donc être « vue », comme la limaille
-de fer sur une feuille de papier « voit » le champ
-magnétique d'un aimant placé au-dessous.
 
 Une des options possibles pour caractériser
 l'énergie noire est d'adopter une attitude mini-
@@ -516,24 +254,7 @@ cours du temps. S'il s'agit cependant d'une
 constante cosmologique, alors w vaut -1 et est
 constant.S'il s'agissait par contre d'une composante
 de type cordes cosmiques, alors on aurait
-w = -1/3. Dans tous les cas, la distribution des
-fluctuations de densité, caractérisée par le
-champ de distorsion gravitationnelle, sera
-différente suivant la valeur de w.
-Tout comme la matière noire, certaines de
-ces propriétés peuvent donc être décryptées
-au travers du spectre de fluctuations tracé
-directement par les effets de distorsion gravita-
-tionnelle. Mais contrairement à l'étude d'un
-amas de galaxies, il faut cette fois analyser les
-déformations gravitationnelles accumulées par
-toutes les structures traversées le long d'une
-ligne de visée, puis conduire l'analyse sur une très
-vaste partie du ciel pour explorer les fluctuations
-à chaque échelle et reconstruire le spectre
-complet de densité. Une fois recomposé, il est
-alors comparé aux prédictions théoriques
-d'une panoplie de scenarii cosmologiques.
+w = -1/3. 
 
 Si l’on exclut Einstein qui avait en son
 temps suggéré l’hypothèse d’une constante
@@ -929,8 +650,141 @@ grand nombre de galaxies observées, soit
 plusieurs dizaines de milliards à la fin du
 projet.
 
+## Comment sonder les propriétés de l'énergie noire à l'aide de nos observations
 
+- There are two main observable manifestations of dark energy: The first is its effect on the expansion rate of the Universe as a whole, which can be probed through the distance-redshift relation using “standard candles” such as type Ia supernovae, or standard rulers such as baryonic acoustic oscillations in the large-scale distribution of galaxies (4). This broad class of cosmological observations is often referred to as “geometric” methods. The second effect is the impact of dark energy on the rate of growth of large-scale structures. As the Universe enters the accelerated expansion phase around z ≈ 0.8, it is expected that the rate of structure growth slows down.
 
+### Les anisotropies du CMB
+
+-	Le CMB a été émis à une époque où la contribution de l’énergie sombre dans l’évolution cosmique était négligeable.
+-	Par contre, l’analyse statistique des anisotropies de température du CMB (à travers son spectre de puissance) permet de contraindre les paramètres du modèle standard de la cosmologie avec une précision inférieure au pourcent. En effet, l’énergie sombre affecte la distance (comobile) qui nous sépare de l’époque de la recombinaison, et donc les échelles angulaires auxquelles les fluctuations de températures du CMB sont observées. Ces échelles se traduisent dans la position horizontale des pics dans le spectre de puissance.
+- L'énergie sombre laisse une autre trace, plus subtile, dans les anisotropies de température du CMB, générée cette fois-ci au cours du voyage des photons du CMB depuis leur source jusqu'à nous.
+> * Les grandes structures cosmiques comme les amas de galaxies courbent l'espace-temps autour d'eux et génèrent des puits de potentiel gravitationnel. Lorsqu'un photon du CMB traverse un amas de galaxies, il tombe dans le puits de potentiel. Et à la manière d'une bille qui est accélérée lorsqu'elle roule dans une cuvette, le photon gagne de l'énergie. Autrement dit, il bleuit (sa longueur d'onde est décalée vers le bleu). Et parce qu'émerger du puits gravitationnel est coûteux en énergie, le photon perd de l'énergie lorsqu'il quitte l'amas de galaxies. Autrement dit, il rougit. En règle générale, comme l’énergie se conserve, les deux effets se compensent, et le photon à la sortie de l’amas possède la même longueur d’onde qu’avant son arrivée. Ce phénomène a été théorisé en 1967 par les astronomes Rainer Kurt Sachs et Arthur Michael Wolfe et porte aujourd'hui le nom d'***effet Sachs-Wolfe***. Dans un univers dominé par l'énergie sombre (z < 1), la situation est légèrement différente. Lorsque le photon pénètre dans l’amas de galaxies, il rougit comme avant. Cependant, la structure est si vaste (il faut des centaines de millions d’années à un photon pour la traverser) qu’elle subit les effets de l’accélération de l’expansion cosmique. Ces effets se traduisent par une inflation de l’amas de galaxies, et donc par un « aplatissement » du puits de potentiel gravitationnel. Autrement dit, la forme de la cuvette évolue dans le temps. Elle est moins profonde qu’avant. Dans ce cas de figure, le photon bleui qui émerge de l’amas est moins rougi que dans la situation précédente. Lorsqu’il arrive dans nos détecteurs, le photon sera donc légèrement décalé vers le bleu par rapport à sa longueur d’onde de départ. On appelle ce phénomène l’***effet Sachs-Wolfe intégré*** (ou effet ISW, pour Integrated Sachs-Wolfe).
+> * À noter que la traversée d’un vide cosmique produit aussi un effet Sachs-Wolfe intégré, mais qu’il fonctionne dans l’autre sens. Le photon rougit en arrivant dans le vide, et bleuit à sa sortie.
+- Lorsqu’on cartographie la distribution de la matière dans une région du ciel et qu’on corrèle cette carte avec la carte des anisotropies du CMB dans la même direction du ciel (on fait ce qu’on appelle une ***corrélation croisée***), on peut donc en tirer des indices sur la nature et les propriétés de l’énergie sombre (à travers son effet sur la croissance des grands structures).
+
+*Illustration de l'effet Sachs-Wolfe intégré. Crédit : NASA's Cosmic Times [Source](https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/2006/faster.html)*
+
+![ISW](https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/2006/images/sachs_wolfe_illustration.gif)
+
+### Les supernovae thermonucléaires
+
+- Les ***supernovae thermonucléaires*** (aussi appelées ***supernovae de type Ia***, ou SNIa) sont des phénomènes résultant de l’explosion de naines blanches situées dans des couples stellaires.
+> Dans de tels systèmes, la naine blanche (constituée majoritairement de carbone et d’oxygène) accumule de la matière provenant de sa partenaire à sa surface. Cette accumulation a lieu jusqu’à ce que la naine blanche atteigne une masse critique de 1,4 masse solaire (la ***masse de Chandrasekhar***). À ce moment-là, on pense que des réactions de fusion du carbone se déclenchent dans son cœur et s’emballent en quelques secondes à peine, provoquant une explosion thermonucléaire qui oblitère complètement cette dernière.
+- La durée de ce type d’explosion est de l’ordre d’un mois, durée pendant laquelle la luminosité de la SNIa augmente puis diminue jusqu’à disparaitre dans la nuit. À son pic de luminosité, une SNIa peut être aussi brillante qu’une galaxie tout entière.
+- Les SNIa sont très utiles pour les cosmologistes puisqu’elles constituent des ***chandelles standards***, c’est-à-dire des objets (idéaux) dont la luminosité intrinsèque est toujours la même, et qui servent donc à estimer les distances dans l’univers.
+> Si on connaît la luminosité intrinsèque d’un objet, il suffit de mesurer sa luminosité apparente pour en déduire la distance (de luminosité) grâce à la ***loi en carré inverse***. 
+- Une fois que l’on a mesuré la distance de luminosité d’une SNIa, on peut obtenir son redshift pour un modèle cosmologique donné à l’aide de la ***relation distance-redshift***. Observer la luminosité apparente d’un échantillon de SNIa permet donc d’obtenir des informations sur l’histoire de l’expansion de l’univers.
+- En pratique, les SNIa ne sont pas des chandelles standard parfaites : à leur pic, la luminosité d’un échantillon de ces explosions présente des différences de l’ordre de 10-15% (après correction de la durée de l’explosion et de sa couleur). Ces différences limitent la précision à laquelle les distances cosmiques sont inférées. 
+- On recense aujourd’hui des milliers de SNIa, dont près d’un millier sont utilisées à des fins cosmologiques.
+> Ce sont des événements relativement rares. En moyenne, dans une galaxie typique, il se produit une SNIa tous les 100 ans environs.
+
+*Courbe de luminosité d'un échantillon de SN Ia. Crédit : Huterer et Schafer (2018). [Source](https://astrobites.org/2019/02/18/type-ia-supernovae-could-use-some-more-color/)*
+
+![SNIa](https://astrobites.org/wp-content/uploads/2020/01/Screen-Shot-2020-01-03-at-3.30.49-PM-1080x469.png)
+
+### Les oscillations acoustiques des baryons
+
+- La méthode la plus précise actuellement utilisée pour mesurer l'histoire de l'expansion de l'univers fait appel à d'étranges motifs imprimés dans le ciel que l'on peut détecter quand on observe la distribution des galaxies dans l'univers avec une grande précision. Quand on les projette sur la sphère céleste, ces motifs ressemblent à des petits cercles entourés d'immenses anneaux, similaires à ceux créés par un caillou jeté dans un étang. Ces anneaux sont difficiles à détecter et se chevauchent, mais le plus surprenant c'est qu'ils ont tous la même taille caractéristique (que les astronomes appellent ***échelle acoustique***).
+- Ces motifs sont dus à un phénomène physique assez insolite : les  ***oscillations acoustiques des baryons*** (ou BAO, pour Baryonic Acoustic Oscillations)
+- La signature des BAO dans la répartition des galaxies a été mise en évidence pour la première fois en 2005 par deux équipes indépendantes d'astronomes associés aux relevés SDSS (Sloan Digital Sky Survey, au Nouveau Mexique) et 2dFGRS (2dF Galaxy Redshift Survey, en Australie).
+> Ils ont montré que les anneaux ont une taille caractéristique de 500 millions d'années-lumière (150 Mpc) dans l'univers actuel. Autrement dit, si on observe une galaxie quelque part dans l’univers, on a (un peu) plus de chance de trouver une autre galaxie située à 500 millions d’années-lumière d’elle qu’une galaxie à 400 ou à 600 millions d’années-lumière. 
+- Pour comprendre l'origine de ces motifs, il faut revenir aux conditions de l'univers primordial.
+> Pendant les premières centaines de milliers d'années qui ont suivi le Big Bang, l'univers était un plasma chaud composé de photons, de protons, d'électrons et de matière noire qui interagissaient sans cesse. Ce plasma avait beau être extrêmement homogène, de petites surdensités de matière noire apparaissaient quand même en permanence. Attirée par la gravité de ces petits amas de matière noire, la matière ordinaire (dite "baryonique") tentait de s'accumuler, mais le rayonnement ambiant avait tendance à s'opposer à cette accumulation (à noter que la matière noire n'interagit pas avec la lumière, donc elle peut former des amas sans problème). Ces deux processus antagonistes ont généré des ondes de pressions qui se déplacent à la vitesse du son (170 000 km/s) dans ce plasma ultra-dense. Ces ondes de pression sont littéralement des ondes sonores de différentes intensités qui se déplacent dans toutes les directions. Dans cette cacophonie, certaines longueurs d'onde sont plus amplifiées que d'autres. La "note" la plus amplifiée possède une longueur d'onde d'un million d'années-lumière environ, ce qui représente une fréquence 48 octaves plus basses que la note la plus grave sur un piano ! Mais lorsque le cosmos atteint l’âge de 380 000 ans, la température du rayonnement primordial passe sous la barre des 3000 K (2700°C environ), et les électrons peuvent enfin se lier aux protons pour former les premiers atomes. Le plasma primordial est devenu un gaz d’atomes électriquement neutres. La lumière cesse alors d’interagir avec la matière et peut se balader dans l’espace à l’infini. Le cosmos, initialement opaque, devient alors transparent. C’est ***l’époque de la recombinaison***. À ce moment, la cacophonie s’arrête. Les ondes sonores sont soudainement figées à une certaine distance caractéristique des surdensités de matière noire. C’est comme si on avait soudainement gelé la surface de l’étang. Ces surdensités sont les graines à partir desquelles se formeront les premières galaxies et autres grandes structures de l’univers. Les empreintes des ondes sonores en forme de coquilles sphériques, quant à elles, vont se mettre à enfler au fil de l’expansion cosmique, à la matière d’un cercle dessiné à la surface d’un ballon de baudruche que l’on gonfle. 13,8 milliards d’années plus tard, on pourra les observer sous la forme d’un léger surnombre de galaxies au niveau  de ces coquilles, et d’une très légère tendance de ces galaxies à être alignées le long de leur surface.
+- Le phénomène des BAO lie de manière quantitative les anisotropies observées dans le CMB et les motifs d'anneaux observés dans la distribution spatiale des galaxies
+> En effet, les BAO sont responsables des pics observés dans le ***spectre de puissance*** (à définir) du CMB. Ces derniers correspondent aux longueurs d'onde sonores les plus amplifiées dans le plasma primordial.
+- En mesurant la taille de ces anneaux à différentes époques de l’univers, à l’aide de relevés astronomiques très fins, et en liant ces anneaux aux conditions initiales fournies par les anisotropies du CMB, on peut donc reconstruire l’histoire de l’expansion cosmique avec une grande précision.
+- L'empreinte des BAO sert de ***règle standard*** aux astronomes, c’est-à-dire que ces anneaux sont des objets dont on connaît la taille réelle. Quand on mesure leur diamètre apparent dans le ciel, comme on connaît leur taille on peut donc déterminer leur distance.
+- Le grand relevé astronomique BOSS (Baryon Oscillation Spectroscopic Survey), qui fait partie du 3e relevé SDSS, et dont les données ont été acquises entre 2009 et 2014, constitue à ce jour la mesure la plus précise des anneaux produits par les BAO. À travers l’étude spectroscopique de plus d’un million de galaxies, les astronomes ont pu mesurer ces « règles standard » avec une précision d’1% sur une période qui couvre les 6 derniers milliards d’années de l’évolution cosmique (il y a une vingtaine d’années à peine, cette précision n’était que de 50% !).
+- Un instrument fondamental pour détecter la signature des BAO dans les années à venir est DESI (Dark Energy Spectroscopic Instrument, "instrument spectroscopique pour l'énergie noire"), installé sur le télescope Mayall de 4 mètres de l'Observatoire National de Kitt Peak (Arizona) et capable de mesurer 5000 spectres de galaxies simultanément
+> En 2021, une collaboration internationale de 50 institutions dirigée par le Berkeley Lab a débuté un programme d'observation de 5 ans avec DESI qui devrait l'amener à cartographier la position de plus de 30 millions de galaxies dans le ciel de l'hémisphère Nord, dont près de 2,4 millions de quasars. Couvrant les 11 derniers milliards d’années de l’histoire de l’univers, il pourra atteindre des profondeurs que BOSS ne pouvait pas atteindre, et permettra l'étude la plus fine de l'histoire de l'expansion cosmique jamais produite.      	      	      
+
+*(Illustration des BAO. Crédit: Gabriela Secara, Institut Périmètre [Source](https://insidetheperimeter.ca/fr/desi-launches-five-year-quest-to-understand-the-universe/))*
+
+![BAO](https://insidetheperimeter.ca/wp-content/uploads/2021/05/test-DESI_Baryon_Acoustic_Oscillation.png)
+
+### L'effet de lentille gravitationnelle faible
+
+-	Lorsque des rayons de lumière provenant de galaxies très lointaines traversent l’espace-temps déformé aux abords d’une grosse concentration de matière (dans ce contexte, un amas de galaxies) située entre les sources et l’observateur, on observe des images distordues des galaxies lointaines, comme si ces dernières étaient vues à travers la lentille d’une loupe. Ces distorsions sont dues à l’***effet de lentille gravitationnelle***, un phénomène prédit par la théorie de la relativité générale d’Albert Einstein.
+>	La mesure de la déflexion de rayons lumineux des étoiles observées à proximité du Soleil lors d’une éclipse en 1919 constitue l’une des premières prédictions réussies de la relativité générale.
+-	Dans certaines situations, l’effet de lentille gravitationnelle peut produire de multiples images de la source en arrière-plan. On parle alors de ***lentillage fort***. Celui-ci requiert un alignement particulier entre la source, la concentration de matière et l’observateur, ainsi que des distances relatives particulières entre les 3 parties. 
+>	Les lentilles gravitationnelles fortes peuvent générer d’étranges mirages gravitationnels, tels que les croix ou les anneaux d’Einstein.
+-	Mais dans le contexte de la traque de l’énergie sombre, l’effet qui nous intéresse particulièrement est le ***lentillage faible***, beaucoup plus fréquent, mais plus difficile à observer. Ce dernier crée un aplatissement ainsi qu’un alignement systématique des images des galaxies en arrière-plan qui forment un motif particulier.
+-	On appelle ***cisaillement cosmique*** (cosmic shear) le signal statistique causé par le lentillage faible des amas de galaxies. Pour l’estimer, on mesure la forme d’un grand échantillon de galaxies lointaines dans une région du ciel donné, et on calcule la déformation moyenne de ces galaxies produite par l’effet de lentilles gravitationnelles.
+>	Le cisaillement cosmique a été mesuré pour la première fois en 2000 par une équipe internationale d’astronomes incluant des chercheurs de l’IAP, grâce à l’étude des données du Canada France Hawaii Telescope (CFHT).
+-	L’analyse statistique des déformations causées par l’effet de lentillage faible permet de reconstruire la distribution de matière noire dans les amas de galaxies et de suivre l’évolution de ces structures dans le temps (en observant le lentillage faible de ces galaxies lointaines à différents redshifts), ce qui permet de sonder l’influence de l’énergie sombre sur le taux de croissance des structures cosmiques.
+>	On peut comparer la cartographie de la distribution de la matière noire par cette méthode à la reconstruction des lignes de champ magnétique invisible avec de la limaille de fer
+-	De nombreux relevés astronomiques font de la mesure du cisaillement cosmique une priorité dans les années à venir. C’est notamment le cas du Dark Energy Survey (DES) et du Hyper Suprime-Cam Subaru Strategic Program (HSC-SSP)
+
+*Illustration de l'effet de lentilles gravitationnelles faible. Crédit : Michael Sachs. [Source](https://en.wikipedia.org/wiki/Weak_gravitational_lensing#/media/File:Gravitational-lensing-3d.png)*
+
+![weak-lensing](https://upload.wikimedia.org/wikipedia/commons/b/b9/Gravitational-lensing-3d.png)
+
+### Les amas de galaxies
+
+- Les amas de galaxies sont les plus grandes structures liées par gravité dans l'Univers.
+> Ils ont des tailles de l'ordre du million d'années-lumière (Mpc) et des masses de l'ordre du million de milliards de masses solaires (10^15 Msol)
+- Les galaxies ne constituent que quelques pourcents de la masse totale d'un amas. Celles-ci baignent en effet dans un gaz très chaud (comprimé à 10-100 millions de degrés sous l'action de la gravité) et très peu dense, et ce gaz représente 80-90% de la masse baryonique d'un amas. De plus, la masse totale de l'amas est largement dominée par la matière noire qui la compose (combien ?)
+- Quand on observe les amas de galaxies en rayons X, ceux-ci apparaissent comme des sources diffuses et étendues. Ce qu'on voit dans ces longueurs d'onde, c'est la contribution du gaz intergalactique surchauffé. 
+> On ne peut pas observer les rayons X depuis des observatoires au sol, puisque ces longueurs d'onde sont absorbées par l'atmosphère terrestre. On doit donc avoir recours à des observatoires spatiaux comme Chandra ou XMM-Newton pour ce genre d'études.
+- Pour les amas dits "relaxés" (ie en équilibre dynamique), la distribution spatiale de ce gaz est très fortement corrélée avec la distribution de la matière noire qui compose en grande partie
+> Les amas relaxés constituent une minorité dans la population des amas de galaxies. 
+- La formation des amas de galaxies dépend à la fois de la composition de l'univers (et donc des propriétés de la matière noire : Ω_m), de l'histoire de la formation des structures cosmiques (encapsulé dans σ8, l'amplitude des fluctuations de matière) et de l'histoire de l'expansion de l'univers (et donc des propriétés de l'énergie sombre : Ω_Λ, ω)
+> En recensant les gros amas de galaxies "relaxés" dans l'univers, on peut comparer les nombres d'amas observés en fonction de leur distance (redshift) et les abondances prédites par différents scénarios d'évolution et de composition cosmique (issues de simulations cosmologiques), et ainsi inférer les propriétés de l'énergie sombre qui collent le mieux aux observations (Ω_Λ, ω) 
+- À partir de l'observation d'un amas en rayons X, on peut calculer sa masse baryonique (car la luminosité X est proportionnelle au carré de la densité de gaz qui émet ces rayons X) et sa température. Et à partir d'un profil de densité théorique, si l'on fait l'hypothèse que le gaz est en équilibre hydrostatique dans le puits de potentiel de l'amas (ie l'amas ne présente pas de sous-structure et n'est pas en train de fusionner avec d'autres amas), alors on peut calculer la masse totale de l'amas en fonction du rayon, puis en intégrant sur le profil la masse totale de l'amas. On peut alors obtenir la ***fraction de gaz*** des amas (notée f_gas(z)), définie comme le rapport de la masse de gaz (mesurée via l'émission de rayons X) sur la masse totale de l'amas (galaxies + gaz intergalactique + matière noire)
+> * Une autre manière d'obtenir la masse totale d'un amas est d'utiliser l'effet de lentilles gravitationnelle.
+- Au milieu des années 90, les astronomes se sont rendus compte qu'ils pouvaientaussi utiliser les observations en rayons X des amas comme indicateurs de distance de ces amas, ce qui leur ont permis de tester les prédictions du modèle ΛCDM et en particulier de contraindre les propriétés de l'énergie sombre
+> * Il faut pour cela supposer que les amas de galaxies sont des objets si vastes et si massifs que leur composition matérielle, notamment le rapport entre matière baryonique et matière noire est représentative de la composition matérielle de l'univers tout entier.
+> * La fraction de gaz est corrélée avec la distance de l'amas, et cette distance dépend elle-même de la quantité de matière noire et d'énergie sombre dans l'univers. Comme la fraction de gaz doit être à peu près la même sur tous les amas de galaxies, en mesurant la fraction de gaz dans plein d'amas on doit pouvoir trouver les paramètres cosmologiques qui donnent les distances d'amas "correctes".
+- Les données actuelles issues de l'observation des amas de galaxies fournissent une confirmation indépendante que l'expansion de l'univers est bien accélérée, et elles montrent que les propriétés de l'énergie sombre sont très proches d'une constante cosmologique
+- Le télescope spatial Euclid de l'ESA, qui sera lancé en 2023, a pour mission de produire dans les années à venir l'un des catalogues d'amas de galaxies les plus fournis et les plus profonds de tous les temps, ce qui permettra aux astronomes de mieux contraindre les propriétés de l'énergie sombre.  
+
+*Emission de rayons X du gaz chaud de 4 amas de galaxies, photographiée par le télescope spatial Chandra. Crédit : X-ray: NASA/CXC/Univ. of Alabama/A. Morandi et al; Optical: SDSS, NASA/STScI. [Source](https://www.nasa.gov/mission_pages/chandra/probing-dark-energy-with-galaxy-clusters.html)*
+
+![xraychandra](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/clusters.jpg)
+
+### La détermination directe du taux d'expansion cosmique
+
+Direct Determination of H0: The value of H0 sets the current value of the critical density
+ρc = 3H2
+0 /8πGN, and combination with CMB measurements provides a long lever arm
+for constraining the evolution of dark energy. The challenge in direct H0 measurements is
+establishing distances to galaxies that are far enough away that their peculiar velocities
+are small compared to the expansion velocity v = H0d. This can be done by building
+a ladder of distance indicators tied to stellar parallax on its lowest rung, or by using
+gravitational lens time delays or geometrical measurements of maser data to circumvent
+this ladder
+
+A still more ambitious period begins late in this decade and continues through the
+2020s, with experiments that include the Dark Energy Spectroscopic Instrument (DESI),
+the Subaru Prime Focus Spectrograph (PFS), the Large Synoptic Survey Telescope
+(LSST), and the space missions Euclid and WFIRST (Wide Field Infrared Survey
+Telescope). DESI and PFS both aim for major improvements in the precision of BAO,
+RSD, and other measurements of galaxy clustering in the redshift range 0.8 < z < 2,
+where large comoving volume allows much smaller cosmic variance errors than low
+redshift surveys like BOSS. LSST will be the ultimate ground-based optical weak lensing
+experiment, measuring several billion galaxy shapes over 20,000 deg2 of the southern
+hemisphere sky, and it will detect and monitor many thousands of SNe per year. Euclid
+and WFIRST also have weak lensing as a primary science goal, taking advantage of the
+high angular resolution and extremely stable image quality achievable from space. Both
+missions plan large spectroscopic galaxy surveys, which will provide better sampling at
+high redshifts than DESI or PFS because of the lower infrared sky background above
+the atmosphere. WFIRST is also designed to carry out what should be the ultimate
+supernova cosmology experiment, with deep, high resolution, near-IR observations and
+the stable calibration achievable with a space platform.
+
+Performance forecasts necessarily become more uncertain the further ahead we
+look, but collectively these experiments are likely to achieve 1–2 order of magnitude
+improvements over the precision of current expansion and growth measurements, while
+simultaneously extending their redshift range, improving control of systematics, and
+enabling much tighter cross-checks of results from entirely independent methods. The
+critical clue to the origin of cosmic acceleration could also come from a surprising
+direction, such as laboratory or solar system tests that challenge GR, time variation
+of fundamental “constants,” or anomalous behavior of gravity in some astronomical
+environments. Experimental advances along these multiple axes could confirm today’s
+relatively simple, but frustratingly incomplete, “standard model” of cosmology, or they
+could force yet another radical revision in our understanding of energy, or gravity, or the
+spacetime structure of the Universe.
 
 
 # L'inflation cosmique
