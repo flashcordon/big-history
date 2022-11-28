@@ -81,6 +81,7 @@ matter (CDM) paradigm
 - [Faster walk on the dark side](https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/2006/faster.html) - NASA
 - [L’effet Sachs-Wolfe intégré ou la traversée des grandes structures](http://public.planck.fr/outils/astrophysique/effet-sachs-wolfe-integre-isw) - Planck HFI
 - [RayGal : une nouvelle simulation du cosmos pour percer les secrets de l'énergie noire](https://www.futura-sciences.com/sciences/actualites/cosmologie-raygal-nouvelle-simulation-cosmos-percer-secrets-energie-noire-94917/) - Futura Sciences (2022)
+- [Comment Estimer la masse des amas de galaxies?](http://physique.unice.fr/sem6/2017-2018/PagesWeb/PT/Galaxie/les_amas/comment.html) - Observatoire de la côte d'Azur
 
 ---
 
@@ -713,7 +714,8 @@ projet.
 -	On appelle ***cisaillement cosmique*** (cosmic shear) le signal statistique causé par le lentillage faible des amas de galaxies. Pour l’estimer, on mesure la forme d’un grand échantillon de galaxies lointaines dans une région du ciel donné, et on calcule la déformation moyenne de ces galaxies produite par l’effet de lentilles gravitationnelles.
 >	Le cisaillement cosmique a été mesuré pour la première fois en 2000 par une équipe internationale d’astronomes incluant des chercheurs de l’IAP, grâce à l’étude des données du Canada France Hawaii Telescope (CFHT).
 -	L’analyse statistique des déformations causées par l’effet de lentillage faible permet de reconstruire la distribution de matière noire dans les amas de galaxies et de suivre l’évolution de ces structures dans le temps (en observant le lentillage faible de ces galaxies lointaines à différents redshifts), ce qui permet de sonder l’influence de l’énergie sombre sur le taux de croissance des structures cosmiques.
->	On peut comparer la cartographie de la distribution de la matière noire par cette méthode à la reconstruction des lignes de champ magnétique invisible avec de la limaille de fer
+>	* On peut comparer la cartographie de la distribution de la matière noire par cette méthode à la reconstruction des lignes de champ magnétique invisible avec de la limaille de fer
+> * Lorsque l'on cartographie le cisaillement cosmique, on peut recenser les fluctuations de densité de différentes tailles qui se jouent à grande échelle dans l'univers et en déduire leur spectre de puissance. Et l'étude de ce spectre de puissance nous informe sur la nature et les propriétés de l'énergie sombre. C'est une méthode analogue à celle de l'analyse du spectre de puissance du CMB, mais qui nous informe cette fois du devenir des fluctuations de densité initiales.
 -	De nombreux relevés astronomiques font de la mesure du cisaillement cosmique une priorité dans les années à venir. C’est notamment le cas du Dark Energy Survey (DES) et du Hyper Suprime-Cam Subaru Strategic Program (HSC-SSP)
 
 *Illustration de l'effet de lentilles gravitationnelles faible. Crédit : Michael Sachs. [Source](https://en.wikipedia.org/wiki/Weak_gravitational_lensing#/media/File:Gravitational-lensing-3d.png)*
