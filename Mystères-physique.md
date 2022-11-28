@@ -85,6 +85,7 @@ matter (CDM) paradigm
 - [Gravitational Lensing in the Canary Islands](https://astrobites.org/2012/11/25/gravitational-lensing-in-the-canary-islands/) - Astrobites
 - [Cosmological constant](http://www.scholarpedia.org/article/Cosmological_constant) - Scholarpedia
 - [Ask Ethan: Is Einstein’s Cosmological Constant The Same As Dark Energy?](https://www.forbes.com/sites/startswithabang/2020/12/25/ask-ethan-is-einsteins-cosmological-constant-the-same-as-dark-energy/?sh=33a76ee84636) - Ethan Siegel
+- [La plus grosse erreur de toute l’histoire de la physique](https://scienceetonnante.com/2012/05/14/la-plus-grosse-erreur-de-toute-lhistoire-de-la-physique/) - Science Etonnante
 
 ---
 
