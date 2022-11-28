@@ -347,7 +347,9 @@ Cisaillement ?
 l'IAP + autres
 L'effet de cisaillement cosmique, qui a été mesuré pour la première fois en 2000, se manifeste par des déformations des images des galaxies sous l'effet de la gravitation des amas de matière. Il permet notamment de cartographier la matière noire mais également de déterminer comment l'énergie sombre affecte la toile cosmique.
 
+*Illustration de l'effet de lentilles gravitationnelles faible. Crédit : Michael Sachs. [Source](https://en.wikipedia.org/wiki/Weak_gravitational_lensing#/media/File:Gravitational-lensing-3d.png)*
 
+![weak-lensing](https://upload.wikimedia.org/wikipedia/commons/b/b9/Gravitational-lensing-3d.png)
 
 ### Les amas de galaxies
 
