@@ -290,6 +290,15 @@ remain to be explored
 
 ### L'effet de lentille gravitationnelle faible
 
+-	Lorsque des rayons de lumière provenant de galaxies très lointaines traversent l’espace-temps déformé aux abords d’une grosse concentration de matière (un amas de galaxies) située entre les sources et l’observateur, on observe des images distordues des galaxies lointaines, comme si ces dernières étaient vues à travers la lentille d’une loupe. Ce phénomène est dû à l’***effet de lentille gravitationnelle***.
+-	L’effet de lentille gravitationnelle peut même produire de multiples images de la source en arrière-plan. On parle alors de ***lentillage fort***. Celui-ci requiert un alignement particulier entre la source, la concentration de matière et l’observateur, ainsi que des distances relatives particulières. 
+	Les lentilles gravitationnelles fortes peuvent générer d’étranges mirages gravitationnels, tels que les croix ou les anneaux d’Einstein.
+-	***cisaillement*** (shear)
+-	***cisaillement cosmique*** (cosmic shear). Pour l’estimer, on mesure la forme d’un grand échantillon de galaxies lointaines dans une région du ciel donné, et on calcule la déformation moyenne de ces galaxies produite par l’effet de lentilles gravitationnelles.
+	Le cisaillement cosmique a été mesuré pour la première fois en 2000 par une équipe internationale d’astronomes incluant des chercheurs de l’IAP, grâce à l’étude des données du Canada France Hawaii Telescope (CFHT).
+-	L’effet de lentilles gravitationnelles faible permet de reconstruire la distribution de matière noire dans les amas de galaxies et de suivre l’évolution de ces structures dans le temps (en observant le lentillage faible de ces galaxies lointaines à différents redshifts), ce qui permet de sonder l’influence de l’énergie sombre sur le taux de croissance des structures cosmiques.
+-	De nombreux relevés astronomiques font de la mesure du cisaillement cosmique une priorité dans les années à venir. C’est notamment le cas du Dark Energy Survey (DES) et du Hyper Suprime-Cam Subaru Strategic Program (HSC-SSP)
+
 Weak Gravitational Lensing: Gravitational light bending by a clustered distribution
 of matter shears the shapes of higher redshift background galaxies in a spatially
 coherent manner, producing a correlated pattern of apparent ellipticities. By studying
