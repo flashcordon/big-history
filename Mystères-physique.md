@@ -758,6 +758,21 @@ a ladder of distance indicators tied to stellar parallax on its lowest rung, or 
 gravitational lens time delays or geometrical measurements of maser data to circumvent
 this ladder
 
+Direct measurements of the Hubble constant offer use-
+ful complementary information that helps break degen-
+eracy between dark energy and other cosmological pa-
+rameters. This is because precise CMB measurements
+effectively fix high-redshift parameters including the
+physical matter density Ωmh2; independent measure-
+ments of H0 (i.e. h) therefore help determine Ωm which
+is degenerate with the dark energy equation of state.
+Current & 3σ tension between the most precise direct
+measurements of H0 from the Cepheid distance lad-
+der [355, 356] and the indirect ΛCDM determination
+from the CMB [74] is partially, but not fully, relieved
+by allowing phantom dark energy (w < −1) or extra
+relativistic degrees of freedom
+
 A still more ambitious period begins late in this decade and continues through the
 2020s, with experiments that include the Dark Energy Spectroscopic Instrument (DESI),
 the Subaru Prime Focus Spectrograph (PFS), the Large Synoptic Survey Telescope
