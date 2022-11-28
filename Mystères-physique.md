@@ -89,148 +89,31 @@ matter (CDM) paradigm
 ---
 
 -	En 1917, alors que les observations astronomiques sont principalement limitées aux étoiles de notre Galaxie, Albert Einstein tente d’appliquer sa toute jeune théorie de la relativité générale à un modèle d’univers qu’il juge statique. Pour contrer les effets de la gravitation, il introduit un nouveau terme dans ses équations : la ***constante cosmologique*** (symbolisée par la lettre grecque Λ). 
--	En 1922, le mathématicien russe Alexander Friedmann démontre que la solution d’univers statique d’Einstein est aussi stable qu’un stylo posé sur sa pointe, et propose de le remplacer par un modèle d’univers en expansion. Le modèle de Friedman sera corroboré par les observations de la fuite des galaxies par Edwin Hubble à la fin des années 20. Il est désormais à la base du modèle cosmologique standard.
+-	En 1922, le mathématicien russe Alexandre Friedmann démontre que la solution d’univers statique d’Einstein est aussi stable qu’un stylo posé sur sa pointe, et propose de le remplacer par un modèle d’univers en expansion. Le modèle de Friedman sera corroboré par les observations de la fuite des galaxies par Edwin Hubble à la fin des années 20. Il est désormais à la base du modèle cosmologique standard.
 > À partir des années 30, Einstein va rapidement renoncer à son modèle d’univers statique. Il confiera plus tard à son collègue George Gamow que l’introduction de la constante cosmologique dans ses équations était « la plus grosse erreur de sa vie » (biggest blunder).
 - La constante cosmologique va gagner une seconde vie à la fin des années 90. À cette époque, la majorité des cosmologistes sont persuadés que l’expansion de l’univers est en train de ralentir. Mais en 1998, deux équipes indépendantes d’astronomes des collaborations High-Z supernova Team et Supernova Cosmology Project découvrent que des supernovae thermonucléaires lointaines (0<z<1) sont moins brillantes que ce qu’elles devraient être dans un univers en cours de décélération. 
 - La manière la plus simple d’interpréter ces observations est de considérer que l’univers se trouve dans une période d’expansion accélérée depuis environ 6 milliards d’années, qui fait suite à une période de décélération (justifiée par des supernovae thermonucléaires à z>1 plus brillantes que prévues cette fois).
 - Cette découverte a valu le prix Nobel de physique en 2011 à trois chercheurs associés aux deux collaborations : Saul Perlmutter, Brian Schmidt et Adam Riess.
 - De nos jours, de nombreuses observations indépendantes vont dans le sens d’une période d’expansion cosmique accélérée dans l’histoire récente de l’univers.
+- Selon les données du télescope spatial Planck publiées en 2013, l’énergie sombre représenterait 68,3% de la densité énergétique totale de l’univers.
+- On ne connaît pas la nature du phénomène qui cause cette expansion accélérée. 
 
+# Modéliser la cause de l’expansion accélérée
 
-- In the context of cosmology the cosmological constant is a homogeneous energy density that causes the expansion of the universe to accelerate. Originally proposed early in the development of general relativity in order to allow a static universe solution it was subsequently abandoned when the universe was found to be expanding. Now the cosmological constant is invoked to explain the observed acceleration of the expansion of the universe. The cosmological constant is the simplest realization of dark energy, which is the more generic name given to the unknown cause of the acceleration of the universe. Its existence is also predicted by quantum physics, where it enters as a form of vacuum energy, although the magnitude predicted by quantum theory does not match that observed in cosmology. 
-- The cosmological constant first appeared in a 1917 paper by Einstein entitled "Cosmological Considerations in the General Theory of Relativity" (Einstein 1917), in which he motivates its introduction into the field theory of general relativity by the need to stabilize the universe against the attractive effect of gravity
-- At the time, observations of our universe were limited primarily to stars in our own galaxy, so there was indeed observational evidence justifying the assumption that the universe was static. 
--  The attempt proved futile, as shortly thereafter de Sitter (1917) demonstrated an empty universe solution to Einstein's equations (allowing inertia relative to space empty of matter) and Friedmann (1922) derived solutions to Einstein's equations that corresponded to an expanding universe. These results could be considered a prediction that the universe must be expanding or contracting, a remarkable implication of general relativity that was later borne out by observation. When Hubble observationally discovered the expansion of the universe Einstein finally abandoned the cosmological constant completely (Einstein 1931). Much later, when I was discussing cosmological problems with Einstein, he remarked that the introduction of the cosmological term was the biggest blunder of his life. (Gamow 1970).
--  This set the stage for the discovery of the accelerating universe by two teams in 1998/1999. The High-Z supernova team and the Supernova Cosmology project both discovered that high-redshift supernovae were fainter than expected for a decelerating universe and that the difference could be explained if there was a cosmological constant of just the right magnitude needed to make the universe flat. 
--  Observational evidence for the accelerating universe is now very strong, with many different experiments covering vastly different timescales, length scales, and physical processes, all supporting the standard ΛCDM cosmological model, in which the universe is flat with an energy density made up of about 4% baryonic matter, 23% dark matter, and 73% cosmological constant. 
--  The critical observational result that brought the cosmological constant into its modern prominence was the discovery that distant type Ia supernovae (0<z<1), used as standard candles, were fainter than expected in a decelerating universe (Riess et al. 1998, Perlmutter et al. 1999). Since then many groups have confirmed this result with more supernovae and over a larger range of redshifts. Of particular importance are the observations that extremely high redshift (z>1) supernovae are brighter than expected, which is the observational signature that is expected from a period of deceleration preceding our current period of acceleration. These higher-redshift observations of brighter-than-expected supernovae protect us against any systematic effects that would dim supernovae for reasons other than acceleration. 
-
- Einstein's cosmological constant (denoted by the Greek capital letter lambda) to explain a mysterious force called dark energy that seems to be counteracting gravity -- causing the universe to expand at an accelerating pace.
- 
- Einstein first proposed the cosmological constant (not to be confused with the Hubble Constant) usually symbolized by the greek letter "lambda" (Λ), as a mathematical fix to the theory of general relativity. In its simplest form, general relativity predicted that the universe must either expand or contract. Einstein thought the universe was static, so he added this new term to stop the expansion. Friedmann, a Russian mathematician, realized that this was an unstable fix, like balancing a pencil on its point, and proposed an expanding universe model, now called the Big Bang theory. When Hubble's study of nearby galaxies showed that the universe was in fact expanding, Einstein regretted modifying his elegant theory and viewed the cosmological constant term as his "greatest mistake".
-
-Many cosmologists advocate reviving the cosmological constant term on theoretical grounds. Modern field theory associates this term with the energy density of the vacuum. For this energy density to be comparable to other forms of matter in the universe, it would require new physics: the addition of a cosmological constant term has profound implications for particle physics and our understanding of the fundamental forces of nature.
-
-Vacuum energy arises naturally in quantum mechanics due to the uncertainty principle. In particle physics the vacuum refers to the ground state of the theory -- the lowest energy configuration. The uncertainty principle does not allow states of exactly zero energy, even in vacuum (virtual particles are created). Since in general relativity all forms of energy gravitate, this ground state vacuum energy impacts the dynamics of the expansion of the universe. 
-
--   Cosmological Constant Problem
-
-The cosmological constant problem arises because, using naive naturalness arguments in quantum field theory, one cannot explain why the observed cosmological constant is so small. Quantum mechanical calculations that sum the contributions from all vacuum modes below an ultraviolet cutoff at the Planck scale give a vacuum energy density of ρΛ∼10112erg/cm3 . This exceeds the cosmologically observed value of ρΛ∼10−8erg/cm3 by about 120 orders of magnitude.
-- The cosmological constant is not diluted as the universe expands, whereas the density of matter drops in inverse proportion to the volume.
-
- Dark energy or cosmological constant
-
-These unresolved issues have motivated the current observational effort to test whether the cosmological constant is a valid cause of the acceleration of the universe. Other theories, such as fledgling theories of quantum gravity (e.g. brane-motivated cosmologies), naturally produce dark energy candidates with properties different from the standard cosmological constant (Padmanabhan, 2003). Phenomenological theories such as quintessence have also been proposed, which have a time-varying value of dark energy. Although these models are designed partially to negate the coincidence problem by having dark energy solutions that can track the matter density, these then suffer a new fine-tuning problem as they introduce additional parameters whose values need to be fine-tuned to produce the evolution needed (Weinberg 1989, 2000). 
-
- Dark gravity
-
-Dark energy also encompasses the possibility that there is no additional energy density component to the universe, but rather that the equations of general relativity need revision. In this sense general relativity might be a limit of a more complete theory of gravity in the same way that Newtonian gravity is a low-energy limit of general relativity. This possibility is also known as dark gravity.
-
-It’s extremely tempting — and I’ll confess, I sometimes do it myself — to simply conflate the two, and assume that dark energy is nothing more complex than a cosmological constant. It’s understandable why we’d do this: the cosmological constant is already allowed as part of General Relativity without additional explanation. Furthermore, we don’t know how to calculate the zero-point energy of empty space in quantum field theory, and that contributes to the Universe in exactly the same fashion as a cosmological constant would as well. Finally, when we make our observations, they’re all consistent with dark energy being a cosmological constant, with no need for anything more complicated.
-
-The cosmological constant may be the same thing as dark energy, but it doesn’t need to be. Even if it is, we’d still like to understand why it behaves this particular way and not any other. 
-
-- In the first modern cosmological model, Einstein [1] modified his field equation of
-General Relativity (GR), introducing a “cosmological term” that enabled a solution with
-time-independent, spatially homogeneous matter density ρm and constant positive space
-curvature. Although Einstein did not frame it this way, one can view the “cosmological
-constant” Λ as representing a constant energy density of the vacuum [2], whose repulsive
-gravitational effect balances the attractive gravity of matter and thereby allows a static
-solution. After the development of dynamic cosmological models [3,4] and the discovery
-of cosmic expansion [5], the cosmological term appeared unnecessary, and Einstein and
-de Sitter [6] advocated adopting an expanding, homogeneous and isotropic, spatially flat,
-matter-dominated universe as the default cosmology until observations dictated otherwise.
-- By the mid-1990s, Big Bang cosmology was convincingly established, but the
-Einstein-de Sitter model was showing numerous cracks, under the combined onslaught
-of data from the cosmic microwave background (CMB), large scale galaxy clustering,
-and direct estimates of the matter density, the expansion rate (H0), and the age of the
-Universe. Introducing a cosmological constant offered a potential resolution of many of
-these tensions. In the late 1990s, supernova surveys by two independent teams provided
-direct evidence for accelerating cosmic expansion [8,9], establishing the cosmological
-constant model (with Ωm ≈ 0.3, ΩΛ ≈ 0.7) as the preferred alternative to the Ωm = 1
-scenario. Shortly thereafter, CMB evidence for a spatially flat universe [10,11], and
-thus for Ωtot ≈ 1, cemented the case for cosmic acceleration by firmly eliminating the
-free-expansion alternative with Ωm ≪ 1 and ΩΛ = 0. Today, the accelerating universe is
-well established by multiple lines of independent evidence from a tight web of precise
-cosmological measurements.
--  acceleration could arise from a more general form of “dark
-energy” that has negative pressure, typically specified in terms of the equation-of-state-
-parameter w = p/ρ (= −1 for a cosmological constant). Furthermore, the conclusion that
-acceleration requires a new energy component beyond matter and radiation relies on the
-assumption that GR is the correct description of gravity on cosmological scales. The title
-of this article follows the common but inexact usage of “dark energy” as a catch-all term
-for the origin of cosmic acceleration, regardless of whether it arises from a new form of
-energy or a modification of GR. 
-
-A cosmological constant is the mathematically simplest, and perhaps the physically
-simplest, theoretical explanation for the accelerating universe. The problem is explaining
-its unnaturally small magnitude,
-
-An alternative
-(which still requires finding a way to make the cosmological constant zero or at least
-negligibly small) is that the accelerating cosmic expansion is driven by a new form of
-energy such as a scalar field [13] with potential V (φ). The energy density and pressure of
-the field φ(x) take the same forms as for inflationary scalar fields, given in Eq. (19.52) of
-the Big Bang Cosmology article. In the limit that 1
-2 ̇φ2 ≪ |V (φ)|, the scalar field acts like
-a cosmological constant, with pφ ≈ −ρφ. In this scenario, today’s cosmic acceleration is
-closely akin to the epoch of inflation, but with radically different energy and timescale.
-
-Instead of introducing a new energy component, one can attempt to modify gravity
-in a way that leads to accelerated expansion [14]. One option is to replace the Ricci
-scalar R with a function R + f (R) in the gravitational action [15]. Other changes can
-be more radical, such as introducing extra dimensions and allowing gravitons to “leak”
-off the brane that represents the observable universe (the “DGP” model [16]) . The DGP
-example has inspired a more general class of “galileon” and massive gravity models.
-Constructing viable modified gravity models is challenging, in part because it is easy to
-introduce theoretical inconsistencies (such as “ghost” fields with negative kinetic energy)
-but above all because GR is a theory with many high-precision empirical successes on
-solar system scales
-
-one can search for signatures of modified gravity by comparing the
-history of cosmic structure growth to the history of cosmic expansion. Within GR, these
-two are linked by a consistency relation, as described below (Eq. (1.2)). Modifying
-gravity can change the predicted rate of structure growth, and it can make the growth
-rate dependent on scale or environment. In some circumstances, modifying gravity alters
-the combinations of potentials responsible for gravitational lensing and the dynamics of
-non-relativistic tracers (such as galaxies or stars) in different ways (see Sec. 19.4.7 in this
-Review), leading to order unity mismatches between the masses of objects inferred from
-lensing and those inferred from dynamics in unscreened environments.
-At present there are no fully realized and empirically viable modified gravity theories
-that explain the observed level of cosmic acceleration.
-
-The DGP model is empirically ruled out by
-several tests, including the expansion history, the integrated Sachs-Wolfe effect, and
-redshift-space distortion measurements of the structure growth rate [19]. The elimination
-of these models should be considered an important success of the program to empirically
-test theories of cosmic acceleration. However, it is worth recalling that there was no
-fully realized gravitational explanation for the precession of Mercury’s orbit prior to the
-completion of GR in 1915, and the fact that no complete and viable modified gravity
-theory exists today does not mean that one will not arise in the future.
-
-The main line of empirical attack on dark energy is to measure the history of cosmic
-expansion and the history of matter clustering with the greatest achievable precision
-over a wide range of redshift. Within GR, the expansion rate H(z) is governed by
-the Friedmann equation
-
-In modified gravity models the growth rate of gravitational clustering may differ from
-the GR prediction. A general strategy to test modified gravity, therefore, is to measure
-both the expansion history and the growth history to see whether they yield consistent
-results for H(z) or w(z)
-
-The underlying goal of empirical studies of cosmic acceleration is to
-address two physically profound questions:
-1. Does acceleration arise from a breakdown of GR on cosmological scales or from a
-new energy component that exerts repulsive gravity within GR?
-2. If acceleration is caused by a new energy component, is its energy density constant
-in space and time, as expected for a fundamental vacuum energy, or does it show
-variations that indicate a dynamical field?
-Substantial progress towards answering these questions, in particular any definitive
-rejection of the cosmological constant “null hypothesis,” would be a major breakthrough
-in cosmology and fundamental physics.
-
-- L'énergie sombre représente 68% du contenu en masse et en énergie de l'univers (source : Planck ?)
-- La découverte de ce phénomène a d'ailleurs valu le prix Nobel de physique en 2011 à trois chercheurs : Saul Perlmutter, Brian P. Schmidt et Adam G. Riess.
+- Une manière d’interpréter les observations dans le cadre du modèle cosmologique standard est d’invoquer l’existence d’une mystérieuse ***énergie sombre*** qui remplirait uniformément l’univers et qui serait dotée d’une « pression négative » qui la ferait se comporter comme une force répulsive.
+> On modélise l’énergie sombre comme un fluide parfait caractérisé par son équation d’état, qui relie sa pression à sa densité d’énergie : P = wρ. (w est un nombre sans dimension)
+- La modélisation la plus simple de cette hypothétique énergie sombre fait intervenir la fameuse constante cosmologique, qui pourrait être assimilée de façon élégante à une sorte d’énergie du vide dont la densité reste constante à mesure que l’univers s’étend.
+> Si l’énergie sombre est une constante cosmologique, w = -1.
+- Dans le langage de la théorie quantique des champs, il est possible d’assimiler cette énergie noire à l’***énergie du vide*** (vacuum energy), qui émerge à cause du ***principe d’incertitude d’Heisenberg***.
+> La physique quantique ne permet pas l’existence d’états dans le vide où l’énergie est strictement nulle. L’énergie du vide est l’énergie de l’état fondamental des champs quantiques dans un espace vide de matière. Cet état est constamment fluctuant, et permet l’émergence et l’annihilation permanente de paires de particules virtuelles dans le vide quantique.
+- Le problème, c’est que lorsqu’on mesure la densité de l’énergie sombre aux échelles cosmologiques, et qu’on calcule la densité de l’énergie du vide à l’aide des équations de la théorie quantique des champs, les deux valeurs sont incroyablement différentes : la densité du vide quantique excède celle de l’énergie sombre d’un facteur 10 puissance 120 ! Ce problème n’est pas encore résolu à ce jour.
+> Certains appellent ce résultat « la plus grosse erreur de toute l’histoire de la physique ».
+- La constante cosmologique n’est qu’une des modélisations possibles de l’énergie sombre. De nombreuses théories de gravitation quantique produisent ainsi des candidats à l’énergie sombre qui possèdent d’autres propriétés (par exemple différentes valeurs de w).
+- Une autre forme hypothétique que pourrait prendre l’énergie sombre est la ***quintessence***, un champ scalaire dont la contribution varierait dans le temps, contrairement à une constante cosmologique (ie, son équation d’état évolue au fil du temps).
+> Une forme particulière de quintessence est ***l’énergie fantôme***, proposé par le physicien Robert Caldwell et dont le paramètre w < -1. 
+- Toutes ces propositions d’énergie sombre partent du principe que la relativité générale est la bonne théorie pour décrire l’évolution à grande échelle du cosmos. Mais il existe aussi l’option que la relativité générale doit être révisée aux échelles les plus vastes. C’est l’approche dite de ***gravité modifiée*** (ou de ***gravité sombre*** - dark gravity).
+- Les modèles de gravité modifiée produisent des scénarios d’évolution des grandes structures cosmiques différents de ceux du modèle standard de la cosmologie.
+- Malheureusement, il n’existe à ce jour aucun modèle de gravité modifiée qui permette d’expliquer l’accélération de l’expansion cosmique observée.
 
 ## Que sait-on de l'énergie sombre aujourd'hui ?
 
