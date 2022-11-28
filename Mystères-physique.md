@@ -99,7 +99,7 @@ matter (CDM) paradigm
 - Selon les données du télescope spatial Planck publiées en 2013, l’énergie sombre représenterait 68,3% de la densité énergétique totale de l’univers.
 - On ne connaît pas la nature du phénomène qui cause cette expansion accélérée. 
 
-# Modéliser la cause de l’expansion accélérée
+## Comment modéliser la cause de l’expansion accélérée
 
 - Une manière d’interpréter les observations dans le cadre du modèle cosmologique standard est d’invoquer l’existence d’une mystérieuse ***énergie sombre*** qui remplirait uniformément l’univers et qui serait dotée d’une « pression négative » qui la ferait se comporter comme une force répulsive.
 > On modélise l’énergie sombre comme un fluide parfait caractérisé par son équation d’état, qui relie sa pression à sa densité d’énergie : P = wρ. (w est un nombre sans dimension)
@@ -118,7 +118,7 @@ matter (CDM) paradigm
 
 ## Comment sonder les propriétés de l'énergie noire à l'aide de nos observations
 
-- There are two main observable manifestations of dark energy: The first is its effect on the expansion rate of the Universe as a whole, which can be probed through the distance-redshift relation using “standard candles” such as type Ia supernovae, or standard rulers such as baryonic acoustic oscillations in the large-scale distribution of galaxies (4). This broad class of cosmological observations is often referred to as “geometric” methods. The second effect is the impact of dark energy on the rate of growth of large-scale structures. As the Universe enters the accelerated expansion phase around z ≈ 0.8, it is expected that the rate of structure growth slows down.
+- Il y a essentiellement deux classes de méthodes pour étudier les signatures observables de l'énergie sombre : les méthodes dites "géométriques", qui se concentrent sur le taux d'expansion de l'univers (à l'aide de règles ou de chandelles standards), et les méthodes se focalisant sur la croissance des grandes structures cosmiques.
 
 ### Les anisotropies du CMB
 
