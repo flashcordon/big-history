@@ -82,6 +82,7 @@ matter (CDM) paradigm
 - [L’effet Sachs-Wolfe intégré ou la traversée des grandes structures](http://public.planck.fr/outils/astrophysique/effet-sachs-wolfe-integre-isw) - Planck HFI
 - [RayGal : une nouvelle simulation du cosmos pour percer les secrets de l'énergie noire](https://www.futura-sciences.com/sciences/actualites/cosmologie-raygal-nouvelle-simulation-cosmos-percer-secrets-energie-noire-94917/) - Futura Sciences (2022)
 - [Comment Estimer la masse des amas de galaxies?](http://physique.unice.fr/sem6/2017-2018/PagesWeb/PT/Galaxie/les_amas/comment.html) - Observatoire de la côte d'Azur
+- [Gravitational Lensing in the Canary Islands](https://astrobites.org/2012/11/25/gravitational-lensing-in-the-canary-islands/) - Astrobites
 
 ---
 
