@@ -84,6 +84,7 @@ matter (CDM) paradigm
 - [Comment Estimer la masse des amas de galaxies?](http://physique.unice.fr/sem6/2017-2018/PagesWeb/PT/Galaxie/les_amas/comment.html) - Observatoire de la côte d'Azur
 - [Gravitational Lensing in the Canary Islands](https://astrobites.org/2012/11/25/gravitational-lensing-in-the-canary-islands/) - Astrobites
 - [Cosmological constant](http://www.scholarpedia.org/article/Cosmological_constant) - Scholarpedia
+- [Ask Ethan: Is Einstein’s Cosmological Constant The Same As Dark Energy?](https://www.forbes.com/sites/startswithabang/2020/12/25/ask-ethan-is-einsteins-cosmological-constant-the-same-as-dark-energy/?sh=33a76ee84636) - Ethan Siegel
 
 ---
 
@@ -94,6 +95,15 @@ matter (CDM) paradigm
 -  This set the stage for the discovery of the accelerating universe by two teams in 1998/1999. The High-Z supernova team and the Supernova Cosmology project both discovered that high-redshift supernovae were fainter than expected for a decelerating universe and that the difference could be explained if there was a cosmological constant of just the right magnitude needed to make the universe flat. 
 -  Observational evidence for the accelerating universe is now very strong, with many different experiments covering vastly different timescales, length scales, and physical processes, all supporting the standard ΛCDM cosmological model, in which the universe is flat with an energy density made up of about 4% baryonic matter, 23% dark matter, and 73% cosmological constant. 
 -  The critical observational result that brought the cosmological constant into its modern prominence was the discovery that distant type Ia supernovae (0<z<1), used as standard candles, were fainter than expected in a decelerating universe (Riess et al. 1998, Perlmutter et al. 1999). Since then many groups have confirmed this result with more supernovae and over a larger range of redshifts. Of particular importance are the observations that extremely high redshift (z>1) supernovae are brighter than expected, which is the observational signature that is expected from a period of deceleration preceding our current period of acceleration. These higher-redshift observations of brighter-than-expected supernovae protect us against any systematic effects that would dim supernovae for reasons other than acceleration. 
+
+ Einstein's cosmological constant (denoted by the Greek capital letter lambda) to explain a mysterious force called dark energy that seems to be counteracting gravity -- causing the universe to expand at an accelerating pace.
+ 
+ Einstein first proposed the cosmological constant (not to be confused with the Hubble Constant) usually symbolized by the greek letter "lambda" (Λ), as a mathematical fix to the theory of general relativity. In its simplest form, general relativity predicted that the universe must either expand or contract. Einstein thought the universe was static, so he added this new term to stop the expansion. Friedmann, a Russian mathematician, realized that this was an unstable fix, like balancing a pencil on its point, and proposed an expanding universe model, now called the Big Bang theory. When Hubble's study of nearby galaxies showed that the universe was in fact expanding, Einstein regretted modifying his elegant theory and viewed the cosmological constant term as his "greatest mistake".
+
+Many cosmologists advocate reviving the cosmological constant term on theoretical grounds. Modern field theory associates this term with the energy density of the vacuum. For this energy density to be comparable to other forms of matter in the universe, it would require new physics: the addition of a cosmological constant term has profound implications for particle physics and our understanding of the fundamental forces of nature.
+
+Vacuum energy arises naturally in quantum mechanics due to the uncertainty principle. In particle physics the vacuum refers to the ground state of the theory -- the lowest energy configuration. The uncertainty principle does not allow states of exactly zero energy, even in vacuum (virtual particles are created). Since in general relativity all forms of energy gravitate, this ground state vacuum energy impacts the dynamics of the expansion of the universe. 
+
 -   Cosmological Constant Problem
 
 The cosmological constant problem arises because, using naive naturalness arguments in quantum field theory, one cannot explain why the observed cosmological constant is so small. Quantum mechanical calculations that sum the contributions from all vacuum modes below an ultraviolet cutoff at the Planck scale give a vacuum energy density of ρΛ∼10112erg/cm3 . This exceeds the cosmologically observed value of ρΛ∼10−8erg/cm3 by about 120 orders of magnitude.
@@ -107,6 +117,9 @@ These unresolved issues have motivated the current observational effort to test 
 
 Dark energy also encompasses the possibility that there is no additional energy density component to the universe, but rather that the equations of general relativity need revision. In this sense general relativity might be a limit of a more complete theory of gravity in the same way that Newtonian gravity is a low-energy limit of general relativity. This possibility is also known as dark gravity.
 
+It’s extremely tempting — and I’ll confess, I sometimes do it myself — to simply conflate the two, and assume that dark energy is nothing more complex than a cosmological constant. It’s understandable why we’d do this: the cosmological constant is already allowed as part of General Relativity without additional explanation. Furthermore, we don’t know how to calculate the zero-point energy of empty space in quantum field theory, and that contributes to the Universe in exactly the same fashion as a cosmological constant would as well. Finally, when we make our observations, they’re all consistent with dark energy being a cosmological constant, with no need for anything more complicated.
+
+The cosmological constant may be the same thing as dark energy, but it doesn’t need to be. Even if it is, we’d still like to understand why it behaves this particular way and not any other. 
 
 - In the first modern cosmological model, Einstein [1] modified his field equation of
 General Relativity (GR), introducing a “cosmological term” that enabled a solution with
