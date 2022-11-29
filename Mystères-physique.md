@@ -113,7 +113,7 @@ Consistent with weakly
 interacting, cold dark
 matter (CDM) paradigm
 
-*Image composite de l'amas de la balle. Crédit : X-ray: NASA/CXC/CfA/M.Markevitch, Optical and lensing map: NASA/STScI, Magellan/U.Arizona/D.Clowe, Lensing map: ESO WFI. [Source](https://www.esa.int/ESA_Multimedia/Images/2007/07/The_Bullet_Cluster2).*
+*Image composite de l'amas de la balle. Le gaz intergalactique chaud est en rose, et la distribution de matière noire en bleu. Crédit : X-ray: NASA/CXC/CfA/M.Markevitch, Optical and lensing map: NASA/STScI, Magellan/U.Arizona/D.Clowe, Lensing map: ESO WFI. [Source](https://www.esa.int/ESA_Multimedia/Images/2007/07/The_Bullet_Cluster2).*
 
 ![bulletcluster](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/07/the_bullet_cluster2/10084622-2-eng-GB/The_Bullet_Cluster_pillars.jpg)
 
