@@ -29,6 +29,73 @@
 
 ---
 
+The Swiss-American astronomer Fritz Zwicky is arguably the most famous and widely
+cited pioneer in the field of dark matter. In 1933, he studied the redshifts of various galaxy
+clusters, as published by Edwin Hubble and Milton Humason in 1931 [162], and noticed
+a large scatter in the apparent velocities of eight galaxies within the Coma Cluster, with
+differences that exceeded 2000 km/s [346]. The fact that Coma exhibited a large velocity
+dispersion with respect to other clusters had already been noticed by Hubble and Humason,
+but Zwicky went a step further, applying the virial theorem to the cluster in order to estimate
+its mass
+
+Zwicky started by estimating the total mass of Coma to be the product of the number
+of observed galaxies, 800, and the average mass of a galaxy, which he took to be 109 solar
+masses, as suggested by Hubble. He then adopted an estimate for the physical size of the
+system, which he took to be around 106 light-years, in order to determine the potential energy
+of the system. From there, he calculated the average kinetic energy and finally a velocity
+dispersion. He found that 800 galaxies of 109 solar masses in a sphere of 106 light-years
+should exhibit a velocity dispersion of 80 km/s. In contrast, the observed average velocity
+dispersion along the line-of-sight was approximately 1000 km/s. From this comparison, he
+concluded:
+If this would be confirmed, we would get the surprising result that dark matter
+is present in much greater amount than luminous matter.
+
+The overall situation was that of a community that was struggling to find a unified
+solution to a variety of problems. The dark matter hypothesis was not commonly accepted,
+nor was it disregarded. Instead, there was a consensus that more information would be
+needed in order to understand these systems.
+
+n the 1960s, Kent Ford developed an image tube spectrograph that Vera Rubin and he
+used to perform spectroscopic observations of the Andromeda Galaxy. The observations of
+the M31 rotation curve Rubin and Ford published in 1970 [267] represented a step forward in
+terms of quality.
+
+t was also in 1970 that the first explicit statements began to appear arguing that ad-
+ditional mass was needed in the outer parts of some galaxies, based on comparisons of the
+rotation curves predicted from photometry and those measured from 21 cm observations
+
+Morton Roberts was among the first to recognize the implications of the observed flatness
+of galactic rotation curves. Together with R. Whitehurst, he published in 1972 a rotation
+curve of M31 that extended to 120 arcminutes from its center [335]. In 1973, together with
+Arnold Rots, he extended the analysis to M81 and M101, and argued that these spiral
+galaxies each exhibited flat rotation curves in their outer parts [260] (see Fig. 3). The
+authors’ interpretation of these data was unambiguous:
+The three galaxies rotation curves decline slowly, if at all, at large radii,
+implying a significant mass density at these large distances. It is unreasonable
+to expect the last measured point to refer to the ‘edge’ of the galaxy, and we
+must conclude that spiral galaxies must be larger than indicated by the usual
+photometric measurements [...]. The present data also require that the mass to
+luminosity ratio vary with radius increasing in distance from the center.
+
+In 1978 ( ?) Rubin, Ford and Norbert Thonnard published optical rotation curves for ten high-luminosity spiral galaxies and found that they were flat out to the outermost
+measured radius [268]. This work has become one of the most well-known and widely cited
+in the literature, despite the fact that the optical measurements did not extend to radii as
+large as those probed by radio observations, thus leaving open the possibility that galaxies
+may not have dark matter halos, as pointed out, for example, by Agris J. Kalnajs in 1983
+(see the discussion at the end of Ref. [150]) and by Stephen Kent in 1986 [175]. Rubin, Ford
+and Thonnard themselves acknowledged the credit that was due to the preceding analyses:
+Roberts and his collaborators deserve credit for first calling attention to flat
+rotation curves. [...] These results take on added importance in conjunction with
+the suggestion of Einasto, Kaasik, and Saar (1974) and Ostriker, Peebles and
+Yahil (1974) that galaxies contain massive halos extending to large r
+
+By the late 1980s, the hypothesis that the missing mass
+consists of one or more yet-unknown subatomic particle species had gained enough support
+to become established as the leading paradigm for dark matter.
+
+
+
+
 ### L'amas de la balle (Bullet cluster)
 
 The combination of X-ray and gravitational lensing data for the`bullet cluster’
