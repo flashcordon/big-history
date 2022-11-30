@@ -16,6 +16,7 @@
 - [Quantum cosmology: a review](https://arxiv.org/abs/1501.04899) - Bojowald (2015)
 - [Loop Quantum Cosmology: A brief review](https://arxiv.org/abs/1612.01236) - Agulo et Singh (2016)
 - [Conceptual Problems in Quantum Gravity and Quantum Cosmology](https://www.hindawi.com/journals/isrn/2013/509316/) - Kiefer (2013)
+- [Quantum Gravity](https://plato.stanford.edu/entries/quantum-gravity/) - Stanford Encyclopedia of philosophy
 
 ---
 
