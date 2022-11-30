@@ -18,6 +18,7 @@
 - [Conceptual Problems in Quantum Gravity and Quantum Cosmology](https://www.hindawi.com/journals/isrn/2013/509316/) - Kiefer (2013)
 - [Quantum Gravity](https://plato.stanford.edu/entries/quantum-gravity/) - Stanford Encyclopedia of philosophy
 - [String Cosmology: A Review](https://arxiv.org/abs/0710.2951) - McAllister et Silverstein (2007)
+- [Loop Quantum Gravity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5567241/) - Carlo Rovelli (1998)
 
 ---
 
