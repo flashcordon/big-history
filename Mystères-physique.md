@@ -661,6 +661,51 @@ manquantes : recourir à la matière noire
 échelle sont alors supprimées, mais une grande
 partie du modèle hiérarchique subsiste
 
+
+Et si finalement il n’existait pas de matière
+inconnue, mais qu’une modification de la
+théorie de la gravité pouvait résoudre le
+problème de la masse manquante dans les
+galaxies et de la formation des structures de
+l’Univers ? À l’échelle des galaxies, le modèle
+de gravité modifiée qui représente le mieux
+les observations est celui de M. Milgrom,
+MOND, qui reproduit les courbes de
+rotation des naines aux géantes, de même
+que les relations d’échelle (fig. 1 et fig. 2).
+En champ de gravité faible, la force de
+gravité ne décroît alors plus avec la distance
+en 1/R 2, mais en 1/R. 
+
+
+
+
+
+
+### L'amas de la balle (Bullet cluster)
+
+The combination of X-ray and gravitational lensing data for the`bullet cluster’
+1E0657-56 (a merger of two large clusters) confirms that dark matter is very
+different in nature from the bulk of normal, baryonic matter (X-ray emitting gas)
+
+X-ray emitting gas
+feels ram pressure
+whereas dark matter
+(and galaxies) pass
+through (at least
+relatively) unhindered.
+
+Consistent with weakly
+interacting, cold dark
+matter (CDM) paradigm
+
+*Image composite de l'amas de la balle. Le gaz intergalactique chaud est en rose, et la distribution de matière noire en bleu. Crédit : X-ray: NASA/CXC/CfA/M.Markevitch, Optical and lensing map: NASA/STScI, Magellan/U.Arizona/D.Clowe, Lensing map: ESO WFI. [Source](https://www.esa.int/ESA_Multimedia/Images/2007/07/The_Bullet_Cluster2).*
+
+![bulletcluster](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/07/the_bullet_cluster2/10084622-2-eng-GB/The_Bullet_Cluster_pillars.jpg)
+
+### La chasse aux particules de matière noire
+
+
 Il est remarquable que la masse des parti-
 cules de matière noire ne soit pas connue
 à plusieurs ordres de grandeur près. On sait
@@ -755,49 +800,6 @@ détail, mais ont toujours été expliqués par
 une source astrophysique : aucune détection
 indirecte de matière noire n’a pu être
 reportée de façon convaincante
-
-Et si finalement il n’existait pas de matière
-inconnue, mais qu’une modification de la
-théorie de la gravité pouvait résoudre le
-problème de la masse manquante dans les
-galaxies et de la formation des structures de
-l’Univers ? À l’échelle des galaxies, le modèle
-de gravité modifiée qui représente le mieux
-les observations est celui de M. Milgrom,
-MOND, qui reproduit les courbes de
-rotation des naines aux géantes, de même
-que les relations d’échelle (fig. 1 et fig. 2).
-En champ de gravité faible, la force de
-gravité ne décroît alors plus avec la distance
-en 1/R 2, mais en 1/R. 
-
-
-
-
-
-
-### L'amas de la balle (Bullet cluster)
-
-The combination of X-ray and gravitational lensing data for the`bullet cluster’
-1E0657-56 (a merger of two large clusters) confirms that dark matter is very
-different in nature from the bulk of normal, baryonic matter (X-ray emitting gas)
-
-X-ray emitting gas
-feels ram pressure
-whereas dark matter
-(and galaxies) pass
-through (at least
-relatively) unhindered.
-
-Consistent with weakly
-interacting, cold dark
-matter (CDM) paradigm
-
-*Image composite de l'amas de la balle. Le gaz intergalactique chaud est en rose, et la distribution de matière noire en bleu. Crédit : X-ray: NASA/CXC/CfA/M.Markevitch, Optical and lensing map: NASA/STScI, Magellan/U.Arizona/D.Clowe, Lensing map: ESO WFI. [Source](https://www.esa.int/ESA_Multimedia/Images/2007/07/The_Bullet_Cluster2).*
-
-![bulletcluster](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/07/the_bullet_cluster2/10084622-2-eng-GB/The_Bullet_Cluster_pillars.jpg)
-
-### La chasse aux particules de matière noire
 
 In 1984, an article by Andrzej Drukier and Leo Stodolsky at the Max Planck Institute
 in Munich appeared in Physical Review D, discussing techniques that might be used to de-
