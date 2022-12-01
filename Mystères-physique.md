@@ -797,6 +797,117 @@ matter (CDM) paradigm
 
 ![bulletcluster](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/07/the_bullet_cluster2/10084622-2-eng-GB/The_Bullet_Cluster_pillars.jpg)
 
+### La chasse aux particules de matière noire
+
+In 1984, an article by Andrzej Drukier and Leo Stodolsky at the Max Planck Institute
+in Munich appeared in Physical Review D, discussing techniques that might be used to de-
+tect neutrinos scattering elastically off nuclei [102]. Among other possibilities, the article
+proposed the use of a superconducting colloid detector, consisting of micron-scale super-
+conducting grains maintained at a temperature just below their superconducting transition.
+Even a very small quantity of energy deposited by the recoil of an incident neutrino could
+cause a superconducting grain to flip into the normal state, collapsing the magnetic field and
+producing a potentially measurable electromagnetic signal. In January 1985, Mark Good-
+man and Ed Witten submitted a paper to the same journal, arguing that this technology
+could also be used to detect some types of dark matter particles [140]14. Although Drukier
+and Stodolsky’s original detector concept was never employed at a scale sensitive to dark
+matter, the broader notion of experiments capable of detecting ∼1-100 keV nuclear recoils
+provided a path through which it appeared possible to test the WIMP hypothesis
+
+The first experiment to place constraints on the scattering cross section of dark matter
+with nuclei was carried out in 1986 at the Homestake Mine in South Dakota by a collab-
+oration of scientists at the Pacific Northwest National Laboratory, the University of South
+Carolina, Boston University, and Harvard [18]. Using a low-background germanium ion-
+ization detector (originally designed to search for neutrinoless double beta decay), they
+accumulated an exposure of 33 kg-days, yielding a limit that significantly constrained dark
+matter candidates with unsuppressed spin-independent scattering cross sections with nuclei
+(such as heavy neutrinos or sneutrinos
+
+Despite the importance of these first dark matter scattering limits, the reach of such
+detectors quickly became limited by their backgrounds, making it difficult to achieve sig-
+nificant improvements in sensitivity. One possible solution to this problem, first suggested
+by Andrzej Drukier, Katherine Freese, and David Spergel [101], was to search for an annual
+variation in the rate of dark matter induced events in such an experiment, as was predicted
+to result from the combination of the Earth’s motion around the Sun and the Sun’s motion
+through the dark matter halo. Such a technique could, in principle, be used to identify a
+signal of dark matter scattering over a large rate of otherwise indistinguishable background
+events. The most well known group to employ this technique was the DAMA/NaI Collabora-
+tion (and later DAMA/LIBRA). The original DAMA/NaI experiment consisted of nine 9.70
+kg scintillating thallium-doped sodium iodide crystals, located in Italy’s deep underground
+Gran Sasso Laboratory. In 1998, they published their first results, reporting the observa-
+tion of an annually modulating rate consistent with dark matter scattering [43]. Over the
+past nearly two decades, DAMA’s signal has persisted and become increasingly statistically
+significant as more data was collected [42], including with the more recent DAMA/LIBRA
+detector [44, 45]. At this point in time, it seems hard to reconcile dark matter interpretations
+of the DAMA/LIBRA signal with the null results of other direct detection experiments. On
+the other hand, no convincing alternative explanation for this signal has been so far identi-
+fied
+
+As CDMS, EDELWEISS, XENON100, LUX and other direct detection experiments have
+increased in sensitivity over the past decades, they have tested and ruled out an impres-
+sive range of particle dark matter models.
+
+In the 1978 Valentine’s Day issue of Physical Review Letters, there appeared two articles
+that discussed – for the first time – the possibility that the annihilations of pairs of dark
+matter particles might produce an observable flux of gamma rays. And although each of
+these papers (by Jim Gunn, Ben Lee,15 Ian Lerche, David Schramm and Gary Steigman [144],
+and by Floyd Stecker [303]) focused on dark matter in the form of a heavy stable lepton
+(i.e. a heavy neutrino), similar calculations would later be applied to a wide range of dark
+matter candidates. On that day, many hopeless romantics became destined to a lifetime of
+searching for signals of dark matter in the gamma-ray sky.
+
+nnihilations taking place within high-density dark matter halos, such as
+that of the Milky Way, could plausibly produce a flux of gamma rays that was not much
+fainter than that observed at high galactic latitudes, and with a distinctive gradient on the
+sky
+
+n the decades that followed, measurements of astrophysical gamma ray, antimatter, and
+neutrino fluxes improved dramatically. In parallel, the scientific community’s understanding
+of the astrophysical sources and propagation of such particles also matured considerably.
+Information from successive gamma-ray satellite missions, including COS-B [153], EGRET
+(Energetic Gamma Ray Experiment Telescope) [301], and the Fermi Gamma-Ray Space
+Telescope, gradually lead to the conclusion that most of the observed gamma-ray emission
+could be attributed to known gamma-ray source classes (such as active galactic nuclei),
+although it remains possible that a non-negligible component of the high-latitude background
+could originate from dark matter 
+
+Motivated by their high densities of dark matter and low levels of baryonic activity,
+dwarf spheroidal galaxies – satellites of the Milky Way – have in recent years become a
+prime target of gamma-ray telescopes searching for evidence of dark matter annihilations.
+Fermi’s study of dwarf galaxies has provided the strongest limits on the dark matter anni-
+hilation cross section to date, strongly constraining WIMPs lighter than ∼100 GeV or so in
+mass 
+
+As large volume neutrino telescopes began to be deployed, such experiments became
+increasingly sensitive to dark matter annihilating in the interiors of the Sun and Earth. The
+AMANDA detector at the South Pole [19], along with Super-Kamiokande in Japan [90],
+each significantly improved upon previous limits, to be followed most notably by IceCube [5]
+and ANTARES [11]. Constraints from neutrino telescopes are currently competitive with
+those derived from direct detection experiments for the case of WIMPs with spin-dependent
+interactions with nuclei.
+
+Many of the strategies employed to search for annihilating dark matter have also been
+used to constrain the rate at which dark matter particles might decay. In addition to con-
+straints on gravitinos and other potentially unstable particles, such searches are particularly
+interesting within the context of sterile neutrino dark matter. Sterile neutrinos with masses
+in the range of ∼1-100 keV are predicted to decay (into an active neutrino and a photon)
+at a rate that could generate a potentially observable X-ray line 
+
+For some time, there has been an active experimental program searching for dark matter
+axions, most notably in the form of the Axion Dark Matter eXperiment (ADMX). The idea
+behind this effort is to make use of the photon-photon-axion coupling, generically present
+in axion models, to convert dark matter axions in a strong and static magnetic field into
+a signal of nearly monochromatic microwave photons. This possibility was first suggested
+by Pierre Sikivie in 1983 
+
+The first laboratory constraints on dark matter axions were presented in the late 1980s, by
+a number of groups [88, 149, 342]. While the frequency range covered by these experiments
+was well suited to axion masses favored by dark matter abundance considerations (covering
+approximately ma ' 4.5 − 16.3 μeV), their sensitivity was orders of magnitude below that
+required to test realistic axion models. In 2003, however, the ADMX Collaboration reported
+results that constrained realistic axion dark matter models
+
+
+
 # Energie sombre
 
 *Sources*
