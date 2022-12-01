@@ -18,6 +18,330 @@
 
 ---
 
+The model
+describes the geometry and material content of the Uni-
+verse, explaining how structure - galaxies of various sizes
+and types, groups and clusters of galaxies, the entire cos-
+mic web of filaments and voids - emerged from a hot and
+near-uniform Big Bang. This astonishing richness appears
+to have grown from quantum zero-point fluctuations pro-
+duced during a period of cosmic inflation occurring very
+soon after the beginning of our Universe. Over the sub-
+sequent 13.7 billion years, these small density perturba-
+tions were amplified by the relentless action of gravita-
+tional forces due predominantly to dark matter, but illumi-
+nated by complex astrophysical phenomena involving ordi-
+nary matter. In the standard model, the dark matter, which
+makes up five sixths of all matter, is hypothesised to be a
+weakly interacting non-baryonic elementary particle, cre-
+ated in the early stages of cosmic evolution.
+
+Although mas-
+sive neutrinos had already been suggested as a dark matter
+candidate by Cowsik and McClelland [8,9] and Szalay and
+Marx [10], White and Rees considered an early population
+of low-mass stars as the most plausible identification for
+the dark matter in their theory.
+The evolution of the halo population in this theory was
+based on Press and Schechter’s [11] analytic model for the
+growth of cosmic structure from a Gaussian initial density
+field. To test this model, Press and Schechter carried out
+computer N-body simulations. This was the first time nu-
+merical experiments were used for quantitative exploration
+of nonlinear structure formation in an expanding universe.
+
+The direct N-body integrators of the
+1970’s could follow ∼ 1000 particles within an expanding
+spherical volume (N = 4000 in two simulations by Aarseth,
+Gott and Turner [13]) so small particle numbers and edge
+effects seriously limited the conclusions which could be
+drawn. 
+
+Today’s standard model of cosmology arose through the
+confluence of three distinct disciplines: particle physics, as-
+tronomy and computing. In the early 1980s, new develop-
+ments in each of these areas coalesced to establish the phys-
+ical foundations and methodology of what, twenty years
+later, would become the standard model.
+
+From particle physics came two fundamental new ideas.
+The first was Guth and Linde’s theory of cosmic inflation
+[27, 28] and the realisation that it could give rise to quan-
+tum fluctuations that might seed the universe with adia-
+batic, scale invariant density perturbations [29–32]. The
+second was the proposal that the dark matter (DM) could
+be composed of non-baryonic particles. This idea took cen-
+tre stage after Lubimov et al. [33] measured a ∼ 30eV mass
+for the electron neutrino, enough to provide the critical
+density needed to close the universe [8]. Such light par-
+ticles would remain relativistic until relatively late times,
+but it was soon recognized that other (hypothetical) parti-
+cles which were more massive and decoupled earlier could
+also be dark matter. This led to the convenient classification
+of candidate dark matter particles into three families: hot,
+warm and cold dark matter, names that reflect their typical
+velocities at some early time, for example at the epoch of
+recombination [21]. Light neutrinos are the prototype for
+hot dark matter (HDM) and are the only DM candidates
+that are proven to exist from earth-bound experiments; a
+supersymmetric particle [34] or an axion [35] emerged as
+plausible candidates for cold dark matter (CDM); a non-
+standard gravitino was the initially suggested candidate for
+warm dark matter (WDM) [36], but more recently, a sterile
+neutrino has seemed a more attractive possibility
+
+For the first time, there was a plausible physical mech-
+anism to generate small density irregularities in the very
+early universe and several concrete proposals for the iden-
+tity of the dark matter which would drive their late-time
+amplification. Thus, the ingredients were in place for de-
+tailed linear calculations of the evolution of structure in the
+universe, from its initial generation until the formation of
+the first nonlinear objects. 
+
+Inflation seeds the universe with nearly scale invari-
+ant, adiabatic density perturbations of very small (and tun-
+able) amplitude and a simple power-law power spectrum,
+P(k) ∝ k n , where n is close to, but smaller than unity.
+As the universe expands, the growth of these perturba-
+tions is regulated initially by the dominant radiation com-
+ponent and later by the dark matter. 
+
+the smallest structure which can
+form directly is radically different in each case: for HDM,
+superclusters form first and must fragment to make galax-
+ies; for WDM and CDM, small objects form first and grow
+by merging and accretion to make bigger systems. Dark
+matter objects significantly smaller than galaxies can form
+in CDM, but not in WDM.
+The proposal of inflationary fluctuation generation and
+the rise of interest in particle dark matter coincided with the
+publication of the first extensive 3D survey of galaxies, the
+CfA redshift survey [39]. Lilliputian by today’s standards,
+this survey gave the first clear picture of the richness of
+the large-scale distribution of galaxies, offering a glimpse
+of what would later be called the “cosmic web” 
+
+N-body simulations had been used
+in previous years to study the growth of nonlinear structure
+in an expanding universe, and the size of feasible calcula-
+tions was increasing rapidly through developments in both
+hardware and algorithms. 
+
+the ex-
+clusion of a neutrino-dominated universe was a major suc-
+cess for the then new cosmological methodology: a light
+neutrino mass in the ∼ 30 eV range was conclusively ruled
+out by a combination of N-body simulations and astronom-
+ical observations. Attention then shifted to the alternative
+possibility of a universe dominated by cold dark matter.
+The first simulations of structure formation in such a uni-
+verse [44] (hereafter DEFW), illustrated in Fig. 2, revealed
+that this hypothesis gave far better results when compared
+to the CfA data. 
+
+following the formation and evo-
+lution of the galaxies within each dark halo in the simu-
+lated volume. It might seem that this would best be accom-
+plished by direct inclusion of the baryonic component and
+all the astrophysical processes affecting it. Unfortunately,
+this is far beyond current computational capabilities. The
+difficulty is that the relevant baryonic processes are not
+only much more diverse and complex than the purely gravi-
+tational processes which affect the dark matter, but are also
+sensitive to much smaller length- and time-scales than can
+be followed in a cosmological simulation (related, for ex-
+ample, to star formation and evolution or black hole ac-
+cretion). Although this is currently a very active area of
+computational astrophysics and progress is rapid, such hy-
+drodynamic galaxy formation simulations are still far from
+reproducing basic properties of the galaxy population such
+as their abundance as a function of stellar mass or their spa-
+tial clustering [85–88].
+An alternative approach takes the assembly history and
+structure of each dark halo from a large cosmological simu-
+lation and calculates the growth of galaxies within it using
+simplified phenomenological treatments of baryonic pro-
+cesses. The latter are typically based on physical insights
+gained from simulations of individual systems and from
+observation [89–91]. Uncertain parameters such as the ef-
+ficiencies of star formation, of black hole growth or of
+feedback from stars and black holes can be adjusted to re-
+produce the properties of the observed galaxy distribution,
+thus providing a practical and empirical route to measure
+these efficiencies and their dependence on galaxy mass and
+epoch.
+
+Recent semi-analytic galaxy formation simulations fol-
+low the evolution of millions of galaxies throughout vol-
+umes comparable to those of new very large redshift sur-
+veys like the SDSS. In particular, several generations of
+publicly available models based on the Millennium Sim-
+ulatio [96, 98–101] have produced ever closer matches
+to the observed galaxy population and have been widely
+used by the community4. This success reflects the fact
+that simulations of this kind make it possible to construct
+mock surveys where the simulated galaxy population is
+"observed" with a virtual telescope to produce a sample
+in which galaxy properties and the large-scale structure
+can be compared directly with those observed in real sur-
+veys
+
+Dark matter halos are the fundamental nonlinear units of
+cosmic structure and galaxies condense in their cores. As
+a result, halos have a special status in cosmology. Under-
+standing their basic properties – formation histories, inter-
+nal structure and abundance – is an important step in devis-
+ing astronomical tests of the ΛCDM paradigm and in ex-
+ploring how galaxies form. Halos are also the prime hunt-
+ing ground for dark matter detection. Direct detection ex-
+periments target dark matter particles at the Earth’s posi-
+tion within our own Galactic halo; indirect detection exper-
+iments target the radiation from decaying or annihilating
+dark matter particles, and this is also strongly affected by
+the structure of halos.
+
+The idea that dark matter is made of free elementary par-
+ticles of some new type will likely be fully accepted by
+the scientific community only once non-gravitational ef-
+fects of these particles have been unambiguously measured.
+Two routes to making such measurements are being ac-
+tively pursued. Direct detection experiments attempt to
+measure the effects of dark matter particles in a laboratory.
+
+The second route to non-gravitational detection is by
+searching for annihilation or decay products from dis-
+tant dark matter concentrations. In typical supersymmetric
+models WIMPS can decay and can annihilate with each
+other. Both processes can have a significant branching ra-
+tio into photons which would then be detectable with γ-
+ray telescopes. Since particle decay is independent of en-
+vironment, it would produce γ-ray images of dark matter
+halos which trace their mass distribution, just as optical
+images of galaxies trace their star distribution. 
+
+The evidence that the universe conforms to the expecta-
+tions of the CDM model is compelling but not decisive.
+Current observational tests span a very wide range of
+scales. Fluctuations in the microwave background probe
+from the whole observable universe down to the scale of
+rich galaxy clusters. Galaxy and quasar clustering probe
+scales between one and a few hundred megaparsecs. Gravi-
+tational lensing measurements constrain the detailed struc-
+ture of galaxy and cluster halos. Observations of the Ly-
+α forest at z ∼ 2 probe down to scales far below those
+responsible for forming bright galaxies like the Milky
+Way, putting severe constraints on warm dark matter and
+on any subdominant contribution from massive neutrinos
+[194, 208, 209]. Nevertheless, new data are needed to test
+the model on even smaller scales. Currently, warm dark
+matter remains possible if the particles are sufficiently mas-
+sive to evade the Ly-α forest constraints. More exotic pos-
+sibilities such as self-interacting dark matter may also be
+possible, provided their properties are carefully tuned. Ex-
+perimental searches for such alternative types of dark mat-
+ter would need to be quite different than those for WIMPS
+or axions, so it is imperative that astrophysicists continue
+to test the standard model and to evaluate possible evidence
+for alternatives. Dwarf galaxies are a prime source of such
+evidence, both in the field and as satellites of larger galax-
+ies.
+On subgalactic scales, currently viable hypotheses for
+the dark matter can produce strikingly different structure.
+
+There are three aspects of small-scale structure where
+potential conflicts with the cold dark matter model have
+been identified: (i) the luminosity function of galactic satel-
+lites, (ii) the abundance of galactic substructures as a func-
+tion of mass or circular velocity and (iii) the structure of the
+halos that host faint satellites or field dwarfs. Problem (ii)
+was the first to be clearly identified in the late 1990s when
+N-body simulations revealed a large number of subhalos
+within galactic halos, vastly exceeding the number of satel-
+lites then known to be orbiting in the halo of the Milky Way
+[136, 175]. In its original form, the problem was expressed
+as an excess of subhalos as a function of their circular ve-
+locity or mass but it was soon re-expressed as an excess of
+subhalos as a function of their galaxy luminosity. Although
+closely related, these two statements are conceptually dis-
+tinct and the solutions that have been proposed differ for
+the two cases.
+The small number of visible satellites in the Milky Way
+compared to the large number of subhalos in N-body simu-
+lations of galactic halos is often referred to as “the satellite
+problem”. Soon after it was first formulated, a new popu-
+lation of ultra-faint dwarf satellites was discovered in the
+Milky Way [211–215], but they are too small and too few
+to alter the argument. 
+
+The three problems mentioned at the beginning of this
+section remain a subject of lively debate and suggest clear
+avenues for astrophysical progress, both theoretical and ob-
+servational. Higher resolution N-body simulations will fur-
+ther explore predictions for warm and self-interacting dark
+matter. More realistic N-body and hydrodynamic simula-
+tions should clarify whether baryonic effects are indeed vi-
+able explanations for the apparent discrepancies with pre-
+dicted halo structure. 
+
+Most searches are focused on cold dark matter. This is
+entirely justified: the cold dark matter model has been the
+catalyst for the momentous developments of the past thirty
+years. The statistical properties of the large-scale distribu-
+tion of galaxies, the form and amplitude of the microwave
+background temperature fluctuations and many aspects of
+galaxy formation were predicted (in advance!) by theoret-
+ical models that had cold dark matter at their heart. Time
+and again when astronomical data seemed to conflict with
+the model (for example, the clustering of galaxy clusters,
+large-scale streaming data, galaxies at very high redshift)
+the conflict has been resolved either by revisions of the data
+or by refinments of the theory. Nevertheless, even the most
+ardent supporters of the cold dark matter idea must remain
+sceptical until the dark matter particles are finally and con-
+clusively discovered.
+
+1970-1980 Prehistory
+Dark matter (DM) halos are proposed to surround all galaxies
+Massive neutrinos are suggested as a dark matter candidate
+Large-scale structure is characterized through the measurement of galaxy correlation functions
+First analytic models and computer simulations are built for nonlinear structure formation in an expanding universe
+Simulations from idealized initial conditions contrast the “isothermal” case where structure grows by hierarchical merging
+with the "adiabatic" case where galaxies form by fragmentation of large-scale structure
+
+1980-83 The breakthrough years
+The CfA redshift survey provides a first representative picture of the cosmic web
+A claimed measurement of a 30eV mass for νe galvanizes research into elementary particle dark matter
+Quantum fluctuations during an early inflationary era are suggested as a physical model for the initial generation of density
+fluctuations
+Improved calculations of early linear evolution provide accurate initial conditions for late-time growth, dividing particle
+candidates into Hot, Warm and Cold Dark Matter (HDM, WDM, CDM respectively)
+Simulations from these initial conditions exclude HDM (and hence all known particle species) for the bulk of the DM
+
+1983-2002 Establishment of the standard model
+Simulations from CDM initial conditions produce large-scale structure resembling that seen in redshift surveys
+Galaxies are shown to trace the DM distribution in a biased way depending strongly on galaxy type and on epoch
+The first direct detection experiments and the first searches for DM annihilation radiation are set up
+The COBE measurement of temperature fluctuations in the cosmic microwave background (CMB) indicates an amplitude
+too small for a universe without particle DM, but too large for a universe with a closure density of such DM
+Large-scale correlations of galaxies and the baryon fraction of rich clusters prove inconsistent with a high-density universe
+Simulations establish the detailed structure expected for DM halos in a CDM universe
+Supernova measurements rule out a high density universe and strongly suggest accelerated expansion
+Boomerang and Maxima convincingly localize the first acoustic peak in the CMB, showing our universe to be flat
+WMAP convincingly measures the second acoustic peak also, excluding many alternatives to the standard model and giving
+precise estimates of the baryon and dark matter densities
+
+2002-present Pushing to new frontiers
+Simulations explore the predictions of the standard model at higher precision and on both larger and smaller scales
+Gravitational lensing measurements check the detailed structure predicted for dark halos
+Large redshift surveys give precise measures of galaxy biasing, and of the Gaussianity and power spectrum of the initial
+conditions, detecting weak baryon-induced features
+Simulations and observations explore constraints on the nature of the dark matter based on the inner structure of dark halos
+and on structure in the intergalactic medium
+Both direct detection experiments and the Fermi satellite begin to exclude parts of the parameter space expected for WIMPs
+
+
+
 # La cosmologie quantique
 
 *Sources*
@@ -38,6 +362,7 @@
 - [A History of Dark Matter](https://arxiv.org/pdf/1605.04909.pdf) - Berton et Hooper (2016)
 - [Dark matter and cosmic structure](https://arxiv.org/abs/1210.0544) - Frenk and White (2012)
 - [La matière noire, une sombre affaire](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2016/04/refdp201651p4.pdf) - Combes (2016)
+- [Dark matter and cosmic structure](https://arxiv.org/abs/1210.0544) - White et Frenk (2012)
 
 ---
 
@@ -71,6 +396,19 @@ n the 1960s, Kent Ford developed an image tube spectrograph that Vera Rubin and 
 used to perform spectroscopic observations of the Andromeda Galaxy. The observations of
 the M31 rotation curve Rubin and Ford published in 1970 [267] represented a step forward in
 terms of quality.
+
+the idea that galaxies and
+galaxy clusters are embedded in massive dark matter halos
+was not widely discussed until the 1970’s. This changed
+with the influential, observationally based papers of Os-
+triker, Peebles and Yahil [4] and Einasto, Kaasik, Saar and
+Chernin [5] and with Ostriker and Peebles’ theoretical ar-
+gument that massive halos are required to stabilize spiral
+galaxy disks [6]. Within four years, a hierarchically merg-
+ing population of dark matter halos formed the basis for the
+galaxy formation scenario proposed by White and Rees [7],
+providing the gravitational potential wells within which
+gas cools and condenses to form galaxies. 
 
 t was also in 1970 that the first explicit statements began to appear arguing that ad-
 ditional mass was needed in the outer parts of some galaxies, based on comparisons of the
