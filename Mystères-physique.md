@@ -930,9 +930,75 @@ Scientists expect that axions would convert into an electromagnetic wave in a mi
 
 But the researchers suggest a number of other methods that physicists currently use and could potentially use to hunt for axions. These include using terrestrial telescopes, using the CERN Axion Search Telescope (CST) to detect axions produced in the sun's core, or even spotting axions in the magnetosphere of neutron stars where they're thought to convert into photons and leave behind distinct spectral features. 
 
+Particle: Weakly interacting massive particles (WIMPs)
+Year proposed: 1985  Mass: 1 to 1000 GeV
+
+When it comes to dark matter, physicists have placed their biggest bets, in terms of research dollars, on WIMPs. These entities surged to the fore in the mid-1980s, connecting the largest, cosmic scale of physics with the smallest, the standard model of particle physics. 
+
+Developed over many decades, the standard model is a stunning scientific success. With pinpoint precision, it describes three of nature’s four forces — electromagnetic, and the strong and weak nuclear forces. But the model also has yawning gaps, including not being able to describe the fourth force, gravity, and failing to explain dark matter at all.
+
+A refinement of the standard model called supersymmetry smooths over many of its flaws. It fills the gaps by proposing new, heavier partner particles for all known particles. Plug these new heavies into the mix, and, voilà, their total mass strikingly matches the estimates for dark matter. Cosmologists had already been kicking around the idea of WIMPs without knowing what they might be, and suddenly they had a match. Assuming supersymmetry’s heavier partners were WIMPs resolved everything so perfectly, researchers dubbed it the “WIMP miracle.” Conveniently, these WIMPs would interact with normal matter, albeit very weakly as their name implies; such interactions should render them eminently discoverable.
+
+Emphasis on the should. Despite multiple big-budget experiments in 2016 and 2017, WIMPs have disappointed. And in May 2018, the XENON1T instrument in Italy — the biggest WIMP search to date — likewise reported finding nothing. In all three experiments, giant containers of liquid xenon served as dark matter dragnets, which would ideally, and occasionally, jostle some of the dark stuff we’re supposedly always swimming through, producing a telltale light.
+
+WIMPs also have failed to appear in other detection methods. Theories suggest the particles may occasionally destroy each other or decay, resulting in showers of gamma rays, but searches have found no convincing evidence. And many physicists expected that the Large Hadron Collider — the most powerful particle accelerator ever built — would produce heavy, novel particles, including WIMPs. But a decade of operations with no heavy partners to show for it has instead made some physicists question the whole notion of supersymmetry.
+
+Particle: Axion
+Year proposed: 1977  Mass: About 0.000000000000001 GeV
+
+After a humble start, the axion is now surging in the race. Physicists originally came up with this particle to help fix a problem with the strong nuclear force, one of nature’s four fundamental forces. The problem is particles that feel the strong force are persnickety; they don’t behave differently when either their electric charges are switched, or they get flipped upside down. The standard model is perfectly cool with this, but it bothered researchers, so they came up with a way to explain that unusual rigidness. As a side effect, the explanation also suggested the universe may be full of new hypothetical particles called axions.
+
+And, as it happens, axions also fit the bill for dark matter. Although the individual particles have a ridiculously low mass, the universe-forming Big Bang could have churned out axions in dizzying abundance — enough, in fact, to constitute all the dark matter in the cosmos. “A whole lot of the early universe’s energy gets dumped into these particles,” says University of Washington physicist Gray Rybka. “And because they don’t interact very much with anything else, you’d have all this leftover matter kicking about the universe.” Presto: dark matter!
+
+To catch any fleeting axions, researchers at the Axion Dark Matter eXperiment at the University of Washington cool a cylinder to nearly absolute zero before it emits a strong magnetic field, which should transform the theoretical dark matter particles into radio waves. 
+
+ADMX became the first device with the sensitivity necessary for nabbing those hyper-aloof axions. It’s not much to look at, just a 13-foot-long metal cylinder sunk into the floor, cooled to just above absolute zero to silence any signal-masking perturbations. 
+
+Essentially, a magnet inside cranks out a powerful magnetic field that, according to theory, should convert any nearby axions into your standard radio waves. To detect these infinitesimal signals — roughly a billionth of a billionth of a billionth of a watt each — ADMX has specially designed amplifiers. It’s the most sensitive radio receiver ever built.
+
+As for this dark matter dark horse’s name, credit MIT physicist Frank Wilczek. He coined it in the 1970s after randomly seeing Axion detergent — still manufactured today — on a store shelf.
+
+Particle: Sterile neutrino
+Year proposed: Late 1970s Mass: Roughly 1 GeV
+
+Once left in the dust as a dark matter candidate, the sterile neutrino has roared back into the race. It’s a hypothesized new type, or flavor, of neutrino. These ubiquitous particles currently come in three flavors and are all but oblivious to matter, passing clear through our bodies (and everything else) by the hundreds of trillions every second. But while everyday neutrinos will very occasionally touch matter via the weak nuclear force, the sterile neutrino would be even more hands-off; a clean freak, it never deigns to dirty itself with any interactions beyond gravity.
+
+The idea of sterile neutrinos gained traction when an experiment in the 1990s recorded a strange excess of one flavor, called the electron neutrino, over the other two (now known to be muon and tau neutrinos, for those keeping track). The particles should have appeared in roughly equal numbers. Around that same time, though, experiments revealed that neutrinos transform from one flavor to another spontaneously as they flit about the universe. Theorists postulated that the flavor skew arose because some neutrinos were temporarily morphing into a fourth, sterile flavor before “returning” as garden variety electron neutrinos. When other observations ended up contradicting the idea, physicists summarily dismissed that lone result as an experimental fluke.
+
+Yet sterile neutrino advocates might just have the last laugh. In June 2018, a second experiment, christened MiniBooNE, found the same flavor excess based on a whopping 15 years’ worth of data. Housed at the Fermi National Accelerator Laboratory just outside Chicago, MiniBooNE is hardly mini. It’s a sensor-studded sphere measuring nearly 40 feet across, filled with over 800 tons of pure mineral oil. The instrument registers the flashes of light emitted on the rare occasions when neutrinos — produced in a nearby beam — bump into the oil’s constituent atoms. While it’s too soon to chalk up the observed flavor anomalies to sterile neutrinos, they do slot in nicely. “There’s clearly something going on, and it’s tantalizing,” says Richard Van de Water, a physicist at Los Alamos National Laboratory and MiniBooNE co-spokesman.
+
+Assuming sterile neutrinos prove legit, they are still likely neither sufficient in mass nor number to constitute the bulk of dark matter. But just as normal neutrinos come in three flavors, multiple kinds of sterile neutrinos, with different masses, may also exist. And going a step further, neutrinos may not be the only kind of particle with a sterile counterpart. Researchers have high hopes, in fact, that landing the sterile neutrino will crack the door open into a realm of new physics beyond the standard model, dramatically dubbed the dark sector. 
+
+Multiple new teams hope to further suss out neutrinos’ weirdness with new projects. For their part, Van de Water and colleagues have started a fresh experiment at Los Alamos, called Coherent CAPTAIN-Mills. It uses chilled vats of argon to capture any telltale oscillations between flavors of neutrinos. Van de Water says the experiment could offer “smoking gun proof” of sterile neutrinos by early next decade, potentially blowing the dark matter search wide open.
+
+Particle: Strongly interacting massive particles (SIMPs)
+Year proposed: 2014  Mass: About 0.1 GeV
+
+Could physicists be wagering on all the wrong dark matter horses? Hitoshi Murayama, a theoretical physicist at the University of California, Berkeley, thinks so. “There is actually something wrong with the traditional thinking about dark matter,” he says. Along with Yonit Hochberg at Hebrew University of Jerusalem, Murayama recently helped develop the SIMP (or strongly interacting massive particles), a whole new breed of dark matter particle. 
+
+The top contenders — WIMPs, axions and sterile neutrinos — are all postulated as indivisible, elementary particles. SIMPs, on the other hand, are composite particles, made of other, smaller particles. 
+
+The smaller bits making up protons, neutrons and SIMPs are called quarks, but in the SIMP’s case, they would be individually composed of a quark paired with a hypothetical antiquark, which primarily goes about its business in the dark sector beyond the standard model. Still, the physics of composite particles is well understood, and that degree of familiarity could make SIMPs easier to detect and understand than the more exotic indivisible dark matter candidates. 
+
+SIMPs would be gregarious by nature, strongly interacting with other SIMPs. That’s in contrast to WIMPs, which only weakly interact with each other and normal matter. As a result, instead of WIMPily flowing past their fellow particles, SIMPs would knock heads and bounce off one another like billiard balls.
+
+One more thing points to SIMPs. There should be enough of them to explain away all of the universe’s dark matter, unlike the more complicated theories other particles require. “SIMPs can be 100 percent of dark matter without any problems,” says Murayama. 
+
+As for someday bagging SIMPs, hopes rest on particle accelerators such as the SuperKEKB, which started in Japan in April 2018. Such machines bang together lightweight electrons and their antimatter counterparts, and from the detritus might fling out the occasional SIMP. 
+
+MACHOS
+
+In the late 1980s, scientists got their hopes up that MACHOs — gobs of normal matter that were simply dim and tough to detect — could answer the dark matter question. These objects would range from planets to failed stars to black holes. Unfortunately, well-supported Big Bang models struggle to produce anywhere near enough regular matter for MACHOs to fill the cosmic ledger. More damningly, observations have consistently ruled out any vast populations of clandestine black holes, which should give themselves away when their gravity bends background starlight. An October 2018 study took out the last leg for MACHOs to stand on, putting serious constraints on the possibility of primordial black holes — hypothetical monsters born in the early universe — being the last plausible reservoir of significant unaccounted-for matter. Whatever the bulk of dark matter may be, MACHOs ain’t it.
+
+
+
 *Candidats à la matière noire. Crédit : Samuel Velasco/Quanta Magazine [Source](https://www.quantamagazine.org/physicists-are-expanding-the-search-for-dark-matter-20201123/)*
 
 ![DMparticles](https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/11/Dark_Matter_graphic_2880x1620_Lede_final.svg)
+
+*Liste plus exhaustive de candidats. Crédit : Alves Batista et al (2021). [Source](https://arxiv.org/abs/2110.10074)*
+
+![DMcandidates](https://i.imgur.com/VgeZTI3.png)
 
 # Energie sombre
 
