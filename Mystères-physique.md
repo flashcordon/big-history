@@ -96,6 +96,336 @@ By the late 1980s, the hypothesis that the missing mass
 consists of one or more yet-unknown subatomic particle species had gained enough support
 to become established as the leading paradigm for dark matter.
 
+Le terme « matière noire »
+(ou dark matter en anglais) commence à
+apparaître vers la fin des années 1970 [6]
+
+Jusqu’en 1980, pour la majorité des
+astronomes la matière noire devait être
+composée de matière ordinaire, donc de
+baryons. En 1984, il est définitivement
+établi que l’essentiel de la matière noire ne
+peut pas être de la matière baryonique,
+ceci pour deux raisons. La première est
+que l’abondance du deutérium et de
+l’hélium formés dans la nucléosynthèse
+primordiale n’est compatible avec les
+observations que si la fraction de baryons
+ne représente que 5% de la densité critique
+(la densité nécessaire pour arrêter
+l’expansion de l’Univers par sa gravité).
+D’autre part, la formation des structures
+dans l’Univers sous l’effet de la gravitation
+est très lente à cause de l’expansion, et la
+matière ordinaire, ionisée et très couplée
+avec les photons, prend du retard pour
+s’effondrer sous l’effet de la gravité. Si l’on
+attend que la température dans l’expansion
+tombe en-dessous de 3000 degrés, pour
+que l’hydrogène se recombine et que le
+gaz s’effondre, il n’y a plus assez de temps
+pour former les galaxies. Il est donc
+nécessaire de disposer de matière exotique,
+sans interactions avec la lumière, qui peut
+s’effondrer tôt après le Big-Bang, avant
+même que la matière ordinaire puisse le
+faire [7]. Le nom de cette matière devrait
+alors être matière transparente, plutôt que
+matière noire : les rayons lumineux la
+traversent !
+
+Il faut noter aussi que, dès les premières
+découvertes dans les années 1930, la
+solution « législative », c’est-à-dire de
+changement des lois de la physique, a été
+avancée. Il est toutefois plus facile
+d’ajouter de la matière invisible à chaque
+fois qu’il en manque que d’imaginer et
+d’établir une théorie généralisant la loi de
+la gravité de Newton et la relativité
+générale. Une percée a été faite par le
+théoricien israélien Moti Milgrom dès
+1983 [8], avec un modèle de gravité
+modifiée en champ faible (MOND) qui
+rencontre beaucoup de succès à l’échelle
+des galaxies, mais des problèmes aux grandes
+échelles
+
+Aujourd’hui, les observations ont énor-
+mément progressé, et nous avons un
+recensement détaillé des régions de
+l’Univers où il manque de la masse, i.e. où
+la masse dynamique est supérieure à la masse
+visible. Au niveau des galaxies massives
+(voir l’encadré), la matière noire apparaît
+surtout dans leurs régions extérieures,
+comme un halo entourant le système
+visible. Dans notre galaxie, la Voie lactée,
+le besoin de masse supplémentaire ne se
+fait sentir qu’au-delà de la position du
+Soleil, qui est situé à 25 000 années-lumière
+du centre (soit la moitié du rayon du
+disque d’étoiles). 
+
+Dans ce domaine, un outil s’est considé-
+rablement développé ces vingt dernières
+années : les lentilles gravitationnelles
+en règle générale,
+les images de toutes les galaxies d’arrière-
+plan sont déformées, allongées de façon
+minime, et c’est l’ensemble statistique de
+ces centaines ou milliers de déformations
+qui renseigne sur la quantité de matière
+noire. C’est le phénomène de lentille faible,
+ou cisaillement gravitationnel, qui permet
+de cartographier la matière invisible
+
+Les cartes de la matière noire obtenues
+ainsi, à l’échelle des amas de galaxies,
+correspondent dans la grande majorité des
+cas aux cartes de matière visible. Il existe
+pourtant des cas très intéressants de sépara-
+tion spatiale des deux matières : les collisions
+violentes entre sous-amas. Le prototype de
+ces collisions est l’amas dit du Boulet
+(photo p. 5). Trois sortes de matière sont
+représentées ici : les galaxies qui se com-
+portent comme un milieu sans collision, la
+matière noire cartographiée par les lentilles
+gravitationnelles, et un gaz très chaud, à des
+millions de degrés, qui émet des rayons X.
+Le gaz est dissipatif, il est stoppé entre les
+deux amas par l’onde de choc de la collision.
+Or dans les amas riches de galaxies, le gaz
+chaud contient l’essentiel de la masse visible.
+La matière visible ne coïncide plus avec la
+matière noire ! Celle-ci reste concentrée
+sur les galaxies. Cette séparation a permis
+de conclure à l’existence réelle de matière
+invisible, pouvant se déconnecter complè-
+tement de la matière ordinaire.
+
+dans les années 1980, les
+neutrinos ont été considérés comme can-
+didats à la matière noire, vu leur abondance
+dans l’Univers, presque comparable à celle
+des photons. Il suffirait que leur masse soit
+le dix millionième de la masse de l’électron
+pour représenter toute la matière noire.
+Aujourd’hui la masse des neutrinos est
+estimée à 25 fois moins, et ne constituerait
+donc que 4% de la matière noire tout au plus.
+De toute façon, les simulations numériques
+des années 1980-90 montraient clairement
+que les neutrinos ne pouvaient pas constituer
+toute la matière noire, car faisant partie de
+la matière noire « chaude ». En effet, dès
+le changement de paradigme de 1984 sur
+la nature de la matière noire, les divers
+candidats peuvent être classés selon leur
+« température ». Le caractère « chaud » ou
+« froid » repose sur le critère de la vitesse
+moyenne qu’ont les particules lorsqu’elles
+se découplent du plasma primitif, où photons,
+baryons et matière noire sont en équilibre.
+Selon que les particules sont relativistes ou
+non lorsqu’elles se découplent de la soupe
+primitive juste après le Big-Bang, on parle
+de matière noire chaude (Hot Dark Matter
+ou HDM), ou de matière noire froide
+(Cold Dark Matter ou CDM). Les neutrinos
+font clairement partie de la première caté-
+gorie (HDM), même si aujourd’hui ils
+sont complètement ralentis et ne sont
+restés relativistes que durant les premiers
+3-4% de l’âge de l’Univers. La conséquence
+de leur vitesse relativiste est que ces particules
+trop chaudes vont empêcher les fluctuations
+de matière à petite échelle de se concentrer
+sous l’effet de leur propre gravité. En effet,
+les particules de matière noire chaude par-
+courent pratiquement les mêmes distances
+que les photons : elles ont un libre parcours
+moyen presque égal à l’horizon(a), et leur
+« pression » stabilise la matière sur les échelles
+inférieures. Aux échelles supérieures, la
+matière pourra s’effondrer sous l’influence
+de sa propre gravité. Les structures de
+taille inférieure devront alors se former par
+fragmentation, dans un schéma top-down,
+du haut vers le bas.
+Ce schéma ne correspond pas aux
+observations, notamment le spectre de
+masse des galaxies aux différents âges de
+l’Univers, qui favorisent le schéma
+contraire bottom-up, ou hiérarchique. Les
+premières structures à se former sont les
+plus petites structures instables, qui forment
+ensuite les grandes structures par fusions
+successives
+
+ Les simulations numériques de
+l’évolution de l’Univers avec les différents
+types de matière noire (fig. 4) ont montré
+que le modèle CDM, maintenant appelé
+modèle standard, est celui qui représente
+le mieux la formation des grandes struc-
+tures et explique toutes les observations du
+fond cosmologique micro-onde
+
+Pourtant, à l’échelle des galaxies, les
+prédictions du modèle CDM ne sont
+plus compatibles avec les observations. En
+particulier, dans ce modèle, la matière noire
+standard s’accumule au centre des galaxies,
+ce qui est contraire à ce que montrent les
+mesures de courbes de rotation (fig. 1). De
+plus, les simulations cosmologiques dans le
+modèle standard (CDM) prédisent l’existence
+de milliers de galaxies satellites autour des
+galaxies massives, milliers de galaxies qui
+ne sont pas observées. 
+
+L’autre problème du modèle standard
+CDM est l’accumulation des particules de
+matière noire au centre des galaxies, en un
+pic de densité qui n’est pas observé. Pour
+le résoudre, il a été proposé un modèle de
+particules de matière noire qui entrent en
+collisions entre elles. Ces collisions agi-
+raient surtout dans les parties les plus
+denses au centre, et auraient pour effet de
+disperser les particules et de rendre leurs
+trajectoires aléatoires dans cette région.
+Elles se distribueraient alors selon un
+nuage étendu, un « cœur », au lieu d’un
+pic de matière noire. Il reste toutefois
+beaucoup de problèmes à résoudre pour
+expliquer la taille des cœurs différente
+d’une galaxie à l’autre. D’autre part, une
+limite supérieure de la section efficace de
+collisions entre particules de matière noire
+a été déduite des amas de galaxies en collision,
+comme le Boulet (photo p. 5).
+Enfin, d’autres solutions sont explorées pour
+résoudre le problème des galaxies satellites
+manquantes : recourir à la matière noire
+« tiède » (fig. 4). Les structures à très petite
+échelle sont alors supprimées, mais une grande
+partie du modèle hiérarchique subsiste
+
+Il est remarquable que la masse des parti-
+cules de matière noire ne soit pas connue
+à plusieurs ordres de grandeur près. On sait
+toutefois que ces particules n’interagissent
+que très faiblement entre elles, d’où leur
+nom de WIMP (“Weakly Interacting
+Massive Particle”).
+Depuis 1985, juste après le changement
+de paradigme qui a fait de la matière noire
+une matière exotique et transparente, les
+astronomes et physiciens cherchent à détecter
+les particules qui la composent par leur
+interaction, même très faible, avec de la
+matière ordinaire. La matière noire devrait
+exister partout autour de nous, et les par-
+ticules de matière noire traverser la Terre
+en étant parfois diffusées par un noyau
+d’atome. C’est cette interaction que les
+expériences de détection souterraine, situées
+à l’abri des rayons cosmiques parasites dans
+les tunnels du Fréjus ou du Grand Sasso
+par exemple, essaient d’identifier. L’expérience
+la plus performante aujourd’hui est située
+aux États-Unis (LUX, Large Underground
+Xenon experiment), avec un détecteur de
+370 kg de xénon liquide. Les interactions
+éventuelles produisent des électrons et de
+la lumière, détectée par des tubes amplifi-
+cateurs de lumière. Jusqu’à présent, seules
+des particules de fond (neutrons, matière
+ordinaire) ont été détectées, mais aucune
+particule de matière noire. La prochaine
+étape aura lieu dans le tunnel du Grand
+Sasso, où a été inaugurée, en novembre
+2015, l’expérience Xenon1T, dont le
+détecteur est constitué de trois tonnes de
+xénon, objet d’une collaboration entre
+laboratoires américains et européens (dont
+des Français). Il a commencé à collecter
+des données au printemps 2016. Plusieurs
+autres expériences sont prévues dans les
+années futures, notamment LUX-Zeplin,
+qui contiendra 7 tonnes de xénon. 
+
+Pendant toutes ces années, le principal
+candidat à la matière noire froide (CDM)
+a été le neutralino. C’est une particule
+hypothétique qui fait partie de l’extension
+au-delà du modèle standard des particules
+élémentaires, permise par la théorie de
+supersymétrie. Chaque particule connue
+aurait une particule supersymétrique
+partenaire, plus massive, et de spin com-
+plémentaire (i.e. un fermion pour un boson,
+et réciproquement). Le neutralino est la
+particule la plus stable de cet ensemble, dans
+lequel les autres particules supersymétriques
+se désintègrent. Le neutralino est une
+combinaison linéaire de trois particules :
+le zino, le photino et le Higgsino, super-
+partenaires de bosons (Z, photon et Higgs).
+Selon les facteurs de cette combinaison,
+on peut former quatre types de neutralinos
+stables. Pour une masse de l’ordre de 100 fois
+la masse du proton, une coïncidence
+encourageante favorise les neutralinos : ces
+particules WIMP sont leurs propres anti-
+particules et s’annihilent entre elles dans les
+premiers instants de l’Univers, avec une
+section efficace qui est celle de l’interaction
+nucléaire faible. Lorsque leur densité
+décroît avec l’expansion de l’Univers, si
+bien que le taux d’annihilation devient
+négligeable, leur abondance est gelée à
+une densité relique qui correspond bien à
+celle de la matière noire aujourd’hui. C’est
+le miracle du WIMP. Bien que le LHC
+n’ait pas mis en évidence ces particules
+jusqu’à présent, on peut encore espérer les
+découvrir à plus haute énergie.
+
+Si l’annihilation est stoppée pratiquement
+dans tout l’Univers à cause de sa faible
+densité, il existe aujourd’hui quelques
+régions de surdensité où les annihilations
+pourraient reprendre, et les rayons gamma
+qui en résulteraient représentent un moyen
+de détection indirecte. Vers le centre de la
+Galaxie par exemple, les spectres des
+rayons gamma émis ont été étudiés en
+détail, mais ont toujours été expliqués par
+une source astrophysique : aucune détection
+indirecte de matière noire n’a pu être
+reportée de façon convaincante
+
+Et si finalement il n’existait pas de matière
+inconnue, mais qu’une modification de la
+théorie de la gravité pouvait résoudre le
+problème de la masse manquante dans les
+galaxies et de la formation des structures de
+l’Univers ? À l’échelle des galaxies, le modèle
+de gravité modifiée qui représente le mieux
+les observations est celui de M. Milgrom,
+MOND, qui reproduit les courbes de
+rotation des naines aux géantes, de même
+que les relations d’échelle (fig. 1 et fig. 2).
+En champ de gravité faible, la force de
+gravité ne décroît alors plus avec la distance
+en 1/R 2, mais en 1/R. 
+
+
+
 
 
 
