@@ -9,6 +9,14 @@
 - [Le principe cosmologique](#Le-principe-cosmologique)
 - [La tension de Hubble](#La-tension-de-Hubble)
 
+# Le modèle standard de la cosmologie
+
+*Sources*
+
+- [Dark matter and cosmic structure](https://arxiv.org/abs/1210.0544) - White et Frenk (2012)
+
+---
+
 # La cosmologie quantique
 
 *Sources*
