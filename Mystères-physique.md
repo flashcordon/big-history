@@ -368,6 +368,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [In the hunt for dark matter, are axions our best bet?](https://www.space.com/dark-matter-axions-best-bet) - Space.com (2022)
 - [Dark Matter Candidates from Particle Physics and Methods of Detection](https://arxiv.org/abs/1003.0904) - Feng et al (2010)
 - [Dark Matter Candidates](https://www.slac.stanford.edu/econf/C040802/papers/L002.PDF) - Baltz (2004)
+- [What is Dark Matter Made Of? These Are the Top Candidates](https://www.discovermagazine.com/the-sciences/what-is-dark-matter-made-of-these-are-the-top-candidates) - Discover Magazine
 
 ---
 
