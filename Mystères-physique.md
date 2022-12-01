@@ -705,7 +705,7 @@ matter (CDM) paradigm
 
 ![bulletcluster](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/07/the_bullet_cluster2/10084622-2-eng-GB/The_Bullet_Cluster_pillars.jpg)
 
-### La chasse aux particules de matière noire
+### Les principaux candidats à la matière noire
 
 - ***Les axions***
 - ***Les WIMPs***
