@@ -363,6 +363,8 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Dark matter and cosmic structure](https://arxiv.org/abs/1210.0544) - Frenk and White (2012)
 - [La matière noire, une sombre affaire](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2016/04/refdp201651p4.pdf) - Combes (2016)
 - [Dark matter and cosmic structure](https://arxiv.org/abs/1210.0544) - White et Frenk (2012)
+- [The Search for Dark Matter Is Dramatically Expanding](https://www.quantamagazine.org/physicists-are-expanding-the-search-for-dark-matter-20201123/) - Quanta Magazine
+- [Axion Dark Matter: What is it and Why Now?](https://arxiv.org/abs/2105.01406) - Chadha-Day et al (2021)
 
 ---
 
@@ -902,7 +904,29 @@ approximately ma ' 4.5 − 16.3 μeV), their sensitivity was orders of magnitude
 required to test realistic axion models. In 2003, however, the ADMX Collaboration reported
 results that constrained realistic axion dark matter models
 
-*Candidats à la matière noire. Crédit : Samuel Velasco/Quanta Magazine [Source]()*
+Ever since astronomers reached a consensus in the 1980s that most of the mass in the universe is invisible — that “dark matter” must glue galaxies together and gravitationally sculpt the cosmos as a whole — experimentalists have hunted for the nonluminous particles.  They first set out in pursuit of a heavy, sluggish form of dark matter called a weakly interacting massive particle, or WIMP — the early favorite candidate for the cosmos’s missing matter because it could solve another, unrelated puzzle in particle physics. Over the decades, teams of physicists set up ever larger targets, in the form of huge crystals and multi-ton vats of exotic liquids, hoping to catch the rare jiggle of an atom when a WIMP banged into it.
+
+But these detectors have stayed quiet, and physicists are increasingly contemplating a broader spectrum of possibilities. On the heavy end, they say the universe’s invisible matter could clump into black holes as heavy as stars. At the other extreme, dark matter could spread out in a fine mist of particles thousands of trillions of trillions of times lighter than electrons.
+
+ The axion — an entity so slight it’s more wave than particle — could comprise dark matter and simultaneously solve a mystery about the strong nuclear force. The Axion Dark Matter Experiment (ADMX) recently began scanning for axions decaying into pairs of photons inside a mighty magnetic field, and several similar searches are starting up.
+ 
+ The axion is a hypothetical particle that solves both long-standing problems in nuclear physics and could be responsible for some or all of the dark matter of the universe. It is considered by many to be the most natural and elegant explanation, and there is strong support in the physics community for efforts to detect axion dark matter. 
+ 
+ The axion is a hypothetical elementary particle that has both low mass and low energy. Itwas first proposed as a hypothetical particle in 1977 as a solution to what is called the "strong CP problem" in particle physics. The strong CP problem is a long-standing unsolved question that asks why CP symmetry (conjugation symmetry (C) and parity symmetry (P)) is preserved in quantum chromodynamics (the theory of the strong interaction between elementary particles quarks and gluons).
+ 
+ In 2020, a team of physicists found the first direct evidence for axions, launching the particle's legitimacy forward along with the scientific community's interest in the particle. This has continued to push forward assertions that axion could be the best dark matter candidate. 
+ 
+ Until now, one particular dark matter candidate has been leading the pack: WIMPs, which stands for weakly interacting massive particles. WIMPs are an umbrella term that describe hypothetical particles that interact only very weakly with matter through the weak  nuclear force. WIMPs are predicted to be 1-1,000 times heavier than protons. 
+
+However, despite their status as a leading candidate, "over the past few years, WIMPs have not shown up at the LHC, they haven't shown up in direct searches for dark matter," Ellis said.
+
+In the two new reviews, researchers suggest a number of different approaches that physicists could take in both predicting the axiom's mass and investigating it as a dark matter candidate. These approaches include using haloscopes, instruments which "scope microwave photon signals from the axions in our galactic halo," according to the paper. (A galactic halo is a large, spherical region of space around a galaxy that extends beyond just visible matter.)
+
+Scientists expect that axions would convert into an electromagnetic wave in a microwave cavity during an experiment like this, although it would be very rare. And thus, they would be able to detect that wave. 
+
+But the researchers suggest a number of other methods that physicists currently use and could potentially use to hunt for axions. These include using terrestrial telescopes, using the CERN Axion Search Telescope (CST) to detect axions produced in the sun's core, or even spotting axions in the magnetosphere of neutron stars where they're thought to convert into photons and leave behind distinct spectral features. 
+
+*Candidats à la matière noire. Crédit : Samuel Velasco/Quanta Magazine [Source](https://www.quantamagazine.org/physicists-are-expanding-the-search-for-dark-matter-20201123/)*
 
 ![DMparticles](https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/11/Dark_Matter_graphic_2880x1620_Lede_final.svg)
 
