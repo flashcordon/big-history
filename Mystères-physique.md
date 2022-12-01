@@ -365,6 +365,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Dark matter and cosmic structure](https://arxiv.org/abs/1210.0544) - White et Frenk (2012)
 - [The Search for Dark Matter Is Dramatically Expanding](https://www.quantamagazine.org/physicists-are-expanding-the-search-for-dark-matter-20201123/) - Quanta Magazine
 - [Axion Dark Matter: What is it and Why Now?](https://arxiv.org/abs/2105.01406) - Chadha-Day et al (2021)
+- [In the hunt for dark matter, are axions our best bet?](https://www.space.com/dark-matter-axions-best-bet) - Space.com (2022)
 
 ---
 
