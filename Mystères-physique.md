@@ -677,11 +677,6 @@ En champ de gravité faible, la force de
 gravité ne décroît alors plus avec la distance
 en 1/R 2, mais en 1/R. 
 
-
-
-
-
-
 ### L'amas de la balle (Bullet cluster)
 
 The combination of X-ray and gravitational lensing data for the`bullet cluster’
@@ -704,7 +699,6 @@ matter (CDM) paradigm
 ![bulletcluster](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/07/the_bullet_cluster2/10084622-2-eng-GB/The_Bullet_Cluster_pillars.jpg)
 
 ### La chasse aux particules de matière noire
-
 
 Il est remarquable que la masse des parti-
 cules de matière noire ne soit pas connue
