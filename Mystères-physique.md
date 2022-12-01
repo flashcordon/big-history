@@ -369,6 +369,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Dark Matter Candidates from Particle Physics and Methods of Detection](https://arxiv.org/abs/1003.0904) - Feng et al (2010)
 - [Dark Matter Candidates](https://www.slac.stanford.edu/econf/C040802/papers/L002.PDF) - Baltz (2004)
 - [What is Dark Matter Made Of? These Are the Top Candidates](https://www.discovermagazine.com/the-sciences/what-is-dark-matter-made-of-these-are-the-top-candidates) - Discover Magazine
+- [What could dark matter be?](https://www.symmetrymagazine.org/article/what-could-dark-matter-be) - Symmetry Magazine (2015)
 
 ---
 
@@ -705,6 +706,14 @@ matter (CDM) paradigm
 ![bulletcluster](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/07/the_bullet_cluster2/10084622-2-eng-GB/The_Bullet_Cluster_pillars.jpg)
 
 ### La chasse aux particules de matière noire
+
+- ***Les axions***
+- ***Les WIMPs***
+- ***Les Super-WIMPs***
+- ***Les trous noirs primordiaux***
+- ***Les neutrinos stériles***
+- ***Les SIMPs***
+- ***Les neutralinos***
 
 Il est remarquable que la masse des parti-
 cules de matière noire ne soit pas connue
