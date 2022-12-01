@@ -367,6 +367,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Axion Dark Matter: What is it and Why Now?](https://arxiv.org/abs/2105.01406) - Chadha-Day et al (2021)
 - [In the hunt for dark matter, are axions our best bet?](https://www.space.com/dark-matter-axions-best-bet) - Space.com (2022)
 - [Dark Matter Candidates from Particle Physics and Methods of Detection](https://arxiv.org/abs/1003.0904) - Feng et al (2010)
+- [Dark Matter Candidates](https://www.slac.stanford.edu/econf/C040802/papers/L002.PDF) - Baltz (2004)
 
 ---
 
