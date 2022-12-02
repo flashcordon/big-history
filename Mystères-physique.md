@@ -709,13 +709,12 @@ matter (CDM) paradigm
 
 - ***Les axions***
 - ***Les WIMPs***
-> Parmi les WIMPs, le candidat le plus étudié (de loin) est le ***neutralino***. 
+> Les WIMPs (accronyme de “Weakly Interacting Massive Particles”) désignent une classe de particules hypothétiques qui n'intéragissent avec la matière ordinaire que via la force nucléaire faible. S'ils existent, les WIMPs devraient être entre 1 et 1000 fois plus massifs que les protons. Parmi les WIMPs, le candidat le plus étudié (de loin) est le ***neutralino***. 
 - ***Les Super-WIMPs***
 - ***Les trous noirs primordiaux***
 - ***Les neutrinos stériles***
 - ***Les SIMPs***
-
-
+ 
 Il est remarquable que la masse des parti-
 cules de matière noire ne soit pas connue
 à plusieurs ordres de grandeur près. On sait
@@ -930,7 +929,6 @@ But these detectors have stayed quiet, and physicists are increasingly contempla
  
  In 2020, a team of physicists found the first direct evidence for axions, launching the particle's legitimacy forward along with the scientific community's interest in the particle. This has continued to push forward assertions that axion could be the best dark matter candidate. 
  
- Until now, one particular dark matter candidate has been leading the pack: WIMPs, which stands for weakly interacting massive particles. WIMPs are an umbrella term that describe hypothetical particles that interact only very weakly with matter through the weak  nuclear force. WIMPs are predicted to be 1-1,000 times heavier than protons. 
 
 However, despite their status as a leading candidate, "over the past few years, WIMPs have not shown up at the LHC, they haven't shown up in direct searches for dark matter," Ellis said.
 
