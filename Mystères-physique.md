@@ -709,7 +709,7 @@ matter (CDM) paradigm
 
 - ***Les axions***
 - ***Les WIMPs***
-> Les WIMPs (accronyme de “Weakly Interacting Massive Particles”) désignent une classe de particules hypothétiques qui n'intéragiraient avec la matière ordinaire que via la force nucléaire faible. Si elles existent, les WIMPs devraient être entre 1 et 1000 fois plus massifs que les protons (1-1000 GeV). Parmi les WIMPs, le candidat le plus étudié (de loin) est le ***neutralino***. L'existence de cette particule est prédite par la théorie de la ***supersymétrie***.
+> Les WIMPs (accronyme de “Weakly Interacting Massive Particles”) désignent une classe de particules hypothétiques qui n'intéragiraient avec la matière ordinaire que via la force nucléaire faible. Si elles existent, les WIMPs devraient être entre 1 et 1000 fois plus massifs que les protons (1-1000 GeV). Parmi les WIMPs, le candidat le plus étudié (de loin) est le ***neutralino***. L'existence de cette particule est prédite par la théorie de la ***supersymétrie***. Ce cadre théorique situé aud-delà du modèle standard de la physique des particules stipule que.
 - ***Les Super-WIMPs***
 - ***Les trous noirs primordiaux***
 - ***Les neutrinos stériles***
