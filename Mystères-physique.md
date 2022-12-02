@@ -370,6 +370,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Dark Matter Candidates](https://www.slac.stanford.edu/econf/C040802/papers/L002.PDF) - Baltz (2004)
 - [What is Dark Matter Made Of? These Are the Top Candidates](https://www.discovermagazine.com/the-sciences/what-is-dark-matter-made-of-these-are-the-top-candidates) - Discover Magazine
 - [What could dark matter be?](https://www.symmetrymagazine.org/article/what-could-dark-matter-be) - Symmetry Magazine (2015)
+- [A Brief Review on Primordial Black Holes as Dark Matter](https://www.frontiersin.org/articles/10.3389/fspas.2021.681084/full) - Villanueva-Domingo et al (2021)
 
 ---
 
