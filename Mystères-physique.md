@@ -373,6 +373,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [A Brief Review on Primordial Black Holes as Dark Matter](https://www.frontiersin.org/articles/10.3389/fspas.2021.681084/full) - Villanueva-Domingo et al (2021)
 - [(Just can’t get enough) primordial black holes](https://astrobites.org/2018/02/13/just-cant-get-enough-primordial-black-holes/) - Astroites (2018)
 - [Exploring the high-redshift PBH-ΛCDM Universe: early black hole seeding, the first stars and cosmic radiation backgrounds](https://arxiv.org/abs/2109.08701) - Cappelluti et al (2021)
+- [Neutrinos Stériles et Matière Noire font Bon Ménage](https://www.ca-se-passe-la-haut.fr/2014/05/neutrinos-steriles-et-matiere-noire.html) - Ca se passe là-haut (2014)
 
 ---
 
