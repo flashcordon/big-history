@@ -709,12 +709,12 @@ matter (CDM) paradigm
 
 - ***Les axions***
 - ***Les WIMPs***
+> Parmi les WIMPs, le candidat le plus étudié (de loin) est le ***neutralino***. 
 - ***Les Super-WIMPs***
 - ***Les trous noirs primordiaux***
 - ***Les neutrinos stériles***
 - ***Les SIMPs***
-- ***Les neutralinos***
-> Il s'agit du candidat à la matière noire le plus étudié, et de loin. 
+
 
 Il est remarquable que la masse des parti-
 cules de matière noire ne soit pas connue
