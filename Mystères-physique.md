@@ -1011,6 +1011,48 @@ MACHOS
 
 In the late 1980s, scientists got their hopes up that MACHOs — gobs of normal matter that were simply dim and tough to detect — could answer the dark matter question. These objects would range from planets to failed stars to black holes. Unfortunately, well-supported Big Bang models struggle to produce anywhere near enough regular matter for MACHOs to fill the cosmic ledger. More damningly, observations have consistently ruled out any vast populations of clandestine black holes, which should give themselves away when their gravity bends background starlight. An October 2018 study took out the last leg for MACHOs to stand on, putting serious constraints on the possibility of primordial black holes — hypothetical monsters born in the early universe — being the last plausible reservoir of significant unaccounted-for matter. Whatever the bulk of dark matter may be, MACHOs ain’t it.
 
+The starting idea for nonbaryonic dark matter was that it might be
+a new family of neutrinos with the standard V-A coupling to their
+leptons and neutrino rest mass   3 Gev. The mass was chosen so the
+remnant abundance from the thermal production and annihilation
+of these hypothetical neutrinos in the hot early universe would be
+interesting for cosmology. It was introduced, independently as far
+as I know, in five papers: Hut (1977); Lee and Weinberg (1977);
+Sato and Kobayashi (1977); Dicus, Kolb, and Teplitz (1977); and
+Vysotskij, Dolgov, and Zel’dovich (1977). This candidate for dark
+matter has become known as weakly interacting massive particles,
+or WIMPs.
+
+There are other candidates for dark
+matter, with active research aimed at their detection. Examples are
+the lightest supersymmetric partner, axions, fuzzy dark matter, su-
+persymmetric dark matter, and black holes. The searches for signs
+of these objects and more, in the laboratory and astronomical obser-
+vations, have been energetically pursued for four decades, and at the
+time of writing they have not yielded a generally accepted detection
+of any form of dark matter
+Maybe the dark matter is in whole or part
+black holes that were present before the earliest stars. The thought
+has a long history (e.g., Zel’dovich and Novikov, 1967; Carr and
+Hawking, 1974)
+Do galaxies always contain dark matter? Since most of the dark
+matter is in the outskirts of a galaxy, possible exceptions would be
+galaxies that have been tidally stripped, and the dwarfs that might
+have formed by dissipative settling from tidal streams. Apart from
+such effects, dark halos are expected to be universal in the standard
+ΛCDM cosmology. There are possibly interesting challenges to this
+prediction. The large S0 galaxy NGC 3115 is in the field, which
+is unusual because most S0s at this luminosity are in clusters. If
+it has a dark matter halo with mass typical of its stellar mass then
+the halo of NGC 3115 must be much less dense than usual, the
+halo core radius much broader (Cappellari, Romanowsky, Brodie, et
+al. 2015). The low surface brightness satellites NGC1052-DF2 and
+NGC1052-DF4 of the elliptical NGC 1052 also look like exceptions.
+Keim, van Dokkum, Danieli, et al. (2022) argue that “the dark matter
+halo masses of these galaxies cannot be much greater than their
+stellar masses.” It is too soon to declare a challenge to the ΛCDM
+theory from the evidence of galaxies with little dark matter, but the
+development of the empirical evidence will be worth following
 
 
 *Candidats à la matière noire. Crédit : Samuel Velasco/Quanta Magazine [Source](https://www.quantamagazine.org/physicists-are-expanding-the-search-for-dark-matter-20201123/)*
