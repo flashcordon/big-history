@@ -1085,6 +1085,10 @@ In the late 1980s, scientists got their hopes up that MACHOs — gobs of normal 
 - Les modèles de gravité modifiée produisent des scénarios d’évolution des grandes structures cosmiques différents de ceux du modèle standard de la cosmologie.
 - Malheureusement, il n’existe à ce jour aucun modèle de gravité modifiée qui permette d’expliquer l’accélération de l’expansion cosmique observée.
 
+*Evolution de l'expansion cosmique dans le scénario où l'énergie sombre est une constante cosmologique (Big Freeze). [Source](https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Big_Ideas_in_Cosmology_(Coble_et_al.)/17%3A_Dark_Energy_and_the_Fate_of_the_Universe/17.04%3A_Cosmic_Concordance_and_Cosmological_Parameters)*
+
+![bigfreeze](https://files.mtstatic.com/site_4539/22172/0?Expires=1670329144&Signature=fQ9JJW4nsEkrF4Fve7nb~Zs5mEqLneKvkcEUfrGzn3rCgIh3RSqPvHS2cj3dqtq7VNe2bi3YByGcKNSZIVXi77diOvXv~8QhRJ96dyuC0CvO3njbvP-fPokd5ilLmylFHIr~gTd1vUYRh0L8ESPpeZwo4T3ZBTxKWnJAKipViEw_&Key-Pair-Id=APKAJ5Y6AV4GI7A555NA)
+
 ## Comment sonder les propriétés de l'énergie noire à l'aide de nos observations
 
 - Il y a essentiellement deux classes de méthodes pour étudier les signatures observables de l'énergie sombre : les méthodes dites "géométriques", qui se concentrent sur le taux d'expansion de l'univers (à l'aide de règles ou de chandelles standards), et les méthodes se focalisant sur la croissance des grandes structures cosmiques.
