@@ -340,11 +340,12 @@ Simulations and observations explore constraints on the nature of the dark matte
 and on structure in the intergalactic medium
 Both direct detection experiments and the Fermi satellite begin to exclude parts of the parameter space expected for WIMPs
 
-# Anomalies dans le modèle standard de la cosmologie
+# Anomalies et tensions dans le modèle standard de la cosmologie
 
 *Sources*
 
 - [Anomalies in Physical Cosmology](https://arxiv.org/abs/2208.05018) - Peebles (2022)
+- [Cosmology Intertwined: A Review of the Particle Physics, Astrophysics, and Cosmology Associated with the Cosmological Tensions and Anomalies](https://arxiv.org/abs/2203.06142) - Abdalla et al (2022)
 
 ---
 
