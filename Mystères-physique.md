@@ -382,6 +382,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Exploring the high-redshift PBH-ΛCDM Universe: early black hole seeding, the first stars and cosmic radiation backgrounds](https://arxiv.org/abs/2109.08701) - Cappelluti et al (2021)
 - [Neutrinos Stériles et Matière Noire font Bon Ménage](https://www.ca-se-passe-la-haut.fr/2014/05/neutrinos-steriles-et-matiere-noire.html) - Ca se passe là-haut (2014)
 - [A History of Dark Matter](https://arxiv.org/abs/1605.04909) - Berton et Hooper (2016)
+- [WIMPs and MACHOs](https://sites.astro.caltech.edu/~george/ay20/eaa-wimps-machos.pdf) - ENCYCLOPEDIA OF ASTRONOMY AND ASTROPHYSICS (2002)
 
 ---
 
