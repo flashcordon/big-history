@@ -398,6 +398,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Le chasseur de matière noire XENON1T détecte un signal suspect](https://www.cieletespace.fr/actualites/le-chasseur-de-matiere-noire-xenon1t-detecte-un-signal-suspect) - Ciel et Espace (2020)
 - [La matière noire pointe-t-elle enfin le bout de son nez dans Xenon 1T ?](https://www.futura-sciences.com/sciences/actualites/nouvelle-physique-matiere-noire-pointe-t-elle-enfin-bout-son-nez-xenon-1t-60517/) - Ciel et Espace (2020)
 - [L'asymétrie CP ou le privilège de la matière](http://www.astrosurf.com/luxorion/quantique-asymetrie-cp.htm) - Astrosurf
+- [Matière noire (axions) : nouveaux résultats de deux haloscopes](https://www.ca-se-passe-la-haut.fr/2021/05/matiere-noire-axions-nouveaux-resultats.html) - Ca se passe là-haut (2021)
 
 ---
 
@@ -938,40 +939,9 @@ interesting within the context of sterile neutrino dark matter. Sterile neutrino
 in the range of ∼1-100 keV are predicted to decay (into an active neutrino and a photon)
 at a rate that could generate a potentially observable X-ray line 
 
-For some time, there has been an active experimental program searching for dark matter
-axions, most notably in the form of the Axion Dark Matter eXperiment (ADMX). The idea
-behind this effort is to make use of the photon-photon-axion coupling, generically present
-in axion models, to convert dark matter axions in a strong and static magnetic field into
-a signal of nearly monochromatic microwave photons. This possibility was first suggested
-by Pierre Sikivie in 1983 
-
-The first laboratory constraints on dark matter axions were presented in the late 1980s, by
-a number of groups [88, 149, 342]. While the frequency range covered by these experiments
-was well suited to axion masses favored by dark matter abundance considerations (covering
-approximately ma ' 4.5 − 16.3 μeV), their sensitivity was orders of magnitude below that
-required to test realistic axion models. In 2003, however, the ADMX Collaboration reported
-results that constrained realistic axion dark matter models
-
 Ever since astronomers reached a consensus in the 1980s that most of the mass in the universe is invisible — that “dark matter” must glue galaxies together and gravitationally sculpt the cosmos as a whole — experimentalists have hunted for the nonluminous particles.  They first set out in pursuit of a heavy, sluggish form of dark matter called a weakly interacting massive particle, or WIMP — the early favorite candidate for the cosmos’s missing matter because it could solve another, unrelated puzzle in particle physics. Over the decades, teams of physicists set up ever larger targets, in the form of huge crystals and multi-ton vats of exotic liquids, hoping to catch the rare jiggle of an atom when a WIMP banged into it.
 
 But these detectors have stayed quiet, and physicists are increasingly contemplating a broader spectrum of possibilities. On the heavy end, they say the universe’s invisible matter could clump into black holes as heavy as stars. At the other extreme, dark matter could spread out in a fine mist of particles thousands of trillions of trillions of times lighter than electrons.
-
- The axion — an entity so slight it’s more wave than particle — could comprise dark matter and simultaneously solve a mystery about the strong nuclear force. The Axion Dark Matter Experiment (ADMX) recently began scanning for axions decaying into pairs of photons inside a mighty magnetic field, and several similar searches are starting up.
- 
- The axion is a hypothetical particle that solves both long-standing problems in nuclear physics and could be responsible for some or all of the dark matter of the universe. It is considered by many to be the most natural and elegant explanation, and there is strong support in the physics community for efforts to detect axion dark matter. 
- 
- The axion is a hypothetical elementary particle that has both low mass and low energy. Itwas first proposed as a hypothetical particle in 1977 as a solution to what is called the "strong CP problem" in particle physics. The strong CP problem is a long-standing unsolved question that asks why CP symmetry (conjugation symmetry (C) and parity symmetry (P)) is preserved in quantum chromodynamics (the theory of the strong interaction between elementary particles quarks and gluons).
- 
- In 2020, a team of physicists found the first direct evidence for axions, launching the particle's legitimacy forward along with the scientific community's interest in the particle. This has continued to push forward assertions that axion could be the best dark matter candidate. 
- 
-
-However, despite their status as a leading candidate, "over the past few years, WIMPs have not shown up at the LHC, they haven't shown up in direct searches for dark matter," Ellis said.
-
-In the two new reviews, researchers suggest a number of different approaches that physicists could take in both predicting the axiom's mass and investigating it as a dark matter candidate. These approaches include using haloscopes, instruments which "scope microwave photon signals from the axions in our galactic halo," according to the paper. (A galactic halo is a large, spherical region of space around a galaxy that extends beyond just visible matter.)
-
-Scientists expect that axions would convert into an electromagnetic wave in a microwave cavity during an experiment like this, although it would be very rare. And thus, they would be able to detect that wave. 
-
-But the researchers suggest a number of other methods that physicists currently use and could potentially use to hunt for axions. These include using terrestrial telescopes, using the CERN Axion Search Telescope (CST) to detect axions produced in the sun's core, or even spotting axions in the magnetosphere of neutron stars where they're thought to convert into photons and leave behind distinct spectral features. 
 
 Particle: Weakly interacting massive particles (WIMPs)
 Year proposed: 1985  Mass: 1 to 1000 GeV
@@ -985,21 +955,6 @@ A refinement of the standard model called supersymmetry smooths over many of its
 Emphasis on the should. Despite multiple big-budget experiments in 2016 and 2017, WIMPs have disappointed. And in May 2018, the XENON1T instrument in Italy — the biggest WIMP search to date — likewise reported finding nothing. In all three experiments, giant containers of liquid xenon served as dark matter dragnets, which would ideally, and occasionally, jostle some of the dark stuff we’re supposedly always swimming through, producing a telltale light.
 
 WIMPs also have failed to appear in other detection methods. Theories suggest the particles may occasionally destroy each other or decay, resulting in showers of gamma rays, but searches have found no convincing evidence. And many physicists expected that the Large Hadron Collider — the most powerful particle accelerator ever built — would produce heavy, novel particles, including WIMPs. But a decade of operations with no heavy partners to show for it has instead made some physicists question the whole notion of supersymmetry.
-
-Particle: Axion
-Year proposed: 1977  Mass: About 0.000000000000001 GeV
-
-After a humble start, the axion is now surging in the race. Physicists originally came up with this particle to help fix a problem with the strong nuclear force, one of nature’s four fundamental forces. The problem is particles that feel the strong force are persnickety; they don’t behave differently when either their electric charges are switched, or they get flipped upside down. The standard model is perfectly cool with this, but it bothered researchers, so they came up with a way to explain that unusual rigidness. As a side effect, the explanation also suggested the universe may be full of new hypothetical particles called axions.
-
-And, as it happens, axions also fit the bill for dark matter. Although the individual particles have a ridiculously low mass, the universe-forming Big Bang could have churned out axions in dizzying abundance — enough, in fact, to constitute all the dark matter in the cosmos. “A whole lot of the early universe’s energy gets dumped into these particles,” says University of Washington physicist Gray Rybka. “And because they don’t interact very much with anything else, you’d have all this leftover matter kicking about the universe.” Presto: dark matter!
-
-To catch any fleeting axions, researchers at the Axion Dark Matter eXperiment at the University of Washington cool a cylinder to nearly absolute zero before it emits a strong magnetic field, which should transform the theoretical dark matter particles into radio waves. 
-
-ADMX became the first device with the sensitivity necessary for nabbing those hyper-aloof axions. It’s not much to look at, just a 13-foot-long metal cylinder sunk into the floor, cooled to just above absolute zero to silence any signal-masking perturbations. 
-
-Essentially, a magnet inside cranks out a powerful magnetic field that, according to theory, should convert any nearby axions into your standard radio waves. To detect these infinitesimal signals — roughly a billionth of a billionth of a billionth of a watt each — ADMX has specially designed amplifiers. It’s the most sensitive radio receiver ever built.
-
-As for this dark matter dark horse’s name, credit MIT physicist Frank Wilczek. He coined it in the 1970s after randomly seeing Axion detergent — still manufactured today — on a store shelf.
 
 Particle: Sterile neutrino
 Year proposed: Late 1970s Mass: Roughly 1 GeV
