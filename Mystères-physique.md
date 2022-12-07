@@ -721,105 +721,13 @@ matter (CDM) paradigm
 ### Les principaux candidats à la matière noire
 
 - ***Les axions***
+> jj
+
 - ***Les WIMPs***
 > Les WIMPs (accronyme de “Weakly Interacting Massive Particles”) désignent une classe de particules hypothétiques qui n’interagiraient avec la matière ordinaire que via la force nucléaire faible. Ils ont constitué le paradigme dominant dans la quête de la matière noire depuis les années 80, grâce à de solides fondations théoriques et des prédictions testables expérimentalement. Si elles existent, les WIMPs devraient être entre 1 et 1000 fois plus massifs que les protons (1-1000 GeV). Parmi les WIMPs, le candidat le plus étudié est (de loin) le ***neutralino***. L'existence de cette particule est prédite par la théorie de la ***supersymétrie***. Cette théorie au-delà du modèle standard de la physique des particules fait l’hypothèse qu’il existerait un lien fondamental (une symétrie) entre les deux grandes catégories de particules : les bosons (particules dont le spin est entier ou nul) et les fermions (particules dont le spin est demi-entier ou nul). Dans cette théorie, toutes les particules du modèle standard possèdent un « partenaire supersymétrique » (ou ***superpartenaire***) dont le spin diffère du sien de moitié. Ainsi, des bosons auraient des superpartenaires fermioniques et inversement. Les superpartenaires fermioniques des bosons ont le même nom que ces derniers, mais avec le suffixe -ino (ex : le superpartenaire du photon est le photino, et celui du Higgs est le higgsino), tandis que les superpartenaires bosoniques des fermions ont le même nom que ces derniers avec le préfixe s- (ex : les superpartenaires des quarks sont les squarks, et ceux des électrons sont les sélectrons). Dans ce cadre, le neutralino est une combinaison de 3 superpartenaires : le photino, le higgsino et le Z-ino. Selon l'extension supersymétrique minimale du modèle standard de la physique des particules, il existerait 4 neutralinos possibles, et le plus léger d’entre eux est souvent considéré comme l’un des candidats à la matière noire le plus prometteur. Mais après des décennies de recherche et des expériences de plus en plus précises, aucun signe de neutralinos ou de WIMPs n’a été détecté pour le moment. Et si leur existence n’est pas encore exclue, la communauté scientifique commence à privilégier d’autres candidats.
-- ***Les Super-WIMPs***
 
-
-
-superWIMPs, superweakly-interacting massive particles, which
-have the desired relic density, but have interactions that are much weaker than weak. The
-extremely weak interactions of SuperWIMPs might naively be thought to be a nightmare for
-searches for dark matter. In fact, superWIMP scenarios predict signals from cosmic rays, at
-colliders, and in astrophysics that can be far more striking than in WIMP scenarios, making
-superWIMPs highly amenable to experimental investigation.
-
-In the superWIMP framework, dark matter is produced in late decays: WIMPs freeze out
-as usual in the early Universe, but later decay to superWIMPs, which form the dark matter
-that exists today (125; 126). Because superWIMPs are very weakly interacting, they have
-no impact on WIMP freeze out in the early Universe, and the WIMPs decouple, as usual,
-with a thermal relic density ΩWIMP ∼ ΩDM.
-SuperWIMPs may also be produced after reheating, when the energy of the inflaton
-potential is transferred to SM and other particles
-The superWIMP scenario is realized in many particle physics models. The prototypical
-superWIMP is the gravitino
-Gravitinos are the spin 3/2
-superpartners of gravitons, and they exist in all supersymmetric theories
-In addition to gravitinos, other well-motivated examples of superWIMPs include axi-
-nos (137; 138; 139), the supersymmetric partners of axions, particles introduced to resolve
-the strong CP problem
-SuperWIMPs are so weakly interacting that they cannot be detected by direct searches,
-and their annihilation cross sections are so suppressed that their annihilation signal rates are
-completely negligible. However, if the decaying WIMP is charged, the superWIMP scenario
-implies long-lived charged particles, with striking implications for indirect detection.
-One interesting possibility is that long-lived charged particles may be produced by ultra-
-high energy cosmic rays, resulting in exotic signals in cosmic ray and cosmic neutrino ex-
-periments
-They
-may therefore be detected above background as events with two upward-going, extremely
-high energy charged tracks in experiments such as IceCube
-Particle colliders may also find evidence for superWIMP scenarios. This evidence may
-come in one of two forms. Collider experiments may see long-lived, charged particles. Given
-the stringent bounds on charged dark matter, such particles presumably decay, and their
-decay products may be superWIMPs. Alternatively, colliders may find seemingly stable
-particles, but the precision studies described in Sec. III.E may imply that these particles
-have a thermal relic density that is too large.
-Because superWIMPs are very weakly interacting, the decays of WIMPs to superWIMPs
-may be very late and have an observable effects on BBN and the CMB. In addition, in
-contrast to WIMPs, superWIMP dark matter may behave as warm dark matter.
-When WIMPs decay to superWIMPs, the accompanying particles may distort the fre-
-quency dependence of the CMB away from its ideal black body spectrum
-The superpartner of of the graviton, the spin 3/2 gravitino, was the first SUSY particle considered for the dark
-matter problem [34]. In models where the gravitino is the lightest supersymmetric particle (LSP), it is often quite light (keV), and would thus be warm
-dark matter. 
-
-. The situation is different within the superWIMP framework,
-where, for example, the axino or the gravitino is the lightest supersymmetric particle (LSP). The regions of
-parameter space where a slepton is the lightest SM superpartner are especially interesting, since late decays
-to gravitinos can impact Big Bang nucleosynthesis (BBN) and possibly even resolve the anomalies associated
-with the primordial abundance of 7Li [
-
-uperWIMP scenarios provide a rich variety of exotic collider signals, such
-as displaced vertices, track kinks, tracks with nonvanishing impact parameters, slow charged particles, and
-vanishing charged tracks [381]. The decay lifetime could be months or even years. Given this, there have
-been different proposals to trap these particles (if charged) outside of the particle detector so that their
-decays can be analyzed and characterized [380, 379].
-On the other hand, the superWIMPs can leave their imprint on early universe cosmology. For example, the
-primordial element abundances may be modified due to energy injections from late time decays [372] and due
-to formation of new bound states with new meta-stable charged particles [373, 374]. These analyses can be
-used to constrain superWIMP models, but as we have commented above, in some regions of parameter space
-they may explain present inconsistencies in the Lithium abundance. This possibility can be corroborated.
-For instance, the heavy meta-stable charged particles could be produced in cosmic rays and detected with
-high energy neutrino telescopes or in sea water experiments [382, 383]. In addition, late decays could also
-distort the Blackbody spectrum of the cosmic microwave background [384] or be detected directly by studying
-cosmic ray spectra [385, 386].
-Despite their large masses, superWIMPs could behave (effectively) as warm dark matter (WDM) [387, 388].
-In fact, depending on the lifetime and the kinetic energy associated to the decay, they can work as hot,
-warm, cold or meta-cold DM.
-
-Supersymmetry is a new hypothetical symmetry of
-nature that relates bosons and fermions. If supersymme-
-try exists in nature then every known particle should
-have a supersymmetric partner. Bosonic ordinary parti-
-cles have fermonic superpartners with the same name
-except with the suffix ‘ino’ added, while fermonic ordi-
-nary particles have bosonic (scalar) superpartner names
-with the prefix ‘s’ added. Examples of proposed super-
-symmetric particles include photinos, higgsinos, Z-inos,
-squarks and selectrons. Some supersymmetric particles
-have the same quantum numbers as each other and
-therefore can mix together producing particles that are
-not exact partners of any standard model particle. For
-example, the photino, Higgsino and Z-ino can mix into
-arbitrary combinations called the neutralinos.
-In most models, the lightest supersymmetric particle
-(LSP) is stable, and since supersymmetric particles have
-electroweak-strength interactions, the LSP makes an
-excellent dark matter candidate. So
-far no concrete evidence of any supersymmetric partner
-exists. If even one supersymmetric partner is found, the
-theory predicts that they all must exist.
-
+- ***Les WIMPZILLAS***
+> Contrairement aux WIMPs, qui sont des particules très légères, les WIMPZILLAS sont des particules hypothétiques ultra-lourdes, dont la masse pourrait être comprise entre 10^9 et 10^16 GeV, et qui interagiraient très faiblement avec la matière. Elles ont été proposées à la fin des années 90 par Rocky Kolb, Daniel Chung et Tony Riotto. Ces particules auraient pu être créées dans les conditions de l’univers primordial, pendant la période de réchauffement qui fait suite à l’inflation. Si ces WIMPZILLAS existent, elles pourraient potentiellement résoudre un autre problème de l’astrophysique : la nature des rayons cosmiques d’ultra-haute énergie. En effet, les WIMPZILLAS pourraient se désintégrer en particules de hautes énergies (essentiellement des rayons gamma dont l’énergie est supérieure à 10^9 GeV) qui pourraient voyager jusqu’à la Terre. Ces particules pourraient être détectées par les futurs observatoires Pierre Augier (en Argentine) et l’Extreme Universe Space Observatory (à bord de l’ISS), en ciblant le centre de la Galaxie. Mais les rayons cosmiques d’ultra-haute énergie sont des événements ultra-rares, et établir des statistiques prend du temps. En attendant, il est difficile de  distinguer les rayons cosmiques issus de la désintégration des WIMPZILLAS des rayons cosmiques issus d’autres processus astrophysiques.
 
 - ***Les trous noirs primordiaux***
 > Les observations actuelles ont éliminé les trous noirs stellaires (issus de la mort d’étoiles massives) comme candidats à la matière noire. Il n’y en a juste pas assez pour expliquer nos observations. Mais les trous noirs stellaires ne sont pas les seuls trous noirs possibles. En 1971, Stephen Hawking a proposé l’hypothèse que la matière noire pourrait être constituée de trous noirs qui se seraient formés dans les conditions ardentes de l’univers primordial, pendant les quelques secondes qui ont suivi sa période inflationnaire (lorsque la température de l’univers est passée sous la barre de 10 milliards de de degrés), à partir de surdensités de matières qui se seraient effondrées sur elles-mêmes sous leur propre poids. Les trous noirs primordiaux représentent un candidat attrayant parce qu’ils ne requièrent pas de nouveau type de matière exotique. La masse de ces trous noirs primordiaux pourrait s’étendre de 10^-10 à 10^7 masses solaires, c'est-à-dire de la masse d’un astéroïde (et plus petits qu’un grain de sable) à celle d’un trou noir supermassif. Ceux plus légers que cette limite basse auraient fini par s’évaporer complètement avant nos jours. La détection des ondes gravitationnelles émises par la fusion de paires de trous noirs en 2016 a remis sur le devant de la scène l’hypothèse des trous noirs primordiaux comme candidats à la matière noire (les trous noirs détectés étaient en effet légèrement plus massifs que ce à quoi on s’attendrait pour des trous noirs stellaires). Il est aussi possible que les trous noirs primordiaux aient constitué les graines des trous noirs supermassifs que l’on retrouve aujourd’hui au centre de toutes les grosses galaxies.
