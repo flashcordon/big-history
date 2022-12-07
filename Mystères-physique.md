@@ -390,6 +390,14 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Superheavy dark matter through Higgs portal operators](https://arxiv.org/abs/1708.04293) - Kolb et al (2019)
 - [Oh-My-God (Particle), It’s WIMPzilla!](https://mcdonaldinstitute.ca/apbites/2019-09-11-its-wimpzilla/) - AstroParticle Bites (2019) 
 - [WIMPZillas: The Biggest WIMPs](https://darkmatterdarkenergy.com/2018/06/26/wimpzillas-the-biggest-wimps/) - Stephen Perrenod
+- [Axion dark matter: What is it and why now?](https://www.science.org/doi/10.1126/sciadv.abj3618) - Chadha-Day et al (2022)
+- [Les sym ́etries au fondement de la physique moderne](https://web.umons.ac.be/app/uploads/sites/31/2019/01/News-Complexys_J.-Fran%C3%A7ois.pdf) - Jordan François
+- [Axions : l'Autre Matière Noire](https://www.ca-se-passe-la-haut.fr/2013/11/axions-lautre-matiere-noire.html) - Ca se passe là-haut (2013) 
+- [The universe according to Frank Wilczek](https://www.templetonprize.org/the-universe-according-to-frank-wilczek/) - Templeton Prize
+- [OSQAR](https://home.cern/fr/science/osqar) - CERN
+- [Le chasseur de matière noire XENON1T détecte un signal suspect](https://www.cieletespace.fr/actualites/le-chasseur-de-matiere-noire-xenon1t-detecte-un-signal-suspect) - Ciel et Espace (2020)
+- [La matière noire pointe-t-elle enfin le bout de son nez dans Xenon 1T ?](https://www.futura-sciences.com/sciences/actualites/nouvelle-physique-matiere-noire-pointe-t-elle-enfin-bout-son-nez-xenon-1t-60517/) - Ciel et Espace (2020)
+- [L'asymétrie CP ou le privilège de la matière](http://www.astrosurf.com/luxorion/quantique-asymetrie-cp.htm) - Astrosurf
 
 ---
 
