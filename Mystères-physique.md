@@ -994,10 +994,6 @@ One more thing points to SIMPs. There should be enough of them to explain away a
 
 As for someday bagging SIMPs, hopes rest on particle accelerators such as the SuperKEKB, which started in Japan in April 2018. Such machines bang together lightweight electrons and their antimatter counterparts, and from the detritus might fling out the occasional SIMP. 
 
-MACHOS
-
-In the late 1980s, scientists got their hopes up that MACHOs — gobs of normal matter that were simply dim and tough to detect — could answer the dark matter question. These objects would range from planets to failed stars to black holes. Unfortunately, well-supported Big Bang models struggle to produce anywhere near enough regular matter for MACHOs to fill the cosmic ledger. More damningly, observations have consistently ruled out any vast populations of clandestine black holes, which should give themselves away when their gravity bends background starlight. An October 2018 study took out the last leg for MACHOs to stand on, putting serious constraints on the possibility of primordial black holes — hypothetical monsters born in the early universe — being the last plausible reservoir of significant unaccounted-for matter. Whatever the bulk of dark matter may be, MACHOs ain’t it.
-
 The starting idea for nonbaryonic dark matter was that it might be
 a new family of neutrinos with the standard V-A coupling to their
 leptons and neutrino rest mass   3 Gev. The mass was chosen so the
@@ -1040,7 +1036,6 @@ halo masses of these galaxies cannot be much greater than their
 stellar masses.” It is too soon to declare a challenge to the ΛCDM
 theory from the evidence of galaxies with little dark matter, but the
 development of the empirical evidence will be worth following
-
 
 *Candidats à la matière noire. Crédit : Samuel Velasco/Quanta Magazine [Source](https://www.quantamagazine.org/physicists-are-expanding-the-search-for-dark-matter-20201123/)*
 
