@@ -766,7 +766,32 @@ matter (CDM) paradigm
 > L’existence de ces particules hypothétiques très peu massive (entre 1 et 1000 μeV) a été postulée en 1977 par Roberto Peccei et Helen Quinn comme solution d’une énigme du modèle standard : le ***problème CP fort***. Pour le comprendre, il faut revenir sur le concept de ***symétries de jauge***, qui est fondamental en physique des particules. Une symétrie de jauge, c’est une transformation qui laisse les propriétés d’un système physique inchangées, invariantes. Par exemple, si on tourne autour du centre d’une boule de billard, l’apparence de la boule reste inchangée. L’ensemble des rotations 3D possibles constituent donc les symétries de la boule. En physique des particules, il existe 3 transformations fondamentales : la ***symétrie C*** (conjugaison de charge), qui change le signe de la charge électrique et transforme une particule en son antiparticule, la ***symétrie P*** (transformation de parité), qui inverse toutes les coordonnées spatiales d’une particule, et la ***symétrie T*** (renversement du temps), qui inverse la flèche du temps. On peut combiner ces opérations pour créer d’autres types de symétries, comme la symétrie CP ou la symétrie CPT. Ainsi, en vertu de la symétrie CP, les particules et les antiparticules devraient obéir aux mêmes lois physiques. Autrement dit, matière et antimatière auraient dû être produits en quantités égales dans l’univers primordial. Pourtant, l’univers qu’on observe est indéniablement dominé par la matière, et l’antimatière est quasi-inexistante à l’échelle cosmique.  Cette victoire de la matière peut être expliquée en partie par la ***brisure de la symétrie CP***. Autrement dit, il y aurait des différences entre les lois qui régissent l’évolution de la matière et celles qui régissent l’antimatière. En 1964, une équipe de physiciens du laboratoire national de Brookhaven a mis en évidence expérimentalement que la symétrie CP pouvait être effectivement brisée dans le phénomène de désintégration du kaon, qui met en jeu l’interaction faible. Cette particule se désintègre en effet préférentiellement en positron plutôt qu’en électron. L’interaction faible brise donc la symétrie CP. Mais qu’en est-il de l’interaction forte ? Selon la ***chromodynamique quantique*** (la théorie qui décrit les interactions entre les quarks et les gluons qui composent les protons et les neutrons), celle-ci devrait aussi briser la symétrie CP. Or, toutes nos expériences nous montrent qu’elle semble malgré tout être préservée. Le problème CP fort consiste à se demander pourquoi les lois de la chromodynamique quantique préservent la symétrie CP. Pour résoudre ce problème, Peccei et Quinn ont postulé l’existence d’un nouveau champ quantique interagissant avec les gluons. Et les particules qui composent ce champ sont les fameux axions. Pourquoi axion ? En référence aux axes de symmétrie, mais aussi, de manière humoristique, à une marque de détergent. Frank Wilczek, qui a eu l’honneur de nommer cette particule, trouvait en effet que celle-ci permettait de « nettoyer » le problème. De nos jours, les axions font partie des candidats favoris des physicien.nes à la matière noire. Pour les détecter, ils se servent d’une étrange propriété de l’axion : lorsqu’il est  soumis à un fort champ magnétique, il se désintègre en paires de photons. On peut alors utiliser un instrument appelé ***haloscope*** pour détecter des axions du halo de matière noire galactique. Celui-ci est composé d’un électroaimant supraconducteur et d’une cavité résonnante qui amplifie le signal photonique (qui arrive dans le domaine des micro-ondes). Le plus célèbre de ces haloscopes est une expérience nommée ADMX (Axion Dark Matter eXperiment), construite à l’université de Washington. Cet instrument a permis de mieux contraindre la plage de masses de l’axion. Et en 2020, l’expérience XENON1T, située dans le laboratoire souterrain de San Grasso en Italie, aurait découvert les premiers indices sérieux de l’existence d’axions en provenance du Soleil. La découverte reste cependant à confirmer.
 
 - ***Les WIMPs***
-> Les WIMPs (accronyme de “Weakly Interacting Massive Particles”) désignent une classe de particules hypothétiques qui n’interagiraient avec la matière ordinaire que via la force nucléaire faible. Ils ont constitué le paradigme dominant dans la quête de la matière noire depuis les années 80, grâce à de solides fondations théoriques et des prédictions testables expérimentalement. Si elles existent, les WIMPs devraient être entre 1 et 1000 fois plus massifs que les protons (1-1000 GeV). Parmi les WIMPs, le candidat le plus étudié est (de loin) le ***neutralino***. L'existence de cette particule est prédite par la théorie de la ***supersymétrie***, une extension du modèle standard de la physique des particules. Celle-ci fait l’hypothèse qu’il existerait un lien fondamental (une symétrie) entre les deux grandes catégories de particules : les bosons (particules dont le spin est entier ou nul) et les fermions (particules dont le spin est demi-entier ou nul). Dans cette théorie, toutes les particules du modèle standard possèdent un « partenaire supersymétrique » (ou ***superpartenaire***) dont le spin diffère du sien de moitié. Ainsi, des bosons auraient des superpartenaires fermioniques et inversement. Les superpartenaires fermioniques des bosons ont le même nom que ces derniers, mais avec le suffixe -ino (ex : le superpartenaire du photon est le photino, et celui du Higgs est le higgsino), tandis que les superpartenaires bosoniques des fermions ont le même nom que ces derniers avec le préfixe s- (ex : les superpartenaires des quarks sont les squarks, et ceux des électrons sont les sélectrons). Dans ce cadre, le neutralino est une combinaison de 3 superpartenaires : le photino, le higgsino et le Z-ino. Selon l'extension supersymétrique minimale du modèle standard de la physique des particules, il existerait 4 neutralinos possibles, et le plus léger d’entre eux est souvent considéré comme l’un des candidats à la matière noire le plus prometteur. Mais après des décennies de recherche et des expériences de plus en plus précises, aucun signe de neutralinos ou de WIMPs n’a été détecté pour le moment. Et si leur existence n’est pas encore exclue, la communauté scientifique commence à privilégier d’autres candidats.
+> Les WIMPs (accronyme de “Weakly Interacting Massive Particles”) désignent une classe de particules hypothétiques qui n’interagiraient avec la matière ordinaire que via la force nucléaire faible. Ils ont constitué le paradigme dominant dans la quête de la matière noire depuis les années 80, grâce à de solides fondations théoriques et des prédictions testables expérimentalement. Si elles existent, les WIMPs devraient être entre 1 et 1000 fois plus massifs que les protons (1-1000 GeV). Parmi les WIMPs, le candidat le plus étudié est (de loin) le ***neutralino***. L'existence de cette particule est prédite par la théorie de la ***supersymétrie***, une extension du modèle standard de la physique des particules. Celle-ci fait l’hypothèse qu’il existerait un lien fondamental (une symétrie) entre les deux grandes catégories de particules : les bosons (particules dont le spin est entier ou nul) et les fermions (particules dont le spin est demi-entier ou nul). Dans cette théorie, toutes les particules du modèle standard possèdent un « partenaire supersymétrique » (ou ***superpartenaire***) plus massif dont le spin diffère du sien de moitié. Ainsi, des bosons auraient des superpartenaires fermioniques et inversement. Les superpartenaires fermioniques des bosons ont le même nom que ces derniers, mais avec le suffixe -ino (ex : le superpartenaire du photon est le photino, et celui du Higgs est le higgsino), tandis que les superpartenaires bosoniques des fermions ont le même nom que ces derniers avec le préfixe s- (ex : les superpartenaires des quarks sont les squarks, et ceux des électrons sont les sélectrons). Dans ce cadre, le neutralino est une combinaison de 3 superpartenaires : le photino, le higgsino et le Z-ino. Selon l'extension supersymétrique minimale du modèle standard de la physique des particules, il existerait 4 neutralinos possibles, et le plus léger d’entre eux est souvent considéré comme l’un des candidats à la matière noire le plus prometteur. Mais après des décennies de recherche et des expériences de plus en plus précises, aucun signe de neutralinos ou de WIMPs n’a été détecté pour le moment. Et si leur existence n’est pas encore exclue, la communauté scientifique commence à privilégier d’autres candidats.
+
+
+A refinement of the standard model called supersymmetry smooths over many of its flaws. It fills the gaps by proposing new, heavier partner particles for all known particles. Plug these new heavies into the mix, and, voilà, their total mass strikingly matches the estimates for dark matter. Cosmologists had already been kicking around the idea of WIMPs without knowing what they might be, and suddenly they had a match. Assuming supersymmetry’s heavier partners were WIMPs resolved everything so perfectly, researchers dubbed it the “WIMP miracle.” Conveniently, these WIMPs would interact with normal matter, albeit very weakly as their name implies; such interactions should render them eminently discoverable.
+
+WIMPs also have failed to appear in other detection methods. Theories suggest the particles may occasionally destroy each other or decay, resulting in showers of gamma rays, but searches have found no convincing evidence. And many physicists expected that the Large Hadron Collider — the most powerful particle accelerator ever built — would produce heavy, novel particles, including WIMPs. But a decade of operations with no heavy partners to show for it has instead made some physicists question the whole notion of supersymmetry.
+
+Selon les facteurs de cette combinaison,
+on peut former quatre types de neutralinos
+stables. Pour une masse de l’ordre de 100 fois
+la masse du proton, une coïncidence
+encourageante favorise les neutralinos : ces
+particules WIMP sont leurs propres anti-
+particules et s’annihilent entre elles dans les
+premiers instants de l’Univers, avec une
+section efficace qui est celle de l’interaction
+nucléaire faible. Lorsque leur densité
+décroît avec l’expansion de l’Univers, si
+bien que le taux d’annihilation devient
+négligeable, leur abondance est gelée à
+une densité relique qui correspond bien à
+celle de la matière noire aujourd’hui. C’est
+le miracle du WIMP. Bien que le LHC
+n’ait pas mis en évidence ces particules
+jusqu’à présent, on peut encore espérer les
+découvrir à plus haute énergie.
 
 - ***Les WIMPZILLAS***
 > Contrairement aux WIMPs, qui sont des particules très légères, les WIMPZILLAS sont des particules hypothétiques ultra-lourdes, dont la masse pourrait être comprise entre 10^9 et 10^16 GeV, et qui interagiraient très faiblement avec la matière. Elles ont été proposées à la fin des années 90 par Edward Kolb, Daniel Chung et Antonio Riotto. Ces particules auraient pu être créées dans les conditions de l’univers primordial, pendant la période de réchauffement qui fait suite à l’inflation. Si ces WIMPZILLAS existent, elles pourraient potentiellement résoudre un autre problème de l’astrophysique : la nature des rayons cosmiques d’ultra-haute énergie. En effet, les WIMPZILLAS pourraient se désintégrer en particules de hautes énergies (essentiellement des rayons gamma dont l’énergie est supérieure à 10^9 GeV) qui pourraient voyager jusqu’à la Terre. Ces particules pourraient être détectées par les futurs observatoires Pierre Augier (en Argentine) et l’Extreme Universe Space Observatory (à bord de l’ISS), en ciblant le centre de la Galaxie. Mais les rayons cosmiques d’ultra-haute énergie sont des événements ultra-rares, et établir des statistiques prend du temps. En attendant, il est difficile de  distinguer les rayons cosmiques issus de la désintégration des WIMPZILLAS des rayons cosmiques issus d’autres processus astrophysiques.
@@ -779,9 +804,6 @@ matter (CDM) paradigm
 
 - ***Les neutrinos stériles***
 > Les neutrinos stériles sont un (ou plusieurs) type(s) hypothétique(s) de ***neutrinos*** très massifs, électriquement neutres, n’interagissant avec la matière que par le biais de leur gravité (contrairement aux 3 types -saveurs- de neutrinos du modèle standard de la physique des particules, qui interagissent aussi avec la matière par le biais de la force nucléaire faible), et stables sur les échelles de temps cosmologiques. Ils ont été proposés en 1977 par Benjamin Lee et Steven Weinberg. Cette hypothèse a connu son heure de gloire au milieu des années 90, lorsque l’expérience LSND (Liquid Scintillator Neutrino Detector) située au Nouveau Mexique avait montré qu’il existait un léger excès d'***(anti-)neutrinos électroniques*** par rapport aux deux autres saveurs (***muonique*** et ***tauique***). Ce résultat pouvait s’expliquer si les (anti-)neutrinos pouvaient se transformer temporairement en une quatrième saveur sur leur trajet. Si leur masse est supérieure au keV, les neutrinos stériles pourraient rendre compte de l’intégralité de la matière noire dans l’univers. La désintégration des neutrinos stériles produirait des photons qui seraient détectables sous la forme d’une raie spectrale dans le domaine des rayons X. En 2014, une telle raie d’émission à 3,55 keV a été détectée dans des amas de galaxies observées par les télescopes spatiaux XMM-Newton et Chandra. Une telle détection est compatible avec la désintégration d’un neutrino stérile d’une masse de 7 keV. Mais ce résultat fait encore débat dans la communauté scientifique. 
-
-- ***Les SIMPs***
- 
 
 Depuis 1985, juste après le changement
 de paradigme qui a fait de la matière noire
@@ -808,95 +830,6 @@ cateurs de lumière. Jusqu’à présent, seules
 des particules de fond (neutrons, matière
 ordinaire) ont été détectées, mais aucune
 particule de matière noire. 
-
-Pendant toutes ces années, le principal
-candidat à la matière noire froide (CDM)
-a été le neutralino. C’est une particule
-hypothétique qui fait partie de l’extension
-au-delà du modèle standard des particules
-élémentaires, permise par la théorie de
-supersymétrie. Chaque particule connue
-aurait une particule supersymétrique
-partenaire, plus massive, et de spin com-
-plémentaire (i.e. un fermion pour un boson,
-et réciproquement). Le neutralino est la
-particule la plus stable de cet ensemble, dans
-lequel les autres particules supersymétriques
-se désintègrent. Le neutralino est une
-combinaison linéaire de trois particules :
-le zino, le photino et le Higgsino, super-
-partenaires de bosons (Z, photon et Higgs).
-Selon les facteurs de cette combinaison,
-on peut former quatre types de neutralinos
-stables. Pour une masse de l’ordre de 100 fois
-la masse du proton, une coïncidence
-encourageante favorise les neutralinos : ces
-particules WIMP sont leurs propres anti-
-particules et s’annihilent entre elles dans les
-premiers instants de l’Univers, avec une
-section efficace qui est celle de l’interaction
-nucléaire faible. Lorsque leur densité
-décroît avec l’expansion de l’Univers, si
-bien que le taux d’annihilation devient
-négligeable, leur abondance est gelée à
-une densité relique qui correspond bien à
-celle de la matière noire aujourd’hui. C’est
-le miracle du WIMP. Bien que le LHC
-n’ait pas mis en évidence ces particules
-jusqu’à présent, on peut encore espérer les
-découvrir à plus haute énergie.
-
-Si l’annihilation est stoppée pratiquement
-dans tout l’Univers à cause de sa faible
-densité, il existe aujourd’hui quelques
-régions de surdensité où les annihilations
-pourraient reprendre, et les rayons gamma
-qui en résulteraient représentent un moyen
-de détection indirecte. Vers le centre de la
-Galaxie par exemple, les spectres des
-rayons gamma émis ont été étudiés en
-détail, mais ont toujours été expliqués par
-une source astrophysique : aucune détection
-indirecte de matière noire n’a pu être
-reportée de façon convaincante
-
-In 1984, an article by Andrzej Drukier and Leo Stodolsky at the Max Planck Institute
-in Munich appeared in Physical Review D, discussing techniques that might be used to de-
-tect neutrinos scattering elastically off nuclei [102]. Among other possibilities, the article
-proposed the use of a superconducting colloid detector, consisting of micron-scale super-
-conducting grains maintained at a temperature just below their superconducting transition.
-Even a very small quantity of energy deposited by the recoil of an incident neutrino could
-cause a superconducting grain to flip into the normal state, collapsing the magnetic field and
-producing a potentially measurable electromagnetic signal. In January 1985, Mark Good-
-man and Ed Witten submitted a paper to the same journal, arguing that this technology
-could also be used to detect some types of dark matter particles [140]14. Although Drukier
-and Stodolsky’s original detector concept was never employed at a scale sensitive to dark
-matter, the broader notion of experiments capable of detecting ∼1-100 keV nuclear recoils
-provided a path through which it appeared possible to test the WIMP hypothesis
-
-Despite the importance of these first dark matter scattering limits, the reach of such
-detectors quickly became limited by their backgrounds, making it difficult to achieve sig-
-nificant improvements in sensitivity. One possible solution to this problem, first suggested
-by Andrzej Drukier, Katherine Freese, and David Spergel [101], was to search for an annual
-variation in the rate of dark matter induced events in such an experiment, as was predicted
-to result from the combination of the Earth’s motion around the Sun and the Sun’s motion
-through the dark matter halo. Such a technique could, in principle, be used to identify a
-signal of dark matter scattering over a large rate of otherwise indistinguishable background
-events. The most well known group to employ this technique was the DAMA/NaI Collabora-
-tion (and later DAMA/LIBRA). The original DAMA/NaI experiment consisted of nine 9.70
-kg scintillating thallium-doped sodium iodide crystals, located in Italy’s deep underground
-Gran Sasso Laboratory. In 1998, they published their first results, reporting the observa-
-tion of an annually modulating rate consistent with dark matter scattering [43]. Over the
-past nearly two decades, DAMA’s signal has persisted and become increasingly statistically
-significant as more data was collected [42], including with the more recent DAMA/LIBRA
-detector [44, 45]. At this point in time, it seems hard to reconcile dark matter interpretations
-of the DAMA/LIBRA signal with the null results of other direct detection experiments. On
-the other hand, no convincing alternative explanation for this signal has been so far identi-
-fied
-
-As CDMS, EDELWEISS, XENON100, LUX and other direct detection experiments have
-increased in sensitivity over the past decades, they have tested and ruled out an impres-
-sive range of particle dark matter models.
 
 In the 1978 Valentine’s Day issue of Physical Review Letters, there appeared two articles
 that discussed – for the first time – the possibility that the annihilations of pairs of dark
@@ -929,33 +862,7 @@ Fermi’s study of dwarf galaxies has provided the strongest limits on the dark 
 hilation cross section to date, strongly constraining WIMPs lighter than ∼100 GeV or so in
 mass 
 
-As large volume neutrino telescopes began to be deployed, such experiments became
-increasingly sensitive to dark matter annihilating in the interiors of the Sun and Earth. The
-AMANDA detector at the South Pole [19], along with Super-Kamiokande in Japan [90],
-each significantly improved upon previous limits, to be followed most notably by IceCube [5]
-and ANTARES [11]. Constraints from neutrino telescopes are currently competitive with
-those derived from direct detection experiments for the case of WIMPs with spin-dependent
-interactions with nuclei.
-
-Many of the strategies employed to search for annihilating dark matter have also been
-used to constrain the rate at which dark matter particles might decay. In addition to con-
-straints on gravitinos and other potentially unstable particles, such searches are particularly
-interesting within the context of sterile neutrino dark matter. Sterile neutrinos with masses
-in the range of ∼1-100 keV are predicted to decay (into an active neutrino and a photon)
-at a rate that could generate a potentially observable X-ray line 
-
 Ever since astronomers reached a consensus in the 1980s that most of the mass in the universe is invisible — that “dark matter” must glue galaxies together and gravitationally sculpt the cosmos as a whole — experimentalists have hunted for the nonluminous particles.  They first set out in pursuit of a heavy, sluggish form of dark matter called a weakly interacting massive particle, or WIMP — the early favorite candidate for the cosmos’s missing matter because it could solve another, unrelated puzzle in particle physics. Over the decades, teams of physicists set up ever larger targets, in the form of huge crystals and multi-ton vats of exotic liquids, hoping to catch the rare jiggle of an atom when a WIMP banged into it.
-
-But these detectors have stayed quiet, and physicists are increasingly contemplating a broader spectrum of possibilities. On the heavy end, they say the universe’s invisible matter could clump into black holes as heavy as stars. At the other extreme, dark matter could spread out in a fine mist of particles thousands of trillions of trillions of times lighter than electrons.
-
-A refinement of the standard model called supersymmetry smooths over many of its flaws. It fills the gaps by proposing new, heavier partner particles for all known particles. Plug these new heavies into the mix, and, voilà, their total mass strikingly matches the estimates for dark matter. Cosmologists had already been kicking around the idea of WIMPs without knowing what they might be, and suddenly they had a match. Assuming supersymmetry’s heavier partners were WIMPs resolved everything so perfectly, researchers dubbed it the “WIMP miracle.” Conveniently, these WIMPs would interact with normal matter, albeit very weakly as their name implies; such interactions should render them eminently discoverable.
-
-WIMPs also have failed to appear in other detection methods. Theories suggest the particles may occasionally destroy each other or decay, resulting in showers of gamma rays, but searches have found no convincing evidence. And many physicists expected that the Large Hadron Collider — the most powerful particle accelerator ever built — would produce heavy, novel particles, including WIMPs. But a decade of operations with no heavy partners to show for it has instead made some physicists question the whole notion of supersymmetry.
-
-Particle: Strongly interacting massive particles (SIMPs)
-Year proposed: 2014  Mass: About 0.1 GeV
-
-Could physicists be wagering on all the wrong dark matter horses? Hitoshi Murayama, a theoretical physicist at the University of California, Berkeley, thinks so. “There is actually something wrong with the traditional thinking about dark matter,” he says. Along with Yonit Hochberg at Hebrew University of Jerusalem, Murayama recently helped develop the SIMP (or strongly interacting massive particles), a whole new breed of dark matter particle. 
 
 *Candidats à la matière noire. Crédit : Samuel Velasco/Quanta Magazine [Source](https://www.quantamagazine.org/physicists-are-expanding-the-search-for-dark-matter-20201123/)*
 
