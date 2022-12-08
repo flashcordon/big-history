@@ -405,6 +405,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Introduction to Dark Matter](https://link.springer.com/chapter/10.1007/978-3-030-95852-7_1) - Derek Jackson Kimball et Dmitry Budker (2023)   
 - [MaCHO Dark Matter (What is it?)](https://youtu.be/9GzB7mNWXAE) - Chris Pattison  
 - [The Dark Matter Enigma](https://inference-review.com/article/the-dark-matter-enigma) - Jean-Pierre Luminet (2020)
+- [Neutrinos stériles : MINOS+ contredit MiniBooNE](https://www.ca-se-passe-la-haut.fr/2019/03/neutrinos-steriles-minos-contredit.html) - Ca se passe là-haut (2019)
 
 ---
 
