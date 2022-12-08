@@ -399,6 +399,12 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [La matière noire pointe-t-elle enfin le bout de son nez dans Xenon 1T ?](https://www.futura-sciences.com/sciences/actualites/nouvelle-physique-matiere-noire-pointe-t-elle-enfin-bout-son-nez-xenon-1t-60517/) - Ciel et Espace (2020)
 - [L'asymétrie CP ou le privilège de la matière](http://www.astrosurf.com/luxorion/quantique-asymetrie-cp.htm) - Astrosurf
 - [Matière noire (axions) : nouveaux résultats de deux haloscopes](https://www.ca-se-passe-la-haut.fr/2021/05/matiere-noire-axions-nouveaux-resultats.html) - Ca se passe là-haut (2021)
+- [Limits on the Macho content of the Galactic Halo from the EROS-2 Survey of the Magellanic Clouds](https://www.aanda.org/articles/aa/abs/2007/26/aa6017-06/aa6017-06.html) - Tisserand et al (2007)
+- [The OGLE view of microlensing towards the Magellanic Clouds – IV. OGLE-III SMC data and final conclusions on MACHOs](https://academic.oup.com/mnras/article/416/4/2949/976362) - Wyrzykowski et al (2011)
+- [MACHOs](https://astronomy.swin.edu.au/cosmos/m/MACHOs) - ENCYCLOPEDIA OF ASTRONOMY AND ASTROPHYSIC
+- [Introduction to Dark Matter](https://link.springer.com/chapter/10.1007/978-3-030-95852-7_1) - Derek Jackson Kimball et Dmitry Budker (2023)   
+- [MaCHO Dark Matter (What is it?)](https://youtu.be/9GzB7mNWXAE) - Chris Pattison  
+- [The Dark Matter Enigma](https://inference-review.com/article/the-dark-matter-enigma) - Jean-Pierre Luminet (2020)
 
 ---
 
