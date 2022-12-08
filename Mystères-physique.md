@@ -719,6 +719,25 @@ En champ de gravité faible, la force de
 gravité ne décroît alors plus avec la distance
 en 1/R 2, mais en 1/R. 
 
+Do galaxies always contain dark matter? Since most of the dark
+matter is in the outskirts of a galaxy, possible exceptions would be
+galaxies that have been tidally stripped, and the dwarfs that might
+have formed by dissipative settling from tidal streams. Apart from
+such effects, dark halos are expected to be universal in the standard
+ΛCDM cosmology. There are possibly interesting challenges to this
+prediction. The large S0 galaxy NGC 3115 is in the field, which
+is unusual because most S0s at this luminosity are in clusters. If
+it has a dark matter halo with mass typical of its stellar mass then
+the halo of NGC 3115 must be much less dense than usual, the
+halo core radius much broader (Cappellari, Romanowsky, Brodie, et
+al. 2015). The low surface brightness satellites NGC1052-DF2 and
+NGC1052-DF4 of the elliptical NGC 1052 also look like exceptions.
+Keim, van Dokkum, Danieli, et al. (2022) argue that “the dark matter
+halo masses of these galaxies cannot be much greater than their
+stellar masses.” It is too soon to declare a challenge to the ΛCDM
+theory from the evidence of galaxies with little dark matter, but the
+development of the empirical evidence will be worth following
+
 ### L'amas de la balle (Bullet cluster)
 
 The combination of X-ray and gravitational lensing data for the`bullet cluster’
@@ -953,16 +972,7 @@ Ever since astronomers reached a consensus in the 1980s that most of the mass in
 
 But these detectors have stayed quiet, and physicists are increasingly contemplating a broader spectrum of possibilities. On the heavy end, they say the universe’s invisible matter could clump into black holes as heavy as stars. At the other extreme, dark matter could spread out in a fine mist of particles thousands of trillions of trillions of times lighter than electrons.
 
-Particle: Weakly interacting massive particles (WIMPs)
-Year proposed: 1985  Mass: 1 to 1000 GeV
-
-When it comes to dark matter, physicists have placed their biggest bets, in terms of research dollars, on WIMPs. These entities surged to the fore in the mid-1980s, connecting the largest, cosmic scale of physics with the smallest, the standard model of particle physics. 
-
-Developed over many decades, the standard model is a stunning scientific success. With pinpoint precision, it describes three of nature’s four forces — electromagnetic, and the strong and weak nuclear forces. But the model also has yawning gaps, including not being able to describe the fourth force, gravity, and failing to explain dark matter at all.
-
 A refinement of the standard model called supersymmetry smooths over many of its flaws. It fills the gaps by proposing new, heavier partner particles for all known particles. Plug these new heavies into the mix, and, voilà, their total mass strikingly matches the estimates for dark matter. Cosmologists had already been kicking around the idea of WIMPs without knowing what they might be, and suddenly they had a match. Assuming supersymmetry’s heavier partners were WIMPs resolved everything so perfectly, researchers dubbed it the “WIMP miracle.” Conveniently, these WIMPs would interact with normal matter, albeit very weakly as their name implies; such interactions should render them eminently discoverable.
-
-Emphasis on the should. Despite multiple big-budget experiments in 2016 and 2017, WIMPs have disappointed. And in May 2018, the XENON1T instrument in Italy — the biggest WIMP search to date — likewise reported finding nothing. In all three experiments, giant containers of liquid xenon served as dark matter dragnets, which would ideally, and occasionally, jostle some of the dark stuff we’re supposedly always swimming through, producing a telltale light.
 
 WIMPs also have failed to appear in other detection methods. Theories suggest the particles may occasionally destroy each other or decay, resulting in showers of gamma rays, but searches have found no convincing evidence. And many physicists expected that the Large Hadron Collider — the most powerful particle accelerator ever built — would produce heavy, novel particles, including WIMPs. But a decade of operations with no heavy partners to show for it has instead made some physicists question the whole notion of supersymmetry.
 
@@ -983,59 +993,6 @@ Particle: Strongly interacting massive particles (SIMPs)
 Year proposed: 2014  Mass: About 0.1 GeV
 
 Could physicists be wagering on all the wrong dark matter horses? Hitoshi Murayama, a theoretical physicist at the University of California, Berkeley, thinks so. “There is actually something wrong with the traditional thinking about dark matter,” he says. Along with Yonit Hochberg at Hebrew University of Jerusalem, Murayama recently helped develop the SIMP (or strongly interacting massive particles), a whole new breed of dark matter particle. 
-
-The top contenders — WIMPs, axions and sterile neutrinos — are all postulated as indivisible, elementary particles. SIMPs, on the other hand, are composite particles, made of other, smaller particles. 
-
-The smaller bits making up protons, neutrons and SIMPs are called quarks, but in the SIMP’s case, they would be individually composed of a quark paired with a hypothetical antiquark, which primarily goes about its business in the dark sector beyond the standard model. Still, the physics of composite particles is well understood, and that degree of familiarity could make SIMPs easier to detect and understand than the more exotic indivisible dark matter candidates. 
-
-SIMPs would be gregarious by nature, strongly interacting with other SIMPs. That’s in contrast to WIMPs, which only weakly interact with each other and normal matter. As a result, instead of WIMPily flowing past their fellow particles, SIMPs would knock heads and bounce off one another like billiard balls.
-
-One more thing points to SIMPs. There should be enough of them to explain away all of the universe’s dark matter, unlike the more complicated theories other particles require. “SIMPs can be 100 percent of dark matter without any problems,” says Murayama. 
-
-As for someday bagging SIMPs, hopes rest on particle accelerators such as the SuperKEKB, which started in Japan in April 2018. Such machines bang together lightweight electrons and their antimatter counterparts, and from the detritus might fling out the occasional SIMP. 
-
-The starting idea for nonbaryonic dark matter was that it might be
-a new family of neutrinos with the standard V-A coupling to their
-leptons and neutrino rest mass   3 Gev. The mass was chosen so the
-remnant abundance from the thermal production and annihilation
-of these hypothetical neutrinos in the hot early universe would be
-interesting for cosmology. It was introduced, independently as far
-as I know, in five papers: Hut (1977); Lee and Weinberg (1977);
-Sato and Kobayashi (1977); Dicus, Kolb, and Teplitz (1977); and
-Vysotskij, Dolgov, and Zel’dovich (1977). This candidate for dark
-matter has become known as weakly interacting massive particles,
-or WIMPs.
-
-There are other candidates for dark
-matter, with active research aimed at their detection. Examples are
-the lightest supersymmetric partner, axions, fuzzy dark matter, su-
-persymmetric dark matter, and black holes. The searches for signs
-of these objects and more, in the laboratory and astronomical obser-
-vations, have been energetically pursued for four decades, and at the
-time of writing they have not yielded a generally accepted detection
-of any form of dark matter
-Maybe the dark matter is in whole or part
-black holes that were present before the earliest stars. The thought
-has a long history (e.g., Zel’dovich and Novikov, 1967; Carr and
-Hawking, 1974)
-Do galaxies always contain dark matter? Since most of the dark
-matter is in the outskirts of a galaxy, possible exceptions would be
-galaxies that have been tidally stripped, and the dwarfs that might
-have formed by dissipative settling from tidal streams. Apart from
-such effects, dark halos are expected to be universal in the standard
-ΛCDM cosmology. There are possibly interesting challenges to this
-prediction. The large S0 galaxy NGC 3115 is in the field, which
-is unusual because most S0s at this luminosity are in clusters. If
-it has a dark matter halo with mass typical of its stellar mass then
-the halo of NGC 3115 must be much less dense than usual, the
-halo core radius much broader (Cappellari, Romanowsky, Brodie, et
-al. 2015). The low surface brightness satellites NGC1052-DF2 and
-NGC1052-DF4 of the elliptical NGC 1052 also look like exceptions.
-Keim, van Dokkum, Danieli, et al. (2022) argue that “the dark matter
-halo masses of these galaxies cannot be much greater than their
-stellar masses.” It is too soon to declare a challenge to the ΛCDM
-theory from the evidence of galaxies with little dark matter, but the
-development of the empirical evidence will be worth following
 
 *Candidats à la matière noire. Crédit : Samuel Velasco/Quanta Magazine [Source](https://www.quantamagazine.org/physicists-are-expanding-the-search-for-dark-matter-20201123/)*
 
