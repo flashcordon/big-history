@@ -1268,7 +1268,10 @@ logical in origin.
 - [Measurements of the Hubble Constant: Tensions in Perspective](https://arxiv.org/abs/2106.15656) - Freedman (2021)
 - [JWST just made the "Crisis in Cosmology" WORSE](https://youtu.be/hps-HfpL1vc) - Dr Becky (2022)
 - [In the Realm of the Hubble tension − a Review of Solutions](https://arxiv.org/abs/2103.01183) - Di Valentino et al (2021)
+- [Cosmic Expansion: A mini review of the Hubble-Lemaitre tension](https://arxiv.org/abs/2105.09409) - Cyr-Racine (2021)
 
 ---
 
+*Crédit : Cyr-Racine (2021). [Source](https://arxiv.org/pdf/2105.09409.pdf)*
+![H0](https://i.imgur.com/AjK9qEf.png)
 
