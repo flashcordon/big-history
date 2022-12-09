@@ -1319,15 +1319,15 @@ logical in origin.
 > * Une symétrie en physique, c’est une transformation qui agit sur un système physique et qui laisse ce système inchangé.
 > * CP est la combinaison de 2 symétries fondamentales : la conjugaison de charge (C) et la parité (P)
 - La conjugaison de charge est une transformation mathématique qui change la valeur de la charge / remplace une particule par son antiparticule : Q → -Q (ex : un électron devient un positron)
-> Une théorie possède la symétrie C si elle est invariante sous la conjugaison de charge. L’électromagnétisme, la gravitation et l’interaction forte obéissent à la symétrie de charge, mais l’interaction faible viole la symétrie C. 
+> Une théorie possède la symétrie C si elle est invariante sous la conjugaison de charge. L’électromagnétisme, la gravitation et l’interaction forte obéissent à la symétrie de charge, mais l’interaction faible brise la symétrie C. 
 - La parité (qu’on appelle aussi inversion de l’espace) est une transformation mathématique qui change les coordonnées spatiales d’un système en son symétrique par rapport à l’origine des coordonnées : (x,y,z) → (-x,-y,-z) 
 > Une théorie possède la symétrie P si elle est invariante sous la conjugaison de parité. La parité est conservée dans l’électromagnétisme, la gravitation et l’interaction forte, mais elle est violée dans l’interaction faible. Ça veut dire que certains atomes radioactifs se désintègrent de façon asymétrique : l’électron est préférentiellement éjecté dans une direction précise par rapport au spin du noyau (montrée en 1956 sur des atomes de Cobalt 60 par l’expérience de Chien-Shiung Wu). Certaines réactions se produisent donc moins souvent que leur image dans un miroir (analogie intuitive mais limitée).
 - CP transforme un électron de spin up en positron de spin down
-> L’interaction faible est la seule interaction qui viole la symétrie CP
+> L’interaction faible est la seule interaction qui brise la symétrie CP
 - Selon Sakharov (1967), tout modèle d’émergence de la matière (baryogénèse) doit remplir les 3 conditions suivantes pour générer une asymétrie entre matière et antimatière :
-> * Violation du nombre baryonique B : certains processus physiques doivent créer plus de matière que d’antimatière 
-> * Violation de la symétrie CP
-> * L’univers doit être hors de l’équilibre thermique, ce qui est une conséquence logique de son expansion
+> * ***Violation du nombre baryonique B*** : certains processus physiques doivent créer plus de matière que d’antimatière 
+> * ***Brisure de la symétrie CP***
+> * ***L’univers doit être hors de l’équilibre thermique***, ce qui est une conséquence logique de son expansion
 - Les 3 conditions de Sakharov sont satisfaites dans le modèle standard, mais l’asymétrie prédite par le modèle standard est trop faible pour expliquer les observations.
 - Nos théories cosmologiques n’excluent pas la possibilité qu’il reste des régions / îlots dans l’univers constituées d’antimatière.
 > La matière et l’antimatière émettent des photons de même longueur d’onde, donc la lumière des galaxies lointaines ne nous aide pas vraiment. Par contre à la frontière entre les régions de matière et les régions d’antimatière on devrait voir de l’annihilation donc un fort signal dans le domaine des rayons gamma, mais on n’a détecté aucun signal de ce type à ce jour. Si ces régions existent, elles sont aussi grandes que l’univers observable, mais on ne connaît pas de mécanisme plausible pour séparer les baryons et les antibaryons à de telles échelles.
