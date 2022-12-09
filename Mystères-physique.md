@@ -1272,6 +1272,7 @@ logical in origin.
 
 ---
 
-*Crédit : Cyr-Racine (2021). [Source](https://arxiv.org/pdf/2105.09409.pdf)*
+*Evolution de la tension de Hubble au fil des ans. Crédit : Cyr-Racine (2021). [Source](https://arxiv.org/pdf/2105.09409.pdf)*
+
 ![H0](https://i.imgur.com/AjK9qEf.png)
 
