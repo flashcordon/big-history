@@ -1267,6 +1267,7 @@ logical in origin.
 - [Tensions dans le modèle cosmologique : l’espoir d’une nouvelle génération de télescopes](https://www.pourlascience.fr/sd/cosmologie/tensions-dans-le-modele-cosmologique-l-espoir-d-une-nouvelle-generation-de-telescopes-23923.php) - Pour  la Science (2022)
 - [Measurements of the Hubble Constant: Tensions in Perspective](https://arxiv.org/abs/2106.15656) - Freedman (2021)
 - [JWST just made the "Crisis in Cosmology" WORSE](https://youtu.be/hps-HfpL1vc) - Dr Becky (2022)
+- [In the Realm of the Hubble tension − a Review of Solutions](https://arxiv.org/abs/2103.01183) - Di Valentino et al (2021)
 
 ---
 
