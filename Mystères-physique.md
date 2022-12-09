@@ -1328,7 +1328,7 @@ logical in origin.
 > * ***Violation du nombre baryonique B*** : certains processus physiques doivent créer plus de matière que d’antimatière 
 > * ***Brisure de la symétrie CP***
 > * ***L’univers doit être hors de l’équilibre thermique***, ce qui est une conséquence logique de son expansion
-- Les 3 conditions de Sakharov sont satisfaites dans le modèle standard, mais l’asymétrie prédite par le modèle standard est trop faible pour expliquer les observations.
+- Les 3 ***conditions de Sakharov*** sont satisfaites dans le modèle standard, mais l’asymétrie prédite par le modèle standard est trop faible pour expliquer les observations.
 - Nos théories cosmologiques n’excluent pas la possibilité qu’il reste des régions / îlots dans l’univers constituées d’antimatière.
 > La matière et l’antimatière émettent des photons de même longueur d’onde, donc la lumière des galaxies lointaines ne nous aide pas vraiment. Par contre à la frontière entre les régions de matière et les régions d’antimatière on devrait voir de l’annihilation donc un fort signal dans le domaine des rayons gamma, mais on n’a détecté aucun signal de ce type à ce jour. Si ces régions existent, elles sont aussi grandes que l’univers observable, mais on ne connaît pas de mécanisme plausible pour séparer les baryons et les antibaryons à de telles échelles.
 
