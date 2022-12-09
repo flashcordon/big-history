@@ -1309,7 +1309,7 @@ logical in origin.
 - Si l’on fait s’entrechoquer des particules de matière avec leurs antiparticules, elles s’annihilent et convertissent l’intégralité de leur masse en photons. (E=mc² ! Si on a assez d’énergie on peut créer de la matière, et toute matière de masse m contient une énergie au repos E/c²)
 > 1 positron + 1 électron < - > 2 photons
 - Il n’y a quasiment plus d’antimatière dans l’univers aujourd’hui. 
-> On en trouve sous forme de traces dans les rayons cosmiques qui entrent en collision avec l’atmosphère. Ils sont issus de la collision entre particules comme des baryons (particules composées de 3 quarks, comme des protons et des neutrons), des leptons (particules élémentaires de spin 1/2) ou des photons. On en produit aussi dans nos accélérateurs de particules.
+> On en trouve sous forme de traces dans les rayons cosmiques qui entrent en collision avec l’atmosphère. Ils sont issus de la collision entre particules comme des baryons (particules composées de 3 quarks, comme des protons et des neutrons), des leptons (particules élémentaires de spin 1/2 insensibles à l'interaction forte) ou des photons. On en produit aussi dans nos accélérateurs de particules.
 - Mais ça n’a pas été toujours le cas ! Juste après l’inflation, l’énergie dans lequel l’univers baignait après le réchauffement aurait dû produire autant de matière que d’antimatière !
 > Les baryons auraient du s’annihiler avec leurs antiparticules, en ne laissant qu’une abondance négligeable de baryons. Mais ce n’est pas ce qu’on observe.
 - L’origine de cette asymétrie entre matière et antimatière est aujourd’hui un mystère, et un sujet de recherche très actif.
