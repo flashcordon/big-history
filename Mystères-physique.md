@@ -1304,18 +1304,18 @@ logical in origin.
 
 - Aujourd’hui on prend la matière (protons, neutrons, électrons...) comme un acquis. Mais elle n’a pas toujours existé comme tel !
 - Le modèle standard de la physique des particules contient 12 particules élémentaires : 6 quarks et 6 leptons
-- A chacune de ces particules de matière correspond une particule d’antimatière : une particule d’antimatière a la même masse et les mêmes nombres quantiques que sa particule de matière correspondante, mais une charge électrique opposée.
-> En 1928, Paul Dirac décrit le comportement des électrons dans l’équation qui porte aujourd’hui son nom. Sauf que son équation a 2 solutions ! La 2e solution correspond à une particule de charge opposée. Dirac invente alors le concept de positron (anti-électron) en 1930. 2 ans plus tard, on en découvre dans les rayons cosmiques (Prix Nobel 1936)
+- A chacune de ces particules de matière correspond une particule d’***antimatière*** : une particule d’antimatière a la même masse et les mêmes nombres quantiques que sa particule de matière correspondante, mais une charge électrique opposée.
+> En 1928, Paul Dirac décrit le comportement des électrons dans l’équation qui porte aujourd’hui son nom. Sauf que son équation a 2 solutions ! La 2e solution correspond à une particule de charge opposée. Dirac invente alors le concept de ***positron*** (ou anti-électron) en 1930. 2 ans plus tard, on en découvre dans les rayons cosmiques (Prix Nobel 1936)
 - Si l’on fait s’entrechoquer des particules de matière avec leurs antiparticules, elles s’annihilent et convertissent l’intégralité de leur masse en photons. (E=mc² ! Si on a assez d’énergie on peut créer de la matière, et toute matière de masse m contient une énergie au repos E/c²)
-> 1 positron + 1 électron <→ 2 photons
+> 1 positron + 1 électron < - > 2 photons
 - Il n’y a quasiment plus d’antimatière dans l’univers aujourd’hui. 
-> On en trouve sous forme de traces dans les rayons cosmiques qui entrent en collision avec l’atmosphère. Ils sont issus de la collision entre particules comme des baryons, des leptons ou des photons. On en produit aussi dans nos accélérateurs de particules.
-- Mais ça n’a pas été toujours le cas ! Juste après l’inflation, l’énergie dans lequel l’univers baignait après le réchauffement aurait du produire autant de matière que d’antimatière !
+> On en trouve sous forme de traces dans les rayons cosmiques qui entrent en collision avec l’atmosphère. Ils sont issus de la collision entre particules comme des baryons (particules composées de 3 quarks, comme des protons et des neutrons), des leptons (particules élémentaires de spin 1/2) ou des photons. On en produit aussi dans nos accélérateurs de particules.
+- Mais ça n’a pas été toujours le cas ! Juste après l’inflation, l’énergie dans lequel l’univers baignait après le réchauffement aurait dû produire autant de matière que d’antimatière !
 > Les baryons auraient du s’annihiler avec leurs antiparticules, en ne laissant qu’une abondance négligeable de baryons. Mais ce n’est pas ce qu’on observe.
 - L’origine de cette asymétrie entre matière et antimatière est aujourd’hui un mystère, et un sujet de recherche très actif.
-> * Toute asymétrie de baryons qui existerait avant l’inflation devrait avoir été diluée et deveniu négligeable pendant l’inflation, à cause de la production d’entropie qui a lieu pendant le reheating.
+> * Toute asymétrie de baryons qui existerait avant l’inflation devrait avoir été diluée et deveniu négligeable pendant l’inflation, à cause de la production d’entropie qui a lieu pendant le réchauffement.
 > * Aucun processus connu dans le modèle standard n’est capable de produire une telle asymétrie. Il faut donc étendre le modèle standard pour construire une explication.
-- Si les lois de la nature traitent les particules de la matière de la même manière que les particules d’antimatière, les physiciens disent qu’elles respectent la symétrie CP (Charge-Parité). Sinon, ils disent que la symétrie CP est violée.
+- Si les lois de la nature traitent les particules de la matière de la même manière que les particules d’antimatière, les physiciens disent qu’elles respectent la symétrie CP (Charge-Parité). Sinon, ils disent que la symétrie CP est brisée.
 > * Une symétrie en physique, c’est une transformation qui agit sur un système physique et qui laisse ce système inchangé.
 > * CP est la combinaison de 2 symétries fondamentales : la conjugaison de charge (C) et la parité (P)
 - La conjugaison de charge est une transformation mathématique qui change la valeur de la charge / remplace une particule par son antiparticule : Q → -Q (ex : un électron devient un positron)
