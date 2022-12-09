@@ -1372,3 +1372,4 @@ logical in origin.
 >  le neutron se désintègre en un proton, un électron et un antineutrino électronique (désintégration béta)
 - L'hydrogène représente 63 % des atomes et 10 % de la masse du corps humain. Ces atomes sont aussi vieux que le cosmos !
 - 99 % des atomes de la voie lactée sont de l’hydrogène (90%) et de l’hélium (9%). En masse : Hydrogène 70 %, Hélium 28 % 
+- ***Note sur les temps utilisés dans l'univers primordial*** : Les repères temporels mentionnés ci-dessus dépendent des modèles. La grandeur la plus fiable pour calculer l'évolution des grandeurs quand on fait de la cosmologie primordiale c'est la température de l'univers.
