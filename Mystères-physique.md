@@ -10,6 +10,7 @@
 - [Le principe cosmologique](#Le-principe-cosmologique)
 - [La tension de Hubble](#La-tension-de-Hubble)
 - [L'asymétrie entre matière et antimatière](#Lasymétrie-entre-matière-et-antimatière)
+- [La nucléosynthèse primordiale](#La-nucléosynthèse-primordiale)
 
 # Le modèle standard de la cosmologie
 
@@ -1335,3 +1336,39 @@ logical in origin.
 *Particules du modèle standard de la physique des particules (Source : Wikipédia)*
 
 ![particules](https://i.imgur.com/Sb18hJB.png)
+
+# La nucléosynthèse primordiale
+
+*Sources*
+
+- [Nucleosynthesis, star formation and evolution (part 1)](https://youtu.be/gsZ1vVs2T3o) - Cyril Georgy (Février 2016)
+- [Primordial Nucleosynthesis](https://arxiv.org/pdf/1707.01004.pdf) - Coc et Vangioni (2017)
+- [Primordial nucleosynthesis: A cosmological point of view](https://aip.scitation.org/doi/pdf/10.1063/1.4875284?class=pdf) - Mathews (2014)
+- [La nucléosynthèse primordiale](https://www.astronomes.com/le-big-bang/nucleosynthese-primordiale) - Astronomie et astrophysique (Août 2017)
+- [Primordial Nucleosynthesis in the Precision Cosmology Era](https://arxiv.org/ftp/arxiv/papers/0712/0712.1100.pdf) - Steigman, Annual Review of nuclear and particle science (2007)
+- [Nucleosynthesis in the Big Bang](https://maken.wikiwijs.nl/userfiles/dad1a88ff2d4b138a92572a1246e0866.swf) - Animation interactive
+- [BIG-BANG NUCLEOSYNTHESIS](http://pdg.lbl.gov/2016/reviews/rpp2016-rev-bbang-nucleosynthesis.pdf) Fields, Molaro et Sarkar (2016)
+- [Hydrogène](https://fr.wikipedia.org/wiki/Hydrog%C3%A8ne#cite_note-Biologie-7) - Wikipédia
+
+---
+
+- Après l'anihilation de l'antimatière, l'univers est dominé par le rayonnement dont la longueur d'onde s'étend en même temps que l'univers. La température diminue au fil du temps.
+- Pendant les 20 premières minutes qui ont suivi le Big Bang, l'univers est juste assez chaud et dense que des réactions nucléaires ont pu avoir lieu, ce qui a donné naissance aux premiers noyaux d'atomes : hélium 4, hélium 3, deutérium et lithium 7 (et quelques traces d'éléments légèremet plus lourds). 
+> * Les protons et les neutrons se combinent sous l'action de la force nucléaire forte
+> * Noyau de deutérium  = un proton et un neutron (aussi appelé deutéron)
+> * Noyau d'hélium 3 = deux protons et un neutron
+> * Noyau d'hélium 4 = deux protons et deux neutrons
+- La nucléosynthèse primordiale commence quelques minutes après le Big Bang (~200s, ie ~3 minutes), lorsque la température de l’Univers descend sous la barre du milliard de degrés, et que les photons deviennent trop peu énergétiques pour casser la liaison interne des noyaux tentent de se former.
+> Les premiers noyaux de deutérium se forment dès 1s après le Big Bang (T=10GK), mais ils sont instantanément détruits par les photons environnants (photodissociation).
+> Le début de la nucléosynthèse primordiale correspond à l'époque où la formation des premiers noyaux de deutérium dépasse leur destruction
+- La nucléosynthèse primordiale se termine ~20min après le Big Bang, lorsque la densité et la température sont trop basses pour que les réactions de fusion continuent
+> A partir de ce moment, il n'y a plus de neutrons libres (ils sont presque tous dans des noyaux d'hélium 4), et la barrière coulombienne est suffisante pour repousser les protons entre eux.
+- A la fin de la nucléosynthèse primordiale, la matière (baryonique) dans l'univers est composée à 75% d'hydrogène, à 25% d'hélium-4, à 0.01% de deuterium et d'hélium-3, de quelques traces (de l'ordre de 10^−10) de lithium, et de quantités négligeables d'éléments plus lourds (fraction en masse).
+> Le fait qu'il n'existe pas de noyaux stables avec un nombre de particules de 5 ou 8 empêche la formation d'un nombre significatif de noyaux plus lourds pendant la nucléosynthèse primordiale. Elle s'arrête avant que des noyaux avec A>=12 puissent être créés. 
+- La nucléosynthèse primordiale est l'une des 3 "preuves" du modèle du Big Bang (un des 3 pilliers de la cosmologie moderne), avec l'expansion de l'univers et le fond diffus cosmologique (CMB).
+- Il y a un très bon accord entre les abondances observées et prédites par la théorie d'hélium 4, d'hélium 3, de deutérium et de lithium 7, ce qui est particulièrement remarquable car ces abondances (en nombres d'atomes par atome d'hydrogène) couvrent 9 ordres de grandeur.
+- *Controverse :* Il y a un facteur 3 de différence entre les abondances primordiales de lithium observées et prédites, qui n'a pas encore d'explication consensuelle (problème du lithum).
+- Sans la nucléosynthèse primordiale, il n'y aurait pas de neutrons dans l'univers aujourd'hui vu que la durée de vie d'un neutron libre est de 15 minutes.
+>  le neutron se désintègre en un proton, un électron et un antineutrino électronique (désintégration béta)
+- L'hydrogène représente 63 % des atomes et 10 % de la masse du corps humain. Ces atomes sont aussi vieux que le cosmos !
+- 99 % des atomes de la voie lactée sont de l’hydrogène (90%) et de l’hélium (9%). En masse : Hydrogène 70 %, Hélium 28 % 
