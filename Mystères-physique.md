@@ -34,7 +34,7 @@
 
 *Evolution de la résolution de la cartographie du CMB. Crédit : le Figaro [Source](https://www.researchgate.net/figure/Temperature-fluctuations-observed-in-the-CMB-using-COBE-WMAP-Planck-data-Gold-et-al_fig1_328474806)*
 
-![CMBevol](https://www.researchgate.net/profile/Luis-Padilla-9/publication/328474806/figure/fig1/AS:685097212719115@1540351312825/Temperature-fluctuations-observed-in-the-CMB-using-COBE-WMAP-Planck-data-Gold-et-al.ppm)
+![CMBevol](https://i.imgur.com/6v0Tqdu.png)
 
 ## L'univers est en grande partie invisible
 
