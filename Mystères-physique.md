@@ -102,6 +102,24 @@ fit the data, as the detailed physics of these processes are not yet well unders
 the-art cosmological hydrodynamical simulations include Illustris (Vogelsberger et al.
 2014), EAGLE (Crain et al. 2015) and Horizon-AGN (Dubois et al. 2014).
 
+The Sloan Digital Sky Survey (SDSS, York et al. 2000), an on-going spectro-photometric
+survey that started in 1998, conducted using the 2.5m telescope of the Apache Point observatory
+in New Mexico. The SDSS covers an area of  14; 555 deg2 on the sky (over
+1/3 of the celestial sphere) in five optical bands (ugriz, Fukugita et al. 1996). The last
+data release (DR12, Alam et al. 2015) contains  4:7  108 cataloged objects (detected
+in the optical r-band) and more than 1:8  106 galaxy spectra.
+
+Toutes les DR jusqu'au DR17 (2021):
+Total spectra
+    5,789,200
+Useful spectra
+    4,846,156
+Galaxies
+    2,863,635
+    
+  Galaxies cataloguées
+    208,478,448
+
 *Première observation de la distribution à grande échelle des galaxies (structure dite "en bulles") par le CfA Redshift Survey. Le graphe représente environ un millier de galaxies. Crédit : De Lapparent et al (1986), SAO. [Source](http://tdc-www.harvard.edu/zcat/)*
 
 ![cfa1998](http://tdc-www.harvard.edu/zcat/cfa2.n30.gif)
