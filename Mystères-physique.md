@@ -28,6 +28,10 @@
 
 ## L'univers se refroidit
 
+*Carte du CMB par le satellite Planck (2018). Crédit : Collaboration Planck. [Source](https://wiki.cosmos.esa.int/planck-legacy-archive/images/thumb/8/84/Cmb_inpaint_T_commander_v1.png/1200px-Cmb_inpaint_T_commander_v1.png)*
+
+![CMBPlanck2018](https://wiki.cosmos.esa.int/planck-legacy-archive/images/thumb/8/84/Cmb_inpaint_T_commander_v1.png/1200px-Cmb_inpaint_T_commander_v1.png)
+
 ## L'univers est en grande partie invisible
 
 ## L'univers s'accélère
