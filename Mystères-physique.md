@@ -40,7 +40,7 @@
 
 ## L'univers se structure
 
-*Première observation de la distribution à grande échelle des galaxies par le CfA Redshift Survey. Le graphe représente 1100 galaxies. Crédit : De Lapparent et al (1986), SAO. [Source](http://tdc-www.harvard.edu/zcat/)*
+*Première observation de la distribution à grande échelle des galaxies (structure dite "en bulles") par le CfA Redshift Survey. Le graphe représente environ un millier de galaxies. Crédit : De Lapparent et al (1986), SAO. [Source](http://tdc-www.harvard.edu/zcat/)*
 
 ![cfa1998](http://tdc-www.harvard.edu/zcat/cfa2.n30.gif)
 
