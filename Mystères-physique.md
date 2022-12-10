@@ -24,7 +24,7 @@
 
 *Vitesse de récession des galaxies en fonction de leur distance. Crédit : Hubble (1929). [Source](https://www.pnas.org/doi/10.1073/pnas.15.3.168)*
 
-[Hubble1929](https://www.pnas.org/cms/10.1073/pnas.15.3.168/asset/3c4ab7f0-0cf6-43b7-afdf-2b7066aa0260/assets/graphic/pnas.168fig01.jpeg)
+![Hubble1929](https://www.pnas.org/cms/10.1073/pnas.15.3.168/asset/3c4ab7f0-0cf6-43b7-afdf-2b7066aa0260/assets/graphic/pnas.168fig01.jpeg)
 
 ## L'univers se refroidit
 
