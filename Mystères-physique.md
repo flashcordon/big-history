@@ -40,6 +40,68 @@
 
 ## L'univers se structure
 
+The mapping of 2,400 galaxies by the CfA Redshift Survey (Huchra et al. 1983), the first
+systematic survey of this kind, revealed that the spatial distribution of galaxies was far from
+random: at the scale of several tens of Mpcs, they were lying on the "surfaces of bubble-like
+structures" surrounding vast cosmic voids (De Lapparent et al. 1986). The invention of charge
+coupled devices (CCDs) marked the beginning of the golden age of extragalactic astronomy in
+the mid-1980s. Astronomical surveys such as the Sloan Digital Sky Survey (York et al. 2000),
+the first fully digital map of the local universe, provided astronomers with an unprecedented
+wealth of data that only recently allowed to make reliable, quantitative statements on the distribution
+of dierent galaxy populations.
+
+In parallel with the development of astronomical surveys, cosmological simulations allowed
+us to model the non-linear dynamics of large-scale structures and their interplay with
+the small scale physics of galaxy evolution with ever-increasing complexity. Starting from the
+tiny density fluctuations of the early universe observed in the CMB (now tightly constrained
+thanks to the results of the WMAP and Planck satellites), these simulations replayed the history
+of the universe, according to our best theoretical models. The numerical simulation method in
+the field of galaxy evolution dates back to the first N-body simulations of interacting galaxies
+of Holmberg (1941) performed on an analog computer7, and its use has become ubiquitous
+since the late 1970’s, with the pioneering simulation of Miyoshi and Kihara (1975) performed
+on 400 “galaxies” (particles) in an expanding universe8, achieving the prediction of the spatial
+distribution of the large-scale structures with remarkable accuracy, and ushering us in the era
+of “precision cosmology” (Primack 2005).
+
+For a long time, large-scale cosmological simulations such as the Millenium run (Springel
+et al. 2005) or the Bolshoi simulation (Klypin et al. 2011) were limited to N-body simulations
+involving only dark matter, and therefore could not trace the evolution of baryonic matter
+(i.e. gas and stars), due to computational limitations. Only recently does computational power
+(along with more ecient numerical methods) allow for the complexity of fluid dynamics
+to enter the picture, and to simulate statistically significant populations of galaxies. Following
+Moore’s law9, cosmological simulations have been doubling in size every  16:5 months
+(Springel et al. 2005). The last generation of cosmological hydrodynamic simulations such as
+Illustris (Vogelsberger et al. 2014), EAGLE (Crain et al. 2015) and Horizon-AGN (Dubois et al.
+2014) are finally able to simulate cosmological volumes (boxes of hundreds of Mpc in comoving
+size) with enough precision to resolve the internal structure of individual galaxies (of kpc
+size). But up to now the dierences in numerical implementations of unresolved (“sub-grid”)
+physical processes make the comparison of the results of these simulations dicult (Scannapieco
+et al. 2012). The direct comparison between cosmological hydrodynamical simulations
+and observations has also been seen as a hazardous undertaking, as they trace dierent physical
+phenomena (light for astronomical surveys and mass for simulations). The advent of synthetic
+observatories built from the results of simulations, mimicking the eects of telescope resolution
+and noise, such as, e.g., the work of Snyder et al. (2015) on the Illustris simulation (cf
+Figure 1-7), might have a role to play to better estimate the reliability of simulations
+
+Cosmological simulations follow explicitly the evolution of dark matter and gas in the
+non-linear regime of a CDM universe. In these simulations, dark matter is modeled
+as a collection of collisionless massive particles whose dynamics follows the Vlasov-
+Poisson equations in a box of cosmological (comoving) volume with periodic boundary
+conditions. To reproduce the conditions of the early universe, they use a Gaussian
+random field of density perturbations with a power spectrum constrained by the CMB
+(e.g., Aghanim et al. 2016) as their initial conditions. These N-body simulations can
+be completed with the much more computationally intensive baryonic physics, which
+in practices comes down to solving the Euler equations on a collisional ideal fluid12 via
+Lagrangian or Eulerian methods. In this scheme these simulations are referred to as
+cosmological hydrodynamical simulations. Sub-grid models that reproduce the eects
+of star formation, turbulence, supernovae and AGN feedback on the surrounding gas,
+supermassive black hole growth, chemistry of heavy elements and dust are unavoidable
+because galaxy evolution span a wide range of scales. These sub-grid models usually
+consist in a mix of empirical (or ad hoc) rules whose calibration is open to fine tuning to
+fit the data, as the detailed physics of these processes are not yet well understood. Stateof-
+the-art cosmological hydrodynamical simulations include Illustris (Vogelsberger et al.
+2014), EAGLE (Crain et al. 2015) and Horizon-AGN (Dubois et al. 2014).
+
 *Première observation de la distribution à grande échelle des galaxies (structure dite "en bulles") par le CfA Redshift Survey. Le graphe représente environ un millier de galaxies. Crédit : De Lapparent et al (1986), SAO. [Source](http://tdc-www.harvard.edu/zcat/)*
 
 ![cfa1998](http://tdc-www.harvard.edu/zcat/cfa2.n30.gif)
