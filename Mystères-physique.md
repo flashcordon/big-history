@@ -38,6 +38,12 @@
 
 ## L'univers est en grande partie invisible
 
+## L'univers se structure
+
+*Première observation de la distribution à grande échelle des galaxies par le CfA Redshift Survey. Le graphe représente 1100 galaxies. Crédit : De Lapparent et al (1986), SAO. [Source](http://tdc-www.harvard.edu/zcat/)*
+
+![cfa1998](http://tdc-www.harvard.edu/zcat/cfa2.n30.gif)
+
 ## L'univers s'accélère
 
 The model
