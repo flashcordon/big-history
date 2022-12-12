@@ -1378,23 +1378,22 @@ logical in origin.
 - [In the Realm of the Hubble tension − a Review of Solutions](https://arxiv.org/abs/2103.01183) - Di Valentino et al (2021)
 - [Cosmic Expansion: A mini review of the Hubble-Lemaitre tension](https://arxiv.org/abs/2105.09409) - Cyr-Racine (2021)
 - https://www.forbes.com/sites/startswithabang/2019/08/02/sorry-astronomy-fans-the-hubble-constant-isnt-a-constant-at-all/?sh=2a3cb08c9d59 
-https://www.preposterousuniverse.com/blog/2015/10/13/the-universe-never-expands-faster-than-the-speed-of-light/ 
-https://www.space.com/cosmology-crisis-age-of-the-universe 
-https://www.space.com/why-is-there-a-cosmology-crisis 
-https://iopscience.iop.org/article/10.3847/2041-8213/ac5c5b/meta 
-https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/damn-you-little-h-or-real-world-applications-of-the-hubble-constant-using-observed-and-simulated-data/EB4B786F4500F897A589C3ED980C17F5 
-https://www.britannica.com/science/Hubble-constant 
-https://lweb.cfa.harvard.edu/~dfabricant/huchra/hubble/ 
-https://arxiv.org/abs/1301.7286 
-https://medium.com/predict/the-crisis-in-cosmology-aa6053c0c86c 
-https://www.forbes.com/sites/drdonlincoln/2021/01/05/crisis-in-cosmology-gets-worse/?sh=3fdb6d752826  
-https://www.scientificamerican.com/article/how-a-dispute-over-a-single-number-became-a-cosmological-crisis/ 
-http://spiff.rit.edu/richmond/asras/hubble_const/hubble_const.html 
-https://media4.obspm.fr/public/ressources_lu/pages_distance/impression.html 
-https://sci.esa.int/web/planck/-/60504-measurements-of-the-hubble-constant 
-https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095948568 
-https://www.ias.u-psud.fr/Dark_energy/presentations/castanderBAO_081124.pdf 
-https://iopscience.iop.org/article/10.3847/1538-4357/ab2627 
+- [Is there really a 'crisis' in cosmology?](https://www.space.com/cosmology-crisis-age-of-the-universe) - Space.com
+- [Why is there a 'crisis' in cosmology?](https://www.space.com/why-is-there-a-cosmology-crisis) - Space.com 
+- [A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km s−1 Mpc−1 Uncertainty from the Hubble Space Telescope and the SH0ES Team](https://iopscience.iop.org/article/10.3847/2041-8213/ac5c5b/meta) - Riess et al (2022)
+- [Damn You, Little h! (Or, Real-World Applications of the Hubble Constant Using Observed and Simulated Data)](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/damn-you-little-h-or-real-world-applications-of-the-hubble-constant-using-observed-and-simulated-data/EB4B786F4500F897A589C3ED980C17F5) - Croton (2013) 
+- [Hubble constant](https://www.britannica.com/science/Hubble-constant) - Encyclopedia Britannica 
+- [THE HUBBLE CONSTANT](https://lweb.cfa.harvard.edu/~dfabricant/huchra/hubble/) - John Huchra (2008)
+- [Slipher, galaxies, and cosmological velocity fields](https://arxiv.org/abs/1301.7286) - Peacock (2013) 
+- [The Crisis in Cosmology](https://medium.com/predict/the-crisis-in-cosmology-aa6053c0c86c) - Astrophysics in progress
+- [Crisis In Cosmology Gets Worse](https://www.forbes.com/sites/drdonlincoln/2021/01/05/crisis-in-cosmology-gets-worse/?sh=3fdb6d752826) - Don Lincoln (2021)  
+- [How a Dispute over a Single Number Became a Cosmological Crisis](https://www.scientificamerican.com/article/how-a-dispute-over-a-single-number-became-a-cosmological-crisis/) - Scientific American (2020)
+- [Cutting the Hubble constant down to size ](http://spiff.rit.edu/richmond/asras/hubble_const/hubble_const.html) - Michael Richmont (2020) 
+- [L'échelle des distances](https://media4.obspm.fr/public/ressources_lu/pages_distance/impression.html) - Observatoire de Paris
+- [Measurements of the Hubble constant](https://sci.esa.int/web/planck/-/60504-measurements-of-the-hubble-constant) - ESA 
+- [Hubble time](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095948568) - Oxford Reference
+- [Baryon Acoustic Oscillations BAO](https://www.ias.u-psud.fr/Dark_energy/presentations/castanderBAO_081124.pdf) - Slides de Francisco Javier Castander
+- [Using the Tip of the Red Giant Branch As a Distance Indicator in the Near Infrared](https://iopscience.iop.org/article/10.3847/1538-4357/ab2627) - McQuinn et al (2019)
 
 ---
 
