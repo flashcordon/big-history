@@ -1500,6 +1500,10 @@ The entire spectrum of distances is tied together. Astronomers use triangulatio
 So, this means that everything is tied to getting a firm grasp on triangulating the distance to nearby stars. If that’s wrong, all other distance scales are also wrong.
 other scientists are trying to find other ways of measuring this rate. For instance, while the traditional way of setting the first rung of the cosmic ladder is using Cepheid variable stars, other astronomers are attempting to use other approaches, for example using RR Lyrae stars, tip-of-the-red-giant-branch stars, and so-called carbon stars. 
 
+*Estimations de H0 depuis 1920. Crédit : Michael S. Turner (2021). [Source](https://www.researchgate.net/figure/Measurements-of-the-Hubble-constant-from-1920-to-2000-All-the-major-shifts-involved_fig1_356631453)*
+
+![H0evolution](https://i.imgur.com/PezSFdu.png)
+
 *Evolution de la tension de Hubble au fil des ans. Crédit : Cyr-Racine (2021). [Source](https://arxiv.org/pdf/2105.09409.pdf)*
 
 ![H0](https://i.imgur.com/AjK9qEf.png)
