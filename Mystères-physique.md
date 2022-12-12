@@ -1394,6 +1394,7 @@ logical in origin.
 - [Hubble time](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095948568) - Oxford Reference
 - [Baryon Acoustic Oscillations BAO](https://www.ias.u-psud.fr/Dark_energy/presentations/castanderBAO_081124.pdf) - Slides de Francisco Javier Castander
 - [Using the Tip of the Red Giant Branch As a Distance Indicator in the Near Infrared](https://iopscience.iop.org/article/10.3847/1538-4357/ab2627) - McQuinn et al (2019)
+- [Sorry, Astronomy Fans, The Hubble Constant Isn't A Constant At All](https://www.forbes.com/sites/startswithabang/2019/08/02/sorry-astronomy-fans-the-hubble-constant-isnt-a-constant-at-all/?sh=2a3cb08c9d59) - Ethan Siegel (2019)
 
 ---
 
@@ -1422,6 +1423,10 @@ logical in origin.
 *Evolution de la tension de Hubble au fil des ans. Crédit : Cyr-Racine (2021). [Source](https://arxiv.org/pdf/2105.09409.pdf)*
 
 ![H0](https://i.imgur.com/AjK9qEf.png)
+
+*L'échelle des distances en astronomie. Crédit : NASA, ESA, A. Feild (STScI), and A. Riess (STScI/JHU). [Source](https://esahubble.org/images/heic1611a/)*
+
+![distanceladder](https://cdn.spacetelescope.org/archives/images/large/heic1611a.jpg)
 
 # L'asymétrie entre matière et antimatière
 
