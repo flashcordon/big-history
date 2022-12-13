@@ -517,31 +517,8 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 
 ---
 
-The Swiss-American astronomer Fritz Zwicky is arguably the most famous and widely
-cited pioneer in the field of dark matter. In 1933, he studied the redshifts of various galaxy
-clusters, as published by Edwin Hubble and Milton Humason in 1931 [162], and noticed
-a large scatter in the apparent velocities of eight galaxies within the Coma Cluster, with
-differences that exceeded 2000 km/s [346]. The fact that Coma exhibited a large velocity
-dispersion with respect to other clusters had already been noticed by Hubble and Humason,
-but Zwicky went a step further, applying the virial theorem to the cluster in order to estimate
-its mass
-
-Zwicky started by estimating the total mass of Coma to be the product of the number
-of observed galaxies, 800, and the average mass of a galaxy, which he took to be 109 solar
-masses, as suggested by Hubble. He then adopted an estimate for the physical size of the
-system, which he took to be around 106 light-years, in order to determine the potential energy
-of the system. From there, he calculated the average kinetic energy and finally a velocity
-dispersion. He found that 800 galaxies of 109 solar masses in a sphere of 106 light-years
-should exhibit a velocity dispersion of 80 km/s. In contrast, the observed average velocity
-dispersion along the line-of-sight was approximately 1000 km/s. From this comparison, he
-concluded:
-If this would be confirmed, we would get the surprising result that dark matter
-is present in much greater amount than luminous matter.
-
-The overall situation was that of a community that was struggling to find a unified
-solution to a variety of problems. The dark matter hypothesis was not commonly accepted,
-nor was it disregarded. Instead, there was a consensus that more information would be
-needed in order to understand these systems.
+- En 1933, l’astronome suisse Fritz Zwicky observe les vitesses radiales de 8 galaxies à l’intérieur de l’amas de Coma (Abell 1656), et remarque un curieux phénomène : la dispersion de vitesse de ces galaxies (estimée à l’aide de leur décalage spectral) est très supérieure (de l’ordre de 1000 km/s) à celle à laquelle on s’attendrait si la masse de l’amas était entièrement constituée de matière lumineuse (de l’ordre de 80 km/s). Pour expliquer la dispersion observée. Il conclut son article par la phrase suivante : « Si ce résultat devait être confirmé, il conduirait à la surprenante conclusion que la matière noire est bien plus abondante que la matière visible ». Sans cette matière noire pour retenir les galaxies dans son potentiel gravitationnel, l’amas aurait dû finir par se désagréger. Mais pendant longtemps, l’hypothèse de la matière noire de Swicky trouve peu d’écho dans la communauté scientifique. 
+> Pour estimer la masse de l’amas, Zwicky multiplie le nombre observé de galaxies (800) par la masse moyenne d’une galaxie (1 milliard de masses solaires selon Hubble). Pour estimer la dispersion de vitesse théorique de l’amas, il fait appel au ***théorème du viriel*** , un théorème de mécanique newtonienne qui relie la masse d’une structure gravitationnellement liée et la vitesse des astres qui la compose.
 
 n the 1960s, Kent Ford developed an image tube spectrograph that Vera Rubin and he
 used to perform spectroscopic observations of the Andromeda Galaxy. The observations of
