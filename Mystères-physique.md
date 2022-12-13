@@ -1377,7 +1377,6 @@ logical in origin.
 - [JWST just made the "Crisis in Cosmology" WORSE](https://youtu.be/hps-HfpL1vc) - Dr Becky (2022)
 - [In the Realm of the Hubble tension − a Review of Solutions](https://arxiv.org/abs/2103.01183) - Di Valentino et al (2021)
 - [Cosmic Expansion: A mini review of the Hubble-Lemaitre tension](https://arxiv.org/abs/2105.09409) - Cyr-Racine (2021)
-- https://www.forbes.com/sites/startswithabang/2019/08/02/sorry-astronomy-fans-the-hubble-constant-isnt-a-constant-at-all/?sh=2a3cb08c9d59 
 - [Is there really a 'crisis' in cosmology?](https://www.space.com/cosmology-crisis-age-of-the-universe) - Space.com
 - [Why is there a 'crisis' in cosmology?](https://www.space.com/why-is-there-a-cosmology-crisis) - Space.com 
 - [A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km s−1 Mpc−1 Uncertainty from the Hubble Space Telescope and the SH0ES Team](https://iopscience.iop.org/article/10.3847/2041-8213/ac5c5b/meta) - Riess et al (2022)
@@ -1386,7 +1385,7 @@ logical in origin.
 - [THE HUBBLE CONSTANT](https://lweb.cfa.harvard.edu/~dfabricant/huchra/hubble/) - John Huchra (2008)
 - [Slipher, galaxies, and cosmological velocity fields](https://arxiv.org/abs/1301.7286) - Peacock (2013) 
 - [The Crisis in Cosmology](https://medium.com/predict/the-crisis-in-cosmology-aa6053c0c86c) - Astrophysics in progress
-- [Crisis In Cosmology Gets Worse](https://www.forbes.com/sites/drdonlincoln/2021/01/05/crisis-in-cosmology-gets-worse/?sh=3fdb6d752826) - Don Lincoln (2021)  
+- [Crisis In Cosmology Gets Worse](https://www.forbes.com/sites/drdonlincoln/2021/01/05/crisis-in-cosmology-gets-worse/?sh=3fdb6d752826) - Don Lincoln (2021) 
 - [How a Dispute over a Single Number Became a Cosmological Crisis](https://www.scientificamerican.com/article/how-a-dispute-over-a-single-number-became-a-cosmological-crisis/) - Scientific American (2020)
 - [Cutting the Hubble constant down to size ](http://spiff.rit.edu/richmond/asras/hubble_const/hubble_const.html) - Michael Richmont (2020) 
 - [L'échelle des distances](https://media4.obspm.fr/public/ressources_lu/pages_distance/impression.html) - Observatoire de Paris
@@ -1395,6 +1394,7 @@ logical in origin.
 - [Baryon Acoustic Oscillations BAO](https://www.ias.u-psud.fr/Dark_energy/presentations/castanderBAO_081124.pdf) - Slides de Francisco Javier Castander
 - [Using the Tip of the Red Giant Branch As a Distance Indicator in the Near Infrared](https://iopscience.iop.org/article/10.3847/1538-4357/ab2627) - McQuinn et al (2019)
 - [Sorry, Astronomy Fans, The Hubble Constant Isn't A Constant At All](https://www.forbes.com/sites/startswithabang/2019/08/02/sorry-astronomy-fans-the-hubble-constant-isnt-a-constant-at-all/?sh=2a3cb08c9d59) - Ethan Siegel (2019)
+- [The Tension Cosmology](https://agenda.ciemat.es/event/1126/contributions/2119/attachments/1604/1919/divalentino.pdf) - Di Valentino (2019)
 
 ---
 
