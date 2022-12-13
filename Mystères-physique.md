@@ -448,6 +448,13 @@ Simulations and observations explore constraints on the nature of the dark matte
 and on structure in the intergalactic medium
 Both direct detection experiments and the Fermi satellite begin to exclude parts of the parameter space expected for WIMPs
 
+## Le modèle standard aujourd'hui
+
+- Depuis les années 2000
+- Lambda-CDM
+- 6 paramètres libres
+- l'ère de la "cosmologie de précision"
+
 # Anomalies et tensions dans le modèle standard de la cosmologie
 
 *Sources*
