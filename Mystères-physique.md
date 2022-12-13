@@ -575,6 +575,12 @@ Le terme « matière noire »
 (ou dark matter en anglais) commence à
 apparaître vers la fin des années 1970 [6]
 
+*Courbe de rotation de la galaxie d’Andromède. Crédit : Rubin et Ford (1970). [Source](https://www.researchgate.net/figure/Rotation-curve-of-M31-from-Rubin-Ford-1970-Rotational-velocities-for-OB_fig1_221915312)*
+![rubinford70](https://i.imgur.com/nbnKRce.png)
+
+*Courbes de rotation de 21 galaxies spirales. Crédit : Rubin et Ford (1980). [Source](https://astrobites.org/2016/12/27/how-one-person-discovered-the-majority-of-the-universe-the-work-of-vera-rubin/)*
+![rotcurves21galaxies](https://astrobites.org/wp-content/uploads/2016/12/Screen-Shot-2016-12-27-at-1.47.30-PM-768x887.png)
+
 Jusqu’en 1980, pour la majorité des
 astronomes la matière noire devait être
 composée de matière ordinaire, donc de
