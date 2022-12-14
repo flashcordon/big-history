@@ -531,7 +531,15 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - À la fin des années 60, les astronomes américains Vera Rubin et Ken Ford utilisent un nouveau spectromètre développé par Ford pour étudier la courbe de rotation de la galaxie d’Andromède (la galaxie spirale la plus proche de nous) avec une précision inédite. Ils observent pour cela une soixantaine de régions HII répartis sur toute l’étendue de la galaxie.
 - Comme la région autour du centre galactique contient une concentration d’étoiles plus élevée que le reste de la galaxie, les lois de la gravitation de Newton prédisent que plus l’on s’éloigne du centre, moins la vitesse orbitale des étoiles devrait être élevée (décroissance en 1/r). C’est notamment ce qui se passe dans le système solaire, où la majorité de la masse est concentrée dans le Soleil. Les planètes du système solaire externe orbitent donc beaucoup moins vite que les planètes internes. On dit qu’elles suivent des ***orbites képleriennes***.
 - Or, ce n’est pas du tout ce que Rubin et Ford observent ! Au lieu d’une courbe de rotation qui diminue avec la distance, la courbe de M31 est presque plate. Autrement dit, les étoiles en périphérie de la galaxie orbitent quasiment à la même vitesse que les étoiles proches du centre. Si l’on ne prenait en compte que la masse « lumineuse » de la galaxie, les étoiles de la périphérie auraient dû être éjectées de la galaxie. Tout se passe comme si ces étoiles étaient retenues par une masse invisible.
+> L’interprétation des courbes de rotation plates comme signe d’une masse invisible a été proposée pour la première fois en 1973 par Morton Roberts et Arnold Rots, suite à leur propre étude de M31 et d’autres galaxies (M81 et M101)
 - Pendant près d’une décennie, Rubin et Ford réitèrent leurs mesures sur un échantillon toujours plus élevé de galaxies spirales, et trouvent systématiquement des courbes de rotation plates. Ces courbes finissent par convaincre une grande partie de la communauté scientifique que les galaxies sont enchâssées dans un halo beaucoup plus vaste que sa contribution « lumineuse ». Ce halo serait fait d’une matière invisible qui constitue près de 90%de la masse totale de la galaxie. 
+
+*Courbe de rotation de la galaxie d’Andromède. Crédit : Rubin et Ford (1970). [Source](https://www.researchgate.net/figure/Rotation-curve-of-M31-from-Rubin-Ford-1970-Rotational-velocities-for-OB_fig1_221915312)*
+![rubinford70](https://i.imgur.com/nbnKRce.png)
+
+*Courbes de rotation de 21 galaxies spirales. Crédit : Rubin et Ford (1980). [Source](https://astrobites.org/2016/12/27/how-one-person-discovered-the-majority-of-the-universe-the-work-of-vera-rubin/)*
+![rotcurves21galaxies](https://astrobites.org/wp-content/uploads/2016/12/Screen-Shot-2016-12-27-at-1.47.30-PM-768x887.png)
+
 
 the idea that galaxies and
 galaxy clusters are embedded in massive dark matter halos
@@ -545,34 +553,6 @@ ing population of dark matter halos formed the basis for the
 galaxy formation scenario proposed by White and Rees [7],
 providing the gravitational potential wells within which
 gas cools and condenses to form galaxies. 
-
-Morton Roberts was among the first to recognize the implications of the observed flatness
-of galactic rotation curves. Together with R. Whitehurst, he published in 1972 a rotation
-curve of M31 that extended to 120 arcminutes from its center [335]. In 1973, together with
-Arnold Rots, he extended the analysis to M81 and M101, and argued that these spiral
-galaxies each exhibited flat rotation curves in their outer parts [260] (see Fig. 3). The
-authors’ interpretation of these data was unambiguous:
-The three galaxies rotation curves decline slowly, if at all, at large radii,
-implying a significant mass density at these large distances. It is unreasonable
-to expect the last measured point to refer to the ‘edge’ of the galaxy, and we
-must conclude that spiral galaxies must be larger than indicated by the usual
-photometric measurements [...]. The present data also require that the mass to
-luminosity ratio vary with radius increasing in distance from the center.
-
- Rubin, Ford
-and Thonnard themselves acknowledged the credit that was due to the preceding analyses:
-Roberts and his collaborators deserve credit for first calling attention to flat
-rotation curves.
-
-By the late 1980s, the hypothesis that the missing mass
-consists of one or more yet-unknown subatomic particle species had gained enough support
-to become established as the leading paradigm for dark matter.
-
-*Courbe de rotation de la galaxie d’Andromède. Crédit : Rubin et Ford (1970). [Source](https://www.researchgate.net/figure/Rotation-curve-of-M31-from-Rubin-Ford-1970-Rotational-velocities-for-OB_fig1_221915312)*
-![rubinford70](https://i.imgur.com/nbnKRce.png)
-
-*Courbes de rotation de 21 galaxies spirales. Crédit : Rubin et Ford (1980). [Source](https://astrobites.org/2016/12/27/how-one-person-discovered-the-majority-of-the-universe-the-work-of-vera-rubin/)*
-![rotcurves21galaxies](https://astrobites.org/wp-content/uploads/2016/12/Screen-Shot-2016-12-27-at-1.47.30-PM-768x887.png)
 
 Jusqu’en 1980, pour la majorité des
 astronomes la matière noire devait être
