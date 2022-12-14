@@ -529,6 +529,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Public misconceptions of Vera Rubin’s career pervade news cycle](https://miscellanynews.org/2017/02/01/opinions/public-misconceptions-of-dark-matter-pervade-news-cycle/) - Steven Park
 - [Vera Rubin and Dark Matter ](https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/vera-rubin-dark-matter) - AMNH
 - [How Vera Rubin broke barriers and convinced the astronomy community that dark matter exists](https://physicsworld.com/a/how-vera-rubin-broke-barriers-and-convinced-the-astronomy-community-that-dark-matter-exists/) - Physics World
+- [A primer on hierarchical galaxy formation: the semi-analytical approach](https://arxiv.org/pdf/astro-ph/0610031.pdf) - Baugh (2006)
 - Cosmologie moderne - James Peebles (2022)
 
 ---
