@@ -526,11 +526,12 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 
 - En 1933, un astronome suisse nommé Fritz Zwicky observe les vitesses radiales de 8 galaxies à l’intérieur de l’amas de Coma (Abell 1656), et remarque un curieux phénomène : la dispersion de vitesse de ces galaxies (estimée à l’aide de leur décalage spectral) est très supérieure (de l’ordre de 1000 km/s) à celle à laquelle on s’attendrait si la masse de l’amas était entièrement constituée de matière lumineuse (de l’ordre de 80 km/s). Pour expliquer la dispersion observée, il faudrait que l’amas contienne bien plus de masse que celle qui émet de la lumière. En d’autre termes, elle devrait contenir une sorte de matière « noire » (dunkel materie) en grande quantité. Sans cette matière noire pour retenir les galaxies dans son potentiel gravitationnel, l’amas aurait dû finir par se désagréger. Il conclut son article par la phrase suivante : « Si ce résultat devait être confirmé, il conduirait à la surprenante conclusion que la matière noire est bien plus abondante que la matière visible ». Mais pendant longtemps, l’hypothèse de la matière noire de Swicky trouve peu d’écho dans la communauté scientifique. 
 > Pour estimer la masse (lumineuse) de l’amas, Zwicky multiplie le nombre observé de galaxies (800) par la masse moyenne d’une galaxie (1 milliard de masses solaires selon Hubble). Pour estimer la dispersion de vitesse théorique de l’amas, il fait appel au ***théorème du viriel*** , un théorème de mécanique newtonienne qui relie la masse d’une structure gravitationnellement liée et la vitesse des astres qui la compose.
-
-n the 1960s, Kent Ford developed an image tube spectrograph that Vera Rubin and he
-used to perform spectroscopic observations of the Andromeda Galaxy. The observations of
-the M31 rotation curve Rubin and Ford published in 1970 [267] represented a step forward in
-terms of quality.
+- Entre les années 30 et 70, de nombreux chercheurs s’intéressent à la manière dont la masse est répartie au sein des galaxies. Une manière de tracer la masse consiste à observer le mouvement de ses étoiles. Comme on l’observe quasiment par la tranche, on peut estimer la vitesse à laquelle les étoiles orbitent autour du centre galactique. Si l’on calcule la vitesse orbitale des étoiles en fonction de leur distance au centre galactique, on obtient ce qu’on appelle une ***courbe de rotation***. Elle sert à estimer la distribution de masse dans la galaxie.
+> Lorsque ces étoiles s’approchent de nous, leur lumière est décalée vers le bleu, et lorsqu’elles s’éloignent de nous, leur lumière est décalée vers le rouge (effet Doppler). Ce décalage de longueur d’onde étant proportionnel à la vitesse d’éloignement ou de rapprochement des étoiles par rapport à l’observateur, on peut estimer la vitesse de rotation des étoiles. 
+- À la fin des années 60, les astronomes américains Vera Rubin et Ken Ford utilisent un nouveau spectromètre développé par Ford pour étudier la courbe de rotation de la galaxie d’Andromède (la galaxie spirale la plus proche de nous) avec une précision inédite. Ils observent pour cela une soixantaine de régions HII répartis sur toute l’étendue de la galaxie.
+- Comme la région autour du centre galactique contient une concentration d’étoiles plus élevée que le reste de la galaxie, les lois de la gravitation de Newton prédisent que plus l’on s’éloigne du centre, moins la vitesse orbitale des étoiles devrait être élevée (décroissance en 1/r). C’est notamment ce qui se passe dans le système solaire, où la majorité de la masse est concentrée dans le Soleil. Les planètes du système solaire externe orbitent donc beaucoup moins vite que les planètes internes. On dit qu’elles suivent des ***orbites képleriennes***.
+- Or, ce n’est pas du tout ce que Rubin et Ford observent ! Au lieu d’une courbe de rotation qui diminue avec la distance, la courbe de M31 est presque plate. Autrement dit, les étoiles en périphérie de la galaxie orbitent quasiment à la même vitesse que les étoiles proches du centre. Si l’on ne prenait en compte que la masse « lumineuse » de la galaxie, les étoiles de la périphérie auraient dû être éjectées de la galaxie. Tout se passe comme si ces étoiles étaient retenues par une masse invisible.
+- Pendant près d’une décennie, Rubin et Ford réitèrent leurs mesures sur un échantillon toujours plus élevé de galaxies spirales, et trouvent systématiquement des courbes de rotation plates. Ces courbes finissent par convaincre une grande partie de la communauté scientifique que les galaxies sont enchâssées dans un halo beaucoup plus vaste que sa contribution « lumineuse ». Ce halo serait fait d’une matière invisible qui constitue près de 90%de la masse totale de la galaxie. 
 
 the idea that galaxies and
 galaxy clusters are embedded in massive dark matter halos
@@ -545,10 +546,6 @@ galaxy formation scenario proposed by White and Rees [7],
 providing the gravitational potential wells within which
 gas cools and condenses to form galaxies. 
 
-t was also in 1970 that the first explicit statements began to appear arguing that ad-
-ditional mass was needed in the outer parts of some galaxies, based on comparisons of the
-rotation curves predicted from photometry and those measured from 21 cm observations
-
 Morton Roberts was among the first to recognize the implications of the observed flatness
 of galactic rotation curves. Together with R. Whitehurst, he published in 1972 a rotation
 curve of M31 that extended to 120 arcminutes from its center [335]. In 1973, together with
@@ -562,25 +559,14 @@ must conclude that spiral galaxies must be larger than indicated by the usual
 photometric measurements [...]. The present data also require that the mass to
 luminosity ratio vary with radius increasing in distance from the center.
 
-In 1978 ( ?) Rubin, Ford and Norbert Thonnard published optical rotation curves for ten high-luminosity spiral galaxies and found that they were flat out to the outermost
-measured radius [268]. This work has become one of the most well-known and widely cited
-in the literature, despite the fact that the optical measurements did not extend to radii as
-large as those probed by radio observations, thus leaving open the possibility that galaxies
-may not have dark matter halos, as pointed out, for example, by Agris J. Kalnajs in 1983
-(see the discussion at the end of Ref. [150]) and by Stephen Kent in 1986 [175]. Rubin, Ford
+ Rubin, Ford
 and Thonnard themselves acknowledged the credit that was due to the preceding analyses:
 Roberts and his collaborators deserve credit for first calling attention to flat
-rotation curves. [...] These results take on added importance in conjunction with
-the suggestion of Einasto, Kaasik, and Saar (1974) and Ostriker, Peebles and
-Yahil (1974) that galaxies contain massive halos extending to large r
+rotation curves.
 
 By the late 1980s, the hypothesis that the missing mass
 consists of one or more yet-unknown subatomic particle species had gained enough support
 to become established as the leading paradigm for dark matter.
-
-Le terme « matière noire »
-(ou dark matter en anglais) commence à
-apparaître vers la fin des années 1970 [6]
 
 *Courbe de rotation de la galaxie d’Andromède. Crédit : Rubin et Ford (1970). [Source](https://www.researchgate.net/figure/Rotation-curve-of-M31-from-Rubin-Ford-1970-Rotational-velocities-for-OB_fig1_221915312)*
 ![rubinford70](https://i.imgur.com/nbnKRce.png)
