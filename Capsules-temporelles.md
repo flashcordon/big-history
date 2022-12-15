@@ -33,6 +33,7 @@
 - Ces deux satellites sont prévus pour rester en orbite pendant 8,4 millions d'années avant de retomber sur Terre ! C'est pourquoi l'un des deux contient une plaque concue par Carl Sagan et destinée aux humains du futur qui illustre l'évolution de la position des continents sur cette période
 
 *Crédit : Карл Саган - Popular Science №7, 1976*
+
 ![lageosplaque](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/LAGEOS-FILE.jpg/800px-LAGEOS-FILE.jpg)
 
 # La bibliothèque martienne
@@ -43,11 +44,12 @@
 
 ---
 
-- Le lander Phoenix de la NASA, qui a atterri sur Mars le 25 Mai 2008, abrite un mini DVD nommé "Visions of Mars" contenant 80 oeuvres de fiction et de non-fiction qui parlent de Mars, créé par la Planetary Society. Il s'agit de la première bibliothèque martienne. 
-- Il contient aussi les noms de 250 000 personnes qui ont, ainsi que des messages à destination de futurs explorateur.ices martien.nes en provenance d'auteurs et d'experts associés au spatial, comme Carl Sagan, Arthur C. Clarke ou encore Judith Merrill.
+- Le lander Phoenix de la NASA, qui a atterri sur Mars le 25 Mai 2008, abrite un mini DVD nommé "Visions of Mars" contenant 80 oeuvres de fiction et de non-fiction qui parlent de Mars (littérature, art, musique), créé par la Planetary Society. Il s'agit de la première bibliothèque martienne. 
+- Il contient aussi les noms de 250 000 personnes à travers le monde collectés par la Planetary Society, ainsi que des messages à destination de futurs explorateur.ices martien.nes en provenance d'auteurs et d'experts associés au spatial, comme Carl Sagan, Arthur C. Clarke ou encore Judith Merrill.
 - Ce DVD est conçu pour durer des siècles, voire des millénaires.
 
 *Crédit : NASA / JPL / U. Arizona*
+
 ![phoenix](https://planetary.s3.amazonaws.com/web/assets/pictures/_768x768_crop_center-center_82_line/phoenix_dvd_on-mars.jpg.webp)
 
 # Le disque d'or de Voyager
