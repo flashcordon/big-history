@@ -116,6 +116,21 @@
 - Tasmania was chosen for its relative geopolitical and environmental safety, and the monolith will be designed to be resilient against threats including cyclones, earthquakes and, with its sloped walls, attacks by vandals.
 - How will future visitors retrieve the contents of the box? The creators say they are working on it. One option is to encode the contents in various formats, such as in script or binary code that would be unraveled. The creators say that if the planet is nearing cataclysm, instructions for opening the box would be etched on its exterior. The message can’t be included beforehand, they say, because of the risk that vandals would attempt to crack it open.
 
+# L'horloge du long maintenant
+
+-  la Long Now Foundation et de son projet d’une horloge capable de fonctionner pendant 10 000 ans.
+
+# Un entrepôt de tablettes d’argile dans une mine de sel (Memory of Mankind)
+
+- Visite de la mine de sel d’Hallstatt, en Autriche, et rencontre avec Martin Kunze, artiste et fondateur du projet Memory of Mankind, un projet collaboratif qui a pour but d’entreposer une capsule temporelle de notre époque sur des tablettes d’argile, afin les préserver des milliers d’années durant.  
+
+# Une réserve de graines du monde entier (réserve mondiale de semences du Svalbard)
+
+- Visite de la réserve mondiale de semences du Svalbard. Rencontre avec un(e) biologiste local(e) pour parler des enjeux de la conservation de la biodiversité sur les temps longs, et des problèmes que pose la réintroduction d’une espèce disparue.
+
+# Une bible de cristal dans les ruines de la bibliothèque du Vatican (Cristal 5D de l’université de Southampton)                                                                            
+Visite de l’université de Southampton, où des chercheurs ont développé un support matériel capable de préserver des informations des milliards d’années durant : le cristal 5D. Ils y ont déjà engravé la déclaration universelle des droits de l’Homme, la Bible ainsi que le cycle Fondation, d’Asimov, qui se trouve sur la Tesla Roadster de SpaceX actuellement en orbite.
+
 # Les satellites LAGEOS
 
 *Sources*
@@ -162,6 +177,10 @@
 *Crédits : The Rosetta Project*
 
 ![rosetta](https://media.longnow.org/files/2/Rosetta_disk_web_image.png)
+
+# La plaque Pioneer 
+
+- Visite du SETI Institute et rencontre avec des chercheurs sur les questions qui se posent pour envoyer un message qui soit compréhensible sans contexte. Alternative : rencontre avec Ann Druyan (j’ai son contact mail), qui est responsable du design de la plaque Pioneer et du disque des sondes Voyager, pour développer l’histoire et l’ambition derrière ces projets
 
 # Le disque d'or de Voyager
 
