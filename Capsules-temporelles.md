@@ -14,11 +14,71 @@
 
 ---
 
-# Stocker de l'information dans de l'ADN
+# Des documents encodés dans de l'ADN (Archives nationales, France)
 
 *Sources*
 
 - [Organic data memory using the DNA approach](https://dl.acm.org/doi/10.1145/602421.602426) - Wong et al (2003)
+- [Entrée historique de l'encodage sur ADN aux Archives nationales](https://www.franceculture.fr/emissions/journal-de-7-h/journal-de-07h00-catherine-duthu-du-mercredi-24-novembre-2021) - France Culture (2021)
+- [Stocker pour 50 000 ans : des textes historiques sur ADN entrent aux Archives nationales](https://www.franceculture.fr/sciences/stocker-pour-50-000-ans-des-textes-historiques-sur-ADN-entrent-aux-archives-nationales) - France Culture (2021)
+
+---
+
+- 23 Novembre 2021, L'encodage sur ADN fait une entrée historique aux Archives nationales : sur deux minuscules capsules contenant des brins d'ADN de synthèse ont été stockées la Déclaration des droits de l'homme et du citoyen de 1789 et la Déclaration des droits de la femme et de la citoyenne, rédigée par Olympe de Gouges en 1791. 
+- numérisé en mode binaire, avec des 0 et des 1, puis converti en mode quaternaire, avec les lettres A C G T, qui constituent la base azotée de l'ADN. Il s'agit d'un stockage à l'échelle moléculaire : les documents encodés sur ADN de synthèse ont été placés, à l'abri de l'air et de la lumière, dans des capsules métalliques de 10 x 5 millimètres, pour être conservés jusqu'à 50.000 ans, sans aucun apport d'énergie.
+- mise au point par des équipes du CNRS et de Sorbonne Université
+- Ce mardi 23 novembre, les Archives nationales ont ouvert les lourdes portes de l'Armoire de fer, un coffre-fort conservé au cœur des "grands dépôts", pour y déposer deux capsules métalliques de la taille d'une pilule, renfermant les deux textes fondateurs 
+- Brevetée par Stéphane Lemaire et Pierre Crozet, la technologie du projet "DNA Drive" 
+> elle permet de convertir le code informatique des données numériques en code génétique
+- Les molécules d'ADN sont ensuite conservées lyophilisées dans de toutes petites capsules, protégées de la lumière et de l'air. 
+- Pour récupérer et lire l'information stockée, il suffit d'ouvrir la capsule, ajouter une goutte d'eau et déposer quelques molécules d'ADN sur un séquenceur. 
+- cette technique de conservation sur ADN, compatible avec tout type d'information numérique, permettrait de réduire l'empreinte environnementale du stockage de données : "L'ADN est la meilleure technologie dont on dispose pour résoudre ces problèmes, car il peut être conservé à température ambiante et sans apport d'énergie. Pour le rendre stable, il suffit de le stocker à l'abri de l'air, de l'eau et de la lumière. Dans ces conditions, on estime que l'ADN est stable pendant plus de 50 000 ans." 
+- De plus, cette forme d'archivage est particulièrement compacte. Avec une densité maximale de 450 millions de téraoctets par gramme d’ADN, l’intégralité des données mondiales pourrait tenir dans 100 grammes d’ADN. L'équivalent du "volume d’une tablette de chocolat", sourit le chercheur. Appétissant ! Qu'attendons-nous alors ? Que cette technologie soit moins coûteuse, d'abord. Actuellement, elle s'élève à "environ 1 000 dollars par mégaoctets", indique Stéphane Lemaire. Par ailleurs, la technique nécessite encore quelques améliorations : l'encodage d'un document sur ADN prend plusieurs jours, sa lecture, plusieurs heures.
+- Cette technologie concernant avant tout le stockage d'archives à long terme (les données froides)
+- Réduites à des molécules, repliées dans des capsules elles-mêmes encloses dans le coffre-fort des Archives nationales aux côtés des originaux, la Déclaration des droits de l'homme et du citoyens et celle des Droits de la femme et de la citoyenne sont, en tout cas, désormais protégées pour au moins plusieurs dizaines de millions d'années…
+
+# Le zoo glacé (Zoo de San Diego, Californie)
+
+*Sources*
+
+- [The Frozen Zoo : visite d’une arche de Noé à –196°C](https://usbeketrica.com/fr/article/frozen-zoo-arche-noe) - Usbek et Rica (2019)
+
+---
+
+-  abrite la plus grande collection au monde de cellules animales pour les animaux vertébrés. 
+-  Ouverte en 1972 par le généticien Kurt Benirschke
+-   développe aussi un programme de « dé-extinction » d’espèces comme le rhinocéros blanc du Nord
+-    10 000 animaux de 1 000 espèces différentes sont conservés dans une pièce éclairée au néon, d’à peine 20 mètres carrés. Non pas en cage, mais dans de toutes petites fioles aux capuchons colorés, soigneusement rangées dans des cuves d’azote liquide maintenu à très basse température. Il y a ici des lions, des paresseux à deux doigts, des flamants roses des Caraïbes, des baleines, et même des tortues à tête de serpent venues de l’île de Roti, en Indonésie. Beaucoup d’espèces sont en danger et quelques-unes ne peuvent plus être observées qu’en captivité
+- dans le but de préserver la biogiversité génétique animale
+- imitée par plusieurs initiatives similaires, notamment au Royaume-Uni et en Australie. 
+- À chaque échantillon correspond un doublon, et la collection de sauvegarde est entreposée dans un second laboratoire, dont la localisation est gardée secrète.
+- on y trouve des cellules reproductrices (gamètes), c’est-à-dire des spermatozoïdes et des ovocytes, mais aussi quelques embryons et une immense collection de fibroblastes, les cellules les plus répandues du tissu conjonctif chez l’animal, qui assurent notamment la structure et la souplesse de la peau
+- le plus souvent, les équipes récupèrent les corps des animaux morts.
+- Ils rêvent d’établir un « réseau mondial de zoos gelés » qui rassemblerait une nuée de laboratoires situés aux « points chauds de la biodiversité ».
+- Les cellules sont conservées dans de l’azote liquide à –196 °C
+- L’opération « rhinocéros blanc du Nord » est le projet phare du zoo gelé, qui ne vise rien de moins que sa dé-extinction : les chercheurs comptent faire renaître un troupeau qui sera indépendant et fertile de génération en génération. 
+> Pour cela, ils prévoient d’effectuer des inséminations artificielles d’embryons de rhinocéros blancs du Nord, dont la gestation serait assurée par des rhinocéros blancs du Sud.
+- Nola, la dernière rhinocéros blanc du Nord, a vécu au zoo avant de mourir en 2015
+
+# La "boîte noire" climatique (Tasmanie, Australie)
+
+*Sources*
+
+- [Earth Is Getting a ‘Black Box’ to Hold Humans Accountable for Climate Change](https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html) - New York Times (2021)
+
+---
+
+- Dans un coin reculé de Tasmanie
+- De la taille d'un bus (a 33-foot-long box made of three-inch thick steel), ce coffre en acier 
+- l'idée est d'avoir une boîte noire similaire à celle dans les avions
+- Un groupe d'artistes, d'architectes et de chercheurs de l'université de Tasmanie
+- projet conçu au sein d'une boîte de pub australienne
+- Jim Curtis
+- The box’s creators say it will record leaders’ actions (or inaction) by scraping the internet for keywords relating to climate change from newspapers, social media and peer-reviewed journals. It will collect daily metrics, including average oceanic and land temperatures, atmospheric carbon dioxide concentration and biodiversity loss.
+- La boîte sera complétée vers mi-2022
+- the data will be stored on a giant, automated, solar-powered hard drive with a capacity to collect information for about 50 years. 
+- Tasmania was chosen for its relative geopolitical and environmental safety, and the monolith will be designed to be resilient against threats including cyclones, earthquakes and, with its sloped walls, attacks by vandals.
+- How will future visitors retrieve the contents of the box? The creators say they are working on it. One option is to encode the contents in various formats, such as in script or binary code that would be unraveled. The creators say that if the planet is nearing cataclysm, instructions for opening the box would be etched on its exterior. The message can’t be included beforehand, they say, because of the risk that vandals would attempt to crack it open.
 
 # Les satellites LAGEOS
 
