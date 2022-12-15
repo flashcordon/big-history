@@ -20,6 +20,20 @@
 
 ---
 
+- $\forall \, x \in (1,2)$
+- $\exists \, x \notin [0,1]$
+- $A \subset B$
+- $A \subseteq B$
+- $A \cup B$
+- $A \cap B$
+- $X \implies Y$
+- $X \impliedby Y$
+- $a \to b$
+- $a \longrightarrow b$
+- $a \Rightarrow b$
+- $a \Longrightarrow b$
+- $a \propto b$
+
 ## L'univers s'étend
 
 *Vitesse de récession des galaxies en fonction de leur distance. Crédit : Hubble (1929). [Source](https://www.pnas.org/doi/10.1073/pnas.15.3.168)*
