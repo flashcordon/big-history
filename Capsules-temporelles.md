@@ -148,6 +148,21 @@
 
 ![phoenix](https://planetary.s3.amazonaws.com/web/assets/pictures/_768x768_crop_center-center_82_line/phoenix_dvd_on-mars.jpg.webp)
 
+# La pierre de Rosette sur une comète
+
+*Sources*
+
+- [The Rosetta Project](https://rosettaproject.org/)
+- [Rosetta disk goes back to the future](https://sci.esa.int/web/rosetta/-/31242-rosetta-disk-goes-back-to-the-future) - ESA (2002)
+
+---
+
+- The Rosetta Disk fits in the palm of your hand, yet it contains over 13,000 pages of information on over 1,500 human languages. The pages are microscopically etched and then electroformed in solid nickel, a process that raises the text very slightly - about 100 nanometers - off of the surface of the disk. Each page is only 400 microns across - about the width of 5 human hairs - and can be read through a microscope at 650X as clearly as you would from print in a book. Individual pages are visible at a much lower magnification of 100X. 
+
+*Crédits : The Rosetta Project*
+
+![rosetta](https://media.longnow.org/files/2/Rosetta_disk_web_image.png)
+
 # Le disque d'or de Voyager
 
 *Sources*
