@@ -45,7 +45,7 @@
 ---
 
 - Le lander Phoenix de la NASA, qui a atterri sur Mars le 25 Mai 2008, abrite un mini DVD nommé "Visions of Mars" contenant 80 oeuvres de fiction et de non-fiction qui parlent de Mars (littérature, art, musique), créé par la Planetary Society. Il s'agit de la première bibliothèque martienne. 
-- Il contient aussi les noms de 250 000 personnes à travers le monde collectés par la Planetary Society, ainsi que des messages à destination de futurs explorateur.ices martien.nes en provenance d'auteurs et d'experts associés au spatial, comme Carl Sagan, Arthur C. Clarke ou encore Judith Merrill.
+- Il contient aussi les noms de 250 000 personnes à travers le monde (70 noationalités) collectés par la Planetary Society, ainsi que des messages à destination de futurs explorateur.ices martien.nes en provenance d'auteurs et d'experts associés au spatial, comme Carl Sagan, Arthur C. Clarke ou encore Judith Merrill.
 - Ce DVD est conçu pour durer des siècles, voire des millénaires.
 
 *Crédit : NASA / JPL / U. Arizona*
