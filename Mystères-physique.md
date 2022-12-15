@@ -1016,7 +1016,7 @@ matter (CDM) paradigm
 ### Les amas de galaxies
 
 - Les amas de galaxies sont les plus grandes structures liées par gravité dans l'Univers.
-> Ils ont des tailles de l'ordre du million d'années-lumière (Mpc) et des masses de l'ordre du million de milliards de masses solaires ($10^{15}$ Msol)
+> Ils ont des tailles de l'ordre du million d'années-lumière (Mpc) et des masses de l'ordre du million de milliards de masses solaires ( $10^{15}$ Msol)
 - Les galaxies ne constituent que quelques pourcents de la masse totale d'un amas. Celles-ci baignent en effet dans un gaz très chaud (comprimé à 10-100 millions de degrés sous l'action de la gravité) et très peu dense, et ce gaz représente 80-90% de la masse baryonique d'un amas. De plus, la masse totale de l'amas est largement dominée par la matière noire qui la compose (combien ?)
 - Quand on observe les amas de galaxies en rayons X, ceux-ci apparaissent comme des sources diffuses et étendues. Ce qu'on voit dans ces longueurs d'onde, c'est la contribution du gaz intergalactique surchauffé. 
 > On ne peut pas observer les rayons X depuis des observatoires au sol, puisque ces longueurs d'onde sont absorbées par l'atmosphère terrestre. On doit donc avoir recours à des observatoires spatiaux comme Chandra ou XMM-Newton pour ce genre d'études.
