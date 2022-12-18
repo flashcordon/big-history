@@ -17,6 +17,7 @@
 *Sources*
 
 - [Dark matter and cosmic structure](https://arxiv.org/abs/1210.0544) - White et Frenk (2012)
+- [The origin of cosmic structure](https://cds.cern.ch/record/935628/files/p239.pdf) - Frenk
 
 ---
 
