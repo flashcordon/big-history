@@ -1,7 +1,7 @@
 # Table des matières
 
 - [Le modèle standard de la cosmologie](#Le-modèle-standard-de-la-cosmologie)
-- [Le modèle standard de la cosmologie à l'épreuve des observations](#Le-modèle-standard-à-lépreuve-des-observations)
+- [Le modèle standard à l'épreuve des observations](#Le-modèle-standard-à-lépreuve-des-observations)
 - [La cosmologie quantique](#La-cosmologie-quantique)
 - [Matière noire](#Matière-noire)
 - [Energie sombre](#Energie-sombre)
