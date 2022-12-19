@@ -631,23 +631,6 @@ alors être matière transparente, plutôt que
 matière noire : les rayons lumineux la
 traversent !
 
-Il faut noter aussi que, dès les premières
-découvertes dans les années 1930, la
-solution « législative », c’est-à-dire de
-changement des lois de la physique, a été
-avancée. Il est toutefois plus facile
-d’ajouter de la matière invisible à chaque
-fois qu’il en manque que d’imaginer et
-d’établir une théorie généralisant la loi de
-la gravité de Newton et la relativité
-générale. Une percée a été faite par le
-théoricien israélien Moti Milgrom dès
-1983 [8], avec un modèle de gravité
-modifiée en champ faible (MOND) qui
-rencontre beaucoup de succès à l’échelle
-des galaxies, mais des problèmes aux grandes
-échelles
-
 Aujourd’hui, les observations ont énor-
 mément progressé, et nous avons un
 recensement détaillé des régions de
@@ -810,22 +793,6 @@ manquantes : recourir à la matière noire
 « tiède » (fig. 4). Les structures à très petite
 échelle sont alors supprimées, mais une grande
 partie du modèle hiérarchique subsiste
-
-
-Et si finalement il n’existait pas de matière
-inconnue, mais qu’une modification de la
-théorie de la gravité pouvait résoudre le
-problème de la masse manquante dans les
-galaxies et de la formation des structures de
-l’Univers ? À l’échelle des galaxies, le modèle
-de gravité modifiée qui représente le mieux
-les observations est celui de M. Milgrom,
-MOND, qui reproduit les courbes de
-rotation des naines aux géantes, de même
-que les relations d’échelle (fig. 1 et fig. 2).
-En champ de gravité faible, la force de
-gravité ne décroît alors plus avec la distance
-en 1/R 2, mais en 1/R. 
 
 Do galaxies always contain dark matter? Since most of the dark
 matter is in the outskirts of a galaxy, possible exceptions would be
