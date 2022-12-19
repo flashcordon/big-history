@@ -864,7 +864,7 @@ matter (CDM) paradigm
 
 ## La piste de la gravité modifiée
 
-- Le modèle ΛCDM fonctionne très bien pour prédire la formation et la distribution des grandes structures cosmiques. Par contre, il peine encore à prédire les propriétés observées des différentes familles de galaxies. 
+- Le modèle ΛCDM fonctionne très bien pour prédire la formation et la distribution des grandes structures cosmiques. Par contre, il ne parvient pas encore à reproduire les propriétés observées des différentes familles de galaxies. 
 - En 1983, le physicien israélien Moti Milgrom propose une alternative au postulat de la matière noire pour expliquer les courbes de rotation plates des galaxies. Ce modèle alternatif, nommé ***MOND*** (MOdified Newtonian Dynamics) est dit de « gravité modifiée », car il est basé sur une modification (ad-hoc) de la lois de la gravitation Newtonienne.
 - Selon le modèle de Milgrom, il existerait une échelle d’accélération critique universelle ( $a_0$  ~ $10^{-10}$ m/s², soit 100 milliards de fois plus faible que le champ de gravité terrestre) en-deçà de laquelle la force de gravitation est plus faible et ne décroît plus avec la distance en 1/R² mais plus doucement, en 1/R. Ces accélérations « faibles » seraient notamment ressenties par les étoiles en périphérie des galaxies. Dans ce cadre, $a_0$ serait une nouvelle constante fondamentale de la physique.
 > * Cette généralisation des lois de Newton en « champ faible » serait analogue à la relativité restreinte comme généralisation de la théorie de Newton pour des vitesses proches de celle de la lumière.
