@@ -486,6 +486,10 @@ http://astro.vaporia.com/start/satelliteplaneproblem.html
 > * Les simulations prédisent aussi que les galaxies satellites doivent être distribuées en un vaste halo sphérique autour des galaxies massives. Or, lorsqu’on observe la distribution des galaxies naines autour de la Voie Lactée, de la galaxie d’Andromède ou encore de Centaurus A (une galaxie lenticulaire), on remarque que ces satellites sont plutôt distribués dans une structure plane (autrement dit, un disque), inclinée par rapport au disque galactique. C’est le ***problème des plans de satellites*** (plane-of-satellites problem). Il n’a pour le moment aucune explication viable à ce phénomène dans le cadre de ΛCDM.
 > * Une solution au problème des satellites manquants consiste à affirmer que les galaxies naines autour de la Voie Lactée sont bien plus nombreuses que celles que l’on observe, mais que la plupart de ces satellites ont été déshabillées de leurs étoiles et de leur gaz à cause des interactions gravitationnelles avec la Voie Lactée. Les galaxies naines que l’on observeraient seraient celles issues des sous-halos de matière noire les plus massifs. Malheureusement, cette solution cause un nouveau problème : de nombreuses galaxies satellites prédites par ΛCDM sont si massives qu’il est impossible qu’elles aient perdues ainsi leurs étoiles. Une autre manière de formuler ce problème est de pointer le fait que les satellites observés de la Voie Lactée sont trop peu massifs par rapport aux satellites prédits par ΛCDM. C’est le ***problème des galaxies « trop grosses pour échouer »*** (too big to fail problem). 
 
+*Problème de la concentration du halo. Le profil en "cusp" est prédit par ΛCDM, mais c'est le profil en "core" qui est observé dans les galaxies. Crédit : Del Popolo et Le Delliou (2021). [Source](https://www.mdpi.com/2075-4434/9/4/123/htm)*
+
+![corecusp](https://i.imgur.com/xEETZrX.jpg)
+
 *Problème des satellites manquants. Crédit : Bullock et Boylan-Kolchin (2017). [Source](http://ned.ipac.caltech.edu/level5/Sept18/Bullock/Bullock2.html)*
 
 ![missingsatellites](https://i.imgur.com/5jeQMVf.jpg)
