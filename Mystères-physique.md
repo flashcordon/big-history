@@ -532,12 +532,11 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [How Vera Rubin broke barriers and convinced the astronomy community that dark matter exists](https://physicsworld.com/a/how-vera-rubin-broke-barriers-and-convinced-the-astronomy-community-that-dark-matter-exists/) - Physics World
 - [A primer on hierarchical galaxy formation: the semi-analytical approach](https://arxiv.org/pdf/astro-ph/0610031.pdf) - Baugh (2006)
 - Cosmologie moderne - James Peebles (2022)
-- https://arxiv.org/abs/1207.3080 
-https://www.futura-sciences.com/sciences/actualites/matiere-noire-theorie-mond-marque-encore-points-matiere-noire-41401/ 
-https://www.ca-se-passe-la-haut.fr/2021/10/les-caracteristiques-du-cmb-expliquees.html 
-https://ned.ipac.caltech.edu/level5/Sept01/Milgrom2/Milgrom_contents.html 
-https://www.annualreviews.org/doi/abs/10.1146/annurev.astro.40.060401.093923 
-https://astrobites.org/2022/07/23/defining-gravity/ 
+- [The Current Status of Galaxy Formation](https://arxiv.org/abs/1207.3080) - Silk et Mamon (2012)
+- [La théorie Mond marque encore des points contre la matière noire](https://www.futura-sciences.com/sciences/actualites/matiere-noire-theorie-mond-marque-encore-points-matiere-noire-41401/) - Futura Sciences (2020)
+- [Les caractéristiques du CMB reproduites pour la première fois par un modèle de gravitation modifiée](https://www.ca-se-passe-la-haut.fr/2021/10/les-caracteristiques-du-cmb-expliquees.html) - Ca se passe là-haut (2021) 
+- [MOND - A PEDAGOGICAL REVIEW](https://ned.ipac.caltech.edu/level5/Sept01/Milgrom2/Milgrom_contents.html) - Milgrom (2001)
+- [Modified Newtonian Dynamics as an Alternative to Dark Matter](https://www.annualreviews.org/doi/abs/10.1146/annurev.astro.40.060401.093923) - Sanders et McGaugh (2002)
 https://en.wikipedia.org/wiki/Modified_Newtonian_dynamics#Outstanding_problems_for_MOND 
 https://ncatlab.org/nlab/show/MOND 
 https://studylib.net/doc/9731270/mond 
