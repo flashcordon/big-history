@@ -1,6 +1,7 @@
 # Table des matières
 
 - [Le modèle standard de la cosmologie](#Le-modèle-standard-de-la-cosmologie)
+- [Le modèle standard de la cosmologie à l'épreuve des observations](#Le-modèle-standard-à-lépreuve-des-observations)
 - [La cosmologie quantique](#La-cosmologie-quantique)
 - [Matière noire](#Matière-noire)
 - [Energie sombre](#Energie-sombre)
@@ -456,7 +457,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - 6 paramètres libres
 - l'ère de la "cosmologie de précision"
 
-# Le modèle standard de la cosmologie à l'épreuve des observations
+# Le modèle standard à l'épreuve des observations
 
 *Sources*
 
