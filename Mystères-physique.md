@@ -456,12 +456,34 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - 6 paramètres libres
 - l'ère de la "cosmologie de précision"
 
-# Anomalies et tensions dans le modèle standard de la cosmologie
+# Le modèle standard de la cosmologie à l'épreuve des observations
 
 *Sources*
 
 - [Anomalies in Physical Cosmology](https://arxiv.org/abs/2208.05018) - Peebles (2022)
 - [Cosmology Intertwined: A Review of the Particle Physics, Astrophysics, and Cosmology Associated with the Cosmological Tensions and Anomalies](https://arxiv.org/abs/2203.06142) - Abdalla et al (2022)
+- http://ned.ipac.caltech.edu/level5/Sept18/Bullock/Bullock2.html 
+https://arxiv.org/abs/0910.3538 
+https://www.nature.com/articles/s41550-021-01563-1 
+https://sazabi4.github.io/DwarfGalaxies2021_NatAst.pdf 
+https://arxiv.org/abs/1802.02579 
+https://www.forbes.com/sites/startswithabang/2018/02/01/satellite-galaxies-live-in-the-same-plane-as-their-hosts-defying-dark-matter-predictions/?sh=7abf95ad2971 
+https://hal.archives-ouvertes.fr/hal-03104420/document 
+https://www.ca-se-passe-la-haut.fr/2021/01/un-plan-de-galaxies-satellites-en.html 
+https://aasnova.org/2016/10/03/a-solution-to-too-big-to-fail/ 
+https://www.preposterousuniverse.com/blog/2014/07/18/galaxies-that-are-too-big-to-fail-but-fail-anyway/ 
+https://www.mdpi.com/2075-4434/5/1/17 
+http://astro.vaporia.com/start/satelliteplaneproblem.html 
+
+---
+
+## À l'échelle des galaxies
+
+- Le modèle ΛCDM fonctionne très bien pour prédire la formation et la distribution des grandes structures cosmiques. Par contre, il ne parvient pas encore à reproduire les propriétés observées des différentes familles de galaxies. 
+> * Dans les simulations informatiques (N-corps) réalisées dans le cadre du modèle standard, les particules de matière noire (froide) ont tendance à s’accumuler au centre des galaxies de faibles masses. Or, les courbes de rotation observées dans ce type de galaxies ne montrent pas un tel pic de densité. C’est le ***problème de la concentration du halo*** (core-cusp problem). Il est possible de résoudre ce problème dans les simulations en faisant appel à des supernovæ et à des noyaux actifs de galaxies (AGN) qui transmettent leur énergie aux particules de matière noire froide (baryonic feedback). Il est aussi possible de résoudre ce problème hors du cadre du paradigme ΛCDM en faisant appel à de la matière noire « tiède » ou « auto-interagissante » (self-interacting), ie où les particules entrent en collisions entre elles, ce qui aurait pour effet de les disperser. 
+> * Les simulations cosmologiques dans le modèle standard prédisent aussi l’existence de milliers de petites galaxies satellites entourant les galaxies massives comme la Voie Lactée, qui se formeraient dans autant de « sous-halos » de matière noire. Or, on n’observe aujourd’hui qu’une soixantaine de galaxies naines orbitant autour de notre Galaxies. C’est le ***problème des galaxies satellites manquantes*** (missing satellites problem). Les futurs relevés astronomiques permettront probablement de détecter des centaines de galaxies naines ultra-pâles (ultra-faint dwarfs), c’est-à-dire de très faible luminosité, mais quoi qu’il en soit il est très improbable que l’on en découvre des milliers. On peut  notamment résoudre le problème des satellites manquants en faisant appel à de la matière noire « tiède », ce qui a pour effet d’éviter l’apparition de nombreuses structures à petite échelle.
+> * Les simulations prédisent aussi que les galaxies satellites doivent être distribuées en un vaste halo sphérique autour des galaxies massives. Or, lorsqu’on observe la distribution des galaxies naines autour de la Voie Lactée, de la galaxie d’Andromède ou encore de Centaurus A (une galaxie lenticulaire), on remarque que ces satellites sont plutôt distribués dans une structure plane (autrement dit, un disque), inclinée par rapport au disque galactique. C’est le ***problème des plans de satellites*** (plane-of-satellites problem). Il n’a pour le moment aucune explication viable à ce phénomène dans le cadre de ΛCDM.
+> * Une solution au problème des satellites manquants consiste à affirmer que les galaxies naines autour de la Voie Lactée sont bien plus nombreuses que celles que l’on observe, mais que la plupart de ces satellites ont été déshabillées de leurs étoiles et de leur gaz à cause des interactions gravitationnelles avec la Voie Lactée. Les galaxies naines que l’on observeraient seraient celles issues des sous-halos de matière noire les plus massifs. Malheureusement, cette solution cause un nouveau problème : de nombreuses galaxies satellites prédites par ΛCDM sont si massives qu’il est impossible qu’elles aient perdues ainsi leurs étoiles. Une autre manière de formuler ce problème est de pointer le fait que les satellites observés de la Voie Lactée sont trop peu massifs par rapport aux satellites prédits par ΛCDM. C’est le ***problème des galaxies « trop grosses pour échouer »*** (too big to fail problem). 
 
 ---
 
@@ -558,18 +580,6 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Challenges for ΛCDM and MOND](https://iopscience.iop.org/article/10.1088/1742-6596/437/1/012001/pdf) - Famaey et McGaugh (2013)
 - [Matière noire : la piste de la gravité modifiée passe un test crucial](https://www.pourlascience.fr/sd/cosmologie/matiere-noire-la-piste-de-la-gravite-modifiee-passe-un-test-crucial-23353.php) - Pour la science (2022) 
 - [A new relativistic theory for Modified Newtonian Dynamics](https://arxiv.org/abs/2007.00082) - Skordis et Zlosnik (2021)
-- http://ned.ipac.caltech.edu/level5/Sept18/Bullock/Bullock2.html 
-https://arxiv.org/abs/0910.3538 
-https://www.nature.com/articles/s41550-021-01563-1 
-https://sazabi4.github.io/DwarfGalaxies2021_NatAst.pdf 
-https://arxiv.org/abs/1802.02579 
-https://www.forbes.com/sites/startswithabang/2018/02/01/satellite-galaxies-live-in-the-same-plane-as-their-hosts-defying-dark-matter-predictions/?sh=7abf95ad2971 
-https://hal.archives-ouvertes.fr/hal-03104420/document 
-https://www.ca-se-passe-la-haut.fr/2021/01/un-plan-de-galaxies-satellites-en.html 
-https://aasnova.org/2016/10/03/a-solution-to-too-big-to-fail/ 
-https://www.preposterousuniverse.com/blog/2014/07/18/galaxies-that-are-too-big-to-fail-but-fail-anyway/ 
-https://www.mdpi.com/2075-4434/5/1/17 
-http://astro.vaporia.com/start/satelliteplaneproblem.html 
 
 ---
 
@@ -835,11 +845,6 @@ matter (CDM) paradigm
 
 ## La piste de la gravité modifiée
 
-- Le modèle ΛCDM fonctionne très bien pour prédire la formation et la distribution des grandes structures cosmiques. Par contre, il ne parvient pas encore à reproduire les propriétés observées des différentes familles de galaxies. 
-> * Dans les simulations informatiques (N-corps) réalisées dans le cadre du modèle standard, les particules de matière noire (froide) ont tendance à s’accumuler au centre des galaxies de faibles masses. Or, les courbes de rotation observées dans ce type de galaxies ne montrent pas un tel pic de densité. C’est le ***problème de la concentration du halo*** (core-cusp problem). Il est possible de résoudre ce problème dans les simulations en faisant appel à des supernovæ et à des noyaux actifs de galaxies (AGN) qui transmettent leur énergie aux particules de matière noire froide (baryonic feedback). Il est aussi possible de résoudre ce problème hors du cadre du paradigme ΛCDM en faisant appel à de la matière noire « tiède » ou « auto-interagissante » (self-interacting), ie où les particules entrent en collisions entre elles, ce qui aurait pour effet de les disperser. 
-> * Les simulations cosmologiques dans le modèle standard prédisent aussi l’existence de milliers de petites galaxies satellites entourant les galaxies massives comme la Voie Lactée, qui se formeraient dans autant de « sous-halos » de matière noire. Or, on n’observe aujourd’hui qu’une soixantaine de galaxies naines orbitant autour de notre Galaxies. C’est le ***problème des galaxies satellites manquantes*** (missing satellites problem). Les futurs relevés astronomiques permettront probablement de détecter des centaines de galaxies naines ultra-pâles (ultra-faint dwarfs), c’est-à-dire de très faible luminosité, mais quoi qu’il en soit il est très improbable que l’on en découvre des milliers. On peut  notamment résoudre le problème des satellites manquants en faisant appel à de la matière noire « tiède », ce qui a pour effet d’éviter l’apparition de nombreuses structures à petite échelle.
-> * Les simulations prédisent aussi que les galaxies satellites doivent être distribuées en un vaste halo sphérique autour des galaxies massives. Or, lorsqu’on observe la distribution des galaxies naines autour de la Voie Lactée, de la galaxie d’Andromède ou encore de Centaurus A (une galaxie lenticulaire), on remarque que ces satellites sont plutôt distribués dans une structure plane (autrement dit, un disque), inclinée par rapport au disque galactique. C’est le ***problème des plans de satellites*** (plane-of-satellites problem). Il n’a pour le moment aucune explication viable à ce phénomène dans le cadre de ΛCDM.
-> * Une solution au problème des satellites manquants consiste à affirmer que les galaxies naines autour de la Voie Lactée sont bien plus nombreuses que celles que l’on observe, mais que la plupart de ces satellites ont été déshabillées de leurs étoiles et de leur gaz à cause des interactions gravitationnelles avec la Voie Lactée. Les galaxies naines que l’on observeraient seraient celles issues des sous-halos de matière noire les plus massifs. Malheureusement, cette solution cause un nouveau problème : de nombreuses galaxies satellites prédites par ΛCDM sont si massives qu’il est impossible qu’elles aient perdues ainsi leurs étoiles. Une autre manière de formuler ce problème est de pointer le fait que les satellites observés de la Voie Lactée sont trop peu massifs par rapport aux satellites prédits par ΛCDM. C’est le ***problème des galaxies « trop grosses pour échouer »*** (too big to fail problem). 
 - En 1983, le physicien israélien Moti Milgrom propose une alternative au postulat de la matière noire pour expliquer les courbes de rotation plates des galaxies. Ce modèle alternatif, nommé ***MOND*** (MOdified Newtonian Dynamics) est dit de « gravité modifiée », car il est basé sur une modification (ad-hoc) de la lois de la gravitation Newtonienne.
 - Selon le modèle de Milgrom, il existerait une échelle d’accélération critique universelle ( $a_0$  ~ $10^{-10}$ m/s², soit 100 milliards de fois plus faible que le champ de gravité terrestre) en-deçà de laquelle la force de gravitation est plus faible et ne décroît plus avec la distance en 1/R² mais plus doucement, en 1/R. Ces accélérations « faibles » seraient notamment ressenties par les étoiles en périphérie des galaxies. Dans ce cadre, $a_0$ serait une nouvelle constante fondamentale de la physique.
 > * Cette généralisation des lois de Newton en « champ faible » serait analogue à la relativité restreinte comme généralisation de la théorie de Newton pour des vitesses proches de celle de la lumière.
