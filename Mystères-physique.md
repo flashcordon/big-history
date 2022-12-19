@@ -765,47 +765,6 @@ le mieux la formation des grandes struc-
 tures et explique toutes les observations du
 fond cosmologique micro-onde
 
-Pourtant, à l’échelle des galaxies, les
-prédictions du modèle CDM ne sont
-plus compatibles avec les observations. En
-particulier, dans ce modèle, la matière noire
-standard s’accumule au centre des galaxies,
-ce qui est contraire à ce que montrent les
-mesures de courbes de rotation (fig. 1). De
-plus, les simulations cosmologiques dans le
-modèle standard (CDM) prédisent l’existence
-de milliers de galaxies satellites autour des
-galaxies massives, milliers de galaxies qui
-ne sont pas observées. 
-
-L’autre problème du modèle standard
-CDM est l’accumulation des particules de
-matière noire au centre des galaxies, en un
-pic de densité qui n’est pas observé. Pour
-le résoudre, il a été proposé un modèle de
-particules de matière noire qui entrent en
-collisions entre elles. Ces collisions agi-
-raient surtout dans les parties les plus
-denses au centre, et auraient pour effet de
-disperser les particules et de rendre leurs
-trajectoires aléatoires dans cette région.
-Elles se distribueraient alors selon un
-nuage étendu, un « cœur », au lieu d’un
-pic de matière noire. Il reste toutefois
-beaucoup de problèmes à résoudre pour
-expliquer la taille des cœurs différente
-d’une galaxie à l’autre. D’autre part, une
-limite supérieure de la section efficace de
-collisions entre particules de matière noire
-a été déduite des amas de galaxies en collision,
-comme le Boulet (photo p. 5).
-Enfin, d’autres solutions sont explorées pour
-résoudre le problème des galaxies satellites
-manquantes : recourir à la matière noire
-« tiède » (fig. 4). Les structures à très petite
-échelle sont alors supprimées, mais une grande
-partie du modèle hiérarchique subsiste
-
 Do galaxies always contain dark matter? Since most of the dark
 matter is in the outskirts of a galaxy, possible exceptions would be
 galaxies that have been tidally stripped, and the dwarfs that might
