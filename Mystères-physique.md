@@ -558,6 +558,18 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Challenges for ΛCDM and MOND](https://iopscience.iop.org/article/10.1088/1742-6596/437/1/012001/pdf) - Famaey et McGaugh (2013)
 - [Matière noire : la piste de la gravité modifiée passe un test crucial](https://www.pourlascience.fr/sd/cosmologie/matiere-noire-la-piste-de-la-gravite-modifiee-passe-un-test-crucial-23353.php) - Pour la science (2022) 
 - [A new relativistic theory for Modified Newtonian Dynamics](https://arxiv.org/abs/2007.00082) - Skordis et Zlosnik (2021)
+- http://ned.ipac.caltech.edu/level5/Sept18/Bullock/Bullock2.html 
+https://arxiv.org/abs/0910.3538 
+https://www.nature.com/articles/s41550-021-01563-1 
+https://sazabi4.github.io/DwarfGalaxies2021_NatAst.pdf 
+https://arxiv.org/abs/1802.02579 
+https://www.forbes.com/sites/startswithabang/2018/02/01/satellite-galaxies-live-in-the-same-plane-as-their-hosts-defying-dark-matter-predictions/?sh=7abf95ad2971 
+https://hal.archives-ouvertes.fr/hal-03104420/document 
+https://www.ca-se-passe-la-haut.fr/2021/01/un-plan-de-galaxies-satellites-en.html 
+https://aasnova.org/2016/10/03/a-solution-to-too-big-to-fail/ 
+https://www.preposterousuniverse.com/blog/2014/07/18/galaxies-that-are-too-big-to-fail-but-fail-anyway/ 
+https://www.mdpi.com/2075-4434/5/1/17 
+http://astro.vaporia.com/start/satelliteplaneproblem.html 
 
 ---
 
