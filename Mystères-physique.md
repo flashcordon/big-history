@@ -532,6 +532,37 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [How Vera Rubin broke barriers and convinced the astronomy community that dark matter exists](https://physicsworld.com/a/how-vera-rubin-broke-barriers-and-convinced-the-astronomy-community-that-dark-matter-exists/) - Physics World
 - [A primer on hierarchical galaxy formation: the semi-analytical approach](https://arxiv.org/pdf/astro-ph/0610031.pdf) - Baugh (2006)
 - Cosmologie moderne - James Peebles (2022)
+- https://arxiv.org/abs/1207.3080 
+https://www.futura-sciences.com/sciences/actualites/matiere-noire-theorie-mond-marque-encore-points-matiere-noire-41401/ 
+https://www.ca-se-passe-la-haut.fr/2021/10/les-caracteristiques-du-cmb-expliquees.html 
+https://ned.ipac.caltech.edu/level5/Sept01/Milgrom2/Milgrom_contents.html 
+https://www.annualreviews.org/doi/abs/10.1146/annurev.astro.40.060401.093923 
+https://astrobites.org/2022/07/23/defining-gravity/ 
+https://en.wikipedia.org/wiki/Modified_Newtonian_dynamics#Outstanding_problems_for_MOND 
+https://ncatlab.org/nlab/show/MOND 
+https://studylib.net/doc/9731270/mond 
+http://astroweb.case.edu/ssm/mond/litsub.html 
+http://astroweb.case.edu/ssm/mond/ 
+https://arxiv.org/abs/astro-ph/0204521 
+https://www.sciencedirect.com/science/article/abs/pii/S1387647321000191 
+https://www.sciencedirect.com/topics/physics-and-astronomy/modified-newtonian-dynamics 
+https://www.sciencedirect.com/science/article/abs/pii/S0146641020300569 
+https://ned.ipac.caltech.edu/level5/Sept16/Bertone/Bertone7.html 
+http://www2.iap.fr/users/blanchet/images/Recherche.pdf 
+https://www.researchgate.net/publication/333907246_A_Feasible_and_Decisive_Test_between_Newtonian_and_Varying-G_Gravity_that_can_be_Conducted_in_the_Oort_Cloud 
+https://ui.adsabs.harvard.edu/abs/1983ApJ...270..365M/abstract
+https://www.college-de-france.fr/agenda/cours/le-probleme-de-la-matiere-noire-galaxies-spirales/physique-des-galaxies-en-gravite-modifiee 
+https://en.wikipedia.org/wiki/Barred_spiral_galaxy 
+https://books.openedition.org/cdf/4575?lang=fr 
+https://theses.hal.science/tel-00079377/document 
+http://physics.ucsc.edu/~joel/DarkMatterHist.pdf 
+www.scholarpedia.org/article/The_MOND_paradigm_of_modified_dynamics 
+https://arxiv.org/abs/1112.3960
+https://arxiv.org/abs/astro-ph/0601478 
+http://aramis.obspm.fr/~combes/fcombes/sem/MOND-21.pdf 
+https://iopscience.iop.org/article/10.1088/1742-6596/437/1/012001/pdf 
+https://www.pourlascience.fr/sd/cosmologie/matiere-noire-la-piste-de-la-gravite-modifiee-passe-un-test-crucial-23353.php 
+https://arxiv.org/abs/2007.00082 
 
 ---
 
