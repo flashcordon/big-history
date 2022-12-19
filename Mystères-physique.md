@@ -536,32 +536,28 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [La théorie Mond marque encore des points contre la matière noire](https://www.futura-sciences.com/sciences/actualites/matiere-noire-theorie-mond-marque-encore-points-matiere-noire-41401/) - Futura Sciences (2020)
 - [Les caractéristiques du CMB reproduites pour la première fois par un modèle de gravitation modifiée](https://www.ca-se-passe-la-haut.fr/2021/10/les-caracteristiques-du-cmb-expliquees.html) - Ca se passe là-haut (2021) 
 - [MOND - A PEDAGOGICAL REVIEW](https://ned.ipac.caltech.edu/level5/Sept01/Milgrom2/Milgrom_contents.html) - Milgrom (2001)
-- [Modified Newtonian Dynamics as an Alternative to Dark Matter](https://www.annualreviews.org/doi/abs/10.1146/annurev.astro.40.060401.093923) - Sanders et McGaugh (2002)
-https://en.wikipedia.org/wiki/Modified_Newtonian_dynamics#Outstanding_problems_for_MOND 
-https://ncatlab.org/nlab/show/MOND 
-https://studylib.net/doc/9731270/mond 
-http://astroweb.case.edu/ssm/mond/litsub.html 
-http://astroweb.case.edu/ssm/mond/ 
-https://arxiv.org/abs/astro-ph/0204521 
-https://www.sciencedirect.com/science/article/abs/pii/S1387647321000191 
-https://www.sciencedirect.com/topics/physics-and-astronomy/modified-newtonian-dynamics 
-https://www.sciencedirect.com/science/article/abs/pii/S0146641020300569 
-https://ned.ipac.caltech.edu/level5/Sept16/Bertone/Bertone7.html 
-http://www2.iap.fr/users/blanchet/images/Recherche.pdf 
-https://www.researchgate.net/publication/333907246_A_Feasible_and_Decisive_Test_between_Newtonian_and_Varying-G_Gravity_that_can_be_Conducted_in_the_Oort_Cloud 
-https://ui.adsabs.harvard.edu/abs/1983ApJ...270..365M/abstract
-https://www.college-de-france.fr/agenda/cours/le-probleme-de-la-matiere-noire-galaxies-spirales/physique-des-galaxies-en-gravite-modifiee 
-https://en.wikipedia.org/wiki/Barred_spiral_galaxy 
-https://books.openedition.org/cdf/4575?lang=fr 
-https://theses.hal.science/tel-00079377/document 
-http://physics.ucsc.edu/~joel/DarkMatterHist.pdf 
-www.scholarpedia.org/article/The_MOND_paradigm_of_modified_dynamics 
-https://arxiv.org/abs/1112.3960
-https://arxiv.org/abs/astro-ph/0601478 
-http://aramis.obspm.fr/~combes/fcombes/sem/MOND-21.pdf 
-https://iopscience.iop.org/article/10.1088/1742-6596/437/1/012001/pdf 
-https://www.pourlascience.fr/sd/cosmologie/matiere-noire-la-piste-de-la-gravite-modifiee-passe-un-test-crucial-23353.php 
-https://arxiv.org/abs/2007.00082 
+- [Modified Newtonian Dynamics as an Alternative to Dark Matter](https://arxiv.org/abs/astro-ph/0204521) - Sanders et McGaugh (2002)
+- [Modified Newtonian dynamics](https://en.wikipedia.org/wiki/Modified_Newtonian_dynamics#Outstanding_problems_for_MOND) - Wikipédia
+- [MOND](https://ncatlab.org/nlab/show/MOND) - nLab
+- [Literature relating to the Modified Newtonian Dynamics (MOND)](http://astroweb.case.edu/ssm/mond/litsub.html) - Stacy McGaugh
+- [The MOND Pages](http://astroweb.case.edu/ssm/mond/) - Stacy McGaugh
+- [Modified Newtonian Dynamics](https://www.sciencedirect.com/topics/physics-and-astronomy/modified-newtonian-dynamics) - ScienceDirect 
+- [MODIFIED GRAVITY](https://ned.ipac.caltech.edu/level5/Sept16/Bertone/Bertone7.html) - Bertone (2016)
+- [MOND avec ou sans matière noire](http://www2.iap.fr/users/blanchet/images/Recherche.pdf) - Blanchet et Combes (2009) 
+- [A Feasible and Decisive Test between Newtonian and Varying-G Gravity that can be Conducted in the Oort Cloud](https://www.researchgate.net/publication/333907246_A_Feasible_and_Decisive_Test_between_Newtonian_and_Varying-G_Gravity_that_can_be_Conducted_in_the_Oort_Cloud) - Christodoulou et al (2019)
+- [A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis](https://ui.adsabs.harvard.edu/abs/1983ApJ...270..365M/abstract) - Milgrom (1983)
+- [Physique des galaxies en gravité modifiée](https://www.college-de-france.fr/agenda/cours/le-probleme-de-la-matiere-noire-galaxies-spirales/physique-des-galaxies-en-gravite-modifiee) - Cours de Françoise Combes (2015) 
+- [Barred Spiral Galaxy](https://en.wikipedia.org/wiki/Barred_spiral_galaxy) - Wikipédia
+- [La matière noire dans l’Univers](https://books.openedition.org/cdf/4575?lang=fr) - Cours de Françoise Combes (2014)  
+- [Evolution des galaxies:Interactions, fusions, et accretion de gaz](https://theses.hal.science/tel-00079377/document) - Thèse de Frédéric Bournaud (2006)
+- [A Brief History of Dark Matter](http://physics.ucsc.edu/~joel/DarkMatterHist.pdf) - Joel Primack (2007)
+- [The MOND paradigm of modified dynamics](www.scholarpedia.org/article/The_MOND_paradigm_of_modified_dynamics) - Scholarpedia
+- [Modified Newtonian Dynamics (MOND): Observational Phenomenology and Relativistic Extensions](https://arxiv.org/abs/1112.3960) - Famaey et McGaugh (2011)
+- [Modified Newtonian Dynamics, an Introductory Review](https://arxiv.org/abs/astro-ph/0601478) - Scarpa (2006)
+- [Matière noire et gravité modifiée](http://aramis.obspm.fr/~combes/fcombes/sem/MOND-21.pdf) - Françoise Combes (2021)
+- [Challenges for ΛCDM and MOND](https://iopscience.iop.org/article/10.1088/1742-6596/437/1/012001/pdf) - Famaey et McGaugh (2013)
+- [Matière noire : la piste de la gravité modifiée passe un test crucial](https://www.pourlascience.fr/sd/cosmologie/matiere-noire-la-piste-de-la-gravite-modifiee-passe-un-test-crucial-23353.php) - Pour la science (2022) 
+- [A new relativistic theory for Modified Newtonian Dynamics](https://arxiv.org/abs/2007.00082) - Skordis et Zlosnik (2021)
 
 ---
 
