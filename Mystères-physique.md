@@ -590,6 +590,16 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [Challenges for ΛCDM and MOND](https://iopscience.iop.org/article/10.1088/1742-6596/437/1/012001/pdf) - Famaey et McGaugh (2013)
 - [Matière noire : la piste de la gravité modifiée passe un test crucial](https://www.pourlascience.fr/sd/cosmologie/matiere-noire-la-piste-de-la-gravite-modifiee-passe-un-test-crucial-23353.php) - Pour la science (2022) 
 - [A new relativistic theory for Modified Newtonian Dynamics](https://arxiv.org/abs/2007.00082) - Skordis et Zlosnik (2021)
+- [Dark matter – Evidence and Candidates](https://www.mpi-hd.mpg.de/lin/_isapp2019/talks/ISAPP2019-Weniger_1.pdf) - Slides de Christoph Weniger (2019)
+- [Physics Beyond the Standard Model and Dark Matter](https://arxiv.org/abs/0704.2276) - Murayama (2007)  
+- [Dark Matter: A Primer](https://www.hindawi.com/journals/aa/2011/968283/) - Garrett et Duda (2010)
+- [Dark matter in astrophysics/cosmology](https://indico.cern.ch/event/949654/contributions/4025903/attachments/2288387/3890053/2evidence.pdf) - Slides de Anne Green  
+- [Astrophysical and Cosmological Probes of Dark Matter](https://www.scirp.org/html/7-7500789_23061.htm) - Roos (2012)
+- [Rayonnement cosmique et détection indirecte de matière noire](https://theses.hal.science/tel-00880159/document) - Thèse de David Maurin (2013)
+- [Probing the Dark Matter Content of Local Group Dwarf Spheroidal Galaxies with FLAMES](https://www.eso.org/sci/publications/messenger/archive/no.124-jun06/messenger-no124-25-29.pdf) - Wilkinson et al (2006) 
+- [La dynamique interne des galaxies naines dirigée par les effets gravitationnels de la Voie Lactée et non par la matière noire](https://www.ca-se-passe-la-haut.fr/2018/06/la-dynamique-interne-des-galaxies.html) - Ca se passe là-haut (2018)  
+- [Galactic forces rule dynamics of Milky Way dwarf galaxies](https://arxiv.org/abs/1805.01469) - Hammer et al (2018)
+- [Plus besoin de matière sombre pour expliquer la dynamique des galaxies naines](https://www.observatoiredeparis.psl.eu/plus-besoin-de-matiere-sombre.html) - Observatoire de Paris (2018)
 
 ---
 
