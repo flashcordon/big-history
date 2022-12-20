@@ -463,18 +463,17 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 
 - [Anomalies in Physical Cosmology](https://arxiv.org/abs/2208.05018) - Peebles (2022)
 - [Cosmology Intertwined: A Review of the Particle Physics, Astrophysics, and Cosmology Associated with the Cosmological Tensions and Anomalies](https://arxiv.org/abs/2203.06142) - Abdalla et al (2022)
-- http://ned.ipac.caltech.edu/level5/Sept18/Bullock/Bullock2.html 
-https://arxiv.org/abs/0910.3538 
-https://www.nature.com/articles/s41550-021-01563-1 
-https://sazabi4.github.io/DwarfGalaxies2021_NatAst.pdf 
-https://arxiv.org/abs/1802.02579 
-https://www.forbes.com/sites/startswithabang/2018/02/01/satellite-galaxies-live-in-the-same-plane-as-their-hosts-defying-dark-matter-predictions/?sh=7abf95ad2971 
-https://hal.archives-ouvertes.fr/hal-03104420/document 
-https://www.ca-se-passe-la-haut.fr/2021/01/un-plan-de-galaxies-satellites-en.html 
-https://aasnova.org/2016/10/03/a-solution-to-too-big-to-fail/ 
-https://www.preposterousuniverse.com/blog/2014/07/18/galaxies-that-are-too-big-to-fail-but-fail-anyway/ 
-https://www.mdpi.com/2075-4434/5/1/17 
-http://astro.vaporia.com/start/satelliteplaneproblem.html 
+- [SMALL-SCALE CHALLENGES TO THE ΛCDM PARADIGM](http://ned.ipac.caltech.edu/level5/Sept18/Bullock/Bullock2.html) - Bullock et Boylan-Kolchin (2017)
+- [The Core-Cusp Problem](https://arxiv.org/abs/0910.3538) - de Block (2009)
+- [Dwarf galaxies yesterday, now and tomorrow](https://sazabi4.github.io/DwarfGalaxies2021_NatAst.pdf) - Crnojević et Burçin Mutlu-Pakdil (2021)
+- [The Planes of Satellite Galaxies Problem, Suggested Solutions, and Open Questions](https://arxiv.org/abs/1802.02579) - Pawlowski (2018)
+- [Satellite Galaxies Live In A Single Plane, Defying Dark Matter Predictions](https://www.forbes.com/sites/startswithabang/2018/02/01/satellite-galaxies-live-in-the-same-plane-as-their-hosts-defying-dark-matter-predictions/?sh=7abf95ad2971) - Ethan Siegel (2018)
+- [The coherent motion of Cen A dwarf satellite galaxies remains a challenge for ΛCDM cosmology](https://hal.archives-ouvertes.fr/hal-03104420/document) - Muller et al (2021)
+- [Un plan de galaxies satellites en rotation autour de Centaurus A défie le modèle cosmologique standard](https://www.ca-se-passe-la-haut.fr/2021/01/un-plan-de-galaxies-satellites-en.html) - Ca se passe là-haut (2021) 
+- [A Solution to “Too Big to Fail”](https://aasnova.org/2016/10/03/a-solution-to-too-big-to-fail/) - AAS Nova (2016)
+- [Galaxies That Are Too Big To Fail, But Fail Anyway](https://www.preposterousuniverse.com/blog/2014/07/18/galaxies-that-are-too-big-to-fail-but-fail-anyway/) - Preposterous Universe (2014)
+- [Small Scale Problems of the ΛCDM Model: A Short Review](https://www.mdpi.com/2075-4434/5/1/17) - Del Popolo et Le Delliou (2016)
+- [satellite plane problem](http://astro.vaporia.com/start/satelliteplaneproblem.html)
 
 ---
 
