@@ -623,9 +623,7 @@ http://astro.vaporia.com/start/satelliteplaneproblem.html
 
 *Halo de matière noire d'une galaxie similaire à la Voie Lactée simulé avec de la matière noire froide (gauche) et avec de la amtière noire tière (droite). Crédit : Lovell et al (2012). [Source](https://link.springer.com/article/10.1007/s41115-021-00013-z#Fig15)*
 
-<p align="center">
 ![cdm_wdm](https://i.imgur.com/A1ZnIlj.jpg)
-</p>
 
 the idea that galaxies and
 galaxy clusters are embedded in massive dark matter halos
