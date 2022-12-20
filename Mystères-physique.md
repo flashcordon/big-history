@@ -594,6 +594,8 @@ http://astro.vaporia.com/start/satelliteplaneproblem.html
 
 ---
 
+## Histoire
+
 - En 1933, un astronome suisse nommé Fritz Zwicky observe les vitesses radiales de 8 galaxies à l’intérieur de l’amas de Coma (Abell 1656), et remarque un curieux phénomène : la dispersion de vitesse de ces galaxies (estimée à l’aide de leur décalage spectral) est très supérieure (de l’ordre de 1000 km/s) à celle à laquelle on s’attendrait si la masse de l’amas était entièrement constituée de matière lumineuse (de l’ordre de 80 km/s). Pour expliquer la dispersion observée, il faudrait que l’amas contienne bien plus de masse que celle qui émet de la lumière. En d’autre termes, elle devrait contenir une sorte de matière « noire » (dunkel materie) en grande quantité. Sans cette matière noire pour retenir les galaxies dans son potentiel gravitationnel, l’amas aurait dû finir par se désagréger. Il conclut son article par la phrase suivante : « Si ce résultat devait être confirmé, il conduirait à la surprenante conclusion que la matière noire est bien plus abondante que la matière visible ». Mais pendant longtemps, l’hypothèse de la matière noire de Zwicky trouve peu d’écho dans la communauté scientifique, notamment à cause des grandes incertitudes qui entachent ses estimations (il avait notamment grandement sous estimé la distance de l’amas). 
 > Pour estimer la masse (lumineuse) de l’amas, Zwicky multiplie le nombre observé de galaxies (800) par la masse moyenne d’une galaxie (1 milliard de masses solaires selon Hubble). Pour estimer la dispersion de vitesse théorique de l’amas, il fait appel au ***théorème du viriel*** , un théorème de mécanique newtonienne qui relie la masse d’une structure gravitationnellement liée et la vitesse des astres qui la compose.
 - Entre les années 30 et 70, de nombreux chercheurs s’intéressent à la manière dont la masse est répartie au sein des galaxies. Une manière de tracer la masse consiste à observer le mouvement de ses étoiles. Comme on l’observe quasiment par la tranche, on peut estimer la vitesse à laquelle les étoiles orbitent autour du centre galactique. Si l’on calcule la vitesse orbitale des étoiles en fonction de leur distance au centre galactique, on obtient ce qu’on appelle une ***courbe de rotation***. Elle sert à estimer la distribution de masse dans la galaxie.
@@ -616,6 +618,12 @@ http://astro.vaporia.com/start/satelliteplaneproblem.html
 
 *Courbe de rotation de M33. Données et prédictions issues de Corbelli et Salucci (2000). Crédit : Mario De Leo. [Source](https://en.wikipedia.org/wiki/Galaxy_rotation_curve#/media/File:Rotation_curve_of_spiral_galaxy_Messier_33_(Triangulum).png)*
 ![M33rotationcurve](https://upload.wikimedia.org/wikipedia/commons/c/cd/Rotation_curve_of_spiral_galaxy_Messier_33_%28Triangulum%29.png)
+
+## Matière noire chaude ou froide 
+
+*Halo de matière noire d'une galaxie similaire à la Voie Lactée simulé avec de la matière noire froide (gauche) et avec de la amtière noire tière (droite). Crédit : Lovell et al (2012). [Source](https://link.springer.com/article/10.1007/s41115-021-00013-z#Fig15)*
+
+![cdm_wdm](https://i.imgur.com/A1ZnIlj.jpg)
 
 the idea that galaxies and
 galaxy clusters are embedded in massive dark matter halos
