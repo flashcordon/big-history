@@ -635,7 +635,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 
 ![cdm_wdm](https://i.imgur.com/A1ZnIlj.jpg)
 
-*Simulation de structures cosmiques formées dans un univers avec de la matière noire chaude (gauche), tière (milieu) et froide (droite). Crédit : Ben Moore, ITC @ University of Zurich. [Source](http://burro.case.edu/Academics/Astr222/Cosmo/Structure/darkmatter.html)*
+*Simulation de structures cosmiques formées dans un univers avec de la matière noire chaude (gauche), tiède (milieu) et froide (droite). Crédit : Ben Moore, ITC @ University of Zurich. [Source](http://burro.case.edu/Academics/Astr222/Cosmo/Structure/darkmatter.html)*
 
 ![cdm_wdm_hdm](https://i.imgur.com/Jv4bLHd.gif)
 
