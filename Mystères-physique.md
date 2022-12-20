@@ -621,7 +621,7 @@ http://astro.vaporia.com/start/satelliteplaneproblem.html
 
 ## Matière noire chaude, tiède ou froide ?
 
-*Halo de matière noire d'une galaxie similaire à la Voie Lactée simulé avec de la matière noire froide (gauche) et avec de la matière noire tière (droite). Crédit : Lovell et al (2012). [Source](https://link.springer.com/article/10.1007/s41115-021-00013-z#Fig15)*
+*Halo de matière noire d'une galaxie similaire à la Voie Lactée simulé avec de la matière noire froide (gauche) et avec de la matière noire tière (droite). Crédit : [Lovell et al (2012)](https://arxiv.org/abs/1104.2929). [Source](https://link.springer.com/article/10.1007/s41115-021-00013-z#Fig15)*
 
 ![cdm_wdm](https://i.imgur.com/A1ZnIlj.jpg)
 
