@@ -619,11 +619,13 @@ http://astro.vaporia.com/start/satelliteplaneproblem.html
 *Courbe de rotation de M33. Données et prédictions issues de Corbelli et Salucci (2000). Crédit : Mario De Leo. [Source](https://en.wikipedia.org/wiki/Galaxy_rotation_curve#/media/File:Rotation_curve_of_spiral_galaxy_Messier_33_(Triangulum).png)*
 ![M33rotationcurve](https://upload.wikimedia.org/wikipedia/commons/c/cd/Rotation_curve_of_spiral_galaxy_Messier_33_%28Triangulum%29.png)
 
-## Matière noire chaude ou froide 
+## Matière noire chaude, tiède ou froide ?
 
 *Halo de matière noire d'une galaxie similaire à la Voie Lactée simulé avec de la matière noire froide (gauche) et avec de la amtière noire tière (droite). Crédit : Lovell et al (2012). [Source](https://link.springer.com/article/10.1007/s41115-021-00013-z#Fig15)*
 
 ![cdm_wdm](https://i.imgur.com/A1ZnIlj.jpg)
+
+# Indices observationnels de la matière noire
 
 the idea that galaxies and
 galaxy clusters are embedded in massive dark matter halos
