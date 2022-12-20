@@ -629,7 +629,15 @@ http://astro.vaporia.com/start/satelliteplaneproblem.html
 
 ![cdm_wdm_hdm](https://i.imgur.com/Jv4bLHd.gif)
 
-# Indices observationnels de la matière noire
+## Indices observationnels 
+
+### Galaxies
+
+- Les courbes de rotation des galaxies spirales : la vitesse orbitale est mesurée par le décalage Doppler de la raie à 21 cm de l’hydrogène.
+- Stabilité des disques de galaxies pour éviter la formation systématique de barres d’étoiles
+- ***Les galaxies naines sphéroïdales***  : Les galaxies naines sphéroïdales (dSph) sont les plus petites structures stellaires dont on peut inférer qu’elles contiennent de la matière noire (les amas globulaires n’en contiennent pas). Ces galaxies contiennent très peu de gaz interstellaire et ne forment plus de nouvelles étoiles depuis des milliards d’années. Elles sont donc très peu lumineuses. On les retrouve notamment autour des grosses galaxies. Ainsi, les galaxies satellites les moins lumineuses de la Voie Lactée et d’Andromède sont des naines sphéroïdales. Ces galaxies se distinguent par un ***rapport masse/luminosité*** extrêmement élevé par rapport à celui du Soleil (10 à 100 fois plus élevé), ce qui laisse suggérer que leur masse est très largement dominée par de la matière non lumineuse. Jusqu’à récemment, cette conclusion était soutenue par les valeurs anormalement élevées de dispersion interne de leurs étoiles pour des systèmes aussi stables (gravitationnellement parlant). On pensait donc que les naines sphéroïdales étaient enchâssées dans des sous-halos de matière noire qui protégeait leur structure contre les disruptions causées par les effets de marées de leur galaxie-hôte. Cela en faisait des sondes particulièrement importantes pour déterminer la nature de la matière noire : la mesure du nombre de naines sphéroïdales et de leur profil de densité pouvait en effet permettre de déterminer si la matière noire était froide (CDM prédit des cusps) ou tiède (WDM prédit des cores). Mais une étude publiée en 2018 par des chercheur.es de l’observatoire de Paris questionne ce scénario établi. En analysant la dynamique interne de 17 galaxies naines sphéroïdales autour de la Voie Lactée, ils ont en effet démontré que l’agitation désordonnée de leurs étoiles s’expliquait intégralement par l’attraction gravitationnelle de la Voie Lactée. Il n’y a donc pas besoin d’ajouter de la matière noire dans ces systèmes pour expliquer leurs propriétés dynamiques.
+
+### Amas de galaxies
 
 the idea that galaxies and
 galaxy clusters are embedded in massive dark matter halos
