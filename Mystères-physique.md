@@ -777,33 +777,12 @@ plus petites structures instables, qui forment
 ensuite les grandes structures par fusions
 successives
 
- Les simulations numériques de
-l’évolution de l’Univers avec les différents
-types de matière noire (fig. 4) ont montré
-que le modèle CDM, maintenant appelé
-modèle standard, est celui qui représente
-le mieux la formation des grandes struc-
-tures et explique toutes les observations du
-fond cosmologique micro-onde
-
 Do galaxies always contain dark matter? Since most of the dark
 matter is in the outskirts of a galaxy, possible exceptions would be
 galaxies that have been tidally stripped, and the dwarfs that might
 have formed by dissipative settling from tidal streams. Apart from
 such effects, dark halos are expected to be universal in the standard
-ΛCDM cosmology. There are possibly interesting challenges to this
-prediction. The large S0 galaxy NGC 3115 is in the field, which
-is unusual because most S0s at this luminosity are in clusters. If
-it has a dark matter halo with mass typical of its stellar mass then
-the halo of NGC 3115 must be much less dense than usual, the
-halo core radius much broader (Cappellari, Romanowsky, Brodie, et
-al. 2015). The low surface brightness satellites NGC1052-DF2 and
-NGC1052-DF4 of the elliptical NGC 1052 also look like exceptions.
-Keim, van Dokkum, Danieli, et al. (2022) argue that “the dark matter
-halo masses of these galaxies cannot be much greater than their
-stellar masses.” It is too soon to declare a challenge to the ΛCDM
-theory from the evidence of galaxies with little dark matter, but the
-development of the empirical evidence will be worth following
+ΛCDM cosmology. 
 
 ### Les principaux candidats à la matière noire
 
