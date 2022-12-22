@@ -678,50 +678,9 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 
 ### Nucléosynthèse primordiale
 
-- La théorie de la nucléosynthèse primordiale fournit une limite haute à la densité de matière baryonique dans l’univers. Quand on combine ces prédictions avec les données du CMB et de la dynamique des amas de galaxies, on arrive à la conclusion qu’il doit exister au moins 5 fois plus de matière dans l’univers que la quantité maximale de matière baryonique permise par la nucléosynthèse.
+- La théorie de la nucléosynthèse primordiale fournit une limite haute à la densité de matière baryonique dans l’univers. En effet, les abondances en deutérium et en hélium prédites par la théorie ne sont compatibles avec les observations que si la densité de matière baryonique  cosmique ne représente que 5 % de la ***densité critique*** (ie la densité de matière et d’énergie moyenne nécessaire pour que l’expansion de l’univers soit stoppée par la gravitation dans un futur infini). Quand on combine ces prédictions avec les données du CMB et de la dynamique des amas de galaxies, on arrive à la conclusion qu’il doit exister au moins 5 fois plus de matière dans l’univers que la quantité maximale de matière baryonique permise par la nucléosynthèse. 
 
-Jusqu’en 1980, pour la majorité des
-astronomes la matière noire devait être
-composée de matière ordinaire, donc de
-baryons. En 1984, il est définitivement
-établi que l’essentiel de la matière noire ne
-peut pas être de la matière baryonique,
-ceci pour deux raisons. La première est
-que l’abondance du deutérium et de
-l’hélium formés dans la nucléosynthèse
-primordiale n’est compatible avec les
-observations que si la fraction de baryons
-ne représente que 5% de la densité critique
-(la densité nécessaire pour arrêter
-l’expansion de l’Univers par sa gravité).
-D’autre part, la formation des structures
-dans l’Univers sous l’effet de la gravitation
-est très lente à cause de l’expansion, et la
-matière ordinaire, ionisée et très couplée
-avec les photons, prend du retard pour
-s’effondrer sous l’effet de la gravité. Si l’on
-attend que la température dans l’expansion
-tombe en-dessous de 3000 degrés, pour
-que l’hydrogène se recombine et que le
-gaz s’effondre, il n’y a plus assez de temps
-pour former les galaxies. Il est donc
-nécessaire de disposer de matière exotique,
-sans interactions avec la lumière, qui peut
-s’effondrer tôt après le Big-Bang, avant
-même que la matière ordinaire puisse le
-faire [7]. Le nom de cette matière devrait
-alors être matière transparente, plutôt que
-matière noire : les rayons lumineux la
-traversent !
-
-Dans notre galaxie, la Voie lactée,
-le besoin de masse supplémentaire ne se
-fait sentir qu’au-delà de la position du
-Soleil, qui est situé à 25 000 années-lumière
-du centre (soit la moitié du rayon du
-disque d’étoiles). 
-
-### Les principaux candidats à la matière noire
+## Les principaux candidats à la matière noire
 
 - ***Les axions***
 > L’existence de ces particules hypothétiques très peu massive (entre 1 et 1000 μeV) a été postulée en 1977 par Roberto Peccei et Helen Quinn comme solution d’une énigme du modèle standard : le ***problème CP fort***. Pour le comprendre, il faut revenir sur le concept de ***symétries de jauge***, qui est fondamental en physique des particules. Une symétrie de jauge, c’est une transformation qui laisse les propriétés d’un système physique inchangées, invariantes. Par exemple, si on tourne autour du centre d’une boule de billard, l’apparence de la boule reste inchangée. L’ensemble des rotations 3D possibles constituent donc les symétries de la boule. En physique des particules, il existe 3 transformations fondamentales : la ***symétrie C*** (conjugaison de charge), qui change le signe de la charge électrique et transforme une particule en son antiparticule, la ***symétrie P*** (transformation de parité), qui inverse toutes les coordonnées spatiales d’une particule, et la ***symétrie T*** (renversement du temps), qui inverse la flèche du temps. On peut combiner ces opérations pour créer d’autres types de symétries, comme la symétrie CP ou la symétrie CPT. Ainsi, en vertu de la symétrie CP, les particules et les antiparticules devraient obéir aux mêmes lois physiques. Autrement dit, matière et antimatière auraient dû être produits en quantités égales dans l’univers primordial. Pourtant, l’univers qu’on observe est indéniablement dominé par la matière, et l’antimatière est quasi-inexistante à l’échelle cosmique.  Cette victoire de la matière peut être expliquée en partie par la ***brisure de la symétrie CP***. Autrement dit, il y aurait des différences entre les lois qui régissent l’évolution de la matière et celles qui régissent l’antimatière. En 1964, une équipe de physiciens du laboratoire national de Brookhaven a mis en évidence expérimentalement que la symétrie CP pouvait être effectivement brisée dans le phénomène de désintégration du kaon, qui met en jeu l’interaction faible. Cette particule se désintègre en effet préférentiellement en positron plutôt qu’en électron. L’interaction faible brise donc la symétrie CP. Mais qu’en est-il de l’interaction forte ? Selon la ***chromodynamique quantique*** (la théorie qui décrit les interactions entre les quarks et les gluons qui composent les protons et les neutrons), celle-ci devrait aussi briser la symétrie CP. Or, toutes nos expériences nous montrent qu’elle semble malgré tout être préservée. Le problème CP fort consiste à se demander pourquoi les lois de la chromodynamique quantique préservent la symétrie CP. Pour résoudre ce problème, Peccei et Quinn ont postulé l’existence d’un nouveau champ quantique interagissant avec les gluons. Et les particules qui composent ce champ sont les fameux axions. Pourquoi axion ? En référence aux axes de symmétrie, mais aussi, de manière humoristique, à une marque de détergent. Frank Wilczek, qui a eu l’honneur de nommer cette particule, trouvait en effet que celle-ci permettait de « nettoyer » le problème. De nos jours, les axions font partie des candidats favoris des physicien.nes à la matière noire. Pour les détecter, ils se servent d’une étrange propriété de l’axion : lorsqu’il est  soumis à un fort champ magnétique, il se désintègre en paires de photons. On peut alors utiliser un instrument appelé ***haloscope*** pour détecter des axions du halo de matière noire galactique. Celui-ci est composé d’un électroaimant supraconducteur et d’une cavité résonnante qui amplifie le signal photonique (qui arrive dans le domaine des micro-ondes). Le plus célèbre de ces haloscopes est une expérience nommée ADMX (Axion Dark Matter eXperiment), construite à l’université de Washington. Cet instrument a permis de mieux contraindre la plage de masses de l’axion. Et en 2020, l’expérience XENON1T, située dans le laboratoire souterrain de San Grasso en Italie, aurait découvert les premiers indices sérieux de l’existence d’axions en provenance du Soleil. La découverte reste cependant à confirmer.
