@@ -529,7 +529,6 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [(Just can’t get enough) primordial black holes](https://astrobites.org/2018/02/13/just-cant-get-enough-primordial-black-holes/) - Astroites (2018)
 - [Exploring the high-redshift PBH-ΛCDM Universe: early black hole seeding, the first stars and cosmic radiation backgrounds](https://arxiv.org/abs/2109.08701) - Cappelluti et al (2021)
 - [Neutrinos Stériles et Matière Noire font Bon Ménage](https://www.ca-se-passe-la-haut.fr/2014/05/neutrinos-steriles-et-matiere-noire.html) - Ca se passe là-haut (2014)
-- [A History of Dark Matter](https://arxiv.org/abs/1605.04909) - Berton et Hooper (2016)
 - [WIMPs and MACHOs](https://sites.astro.caltech.edu/~george/ay20/eaa-wimps-machos.pdf) - ENCYCLOPEDIA OF ASTRONOMY AND ASTROPHYSICS (2002)
 - [Forget WIMPs, Axions And MACHOs: Could WIMPzillas Solve The Dark Matter Problem?](https://www.forbes.com/sites/startswithabang/2018/05/09/forget-wimps-axions-and-machos-could-wimpzillas-solve-the-dark-matter-problem/?sh=3a0cc9fc3a22) - Ethan Siegel
 - [Supersymmetry](https://home.cern/fr/science/physics/supersymmetry) - CERN
@@ -600,6 +599,20 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - [La dynamique interne des galaxies naines dirigée par les effets gravitationnels de la Voie Lactée et non par la matière noire](https://www.ca-se-passe-la-haut.fr/2018/06/la-dynamique-interne-des-galaxies.html) - Ca se passe là-haut (2018)  
 - [Galactic forces rule dynamics of Milky Way dwarf galaxies](https://arxiv.org/abs/1805.01469) - Hammer et al (2018)
 - [Plus besoin de matière sombre pour expliquer la dynamique des galaxies naines](https://www.observatoiredeparis.psl.eu/plus-besoin-de-matiere-sombre.html) - Observatoire de Paris (2018)
+- [The Bullet Cluster as Evidence against Dark Matter](http://backreaction.blogspot.com/2017/01/the-bullet-cluster-as-evidence-against.html) - Back Reaction (2017)
+- [Visible-light and x-ray composite image of galaxy cluster 1E 0657-556](https://esahubble.org/images/opo0639a/) - ESA
+- [L'amas de la Balle a-t-il tué MOND ?](http://lapth.cnrs.fr/pg-nomin/taillet/dossier_matiere_noire/matiere_noire4_bullet.php) - Richard Taillet
+- [ASTROPHYSICAL AND COSMOLOGICAL PROBES OF DARK MATTER](https://ned.ipac.caltech.edu/level5/March15/Roos/frames.html) - Roos (2012)
+- [Le rayonnement fossile](https://www.pourlascience.fr/sd/cosmologie/le-rayonnement-fossile-5110.php) - Pour la science (2003)
+- [Non-Baryonic Dark Matter: Observational Evidence and Detection Methods](https://core.ac.uk/download/pdf/25279293.pdf) - Bergstrom (2000)
+- [Big-Bang Nucleosynthesis and the Baryon Density of the Universe](https://www.jstor.org/stable/2885889) - Copi et al (1995)
+- [Intermediate Guide to the Acoustic Peaks and Polarization](http://background.uchicago.edu/~whu/intermediate/second.html) - Wayne Hu (2001)
+- [Dark matter universe](https://www.pnas.org/doi/10.1073/pnas.1516944112) - Bahcall (2015)
+- [A direct empirical proof of the existence of dark matter](https://arxiv.org/abs/astro-ph/0608407) - Clowe et al (2006)
+- [Structure formation in warm dark matter cosmologies: Top-Bottom Upside-Down](https://arxiv.org/abs/1506.03789) - Paduroiu et al (2015)
+- [Cold dark matter vs warm dark matter](http://star-www.dur.ac.uk/~csf/talks/talks_2015/cdm_vs_wdm_karlsruhe.pdf) - Slides de Carlos Frenk
+- [Dark Matter - Hot and Cold](http://burro.case.edu/Academics/Astr222/Cosmo/Structure/darkmatter.html) - Chris Mihos (2018)
+- [Is dark matter cold, warm or hot?](https://www.symmetrymagazine.org/article/is-dark-matter-cold-warm-or-hot) - Symmetry Magazine (2021) 
 
 ---
 
