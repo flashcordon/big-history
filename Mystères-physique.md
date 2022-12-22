@@ -732,44 +732,6 @@ Soleil, qui est situé à 25 000 années-lumière
 du centre (soit la moitié du rayon du
 disque d’étoiles). 
 
-Dans ce domaine, un outil s’est considé-
-rablement développé ces vingt dernières
-années : les lentilles gravitationnelles
-en règle générale,
-les images de toutes les galaxies d’arrière-
-plan sont déformées, allongées de façon
-minime, et c’est l’ensemble statistique de
-ces centaines ou milliers de déformations
-qui renseigne sur la quantité de matière
-noire. C’est le phénomène de lentille faible,
-ou cisaillement gravitationnel, qui permet
-de cartographier la matière invisible
-
-Les cartes de la matière noire obtenues
-ainsi, à l’échelle des amas de galaxies,
-correspondent dans la grande majorité des
-cas aux cartes de matière visible. Il existe
-pourtant des cas très intéressants de sépara-
-tion spatiale des deux matières : les collisions
-violentes entre sous-amas. Le prototype de
-ces collisions est l’amas dit du Boulet
-(photo p. 5). Trois sortes de matière sont
-représentées ici : les galaxies qui se com-
-portent comme un milieu sans collision, la
-matière noire cartographiée par les lentilles
-gravitationnelles, et un gaz très chaud, à des
-millions de degrés, qui émet des rayons X.
-Le gaz est dissipatif, il est stoppé entre les
-deux amas par l’onde de choc de la collision.
-Or dans les amas riches de galaxies, le gaz
-chaud contient l’essentiel de la masse visible.
-La matière visible ne coïncide plus avec la
-matière noire ! Celle-ci reste concentrée
-sur les galaxies. Cette séparation a permis
-de conclure à l’existence réelle de matière
-invisible, pouvant se déconnecter complè-
-tement de la matière ordinaire.
-
 dans les années 1980, les
 neutrinos ont été considérés comme can-
 didats à la matière noire, vu leur abondance
