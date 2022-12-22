@@ -668,20 +668,6 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 
 - La théorie de la nucléosynthèse primordiale fournit une limite haute à la densité de matière baryonique dans l’univers. Quand on combine ces prédictions avec les données du CMB et de la dynamique des amas de galaxies, on arrive à la conclusion qu’il doit exister au moins 5 fois plus de matière dans l’univers que la quantité maximale de matière baryonique permise par la nucléosynthèse.
 
-
-the idea that galaxies and
-galaxy clusters are embedded in massive dark matter halos
-was not widely discussed until the 1970’s. This changed
-with the influential, observationally based papers of Os-
-triker, Peebles and Yahil [4] and Einasto, Kaasik, Saar and
-Chernin [5] and with Ostriker and Peebles’ theoretical ar-
-gument that massive halos are required to stabilize spiral
-galaxy disks [6]. Within four years, a hierarchically merg-
-ing population of dark matter halos formed the basis for the
-galaxy formation scenario proposed by White and Rees [7],
-providing the gravitational potential wells within which
-gas cools and condenses to form galaxies. 
-
 Jusqu’en 1980, pour la majorité des
 astronomes la matière noire devait être
 composée de matière ordinaire, donc de
