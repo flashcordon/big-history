@@ -631,6 +631,16 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 
 ## Matière noire chaude, tiède ou froide ?
 
+- En 1983, à l’occasion d’une conférence, les astronomes Dick Bond et Joel Primack introduisent une terminologie pour classifier les modèles théoriques de matière noire en fonction de la vitesse des particules au moment où elles se découplent du plasma primordial, une propriété aisément modélisable par le biais de simulations numériques.
+> * La ***matière noire chaude*** (HDM) correspond à des particules dont la vitesse est proche de celle de la lumière. La masse de ces particules est de l’ordre de quelques eV. Exemple : le neutrino.
+> * La ***matière noire froide*** (CDM) correspond à des particules relativement lentes (non relativistes). La masse de ces particules se situe entre $10^{-5}$ eV et plus de 100 GeV. Exemples : le neutralino ou l’axion.
+> * La ***matière noire tiède*** (WDM) correspond à des particules aux vitesses intermédiaires (relativistes mais moins que la matière noire chaude). La masse de ces particules se situe entre le keV et le MeV. Exemple : le neutrino stérile.
+- En règle générale, la vitesse des particules de matière noire est corrélée à leur masse. À l’exception de l’axion, plus un candidat à la matière noire est léger, plus il est « chaud ».
+- Ces différents modèles de matière noire ont des impacts très différents sur la croissance des structures cosmiques.
+> * Les simulations de formation des structures avec de la matière noire chaude ont tendance à former des galaxies de manière « top down », c’est-à-dire par fragmentation d’immenses nuages de matière noire. Ce scénario a été invalidé dans les années 80 (cf White, Frenk, Davis 1983) car il donnait lieu à une distribution de matière à grande échelle très différente de celle observée dans les relevés astronomiques.
+> * Les simulations avec de la matière noire froide, au contraire, forment des structures de manière hiérarchique (« bottom-up »), par fusions successives de petits nuages. C’est aujourd’hui le scénario qui reproduit le mieux la distribution observée de la matière à grande échelle, malgré quelques problèmes (problème de la concentration du halo, problème des satellites manquants, problème des galaxies « trop grosses pour échouer »)
+> * Les simulations avec de la matière noire tiède produisent des structures qui naissent via une combinaison de processus top-down (fragmentation de grosses structures) et bottom-up (fusions de petites structures). Les structures de WDM ont des profils moins concentrés que celles générées par de la CDM, et sont entourées de moins de galaxies satellites.
+
 *Halo de matière noire d'une galaxie similaire à la Voie Lactée simulé avec de la matière noire froide (gauche) et avec de la matière noire tiède (droite). Crédit : [Lovell et al (2012)](https://arxiv.org/abs/1104.2929). [Source](https://link.springer.com/article/10.1007/s41115-021-00013-z#Fig15)*
 
 ![cdm_wdm](https://i.imgur.com/A1ZnIlj.jpg)
