@@ -650,6 +650,11 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 
 - ***L’amas de la balle*** : En 2006, une équipe d’astronomes menée par l’astronome américain Douglas Clowe a observé le résultat d’une collision spectaculaire entre deux amas de galaxies, une structure surnommée « Bullet cluster » (1E0657-56). Les deux amas se sontr traversés il y a bien longtemps à une vitesse de plus de 10 millions de km/h (3000 km/s). Quand on observe l’amas de la balle dans le domaine optique, on ne remarque rien d’inhabituel. Les amas de galaxies sont des structures si vastes que les galaxies des deux amas n’ont pas eu l’occasion d’entrer en collision (la distance typique entre deux galaxies est d’1 Mpc). Mais quand on l’observe dans le domaine des rayons X, c’est une autre composante de l’amas que l’on trace : le gaz intergalactique surchauffé (10-100 millions de degrés) qui domine la masse baryonique de la structure. Dans ces longueurs d’onde, une autre histoire émerge. Le gaz intergalactique des deux amas a été fortement ralenti par les forces de frottement (pression dynamique) et comprimé lors de la collision intergalactique, et les ondes de choc générées ont formé deux structures distinctes qui ressemblent à une balle de fusil ayant traversé un nuage. Mais le résultat le plus surprenant est encore à venir. À l’aide de ***l’effet de lentilles gravitationnel faible***, les astronomes ont pu cartographier le potentiel gravitationnel de cette structure et estimer sa masse totale. En superposant les deux cartes (rayons X et potentiel gravitationnel), ils ont alors remarqué que la majorité de la masse de l’amas ne se trouvait pas au même endroit que la distribution de matière baryonique (tracée par son émission de rayons X). Ce décalage spatial entre distribution de matière totale et baryonique s’explique très bien si l’on considère que la masse de l’amas de la balle est dominée par des particules de matière noire qui n’entrent pas en collision entre elles. Dans ce scénario, les galaxies et la matière noire des deux amas se seraient traversées sans être ralenties (parce que ces composantes sont non collisionnelles), tandis que les composantes gazeuses se seraient entrechoquées et auraient été ralenties lors de la rencontre. Pour Clowe et al, l’amas de la balle constituerait une « preuve empirique directe de l’existence de la matière noire » qui signerait la mort de l’approche de l’hypothèse MOND. Cependant, les chercheurs de l’approche MOND n’ont pas encore dit leur dernier mot, et affirment pouvoir interpréter (du moins en partie) ce type d’observations dans leur formalisme, par exemple en introduisant des neutrinos massifs.
 
+
+*Image composite de l'amas de la balle. Le gaz intergalactique chaud est en rose, et la distribution de matière noire en bleu. Crédit : X-ray: NASA/CXC/CfA/M.Markevitch, Optical and lensing map: NASA/STScI, Magellan/U.Arizona/D.Clowe, Lensing map: ESO WFI. [Source](https://www.esa.int/ESA_Multimedia/Images/2007/07/The_Bullet_Cluster2).*
+
+![bulletcluster](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/07/the_bullet_cluster2/10084622-2-eng-GB/The_Bullet_Cluster_pillars.jpg)
+
 ### Grandes structures
 
 - ***Simulations cosmologiques*** : Les simulations N-corps réalisées dans un univers sans matière noire ne reproduisent pas la structure filamenteuse de la distribution de matière à grande échelle  (toile cosmique) observés depuis les années 80 par les relevés astronomiques. À l’inverse, les simulations avec de la matière noire reproduisent avec une précision saisissante les propriétés statistiques observées des grandes structures cosmiques. 
@@ -851,27 +856,6 @@ halo masses of these galaxies cannot be much greater than their
 stellar masses.” It is too soon to declare a challenge to the ΛCDM
 theory from the evidence of galaxies with little dark matter, but the
 development of the empirical evidence will be worth following
-
-### L'amas de la balle (Bullet cluster)
-
-The combination of X-ray and gravitational lensing data for the`bullet cluster’
-1E0657-56 (a merger of two large clusters) confirms that dark matter is very
-different in nature from the bulk of normal, baryonic matter (X-ray emitting gas)
-
-X-ray emitting gas
-feels ram pressure
-whereas dark matter
-(and galaxies) pass
-through (at least
-relatively) unhindered.
-
-Consistent with weakly
-interacting, cold dark
-matter (CDM) paradigm
-
-*Image composite de l'amas de la balle. Le gaz intergalactique chaud est en rose, et la distribution de matière noire en bleu. Crédit : X-ray: NASA/CXC/CfA/M.Markevitch, Optical and lensing map: NASA/STScI, Magellan/U.Arizona/D.Clowe, Lensing map: ESO WFI. [Source](https://www.esa.int/ESA_Multimedia/Images/2007/07/The_Bullet_Cluster2).*
-
-![bulletcluster](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/07/the_bullet_cluster2/10084622-2-eng-GB/The_Bullet_Cluster_pillars.jpg)
 
 ### Les principaux candidats à la matière noire
 
