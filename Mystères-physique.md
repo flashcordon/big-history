@@ -619,6 +619,7 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - Pendant près d’une décennie, Rubin et Ford réitèrent leurs mesures sur un échantillon toujours plus élevé de galaxies spirales, et trouvent systématiquement des courbes de rotation plates. Ces courbes finissent par convaincre une grande partie de la communauté scientifique que les galaxies sont enchâssées dans un halo beaucoup plus vaste que sa contribution « lumineuse ». Ce halo serait fait d’une matière invisible qui constitue près de 90% de la masse totale de la galaxie. 
 - En 1978, Simon White et Martin Rees mettent la matière noire au centre de leur scénario de formation des galaxies. Les grandes lignes de ce scénario sont aujourd’hui à la base de notre compréhension moderne des galaxies.
 > Il s’agit d’un scénario en deux étapes : dans un premier temps, des halos de matière noire grandissent à partir des conditions de l’univers primordial, par effondrement gravitationnel. Dans un deuxième temps, la matière baryonique « tombe » dans les puits gravitationnels formés par les halos de matière noire, se condense en leur centre et se refroidit pour donner naissance à la composante lumineuse des galaxies.
+- Si l’on en croit le modèle standard (ΛCDM), on devrait trouver de la matière noire dans toutes les galaxies, à l’exception probable des « naines de marées », de petites galaxies produites par le biais des effets de marées à partir des longues queues de gaz nées lors de la fusion entre deux grosses galaxies.
 
 *Courbe de rotation de la galaxie d’Andromède. Crédit : Rubin et Ford (1970). [Source](https://www.researchgate.net/figure/Rotation-curve-of-M31-from-Rubin-Ford-1970-Rotational-velocities-for-OB_fig1_221915312)*
 ![rubinford70](https://i.imgur.com/nbnKRce.png)
@@ -631,13 +632,13 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 
 ## Matière noire chaude, tiède ou froide ?
 
-- En 1983, à l’occasion d’une conférence, les astronomes Dick Bond et Joel Primack introduisent une terminologie pour classifier les modèles théoriques de matière noire en fonction de la vitesse des particules au moment où elles se découplent du plasma primordial, une propriété aisément modélisable par le biais de simulations numériques.
+- En 1983, à l’occasion d’une conférence, les astronomes Dick Bond et Joel Primack introduisent une terminologie pour classifier les modèles théoriques de matière noire en fonction de la vitesse des particules au moment où elles se découplent du plasma primordial et où leur abondance est "gelée", une propriété aisément modélisable par le biais de simulations numériques.
 > * La ***matière noire chaude*** (HDM) correspond à des particules dont la vitesse est proche de celle de la lumière. La masse de ces particules est de l’ordre de quelques eV. Exemple : le neutrino.
 > * La ***matière noire froide*** (CDM) correspond à des particules relativement lentes (non relativistes). La masse de ces particules se situe entre $10^{-5}$ eV et plus de 100 GeV. Exemples : le neutralino ou l’axion.
 > * La ***matière noire tiède*** (WDM) correspond à des particules aux vitesses intermédiaires (relativistes mais moins que la matière noire chaude). La masse de ces particules se situe entre le keV et le MeV. Exemple : le neutrino stérile.
 - En règle générale, la vitesse des particules de matière noire est corrélée à leur masse. À l’exception de l’axion, plus un candidat à la matière noire est léger, plus il est « chaud ».
 - Ces différents modèles de matière noire ont des impacts très différents sur la croissance des structures cosmiques.
-> * Les simulations de formation des structures avec de la matière noire chaude ont tendance à former des galaxies de manière « top down », c’est-à-dire par fragmentation d’immenses nuages de matière noire. Ce scénario a été invalidé dans les années 80 (cf White, Frenk, Davis 1983) car il donnait lieu à une distribution de matière à grande échelle très différente de celle observée dans les relevés astronomiques.
+> * Les simulations cosmologiques avec de la matière noire chaude ont tendance à former des structures cosmiques de manière « top down », c’est-à-dire par fragmentation d’immenses nuages de matière noire. Ce scénario a été invalidé dans les années 80 (cf White, Frenk, Davis 1983) car il donnait lieu à une distribution de matière à grande échelle très différente de celle observée dans les relevés astronomiques.
 > * Les simulations avec de la matière noire froide, au contraire, forment des structures de manière hiérarchique (« bottom-up »), par fusions successives de petits nuages. C’est aujourd’hui le scénario qui reproduit le mieux la distribution observée de la matière à grande échelle, malgré quelques problèmes (problème de la concentration du halo, problème des satellites manquants, problème des galaxies « trop grosses pour échouer »)
 > * Les simulations avec de la matière noire tiède produisent des structures qui naissent via une combinaison de processus top-down (fragmentation de grosses structures) et bottom-up (fusions de petites structures). Les structures de WDM ont des profils moins concentrés que celles générées par de la CDM, et sont entourées de moins de galaxies satellites.
 
@@ -712,87 +713,12 @@ alors être matière transparente, plutôt que
 matière noire : les rayons lumineux la
 traversent !
 
-Aujourd’hui, les observations ont énor-
-mément progressé, et nous avons un
-recensement détaillé des régions de
-l’Univers où il manque de la masse, i.e. où
-la masse dynamique est supérieure à la masse
-visible. Au niveau des galaxies massives
-(voir l’encadré), la matière noire apparaît
-surtout dans leurs régions extérieures,
-comme un halo entourant le système
-visible. Dans notre galaxie, la Voie lactée,
+Dans notre galaxie, la Voie lactée,
 le besoin de masse supplémentaire ne se
 fait sentir qu’au-delà de la position du
 Soleil, qui est situé à 25 000 années-lumière
 du centre (soit la moitié du rayon du
 disque d’étoiles). 
-
-dans les années 1980, les
-neutrinos ont été considérés comme can-
-didats à la matière noire, vu leur abondance
-dans l’Univers, presque comparable à celle
-des photons. Il suffirait que leur masse soit
-le dix millionième de la masse de l’électron
-pour représenter toute la matière noire.
-Aujourd’hui la masse des neutrinos est
-estimée à 25 fois moins, et ne constituerait
-donc que 4% de la matière noire tout au plus.
-De toute façon, les simulations numériques
-des années 1980-90 montraient clairement
-que les neutrinos ne pouvaient pas constituer
-toute la matière noire, car faisant partie de
-la matière noire « chaude ». En effet, dès
-le changement de paradigme de 1984 sur
-la nature de la matière noire, les divers
-candidats peuvent être classés selon leur
-« température ». Le caractère « chaud » ou
-« froid » repose sur le critère de la vitesse
-moyenne qu’ont les particules lorsqu’elles
-se découplent du plasma primitif, où photons,
-baryons et matière noire sont en équilibre.
-Selon que les particules sont relativistes ou
-non lorsqu’elles se découplent de la soupe
-primitive juste après le Big-Bang, on parle
-de matière noire chaude (Hot Dark Matter
-ou HDM), ou de matière noire froide
-(Cold Dark Matter ou CDM). Les neutrinos
-font clairement partie de la première caté-
-gorie (HDM), même si aujourd’hui ils
-sont complètement ralentis et ne sont
-restés relativistes que durant les premiers
-3-4% de l’âge de l’Univers. La conséquence
-de leur vitesse relativiste est que ces particules
-trop chaudes vont empêcher les fluctuations
-de matière à petite échelle de se concentrer
-sous l’effet de leur propre gravité. En effet,
-les particules de matière noire chaude par-
-courent pratiquement les mêmes distances
-que les photons : elles ont un libre parcours
-moyen presque égal à l’horizon(a), et leur
-« pression » stabilise la matière sur les échelles
-inférieures. Aux échelles supérieures, la
-matière pourra s’effondrer sous l’influence
-de sa propre gravité. Les structures de
-taille inférieure devront alors se former par
-fragmentation, dans un schéma top-down,
-du haut vers le bas.
-Ce schéma ne correspond pas aux
-observations, notamment le spectre de
-masse des galaxies aux différents âges de
-l’Univers, qui favorisent le schéma
-contraire bottom-up, ou hiérarchique. Les
-premières structures à se former sont les
-plus petites structures instables, qui forment
-ensuite les grandes structures par fusions
-successives
-
-Do galaxies always contain dark matter? Since most of the dark
-matter is in the outskirts of a galaxy, possible exceptions would be
-galaxies that have been tidally stripped, and the dwarfs that might
-have formed by dissipative settling from tidal streams. Apart from
-such effects, dark halos are expected to be universal in the standard
-ΛCDM cosmology. 
 
 ### Les principaux candidats à la matière noire
 
