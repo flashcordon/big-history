@@ -12,6 +12,7 @@
 - [La tension de Hubble](#La-tension-de-Hubble)
 - [L'asymétrie entre matière et antimatière](#Lasymétrie-entre-matière-et-antimatière)
 - [La nucléosynthèse primordiale](#La-nucléosynthèse-primordiale)
+- [La croissance des trous noirs supermassifs](#La-croissance-des-trous-noirs-supermassifs)
 
 # Le modèle standard de la cosmologie
 
@@ -1363,3 +1364,15 @@ logical in origin.
 - L'hydrogène représente 63 % des atomes et 10 % de la masse du corps humain. Ces atomes sont aussi vieux que le cosmos !
 - 99 % des atomes de la voie lactée sont de l’hydrogène (90%) et de l’hélium (9%). En masse : Hydrogène 70 %, Hélium 28 % 
 - ***Note sur les temps utilisés dans l'univers primordial*** : Les repères temporels mentionnés ci-dessus dépendent des modèles. La grandeur la plus fiable pour calculer l'évolution des grandeurs quand on fait de la cosmologie primordiale c'est la température de l'univers.
+
+# La croissance des trous noirs supermassifs
+
+*Sources*
+
+- [Supermassive black holes in the early universe](https://www.tandfonline.com/doi/full/10.1080/00107514.2019.1615715?scroll=top&needAccess=true&role=tab) - Smith et Bromm (2019)
+- [Origin of supermassive black holes](https://arxiv.org/abs/0709.0070) - Dokuchaev et al (2007)
+- [Titans of the Early Universe: The Prato Statement on the Origin of the First Supermassive Black Holes](https://arxiv.org/abs/1810.12310) - Woods et al (2018)
+- [Formation and growth of the first supermassive black holes](https://www.theses.fr/2017PA066386) - Thèse de Tilman Hartwig (2017)
+- [The Assembly of the First Massive Black Holes](https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-120419-014455) - Inayoshi et al (2020)
+
+---
