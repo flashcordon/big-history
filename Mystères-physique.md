@@ -1377,7 +1377,7 @@ logical in origin.
 - [Breaking the limit: Super-Eddington accretion onto black holes and neutron stars](https://arxiv.org/abs/1903.06844) - Brightman et al (2019)
 - [The extremes of accretion : understanding super-Eddington accretion and feedback phenomena in Ultraluminous X-ray Sources](https://theses.hal.science/tel-03689746/) - Thèse de Andrés Gúrpide Lasheras (2022)
 - [Supermassive Black Holes with High Accretion Rates in Active Galactic Nuclei. IX. 10 New Observations of Reverberation Mapping and Shortened Hβ Lags](https://iopscience.iop.org/article/10.3847/1538-4357/aaae6b) - Du et al (2018)
-- [](https://www.pourlascience.fr/sd/astrophysique/un-univers-de-disques-1384.php) - Pour la Science
+- [Un univers de disques](https://www.pourlascience.fr/sd/astrophysique/un-univers-de-disques-1384.php) - Pour la Science (2004)
 
 ---
 
