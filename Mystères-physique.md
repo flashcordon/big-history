@@ -1379,6 +1379,7 @@ logical in origin.
 - [Supermassive Black Holes with High Accretion Rates in Active Galactic Nuclei. IX. 10 New Observations of Reverberation Mapping and Shortened Hβ Lags](https://iopscience.iop.org/article/10.3847/1538-4357/aaae6b) - Du et al (2018)
 - [Un univers de disques](https://www.pourlascience.fr/sd/astrophysique/un-univers-de-disques-1384.php) - Pour la Science (2004)
 - [Revealing the Origin and Cosmic Evolution of Supermassive Black Holes](https://arxiv.org/abs/1910.06346) - Woods et al (2019)
+- [Observational evidence for intermediate-mass black holes](https://arxiv.org/abs/1705.09667) - Mezcua (2017)
 
 ---
 
@@ -1404,6 +1405,6 @@ logical in origin.
 > * Le JWST va notamment pouvoir détecter les traces des premiers SMBH, et va notamment être utilisé pour chercher des potentiels DCBHs.
 > * On estime qu’1 % des fusions de trous noirs détectés par LIGO pourraient provenir des rémanents des premières étoiles. Le développement de l’astronomie multi-messagers pourra donc contribuer à notre compréhension de ces objets.
 
-*Scénarios possibles de formation de trous noirs supermassifs. Crédit : [Woods et al (2019)](https://arxiv.org/abs/1910.06346)*
+*Scénarios possibles de formation de trous noirs supermassifs. Crédit : [Mezcua 2017](https://arxiv.org/abs/1705.09667)*
 
 ![pathwaysSMBH](https://i.imgur.com/BsjYHQe.png)
