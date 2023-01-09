@@ -1381,7 +1381,7 @@ logical in origin.
 
 ---
 
-- Il existe une grande variété de trous noirs dans l’univers. Certains peuvent être théoriquement aussi légers que la masse de Planck ($10^{-8}$ kg), tandis que d’autres peuvent atteindre plusieurs dizaines de milliards de masses solaires. Astrophysiquement parlant, on distingue 3 types de trous noirs en fonction de leur masse :
+- Il existe une grande variété de trous noirs dans l’univers. Certains peuvent être théoriquement aussi légers que la masse de Planck ( $10^{-8}$ kg), tandis que d’autres peuvent atteindre plusieurs dizaines de milliards de masses solaires. Astrophysiquement parlant, on distingue 3 types de trous noirs en fonction de leur masse :
 > * ***Les trous noirs stellaires*** : entre 3 et 100 masses solaires
 > * ***Les trous noirs intermédiaires*** (IMBH) : entre 100 et $10^{5}$ masses solaires
 > * ***Les trous noirs supermassifs*** (SMBH) : entre $10^6$ et $10^{10}$ masses solaires
