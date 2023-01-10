@@ -980,6 +980,17 @@ spacetime structure of the Universe.
 
 *Sources*
 
+- [Inflationary Cosmology: From Theory to Observations](https://arxiv.org/abs/1810.09934) - Alberto Vazquez et al (2018)
+- [Introductory review of cosmic inflation](https://arxiv.org/abs/hep-ph/0304257) – Tsujikawa (2003)
+- [A review on cosmic inflation](http://www.ijcrar.com/abstractview.php?ID=329&vol=5-5-2017&SNo=6) - Sapkota et Adhikari (2017)
+- [Ask Ethan: How Well Has Cosmic Inflation Been Verified?](https://www.forbes.com/sites/startswithabang/2019/05/11/ask-ethan-how-well-has-cosmic-inflation-been-verified/?sh=146398421d07) – Ethan Siegel (2019)
+- [Inflation and the Cosmic Microwave Background](https://arxiv.org/abs/astro-ph/0305179) - Lineweaver (2003)
+- [Inflation et physique des particules](https://cosmology.education/inflation/#!) - Lucas Gautheron
+- [Inflationary universe: A possible solution to the horizon and flatness problems](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.23.347) - Guth (1981)
+- The Inflationary Universe: The Quest for a New Theory of Cosmic Origins. Alan Guth (Vintage, 1998)
+- [Eternal Inflation](https://arxiv.org/abs/astro-ph/0101507) – Guth (2001)
+- [Inflation and the New Era of High-Precision Cosmology](https://physics.mit.edu/wp-content/uploads/2021/01/physicsatmit_02_cosmology.pdf) - Guth (2002)
+
 ---
 
 # Le problème de la hiérarchie
