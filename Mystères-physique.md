@@ -974,6 +974,14 @@ spacetime structure of the Universe.
 
 # L'inflation cosmique
 
+*Sources*
+
+---
+
+*Spectre de puissance du CMB. Crédit : NASA / WMAP science team. [Source](https://wmap.gsfc.nasa.gov/mission/sgoals_parameters_spect.html)*
+
+![CMBanisotropiesWMAP](https://wmap.gsfc.nasa.gov/media/070950/070950b.jpg)
+
 # Le problème de la hiérarchie
 
 *Sources*
