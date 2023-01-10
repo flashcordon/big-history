@@ -690,6 +690,10 @@ Both direct detection experiments and the Fermi satellite begin to exclude parts
 - ***Les anisotropies du CMB*** : L’amplitude des fluctuations de température du CMB est incroyablement faible (de l’ordre de $10^{-5}$ ). Si l’intégralité de la matière de l’univers était baryonique, les fluctuations observées dans le CMB n’auraient pas eu le temps de former toutes les structures à grandes échelles que l’on observe dans l’univers. En effet, avant l’époque de la recombinaison, la matière baryonique était chargée électriquement et les forces électrostatiques empêchaient cette dernière de former des amas suffisamment denses. La matière noire étant électriquement neutre, elle ne faisait pas face à cette contrainte et pouvait donc former des proto-structures dans lesquelles la matière baryonique allait pouvoir « tomber » plus tard, après la recombinaison. Dans un univers sans matière noire, le CMB aurait dû présenter des fluctuations de températures 10 fois plus grandes que celles qu’on observe (ie de l’ordre de $10^{-4}$ ) pour permettre l’existence des grandes structures cosmiques.
 - ***Les paramètres cosmologiques*** : l’analyse statistique des fluctuations du CMB permettent aussi d’obtenir une estimation des paramètres cosmologiques. On se sert pour cela du ***spectre de puissance du CMB***, une représentation graphique de l'amplitude des variations de température en fonction de leur diamètre (angulaire) apparent sur la sphère céleste. La position des différents pics du spectre de puissance (en particulier du premier) est compatible avec un univers géométriquement plat (ie un univers où les rayons de lumière parallèles entre eux sont toujours parallèles au fil de leur trajet). La hauteur des autres pics du spectre de puissance nous renseigne quant à elle sur la densité de matière baryonique (2e pic) et sur la densité de matière totale (tous les autres pics). Quand on estime ces deux quantités dans le cadre du modèle ΛCDM, on se rend compte qu’elles sont très différentes, ce qui ce qui est un indice solide du fait que le contenu matériel de l’univers est dominé par la matière noire. Le spectre de puissance issus des données du satellite Planck (2018) est parfaitement interprété dans le cadre de ΛCDM dans lequel la matière baryonique représente environ 5 % de la densité énergétique totale de l’univers et la matière noire 26,8 %.
 
+*Spectre de puissance du CMB. Crédit : NASA / WMAP science team. [Source](https://wmap.gsfc.nasa.gov/mission/sgoals_parameters_spect.html)*
+
+![CMBanisotropiesWMAP](https://wmap.gsfc.nasa.gov/media/070950/070950b.jpg)
+
 ### Nucléosynthèse primordiale
 
 - La théorie de la nucléosynthèse primordiale fournit une limite haute à la densité de matière baryonique dans l’univers. En effet, les abondances en deutérium et en hélium prédites par la théorie ne sont compatibles avec les observations que si la densité de matière baryonique  cosmique ne représente que 5 % de la ***densité critique*** (ie la densité de matière et d’énergie moyenne nécessaire pour que l’expansion de l’univers soit stoppée par la gravitation dans un futur infini). Quand on combine ces prédictions avec les données du CMB et de la dynamique des amas de galaxies, on arrive à la conclusion qu’il doit exister au moins 5 fois plus de matière dans l’univers que la quantité maximale de matière baryonique permise par la nucléosynthèse. 
@@ -977,10 +981,6 @@ spacetime structure of the Universe.
 *Sources*
 
 ---
-
-*Spectre de puissance du CMB. Crédit : NASA / WMAP science team. [Source](https://wmap.gsfc.nasa.gov/mission/sgoals_parameters_spect.html)*
-
-![CMBanisotropiesWMAP](https://wmap.gsfc.nasa.gov/media/070950/070950b.jpg)
 
 # Le problème de la hiérarchie
 
