@@ -990,6 +990,14 @@ spacetime structure of the Universe.
 - The Inflationary Universe: The Quest for a New Theory of Cosmic Origins. Alan Guth (Vintage, 1998)
 - [Eternal Inflation](https://arxiv.org/abs/astro-ph/0101507) – Guth (2001)
 - [Inflation and the New Era of High-Precision Cosmology](https://physics.mit.edu/wp-content/uploads/2021/01/physicsatmit_02_cosmology.pdf) - Guth (2002)
+- [Inflation: Theory and Observations](https://arxiv.org/abs/2203.08128) – Achucarro et al (2022)
+- [What is the Inflation Theory?](https://wmap.gsfc.nasa.gov/universe/bb_cosmo_infl.html) - NASA
+- [Cosmologie (A)](https://encyclo-philo.fr/item/1683) – L’Encyclopédie philosophique
+- [Du nouveau sur l'existence des mythiques monopôles magnétiques](https://www.futura-sciences.com/sciences/actualites/physique-nouveau-existence-mythiques-monopoles-magnetiques-44601/) - Futura Sciences (2022)
+- [ATLAS, à la recherche des monopôles magnétiques](https://home.cern/fr/news/news/physics/atlas-homes-magnetic-monopoles) - CERN
+- [Magnetic monopoles in field theory and cosmology](https://royalsocietypublishing.org/doi/10.1098/rsta.2011.0394) – Rajantie (2012)
+- [The Friedmann Equation and the Fate of the Universe](https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Big_Ideas_in_Cosmology_(Coble_et_al.)/17%3A_Dark_Energy_and_the_Fate_of_the_Universe/17.03%3A_The_Friedmann_Equation_and_the_Fate_of_the_Universe) – Libretexts Physics
+- [Geometry of the Universe ](https://map.gsfc.nasa.gov/media/990006/index.html) - NASA
 
 ---
 
