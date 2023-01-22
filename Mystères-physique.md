@@ -13,6 +13,7 @@
 - [L'asymétrie entre matière et antimatière](#Lasymétrie-entre-matière-et-antimatière)
 - [La nucléosynthèse primordiale](#La-nucléosynthèse-primordiale)
 - [La croissance des trous noirs supermassifs](#La-croissance-des-trous-noirs-supermassifs)
+- [L'ajustement fin de l'univers](#Lajustement-fin-de-lunivers)
 
 # Le modèle standard de la cosmologie
 
@@ -1444,7 +1445,7 @@ logical in origin.
 
 ![pathwaysSMBH](https://i.imgur.com/BsjYHQe.png)
 
-## L'ajustement fin
+# L'ajustement fin de l'univers
 
 *Sources*
 
