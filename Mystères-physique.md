@@ -1443,3 +1443,13 @@ logical in origin.
 *Scénarios possibles de formation de trous noirs supermassifs. Crédit : [Mezcua 2017](https://arxiv.org/abs/1705.09667)*
 
 ![pathwaysSMBH](https://i.imgur.com/BsjYHQe.png)
+
+## L'ajustement fin
+
+*Sources*
+
+- [Fine-tuning](https://plato.stanford.edu/archives/fall2017/entries/fine-tuning/) - Stanford Encyclopedia of Philosophy
+
+---
+
+
