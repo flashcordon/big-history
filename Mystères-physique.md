@@ -1450,6 +1450,8 @@ logical in origin.
 *Sources*
 
 - [Fine-tuning](https://plato.stanford.edu/archives/fall2017/entries/fine-tuning/) - Stanford Encyclopedia of Philosophy
+- [In What Sense Is the Early Universe Fine-Tuned?](https://authors.library.caltech.edu/47263/1/1406.3057v1.pdf) - Carroll (2014)
+- [The Fine-Tuning Argument](https://core.ac.uk/download/pdf/33752944.pdf) - Landsman (2015)
 
 ---
 
