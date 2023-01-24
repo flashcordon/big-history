@@ -1010,6 +1010,15 @@ spacetime structure of the Universe.
 > * ***L’origine de l’expansion cosmique*** : le modèle du Big Bang ne dit rien de la « pichenette initiale » qui aurait lancé les galaxies sur leur course actuelle.
 - Il faut noter que tous ces problèmes sont résolus si l’on considère que ces propriétés particulières sont des conditions initiales de l’histoire de l’univers. Autrement dit, l’univers aurait débuté son histoire en expansion, parfaitement plat, avec la même température partout et avec les germes des grandes structures à venir. « C’est comme ça, un point c’est tout ». Mais de telles considérations ne sont pas satisfaisantes pour la majorité des scientifiques.
 
+## Solutions aux problèmes du Big Bang
+
+- Le scénario inflationnaire fournit une solution au problème des monopoles :
+> Selon les théories de grande unification, les monopoles magnétiques auraient été générés durant l’ère de grande unification. Or, durant l’inflation, l’univers se retrouve incroyablement dilué. La densité des monopoles magnétiques (et d’autres particules « reliques ») diminue alors très rapidement et devient négligeable. Et au moment du réchauffement, la température ambiante n’est plus assez élevée pour générer de nouveaux monopoles. C’est pour cela qu’on n’en trouve plus aujourd’hui.
+- L’inflation résout aussi le problème de l’horizon :
+> La région de l’espace qui correspond aujourd’hui à notre univers observable se trouvait dans un état d’équilibre thermique AVANT l’inflation. Puis, lors de l’inflation, des points initialement très proches les uns des autres (et donc en contact thermique) ont été envoyés à des distances si grandes qu’ils n’ont plus été capable d’échanger de l’information. De fait, l’homogénéité de notre univers observable est préservée. Pour fournir une solution viable au problème de l’horizon, on peut calculer que les dimensions de l’univers ont dû être multipliées au moins par un facteur $10^{30}$ pendant la période inflationnaire (60 e-folds).
+- L’inflation résout également le problème de la courbure :
+> Si une région de l’espace donnée se dilate suffisamment rapidement pendant la période inflationnaire, elle finira par prendre une taille beaucoup plus grande que l’univers observable (le facteur d’échelle augmente de manière exponentielle tandis que le rayon de Hubble reste quasi-constant), et sa géométrie finira forcément par nous apparaître plate localement, de la même façon qu’une fourmi posée sur un ballon de baudruche qui enfle jusqu’à prendre la taille de la Terre ne verra plus la courbure de la sphère sur laquelle elle se trouve. Dans le scénario inflationnaire, quelle que soit la valeur de $\Omega$ avant l’inflation, il finira par tendre vers 1 à la fin de cette période. Pour fournir une solution viable au problème de la courbure, on peut calculer que les dimensions de l’univers ont dû être multipliées au moins par un facteur $10^{30}$ pendant la période inflationnaire (60 e-folds).
+
 # Le problème de la hiérarchie
 
 *Sources*
