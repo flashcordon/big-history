@@ -999,6 +999,19 @@ spacetime structure of the Universe.
 - [Magnetic monopoles in field theory and cosmology](https://royalsocietypublishing.org/doi/10.1098/rsta.2011.0394) – Rajantie (2012)
 - [The Friedmann Equation and the Fate of the Universe](https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Big_Ideas_in_Cosmology_(Coble_et_al.)/17%3A_Dark_Energy_and_the_Fate_of_the_Universe/17.03%3A_The_Friedmann_Equation_and_the_Fate_of_the_Universe) – Libretexts Physics
 - [Geometry of the Universe ](https://map.gsfc.nasa.gov/media/990006/index.html) - NASA
+- [Inflation](https://sites.astro.caltech.edu/~ccs/Ay21/guth_inflation.pdf) – Guth (2004)
+- [Une fantastique inflation](https://www.cnrs.fr/cw/dossiers/dosbig/decouv/xchrono/inflat/niv1_1.htm) - CNRS
+- [Inflation et nouveaux paradigmes](https://podcastfichiers.college-de-france.fr/combes-20170130.pdf) – Slides de Françoise Combes (2017)
+- [The Inflationary Universe](https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book%3A_Astronomy_(OpenStax)/29%3A_The_Big_Bang/29.06%3A_The_Inflationary_Universe) – Libretext Physics
+- [Inflation for beginners](http://www.lifesci.sussex.ac.uk/home/John_Gribbin/cosmo.htm) - Gribbin
+- [Cosmology and particle physics Lecture notes](https://www.lehigh.edu/~tiw419/files/2019S-Lecture-09.pdf) -  Timm Wrase
+- [chaotic cosmic inflation](https://ncatlab.org/nlab/show/chaotic+cosmic+inflation) - nLab
+- [Inflationary Theory versus Ekpyrotic/Cyclic Scenario](http://de.arxiv.org/abs/hep-th/0205259) – Linde (2002)
+- [Chaotic Inflation](https://linkinghub.elsevier.com/retrieve/pii/0370269383908377) - Linde (1983).
+- [Cosmology](https://pages.aip.de/pfrommer/Lectures/cosmology.pdf) – Cours de Matthias Bartelmann 
+- [The Horizon Problem](https://iopscience.iop.org/article/10.1088/1742-6596/1269/1/012017/pdf) - Si Lakhal et Guezmir (2017)
+- [Birth of inflationary universes](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.27.2848) – Vilenkin (1983) 
+- [Eternal inflation and its implications](https://arxiv.org/abs/hep-th/0702178) - Guth (2007) 
 
 ---
 
