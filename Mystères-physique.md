@@ -1025,6 +1025,7 @@ spacetime structure of the Universe.
 - [Et l’inflation fut](https://unesdoc.unesco.org/ark:/48223/pf0000122630_fre) -  Andrei Linde, le courrier de l’UNESCO (2001)
 - [Natural Inflation](https://lib-extopc.kek.jp/preprints/PDF/2000/0036/0036503.pdf) – Steinhardt (1983)
 - [The birth of inflationary universes](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.27.2848) - Vilenkin (1983)
+- [Inflation cosmologique et théorie des cordes : aspects multichamps et non-gaussianités primordiales](https://theses.hal.science/tel-00724157/document) – Thèse de Sébastien Renaux-Pétel (2010)
 
 ---
 
