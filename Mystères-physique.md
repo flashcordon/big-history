@@ -1035,6 +1035,9 @@ spacetime structure of the Universe.
 > L’inflaton était parcouru d’infimes fluctuations de densité d’énergie appelées ***fluctuations quantiques***, qui se produisent spontanément, à la manière de la désintégration radioactive d’un atome (ie elles ne sont pas causées par un phénomène antérieur). D’ordinaire, ces vaguelettes aléatoires sont évanescentes. Mais l’inflation a rapidement étiré ces fluctuations microscopiques à des échelles beaucoup plus vastes, et a figé leur empreinte dans l’espace. Ces fluctuations quantiques hypertrophiées ont introduit des grumeaux dans la soupe cosmique primordiale. À terme, ces grumeaux ont permis à la gravitation de structurer l’échafaudage du cosmos à grande échelle. Les propriétés statistiques des grumeaux prédites par le scénario inflationnaire (spectre de puissance quasi invariant d’échelle) correspondent aux propriétés des anisotropies de température observées du CMB.
 - L’inflation ne résout pas tous les problèmes de la cosmologie contemporaine non plus. Ainsi, il ne dit rien sur l’origine de l’inflaton, ni sur l’état de l’univers avant l’inflation.
 
+*Représentation schématique de l’inflation éternelle. Crédit : Jared Schneidman. [Source]( https://briankoberlein.com/blog/boltzmanns-brain/)*
+![inflation-eternelle]( https://i.imgur.com/70UL7S4.jpg)
+
 # Le problème de la hiérarchie
 
 *Sources*
