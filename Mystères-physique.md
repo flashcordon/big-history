@@ -1059,6 +1059,12 @@ spacetime structure of the Universe.
 - On ne sait pas combien de temps a pu durer la période inflationnaire. A minima, elle a pu démarrer à ***l’ère de Planck*** ( $10^{-43}$ s après le Big Bang). On pense qu’elle a eu lieu à ***l’ère de grande unification*** ( $10^{-35}$ s après le Big Bang) et qu’elle s’est probablement terminée vers $10^{-32}$ s après le Big Bang.
 - Il existe à l’heure actuelle plus de 200 modèles d’inflation cosmique, mais aussi des scénarios alternatifs à l’inflation, comme les scénarios du ***pré-Big Bang*** et les ***modèles cycliques / ekpyrotiques***, mais ces derniers requièrent un ajustement fin de leurs paramètres libres pour résoudre les problèmes du Big Bang. 
 
+*Comparaison entre l’ancienne et la nouvelle inflation. Crédit : inconnu. [Source](https://antimatter.ie/2009/03/18/the-mechanism-of-inflation/)*
+![old-vs-new-inflation](https://i.imgur.com/90DWC1n.jpg)
+
+*Représentation schématique de l’inflation éternelle. Crédit : Jared Schneidman. [Source]( https://briankoberlein.com/blog/boltzmanns-brain/)*
+![inflation-eternelle]( https://i.imgur.com/70UL7S4.jpg)
+
 ## Solutions aux problèmes du Big Bang
 
 - Le scénario inflationnaire fournit une solution au problème des monopoles :
@@ -1071,8 +1077,11 @@ spacetime structure of the Universe.
 > L’inflaton était parcouru d’infimes fluctuations de densité d’énergie appelées ***fluctuations quantiques***, qui se produisent spontanément, à la manière de la désintégration radioactive d’un atome (ie elles ne sont pas causées par un phénomène antérieur). D’ordinaire, ces vaguelettes aléatoires sont évanescentes. Mais l’inflation a rapidement étiré ces fluctuations microscopiques à des échelles beaucoup plus vastes, et a figé leur empreinte dans l’espace. Ces fluctuations quantiques hypertrophiées ont introduit des grumeaux dans la soupe cosmique primordiale. À terme, ces grumeaux ont permis à la gravitation de structurer l’échafaudage du cosmos à grande échelle. Les propriétés statistiques des grumeaux prédites par le scénario inflationnaire (spectre de puissance quasi invariant d’échelle) correspondent aux propriétés des anisotropies de température observées du CMB.
 - L’inflation ne résout pas tous les problèmes de la cosmologie contemporaine non plus. Ainsi, il ne dit rien sur l’origine de l’inflaton, ni sur l’état de l’univers avant l’inflation.
 
-*Représentation schématique de l’inflation éternelle. Crédit : Jared Schneidman. [Source]( https://briankoberlein.com/blog/boltzmanns-brain/)*
-![inflation-eternelle]( https://i.imgur.com/70UL7S4.jpg)
+*Evolution de la taille de l’univers observable, avec et sans ajout du scénario inflationnaire. Crédit : Roen Kelly, d’après Alan Guth. [Source](https://astronomy.com/magazine/news/2021/01/the-beginning-to-the-end-of-the-universe-inflating-the-universe)*
+![radius-observable-inflation](https://i.imgur.com/qBaFbeR.jpg)
+
+*Illustration de la résolution du problème de la courbure. Crédit : Physics Libretext. [Source](https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book%3A_Astronomy_(OpenStax)/29%3A_The_Big_Bang/29.06%3A_The_Inflationary_Universe)*
+![fourmi](https://i.imgur.com/lgC8OkU.jpg)
 
 # Le problème de la hiérarchie
 
