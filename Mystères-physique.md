@@ -1014,7 +1014,7 @@ spacetime structure of the Universe.
 - [Eternal inflation and its implications](https://arxiv.org/abs/hep-th/0702178) - Guth (2007) 
 - [Eternal inflation and its implications](https://arxiv.org/abs/hep-th/0702178) – Linde (2007)
 - [Graceful exit problem (cosmology)](https://en.wikipedia.org/wiki/Graceful_exit_problem_(cosmology)) - Wikipédia
-- [Eternal Inflation, Multiverse and the Measure Problem - DESY THEORY WORKSHOP SEMINAR]-https://indico.desy.de/event/34374/attachments/75767/97426/Eternal_Inflation_Workshop_Seminar.pdf) - Koschnitzke  (2022)
+- [Eternal Inflation, Multiverse and the Measure Problem - DESY THEORY WORKSHOP SEMINAR](https://indico.desy.de/event/34374/attachments/75767/97426/Eternal_Inflation_Workshop_Seminar.pdf) - Koschnitzke  (2022)
 - [Eternal Inflation](https://www.worldscientific.com/doi/suppl/10.1142/6923/suppl_file/6923_chap01.pdf) – livre de Sergei Winitzki (2009) 
 - [Eternal Inflation](https://people.ast.cam.ac.uk/~stg20/cuda/eternal/index.html) – Steven Gratton
 - [The Founder of Cosmic Inflation Theory on Cosmology's Next Big Ideas](https://www.scientificamerican.com/custom-media/biggest-questions-in-science/the-founder-of-cosmic-inflation-theory-on-cosmologys-next-big-ideas/) - Scientific American
