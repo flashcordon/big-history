@@ -1012,6 +1012,19 @@ spacetime structure of the Universe.
 - [The Horizon Problem](https://iopscience.iop.org/article/10.1088/1742-6596/1269/1/012017/pdf) - Si Lakhal et Guezmir (2017)
 - [Birth of inflationary universes](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.27.2848) – Vilenkin (1983) 
 - [Eternal inflation and its implications](https://arxiv.org/abs/hep-th/0702178) - Guth (2007) 
+- [Eternal inflation and its implications](https://arxiv.org/abs/hep-th/0702178) – Linde (2007)
+- [Graceful exit problem (cosmology)](https://en.wikipedia.org/wiki/Graceful_exit_problem_(cosmology)) - Wikipédia
+- [Eternal Inflation, Multiverse and the Measure Problem - DESY THEORY WORKSHOP SEMINAR]-https://indico.desy.de/event/34374/attachments/75767/97426/Eternal_Inflation_Workshop_Seminar.pdf) - Koschnitzke  (2022)
+- [Eternal Inflation](https://www.worldscientific.com/doi/suppl/10.1142/6923/suppl_file/6923_chap01.pdf) – livre de Sergei Winitzki (2009) 
+- [Eternal Inflation](https://people.ast.cam.ac.uk/~stg20/cuda/eternal/index.html) – Steven Gratton
+- [The Founder of Cosmic Inflation Theory on Cosmology's Next Big Ideas](https://www.scientificamerican.com/custom-media/biggest-questions-in-science/the-founder-of-cosmic-inflation-theory-on-cosmologys-next-big-ideas/) - Scientific American
+- [Why Do Physicists Say A Multiverse Has To Exist?](https://www.forbes.com/sites/startswithabang/2021/02/25/why-do-physicists-say-a-multiverse-has-to-exist/?sh=113d826c4727) – Ethan Siegel (2021)
+- [Universe in a bubble](https://aeon.co/essays/did-our-cosmos-emerge-from-a-sea-of-inflating-bubbles) – Richard Gott
+- [Eternal Inflation](https://ncatlab.org/nlab/show/eternal+inflation) - ncatlab
+- [Measure problem (cosmology)](https://en.wikipedia.org/wiki/Measure_problem_(cosmology)) - Wikipédia
+- [Et l’inflation fut](https://unesdoc.unesco.org/ark:/48223/pf0000122630_fre) -  Andrei Linde, le courrier de l’UNESCO (2001)
+- [Natural Inflation](https://lib-extopc.kek.jp/preprints/PDF/2000/0036/0036503.pdf) – Steinhardt (1983)
+- [The birth of inflationary universes](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.27.2848) - Vilenkin (1983)
 
 ---
 
