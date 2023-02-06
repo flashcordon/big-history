@@ -1027,6 +1027,8 @@ spacetime structure of the Universe.
 - [Natural Inflation](https://lib-extopc.kek.jp/preprints/PDF/2000/0036/0036503.pdf) – Steinhardt (1983)
 - [The birth of inflationary universes](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.27.2848) - Vilenkin (1983)
 - [Inflation cosmologique et théorie des cordes : aspects multichamps et non-gaussianités primordiales](https://theses.hal.science/tel-00724157/document) – Thèse de Sébastien Renaux-Pétel (2010)
+- [Inflation after Planck: Judgment Day](https://arxiv.org/abs/1902.03951) - Chowdhury et al (2019)
+- [Encyclopedia Inflationaris](https://arxiv.org/abs/1303.3787) - Martin et al (2013)
 
 ---
 
