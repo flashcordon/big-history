@@ -49,7 +49,7 @@
 > * Y a pas de risque non plus de développer un anneau de débris stable autour de la Terre, parce que l'atmosphère résiduelle va finir par déstabiliser les orites des débris à un moment ou un autre.
 > * Par contre, les frottements atmosphériques font retomber les fragments à un rythme plus lent que le rythme de création des débris, ce qui fait qu'il y a de plus en plus de débris dans l'espace. Si on ne fait rien pour l'empêcher (en retirant activement la population d'objets intacts par exemple), certaines orbites devraient donc devenir de plus en plus difficiles et risquées d'accès.
 - Dans un article récent, Kessler a même affirmé que nous entrons à présent dans une ère où les futurs débris spatiaux seront de plus en plus créés par des collisions accidentelles
-- La NASA estime à plus de 27 000 les débris de plus de 10 cm, et à plus de 100 millions de plus d'1 mm. Et il y a encore plus de débris de taille micrométrique, comme des éclats de peinture, qui peuvent aussi être dangereux pour les satellites
+- La NASA estime à plus de 34 000 les débris de plus de 10 cm, et à plus de 100 millions de plus d'1 mm. Et il y a encore plus de débris de taille micrométrique, comme des éclats de peinture, qui peuvent aussi être dangereux pour les satellites
 > Ce sont les débris de taille milimétrique qui représentent le plus fort taux de risque pour les sondes robotiques qui évoluent en orbite basse terrestre
 - Par le passé il y a eu 5 exemples recensés de collisions accidentelles majeures
 > * La première a eu lieu en Décembre 1991, lorsqu'un satellite de navigation russe (Cosmos 1934) a percuté un morceau de débris d'un autre satellite de navigation (Cosmos 926)
