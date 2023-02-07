@@ -1,16 +1,49 @@
-# Protection planétaire
+# Méga-constellations de satellites
+
 *Sources*
-- [Planetary Protection](https://en.wikipedia.org/wiki/Planetary_protection) – Wikipédia
-https://en.wikipedia.org/wiki/Extra-Terrestrial_Exposure_Law
-https://www.science.org/content/article/planetary-protection-office-grabs-scientists-rail-against-limits-mars-exploration 
-https://www.space.com/apollo-11-astronauts-quarantined-after-splashdown.html 
-https://en.wikipedia.org/wiki/Interplanetary_contamination 
-https://blogs.letemps.ch/pierre-brisson/2017/06/20/pour-une-protection-planetaire-raisonnable/ 
-https://www.frontiersin.org/articles/10.3389/fspas.2020.589817/full 
-https://nap.nationalacademies.org/read/25172/chapter/7 
-https://appel.nasa.gov/2016/03/09/mars-special-regions-redefined/ 
+
+- https://arxiv.org/abs/2204.10025
+- https://fr.wikipedia.org/wiki/Constellation_de_satellites#M%C3%A9ga-constellations 
+- https://www.ucsusa.org/resources/satellite-database 
 
 ---
+
+- Selon l’Union of Concerned Scientists, il existe aujourd’hui près de 5500 satellites actifs en orbite autour de la Terre (Source : UCS Satellite Database, Mai 2022)
+> En 2018, il y en avait de l’ordre de 2000. La population active de satellites a donc plus que doublé en à peine 4 ans.
+- Depuis quelques années, nous sommes entrés dans l’ère des méga-constellations de satellites. Une constellation de satellite, c’est un réseau de satellites artificiels qui assurent une couverture complète de la planète pour fournir une prestation donnée.
+- Les premières constellations de satellites (Iridium, Globalstar) sont apparues vers la fin des années 90, et ont été déployées dans le but de fournir de la téléphonie par satellite. Mais elles ne comptaient que quelques dizaines (50 à 70) de satellites.
+- Les méga-constellations de satellites actuelles, quant à elles, nous promettent cette fois-ci un accès à Internet haut-débit où que vous soyez dans le monde.
+- La plus connue et la plus ambitieuse de ces méga-constellations est celle déployée par Starlink, un projet de la société SpaceX. La société d’Elon Musk a commencé à lancer ses satellites par grappes de 60 à partir de 2019, et en a déjà déployé plus de 2000 à ce jour (Juin 2022).
+> À terme, la constellation Starlink devrait compter plus de 42 000 satellites en orbite basse (dont 12 000 dès 2025).
+- D’autres constellations sont aujourd’hui en phase de déploiement : OneWeb (648 satellites en tout), Kuiper (3236 satellites) et Telesat (188 satellites)
+- Selon certaines projections basées sur les ambitions de ces multinationales, la population de satellites actifs pourrait atteindre 100 000 d’ici 2030.
+- Outre la problématique des débris spatiaux, ces constellations de satellites constituent une pollution lumineuse qui inquiètent de plus en plus d’astronomes à travers le globe.
+> * Les satellites de Starlink sont des milliards voire des milliers de milliards de fois plus brillants que les astres observés par les astronomes depuis la Terre
+> * Sur des photos à pose longue, le passage des satellites crée des traces de lumière qui peuvent rendre de nombreuses image complètement inexploitables scientifiquement parlant
+> * Le reflet du Soleil sur les satellites peut aussi créer de brefs flashs de lumière qui peuvent imiter la signature de certaines explosions stellaires très lointaines (supernovae, sursauts gamma)
+> * Ces satellites n’émettent pas que de la lumière visible. Ils émettent aussi en permanence des ondes radio pour communiquer leurs données à des stations au sol. Toutes ces ondes radio constituent un bruit de fond incroyablement plus élevé que celles qui sont émises par des objets célestes. C’est comme si vous essayiez d’écouter une mélodie très discrète au beau milieu de la gare de Chatelet les Halles.
+- Ces satellites pourraient changer durablement notre rapport au ciel nocturne dans les années et les décennies à venir.
+> * Si le déploiement des constellations de satellites se passe comme prévu, on estime que d’ici 2030, on pourrait observer autant de satellites à l’œil nu que d’étoiles dans le ciel.
+- Ces satellites n’affecteront pas que les humains. Ces étoiles passagères vont aussi perturber de nombreuses espèces d’oiseaux migrateurs qui utilisent notamment la position des étoiles dans le ciel nocturne pour se repérer.
+> 40% des espèces d’oiseaux migrent, et 80% des oiseaux migrateurs migrent la nuit.
+-  Le ciel nocturne a accompagné les sociétés humaines depuis des centaines de milliers d’années. Il a été un élément essentiel à la sédentarisation des humains, et il constitue aujourd’hui encore une importante ressource symbolique, culturelle et spirituelle pour de nombreuses sociétés, notamment autochtones, à travers le globe. Le ciel nocturne est un commun, il fait partie du patrimoine mondial de l’Humanité, et l’accès à un ciel étoilé non pollué devrait constituer un droit humain inaliénable. Pourtant, certaines compagnies n’hésitent pas à s’approprier ce commun pour l’utiliser à leur seul profit. Cela pose d’importantes questions éthiques, et aussi des enjeux de régulations internationales dans les années à venir.
+
+# Protection planétaire
+
+*Sources*
+
+- [Planetary Protection](https://en.wikipedia.org/wiki/Planetary_protection) – Wikipédia
+- https://en.wikipedia.org/wiki/Extra-Terrestrial_Exposure_Law
+- https://www.science.org/content/article/planetary-protection-office-grabs-scientists-rail-against-limits-mars-exploration 
+- https://www.space.com/apollo-11-astronauts-quarantined-after-splashdown.html 
+- https://en.wikipedia.org/wiki/Interplanetary_contamination 
+- https://blogs.letemps.ch/pierre-brisson/2017/06/20/pour-une-protection-planetaire-raisonnable/ 
+- https://www.frontiersin.org/articles/10.3389/fspas.2020.589817/full 
+- https://nap.nationalacademies.org/read/25172/chapter/7 
+- https://appel.nasa.gov/2016/03/09/mars-special-regions-redefined/ 
+
+---
+
 - En Août 2019, la sonde israélienne Beresheet est devenue la première sonde d’une compagnie privée à atteindre le sol lunaire… et aussi la première sonde d’une compagnie privée à se crasher de manière involontaire sur le sol lunaire.  
 - La sonde contenait une vingtaine de plaques de nickel sur lesquels sont gravées une véritable bibliothèque contenant l’équivalent de 60 000 pages de texte, ainsi que des milliers de tardigrades, ces animaux microscopiques qui ont la particularité de survivre dans une grande variété de milieux extrêmes… Dont un séjour dans le vide de l’espace.
 - Cette nouvelle n’a pas inquiété grand monde, c’est même parfaitement légal d’envoyer des êtres vivants sur la Lune, et ces tardigrades sont probablement tous morts aujourd’hui.
