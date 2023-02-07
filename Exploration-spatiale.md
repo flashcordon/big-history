@@ -8,14 +8,14 @@
 
 ---
 
-- Selon l’Union of Concerned Scientists, il existe aujourd’hui près de 5500 satellites actifs en orbite autour de la Terre (Source : UCS Satellite Database, Mai 2022)
-> En 2018, il y en avait de l’ordre de 2000. La population active de satellites a donc plus que doublé en à peine 4 ans.
 - Depuis quelques années, nous sommes entrés dans l’ère des méga-constellations de satellites. Une constellation de satellite, c’est un réseau de satellites artificiels qui assurent une couverture complète de la planète pour fournir une prestation donnée.
 - Les premières constellations de satellites (Iridium, Globalstar) sont apparues vers la fin des années 90, et ont été déployées dans le but de fournir de la téléphonie par satellite. Mais elles ne comptaient que quelques dizaines (50 à 70) de satellites.
 - Les méga-constellations de satellites actuelles, quant à elles, nous promettent cette fois-ci un accès à Internet haut-débit où que vous soyez dans le monde.
 - La plus connue et la plus ambitieuse de ces méga-constellations est celle déployée par Starlink, un projet de la société SpaceX. La société d’Elon Musk a commencé à lancer ses satellites par grappes de 60 à partir de 2019, et en a déjà déployé plus de 2000 à ce jour (Juin 2022).
 > À terme, la constellation Starlink devrait compter plus de 42 000 satellites en orbite basse (dont 12 000 dès 2025).
 - D’autres constellations sont aujourd’hui en phase de déploiement : OneWeb (648 satellites en tout), Kuiper (3236 satellites) et Telesat (188 satellites)
+- Selon l’Union of Concerned Scientists, il existe aujourd’hui près de 5500 satellites actifs en orbite autour de la Terre (Source : UCS Satellite Database, Mai 2022)
+> En 2018, il y en avait de l’ordre de 2000. La population active de satellites a donc plus que doublé en à peine 4 ans.
 - Selon certaines projections basées sur les ambitions de ces multinationales, la population de satellites actifs pourrait atteindre 100 000 d’ici 2030.
 - Outre la problématique des débris spatiaux, ces constellations de satellites constituent une pollution lumineuse qui inquiètent de plus en plus d’astronomes à travers le globe.
 > * Les satellites de Starlink sont des milliards voire des milliers de milliards de fois plus brillants que les astres observés par les astronomes depuis la Terre
