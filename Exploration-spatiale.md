@@ -1,3 +1,40 @@
+# Protection planétaire
+*Sources*
+- [Planetary Protection](https://en.wikipedia.org/wiki/Planetary_protection) – Wikipédia
+https://en.wikipedia.org/wiki/Extra-Terrestrial_Exposure_Law
+https://www.science.org/content/article/planetary-protection-office-grabs-scientists-rail-against-limits-mars-exploration 
+https://www.space.com/apollo-11-astronauts-quarantined-after-splashdown.html 
+https://en.wikipedia.org/wiki/Interplanetary_contamination 
+https://blogs.letemps.ch/pierre-brisson/2017/06/20/pour-une-protection-planetaire-raisonnable/ 
+https://www.frontiersin.org/articles/10.3389/fspas.2020.589817/full 
+https://nap.nationalacademies.org/read/25172/chapter/7 
+https://appel.nasa.gov/2016/03/09/mars-special-regions-redefined/ 
+
+---
+- En Août 2019, la sonde israélienne Beresheet est devenue la première sonde d’une compagnie privée à atteindre le sol lunaire… et aussi la première sonde d’une compagnie privée à se crasher de manière involontaire sur le sol lunaire.  
+- La sonde contenait une vingtaine de plaques de nickel sur lesquels sont gravées une véritable bibliothèque contenant l’équivalent de 60 000 pages de texte, ainsi que des milliers de tardigrades, ces animaux microscopiques qui ont la particularité de survivre dans une grande variété de milieux extrêmes… Dont un séjour dans le vide de l’espace.
+- Cette nouvelle n’a pas inquiété grand monde, c’est même parfaitement légal d’envoyer des êtres vivants sur la Lune, et ces tardigrades sont probablement tous morts aujourd’hui.
+- Mais cette histoire a quand même fait le buzz, et si elle a fait le buzz c’est qu’elle pose une question qui dérange les acteurs de l’exploration spatiale depuis ses débuts : comment faire pour limiter le transfert non désiré de formes de vie entre les mondes du système solaire ? Autrement dit, comment faire en sorte de ne pas ramener un virus de l’espace sur Terre, et comment éviter de contaminer le système solaire avec des microbes terrestres ? 
+- Tous ces enjeux, on les regroupe sous le terme de « protection planétaire ».
+- Cette question de protection planétaire est posée explicitement dès les années 60, à l’époque des missions d’exploration humaine de la Lune. Aujourd’hui, on sait bien que la Lune est un environnement parfaitement hostile à la vie. Elle n’a pas d’atmosphère, pas d’eau liquide, il n’y a pas de matière organique, et sa surface est balayée en permanence par des rayonnements ultraviolets mortels. Mais ça n’a pas toujours été le cas. Juste avant les missions Apollo, on ne pouvait pas encore en être totalement certain, vu qu’on n’avait envoyé personne sur place. Du coup, pour éviter que les astronautes reviennent contaminés par d’hypothétiques microbes de la Lune qui pourraient mettre en danger la vie sur Terre, la NASA les a placé en quarantaine à leur retour. Par pur principe de précaution.
+> Les astronautes des missions Apollo 11, 12 et 14 ont dû, à la fin de leur mission, passer plusieurs jours dans un camion complètement étanche et transformé en appartement temporaire.
+> À la fin de la mission Apollo 14, les infos qu’on avait sur l’environnement lunaire étaient suffisantes pour mettre un terme à cette procédure inutile.
+- Depuis 1959, les enjeux de protection planétaire sont gérés par un organisme international, le COSPAR (Committee on Space Research). C’est cet organisme qui fait autorité en la matière, et qui s’assure que les objets du système solaire, en particulier la planète Mars, mais aussi certaines lunes glacées de Jupiter et de Saturne ne soient pas contaminée par de la vie terrestre lorsqu’on les explore avec des sondes robotiques.
+- Légalement parlant, les enjeux de protection planétaire sont uniquement couverts par l’article 9 du traité de l’espace de 1967, qui est aujourd’hui ratifié par 104 états des nations unies, qui dit :
+> « Les États parties au Traité effectueront l’étude de l’espace extra‑atmosphérique, y compris la lune et les autres corps célestes, et procéderont à leur exploration de manière à éviter les effets préjudiciables de leur contamination ainsi que les modifications nocives du milieu terrestre résultant de l’introduction de substances extra‑terrestres et, en cas de besoin, ils prendront les mesures appropriées à cette fin. »
+- Les « mesures appropriées » impliquent en pratique des processus de stérilisation des sondes spatiales assez complexes à mettre en œuvre.
+- Par exemple, les atterrisseurs des missions Viking envoyées à la surface de Mars dans les années 70 ont été stérilisées selon les plus hauts standard de protection planétaire : ils ont été placé dans un four géant qui a chauffé les sondes à plus de 112°C pendant une trentaine d’heures avant d’être envoyées dans l’espace. Le coût du processus de stérilisation aurait représenté près de 10% du budget total de la mission. Mais ça a fait de ces sondes les objets plus propres jamais envoyées dans l’espace.
+- Il s’agit pas de rendre le risque de contamination nul (c’est impossible, la vie est beaucoup trop résiliente) mais de le minimiser dans certaines régions clés du système solaire où de la vie pourrait avoir émergé.
+> Par exemple, avant d’envoyer les rover Spirit et Opportunity rouler sur le sol martien, les ingénieurs de la NASA se sont assurés que ces rovers ne contenaient pas plus de 300 000 spores bactériens sur les parties des sondes qui pourraient se retrouver en contact avec l’environnement martien.
+- Du coup, comme la stérilisation totale est impossible, le COSPAR a défini en 2006 (et redéfini en 2016) une sélection de « régions martiennes spéciales  », qui sont des zones de la surface martienne repérées depuis l’orbite où des traces d’eau pourraient exister à des températures suffisantes pour permettre à des organismes terrestres de proliférer potentiellement… et donc potentiellement de porter atteinte à d’hypothétiques formes de vie martienne. Les sondes robotiques n’ont aujourd’hui pas le droit de visiter de près ces région spéciales.
+- Jusqu’à présent, je n’ai parlé que d’exploration robotique du système solaire. Mais ces questions de contamination planétaire se posent à une toute autre échelle lorsqu’on parle d’exploration humaine, voire d’installation humaine sur Mars. On peut tenter de stériliser une sonde spatiale, mais il est impossible (et peu souhaitable) de stériliser des humains.
+> On trouve au moins 10 000 espèces de bactéries dans un corps humain.
+- De manière assez tragique, les fameuses régions spéciales définies par le COSPAR sont exactement le genre d’endroit idéal pour la présence humaine.
+> L’eau martienne est un élément essentiel pour fabriquer du carburant sur place et permettre aux humains de revenir sur Terre, mais aussi tout simplement de boire, parce que l’eau terrestre qu’ils auront ramené avec eux ne sera pas recyclable à 100 %.
+- Aujourd’hui, les agences spatiales classiques comme l’ESA ou la NASA réfléchissent beaucoup à ces questions de protection planétaire. Par contre, pour les acteurs du New Space comme SpaceX qui ont pour ambition d’envoyer des humains s’installer durablement sur Mars dans les décennies à venir, ces problèmes sont au mieux éludés, au pire ouvertement méprisés.
+- Et si on peut débattre de la faisabilité d’un tel projet, ces ambitions suffisent à inquiéter les instances gouvernementales qui cherchent à favoriser des pratiques éthiques et durables dans le domaine de l’exploration spatiale.
+> En 2018, l’académie nationale des sciences américaine a notamment publié un rapport dans lequel elle met en avant le fait qu’il n’existe à l’heure actuelle aucune autorité de régulation gouvernementale qui puisse affecter le développement des missions spatiales privées. Le traité de l’espace de 1967 ne s’applique qu’à des États Nations, et si demain SpaceX décide d’installer des humains dans les régions spéciales de la planète Mars, les Etats-Unis ne possèdent à l’heure actuelle aucun cadre légal pour l’en empêcher.
+
 # Le Moon Hoax
 
 *Sources*
