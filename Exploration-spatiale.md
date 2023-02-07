@@ -1,4 +1,66 @@
-# Méga-constellations de satellites
+# Les débris spatiaux
+
+*Sources*
+
+- [United States Space Surveillance Network](https://en.wikipedia.org/wiki/United_States_Space_Surveillance_Network) - Wikipédia
+- [Russian anti-satellite missile test endangers space station crew - NASA](https://www.reuters.com/world/us-military-reports-debris-generating-event-outer-space-2021-11-15/) - Reuters (2021)
+- [ARMES ANTI-SATELLITES - Un DANGER pour TOUS ? 4K](https://youtu.be/hm4AOfayPXo) - Hugo Lisoir (2021)
+- [Russian anti-satellite weapon test: What happened and what are the risks?](https://theconversation.com/russian-anti-satellite-weapon-test-what-happened-and-what-are-the-risks-172016) - The Conversation (2021)
+- [Traité de l'espace](https://fr.wikipedia.org/wiki/Trait%C3%A9_de_l%27espace) - Wikipédia
+
+---
+
+- Le 15 Novembre dernier, la Russie a détruit un de ses vieux satellites (COSMOS 1408) à l'aide d'un missile anti-satellite (qu'on appelle armes anti-satellites à ascension directe (DA-ASAT) dans le milieu)
+> * Ce genre de missiles est tiré soit depuis le sol soit depuis un avion de chasse
+> * L'impact a généré plus de 1500 débris recensés, et probablement des centaines de milliers de débris plus petits. Le nuage de débris évolue entre 440 et 520 km d'altitude. Ces débris devraient mettre entre quelques années et quelques décennies avant d'être désorbités par les frottements de l'atmosphère
+> * Les débris ont traversé l'orbite de l'ISS à plusieurs reprise (l'ISS fait un tour complet du globe toutes les 90 minutes et est situé à environ  400 km d'altitude)
+> * On a ordonné aux 7 astronautes à bord de l'ISS (4 américains, un allemand et 2 russes) de se réfugier dans les capsules Dragon pendant 2h pour assurer un retour rapide sur Terre si nécessaire, et de sceller certains modules de la station pendant un moment. Ils ont pu revenir dans la station après le 3e passage de l'ISS près du nuage de débris.
+- De nos jours on peut traquer la trajectoire d'objets d'une taille de 10 cm minimum. La NASA en recense plus de 34 000. Mais il y a de nombreux débris en dessous de cette taille !
+> Les Etats Unis disposent d'un réseau de surveillance de l'espace qui détecte, recense et traque la trajctoire des objets artificiels qui orbitent la Terre à l'aide d'une trentaine de radars, de télescopes et de satellites à travers le globe. Il est opéré par l'armée américaine, la Navy et la Space Force.
+- Et les petits débris peuvent quand même faire de gros dégats, parce qu'ils se baladent à près de 28 000 km/h et ont donc une énergie cinétique considérable.
+> L'ISS en a fait les frais en Juillet dernier, lorsqu'un minuscule débris a fait un trou d'un demi cm dans l'un des bras robotiques de la station. Et ils ont eu beaucoup de chance à ce moment là, parce que si ce débris avait touché certains points vitaux de la station, elle serait irréparable.
+- L'agence spatiale Russe a publiquement nié le danger qu'a causé le missile, ce qui a généré pas mal de tension du côté des Etats Unis. La Chine, quant à elle, ne s'est pas encore prononcé sur la question, même si sa propre station spatiale actuellement en construction est aussi dans une zone à risque, et est actuellement habitée par 3 astronautes chinois. 
+- Le traité de l'espace de 1967 interdit la mise sur orbite d'armes nucléaires. Mais il n'interdit pas les armes conventionnelles.
+- Cela fait depuis la fin des années 50 que des technologies de destruction de satellites sont testés. Et la Russie n'est pas la seule puissance à le faire. Les Etats Unis, la Chine et l'Inde ont aussi démontré leur capacité d'attaquer des satellites en orbite.
+> * En 1985, les Etats Unis ont envoyé un missile depuis un avion pour détruire un observatoire solaire vieillissant nommé Solwind. Ca avait généré plusieurs centaines de débris, et ça a conduit à la première polémique sur les dangers des débris spatiaux.
+> La Chine a emboîté le pas en 2007 et l'Inde en 2019 pour tester leur propre technologie anti-satellite
+> * En 2019, l'Inde a abattu un de ses propres satellite situé en orbite basse
+> * En Avril 2021, un autre test de missile anti-satellite a été conduit par la Russie mais il semble ne pas avoir conduit à une destruction de satellite
+- Ces débris présentent aussi de sérieuses menaces sur l'économie s'ils touchent des satellites de communication ou de GPS
+> Une étude comissionnée par le département du commerce américain a même montré qu'une panne de GPS d'une durée d'un mois pourrait coûter aux Etats Unis jusqu'à 1 milliard de dollars par JOUR.
+- Un consortium de compagnies privées et d'établissements publics a créé à peine quelques jours avant l'incident une charte qui les engage à réduire activement le nombre de déchets spatiaux, la charte Net Zero Space.
+> Elle a été signée à l'occasion du Paris Peace Forum entre le 11 et le 13 Novembre 2021.
+
+
+## le syndrome de Kessler
+
+*Sources*
+- [THE KESSLER SYNDROME:  IMPLICATIONS TO FUTURE SPACE OPERATIONS](https://aquarid.physics.uwo.ca/kessler/Kessler%20Syndrome-AAS%20Paper.pdf) - Kessler et al (2016)
+- [The Kessler syndrome](https://cosmosmagazine.com/space/astronomy/donald-kessler-predicts-space-junk/) Cosmos Magazine (2021)
+- [The Kessler syndrome](https://spacecentre.co.uk/blog-post/the-kessler-syndrome/) - National Space Center
+- [Le syndrome de Kessler](https://www.futura-sciences.com/sciences/definitions/debris-spatiaux-syndrome-kessler-16593/) - Futura Science
+
+---
+
+- Les débris spatiaux peuvent aussi causer un risque sur le long terme, qu'on appelle communément le syndrome de Kessler, du nom de l'astrophysicien américain Donald Kessler, qui a écrit un article là dessus en 1978.
+> Le terme "syndrome de Kessler" vient d'un collègue de Kessler nommé John Gabbard, qui bossait au NORAD (North American Aerospace Defense Command), à l'occasion d'une interview donnée au magazine Popular Science
+-  C'est un scénario théorique qui prédit que les collisions des débris entre eux auto-entretient la population de débris à un rythme plus élevé que celui de leur élimination naturelle. En gros, même si demain on arrêtait d'envoyer quoi que ce soit dans l'espace, le nombre de débris continuerait à augmenter de façon exponentielle, ce qui rendrait certaines orbites impraticables à long terme.
+- Contrairement à ce qu'on pourrait penser, le syndrome de Kessler est un processus lent, qui se joue sur des décennies, à l'opposé de ce qu'on peut observer dans le film Gravity par exemple.
+> * Y a pas de risque non plus de développer un anneau de débris stable autour de la Terre, parce que l'atmosphère résiduelle va finir par déstabiliser les orites des débris à un moment ou un autre.
+> * Par contre, les frottements atmosphériques font retomber les fragments à un rythme plus lent que le rythme de création des débris, ce qui fait qu'il y a de plus en plus de débris dans l'espace. Si on ne fait rien pour l'empêcher (en retirant activement la population d'objets intacts par exemple), certaines orbites devraient donc devenir de plus en plus difficiles et risquées d'accès.
+- Dans un article récent, Kessler a même affirmé que nous entrons à présent dans une ère où les futurs débris spatiaux seront de plus en plus créés par des collisions accidentelles
+- La NASA estime à plus de 27 000 les débris de plus de 10 cm, et à plus de 100 millions de plus d'1 mm. Et il y a encore plus de débris de taille micrométrique, comme des éclats de peinture, qui peuvent aussi être dangereux pour les satellites
+> Ce sont les débris de taille milimétrique qui représentent le plus fort taux de risque pour les sondes robotiques qui évoluent en orbite basse terrestre
+- Par le passé il y a eu 5 exemples recensés de collisions accidentelles majeures
+> * La première a eu lieu en Décembre 1991, lorsqu'un satellite de navigation russe (Cosmos 1934) a percuté un morceau de débris d'un autre satellite de navigation (Cosmos 926)
+> * La plus importante a eu lieu février 2009, lorsque le satellite militaire russe Kosmos-2251 s’est écrasé sur Iridium 33, un satellite de communication opérationnel. La collision a produit plus de 1800 débris traçables.
+> * La plus récente a eu lieu en Mars 2021 lorsque le satellite chinois Yunhai 1-02, qui était alors en activité, a été endommagé par un débris de fusée russe Zenit-2 qui avait été envoyé en 1996.
+- Au cours des 10 dernières années, la communauté internationale s'est engagée à ne lancer que des objets qui retombent sur Terre après 25 ans maximum après leur durée de vie opérationnelle. Donc soit qui disposent d'un système de propulsion soit d'un mécanisme passif qui permet de les désorbiter facilement.
+> Le problème c'est que la majorité des objets actuellement dans l'espace ne disposent pas de telles technologies. Donc ça ne va pas suffire à empêcher le nombre de débris d'augmenter dans les années à venir
+- Donc il faut réfléchir dès aujourd'hui à des technologies qui retirent activement les satellites obsolètes de l'orbite terrestre (active debris removal).
+> EN 2018, le satellite RemoveDebris de l'Agence Spatiale européenne a été lancé à 300 km d'altitude et a démontré qu'il était capable de capturer des débris à l'aide d'un énorme filet. On a donc un démonstrateur technologique fonctionnel, dont les successeurs pourraient nous aider à nettoyer l'orbite basse dans les années à venir.
+ 
+# Les méga-constellations de satellites
 
 *Sources*
 
@@ -336,68 +398,6 @@ cf plus haut
 - Les astronautes doivent faire 2h30 d'exercice par jour pour compenser la perte musculaire et ralentir la perte osseuse.
 - Pour l'exercice physique régulière, l'ISS est dotée de 3 exerciseurs : une sorte de vélo stationnaire, un tapis roulant, et une machine de musculation appelée ARED qui imite les poids et les haltères sur Terre avec des dispositifs consitués de cylindres sous vide.
 
-# Débris spatiaux
-
-*Sources*
-
-- [United States Space Surveillance Network](https://en.wikipedia.org/wiki/United_States_Space_Surveillance_Network) - Wikipédia
-- [Russian anti-satellite missile test endangers space station crew - NASA](https://www.reuters.com/world/us-military-reports-debris-generating-event-outer-space-2021-11-15/) - Reuters (2021)
-- [ARMES ANTI-SATELLITES - Un DANGER pour TOUS ? 4K](https://youtu.be/hm4AOfayPXo) - Hugo Lisoir (2021)
-- [Russian anti-satellite weapon test: What happened and what are the risks?](https://theconversation.com/russian-anti-satellite-weapon-test-what-happened-and-what-are-the-risks-172016) - The Conversation (2021)
-- [Traité de l'espace](https://fr.wikipedia.org/wiki/Trait%C3%A9_de_l%27espace) - Wikipédia
-
----
-
-- Le 15 Novembre dernier, la Russie a détruit un de ses vieux satellites (COSMOS 1408) à l'aide d'un missile anti-satellite (qu'on appelle armes anti-satellites à ascension directe (DA-ASAT) dans le milieu)
-> * Ce genre de missiles est tiré soit depuis le sol soit depuis un avion de chasse
-> * L'impact a généré plus de 1500 débris recensés, et probablement des centaines de milliers de débris plus petits. Le nuage de débris évolue entre 440 et 520 km d'altitude. Ces débris devraient mettre entre quelques années et quelques décennies avant d'être désorbités par les frottements de l'atmosphère
-> * Les débris ont traversé l'orbite de l'ISS à plusieurs reprise (l'ISS fait un tour complet du globe toutes les 90 minutes et est situé à environ  400 km d'altitude)
-> * On a ordonné aux 7 astronautes à bord de l'ISS (4 américains, un allemand et 2 russes) de se réfugier dans les capsules Dragon pendant 2h pour assurer un retour rapide sur Terre si nécessaire, et de sceller certains modules de la station pendant un moment. Ils ont pu revenir dans la station après le 3e passage de l'ISS près du nuage de débris.
-- De nos jours on peut traquer la trajectoire d'objets d'une taille de 10 cm minimum. La NASA en recense plus de 34 000. Mais il y a de nombreux débris en dessous de cette taille !
-> Les Etats Unis disposent d'un réseau de surveillance de l'espace qui détecte, recense et traque la trajctoire des objets artificiels qui orbitent la Terre à l'aide d'une trentaine de radars, de télescopes et de satellites à travers le globe. Il est opéré par l'armée américaine, la Navy et la Space Force.
-- Et les petits débris peuvent quand même faire de gros dégats, parce qu'ils se baladent à près de 28 000 km/h et ont donc une énergie cinétique considérable.
-> L'ISS en a fait les frais en Juillet dernier, lorsqu'un minuscule débris a fait un trou d'un demi cm dans l'un des bras robotiques de la station. Et ils ont eu beaucoup de chance à ce moment là, parce que si ce débris avait touché certains points vitaux de la station, elle serait irréparable.
-- L'agence spatiale Russe a publiquement nié le danger qu'a causé le missile, ce qui a généré pas mal de tension du côté des Etats Unis. La Chine, quant à elle, ne s'est pas encore prononcé sur la question, même si sa propre station spatiale actuellement en construction est aussi dans une zone à risque, et est actuellement habitée par 3 astronautes chinois. 
-- Le traité de l'espace de 1967 interdit la mise sur orbite d'armes nucléaires. Mais il n'interdit pas les armes conventionnelles.
-- Cela fait depuis la fin des années 50 que des technologies de destruction de satellites sont testés. Et la Russie n'est pas la seule puissance à le faire. Les Etats Unis, la Chine et l'Inde ont aussi démontré leur capacité d'attaquer des satellites en orbite.
-> * En 1985, les Etats Unis ont envoyé un missile depuis un avion pour détruire un observatoire solaire vieillissant nommé Solwind. Ca avait généré plusieurs centaines de débris, et ça a conduit à la première polémique sur les dangers des débris spatiaux.
-> La Chine a emboîté le pas en 2007 et l'Inde en 2019 pour tester leur propre technologie anti-satellite
-> * En 2019, l'Inde a abattu un de ses propres satellite situé en orbite basse
-> * En Avril 2021, un autre test de missile anti-satellite a été conduit par la Russie mais il semble ne pas avoir conduit à une destruction de satellite
-- Ces débris présentent aussi de sérieuses menaces sur l'économie s'ils touchent des satellites de communication ou de GPS
-> Une étude comissionnée par le département du commerce américain a même montré qu'une panne de GPS d'une durée d'un mois pourrait coûter aux Etats Unis jusqu'à 1 milliard de dollars par JOUR.
-- Un consortium de compagnies privées et d'établissements publics a créé à peine quelques jours avant l'incident une charte qui les engage à réduire activement le nombre de déchets spatiaux, la charte Net Zero Space.
-> Elle a été signée à l'occasion du Paris Peace Forum entre le 11 et le 13 Novembre 2021.
-
-
-## le syndrome de Kessler
-
-*Sources*
-- [THE KESSLER SYNDROME:  IMPLICATIONS TO FUTURE SPACE OPERATIONS](https://aquarid.physics.uwo.ca/kessler/Kessler%20Syndrome-AAS%20Paper.pdf) - Kessler et al (2016)
-- [The Kessler syndrome](https://cosmosmagazine.com/space/astronomy/donald-kessler-predicts-space-junk/) Cosmos Magazine (2021)
-- [The Kessler syndrome](https://spacecentre.co.uk/blog-post/the-kessler-syndrome/) - National Space Center
-- [Le syndrome de Kessler](https://www.futura-sciences.com/sciences/definitions/debris-spatiaux-syndrome-kessler-16593/) - Futura Science
-
----
-
-- Les débris spatiaux peuvent aussi causer un risque sur le long terme, qu'on appelle communément le syndrome de Kessler, du nom de l'astrophysicien américain Donald Kessler, qui a écrit un article là dessus en 1978.
-> Le terme "syndrome de Kessler" vient d'un collègue de Kessler nommé John Gabbard, qui bossait au NORAD (North American Aerospace Defense Command), à l'occasion d'une interview donnée au magazine Popular Science
--  C'est un scénario théorique qui prédit que les collisions des débris entre eux auto-entretient la population de débris à un rythme plus élevé que celui de leur élimination naturelle. En gros, même si demain on arrêtait d'envoyer quoi que ce soit dans l'espace, le nombre de débris continuerait à augmenter de façon exponentielle, ce qui rendrait certaines orbites impraticables à long terme.
-- Contrairement à ce qu'on pourrait penser, le syndrome de Kessler est un processus lent, qui se joue sur des décennies, à l'opposé de ce qu'on peut observer dans le film Gravity par exemple.
-> * Y a pas de risque non plus de développer un anneau de débris stable autour de la Terre, parce que l'atmosphère résiduelle va finir par déstabiliser les orites des débris à un moment ou un autre.
-> * Par contre, les frottements atmosphériques font retomber les fragments à un rythme plus lent que le rythme de création des débris, ce qui fait qu'il y a de plus en plus de débris dans l'espace. Si on ne fait rien pour l'empêcher (en retirant activement la population d'objets intacts par exemple), certaines orbites devraient donc devenir de plus en plus difficiles et risquées d'accès.
-- Dans un article récent, Kessler a même affirmé que nous entrons à présent dans une ère où les futurs débris spatiaux seront de plus en plus créés par des collisions accidentelles
-- La NASA estime à plus de 27 000 les débris de plus de 10 cm, et à plus de 100 millions de plus d'1 mm. Et il y a encore plus de débris de taille micrométrique, comme des éclats de peinture, qui peuvent aussi être dangereux pour les satellites
-> Ce sont les débris de taille milimétrique qui représentent le plus fort taux de risque pour les sondes robotiques qui évoluent en orbite basse terrestre
-- Par le passé il y a eu 5 exemples recensés de collisions accidentelles majeures
-> * La première a eu lieu en Décembre 1991, lorsqu'un satellite de navigation russe (Cosmos 1934) a percuté un morceau de débris d'un autre satellite de navigation (Cosmos 926)
-> * La plus importante a eu lieu février 2009, lorsque le satellite militaire russe Kosmos-2251 s’est écrasé sur Iridium 33, un satellite de communication opérationnel. La collision a produit plus de 1800 débris traçables.
-> * La plus récente a eu lieu en Mars 2021 lorsque le satellite chinois Yunhai 1-02, qui était alors en activité, a été endommagé par un débris de fusée russe Zenit-2 qui avait été envoyé en 1996.
-- Au cours des 10 dernières années, la communauté internationale s'est engagée à ne lancer que des objets qui retombent sur Terre après 25 ans maximum après leur durée de vie opérationnelle. Donc soit qui disposent d'un système de propulsion soit d'un mécanisme passif qui permet de les désorbiter facilement.
-> Le problème c'est que la majorité des objets actuellement dans l'espace ne disposent pas de telles technologies. Donc ça ne va pas suffire à empêcher le nombre de débris d'augmenter dans les années à venir
-- Donc il faut réfléchir dès aujourd'hui à des technologies qui retirent activement les satellites obsolètes de l'orbite terrestre (active debris removal).
-> EN 2018, le satellite RemoveDebris de l'Agence Spatiale européenne a été lancé à 300 km d'altitude et a démontré qu'il était capable de capturer des débris à l'aide d'un énorme filet. On a donc un démonstrateur technologique fonctionnel, dont les successeurs pourraient nous aider à nettoyer l'orbite basse dans les années à venir.
- 
 # Configuration de l'ISS
 
 *(Source : [NASA / Wikipedia](https://en.wikipedia.org/wiki/International_Space_Station#/media/File:ISS_configuration_2019-08_en.svg))*
