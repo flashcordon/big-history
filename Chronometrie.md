@@ -14,6 +14,8 @@
 
 ---
 
+Remains from Morocco dated to 315,000 years ago push back our species' origins by 100,000 years — and suggest we didn't evolve only in East Africa.
+
 
 
 # Dater la naissance de la Terre
