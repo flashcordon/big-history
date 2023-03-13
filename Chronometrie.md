@@ -33,7 +33,9 @@ Au début du XXe siècle, plusieurs physiciens et, en particulier Ernest Rutherf
 
 Ces premières méthodes demeurent néanmoins incomplètes jusqu'aux travaux de Clair Patterson dans les années 50. En utilisant la méthode de datation par l'uranium-plomb pour dater une météorite, le géochimiste en déduit l’âge de la Terre : 4,55 milliards d’années.[2]
 
+Météorite d’Allende, 1969, Mexique
 
+Allende est l’une des météorites les plus étudiées. Ses inclusions réfractaires, structures blanches particulièrement visibles, se sont formées il y a 4 567 milliards d’années. C’est grâce aux éléments radioactifs contenus dans ces inclusions réfractaires que l’on a pu déterminer l’âge du système solaire.
 
 # Dater l'Univers
 
