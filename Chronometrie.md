@@ -19,6 +19,7 @@
 - [How Old is Earth, and How Do We Know?](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-010-0226-0) - Hazen (2010)
 - [Comment a-t-on déterminé l’âge de la Terre ?](https://theconversation.com/comment-a-t-on-determine-lage-de-la-terre-152838) - Jacques Treiner, The Conversation
 - [Quel âge a la Terre ?](https://www.mnhn.fr/fr/quel-age-a-la-terre) - Muséum Nationale d'Histoire Naturelle
+- [L'histoire de l'âge de la Terre](https://planet-terre.ens-lyon.fr/ressource/age-Terre-histoire.xml) - Pierre Thomas, Planète Terre
 
 ---
 
