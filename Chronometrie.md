@@ -10,7 +10,11 @@
 
 *Sources*
 
+- [The age of the hominin fossils from Jebel Irhoud, Morocco, and the origins of the Middle Stone Age](https://www.nature.com/articles/nature22335) - Richter et al (2017)
+
 ---
+
+
 
 # Dater la naissance de la Terre
 
