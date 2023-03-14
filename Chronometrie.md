@@ -25,9 +25,28 @@ Remains from Morocco dated to 315,000 years ago push back our species' origins b
 - [How Old is Earth, and How Do We Know?](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-010-0226-0) - Hazen (2010)
 - [Comment a-t-on déterminé l’âge de la Terre ?](https://theconversation.com/comment-a-t-on-determine-lage-de-la-terre-152838) - Jacques Treiner, The Conversation
 - [Quel âge a la Terre ?](https://www.mnhn.fr/fr/quel-age-a-la-terre) - Muséum Nationale d'Histoire Naturelle
+- [What is the age of Earth?](https://earthsky.org/earth/age-of-earth-how-old-is-planet-earth/) - Shireen Gonzaga, EarthSky
 - [L'histoire de l'âge de la Terre](https://planet-terre.ens-lyon.fr/ressource/age-Terre-histoire.xml) - Pierre Thomas, Planète Terre
 
 ---
+
+Earth hides its age well. Today, most of the crust is younger than the planet, having been modified over Earth’s history, to some degree, by plate tectonics and erosion. 
+
+Pristine unaltered rock formations may be impossible to find, but there are still very rare ancient rocks to be found. Zircon crystals from Jack Hills in Western Australia, aged at 4.404 billion years, currently hold the record for the oldest mineral on Earth. 
+
+Scientists also looked at remnants from the early solar system: meteorites with calcium-aluminum-rich inclusions that were among the first solid bodies to coalesce as planets began forming around the young sun. They’ve been dated to 4.567 billion years. 
+
+Scientists age rocks using a technique called radiometric dating. Some elements in rocks are radioactive, and that scientists use that property as a clock that determines their age. In very large numbers, 50% of radioactive atoms will decay from one form to another within a certain period of time. That time interval is called the half-life. 
+
+For instance, U-235 is a radioactive isotope of uranium. Through a series of decay steps, it breaks down to a stable form of lead known as Pb-207. In chemistry jargon, U-235 is called the parent isotope and Pb-207 is the daughter isotope.
+
+In order to date the rock, scientists measure the relative quantities of parent and daughter isotopes in their sample. From prior studies, they already know that the half-life of U-235 – the amount of time it takes for 50% of U-235 to convert to Pb-207 – is 704 million years. Therefore, if the rock sample has 50% each of U-235 and Pb-207, that rock is 704 million years old. If the sample has 25% U-235 and 75% Pb-207, the sample is 1,408 million years old. 
+
+Another parent uranium isotope, U-238 decays to another lead isotope known as Pb-206, with a half-life of 4.47 billion years. Scientists use both uranium isotopes in their analyses of a sample because the result cross-check each other. Analyses of the ratios of U-235 to Pb-207 and U-238 to Pb-206 in a sample will produce the same results for its age.
+
+Physicist William Thomson, also known as Lord Kelvin, concluded, in 1862, that Earth was between 20 to 400 million years old, based on calculations of how long it took to cool from a molten state. There was a lot of controversy surround it, as scientists also started taking into consideration the new science of evolution.
+
+The history of radiometric dating began around the early 20th century as scientists were learning more about radioactivity. Physicist Earnest Rutherford, with colleagues, was the first to attempt measurements on a rock sample in 1904. 
 
 En effet, la transformation d’un noyau radioactif suit une loi parfaitement déterministe : le temps au bout duquel une population de noyaux instables est divisée par deux est une constante, qu’on appelle période radioactive de l’élément. La nature est généreuse : elle fournit des noyaux radioactifs avec toute la gamme de périodes possibles, de la fraction de seconde au milliard d’années ! Ainsi, l’isotope 235 de l’uranium a une période de 700 millions d’années ; l’isotope 238, une période de 4,5 milliards d’années. Ils se désintègrent chacun en un isotope particulier du plomb, après émission de plusieurs noyaux d’hélium.
 Fritz Houtermans en 1927 à l’Institut de Physique de l’Université de Göttingen en 1927. Wikimedia
