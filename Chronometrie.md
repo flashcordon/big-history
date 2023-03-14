@@ -129,6 +129,10 @@ nombre de neutrons, certains sont stables
 dans le temps, d’autres se désintègrent
 spontanément, ils sont radioactifs.
 
+When Patterson arrived at Caltech as a research fellow in geochemistry in 1952, he was looking not to save the world but to figure out how old it was. Doing so required him to measure the precise amounts of various isotopes of uranium and lead. (Isotopes are atoms of the same element that contain different numbers of neutrons in their nuclei.) Uranium-238 decays very, very slowly into lead-206, while uranium-235 decays less slowly into lead-207. Both rates are well known, so measuring the ratios of lead atoms to uranium ones shows how much uranium has disappeared and allows the sample's age to be calculated.
+
+Patterson presumed that the inner solar system's rocky planets and meteorites had all coalesced at the same time, and that the meteorites had survived essentially unchanged ever since. Using an instrument called a mass spectrometer and working in a clean room he had designed and built himself, Patterson counted the individual lead atoms in a meteorite sample recovered from Canyon Diablo near Meteor Crater, Arizona. In a landmark paper published in 1956, he established Earth's age as 4.55 billion years.
+
 # Dater l'Univers
 
 *Sources*
