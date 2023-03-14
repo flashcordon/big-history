@@ -76,6 +76,19 @@ récemment d'obtenir des âges U-Pb précis pour de
 nombreuses météorites, allant de 4,568 ± 0,003 Ga pour les
 inclusions réfractaires de la météorite carbonée Allende
 
+C’est en 1956 que Clair Patterson publie
+pour la première fois l’âge du Système
+solaire mesuré à l’aide des isotopes du
+plomb dans la météorite de fer de Canyon
+Diablo (fig. 3), ramassée au fond du Meteor
+Crater en Arizona. Il obtient un âge de
+4,55 milliards d’années avec une incertitude de
+70 millions d’années. 56 ans après la publication de ce
+résultat majeur, les progrès de la mesure des isotopes du
+plomb ont permis d’établir que les inclusions réfractaires des
+météorites non différenciées sont les premières roches formées
+dans le Système solaire, il y a 4,567-4,568 milliards d’années
+
 # Dater l'Univers
 
 *Sources*
