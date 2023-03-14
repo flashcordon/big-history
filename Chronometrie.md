@@ -44,6 +44,19 @@ Météorite d’Allende, 1969, Mexique
 
 Allende est l’une des météorites les plus étudiées. Ses inclusions réfractaires, structures blanches particulièrement visibles, se sont formées il y a 4 567 milliards d’années. C’est grâce aux éléments radioactifs contenus dans ces inclusions réfractaires que l’on a pu déterminer l’âge du système solaire.
 
+Un premier résultat obtenu grâce à l'étude isotopique des
+météorites fut la détermination par Clair Patterson en 1956
+de l'âge de formation du système solaire à 4,55 Ga (109 ans),
+grâce à la mesure de la composition isotopique du plomb
+des météorites et de sédiments océaniques, considérés
+représentatifs de la valeur moyenne de la Terre [1]. Cet âge
+a ensuite été confirmé par de nombreuses mesures, avec
+le radiochronomètre Rb-Sr dans un premier temps.
+L'amélioration des techniques analytiques a permis plus
+récemment d'obtenir des âges U-Pb précis pour de
+nombreuses météorites, allant de 4,568 ± 0,003 Ga pour les
+inclusions réfractaires de la météorite carbonée Allende
+
 # Dater l'Univers
 
 *Sources*
