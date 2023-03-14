@@ -123,6 +123,11 @@ Terre et l’on sait maintenant qu’elles sont dues
 de la naissance du Soleil et de ses planètes. La
 cosmochimie isotopique est née.
 
+Selon leur
+nombre de neutrons, certains sont stables
+dans le temps, d’autres se désintègrent
+spontanément, ils sont radioactifs.
+
 # Dater l'Univers
 
 *Sources*
