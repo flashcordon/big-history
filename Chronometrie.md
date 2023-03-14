@@ -27,6 +27,7 @@ Remains from Morocco dated to 315,000 years ago push back our species' origins b
 - [Quel âge a la Terre ?](https://www.mnhn.fr/fr/quel-age-a-la-terre) - Muséum Nationale d'Histoire Naturelle
 - [What is the age of Earth?](https://earthsky.org/earth/age-of-earth-how-old-is-planet-earth/) - Shireen Gonzaga, EarthSky
 - [L'histoire de l'âge de la Terre](https://planet-terre.ens-lyon.fr/ressource/age-Terre-histoire.xml) - Pierre Thomas, Planète Terre
+- [Allende meteorite](https://www.planetary.org/space-images/allende-meteorite) - Planetary Society
 
 ---
 
@@ -88,6 +89,39 @@ résultat majeur, les progrès de la mesure des isotopes du
 plomb ont permis d’établir que les inclusions réfractaires des
 météorites non différenciées sont les premières roches formées
 dans le Système solaire, il y a 4,567-4,568 milliards d’années
+
+L’étude des proportions des isotopes (lire
+encadré 1) dans la nature prend son essor à
+partir des années 1950, dans la foulée des
+progrès de la physique atomiste du début du
+XXe siècle et du développement des spectromètres
+de masse, qui permettent des identifications fines
+des masses des atomes présents et de leurs
+isotopes. 
+
+c’est à partir de 1969, avec le retour des
+échantillons Apollo (382 kg de roches lunaires
+rapportés en 6 missions) et dans une moindre
+
+mesure la chute spectaculaire de la météorite
+d’Allende (météorite primitive de 2 tonnes
+tombée au Mexique le 8 février 1969, fig. 1),
+que certains géochimistes se spécialisent dans
+l’étude isotopique des matériaux
+extraterrestres et en particulier des météorites.
+Très vite, il apparaît que ces matériaux sont
+très anciens et sont des reliques des premières
+phases de formation du Système solaire. Bon
+nombre d’éléments y montrent des
+compositions isotopiques « exotiques »,
+souvent qualifiées d’anomalies par
+comparaison avec ce que l’on mesure dans les
+roches terrestres. Ces anomalies signent des
+processus physico-chimiques inconnus sur
+Terre et l’on sait maintenant qu’elles sont dues
+à des processus astrophysiques à l’œuvre lors
+de la naissance du Soleil et de ses planètes. La
+cosmochimie isotopique est née.
 
 # Dater l'Univers
 
