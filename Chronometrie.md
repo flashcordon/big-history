@@ -28,6 +28,7 @@ Remains from Morocco dated to 315,000 years ago push back our species' origins b
 - [What is the age of Earth?](https://earthsky.org/earth/age-of-earth-how-old-is-planet-earth/) - Shireen Gonzaga, EarthSky
 - [L'histoire de l'âge de la Terre](https://planet-terre.ens-lyon.fr/ressource/age-Terre-histoire.xml) - Pierre Thomas, Planète Terre
 - [Allende meteorite](https://www.planetary.org/space-images/allende-meteorite) - Planetary Society
+- [L’horloge isotopique des météorites](https://sfis.eu/wp-content/uploads/2012/11/Aleon-AgeSytSol_LAstronomie-50.pdf) - JÉRÔME ALÉON, L'Astronomie (2012)
 
 ---
 
