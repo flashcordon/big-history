@@ -279,3 +279,34 @@ Bill Anders, Apollo 8
 
 - Un point bleu pâle (en anglais : Pale Blue Dot) est une photographie de la planète Terre, prise le 14 février 1990 par la sonde Voyager 1 à une distance de plus de 6 milliards de kilomètres.
 - Elle a été la photographie de la Terre la plus lointaine jamais prise pendant 27 ans, jusqu'à ce que New Horizons prenne une photo plus éloignée en décembre 2017
+
+## L'histoire des télescopes et des lunettes astronomiques
+
+*Sources*
+
+- https://history.aip.org/exhibits/cosmology/tools/tools-first-telescopes.htm 
+- https://www.3af.fr/news/optique-adaptative-et-deconvolution-1722 
+- http://astro-canada.ca/l_optique_adaptative-adaptive_optics-fra
+- https://lesia.obspm.fr/Historique-de-l-optique-adaptative.html https://www.newscientist.com/gallery/dn18035-improving-images-of-space/ 
+- https://aas.org/posts/news/2019/10/month-astronomical-history-50-years-ccds 
+
+---
+
+- Précurseurs de la lunette astronomique : les opticiens néérlandais (dont Hans Lippershey) 
+- 1609 : La lunette de Galilée
+- 1668 : le télescope de Newton
+- (1721 : invention de la monture azimutale de John Hadley)
+- (1824 : invention de la monture équatoriale, alignée sur l’axe de rotation de la Terre, par Fraunhofer)
+- Augmentation de la taille et de la qualité des miroirs au cours du 18e, du 19e et 20e siècle. Pouvoir de résolution dépend de la taille (et de la longueur d’onde)
+- 1919 : première utilisation du télescope Hooker de 2,5 m du mont Wilson (le plus grand du monde à l’époque)
+- 1932 : première antenne radio de Karl Jansky (surnom par ses collègues : le Merry Go Round de Jansky)
+- Années 40 : essor de la radioastronomie à la fin de la 2nde guerre mondiale. Des antennes militaires sont reconverties en instruments scientifique
+- 1949 : le télescope Hale de 5 m du mont Palomar devient le plus grand télescope optique du monde jusqu’en 1975
+- 1969 : invention du capteur CCD aux Bell Labs. Avant on utilisait des plaques photo en verre Prix Nobel de physique 2009 attribué à Willard Boyle et George Smith pour la mise au point du premier capteur CCD.
+- Années 70 : essor des télescopes spatiaux pour accéder aux parties du spectre électromagnétique inaccessibles depuis le sol (absorption atmosphérique), comme les rayons X, les rayons gamma ou certains rayonnements infrarouge
+- 1974-1976 : Jim Janesick (ingénieur au JPL) et Brad Smith (planétologue) les premières photos d’astronomie avec un capteur CCD depuis le Mont Bigelow (1re : photo de la surface lunaire)
+- 1990 : le télescope spatial Hubble marque les esprits
+- Années 90 : essor de l’optique adaptative, notamment grâce aux documents déclassifiés de l’armée américaine (principes développés par Horace Babcock en 1953, première utilisation en astronomie dans les années 70), pour corriger en direct les fluctuations atmosphériques qui floutent les images à l’aide de miroirs déformables
+- 2021 : le James Webb space telescope révolutionne l’astronomie. C’est le plus grand miroir envoyé dans l’espace.
+- Le futur : l’ère des télescopes géants : ELT, SKA, LUVOIR. Des hypertélescopes (Labeyrie) ?
+
