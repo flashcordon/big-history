@@ -34,6 +34,29 @@
 - les chercheurs sont arrivés à la conclusion que cette carte céleste représentait le ciel à partir d’un certain point de vue, à une certaine période de l’année. « Si l’on pose le disque à plat, à l’endroit où il a été trouvé, on a des angles de visée qui permettent d’avoir des points de repères à l’horizon correspondant au solstice d’été et au solstice d’hiver » affirme le chercheur. D’autres dates peuvent également être repérées. En effet, ce n’est pas à n’importe quel moment de l’année que l’on peut voir la pleine Lune avec la constellation des pléiades à proximité, et ce de manière très claire.
 - Cela n’arrive en réalité que dans deux cas précis ; en mars, au moment des premiers ensemencements et en automne, autre date importante des travaux agricole puisqu’elle correspond aux dernières moissons. Cette carte céleste a donc pu servir, c’est l’hypothèse la plus probable à ce jour, de calendrier agricole.
 
+## La première photo du Soleil
+
+*Sources*
+
+- [TECHNOLOGY THROUGH TIME ISSUE #40: FIRST SUN PHOTO](https://sunearthday.nasa.gov/2006/locations/firstphoto.php) - NASA
+- [The First Photo of the Sun](https://slate.com/technology/2016/09/the-first-photo-of-the-sun-was-taken-in-1845.html) - Phil Plait
+- [The First Photograph of the Sun](https://time.com/3807904/first-photograph-of-the-sun/) - Time
+
+---
+
+![1stphotosun](https://sunearthday.nasa.gov/2006/images/gal_032.jpg)
+
+- The first photograph of the Sun was taken on April 2, 1845
+- The first surviving daguerrotype photograph of the sun (Figure 1) was taken at the dawn of photography in 1845 by French physicists Louis Fizeau (1819-1896) and Léon Foucault (1819-1868). The 5-inch image showed many details including a few sunspots. The spots are pretty big, roughly as wide as Jupiter
+- They used a daguerreotype, what was really the first kind of photography; a metal plate was treated with chemicals that made it light-sensitive, exposed to a scene, then treated with different chemicals to stop the exposure.
+- In a major technological feat at the time, the pair pointed their camera at Earth’s star; after an exposure of just 1/60th of a second, the photo was made. 
+- The naked eye, of course, cannot see the sun in all its glory during the day, but instead witnesses, at best, partial bursts at sunrise or sunset. To see the entire, brilliant sphere at once, as the early viewers of Foucault and Louis Fizeau’s 1845 picture did, was an utterly new experience for most.
+- Visible on its surface are sunspots — areas of intense magnetic activity that are also impossible to see with the naked eye.
+- Both managed to take the first known photograph of the Sun in 1845 using an improved daguerreotype process. The scientists finally proved that high quality astronomical photography was possible and only six years later the first Solar eclipse was successfully recorded by a daguerreotypist named Berkowski at the Königsberg Observatory. 
+- The earliest scientifically useful photograph of a total solar eclipse was made by Julius Berkowski at the Royal Observatory in Königsberg, Prussia, on July 28, 1851. This was the first occasion that an accurate photographic image of a solar eclipse was recorded.
+
+![1stphotoeclipse](https://api.time.com/wp-content/uploads/2017/08/solar-eclipse-daguereotype.jpg?quality=85&w=499)
+
 ## Mars : des canaux aux images
 
 ### Percival Lowell
