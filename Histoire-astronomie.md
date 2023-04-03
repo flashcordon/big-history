@@ -57,6 +57,27 @@
 
 ![1stphotoeclipse](https://api.time.com/wp-content/uploads/2017/08/solar-eclipse-daguereotype.jpg?quality=85&w=499)
 
+## La première photo rapprochée d'un astéroide
+
+*Sources*
+
+- [Galileo First Close-Up Image of Gaspra Released](https://www.jpl.nasa.gov/news/galileo-first-close-up-image-of-gaspra-released) - JPL
+- [Galileo's images of Gaspra](https://www.planetary.org/articles/03011636-galileo-gaspra) - Planetary Society
+- [Asteroid 951 Gaspra](https://www.planetary.org/space-images/asteroid-951-gaspra) - Planetary Society
+- [(951) Gaspra](https://fr.wikipedia.org/wiki/(951)_Gaspra) - Wikipédia
+
+---
+
+*Image de Gaspra avec la plus haute résolution. Crédit : NASA / JPL / Emily Lakdawalla*
+
+![gaspra](https://planetary.s3.amazonaws.com/web/assets/pictures/_768x768_crop_center-center_60_line/34982/gaspra_galileo_highest_mosaic_8313r.jpg.webp)
+
+- Scientists from the Galileo project today released the world's first close-up image of an asteroid, taken October 29 by the Galileo spacecraft some 34 minutes before it flew past the asteroid Gaspra at a distance of 1,600 kilometers
+- It is one of about a dozen pictures Galileo took of the asteroid. 
+- The Galileo project, whose primary mission is to explore the Jupiter system
+- Gaspra is 18.2 by 10.5 by 8.9 kilometers in diameter. Galileo flew by Gaspra October 29, 1991, passing within 1,600 kilometers. 57 images were returned to Earth, the closest ones (including the two used to make this mosaic) taken from a distance of 5350 kilometers. Those images have a resolution of about 54 meters/pixel. 
+- Gaspra est un astéroïde de type S qui orbite à la limite de la bordure interne de la ceinture d'astéroïdes. 
+
 ## Mars : des canaux aux images
 
 ### Percival Lowell
