@@ -65,6 +65,8 @@
 - [Galileo's images of Gaspra](https://www.planetary.org/articles/03011636-galileo-gaspra) - Planetary Society
 - [Asteroid 951 Gaspra](https://www.planetary.org/space-images/asteroid-951-gaspra) - Planetary Society
 - [(951) Gaspra](https://fr.wikipedia.org/wiki/(951)_Gaspra) - Wikipédia
+- [Galileo snaps first close-up of an asteroid](https://www.thefreelibrary.com/Galileo+snaps+first+close-up+of+an+asteroid.-a011661269) - Science News (1991)
+- [Galileo Transmits First-Ever Close-Up Photo of Asteroid](https://www.latimes.com/archives/la-xpm-1991-11-15-mn-1321-story.html) - LA Times (1991)
 
 ---
 
@@ -77,6 +79,12 @@
 - The Galileo project, whose primary mission is to explore the Jupiter system
 - Gaspra is 18.2 by 10.5 by 8.9 kilometers in diameter. Galileo flew by Gaspra October 29, 1991, passing within 1,600 kilometers. 57 images were returned to Earth, the closest ones (including the two used to make this mosaic) taken from a distance of 5350 kilometers. Those images have a resolution of about 54 meters/pixel. 
 - Gaspra est un astéroïde de type S qui orbite à la limite de la bordure interne de la ceinture d'astéroïdes. 
+- Researchers believe Gaspra is a fragment chipped from a larger object. "We suspect [Gaspra] is a survivor of a series of catastrophic collisions . . ., in which a succession of parent bodies got broken down into smaller and smaller pieces," Veverka says. On the basis of the degree of cratering discerned in the photographs and the estimated frequency of collisions that Gaspra would suffer at its current location -- about 411 million kilometers from Earth, near the inner edge of the asteroid belt -- astronomers calculate that the asteroid may have taken its present shape a relatively scant 300 million years ago. 
+- Until Galileo’s encounter with the 12-mile-long metallic rock, Gaspra had been seen only as a “point of light” in images from ground-based telescopes
+- Gaspra was 231 million miles away from Earth during the flyby, and no one could be certain precisely where the asteroid was in relation to the spacecraft. That left engineers with the problem of making sure that their camera was pointed toward the asteroid at least part of the time.
+- They did that by scanning the sky as the camera snapped 150 overlapping images, ensuring that Gaspra would be in at least some of the photos. All of those images were to have been transmitted back via the spacecraft’s 16-foot-wide antenna. But that plan went out the window when the antenna jammed. It was not feasible to transmit them all back with the smaller antenna.
+- But engineering data from the spacecraft indicated that ground controllers had been extremely precise in predicting the relative position of Gaspra, leading some to wonder if Gaspra had been right in the middle of the montage of 150 images.
+- Engineers ordered Galileo to transmit a few lines of data--somewhat like lines of type--running through the middle image. And there they found Gaspra, “smack in the middle,” Belton said.
 
 ## Mars : des canaux aux images
 
