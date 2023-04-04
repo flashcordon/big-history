@@ -86,6 +86,26 @@
 - But engineering data from the spacecraft indicated that ground controllers had been extremely precise in predicting the relative position of Gaspra, leading some to wonder if Gaspra had been right in the middle of the montage of 150 images.
 - Engineers ordered Galileo to transmit a few lines of data--somewhat like lines of type--running through the middle image. And there they found Gaspra, “smack in the middle,” Belton said.
 
+## La première photo d'une autre galaxie
+
+*Sources*
+
+- [The earliest image of another galaxy](https://medium.com/@ivandebono_44189/the-earliest-image-of-another-galaxy-e49a90a1d101) - Ivan Debono
+- [Scientist of the Day - Isaac Roberts](https://www.lindahall.org/about/news/scientist-of-the-day/isaac-roberts) - Linda Hall Library
+
+---
+
+*Première photo de M31 par Isaac Roberts (1888)*
+
+![M31Roberts](https://assets-us-01.kc-usercontent.com/9dd25524-761a-000d-d79f-86a5086d4774/827eb1fd-8ae3-4687-bdf6-68d5f7e27002/roberts1.jpg?w=465&h=507&auto=format&q=75&fit=crop)
+
+- Isaac Roberts, a Welsh engineer, manufacturer, and amateur astronomer
+- For an amateur, Roberts took some spectacular photographs – indeed, they were better than any exposures taken by professional astronomers at the time.
+- The earliest known photograph clearly showing the Andromeda Galaxy was taken by Isaac Roberts using a twin telescope made by Howard Grubb of Dublin. It was 20-inch reflector with a 7-inch refractor mounted as a tracking scope. The photograph was taken with an exposure of four hours on 29th December 1888 at his observatory (also his home) at Maghull, near Liverpool.
+- It is the first photograph to show the spiral structure of Andromeda. Roberts’s telescope was powerful enough to resolve some of the individual stars making up the galaxy, so this is also the first photograph to show the structure of any galaxy.
+- on a su que c'était une autre galaxie qu'à partir du moment où on a sû mesurer la distance d'une étoile particulière dans les années 20 (Hubble)
+- De nos jours, on a des photos beaucoup plus précises, qui font de jolis fonds d'écran.
+
 ## Mars : des canaux aux images
 
 ### Percival Lowell
