@@ -114,6 +114,7 @@
 - [Saturn – Then & Now](http://mo-www.harvard.edu/microobs/guestobserverportal/Galileo/ThenNow/Saturn/mObsSaturnWeb.htm) - Micro Observatory
 - [Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn) - Wikipédia
 - [Saturn history](https://attic.gsfc.nasa.gov/huygensgcms/Shistory.htm) - NASA
+- [1610, Galilée cache ses découvertes dans des anagrammes](https://petiteshistoiresdessciences.com/2017/08/24/galilee-et-les-anagrammes/) - Petits histoires des sciences
 
 ---
 
