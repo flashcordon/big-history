@@ -106,6 +106,30 @@
 - on a su que c'était une autre galaxie qu'à partir du moment où on a sû mesurer la distance d'une étoile particulière dans les années 20 (Hubble)
 - De nos jours, on a des photos beaucoup plus précises, qui font de jolis fonds d'écran.
 
+## Le premier dessin des anneaux de Saturne
+
+*Sources*
+
+- [Historical Background of Saturn's Rings ](https://solarviews.com/eng/saturnbg.htm) - Solar Views
+- [Saturn – Then & Now](http://mo-www.harvard.edu/microobs/guestobserverportal/Galileo/ThenNow/Saturn/mObsSaturnWeb.htm) - Micro Observatory
+- [Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn) - Wikipédia
+- [Saturn history](https://attic.gsfc.nasa.gov/huygensgcms/Shistory.htm) - NASA
+
+---
+
+- Galileo first observed Saturn through his telescope in July, 1610. He had already announced his discovery of the moons of Jupiter, but Saturn, the furthest planet then known and twice as far away as Jupiter, was even more mysterious and difficult to understand. To Galileo's surprise, Saturn wasn't just one planet, but three! A big middle  planet with a small planet or moon on each side, and the three were almost touching.  Galileo drew it like this:
+- After a few years, Galileo again studied Saturn, and in 1616 made this sketch:   
+- Galileo described the appearance as a planet with handles.  How would you describe the planet in his sketch?  Although we can easily make out the appearance of a ring, Neither Galileo nor fellow astronomers guessed that Saturn's shape was due to a ring.  Theories of handles and ovals and triple planets lasted another 40 years, until Dutch astronomer Christian Huygens finally discovered the rings of Saturn.
+- Although he saw the rings first, Galileo did not know what they were. They appeared to him as 'ears' or lobes either side of the planet. It was Christaan Huygens who first proposed that Saturn was surrounded by a solid ring in 1655.
+-  He wrote to the Duke of Tuscany that "The planet Saturn is not alone, but is composed of three, which almost touch one another and never move nor change with respect to one another. They are arranged in a line parallel to the zodiac, and the middle one (Saturn itself) is about three times the size of the lateral ones."[5] He also described the rings as Saturn's "ears". In 1612 the Earth passed through the plane of the rings and they became invisible. Mystified, Galileo remarked "I do not know what to say in a case so surprising, so unlooked for and so novel."[4] He mused, "Has Saturn swallowed his children?" — referring to the myth of the Titan Saturn devouring his offspring to forestall the prophecy of them overthrowing him.[5][6] He was further confused when the rings again became visible in 1613
+-  Early astronomers used anagrams as a form of commitment scheme to lay claim to new discoveries before their results were ready for publication. Galileo used the anagram "smaismrmil­mepoeta­leumibu­nenugt­tauiras" for Altissimum planetam tergeminum observavi ("I have observed the most distant planet to have a triple form") for discovering the rings of Saturn.
+-  Huygens began grinding lenses with his brother Constantijn in 1655 and was able to observe Saturn with greater detail using a 43× power refracting telescope that he designed himself. He was the first to suggest that Saturn was surrounded by a ring detached from the planet, and famously published the anagram: "aaaaaaa­ccccc­deeeeeg­hiiiiiii­llllmm­nnnnnnnnn­oooopp­qrrs­tttttuuuuu".[11] Three years later, he revealed it to mean Annuto cingitur, tenui, plano, nusquam coherente, ad eclipticam inclinato ("[Saturn] is surrounded by a thin, flat, ring, nowhere touching, inclined to the ecliptic").[12][4][13] He published his ring theory in Systema Saturnium (1659) 
+- Galileo Galilei was the first to observe Saturn with a telescope in 1610. Because of the crudeness of his telescope, he couldn't determine what the rings were. He incorrectly guessed that there were two large moons on either side of Saturn. Two years later when he viewed Saturn again, the "moons" had disappeared. We know now this is because Galileo was viewing the rings edge-on so that they were invisible, but at the time it was very confusing to Galileo. After another two years, Galileo viewed Saturn again and found that the "moons" had returned. He concluded that the rings were "arms" of some sort.
+- Many years later, in 1659, a Dutch astronomer named Christiaan Huygens solved the mystery of Saturn's "arms." Because of improved telescope optics, he correctly deduced that the "arms" were actually a ring system.
+- Other major discoveries came later. During the 19th century, J.E. Keeler showed that the ring system is not a uniform sheet but actually comprised of small particles. Most recently, the Voyager spacecrafts (visiting in 1980-81) made discoveries about the composition and interaction of the rings.
+- The rings of Saturn seem to be held in place by many tiny moons, called Shepherding moons, which use their gravity to shape and redistribute the ring material.  It is still not clear how the rings were made, or how old they are, but it is probable that the ring material needs to be replenished or the rings will fade over millions of years.  The new material could come from the dozens of moons in Saturn�s family, when collisions or meteorite impacts throw clouds of rock and ice into space.
+- Pioneer 11's closest approach to Saturn occurred in September 1979 at a distance of 20,900 km (13,000 mi).
+
 ## Mars : des canaux aux images
 
 ### Percival Lowell
