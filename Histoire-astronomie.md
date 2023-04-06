@@ -7,6 +7,7 @@
 - [La plus ancienne photo détaillée de la Lune](#La-plus-ancienne-photo-détaillée-de-la-Lune)
 - [La première photo du Soleil](#La-première-photo-du-Soleil)
 - [La première photo de la courbure de la Terre](#La-première-photo-de-la-courbure-de-la-Terre)
+- [La première photo depuis la surface d'un autre monde](#La-première-photo-depuis-la-surface-dun-autre-monde)
 - [La première photo rapprochée d'un astéroide](#La-première-photo-rapprochée-dun-astéroide)
 - [La première photo d'une exoplanète](#La-première-photo-dune-exoplanète)
 - [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie)
@@ -163,6 +164,34 @@ stand in front of the Explorer II balloon gondola.
 Credits: National Geographic Society.
 
 In a joint program between the U.S. Army Air Corps and the National Geographic Society, Capt. Stevens, joined by Capt. Orvil A. Anderson, took the first photograph from a high-altitude balloon, clearly showing the Earth's curvature. On Nov. 11, 1935, the pair took off from the Stratobowl near Rapid City, South Dakota, aboard the helium-filled Explorer II balloon, and ascended to a then world record altitude of 72,395 feet. The photograph showed the troposphere-stratosphere boundary and the actual curvature of the Earth and demonstrated the potential for long-range reconnaissance from high-altitude balloons.
+
+## La première photo depuis la surface d'un autre monde
+
+*Sources*
+
+- [The First Pictures from the Moon’s Surface](https://airandspace.si.edu/stories/editorial/first-pictures-moons-surface) - Air and Space Museum
+- [First Photo from the Surface of the Moon](https://moon.nasa.gov/resources/29/first-photo-from-the-surface-of-the-moon/) - NASA
+- [50 Years Ago We Got Our First Picture from the Moon](https://www.universetoday.com/127171/50-years-ago-we-got-our-first-picture-from-the-moon/) - Universe Today
+
+---
+
+Close up image of the Oceanus Procellarum region of the Moon from the Soviet Luna 9 lander in February 1966.
+
+Luna 9 made the first survivable landing on the moon and snapped the first photos from its surface.
+
+Half a century ago, in February and June 1966, robotic spacecraft first landed on the Moon. I vividly remember those events from my days as a 14-year-old space buff. On February 3, the Soviet Union’s Luna 9 thumped down on the vast lava plain known as Oceanus Procellarum (Ocean of Storms), after a number of failed attempts. A Soviet stamp shows its landing configuration, which used air bags to cushion its fall. On the right is the first picture transmitted, from the turret camera in the cylinder on top.
+
+This image was intercepted by the Jodrell Bank observatory in England, which beat the Soviets to releasing it. The quality in this version was less than ideal, but it was the one that made the newspapers like my hometown Calgary Herald.
+
+Luna 9, which was only powered by batteries, lasted three days, enough to transmit a panorama from very close to the surface
+
+The fourth successful mission in the USSR’s long-running Luna series, Luna 9 sent us our first views of the Moon’s surface from the surface and, perhaps even more importantly, confirmed that a landing by spacecraft was indeed possible.
+
+The entire Luna 9 lander was made up of two main parts: a 1,439-kg flight/descent stage which contained retro-rockets and orientation engines, navigation systems, and various fuel tanks, and a 99-kg (218-lb) pressurized “automatic lunar station” that contained all the science and imaging instruments along with batteries, heaters, and a radio transmitter.
+
+When a probe on the descent stage detected contact with the lunar surface, the spherical station — encased in an inflated airbag — was jettisoned to soft-land a safe distance away — after a bit of bouncing, of course; the lander hit the Moon’s surface at about 22 km/hr (13 mph)!
+
+Once the airbag cushions deflated Luna 9, like a shiny metal flower, opened its four “petals,” extended its radio antennas and began taking panoramic television camera images of its surroundings, at the time lit by a very low Sun on the lunar horizon. Received on Earth early on Feb. 4, 1966, they were the first pictures taken from the surface of the Moon and in fact the first images acquired from the surface of another world.
 
 ## La première photo rapprochée d'un astéroide
 
