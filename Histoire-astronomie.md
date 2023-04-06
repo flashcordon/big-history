@@ -2,7 +2,7 @@
 
 # TABLE DES MATIERES
 
-- [Le disque céleste de Nebra](#Le-disque-céleste-de-Nebra)
+- [La plus ancienne représentation du ciel](#La-plus-ancienne-représentation-du-ciel)
 - [Le premier dessin des anneaux de Saturne](#Le-premier-dessin-des-anneaux-de-Saturne)
 - [La plus ancienne photo détaillée de la Lune](#La-plus-ancienne-photo-détaillée-de-la-Lune)
 - [La première photo du Soleil](#La-première-photo-du-Soleil)
@@ -13,7 +13,7 @@
 - [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie)
 - [La première carte de l'univers local](#La-première-carte-de-lunivers-local)
 
-## Le disque céleste de Nebra
+## La plus ancienne représentation du ciel
 
 *Sources*
 
