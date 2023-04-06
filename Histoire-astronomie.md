@@ -98,7 +98,9 @@
 
 ![2M1207b](https://cdn.eso.org/images/screen/26a_big-vlt.jpg)
 
-- La première exoplanète à avoir été détectée par imagerie directe (infrarouge) est une jeune géante gazeuse qui orbite autour d'une naine brune à 170 années lumière du système solaire, 2M1207 b. Elle a été découverte en 2004 grâce à des observations du VLT au Chili. Elle se trouve à une distance équivalente à celle entre Pluton et le Soleil. Sa température de surface est de 1600K (+-100K) et sa masse est de 8 (+-2) fois la masse de Jupiter.
+- La première exoplanète à avoir été détectée par imagerie directe (infrarouge) est une jeune géante gazeuse qui orbite autour d'une naine brune à 170 années lumière du système solaire, 2M1207 b. Elle a été découverte en 2004 grâce à des observations du VLT au Chili. Elle se trouve à une distance équivalente à celle entre Pluton et le Soleil (55 UA). Sa température de surface est de 1600K (+-100K) et sa masse est de 8 (+-2) fois la masse de Jupiter.
+- C'est aussi la première exoplanète a avoir été découverte autour d'une naine brune.
+- Elle se trouve à 230 années-lumière d'ici
 
 ## La première photo d'une autre galaxie
 
