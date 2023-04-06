@@ -2,16 +2,17 @@
 
 # TABLE DES MATIERES
 
-- [La plus ancienne représentation du ciel](#La-plus-ancienne-représentation-du-ciel)
-- [Le premier dessin des anneaux de Saturne](#Le-premier-dessin-des-anneaux-de-Saturne)
-- [La plus ancienne photo détaillée de la Lune](#La-plus-ancienne-photo-détaillée-de-la-Lune)
-- [La première photo du Soleil](#La-première-photo-du-Soleil)
-- [La première photo de la courbure de la Terre](#La-première-photo-de-la-courbure-de-la-Terre)
-- [La première photo depuis la surface d'un autre monde](#La-première-photo-depuis-la-surface-dun-autre-monde)
-- [La première photo rapprochée d'un astéroide](#La-première-photo-rapprochée-dun-astéroide)
-- [La première photo d'une exoplanète](#La-première-photo-dune-exoplanète)
-- [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie)
-- [La première carte de l'univers local](#La-première-carte-de-lunivers-local)
+- -1600 : [La plus ancienne représentation du ciel](#La-plus-ancienne-représentation-du-ciel)
+- 1610 : [Le premier dessin des anneaux de Saturne](#Le-premier-dessin-des-anneaux-de-Saturne)
+- 1840 : [La plus ancienne photo détaillée de la Lune](#La-plus-ancienne-photo-détaillée-de-la-Lune)
+- 1845 : [La première photo du Soleil](#La-première-photo-du-Soleil)
+- 1931 : [La première photo de la courbure de la Terre](#La-première-photo-de-la-courbure-de-la-Terre)
+- 1966 : [La première photo depuis la surface d'un autre monde](#La-première-photo-depuis-la-surface-dun-autre-monde)
+- 1888 : [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie)
+- 1986 : [La première carte de l'univers local](#La-première-carte-de-lunivers-local)
+- 1991 : [La première photo rapprochée d'un astéroide](#La-première-photo-rapprochée-dun-astéroide)
+- 2004 : [La première photo d'une exoplanète](#La-première-photo-dune-exoplanète)
+- 2014 : La première photo depuis la surface d'une comète
 
 ## La plus ancienne représentation du ciel
 
