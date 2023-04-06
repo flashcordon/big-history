@@ -86,6 +86,20 @@
 - But engineering data from the spacecraft indicated that ground controllers had been extremely precise in predicting the relative position of Gaspra, leading some to wonder if Gaspra had been right in the middle of the montage of 150 images.
 - Engineers ordered Galileo to transmit a few lines of data--somewhat like lines of type--running through the middle image. And there they found Gaspra, “smack in the middle,” Belton said.
 
+## La première photo d'une exoplanète
+
+*Sources*
+
+- [2M1207b - first image of an exoplanet](https://www.eso.org/public/images/26a_big-vlt/) - ESO
+
+---
+
+*Première image directe de 2M1207 b. Crédit: ESO*
+
+![2M1207b](https://cdn.eso.org/images/screen/26a_big-vlt.jpg)
+
+- La première exoplanète à avoir été détectée par imagerie directe (infrarouge) est une jeune géante gazeuse qui orbite autour d'une naine brune à 170 années lumière du système solaire, 2M1207 b. Elle a été découverte en 2004 grâce à des observations du VLT au Chili. Elle se trouve à une distance équivalente à celle entre Pluton et le Soleil. Sa température de surface est de 1600K (+-100K) et sa masse est de 8 (+-2) fois la masse de Jupiter.
+
 ## La première photo d'une autre galaxie
 
 *Sources*
