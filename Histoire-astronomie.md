@@ -1,5 +1,17 @@
 # Histoire de l'astronomie
 
+# TABLE DES MATIERES
+
+- [Le disque céleste de Nebra](#Le-disque-céleste-de-Nebra)
+- [Le premier dessin des anneaux de Saturne](#Le-premier-dessin-des-anneaux-de-Saturne)
+- [La plus ancienne photo détaillée de la Lune](#La-plus-ancienne-photo-détaillée-de-la-Lune)
+- [La première photo du Soleil](#La-première-photo-du-Soleil)
+- [La première photo de la courbure de la Terre](#La-première-photo-de-la-courbure-de-la-Terre)
+- [La première photo rapprochée d'un astéroide](#La-première-photo-rapprochée-dun-astéroide)
+- [La première photo d'une exoplanète](#La-première-photo-dune-exoplanète)
+- [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie)
+- [La première carte de l'univers local](#La-première-carte-de-lunivers-local)
+
 ## Le disque céleste de Nebra
 
 *Sources*
@@ -34,6 +46,68 @@
 - les chercheurs sont arrivés à la conclusion que cette carte céleste représentait le ciel à partir d’un certain point de vue, à une certaine période de l’année. « Si l’on pose le disque à plat, à l’endroit où il a été trouvé, on a des angles de visée qui permettent d’avoir des points de repères à l’horizon correspondant au solstice d’été et au solstice d’hiver » affirme le chercheur. D’autres dates peuvent également être repérées. En effet, ce n’est pas à n’importe quel moment de l’année que l’on peut voir la pleine Lune avec la constellation des pléiades à proximité, et ce de manière très claire.
 - Cela n’arrive en réalité que dans deux cas précis ; en mars, au moment des premiers ensemencements et en automne, autre date importante des travaux agricole puisqu’elle correspond aux dernières moissons. Cette carte céleste a donc pu servir, c’est l’hypothèse la plus probable à ce jour, de calendrier agricole.
 
+## Le premier dessin des anneaux de Saturne
+
+*Sources*
+
+- [Historical Background of Saturn's Rings ](https://solarviews.com/eng/saturnbg.htm) - Solar Views
+- [Saturn – Then & Now](http://mo-www.harvard.edu/microobs/guestobserverportal/Galileo/ThenNow/Saturn/mObsSaturnWeb.htm) - Micro Observatory
+- [Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn) - Wikipédia
+- [Saturn history](https://attic.gsfc.nasa.gov/huygensgcms/Shistory.htm) - NASA
+- [1610, Galilée cache ses découvertes dans des anagrammes](https://petiteshistoiresdessciences.com/2017/08/24/galilee-et-les-anagrammes/) - Petits histoires des sciences
+
+---
+
+- Galileo first observed Saturn through his telescope in July, 1610. He had already announced his discovery of the moons of Jupiter, but Saturn, the furthest planet then known and twice as far away as Jupiter, was even more mysterious and difficult to understand. To Galileo's surprise, Saturn wasn't just one planet, but three! A big middle  planet with a small planet or moon on each side, and the three were almost touching.  Galileo drew it like this:
+- After a few years, Galileo again studied Saturn, and in 1616 made this sketch:   
+- Galileo described the appearance as a planet with handles.  How would you describe the planet in his sketch?  Although we can easily make out the appearance of a ring, Neither Galileo nor fellow astronomers guessed that Saturn's shape was due to a ring.  Theories of handles and ovals and triple planets lasted another 40 years, until Dutch astronomer Christian Huygens finally discovered the rings of Saturn.
+- Although he saw the rings first, Galileo did not know what they were. They appeared to him as 'ears' or lobes either side of the planet. It was Christaan Huygens who first proposed that Saturn was surrounded by a solid ring in 1655.
+-  He wrote to the Duke of Tuscany that "The planet Saturn is not alone, but is composed of three, which almost touch one another and never move nor change with respect to one another. They are arranged in a line parallel to the zodiac, and the middle one (Saturn itself) is about three times the size of the lateral ones."[5] He also described the rings as Saturn's "ears". In 1612 the Earth passed through the plane of the rings and they became invisible. Mystified, Galileo remarked "I do not know what to say in a case so surprising, so unlooked for and so novel."[4] He mused, "Has Saturn swallowed his children?" — referring to the myth of the Titan Saturn devouring his offspring to forestall the prophecy of them overthrowing him.[5][6] He was further confused when the rings again became visible in 1613
+-  Early astronomers used anagrams as a form of commitment scheme to lay claim to new discoveries before their results were ready for publication. Galileo used the anagram "smaismrmil­mepoeta­leumibu­nenugt­tauiras" for Altissimum planetam tergeminum observavi ("I have observed the most distant planet to have a triple form") for discovering the rings of Saturn.
+-  Huygens began grinding lenses with his brother Constantijn in 1655 and was able to observe Saturn with greater detail using a 43× power refracting telescope that he designed himself. He was the first to suggest that Saturn was surrounded by a ring detached from the planet, and famously published the anagram: "aaaaaaa­ccccc­deeeeeg­hiiiiiii­llllmm­nnnnnnnnn­oooopp­qrrs­tttttuuuuu".[11] Three years later, he revealed it to mean Annuto cingitur, tenui, plano, nusquam coherente, ad eclipticam inclinato ("[Saturn] is surrounded by a thin, flat, ring, nowhere touching, inclined to the ecliptic").[12][4][13] He published his ring theory in Systema Saturnium (1659) 
+- Galileo Galilei was the first to observe Saturn with a telescope in 1610. Because of the crudeness of his telescope, he couldn't determine what the rings were. He incorrectly guessed that there were two large moons on either side of Saturn. Two years later when he viewed Saturn again, the "moons" had disappeared. We know now this is because Galileo was viewing the rings edge-on so that they were invisible, but at the time it was very confusing to Galileo. After another two years, Galileo viewed Saturn again and found that the "moons" had returned. He concluded that the rings were "arms" of some sort.
+- Many years later, in 1659, a Dutch astronomer named Christiaan Huygens solved the mystery of Saturn's "arms." Because of improved telescope optics, he correctly deduced that the "arms" were actually a ring system.
+- Other major discoveries came later. During the 19th century, J.E. Keeler showed that the ring system is not a uniform sheet but actually comprised of small particles. Most recently, the Voyager spacecrafts (visiting in 1980-81) made discoveries about the composition and interaction of the rings.
+- The rings of Saturn seem to be held in place by many tiny moons, called Shepherding moons, which use their gravity to shape and redistribute the ring material.  It is still not clear how the rings were made, or how old they are, but it is probable that the ring material needs to be replenished or the rings will fade over millions of years.  The new material could come from the dozens of moons in Saturn�s family, when collisions or meteorite impacts throw clouds of rock and ice into space.
+- Pioneer 11's closest approach to Saturn occurred in September 1979 at a distance of 20,900 km (13,000 mi).
+
+## La plus ancienne photo détaillée de la Lune
+
+*Sources*
+
+-[Astrophotography](https://en.m.wikipedia.org/wiki/Astrophotography) - Wikipédia
+[Check Out The First Detailed Photo Of The Moon](https://www.forbes.com/sites/kionasmith/2019/03/23/check-out-the-first-detailed-photo-of-the-moon/?sh=1e7211187a36) - Forbes
+- [John William Draper – Chemist and Photo Pioneer](http://scihi.org/john-william-draper/) - SciHi blog
+- 
+
+---
+
+*Plus ancienne photo détaillée de la Lune. Crédit : John Draper*
+ 
+![lune1840](https://upload.wikimedia.org/wikipedia/commons/3/34/John_W_Draper-The_first_Moon_Photograph_1840.jpg)
+
+The first known attempt at astronomical photography was by Louis Jacques Mandé Daguerre, inventor of the daguerreotype process which bears his name, who attempted in 1839 to photograph the Moon. Tracking errors in guiding the telescope during the long exposure meant the photograph came out as an indistinct fuzzy spot. John William Draper, New York University Professor of Chemistry, physician and scientific experimenter managed to make the first successful photograph of the moon a year later on March 23, 1840, taking a 20-minute-long daguerreotype image using a 5-inch (13 cm) reflecting telescope. 
+
+Sometime in 1826 or 1827, Nicéphore Niépce (who had only recently invented photography itself), took a photo of the Moon from his upstairs window. Because early photographic techniques required exposure to massive amounts of light, he had to take the photo during the day, leaving it to soak up the sunlight for several hours. The good old days, right? The result, as Time’s Erica Fahr Campbell describes it, was “a ghostly but, with effort, recognizable view.”
+
+A decade later, Louis Jacques Mandé Daguerre introduced a faster, more efficient way to take photographs: silver plate, soaked with iodine, would record an image with much less exposure time than the earliest techniques, like Niépce’s heliography. He used the method — called daguerreotype — to get several images of the crescent Moon.
+
+Astronomer John William Draper took that a step further in 1840. He’d already produced his own daguerreotype of the crescent Moon, unimpressive by modern standards but a novelty at the time. But on March 23, 1840, he took the first detailed photo of the full Moon, reproducing craters, mountains, valleys, and other terrain that had previously only been seen through the highly variable artistic skills of various astronomers. You can check out the photo here.
+
+Today, a crater on the Moon’s surface bears the name of the scientist who gave us our first detailed look at our captive neighbor. 
+
+This is one of over 1500 images of the Moon that[-] Henry Draper took from his Hudson observatory in 1863. 
+
+John William Draper was born. He is credited with producing the first clear photograph of a female face (1839–40) 
+
+In March 1840 Draper became the first person to produce photographs of an astronomical object, the Moon, considered the first astrophotographs. He obtained “distinct” representations of the dark spots or lunar maria.
+
+As early as 1837, while still in Virginia, he had followed the example of Wedgwood and Davy in making temporary copies of objects by the action of light on sensitized surfaces. When the details of Daguerre’s process for fixing camera images were published, Draper further improved on his work, which previously only had allowed slow exposures of landscapes.[8] In 1839–1840, Draper produced clear photographs, which at that time were regarded as the first life photographs of a human face. Draper took a series of pictures, with a 65-second exposure in sunlight. The first ones, of a female assistant whose face was covered with a thin layer of flour to increase contrast, were not preserved. Draper also photographed his sister, Dorothy Catherine Draper, and one of those pictures became known to the public via a letter which Draper sent to astronomer John Herschel in 1840.
+
+Astrophotography properly began in 1840, when John William Draper, a British-born chemist and doctor, took the image above from the roof of the New York University observatory, credited as the first daguerreotype of the Moon. Daguerre himself might have taken an 1839 image, but it was likely destroyed in a fire, as were Draper’s attempts of the previous year, which burned up in a NYU blaze in 1865.
+
+By all accounts, however, these earlier attempts at Moon photography were blurry and unfocused, showing little detail of the Earth’s satellite. Draper’s lunar “portrait,” from 1840, at the top, is largely considered “the world’s first true astrophoto,” writes Jason Major at Lights in the Dark, for its levels of detail and high contrast, comparatively speaking. 
+
 ## La première photo du Soleil
 
 *Sources*
@@ -56,6 +130,39 @@
 - The earliest scientifically useful photograph of a total solar eclipse was made by Julius Berkowski at the Royal Observatory in Königsberg, Prussia, on July 28, 1851. This was the first occasion that an accurate photographic image of a solar eclipse was recorded.
 
 ![1stphotoeclipse](https://api.time.com/wp-content/uploads/2017/08/solar-eclipse-daguereotype.jpg?quality=85&w=499)
+
+## La première photo de la courbure de la Terre
+
+*Source*
+
+- [90 Years of Our Changing Views of Earth](https://www.nasa.gov/feature/90-years-of-our-changing-views-of-earth/) - NASA
+
+---
+
+*Première photo de la courbure de la Terre. Crédit : the National Geographic Society*
+
+![courbureTerre](https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/photograph_of_andes_1930_nat_geo_may_1931_cropped.png?itok=qBH5jzkY)
+
+https://collections.library.yale.edu/catalog/15814754
+
+Indirect evidence of the Earth’s spherical shape has existed for a long time, but the photographic proof was lacking until well into the 20th century. The ancient Greeks believed the Earth was round and calculated its circumference with remarkable accuracy, while observers inferred our planet’s spherical shape as it cast a curved shadow on the Moon during lunar eclipses. With the advent of aviation, photographers could reach altitudes from which they could record the Earth’s curvature. 
+
+“The first photograph ever made showing laterally the curvature of the Earth,”
+read the original caption in the May 1931 issue of The National Geographic
+Magazine. The photograph, taken 21,000 feet above Villa Mercedes, Argentina,
+showed the Andes Mountains 287 miles away and well below the expected
+horizon if the Earth were flat.
+Credits: The National Geographic Society
+
+An article in the May 1931 issue of The National Geographic Magazine described how a photograph taken from an airplane east of the Andes mountain range in South America provided evidence for the Earth’s curvature. Capt. Albert W. Stevens, an officer in the U.S. Army Air Corps and an aerial photographer, took the image on Dec. 30, 1930, while flying at an altitude of 21,000 feet over Villa Mercedes, Argentina. The Andes Mountains, 287 miles away, and although taller than the plane’s altitude, lay below the sensible horizon, marked by the white horizontal line in the photograph. The Earth’s curvature explains this phenomenon, as described in the diagram accompanying the photograph. The Earth’s curvature is also visible laterally in the photograph, although the effect is subtle as the image encompasses only 1/360 of the Earth’s circumference.
+
+Left: Photograph of South Dakota taken during the record-setting 
+Explorer II balloon flight, showing the curvature of the Earth.
+Right: Capt. Orvil A. Anderson, left, and Capt. Albert W. Stevens
+stand in front of the Explorer II balloon gondola.
+Credits: National Geographic Society.
+
+In a joint program between the U.S. Army Air Corps and the National Geographic Society, Capt. Stevens, joined by Capt. Orvil A. Anderson, took the first photograph from a high-altitude balloon, clearly showing the Earth's curvature. On Nov. 11, 1935, the pair took off from the Stratobowl near Rapid City, South Dakota, aboard the helium-filled Explorer II balloon, and ascended to a then world record altitude of 72,395 feet. The photograph showed the troposphere-stratosphere boundary and the actual curvature of the Earth and demonstrated the potential for long-range reconnaissance from high-altitude balloons.
 
 ## La première photo rapprochée d'un astéroide
 
@@ -122,30 +229,43 @@
 - on a su que c'était une autre galaxie qu'à partir du moment où on a sû mesurer la distance d'une étoile particulière dans les années 20 (Hubble)
 - De nos jours, on a des photos beaucoup plus précises, qui font de jolis fonds d'écran.
 
-## Le premier dessin des anneaux de Saturne
+## La première carte de l'univers local
 
 *Sources*
 
-- [Historical Background of Saturn's Rings ](https://solarviews.com/eng/saturnbg.htm) - Solar Views
-- [Saturn – Then & Now](http://mo-www.harvard.edu/microobs/guestobserverportal/Galileo/ThenNow/Saturn/mObsSaturnWeb.htm) - Micro Observatory
-- [Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn) - Wikipédia
-- [Saturn history](https://attic.gsfc.nasa.gov/huygensgcms/Shistory.htm) - NASA
-- [1610, Galilée cache ses découvertes dans des anagrammes](https://petiteshistoiresdessciences.com/2017/08/24/galilee-et-les-anagrammes/) - Petits histoires des sciences
+- [THE CfA REDSHIFT SURVEY](http://tdc-www.harvard.edu/zcat/) -  John Huchra
+- [John Huchhra](https://www.preposterousuniverse.com/blog/2010/10/10/john-huchra/) - Preposterous Universe
+- [The Coming of the Stickman](https://ned.ipac.caltech.edu/level5/Bothun2/Bothun3_5_2.html) - Bothun (1998)
+- [A slice of the universe](https://articles.adsabs.harvard.edu/full/1986ApJ...302L...1D) - de Lapparent et al (1986)
+- [The Stickman the Great Wall and the Hectospec - Largescale Structure in the Universe](https://articles.adsabs.harvard.edu//full/1994JRASC..88..283G/0000286.000.html) - Geller (1994)
 
 ---
 
-- Galileo first observed Saturn through his telescope in July, 1610. He had already announced his discovery of the moons of Jupiter, but Saturn, the furthest planet then known and twice as far away as Jupiter, was even more mysterious and difficult to understand. To Galileo's surprise, Saturn wasn't just one planet, but three! A big middle  planet with a small planet or moon on each side, and the three were almost touching.  Galileo drew it like this:
-- After a few years, Galileo again studied Saturn, and in 1616 made this sketch:   
-- Galileo described the appearance as a planet with handles.  How would you describe the planet in his sketch?  Although we can easily make out the appearance of a ring, Neither Galileo nor fellow astronomers guessed that Saturn's shape was due to a ring.  Theories of handles and ovals and triple planets lasted another 40 years, until Dutch astronomer Christian Huygens finally discovered the rings of Saturn.
-- Although he saw the rings first, Galileo did not know what they were. They appeared to him as 'ears' or lobes either side of the planet. It was Christaan Huygens who first proposed that Saturn was surrounded by a solid ring in 1655.
--  He wrote to the Duke of Tuscany that "The planet Saturn is not alone, but is composed of three, which almost touch one another and never move nor change with respect to one another. They are arranged in a line parallel to the zodiac, and the middle one (Saturn itself) is about three times the size of the lateral ones."[5] He also described the rings as Saturn's "ears". In 1612 the Earth passed through the plane of the rings and they became invisible. Mystified, Galileo remarked "I do not know what to say in a case so surprising, so unlooked for and so novel."[4] He mused, "Has Saturn swallowed his children?" — referring to the myth of the Titan Saturn devouring his offspring to forestall the prophecy of them overthrowing him.[5][6] He was further confused when the rings again became visible in 1613
--  Early astronomers used anagrams as a form of commitment scheme to lay claim to new discoveries before their results were ready for publication. Galileo used the anagram "smaismrmil­mepoeta­leumibu­nenugt­tauiras" for Altissimum planetam tergeminum observavi ("I have observed the most distant planet to have a triple form") for discovering the rings of Saturn.
--  Huygens began grinding lenses with his brother Constantijn in 1655 and was able to observe Saturn with greater detail using a 43× power refracting telescope that he designed himself. He was the first to suggest that Saturn was surrounded by a ring detached from the planet, and famously published the anagram: "aaaaaaa­ccccc­deeeeeg­hiiiiiii­llllmm­nnnnnnnnn­oooopp­qrrs­tttttuuuuu".[11] Three years later, he revealed it to mean Annuto cingitur, tenui, plano, nusquam coherente, ad eclipticam inclinato ("[Saturn] is surrounded by a thin, flat, ring, nowhere touching, inclined to the ecliptic").[12][4][13] He published his ring theory in Systema Saturnium (1659) 
-- Galileo Galilei was the first to observe Saturn with a telescope in 1610. Because of the crudeness of his telescope, he couldn't determine what the rings were. He incorrectly guessed that there were two large moons on either side of Saturn. Two years later when he viewed Saturn again, the "moons" had disappeared. We know now this is because Galileo was viewing the rings edge-on so that they were invisible, but at the time it was very confusing to Galileo. After another two years, Galileo viewed Saturn again and found that the "moons" had returned. He concluded that the rings were "arms" of some sort.
-- Many years later, in 1659, a Dutch astronomer named Christiaan Huygens solved the mystery of Saturn's "arms." Because of improved telescope optics, he correctly deduced that the "arms" were actually a ring system.
-- Other major discoveries came later. During the 19th century, J.E. Keeler showed that the ring system is not a uniform sheet but actually comprised of small particles. Most recently, the Voyager spacecrafts (visiting in 1980-81) made discoveries about the composition and interaction of the rings.
-- The rings of Saturn seem to be held in place by many tiny moons, called Shepherding moons, which use their gravity to shape and redistribute the ring material.  It is still not clear how the rings were made, or how old they are, but it is probable that the ring material needs to be replenished or the rings will fade over millions of years.  The new material could come from the dozens of moons in Saturn�s family, when collisions or meteorite impacts throw clouds of rock and ice into space.
-- Pioneer 11's closest approach to Saturn occurred in September 1979 at a distance of 20,900 km (13,000 mi).
+*Première carte de la distribution à grande échelle des galaxies. Crédit : de Lapparent et al 1986*
+
+![cfa1986](http://tdc-www.harvard.edu/zcat/cfa2.n30.gif)
+
+Slice of the universe after de Lapparent et al. (1986)
+
+The CfA Redshift Survey was started in 1977 by Marc Davis, John Huchra, Dave Latham and John Tonry. The First CfA Survey, completed in 1982, (Huchra, Davis, Latham and Tonry, 1983, ApJS 52, 89) had as its goal the measurement of radial velocities for all galaxies brighter than 14.5 and at high galactic latitude in the merged catalogs of Zwicky and Nilson (the UGC). This survey produce the first large area and moderately deep maps of large scale structure in the nearby universe, as well as the first crude but truly quantitative measurements of the 3-D clustering properties of galaxies. 
+
+The second CfA survey (CfA2) was started by John Huchra and Margaret Geller in the winter of 1984/5. Between 1985 and 1995, we and our students and co-workers measured relative distances via redshifts for about 18,000 bright galaxies in the northern sky. 
+
+The first slice of the CfA Survey. 
+
+Redshift surveys are ways of mapping the distribution of galaxies around us. We use redshift as the measure of the radial coordinate in a spherical coordinate system centered on the Milky Way. Below is the "slice of the Universe" that represents the first set of observations done for the CfA Redshift Survey in 1985 by Valerie de Lapparent, Margaret Geller and myself. These are spectroscopic observations of about 1100 galaxies in a strip on the sky 6 degrees wide and about 130 degrees long. We are at the apex of the wedge. The radial coordinate is redshift, measured in kilometers per second, with the current best conversion (see ``Hubble Constant'' below) of about 20 kilometers per second per million light years. That means the outer arc of the plot is at a distance of about 700 million light years. The angular coordinate is the right ascension, or the celestial equivalent of longitude. 
+
+This initial map was quite surprising, showing that the distribution of galaxies in space was anything but random, with galaxies actually appearing to be distributed on surfaces, almost bubble like, surrounding large empty regions, or ``voids.''
+
+The iconic image of cosmology in the 1980’s was the “CfA Stickman” reveal in the famous A Slice of the Universe paper by Valerie de Lapparent, Margaret Geller, and Huchra.
+
+The stickman was not the universe being playfully anthropomorphic, it was simply the Coma cluster as distorted in redshift space. (You measure positions on the sphere of the sky, but velocities along the line of sight; converting these velocities to distances is inevitably distorted because galaxies in a cluster have peculiar motions inside the cluster.) Before this map was released in 1986, many people assumed that the galaxy distribution would be basically uniform on these scales. They shouldn’t have thought that, in retrospect (you need to go to larger scales before the uniformity becomes apparent), but sometimes it takes real data to get a point across. The survey went on to discover the Great Wall of galaxies, arguably the largest known “object” in the universe.
+
+The basic strategy of the Slice surveys were devised by Margaret Geller at the Smithsonian Astrophysical Observatory. In addition to the survey design, Geller also developed novel and sophisticated techniques for analyzing the data in order to properly characterize the features which were seen. The first slice survey was completed in 1986 (e.g., de Lapparent et al. 1986) and the initial results were astounding (and remain so). Figure 3-11 is by now quite famous and is commonly referred to as the "Stickman" figure. In this figure we see the essence of the complex galaxy structure which is defined by the Slice survey. In this representation of the data, the Slice dimension (equivalent to latitude in the analogy above) has been collapsed so the axes represent angular distance on the sky and redshift distance from the earth. In the absence of peculiar velocities, redshift distance is equivalent to physical distance. The opening angle of the survey represents the angular extent of the slice
+
+Any virialized structure will appear as a vertical structure pointed towards the origin (the observer). Galaxies in these structures have nearly the same physical distance from the observer, but the velocity dispersion of the structure stretches their location in redshift space. The main body of the Stickman is defined by such a structure - in this case, the Coma Cluster of galaxies
+
+The distribution of galaxies in the sample, which contains 1100 galaxies in a 6 deg x 117 deg strip going through the Coma cluster, looks like a slice through the suds in the kitchen sink. 
 
 ## Mars : des canaux aux images
 
