@@ -1739,11 +1739,21 @@ Major model assumptions that can affect the derived internal structure include t
 
 - Scientists believe Europa's ocean has more than twice the amount of water as Earth's oceans. 
 
-### Ganymède 
+### Ganymède
 
-- Avec ses 5200 km de diamètre, Ganymède est la plus grande lune du système solaire
-- Ganymède est la seule lune du Système solaire à générer son propre champ magnétique, même s'il est relativement faible
-> Cette caractéristique a été découverte en 1998 par le télescope spatial Hubble qui a réalisé la première image en UV de Ganymède, ce qui a révélé des rubans de plasma nommés "bandes aurorales", qui trahissent la présence d'un champ magnétique
+- Avec Io, Callisto et Europe, Ganymède fait partie des 4 lunes galiléennes, découvertes par Galilée le 7 janvier 1610.
+- Avec ses 5200 km de diamètre, Ganymède est la plus grosse lune du système solaire. Elle est plus grosse que Pluton et que Mercure, et à peine plus petite que Mars.
+- C'est la seule lune du système solaire à posséder un champ magnétique. Celui-ci est généré par les mouvements de son noyau de fer et de nickel.
+> * Ce champ a été découvert en 1996 par le magnétomètre de la sonde Galileo de la NASA. 
+> * Ses caractéristiques constituent une sonde de la structure interne de la lune, et notamment la présence d'un océan souterrain d'eau liquide salée, un milieu conducteur qui, par induction, donne lieu à des anomalies dans le champ magnétique.
+> * Ce champ magnétique couplé à une atmosphère ténue contenant de l'oxygène donne notamment lieu à des aurores polaires, qui ont été observées pour la première fois en UV par le télescope spatial Hubble à la fin des années 90, sous la forme de rubans de plasma appelés "bandes aurorales".
+> * En 2023, une équipe d'astronomes menée par Katherine De Kleer découvre pour la première fois des émissions aurorales de Ganymède dans le domaine optique, à partir des données du spectromètre à haute résolution du télescope Keck prises entre 1998 et 2021.
+- Les aurores changent régulièrement de position et de brillance en fonction de la position de la lune par rapport à la magnétosphère de Jupiter
+> Les oscillations des aurores permettent d'inférer avec un plus grand degré de confiance l'existence probable d'un océan d'eau liquide salée souterrain.
+- Selon un modèle de 2014, la structure interne de Ganymède serait une succession de couches d'eau liquide salée et de couches de glace intercalées, à la manière d'un club sandwich géant. Plus on s'enfonce dans les profondeurs, plus les couches sont denses et donnent lieu à des glaces exotiques, qui sont numérotées du niveau I (la couche la plus superficielle) au niveau VI (la plus profonde).
+> * Selon ce modèle, la couche d'eau liquide la plus profonde serait en contact avec le noyau rocheux de la lune, ce qui en fait un milieu potentiellement propice à l'apparition de la vie telle qu'on la connaît.
+> * Au total, les océans de Ganymède pourraient contenir près de 25 fois le volume de tous les océans terrestres réunis.
+> * L'océan le plus superficiel pourrait être enfoui sous 150 km de glace.
 - En 2021, une équipe d'astronomes a découvert des traces de vapeur d'eau dans l'atmosphère de Ganymède, en revisitant des données du télescope spatial Hubble récoltées entre 1998 et 2018.
 > Cette vapeur d'eau provient de la sublimation de la glace de surface.
 
