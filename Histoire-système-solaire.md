@@ -1778,18 +1778,78 @@ Major model assumptions that can affect the derived internal structure include t
 
 ### JUICE (2022-2033)
 
-- JUICE - JUpiter ICy moons Explorer est une mission de l'Agence Spatiale Européenne, retenue dans le cadre de son programme Vision cosmique 2015-2025.
-- Son lancement est prévu pour Mai 2022 (elle sera envoyée à bord d'une Ariane 5) et la sonde arrivera autour de Jupiter en Janvier 2030, après un voyage de plus de 7 ans et demi
-- La sonde de 5 tonnes passera 3 ans et demi en orbite autour du système Jovien, afin d'étudier en détails la planète ainsi que 3 de ses lunes glacées : Ganymède, Callisto et Europe, toutes 3 étant supposées abriter un océan interne
-- Elle survolera Europe (2 survols) et Callisto, mais une attention particulière sera portée sur Ganymède en raison de ses similitudes avec la Terre
-> * Présence d’un champ magnétique fort, d’une ionosphère et d’un océan.
-> * La sonde se mettra en orbite autour de Ganymède en 2032, et étudiera la surface glacée et la structure interne de cette lune, son océan souterrain ainsi que les interactions de son champ magnétique avec celui de Jupiter. 
-- La sonde embarquera 11 instruments scientifiques
-> Des instruments de télédétection (spectromètre imageur, caméra infrarouge) et de géophysique (altimètre laser, radar, magnétomètre) pour caractériser en détails la surface des lunes glacées, et des détecteurs de particules et de champ gravitationnel
-- JUICE étudiera en continu l’atmosphère et la magnétosphère de Jupiter, ainsi que les interactions de ses lunes avec la géante gazeuse.
-> * Il s'agira d'étudier en détails la structure, la dynamique et a composition de l'atmosphère
-> * Les aurores et les émissions radio, ainsi que leurs interactions avec le vent solaire, seront aussi analysées.
-- JUICE sera la première sonde spatiale européenne à destination des planètes externes du Système solaire. 
+*Sources*
+
+- [JUICE launch kit](https://esamultimedia.esa.int/docs/science/Juice-LaunchKit.pdf)
+- [JUICE instruments](https://sci.esa.int/web/juice/-/61110-juice-instruments)  - ESA
+- [Jupiter Icy Moons Explorer](https://fr.m.wikipedia.org/wiki/Jupiter_Icy_Moons_Explorer) - Wikipédia
+- [Ganymède : Hubble confirme l'existence d'un océan d'eau salée](https://www.futura-sciences.com/sciences/actualites/systeme-solaire-ganymede-hubble-confirme-existence-ocean-eau-salee-57485/) - Futura Sciences
+- [JUICE](https://www.imcce.fr/news/juice) - IMCCE
+- [ESA's New Juice Mission Might Finally Uncover Jupiter's Hidden Secrets](https://www.inverse.com/science/esa-juice-mission-jupiter-icy-moon-secrets) - Inverse
+- [Des chercheurs nantais explorent les lunes de glace de Jupiter](https://u-news.univ-nantes.fr/mission-spatiale-juice-les-chercheurs-nantais-explorent-les-lunes-de-glace-de-jupiter) - Université de Nantes
+- [Ganymède posséderait un sandwich de glaces et d'océans en profondeur](https://www.futura-sciences.com/sciences/actualites/astronomie-ganymede-possederait-sandwich-glaces-oceans-profondeur-53631/) - Futura Sciences
+- [Mapping the Brightness of Ganymede's Ultraviolet Aurora Using Hubble Space Telescope Observations](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JE007256) - Marzok et al (2022)
+- [Ganymede Aurorae (STIS) - Hubble Space Telescope](https://hubblesite.org/contents/media/images/2015/09/3505-Image.html?news=true) - Hubblesite
+- [The Optical Aurorae of Europa, Ganymede, and Callisto](https://iopscience.iop.org/article/10.3847/PSJ/acb53c) - de Kleer et al (2023)
+- [Jupiter’s radiation belts – and how to survive them](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Jupiter_s_radiation_belts_and_how_to_survive_them) - ESA
+- [L'habitabilité des lunes glacées de Jupiter](https://lms.fun-mooc.fr/c4x/univnantes/31003/asset/grasset-reduced.pdf) - Olivier Grasset
+
+
+---
+
+- La sonde spatiale JUICE (Jupiter Icy Moons Explorer) décollera le 13 avril 2023 (14h15'01 CEST), à destination de Jupiter pour y étudier la planète géante et en particulier 3 de ses plus grosses lunes de glace (Ganymède, Callisto et Europe), qui possèdent chacune un océan souterrain. 
+- Il s'agit de la première mission de classe L du programme Cosmic Vision de l'ESA
+- JUICE est la 4e sonde de l'histoire à orbiter autour de Jupiter, après Galileo, Juno (2016-?) et Europa Clipper (2030-?)
+- La sonde de 5 tonnes est équipée de 85 m² de panneaux solaires. Cette surface immense est nécessaire pour alimenter la sonde malgré la distance au Soleil. Ils génèrent entre 700 et 900 watts de puissance en tout.
+- La mission JUICE a couté 1,6 milliard d'euros et a impliqué la participation de plus de 2000 personnes de 23 pays.
+- La durée nominale de la mission scientifique autour de Jupiter est fixée à 4 ans. Si cette mission est un succès, elle pourrait éventuellement être étendue. 
+- JUICE sera la première sonde à orbiter autour d'une autre lune que la notre (Ganymède)
+- Le plus gros risque de cette mission est le champ magnétique de Jupiter, qui est particulièrement intense à proximité d'Europe et qui génère de fortes doses de radiations qui peuvent endommager l'électronique. C'est pourquoi JUICE n'effectuera que 2 survols d'Europe.
+> * La magnétosphère de Jupiter piège les particules chargées environnantes (qui viennent principalement du vent solaire et du volcanisme de sa lune Io) et accélère ces particules comme le ferait un accélérateur sur Terre. Autour de l'equateur de Jupiter se trouvent des régions en forme de beignet où le flux de particules énergetiques est particulièrement intense. C'est l'équivalent jovien des ceintures de van Hallen autour de la Terre, mais en version XXL (et beaucoup plus énergétique)
+> * Autour d'Europe, l'environnement est si hostile que les radiations peuvent tuer un astronaute en quelques heures à peine.
+> * Les instruments sont protégés des radiations et des températures extrêmes par des boucliers et des couches d'isolant thermique
+- Lorsqu'elle arrivera en orbite autour de Ganymède, JUICE devrait être protégée en partie de la ceinture de radiations de la planète géante par le champ magnétique généré par la grosse lune.
+
+***Objectifs scientifiques***
+
+- Les objectifs principaux du satellite seront de réaliser des observations détaillées de la planète géante Jupiter et de trois de ses plus grandes lunes, Ganymède, Europa et Callisto, qui présentent chacune la particularité d'abriter un océan souterrain.
+- L'idée est de comprendre le système jovien dans sa globalité, comme un mini système solaire.
+- La cible principale de la sonde est Ganymède, la plus grosse lune du système solaire et la seule à posséder un champ magnétique.
+- En pratique, les objectifs scientifiques de la mission sont nombreux :
+> * Analyser les caractéristiques de la croûte de glace et l'étendue de l'océan souterrain de Ganymède, et déterminer à quel point les profondeurs de la lune sont propices à l'apparition de la vie (notamment en étudiant ses interactions avec son noyau rocheux)
+> * Déterminer les caractéristiques de l'environnement local et ses interactions avec la magnétosphère de Jupiter (en particulier, comment l'atmosphère de la planète géante interagit avec sa magnétosphère à travers l'observationde ses aurores)
+> * Explorer les régions d'Europe sièges d'une activité récente
+> * Déterminer la composition des matériaux autres que la glace en particulier lorsqu'ils peuvent concerner l'habitabilité de la lune.
+> * Rechercher de l'eau sous forme liquide dans les régions les plus actives.
+> * Déterminer les caractéristiques de l'atmosphère de Jupiter (dynamique, processus chimiques, structure verticale), notamment pour comprendre pourquoi la grande tache rouge est en train de retrécir
+> * Explorer les propriétés de la magnétosphère de Jupiter et ses interactions avec ses lunes, notamment comment Io alimente son tore de plasma
+> * Étudier les satellites de Jupiter et son système d'anneaux (de quoi sont-ils faits et comment sont-ils alimentés ?)
+- JUICE pourra contribuer à déterminer les conditions d'habitabilité des lunes glacées de Jupiter mais elle n'est pas équipée pour détecter des traces de vie dans ces lunes.
+
+***Instruments***
+
+- Pour remplir ses objectifs, la sonde est équipée de 11 instruments scientifiques :
+> * 2 spectromètres imageurs : un en ultraviolet (UVS) pour étudier les aurores de Jupiter et un en IR et visible (MAJIS) pour caractériser la composition minéralogique de la surface des lunes
+> * un instrument mesurant le champ de gravité de Ganymède (3GM)
+> * un magnétomètre pour caractériser la champ magnétique de Jupiter et de Ganymède (J-MAG)
+> * une caméra (JANUS) pour prendre des photos de la surface de Ganymède (résolution de 2.4 m) et des nuages de Jupiter (résolution de 10 km)
+> * un altimètre laser pour étudier la topographie des lunes glacées (GALA)
+> * un détecteur de particules pour étudier la ceinture de plasma autour de Jupiter (PEP)
+> * une expérience d'interférométrie radio (PRIDE) pour cartographier le champ de gravité de Jupiter et de ses lunes glacées à partir de la position précise de la sonde.
+> * un radar sondeur (RIME) pour sonder la structure interne des lunes glacées sur 9 km
+> * un détecteur d'ondes radio et plasma (RPWI) pour caractériser l'environnement de Jupiter et de ses lunes
+> * un spectrographe submillimétrique (SWI) pour caractériser la structure interne de Jupiter et de l'exosphère des lunes glacées
+
+***Timeline de la mission***
+- 13 avril : décollage
+> * 26 min après le décollage la sonde va se séparer de la coiffe d'ariane 5
+> * 99 min apres le décollage la sonde va déployer ses panneaux solaires
+> * 17 jours plus tard elle aura déployé tous ses instruments
+- 2024-2029 : Juice va profiter de 4 phases d'assistance gravitationnelle pour prendre de la vitesse dans son voyage vers Jupiter
+- 2031 : arrivée autour de Jupiter après plus de 7 ans et demi de voyage
+- Fevrier 2032 : arrivée des premières images intéressantes de la sonde 
+- 2031-2034 : 35 survols des lunes glacées
+- Décembre 2034 : arrivée autour de Ganymède 
 
 ### Europa Clipper (2025-?)
 
