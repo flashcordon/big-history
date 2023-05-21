@@ -71,7 +71,7 @@
 - Pour s'assurer de la primauté de sa découverte, Galilée encode son observation dans un anagramme,  comme le veut la coutume de l'époque. 
 - Quand on remet les lettres dans l'ordre, ça donne une phrase en latin : Altissimum planetam tergeminum observavi”,  ce qui signifie : “J'ai vu que la planète la plus lointaine est triple”
 - En 1612, le mystère de Saturne s'épaissit encore. Lorsque Galilée observe la planète géante, les oreilles ont disparu ! L'astronome italien est alors complètement mystifié. Est ce que Saturne aurait dévoré ses enfants ?
-- Les oreilles de la planète finissent par réapparaître en 1613, et semblent changer de forme au fil des observations.
+- Les oreilles de la planète finissent par réapparaître en 1613, et [semblent changer de forme au fil des observations](https://catalogue.museogalileo.it/gallery/SaturnsRings.html).
 - Il a fallu attendre 40 ans avant que le mystère des oreilles de Saturne soit enfin résolu. C'est un astronome danois, Christiaan Huygens, qui, à l'aide de sa lunette plus puissante, va découvrir que les oreilles en question étaient en fait... des anneaux de matière ! Il va d'ailleurs lui aussi annoncer sa découverte sous forme d'anagramme : "aaaaaaacccccdeeeeeghiiiiiiillllmmnnnnnnnnnooooppqrrstttttuuuuu", Ce qui donne en français : elle est entourée par un anneau, mince, plat, nulle part attaché, incliné sur l’écliptique.
 
 *Christiaan Huygens, Systema saturnium, 1659 (Linda Hall Library)*
