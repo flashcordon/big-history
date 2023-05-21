@@ -66,7 +66,7 @@
 
 ***Titre : Le code secret de Galilée***
 
-- Ce charabia n'a pas été généré par un chat qui marche sur un clavier. Il s'agit d'un message codé qui annonce l'une des plus grandes découvertes de l'histoire de l'astronomie.
+- smaismrmilmepoetaleumibunenugttauiras. Ce charabia n'a pas été généré par un chat qui marche sur un clavier. Il s'agit d'un message codé qui annonce l'une des plus grandes découvertes de l'histoire de l'astronomie.
 - En 1610, l'astronome italien Galilée pointe la lunette astronomique qu'il vient de construire vers la planète Saturne. Et ce qu'il découvre va le laisser plutôt perplexe : Saturne n'est pas seule. Elle possède une paire oreilles !
 - Pour s'assurer de la primauté de sa découverte, Galilée encode son observation dans un anagramme,  comme le veut la coutume de l'époque. 
 - Quand on remet les lettres dans l'ordre, ça donne une phrase en latin : Altissimum planetam tergeminum observavi”,  ce qui signifie : “J'ai vu que la planète la plus lointaine est triple”
@@ -79,11 +79,7 @@
 ![Huygensanneaux](https://assets-us-01.kc-usercontent.com/9dd25524-761a-000d-d79f-86a5086d4774/c62afc85-6d27-4178-8454-7b55a7911771/huygens4.jpg?w=462&h=600&auto=format&q=75&fit=crop)
 
 - Et là vous vous dites que c'est la fin de l'histoire. Sauf que pas du tout ! Parce qu'il faudra attendre la fin du 19e siècle avant qu'on ne découvre que le système d'anneaux de Saturne [n'est pas composé de matière solide mais de petites particules](https://www.planetary.org/space-images/saturn-ring-particles), et le survol de la sonde Voyager 1 en 1980 pour obtenir [les premières photos rapprochés du paysage le plus célèbre du système solaire](https://www.planetary.org/space-images/saturn-as-seen-by-voyager-1).
-- Mais alors pourquoi est ce que Galilée a observé des oreilles sur Saturne? Eh bien tout simplement parce que sa lunette n'était pas assez puissante pour réaliser des images résolues de ses anneaux. Si on simule ce qu'aurait vu Galilée en juillet 1610 avec sa lunette, ça donnerait... Ceci. 
-
-*Crédit : Emmanuel Bertin*
-![bertin](https://www.astromatic.net/wp-content/uploads/galileosaturnc_small.png)
-
+- Mais alors pourquoi est ce que Galilée a observé des oreilles sur Saturne? Eh bien tout simplement parce que sa lunette n'était pas assez puissante pour réaliser des images résolues de ses anneaux. Si on prend [une image de Saturne telle qu'elle était dans le ciel de juillet 1610](http://fototek.geol.u-psud.fr/spip.php?action=acceder_document&arg=260&cle=9d8d1c05089568415dbf4858be2dea49453539ec&file=png%2Fcel_saturn2-c.png), et qu'on la passe à travers un logiciel qui simule la lunette de Galilée, ça donne... [Ceci](http://fototek.geol.u-psud.fr/local/cache-vignettes/L320xH180/start_frame_saturn-2-482a8.png). 
 - En 1612, la Terre était passée dans le plan des anneaux, ce qui les rendait temporairement invisibles. Mystère résolu !
 
 ## La plus ancienne photo détaillée de la Lune
