@@ -57,6 +57,10 @@
 - [Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn) - Wikipédia
 - [Saturn history](https://attic.gsfc.nasa.gov/huygensgcms/Shistory.htm) - NASA
 - [1610, Galilée cache ses découvertes dans des anagrammes](https://petiteshistoiresdessciences.com/2017/08/24/galilee-et-les-anagrammes/) - Petits histoires des sciences
+- https://www.mentalfloss.com/article/87433/how-misinterpreted-anagram-predicted-moons-mars
+- http://fototek.geol.u-psud.fr/spip.php?article112
+- https://www.erudit.org/fr/revues/etudfr/2009-v45-n2-etudfr3335/037846ar/
+- https://www.astromatic.net/2009/05/23/see-saturn-as-galileo-did/
 
 ---
 
@@ -74,8 +78,12 @@
 
 ![Huygensanneaux](https://assets-us-01.kc-usercontent.com/9dd25524-761a-000d-d79f-86a5086d4774/c62afc85-6d27-4178-8454-7b55a7911771/huygens4.jpg?w=462&h=600&auto=format&q=75&fit=crop)
 
-- Et là vous vous dites que c'est la fin de l'histoire. Sauf que pas du tout ! Parce qu'il faudra attendre le 19e siècle avant qu'on ne découvre que le système d'anneaux de Saturne n'est pas composé de matière solide mais de petites particules, et le survol de la sonde Voyager 1 en 1980 pour obtenir les premières photos rapprochés du paysage le plus célèbre du système solaire.
-- Mais alors pourquoi est ce que Galilée a observé des oreilles sur Saturne? Eh bien tout simplement parce que sa lunette n'était pas assez puissante pour réaliser des images résolues de ses anneaux. Si on simule ce qu'aurait vu Galilée en 1610 avec sa lunette, ça donnerait... Ceci. 
+- Et là vous vous dites que c'est la fin de l'histoire. Sauf que pas du tout ! Parce qu'il faudra attendre le 19e siècle avant qu'on ne découvre que le système d'anneaux de Saturne [n'est pas composé de matière solide mais de petites particules](https://www.planetary.org/space-images/saturn-ring-particles), et le survol de la sonde Voyager 1 en 1980 pour obtenir [les premières photos rapprochés du paysage le plus célèbre du système solaire](https://www.planetary.org/space-images/saturn-as-seen-by-voyager-1).
+- Mais alors pourquoi est ce que Galilée a observé des oreilles sur Saturne? Eh bien tout simplement parce que sa lunette n'était pas assez puissante pour réaliser des images résolues de ses anneaux. Si on simule ce qu'aurait vu Galilée en juillet 1610 avec sa lunette, ça donnerait... Ceci. 
+
+*Crédit : Emmanuel Bertin*
+![bertin](https://www.astromatic.net/wp-content/uploads/galileosaturnc_small.png)
+
 - En 1612, la Terre était passée dans le plan des anneaux, ce qui les rendait temporairement invisibles. Mystère résolu !
 
 ## La plus ancienne photo détaillée de la Lune
