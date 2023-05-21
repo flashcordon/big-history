@@ -69,6 +69,11 @@
 - En 1612, le mystère de Saturne s'épaissit encore. Lorsque Galilée observe la planète géante, les oreilles ont disparu ! L'astronome italien est alors complètement mystifié. Est ce que Saturne aurait dévoré ses enfants ?
 - Les oreilles de la planète finissent par réapparaître en 1613, et semblent changer de forme au fil des observations.
 - Il a fallu attendre 40 ans avant que le mystère des oreilles de Saturne soit enfin résolu. C'est un astronome danois, Christiaan Huygens, qui, à l'aide de sa lunette plus puissante, va découvrir que les oreilles en question étaient en fait... des anneaux de matière ! Il va d'ailleurs lui aussi annoncer sa découverte sous forme d'anagramme : "aaaaaaacccccdeeeeeghiiiiiiillllmmnnnnnnnnnooooppqrrstttttuuuuu", Ce qui donne en français : elle est entourée par un anneau, mince, plat, nulle part attaché, incliné sur l’écliptique.
+
+*Christiaan Huygens, Systema saturnium, 1659 (Linda Hall Library)*
+
+![Huygensanneaux](https://assets-us-01.kc-usercontent.com/9dd25524-761a-000d-d79f-86a5086d4774/c62afc85-6d27-4178-8454-7b55a7911771/huygens4.jpg?w=462&h=600&auto=format&q=75&fit=crop)
+
 - Et là vous vous dites que c'est la fin de l'histoire. Sauf que pas du tout ! Parce qu'il faudra attendre le 19e siècle avant qu'on ne découvre que le système d'anneaux de Saturne n'est pas composé de matière solide mais de petites particules, et le survol de la sonde Voyager 1 en 1980 pour obtenir les premières photos rapprochés du paysage le plus célèbre du système solaire.
 - Mais alors pourquoi est ce que Galilée a observé des oreilles sur Saturne? Eh bien tout simplement parce que sa lunette n'était pas assez puissante pour réaliser des images résolues de ses anneaux. Si on simule ce qu'aurait vu Galilée en 1610 avec sa lunette, ça donnerait... Ceci. 
 - En 1612, la Terre était passée dans le plan des anneaux, ce qui les rendait temporairement invisibles. Mystère résolu !
