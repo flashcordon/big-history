@@ -7,6 +7,7 @@
 - 1840 : [La plus ancienne photo détaillée de la Lune](#La-plus-ancienne-photo-détaillée-de-la-Lune)
 - 1845 : [La première photo du Soleil](#La-première-photo-du-Soleil)
 - 1931 : [La première photo de la courbure de la Terre](#La-première-photo-de-la-courbure-de-la-Terre)
+- 1946 : [La première photo de la Terre vue de l’espace](#La-première-photo-de-la-Terre-vue-de-lespace)
 - 1966 : [La première photo depuis la surface d'un autre monde](#La-première-photo-depuis-la-surface-dun-autre-monde)
 - 1888 : [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie)
 - 1986 : [La première carte de l'univers local](#La-première-carte-de-lunivers-local)
@@ -174,6 +175,33 @@ stand in front of the Explorer II balloon gondola.
 Credits: National Geographic Society.
 
 In a joint program between the U.S. Army Air Corps and the National Geographic Society, Capt. Stevens, joined by Capt. Orvil A. Anderson, took the first photograph from a high-altitude balloon, clearly showing the Earth's curvature. On Nov. 11, 1935, the pair took off from the Stratobowl near Rapid City, South Dakota, aboard the helium-filled Explorer II balloon, and ascended to a then world record altitude of 72,395 feet. The photograph showed the troposphere-stratosphere boundary and the actual curvature of the Earth and demonstrated the potential for long-range reconnaissance from high-altitude balloons.
+
+## La première photo de la Terre vue de l’espace
+
+*Sources*
+
+- [American Scientists Took the First Photo of Earth From Space Using Nazi Rockets](https://www.smithsonianmag.com/smart-news/70-years-ago-today-nazi-rockets-and-american-scientists-took-first-photo-earth-space-180960890/) - Smithonian Magazine
+- [Hermes program](https://en.m.wikipedia.org/wiki/Hermes_program) - Wikipédia
+- [1st photo of Earth from space, 76 years ago](https://earthsky.org/space/this-date-in-science-first-ever-photo-of-earth-from-space/) - Earthsky
+- [75 years ago, a Nazi rocket took the first photo of Earth from space](https://www.inverse.com/science/first-photo-of-earth-from-space) - Inverse
+-[Timeline of first images of Earth from space](https://en.m.wikipedia.org/wiki/Timeline_of_first_images_of_Earth_from_space) - Wikipédia
+
+---
+
+*Première photo de la Terre vue de l'espace. Crédit : US army*
+
+![V21946](https://upload.wikimedia.org/wikipedia/commons/5/5b/First_photo_from_space.jpg)
+
+[Vidéo archives du vol de la V2](https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/1946-11-21_White_Sands_NM_V-2_rocket.ogg/1946-11-21_White_Sands_NM_V-2_rocket.ogg.240p.vp9.webm)
+
+- Ça, c'est la première photo de la Terre vue de l'espace. Et elle n'a pas été prise par un satellite, mais par un missile. Je vous raconte.
+- À la fin de la seconde Guerre Mondiale, l'armée americaine a réquisitionné pas mal de missiles qui avaient été développés par l'Allemagne nazie, les fameuses V2, dans le but de comprendre leur fonctionnement et de les améliorer.
+- Le 2 octobre 1946, un de ces missiles, la V2 n°13, décolle de la base de lancement de White Sands, au Nouveau Mexique. À son bord, les ingénieurs ont accroché une caméra qui enregistre son périple à raison d'une photo toutes les seconde et demi.
+- Après un vol de quelques minutes, le missile finit par s'écraser violemment dans le désert. La caméra est complètement détruite, mais comme le film du vol se trouvait dans un boîtier en acier, il a survécu. 
+- Retrouver ce film a d'ailleurs été une aventure à part entière, vu qu'à l'époque, il n'y avait pas de GPS pour localiser précisément l'endroit du crash. Les militaires ont donc été obligé de passer le désert au peigne fin dans des jeeps en tenant compte des données radar très imprécises.
+- Le cliché pris au sommet de la trajectoire de la V2 est ainsi la première photo à avoir été prise à plus de 100 km d'altitude, ce qui correspond à la limite qui marque officiellement le début de l'espace. À cette hauteur, on pouvait voir pour la toute première fois un bout de notre planète enveloppé par la noirceur du cosmos. 
+- Il y a eu bien d'autres photos marquantes de la Terre depuis, mais ça, c'est une autre histoire.
+
 
 ## La première photo depuis la surface d'un autre monde
 
