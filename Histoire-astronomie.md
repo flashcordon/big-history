@@ -226,7 +226,7 @@ In a joint program between the U.S. Army Air Corps and the National Geographic S
 ![panoramaLuna9](http://mentallandscape.com/C_Luna09_1.jpg)
 
 - Pour l'anecdote, comme les signaux de la sonde n'étaient pas codées, cette photo été interceptée par un observatoire britannique situé près de Manchester. Les anglais ont donc damé le pion aux soviétiques en dévoilant l'image historique à la presse un jour avant ces derniers !
-- Les batteries de Luna 9 ont permis à la sonde de communiquer avec la Terre pendant 3 jours, ce qui lui a permis de transmettre des données précieuses sur le taux de radiations de notre satellite, ainsi que d'autres panoramas lunaires. Mais ce que Luna 9 a surtout prouvé, c'était que l'atterrissage d'un vaisseau sur la lune était techniquement faisable. 
+- Les batteries de Luna 9 ont permis à la sonde de communiquer avec la Terre pendant 3 jours, ce qui lui a permis de transmettre des données précieuses sur le taux de radiations de notre satellite, ainsi que d'autres panoramas lunaires. Mais ce que Luna 9 a surtout prouvé, c'était que l'atterrissage d'un engin sur la lune était techniquement faisable. 
 
 ![panoramaLuna9_2](http://mentallandscape.com/C_Luna09_2.jpg)
 
