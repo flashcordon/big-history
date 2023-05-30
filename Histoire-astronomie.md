@@ -8,7 +8,7 @@
 - 1845 : [La première photo du Soleil](#La-première-photo-du-Soleil)
 - 1931 : [La première photo de la courbure de la Terre](#La-première-photo-de-la-courbure-de-la-Terre)
 - 1946 : [La première photo de la Terre vue de l’espace](#La-première-photo-de-la-Terre-vue-de-lespace) OK
-- 1966 : [La première photo depuis la surface d'un autre monde](#La-première-photo-depuis-la-surface-dun-autre-monde)
+- 1966 : [La première photo depuis la surface d'un autre monde](#La-première-photo-depuis-la-surface-dun-autre-monde) OK
 - 1888 : [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie)
 - 1986 : [La première carte de l'univers local](#La-première-carte-de-lunivers-local)
 - 1991 : [La première photo rapprochée d'un astéroide](#La-première-photo-rapprochée-dun-astéroide)
@@ -210,26 +210,21 @@ In a joint program between the U.S. Army Air Corps and the National Geographic S
 - [The First Pictures from the Moon’s Surface](https://airandspace.si.edu/stories/editorial/first-pictures-moons-surface) - Air and Space Museum
 - [First Photo from the Surface of the Moon](https://moon.nasa.gov/resources/29/first-photo-from-the-surface-of-the-moon/) - NASA
 - [50 Years Ago We Got Our First Picture from the Moon](https://www.universetoday.com/127171/50-years-ago-we-got-our-first-picture-from-the-moon/) - Universe Today
+- [3 février 1966 : premier atterrissage lunaire par Luna 9](https://reves-d-espace.com/3-fevrier-1966-premier-atterrissage-lunaire-par-luna-9/) - Rêves d'espace
+- [31 JANVIER 1966: L'URSS PART À LA CONQUÊTE DE LA LUNE](https://www.journal-espace.fr/luna-9-lurss-part-a-la-conquete-de-la-lune/) - Journal de l'espace
 
 ---
 
-Close up image of the Oceanus Procellarum region of the Moon from the Soviet Luna 9 lander in February 1966.
+- Vous n'avez probablement jamais vu cette image, et pourtant il s'agit de la première photo prise depuis la surface d'un autre monde.
+- Le 3 février 1966, la sonde soviétique Luna 9 se pose sur la Lune, après un voyage de près de 3 jours. Elle n'est pas la première sonde à avoir atteint notre satellite, mais elle est le premier engin à être arrivé en douceur sur la surface lunaire et à transmettre des données à la Terre après son atterrissage.
+- Après quelques rebondissements dus aux airbags qui ont amorti sa chute, la sonde robotique déploie les 4 pétales du cocon qui servent à protéger sa caméra de télévision. L'appareil réalise alors un panorama à 360 degrés de l'océan des tempêtes, la plaine basaltique qui a servi de zone d'atterrissage à Luna 9. Cette photo en noir et blanc devient ainsi la première à avoir été capturée depuis la surface d'un autre astre que la Terre.
 
-Luna 9 made the first survivable landing on the moon and snapped the first photos from its surface.
+![panoramaLuna9](http://mentallandscape.com/C_Luna09_1.jpg)
 
-Half a century ago, in February and June 1966, robotic spacecraft first landed on the Moon. I vividly remember those events from my days as a 14-year-old space buff. On February 3, the Soviet Union’s Luna 9 thumped down on the vast lava plain known as Oceanus Procellarum (Ocean of Storms), after a number of failed attempts. A Soviet stamp shows its landing configuration, which used air bags to cushion its fall. On the right is the first picture transmitted, from the turret camera in the cylinder on top.
+- Pour l'anecdote, comme les signaux de la sonde n'étaient pas codées, cette photo été interceptée par un observatoire britannique situé près de Manchester. Les anglais ont donc damé le pion aux soviétiques en dévoilant l'image historique à la presse un jour avant ces derniers !
+- Les batteries de Luna 9 ont permis à la sonde de communiquer avec la Terre pendant 3 jours, ce qui lui a permis de transmettre des données précieuses sur le taux de radiations de notre satellite, ainsi que d'autres panoramas lunaires. Mais ce que Luna 9 a surtout prouvé, c'était que l'atterrissage d'un vaisseau sur la lune était techniquement faisable. 
 
-This image was intercepted by the Jodrell Bank observatory in England, which beat the Soviets to releasing it. The quality in this version was less than ideal, but it was the one that made the newspapers like my hometown Calgary Herald.
-
-Luna 9, which was only powered by batteries, lasted three days, enough to transmit a panorama from very close to the surface
-
-The fourth successful mission in the USSR’s long-running Luna series, Luna 9 sent us our first views of the Moon’s surface from the surface and, perhaps even more importantly, confirmed that a landing by spacecraft was indeed possible.
-
-The entire Luna 9 lander was made up of two main parts: a 1,439-kg flight/descent stage which contained retro-rockets and orientation engines, navigation systems, and various fuel tanks, and a 99-kg (218-lb) pressurized “automatic lunar station” that contained all the science and imaging instruments along with batteries, heaters, and a radio transmitter.
-
-When a probe on the descent stage detected contact with the lunar surface, the spherical station — encased in an inflated airbag — was jettisoned to soft-land a safe distance away — after a bit of bouncing, of course; the lander hit the Moon’s surface at about 22 km/hr (13 mph)!
-
-Once the airbag cushions deflated Luna 9, like a shiny metal flower, opened its four “petals,” extended its radio antennas and began taking panoramic television camera images of its surroundings, at the time lit by a very low Sun on the lunar horizon. Received on Earth early on Feb. 4, 1966, they were the first pictures taken from the surface of the Moon and in fact the first images acquired from the surface of another world.
+![panoramaLuna9_2](http://mentallandscape.com/C_Luna09_2.jpg)
 
 ## La première photo rapprochée d'un astéroide
 
