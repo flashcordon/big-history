@@ -13,6 +13,7 @@
 - 1986 : [La première carte de l'univers local](#La-première-carte-de-lunivers-local)
 - 1991 : [La première photo rapprochée d'un astéroide](#La-première-photo-rapprochée-dun-astéroide)
 - 2004 : [La première photo d'une exoplanète](#La-première-photo-dune-exoplanète)
+- 2005 : La première photo prise depuis la surface de Titan
 - 2014 : La première photo depuis la surface d'une comète
 
 ## La plus ancienne représentation du ciel
