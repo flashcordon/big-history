@@ -215,9 +215,13 @@ In a joint program between the U.S. Army Air Corps and the National Geographic S
 
 ---
 
+*Première photo de Luna 9. Crédit : Roscosmos*
+
+![luna9](https://www.universetoday.com/wp-content/uploads/2016/02/luna-9-3.jpg)
+
 - Vous n'avez probablement jamais vu cette image, et pourtant il s'agit de la première photo prise depuis la surface d'un autre monde.
 - Le 3 février 1966, la sonde soviétique Luna 9 se pose sur la Lune, après un voyage de près de 3 jours. Elle n'est pas la première sonde à avoir atteint notre satellite, mais elle est le premier engin à être arrivé en douceur sur la surface lunaire et à transmettre des données à la Terre après son atterrissage.
-- Après quelques rebondissements dus aux airbags qui ont amorti sa chute, la sonde robotique déploie les 4 pétales du cocon qui servent à protéger sa caméra de télévision. L'appareil réalise alors un panorama à 360 degrés de l'océan des tempêtes, la plaine basaltique qui a servi de zone d'atterrissage à Luna 9. Cette photo en noir et blanc devient ainsi la première à avoir été capturée depuis la surface d'un autre astre que la Terre.
+- Après quelques rebondissements dus aux airbags qui ont amorti sa chute, [la sonde robotique déploie les 4 pétales du cocon](https://www.universetoday.com/wp-content/uploads/2016/02/luna-9.jpg) qui servent à protéger sa caméra de télévision. L'appareil réalise alors un panorama à 360 degrés de l'océan des tempêtes, la plaine basaltique qui a servi de zone d'atterrissage à Luna 9. Cette photo en noir et blanc devient ainsi la première à avoir été capturée depuis la surface d'un autre astre que la Terre.
 
 ![panoramaLuna9](http://mentallandscape.com/C_Luna09_1.jpg)
 
