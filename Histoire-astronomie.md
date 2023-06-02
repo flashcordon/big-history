@@ -3,6 +3,7 @@
 # TABLE DES MATIERES
 
 - -1600 : [La plus ancienne représentation du ciel](#La-plus-ancienne-représentation-du-ciel) OK
+- 649-684 : La plus ancienne carte d’étoiles connue
 - 1610 : [Le premier dessin des anneaux de Saturne](#Le-premier-dessin-des-anneaux-de-Saturne) OK
 - 1840 : [La plus ancienne photo détaillée de la Lune](#La-plus-ancienne-photo-détaillée-de-la-Lune)
 - 1845 : [La première photo du Soleil](#La-première-photo-du-Soleil)
@@ -15,6 +16,7 @@
 - 2004 : [La première photo d'une exoplanète](#La-première-photo-dune-exoplanète)
 - 2005 : La première photo prise depuis la surface de Titan
 - 2014 : La première photo depuis la surface d'une comète
+- 2019 : La première photo d'un trou noir
 
 ## La plus ancienne représentation du ciel
 
