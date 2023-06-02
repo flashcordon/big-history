@@ -2,7 +2,7 @@
 
 # TABLE DES MATIERES
 
-- -1600 : [La plus ancienne représentation du ciel](#La-plus-ancienne-représentation-du-ciel)
+- -1600 : [La plus ancienne représentation du ciel](#La-plus-ancienne-représentation-du-ciel) OK
 - 1610 : [Le premier dessin des anneaux de Saturne](#Le-premier-dessin-des-anneaux-de-Saturne) OK
 - 1840 : [La plus ancienne photo détaillée de la Lune](#La-plus-ancienne-photo-détaillée-de-la-Lune)
 - 1845 : [La première photo du Soleil](#La-première-photo-du-Soleil)
