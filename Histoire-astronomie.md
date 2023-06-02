@@ -41,6 +41,7 @@
 - En effet, les Pléiades n'apparaissent près de la Lune qu'à deux périodes précises de l'année : en mars, au moment des premières semailles, et en octobre, au moment des dernières moissons. Coincidence ?
 - Quelle que soit son utilité, la découverte du disque de Nebra est aujourd'hui considérée comme l'une des plus importantes de l'histoire de l'archéologie. L'artefact est désormais inscrit au registre "Mémoire du monde" de l’UNESCO, et il est conservé au Musée de la Préhistoire de Halle, en Allemagne.
 
+---
 
 - The Nebra Sky Disc is one of the most important archaeological finds of the past century
 - Dégagé à l’été 1999 par deux pilleurs de trésor munis d’un détecteur de métal dans le mont du Mittelberg (Saxe-Anhalt, Allemagne), le disque de Nebra aurait (puisque c'est désormais contesté) été exhumé avec des épées, des bracelets et quelques autres ustensiles métalliques empilés les uns sur les autres. 
