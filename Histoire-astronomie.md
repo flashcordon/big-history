@@ -30,6 +30,18 @@
 
 ---
 
+***Titre : Le plus vieux dessin du ciel***
+
+- Ca, c'est la plus ancienne représentation connue de la voûte céleste. Je vous raconte.
+- En 1999, deux chasseurs de trésors équipés d'un détecteur de métal déterrent un étrange disque de bronze sur la colline du Mittelberg, près de la petite ville allemande de Nebra.
+- L'artefact est revendu de manière illégale à un receleur, qui le passe de main en main via la marché noir. Mais la police finit par perquisitionner le trésor en 2002, à l'occasion d'une vente dans un hôtel suisse.
+- Lorsque les archéologues mettent enfin la main sur le disque, ils découvrent qu'il serait âgé d'environ 3600 ans, ce qui correspond au début de l'âge de bronze en Europe.
+- Ce qui rend le disque de Nebra si spécial, ce sont les motifs en or qui ornent l'une de ses faces. On peut y voir un croissant de lune, un rond qui représente le Soleil ou la pleine Lune, 7 étoiles regroupées qui correspondent à l'amas des Pléiades, et un arc de cercle qui pourrait représenter une sorte de barque céleste ou bien la Voie Lactée, on n'est pas trop sûr.
+- À quoi pouvait donc servir ce disque ? Eh bien, difficile d'en être certain. Il pourrait être une oeuvre d'art, une horloge astronomique ou encore un symbole religieux, mais l'hypothèse la plus probable aujourd'hui, c'est qu'il constituait une sorte de calendrier agricole.
+- En effet, les Pléiades n'apparaissent près de la Lune qu'à deux périodes précises de l'année : en mars, au moment des premières semailles, et en octobre, au moment des dernières moissons. Coincidence ?
+- Quelle que soit son utilité, la découverte du disque de Nebra est aujourd'hui considérée comme l'une des plus importantes de l'histoire de l'archéologie. L'artefact est désormais inscrit au registre "Mémoire du monde" de l’UNESCO, et il est conservé au Musée de la Préhistoire de Halle, en Allemagne.
+
+
 - The Nebra Sky Disc is one of the most important archaeological finds of the past century
 - Dégagé à l’été 1999 par deux pilleurs de trésor munis d’un détecteur de métal dans le mont du Mittelberg (Saxe-Anhalt, Allemagne), le disque de Nebra aurait (puisque c'est désormais contesté) été exhumé avec des épées, des bracelets et quelques autres ustensiles métalliques empilés les uns sur les autres. 
 - Un disque de bronze portant des motifs en or, pesant à peu près 2 kg et mesurant environ 32 cm de diamètre.
