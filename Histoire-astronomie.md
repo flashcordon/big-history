@@ -6,7 +6,7 @@
 - 649-684 : La plus ancienne carte d’étoiles connue
 - 1610 : [Le premier dessin des anneaux de Saturne](#Le-premier-dessin-des-anneaux-de-Saturne) OK
 - 1840 : [La plus ancienne photo détaillée de la Lune](#La-plus-ancienne-photo-détaillée-de-la-Lune)
-- 1845 : [La première photo du Soleil](#La-première-photo-du-Soleil)
+- 1845 : [La première photo du Soleil](#La-première-photo-du-Soleil) OK
 - 1931 : [La première photo de la courbure de la Terre](#La-première-photo-de-la-courbure-de-la-Terre)
 - 1946 : [La première photo de la Terre vue de l’espace](#La-première-photo-de-la-Terre-vue-de-lespace) OK
 - 1966 : [La première photo depuis la surface d'un autre monde](#La-première-photo-depuis-la-surface-dun-autre-monde) OK
@@ -143,17 +143,20 @@ By all accounts, however, these earlier attempts at Moon photography were blurry
 - [TECHNOLOGY THROUGH TIME ISSUE #40: FIRST SUN PHOTO](https://sunearthday.nasa.gov/2006/locations/firstphoto.php) - NASA
 - [The First Photo of the Sun](https://slate.com/technology/2016/09/the-first-photo-of-the-sun-was-taken-in-1845.html) - Phil Plait
 - [The First Photograph of the Sun](https://time.com/3807904/first-photograph-of-the-sun/) - Time
+- [L’invention de la photographie en rapport avec l’astronomie](https://www.arts-et-metiers.net/musee/linvention-de-la-photographie-en-rapport-avec-lastronomie) - Musée des arts et métiers
 
 ---
 
 ![1stphotosun](https://sunearthday.nasa.gov/2006/images/gal_032.jpg)
 
-- The first photograph of the Sun was taken on April 2, 1845
-- The first surviving daguerrotype photograph of the sun (Figure 1) was taken at the dawn of photography in 1845 by French physicists Louis Fizeau (1819-1896) and Léon Foucault (1819-1868). The 5-inch image showed many details including a few sunspots. The spots are pretty big, roughly as wide as Jupiter
-- They used a daguerreotype, what was really the first kind of photography; a metal plate was treated with chemicals that made it light-sensitive, exposed to a scene, then treated with different chemicals to stop the exposure.
-- In a major technological feat at the time, the pair pointed their camera at Earth’s star; after an exposure of just 1/60th of a second, the photo was made. 
-- The naked eye, of course, cannot see the sun in all its glory during the day, but instead witnesses, at best, partial bursts at sunrise or sunset. To see the entire, brilliant sphere at once, as the early viewers of Foucault and Louis Fizeau’s 1845 picture did, was an utterly new experience for most.
-- Visible on its surface are sunspots — areas of intense magnetic activity that are also impossible to see with the naked eye.
+- Ce cliché ne paie pas de mine, mais il s'agit de plus ancienne photo du Soleil de l'Histoire. Je vous raconte.
+- Le 2 avril 1845, les physiciens Hippolyte Fizeau et Léon Foucault pointent un curieux appareil en direction de notre étoile. Cet appareil d'une cinquantaine de kilos n'est pas un appareil photo, mais son ancêtre direct, un daguerréotype, le premier appareil de l'histoire permettant d'afficher et d'enregistrer une image de manière permanente.
+- Le procédé est simple, mais révolutionnaire : dans un daguerréotype, une plaque métallique est rendue sensible à la lumière par traitement à la vapeur d'iode, et après un temps de pose d'une quinzaine de minutes environ, la plaque peut être développée grâce à une exposition à différents produits chimiques.
+- Alors vous vous en doutez, si vous pointez un appareil vers le Soleil pendant un quart d'heure, votre photo sera complètement cramée. Du coup, Fizeau et Foucault ont du rivaliser d'ingéniosité pour améliorer le procédé et réduire le temps de pose à un soixantième de seconde, ce qui est une véritable prouesse technologique pour l'époque.
+- Sur la plus ancienne photo du Soleil qui a survécu, on peut apercevoir le disque solaire parsemé de petites taches sombres. Ces zones sombres sont des taches solaires, des régions de l'étoile plus froides que la moyenne qui sont associées à une intense activité magnétique. Certaines de ces taches sont aussi grosses que Jupiter !
+- Cette photo est non seulement historique pour son sujet, mais aussi parce qu'elle a permis d'inaugurer une nouvelle pratique qui fait depuis le bonheur de nombreux astronomes amateurs et professionnels : l'astrophotographie.
+- Ce cliché exceptionnel du Soleil est aujourd'hui conservé au Musée des arts et métiers à Paris. Mais comme il est très fragile, il n’est malheureusement plus exposé au public. 
+
 - Both managed to take the first known photograph of the Sun in 1845 using an improved daguerreotype process. The scientists finally proved that high quality astronomical photography was possible and only six years later the first Solar eclipse was successfully recorded by a daguerreotypist named Berkowski at the Königsberg Observatory. 
 - The earliest scientifically useful photograph of a total solar eclipse was made by Julius Berkowski at the Royal Observatory in Königsberg, Prussia, on July 28, 1851. This was the first occasion that an accurate photographic image of a solar eclipse was recorded.
 
