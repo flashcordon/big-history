@@ -546,6 +546,7 @@ cf plus haut
 - [International Space Station](https://en.wikipedia.org/wiki/International_Space_Station) - Wikipedia
 - [Advanced Closed Loop System](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Advanced_Closed_Loop_System) - ESA
 - Life support systems for humans in space - Erik Seedhouse (2020)
+- [Toward sustainable space exploration: a roadmap for harnessing the power of microorganisms](https://www.nature.com/articles/s41467-023-37070-2) - Santomartino et al (2023)
 
 ---
 
