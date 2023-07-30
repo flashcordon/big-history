@@ -597,7 +597,7 @@ cf plus haut
 - En pratique, les bionautes, comme on les a appelé, ont dû faire face à une fuite d’oxygène qui a mis leur vie en danger, à un écosystème mal équilibré et à pas mal de problèmes humains qui vont des publications scientifiques douteuses aux chercheurs qui pouvaient pas se saquer. Bref, le projet a été un semi-échec, et il a été pas mal ridiculisé en son temps. Faut dire que l’aura New Age autour du projet et de son financement n’a pas vraiment aidé non plus. 
 - Mais Biosphère 2 aura au moins servi à montrer UNE chose : maîtriser un écosystème, c’est pas simple. Du coup des approches simplifiées ont vues le jour, comme le projet MELISSA de l’agence spatiale européenne. 
 
-# Astrobioéthique
+# Astroéthique
 
 *Sources*
 
@@ -611,6 +611,10 @@ cf plus haut
 - Astrobioethics Considerations Regarding Space Exploration - Octavio Chon- Torres, in Reclaiming Space (2023)
 - [https://blogs.scientificamerican.com/observations/astroethics-and-cosmocentrism/](Astroethics and Cosmocentrism) - Scientific American
 - [An Astroethics of Responsibility and Care](https://egrove.olemiss.edu/ssocia/2020/schedule/37/) - SSoCIA 2020
+- [Post-Detection SETI Protocols & METI: The Time Has Come To Regulate Them Both](https://arxiv.org/abs/1701.08422) - Gertz (2017)
+- [Astroethics: Engaging Extraterrestrial Intelligent Life-Forms, Encountering Life in the Universe](https://www.researchgate.net/publication/290857246_Astroethics_Engaging_extraterrestrial_intelligent_life-forms) - Ted Peters (2013)
+- [Environmental Ethics in Outer Space](https://www.duo.uio.no/bitstream/handle/10852/69331/1/Owe-Andrea-15-05-2019-Environmental-Ethics-in-Outer-Space-MAthesis-.pdf) - Andrea Owe (2019)
+- [Astroethics for Earthlings: Our Responsibility to the Galactic Commons](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119711186.ch2) - Ted Peters (2021)
 
 ---
 
@@ -656,6 +660,8 @@ another other question may arise: If we agree we should empathize
 with exterrestrial microbial life forms, should we extend the same consideration
 to microbes on Earth?
 
+ The emergent field of “space ethics” (or “astrobioethics” or “astroethics” or “environmental ethics in space”; cf. Chon-Torres, 2018; Owe, 2019; Wanjet, 2020; Peters, 2002, 2013, 2019a, 2021) is developing rapidly, following the progress made in the last two decades in astrobiology and space science
+
 ***Institutions pertinentes :***
 - COSPAR
 - [IAGETH Working Group on Astrobioethics](https://www.icog.es/iageth/index.php/p3loki-gn/) 
@@ -667,6 +673,8 @@ to microbes on Earth?
 - Margaret Race (SETI)
 - Muriel Gargaud (Société Française d’Exobiologie)
 - Jesús Martínez-Frías (International Association for Geoethics)
+- Ted Peters
+- John Gertz
 
 
 
