@@ -617,6 +617,8 @@ cf plus haut
 - [Astroethics for Earthlings: Our Responsibility to the Galactic Commons](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119711186.ch2) - Ted Peters (2021)
 - [Environmentalism, Ethics, and Outer Space](https://spaceethicslibrary.wordpress.com/resources/environmentalism-outer-space/environmental-ethics-and-outer-space/) - Space Ethics Library, JustSpace Alliance
 - [The Value of Extraterrestrial Life](https://spaceethicslibrary.wordpress.com/resources/environmentalism-outer-space/the-value-of-extraterrestrial-life/) - Space Ethics Library, JustSpace Alliance
+- [Life-centered ethics, and the human future in space](https://pubmed.ncbi.nlm.nih.gov/19077128/) - Mautner (2008)
+- [Ethics and Extraterrestrials: What Obligations Will We Have to Extraterrestrial Life? What Obligations Will It Have to Us?](https://academic.oup.com/book/36896/chapter-abstract/322142390?redirectedFrom=fulltext) - Potthast (2020)
 
 ---
 
