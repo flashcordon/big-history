@@ -597,6 +597,77 @@ cf plus haut
 - En pratique, les bionautes, comme on les a appelé, ont dû faire face à une fuite d’oxygène qui a mis leur vie en danger, à un écosystème mal équilibré et à pas mal de problèmes humains qui vont des publications scientifiques douteuses aux chercheurs qui pouvaient pas se saquer. Bref, le projet a été un semi-échec, et il a été pas mal ridiculisé en son temps. Faut dire que l’aura New Age autour du projet et de son financement n’a pas vraiment aidé non plus. 
 - Mais Biosphère 2 aura au moins servi à montrer UNE chose : maîtriser un écosystème, c’est pas simple. Du coup des approches simplifiées ont vues le jour, comme le projet MELISSA de l’agence spatiale européenne. 
 
+# Astrobioéthique
+
+*Sources*
+
+- [Astrobioethics](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/astrobioethics/AB72BF5A327A011B9C4EA3E2C2475C87) - Octavio A. Chon-Torres (2017)
+- [Astrobioethics: Epistemological, Astrotheological, and Interplanetary Issues](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119711186.ch1) - Octavio A. Chon-Torres (2021)
+- [Beyond Spaceship Earth: Environmental Ethics and the Solar System](https://www.amazon.com/gp/reader/0962680710/ref=sib_dp_ptu#) - Hargrove (1992) 
+- [Be the Parent of a Brand-New Word: Astrobioethics](https://www.wired.com/2008/08/wired-science-c/) - WIRED
+- [Planetary protection: an international concern and responsibility](https://www.frontiersin.org/articles/10.3389/fspas.2023.1172546/full) - Coustenis et al (2023)
+- [COSPAR Policy on Planetary Protection](https://cosparhq.cnes.fr/assets/uploads/2020/07/PPPolicyJune-2020_Final_Web.pdf) - COSPAR (2020)
+- [The challenge of planetary protection](https://cosparhq.cnes.fr/assets/uploads/2020/09/ROOM_Coustenis_planetprotect_jun2019.pdf) - Coustenis, Kminek et Hedman (2019)
+- Astrobioethics Considerations Regarding Space Exploration - Octavio Chon- Torres, in Reclaiming Space (2023)
+- [https://blogs.scientificamerican.com/observations/astroethics-and-cosmocentrism/](Astroethics and Cosmocentrism) - Scientific American
+- [An Astroethics of Responsibility and Care](https://egrove.olemiss.edu/ssocia/2020/schedule/37/) - SSoCIA 2020
+
+---
+
+astrobioethics, a branch of ethics involving the implications of life science in space
+
+If mankind finds life elsewhere in the universe, should we protect it? To what extent? Would it be wrong to alter it? If not, what sort of alterations are permissible? What if you could make a fortune by melting down a microbe-rich asteroid? Is killing a bunch of space bugs any different than taking antibiotics?
+
+Octavio A. Chon-Torres : Astrobioethics is a philosophical approach within astrobiology that
+examines the repercussions or moral implications of the research and actions
+we take regarding life in the universe. Some of the key questions about space
+exploration with respect to astrobioethics are: (1) Are we the guardians of life
+in the universe? (2) Can we be morally empathetic to possible extraterrestrial
+life forms? (3) Is the discovery of life elsewhere in the universe a key factor in
+the improvement of the human condition? (4) Can becoming multi- or interplanetary
+beings mean that we finally come together as humanity? (5) Should
+we avoid at all costs any possible attempt to communicate with other possible
+civilizations in the universe?
+
+In the situation that humans are the only conscious, technologically advanced
+life form so far, we would have an ethical obligation to maintain and
+preserve life.
+
+if a life form has the necessary intelligence and tools to
+maintain life, it will have to do so.
+
+if we were to find some form of microbial life while exploring
+space, would we be obliged to respect it?
+According to astrobiologist Julian Chela- Florez (2001; 2009; Aretxaga
+2004), biogeocentrism is a perspective of life in the universe (as well as its
+value) based on the only reference we have so far, which is terrestrial life.
+Since we have no evidence of life outside Earth, it is impossible to overcome
+biogeocentrism at this time. However, the same is not true if we examine the
+value of extraterrestrial life on a conceptual level, through philosophical speculation.
+For instance, there is the idea of teloempathy, which, according to
+astrobiologist Charles Cockell (2005a, 2005b), is a position humans can take
+in relation to forms of nonterrestrial life where humans recognize the right of
+non- terrestrial life not to be annihilated. If we find extraterrestrial microbial
+life forms, and they cannot defend themselves from a possible threat from us,
+a teloempathetic response would consider the interests that these life forms
+have in not dying.
+
+another other question may arise: If we agree we should empathize
+with exterrestrial microbial life forms, should we extend the same consideration
+to microbes on Earth?
+
+***Institutions pertinentes :***
+- COSPAR
+- [IAGETH Working Group on Astrobioethics](https://www.icog.es/iageth/index.php/p3loki-gn/) 
+
+***Académiques pertinents : ***
+- Octavio A. Chon-Torres
+- Eugene Hargrove
+- Holmes Rolston
+- Margaret Race (SETI)
+- Muriel Gargaud (Société Française d’Exobiologie)
+- Jesús Martínez-Frías (International Association for Geoethics)
+
 
 
 
