@@ -615,6 +615,8 @@ cf plus haut
 - [Astroethics: Engaging Extraterrestrial Intelligent Life-Forms, Encountering Life in the Universe](https://www.researchgate.net/publication/290857246_Astroethics_Engaging_extraterrestrial_intelligent_life-forms) - Ted Peters (2013)
 - [Environmental Ethics in Outer Space](https://www.duo.uio.no/bitstream/handle/10852/69331/1/Owe-Andrea-15-05-2019-Environmental-Ethics-in-Outer-Space-MAthesis-.pdf) - Andrea Owe (2019)
 - [Astroethics for Earthlings: Our Responsibility to the Galactic Commons](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119711186.ch2) - Ted Peters (2021)
+- [Environmentalism, Ethics, and Outer Space](https://spaceethicslibrary.wordpress.com/resources/environmentalism-outer-space/environmental-ethics-and-outer-space/) - Space Ethics Library, JustSpace Alliance
+- [The Value of Extraterrestrial Life](https://spaceethicslibrary.wordpress.com/resources/environmentalism-outer-space/the-value-of-extraterrestrial-life/) - Space Ethics Library, JustSpace Alliance
 
 ---
 
