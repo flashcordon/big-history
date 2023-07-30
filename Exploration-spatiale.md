@@ -619,6 +619,8 @@ cf plus haut
 - [The Value of Extraterrestrial Life](https://spaceethicslibrary.wordpress.com/resources/environmentalism-outer-space/the-value-of-extraterrestrial-life/) - Space Ethics Library, JustSpace Alliance
 - [Life-centered ethics, and the human future in space](https://pubmed.ncbi.nlm.nih.gov/19077128/) - Mautner (2008)
 - [Ethics and Extraterrestrials: What Obligations Will We Have to Extraterrestrial Life? What Obligations Will It Have to Us?](https://academic.oup.com/book/36896/chapter-abstract/322142390?redirectedFrom=fulltext) - Potthast (2020)
+- [Planetary protection](https://spaceethicslibrary.wordpress.com/planetary-protection/planetary-protection/) - Space Ethics Library, JustSpace Alliance
+- [Contact with Extraterrestrial Life](https://spaceethicslibrary.wordpress.com/resources/contact-with-extraterrestrial-life/) - Space Ethics Library, JustSpace Alliance
 
 ---
 
