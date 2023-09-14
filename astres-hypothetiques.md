@@ -49,3 +49,10 @@
 ## Les étoiles trou noir
 
 - Etoile avec un trou noir au centre
+
+## Les étoiles noires 
+
+- Etoiles faites d'un mélange de matière ordinaire etde matière noire
+- Formées dans l'univers primordial avant les étoiles plus classiques
+
+
