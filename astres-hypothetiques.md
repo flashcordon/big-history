@@ -1,5 +1,7 @@
 # Astres hypothétiques
 
+L'univers hypothétique
+
 *Sources*
 
 - [Hypothetical astronomical object](https://en.wikipedia.org/wiki/Hypothetical_astronomical_object) - Wikipédia
