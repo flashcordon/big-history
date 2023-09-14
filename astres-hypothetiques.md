@@ -3,6 +3,7 @@
 *Sources*
 
 - [Hypothetical astronomical object](https://en.wikipedia.org/wiki/Hypothetical_astronomical_object) - Wikipédia
+- [Hypothetical stars](https://en.wikipedia.org/wiki/Hypothetical_star) - Wikipédia
 
 ## Les anti-étoiles
 
@@ -18,6 +19,8 @@
 ## Les planètes globe oculaires
 
 ## Les étoiles à quarks
+
+- Aussi appelées étoiles étranges
 
 ## Les planètes hycéan
 
@@ -55,4 +58,13 @@
 - Etoiles faites d'un mélange de matière ordinaire etde matière noire
 - Formées dans l'univers primordial avant les étoiles plus classiques
 
+## Les fuzzballs
+
+## Les trous de ver
+
+## La planète 9
+
+## Les gravastars
+
+- Description alternative des trous noirs
 
