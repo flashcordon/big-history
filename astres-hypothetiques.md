@@ -1,5 +1,9 @@
 # Astres hypothétiques
 
+*Sources*
+
+- [Hypothetical astronomical object](https://en.wikipedia.org/wiki/Hypothetical_astronomical_object) - Wikipédia
+
 ## Les anti-étoiles
 
 - AMS-02 détecte des atomes d'anti-hélium
