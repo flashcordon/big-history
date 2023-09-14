@@ -4,6 +4,7 @@
 
 - [Hypothetical astronomical object](https://en.wikipedia.org/wiki/Hypothetical_astronomical_object) - Wikipédia
 - [Hypothetical stars](https://en.wikipedia.org/wiki/Hypothetical_star) - Wikipédia
+- [Hypothetical planet types](https://en.wikipedia.org/wiki/Category:Hypothetical_planet_types) - Wikipédia
 
 ## Les anti-étoiles
 
@@ -67,4 +68,11 @@
 ## Les gravastars
 
 - Description alternative des trous noirs
+
+## Les cordes cosmiques
+
+## Les galaxies noires
+
+- Des galaxies sans étoile
+
 
