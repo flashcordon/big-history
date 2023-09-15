@@ -14,8 +14,19 @@ L'univers hypothétique
 
 ## Les objets de Thorne–Żytkow
 
-- Une géante rouge ou une supergéante rouge avec une étoile à neutrons dans son coeur. Produit lors d'une collision entre les deux étoiles. 
-- Il y a deux candidats actuellement dans le petit nuage de Magellan
+*Sources*
+
+- [Bizarre star could host a neutron star in its core](https://www.nature.com/articles/nature.2014.14478#ref-CR1) - Nature (2014)
+- [Red giants and supergiants with degenerate neutron cores](https://adsabs.harvard.edu/full/1975ApJ...199L..19T) - Thorne & Żytkow (1975)
+
+---
+
+- Leur existence a été théorisée en 1975 par Kip Thorne et Anna Żytkow.
+- De l'extérieur, cet astre ressemble à une supergéante rouge. Mais sa durée de vie est 10 fois plus longue.
+- En son cœur, une étoile à neutrons d'une vingtaine de kilomètres de diamètre et de la masse d'un Soleil.
+- Ces astres peuvent naître suite à la collision d'une (super)géante rouge et d'une étoile à neutrons.
+- Il pourrait en exister plusieurs dizaines dans la Galaxie.
+- En 2014, à l'aide du telescope Magellan situé au Chili , des astronomes ont annoncé avoir découvert le premier candidat plausible au titre de ZTO, une supergéante rouge située dans le petit nuage de Magellan. L'étoile est enrichie en lithium, rubidium et en molybdénum, ce qui suggère des processus de fusion nucléaire exotiques présents notamment dans les ZTOs. C'est le candidat le plus sérieux à ce jour, mais il reste encore à confirmer.
 
 ## Les trous blancs
 
