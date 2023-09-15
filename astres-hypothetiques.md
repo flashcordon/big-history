@@ -26,7 +26,7 @@ L'univers hypothétique
 - En son cœur, une étoile à neutrons d'une vingtaine de kilomètres de diamètre et de la masse d'un Soleil.
 - Ces astres peuvent naître suite à la collision d'une (super)géante rouge et d'une étoile à neutrons.
 - Il pourrait en exister plusieurs dizaines dans la Galaxie.
-- En 2014, à l'aide du telescope Magellan situé au Chili , des astronomes ont annoncé avoir découvert le premier candidat plausible au titre de ZTO, une supergéante rouge située dans le petit nuage de Magellan. L'étoile est enrichie en lithium, rubidium et en molybdénum, ce qui suggère des processus de fusion nucléaire exotiques présents notamment dans les ZTOs. C'est le candidat le plus sérieux à ce jour, mais il reste encore à confirmer.
+- En 2014, à l'aide du telescope Magellan situé au Chili , des astronomes ont annoncé avoir découvert le premier candidat plausible au titre de OTZ, une supergéante rouge située dans le petit nuage de Magellan. L'étoile est enrichie en lithium, rubidium et en molybdénum, ce qui suggère des processus de fusion nucléaire exotiques présents notamment dans les OTZ. C'est le candidat le plus sérieux à ce jour, mais il reste encore à confirmer.
 
 ## Les trous blancs
 
