@@ -11,7 +11,7 @@
 - 1931 : [La première photo de la courbure de la Terre](#La-première-photo-de-la-courbure-de-la-Terre)
 - 1946 : [La première photo de la Terre vue de l’espace](#La-première-photo-de-la-Terre-vue-de-lespace) OK
 - 1966 : [La première photo depuis la surface d'un autre monde](#La-première-photo-depuis-la-surface-dun-autre-monde) OK
-- 1888 : [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie)
+- 1888 : [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie) OK
 - 1986 : [La première carte de l'univers local](#La-première-carte-de-lunivers-local)
 - 1991 : [La première photo rapprochée d'un astéroide](#La-première-photo-rapprochée-dun-astéroide)
 - 2004 : [La première photo d'une exoplanète](#La-première-photo-dune-exoplanète) OK
@@ -308,6 +308,7 @@ In a joint program between the U.S. Army Air Corps and the National Geographic S
 
 - [The earliest image of another galaxy](https://medium.com/@ivandebono_44189/the-earliest-image-of-another-galaxy-e49a90a1d101) - Ivan Debono
 - [Scientist of the Day - Isaac Roberts](https://www.lindahall.org/about/news/scientist-of-the-day/isaac-roberts) - Linda Hall Library
+- [ISAACS ROBERTS’S PHOTOGRAPHS OF CLUSTERS AND NEBULAE](http://www.astrosurf.com/re/isaacs_roberts_book_1899.pdf) - Pedro Ré
 
 ---
 
@@ -315,12 +316,14 @@ In a joint program between the U.S. Army Air Corps and the National Geographic S
 
 ![M31Roberts](https://assets-us-01.kc-usercontent.com/9dd25524-761a-000d-d79f-86a5086d4774/827eb1fd-8ae3-4687-bdf6-68d5f7e27002/roberts1.jpg?w=465&h=507&auto=format&q=75&fit=crop)
 
-- Isaac Roberts, a Welsh engineer, manufacturer, and amateur astronomer
-- For an amateur, Roberts took some spectacular photographs – indeed, they were better than any exposures taken by professional astronomers at the time.
-- The earliest known photograph clearly showing the Andromeda Galaxy was taken by Isaac Roberts using a twin telescope made by Howard Grubb of Dublin. It was 20-inch reflector with a 7-inch refractor mounted as a tracking scope. The photograph was taken with an exposure of four hours on 29th December 1888 at his observatory (also his home) at Maghull, near Liverpool.
-- It is the first photograph to show the spiral structure of Andromeda. Roberts’s telescope was powerful enough to resolve some of the individual stars making up the galaxy, so this is also the first photograph to show the structure of any galaxy.
-- on a su que c'était une autre galaxie qu'à partir du moment où on a sû mesurer la distance d'une étoile particulière dans les années 20 (Hubble)
-- De nos jours, on a des photos beaucoup plus précises, qui font de jolis fonds d'écran.
+- Ça, c'est la première photo de l'Histoire d'une autre galaxie que la notre.
+- Elle a été prise le 29 Décembre 1888 par Isaac Roberts, un ingénieur britannique passionné d'astronomie qui possédait un observatoire privé près de Liverpool. 
+- Vers la fin de sa vie, ce pionnier de l'astrophotographie a produit plus de 2500 photos d'objets du ciel profond, dont plusieurs ont marqué l'Histoire pour leur précision spectaculaire. (Dumbbell Nebula (M27); Hercules Cluster (M13), Pleiades (M45); Bodes Galaxy (M81); Sombrero Galaxy (M104))
+- Parmi toutes ces photos, la plus marquante est peut être cette image de la galaxie d'Andromède. Pour obtenir ce résultat, Roberts a dû accumuler des grains de lumière sur une plaque photographique pendant plus de 4h, ce qui est assez impressionnant pour l'époque ! La photo est si détaillée qu'on peut y voir pour la première fois les étoiles individuelles qui révèlent la structure spirale de cette galaxie. 
+- Ce que je trouve fou avec cette image, c'est qu'elle a été prise à une époque où on ne savait pas encore si Andromède faisait de notre Voie Lactée ou non ! 
+- Jusque dans les années 1920, la majorité des astronomes pensaient que notre univers était intégralement constitué de notre Galaxie, et les objets similaires à Andromède étaient qualifiées de "nébuleuses spirales".
+- Ce n'est qu'une fois qu'on a obtenu une méthode fiable pour estimer la distance d'Andromède qu'on a découvert qu'elle était en fait situé bien au-delà de la Voie Lactée. Les nébuleuses spirales étaient en fait des galaxies à part entière, contenant des centaines de milliards d'étoiles chacune.
+- Près d'un siècle plus tard, en 2023, on estime que la partie de l'univers accessible à nos télescopes abriterait des milliers de milliards de galaxies. Quant à Andromède, on a aujourd'hui la chance d'avoir des images infiniment plus détaillées que celles capturées par Isaac Roberts, qui sont notamment utilisées pour créer de superbes fonds d'écran.
 
 ## La première carte de l'univers local
 
