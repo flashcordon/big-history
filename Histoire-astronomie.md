@@ -7,6 +7,7 @@
 - 1610 : [Le premier dessin des anneaux de Saturne](#Le-premier-dessin-des-anneaux-de-Saturne) OK
 - 1840 : [La plus ancienne photo détaillée de la Lune](#La-plus-ancienne-photo-détaillée-de-la-Lune)
 - 1845 : [La première photo du Soleil](#La-première-photo-du-Soleil) OK
+- 1851 : [La première photo d'une éclipse](#La-première-photo-dune-éclipse)
 - 1931 : [La première photo de la courbure de la Terre](#La-première-photo-de-la-courbure-de-la-Terre)
 - 1946 : [La première photo de la Terre vue de l’espace](#La-première-photo-de-la-Terre-vue-de-lespace) OK
 - 1966 : [La première photo depuis la surface d'un autre monde](#La-première-photo-depuis-la-surface-dun-autre-monde) OK
@@ -156,6 +157,8 @@ By all accounts, however, these earlier attempts at Moon photography were blurry
 - Sur la plus ancienne photo du Soleil qui a survécu, on peut apercevoir le disque solaire parsemé de petites taches sombres. Ces zones sombres sont des taches solaires, des régions de l'étoile plus froides que la moyenne qui sont associées à une intense activité magnétique. Certaines de ces taches sont aussi grosses que Jupiter !
 - Cette photo est non seulement historique pour son sujet, mais aussi parce qu'elle a permis d'inaugurer une nouvelle pratique qui fait depuis le bonheur de nombreux astronomes amateurs et professionnels : l'astrophotographie.
 - Ce cliché exceptionnel du Soleil est aujourd'hui conservé au Musée des arts et métiers à Paris. Mais comme il est très fragile, il n’est malheureusement plus exposé au public. 
+
+## La première photo d'une éclipse
 
 - Both managed to take the first known photograph of the Sun in 1845 using an improved daguerreotype process. The scientists finally proved that high quality astronomical photography was possible and only six years later the first Solar eclipse was successfully recorded by a daguerreotypist named Berkowski at the Königsberg Observatory. 
 - The earliest scientifically useful photograph of a total solar eclipse was made by Julius Berkowski at the Royal Observatory in Königsberg, Prussia, on July 28, 1851. This was the first occasion that an accurate photographic image of a solar eclipse was recorded.
