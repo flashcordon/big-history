@@ -13,7 +13,7 @@
 - 1966 : [La première photo depuis la surface d'un autre monde](#La-première-photo-depuis-la-surface-dun-autre-monde) OK
 - 1888 : [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie) OK
 - 1986 : [La première carte de l'univers local](#La-première-carte-de-lunivers-local)
-- 1991 : [La première photo rapprochée d'un astéroide](#La-première-photo-rapprochée-dun-astéroide)
+- 1991 : [La première photo rapprochée d'un astéroide](#La-première-photo-rapprochée-dun-astéroide) OK
 - 2004 : [La première photo d'une exoplanète](#La-première-photo-dune-exoplanète) OK
 - 2005 : La première photo prise depuis la surface de Titan
 - 2014 : La première photo depuis la surface d'une comète
@@ -262,6 +262,7 @@ In a joint program between the U.S. Army Air Corps and the National Geographic S
 - [(951) Gaspra](https://fr.wikipedia.org/wiki/(951)_Gaspra) - Wikipédia
 - [Galileo snaps first close-up of an asteroid](https://www.thefreelibrary.com/Galileo+snaps+first+close-up+of+an+asteroid.-a011661269) - Science News (1991)
 - [Galileo Transmits First-Ever Close-Up Photo of Asteroid](https://www.latimes.com/archives/la-xpm-1991-11-15-mn-1321-story.html) - LA Times (1991)
+- [An Encounter With Gaspra](https://www2.jpl.nasa.gov/galileo/messenger/oldmess/Gaspra.html) - NASA (1992)
 
 ---
 
@@ -269,17 +270,12 @@ In a joint program between the U.S. Army Air Corps and the National Geographic S
 
 ![gaspra](https://planetary.s3.amazonaws.com/web/assets/pictures/_768x768_crop_center-center_60_line/34982/gaspra_galileo_highest_mosaic_8313r.jpg.webp)
 
-- Scientists from the Galileo project today released the world's first close-up image of an asteroid, taken October 29 by the Galileo spacecraft some 34 minutes before it flew past the asteroid Gaspra at a distance of 1,600 kilometers
-- It is one of about a dozen pictures Galileo took of the asteroid. 
-- The Galileo project, whose primary mission is to explore the Jupiter system
-- Gaspra is 18.2 by 10.5 by 8.9 kilometers in diameter. Galileo flew by Gaspra October 29, 1991, passing within 1,600 kilometers. 57 images were returned to Earth, the closest ones (including the two used to make this mosaic) taken from a distance of 5350 kilometers. Those images have a resolution of about 54 meters/pixel. 
-- Gaspra est un astéroïde de type S qui orbite à la limite de la bordure interne de la ceinture d'astéroïdes. 
-- Researchers believe Gaspra is a fragment chipped from a larger object. "We suspect [Gaspra] is a survivor of a series of catastrophic collisions . . ., in which a succession of parent bodies got broken down into smaller and smaller pieces," Veverka says. On the basis of the degree of cratering discerned in the photographs and the estimated frequency of collisions that Gaspra would suffer at its current location -- about 411 million kilometers from Earth, near the inner edge of the asteroid belt -- astronomers calculate that the asteroid may have taken its present shape a relatively scant 300 million years ago. 
-- Until Galileo’s encounter with the 12-mile-long metallic rock, Gaspra had been seen only as a “point of light” in images from ground-based telescopes
-- Gaspra was 231 million miles away from Earth during the flyby, and no one could be certain precisely where the asteroid was in relation to the spacecraft. That left engineers with the problem of making sure that their camera was pointed toward the asteroid at least part of the time.
-- They did that by scanning the sky as the camera snapped 150 overlapping images, ensuring that Gaspra would be in at least some of the photos. All of those images were to have been transmitted back via the spacecraft’s 16-foot-wide antenna. But that plan went out the window when the antenna jammed. It was not feasible to transmit them all back with the smaller antenna.
-- But engineering data from the spacecraft indicated that ground controllers had been extremely precise in predicting the relative position of Gaspra, leading some to wonder if Gaspra had been right in the middle of the montage of 150 images.
-- Engineers ordered Galileo to transmit a few lines of data--somewhat like lines of type--running through the middle image. And there they found Gaspra, “smack in the middle,” Belton said.
+- Cette photo est le premier cliché rapproché d'un astéroïde.
+- Elle a été prise le 29 octobre 1991 par la sonde Galileo de la NASA, qui avait été envoyée visiter le système de Jupiter.
+- Alors que la sonde traversait la bordure interne de la ceinture d'astéroïdes, à environ 400 millions de kilomètres de la Terre, elle est passée à proximité de Gaspra, un caillou de l'espace en forme de patate constitué essentiellement de silicates.
+- Pendant son survol, Galileo a pris une cinquantaines de photos de Gaspra. En estimant le nombre de cratères à sa surface, les scientifiques sont parvenus à la conclusion que cet astéroïde est probablement le fragment d'une collision qui a dû se produire il y a plusieurs centaines de millions d'années de cela. 
+- Avant les clichés de Galileo, les astéroïdes n'étaient que des points lumineux observés à travers l'objectif des télescopes au sol. Et depuis ces premières photos rapprochées, on a fait pas mal de chemin. Plus d'une dizaine de missions spatiales ont été envoyées visiter des astéroïdes de tous types, et certaines d'entre elles en ont même rapporté de précieux échantillons sur Terre !
+- On pourrait dire que c'est beaucoup de ressources déployées pour étudier ces cailloux de l'espace. Mais en tant que briques élémentaires de la formation des planètes, ces astéroïdes nous apportent de précieux indices sur l'histoire de notre système solaire, et donc, sur nos origines.
 
 ## La première photo d'une exoplanète
 
