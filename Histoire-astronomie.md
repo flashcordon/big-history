@@ -337,27 +337,13 @@ In a joint program between the U.S. Army Air Corps and the National Geographic S
 
 ![cfa1986](http://tdc-www.harvard.edu/zcat/cfa2.n30.gif)
 
-Slice of the universe after de Lapparent et al. (1986)
-
-The CfA Redshift Survey was started in 1977 by Marc Davis, John Huchra, Dave Latham and John Tonry. The First CfA Survey, completed in 1982, (Huchra, Davis, Latham and Tonry, 1983, ApJS 52, 89) had as its goal the measurement of radial velocities for all galaxies brighter than 14.5 and at high galactic latitude in the merged catalogs of Zwicky and Nilson (the UGC). This survey produce the first large area and moderately deep maps of large scale structure in the nearby universe, as well as the first crude but truly quantitative measurements of the 3-D clustering properties of galaxies. 
-
-The second CfA survey (CfA2) was started by John Huchra and Margaret Geller in the winter of 1984/5. Between 1985 and 1995, we and our students and co-workers measured relative distances via redshifts for about 18,000 bright galaxies in the northern sky. 
-
-The first slice of the CfA Survey. 
-
-Redshift surveys are ways of mapping the distribution of galaxies around us. We use redshift as the measure of the radial coordinate in a spherical coordinate system centered on the Milky Way. Below is the "slice of the Universe" that represents the first set of observations done for the CfA Redshift Survey in 1985 by Valerie de Lapparent, Margaret Geller and myself. These are spectroscopic observations of about 1100 galaxies in a strip on the sky 6 degrees wide and about 130 degrees long. We are at the apex of the wedge. The radial coordinate is redshift, measured in kilometers per second, with the current best conversion (see ``Hubble Constant'' below) of about 20 kilometers per second per million light years. That means the outer arc of the plot is at a distance of about 700 million light years. The angular coordinate is the right ascension, or the celestial equivalent of longitude. 
-
-This initial map was quite surprising, showing that the distribution of galaxies in space was anything but random, with galaxies actually appearing to be distributed on surfaces, almost bubble like, surrounding large empty regions, or ``voids.''
-
-The iconic image of cosmology in the 1980’s was the “CfA Stickman” reveal in the famous A Slice of the Universe paper by Valerie de Lapparent, Margaret Geller, and Huchra.
-
-The stickman was not the universe being playfully anthropomorphic, it was simply the Coma cluster as distorted in redshift space. (You measure positions on the sphere of the sky, but velocities along the line of sight; converting these velocities to distances is inevitably distorted because galaxies in a cluster have peculiar motions inside the cluster.) Before this map was released in 1986, many people assumed that the galaxy distribution would be basically uniform on these scales. They shouldn’t have thought that, in retrospect (you need to go to larger scales before the uniformity becomes apparent), but sometimes it takes real data to get a point across. The survey went on to discover the Great Wall of galaxies, arguably the largest known “object” in the universe.
-
-The basic strategy of the Slice surveys were devised by Margaret Geller at the Smithsonian Astrophysical Observatory. In addition to the survey design, Geller also developed novel and sophisticated techniques for analyzing the data in order to properly characterize the features which were seen. The first slice survey was completed in 1986 (e.g., de Lapparent et al. 1986) and the initial results were astounding (and remain so). Figure 3-11 is by now quite famous and is commonly referred to as the "Stickman" figure. In this figure we see the essence of the complex galaxy structure which is defined by the Slice survey. In this representation of the data, the Slice dimension (equivalent to latitude in the analogy above) has been collapsed so the axes represent angular distance on the sky and redshift distance from the earth. In the absence of peculiar velocities, redshift distance is equivalent to physical distance. The opening angle of the survey represents the angular extent of the slice
-
-Any virialized structure will appear as a vertical structure pointed towards the origin (the observer). Galaxies in these structures have nearly the same physical distance from the observer, but the velocity dispersion of the structure stretches their location in redshift space. The main body of the Stickman is defined by such a structure - in this case, the Coma Cluster of galaxies
-
-The distribution of galaxies in the sample, which contains 1100 galaxies in a 6 deg x 117 deg strip going through the Coma cluster, looks like a slice through the suds in the kitchen sink. 
+- Ce que vous voyez là, c'est l'une des premières cartes de l'univers à grande échelle de l'Histoire. Je vous raconte. 
+- À la fin des années 70, une petite équipe de scientifiques du centre d'astrophysique de Harvard débute le premier effort systématique visant à cartographier en 3D la position des galaxies dans l'univers. Dans ce grand relevé astronomique appelé CfA, il s'agit non seulement de recenser les galaxies dans de nombreuses directions du ciel, mais aussi d'obtenir, pour chaque galaxie, une estimation de sa distance et de sa vitesse d'éloignement par rapport à nous.
+- En 1986, ce travail de cartographie culmine avec la publication de cette étrange figure. Ce nuage de points représente la distribution spatiale d'un millier de galaxies brillantes du ciel. Plus ces galaxies sont proches de la pointe du cône, plus elles sont proches de nous.
+(figure : Valérie de Lapparent, Margaret Geller et John Huchra)
+- Ce qu'il y a de remarquable avec cette carte, c'est l'espèce de silhouette humaine dessinée en pointillés par les galaxies, qu'on a surnommé le Stickman. Le bonhomme bâton.
+- Ce stickman, c'est la première preuve observationnelle que les galaxies ne sont pas distribuées complètement au hasard dans l'espace, comme on le pensait jusqu'alors. Elles sont en fait réparties le long de ce qu'on appelle la toile cosmique : un réseau constitué d'immenses filaments de matière invisible et de gaz très peu dense, sur lesquelles se tissent les plus grandes structures de l'univers connu.
+- Depuis le CfA, l'astrophysique a beaucoup progressé. Les cartes de l'univers contemporaines recensent aujourd'hui la position de centaines de millions de galaxies, et la prochaine génération de grands relevés astronomiques devrait multiplier ce nombre par 10. Mais l'Histoire retiendra toujours l'impact qu'a eu le dessin du plus grand bonhomme bâton de l'univers.
 
 ## Mars : des canaux aux images
 
