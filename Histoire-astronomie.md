@@ -13,7 +13,7 @@
 - 1888 : [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie)
 - 1986 : [La première carte de l'univers local](#La-première-carte-de-lunivers-local)
 - 1991 : [La première photo rapprochée d'un astéroide](#La-première-photo-rapprochée-dun-astéroide)
-- 2004 : [La première photo d'une exoplanète](#La-première-photo-dune-exoplanète)
+- 2004 : [La première photo d'une exoplanète](#La-première-photo-dune-exoplanète) OK
 - 2005 : La première photo prise depuis la surface de Titan
 - 2014 : La première photo depuis la surface d'une comète
 - 2019 : La première photo d'un trou noir
@@ -283,6 +283,7 @@ In a joint program between the U.S. Army Air Corps and the National Geographic S
 *Sources*
 
 - [2M1207b - first image of an exoplanet](https://www.eso.org/public/images/26a_big-vlt/) - ESO
+- [Quelle est la première photo d'une exoplanète ?](https://www.sciencesetavenir.fr/espace/voie-lactee/quelle-est-la-premiere-photo-d-une-exoplanete_150274) - Science et Avenir
 
 ---
 
@@ -290,9 +291,13 @@ In a joint program between the U.S. Army Air Corps and the National Geographic S
 
 ![2M1207b](https://cdn.eso.org/images/screen/26a_big-vlt.jpg)
 
-- La première exoplanète à avoir été détectée par imagerie directe (infrarouge) est une jeune géante gazeuse qui orbite autour d'une naine brune à 170 années lumière du système solaire, 2M1207 b. Elle a été découverte en 2004 grâce à des observations du VLT au Chili. Elle se trouve à une distance équivalente à celle entre Pluton et le Soleil (55 UA). Sa température de surface est de 1600K (+-100K) et sa masse est de 8 (+-2) fois la masse de Jupiter.
-- C'est aussi la première exoplanète a avoir été découverte autour d'une naine brune.
-- Elle se trouve à 230 années-lumière d'ici
+- Cette image est la première photographie de l'histoire d'une exoplanète.
+- 2M1207 b de son petit nom est une géante gazeuse qui se trouve à environ 200 années-lumière de la Terre. Elle a été photographiée en 2004 dans le domaine des infrarouges par les instruments du VLT, le Very Large Telescope, situé au Chili. 
+- Produire des images directes d'exoplanètes, c'est-à-dire de planètes situées au-delà de notre système solaire, c'est une tâche extrêmement compliquée, parce que ces mondes sont en général complètement noyées dans la lumière de leur étoile. C'est un peu comme si vous essayez de distinguer à distance une toute petite luciole qui tourne autour d'un immense phare.
+- C'est pour ça que la plupart des exoplanètes connues ont été détectées de manière indirecte, via la petite éclipse qu'elles produisent lorsqu'elles passent devant leur étoile.
+- Dans le cas de 2M1207 b, l'astre autour de laquelle elle orbite n'est pas une étoile. C'est une naine brune, un astre beaucoup plus massif qu'une planète, mais moins massif et moins lumineux qu'un Soleil. C'est cette caractéristique qui a facilité sa détection par le VLT.
+- Sur les 5500 exoplanètes connues à ce jour, seule une petite cinquantaine a été directement photographiées jusqu'à présent, et la quasi-totalité de ces mondes imagés sont des immenses géantes gazeuses qui se trouvent très loin de leur étoile. 
+- Pour obtenir des photos de petites planètes rocheuses similaires à la Terre, il faudra attendre la prochaine génération de télescopes, comme l'ELT au Chili ou le télescope spatial Roman, qui entreront tous les deux en service en 2027. Ca devrait donc arriver très très vite !
 
 ## La première photo d'une autre galaxie
 
