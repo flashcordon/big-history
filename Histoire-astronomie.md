@@ -313,7 +313,7 @@ In a joint program between the U.S. Army Air Corps and the National Geographic S
 ![M31Roberts](https://assets-us-01.kc-usercontent.com/9dd25524-761a-000d-d79f-86a5086d4774/827eb1fd-8ae3-4687-bdf6-68d5f7e27002/roberts1.jpg?w=465&h=507&auto=format&q=75&fit=crop)
 
 - Ça, c'est la première photo de l'Histoire d'une autre galaxie que la notre.
-- Elle a été prise le 29 Décembre 1888 par Isaac Roberts, un ingénieur britannique passionné d'astronomie qui possédait un observatoire privé près de Liverpool. 
+- Elle a été prise le 29 Décembre 1888 par Isaac Roberts, un riche ingénieur britannique passionné d'astronomie qui possédait un observatoire privé. 
 - Vers la fin de sa vie, ce pionnier de l'astrophotographie a produit plus de 2500 photos d'objets du ciel profond, dont plusieurs ont marqué l'Histoire pour leur précision spectaculaire. (Dumbbell Nebula (M27); Hercules Cluster (M13), Pleiades (M45); Bodes Galaxy (M81); Sombrero Galaxy (M104))
 - Parmi toutes ces photos, la plus marquante est peut être cette image de la galaxie d'Andromède. Pour obtenir ce résultat, Roberts a dû accumuler des grains de lumière sur une plaque photographique pendant plus de 4h, ce qui est assez impressionnant pour l'époque ! La photo est si détaillée qu'on peut y voir pour la première fois les étoiles individuelles qui révèlent la structure spirale de cette galaxie. 
 - Ce que je trouve fou avec cette image, c'est qu'elle a été prise à une époque où on ne savait pas encore si Andromède faisait de notre Voie Lactée ou non ! 
