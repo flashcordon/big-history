@@ -12,7 +12,7 @@
 - 1946 : [La première photo de la Terre vue de l’espace](#La-première-photo-de-la-Terre-vue-de-lespace) OK
 - 1966 : [La première photo depuis la surface d'un autre monde](#La-première-photo-depuis-la-surface-dun-autre-monde) OK
 - 1888 : [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie) OK
-- 1986 : [La première carte de l'univers local](#La-première-carte-de-lunivers-local)
+- 1986 : [La première carte de l'univers local](#La-première-carte-de-lunivers-local) OK
 - 1991 : [La première photo rapprochée d'un astéroide](#La-première-photo-rapprochée-dun-astéroide) OK
 - 2004 : [La première photo d'une exoplanète](#La-première-photo-dune-exoplanète) OK
 - 2005 : La première photo prise depuis la surface de Titan
