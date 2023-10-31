@@ -1296,6 +1296,23 @@ Les signatures spectrales de perchlorates publiées récemment sont changeantes 
 
 ## Terraformer Mars
 
+*Sources*
+
+- A lire
+- [The Physics, Biology, and Environmental Ethics of Making Mars Habitable](https://www.liebertpub.com/doi/abs/10.1089/153110701750137477) - McKay & Marinova (2004)
+- [Terraforming Mars: A Cabinet of Curiosities](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119761990.ch18) - Beech (2021)
+- [Ethics of terraforming](https://en.wikipedia.org/wiki/Ethics_of_terraforming) - Wikipédia
+- [The Ethics of Terraforming: A Critical Survey of Six Arguments](https://philarchive.org/archive/STOTEO-46) - Ian Stoner
+- [The ethics of terraforming](https://robsparrow.com/wp-content/uploads/The-ethics-of-terraforming.pdf) - Robert Sparrow (1999)
+- [On the Moral Permissibility of Terraforming](https://www.jstor.org/stable/10.2979/ethicsenviro.18.2.1) - Schwartz (2013)
+- [The ethics of terraforming Mars: a review](https://old.igem.org/wiki/images/6/60/Valencia_Ethics_Review.pdf) - iGEM Valencia Team (2010) 
+- [Respect for the World: Universal Ethics and the Morality of Terraforming](https://www.amazon.com/Respect-World-Universal-Morality-Terraforming/dp/3639419243) - Paul York
+- [The Argument Against Terraforming Mars](https://nautil.us/the-argument-against-terraforming-mars-236758/) - Robert Sparrow (2017)
+- [Terraforming, Vandalism and Virtue Ethics](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315572857-16/terraforming-vandalism-virtue-ethics-robert-sparrow) - Robert Sparrow (2015)
+- [The Ethics of Terraforming](https://philosophynow.org/issues/38/The_Ethics_of_Terraforming) - Paul York
+
+---
+
 - En 1971, l'astronome américain Carl Sagan publie dans le journal Icarus un court article intitulé *The Long Winter Model of Martian Biology* (un modèle qui sera rendu caduque 5 ans après sa formulation). Il s'agit du premier article scientifique de l'histoire à avancer l'idée de terraformation de Mars. L'article se conclut sur ces mots :
 > it is  just conceivable that, in time, human endeavors could, by volatilizing the present northern polar cap remnant, and taking advantage of the hypothesized instabilities, introduce much more clement conditions on Mars, in times considerably shorter than the precessional period. As with a related suggestion for Venus (Sagan, 1961), such planetary engineering should be considered seriously only after the most thorough and ecologically responsible investigation of the planet is performed.
 - En 1973, dans un article intitulé *Planetary engineering on Mars*, il énonce 3 scénarios possibles de terraformation de Mars.
