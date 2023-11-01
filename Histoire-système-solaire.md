@@ -1311,7 +1311,7 @@ Les signatures spectrales de perchlorates publiées récemment sont changeantes 
 - [Terraforming, Vandalism and Virtue Ethics](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315572857-16/terraforming-vandalism-virtue-ethics-robert-sparrow) - Robert Sparrow (2015)
 - [The Ethics of Terraforming](https://philosophynow.org/issues/38/The_Ethics_of_Terraforming) - Paul York
 - [Terraforming Mars: A review of current research](https://www.sciencedirect.com/science/article/abs/pii/S0273117798001665) - Fogg (1998)
-- Terraforming and the City - Chris Pak
+- [Terraforming and the City](https://library.oapen.org/bitstream/id/62e740d2-11ee-426b-a553-867836d18606/) - Chris Pak
 - [Terraforming: Ecopolitical Transformations and Environmentalism in Science Fiction](https://www.jstor.org/stable/j.ctt1gpcb56) - Pak (2016)
 - [Terraforming Planets, Geoengineering Earth](https://www.degruyter.com/document/doi/10.7208/chicago/9780226783574-014/html) - Flemming (2021)
 
