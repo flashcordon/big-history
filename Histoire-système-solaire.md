@@ -1313,6 +1313,7 @@ Les signatures spectrales de perchlorates publiées récemment sont changeantes 
 - [Terraforming Mars: A review of current research](https://www.sciencedirect.com/science/article/abs/pii/S0273117798001665) - Fogg (1998)
 - Terraforming and the City - Chris Pak
 - [Terraforming: Ecopolitical Transformations and Environmentalism in Science Fiction](https://www.jstor.org/stable/j.ctt1gpcb56) - Pak (2016)
+- [Terraforming Planets, Geoengineering Earth](https://www.degruyter.com/document/doi/10.7208/chicago/9780226783574-014/html) - Flemming (2021)
 
 ---
 
