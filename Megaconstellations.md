@@ -9,7 +9,9 @@
 
 ## L'histoire des mégaconstellations
 
-- 
+- La première grande constellation de satellite est la constellation Iridium, déployée par Motorola entre 1997 et 2002. Elle avait pour but de fournir un service de téléphonie par satellite. Mais la technologie n'était pas assez mature et les clients trop peu nombreux, si bien que la compagnie fait faillite en 1999. 
+> Elle était composée de 66 satellites en orbite basse (780 km d'altitude).
+- À la même époque, d'autres constellations sont déployées, comme Globalstar (48 satellites) ou encore Orbcomm (31 satellites), respectivement pour fournir des service de téléphonie par satellite et de transmission de données pour les besoins industriels. Elles ont aussi fait faillite (en 2002 pour Globalstar, en 2000 pour Orbcomm).
 
 ## Conséquences sur l'astronomie
 
