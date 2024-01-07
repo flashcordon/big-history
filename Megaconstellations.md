@@ -65,3 +65,8 @@ https://cps.iau.org/documents/40/IAU_CPS_Essential_Reading_List_9.7.23.pdf
 ## Conséquences sur la biodiversité
 
 ## Conséquences culturelles
+
+## La réponse de la communauté astronomique
+
+- Dès 2019, l'Union astronomique internationale (UAI)
+- En 2022, l'UAI a établi un "Centre for the Protection of the Dark and Quiet Sky from Satellite Constellation Interference" ([CPS](https://cps.iau.org/))
