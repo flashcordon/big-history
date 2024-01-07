@@ -2,6 +2,51 @@
 
 *Sources*
 
+https://ourworldindata.org/internet
+https://www.iau.org/news/announcements/detail/ann19035/
+Satcon
+https://noirlab.edu/public/media/archives/techdocs/pdf/techdoc033.pdf
+https://darksky.org/
+Policy options https://www.gao.gov/products/gao-22-105166
+https://www.nsf.gov/news/special_reports/jasonreportconstellations/JSR-20-2H_The_Impacts_of_Large_Constellations_of_Satellites_508.pdf
+https://aas.org/satellite-constellations-1-workshop
+https://aasnova.org/2020/04/13/astronomy-impacts-of-satellite-megaconstellations/
+https://events.ecmwf.int/event/258/contributions/2871/attachments/1537/2776/RFI2022_Di_Vruno.pdf
+https://www.skao.int/index.php/en/news/198/skao-needs-corrective-measures-satellite-mega-constellation-operators-minimise-impact-its
+https://www.iau.org/static/publications/dqskies-book-29-12-20.pdf
+https://aas.org/posts/news/2023/03/rapid-brightening-night-skies-globally-recent-results-citizen-science-and
+https://issuu.com/ska_telescope/docs/contact_-_issue_06/s/11507932
+https://www.skao.int/index.php/en/news/198/skao-needs-corrective-measures-satellite-mega-constellation-operators-minimise-impact-its
+https://ras.ac.uk/ras-policy/science-policy-consultative-forums/satellite-megaconstellations
+https://www.universetoday.com/148263/radio-astronomers-are-worried-about-mega-constellations-and-the-square-kilometer-array/
+https://www.eso.org/~ohainaut/satellites/
+https://www.space.com/bluewalker-3-satellite-interference-worries-astronomers
+https://www.space.com/satellite-megaconstellations-astronomy-dark-skies
+https://arxiv.org/abs/2109.04328
+https://jila.colorado.edu/node/13920
+https://www.johncbarentine.com/megaconstellations.html
+https://www.space.com/sathub-idea-threat-satellite-megaconstellations-astonomy
+https://en.m.wikisource.org/wiki/SATCON2_Observations_Working_Group_Report
+https://www.nature.com/articles/s41550-020-01224-9
+https://baas.aas.org/pub/2021i0205/release/1
+https://www.cambridge.org/core/books/who-owns-outer-space/megaconstellations-and-international-law/B7453D99235EB7C62A29C9191087F612
+https://www.mikepeel.net/slides/2022/06_dnc_satellites.pdf
+https://www.mikepeel.net/slides/2022/06_dnc_satellites.pdf
+https://www.mikepeel.net/slides/2023/09_sathub_swiss_ska_days.pdf
+https://www.nsf.gov/news/special_reports/jasonreportconstellations/JSR-20-2H_The_Impacts_of_Large_Constellations_of_Satellites_508.pdf
+https://aas.org/sites/default/files/2020-07/MetricsWG_Present3_byBarentine.pdf
+https://aas.org/sites/default/files/2020-08/SATCON1-Report.pdf
+https://noirlab.edu/public/media/archives/techdocs/pdf/techdoc031.pdf
+https://pswscience.org/meeting/2440/
+https://noirlab.edu/public/media/archives/techdocs/pdf/techdoc037.pdf
+https://cps.iau.org/documents/40/IAU_CPS_Essential_Reading_List_9.7.23.pdf
+https://www.johncbarentine.com/megaconstellations.html
+https://www.mikepeel.net/presentations/
+https://www.ca-se-passe-la-haut.fr/2020/08/megaconstellations-de-satellites-vs.html?m=1
+https://www.cambridge.org/core/books/who-owns-outer-space/megaconstellations/E3988C26ACD64C18797811028A7F1E26
+https://cps.iau.org/documents/40/IAU_CPS_Essential_Reading_List_9.7.23.pdf
+
+
 ---
 
 ## L'histoire des mégaconstellations
