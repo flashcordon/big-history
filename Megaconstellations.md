@@ -68,5 +68,5 @@ https://cps.iau.org/documents/40/IAU_CPS_Essential_Reading_List_9.7.23.pdf
 
 ## La réponse de la communauté astronomique
 
-- Dès 2019, l'Union astronomique internationale (UAI)
+- Dès 2019, l'Union astronomique internationale (UAI) a pulbié [un communiqué](https://www.iau.org/news/announcements/detail/ann19035/) manifestant son inquiétude quant au déploiement explonentiel des constellations de satellites
 - En 2022, l'UAI a établi un "Centre for the Protection of the Dark and Quiet Sky from Satellite Constellation Interference" ([CPS](https://cps.iau.org/))
