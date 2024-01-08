@@ -78,4 +78,5 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 - Dès 2019, l'Union astronomique internationale (UAI) a pulbié [un communiqué](https://www.iau.org/news/announcements/detail/ann19035/) manifestant son inquiétude quant au déploiement explonentiel des constellations de satellites
 - Un séminaire virtuel nommé SATCON1 réunissant 250 acteurs du monde de l'astronomie et du spatial s'est tenu fin juin 2020.
 > Ce séminaire a conduit à [un premier rapport](https://aas.org/sites/default/files/2020-08/SATCON1-Report.pdf) sur l'impact des mégaconstellations de satellites sur l'astronomie.
-- En 2022, l'UAI a établi un "Centre for the Protection of the Dark and Quiet Sky from Satellite Constellation Interference" ([CPS](https://cps.iau.org/)) qui sera dirigé par NOIRLab (USA) et SKAO (UK).
+- En 2022, l'UAI a établi un "Centre for the Protection of the Dark and Quiet Sky from Satellite Constellation Interference" ([CPS](https://cps.iau.org/))
+- 
