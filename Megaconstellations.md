@@ -45,7 +45,7 @@ https://www.mikepeel.net/presentations/
 https://www.ca-se-passe-la-haut.fr/2020/08/megaconstellations-de-satellites-vs.html?m=1
 https://www.cambridge.org/core/books/who-owns-outer-space/megaconstellations/E3988C26ACD64C18797811028A7F1E26
 https://cps.iau.org/documents/40/IAU_CPS_Essential_Reading_List_9.7.23.pdf
-
+https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kuiper
 
 ---
 
@@ -59,7 +59,7 @@ https://cps.iau.org/documents/40/IAU_CPS_Essential_Reading_List_9.7.23.pdf
 - En Janvier 2024, on recense pas moins de 9200 satellites actifs en orbite terrestre (9200 le 7 janvier 2024, selon [orbit.ing-now.com](https://orbit.ing-now.com/) 
 > Près de 5300 (58%) de ces satellites sont des Starlink. (Source : [Jonathan McDowell](https://planet4589.org/space/con/star/stats.html), qui tient les comptes des lancements de Starlink régulièrement sur son site)
 - En 2020, SpaceX a annoncé que la compagnie souhaiterait, à terme, que sa constellation Starlink compte 42 000 satellites. 
-- SpaceX n'est pas le seul acteur sur le marché des mégaconstellations. La constellation OneWeb (qui compte aujourd'hui plus de [630 satellites](https://planet4589.org/space/con/ow/stats.html) en orbite basse) a annoncé des plans pour le déploiement de 48 000 satellites, Kuiper (d'Amazon), and StarNet/GW
+- SpaceX n'est pas le seul acteur sur le marché des mégaconstellations. La constellation OneWeb (qui compte aujourd'hui plus de [630 satellites](https://planet4589.org/space/con/ow/stats.html) en orbite basse) a annoncé des plans pour le déploiement de 48 000 satellites, la constellation Kuiper d'Amazon prévoit d'ores et déjà l'ajout de 3200 satellites en orbite basse, et la Chine n'est pas en reste avec son projet de constellation StarNet/GW (pour Guowang), qui pourrait compter près de 13 000 satellites
 - Il est difficile d'établir une projection fiable du nombre de satellites actifs à l'avenir, mais les estimations s'accordent à dire qu'il pourrait y en avoir plus de 100 000 d'ici 2030.
 
 ## Conséquences sur l'astronomie
@@ -69,6 +69,8 @@ https://cps.iau.org/documents/40/IAU_CPS_Essential_Reading_List_9.7.23.pdf
 ## Conséquences sur la biodiversité
 
 ## Conséquences culturelles
+
+## Conséquences sur l'environnement spatial
 
 ## La réponse de la communauté astronomique
 
