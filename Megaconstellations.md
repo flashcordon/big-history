@@ -58,9 +58,13 @@ https://cps.iau.org/documents/40/IAU_CPS_Essential_Reading_List_9.7.23.pdf
 - En mai 2019, SpaceX lance les 60 premiers satellites de sa constellation Starlink. Leurs impacts sont immédiatement visibles sur les images d'astronomie et affectent même les observations à l'oeil nu du ciel nocturne.
 - En Janvier 2024, on recense pas moins de 9200 satellites actifs en orbite terrestre (9200 le 7 janvier 2024, selon [orbit.ing-now.com](https://orbit.ing-now.com/) 
 > Près de 5300 (58%) de ces satellites sont des Starlink. (Source : [Jonathan McDowell](https://planet4589.org/space/con/star/stats.html), qui tient les comptes des lancements de Starlink régulièrement sur son site)
+- En 2020, SpaceX a annoncé que la compagnie souhaiterait, à terme, que sa constellation Starlink compte 42 000 satellites. 
+- SpaceX n'est pas le seul acteur sur le marché des mégaconstellations. La constellation OneWeb (qui compte aujourd'hui 650 satellites en orbite basse) a annoncé des plans pour le déploiement de 48 000 satellites, Kuiper (d'Amazon), and StarNet/GW
 - Il est difficile d'établir une projection fiable du nombre de satellites actifs à l'avenir, mais les estimations s'accordent à dire qu'il pourrait y en avoir plus de 100 000 d'ici 2030.
 
 ## Conséquences sur l'astronomie
+
+- Le 27 mai 2019, Elon Musk, le patron de SpaceX, a annoncé [dans un Tweet](https://twitter.com/elonmusk/status/1132897322457636864?lang=fr) : "Starlink won’t be seen by anyone unless looking very carefully & will have ~0% impact on advancements in astronomy. We need to move telelscopes to orbit anyway."
 
 ## Conséquences sur la biodiversité
 
