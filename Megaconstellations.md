@@ -61,7 +61,7 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 - En 2020, SpaceX a annoncé que la compagnie souhaiterait, à terme, que sa constellation Starlink compte 42 000 satellites. 
 - SpaceX n'est pas le seul acteur sur le marché des mégaconstellations. La constellation OneWeb (qui compte aujourd'hui plus de [630 satellites](https://planet4589.org/space/con/ow/stats.html) en orbite basse) a annoncé des plans pour le déploiement de 48 000 satellites, la constellation Kuiper d'Amazon prévoit d'ores et déjà l'ajout de 3200 satellites en orbite basse, et la Chine n'est pas en reste avec son projet de constellation StarNet/GW (Guowang), qui pourrait compter près de 13 000 satellites en tout. Et bien d'autres acteurs ont des projets moins aboutis.
 
-*Evolution du nombre de satellites actifs en orbite terrestre de 1956 à 2023*
+*Evolution du nombre de satellites actifs en orbite terrestre de 1956 à 2023 (Source : [Jonathan McDowell](https://planet4589.org/space/stats/active.html))*
 
 ![evolutionnbsatellite](https://planet4589.org/space/stats/figs/active.jpg)
 
