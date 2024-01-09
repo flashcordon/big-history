@@ -60,6 +60,11 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 > Près de 5300 (58%) de ces satellites sont des Starlink. (Source : [Jonathan McDowell](https://planet4589.org/space/con/star/stats.html), qui tient les comptes des lancements de Starlink régulièrement sur son site)
 - En 2020, SpaceX a annoncé que la compagnie souhaiterait, à terme, que sa constellation Starlink compte 42 000 satellites. 
 - SpaceX n'est pas le seul acteur sur le marché des mégaconstellations. La constellation OneWeb (qui compte aujourd'hui plus de [630 satellites](https://planet4589.org/space/con/ow/stats.html) en orbite basse) a annoncé des plans pour le déploiement de 48 000 satellites, la constellation Kuiper d'Amazon prévoit d'ores et déjà l'ajout de 3200 satellites en orbite basse, et la Chine n'est pas en reste avec son projet de constellation StarNet/GW (Guowang), qui pourrait compter près de 13 000 satellites en tout. Et bien d'autres acteurs ont des projets moins aboutis.
+
+*Evolution du nombre de satellites actifs en orbite terrestre de 1956 à 2023*
+
+![evolutionnbsatellite](https://planet4589.org/space/stats/figs/active.jpg)
+
 - Il est difficile d'établir une projection fiable du nombre de satellites actifs à l'avenir, mais les estimations s'accordent à dire qu'il pourrait y en avoir plusieurs dizaines de milliers (et possiblement plus de 100 000) d'ici 2030 si rien n'est fait pour l'en empêcher.
 - Un tel nombre de satellites n'est pas nécessaire. Selon [le rapport du comité JASON](https://www.nsf.gov/news/special_reports/jasonreportconstellations/) (un groupe de scientifiques américains chargés de conseiller le gouvernement fédéral des États-Unis dans des matières militaires et de sécurité nationale), commandité par la National Science Foundation en 2020, pour assurer une couverture globale continue, un nombre minimal de l'ordre de 500 satellites évoluant à 550 km d'altitude serait nécessaire. Mais il y a de fortes incitations économiques à en déployer beaucoup plus.
 
