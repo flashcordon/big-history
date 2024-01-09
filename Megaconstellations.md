@@ -67,6 +67,12 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 
 - Le 27 mai 2019, Elon Musk, le patron de SpaceX, a annoncé [dans un Tweet](https://twitter.com/elonmusk/status/1132897322457636864?lang=fr) : "Starlink won’t be seen by anyone unless looking very carefully & will have ~0% impact on advancements in astronomy. We need to move telelscopes to orbit anyway."
 
+- Les satellites auront aussi un impact sur l
+
+*Allocation des fréquences radio aux US en 2016 ([Source](https://en.wikipedia.org/wiki/File:United_States_Frequency_Allocations_Chart_2016_-_The_Radio_Spectrum.pdf) : United States Department of Commerce)*
+
+[allocationsfréquencesUS](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/United_States_Frequency_Allocations_Chart_2016_-_The_Radio_Spectrum.pdf/page1-1280px-United_States_Frequency_Allocations_Chart_2016_-_The_Radio_Spectrum.pdf.jpg)
+
 ## Conséquences sur la biodiversité
 
 ## Conséquences culturelles
