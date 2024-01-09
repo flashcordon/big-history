@@ -68,7 +68,7 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 - Le 27 mai 2019, Elon Musk, le patron de SpaceX, a annoncé [dans un Tweet](https://twitter.com/elonmusk/status/1132897322457636864?lang=fr) : "Starlink won’t be seen by anyone unless looking very carefully & will have ~0% impact on advancements in astronomy. We need to move telelscopes to orbit anyway."
 
 - Les satellites auront aussi un impact sur l'astronomie radio.
-- L'observatoire SKA (Square Kilometer Array Observatory, ou SKAO), qui devrait voir le jour en 2027 et qui sera alors le plus grand radiotélescope au sol au monde, devrait être particulièrement impacté par l'accroissement des mégaconstellations.
+- L'observatoire SKA (Square Kilometer Array Observatory, ou SKAO), qui devrait voir le jour en 2027 et qui sera alors le plus grand radiotélescope au sol au monde (avec près de 200 antennes sur le site d'Afrique du Sud), devrait être particulièrement impacté par l'accroissement des mégaconstellations.
 - Les bandes radio utilisées par ces satellites pour communiquer avec le sol recoupent notamment la bande 5b observées par les antennes du radiotélescope SKA-Mid (actuellement en construction en Afrique du Sud), l'une des 7 bandes de fréquences sur lesquelles se focalise cet instrument. Ces satellites seront donc vues par le radiotélescope comme des sources mouvantes dans le domaine des ondes radio.
 > De nos jours, le nombre de satellites reste suffisamment peu élevé pour ne pas gêner les observations en onde radio trop longtemps. Mais avec 100 000 satellites, la bande 5b sera probablement saturée 100% du temps.
 
