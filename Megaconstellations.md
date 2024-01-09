@@ -71,7 +71,7 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 
 *Allocation des fréquences radio aux US en 2016 ([Source](https://en.wikipedia.org/wiki/File:United_States_Frequency_Allocations_Chart_2016_-_The_Radio_Spectrum.pdf) : United States Department of Commerce)*
 
-[allocationsfréquencesUS](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/United_States_Frequency_Allocations_Chart_2016_-_The_Radio_Spectrum.pdf/page1-1280px-United_States_Frequency_Allocations_Chart_2016_-_The_Radio_Spectrum.pdf.jpg)
+![allocationsfréquencesUS](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/United_States_Frequency_Allocations_Chart_2016_-_The_Radio_Spectrum.pdf/page1-1280px-United_States_Frequency_Allocations_Chart_2016_-_The_Radio_Spectrum.pdf.jpg)
 
 ## Conséquences sur la biodiversité
 
