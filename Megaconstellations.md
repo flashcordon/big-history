@@ -91,7 +91,11 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 
 - Dès 2019, l'Union astronomique internationale (UAI) a pulbié [un communiqué](https://www.iau.org/news/announcements/detail/ann19035/) manifestant son inquiétude quant au déploiement explonentiel des constellations de satellites
 - Un séminaire virtuel nommé SATCON1 réunissant 250 acteurs du monde de l'astronomie et du spatial s'est tenu fin juin 2020.
-> Ce séminaire a conduit à [un premier rapport](https://aas.org/sites/default/files/2020-08/SATCON1-Report.pdf) sur l'impact des mégaconstellations de satellites sur l'astronomie.
+- Ce premier séminaire a conduit à [un premier rapport technique](https://aas.org/sites/default/files/2020-08/SATCON1-Report.pdf) sur l'impact des mégaconstellations de satellites sur l'astronomie.
+- Le rapport SATCON1 se termine sur 10 recommandations à destination des observatoires et des opérateurs de constellations de satellites.
+> * Côté observatoire, le rapport appelle à développer des logiciels pour identifier et masquer automatiquement les tracés de satellites sur les images d'astronomie, pour prédire le moment de passage de n'importe quel satellite devant le champ de vue d'un télescope. 
+> * Côté industrie spatiale, le rapport encourage les entreprises à assombrir autant que possible leurs satellites (ou à les équiper de pare-Soleil), à ne pas déployer leurs satellites à plus de 600 km d'altitude, et plus généralement à en lancer moins...
+- En juillet 2021, le séminaire SATCON2 
 - En 2022, l'UAI a établi un "Centre for the Protection of the Dark and Quiet Sky from Satellite Constellation Interference" ([CPS](https://cps.iau.org/))
 
 ## La réponse des compagnies de satellite
