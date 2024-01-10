@@ -102,4 +102,4 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 ## La réponse des compagnies de satellite
 
 - En réponse aux inquiétude des astronomes, Starlink a lancé en 2020 un prototype de satellite nommé DarkSat recouvert d'un revêtement sombre, et réfléchissant donc moins la lumière du Soleil. Cependant, la satellite noir absorbait trop la chaleur, ce qui causait une surchauffe de son transmetteur.
-- Starlink a ensuite lancé VisorSat, un satellite doté d'un pare Soleil, ce qui le rend 4 fois moins brillant qu'un satellite Starlink normal. Mais le pare-Soleil était sur le chemin des lasers qui servent à communiquer entre les satellites, du coup la dernière génération de satellites Starlink n'en possède pas.
+- Starlink a ensuite lancé VisorSat, un satellite doté d'un pare Soleil, ce qui le rend 4 fois moins brillant qu'un satellite Starlink normal. Mais le pare-Soleil était sur le chemin des lasers qui servent à communiquer entre les satellites, du coup cette solution a rapidement été abandonnée.
