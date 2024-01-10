@@ -67,6 +67,9 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 
 - Il est difficile d'établir une projection fiable du nombre de satellites actifs à l'avenir, mais les estimations s'accordent à dire qu'il pourrait y en avoir plusieurs dizaines de milliers (et possiblement plus de 100 000) d'ici 2030 si rien n'est fait pour l'en empêcher.
 - Un tel nombre de satellites n'est pas nécessaire. Selon [le rapport du comité JASON](https://www.nsf.gov/news/special_reports/jasonreportconstellations/) (un groupe de scientifiques américains chargés de conseiller le gouvernement fédéral des États-Unis dans des matières militaires et de sécurité nationale), commandité par la National Science Foundation en 2020, pour assurer une couverture globale continue, un nombre minimal de l'ordre de 500 satellites évoluant à 550 km d'altitude serait nécessaire. Mais il y a de fortes incitations économiques à en déployer beaucoup plus.
+- À la clé, il y a un marché potentiellement juteux : en 2020, 40% de la population mondiale n'a toujours pas accès à Internet.
+
+<iframe src="https://ourworldindata.org/grapher/ict-adoption-per-100-people" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Conséquences sur l'astronomie
 
