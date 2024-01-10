@@ -96,7 +96,7 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 - Le rapport SATCON1 se termine sur 10 recommandations à destination des observatoires et des opérateurs de constellations de satellites.
 > * Côté observatoires, le rapport appelle à développer des logiciels pour identifier et masquer automatiquement les tracés de satellites sur les images d'astronomie, et pour prédire le moment de passage de n'importe quel satellite devant le champ de vision d'un télescope. 
 > * Côté industrie spatiale, le rapport encourage les entreprises à assombrir autant que possible leurs satellites (ou à les équiper de pare-Soleil), à ne pas déployer leurs satellites à plus de 600 km d'altitude, et plus généralement à en lancer moins...
-- En juillet 2021, le séminaire SATCON2 
+- En juillet 2021, un deuxième séminaire nommé SATCON2 a cette fois-ci rassemblé plus de 350 astronomes, opérateurs de satellites, spécialistes de la gouvernance spatiale et défenseurs du ciel nocturne en provenance de 40 pays. 
 - En 2022, l'UAI a établi un "Centre for the Protection of the Dark and Quiet Sky from Satellite Constellation Interference" ([CPS](https://cps.iau.org/))
 
 ## La réponse des compagnies de satellite
