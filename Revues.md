@@ -2,6 +2,7 @@
 
 ## Evolution des galaxies
 
+- [Introduction to GALAXY FORMATION AND EVOLUTION : From Primordial Gas to Present-Day Galaxies](https://arxiv.org/pdf/1912.06216.pdf) - Andrea Cimatti, Filippo Fraternali et Carlo Nipoti (2019)
 - [Physical Models of Galaxy Formation in a Cosmological Framework](https://arxiv.org/abs/1412.2712) - Sommerville & Davé (2014)
 - [A History of Dark Matter](https://arxiv.org/pdf/1605.04909.pdf) - Berton et Hooper (2016)
 - [Dark matter and cosmic structure](https://arxiv.org/abs/1210.0544) - Frenk and White (2012)
