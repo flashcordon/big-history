@@ -69,12 +69,14 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 
 - Il est difficile d'établir une projection fiable du nombre de satellites actifs à l'avenir, mais les estimations s'accordent à dire qu'il pourrait y en avoir plusieurs dizaines de milliers (et possiblement plus de 100 000) d'ici 2030 si rien n'est fait pour l'en empêcher.
 - Un tel nombre de satellites n'est pas nécessaire. Selon [le rapport du comité JASON](https://www.nsf.gov/news/special_reports/jasonreportconstellations/) (un groupe de scientifiques américains chargés de conseiller le gouvernement fédéral des États-Unis dans des matières militaires et de sécurité nationale), commandité par la National Science Foundation en 2020, pour assurer une couverture globale continue, un nombre minimal de l'ordre de 500 satellites évoluant à 550 km d'altitude serait nécessaire. Mais il y a de fortes incitations économiques à en déployer beaucoup plus.
-- À la clé, il y a un marché potentiellement juteux : en 2020, 40% de la population mondiale (près de 3 personnes sur 8) n'a toujours pas accès à Internet.
+> Aux coûts de lancement actuels, on peut estimer que les revenus générés par une mégaconstellation dépassent les coûts à partir de 100 000 satellites. Mais les coûts de lancements ne cessent de diminuer.
+- À la clé, il y a un marché potentiellement très juteux : en 2020, 40% de la population mondiale (près de 3 personnes sur 8) n'a toujours pas accès à Internet.
 
 ## Conséquences sur l'astronomie
 
 - Le 27 mai 2019, Elon Musk, le patron de SpaceX, a annoncé [dans un Tweet](https://twitter.com/elonmusk/status/1132897322457636864?lang=fr) : "Starlink won’t be seen by anyone unless looking very carefully & will have ~0% impact on advancements in astronomy. We need to move telelscopes to orbit anyway."
-- Les trainées de satellites ses mégaconstellations seront visibles sur les photos à très longues poses réalisées dans le domaine du visible et de l'infrarouge par les télescopes au sol.
+- C'est évidemment faux. Les satellites réfléchissent la lumière du Soleil, ce qui peut les rendre jusqu'à 1 milliard de fois plus brillant que les astres imagés par les observatoires au sol. C'est comme si on ajoutait des étoiles très brillantes au ciel nocturne. Pire, des étoiles mouvantes.
+- Les trainées lumineuses des satellites ses mégaconstellations seront visibles sur les photos à très longues poses réalisées dans le domaine du visible et de l'infrarouge par les télescopes au sol.
 - L'impact des satellites dépend de plusieurs facteurs, en particulier de la latitude d'observation et de l'altitude des satellites.
 > * Les satellites en dessous de 600 km d'altitude auront ainsi moins d'impact sur l'astronomie optique que les satellites situés sur des orbites plus éloignées (e.g. 1000 km), car ils seront illuminés moins longtemps par le Soleil (les premiers ne seront illuminés que quelques heures pendant et après le crépuscule, tandis que les derniers seront illuminés toute la nuit).
 - Les satellites auront aussi un impact sur l'astronomie radio.
@@ -109,3 +111,8 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 
 - En réponse aux inquiétude des astronomes, Starlink a lancé en 2020 un prototype de satellite nommé DarkSat recouvert d'un revêtement sombre, et réfléchissant donc moins la lumière du Soleil. Cependant, la satellite noir absorbait trop la chaleur, ce qui causait une surchauffe de son transmetteur.
 - Starlink a ensuite lancé VisorSat, un satellite doté d'un pare Soleil, ce qui le rend 4 fois moins brillant qu'un satellite Starlink normal. Mais le pare-Soleil était sur le chemin des lasers qui servent à communiquer entre les satellites, du coup cette solution a rapidement été abandonnée.
+
+## Régulation
+
+- Il n'y a à l'heure actuelle aucune régulation qui forcerait les compagnies privées à lancer moins de satellites ou à lancer des satellites moins nocifs pour l'astronomie.
+- 
