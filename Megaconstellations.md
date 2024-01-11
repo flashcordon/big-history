@@ -51,9 +51,11 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 
 ## L'histoire des mégaconstellations
 
+- Une mégaconstellation, c'est un groupe de plusieurs centaines voire milliers de satellites qui fonctionnent de concert, comme un seul et unique système.
 - La première grande constellation de satellite est la constellation Iridium, déployée par Motorola entre 1997 et 2002. Elle avait pour but de fournir un service de téléphonie par satellite. Mais la technologie n'était pas assez mature et les clients trop peu nombreux, si bien que la compagnie fait faillite en 1999. 
 > Elle était composée de 66 satellites en orbite basse (780 km d'altitude).
 - À la même époque, d'autres constellations sont déployées, comme Globalstar (48 satellites) ou encore Orbcomm (31 satellites), respectivement pour fournir des service de téléphonie par satellite et de transmission de données pour les besoins industriels. Elles ont aussi fait faillite (en 2002 pour Globalstar, en 2000 pour Orbcomm).
+- Au cours des dernières années, les coûts de lancement d'un satellite ont fortement baissé, et la miniaturisation des composants a permis de rendre économiquement viable le lancement de milliers de satellites dans le but de fournir un accès à Internet à haut débit.
 - De part leur faible nombre de satellites, les premières constellations n'avaient pas un grand impact sur l'astronomie. Mais tout a changé à partir de 2019.
 - En mai 2019, SpaceX lance les 60 premiers satellites de sa constellation Starlink. Leurs impacts sont immédiatement visibles sur les images d'astronomie et affectent même les observations à l'oeil nu du ciel nocturne.
 - En Janvier 2024, on recense pas moins de 9200 satellites actifs en orbite terrestre (9200 le 7 janvier 2024, selon [orbit.ing-now.com](https://orbit.ing-now.com/) 
@@ -72,7 +74,9 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 ## Conséquences sur l'astronomie
 
 - Le 27 mai 2019, Elon Musk, le patron de SpaceX, a annoncé [dans un Tweet](https://twitter.com/elonmusk/status/1132897322457636864?lang=fr) : "Starlink won’t be seen by anyone unless looking very carefully & will have ~0% impact on advancements in astronomy. We need to move telelscopes to orbit anyway."
-
+- Les trainées de satellites ses mégaconstellations seront visibles sur les photos à très longues poses réalisées dans le domaine du visible et de l'infrarouge par les télescopes au sol.
+- L'impact des satellites dépend de plusieurs facteurs, en particulier de la latitude d'observation et de l'altitude des satellites.
+> * Les satellites en dessous de 600 km d'altitude auront ainsi moins d'impact sur l'astronomie optique que les satellites situés sur des orbites plus éloignées (e.g. 1000 km), car ils seront illuminés moins longtemps par le Soleil (les premiers ne seront illuminés que quelques heures pendant et après le crépuscule, tandis que les derniers seront illuminés toute la nuit).
 - Les satellites auront aussi un impact sur l'astronomie radio.
 - L'observatoire SKA (Square Kilometer Array Observatory, ou SKAO), qui devrait voir le jour en 2027 et qui sera alors le plus grand radiotélescope au sol au monde (avec près de 200 antennes sur le site d'Afrique du Sud), devrait être particulièrement impacté par l'accroissement des mégaconstellations.
 - Les bandes radio utilisées par ces satellites pour communiquer avec le sol recoupent notamment la bande 5b observées par les antennes du radiotélescope SKA-Mid (actuellement en construction en Afrique du Sud), l'une des 7 bandes de fréquences sur lesquelles se focalise cet instrument. Ces satellites seront donc vues par le radiotélescope comme des sources mouvantes dans le domaine des ondes radio.
