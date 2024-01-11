@@ -90,6 +90,8 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 
 ## Conséquences culturelles
 
+- Les satellites de Starlink ont une magnitude apparente de 4 à 8. La magnitude limite visuelle de l'œil nu étant de 6.5, ils sont en général visibles par les populations au sol.
+
 ## Conséquences sur l'environnement spatial
 
 ## La réponse de la communauté astronomique
