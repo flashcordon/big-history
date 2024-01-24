@@ -46,6 +46,7 @@ https://www.ca-se-passe-la-haut.fr/2020/08/megaconstellations-de-satellites-vs.h
 https://www.cambridge.org/core/books/who-owns-outer-space/megaconstellations/E3988C26ACD64C18797811028A7F1E26
 https://cps.iau.org/documents/40/IAU_CPS_Essential_Reading_List_9.7.23.pdf
 https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kuiper
+https://www.lsst.org/content/lsst-statement-regarding-increased-deployment-satellite-constellations
 
 ---
 
@@ -67,6 +68,8 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 
 ![evolutionnbsatellite](https://planet4589.org/space/stats/figs/active.jpg)
 
+- En Septembre 2022, AST SpaceMobile a lancé le premier satellite de sa nouvelle constellation, un prototype nommé BlueWalker 3. Ce satellite possède la plus grande antenne de tous les satellites commerciaux à ce jour. 
+> BlueWalker 3 est aujourd’hui le satellite le plus brillants du ciel, dépassant même la luminosité de certaines étoiles brillantes. En passant devant le champ de vue du LSST, il peut saturer sa caméra.
 - Il est difficile d'établir une projection fiable du nombre de satellites actifs à l'avenir, mais les estimations s'accordent à dire qu'il pourrait y en avoir plusieurs dizaines de milliers (et possiblement plus de 100 000) d'ici 2030 si rien n'est fait pour l'en empêcher.
 - Un tel nombre de satellites n'est pas nécessaire. Selon [le rapport du comité JASON](https://www.nsf.gov/news/special_reports/jasonreportconstellations/) (un groupe de scientifiques américains chargés de conseiller le gouvernement fédéral des États-Unis dans des matières militaires et de sécurité nationale), commandité par la National Science Foundation en 2020, pour assurer une couverture globale continue, un nombre minimal de l'ordre de 500 satellites évoluant à 550 km d'altitude serait nécessaire. Mais il y a de fortes incitations économiques à en déployer beaucoup plus.
 > Aux coûts de lancement actuels, on peut estimer que les revenus générés par une mégaconstellation dépassent les coûts à partir de 100 000 satellites. Mais les coûts de lancements ne cessent de diminuer.
@@ -77,7 +80,7 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 - Le 27 mai 2019, Elon Musk, le patron de SpaceX, a annoncé [dans un Tweet](https://twitter.com/elonmusk/status/1132897322457636864?lang=fr) : "Starlink won’t be seen by anyone unless looking very carefully & will have ~0% impact on advancements in astronomy. We need to move telelscopes to orbit anyway."
 - C'est évidemment faux. Les satellites réfléchissent la lumière du Soleil, ce qui peut les rendre jusqu'à 1 milliard de fois plus brillant que les astres imagés par les observatoires au sol. C'est comme si on ajoutait des étoiles très brillantes au ciel nocturne. Pire, des étoiles mouvantes.
 - Les trainées lumineuses des satellites ses mégaconstellations seront visibles sur les photos à très longues poses réalisées dans le domaine du visible et de l'infrarouge par les télescopes au sol.
-- L'impact des satellites dépend de plusieurs facteurs, en particulier de la latitude d'observation et de l'altitude des satellites.
+- Selon les modèles de Jonathan McDowell, un chercheur au Center for Astrophysics d’Harvard, l'impact des satellites dépend de plusieurs facteurs, en particulier de la latitude d'observation et de l'altitude des satellites.
 > * Les satellites en dessous de 600 km d'altitude auront ainsi moins d'impact sur l'astronomie optique que les satellites situés sur des orbites plus éloignées (e.g. 1000 km), car ils seront illuminés moins longtemps par le Soleil (les premiers ne seront illuminés que quelques heures pendant et après le crépuscule, tandis que les derniers seront illuminés toute la nuit).
 - Les satellites auront aussi un impact sur l'astronomie radio.
 - L'observatoire SKA (Square Kilometer Array Observatory, ou SKAO), qui devrait voir le jour en 2027 et qui sera alors le plus grand radiotélescope au sol au monde (avec près de 200 antennes sur le site d'Afrique du Sud), devrait être particulièrement impacté par l'accroissement des mégaconstellations.
@@ -87,13 +90,19 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 
 ![allocationsfréquencesUS](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/United_States_Frequency_Allocations_Chart_2016_-_The_Radio_Spectrum.pdf/page1-1280px-United_States_Frequency_Allocations_Chart_2016_-_The_Radio_Spectrum.pdf.jpg)
 
+- Même le télescope Hubble n’est pas à l’abris de l’impact des mégaconstellations. Son altitude est suffisamment basse pour que des satellites photobombent régulièrement les clichés du télescope spatial. Les tracés de satellites sur les images d’Hubble se content aujourd’hui en milliers.
+
 ## Conséquences sur la biodiversité
 
 ## Conséquences culturelles
 
 - Les satellites de Starlink ont une magnitude apparente de 4 à 8. La magnitude limite visuelle de l'œil nu étant de 6.5, ils sont en général visibles par les populations au sol.
+- Pris collectivement, les débris associés à ces satellites réfléchissent la lumière du Soleil, et augmentent la luminosité du ciel nocturne, rendant certaines étoiles invisibles à l’œil nu. Cette perte du ciel nocturne peut être associée à un véritable génocide culturel pour les peuples autochtones qui ont inscrit leurs mythes et leurs divinité dans ces étoiles.
 
 ## Conséquences sur l'environnement spatial
+
+- Le déploiement et le cycle de vie des satellites de ces constellations va considérablement augmenter la population de débris orbitaux, augmentant le risque de syndrome de Kessel de manière exponentielle
+- Leur lancement émet des particules et des gaz dans l’atmosphère qui affectent la couche d’ozone
 
 ## La réponse de la communauté astronomique
 
@@ -103,8 +112,9 @@ https://www.aboutamazon.com/news/innovation-at-amazon/what-is-amazon-project-kui
 - Le rapport SATCON1 se termine sur 10 recommandations à destination des observatoires et des opérateurs de constellations de satellites.
 > * Côté observatoires, le rapport appelle à développer des logiciels pour identifier et masquer automatiquement les tracés de satellites sur les images d'astronomie, et pour prédire le moment de passage de n'importe quel satellite devant le champ de vision d'un télescope. 
 > * Côté industrie spatiale, le rapport encourage les entreprises à assombrir autant que possible leurs satellites (ou à les équiper de pare-Soleil), à ne pas déployer leurs satellites à plus de 600 km d'altitude, et plus généralement à en lancer moins...
-- En juillet 2021, un deuxième séminaire nommé SATCON2 a cette fois-ci rassemblé plus de 350 astronomes, opérateurs de satellites, spécialistes de la gouvernance spatiale et défenseurs du ciel nocturne en provenance de 40 pays. 
-- En 2022, l'UAI a établi un "Centre for the Protection of the Dark and Quiet Sky from Satellite Constellation Interference" ([CPS](https://cps.iau.org/))
+- En juillet 2021, un deuxième séminaire nommé SATCON2 a cette fois-ci rassemblé plus de 350 astronomes, opérateurs de satellites, spécialistes de la gouvernance spatiale et défenseurs du ciel nocturne en provenance de 40 pays.
+> Les réflexions développées lors de SATCON 2 ont mené à la création d’une entité nommée SatHub, qui a pour but de fédérer les énergies pour collecter des données sur les satellites, produire des analyses détaillées de leur impact, développer des logiciels pour masquer automatiquement les tracés de satellites sur les images d’astronomie.
+- En 2022, l’UAI a lancé de son côté le CPS (Centre for the Protection of the Dark and Quiet Sky from Satellite Constellation Interference), qui a pour but de coordonner les efforts de protection du ciel nocturne à l’échelle internationale et à travers les disciplines ([CPS](https://cps.iau.org/)).
 
 ## La réponse des compagnies de satellite
 
