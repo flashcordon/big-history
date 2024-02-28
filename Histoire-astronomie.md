@@ -218,10 +218,10 @@ In a joint program between the U.S. Army Air Corps and the National Geographic S
 
 - Ça, c'est la première photo de la Terre vue de l'espace. Et elle n'a pas été prise par un satellite, mais par un missile. Je vous raconte.
 - À la fin de la seconde Guerre Mondiale, l'armée americaine a réquisitionné pas mal de missiles qui avaient été développés par l'Allemagne nazie, les fameuses V2, dans le but de comprendre leur fonctionnement et de les améliorer.
-- Le 2 octobre 1946, un de ces missiles, la V2 n°13, décolle de la base de lancement de White Sands, au Nouveau Mexique. À son bord, les ingénieurs ont accroché une caméra qui enregistre son périple à raison d'une photo toutes les seconde et demi.
+- Le 2 octobre 1946, un de ces missiles, le V2 n°13, décolle de la base de lancement de White Sands, au Nouveau Mexique. À son bord, les ingénieurs ont accroché une caméra qui enregistre son périple à raison d'une photo toutes les seconde et demi.
 - Après un vol de quelques minutes, le missile finit par s'écraser violemment dans le désert. La caméra est complètement détruite, mais comme le film du vol se trouvait dans un boîtier en acier, il a survécu. 
 - Retrouver ce film a d'ailleurs été une aventure à part entière, vu qu'à l'époque, il n'y avait pas de GPS pour localiser précisément l'endroit du crash. Les militaires ont donc été obligé de passer le désert au peigne fin dans des jeeps en tenant compte des données radar très imprécises.
-- Le cliché pris au sommet de la trajectoire de la V2 est ainsi la première photo à avoir été prise à plus de 100 km d'altitude, ce qui correspond à la limite qui marque officiellement le début de l'espace. À cette hauteur, on pouvait voir pour la toute première fois un bout de notre planète enveloppé par la noirceur du cosmos. 
+- Le cliché pris au sommet de la trajectoire du V2 est ainsi la première photo à avoir été prise à plus de 100 km d'altitude, ce qui correspond à la limite qui marque officiellement le début de l'espace. À cette hauteur, on pouvait voir pour la toute première fois un bout de notre planète enveloppé par la noirceur du cosmos. 
 - Il y a eu bien d'autres photos marquantes de la Terre depuis, mais ça, c'est une autre histoire.
 
 
