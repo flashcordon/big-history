@@ -8,10 +8,11 @@
 - 1840 : [La plus ancienne photo détaillée de la Lune](#La-plus-ancienne-photo-détaillée-de-la-Lune)
 - 1845 : [La première photo du Soleil](#La-première-photo-du-Soleil) OK
 - 1851 : [La première photo d'une éclipse](#La-première-photo-dune-éclipse)
+- 1888 : [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie) OK
 - 1931 : [La première photo de la courbure de la Terre](#La-première-photo-de-la-courbure-de-la-Terre)
 - 1946 : [La première photo de la Terre vue de l’espace](#La-première-photo-de-la-Terre-vue-de-lespace) OK
 - 1966 : [La première photo depuis la surface d'un autre monde](#La-première-photo-depuis-la-surface-dun-autre-monde) OK
-- 1888 : [La première photo d'une autre galaxie](#La-première-photo-dune-autre-galaxie) OK
+- 1979 : La première photo d'une lentille gravitationnelle (Twin Quasar)
 - 1986 : [La première carte de l'univers local](#La-première-carte-de-lunivers-local) OK
 - 1991 : [La première photo rapprochée d'un astéroide](#La-première-photo-rapprochée-dun-astéroide) OK
 - 2004 : [La première photo d'une exoplanète](#La-première-photo-dune-exoplanète) OK
