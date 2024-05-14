@@ -782,3 +782,59 @@ Un supercontinent : Pangea Ultima
 - Il faut différencier la mort thermique "classique" (l'univers atteint un état d'équilibre thermodynamique, et tous les points de l'espace ont la même température) de la mort thermique "cosmologique".
 - Dans un univers en expansion, il est impossible pour l'entropie d'atteindre une valeur maximale, parce que la valeur maximale de l'entropie (le désordre maximal possible) augmente avec le volume de l'univers
 - Mais même si l'entropie maximale ne sera jamais atteinte dans un univers en perpétuelle expansion, l'univers dans le futur le plus ultime, composé de rayonnement de plus en plus froid et de particules subatomiques de plus en plus éloignées, sera quand même très proche de celui prédit par l'hypothèse de la mort thermique. Rien de complexe ne pourra plus s'y former.
+
+# La fin du cosmos (conférence)
+
+*Sources*
+
+- https://www.space.com/desi-cosmological-constant-dark-energy-history
+
+---
+
+Aujourd'hui, je suis venu vous partager mes angoisses existentielles. Parce qu'il se trouve que je passe beaucoup de temps à penser à la fin du monde. Ce qui fait de moi une personne extrêmement fun à inviter en soirée. Mais bon, je ne suis quand même pas seul à me creuser la tête sur ce genre de grandes questions. Ca fait intimement partie de la condition humaine. En témoigne le fait que la plupart des grandes religions du monde ont un discours sur la fin des temps, qu'on appelle une eschatologie. Mais il se trouve que depuis quelques décennies, la science nous offre aussi quelques clés de compréhension pour tenter de construire une eschatologie qu'on peut appeler "physique", c'est-à-dire un discours sur la fin des temps basé sur les lois de l'univers telles qu'on les connaît.
+
+L'astrophysique nous apprend ainsi qu'on vit dans un univers qui a une histoire. Cette histoire, elle a commencé il y a 13,8 milliards d'années, à l'époque où l'univers se trouvait dans un état extrêmement dense et extrêmement chaud. Et au fil du temps, le cosmos n'a fait que s'étendre et se refroidir, en formant au passage des galaxies, des étoiles, des planètes et même des formes de vie. Est-ce que cette expansion va se poursuivre indéfiniment ? Et à quoi ressemblera l'univers dans un futur extrêmement lointain ? Voilà les questions qu'on va aborder ensemble dans un temps extrêmement réduit.
+
+Dans un premier temps, on peut se demander ce que vont devenir les étoiles, qui sont les astres qui composent en grande partie les paysages cosmiques d'aujourd'hui. Les étoiles, ce sont essentiellement de grosses boules de gaz composées d'hydrogène et d'hélium, les deux éléments chimiques les plus simples du cosmos. Au coeur de ces étoiles, l'environnement est si chaud et si comprimé que les noyaux d'hydrogène se rentrent dedans pour donner naissance à des noyaux d'hélium.
+
+Cette réaction qui transforme l'hydrogène en hélium, c'est la fusion nucléaire. Et c'est une réaction qui produit énormément d'énergie sous forme de rayonnement. 
+
+Ce rayonnement génère à son tour une pression sur les couches de gaz de l'étoile qui l'empêche de s'effondrer sous son propre poids. En tout cas, cette pression fonctionne tant que l'étoile possède de l'hydrogène dans son coeur.
+
+Quand une étoile a épuisé son réservoir d'hydrogène, il y a deux processus qui se mettent en oeuvre. D'une part, l'étoile va enfler et va éjecter ses couches de gaz externes dans l'espace. Et d'autre part, son coeur va se mettre à se contracter jusqu'à trouver un nouvel équilibre.
+
+A la fin de ce processus, il ne reste de l'étoile qu'un petit résidus extrêmement compact, un cadavre stellaire, dont la nature dépend de la masse initiale de l'étoile.
+
+Pour les étoiles de masses similaires au Soleil, ce résidus sera une naine blanche, une boule de la taille d'une planète rocheuse, tellement dense qu'une cuillerée à café de sa matière pèserait autant qu'une voiture.
+
+Pour les étoiles dont la masse initiale dépasse 8 Soleils, le scénario est un peu différent. Leur coeur va se contracter encore plus, jusqu'à se transformer en étoile à neutrons, un résidus de la taille de Paris encore plus compacte qu'une naine blanche, puisqu'une cuillerée à café d'étoile à neutrons pèserait autant qu'une montagne !
+
+Et pour ce qui est des étoiles plus massives qu'une vingtaine de Soleils, leur coeur se contracte indéfiniment jusqu'à générer une région complètement coupée du reste de l'univers. Une région tellement compacte que même la lumière ne peut s'en échapper. Autrement dit, un trou noir.
+
+Le fait que les étoiles "meurent" a une conséquence assez dérangeante pour l'avenir à long terme du cosmos. Parce que plus on avance dans le temps, plus les galaxies s'éloignent les unes des autres du fait de l'expansion cosmique, et moins l'univers est capable de former de nouvelles étoiles. Le pic de formation d'étoiles dans l'univers a d'ailleurs eu lieu il y a très longtemps dans le passé, dans les 2 à 3 premiers milliards d'années après le Big Bang, et le rythme global de formation stellaire n'a fait que décliner depuis.
+
+On doit donc nécessairement considérer le fait que, dans un futur très lointain, qui se compte en millions de milliards d'années, il n'y aura plus une seule étoile dans le cosmos. L'univers ne sera plus qu'un vaste cimetière peuplé de cadavres stellaires. Si la vie existe toujours à cette époque, elle devra alors tirer partie de l'énergie résiduelle qui est rayonnée par les naines blanches, les étoiles à neutrons et les trous noirs.
+
+Mais les paysages cosmiques du futur ne dépendent pas uniquement de l'évolution des étoiles. Ils dépendent aussi de l'évolution de l'expansion du cosmos. Et là, il faut bien avouer que les scientifiques sèchent un peu pour le moment. La dynamique à très long terme du cosmos reste une question encore largement ouverte, qui est au centre de nombreuses recherches. La réponse à ce mystère dépend d'un ingrédient particulier du cosmos qu'on appelle l'énergie sombre.
+
+L'énergie sombre, c'est une composante a été mise en lumière à la fin des années 90, suite à l'observation d'explosions d'étoiles très lointaines qui étaient plus distantes que prévu. La seule façon d'expliquer ces observations, c'était de considérer que l'univers s'étend de plus en plus vite depuis 5 ou 6 milliards d'années. Autrement dit, l'expansion de l'univers s'accélère. C'est l'un de grands résultats de la cosmologie de ces dernières décennies.
+
+L'énergie sombre, c'est le mot que les astronomes mettent sur ce phénomène qui serait à l'origine de ce coup d'accélérateur cosmique. Et son importance ne doit pas être sous-estimée. Parce que selon les derniers recensements, l'énergie sombre constituerait aujourd'hui plus des deux tiers du contenu total de l'univers. C'est donc de très loin l'ingrédient majoritaire du cosmos.
+
+Le problème, c'est que la nature de cette énergie sombre est complètement inconnue à l'heure actuelle. Elle pourrait être la manifestation d'une sorte de propriété intrinsèque de l'espace, une sorte d'élasticité fondamentale, ou bien une toute nouvelle forme de matière complètement inconnue qui exercerait une pression sur le cosmos. Pour l'instant, on n'en sait rien.
+
+La nature de l'énergie sombre est aujourd'hui l'un des mystères les plus profonds de l'astrophysique, et c'est une question centrale, puisque le comportement de l'énergie sombre affecte directement le destin ultime de l'univers. 
+
+Par exemple, si l'énergie sombre est une propriété élastique de l'espace, sa contribution resterait la même quelle que soit l'époque de l'histoire cosmique. Dans le jargon, on parle de constante cosmologique, et c'est à l'heure actuelle la manière la plus simple de décrire l'énergie sombre.  Le destin ultime d'un univers dominé par une constante cosmologique, c'est l'expansion indéfinie et le refroidissement jusqu'au point où plus rien d'intéressant ne peut se produire. C'est le scénario du Big Freeze, qu'on appelle aussi la mort thermique de l'univers. 
+
+Mais le Big Freeze n'est pas le seul futur cosmique envisageable. Il existe des scénarios beaucoup plus apocalyptiques. Par exemple, si au lieu d'être constante, la densité de l'énergie sombre ne fait qu'augmenter avec le temps, l'expansion de l'univers s'accélèrerait de plus en plus à l'avenir, au point de disloquer progressivement l'ensemble des structures du cosmos. D'abord les amas de galaxies, puis les galaxies elles-mêmes, puis les étoiles et les planètes, et même les atomes finiraient par exploser. Ce scénario assez terrifiant pour les habitants futurs du cosmos, c'est le Big Rip. Le Grand Déchirement.
+
+Mais pas de panique : on peut aussi imaginer le scénario inverse. On peut considérer que la contribution de l'énergie sombre va s'affaiblir au fil du temps. Dans ce cadre, l'univers ne peut plus s'étendre indéfiniment. Au bout d'un moment, la gravité de toute la matière de l'univers va finir par reprendre le dessus, l'univers va se recontracter et d'ici quelques centaines de milliards d'années tout au plus, l'intégralité de la matière sera réunie au même endroit. C'est le scénario du Big Crunch. Le Grand Effondrement.
+
+De façon surprenante, c'est ce dernier scénario qui semble aujourd'hui être favorisé par les données du projet DESI, un programme de cartographie cosmique qui a observé des millions de galaxies lointaines de façon extrêmement précise pour percer les mystères de l'énergie sombre, et qui a dévoilé ses premiers résultats en avril 2024.
+
+Ces résultats ont surpris beaucoup de cosmologistes, parce que jusqu'à présent, la plupart des observations tendaient à montrer que l'énergie sombre se comportait plutôt comme une constante cosmologique. Alors bien entendu, il n'est pas impossible que des erreurs de mesure se soient cachées dans les observations de DESI. Mais si ces résultats sont confirmés par la prochaine génération de cartographies cosmiques, cela voudrait dire qu'on vit dans un univers encore plus étrange que prévu, et que cet univers sera probablement condamné à se contracter dans un futur bien déterminé.
+
+Alors, lequel de ces trois scénarios vous semble le plus séduisant, ou le moins déprimant ? À titre personnel, il y a toujours un mélange particulier de sentiments qui émergent quand je me confronte comme ça à des échelles de temps qui dépassent de très loin ma propre existence. Il y a d'abord une angoisse latente qui est liée à ma propre finitude. Il y a aussi une sorte de nostalgie d'un futur perdu quand je pense à tous ces événements qui n'auront jamais lieu. Mais il y a aussi et surtout un profond sentiment de reconnaissance, d'exister à une époque très particulière de l'histoire de l'univers, où l'on peut encore profiter de la lueur rassurante des étoiles. Alors à la lumière de ces informations, je vous encourage fortement à lever les yeux au ciel, pendant qu'il est encore temps. Merci.
+
+
