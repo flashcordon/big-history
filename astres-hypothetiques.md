@@ -10,6 +10,10 @@ Hic sunc dracones
 - [Hypothetical stars](https://en.wikipedia.org/wiki/Hypothetical_star) - Wikipédia
 - [Hypothetical planet types](https://en.wikipedia.org/wiki/Category:Hypothetical_planet_types) - Wikipédia
 
+## Les kugelblitz
+
+un trou noir fait de lumière 
+
 ## Les anti-étoiles
 
 - AMS-02 détecte des atomes d'anti-hélium
