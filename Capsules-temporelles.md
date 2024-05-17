@@ -207,6 +207,47 @@ Visite de l’université de Southampton, où des chercheurs ont développé un 
 - Inside the combined galaxy, the Voyagers' fate would depend on how much dust is left behind by the merger; Oberg said that may well be minimal as star formation and explosion both slow, reducing the amount of dust flung into the galaxy.
 - Depending on their luck with this dust, the Voyagers may be able to ride out trillions of trillions of trillions of years, long enough to cruise through a truly alien cosmos
 - "Such a distant time is far beyond the point where stars have exhausted their fuel and star formation has ceased in its entirety in the universe," he said. "The Voyagers will be drifting through what would be, to us, a completely unrecognizable galaxy, free of so-called main-sequence stars, populated almost exclusively by black holes and stellar remnants such as a white dwarfs and neutron stars."
+- 
+Capsules temporelles spatiales
+
+Sanctuary
+
+Apollo 11 goodwill messages are statements from leaders of 73 countries around the world on a disc about the size of a 50-cent piece made of silicon that was left on the Moon in 1969 by the Apollo 11 astronauts. The disc was in a package in Buzz Aldrin's suit shoulder pocket along with some other memorial items. He was reminded about the package by Neil Armstrong while ascending the ladder of the Lunar Module Eagle to finish their EVA. He then dropped it to the surface.[2] Later Houston requested and received confirmation they had placed it.The disc rests in an aluminum case on the Moon's Sea of Tranquility.
+
+Moon museum : wafer de céramique contenant des oeuvres de 6 artistes des années 60, dont un pénis par Andy Warhol. Probablement attaché au lander Intrepid de la mission Apollo 12, qui a aluni en 1969.
+
+Le lander Phoenix de la NASA, qui a atterri sur Mars en 2008, abrite un mini DVD nommé "Visions of Mars" contenant 80 oeuvres de fiction et de non-fiction qui parlent de Mars, créé par la Planetary Society. Il s'agit de la première biblliothèque martienne.
+
+Europa Clipper vault plate : le mot "eau" dans 100 langues. 2,6 millions de noms gravés. Lautre côté, l'équation de Drake et portrait de Ron Greely, poème manuscrit in praise of mystery par ada limon,
+
+Great pause project : envoyer des archives collaboratives de l'expérience collective du COVID sur la Lune
+
+Lifeship : envoi d'ADN sur la Lune
+
+Earthling project
+
+Orbital Library : In February 2018, the Arch Mission successfully placed an archive called the Orbital Library, which contains a copy of Wikipedia, into low-Earth orbit
+
+Solar Library : première bibliothèque spatiale. Embarqué dans la Tesla de l'espace à l'occasion d'un test de la Falcon Heavy. Contient la trilogie Fondation d'Isaac Asimov.
+
+Lunar Library I : disque contenant 30 millions de pages embarqué à bord de la sonde Beresheet. Contient une copie du Wikipedia anglais, et un échantillon de tardigrades. The Lunar Library was set to arrive on the Moon on the Israeli spacecraft Beresheet, but it crashed landed on the Moon in May 2019. Despite this, the 30-million page Lunar Library possibly survived due to the strength of its construction
+
+Lunar Library II (Arch Mission Foundation) : disque contenant 60 millions de pages gravées sur un disque embarqué à bord de la mission Peregrine, qui s'est posée sur la Lune le 24 décembre 2023. Prévu pour durer 1 milliard d'années.
+
+On February 22, 2024, the Arch Mission successfully landed the Lunar Library on the Moon, on the Intuitive Machines IM-1 mission's Oddyseus lander.[23]
+
+Immortality Drive, in the International Space Station
+
+Lunar Codex's Peregrine, Nova, and Polaris archives on the Peregrine, Nova-C, and Griffin lunar landers
+
+Plaque on LAGEOS-1
+Plaque on Pioneer 10 and Pioneer 11
+Rosetta disk prototype, on the Rosetta space probe
+Two Voyager Golden Records on board Voyager 1 and Voyager 2
+The Arch Mission Foundation Lunar Library on the Moon, with Intuitive Machines and the GLL Lunaprise mission
+Apollo 11 goodwill messages, on the Moon
+
+KEO (inachevé)
 
 # Préserver les plus anciennes traces d'homininés : les empreintes de Laetoli
 
