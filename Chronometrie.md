@@ -2,7 +2,7 @@
 
 - 10-32 s : fin de l’inflation cosmique
 - 1 s : l’univers est un plasma chaud et opaque constitué de particules chargées (électrons, protons) et de
-photons* qui interagissent fréquemment.
+photons qui interagissent fréquemment.
 - 10 s - 20 min : la nucléosynthèse primordiale produit les premiers noyaux de deutérium, d’hélium et de lithium.
 - 380 000 ans (Recombinaison) : la température de l’univers est suffisamment basse pour permettre aux électrons
 de se combiner aux protons, ce qui donne naissance aux premiers atomes. Les photons primordiaux se
