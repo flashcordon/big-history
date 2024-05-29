@@ -1,6 +1,6 @@
 # Chronologie cosmique
 
-- 10-32 s : fin de l’inflation cosmique*
+- 10-32 s : fin de l’inflation cosmique
 - 1 s : l’univers est un plasma chaud et opaque constitué de particules chargées (électrons, protons) et de
 photons* qui interagissent fréquemment.
 - 10 s - 20 min : la nucléosynthèse primordiale produit les premiers noyaux de deutérium, d’hélium et de lithium.
