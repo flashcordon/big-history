@@ -1,3 +1,24 @@
+# Chronologie cosmique
+
+- 10-32 s : fin de l’inflation cosmique*
+- 1 s : l’univers est un plasma chaud et opaque constitué de particules chargées (électrons, protons) et de
+photons* qui interagissent fréquemment.
+- 10 s - 20 min : la nucléosynthèse primordiale produit les premiers noyaux de deutérium, d’hélium et de lithium.
+- 380 000 ans (Recombinaison) : la température de l’univers est suffisamment basse pour permettre aux électrons
+de se combiner aux protons, ce qui donne naissance aux premiers atomes. Les photons primordiaux se
+découplent de la matière et sont libres de filer en ligne droite (émission du rayonnement fossile). L’univers
+devient alors transparent.
+- 380 000 ans - 100 millions d’années (Âges sombres) : l’univers est un gaz neutre d’hydrogène et d’hélium dans
+un bain de photons primordiaux refroidis par l’expansion cosmique.
+- 100 million d’années (Aube cosmique) : les premières étoiles se forment à partir des surdensités de matière
+primordiales.
+- 200 - 400 millions d’années : les premières galaxies se forment.
+- 400 millions - 1 milliard d’années (Réionisation) : les rayonnements UV des premières galaxies ionisent les
+atomes d’hydrogène du milieu intergalactique. L’univers est de nouveau un plasma.
+- 2-3 milliards d’années (Midi cosmique) : l’univers forme des étoiles à un rythme inégalé jusqu’alors (et inégalé
+depuis).
+- 13,8 milliards d’années : Aujourd’hui
+
 # La révolution chronométrique
 
 *Sources*
