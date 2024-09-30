@@ -565,6 +565,7 @@ Un supercontinent : Pangea Ultima
 - [Swansong Biospheres: Refuges for life and novel microbial biospheres on terrestrial planets near the end of their habitable lifetimes](https://arxiv.org/abs/1210.5721) - O'Malley-James et al (2012)
 - [Life span of the biosphere](https://www.nature.com/articles/296561a0) - Lovelock et Whitfield (1982)
 - [The Goldilocks Planet? How Silicate Weathering Maintains Earth “Just Right”](http://geosci.uchicago.edu/~kite/doc/Kasting_2019.pdf) - Kasting -(2019)
+- [Swansong Biospheres: Refuges for life and novel microbial biospheres on terrestrial planets near the end of their habitable lifetimes](https://arxiv.org/abs/1210.5721) - O'Malley-James et al (2012) 
 
 ---
 
