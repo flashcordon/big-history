@@ -26,6 +26,9 @@
 
 - [A Pedagogical Review of Electroweak Symmetry Breaking Scenarios](https://arxiv.org/abs/0910.5095) - Bhattacharyya (2009)
 
+## Système solaire
+
+- [Formation and evolution of a protoplanetary disk: Combining observations, simulations, and cosmochemical constraints](https://www.aanda.org/articles/aa/full_html/2024/11/aa51388-24/aa51388-24.html) - Morbidelli et al (2024)
 ## Sciences du système Terre
 
 - [Mineral Evolution](https://hazen.carnegiescience.edu/sites/hazen.gl.ciw.edu/files/242-Hazen-AmMin-2008.pdf) - Hazen (2008)
