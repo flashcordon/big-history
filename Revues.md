@@ -29,6 +29,11 @@
 ## Système solaire
 
 - [Formation and evolution of a protoplanetary disk: Combining observations, simulations, and cosmochemical constraints](https://www.aanda.org/articles/aa/full_html/2024/11/aa51388-24/aa51388-24.html) - Morbidelli et al (2024)
+
+## Origines de la vie
+
+- [The Role of Meteorite Impacts in the Origin of Life](https://www.liebertpub.com/doi/10.1089/ast.2019.2203) - Orinski et al (2020)
+ 
 ## Sciences du système Terre
 
 - [Mineral Evolution](https://hazen.carnegiescience.edu/sites/hazen.gl.ciw.edu/files/242-Hazen-AmMin-2008.pdf) - Hazen (2008)
