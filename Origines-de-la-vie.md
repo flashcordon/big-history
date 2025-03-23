@@ -11,7 +11,7 @@ Un coup de pouce venu du ciel
 
 - Depuis la découverte du cratère d'impact de Chixulub, associé à l'extinction massive des dinosaures non-aviens il y a 66 millions d'années, on connaît surtout les météorites pour leurs conséquences destructrices.
 - On sait que pendant les premières centaines de millions d'années après la naissance de la Terre, notre planète a subi un intense bombardement de météorites.
-> * Le plus violent de ces impacts s'est produit il y a 4,5 milliards d'années, avec une proto-planète de la taille de Mars, qui a donné naissance à la Lune (cf [Canup 2012](https://www.science.org/doi/10.1126/science.1226073)). [Vidéo d'une simulation de 2022](https://www.youtube.com/watch?v=kRlhlCWplqk) Credit: NASA/Durham University/Jacob Kegerreis 
+> * Le plus violent de ces impacts s'est produit il y a 4,5 milliards d'années, avec une proto-planète de la taille de Mars, qui a donné naissance à la Lune (Théorie de l'impact géant, cf [Canup 2012](https://www.science.org/doi/10.1126/science.1226073)). [Vidéo d'une simulation de 2022](https://www.youtube.com/watch?v=kRlhlCWplqk) Credit: NASA/Durham University/Jacob Kegerreis 
 > *  
 - "meteorite impacts can generate both subaerial and submarine hydrothermal vents, abundant hydrothermal–sedimentary settings, and impact analogues for volcanic pumice rafts and splash pools. Impact events can also deliver and/or generate many of the necessary chemical ingredients for life and catalytic substrates such as clays as well. The role that impact cratering plays in fracturing planetary crusts and its effects on deep subsurface habitats for life are also discussed."
 - We conclude with the recommendation that impact craters should be considered prime sites in the search for evidence of past life on Mars
