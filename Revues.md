@@ -73,3 +73,7 @@
 ## Intelligence Artificielle
 
 - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547) - Chollet (2019)
+
+## Phénoménologie
+
+- [Phenomenology for Psychedelic Researchers: A Review of Current Methods & Practices](https://jcer.com/index.php/jcj/article/view/977) - Alan M. Houot (2021)
