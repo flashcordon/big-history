@@ -9,7 +9,8 @@
 - [Dark matter and cosmic structure](https://arxiv.org/abs/1210.0544) - Frenk and White (2012)
 - [Spiral Structures in Disc Galaxies](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5AAD9BB4EC87A557728FB2428444814F/S1323358014000319a.pdf/dawes_review_4_spiral_structures_in_disc_galaxies.pdf) - Dobbs and Baba (2014)
 - [Galaxy Formation and Reionization: Key Unknowns and Expected Breakthroughs by the James Webb Space Telescope](https://arxiv.org/abs/2110.13160) - Robertson (2021)
-
+- [Populating the periodic table: Nucleosynthesis of the elements](https://science.sciencemag.org/content/363/6426/474) - Johnson (2019)
+- [The Primordial Lithium Problem](https://www.annualreviews.org/doi/10.1146/annurev-nucl-102010-130445) - Fields (2011)
 
 ## Cosmologie
 
@@ -18,11 +19,6 @@
 - [Dark Energy Versus Modified Gravity](https://www.annualreviews.org/doi/abs/10.1146/annurev-nucl-102115-044553) - Joyce et al (2016)
 - [Dark energy: A brief review](https://link.springer.com/article/10.1007/s11467-013-0300-5) - Li et al (2013)
 - [Parallel Universes](https://space.mit.edu/home/tegmark/multiverse.pdf) - Tegmark (2003)
-
-## Nucléosynthèse
-
-- [Populating the periodic table: Nucleosynthesis of the elements](https://science.sciencemag.org/content/363/6426/474) - Johnson (2019)
-- [The Primordial Lithium Problem](https://www.annualreviews.org/doi/10.1146/annurev-nucl-102010-130445) - Fields (2011)
 
 ## Physique des particules
 
