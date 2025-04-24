@@ -56,6 +56,7 @@
 
 - [Sameness and the self: philosophical and psychological considerations](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00029/full) - Klein (2014)
 - [Life](https://plato.stanford.edu/entries/life/) - Weber (2011)
+- [Is the cell really a machine?](https://www.sciencedirect.com/science/article/abs/pii/S0022519319302292?via%3Dihub) - Daniel J Nicholson (2019)
 - [Why Is There Something, Rather Than Nothing?](https://arxiv.org/abs/1802.02231) - Carroll (2018)
 - [Les éthiques environnementales](https://www.cairn.info/revue-natures-sciences-societes-2010-4-page-405.htm) - Catherine Larrère (2010)
 - [Phenomenology for Psychedelic Researchers: A Review of Current Methods & Practices](https://jcer.com/index.php/jcj/article/view/977) - Alan M. Houot (2021)
