@@ -1,5 +1,9 @@
 # Articles de revue récents notables
 
+## Astrophysique
+
+- [Planetary Nebulae](https://arxiv.org/pdf/2501.07869) - De Marco et al (2025)
+
 ## Evolution des galaxies
 
 - [Introduction to GALAXY FORMATION AND EVOLUTION : From Primordial Gas to Present-Day Galaxies](https://arxiv.org/pdf/1912.06216.pdf) - Andrea Cimatti, Filippo Fraternali et Carlo Nipoti (2019)
