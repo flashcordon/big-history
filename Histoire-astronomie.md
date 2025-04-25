@@ -601,6 +601,7 @@ Bill Anders, Apollo 8
 - http://astro-canada.ca/l_optique_adaptative-adaptive_optics-fra
 - https://lesia.obspm.fr/Historique-de-l-optique-adaptative.html https://www.newscientist.com/gallery/dn18035-improving-images-of-space/ 
 - https://aas.org/posts/news/2019/10/month-astronomical-history-50-years-ccds 
+- https://public.nrao.edu/gallery/grote-rebers-first-radio-telescope/
 
 ---
 
@@ -612,6 +613,7 @@ Bill Anders, Apollo 8
 - Augmentation de la taille et de la qualité des miroirs au cours du 18e, du 19e et 20e siècle. Pouvoir de résolution dépend de la taille (et de la longueur d’onde)
 - 1919 : première utilisation du télescope Hooker de 2,5 m du mont Wilson (le plus grand du monde à l’époque)
 - 1932 : première antenne radio de Karl Jansky (surnom par ses collègues : le Merry Go Round de Jansky)
+- 1937 : premier radiotélescope par Grote Reber (ingénieur de 26 ans qui l'a construit dans le jardin de sa mère)
 - Années 40 : essor de la radioastronomie à la fin de la 2nde guerre mondiale. Des antennes militaires sont reconverties en instruments scientifique
 - 1949 : le télescope Hale de 5 m du mont Palomar devient le plus grand télescope optique du monde jusqu’en 1975
 - 1969 : invention du capteur CCD aux Bell Labs. Avant on utilisait des plaques photo en verre Prix Nobel de physique 2009 attribué à Willard Boyle et George Smith pour la mise au point du premier capteur CCD.
