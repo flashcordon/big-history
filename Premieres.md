@@ -17,6 +17,7 @@ The central question of mineral evolution is thus how a dozen phases with 10 ess
 
 - [Planets and planetesimals at cosmic dawn: Vortices as planetary nurseries](https://arxiv.org/abs/2503.11877) - Eriksson et al (2025)
 - [Planetesimals Formed in H_2O-Rich Disks at Cosmic Dawn](https://arxiv.org/abs/2501.08375) - Vorobyov et al (2025)
+- [Habitable Worlds Formed at Cosmic Dawn](https://astrobiology.com/2025/02/habitable-worlds-formed-at-cosmic-dawn.html) - Astrobiology
 
 Low-mass, metal-enriched stars were likely present as early as cosmic dawn. In this work, we investigate whether these stars could have hosted planets in their protoplanetary disks. If so, these would have been the first planets to form in the Universe, emerging in systems with metallicities much lower than solar. In the core accretion model, planetesimals serve as the building blocks of planets, meaning that planetesimal formation is a prerequisite for planet formation. In a non-structured disk, planetesimal formation typically requires near-solar metallicities according to our current understanding. However, mechanisms that concentrate solid material can significantly lower this metallicity threshold. Here, we explore whether vortices can facilitate the formation of the first planets and planetesimals at cosmic dawn. Vortices are prime sites for planetesimal formation due to their ability to efficiently trap and concentrate dust. We conduct simulations spanning a range of metallicities, and identify a metallicity threshold at Z≳0.04​Z⊙ for planetesimal formation. If these planetesimals remain inside the vortex long enough to accrete the remaining trapped solids, Mercury-mass planets can form. The formation of Mars-mass planets or larger requires a metallicity of Z≳0.08​Z⊙.
 
@@ -25,6 +26,16 @@ The initial mass function (IMF) of stars forming in metal-poor environments (Pop
 The likely presence of several low-mass, metal-enriched stars at cosmic dawn offers the tantalizing possibility that they may form planets in their protoplanetary disks.
 
 Studies have shown that low-mass, metal-enriched stars can form already at cosmic dawn. Whalen et al. (2025) find that a protoplanetary disk with Z=0.04​Z⊙ can form in the debris of a single pair-instability supernova. Since our results show planetesimal formation occurring in disks with Z=0.04​Z⊙, this suggests that vortices could trigger the formation of the first generation of planets and planetesimals in the universe.
+
+Primordial supernovae were the first, great nucleosynthetic engines in the Universe, forging the elements required for the later formation of planets and life.
+
+Here we show that planetesimals, the precursors of terrestrial planets, formed around low-mass stars in the debris of the first cosmic explosions 200 Myr after the Big Bang, before the first galaxies and far earlier than previously thought.
+
+A dense core in one of these explosions collapsed to a protoplanetary disk in which several Earth masses of planetesimals formed 0.46 – 1.66 AU from their parent 0.7 M⊙ star, where equilibrium temperatures varied from 269 K to 186 K, in water mass fractions that were only a factor of a few less than in the Solar System today.
+
+Habitable worlds thus formed among the first generation of stars in the Universe, before the advent of the first galaxies.
+
+
 
 ## La première cellule
 
