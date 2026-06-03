@@ -14,6 +14,7 @@ Of these three, helium was the first to begin forming “real” atoms. An atom 
 
 - [The First Molecule in the Universe](https://www.scientificamerican.com/article/the-first-molecule-in-the-universe/) - Scientific American (2020)
 - [Hélonium](https://fr.wikipedia.org/wiki/H%C3%A9lonium) - Wikipédia
+- [Helium hydride](https://www.acs.org/molecule-of-the-week/archive/h/helium-hydride.html) - ACS Molecule of the week
 
 The first “atoms” in the universe were not atoms at all—they were just nuclei that had not found electrons yet. The simplest nucleus, that of common hydrogen, is a bare proton with no frills. When the universe banged into existence, energy was rampant. Everything was smashing into everything else. Protons and neutrons often collided, and some formed larger nuclei, such as that of deuterium (containing a proton and a neutron), as well as helium nuclei with two protons and two neutrons. Various other arrangements of protons and neutrons also formed, but because the identity of an atom is determined by its number of protons, all these other conglomerations were basically just different versions of hydrogen, helium and traces of lithium.
 
