@@ -13,6 +13,12 @@
 Mineral evolution posits that the mineralogy of terrestrial planets and moons evolves as a consequence of varied physical, chemical, and biological processes that lead to the formation of new mineral species. The novelty of mineral evolution is epitomized by the new questions it raises about the history of mineralogy. For example, we could find no reference to the question, “What was the first mineral in the cosmos?”  That is, what was the first crystalline material to form after the Big Bang? It was too hot following the Big Bang, and the first generation of atoms—mostly hydrogen and helium—are gases. No crystals formed in the first stars, either. But stars produce heavier elements, including such mineral-forming atoms as carbon, oxygen, silicon, and magnesium. We concluded that the first mineral was diamond—pure carbon condensed from the expanding atmospheres of energetic stars. Approximately a dozen “ur-minerals,” including nitrides, carbides, oxides, and silicates, condensed as micro-crystals at temperatures greater than 1500°C. 
 The central question of mineral evolution is thus how a dozen phases with 10 essential elements were transformed to the >5000 minerals with 72 essential elements we see today.
 
+It has been proposed that diamonds exist in carbon-rich stars, particularly white dwarfs; Carbonado, a polycrystalline mix of diamond, graphite, and amorphous carbon, which is one of the hardest natural forms of carbon, is also present,[28] and could come from supernovae and white dwarfs.[29] The white dwarf BPM 37093, located 50 light-years (4.7×1014 km) away in the constellation Centaurus, has a diameter of 2,500 miles (4,000 km), and may have a diamond core, which would make it one of the largest diamonds in the universe. For this reason it was given the nickname Lucy.[30][31]
+
+In 2008, Robert Hazen and colleagues at the Carnegie Institution in Washington, D.C. published a paper, "Mineral evolution", in which they explored the history of mineral formation and found that the diversity of minerals has changed over time as the conditions have changed. Before the Solar System formed, only a small number of minerals were present, including diamonds and olivine.[32][33] The first minerals may have been small diamonds formed in stars because stars are rich in carbon and diamonds form at a higher temperature than any other known mineral.[34] 
+
+
+
 ## La première planète
 
 - [Planets and planetesimals at cosmic dawn: Vortices as planetary nurseries](https://arxiv.org/abs/2503.11877) - Eriksson et al (2025)
