@@ -15,6 +15,8 @@ The central question of mineral evolution is thus how a dozen phases with 10 ess
 
 ## La première planète
 
+- [Planets and planetesimals at cosmic dawn: Vortices as planetary nurseries](https://arxiv.org/abs/2503.11877) - Eriksson et al (2025)
+
 ## La première cellule
 
 ## La première pensée
