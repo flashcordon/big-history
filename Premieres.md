@@ -46,6 +46,8 @@ L’hélonium est le cation diatomique de formule HeH+. Il consiste en un atome 
 
 Premier composé chimique formé dans l'Univers, l'hélonium a été synthétisé au laboratoire dès 1925 mais n'a été détecté dans l'espace qu'en 2019. 
 
+For obvious reasons, few physical and chemical data and no hazard information are available for HeH+. But chemists believe that if it could be corralled, HeH+ would be the superacid to end all superacids. No one will ever know how strong an acid it is because the cation would protonate anything it touches.
+
 ## Le premier minéral
 
 - [Mineral evolution](https://hazen.carnegiescience.edu/research/mineral-evolution) - Robert Hazen
