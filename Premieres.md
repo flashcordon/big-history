@@ -2,9 +2,19 @@
 
 ## Le premier atome
 
+- [The First Molecule in the Universe](https://www.scientificamerican.com/article/the-first-molecule-in-the-universe/) - Scientific American (2020)
+
+The first “atoms” in the universe were not atoms at all—they were just nuclei that had not found electrons yet. The simplest nucleus, that of common hydrogen, is a bare proton with no frills. When the universe banged into existence, energy was rampant. Everything was smashing into everything else. Protons and neutrons often collided, and some formed larger nuclei, such as that of deuterium (containing a proton and a neutron), as well as helium nuclei with two protons and two neutrons. Various other arrangements of protons and neutrons also formed, but because the identity of an atom is determined by its number of protons, all these other conglomerations were basically just different versions of hydrogen, helium and traces of lithium.
+
+Of these three, helium was the first to begin forming “real” atoms. An atom is more than a nucleus—it must also possess electrons. Helium nuclei were the first to gather a full purse of electrons en masse. Why not hydrogen or lithium? Well, helium is the first “noble gas” on the periodic table—the first atom with enough electrons to completely fill the available slots in its electron shell. Thus, if electrons are the currency of chemistry, helium is the master pilferer of the periodic table. In a modern laboratory, it takes more energy to steal an electron from helium than from any other element. And the energy required to remove a second electron is more than twice what it takes for the first. In the early universe, once helium nuclei began to find electrons, they filled the coffers of their electron clouds well before the hydrogen nuclei could begin to catch up and before enough lithium nuclei were even present to collect all three of their desired electrons.
+
 ## La première étoile
 
 ## La première molécule
+
+- [The First Molecule in the Universe](https://www.scientificamerican.com/article/the-first-molecule-in-the-universe/) - Scientific American (2020)
+
+
 
 ## Le premier minéral
 
