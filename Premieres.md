@@ -99,6 +99,113 @@ Primordial, or Pop III, supernovae (SNe) were the first, great nucleosynthetic e
 
 - Fire : a brief history - Stephen J. Pyne (2001)
 
+There was a time when the Earth did not burn; when oxygen did not
+soak its atmosphere, when plants did not encrust its lands. But for more
+than 400 million years the planet has burned. In some places and times,
+fire has trimmed and pruned flora; in others, it has hewn whole biotas;
+for virtually all it has simply been there like floods and earthquakes, like
+the winds, droughts, seasons, browsers, and lightning with which it is
+associated. For almost all the span of terrestrial life, fire has continued,
+to varying degrees, as an environmental presence, an ecological process,
+and an evolutionary force. Fuel, oxygen, heat—that is fire’s triangle. At
+various times the play of fire’s triangle has been cyclic, singular, evolutionary, but once created it has always endured.
+
+The narrative for fire has an intrinsic logic. The first movement involves
+the creation of combustion, a reaction which, simply put, takes apart
+what photosynthesis brings together. With an atmosphere fluffed by oxygen and lands lathered in plants, combustion could leave cells and burn
+where wind and fuel could take it. At that point one can speak of fire.
+The earliest charcoal preserved in the geologic record dates back to the
+Devonian.
+But fire is a catalyst, it takes on the character of its context, it synthesizes its surroundings. The fires of the Paleozoic were undoubtedly
+different from those of recent times. Probably much of the Earth lacked
+fire altogether and other parts had it in spasms. Certainly immense stocks
+of biomass failed to burn and were simply buried. Parts of the Earth
+continue to combust from strictly natural causes, though little of that
+burning now occurs in completely natural ways
+
+According to many myths, we became truly human only when we
+acquired fire. So it is natural to assume a parallel awakening for the place
+we live. Rather, the Earth likely simmered through more than four billion years before its biotic broth boiled over. Some of fire’s components
+the ancient Earth acquired only after long eons. Even more critically,
+those ingredients needed a durable context in which to mingle. The parts
+had to combine and do so consistently. Combustion has its creation story.
+Fire has its history.
+Of fire’s three essential elements, only the heat of ignition thrived on the
+early Earth. Oxygen did not begin to collect until the last two billion
+years, and did not begin to approach modern quantities until roughly
+500 million years ago. Land plants suitable to carry combustion did not
+become abundant until 400 million years ago. Before that time the Earth
+lacked the means to burn regularly or vigorously. It is possible that
+aquatic biomass might have burned, if a lagoon or marsh dried or storms
+hurled kelp or algal mats into deep berms where they dried, met lightning or lava, and combusted. But such burns, if they occurred, would
+little resemble modern fires, and are ecological freaks, never absorbed
+or ordered within a biological community. Earth’s original fires—its colonizing fires—demanded land plants. Probably these consisted of primordial moors, a matrix of near-shore organic peat and reeds. Fires
+probably first flickered during the early Devonian, roughly 400 million
+years ago. The most ancient fossil charcoal dates from that epoch.
+Since then, fire’s evolution has been unending if uneven. Each of combustion’s components has existed more or less distinctly from the others, colliding from time to time with a fizz of oxidation or a brilliant
+burst of burning. But combustion could survive only if it had a consistent and durable context. Over time, fire became itself a synthesizing
+process, a kind of biochemical flywheel that has helped to balance its
+separate parts into a coherent whole. It has affected the chemistry of the
+
+atmosphere. It has influenced, perhaps profoundly, the character of life.
+Progressively, the biosphere has absorbed fire and tweaked it to fit a system of biological checks and balances. This was easiest with oxygen and
+fuel, both the products of life. The absorption of ignition proved more
+vexing, and had to await the arrival of creatures who could make sparks
+and heat as easily as they could drill bone and chip flint. Those creatures, of course, were ourselves.
+
+Combustion requires a spark. It needs a jolt of energy to unpack photosynthesized matter, to set off a chain reaction that can release enough
+surplus energy through oxidation to continue. The early Earth offered
+several sources: falling rocks, volcanic discharges, extraterrestrial impacts, and lightning. After dead biomass collected in heaps, spontaneous
+combustion was selectively possible, and after fossil fuels were exposed,
+coalfields, petroleum seeps, and oil shales could take fire and hold it for
+centuries, even millennia. But of this geophysical exotica, only lightning
+is sufficiently consistent and universal to account for the natural history
+of fire.
+Volcanoes are a faux fire, but they have the capacity to kindle real
+ones. Flowing lava instantly burns what it touches; eruptions often spawn
+thunderstorms, which hurl down lightning like volcanic bombs. But while
+widespread across geologic time, volcanoes are fixed in geographic space.
+Moreover, volcanic-kindled fires burn locally; lava or ash covers the
+burns, as often as not; and one way or another the overall disturbance
+of the volcano smothers the effects of the fire. In brief, volcanoes are too
+few, too small, too rare to account for the near-universal realm of fire.
+Most of the burning Earth is far removed from spark-casting volcanoes.
+That leaves lightning. Not every place experiences lightning, and not
+every lightning-blasted place knows fire. The natural history of lightning
+fire is lumpy: the fires come in bursts, they crowd in time, they bunch
+in space. Some years have many, some have few. Although some places
+never know them, some feel them annually, or until climate reshuffles
+the deck of places wetted and dried. But its longevity, geography, and
+concentrated heat mean that lightning clearly accounts for the fact that
+fire is geologically old and geographically extensive.
+Even so, only a tiny fraction of lightning kindles fire. Only one bolt
+in four reaches the ground. Most of those strike rock or sea, or slam into
+fuels too wet or shattered or misarranged to burn. Of those that hit
+something combustible, only one in five has the right properties to convert electrical charge into combustion, the “hot” lightning with high
+amperage and low voltage. (High-voltage “cold” lightning tends to blast
+without burning.) Moreover, the storm that looses lightning also dumps
+rain. What the first can start, the second can stop. The geography of
+lightning thus overlaps only lightly with the geography of fire. Rather,
+fire burns along the margins—with the first storms after a long drought,
+or from dry storms whose veils of rain evaporate before reaching the
+ground, or in regions prone to severe swings of wet and dry conditions. However often lightning rolls the dice, the house odds remain
+against fire.
+Yet ignition occurs often enough to render lightning fire the vestal
+flame of the ancient Earth.
+
+Lightning can spark a reaction, but it cannot sustain one. For the act
+of kindling to yield to self-sustaining fire, free oxygen has to flow into
+the combustion zone. Yet only in the last two billion years has the Earth
+succeeded in filling its atmosphere with oxygen on any scale. For several
+hundred million years thereafter, the atmosphere’s oxygen content waxed
+and waned. During the Carboniferous and Permian, it swelled to perhaps 35 percent, which made possible a general giantism—beetles the
+size of puppies and dragonflies as big as ravens. By 150 million years ago
+it stabilized at 21 percent. For this immense shift, without which fire
+could not exist, the evolution of life is responsible. Plants pumped out
+more oxygen than the early Earth could absorb.
+
+
+
 ## Le premier animal
 
 ## La première oeuvre d'art
