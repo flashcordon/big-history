@@ -35,7 +35,7 @@ A dense core in one of these explosions collapsed to a protoplanetary disk in wh
 
 Habitable worlds thus formed among the first generation of stars in the Universe, before the advent of the first galaxies.
 
-
+Primordial, or Pop III, supernovae (SNe) were the first, great nucleosynthetic engines in the Universe, forging the heavy elements required for the later formation of planets, and life. Past studies suggest that the rise of planet formation was gradual, and did not peak until about half of the present age of the Universe after cosmic mean metallicities exceeded a critical value. Here we show that planetesimals, the precursors of terrestrial planets, can form around low-mass, long-lived stars in the debris of the first cosmic explosions 200 Myr after the Big Bang, before the first galaxies and far earlier than previously thought. Pop III pair-instability SNe, which can eject over 100 solar masses of metals, produced dense cloud cores that were enriched to metallicities ≳ 0.1 Z⊙. One such core in our cosmological simulation with a Jeans mass of just 1 - 2 M⊙ collapsed to a protoplanetary disk in which several Earth masses of planetesimals formed 0.46 - 1.1 AU from their parent 0.7 M⊙ star. The protoplanetary disk has H2O mass fractions that are only a factor of a few less than in the Solar System today, and planetesimal formation occurs within the water snowline of the star. This raises the possibility of subsequent enrichment of the first planets in the Universe with water, in direct analogy to Earth in the Solar system.
 
 ## La première cellule
 
