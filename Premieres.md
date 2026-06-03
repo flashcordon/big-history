@@ -91,6 +91,8 @@ Primordial, or Pop III, supernovae (SNe) were the first, great nucleosynthetic e
 
 ## La première flamme
 
+- Fire : a brief history - Stephen J. Pyne (2001)
+
 ## Le premier animal
 
 ## La première oeuvre d'art
