@@ -211,3 +211,7 @@ more oxygen than the early Earth could absorb.
 ## La première oeuvre d'art
 
 phénomènes entoptiques
+
+https://www.bradshawfoundation.com/ancient_symbols_in_rock_art/
+https://en.wikipedia.org/wiki/Form_constant 
+
