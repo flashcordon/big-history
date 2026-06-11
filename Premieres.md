@@ -96,6 +96,15 @@ Primordial, or Pop III, supernovae (SNe) were the first, great nucleosynthetic e
 
 - [The origin of animals: an ancestral reconstruction of the unicellular-to-multicellular transition](https://royalsocietypublishing.org/rsob/article/11/2/200359/91016/The-origin-of-animals-an-ancestral-reconstruction) - Ros-Rocher et al (2021)
 
+How animals evolved from a single-celled ancestor, transitioning from a unicellular lifestyle to a coordinated multicellular entity, remains a fascinating question. Key events in this transition involved the emergence of processes related to cell adhesion, cell–cell communication and gene regulation. 
+External factors and ecological triggers were possibly as important as genomic changes during animal evolution [34]. One example is the biogeochemical context in which animals originated and diversified. Some of the potential ecological triggers include changes in ocean chemistry, such as the availability of iron and copper [196–201] or the great oxygenation event that occurred around 700 Ma [202] (although some authors argue the latter was not as critical: [203,204]). As multicellular organisms, the origin of animals could also have been influenced by all the advantages derived from being multicellular. For example, the emergence of new ecological niches [205] and selection for multicellularity as an escape from predation were also potential driving forces for the origin of animals [206,207] (but see also [208]).
+
+The ecological context might have also had an impact on animal evolution, such as in shaping animal feeding modes and morphological features [209]. For instance, animals evolved in an environment teeming with bacteria and other eukaryotes, and have lived in close association with these organisms throughout their subsequent evolutionary history.
+
+Besides the ecological context, former biological definitions of animals involved the capacity for cell coordination at the multicellular level, the presence of spatial cell differentiation and a coordinated developmental plan starting from a single cell. Thus, theories explaining the origins of animals involve the acquisition of mechanisms necessary to generate epithelium-like multicellular structures. Further studies and comparisons revealed that the mechanisms underpinning these features likely developed in the stem lineage of animals, building upon pathways and features present in their unicellular ancestors [24,25,45,95,98,100,122,123]. Thus, some revised theories proposed the acquisition of spatial regulation as one of the main drivers of the origin of animals, in contrast to the temporal regulation of cell types exhibited by their unicellular relatives [214,215].
+
+
+
 ## La première pensée
 
 ## La première fleur
@@ -208,10 +217,6 @@ size of puppies and dragonflies as big as ravens. By 150 million years ago
 it stabilized at 21 percent. For this immense shift, without which fire
 could not exist, the evolution of life is responsible. Plants pumped out
 more oxygen than the early Earth could absorb.
-
-
-
-## Le premier animal
 
 ## La première oeuvre d'art
 
