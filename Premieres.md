@@ -63,6 +63,8 @@ In 2008, Robert Hazen and colleagues at the Carnegie Institution in Washington, 
 
 The “ur-minerals” (> 4.6 Ga): The earliest minerals in the universe formed as high-temperature condensates in the expanding, cooling atmospheres of old stars. A comprehensive catalog of the stardust minerals, which appears in Part I of the evolutionary system of mineralogy, reveals 27 known mineral species (Table 1 in 26). These minerals are composed of 16 different chemical elements (Figure 1a in 26). Furthermore, the maximum number of elements in any one mineral is 4 [for example, in olivine; (Mg, Fe)2SiO4], while the maximum formula coefficient is 19 [in hibonite; CaAl12O19]. 
 
+## La première cellule
+
 
 
 ## La première planète
@@ -89,7 +91,10 @@ Habitable worlds thus formed among the first generation of stars in the Universe
 
 Primordial, or Pop III, supernovae (SNe) were the first, great nucleosynthetic engines in the Universe, forging the heavy elements required for the later formation of planets, and life. Past studies suggest that the rise of planet formation was gradual, and did not peak until about half of the present age of the Universe after cosmic mean metallicities exceeded a critical value. Here we show that planetesimals, the precursors of terrestrial planets, can form around low-mass, long-lived stars in the debris of the first cosmic explosions 200 Myr after the Big Bang, before the first galaxies and far earlier than previously thought. Pop III pair-instability SNe, which can eject over 100 solar masses of metals, produced dense cloud cores that were enriched to metallicities ≳ 0.1 Z⊙. One such core in our cosmological simulation with a Jeans mass of just 1 - 2 M⊙ collapsed to a protoplanetary disk in which several Earth masses of planetesimals formed 0.46 - 1.1 AU from their parent 0.7 M⊙ star. The protoplanetary disk has H2O mass fractions that are only a factor of a few less than in the Solar System today, and planetesimal formation occurs within the water snowline of the star. This raises the possibility of subsequent enrichment of the first planets in the Universe with water, in direct analogy to Earth in the Solar system.
 
-## La première cellule
+
+## Le premier animal
+
+- [The origin of animals: an ancestral reconstruction of the unicellular-to-multicellular transition](https://royalsocietypublishing.org/rsob/article/11/2/200359/91016/The-origin-of-animals-an-ancestral-reconstruction) - Ros-Rocher et al (2021)
 
 ## La première pensée
 
