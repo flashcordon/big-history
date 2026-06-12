@@ -92,6 +92,65 @@ Habitable worlds thus formed among the first generation of stars in the Universe
 
 Primordial, or Pop III, supernovae (SNe) were the first, great nucleosynthetic engines in the Universe, forging the heavy elements required for the later formation of planets, and life. Past studies suggest that the rise of planet formation was gradual, and did not peak until about half of the present age of the Universe after cosmic mean metallicities exceeded a critical value. Here we show that planetesimals, the precursors of terrestrial planets, can form around low-mass, long-lived stars in the debris of the first cosmic explosions 200 Myr after the Big Bang, before the first galaxies and far earlier than previously thought. Pop III pair-instability SNe, which can eject over 100 solar masses of metals, produced dense cloud cores that were enriched to metallicities ≳ 0.1 Z⊙. One such core in our cosmological simulation with a Jeans mass of just 1 - 2 M⊙ collapsed to a protoplanetary disk in which several Earth masses of planetesimals formed 0.46 - 1.1 AU from their parent 0.7 M⊙ star. The protoplanetary disk has H2O mass fractions that are only a factor of a few less than in the Solar System today, and planetesimal formation occurs within the water snowline of the star. This raises the possibility of subsequent enrichment of the first planets in the Universe with water, in direct analogy to Earth in the Solar system.
 
+1. Condensation in gaseous envelopes around evolved stars
+Presolar grains are the oldest meteoritic minerals. They range
+from 0.002–20 m in size and formed in the outflows of old,
+evolved stars and as supernova ejecta. They may have drifted in and
+out of several interstellar clouds before being incorporated into the
+molecular cloud which spawned the Solar System (Zinner, 2005).
+Presolar phases include C polymorphs (diamond and graphite), Si-,
+Fe-, Ti-, Mo- and Zr-rich carbides, metallic Fe and metallic Fe-Ni,
+Si nitride, Mg-, Al- and Ti-rich oxides, and silicates (predominantly
+olivine, pyroxene and glass).
+Although diamond is the most abundant presolar mineral
+species, its origin is enigmatic; this is due in large measure to the
+small average grain size (∼2.6 nm) that has earned the phase the
+sobriquet “nanodiamond.” Aggregates of presolar diamonds con-
+tain the noble-gas component Xe-HL, which is enriched in both
+heavy (H) and light (L) Xe isotopes; these enrichments probably
+reflect both r- and s-process neutron bombardment during super-
+nova explosions. However, as pointed out by Zinner (2005), the
+concentration of Xe-HL is so low and the grains so small that
+only 0.0001% of diamond grains are likely to contain a single Xe
+atom. The individual diamonds that do contain the Xe-HL compo-
+nent (and, presumably, many of their Xe-free congeners) may have
+condensed from the expanding gas expelled by supernovae after
+temperatures dipped below ∼1000 K (Anders and Zinner, 1993).
+However, it is possible that a significant fraction of the nanodia-
+monds in chondrites are not presolar at all, but originated within
+the Solar System (Dai et al., 2002).
+Presolar silicon carbide grains range from 0.1–20 m in size.
+Most of the grains probably condensed within the expanding
+envelopes around thermally pulsing, asymptotic giant branch
+(AGB) stars (Zinner, 2005). These late-type stars are highly lumi-
+nous red giants that have exhausted the helium fuel in their cores.
+They have migrated on H-R diagrams along a track subparallel to
+the typical red giant track that they traversed at an earlier stage
+when they had exhausted their supply of hydrogen (e.g., Fig. 1 of
+Herwig, 2005). Many SiC grains have 13C/12C, 15N/14N and 34S/33S
+isotopic ratios (e.g., Zinner et al., 1989; Hoppe et al., 1994; Hoppe
+et al., 1995; Hoppe et al., 2015; Nittler et al., 1995), consistent with
+those measured and modeled in AGB stars (e.g., Lambert et al., 1986;
+Huss et al., 1997).
+Presolar graphite grains range from 1–20 m. Many contain
+20- to 500-nm-size grains of TiC; while some TiC-bearing graphite
+grains also contain Zr- and Mo- rich carbides (Bernatowicz et al.,
+1991, 1996), other TiC-bearing grains instead contain low-Ni metal-
+lic Fe (kamacite), cohenite and metallic Fe (Bernatowicz et al., 1999;
+Croat et al., 2003). The internal carbide and metallic-Fe- rich grains
+must have condensed before the graphite grains. One variety of
+graphite grain that is of low density (≤2.05 g cm−3) has numerous
+isotopic anomalies consistent with a supernova origin. Typically,
+such grains are enriched in 15N, 26Al, 13C,18O, 28Si, and, in some
+cases, 29Si and 30Si; a few grains are enriched in 44Ti, 49Ti, 50Ti, 41K
+and 41Ca (Zinner, 2005). Isotopic anomalies in Mo and Zr have also
+been reported. High- density graphite grains appear to have been
+derived from AGB stars and supernovae (e.g., Amari et al., 1995).
+Additional graphite grains may have originated in novae.
+Presolar oxide grains include micrometer and submicrometer-
+size corundum (Al2O3), spinel (MgAl2O4), hibonite (CaAl12O19) and
+TiO2 (Zinner, 2005; Bose et al., 2010). Isotopic anomalies in O, Al
+and Ti suggest derivation from red giant and AGB stars.
 
 ## Le premier animal
 
