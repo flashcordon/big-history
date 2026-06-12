@@ -54,6 +54,7 @@ For obvious reasons, few physical and chemical data and no hazard information ar
 - [Extraterrestrial diamonds](https://en.wikipedia.org/wiki/Extraterrestrial_diamonds) - Wikipedia
 - [Open-ended versus bounded evolution: Mineral evolution as a case study Open Access](https://academic.oup.com/pnasnexus/article/3/7/pgae248/7698354) - Hazen (2024)
 - https://www.sciencedirect.com/science/article/abs/pii/S0009281916301970
+- https://www.researchgate.net/publication/41576896_Evolution_of_Minerals
 
 
 There are currently 6,224 approved mineral species listed on mindat.org.
