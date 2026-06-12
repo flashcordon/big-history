@@ -64,33 +64,6 @@ In 2008, Robert Hazen and colleagues at the Carnegie Institution in Washington, 
 
 The “ur-minerals” (> 4.6 Ga): The earliest minerals in the universe formed as high-temperature condensates in the expanding, cooling atmospheres of old stars. A comprehensive catalog of the stardust minerals, which appears in Part I of the evolutionary system of mineralogy, reveals 27 known mineral species (Table 1 in 26). These minerals are composed of 16 different chemical elements (Figure 1a in 26). Furthermore, the maximum number of elements in any one mineral is 4 [for example, in olivine; (Mg, Fe)2SiO4], while the maximum formula coefficient is 19 [in hibonite; CaAl12O19]. 
 
-## La première cellule
-
-
-
-## La première planète
-
-- [Planets and planetesimals at cosmic dawn: Vortices as planetary nurseries](https://arxiv.org/abs/2503.11877) - Eriksson et al (2025)
-- [Planetesimals Formed in H_2O-Rich Disks at Cosmic Dawn](https://arxiv.org/abs/2501.08375) - Vorobyov et al (2025)
-- [Habitable Worlds Formed at Cosmic Dawn](https://astrobiology.com/2025/02/habitable-worlds-formed-at-cosmic-dawn.html) - Astrobiology
-
-Low-mass, metal-enriched stars were likely present as early as cosmic dawn. In this work, we investigate whether these stars could have hosted planets in their protoplanetary disks. If so, these would have been the first planets to form in the Universe, emerging in systems with metallicities much lower than solar. In the core accretion model, planetesimals serve as the building blocks of planets, meaning that planetesimal formation is a prerequisite for planet formation. In a non-structured disk, planetesimal formation typically requires near-solar metallicities according to our current understanding. However, mechanisms that concentrate solid material can significantly lower this metallicity threshold. Here, we explore whether vortices can facilitate the formation of the first planets and planetesimals at cosmic dawn. Vortices are prime sites for planetesimal formation due to their ability to efficiently trap and concentrate dust. We conduct simulations spanning a range of metallicities, and identify a metallicity threshold at Z≳0.04​Z⊙ for planetesimal formation. If these planetesimals remain inside the vortex long enough to accrete the remaining trapped solids, Mercury-mass planets can form. The formation of Mars-mass planets or larger requires a metallicity of Z≳0.08​Z⊙.
-
-The initial mass function (IMF) of stars forming in metal-poor environments (Population III/II) at cosmic dawn is a critical factor in shaping the early Universe’s evolutionary landscape. In the absence of metals, primordial gas cools primarily through atomic and molecular hydrogen, leading to higher thermal pressures and Jeans masses that generally favor the formation of stars with masses ranging from tens to several hundred solar masses, i.e. a "top-heavy IMF" (e.g., Klessen & Glover, 2023). However, metal-free gas does not completely preclude the formation of low-mass stars, as dense pockets of gas in the discs of PopIII stars can undergo fragmentation to form low-mass stars – an outcome realized in several numerical simulations (e.g., Stacy & Bromm, 2014; Sharda et al., 2020; Prole et al., 2022; Sharda & Menon, 2024). Moreover, massive stars, with their short lifespans and energetic endpoints in supernovae, enrich the interstellar medium with heavy elements that provide efficient gas cooling channels for subsequent generations of star formation. These Population II stellar populations consist of a larger number of low-mass stars with its fraction increasing with metallicity (e.g., Clark et al., 2011; Chon et al., 2021), eventually transitioning to the bottom-heavy IMF characteristic of the local Universe at Z≳0.01​Z⊙ (Sharda & Krumholz, 2022).
-
-The likely presence of several low-mass, metal-enriched stars at cosmic dawn offers the tantalizing possibility that they may form planets in their protoplanetary disks.
-
-Studies have shown that low-mass, metal-enriched stars can form already at cosmic dawn. Whalen et al. (2025) find that a protoplanetary disk with Z=0.04​Z⊙ can form in the debris of a single pair-instability supernova. Since our results show planetesimal formation occurring in disks with Z=0.04​Z⊙, this suggests that vortices could trigger the formation of the first generation of planets and planetesimals in the universe.
-
-Primordial supernovae were the first, great nucleosynthetic engines in the Universe, forging the elements required for the later formation of planets and life.
-
-Here we show that planetesimals, the precursors of terrestrial planets, formed around low-mass stars in the debris of the first cosmic explosions 200 Myr after the Big Bang, before the first galaxies and far earlier than previously thought.
-
-A dense core in one of these explosions collapsed to a protoplanetary disk in which several Earth masses of planetesimals formed 0.46 – 1.66 AU from their parent 0.7 M⊙ star, where equilibrium temperatures varied from 269 K to 186 K, in water mass fractions that were only a factor of a few less than in the Solar System today.
-
-Habitable worlds thus formed among the first generation of stars in the Universe, before the advent of the first galaxies.
-
-Primordial, or Pop III, supernovae (SNe) were the first, great nucleosynthetic engines in the Universe, forging the heavy elements required for the later formation of planets, and life. Past studies suggest that the rise of planet formation was gradual, and did not peak until about half of the present age of the Universe after cosmic mean metallicities exceeded a critical value. Here we show that planetesimals, the precursors of terrestrial planets, can form around low-mass, long-lived stars in the debris of the first cosmic explosions 200 Myr after the Big Bang, before the first galaxies and far earlier than previously thought. Pop III pair-instability SNe, which can eject over 100 solar masses of metals, produced dense cloud cores that were enriched to metallicities ≳ 0.1 Z⊙. One such core in our cosmological simulation with a Jeans mass of just 1 - 2 M⊙ collapsed to a protoplanetary disk in which several Earth masses of planetesimals formed 0.46 - 1.1 AU from their parent 0.7 M⊙ star. The protoplanetary disk has H2O mass fractions that are only a factor of a few less than in the Solar System today, and planetesimal formation occurs within the water snowline of the star. This raises the possibility of subsequent enrichment of the first planets in the Universe with water, in direct analogy to Earth in the Solar system.
 
 1. Condensation in gaseous envelopes around evolved stars
 Presolar grains are the oldest meteoritic minerals. They range
@@ -169,6 +142,37 @@ Hoppe, 2004; Kobayashi et al., 2005; Ebata et al., 2006; Bose et al.,
 amorphous material; whereas most grains are magnesian, a few
 contain more FeO than MgO (Bose et al., 2010). Red giants and AGB
 stars are the likely sources of the presolar silicates
+
+About 435 mineral species have been identified in meteorites including native elements, metals and metallic alloys, carbides, nitrides and oxynitrides, phosphides, silicides, sulfides and hydroxysulfides, tellurides, arsenides and sulfarsenides, halides, oxides, hydroxides, carbonates, sulfates, molybdates, tungstates, phosphates and silico phosphates, oxalates, and silicates from all six structural groups. 
+
+## La première cellule
+
+
+
+## La première planète
+
+- [Planets and planetesimals at cosmic dawn: Vortices as planetary nurseries](https://arxiv.org/abs/2503.11877) - Eriksson et al (2025)
+- [Planetesimals Formed in H_2O-Rich Disks at Cosmic Dawn](https://arxiv.org/abs/2501.08375) - Vorobyov et al (2025)
+- [Habitable Worlds Formed at Cosmic Dawn](https://astrobiology.com/2025/02/habitable-worlds-formed-at-cosmic-dawn.html) - Astrobiology
+
+Low-mass, metal-enriched stars were likely present as early as cosmic dawn. In this work, we investigate whether these stars could have hosted planets in their protoplanetary disks. If so, these would have been the first planets to form in the Universe, emerging in systems with metallicities much lower than solar. In the core accretion model, planetesimals serve as the building blocks of planets, meaning that planetesimal formation is a prerequisite for planet formation. In a non-structured disk, planetesimal formation typically requires near-solar metallicities according to our current understanding. However, mechanisms that concentrate solid material can significantly lower this metallicity threshold. Here, we explore whether vortices can facilitate the formation of the first planets and planetesimals at cosmic dawn. Vortices are prime sites for planetesimal formation due to their ability to efficiently trap and concentrate dust. We conduct simulations spanning a range of metallicities, and identify a metallicity threshold at Z≳0.04​Z⊙ for planetesimal formation. If these planetesimals remain inside the vortex long enough to accrete the remaining trapped solids, Mercury-mass planets can form. The formation of Mars-mass planets or larger requires a metallicity of Z≳0.08​Z⊙.
+
+The initial mass function (IMF) of stars forming in metal-poor environments (Population III/II) at cosmic dawn is a critical factor in shaping the early Universe’s evolutionary landscape. In the absence of metals, primordial gas cools primarily through atomic and molecular hydrogen, leading to higher thermal pressures and Jeans masses that generally favor the formation of stars with masses ranging from tens to several hundred solar masses, i.e. a "top-heavy IMF" (e.g., Klessen & Glover, 2023). However, metal-free gas does not completely preclude the formation of low-mass stars, as dense pockets of gas in the discs of PopIII stars can undergo fragmentation to form low-mass stars – an outcome realized in several numerical simulations (e.g., Stacy & Bromm, 2014; Sharda et al., 2020; Prole et al., 2022; Sharda & Menon, 2024). Moreover, massive stars, with their short lifespans and energetic endpoints in supernovae, enrich the interstellar medium with heavy elements that provide efficient gas cooling channels for subsequent generations of star formation. These Population II stellar populations consist of a larger number of low-mass stars with its fraction increasing with metallicity (e.g., Clark et al., 2011; Chon et al., 2021), eventually transitioning to the bottom-heavy IMF characteristic of the local Universe at Z≳0.01​Z⊙ (Sharda & Krumholz, 2022).
+
+The likely presence of several low-mass, metal-enriched stars at cosmic dawn offers the tantalizing possibility that they may form planets in their protoplanetary disks.
+
+Studies have shown that low-mass, metal-enriched stars can form already at cosmic dawn. Whalen et al. (2025) find that a protoplanetary disk with Z=0.04​Z⊙ can form in the debris of a single pair-instability supernova. Since our results show planetesimal formation occurring in disks with Z=0.04​Z⊙, this suggests that vortices could trigger the formation of the first generation of planets and planetesimals in the universe.
+
+Primordial supernovae were the first, great nucleosynthetic engines in the Universe, forging the elements required for the later formation of planets and life.
+
+Here we show that planetesimals, the precursors of terrestrial planets, formed around low-mass stars in the debris of the first cosmic explosions 200 Myr after the Big Bang, before the first galaxies and far earlier than previously thought.
+
+A dense core in one of these explosions collapsed to a protoplanetary disk in which several Earth masses of planetesimals formed 0.46 – 1.66 AU from their parent 0.7 M⊙ star, where equilibrium temperatures varied from 269 K to 186 K, in water mass fractions that were only a factor of a few less than in the Solar System today.
+
+Habitable worlds thus formed among the first generation of stars in the Universe, before the advent of the first galaxies.
+
+Primordial, or Pop III, supernovae (SNe) were the first, great nucleosynthetic engines in the Universe, forging the heavy elements required for the later formation of planets, and life. Past studies suggest that the rise of planet formation was gradual, and did not peak until about half of the present age of the Universe after cosmic mean metallicities exceeded a critical value. Here we show that planetesimals, the precursors of terrestrial planets, can form around low-mass, long-lived stars in the debris of the first cosmic explosions 200 Myr after the Big Bang, before the first galaxies and far earlier than previously thought. Pop III pair-instability SNe, which can eject over 100 solar masses of metals, produced dense cloud cores that were enriched to metallicities ≳ 0.1 Z⊙. One such core in our cosmological simulation with a Jeans mass of just 1 - 2 M⊙ collapsed to a protoplanetary disk in which several Earth masses of planetesimals formed 0.46 - 1.1 AU from their parent 0.7 M⊙ star. The protoplanetary disk has H2O mass fractions that are only a factor of a few less than in the Solar System today, and planetesimal formation occurs within the water snowline of the star. This raises the possibility of subsequent enrichment of the first planets in the Universe with water, in direct analogy to Earth in the Solar system.
+
 
 ## Le premier animal
 
