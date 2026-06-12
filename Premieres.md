@@ -212,6 +212,60 @@ ing insight: most of Earth’s thousands of miner-
 als owe their existence to the development of life 
 on the planet. 
 
+Planets form in stellar nebulas that have been 
+seeded with matter from supernovas. Most of a 
+nebula’s mass rapidly falls inward, producing 
+the central star, but remnant material forms a 
+
+vast rotating disk around the star. These left-
+overs progressively clump into larger and 
+larger bits: sand-,  pebble-  and  st-size 
+uff balls of primordial dust harboring 
+a limited repertoire of a dozen or so ur-
+minerals, along with other miscella-
+neous atoms and molecules.
+Dramatic changes occur when 
+the nascent star ignites and bathes the nearby 
+concentrations of dust and gas with a rening 
+r e. I n our own solar syste m, s tella r ignition oc-
+curred almost 4.6 billion years ago. Pulses of heat 
+coming from the infant sun melted and remixed 
+elements  and  produced crystals representing 
+scores of new minerals. Among the crystalline 
+novelties of this earliest stage of mineral evolu-
+tion were  the rst iron-nickel alloys,  suldes, 
+phosphides, and a host of oxides and silicates. 
+Many of these minerals are found in the most 
+primitive meteorites  as “chondrules”: chilled 
+droplets of  once molten rock. (These ancient 
+chondritic meteorites also provide the evidence 
+for the ur-minerals that predated chondrules. 
+Mineralogists found the ur-minerals in the form 
+of nanoscopic  and  microscopic grains in the 
+meteorites.)
+
+In the ancient solar nebula, chondrules quick-
+ly clumped into planetesimals, some of which 
+grew to more t han 100 m iles in d iameter —large 
+enough to partially melt and differentiate into 
+onionlike layers of distinctive minerals, includ-
+ing a dense, metal-rich core. Frequent collisions 
+in the crowded solar suburbs introduced intense 
+shocks and additional heat, further altering the 
+mine rals i n the l ar ges t pl an ete si mals . Water  also 
+played a role; it had been around from the begin-
+ning, as ice particles in the presolar nebula, and 
+in the planetesimals these melted and aggregated 
+in cracks and ssures. Chemical reactions with 
+the resulting water generated new minerals.
+Perhaps 250 different mineral species arose 
+as  a conse quenc e of the se  dynamic p la net -for m-
+ing processes. Those 250 minerals are the raw 
+materials from which every rocky planet must 
+form, and all of them are still found today in the 
+diverse suites of meteor ites that f all to Ear th.
+
+
 ## La première cellule
 
 
