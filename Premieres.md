@@ -152,6 +152,24 @@ size corundum (Al2O3), spinel (MgAl2O4), hibonite (CaAl12O19) and
 TiO2 (Zinner, 2005; Bose et al., 2010). Isotopic anomalies in O, Al
 and Ti suggest derivation from red giant and AGB stars.
 
+Rare presolar Si3N4 grains are enriched in 15N, 28Si and 26Al and
+appear to have originated in supernovae. Silicon nitride grains have
+also been identified in the circumstellar shells of a few extreme car-
+bon stars (Clément et al., 2005). These are AGB stars which achieved
+a high mass-loss rate (i.e., a superwind) and in which convection
+dredged up C produced in the He-burning shell (Volk et al., 1992;
+Messenger et al., 2013).
+Presolar silicate grains have been identified in IDPs, micromete-
+orites, primitive carbonaceous chondrites, LL3 ordinary chondrites
+(OC) and EH3 enstatite chondrites mainly by their O-isotopic
+anomalies (e.g., Messenger et al., 2003; Mostefaoui et al., 2003;
+Nagashima et al., 2004; Nguyen and Zinner, 2004; Mostefaoui and
+Hoppe, 2004; Kobayashi et al., 2005; Ebata et al., 2006; Bose et al.,
+2010). The grains include olivine, pyroxene, Al-rich silicate and
+amorphous material; whereas most grains are magnesian, a few
+contain more FeO than MgO (Bose et al., 2010). Red giants and AGB
+stars are the likely sources of the presolar silicates
+
 ## Le premier animal
 
 - [The origin of animals: an ancestral reconstruction of the unicellular-to-multicellular transition](https://royalsocietypublishing.org/rsob/article/11/2/200359/91016/The-origin-of-animals-an-ancestral-reconstruction) - Ros-Rocher et al (2021)
