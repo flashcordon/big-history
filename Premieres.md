@@ -55,6 +55,7 @@ For obvious reasons, few physical and chemical data and no hazard information ar
 - [Open-ended versus bounded evolution: Mineral evolution as a case study Open Access](https://academic.oup.com/pnasnexus/article/3/7/pgae248/7698354) - Hazen (2024)
 - https://www.sciencedirect.com/science/article/abs/pii/S0009281916301970
 - https://www.researchgate.net/publication/41576896_Evolution_of_Minerals
+- Symphony in C - Robert Hazen (2019)
 
 
 There are currently 6,224 approved mineral species listed on mindat.org.
@@ -265,7 +266,99 @@ materials from which every rocky planet must
 form, and all of them are still found today in the 
 diverse suites of meteor ites that f all to Ear th.
 
+The First Crystals in the Cosmos
+Carbon is remarkably gregarious. Every carbon atom is born alone, but
+carbon atoms cannot abide being alone. They seize any opportunity to bind
+to as many as four other atoms. Carbon chemistry, the profound
+consequence of carbon’s desperate desire to bond, must have begun early,
+not long after the dawn of creation. Surrounded by hydrogen, most
+primordial carbon atoms quickly seized four companions to become
+molecules of CH4—methane, or “natural gas.”
+Carbon chemistry became much more interesting when stars began to
+explode, littering the heavens with chemical novelty. Prominent among the
+new chemical elements to emerge was oxygen, a reactive atomic species
+that binds strongly to carbon. Molecules of carbon monoxide (CO) and
+carbon dioxide (CO2) quickly appeared on the scene. Other carbon atoms
+linked themselves to atoms of abundant nitrogen and hydrogen in deadly
+hydrogen cyanide (HCN), or bonded to common sulfur or phosphorus in
+dozens of varied molecular species.
 
+All of those small, primordial molecules formed gases that consorted
+with hydrogen and helium in great cloud-like nebulas, the nurseries of
+stars.13 Carbon also enjoyed the option of linking to itself to build chain- or
+ring- or cage-shaped structures, as a growing molecular inventory of ever-
+increasing geometrical complexity ensued. And from time to time, in the
+most concentrated carbon-rich swirls of a star’s expanding atmosphere,
+each atom of carbon bonded to four more of its own kind in a growing
+regular array. The result was a tiny crystal of diamond.
+Diamond is carbon frozen into crystalline perfection. How can one not
+love this precious stone? Superlatives abound: hardest, highest thermal
+conductivity, most brilliant, greatest shear strength, most valued. For
+centuries, diamond has captured the imagination of consumers and
+scientists alike. Large, flawless diamond crystals are not simply rare and
+beautiful treasures—the coveted symbols of love and power. Diamonds are
+also scientific treasures. They reveal our planet’s enigmatic deep interior
+and preserve our planet’s mysterious deep past. They are literally time
+capsules of Earth’s hidden heart and, looking much, much further back in
+time, they were the very first crystals in the Cosmos.14
+Here’s how it happened. At the high surface temperatures of a carbon-
+rich star, the vibrations of atoms are much too vigorous and wildly erratic
+for any pair of carbon atoms to settle down into a stable chemical bond.
+That situation changes when such a star explodes, releasing a massive,
+ballooning cloud of gaseous atoms. As temperatures within that expanding
+gas envelope drop below about 8,000 degrees Fahrenheit, carbon atoms
+eager for companions slow down sufficiently to bond to four others in tiny
+pyramids less than a billionth of an inch across. Each of those pyramidal
+carbon atoms wants four neighbors, so each adds three more carbon atoms,
+and the new neighbors add even more in precise geometrical alignment.
+And so a diamond crystal grows.
+Microscopic diamond crystallites beyond number have formed in space
+in this way for billions of years. They formed long before rocky planets,
+and they continue to form today around most energetic stars in the
+Universe, crystallizing at the diffuse interface between the incandescent
+stellar surface and the cold vacuum of space.
+
+On the Remarkable Diversity of Earth’s Carbon Mineral
+
+In spite of the ubiquity of space-borne microscopic diamond dust, diamond
+is not the favored form of carbon throughout most of the Cosmos. At the
+extreme temperatures surrounding stars, diamond crystallized first because
+diamond is the only solid that can condense and grow above 8,000 degrees
+Fahrenheit. Every other crystal melts or vaporizes under such white-hot
+conditions. But at lower temperatures and pressures, another, more prosaic
+crystalline form of carbon takes over. The atoms of diamond are too densely
+packed, too crowded together for comfort. Microdiamonds form readily
+enough from the cooling gas of a star, but once temperatures drop below
+about 7,200 degrees Fahrenheit, graphite, the familiar soft black mineral of
+“lead” pencils and “dry” lubricants, forms instead.
+Graphite and diamond are a study in contrasts.15 Diamond is hard and
+tough—a consequence of its three-dimensional girder-like atomic
+framework. In the elegant graphite structure, each carbon atom bonds to
+three rather than four neighbors in a miniature flat triangle. The result of
+this less crowded atomic architecture is a layered structure with perfectly
+planar carbon sheets stacked one on top of the next, like pieces of paper in a
+ream. These loosely bonded sheets of carbon atoms easily transfer from
+your pencil to paper, and they slide across one another to lubricate your
+locks and bearings. Soft, black graphite cannot serve as a gemstone, but its
+value to society is no less than diamond.
+Diamond was the first and graphite, we suspect, was the second
+crystalline substance in the Cosmos. In spite of their contrasting properties,
+both minerals are pure carbon, and both initially formed from the residues
+of stellar violence. Yet the true diversification of carbon-bearing crystals—
+an explosion of new forms—had to await the formation of the rocky
+planets, the engines of carbon mineral diversification.
+The formation of planets is an ancient, violent process. Vast nebulas, the
+birthplaces of stars and planets, are tenuous clouds of cosmic dust and gas
+spanning light-years of space. When disturbed by the passing gravitational
+wake of a rogue star or the shock wave of a supernova, a small region of the
+nebula may start to collapse, with gravity pulling the swirling mass inward
+to rotate faster and faster like a skater in a tight spin. Most of the mass falls
+toward the center to form a star like the Sun; the leftovers concentrate in a
+few orbiting planets. In our solar system, the young Sun sustained an
+intense, hot solar wind that swept most of the remaining dust and gas far out
+to the orbit of Jupiter and beyond—the distant realm of the “gas giant”
+planets. The rocky leftovers made the inner planets: Mercury, Venus, Earth,
+and Mars.
 ## La première cellule
 
 
