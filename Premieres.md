@@ -189,6 +189,29 @@ and silicates. For perhaps tens of millions  of
 y ea r s,  t he s e e a rl i es t f e w s p ec i es —“ur-minerals”—
 were t he only cr ystals i n the u niverse.
 
+We quickly realized that the story of mineral 
+evolution began with the emergence of rocky 
+planet s, b ecaus e pla nets are the eng ine s of m in-
+
+eral formation. We saw that over the past four 
+and a half billion years Earth has passed through 
+a series of stages, with novel phenomena emerg-
+ing at each stage to dramatically alter and enrich 
+the m inera lo gy of our planet’s su rface .
+Some details of this story are matters of in-
+tense debate and will doubtless change with fu-
+ture discoveries, but the overall sweep of mineral 
+evolution is well-established science. My col-
+leagues and I are not presenting controversial new 
+data or radical new theories about what occurred 
+at each stage of Earth’s history. We are, rather, 
+recasting the larger story of that history in the 
+light of m inera l e volution as a g uiding concept.
+I do, however, want to emphasize one intrigu-
+ing insight: most of Earth’s thousands of miner-
+als owe their existence to the development of life 
+on the planet. 
+
 ## La première cellule
 
 
