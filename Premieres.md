@@ -154,6 +154,41 @@ stars are the likely sources of the presolar silicates
 
 About 435 mineral species have been identified in meteorites including native elements, metals and metallic alloys, carbides, nitrides and oxynitrides, phosphides, silicides, sulfides and hydroxysulfides, tellurides, arsenides and sulfarsenides, halides, oxides, hydroxides, carbonates, sulfates, molybdates, tungstates, phosphates and silico phosphates, oxalates, and silicates from all six structural groups. 
 
+nce upon a time there were no minerals 
+anywhere in the cosmos. No solids of 
+any kind could have formed, much less 
+survived, in the superheated maelstrom follow-
+ing the big bang. It took half a million years be-
+fo re t he  rst  ato ms —hydrogen, helium and a bit 
+of lithium—emerged from the cauldron of cre-
+ation. Millions more years passed while gravity 
+coaxed these primordial gases into the rst neb-
+ulas and then collapsed the nebulas into the rst 
+hot, dense, incandescent stars.
+Only then, when some giant stars exploded 
+to  bec ome  the  rst s upe rnovas, were  all t he o th-
+er chemical elements synthesized and blasted 
+into space. Only then, in the expanding, cooling 
+gaseous stellar envelopes, could the rst solid 
+pieces of minerals have formed. But even then, 
+most of the elements and their compounds were 
+too rare and dispersed, or too volatile, to exist as 
+anything  but  sporadic  atoms  and  molecules 
+among the newly minted gas and dust. By not 
+fo rm in g c ry st al s,  wi th  di st inc t c hem ic al  co mp o-
+sitions and atoms organized in an orderly array 
+of repeating units, such disordered material fails 
+to qualify as minerals .
+Microscopic crystals of diamond and graph-
+ite, both pure forms of the abundant element 
+c ar bo n,  we re l ik ely t he  rs t m in er al s.  T he y were  
+soon joined by a dozen or so other hardy micro-
+crystals, including moissanite (silicon carbide), 
+osbornite (titanium nitride), and some oxides 
+and silicates. For perhaps tens of millions  of 
+y ea r s,  t he s e e a rl i es t f e w s p ec i es —“ur-minerals”—
+were t he only cr ystals i n the u niverse.
+
 ## La première cellule
 
 
