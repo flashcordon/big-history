@@ -392,6 +392,10 @@ Primordial, or Pop III, supernovae (SNe) were the first, great nucleosynthetic e
 
 - [The origin of animals: an ancestral reconstruction of the unicellular-to-multicellular transition](https://royalsocietypublishing.org/rsob/article/11/2/200359/91016/The-origin-of-animals-an-ancestral-reconstruction) - Ros-Rocher et al (2021)
 - https://www.nature.com/articles/d41586-018-06767-6
+- What were the first animals? The fierce sponge–jelly battle that just won’t end https://www.nature.com/articles/d41586-026-00238-z
+- Brief History of Ctenophora  https://pubmed.ncbi.nlm.nih.gov/38668961/
+- Evolution: The Battle of the First Animals https://www.sciencedirect.com/science/article/pii/S0960982219302015
+- What Came First-- Sponges or Ctenophores? https://www.shapeoflife.org/blog/what-came-first-sponges-or-ctenophores
 
 How animals evolved from a single-celled ancestor, transitioning from a unicellular lifestyle to a coordinated multicellular entity, remains a fascinating question. Key events in this transition involved the emergence of processes related to cell adhesion, cell–cell communication and gene regulation. 
 External factors and ecological triggers were possibly as important as genomic changes during animal evolution [34]. One example is the biogeochemical context in which animals originated and diversified. Some of the potential ecological triggers include changes in ocean chemistry, such as the availability of iron and copper [196–201] or the great oxygenation event that occurred around 700 Ma [202] (although some authors argue the latter was not as critical: [203,204]). As multicellular organisms, the origin of animals could also have been influenced by all the advantages derived from being multicellular. For example, the emergence of new ecological niches [205] and selection for multicellularity as an escape from predation were also potential driving forces for the origin of animals [206,207] (but see also [208]).
